@@ -1,0 +1,8 @@
+As the data collection is about to begin , there are some minor changes to be done in the design of the experiment , the script and the permission forms.
+Subjects can be recruited either from within the university or through other social circles.
+As to the system design , the next step is the translation of the generator into english.
+Moreover , it is important to test the system and its internal workings by adding new sentence types and modifying the parser.
+All further research will use the existing domain ( "tourists in Heidelberg" ) , as this provides enough diversity for the purposes of the project.
+The german partners for the project will realise all the necessary changes in the ontology.
+It is therefore preferable for the group to exercise foresight and agree on the set of new tags they will need in the long run , so that they limit the number of change requests.
+Finally , on a more technical note , Noisy-OR's were discussed and considered a sensible approach to deal with the potential problems with the setting the conditional probabilities of the Bayes-nets.

@@ -1,0 +1,49 @@
+4	Bmr023.s.8	The group discussed how the digits should be recorded in the meeting.
+Bmr023.G.dialogueact1241	3077.82	3080.02	G	PhD	qy^rt	+1	2	I mean , are we trying to do them {nonvocalsound} in synchrony ?
+Bmr023.G.dialogueact1242	3080.02	3080.89	G	PhD	s^cs	+1	2	That might be fun .
+Bmr023.F.dialogueact1244	3082.12	3086.5	F	Professor	s^nd	+1	2	Well , it 's {disfmarker} {vocalsound} it 's {disfmarker} it 's not {disfmarker} You know , it 's not gonna work out
+Bmr023.F.dialogueact1245	3086.5	3090.52	F	Professor	s^cs	+1	2	but we could {disfmarker} we could just , uh , uh , see if we find a rhythm ,
+4	Bmr023.s.9	In the end they decided to record these in unison for all of the meeting participants as a whole.
+Bmr023.G.dialogueact1241	3077.82	3080.02	G	PhD	qy^rt	+1	2	I mean , are we trying to do them {nonvocalsound} in synchrony ?
+Bmr023.G.dialogueact1242	3080.02	3080.89	G	PhD	s^cs	+1	2	That might be fun .
+Bmr023.F.dialogueact1245	3086.5	3090.52	F	Professor	s^cs	+1	2	but we could {disfmarker} we could just , uh , uh , see if we find a rhythm ,
+Bmr023.F.dialogueact1244	3082.12	3086.5	F	Professor	s^nd	+1	2	Well , it 's {disfmarker} {vocalsound} it 's {disfmarker} it 's not {disfmarker} You know , it 's not gonna work out
+4	Bmr023.s.10	To improve the performance of Thilo's automatic segmenter , this is going to be retrained and adapted to run with Thilo's posteriors and speaker background models.
+Bmr023.C.dialogueact174	420.632	425.842	C	PhD	s^cs.%-	+1	4	And so now with Thilo 's segmenter working so well , I think we should {pause} consider doing a {disfmarker}
+Bmr023.G.dialogueact200	459.55	461.69	G	PhD	s	+1	1	So we do need some kind of pre - segmentation .
+Bmr023.C.dialogueact201	460.19	471.686	C	PhD	s^cs	+1	1	We should {disfmarker} we should consider doing some extra things , like , um , you know , retraining or adapting the {disfmarker} {vocalsound} the models for background noise to the {disfmarker} to this environment , for instance .
+Bmr023.G.dialogueact205	471.746	476.208	G	PhD	s^cs.%--	+1	1	And , yeah , using Thilo 's , you know , posteriors or some kind of {disfmarker} or {disfmarker}
+8	Bmr023.s.11	Regarding transcription , no new transcribers will be employed until situation regarding IBM is clarified.
+Bmr023.D.dialogueact227	509.557	511.247	D	PhD	s	+1	2	And so he talked it over with the transcriber
+Bmr023.F.dialogueact289	626.097	636.169	F	Professor	s^df	+1	3	e e u u {comment} The reason I 'm asking is because , uh , Jane and I have just been talking , and she 's just been doing . {vocalsound} Uh , e a , you know , further hiring of transcribers .
+Bmr023.F.dialogueact293	636.309	643.69	F	Professor	s	+1	3	And so we don't sort of really know exactly what they 'll be doing , how long they 'll be doing it , and so forth ,
+Bmr023.F.dialogueact294	643.69	648.1	F	Professor	s^df	+1	4	because right now she has no choice but to operate in the mode that we already have working .
+Bmr023.F.dialogueact307	673.421	679.586	F	Professor	s	+1	3	You know , that we {disfmarker} we actually {vocalsound} have a stream going and we know how {disfmarker} how well it does and how {disfmarker} and how it operates .
+Bmr023.A.dialogueact320	717.195	720.265	A	Postdoc	s	+1	3	I hired two transcribers today . I 'm thinking of hiring another one ,
+Bmr023.A.dialogueact321	720.265	722.155	A	Postdoc	s^df^e	+1	3	which will {disfmarker} because we 've had a lot of attrition .
+Bmr023.F.dialogueact362	853.44	862.636	F	Professor	s^cs	+1	1	but if we hire f you know , f we have five on staff {disfmarker} five or six on staff at any given time , then {vocalsound} it 's a small enough number so we can be flexible either way .
+11	Bmr023.s.12	Legal issues surrounding the approval and signing off of transcripts by participants has proved to be very complicated , and so will be sorted out off line by those involved by July.
+Bmr023.F.dialogueact305	665.621	673.241	F	Professor	s^cs	+1	3	I mean in particular I would {disfmarker} I would really hope that when we do this DARPA meeting in July that we sort of have {disfmarker} we 're {disfmarker} we 're into production mode , somehow {disfmarker}
+Bmr023.F.dialogueact307	673.421	679.586	F	Professor	s	+1	3	You know , that we {disfmarker} we actually {vocalsound} have a stream going and we know how {disfmarker} how well it does and how {disfmarker} and how it operates .
+Bmr023.F.dialogueact502	1257.47	1262.78	F	Professor	fg|s^cs:s	+1	2	Right . So we can s we {disfmarker} we wanna be able to say " here is a subset that is available right now "
+Bmr023.F.dialogueact505	1263.37	1265.65	F	Professor	s^e	+1	2	and that 's has been through the legal issues and so forth .
+Bmr023.C.dialogueact512	1269.81	1277.26	C	PhD	s	+1	2	And they don't have to approve , you know , th an edited version , they can just give their approval to whatever version
+Bmr023.F.dialogueact514	1277.11	1284.64	F	Professor	s^aap.%-	+1	2	Well , in principle , yes . But , I mean , i if {disfmarker} if {disfmarker} if somebody actually did get into some legal issue with it then we
+Bmr023.C.dialogueact516	1284.44	1289.14	C	PhD	s^arp	+1	2	Yeah . But th I mean , the editing will continue . Presumably if {disfmarker} if s errors are found , they will be fixed ,
+Bmr023.F.dialogueact527	1314.27	1318.03	F	Professor	s^na	+1	2	I it {disfmarker} you know , there there is a point at which I agree it becomes ridiculous
+Bmr023.A.dialogueact588	1486.95	1490.17	A	Postdoc	s^ng	+1	2	Unfortunately , uh , in {disfmarker} in the sign thing that they signed , it says " transcripts " .
+Bmr023.A.dialogueact590	1490.17	1492.41	A	Postdoc	s^e:s	+1	2	" You 'll be {disfmarker} you 'll be provided the transcripts when they 're available . "
+Bmr023.F.dialogueact602	1500.42	1507.39	F	Professor	s^co	+1	2	so let {disfmarker} let me just suggest that {disfmarker} {vocalsound} uh , off - line that , uh , the people involved figure it out and take care of it before it 's July .
+6	Bmr023.s.13	After finding discrepancies with the CMU researchers , the ICSI group have decided to tune the size of their Gaussian system.
+Bmr023.C.dialogueact786	1983.97	1993.07	C	PhD	s	+1	2	And , {vocalsound} for instance , uh , Dan {disfmarker} @ @ {comment} Dan just sent me a message saying that CMU used , um , {vocalsound} something like ten Gaussians per cluster {disfmarker}
+Bmr023.C.dialogueact787	1994.35	1997.35	C	PhD	s	+1	2	You know , each {disfmarker} each mixture has ten {pause} Gaussians
+Bmr023.D.dialogueact789	1997.22	1998.43	D	PhD	s^bu	+1	2	Hmm . We 're using sixty - four ,
+Bmr023.C.dialogueact792	1999.49	2001.64	C	PhD	s	+1	2	so that 's {vocalsound} obviously a big difference
+Bmr023.C.dialogueact795	2002.76	2007.79	C	PhD	s^am	+1	2	and give very poorly trained , uh , you know , Gaussians that way ,
+Bmr023.C.dialogueact799	2013.13	2022.46	C	PhD	s	+1	2	The turn - around time on the training when we train only the {disfmarker} a male system with , uh , you know , our small training set , is {vocalsound} less than twenty - four hours ,
+5	Bmr023.s.14	After raising the difficulty of checking for bugs in their generation of tandem features , they decide to check with Stephane who has more experience of these procedures.
+Bmr023.F.dialogueact1116	2781.02	2785.8	F	Professor	fg|s^cs	+1	2	Yeah . {vocalsound} I {disfmarker} I would actually double check with Stephane at this point ,
+Bmr023.D.dialogueact1122	2801.17	2802.3	D	PhD	fg|s	+1	2	Yeah . It 's hard with features ,
+Bmr023.D.dialogueact1123	2802.3	2804.28	D	PhD	s^df	+1	2	cuz you don't know what they should look like .
+Bmr023.D.dialogueact1124	2804.5	2810.38	D	PhD	s^df^e.%-	+1	2	I mean , you can't just , like , print the {disfmarker} the values out in ASCII and , you know , look at them , see if they 're {disfmarker}
+Bmr023.F.dialogueact1125	2810.17	2811.37	F	Professor	s^arp^j	+1	2	Not unless you had a lot of time

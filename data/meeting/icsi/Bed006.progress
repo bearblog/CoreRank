@@ -1,0 +1,23 @@
+1	Bed006.s.25	Another trial run of the data collection experiment is to take place , while subjects are being recruited.
+Bed006.C.dialogueact303	602.38	606.53	C	Grad	s	+1	2	And then we 're going to have another {disfmarker} we 're gonna have w another trial run
+0	Bed006.s.26	There have been some adjustments in the script.
+1	Bed006.s.27	The prior description of tasks the subjects are going to be given is now going to be more schematic , although the intentions are still going to be clear.
+Bed006.G.dialogueact271	519.79	523.27	G	Grad	fg|qy^bu^d	+1	1	so um y you 'll have those say somewhere what their intention was {disfmarker}
+1	Bed006.s.28	The lack of detailed , written explanation will hopefully encourage more natural and varied dialogue between subjects and "wizard".
+Bed006.G.dialogueact279	536.191	538.231	G	Grad	s^bu	+1	2	so they 'll have a little bit more natural interaction ?
+1	Bed006.s.29	On the other hand , the generator module of the system has been translated from german.
+Bed006.C.dialogueact471	1010.09	1018.69	C	Grad	fh|s	+1	1	Uh , meaning that Tilman Becker , who does the German one , actually took out some time and already did it in English for us .
+1	Bed006.s.30	Eventually , a user is going to be able to request and receive TV- and cinema-related information in english.
+Bed006.C.dialogueact559	1207.36	1211.48	C	Grad	s^cs	+1	2	you can speak into it and ask for TV and movie information
+1	Bed006.s.31	This will satisfy the basic project requirements.
+Bed006.C.dialogueact550	1185.53	1191.46	C	Grad	fh|s^aap	+1	2	Um , the basic requirement is fulfilled almost .
+1	Bed006.s.32	The model of a new module for SmartKom was presented.
+Bed006.C.dialogueact643	1362.07	1363.97	C	Grad	s^t^tc	+1	2	Then uh on to the modeling .
+2	Bed006.s.33	It is an interface between the language understanding and the action planning modules.
+Bed006.B.dialogueact715	1563.14	1568.66	B	Grad	s	+1	1	Basically , what this is {disfmarker} is that there 's an interface between what we are doing and the action planner
+Bed006.C.dialogueact1436	3062.54	3067.49	C	Grad	s	+1	1	mainly meaning from the natural language understanding , or from the deep language understanding to the action planner .
+0	Bed006.s.34	One layer of XML schemas creates a richer representation of the linguistic analysis , which is subsequently used to trigger one or more action schemas.
+3	Bed006.s.35	The model keeps the concept of XML messages being sent between the modules of the system , although it is open-ended as to the number of schemas involved.
+Bed006.C.dialogueact999	2159.86	2167.04	C	Grad	s	+1	2	it 's {disfmarker} it 's crucially necessary , is that we can have multiple schemas and multiple action schemas in parallel .
+Bed006.B.dialogueact1241	2687.44	2690.94	B	Grad	s	+1	2	So if you wanted to have a new type of action you 'd create a new type of category .
+Bed006.C.dialogueact1434	3055.1	3061.76	C	Grad	s	+1	1	This is {disfmarker} this is a schema that defines XML messages that are passed from one module to another ,

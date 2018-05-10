@@ -1,0 +1,12 @@
+6	Bro024.s.5	New filters introduced to reduce latency by mn052  , performed slightly worse than those they replaced.
+Bro024.B.dialogueact976	2387.87	2395.73	B	PhD	s^tc	+1	1	So the other thing is the {disfmarker} I 'm just looking at a little bit on the delay issue where the delay of the system is like a hundred and eighty millisecond .
+Bro024.B.dialogueact977	2395.73	2402.71	B	PhD	fh|s	+1	1	So {vocalsound} I just {disfmarker} just tried another sk system {disfmarker} I mean , another filter which I 've like shown at the end .
+Bro024.B.dialogueact978	2402.83	2405.62	B	PhD	s^e	+1	1	Which is very similar to the existing uh , filter .
+Bro024.B.dialogueact979	2405.8	2409.36	B	PhD	s	+1	1	Only {disfmarker} Uh , only thing is that the phase is {disfmarker} is like a totally nonlinear phase
+Bro024.B.dialogueact996	2439.98	2442.73	B	PhD	s	+1	1	So it 's just like {disfmarker} it 's like a three percent relative degradation ,
+Bro024.G.dialogueact998	2444.37	2447.48	G	Professor	qy^rt	+1	1	But {disfmarker} but is there {disfmarker} is there a problem with the one hundred eighty milliseconds ?
+4	Bro024.s.6	Whereas mn007 has added some latency to the process which he feels he can reduce.
+Bro024.E.dialogueact1611	3665.32	3671.17	E	PhD	s	+1	1	for Italian and Spanish it 's {disfmarker} th this value works good but not necessarily for Finnish .
+Bro024.E.dialogueact1613	3678.29	3681.81	E	PhD	s	+1	1	But unfortunately there is , like , this forty millisecond latency
+Bro024.E.dialogueact1616	3685.85	3687.8	E	PhD	s^bk|s^cc	+1	1	Yeah , so I would try to somewhat reduce this @ @ .
+Bro024.E.dialogueact1617	3689.23	3698.38	E	PhD	s	+1	1	I already know that if I completely remove this latency , so . {vocalsound} um , {comment} it {disfmarker} um there is a three percent hit on Italian .

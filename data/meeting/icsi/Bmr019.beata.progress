@@ -1,0 +1,19 @@
+6	Bmr019.s.13	Lapel microphone performed well on a spoken digit recognition task.
+Bmr019.E.dialogueact90	121.753	127.063	E	Grad	s	+1	1	I mean that it was basically {disfmarker} the only thing that was even slightly surprising was that the lapel did so well .
+Bmr019.E.dialogueact93	136.123	138.443	E	Grad	s	-1	0	The lapel mike is a very high - quality microphone .
+Bmr019.E.dialogueact94	138.889	145.809	E	Grad	s	-1	0	And as Morgan pointed out , that there are actually some advantages to it in terms of breath noises and clothes rustling {pause} if no one else is talking .
+Bmr019.B.dialogueact100	149.0	153.99	B	Professor	fg|s	-1	0	Well , it 's {disfmarker} Yeah , sort of the bre the breath noises and the mouth clicks and so forth like that , the lapel 's gonna be better on .
+Bmr019.D.dialogueact101	149.608	150.418	D	PhD	s	-1	0	Or the cross - talk .
+Bmr019.G.dialogueact114	167.825	173.455	G	Grad	s	-1	0	Probably the fact that it picks up other people 's speakers {disfmarker} other people 's talking is an indication of that it {disfmarker} the fact it is a good microphone .
+3	Bmr019.s.14	It is suggested that their robustness due to the fact that they are omni-directional.
+Bmr019.F.dialogueact120	177.443	180.293	F	PhD	qy^rt	-1	0	D do the lapel mikes have any directionality to them ?
+Bmr019.B.dialogueact128	191.822	193.662	B	Professor	s	-1	0	They 're {disfmarker} they 're intended to be omni - directional .
+Bmr019.B.dialogueact131	194.875	197.985	B	Professor	s	-1	0	And th it 's {disfmarker} and because you don't know how people are gonna put them on , you know .
+7	Bmr019.s.15	It is discovered that the optimal pruning parameters are different for recognition and for alignment.
+Bmr019.A.dialogueact670	1373.3	1378.51	A	PhD	s	-1	0	which is a um , I think was both a {disfmarker} a pruning {pause} problem
+Bmr019.A.dialogueact680	1414.68	1418.75	A	PhD	s	-1	0	And then also , ca the pruning , of course , was too {disfmarker} too severe .
+Bmr019.F.dialogueact682	1419.72	1422.54	F	PhD	s	-1	0	The pruning was the same value that we used for recognition .
+Bmr019.F.dialogueact683	1423.25	1429.91	F	PhD	s	-1	0	And we had lowered that {disfmarker} we had used tighter pruning after Liz ran some experiments showing that , you know , it runs slower
+Bmr019.F.dialogueact689	1435.01	1438.64	F	PhD	s	+1	0	So for free recognition , this {disfmarker} the lower pruning value is better .
+Bmr019.F.dialogueact694	1445.01	1452.15	F	PhD	fg|s	+1	1	Um , but it turned out for {disfmarker} for {disfmarker} to get accurate alignments it was really important to open up the pruning significantly .
+Bmr019.F.dialogueact697	1452.75	1460.31	F	PhD	fh|s^df	-1	0	Um {pause} because otherwise it would sort of do greedy alignment , um , in regions where there was no real speech yet from the foreground speaker .

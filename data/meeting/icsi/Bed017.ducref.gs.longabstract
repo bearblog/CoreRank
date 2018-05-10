@@ -1,0 +1,33 @@
+The first phase of the data collection has finished.
+There is a new wizard for phase two , during which subjects will be given more complex scenarios.
+Also finished are the modifications on SmartKom: the remaining glitches will take no more than a day to iron out.
+A big part of the meeting was covered by the presentation of the PRM of the proposed system.
+An alternative representation of the Bayes-net , it depicts context features as classes , and dependencies as relations between them.
+The current outputs show the desirability of a site , as well as its EVA mode.
+The fact that this model allows for instantiations of classes fits the research purposes much better than the extended belief-net.
+Following this , a visiting researcher presented an overview of a parallel project at the International University.
+It attempts to build a smart tutoring system for a computer science course.
+The assumption is that document searches can give more personalised results , if they take into account contextual parameters ( user , situation ).
+Although no detailed linguistic analysis takes place , it was suggested that the use of FrameNet could be a useful approach.
+There were also further suggestions for meetings with ICSI researchers.
+As the data collection is going into its second phase , more complex scenarios will be used to generate more intricate dialogues.
+Subjects can be recruited from within the Psychology department students , since such participation in experiments is compulsory in their syllabus.
+As the work on creating a PRM for the system has progressed , it is now necessary to find an implementation that can work as a PRM interpreter.
+There are no plans to build one from scratch , but it seems that other research groups at Stanford may already have one.
+Moreover , closer collaboration with the local PRM group will be pursued with additional participation in their meetings.
+An early version of the PRM of the system presented the same problem as a flat Bayes-net: the CPT's become too large.
+Another PRM issue that arose and remained unclear was how the probabilities are specified ( instead of learnt ) on the actual relations between the classes.
+Furthermore , the lack of a PRM interpreter is an open issue.
+It is not within the remit of the project to build one from scratch , therefore , an existing implementation has to be found.
+On the other hand , the discussion about the smart tutoring system being built at the International University showed the importance of finding out  which context parameters are influential in a given domain.
+It is easy to hack up a system for a small domain , but making it scalable is much more difficult.
+Finally , there was a passing mention of problems encountered with the speech synthesis module of SmartKom.
+The first phase of the data collection has been completed.
+Thirty subjects were recorded in total.
+Of those dialogues , ten have been transcribed.
+A new wizard will carry out the second phase.
+On top of this , a presentation of a PRM of the proposed system took place.
+The PRM comprises a set of classes , such as "user" , "site" , "route" , "time" and "query" with relations between them.
+Another class incorporates a number of attributes ( "money affordability" , "travel compatibility" etc ) modelling the intermediate nodes of the Bayes-net , as well as references to the other classes in the model.
+This model is much cleaner , and it also makes it easier to specify the CPT's.
+At this stage , the model makes two decisions ( outputs ): how much a site fits a user's needs and what the user intention is in EVA terms.

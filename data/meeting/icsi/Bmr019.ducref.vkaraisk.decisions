@@ -1,0 +1,8 @@
+In order for the digit recognition results to be more reliably comparable , it was suggested that the TI digit corpus is tested on SRI as well.
+Additionally , results are going to be checked by examining the signal from different microphones.
+Some modifications to the TI corpus may be needed to further consolidate this juxtaposition.
+The ultimate purpose is to create a system that can be fed different features and will substitute HTK.
+As regards the forced alignments , word-level alignments that have already been checked in Waves could be merged with transcripts and utterance-level representations produced in Transcriber , as both packages can use the CTM format.
+More measurements and correspondence with data from other corpora ( CallHome , Switchboard ) are going to be carried out with respect to backchanneling and overlaps.
+The intention is to write a paper with the results of this task.
+Towards the end of the meeting the group discussed possible agenda topics for big meeting scheduled for the following Saturday.

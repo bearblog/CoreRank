@@ -1,0 +1,11 @@
+Another trial run of the data collection experiment is to take place , while subjects are being recruited.
+There have been some adjustments in the script.
+The prior description of tasks the subjects are going to be given is now going to be more schematic , although the intentions are still going to be clear.
+The lack of detailed , written explanation will hopefully encourage more natural and varied dialogue between subjects and "wizard".
+On the other hand , the generator module of the system has been translated from german.
+Eventually , a user is going to be able to request and receive TV- and cinema-related information in english.
+This will satisfy the basic project requirements.
+The model of a new module for SmartKom was presented.
+It is an interface between the language understanding and the action planning modules.
+One layer of XML schemas creates a richer representation of the linguistic analysis , which is subsequently used to trigger one or more action schemas.
+The model keeps the concept of XML messages being sent between the modules of the system , although it is open-ended as to the number of schemas involved.

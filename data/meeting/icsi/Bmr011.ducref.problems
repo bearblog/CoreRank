@@ -1,0 +1,5 @@
+Use of dissimilar microphones adds an extra , unwanted variable to individual speaker recordings.
+Similarly , differences in the type of recording equipment used and the manner in which microphones are worn by speakers causes problems for the transcription effort.
+Setting up a microphone array and performing video recordings ( in a possible collaboration with NIST ) are problematic due to the types of changes in infrastructure they require.
+IBM's single-channel approach to transcriptions may pose problems for the post-processing of waveforms and forced alignments , as the group foresees difficulties in referencing chopped segments back to the original times/locations from which they were extracted.
+Another post-processing problem involves cross-talk , and , in particular , situations in which a speaker whose contributions to the discussion are relatively sparse but whose microphone picks up signals from the other speakers.

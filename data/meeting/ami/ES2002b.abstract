@@ -1,0 +1,230 @@
+16	ES2002b.rdhillon.s.1	The project manager briefed the team on some new requirements to consider when designing the remote.
+ES2002b.B.dialog-act.dharshi.13	100.92	104.29	B	PM	inf	+1	1	Um just want to tell you that you have three new requirements ,
+ES2002b.B.dialog-act.dharshi.14	104.74	114.79	B	PM	inf	+1	2	which is the {disfmarker} The first one {vocalsound} is that um uh the company's decided that teletext is outdated uh because of how popular the internet is .
+ES2002b.B.dialog-act.dharshi.16	116.98	121.94	B	PM	inf	+1	2	so we don't really need to consider that in the functionality of the {disfmarker} of the remote control .
+ES2002b.B.dialog-act.dharshi.17	121.94	130.69	B	PM	inf	+1	2	Um they've also suggested that we um we only use the remote control to control the television , not the V_C_R_ , D_V_D_ or anything else .
+ES2002b.B.dialog-act.dharshi.18	130.69	141.68	B	PM	inf	+1	1	I think the worry is that if the project becomes too complex then it'll affect um how long it takes us to get it into into production , the time to market .
+ES2002b.B.dialog-act.dharshi.19	141.68	145.41	B	PM	inf	+1	2	So um , we're just gonna keep it simple and it'll just control the T_V_ .
+ES2002b.B.dialog-act.dharshi.20	145.41	150.49	B	PM	inf	+1	2	And the other thing was that the company want the corporate colour and slogan to be implemented in the new design .
+ES2002b.B.dialog-act.dharshi.21	151.21	154.97	B	PM	inf	+1	1	Um I'm not entirely sure what the corporate colour is .
+ES2002b.B.dialog-act.dharshi.22	154.97	158.12	B	PM	inf	+1	1	It might be yellow , because there seems to be a lot of yellow everywhere .
+ES2002b.D.dialog-act.dharshi.7	157.94	163.02	D	ME	el.inf	+1	1	And the slogan , like the actual written slogan , or just to embody the idea of the slogan ?
+ES2002b.B.dialog-act.dharshi.24	166.499	171.482	B	PM	el.inf	+1	1	{vocalsound} uh th because on the the company website , uh what does it say {disfmarker}
+ES2002b.D.dialog-act.dharshi.8	172.4	174.07	D	ME	inf	+1	1	'Bout putting the fashion in electronics .
+ES2002b.B.dialog-act.dharshi.27	174.43	177.83	B	PM	el.inf	+1	1	I mean do they {disfmarker} {vocalsound} Is that something they want actually written on it ,
+ES2002b.B.dialog-act.dharshi.28	177.83	179.3	B	PM	inf	+1	1	'cause it's quite long .
+ES2002b.B.dialog-act.dharshi.31	183.96	185.24	B	PM	inf	+1	1	So those are the three things ,
+ES2002b.B.dialog-act.dharshi.32	185.24	196.19	B	PM	inf	+1	1	just not to worry about teletext , uh only control the T_V_ , and um and uh incorporate the uh colour and slogan of the company .
+23	ES2002b.rdhillon.s.2	The user interface designer presented two existing products and discussed what was wrong with each product.
+ES2002b.C.dialog-act.dharshi.4	258.385	260.05	C	UI	inf	+1	1	{gap} so this is the technical functions design .
+ES2002b.C.dialog-act.dharshi.8	265.88	271.15	C	UI	inf	+1	1	to do the um {vocalsound} the design I have I've had a look online , I've had a look at the homepage ,
+ES2002b.C.dialog-act.dharshi.10	275.05	278.32	C	UI	inf	+1	1	Um I've had a look at the previous products to see what they offer
+ES2002b.C.dialog-act.dharshi.13	289.13	295.73	C	UI	inf	+1	1	Um , having a look at the existing products , I found out that um it tends to come in sort of two extremes ,
+ES2002b.C.dialog-act.dharshi.14	295.73	301.71	C	UI	inf	+1	1	there's either um a very complicated one that's got lots of buttons , lots of colours , very confusing , you don't know what you're doing .
+ES2002b.C.dialog-act.dharshi.15	301.71	304.71	C	UI	inf	+1	1	{vocalsound} Um in that case the the labelling tends to be very bad .
+ES2002b.C.dialog-act.dharshi.19	314.728	318.74	C	UI	inf	+1	1	{gap} here um the button there and there .
+ES2002b.C.dialog-act.dharshi.22	320.13	322.03	C	UI	inf	+1	1	That one's perg and that one's prog ,
+ES2002b.C.dialog-act.dharshi.23	322.03	323.43	C	UI	inf	+1	1	and it doesn't really tell you what it does .
+ES2002b.C.dialog-act.dharshi.24	334.36	338.76	C	UI	inf	+1	1	Um , not sure if you had a a look at the other um control in that example .
+ES2002b.C.dialog-act.dharshi.25	338.76	340.2	C	UI	inf	+1	1	Um it's a very simple one .
+ES2002b.C.dialog-act.dharshi.27	340.2	341.91	C	UI	inf	+1	1	It's got only the basic functions mm
+ES2002b.C.dialog-act.dharshi.28	341.91	347.9	C	UI	inf	+1	1	but um {vocalsound} it's the same size as the the hard to use one .
+ES2002b.C.dialog-act.dharshi.29	347.9	349.57	C	UI	inf	+1	1	{vocalsound} Uh it looked a bit clunky .
+ES2002b.C.dialog-act.dharshi.30	349.57	353.69	C	UI	inf	+1	1	They're very big and not very much use for {gap} buttons .
+ES2002b.C.dialog-act.dharshi.32	354.98	357.33	C	UI	inf	+1	1	and it's just very hard to access the advanced functions .
+ES2002b.C.dialog-act.dharshi.34	362.3	365.93	C	UI	ass	+1	1	Um , my own preferences , I prefer the the clunky one .
+ES2002b.C.dialog-act.dharshi.39	373.85	377.24	C	UI	sug	+1	3	{vocalsound} Um so I believe the the advanced functions should maybe be hidden in a drawer ,
+ES2002b.C.dialog-act.dharshi.41	381.54	384.29	C	UI	el.sug	+1	1	So , {vocalsound} now I'd like to ask for your preferences .
+ES2002b.A.dialog-act.dharshi.3	413.84	416.19	A	ID	el.inf	+1	1	Which which is the clunky one , the one on left or on the right?. .
+ES2002b.C.dialog-act.dharshi.43	414.635	416.8	C	UI	inf	+1	1	{vocalsound} Um , the clunky one is the one on the right .
+ES2002b.C.dialog-act.dharshi.44	420.99	425.23	C	UI	inf	+1	1	Um I think it's supposed to be the same size , but um it's got much fewer buttons .
+ES2002b.D.dialog-act.dharshi.56	615.09	616.44	D	ME	sug	+1	4	and then others that are concealed .
+28	ES2002b.rdhillon.s.3	The team discussed how to create a remote which did not include the problems present in the existing products presented by the interface specialist.
+ES2002b.B.dialog-act.dharshi.54	434.06	435.58	B	PM	ass	+1	1	Well I think it's a valid point .
+ES2002b.B.dialog-act.dharshi.55	435.58	439.72	B	PM	inf	+1	1	I mean like the one on the left looks quite um quite complicated ,
+ES2002b.B.dialog-act.dharshi.57	444.05	449.15	B	PM	ass	+1	1	Um so I see I see why yo you know you might prefer the simpler design ,
+ES2002b.B.dialog-act.dharshi.62	453.01	455.8	B	PM	inf	+1	1	you know you get a lot of remote controls where you kind of flip the thing open ,
+ES2002b.C.dialog-act.dharshi.49	460.53	463.55	C	UI	el.sug	+1	1	Um , {vocalsound} do we have any functions that um we'd want on it ?
+ES2002b.C.dialog-act.dharshi.50	463.55	468.57	C	UI	inf	+1	2	I mean so far I've got um on and off , um switch the channel up and down , and put the volume up and down .
+ES2002b.B.dialog-act.dharshi.66	471.33	474.41	B	PM	sug	+1	2	and then actual numbers for channels as well , yeah .
+ES2002b.C.dialog-act.dharshi.53	475.17	477.68	C	UI	el.ass	+1	1	Um , you say that's a h a required one or a requested one ?
+ES2002b.B.dialog-act.dharshi.67	482.97	484.64	B	PM	ass	+1	1	God , I wou I would say that's required ,
+ES2002b.B.dialog-act.dharshi.68	484.64	490.14	B	PM	ass	+1	1	I mean there's no way anybody's gonna buy a remote control these days when if you can't actually individually select channels ,
+ES2002b.B.dialog-act.dharshi.73	500.87	506.61	B	PM	el.sug	+1	1	uh any kind of like display controls at all do you think we need to worry about ,
+ES2002b.D.dialog-act.dharshi.37	507.88	510.83	D	ME	ass	+1	2	Well I think I think es essentially what we're doing right now is we're categorising .
+ES2002b.D.dialog-act.dharshi.38	510.83	518.76	D	ME	inf	+1	2	We're saying well we want this to be a product that offers all the sort of more tricky features but we want them to be in another area ?
+ES2002b.C.dialog-act.dharshi.59	532.17	534.27	C	UI	sug	+1	2	um we need to find out exactly what we have to have
+ES2002b.C.dialog-act.dharshi.60	534.27	537.11	C	UI	sug	+1	2	um and after that we can add things if they're possible .
+ES2002b.C.dialog-act.dharshi.61	548.23	553.06	C	UI	inf	+1	2	There's um on and off , um volume and channel , and skip to certain channels with the numbers .
+ES2002b.B.dialog-act.dharshi.81	545.74	550.494	B	PM	inf	+1	2	Um , so so far , just to recap you've got volume and channel control and {disfmarker}
+ES2002b.D.dialog-act.dharshi.44	560.01	569.06	D	ME	sug	+1	2	Well , one one way I would look at this um would be that we a approach the different controls in terms of um like control types ,
+ES2002b.D.dialog-act.dharshi.45	569.06	572.49	D	ME	inf	+1	3	so that for the user it's very clear what they want to do where they go .
+ES2002b.D.dialog-act.dharshi.46	572.49	578.05	D	ME	sug	+1	3	Uh and also think maybe a little bit about sorta w w what would just wanna be acc easily accessible .
+ES2002b.D.dialog-act.dharshi.47	578.05	582.38	D	ME	inf	+1	3	For example if we had audio controls , those could be something people set up very rarely .
+ES2002b.D.dialog-act.dharshi.48	582.38	588.36	D	ME	sug	+1	4	Maybe they're un they're they're they're in a little area but covered up um ,
+ES2002b.D.dialog-act.dharshi.49	588.36	593.79	D	ME	inf	+1	3	things like channel and volume um are used all the time ,
+ES2002b.D.dialog-act.dharshi.50	593.79	596.88	D	ME	sug	+1	3	so we just have them right out on top ,
+ES2002b.D.dialog-act.dharshi.52	601.0	606.81	D	ME	sug	+1	3	Um so maybe we need to think about having three or more groupings of controls ,
+ES2002b.D.dialog-act.dharshi.53	606.81	611.72	D	ME	sug	+1	3	you know like one which are just the the habitual ones that should be right within your natural grip .
+ES2002b.B.dialog-act.dharshi.92	628.46	635.52	B	PM	sug	+1	1	and then maybe just things that would be nice if it could do would be things like audio set up and display set up and things like that ,
+ES2002b.B.dialog-act.dharshi.93	635.52	637.47	B	PM	sug	+1	1	maybe like a mute button ,
+71	ES2002b.rdhillon.s.4	The marketing expert presented consumer preferences and requirements and the team discussed who their target demographic should be and whether to include speech recognition in their product.
+ES2002b.D.dialog-act.dharshi.72	699.09	700.76	D	ME	ass	+1	1	I dunno whether this is for good or for bad
+ES2002b.D.dialog-act.dharshi.73	700.76	709.05	D	ME	inf	+1	1	but there'll be a lot of kind of uh redundancy in the in the the issues and the the uh {vocalsound} the things .
+ES2002b.D.dialog-act.dharshi.77	712.5	716.6	D	ME	inf	+1	1	what I've already started doing is cr I created a slide in in my presentation here
+ES2002b.D.dialog-act.dharshi.79	719.67	725.03	D	ME	inf	+1	1	so that we kind of think well what's the cumulative effect of what we've taken from your ideas and and mine ,
+ES2002b.D.dialog-act.dharshi.81	729.78	738.17	D	ME	inf	+1	1	Obviously obviously what you've just told me what you've just told me impacts a lot on what um like market research mm that that I've been {disfmarker}
+ES2002b.B.dialog-act.dharshi.109	729.81	732.42	B	PM	ass	+1	1	Mm hard to know what {disfmarker} where your role ends , yeah .
+ES2002b.D.dialog-act.dharshi.97	783.68	793.23	D	ME	inf	+1	1	Before I bring this up what I'll just say is um what I've what I've done is tried to collect some information so that I can then relay this to to you guys so that it's {disfmarker} now becomes a collective thing .
+ES2002b.D.dialog-act.dharshi.98	793.23	798.05	D	ME	inf	+1	1	And then kind of lead us in the direction of deciding , 'kay what what are our options , what should we decide
+ES2002b.D.dialog-act.dharshi.105	820.34	823.35	D	ME	inf	+1	1	So what I basically got is I just looked into some information
+ES2002b.D.dialog-act.dharshi.106	823.35	826.22	D	ME	inf	+1	1	and sort of th tried to think about how how we could review it
+ES2002b.D.dialog-act.dharshi.108	826.77	828.97	D	ME	inf	+1	1	and what kind of decisions we could take away from it
+ES2002b.D.dialog-act.dharshi.111	836.7	841.36	D	ME	inf	+1	1	So um I'm thinking here about uh primarily about customer needs ,
+ES2002b.D.dialog-act.dharshi.114	844.48	848.32	D	ME	sug	+1	1	and what are issues with with um existing products .
+ES2002b.D.dialog-act.dharshi.116	849.26	852.77	D	ME	sug	+1	1	and also about {disfmarker} try and connect that as you see with the company vision
+ES2002b.D.dialog-act.dharshi.121	866.36	868.3	D	ME	inf	+1	1	So this is what I've found here ,
+ES2002b.D.dialog-act.dharshi.124	872.59	877.37	D	ME	inf	+1	1	Um , users dislike the look and feel of current remote controls .
+ES2002b.D.dialog-act.dharshi.126	878.77	880.54	D	ME	inf	+1	1	Most people find them ugly .
+ES2002b.D.dialog-act.dharshi.127	880.54	885.56	D	ME	inf	+1	1	Um {vocalsound} the vast majority would spend more money for it to look fancy as well ,
+ES2002b.D.dialog-act.dharshi.128	885.56	893.06	D	ME	inf	+1	1	we'll see later , the vast majority would spend more money for um slightly more intuitive control , such as voice recognition .
+ES2002b.D.dialog-act.dharshi.131	895.47	900.87	D	ME	inf	+1	1	Um most people use only a f a very slim portion of all the controls .
+ES2002b.D.dialog-act.dharshi.134	905.0	907.35	D	ME	inf	+1	1	they tend to use the most simple controls
+ES2002b.D.dialog-act.dharshi.137	914.53	919.89	D	ME	inf	+1	1	if for me this is sorta like three different different um inspirations , you know ,
+ES2002b.D.dialog-act.dharshi.138	919.89	924.09	D	ME	inf	+1	2	one is that we want uh something that's high-tech but we want it to seem easy .
+ES2002b.D.dialog-act.dharshi.139	924.09	931.96	D	ME	inf	+1	2	And in spite of the primitive side of it and the very high-tech side , we want it to just be an appealing piece of equipment in people's hands .
+ES2002b.D.dialog-act.dharshi.142	935.64	936.72	D	ME	inf	+1	1	They get lost a lot ,
+ES2002b.D.dialog-act.dharshi.144	938.47	941.55	D	ME	inf	+1	1	Um , takes time to learn how to use them .
+ES2002b.D.dialog-act.dharshi.151	960.18	962.81	D	ME	inf	+1	1	and I will admit I don't know what R_S_I_ stands for .
+ES2002b.D.dialog-act.dharshi.155	979.98	982.54	D	ME	inf	+1	1	uh adults at least would pay more for voice recognition .
+ES2002b.D.dialog-act.dharshi.156	982.54	987.19	D	ME	inf	+1	1	Now apparently we do have access to all the tech cutting edge technology in remote control .
+ES2002b.D.dialog-act.dharshi.158	988.26	991.34	D	ME	sug	+1	2	if that's possible we might consider getting into it .
+ES2002b.D.dialog-act.dharshi.161	1000.91	1007.4	D	ME	inf	+1	1	I think a recurring theme here is the company wants it to be {disfmarker} wants us to make something that's fashionable and sleek and trendy .
+ES2002b.D.dialog-act.dharshi.164	1021.44	1023.37	D	ME	inf	+1	1	You know , they like the aesthetics and the ergonomics .
+ES2002b.B.dialog-act.dharshi.133	1060.15	1065.46	B	PM	ass	+1	3	So it {disfmarker} you wanna group all the different kind of types of functions together , you know .
+ES2002b.D.dialog-act.dharshi.175	1071.73	1077.41	D	ME	sug	+1	1	my hope here is that I'm putting out this information so that we can then say okay , well how do we collectively move on with it .
+ES2002b.D.dialog-act.dharshi.176	1077.41	1081.56	D	ME	inf	+1	1	Um I I haven't brought out one specific marketing idea ,
+ES2002b.B.dialog-act.dharshi.140	1099.517	1108.59	B	PM	sug	+1	2	{vocalsound} Well , um one of the things that we have to decide on by the end of the meeting is who we're gonna be um {disfmarker} who's our our target audience , our target market .
+ES2002b.B.dialog-act.dharshi.141	1108.59	1120.29	B	PM	el.sug	+1	2	Um , so if we want something that that looks good and is easy to use , but has y is fairly powerful product , whatever , who do we really want to aim that at ?
+ES2002b.D.dialog-act.dharshi.185	1121.15	1122.84	D	ME	sug	+1	2	Where's the money , maybe .
+ES2002b.B.dialog-act.dharshi.143	1122.65	1125.48	B	PM	ass	+1	2	Yeah , who wou who would have the money to spend .
+ES2002b.B.dialog-act.dharshi.148	1134.14	1137.54	B	PM	inf	+1	2	it's somebody who's not gonna just use the remote that comes with their telly , I suppose ,
+ES2002b.A.dialog-act.dharshi.29	1142.73	1147.29	A	ID	sug	+1	2	Um , I think it'll be the mid range to the high end market , in terms of people .
+ES2002b.A.dialog-act.dharshi.34	1159.1	1165.95	A	ID	sug	+1	2	Um so maybe not the high end range , but maybe middle , middle up-ish .
+ES2002b.A.dialog-act.dharshi.30	1147.29	1152.24	A	ID	el.inf	+1	1	'Cause twenty five Euros for a remote , how much is that lo locally in pounds ?
+ES2002b.A.dialog-act.dharshi.32	1154.3	1158.31	A	ID	el.inf	+1	1	is that a lot of money to buy an extra remote or a replacement remote ?
+ES2002b.D.dialog-act.dharshi.199	1191.69	1194.12	D	ME	inf	+1	2	Mostly focused around the twenty five age group .
+ES2002b.D.dialog-act.dharshi.200	1198.74	1201.07	D	ME	ass	+1	2	Sort of young professional , kind of . Mm-hmm
+ES2002b.B.dialog-act.dharshi.165	1202.27	1208.35	B	PM	el.sug	+1	2	Um do you think then uh voice recognition is something we should really seriously consider ?
+ES2002b.D.dialog-act.dharshi.204	1219.88	1223.41	D	ME	ass	+1	2	It does it does fit with the market that we're sort of identifying ,
+ES2002b.B.dialog-act.dharshi.168	1224.57	1226.15	B	PM	sug	+1	2	I think we are gonna have to narrow it down ,
+ES2002b.B.dialog-act.dharshi.170	1228.97	1233.97	B	PM	inf	+1	2	and 'cause you know , there needs to be some kind of selling point to it .
+ES2002b.B.dialog-act.dharshi.174	1240.74	1247.39	B	PM	inf	+1	2	if we are going to include speech recognition , it's kind of between fifteen and thirty five seems to be like a really high response to that .
+ES2002b.A.dialog-act.dharshi.45	1249.13	1253.66	A	ID	ass	+1	2	I I think twenty five to thirty five is is is fair to add that in as a group as well
+ES2002b.B.dialog-act.dharshi.178	1258.5	1261.78	B	PM	ass	+1	2	Okay , so fifteen to thirty five , look fairly young .
+ES2002b.A.dialog-act.dharshi.52	1286.3	1287.8	A	ID	inf	+1	2	So these are people who are gadgety , right ?
+ES2002b.B.dialog-act.dharshi.185	1293.83	1296.34	B	PM	ass	+1	3	So they'll not sh not shy away from something quite high-tech .
+ES2002b.B.dialog-act.dharshi.188	1302.29	1307.72	B	PM	sug	+1	2	so shall we make the decision uh to include speech recognition
+ES2002b.A.dialog-act.dharshi.58	1307.99	1313.94	A	ID	ass	+1	2	I I think one thing we should try not to avoid is not to say we have to use speech recognition right now ,
+ES2002b.A.dialog-act.dharshi.59	1313.94	1319.16	A	ID	inf	+1	2	because um , based on what you've go y everybody's saying , right , you want something simple .
+ES2002b.A.dialog-act.dharshi.61	1322.34	1326.04	A	ID	inf	+1	2	Speech recognition might not be the simplest thing for somebody to use .
+ES2002b.D.dialog-act.dharshi.228	1325.9	1327.87	D	ME	sug	+1	2	Could it be an on off thing ?
+ES2002b.A.dialog-act.dharshi.63	1329.15	1333.53	A	ID	ass	+1	2	but what I'm saying is that we're we're trying to lock ourselves into a s particular kind of technology ,
+ES2002b.A.dialog-act.dharshi.64	1333.53	1343.33	A	ID	ass	+1	2	rather than focusing on on exactly what are the features that we're gonna say , and then , you know , say speech recognition is good for this , speech recognition is not good for this .
+ES2002b.A.dialog-act.dharshi.69	1349.15	1352.94	A	ID	ass	+1	2	but at end of the day we don't look at the technology , but we look at the function first .
+ES2002b.B.dialog-act.dharshi.207	1369.45	1379.68	B	PM	inf	+1	2	is if we make it um speech reco if we incorporate speech recognition , that's appealing to people um maybe with a physical disability as well .
+ES2002b.D.dialog-act.dharshi.246	1381.24	1384.75	D	ME	inf	+1	2	And also it helps in terms of people not losing this ,
+ES2002b.C.dialog-act.dharshi.70	1396.86	1398.54	C	UI	ass	+1	2	I reckon one problem with speech recognition is
+ES2002b.C.dialog-act.dharshi.74	1398.54	1400.13	C	UI	inf	+1	2	um I've actually seen one of them used
+ES2002b.C.dialog-act.dharshi.75	1400.13	1403.75	C	UI	ass	+1	2	and uh the technology that was in that one wasn't particularly amazing ,
+ES2002b.C.dialog-act.dharshi.71	1403.75	1405.84	C	UI	inf	+1	2	so you end up yelling at the control for hours .
+ES2002b.B.dialog-act.dharshi.213	1407.56	1413.73	B	PM	el.ass	+1	2	Do you think maybe we need like further advances in that kind of area until it's worthwhile incorporating it though ?
+ES2002b.C.dialog-act.dharshi.77	1412.98	1415.61	C	UI	inf	+1	2	I think it'd probably quite expensive to put in .
+56	ES2002b.rdhillon.s.5	The industrial designer discussed the interior workings of a remote and the team discussed various options for components and energy sources.
+ES2002b.A.dialog-act.dharshi.77	1422.06	1425.79	A	ID	inf	+1	1	Well this is just the working design um .
+ES2002b.A.dialog-act.dharshi.79	1428.71	1432.4	A	ID	inf	+1	1	Um I guess I try to define like what we're doing now ,
+ES2002b.A.dialog-act.dharshi.84	1438.66	1444.98	A	ID	inf	+1	1	but we're {disfmarker} we can't n we haven't narrowed down um exactly what the things we're trying to fulfil , like {disfmarker}
+ES2002b.A.dialog-act.dharshi.86	1445.87	1449.16	A	ID	inf	+1	1	I think back {disfmarker} in the back of our minds we know what the basics are .
+ES2002b.A.dialog-act.dharshi.87	1449.16	1450.75	A	ID	inf	+1	1	Has to change channels , has to change volume ,
+ES2002b.A.dialog-act.dharshi.88	1450.75	1455.56	A	ID	inf	+1	1	but in like specifics , right , which one of the basics are you trying to target .
+ES2002b.A.dialog-act.dharshi.97	1481.56	1483.34	A	ID	off	+1	1	so I'll go into the diagram first .
+ES2002b.A.dialog-act.dharshi.98	1483.34	1485.74	A	ID	inf	+1	1	It just explains how the process goes through ,
+ES2002b.A.dialog-act.dharshi.100	1486.45	1488.0	A	ID	inf	+1	1	from the basic technology point of view ,
+ES2002b.A.dialog-act.dharshi.101	1488.0	1489.52	A	ID	inf	+1	1	the basic steps that you need
+ES2002b.A.dialog-act.dharshi.104	1493.76	1495.88	A	ID	inf	+1	1	you need some power source .
+ES2002b.A.dialog-act.dharshi.105	1495.88	1498.27	A	ID	inf	+1	1	'Kay , a battery or something , to keep it going .
+ES2002b.A.dialog-act.dharshi.106	1498.27	1500.27	A	ID	inf	+1	1	Um and that power source is important
+ES2002b.A.dialog-act.dharshi.107	1500.27	1505.13	A	ID	inf	+1	1	because it ties you down to um how long the device will last .
+ES2002b.A.dialog-act.dharshi.111	1514.55	1516.58	A	ID	inf	+1	1	Like for example , voice recognition , right .
+ES2002b.A.dialog-act.dharshi.112	1516.58	1519.56	A	ID	inf	+1	1	That might be constrained because that {disfmarker} you might need to power a microphone ,
+ES2002b.A.dialog-act.dharshi.114	1521.15	1523.71	A	ID	inf	+1	1	so that's one perhaps constraint there .
+ES2002b.A.dialog-act.dharshi.116	1525.03	1528.68	A	ID	inf	+1	1	{vocalsound} Th Okay , the basic thing is there's a user interface
+ES2002b.A.dialog-act.dharshi.118	1535.1	1538.85	A	ID	inf	+1	1	You know , and that um picks up an input from a user ,
+ES2002b.A.dialog-act.dharshi.120	1541.31	1544.87	A	ID	inf	+1	1	a series of logic has to decide what the user is telling the device ,
+ES2002b.A.dialog-act.dharshi.123	1552.64	1556.22	A	ID	inf	+1	1	Um and then it needs to be able to send the signal out to the device itself
+ES2002b.A.dialog-act.dharshi.128	1569.04	1571.76	A	ID	inf	+1	1	like um voice recognition , right ,
+ES2002b.A.dialog-act.dharshi.130	1573.05	1576.31	A	ID	sug	+1	1	if it's something which is important then we just add more power
+ES2002b.A.dialog-act.dharshi.131	1576.31	1578.28	A	ID	sug	+1	1	rather than having a thing that we don't have enough power .
+ES2002b.A.dialog-act.dharshi.137	1588.94	1591.73	A	ID	sug	+1	1	maybe you you wanna go back to what the functions are ?
+ES2002b.B.dialog-act.dharshi.227	1594.55	1598.31	B	PM	sug	+1	1	Well , do you wan do you wanna finish up your your whole presentation then ?
+ES2002b.A.dialog-act.dharshi.139	1597.37	1598.84	A	ID	inf	+1	1	Yeah , w I'm done .
+ES2002b.A.dialog-act.dharshi.144	1605.0	1609.01	A	ID	inf	+1	1	Um you have a transmitter , an input device , logic chip ,
+ES2002b.D.dialog-act.dharshi.266	1613.65	1618.46	D	ME	el.inf	+1	1	Since we're on the topic of the technology , uh are there any like {disfmarker} what are our options ?
+ES2002b.D.dialog-act.dharshi.268	1620.62	1625.52	D	ME	el.inf	+1	1	Is this the only way that we go about it , or are there other thin
+ES2002b.A.dialog-act.dharshi.149	1623.71	1627.27	A	ID	inf	+1	1	Um , these these aren't technology options in that sense .
+ES2002b.A.dialog-act.dharshi.152	1628.91	1632.63	A	ID	inf	+1	1	a basic principles and basic components that are needed .
+ES2002b.A.dialog-act.dharshi.158	1648.68	1651.27	A	ID	inf	+1	1	So each component represents one function ,
+ES2002b.A.dialog-act.dharshi.159	1651.27	1656.9	A	ID	inf	+1	1	but I think the basic functions are the logic , the transmitter , um and the receiver , okay ,
+ES2002b.A.dialog-act.dharshi.160	1656.9	1660.06	A	ID	inf	+1	1	and the power are things that you won't have to care about .
+ES2002b.A.dialog-act.dharshi.162	1665.48	1674.25	A	ID	inf	+1	1	Um there might be one other consideration which would be that the the transmission between the remote control and the T_V_ for example .
+ES2002b.A.dialog-act.dharshi.163	1674.25	1680.47	A	ID	el.sug	+1	1	Okay , um are we gonna restrict ourselves to using the traditional technologies of infra-red thing ?
+ES2002b.A.dialog-act.dharshi.164	1680.47	1684.67	A	ID	inf	+1	1	Because that's something you need to actually be physically be pointing to . Right .
+ES2002b.B.dialog-act.dharshi.245	1684.95	1693.62	B	PM	inf	+1	1	Well well a worry that was was expressed in the new requirements was that if we made this too complex it would e it would effect um how long how long it took us to get this to market ,
+ES2002b.B.dialog-act.dharshi.246	1693.62	1700.59	B	PM	sug	+1	1	so I th suspect it might be a good idea just to restrict our kind of our creative influence on this on the user interface
+ES2002b.B.dialog-act.dharshi.248	1703.96	1706.57	B	PM	inf	+1	2	um because I mean it it's tried and tested intra-red ,
+ES2002b.B.dialog-act.dharshi.249	1706.57	1708.05	B	PM	sug	+1	2	so we could stay with tha
+ES2002b.A.dialog-act.dharshi.168	1713.13	1718.07	A	ID	inf	+1	1	Um if somebody's gonna h talk to the device , you ideally want them to hold it to them .
+ES2002b.A.dialog-act.dharshi.175	1729.72	1738.57	A	ID	inf	+1	1	so because if you're using infra-red , the line of sight um say the T_V_'s at that chair , and I'm standing in front of here and the transmitter is here , it blocks it .
+ES2002b.D.dialog-act.dharshi.283	1748.25	1758.16	D	ME	el.inf	+1	1	Uh does c is our controller is it have the option of being um on a standard uh frequency as all of the other equipment ,
+ES2002b.A.dialog-act.dharshi.179	1759.46	1763.05	A	ID	inf	+1	1	There's there's not much specific specific information ,
+ES2002b.B.dialog-act.dharshi.262	1771.94	1775.09	B	PM	inf	+1	1	In the new requirement spec they said just to focus on the T_V_ ,
+ES2002b.B.dialog-act.dharshi.265	1778.73	1784.86	B	PM	sug	+1	1	Um , is it worth considering like having like a charging unit as opposed to just regular batteries ?
+ES2002b.B.dialog-act.dharshi.267	1787.59	1790.35	B	PM	el.ass	+1	1	or should we just consider running on regular batteries ?
+ES2002b.A.dialog-act.dharshi.184	1789.18	1793.21	A	ID	inf	+1	1	Okay , from from a from a component point of view there's added complexity ,
+ES2002b.A.dialog-act.dharshi.185	1793.21	1794.93	A	ID	inf	+1	1	and you add cost to it ,
+ES2002b.A.dialog-act.dharshi.187	1798.86	1802.31	A	ID	inf	+1	1	You need a docking cradle , for example , for you to put it in to charge .
+ES2002b.A.dialog-act.dharshi.188	1802.31	1804.93	A	ID	inf	+1	1	Or you need to get the user to plug it in .
+ES2002b.A.dialog-act.dharshi.189	1804.93	1810.75	A	ID	inf	+1	1	Um and most users are very f use already used to the idea of buying batteries and putting it into the controller .
+ES2002b.A.dialog-act.dharshi.192	1817.31	1822.43	A	ID	ass	+1	2	then I don't think rechargeable is something we should {disfmarker} you know , we really need to care about .
+ES2002b.B.dialog-act.dharshi.276	1820.02	1822.444	B	PM	ass	+1	2	Okay , so just stick to to regular {disfmarker}
+30	ES2002b.rdhillon.s.6	The team then discussed features to include in the remote and what they could do to figure out how to categorize them.
+ES2002b.B.dialog-act.dharshi.280	1830.35	1834.21	B	PM	off	+1	1	I'm just gonna just recap uh what I said at the start ,
+ES2002b.B.dialog-act.dharshi.281	1834.21	1841.09	B	PM	inf	+1	1	was that um the the whole point of this meeting was to f absolutely finalise who we're gonna aim this at ,
+ES2002b.B.dialog-act.dharshi.284	1846.32	1854.36	B	PM	el.ass	+1	2	Are we all happy about the idea of um aiming the product at um the fifteen to thirty five bracket ?
+ES2002b.D.dialog-act.dharshi.295	1854.19	1855.17	D	ME	ass	+1	2	Yeah , that's good .
+ES2002b.C.dialog-act.dharshi.79	1864.6	1867.65	C	UI	inf	+1	2	I think we just say that it was gonna be the the most basic stuff possible .
+ES2002b.C.dialog-act.dharshi.80	1867.65	1872.73	C	UI	inf	+1	2	Um on off , up and down channels , up and down volume and uh skip to a channel .
+ES2002b.B.dialog-act.dharshi.285	1854.36	1860.32	B	PM	inf	+1	1	Um and also the funct the the actual functions of what it's gonna do .
+ES2002b.D.dialog-act.dharshi.296	1875.07	1879.41	D	ME	el.sug	+1	1	And is it going to include any of the uh the more advanced features ,
+ES2002b.D.dialog-act.dharshi.300	1889.65	1895.833	D	ME	sug	+1	2	is it not an option still that we include some things just as a sort of under {disfmarker} like sort of under a door or some {disfmarker}
+ES2002b.B.dialog-act.dharshi.290	1894.97	1897.57	B	PM	ass	+1	1	Yeah , it's as optional functions .
+ES2002b.D.dialog-act.dharshi.301	1897.0	1914.3	D	ME	ass	+1	2	'Cause what what I'm {disfmarker} I'd be a bit worried about is if someone was h had previously developed habits of expecting to control surround sound or this and that with their controller and then and then they , you know , w they get ours and w it's doesn't have that .
+ES2002b.A.dialog-act.dharshi.199	1916.61	1920.36	A	ID	inf	+1	2	Another thing that you were saying about categorising the controls ?
+ES2002b.A.dialog-act.dharshi.200	1920.36	1925.02	A	ID	sug	+1	2	Um maybe I could suggest we we break them down into three simple categories .
+ES2002b.A.dialog-act.dharshi.201	1925.02	1926.94	A	ID	sug	+1	2	One would be audio controls ,
+ES2002b.A.dialog-act.dharshi.202	1926.94	1928.59	A	ID	sug	+1	2	one would be video controls ,
+ES2002b.A.dialog-act.dharshi.203	1928.59	1930.28	A	ID	sug	+1	2	and the other one would be a device .
+ES2002b.A.dialog-act.dharshi.209	1949.66	1953.83	A	ID	sug	+1	2	I mean like so what we could have is like three buckets , right , where we could throw things into ,
+ES2002b.A.dialog-act.dharshi.211	1956.22	1959.55	A	ID	sug	+1	2	and then from there decide whether it's basic , or it's non-basic .
+ES2002b.D.dialog-act.dharshi.312	1965.25	1966.43	D	ME	ass	+1	2	Mm okay , great .
+ES2002b.A.dialog-act.dharshi.228	2082.19	2085.05	A	ID	inf	+1	2	Device is basically anything which we can't categorise , right .
+ES2002b.D.dialog-act.dharshi.317	2028.14	2035.75	D	ME	sug	+1	2	shall we agree for sake of um sort of clarity and when we when we r resume that we'll u use this idea David's proposed ,
+ES2002b.D.dialog-act.dharshi.318	2035.75	2042.04	D	ME	sug	+1	2	where we think of these three sort of buckets and anything anything we discuss about them is sort of , okay , we're talking about this .
+ES2002b.B.dialog-act.dharshi.315	2037.78	2039.91	B	PM	ass	+1	2	Yeah , yeah I think that's definitely a good idea .
+ES2002b.B.dialog-act.dharshi.324	2085.13	2092.35	B	PM	inf	+1	2	so you're gonna have um audio which is gonna be like you know your bass settings and actual volume {disfmarker} hi
+ES2002b.A.dialog-act.dharshi.234	2094.11	2098.17	A	ID	inf	+1	2	And then video is anything that you can see .
+ES2002b.B.dialog-act.dharshi.329	2097.53	2100.87	B	PM	ass	+1	2	Okay , so brightness , contrast , things like that ,
+ES2002b.D.dialog-act.dharshi.331	2108.24	2114.68	D	ME	inf	+1	1	And then k I suppose quite likely what would happen is in the d device category there might be some which are just like the habitual standard
+ES2002b.B.dialog-act.dharshi.339	2135.12	2139.45	B	PM	sug	+1	2	Um so yeah , I guess just things to think about are you know like the fact it's gotta look good ,
+ES2002b.B.dialog-act.dharshi.341	2142.97	2145.72	B	PM	sug	+1	1	Um something maybe kind of quirky in design maybe .
+ES2002b.B.dialog-act.dharshi.342	2145.72	2148.73	B	PM	sug	+1	1	Make it kind of ergonomic kind of to hold ,

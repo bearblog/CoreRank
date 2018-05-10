@@ -1,0 +1,20 @@
+0	Bed003.s.19	The set of cues that form the feature nodes is not well-defined yet.
+1	Bed003.s.20	Especially with lexical cues ( verbs , modifiers etc ) , no one offered specific intuitions as to how they might contribute to the inference of intentions.
+Bed003.C.dialogueact274	548.0	549.26	C	Grad	s^r	+1	1	That 's {disfmarker} that {disfmarker} that needs a lot of work .
+4	Bed003.s.21	Other features , like "admission fee" , may be intuitively linked with one of the outputs ( Enter ) , however , any probabilities are coded in an ad-hoc fashion and are by no means realistic.
+Bed003.B.dialogueact255	498.054	501.399	B	Grad	s.%--	+1	1	because we didn't know the probabilities of {disfmarker} {pause} or {disfmarker}
+Bed003.C.dialogueact332	634.03	639.19	C	Grad	s	+1	1	So that 's like a huge uh clue that they 're trying to Enter the place rather than uh to Tango or Vista ,
+Bed003.C.dialogueact645	1087.52	1089.31	C	Grad	s	+1	2	Like , {pause} we totally hand - tuned the probabilities ,
+Bed003.C.dialogueact1578	2915.68	2917.26	C	Grad	s	+1	2	The probabilities and all are completely ad - hoc .
+3	Bed003.s.22	Cases like this , where feature and output seem to be linked directly , bring the necessity of a middle layer in the belief-net to question.
+Bed003.B.dialogueact371	712.84	717.31	B	Grad	s	+1	1	but you could see perhaps discus the " admission fee " going directly to the mode pointing at " Enter " ,
+Bed003.B.dialogueact1291	2259.9	2265.55	B	Grad	s.%--	+1	1	well for instance , the " discourse admission fee " {pause} node seems like it should point directly to the {disfmarker}
+Bed003.B.dialogueact1293	2265.55	2270.62	B	Grad	s^rt:s	+1	1	or increase the probability of " enter {pause} directly " versus " going there via tourist " .
+2	Bed003.s.23	Nevertheless , not having a middle layer would not allow for shifts in the discourse and would make the setting of probabilities and manipulation of the belief-net clumsy.
+Bed003.B.dialogueact213	380.776	385.037	B	Grad	s	+1	1	Reasons being , you know , it 'd be a pain to set up all the probabilities for that .
+Bed003.B.dialogueact214	386.372	392.556	B	Grad	s	+1	1	If we moved onto the next step and did learning of some sort , uh according Bhaskara we 'd be handicapped .
+2	Bed003.s.24	Some issues with the use of JavaBayes also arose: the addition of new variables in an existing node overwrites all previous settings , and the native text file where the probability tables are set is not easy to read; this makes adding and changing variables and nodes problematic.
+Bed003.C.dialogueact895	1608.09	1612.55	C	Grad	s	+1	1	It might be that if you add a new thing pointing to a variable , you just like {disfmarker} it just overwrites everything .
+Bed003.C.dialogueact1076	1834.51	1835.88	C	Grad	s	+1	1	But {pause} they 're not very friendly .
+1	Bed003.s.25	Finally , it is unclear how much learning can be done on the created nets.
+Bed003.B.dialogueact974	1707.96	1708.95	B	Grad	s^ar^m	+1	1	I didn't think it did learning .

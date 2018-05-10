@@ -1,0 +1,46 @@
+13	Bro019.s.8	Speaker mn007 has taken the spectral subtraction from another groups system , and is trying it with their own , with mixed results.
+Bro019.C.dialogueact513	1119.58	1124.38	C	Professor	s^co^tc	+1	2	so maybe uh , just briefly , you could remind us about the related experiments .
+Bro019.C.dialogueact514	1124.38	1126.54	C	Professor	s^bu^df	+1	2	Cuz you did some stuff that you talked about last week ,
+Bro019.C.dialogueact518	1130.53	1136.47	C	Professor	s.%--	+1	1	both of you I guess were both combining something from the uh , French Telecom system with {vocalsound} the u uh {disfmarker}
+Bro019.D.dialogueact527	1143.79	1148.95	D	PhD	s^rt	+1	2	The main thing that we did is just to take the spectral subtraction from the France Telecom ,
+Bro019.D.dialogueact588	1252.93	1257.7	D	PhD	s^rt	+1	1	So we just tried directly to {disfmarker} to just , keep the system as it was
+Bro019.D.dialogueact591	1261.48	1267.06	D	PhD	s^rt	+1	1	when we plug the spectral subtraction it improves uh , signif significantly .
+Bro019.D.dialogueact597	1282.1	1285.81	D	PhD	s^df	+1	1	You can remove on - line normalization , or put it , it doesn't change anything .
+Bro019.D.dialogueact598	1287.18	1289.05	D	PhD	s^e	+1	1	Uh , uh , as long as you have the spectral subtraction .
+Bro019.D.dialogueact641	1351.78	1362.92	D	PhD	s	+1	1	And , right now if we look at the results , it 's , um , always better than {disfmarker} it seems always better than France Telecom for mismatch and high - mismatch .
+Bro019.D.dialogueact642	1364.16	1367.23	D	PhD	s	+1	1	And it 's still slightly worse for well - matched .
+Bro019.D.dialogueact645	1370.31	1371.75	D	PhD	s	+1	1	but this is not significant .
+Bro019.D.dialogueact777	1635.8	1645.76	D	PhD	s	+1	2	We are playing {disfmarker} we are also playing , trying to put other spectral subtraction mmm , in the code .
+Bro019.D.dialogueact779	1648.92	1654.77	D	PhD	s^rt	+1	2	it would be a very simple spectral subtraction , on the um , mel energies
+5	Bro019.s.9	He is also looking into alternative methods of removing noise.
+Bro019.D.dialogueact941	1965.02	1965.49	D	PhD	%--	+1	1	maybe we {disfmarker}
+Bro019.D.dialogueact942	1965.69	1971.53	D	PhD	s^cs	+1	1	well we find some people so that {vocalsound} uh , agree to maybe work with us ,
+Bro019.D.dialogueact943	1971.97	1975.35	D	PhD	s	+1	1	and they have implementation of VTS techniques
+Bro019.D.dialogueact944	1976.51	1990.04	D	PhD	s	+1	1	so it 's um , Vector Taylor Series that are used to mmm , {vocalsound} uh f to model the transformation between clean cepstra and noisy cepstra .
+Bro019.D.dialogueact952	2012.85	2018.24	D	PhD	s	+1	1	it can be used for {vocalsound} uh , getting rid of the noise and the channel effect .
+9	Bro019.s.10	Fn002 is still working on voicing detection , and has run experiments with her new feature with disappointing results.
+Bro019.C.dialogueact1117	2354.02	2354.8	C	Professor	qy^rt^tc	+1	2	Anything else going on ?
+Bro019.B.dialogueact1120	2356.22	2360.78	B	PhD	s	+1	2	I don't have good result , with the {disfmarker} inc including the new parameters ,
+Bro019.B.dialogueact1121	2360.78	2362.13	B	PhD	s^r	+1	1	I don't have good result .
+Bro019.B.dialogueact1131	2370.99	2378.27	B	PhD	s	+1	2	I tried to include another new parameter to the traditional parameter ,
+Bro019.B.dialogueact1173	2493.64	2504.63	B	PhD	s	+1	1	I do {disfmarker} I did two type of experiment to include this feature directly with the {disfmarker} with the other feature
+Bro019.B.dialogueact1179	2518.24	2521.58	B	PhD	s	+1	1	n with the neural network I have more or less the same result .
+Bro019.A.dialogueact1180	2522.16	2523.5	A	PhD	qy^bu^d^rt	+1	1	As using just the cepstrum ,
+Bro019.B.dialogueact1187	2527.13	2528.23	B	PhD	s^e	+1	1	sometime it 's worse ,
+Bro019.B.dialogueact1188	2528.23	2529.8	B	PhD	s^e	+1	1	sometime it 's a little bit better ,
+15	Bro019.s.11	Though not directly related to the groups work , speaker me006 has been putting together his proposal or a PhD , and me026 has been helping another researcher with his work on formants.
+Bro019.C.dialogueact1371	2948.77	2950.46	C	Professor	qy^rt^tc	+1	2	anything on your end you want to talk about ?
+Bro019.G.dialogueact1375	2956.92	2959.8	G	Grad	s^df	+1	2	Sunil hasn't {disfmarker} hasn't heard about uh , what I 've been doing .
+Bro019.G.dialogueact1380	2967.03	2974.86	G	Grad	s^df	+1	2	So basically that 's just , um , trying to propose um , uh , your next your {disfmarker} your following years of {disfmarker} of your PHD work ,
+Bro019.G.dialogueact1381	2974.86	2979.52	G	Grad	s^df	+1	2	trying {disfmarker} trying to find a project to {disfmarker} to define and {disfmarker} and to work on .
+Bro019.G.dialogueact1382	2979.89	2988.45	G	Grad	s	+1	2	So , I 've been , uh , looking into , um , doing something about r uh , speech recognition using acoustic events .
+Bro019.G.dialogueact1391	3000.89	3007.41	G	Grad	s	+1	2	um , building robust um , primary detectors for these acoustic events ,
+Bro019.G.dialogueact1392	3007.87	3012.73	G	Grad	s	+1	2	and using the outputs of these robust detectors to do speech recognition .
+Bro019.C.dialogueact1503	3254.81	3257.23	C	Professor	qy^rt	+1	1	Is that {disfmarker} that something worth talking about ,
+Bro019.E.dialogueact1507	3259.43	3261.99	E	Grad	s^ng	+1	1	Well , um , it {disfmarker} I don't think it directly relates .
+Bro019.E.dialogueact1508	3261.99	3266.11	E	Grad	fh|s	+1	1	Um , well , so , I was helping a speech researcher named Pierre Divenyi
+Bro019.E.dialogueact1509	3266.11	3274.98	E	Grad	s	+1	1	and he 's int He wanted to um , look at um , how people respond to formant changes , I think .
+Bro019.E.dialogueact1511	3275.84	3280.36	E	Grad	s	+1	1	So he {disfmarker} he created a lot of synthetic audio files of vowel - to - vowel transitions ,
+Bro019.E.dialogueact1512	3280.98	3285.32	E	Grad	s	+1	1	and then he wanted a psycho - acoustic um , spectrum .
+Bro019.E.dialogueact1513	3286.92	3293.26	E	Grad	s	+1	1	And he wanted to look at um , how the energy is moving {pause} over time in that spectrum
+Bro019.E.dialogueact1514	3293.26	3295.84	E	Grad	s	+1	1	and compare that to the {disfmarker} to the listener tests .

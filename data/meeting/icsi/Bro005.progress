@@ -1,0 +1,127 @@
+27	Bro005.s.13	Speakers mn007 and fn002 have made further progress into the series of experiments they have been running in previous weeks; results were varied.
+Bro005.A.dialogueact42	96.09	98.83	A	PhD	s^rt	+1	3	Summary of experiments since , well , since last week
+Bro005.A.dialogueact43	98.83	102.387	A	PhD	s^rt	+1	3	and also since the {disfmarker} we 've started to run {disfmarker} work on this .
+Bro005.A.dialogueact44	103.277	115.416	A	PhD	fh|s	+1	3	Um . {pause} So since last week we 've started to fill the column with um {vocalsound} uh features w with nets trained on PLP with on - line normalization
+Bro005.A.dialogueact45	115.416	117.156	A	PhD	s	+1	2	but with delta also ,
+Bro005.A.dialogueact51	122.046	127.306	A	PhD	s^rt	+1	1	but {pause} we have more results to compare with network using without PLP
+Bro005.A.dialogueact52	127.306	132.826	A	PhD	s	+1	2	and {pause} finally , hhh , {comment} um {pause} ehhh {comment} PL - uh delta seems very important .
+Bro005.A.dialogueact127	361.172	363.672	A	PhD	s^rt	+1	1	We have also started feature combination experiments .
+Bro005.A.dialogueact128	364.502	368.402	A	PhD	s	+1	1	Uh many experiments using features and net outputs together .
+Bro005.A.dialogueact129	369.232	374.892	A	PhD	s^rt	+1	2	And this is {disfmarker} The results are on the other document .
+Bro005.A.dialogueact134	394.936	398.946	A	PhD	s	+1	1	So it 's the {disfmarker} kind of similar to the tandem that was proposed for the first .
+Bro005.A.dialogueact135	399.666	401.776	A	PhD	s^rt	+1	1	The multi - stream tandem for the first proposal .
+Bro005.A.dialogueact136	401.776	407.746	A	PhD	s^rt	+1	1	The second is using features and KLT transformed MLP outputs .
+Bro005.A.dialogueact137	408.096	414.676	A	PhD	s^rt	+1	1	And the third one is to u use a single KLT trans transform features as well as MLP outputs .
+Bro005.B.dialogueact157	468.954	477.314	B	PhD	s^rt	+1	3	And first in the experiment - one I {disfmarker} I do {disfmarker} I {disfmarker} I use different MLP ,
+Bro005.B.dialogueact159	478.397	484.647	B	PhD	s	+1	2	and is obviously that the multi - English MLP is the better .
+Bro005.B.dialogueact160	486.031	491.221	B	PhD	fh|s	+1	1	Um . for the ne {disfmarker} rest of experiment I use multi - English ,
+Bro005.B.dialogueact162	493.581	496.501	B	PhD	s	+1	1	And I try to combine different type of feature ,
+Bro005.D.dialogueact188	577.12	584.54	D	Professor	qw	+1	2	when you said the baseline system was uh , uh eighty - two percent , that was trained on what and tested on what ?
+Bro005.D.dialogueact189	584.86	591.65	D	Professor	s	+1	2	That was , uh Italian mismatched d uh , uh , digits , uh , is the testing ,
+Bro005.D.dialogueact191	591.65	594.0	D	Professor	qy^bu^d^rt	+1	2	and the training is Italian digits ?
+Bro005.B.dialogueact192	594.216	594.566	B	PhD	s^aa^rt	+1	2	Yeah .
+Bro005.D.dialogueact193	596.05	600.55	D	Professor	s^bu	+1	2	So the " mismatch " just refers to the noise and {disfmarker} and , uh microphone and so forth ,
+Bro005.A.dialogueact803	2091.87	2100.87	A	PhD	fg|s^rt.%--	+1	1	Yeah . So , {pause} the {disfmarker} the reason {disfmarker} Yeah , the reason is that the {disfmarker} perhaps the target {disfmarker} the {disfmarker} the task dependency {disfmarker} the language dependency , {vocalsound} and the noise dependency {disfmarker}
+Bro005.A.dialogueact806	2102.07	2104.87	A	PhD	s	+1	1	Well , the e e But this is still not clear
+Bro005.A.dialogueact809	2108.99	2114.25	A	PhD	s	+1	1	I {disfmarker} I {disfmarker} I don't think we have enough result to talk about the {disfmarker} the language dependency .
+Bro005.A.dialogueact810	2114.25	2116.77	A	PhD	s	+1	3	Well , the TIMIT network is still the best
+Bro005.D.dialogueact832	2171.85	2183.6	D	Professor	s^bs	+1	1	yes there 's what you would expect in terms of a language dependency and a noise dependency . That is , uh , when the neural net is trained on one of those and tested on something different , we don't do as well as in the target thing .
+28	Bro005.s.14	The main conclusions include that training on task data is good , and the best broad training data is the English TIMIT database.
+Bro005.A.dialogueact69	182.389	191.131	A	PhD	s^rt	+1	1	But , actually , um , for English training on TIMIT is still better than the other languages .
+Bro005.A.dialogueact78	209.758	210.858	A	PhD	s^rt	+1	3	so , it 's multi - English ,
+Bro005.A.dialogueact79	210.858	212.658	A	PhD	s	+1	3	we have a ninety - one number ,
+Bro005.A.dialogueact81	213.556	216.956	A	PhD	s	+1	3	and training with other languages is a little bit worse .
+Bro005.A.dialogueact110	284.06	287.72	A	PhD	s	+1	2	except for the multi - English , which is always one of the best .
+Bro005.B.dialogueact157	468.954	477.314	B	PhD	s^rt	+1	3	And first in the experiment - one I {disfmarker} I do {disfmarker} I {disfmarker} I use different MLP ,
+Bro005.B.dialogueact159	478.397	484.647	B	PhD	s	+1	2	and is obviously that the multi - English MLP is the better .
+Bro005.D.dialogueact357	914.459	920.169	D	Professor	s	+1	1	So then you 're assuming multi - English is closer to the kind of thing that you could use
+Bro005.D.dialogueact358	920.169	925.927	D	Professor	s^df	+1	1	since you 're not gonna have matching , uh , data for the {disfmarker} uh for the new {disfmarker} for the other languages and so forth .
+Bro005.D.dialogueact376	957.74	963.5	D	Professor	s	+1	2	So , it it 's still {disfmarker} it hurts you {disfmarker} seems to hurt you a fair amount to add in this French and Spanish .
+Bro005.D.dialogueact379	966.21	967.08	D	Professor	s	+1	2	I wonder why
+Bro005.C.dialogueact381	970.314	972.824	C	Grad	s	+1	2	Well Stephane was saying that they weren't hand - labeled ,
+Bro005.C.dialogueact385	974.088	976.098	C	Grad	s	+1	2	the French and the Spanish .
+Bro005.D.dialogueact478	1173.76	1176.71	D	Professor	s.%--	+1	1	What {disfmarker} what we 're saying is that one o one of the things that {disfmarker}
+Bro005.D.dialogueact479	1176.91	1182.05	D	Professor	s	+1	1	I mean my interpretation of your {disfmarker} your s original suggestion is something like this , as motivation .
+Bro005.D.dialogueact480	1182.93	1194.77	D	Professor	s	+1	1	When we train on data that is in one sense or another , similar to the testing data , then we get a win by having discriminant training .
+Bro005.D.dialogueact482	1195.39	1199.88	D	Professor	s	+1	1	When we train on something that 's quite different , we have a potential to have some problems .
+Bro005.A.dialogueact651	1714.38	1715.86	A	PhD	s	+1	2	we still have to work on Finnish ,
+Bro005.A.dialogueact652	1717.11	1723.84	A	PhD	s	+1	2	um , basically , to make a decision on which MLP can be the best across the different languages .
+Bro005.A.dialogueact653	1723.84	1730.32	A	PhD	s	+1	2	For the moment it 's the TIMIT network , and perhaps the network trained on everything .
+Bro005.A.dialogueact712	1896.31	1906.4	A	PhD	s^rt	+1	1	Uh , so the fourth point is , yeah , the TIMIT plus noise seems to be the training set that gives better {disfmarker} the best network .
+Bro005.A.dialogueact810	2114.25	2116.77	A	PhD	s	+1	3	Well , the TIMIT network is still the best
+Bro005.A.dialogueact812	2119.33	2121.04	A	PhD	s^df	+1	2	the fact that it 's {disfmarker} it 's hand - labeled .
+Bro005.A.dialogueact914	2380.61	2383.36	A	PhD	s	+1	2	We can , we can tell which training set gives the best result ,
+Bro005.A.dialogueact915	2383.95	2386.29	A	PhD	s^df	+1	2	but {vocalsound} we don't know exactly why .
+Bro005.A.dialogueact918	2393.47	2394.03	A	PhD	b	+1	1	Yeah .
+Bro005.D.dialogueact916	2387.77	2393.48	D	Professor	fg|s	+1	1	Uh . Right , I mean the multi - English so far is {disfmarker} is the best .
+Bro005.D.dialogueact919	2393.48	2394.93	D	Professor	s^bu	+1	1	" Multi - multi - English " just means " TIMIT " ,
+33	Bro005.s.15	Other results show that MSG makes little difference , adding MLP improves when trained on task data , decreases figures when not , while using delta generally improves the situation , as does on-line normalization.
+Bro005.A.dialogueact52	127.306	132.826	A	PhD	s	+1	2	and {pause} finally , hhh , {comment} um {pause} ehhh {comment} PL - uh delta seems very important .
+Bro005.A.dialogueact57	145.806	154.556	A	PhD	s^rt	+1	3	uh {pause} when we use the large training set using French , Spanish , and English , you have one hundred and six without delta
+Bro005.A.dialogueact58	154.556	156.056	A	PhD	s	+1	3	and eighty - nine with the delta .
+Bro005.D.dialogueact59	156.701	163.801	D	Professor	s^bu	+1	3	a And again all of these numbers are with a hundred percent being , uh , the baseline performance ,
+Bro005.A.dialogueact88	226.19	231.05	A	PhD	s	+1	2	And , yeah , and here the gap is still more important between using delta and not using delta .
+Bro005.A.dialogueact90	231.79	236.58	A	PhD	s^rt	+1	3	If y if I take the training s the large training set , it 's {disfmarker} we have one hundred and seventy - two ,
+Bro005.A.dialogueact92	237.18	239.29	A	PhD	s	+1	3	and one hundred and four when we use delta .
+Bro005.A.dialogueact94	240.304	243.374	A	PhD	fh.x|s^rt	+1	2	Uh . {pause} Even if the contexts used is quite the same ,
+Bro005.B.dialogueact163	496.501	503.081	B	PhD	s	+1	1	but the result is that the MSG - three feature doesn't work for the Italian database
+Bro005.B.dialogueact164	504.27	509.31	B	PhD	s	+1	1	because never help to increase the accuracy .
+Bro005.A.dialogueact168	514.411	520.481	A	PhD	s^rt	+1	1	um , we see that for TI - digits MSG perform as well as the PLP ,
+Bro005.A.dialogueact169	522.759	529.689	A	PhD	s	+1	1	but this is not the case for Italian what {disfmarker} where the error rate is c is almost uh twice the error rate of PLP .
+Bro005.A.dialogueact174	543.606	544.576	A	PhD	s^no	+1	1	I don't know what exactly .
+Bro005.A.dialogueact175	544.576	549.786	A	PhD	s^cs^rt	+1	1	Perhaps the fact that the {disfmarker} the {disfmarker} there 's no low - pass filter ,
+Bro005.A.dialogueact177	550.526	552.316	A	PhD	s^cs	+1	1	or no pre - emp pre - emphasis filter
+Bro005.A.dialogueact178	552.316	555.206	A	PhD	s	+1	1	and that there is some DC offset in the Italian ,
+Bro005.A.dialogueact181	557.279	564.309	A	PhD	s	+1	1	But {disfmarker} that we need to sort out if want to uh get improvement by combining PLP and MSG
+Bro005.A.dialogueact183	564.309	568.759	A	PhD	s^df	+1	1	because for the moment MSG do doesn't bring much information .
+Bro005.D.dialogueact317	809.588	811.858	D	Professor	s^bu	+1	1	And then adding the MSG does nothing , basically .
+Bro005.A.dialogueact318	812.833	812.983	A	PhD	s^aa	+1	1	No .
+Bro005.D.dialogueact324	824.323	837.023	D	Professor	fh|s.%--	+1	1	So , um {disfmarker} So actually , the answer for experiments with one is that adding MSG , if you {disfmarker} uh does not help in that case .
+Bro005.A.dialogueact325	836.768	837.128	A	PhD	b	+1	1	Mm - hmm .
+Bro005.B.dialogueact400	1009.15	1012.7	B	PhD	s^rt	+1	1	first the feature are without delta and delta - delta ,
+Bro005.B.dialogueact401	1013.1	1019.13	B	PhD	s	+1	1	and we can see that in the situation , uh , the MSG - three , the same help nothing .
+Bro005.B.dialogueact403	1020.19	1022.76	B	PhD	s^rt	+1	1	And then I do the same
+Bro005.B.dialogueact404	1022.76	1026.52	B	PhD	s^rt	+1	1	but with the delta and delta - delta {disfmarker} PLP delta and delta - delta .
+Bro005.A.dialogueact698	1846.89	1850.31	A	PhD	fg|s	+1	1	Yeah , basically the observation is what we discussed already .
+Bro005.A.dialogueact699	1850.82	1851.97	A	PhD	s^rt	+1	1	The MSG problem ,
+Bro005.A.dialogueact701	1856.02	1859.72	A	PhD	s	+1	1	the fact that the MLP trained on target task decreased the error rate .
+Bro005.A.dialogueact702	1860.34	1871.18	A	PhD	s	+1	1	but when the M - MLP is trained on the um {disfmarker} is not trained on the target task , it increased the error rate compared to using straight features .
+Bro005.D.dialogueact792	2052.27	2056.32	D	Professor	s.%--	+1	1	That 's {disfmarker} that {disfmarker} what we were concerned about is that if it 's not on the target task {disfmarker}
+Bro005.D.dialogueact793	2057.03	2062.07	D	Professor	s	+1	1	If it 's on the target task then it {disfmarker} it {disfmarker} it helps to have the MLP transforming it .
+Bro005.D.dialogueact795	2063.04	2070.55	D	Professor	s	+1	1	If it uh {disfmarker} if it 's not on the target task , then , depending on how different it is , uh you can get uh , a reduction in performance .
+3	Bro005.s.16	Starting work with a new broad database drawn from English , French , TIMIT , SPINE and English and Italian digits.
+Bro005.A.dialogueact112	294.894	313.501	A	PhD	s^rt.x	+1	2	then we started to work on a large dat database containing , uh , sentences from the French , from the Spanish , from the TIMIT , from SPINE , uh from {comment} uh English digits , and from Italian digits .
+Bro005.A.dialogueact117	321.484	326.702	A	PhD	s	+1	2	and {pause} uh , actually we did this before knowing the result of all the data ,
+Bro005.A.dialogueact118	327.535	333.335	A	PhD	s	+1	2	uh , so we have to to redo the uh {disfmarker} the experiment training the net with , uh PLP , but with delta .
+11	Bro005.s.17	mn007 has also started work on multi-band MLP trainings , with large context.
+Bro005.A.dialogueact636	1665.04	1667.37	A	PhD	s^rt	+1	1	uh , I started multi - band MLP trainings ,
+Bro005.A.dialogueact639	1678.16	1681.31	A	PhD	s	+1	1	So I take exactly the same configurations ,
+Bro005.A.dialogueact640	1681.31	1684.1	A	PhD	s	+1	1	seven bands with nine frames of context ,
+Bro005.A.dialogueact641	1685.17	1686.64	A	PhD	s	+1	1	and we just train on TIMIT ,
+Bro005.A.dialogueact642	1688.34	1690.06	A	PhD	s	+1	1	and on the large database ,
+Bro005.A.dialogueact643	1690.26	1691.63	A	PhD	s	+1	1	so , with SPINE and everything .
+Bro005.A.dialogueact645	1695.39	1699.67	A	PhD	s	+1	1	mmm , I 'm starting to train also , networks with larger contexts .
+Bro005.A.dialogueact646	1699.92	1704.24	A	PhD	s	+1	1	So , this would {disfmarker} would be something between TRAPS and multi - band
+Bro005.A.dialogueact647	1704.24	1707.76	A	PhD	s	+1	1	because we still have quite large bands ,
+Bro005.A.dialogueact648	1708.36	1710.46	A	PhD	s	+1	1	and {disfmarker} but with a lot of context also .
+Bro005.A.dialogueact985	2552.47	2562.81	A	PhD	s^am	+1	1	So perhaps , I think something like multi - band trained on a lot of noises with uh , features - based targets could {disfmarker} could {disfmarker} could help .
+12	Bro005.s.18	OGI have a block diagram explaining their system , and the group are trying to fit their work into it.
+Bro005.A.dialogueact621	1592.15	1606.02	A	PhD	fh	+1	2	Um , discussion with Hynek , Sunil and Pratibha for trying to plug in their our {disfmarker} our networks with their {disfmarker} within their block diagram ,
+Bro005.A.dialogueact622	1607.67	1612.89	A	PhD	s	+1	2	uh , where to plug in the {disfmarker} the network , uh , after the {disfmarker} the feature ,
+Bro005.A.dialogueact623	1612.89	1617.66	A	PhD	s	+1	2	before as um a as a plugin or as a anoth another path ,
+Bro005.A.dialogueact626	1621.11	1623.59	A	PhD	s.%--	+1	2	actually Hynek would like to see ,
+Bro005.A.dialogueact627	1625.13	1637.11	A	PhD	s	+1	2	perhaps if you remember the block diagram there is , uh , temporal LDA followed b by a spectral LDA for each uh critical band .
+Bro005.A.dialogueact628	1638.58	1642.05	A	PhD	s	+1	2	And he would like to replace these by a network
+Bro005.A.dialogueact629	1642.53	1646.63	A	PhD	s	+1	2	which would , uh , make the system look like a TRAP .
+Bro005.A.dialogueact999	2599.63	2608.05	A	PhD	s	+1	2	The future work is , {pause} well , try to connect to the {disfmarker} to make {disfmarker} to plug in the system to the OGI
+Bro005.A.dialogueact1001	2611.07	2614.05	A	PhD	s^rt	+1	2	Um , there are still open questions there ,
+Bro005.A.dialogueact1003	2614.26	2616.26	A	PhD	s	+1	2	where to put the MLP basically .
+Bro005.A.dialogueact1047	2723.07	2732.34	A	PhD	s	+1	1	Yeah , so thi this sh would be more working on the MLP as an additional path instead of an insert to the {disfmarker} to their diagram .
+Bro005.A.dialogueact1050	2734.28	2737.26	A	PhD	s	+1	1	Perhaps the insert idea is kind of strange
+6	Bro005.s.19	Speaker me006 has been helping prepare data , but is mainly doing work for a class he takes , looking at modelling asynchrony.
+Bro005.D.dialogueact1345	3637.81	3638.87	D	Professor	s^t^tc	+1	1	Barry , you 've been pretty quiet .
+Bro005.D.dialogueact1348	3642.02	3646.96	D	Professor	qw^rt	+1	1	but {disfmarker} {vocalsound} That {disfmarker} what {disfmarker} what {disfmarker} what were you involved in in this primarily ?
+Bro005.C.dialogueact1350	3650.63	3654.21	C	Grad	s	+1	1	Well , they 've been kind of running all the experiments and stuff
+Bro005.C.dialogueact1351	3654.21	3665.45	C	Grad	s	+1	1	and I 've been uh , uh w doing some work on the {disfmarker} on the {disfmarker} preparing all {disfmarker} all the data for them to {disfmarker} to um , train and to test on .
+Bro005.C.dialogueact1353	3667.87	3673.58	C	Grad	fh|s	+1	1	Yeah . Right now , I 'm {disfmarker} I 'm focusing mainly on this final project I 'm working on in Jordan 's class .
+Bro005.C.dialogueact1366	3709.09	3718.89	C	Grad	fh|s	+1	1	And um , {vocalsound} I 'm just gonna see if {disfmarker} if that {disfmarker} that better models {pause} um , uh asynchrony in any way

@@ -1,0 +1,13 @@
+12	Bro021.s.7	Some previously reported results from me026 were determined to be garbage due to a bug in the code  Speaker mn052 also feels that his strange results are down to a bug.
+Bro021.G.dialogueact548	1363.81	1372.79	G	Grad	s	+1	3	Well , in my lunch talk last week I {disfmarker} I said I 'd tried phase normalization and gotten garbage results using that l um , long - term mean subtraction approach .
+Bro021.G.dialogueact549	1373.37	1375.35	G	Grad	s^df	+1	2	It turned out there was a bug in my Matlab code .
+Bro021.D.dialogueact668	1681.96	1687.93	D	PhD	h|s	+1	3	So , um , I 've been , uh , implementing this , uh , Wiener filtering for this Aurora task .
+Bro021.D.dialogueact670	1690.81	1695.11	D	PhD	s	+1	2	I {disfmarker} I actually thought it was {disfmarker} it was doing fine when I tested it once .
+Bro021.D.dialogueact671	1695.19	1697.48	D	PhD	s	+1	2	I it 's , like , using a small section of the code .
+Bro021.D.dialogueact673	1700.03	1703.01	D	PhD	s	+1	2	and I got , {vocalsound} like , worse results than not using it .
+Bro021.D.dialogueact675	1704.21	1706.79	D	PhD	s	+1	2	So , I 've been trying to find where the problem came from .
+Bro021.D.dialogueact676	1706.79	1709.06	D	PhD	s	+1	2	And then it looks like I have some problem in the way {disfmarker}
+Bro021.D.dialogueact677	1709.32	1711.67	D	PhD	s^df	+1	2	there is some {disfmarker} some very silly bug somewhere .
+Bro021.D.dialogueact679	1712.72	1716.05	D	PhD	s	+1	2	I {disfmarker} I mean , i uh , it actually {disfmarker} i it actually made the whole thing worse .
+Bro021.D.dialogueact681	1718.32	1720.42	D	PhD	s	+1	2	and it 's , like {disfmarker} w it 's {disfmarker} it 's very horrible .
+Bro021.D.dialogueact706	1749.59	1752.59	D	PhD	s	+1	2	I was like {disfmarker} I 'm trying to find where the m m problem came ,

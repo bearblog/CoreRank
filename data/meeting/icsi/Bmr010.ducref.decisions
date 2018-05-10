@@ -1,0 +1,5 @@
+In the interest of time , it was decided that the group should continue using the existing Transcriber tool and perform a forced alignment on the close-talking microphones that will , it is hoped , help to recover some of the time information indicating where different speaker overlaps occurred in the signal.
+A meeting will be arranged with NIST to decide on a common standard and format for doing transcriptions.
+One or two meetings will be assigned to multiple transcribers to check for inter-annotator agreement.
+To cut down on audible breaths during recordings , the group will institute some level of standards for microphone wear and use.
+Speaker mn005 will feed his hand-segmented data into the speech segmenter developed by Javier to train it to identify different types of speech ( i.e . that of single versus multiple speakers ) , as well as focussing on pitch- and harmonicity-related features for identifying overlapping speech.

@@ -1,0 +1,10 @@
+Research aims and corresponding concerns for future data collection were discussed.
+A student researcher will be working with speaker fe016 to investigate different strategies for automatically summarizing meetings , and identifying discussional 'hotspots'.
+Efforts by speaker mn005 are ongoing to detect regions of speaker overlap in the signal.
+A total of 230 regions of overlapping speech have been manually transcribed for a subset of meeting data.
+Supervised clustering and neural networks are being considered as means for classifying overlap.
+It was suggested that speaker mn005 focus on a small set of acoustic parameters , e.g . energy and harmonics-related features , to use the mixed signal to distinguish regions of overlap from those containing the speech of just one speaker.
+Future work may also involve focussing on additional signals , and using a Markov model to analyze acoustic parameters over larger time frames.
+Beam-forming was suggested as an alternate method of detecting overlapping speech.
+Efforts are ongoing to select an optimal method for anonymizing speakers.
+More disk space is gradually being made available for the storage of new Meeting Recorder data.

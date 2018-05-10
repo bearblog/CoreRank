@@ -1,0 +1,16 @@
+2	Bed013.s.16	The idea to create a language generation module for the system , along with the language understanding , was met with interest , although it was made clear that generation is not just the inverse of understanding.
+Bed013.E.dialogueact110	422.51	432.2	E	Grad	s^nd	+1	1	e I 'm sort of {disfmarker} have the impression that getting it to say the right thing in the right circumstances is much more difficult than getting it to understand something given the circumstances and so on ,
+Bed013.D.dialogueact118	459.86	461.79	D	Grad	s^e	+1	1	it 's not the same as the understanding .
+1	Bed013.s.17	Understanding what a construction entails does not mean the system can use the construction in all appropriate circumstances.
+Bed013.E.dialogueact114	441.82	449.19	E	Grad	s|qy^d^f^g	+1	1	just the fact that we 'll get {disfmarker} The point is that getting it to understand one construction doesn't mean that it will n always know exactly when it 's correct to use that construction . Right ?
+2	Bed013.s.18	A dialogue producing system would be useful for training the system further , even though the number of input permutations could render the process computationally unwieldy.
+Bed013.D.dialogueact94	344.12	345.74	D	Grad	s	+1	2	But maybe one could do some learning .
+Bed013.E.dialogueact250	768.76	778.73	E	Grad	fg|s	+1	1	Yeah , it 's g Anyway , the point is that given all of these different factors , it 's uh e it 's {disfmarker} it 's still going to be impossible to run through all of the possible situations or whatever .
+1	Bed013.s.19	Regarding the conference paper , it was noted that at this stage they have not completed any big parts of the system and there is no evaluation.
+Bed013.D.dialogueact540	1353.73	1357.8	D	Grad	s	+1	1	I mean , it 's obvious that we can't do any kind of evaluation ,
+1	Bed013.s.20	Similarly , the length of the paper would not allow for presentation of the formalism in detail.
+Bed013.A.dialogueact768	1735.29	1740.95	A	Grad	s	+1	1	Like introducing the formalism might be not really possible in detail ,
+0	Bed013.s.21	The focus would have to be on cognitive motivations of the research , and not on system design , anyway.
+0	Bed013.s.22	Such motivations also apply to the belief-net: there are various direct or indirect ways to link features of the Ontology or Discourse with specific intentions.
+1	Bed013.s.23	The originating observation behind the whole project is that utterances like "Where is X?" are seemingly unambiguous , but , in context , they can acquire much more complex interpretations.
+Bed013.D.dialogueact1384	3334.23	3344.53	D	Grad	s:qw	+1	1	but normal statements that seem completely unambiguous , such as " where is the blah - blah " , actually are terribly complex , and completely ambiguous .

@@ -1,0 +1,20 @@
+1	Bed009.s.3	The group set a date for assessing SmartKom plans.
+Bed009.F.dialogueact122	463.501	472.491	F	Professor	s^cc	+1	1	so anyt we 'll find a time later in the week to uh get together and talk about {pause} your understanding of what SmartKom plans are .
+1	Bed009.s.4	It was decided that SmartKom's action plans should be represented in XML as a state transition network.
+Bed009.A.dialogueact356	1199.47	1212.08	A	PhD	s	+1	1	And they 're currently um Agreeing or {disfmarker} or in the process of agreeing on an X M L - ification of um something like a state - transition network of how dialogues would proceed .
+1	Bed009.s.5	It was proposed that the term 'dialogue planner' should replace 'dialogue manager'.
+Bed009.A.dialogueact561	1745.52	1747.41	A	PhD	s	+1	1	It oughta be called a {disfmarker} a dialogue manager .
+2	Bed009.s.6	Prolog will be phased out completely and replaced by Java code.
+Bed009.A.dialogueact619	1885.71	1889.2	A	PhD	s^ar^r|s	+1	1	no he 's completely gonna rewrite everything . In Java .
+Bed009.A.dialogueact626	1895.61	1897.04	A	PhD	s^ar^m|s	+1	1	No , that 's gonna be phased out .
+2	Bed009.s.7	The dialogue manager must be capable of changing states , i.e . go from being event driven to answering a question from a planning module.
+Bed009.F.dialogueact669	2025.35	2030.61	F	Professor	s:s	+1	2	and this {disfmarker} one of these planning modules comes along and says " hey , right now we need to ask a question " .
+Bed009.F.dialogueact671	2031.08	2033.62	F	Professor	s	+1	1	So that forces the dialogue manager to change state .
+4	Bed009.s.8	SmartKom should feature a well defined core interface , with domain-specific information kept external.
+Bed009.A.dialogueact680	2045.65	2058.64	A	PhD	s	+1	1	And {disfmarker} and the {disfmarker} the underlying idea of course is that there is something like kernel modules with kernel functionality that you can plug uh certain applications like tourist information or um the home scenario with uh controlling a VCR and so on .
+Bed009.A.dialogueact685	2069.32	2072.72	A	PhD	s	+1	1	and keep these things like uh tourist information external .
+Bed009.A.dialogueact683	2065.88	2069.32	A	PhD	s	+1	1	That 's an additional reason to have this well - defined interface
+Bed009.F.dialogueact1065	3026.25	3038.28	F	Professor	s	+1	1	So if you can do this , then the notion would be that across a very large range of domains , you could use this deep conceptual basis as the interface .
+2	Bed009.s.9	A syntactic analysis component that performs chunk parsing will be added to the system.
+Bed009.D.dialogueact728	2203.7	2207.74	D	Grad	h|s^rt	+1	1	um it 's to {disfmarker} to integrate and syntactic analysis .
+Bed009.F.dialogueact835	2444.87	2454.32	F	Professor	s^arp	+1	2	But {disfmarker} But uh given th the constraints , that you want it to be small and fast and so forth , my guess is you 're probably into some kind of chunk parsing .

@@ -1,0 +1,24 @@
+2	Bro013.s.1	The Main purpose of the meeting of ICSI's Meeting Recorder Group at Berkeley was to discuss the recent progress of it's members.
+Bro013.A.dialogueact11	33.97	37.701	A	Professor	fh|qw^rt^t	+1	1	Um . {vocalsound} {vocalsound} What are we talking about today ?
+Bro013.E.dialogueact12	39.907	46.43	E	PhD	s^t	+1	4	Uh , well , first there are perhaps these uh Meeting Recorder digits that we tested .
+9	Bro013.s.2	This includes reports on the progress of the groups main digit recogniser project , with interest on voice-activity detectors and voiced/unvoiced detection , work on acoustic feature detection , and research into dealing with reverberation.
+Bro013.E.dialogueact12	39.907	46.43	E	PhD	s^t	+1	4	Uh , well , first there are perhaps these uh Meeting Recorder digits that we tested .
+Bro013.E.dialogueact329	755.7	759.569	E	PhD	s.%--	+1	2	Perhaps the point is that we 've been working on {vocalsound} is ,
+Bro013.E.dialogueact330	759.569	762.689	E	PhD	s	+1	2	yeah , we have put the um the good VAD in the system
+Bro013.E.dialogueact331	762.689	765.98	E	PhD	s	+1	2	and {vocalsound} it really makes a huge difference .
+Bro013.E.dialogueact426	1017.07	1023.79	E	PhD	fg|s	+1	2	Yeah , and then we 've started to work with this of um voiced - unvoiced stuff .
+Bro013.D.dialogueact435	1059.94	1068.69	D	PhD	s	+1	2	No , I w {vocalsound} I begin to play {vocalsound} with Matlab and to found some parameter robust for voiced - unvoiced decision .
+Bro013.A.dialogueact647	1560.58	1561.12	A	Professor	qo^tc	+1	2	What 's up with you ?
+Bro013.C.dialogueact676	1694.76	1698.25	C	Grad	s	+1	2	so I 've been looking at Avendano 's work
+Bro013.C.dialogueact679	1705.6	1711.23	C	Grad	s^e	+1	1	but it 's {disfmarker} it 's an approach to deal with {vocalsound} reverberation or that {disfmarker} the aspect of his work that I 'm interested in
+10	Bro013.s.3	There was also talk of comparing different recognition systems and training datasets , and a discussion of the pronunciation of the digit zero for the recording at the end of the meeting.
+Bro013.E.dialogueact12	39.907	46.43	E	PhD	s^t	+1	4	Uh , well , first there are perhaps these uh Meeting Recorder digits that we tested .
+Bro013.A.dialogueact15	47.453	51.017	A	Professor	s.%--	+1	2	The {disfmarker} both the uh {disfmarker} {vocalsound} the SRI System and the oth
+Bro013.C.dialogueact724	1961.22	1965.34	C	Grad	s	+1	1	y you do {disfmarker} I think you read some of the {disfmarker} the zeros as O 's and some as zeros .
+Bro013.C.dialogueact726	1966.64	1968.49	C	Grad	qy^rt	+1	1	Is there a particular way we 're supposed to read them ?
+Bro013.E.dialogueact737	1978.59	1981.95	E	PhD	s^cs.%--	+1	1	Perhaps in the sheets there should be another sign for the {disfmarker}
+Bro013.A.dialogueact741	1985.35	1986.92	A	Professor	s	+1	1	I mean . I think people will do what they say .
+Bro013.A.dialogueact747	1987.91	1995.31	A	Professor	s	+1	1	I mean in digit recognition we 've done before , you have {disfmarker} you have two pronunciations for that value , " O " and " zero " .
+Bro013.A.dialogueact751	2002.56	2003.24	A	Professor	s^nd.%--	+1	1	No , they just write {disfmarker}
+Bro013.E.dialogueact752	2002.57	2004.66	E	PhD	s^df	+1	1	and {disfmarker} and people pronounce " O " or zero {disfmarker}
+Bro013.A.dialogueact764	2020.62	2023.64	A	Professor	s	+1	1	and you just {disfmarker} They just want people to read the digits as you ordinarily would

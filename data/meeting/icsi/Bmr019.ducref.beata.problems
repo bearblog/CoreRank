@@ -1,0 +1,4 @@
+Lapel microphones are sensitive to noises such as clothes rustling.
+Recognition of digits recorded with close microphones is significantly more difficult than that of studio-recorded TI-digits.
+The amount of close microphone data is too small to train a reliable Hidden Markov Model.
+Alignment quality is detrimentally affected by background speech.

@@ -1,0 +1,77 @@
+0	Bro026.s.1	ICSI's Meeting Recorder Group at Berkeley met mainly to discuss work on their main project , the Aurora task , but also talked about the work of one of their student members.
+15	Bro026.s.2	Some members of the group met recently with research partners to settle on the current state of their software , and decide on the future work they would investigate , and these decisions were relayed to the rest of the group.
+Bro026.B.dialogueact2	13.793	32.968	B	Professor	fg|s	+1	1	so {pause} We {disfmarker} we had a meeting with , uh {disfmarker} with Hynek , um , in {disfmarker} in which , uh , uh , Sunil and Stephane , uh {vocalsound} summarized where they were and {disfmarker} and , uh , talked about where we were gonna go .
+Bro026.B.dialogueact3	33.088	34.748	B	Professor	s	+1	1	So that {disfmarker} that happened sort of mid - week .
+Bro026.B.dialogueact127	236.354	247.993	B	Professor	s^co^t	+1	1	But I guess maybe the thing {disfmarker} since you weren't {disfmarker} yo you guys weren't at that {disfmarker} that meeting , might be just {disfmarker} just to , um , sort of recap , uh , the {disfmarker} the conclusions of the meeting .
+Bro026.E.dialogueact130	248.35	249.48	E	PhD	qy^bu^d	+1	1	You 're talking about the meeting with Hynek ?
+Bro026.B.dialogueact135	256.699	270.173	B	Professor	s:qw^t	+1	1	Since he 's going out of town like now , and I 'm going out town in a couple weeks , uh , and time is marching , sort of , given all the mu many wonderful things we could be working on , what {disfmarker} what will we actually focus on ?
+Bro026.B.dialogueact137	270.413	272.533	B	Professor	fh|s:qw	+1	1	And , uh {disfmarker} and what do we freeze ?
+Bro026.B.dialogueact138	272.533	273.513	B	Professor	s.%--:qw.%--	+1	1	And , you know , what do we {disfmarker} ?
+Bro026.B.dialogueact146	290.602	305.544	B	Professor	s^cs	+1	1	and then within that , I guess the idea was to freeze a certain set of options for now , to run it , uh , a particular way , and decide on what things are gonna be experimented with , as opposed to just experimenting with everything .
+Bro026.B.dialogueact147	305.724	307.314	B	Professor	s	+1	1	So keep a certain set of things constant .
+Bro026.B.dialogueact149	311.89	317.835	B	Professor	fh|s^co^t	+1	1	Uh , maybe describe roughly what {disfmarker} what we are keeping constant for now ,
+Bro026.A.dialogueact152	319.32	327.968	A	PhD	fh|s	+1	1	Well . So we 've been working like six weeks on {disfmarker} on the noise compensation and we end up with something that seems reasonable .
+Bro026.E.dialogueact154	330.112	333.132	E	PhD	qy^rt	+1	1	Are you gonna use {disfmarker} which of the two techniques ?
+Bro026.A.dialogueact155	334.12	338.96	A	PhD	s	+1	1	So finally it 's {disfmarker} it 's , um , Wiener filtering on FFT bins .
+Bro026.A.dialogueact177	415.81	421.08	A	PhD	s^cc	+1	1	So we are going to fix this for the moment and work on the other aspects of {vocalsound} the whole system .
+Bro026.B.dialogueact277	756.897	783.99	B	Professor	s	+1	2	But structurally it seemed like the things {disfmarker} the main things that {disfmarker} that we brought up that , uh , are {disfmarker} are gonna need to get worked on seriously are , uh , uh , a {disfmarker} {vocalsound} a significantly better VAD , uh , putting the neural net on , um , which , you know , we haven't been doing anything with , the , uh , neural net at the end there , and , uh , the , uh , {vocalsound} opening up the second front .
+21	Bro026.s.3	Of the three areas for the future , they touched mostly upon the use of a second , parallel , data stream.
+Bro026.B.dialogueact277	756.897	783.99	B	Professor	s	+1	2	But structurally it seemed like the things {disfmarker} the main things that {disfmarker} that we brought up that , uh , are {disfmarker} are gonna need to get worked on seriously are , uh , uh , a {disfmarker} {vocalsound} a significantly better VAD , uh , putting the neural net on , um , which , you know , we haven't been doing anything with , the , uh , neural net at the end there , and , uh , the , uh , {vocalsound} opening up the second front .
+Bro026.E.dialogueact279	786.84	787.68	E	PhD	qy^d^rt	+1	1	The other half of the channel ?
+Bro026.B.dialogueact281	788.551	795.611	B	Professor	s^aa|s	+1	1	Yeah , yeah , I mean , cuz we {disfmarker} we have {disfmarker} we have , uh , uh , half the {disfmarker} the , uh , data rate that they allow .
+Bro026.B.dialogueact282	796.67	809.202	B	Professor	fh|s	+1	1	And , uh , so the initial thing which came from , uh , the meeting that we had down south was , uh , that , um , we 'll initially just put in a mel spectrum as the second one .
+Bro026.B.dialogueact283	809.957	811.927	B	Professor	s	+1	1	It 's , you know , {pause} cheap , easy .
+Bro026.B.dialogueact285	814.593	816.303	B	Professor	s	+1	1	There 's a question about exactly how we do it .
+Bro026.B.dialogueact286	816.363	818.353	B	Professor	s	+1	1	We probably will go to something better later ,
+Bro026.B.dialogueact358	934.33	938.87	B	Professor	fh|s	+1	1	And {disfmarker} and , {vocalsound} um , you know , in some sense we 're all doing fairly similar things .
+Bro026.E.dialogueact362	946.83	949.81	E	PhD	qw	+1	1	So how did they fill up this {disfmarker} all these {disfmarker} these bits ?
+Bro026.B.dialogueact364	952.359	953.579	B	Professor	fg|qy^bu^rt	+1	1	Um , why are we using half ?
+Bro026.B.dialogueact373	976.36	978.96	B	Professor	s^e	+1	1	We have the on - line normalization and then we have the LDA RASTA .
+Bro026.B.dialogueact377	989.77	994.99	B	Professor	s	+1	1	The LDA RASTA , uh , throws away high modulation frequencies .
+Bro026.B.dialogueact378	996.227	997.347	B	Professor	s	+1	1	And they 're not doing that .
+Bro026.B.dialogueact380	999.065	1002.65	B	Professor	s	+1	1	So that if you throw away high modulation frequencies , then you can downsample .
+Bro026.B.dialogueact400	1026.54	1034.47	B	Professor	fh|s	+1	1	And , uh , so I {disfmarker} you know , we {disfmarker} we 've found in a lot of ways for quite a while that having a second stream uh , helps a lot .
+Bro026.B.dialogueact401	1034.47	1040.63	B	Professor	s	+1	1	So that 's {disfmarker} that 's put in , and you know , it may even end up with mel spectrum even though I 'm saying I think we could do much better , just because it 's simple .
+Bro026.E.dialogueact444	1179.4	1183.9	E	PhD	qy^rt	+1	1	So this second stream , will it add latency to the system
+Bro026.B.dialogueact446	1184.12	1185.18	B	Professor	s^nd	+1	1	No , it 's in parallel .
+Bro026.B.dialogueact449	1185.86	1187.52	B	Professor	s	+1	1	We 're not talking about computation time here .
+Bro026.B.dialogueact452	1188.76	1191.75	B	Professor	s	+1	1	So it 's just in terms of what data it 's depending on .
+Bro026.B.dialogueact453	1191.74	1193.42	B	Professor	s	+1	1	It 's depending on the same data as the other .
+19	Bro026.s.4	The group also discussed a new part to the evaluation , the use of a chunk of the Wall Street Journal.
+Bro026.E.dialogueact550	1413.55	1417.49	E	PhD	qw	+1	1	What about the , um {disfmarker} uh , the new part of the evaluation ,
+Bro026.E.dialogueact552	1417.69	1418.98	E	PhD	s^e	+1	1	the , uh , Wall Street Journal part ?
+Bro026.B.dialogueact558	1425.54	1427.95	B	Professor	qy^rt	+1	2	Have you ever worked with the Mississippi State h uh , software ?
+Bro026.E.dialogueact561	1429.47	1429.86	E	PhD	s^ar	+1	2	Not yet .
+Bro026.B.dialogueact563	1431.41	1441.21	B	Professor	s	+1	2	Well you {disfmarker} you may be called upon to help , uh , uh , on account of , uh , all the work in this stuff here has been , uh , with small vocabulary .
+Bro026.E.dialogueact564	1439.09	1439.43	E	PhD	s^bk	+1	2	OK .
+Bro026.E.dialogueact570	1456.85	1458.9	E	PhD	qy^bu^d	+1	2	Oh , so they 're gonna just deliver a system basically .
+Bro026.D.dialogueact573	1460.21	1461.82	D	PhD	s^na	+1	2	Yeah , th I {disfmarker} I guess it 's almost ready .
+Bro026.D.dialogueact577	1464.87	1468.99	D	PhD	s^rt	+1	2	So they have released their , uh , document , describing the system .
+Bro026.B.dialogueact587	1481.81	1499.8	B	Professor	s^cs.%--	+1	2	Cuz one of the things that might be helpful , if you 've {disfmarker} if you 've got time in all of this is , is if {disfmarker} if these guys are really focusing on improving , uh , all the digit stuff , uh , maybe {disfmarker} and you got the front - end from them , maybe you could do the runs for the {disfmarker}
+Bro026.E.dialogueact589	1500.44	1500.69	E	PhD	s^bk	+1	2	Sure .
+Bro026.B.dialogueact590	1500.82	1506.77	B	Professor	s^cs^e	+1	2	and {disfmarker} and , you know , iron out hassles that {disfmarker} that you have to , uh , tweak Joe about or whatever ,
+Bro026.B.dialogueact591	1506.87	1509.56	B	Professor	s	+1	2	because you 're more experienced with running the large vocabulary stuff .
+Bro026.D.dialogueact593	1516.72	1520.94	D	PhD	s^cc	+1	2	So I 'll point you to the web site and the mails corresponding .
+Bro026.D.dialogueact608	1552.56	1560.06	D	PhD	fg|s.%--	+1	2	So these sugges these {disfmarker} this , uh , period during which people are gonna make suggestions is to know whether it is actually biased towards any set of features or {disfmarker}
+Bro026.B.dialogueact609	1561.39	1573.93	B	Professor	s	+1	2	Yeah , so I th th certainly the thing that I would want to know about is whether we get really hurt , uh , on in insertion penalty , language model , scaling , sorts of things .
+Bro026.E.dialogueact610	1572.88	1573.91	E	PhD	s^2	+1	2	Using our features .
+Bro026.B.dialogueact614	1575.76	1584.48	B	Professor	fh|s^co	+1	2	Uh , in which case , um , H Hari or Hynek will need to , you know , push the case {pause} more about {disfmarker} about this .
+Bro026.E.dialogueact617	1586.96	1595.93	E	PhD	s.%-	+1	2	And we may be able to revisit this idea about , you know , somehow modifying our features to work with {disfmarker}
+17	Bro026.s.5	Speaker me006 is working on data clustering , and discussion of related issues led to more general acoustic matters.
+Bro026.B.dialogueact838	2197.43	2198.28	B	Professor	qy^d^rt	+1	2	Got anything to tell us ?
+Bro026.C.dialogueact840	2200.88	2206.17	C	Grad	s^na	+1	2	Well , I 've been reading some literature about clustering of data .
+Bro026.C.dialogueact842	2210.42	2218.12	C	Grad	fh|s	+1	2	OK , so we 're talking about discovering intermediate categories to , um {disfmarker} to classify .
+Bro026.C.dialogueact843	2218.59	2224.34	C	Grad	fh|s	+1	2	And , uh , I was looking at some of the work that , uh , Sangita was doing on these TRAPS things .
+Bro026.C.dialogueact844	2224.34	2234.07	C	Grad	s	+1	2	So she has , um {disfmarker} she has temporal patterns for , um , a certain set of phonemes , from {disfmarker} from TIMIT ,
+Bro026.C.dialogueact866	2338.83	2344.65	C	Grad	fh|s	+1	2	Um , and , um , I was thinking about ways to {disfmarker} to generalize this
+Bro026.C.dialogueact867	2344.65	2350.81	C	Grad	s^df^rt	+1	2	because w you 're {disfmarker} it 's sort of like a {disfmarker} it 's not a completely automatic way of clustering ,
+Bro026.B.dialogueact875	2411.32	2413.01	B	Professor	qy	+1	1	Are you looking at these in narrow bands ?
+Bro026.B.dialogueact887	2439.87	2443.47	B	Professor	s	+1	1	Yeah , I mean , it seems somehow that needs th uh , there 's a couple things that I wonder about with this .
+Bro026.B.dialogueact890	2448.81	2462.47	B	Professor	s^cs	+1	1	I mean , if you 're going for this sort of thing where you have {pause} uh , little detectors that are looking at narrow bands , then what you 're going to be looking for should be some category that you can find with the narrow bands .
+Bro026.B.dialogueact897	2480.2	2506.92	B	Professor	fh|s	+1	1	Um , the sort of standard answer about this sort of thing is that if you 're trying to find {pause} the right system in some sense , whether you 're trying by categories or {disfmarker} or parameters {pause} um , and your goal is discrimination , then having choices based on discrimination as opposed to , um , unsupervised nearness of things , um , is actually better .
+Bro026.B.dialogueact899	2507.73	2516.34	B	Professor	fh|s	+1	1	Um , and I don't know if that {disfmarker} I mean , since you 're dealing with issues of robustness , you know , maybe {disfmarker} maybe this isn't right , but it 'd be something I 'd be concerned about .
+Bro026.B.dialogueact900	2516.46	2532.61	B	Professor	qy^d^df^f^rt	+1	1	Because , for instance , you can imagine , uh , uh , i i if you remember from {disfmarker} from , uh {disfmarker} from your {disfmarker} your quals , John Ohala saying that , uh , " buh " {comment} and " puh " {comment} differed , uh , not really cuz of voicing but because of aspiration .
+Bro026.B.dialogueact903	2536.51	2544.12	B	Professor	fh|s	+1	1	So , um , if you looked {disfmarker} if you were doing some coarse clustering , you probably would put those two sounds together .
+Bro026.B.dialogueact904	2545.07	2556.06	B	Professor	s	+1	1	And yet , I would gue I would guess that many of your recognition errors were coming from , uh , um , pfft , {comment} screwing up on this distinction .
+Bro026.B.dialogueact909	2571.12	2580.81	B	Professor	s:qw	+1	1	if you go and take any recognizer that 's already out there and you say , " how well is it distinguishing between {pause} schwas and stops ? "
+Bro026.B.dialogueact911	2581.99	2584.94	B	Professor	s	+1	1	Boy , I bet they 're all doing nearly perfectly on this ,

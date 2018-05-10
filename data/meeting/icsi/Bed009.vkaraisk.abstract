@@ -1,0 +1,23 @@
+1	Bed009.s.1	The work carried out on the recogniser-to-parser interface and the generator module will complete the translation of the current system into english.
+Bed009.B.dialogueact54	254.04	260.997	B	Grad	s^rt	+1	1	and just gonna say we have um again the recognizer to parser thing where we 're working on
+1	Bed009.s.2	From there on , the system can be extended for the tourist domain and include a richer representation of the user intentions.
+Bed009.B.dialogueact86	377.63	385.395	B	Grad	s	-1	0	And um and by virtue of doing that then in this case Johno will have acquired the knowledge of how to extend it .
+1	Bed009.s.3	The current experiments involving subjects asking for tourist information through a computer call system are expected to provide relevant linguistic data.
+Bed009.B.dialogueact176	633.753	638.424	B	Grad	s	+1	1	and so it 's a {disfmarker} sort of a computer call system that gives you tourist information
+1	Bed009.s.4	This extension will require an enhancement of the current design.
+Bed009.B.dialogueact231	827.97	837.25	B	Grad	s	-1	0	And then enrich or augment the M - three - L structures with what it thought what more it sort of got out of that utterance .
+0	Bed009.s.5	The dialogue , knowledge modeler and action planner modules need to interact and update each other's state.
+2	Bed009.s.6	On the other hand , they have to be separate , since the dialogue manager is seen as part of a set of kernel modules to which different function modules can attach.
+Bed009.B.dialogueact631	1906.02	1919.63	B	Grad	s	-1	0	because the action planner should not be {disfmarker} or the dialogue manager in that case should not um w have to worry about whether it 's interfacing with um something that does route planning in this way or that way
+Bed009.A.dialogueact680	2045.65	2058.64	A	PhD	s	+1	1	And {disfmarker} and the {disfmarker} the underlying idea of course is that there is something like kernel modules with kernel functionality that you can plug uh certain applications like tourist information or um the home scenario with uh controlling a VCR and so on .
+3	Bed009.s.7	The inputs to the action planner are , actually , the output decisions of a belief-net , which will combine information derived from the user and situation models , the ontology and the parser.
+Bed009.F.dialogueact322	1082.29	1093.32	F	Professor	s	-1	0	what one would like is for this uh , knowledge modeling module to add which of those it is and give it to the planner .
+Bed009.F.dialogueact1002	2810.9	2830.7	F	Professor	s	+1	1	So we talked about the fact that There 're going to be a certain number of decisions That you want the knowledge modeler to make , that will be then fed to the function module , that does uh , route planning .
+Bed009.F.dialogueact1116	3164.65	3176.12	F	Professor	s	+1	0	And so th the coupling to the situation comes in this model from , at th at th at the belief - net , combining evidence from the dialogue with the ontology with the situation .
+3	Bed009.s.8	The new release of the latter will include syntactic and morphological information , and utterance segmentation.
+Bed009.D.dialogueact728	2203.7	2207.74	D	Grad	h|s^rt	+1	1	um it 's to {disfmarker} to integrate and syntactic analysis .
+Bed009.D.dialogueact729	2208.71	2213.64	D	Grad	s^rt	-1	0	and um add some more features like segmentation .
+Bed009.D.dialogueact886	2556.12	2557.89	D	Grad	s^aa|s	-1	0	Yeah th the information is available .
+2	Bed009.s.9	Also deduced from the parse and fed into the belief-net will be semantic constructions , such as the Source-Path-Goal image schema.
+Bed009.F.dialogueact1047	2961.24	2969.34	F	Professor	s	+1	0	So , what we 're really trying to do is to map from the discourse to the conceptual semantics level .
+Bed009.F.dialogueact1051	2983.2	2988.06	F	Professor	s	-1	0	So this a notion of a source , path , goal , trajector , possibly obstacles .

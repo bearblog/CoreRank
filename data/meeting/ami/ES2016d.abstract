@@ -1,0 +1,95 @@
+13	ES2016d.rdhillon.s.1	The project manager opened the meeting and read the minutes of the previous meeting.
+ES2016d.A.dialog-act.dharshi.4	30.31	32.01	A	PM	inf	+1	1	This is our last meeting .
+ES2016d.A.dialog-act.dharshi.5	34.35	38.77	A	PM	off	+1	1	Um I'll go ahead and go through the minutes from the previous meeting .
+ES2016d.A.dialog-act.dharshi.6	38.77	46.13	A	PM	sug	+1	1	Uh and then we'll have a , the prototype presentation .
+ES2016d.A.dialog-act.dharshi.9	57.48	61.73	A	PM	sug	+1	1	Then we'll go through the finance and see if we fall within the budget .
+ES2016d.A.dialog-act.dharshi.10	62.05	64.92	A	PM	sug	+1	1	Um then we'll do the evaluation ,
+ES2016d.A.dialog-act.dharshi.11	64.92	70.74	A	PM	sug	+1	1	and then we can finish up after that with um any changes that we'll need to make ,
+ES2016d.A.dialog-act.dharshi.16	84.3	88.75	A	PM	inf	+1	1	We had uh the fashion trends that people want a fancy look-and-feel .
+ES2016d.A.dialog-act.dharshi.18	91.56	95.36	A	PM	inf	+1	1	Um they liked fruit and vegetables in the new styles .
+ES2016d.A.dialog-act.dharshi.19	96.78	99.65	A	PM	inf	+1	1	Um and a spongy feel .
+ES2016d.A.dialog-act.dharshi.21	104.47	109.46	A	PM	inf	+1	1	Um they wanted limited buttons and simplicity .
+ES2016d.A.dialog-act.dharshi.24	121.52	124.94	A	PM	inf	+1	1	Um the iPod , we really liked the look of that .
+ES2016d.A.dialog-act.dharshi.30	155.6	159.85	A	PM	inf	+1	1	the materials for the case , the different energy sources , the different types of chips ,
+ES2016d.A.dialog-act.dharshi.31	159.85	165.25	A	PM	inf	+1	1	um and made a decision on what we were going to use to make our remote .
+11	ES2016d.rdhillon.s.2	The industrial designer and user interface designer presented the prototype they created , which was designed to look like a banana.
+ES2016d.C.dialog-act.dharshi.6	191.96	194.81	C	UI	inf	+1	1	basically we we st went with the colour yellow .
+ES2016d.C.dialog-act.dharshi.7	194.81	202.0	C	UI	inf	+1	1	Um working on the principle of a fruit which was mentioned , it's basically designed around a banana .
+ES2016d.C.dialog-act.dharshi.11	209.67	212.69	C	UI	inf	+1	1	These would be like the rubber , the rubber grips .
+ES2016d.C.dialog-act.dharshi.14	217.67	220.78	C	UI	inf	+1	1	Um but all the controlling would be done with this scroll wheel .
+ES2016d.C.dialog-act.dharshi.17	226.5	232.77	C	UI	inf	+1	1	And the the simplest functions would be um almost identical to an iPod ,
+ES2016d.C.dialog-act.dharshi.20	238.34	243.74	C	UI	inf	+1	1	And then to access the more complicated functions you'd you sorta go , you press that and go through the menus .
+ES2016d.C.dialog-act.dharshi.25	251.72	254.01	C	UI	sug	+1	1	we could use the voice .
+ES2016d.C.dialog-act.dharshi.31	262.5	264.36	C	UI	inf	+1	1	It's as simple as you , we could make it really .
+ES2016d.B.dialog-act.dharshi.6	268.18	270.38	B	ID	inf	+1	1	Plastic covered with rubber .
+ES2016d.C.dialog-act.dharshi.36	289.35	293.04	C	UI	inf	+1	1	T the actual thing might be smaller .
+ES2016d.B.dialog-act.dharshi.20	299.88	301.33	B	ID	inf	+1	1	It's a quick on-off button .
+13	ES2016d.rdhillon.s.3	The marketing expert conducted an evaluation of the prototype.
+ES2016d.D.dialog-act.dharshi.10	353.44	357.76	D	ME	sug	+1	1	You guys are gonna help me do an evaluation of the criteria .
+ES2016d.D.dialog-act.dharshi.19	413.68	417.5	D	ME	inf	+1	1	we're gonna be doing it based on a seven point scale .
+ES2016d.D.dialog-act.dharshi.20	422.68	429.11	D	ME	inf	+1	1	And one is going to mean true , that we did actually achieve that .
+ES2016d.D.dialog-act.dharshi.21	429.11	432.03	D	ME	inf	+1	1	With seven being false , we did not achieve that .
+ES2016d.D.dialog-act.dharshi.24	441.43	452.0	D	ME	el.ass	+1	1	So for the first one , we need to decide , did we solved the problem of the users who complained about an ugly remote ? {vocalsound}
+ES2016d.D.dialog-act.dharshi.42	550.45	553.26	D	ME	el.ass	+1	1	Did we make it simple for new users ?
+ES2016d.D.dialog-act.dharshi.46	567.09	571.63	D	ME	el.ass	+1	1	Um , do the controls now match the operating behaviour of the users ?
+ES2016d.D.dialog-act.dharshi.52	600.44	603.33	D	ME	el.ass	+1	1	How about the problem of a remote being easily lost ?
+ES2016d.D.dialog-act.dharshi.73	753.84	756.36	D	ME	el.ass	+1	1	Are we technologically innovative ?
+ES2016d.D.dialog-act.dharshi.82	801.53	803.26	D	ME	el.ass	+1	1	Um spongy material ?
+ES2016d.D.dialog-act.dharshi.89	830.84	833.64	D	ME	el.ass	+1	1	did we put the fashion in electronics ?
+ES2016d.D.dialog-act.dharshi.94	857.03	861.16	D	ME	inf	+1	1	Now we just gotta calculate .
+ES2016d.D.dialog-act.dharshi.102	893.55	895.0	D	ME	inf	+1	1	Okay we'll say two point four two .
+5	ES2016d.rdhillon.s.4	The team found that , although the overall design of the prototype was attractive , its yellow color was ugly.
+ES2016d.A.dialog-act.dharshi.53	452.31	455.58	A	PM	ass	+1	1	I think it's definitely different than anything else out there .
+ES2016d.B.dialog-act.dharshi.33	471.37	480.49	B	ID	ass	+1	1	I'd say , when it comes to the ergonomics , the form and stuff , yes that's definitely more beautiful than your average .
+ES2016d.B.dialog-act.dharshi.36	487.29	499.31	B	ID	ass	+1	1	So uh to answer that honestly I would rather say like uh , we have not solved the problem completely with the ugly remote because the colour is ugly , definitely .
+ES2016d.B.dialog-act.dharshi.38	500.39	506.27	B	ID	ass	+1	1	I mean I much prefer something like brushed chrome with that form .
+ES2016d.D.dialog-act.dharshi.38	543.84	544.55	D	ME	el.ass	+1	1	{vocalsound} Four is fair .
+10	ES2016d.rdhillon.s.5	The team rated the prototype highly on its ease of use and felt that its yellow color and shape detracted slightly from its ability to be misplaced and that a feature which causes the remote to make noise based on its proximity to a television needed to be added.
+ES2016d.B.dialog-act.dharshi.47	554.48	556.75	B	ID	ass	+1	1	It's very intuitive , I think yeah .
+ES2016d.C.dialog-act.dharshi.62	573.56	579.89	C	UI	inf	+1	1	'Cause we've we've brought it down to basically four controls {gap} most common , which are channel and volume .
+ES2016d.B.dialog-act.dharshi.51	588.22	588.87	B	ID	ass	+1	1	So that's a one .
+ES2016d.B.dialog-act.dharshi.53	604.16	606.95	B	ID	ass	+1	1	Something that big and that yellow you just don't lose anymore .
+ES2016d.C.dialog-act.dharshi.67	610.23	618.32	C	UI	sug	+1	2	But um if we were to , if we were , that , the speech recognition . That , we could maybe just use that solely for the the finding thing .
+ES2016d.B.dialog-act.dharshi.63	676.74	680.04	B	ID	sug	+1	2	Y you could add an extra feature actually .
+ES2016d.B.dialog-act.dharshi.64	681.17	686.9	B	ID	inf	+1	3	Which makes this thing raise hell when you remove it too far from the television .
+ES2016d.B.dialog-act.dharshi.72	711.86	712.88	B	ID	inf	+1	2	That can't cost much .
+ES2016d.B.dialog-act.dharshi.79	745.13	749.615	B	ID	sug	+1	3	Let's add one of those features and say yes . {vocalsound}
+ES2016d.A.dialog-act.dharshi.89	751.05	751.21	A	PM	ass	+1	1	Two .
+8	ES2016d.rdhillon.s.6	The team thought the prototype was fashionable and not technologically innovative or spongy.
+ES2016d.B.dialog-act.dharshi.84	765.86	770.45	B	ID	ass	+1	1	It's all just stolen technology when it comes down to {disfmarker} {vocalsound} {vocalsound}
+ES2016d.A.dialog-act.dharshi.94	780.44	783.963	A	PM	ass	+1	1	I don't know that we are that innovative , to tell you the truth . {vocalsound}
+ES2016d.A.dialog-act.dharshi.96	792.41	795.81	A	PM	ass	+1	1	{vocalsound} Um I would say we're probably at four .
+ES2016d.A.dialog-act.dharshi.97	804.53	805.75	A	PM	ass	+1	1	We have some spongy , yeah .
+ES2016d.B.dialog-act.dharshi.94	812.74	813.99	B	ID	ass	+1	1	It's not a one though .
+ES2016d.A.dialog-act.dharshi.101	824.67	826.59	A	PM	ass	+1	1	Probably a four at most .
+ES2016d.D.dialog-act.dharshi.90	835.97	837.27	D	ME	ass	+1	1	I'd say we did .
+ES2016d.B.dialog-act.dharshi.102	841.309	848.96	B	ID	ass	+1	1	{vocalsound} Well the recent fashion is rather displayed in the in the L_C_D_ and the way you operate it than the form and the colour ,
+12	ES2016d.rdhillon.s.7	The project manager led the team in calculating the production costs of the remote and ensuring that they aligned with the project budget.
+ES2016d.A.dialog-act.dharshi.116	939.57	942.87	A	PM	inf	+1	1	Now we get to do the budget numbers .
+ES2016d.A.dialog-act.dharshi.122	968.41	970.69	A	PM	inf	+1	1	We want a fifty percent profit on this .
+ES2016d.A.dialog-act.dharshi.141	1040.1	1043.44	A	PM	el.inf	+1	1	Um and how many batteries do we think this will probably take ?
+ES2016d.B.dialog-act.dharshi.116	1047.46	1047.84	B	ID	inf	+1	2	Two .
+ES2016d.B.dialog-act.dharshi.124	1078.7	1080.39	B	ID	inf	+1	2	That's the advanced chip-on-print , yeah .
+ES2016d.A.dialog-act.dharshi.152	1086.83	1092.17	A	PM	inf	+1	2	'Kay then the case is a {disfmarker} Probably it's double curved .
+ES2016d.A.dialog-act.dharshi.153	1097.28	1099.88	A	PM	el.inf	+1	2	Case materials are
+ES2016d.B.dialog-act.dharshi.126	1099.17	1099.95	B	ID	inf	+1	2	Plastic .
+ES2016d.B.dialog-act.dharshi.131	1122.98	1124.62	B	ID	ass	+1	2	That's not a special colour .
+ES2016d.B.dialog-act.dharshi.132	1124.62	1127.37	B	ID	ass	+1	2	It's a specially ugly colour , but it's not special .
+ES2016d.A.dialog-act.dharshi.173	1169.12	1172.49	A	PM	inf	+1	2	Well we only have one button so really we shouldn't be charged ,
+ES2016d.A.dialog-act.dharshi.174	1172.49	1176.13	A	PM	inf	+1	2	{vocalsound} we shouldn't be charged anything for the the button supplements .
+4	ES2016d.rdhillon.s.8	The costs were over budget , so the team opted to exclude the LCD from their design to meet their budget.
+ES2016d.A.dialog-act.dharshi.177	1186.27	1189.68	A	PM	inf	+1	2	So our total is fifteen point five .
+ES2016d.A.dialog-act.dharshi.179	1194.92	1196.82	A	PM	inf	+1	2	by three Euros over .
+ES2016d.C.dialog-act.dharshi.149	1246.97	1249.66	C	UI	sug	+1	2	you could maybe take out the L_C_D_ dis display even ,
+ES2016d.B.dialog-act.dharshi.151	1259.22	1261.18	B	ID	ass	+1	2	Right . We may not need it .
+10	ES2016d.rdhillon.s.9	The team conducted an evaluation of the project process and found that they performed well and were somewhat satisfied by the resources available to them.
+ES2016d.A.dialog-act.dharshi.207	1363.84	1368.03	A	PM	inf	+1	1	I think that perhaps the project evaluation's just supposed to be completed by me .
+ES2016d.A.dialog-act.dharshi.208	1368.03	1370.85	A	PM	inf	+1	1	But I'd like to hear your thoughts .
+ES2016d.A.dialog-act.dharshi.210	1382.22	1384.84	A	PM	el.ass	+1	1	Uh h what did you think of our project process ?
+ES2016d.C.dialog-act.dharshi.169	1388.79	1391.552	C	UI	ass	+1	1	yeah I think we did quite well . Um {disfmarker}
+ES2016d.A.dialog-act.dharshi.215	1402.33	1404.87	A	PM	ass	+1	1	Our leadership was quite weak in the beginning .
+ES2016d.A.dialog-act.dharshi.217	1409.13	1412.96	A	PM	ass	+1	1	But as the day went along we had more idea of what we were doing .
+ES2016d.A.dialog-act.dharshi.222	1421.55	1432.56	A	PM	ass	+1	1	and um I think it was um interesting as you guys brought up more um information and studies that we were right on with a lot of those things .
+ES2016d.B.dialog-act.dharshi.172	1442.61	1443.41	B	ID	ass	+1	1	Super super .
+ES2016d.A.dialog-act.dharshi.229	1443.8	1445.87	A	PM	ass	+1	1	I had some problem with the pen I think ,
+ES2016d.D.dialog-act.dharshi.150	1445.6	1447.81	D	ME	ass	+1	1	Minus your PowerPoint fiasco .

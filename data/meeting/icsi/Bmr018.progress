@@ -1,0 +1,20 @@
+2	Bmr018.s.19	One meeting recording has been channelized and pre-segmented for delivery to IBM.
+Bmr018.A.dialogueact165	252.77	257.55	A	Postdoc	s^na	+1	2	He generated , um , a channel - wise presegmented version of a meeting ,
+Bmr018.C.dialogueact226	374.2	375.81	C	Professor	s^bu	+1	1	So the first thing is the automatic thing ,
+0	Bmr018.s.20	A sample of digits data is being prepared for IBM.
+1	Bmr018.s.21	Preliminary recognition results were obtained for a subset of digits data.
+Bmr018.F.dialogueact640	1133.53	1146.88	F	PhD	fg|s	+1	3	So , if I excluded the pathological ones , {vocalsound} by definition , those that had like over ninety - five percent error rate , {vocalsound} and the non - natives , then the average error rate was like one point four or something ,
+2	Bmr018.s.22	The error rate distribution was multimodal , reflecting differences in performance for native versus non-native speakers , and also possible pre-processing errors.
+Bmr018.F.dialogueact593	1072.91	1075.98	F	PhD	s^ar|s	+1	1	Yeah , it 's actually , um , it {disfmarker} uh {disfmarker} it was trimodal , actually {disfmarker}
+Bmr018.E.dialogueact623	1107.16	1108.37	E	Grad	s	+1	1	A bug is what I mean ,
+1	Bmr018.s.23	Future efforts will involve an attempt to get good forced alignments on digits data and generate a report for Eurospeech'01.
+Bmr018.D.dialogueact723	1357.59	1369.59	D	PhD	s	+1	1	so , it 's sort of good to hear that it was not straight - forward , thinking if we can get decent forced alignments , then at least we can do sort of a overall report of what happens with actual overlap in time ,
+1	Bmr018.s.24	A program has been developed for replacing sections of recorded speech with editing bleeps.
+Bmr018.E.dialogueact159	234.68	236.83	E	Grad	s.x	+1	1	I {disfmarker} I have the program to insert the beeps .
+3	Bmr018.s.25	The tightening of time bins for one NSA meeting was checked and judged to be highly accurate.
+Bmr018.A.dialogueact1141	2293.25	2297.48	A	Postdoc	s	+1	1	I had , uh , one of the transcribers go through and tighten up the bins on one of the , uh , NSA meetings ,
+Bmr018.A.dialogueact1142	2297.48	2299.18	A	Postdoc	s	+1	1	and then I went through afterwards and double - checked it
+Bmr018.A.dialogueact1143	2299.18	2302.07	A	Postdoc	s	+1	1	so that one is really very {disfmarker} very accurate .
+2	Bmr018.s.26	Efforts are ongoing to improve forced alignments for a subset of non-digits data , including acoustic adaptation manipulations.
+Bmr018.D.dialogueact1039	2095.71	2101.4	D	PhD	s^bs	+1	2	So we need some way to push these first chunk of meetings into a state where we get good alignments .
+Bmr018.F.dialogueact1043	2119.57	2132.32	F	PhD	s^cs	+1	1	and it 's possible that you get considerably better results if you , uh , manage to adapt the , {vocalsound} uh , phone models to the speaker and the reject model to the {disfmarker} to {disfmarker} to all the other speech .

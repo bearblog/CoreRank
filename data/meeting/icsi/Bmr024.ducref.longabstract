@@ -1,0 +1,29 @@
+This meeting mainly outlines the progress of the meeting recorder project.
+In particular , the group discuss their preparation of materials for the transcriptions of digits by IBM , and also the human transcribers who are working towards preparing the set of 20 for the DARPA meeting.
+Other discussion focuses on the re-evaluation of recognition without cheating on segmentation , and also how SRI recognition can be improved , especially for the female group.
+A number of issues regarding the management of data are addressed by the group:
+The inclusion of different data types in the corpus , and the storage and back-up of the group's data.
+Progress has been made in naming conventions , with file reorganisation to be done at a later date , however this was not discussed fully due to Chuck's absence.
+Finally , Absinthe is now up and running with improved performance.
+Discussion of demos for the July DARPA meeting were left to the individuals concerned.
+A number of data issues were resolved:
+After discussing the human-computer interaction Smartkom data , the group decide that different types of data can be included in the meeting corpus , but that it should be structured into different directories according to data type.
+Some of the data storage problems can be overcome by backing up using the NW archive.
+However , file reorganisation will be left until just before zero-level back up.
+The group decide to use IBM transcription of the digits , in addition to automatic methods.
+If IBM methods work , transcribers will check and comment these.
+Discussion of demos for the July meeting has been postponed: the individuals concerned will meet independently.
+Disk space is an issue for the group , especially in terms of back-up , which is 75% full: DVDs or CDs are unreliable and cannot be used , and although tape is reliable , this creates access issues.
+Experimentation with the SRI recognition have shown greater error when using tandem features , with vocal tract normalisation also making results worse.
+In particular more error is found with the female group which is 1-2% worse than the males.
+Digit and beeps have been re-recorded by Chuck to aid IBM transcription , and enable alignment.
+The group discuss the extent to which digits can be automatically transcribed , including their experimentation with forced alignment and speech recognition.
+Transcription is progressing well: two transcribers hired and and two more will be hired soon.
+Five "set 2" meetings are being edited by the head transcriber , and "set 3" are being prepared , with the aim of having 20 available for the DARPA demo.
+Pre-segmentation is very useful , with visual information desirable for transcription of backchannel behaviour.
+Now Thilo's segmenter is working , the group discuss re-evaluation of recognition without cheating on the segmentation , possibly using time-constrained alignment.
+Also , they discuss the use of recogniser alignment to train the speech detector.
+The group discuss possible ways to improve the SRI recognition error rate , suggestions include use of low-pass filter , or retraining models.
+Differences in smoothing are proposed to be mainly responsible for the difference between the male and female results.
+File reorganisation was discussed briefly as Chuck was not present , however progress has been made in sharing file naming conventions with UW.
+Also , the Absinthe machine is now working well , and has speeded up in proportion to its extra processors.

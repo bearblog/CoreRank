@@ -1,0 +1,1301 @@
+Bro010.A.dialogueact0	5.083	5.663	A	PhD	s	-1	0	OK , we 're on .
+Bro010.C.dialogueact1	9.646	10.126	C	Professor	s^bk	-1	0	OK ,
+Bro010.C.dialogueact2	10.516	11.486	C	Professor	qw	-1	0	what are we talking about today ?
+Bro010.B.dialogueact3	18.04	18.59	B	PhD	s^no	-1	0	I don't know .
+Bro010.B.dialogueact4	18.59	20.79	B	PhD	qy^rt	+1	2	Do you have news from the conference talk ?
+Bro010.B.dialogueact5	21.907	22.797	B	PhD	fh	-1	0	Uh ,
+Bro010.B.dialogueact6	22.897	26.657	B	PhD	s^e	-1	0	that was programmed for yesterday {disfmarker} I guess .
+Bro010.C.dialogueact7	23.02	23.42	C	Professor	h	-1	0	Uh {disfmarker}
+Bro010.D.dialogueact8	23.954	24.474	D	PhD	s^2	-1	0	Yesterday
+Bro010.C.dialogueact9	27.76	28.23	C	Professor	h	-1	0	Uh {disfmarker}
+Bro010.D.dialogueact10	27.825	30.015	D	PhD	s	+1	2	Yesterday morning on video conference .
+Bro010.C.dialogueact11	30.67	31.14	C	Professor	h	-1	0	Uh ,
+Bro010.B.dialogueact12	31.504	31.674	B	PhD	fh	-1	0	Well
+Bro010.C.dialogueact13	31.62	32.08	C	Professor	s^bk	-1	0	oh ,
+Bro010.C.dialogueact15	32.08	32.7	C	Professor	s^fa	-1	0	I 'm sorry .
+Bro010.E.dialogueact14	31.679	32.929	E	Grad	s^bk	-1	0	Oh . Conference call .
+Bro010.C.dialogueact16	32.8	34.15	C	Professor	s	-1	0	I know {disfmarker} now I know what you 're talking about .
+Bro010.C.dialogueact17	34.22	35.62	C	Professor	s^ar|s^nd	+1	2	No , nobody 's told me anything .
+Bro010.B.dialogueact18	36.878	37.318	B	PhD	s^bk	-1	0	Alright .
+Bro010.A.dialogueact19	37.8	41.637	A	PhD	s.%-	-1	0	Oh , this was the , uh , talk where they were supposed to try to decide {disfmarker}
+Bro010.B.dialogueact20	41.024	42.71	B	PhD	s^2	-1	0	To {disfmarker} to decide what to do ,
+Bro010.A.dialogueact23	43.07	44.02	A	PhD	b	-1	0	Ah , right .
+Bro010.B.dialogueact21	42.71	42.83	B	PhD	s^aa	-1	0	yeah .
+Bro010.D.dialogueact22	42.784	43.064	D	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact24	43.54	43.72	C	Professor	b	-1	0	Yeah .
+Bro010.C.dialogueact25	44.57	46.5	C	Professor	s	+1	2	No , that would have been a good thing to find out before this meeting ,
+Bro010.C.dialogueact26	46.6	46.84	C	Professor	%--	-1	0	that 's .
+Bro010.C.dialogueact27	47.74	48.85	C	Professor	s^no	-1	0	No , I have no {disfmarker} I have no idea .
+Bro010.C.dialogueact28	49.61	50.21	C	Professor	fh	-1	0	Um ,
+Bro010.C.dialogueact29	51.78	52.27	C	Professor	fh	-1	0	Uh ,
+Bro010.C.dialogueact30	52.27	52.9	C	Professor	fh	-1	0	so
+Bro010.C.dialogueact31	52.9	56.83	C	Professor	s^co	+1	3	I mean , let 's {disfmarker} let 's assume for right now that we 're just kind of plugging on ahead ,
+Bro010.B.dialogueact32	56.201	56.331	B	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact33	56.83	65.893	C	Professor	s^df	+1	3	because even if they tell us that , uh , the rules are different , uh , we 're still interested in doing what we 're doing .
+Bro010.C.dialogueact34	65.893	66.773	C	Professor	qw^rt	+1	2	So what are you doing ?
+Bro010.B.dialogueact35	66.395	66.685	B	PhD	b	-1	0	Mm - hmm .
+Bro010.B.dialogueact36	68.29	80.681	B	PhD	h|s	+1	3	Uh , well , we 've {disfmarker} a little bit worked on trying to see , uh , what were the bugs and the problem with the latencies .
+Bro010.D.dialogueact37	77.11	77.73	D	PhD	s^2	-1	0	To improve {disfmarker}
+Bro010.B.dialogueact38	81.021	81.441	B	PhD	fh	-1	0	So ,
+Bro010.B.dialogueact39	82.68	85.47	B	PhD	s	+1	2	We took {disfmarker} first we took the LDA filters
+Bro010.B.dialogueact40	86.2	89.889	B	PhD	s	+1	2	and , {vocalsound} uh , we designed new filters ,
+Bro010.B.dialogueact41	90.467	92.497	B	PhD	s^e	+1	2	using uh recursive filters actually .
+Bro010.C.dialogueact42	93.02	95.43	C	Professor	qy^rt	-1	0	So when you say " we " , is that something Sunil is doing
+Bro010.C.dialogueact43	95.43	95.83	C	Professor	qrr.%--	-1	0	or is that {disfmarker} ?
+Bro010.B.dialogueact44	96.23	96.61	B	PhD	qw^br^d^rt	-1	0	I 'm sorry ?
+Bro010.C.dialogueact45	96.9	97.55	C	Professor	qw^rt	-1	0	Who is doing that ?
+Bro010.B.dialogueact46	98.14	99.26	B	PhD	h|s	-1	0	Uh , us .
+Bro010.B.dialogueact48	100.0	100.14	B	PhD	fh	-1	0	Yeah .
+Bro010.C.dialogueact47	99.61	100.26	C	Professor	s^bk	-1	0	Oh , oh .
+Bro010.C.dialogueact49	101.66	102.04	C	Professor	s^bk	-1	0	Oh , OK .
+Bro010.B.dialogueact51	102.19	115.621	B	PhD	s	+1	1	So we took the filters {disfmarker} the FIR filters {vocalsound} and we {comment} designed , uh , IIR filters that have the same frequency response .
+Bro010.D.dialogueact50	101.691	101.871	D	PhD	%	-1	0	But {disfmarker}
+Bro010.C.dialogueact52	116.145	116.525	C	Professor	b	-1	0	Mm - hmm .
+Bro010.B.dialogueact53	117.1	121.54	B	PhD	s^e^rt	+1	2	Well , similar , but that have shorter delays .
+Bro010.C.dialogueact54	121.881	122.181	C	Professor	b	-1	0	Mm - hmm .
+Bro010.B.dialogueact55	123.27	124.27	B	PhD	s	-1	0	So they had two filters ,
+Bro010.B.dialogueact56	124.27	125.79	B	PhD	s^e	-1	0	one for the low frequency bands
+Bro010.B.dialogueact57	125.79	127.67	B	PhD	s^e^rt	-1	0	and another for the high frequency bands .
+Bro010.B.dialogueact58	128.46	130.22	B	PhD	s	-1	0	And so we redesigned two filters .
+Bro010.B.dialogueact59	130.37	135.219	B	PhD	s^rt	+1	2	And the low frequency band has sixty - four milliseconds of delay ,
+Bro010.B.dialogueact60	135.609	144.405	B	PhD	s^rt	+1	2	and the high frequency band filter has something like eleven milliseconds compared to the two hundred milliseconds of the IIR filters .
+Bro010.B.dialogueact61	145.574	147.114	B	PhD	s	-1	0	But it 's not yet test .
+Bro010.B.dialogueact62	147.304	148.074	B	PhD	s	-1	0	So we have the filters
+Bro010.B.dialogueact63	148.074	152.624	B	PhD	s^rt	-1	0	but we still have to implement a routine that does recursive filtering
+Bro010.C.dialogueact64	149.956	150.246	C	Professor	b	-1	0	OK .
+Bro010.B.dialogueact65	152.804	153.124	B	PhD	%-	-1	0	and {disfmarker}
+Bro010.C.dialogueact66	152.87	155.07	C	Professor	qy^d^rt	+1	3	You {disfmarker} you had a discussion with Sunil about this though ?
+Bro010.B.dialogueact67	155.23	155.46	B	PhD	s^ar	+1	2	No .
+Bro010.B.dialogueact68	156.221	156.281	B	PhD	s^ar^r.x	-1	0	No .
+Bro010.C.dialogueact69	157.19	157.54	C	Professor	s^bk	-1	0	Uh - huh .
+Bro010.C.dialogueact70	158.544	159.384	C	Professor	s^cs^ng	+1	2	Yeah , you should talk with him .
+Bro010.B.dialogueact71	159.71	160.19	B	PhD	s^aa	-1	0	Yeah , yeah .
+Bro010.C.dialogueact72	160.25	160.34	C	Professor	fh	-1	0	Yeah .
+Bro010.C.dialogueact73	161.14	164.87	C	Professor	s	+1	1	No , I mean , because the {disfmarker} the {disfmarker} the {disfmarker} the whole problem that happened before was coordination ,
+Bro010.B.dialogueact75	164.924	165.254	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact74	164.91	165.01	C	Professor	qy^d^f^g	-1	0	right ?
+Bro010.C.dialogueact76	165.17	168.1	C	Professor	s^co	+1	1	So {disfmarker} so you need to discuss with him what we 're doing ,
+Bro010.B.dialogueact77	168.345	168.495	B	PhD	s^aa	-1	0	Yeah .
+Bro010.C.dialogueact78	168.39	171.32	C	Professor	s^df	+1	2	uh , cuz they could be doing the same thing and {disfmarker} or something .
+Bro010.B.dialogueact79	170.547	170.897	B	PhD	b	-1	0	Mm - hmm .
+Bro010.B.dialogueact80	172.83	173.21	B	PhD	fg	-1	0	Uh ,
+Bro010.B.dialogueact81	173.21	173.41	B	PhD	%--	-1	0	I {disfmarker}
+Bro010.B.dialogueact82	173.41	173.92	B	PhD	s^bk	-1	0	yeah ,
+Bro010.B.dialogueact83	173.92	176.51	B	PhD	s^no.%--	-1	0	I don't know if th that 's what they were trying to {disfmarker}
+Bro010.B.dialogueact85	177.78	183.707	B	PhD	s^nd	-1	0	They were trying to do something different like taking , uh {disfmarker} well , using filter that takes only a past
+Bro010.C.dialogueact84	177.591	177.861	C	Professor	s^aa	-1	0	Right .
+Bro010.B.dialogueact86	183.707	183.897	B	PhD	%--	-1	0	and
+Bro010.B.dialogueact87	185.201	186.771	B	PhD	s^nd	-1	0	this is just a little bit different .
+Bro010.B.dialogueact88	186.901	191.301	B	PhD	s^cc	-1	0	But I will I will send him an email and tell him exactly what we are doing ,
+Bro010.B.dialogueact89	191.411	191.561	B	PhD	fh	-1	0	so .
+Bro010.C.dialogueact90	191.48	191.69	C	Professor	s^bk	-1	0	Yeah ,
+Bro010.C.dialogueact91	192.01	192.22	C	Professor	s^bk^r	-1	0	yeah .
+Bro010.C.dialogueact92	192.72	193.08	C	Professor	fh	-1	0	Um ,
+Bro010.B.dialogueact94	193.29	193.71	B	PhD	fh	-1	0	Um ,
+Bro010.C.dialogueact93	193.27	193.66	C	Professor	fh	-1	0	I mean {disfmarker}
+Bro010.C.dialogueact95	194.922	196.962	C	Professor	s^co	+1	2	We just {disfmarker} we just have to be in contact more .
+Bro010.C.dialogueact96	196.962	203.66	C	Professor	s^df	+1	2	I think that {disfmarker} the {disfmarker} the fact that we {disfmarker} we did that with {disfmarker} had that thing with the latencies was indicative of the fact that there wasn't enough communication .
+Bro010.B.dialogueact97	197.75	198.25	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact98	203.8	203.95	C	Professor	fh	-1	0	So .
+Bro010.B.dialogueact100	205.04	205.46	B	PhD	s^bk	-1	0	Alright .
+Bro010.C.dialogueact99	205.026	205.206	C	Professor	b	-1	0	OK .
+Bro010.B.dialogueact101	206.08	206.98	B	PhD	fg	-1	0	Um ,
+Bro010.B.dialogueact102	209.015	209.255	B	PhD	s^bk	-1	0	Yeah .
+Bro010.B.dialogueact103	210.614	218.292	B	PhD	s	-1	0	Well , there is w one , um , remark about these filters , that they don't have a linear phase .
+Bro010.B.dialogueact104	219.402	219.952	B	PhD	fh	-1	0	So ,
+Bro010.C.dialogueact105	219.588	219.788	C	Professor	s^bk	-1	0	Right .
+Bro010.B.dialogueact106	221.98	222.42	B	PhD	s^no	-1	0	Well , I don't know ,
+Bro010.B.dialogueact107	222.42	224.32	B	PhD	s	-1	0	perhaps it {disfmarker} perhaps it doesn't hurt
+Bro010.B.dialogueact108	224.32	226.34	B	PhD	s^df	-1	0	because the phase is almost linear
+Bro010.B.dialogueact109	226.48	226.63	B	PhD	%--	-1	0	but .
+Bro010.B.dialogueact110	228.47	229.39	B	PhD	fh	-1	0	Um ,
+Bro010.B.dialogueact111	229.43	239.748	B	PhD	s	-1	0	and so , yeah , for the delay I gave you here , it 's {disfmarker} it 's , uh , computed on the five hertz modulation frequency ,
+Bro010.B.dialogueact112	239.748	244.1	B	PhD	s^e	-1	0	which is the {disfmarker} mmm , well , the most important for speech
+Bro010.B.dialogueact113	244.1	244.22	B	PhD	fh	-1	0	so .
+Bro010.B.dialogueact114	246.874	247.894	B	PhD	fh	-1	0	Uh ,
+Bro010.B.dialogueact115	247.894	249.494	B	PhD	s	-1	0	this is the first thing .
+Bro010.C.dialogueact117	250.63	254.75	C	Professor	s^bu	+1	1	So that would be , uh , a reduction of a hundred and thirty - six milliseconds ,
+Bro010.D.dialogueact116	250.398	251.578	D	PhD	s.%-	-1	0	The low f f
+Bro010.B.dialogueact118	254.723	254.903	B	PhD	s^aa	-1	0	Yeah .
+Bro010.C.dialogueact119	255.49	256.69	C	Professor	s^e.%--	-1	0	which , uh {disfmarker}
+Bro010.C.dialogueact120	257.38	259.79	C	Professor	qw	+1	1	What was the total we ended up with through the whole system ?
+Bro010.B.dialogueact121	259.489	260.979	B	PhD	s	+1	1	Three hundred and thirty .
+Bro010.C.dialogueact122	261.81	262.52	C	Professor	qy^d.%--	+1	1	So that would be within {disfmarker} ?
+Bro010.B.dialogueact123	263.232	263.472	B	PhD	s^aa	+1	1	Yeah ,
+Bro010.B.dialogueact124	263.472	266.112	B	PhD	s	-1	0	but there are other points actually ,
+Bro010.B.dialogueact125	266.861	267.241	B	PhD	fh	-1	0	uh ,
+Bro010.B.dialogueact126	267.241	269.921	B	PhD	s^e	-1	0	which will perhaps add some more delay .
+Bro010.B.dialogueact127	269.921	278.196	B	PhD	s^rt	-1	0	Is that some other {disfmarker} other stuff in the process were perhaps not very {disfmarker} um perf well , not very correct ,
+Bro010.B.dialogueact128	278.554	281.284	B	PhD	s^e^rt	-1	0	like the downsampling which w was simply dropping frames .
+Bro010.C.dialogueact129	281.671	281.941	C	Professor	b	-1	0	Yeah .
+Bro010.B.dialogueact130	282.272	283.512	B	PhD	fh	-1	0	Um ,
+Bro010.B.dialogueact131	283.885	286.605	B	PhD	s^cc	-1	0	so we will try also to add a nice downsampling
+Bro010.B.dialogueact132	287.035	288.846	B	PhD	s^e.%--	-1	0	having a filter that {disfmarker} that {disfmarker}
+Bro010.C.dialogueact133	288.292	288.612	C	Professor	b	-1	0	Uh - huh .
+Bro010.B.dialogueact134	289.226	291.74	B	PhD	s^e^rt	-1	0	well , a low - pass filter at {disfmarker} at twenty - five hertz .
+Bro010.B.dialogueact135	293.106	297.606	B	PhD	s^df	-1	0	Uh , because wh when {disfmarker} when we look at the LDA filters , well , they are basically low - pass
+Bro010.B.dialogueact136	297.606	302.06	B	PhD	s	-1	0	but they leave a lot of what 's above twenty - five hertz .
+Bro010.C.dialogueact137	302.776	303.026	C	Professor	b	-1	0	Yeah .
+Bro010.B.dialogueact138	303.85	304.59	B	PhD	fh	-1	0	Um ,
+Bro010.B.dialogueact139	304.73	305.4	B	PhD	fh	-1	0	and so , yeah ,
+Bro010.B.dialogueact140	305.5	308.64	B	PhD	s	-1	0	this will be another filter which would add ten milliseconds again .
+Bro010.C.dialogueact141	309.091	309.371	C	Professor	b	-1	0	Yeah .
+Bro010.B.dialogueact142	309.762	310.802	B	PhD	fh	-1	0	Um ,
+Bro010.B.dialogueact143	311.876	312.126	B	PhD	s^bk	-1	0	yeah ,
+Bro010.B.dialogueact144	312.196	313.816	B	PhD	s^rt^tc	-1	0	and then there 's a third thing ,
+Bro010.B.dialogueact145	314.962	330.93	B	PhD	s^rt	-1	0	is that , um , basically the way on - line normalization was done uh , is just using this recursion on {disfmarker} on the um , um , on the feature stream ,
+Bro010.C.dialogueact146	325.383	325.623	C	Professor	b	-1	0	Yeah .
+Bro010.B.dialogueact147	331.819	333.259	B	PhD	s	-1	0	and {disfmarker} but this is a filter ,
+Bro010.B.dialogueact148	333.259	334.499	B	PhD	s	-1	0	so it has also a delay .
+Bro010.B.dialogueact149	335.686	336.226	B	PhD	fh	-1	0	Uh ,
+Bro010.B.dialogueact150	336.226	340.743	B	PhD	s	-1	0	and when we look at this filter actually it has a delay of eighty - five milliseconds .
+Bro010.B.dialogueact151	340.843	341.413	B	PhD	s.%-	-1	0	So if we {disfmarker}
+Bro010.C.dialogueact152	340.91	341.46	C	Professor	qy^bu^d^rt	-1	0	Eighty - five .
+Bro010.B.dialogueact153	341.792	341.952	B	PhD	s^aa	-1	0	Yeah .
+Bro010.B.dialogueact154	342.332	344.7	B	PhD	s	-1	0	If we want to be very correct ,
+Bro010.B.dialogueact155	344.7	355.53	B	PhD	s^co	-1	0	so if we want to {disfmarker} the estimation of the mean t t to {disfmarker} to be {disfmarker} well , the right estimation of the mean , we have to t to take eighty - five milliseconds in the future .
+Bro010.B.dialogueact156	356.727	357.537	B	PhD	fh	-1	0	Mmm .
+Bro010.C.dialogueact157	359.453	359.683	C	Professor	s^bk^fe	-1	0	Hmm !
+Bro010.C.dialogueact158	360.11	361.56	C	Professor	s^nd	-1	0	That 's a little bit of a problem .
+Bro010.B.dialogueact159	362.084	362.344	B	PhD	s^aa	-1	0	Yeah .
+Bro010.B.dialogueact160	364.152	365.402	B	PhD	fh	-1	0	Um ,
+Bro010.B.dialogueact161	365.892	369.292	B	PhD	s^bd	+1	2	But , well , when we add up everything it 's {disfmarker} it will be alright .
+Bro010.B.dialogueact162	370.154	371.254	B	PhD	s.%--	-1	0	We would be at six
+Bro010.B.dialogueact163	371.254	375.82	B	PhD	s	+1	1	so , sixty - five , plus ten , plus {disfmarker} for the downsampling ,
+Bro010.B.dialogueact164	375.82	378.16	B	PhD	s	+1	1	plus eighty - five for the on - line normalization .
+Bro010.B.dialogueact165	378.743	379.033	B	PhD	s.%--	-1	0	So it 's
+Bro010.C.dialogueact166	379.59	379.88	C	Professor	fg	-1	0	Uh ,
+Bro010.B.dialogueact168	380.27	383.74	B	PhD	s	+1	1	plus {disfmarker} plus eighty for the neural net and PCA .
+Bro010.C.dialogueact167	379.88	380.69	C	Professor	s^ng.%-	-1	0	yeah , but then there 's {disfmarker}
+Bro010.C.dialogueact169	383.116	383.296	C	Professor	s^bk	-1	0	Oh .
+Bro010.B.dialogueact170	384.809	386.839	B	PhD	s	+1	3	So it would be around two hundred and forty {disfmarker}
+Bro010.B.dialogueact171	386.839	387.439	B	PhD	fh	-1	0	so , well ,
+Bro010.C.dialogueact172	388.56	389.77	C	Professor	s	+1	2	Just {disfmarker} just barely in there .
+Bro010.B.dialogueact173	389.14	390.33	B	PhD	s	-1	0	plus {disfmarker} plus the frames ,
+Bro010.B.dialogueact174	390.33	390.92	B	PhD	s	-1	0	but it 's OK .
+Bro010.A.dialogueact175	391.33	392.19	A	PhD	qw^rt	+1	3	What 's the allowable ?
+Bro010.C.dialogueact176	392.4	392.87	C	Professor	s	+1	3	Two - fifty ,
+Bro010.C.dialogueact177	393.73	394.79	C	Professor	s^e	+1	1	unless they changed the rules .
+Bro010.B.dialogueact178	394.709	395.249	B	PhD	b	-1	0	Hmm .
+Bro010.C.dialogueact179	397.3	398.72	C	Professor	s^e	+1	1	Which there is {disfmarker} there 's some discussion of .
+Bro010.A.dialogueact181	399.536	400.856	A	PhD	qw	+1	1	What were they thinking of changing it to ?
+Bro010.C.dialogueact180	399.12	399.34	C	Professor	fh	-1	0	But {disfmarker}
+Bro010.B.dialogueact182	399.643	400.073	B	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact183	401.334	409.576	C	Professor	h|s	+1	3	Uh , well the people who had very low latency want it to be low {disfmarker} uh , very {disfmarker} {vocalsound} very very narrow , uh , latency bound .
+Bro010.C.dialogueact184	409.576	411.536	C	Professor	s	+1	2	And the people who have longer latency don't .
+Bro010.C.dialogueact185	411.606	411.816	C	Professor	fh	-1	0	So .
+Bro010.A.dialogueact186	412.581	412.791	A	PhD	b	-1	0	Huh .
+Bro010.B.dialogueact187	413.208	413.578	B	PhD	b	-1	0	So , yeah .
+Bro010.C.dialogueact188	413.229	415.059	C	Professor	s	+1	3	Unfortunately we 're the main ones with long latency ,
+Bro010.C.dialogueact189	415.129	415.319	C	Professor	fh	-1	0	but
+Bro010.A.dialogueact190	415.71	416.06	A	PhD	s^bk	-1	0	Ah !
+Bro010.C.dialogueact191	416.941	417.511	C	Professor	fh	-1	0	But , uh ,
+Bro010.B.dialogueact193	417.73	417.79	B	PhD	fg	-1	0	Yeah ,
+Bro010.B.dialogueact194	417.79	422.18	B	PhD	s	+1	2	and basically the best proposal had something like thirty or forty milliseconds of latency .
+Bro010.C.dialogueact192	417.511	418.051	C	Professor	s.%-	-1	0	you know , it 's {disfmarker}
+Bro010.C.dialogueact195	421.7	421.87	C	Professor	s^aa	-1	0	Yeah .
+Bro010.B.dialogueact196	422.24	422.33	B	PhD	fh	-1	0	So .
+Bro010.B.dialogueact197	423.115	423.255	B	PhD	fh	-1	0	Well .
+Bro010.C.dialogueact198	423.661	423.861	C	Professor	s^bk	-1	0	Yeah ,
+Bro010.C.dialogueact199	423.941	424.711	C	Professor	s.%--	-1	0	so they were basically {disfmarker}
+Bro010.C.dialogueact200	424.711	425.061	C	Professor	fh	-1	0	I mean ,
+Bro010.C.dialogueact201	426.418	430.148	C	Professor	s	-1	0	they were more or less trading computation for performance
+Bro010.C.dialogueact202	430.148	434.083	C	Professor	s	-1	0	and we were , uh , trading latency for performance .
+Bro010.C.dialogueact203	434.083	436.992	C	Professor	s	-1	0	And they were dealing with noise explicitly and we weren't ,
+Bro010.C.dialogueact204	437.072	439.729	C	Professor	s	-1	0	and so I think of it as complementary ,
+Bro010.C.dialogueact205	440.133	441.013	C	Professor	s^e.%-	-1	0	that if we can put the {disfmarker}
+Bro010.A.dialogueact206	440.74	441.35	A	PhD	qw^br^d^rt	-1	0	Think of it as what ?
+Bro010.C.dialogueact207	441.36	441.97	C	Professor	s	-1	0	Complementary .
+Bro010.A.dialogueact208	442.135	442.365	A	PhD	b	-1	0	Hmm .
+Bro010.C.dialogueact209	442.678	444.208	C	Professor	s.%--	-1	0	I think the best systems {disfmarker}
+Bro010.C.dialogueact210	444.807	450.964	C	Professor	s	-1	0	so , uh , everything that we did in in a way it was {disfmarker} it was just adamantly insisting on going in with a brain damaged system ,
+Bro010.C.dialogueact211	450.964	453.734	C	Professor	s^e	-1	0	which is something {disfmarker} actually , we 've done a lot over the last thirteen years .
+Bro010.C.dialogueact212	454.306	457.776	C	Professor	s	-1	0	Uh , {vocalsound} which is we say , well this is the way we should do it .
+Bro010.C.dialogueact213	457.926	458.846	C	Professor	s	-1	0	And then we do it .
+Bro010.C.dialogueact214	458.926	462.773	C	Professor	s	-1	0	And then someone else does something that 's straight forward .
+Bro010.C.dialogueact215	462.773	466.323	C	Professor	s	-1	0	So , w th w this was a test that largely had additive noise
+Bro010.C.dialogueact216	466.323	470.873	C	Professor	s	-1	0	and we did {disfmarker} we adde did absolutely nothing explicitly to handle ad additive noise .
+Bro010.A.dialogueact217	471.155	471.495	A	PhD	s^bk	-1	0	Right .
+Bro010.C.dialogueact218	471.766	475.03	C	Professor	s	-1	0	We just , uh , you know , trained up systems to be more discriminant .
+Bro010.C.dialogueact219	475.954	478.994	C	Professor	fh|s	-1	0	And , uh , we did this , uh , RASTA - like filtering
+Bro010.C.dialogueact220	478.994	480.986	C	Professor	s^e	-1	0	which was done in the log domain
+Bro010.C.dialogueact221	480.986	483.806	C	Professor	s	-1	0	and was tending to handle convolutional noise .
+Bro010.C.dialogueact222	483.806	486.266	C	Professor	s	-1	0	We did {disfmarker} we actually did nothing about additive noise .
+Bro010.C.dialogueact223	487.255	488.375	C	Professor	fh	-1	0	So , um ,
+Bro010.C.dialogueact224	489.994	494.554	C	Professor	s	-1	0	the , uh , spectral sub subtraction schemes a couple places did seem to seem to do a nice job .
+Bro010.C.dialogueact225	494.774	495.164	C	Professor	fh	-1	0	And so ,
+Bro010.C.dialogueact226	495.854	496.204	C	Professor	fh	-1	0	uh ,
+Bro010.C.dialogueact227	497.218	500.638	C	Professor	s	-1	0	we 're talking about putting {disfmarker} putting some of that in while still keeping some of our stuff .
+Bro010.C.dialogueact228	500.638	504.012	C	Professor	s	-1	0	I think you should be able to end up with a system that 's better than both
+Bro010.C.dialogueact229	504.012	510.413	C	Professor	s	-1	0	but clearly the way that we 're operating for this other stuff does involved some latency to {disfmarker} to get rid of most of that latency .
+Bro010.C.dialogueact230	510.413	513.683	C	Professor	s	+1	1	To get down to forty or fifty milliseconds we 'd have to throw out most of what we 're doing .
+Bro010.C.dialogueact231	514.565	519.265	C	Professor	fh|s	-1	0	And {disfmarker} and , uh , I don't think there 's any good reason for it in the application actually .
+Bro010.C.dialogueact232	519.265	523.91	C	Professor	s	-1	0	I mean , you 're {disfmarker} you 're {disfmarker} you 're speaking to a recognizer on a remote server
+Bro010.C.dialogueact233	524.729	532.993	C	Professor	s	-1	0	and , uh , having a {disfmarker} a {disfmarker} a quarter second for some processing to clean it up . It doesn't seem like it 's that big a deal .
+Bro010.A.dialogueact234	532.482	532.952	A	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact235	532.993	534.333	C	Professor	s^df	-1	0	These aren't large vocabulary things
+Bro010.C.dialogueact236	534.333	536.613	C	Professor	s^df	-1	0	so the decoder shouldn't take a really long time , and .
+Bro010.A.dialogueact238	538.31	543.78	A	PhD	s^na	-1	0	And I don't think anybody 's gonna notice the difference between a quarter of a second of latency and thirty milliseconds of latency .
+Bro010.C.dialogueact237	537.841	538.311	C	Professor	fh	-1	0	So .
+Bro010.C.dialogueact239	544.243	544.553	C	Professor	s^aa	-1	0	No .
+Bro010.C.dialogueact240	544.763	555.76	C	Professor	qw	-1	0	What {disfmarker} what does {disfmarker} wa was your experience when you were doing this stuff with , uh , the {disfmarker} the {disfmarker} the surgical , uh , uh , microscopes and so forth .
+Bro010.C.dialogueact241	555.76	566.642	C	Professor	fh|qw	-1	0	Um , how long was it from when somebody , uh , finished an utterance to when , uh , something started happening ?
+Bro010.A.dialogueact242	567.523	569.583	A	PhD	h|s	-1	0	Um , we had a silence detector ,
+Bro010.A.dialogueact243	569.583	570.123	A	PhD	fh	-1	0	so
+Bro010.A.dialogueact244	570.731	574.841	A	PhD	s	-1	0	we would look for the end of an utterance based on the silence detector .
+Bro010.C.dialogueact245	575.237	575.567	C	Professor	b	-1	0	Mm - hmm .
+Bro010.A.dialogueact246	575.802	584.549	A	PhD	s^no	-1	0	And I {disfmarker} I can't remember now off the top of my head how many frames of silence we had to detect before we would declare it to be the end of an utterance .
+Bro010.C.dialogueact247	581.481	581.751	C	Professor	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact248	582.766	583.086	C	Professor	b	-1	0	Mm - hmm .
+Bro010.A.dialogueact249	584.929	585.479	A	PhD	fh	-1	0	Um ,
+Bro010.A.dialogueact250	586.402	587.162	A	PhD	s.%--	-1	0	but it was ,
+Bro010.A.dialogueact251	587.162	587.672	A	PhD	fh	-1	0	uh ,
+Bro010.A.dialogueact252	588.367	590.877	A	PhD	s	-1	0	I would say it was probably around the order of two hundred and fifty milliseconds .
+Bro010.C.dialogueact253	591.38	591.56	C	Professor	s^bk	-1	0	Yeah ,
+Bro010.C.dialogueact254	591.89	594.4	C	Professor	s^bu	-1	0	and that 's when you 'd start doing things .
+Bro010.A.dialogueact255	595.014	595.194	A	PhD	s^aa	-1	0	Yeah ,
+Bro010.A.dialogueact256	595.194	596.704	A	PhD	s	-1	0	we did the back trace at that point
+Bro010.A.dialogueact258	597.074	598.234	A	PhD	s^e	-1	0	to get the answer .
+Bro010.C.dialogueact257	596.865	597.125	C	Professor	s^bk	-1	0	Yeah .
+Bro010.C.dialogueact259	598.06	599.62	C	Professor	s^bu	-1	0	Of course that didn't take too long at that point .
+Bro010.A.dialogueact260	599.09	599.31	A	PhD	s^aa	-1	0	No ,
+Bro010.A.dialogueact261	599.49	600.58	A	PhD	s^na	-1	0	no it was pretty quick .
+Bro010.C.dialogueact262	599.62	599.87	C	Professor	s^bk	-1	0	Yeah .
+Bro010.A.dialogueact264	601.055	601.325	A	PhD	fh	-1	0	So {disfmarker}
+Bro010.C.dialogueact263	600.893	601.063	C	Professor	s^bk	-1	0	Yeah ,
+Bro010.C.dialogueact265	601.063	602.183	C	Professor	s.%--	-1	0	so you {disfmarker} you {disfmarker} so you had a
+Bro010.A.dialogueact267	602.905	603.145	A	PhD	%-	-1	0	this w
+Bro010.C.dialogueact266	602.88	609.361	C	Professor	s^bu^r	-1	0	so you had a {disfmarker} a quarter second delay before , uh , plus some little processing time ,
+Bro010.A.dialogueact268	609.58	609.81	A	PhD	s^aa	-1	0	Right .
+Bro010.C.dialogueact269	610.201	613.825	C	Professor	s^bu	-1	0	and then the {disfmarker} the microscope would start moving or something .
+Bro010.A.dialogueact270	613.912	614.112	A	PhD	s^aa	-1	0	Right .
+Bro010.C.dialogueact271	614.467	614.747	C	Professor	fh	-1	0	Yeah .
+Bro010.A.dialogueact272	615.105	615.215	A	PhD	b	-1	0	Right .
+Bro010.C.dialogueact273	615.787	617.237	C	Professor	s	-1	0	And there 's physical inertia there ,
+Bro010.C.dialogueact274	617.237	619.947	C	Professor	s.%-	-1	0	so probably the {disfmarker} the motion itself was all {disfmarker}
+Bro010.A.dialogueact275	619.311	624.368	A	PhD	s	-1	0	And it felt to , uh , the users that it was instantaneous .
+Bro010.A.dialogueact276	624.368	625.978	A	PhD	s^e	-1	0	I mean , as fast as talking to a person .
+Bro010.A.dialogueact277	625.978	629.508	A	PhD	s^df	-1	0	It {disfmarker} th I don't think anybody ever complained about the delay .
+Bro010.C.dialogueact278	629.88	630.1	C	Professor	s^bk	-1	0	Yeah ,
+Bro010.C.dialogueact279	630.1	632.56	C	Professor	s	-1	0	so you would think as long as it 's under half a second or something .
+Bro010.A.dialogueact280	632.446	632.756	A	PhD	s^aa	-1	0	Yeah .
+Bro010.C.dialogueact281	632.74	633.85	C	Professor	s^bd	-1	0	Uh , I 'm not an expert on that
+Bro010.A.dialogueact283	634.055	634.415	A	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact282	633.89	633.99	C	Professor	fh	-1	0	but .
+Bro010.A.dialogueact284	635.125	636.505	A	PhD	s	-1	0	I don't remember the exact numbers
+Bro010.A.dialogueact285	636.505	636.765	A	PhD	%--	-1	0	but
+Bro010.A.dialogueact287	638.097	638.987	A	PhD	s	-1	0	it was something like that .
+Bro010.C.dialogueact286	637.93	638.24	C	Professor	s^bk	-1	0	Yeah .
+Bro010.A.dialogueact288	640.12	641.43	A	PhD	s	-1	0	I don't think you can really tell .
+Bro010.A.dialogueact289	641.84	649.624	A	PhD	s	+1	2	A person {disfmarker} I don't think a person can tell the difference between , uh , you know , a quarter of a second and a hundred milliseconds ,
+Bro010.A.dialogueact290	649.624	649.734	A	PhD	%--	-1	0	and {disfmarker}
+Bro010.A.dialogueact292	650.75	653.27	A	PhD	s	+1	2	I 'm not even sure if we can tell the difference between a quarter of a second and half a second .
+Bro010.C.dialogueact291	650.355	650.645	C	Professor	b	-1	0	Yeah .
+Bro010.A.dialogueact294	653.956	655.846	A	PhD	s^df	+1	2	I mean it just {disfmarker} it feels so quick .
+Bro010.C.dialogueact293	653.655	653.965	C	Professor	b	-1	0	Yeah .
+Bro010.C.dialogueact295	656.422	665.124	C	Professor	s	-1	0	I mean , basically if you {disfmarker} yeah , if you said , uh , um , " what 's the , uh , uh {disfmarker} what 's the shortest route to the opera ? "
+Bro010.C.dialogueact296	666.548	669.738	C	Professor	s	-1	0	and it took half a second to get back to you ,
+Bro010.A.dialogueact297	669.05	669.37	A	PhD	s^bk	-1	0	Yeah .
+Bro010.C.dialogueact298	669.858	671.448	C	Professor	s.%--	-1	0	I mean , {vocalsound} it would be f
+Bro010.C.dialogueact299	671.448	673.168	C	Professor	s	-1	0	I mean , it might even be too abrupt .
+Bro010.C.dialogueact300	673.168	675.368	C	Professor	s	-1	0	You might have to put in a s a s {vocalsound} a delay .
+Bro010.A.dialogueact301	673.936	674.266	A	PhD	b	-1	0	Yeah .
+Bro010.A.dialogueact302	675.043	677.303	A	PhD	s	-1	0	I mean , it may feel different than talking to a person
+Bro010.C.dialogueact303	675.438	675.708	C	Professor	fh	-1	0	Yeah .
+Bro010.A.dialogueact304	677.303	681.093	A	PhD	s^df^rt	-1	0	because when we talk to each other we tend to step on each other 's utterances .
+Bro010.A.dialogueact305	681.193	684.503	A	PhD	s^e	-1	0	So like if I 'm asking you a question , you may start answering before I 'm even done .
+Bro010.C.dialogueact306	681.27	681.49	C	Professor	s^bk	-1	0	Yeah .
+Bro010.A.dialogueact307	685.011	686.791	A	PhD	s	-1	0	So it {disfmarker} it would probably feel different
+Bro010.C.dialogueact308	685.148	685.448	C	Professor	b	-1	0	Right .
+Bro010.A.dialogueact309	686.791	690.16	A	PhD	s^nd	-1	0	but I don't think it would feel slow .
+Bro010.C.dialogueact310	692.51	692.75	C	Professor	b	-1	0	Right .
+Bro010.C.dialogueact311	694.238	694.748	C	Professor	fg	-1	0	Well , anyway ,
+Bro010.C.dialogueact312	695.306	695.826	C	Professor	s.%--	-1	0	I mean , I think {disfmarker}
+Bro010.C.dialogueact313	697.198	700.058	C	Professor	s^cs	+1	2	we could cut {disfmarker} we know what else , we could cut down on the neural net time
+Bro010.C.dialogueact314	700.408	703.02	C	Professor	s^cs^e	+1	2	by {disfmarker} by , uh , playing around a little bit ,
+Bro010.C.dialogueact315	703.43	704.62	C	Professor	s^cs^e	+1	2	going more into the past ,
+Bro010.C.dialogueact316	704.62	705.63	C	Professor	s^cs^e	-1	0	or something like that .
+Bro010.C.dialogueact317	705.69	706.83	C	Professor	s	-1	0	We t we talked about that .
+Bro010.A.dialogueact318	706.75	709.9	A	PhD	qy^rt	+1	2	So is the latency from the neural net caused by how far ahead you 're looking ?
+Bro010.C.dialogueact319	710.021	710.251	C	Professor	s^aa	+1	2	Mm - hmm .
+Bro010.B.dialogueact320	711.761	712.201	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact321	712.31	713.16	C	Professor	s.%--	-1	0	And there 's also {disfmarker}
+Bro010.C.dialogueact322	713.16	719.37	C	Professor	s^e	-1	0	well , there 's the neural net and there 's also this , uh , uh , multi - frame , uh , uh , KLT .
+Bro010.A.dialogueact323	720.85	721.46	A	PhD	qy.%--	-1	0	Wasn't there {disfmarker}
+Bro010.A.dialogueact324	722.231	726.151	A	PhD	qy^rt	-1	0	Was it in the , uh , recurrent neural nets where they weren't looking ahead at all ?
+Bro010.C.dialogueact325	726.481	727.841	C	Professor	s^aap	-1	0	They weren't looking ahead much .
+Bro010.C.dialogueact326	729.19	730.48	C	Professor	s^aap^df	-1	0	They p they looked ahead a little bit .
+Bro010.A.dialogueact327	730.427	730.947	A	PhD	s^bk^m	-1	0	A little bit .
+Bro010.A.dialogueact328	731.167	731.257	A	PhD	s^bk	-1	0	OK .
+Bro010.C.dialogueact329	732.457	732.757	C	Professor	b	-1	0	Yeah .
+Bro010.C.dialogueact330	734.12	734.24	C	Professor	fg	-1	0	Yeah ,
+Bro010.C.dialogueact331	734.24	735.89	C	Professor	s^cs	-1	0	I mean , you could do this with a recurrent net .
+Bro010.C.dialogueact332	736.12	737.07	C	Professor	s.%--	-1	0	And {disfmarker} and then {disfmarker}
+Bro010.C.dialogueact333	737.77	739.45	C	Professor	s^cs.%--	-1	0	But you also could just , um ,
+Bro010.C.dialogueact334	740.62	741.92	C	Professor	s^df	-1	0	I mean , we haven't experimented with this
+Bro010.C.dialogueact335	741.92	754.66	C	Professor	s^cs	-1	0	but I imagine you could , um , uh , predict a , uh {disfmarker} um , a label , uh , from more in the past than in {disfmarker} than {disfmarker} than in the future .
+Bro010.C.dialogueact336	755.189	756.959	C	Professor	s	-1	0	I mean , we 've d we 've done some stuff with that before .
+Bro010.C.dialogueact337	756.959	758.009	C	Professor	s	-1	0	I think it {disfmarker} it works OK .
+Bro010.B.dialogueact338	758.459	758.939	B	PhD	b	-1	0	Mm - hmm .
+Bro010.A.dialogueact340	759.39	762.03	A	PhD	s	-1	0	We 've always had {disfmarker} usually we used the symmetric windows
+Bro010.C.dialogueact339	759.345	759.655	C	Professor	fh	-1	0	So .
+Bro010.A.dialogueact341	762.03	762.21	A	PhD	fh	-1	0	but
+Bro010.A.dialogueact343	762.55	763.1	A	PhD	s.%-	-1	0	I don't think {disfmarker}
+Bro010.C.dialogueact342	762.233	762.443	C	Professor	s^aa	-1	0	Yeah ,
+Bro010.C.dialogueact344	762.573	765.213	C	Professor	s	-1	0	but we 've {disfmarker} but we played a little bit with {disfmarker} with asymmetric , guys .
+Bro010.A.dialogueact345	763.906	764.336	A	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact346	765.453	765.943	C	Professor	s	-1	0	You can do it .
+Bro010.C.dialogueact347	768.482	768.852	C	Professor	fh	-1	0	So .
+Bro010.C.dialogueact348	771.38	773.37	C	Professor	s	-1	0	So , that 's what {disfmarker} that 's what you 're busy with ,
+Bro010.C.dialogueact349	773.37	774.98	C	Professor	s	-1	0	s messing around with this ,
+Bro010.B.dialogueact350	773.98	774.27	B	PhD	h|s^aa	-1	0	Uh , yeah .
+Bro010.C.dialogueact351	774.98	775.23	C	Professor	fh	-1	0	yeah .
+Bro010.C.dialogueact352	776.442	776.992	C	Professor	fh	-1	0	And , uh ,
+Bro010.D.dialogueact353	778.361	786.44	D	PhD	s	+1	2	Also we were thinking to {disfmarker} to , uh , apply the eh , spectral subtraction from Ericsson
+Bro010.B.dialogueact354	784.43	784.63	B	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact355	786.9	787.19	C	Professor	b	-1	0	Uh - huh .
+Bro010.D.dialogueact356	786.98	793.17	D	PhD	s	+1	2	and to {disfmarker} to change the contextual KLT for LDA .
+Bro010.A.dialogueact357	795.313	795.973	A	PhD	qw^br^d^rt	-1	0	Change the what ?
+Bro010.D.dialogueact358	796.374	798.224	D	PhD	s	-1	0	The contextual KLT .
+Bro010.A.dialogueact359	799.394	800.374	A	PhD	s^br	-1	0	I 'm missing that last word .
+Bro010.A.dialogueact360	800.374	800.754	A	PhD	s^e.%-	-1	0	Context
+Bro010.C.dialogueact361	800.46	801.42	C	Professor	s	-1	0	K {disfmarker} KLT .
+Bro010.A.dialogueact364	801.45	801.87	A	PhD	s^bk^m	-1	0	KLT .
+Bro010.D.dialogueact363	801.31	801.99	D	PhD	s	-1	0	KLT {disfmarker}
+Bro010.E.dialogueact362	800.876	801.556	E	Grad	s	-1	0	Oh . KLT .
+Bro010.A.dialogueact365	801.87	802.48	A	PhD	s^bk^m^r	-1	0	Oh , KLT .
+Bro010.C.dialogueact366	802.077	802.347	C	Professor	b	-1	0	Mm - hmm .
+Bro010.A.dialogueact368	802.63	802.87	A	PhD	s^bk	-1	0	Uh - huh .
+Bro010.D.dialogueact367	802.4	803.04	D	PhD	s^r	-1	0	KLT ,
+Bro010.D.dialogueact369	803.04	803.45	D	PhD	s^fa	-1	0	I 'm sorry .
+Bro010.D.dialogueact370	804.102	807.822	D	PhD	s	+1	1	Uh , to change and use LDA discriminative .
+Bro010.B.dialogueact371	809.18	809.4	B	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact373	810.3	810.64	C	Professor	b	-1	0	Uh - huh .
+Bro010.D.dialogueact372	809.883	810.113	D	PhD	fh	-1	0	But {disfmarker}
+Bro010.D.dialogueact374	811.441	811.771	D	PhD	fh	-1	0	I don't know .
+Bro010.C.dialogueact375	814.644	815.344	C	Professor	fg	-1	0	Uh ,
+Bro010.A.dialogueact376	815.45	816.71	A	PhD	qw^rt	-1	0	What is the advantage of that ?
+Bro010.D.dialogueact377	817.5	818.22	D	PhD	h	-1	0	Uh {disfmarker}
+Bro010.B.dialogueact378	818.02	822.75	B	PhD	s^rt	-1	0	Well , it 's that by the for the moment we have , uh , something that 's discriminant and nonlinear .
+Bro010.B.dialogueact379	823.277	825.707	B	PhD	s	-1	0	And the other is linear but it 's not discriminant at all .
+Bro010.B.dialogueact380	825.707	828.469	B	PhD	s.%--	-1	0	Well , it 's it 's a linear transformation , that {disfmarker}
+Bro010.B.dialogueact381	830.263	830.943	B	PhD	fh	-1	0	Uh {disfmarker}
+Bro010.C.dialogueact382	831.09	839.239	C	Professor	s	-1	0	So at least just to understand maybe what the difference was between how much you were getting from just putting the frames together and how much you 're getting from the discriminative ,
+Bro010.C.dialogueact383	840.045	842.475	C	Professor	s	-1	0	what the nonlinearity does for you or doesn't do for you .
+Bro010.C.dialogueact384	842.898	844.778	C	Professor	s	-1	0	Just to understand it a little better I guess .
+Bro010.B.dialogueact385	845.133	845.893	B	PhD	b	-1	0	Mmm .
+Bro010.B.dialogueact386	846.852	847.012	B	PhD	fg	-1	0	Well {disfmarker}
+Bro010.B.dialogueact387	847.672	848.242	B	PhD	fh	-1	0	uh {disfmarker}
+Bro010.B.dialogueact388	848.242	848.712	B	PhD	fh	-1	0	yeah .
+Bro010.B.dialogueact389	850.077	855.777	B	PhD	s	-1	0	Actually what we want to do , perhaps it 's to replace {disfmarker} to {disfmarker} to have something that 's discriminant but linear , also .
+Bro010.B.dialogueact390	858.205	863.335	B	PhD	s^rt	-1	0	And to see if it {disfmarker} if it improves ov over {disfmarker} over the non - discriminant linear transformation .
+Bro010.A.dialogueact392	864.826	865.106	A	PhD	b	-1	0	Hmm .
+Bro010.B.dialogueact391	864.759	867.209	B	PhD	s	-1	0	And if the neural net is better than this
+Bro010.B.dialogueact393	867.209	867.639	B	PhD	fh	-1	0	or , well .
+Bro010.B.dialogueact395	868.992	869.072	B	PhD	fh	-1	0	So .
+Bro010.C.dialogueact394	868.53	872.7	C	Professor	s^bk|s	-1	0	Yeah , well , that 's what I meant , is to see whether {disfmarker} whether it {disfmarker} having the neural net really buys you anything .
+Bro010.B.dialogueact396	869.558	869.698	B	PhD	%-	-1	0	Ye
+Bro010.B.dialogueact397	870.693	871.063	B	PhD	b	-1	0	Mmm .
+Bro010.C.dialogueact398	873.126	876.676	C	Professor	s	-1	0	Uh , I mean , it doe did look like it buys you something over just the KLT .
+Bro010.B.dialogueact399	877.3	877.46	B	PhD	s^bk	-1	0	Yeah .
+Bro010.C.dialogueact400	877.316	879.246	C	Professor	s	-1	0	But maybe it 's just the discrimination
+Bro010.C.dialogueact401	879.246	883.226	C	Professor	s	-1	0	and {disfmarker} and maybe {disfmarker} yeah , maybe the nonlinear discrimination isn't necessary .
+Bro010.D.dialogueact402	880.89	881.67	D	PhD	s^am	-1	0	S maybe .
+Bro010.B.dialogueact403	883.446	883.636	B	PhD	b	-1	0	Yeah .
+Bro010.B.dialogueact404	883.636	883.976	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact406	883.842	884.192	C	Professor	s	-1	0	Could be .
+Bro010.D.dialogueact405	883.836	884.186	D	PhD	s^am^r	-1	0	Maybe .
+Bro010.C.dialogueact407	884.544	885.264	C	Professor	s	-1	0	Good {disfmarker} good to know .
+Bro010.C.dialogueact408	886.559	888.649	C	Professor	s	-1	0	But the other part you were saying was the spectral subtraction ,
+Bro010.C.dialogueact409	888.649	890.299	C	Professor	s.%--	-1	0	so you just kind of , uh {disfmarker}
+Bro010.B.dialogueact410	889.655	890.095	B	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact411	890.759	892.109	C	Professor	qw	-1	0	At what stage do you do that ?
+Bro010.C.dialogueact412	892.109	893.349	C	Professor	qy.%--	-1	0	Do you {disfmarker} you 're doing that ,
+Bro010.C.dialogueact413	893.609	894.069	C	Professor	fh	-1	0	um {disfmarker} ?
+Bro010.B.dialogueact414	894.973	895.983	B	PhD	s.%--	-1	0	So it would be on the
+Bro010.B.dialogueact415	895.983	896.813	B	PhD	fh	-1	0	um {disfmarker}
+Bro010.B.dialogueact417	898.22	899.59	B	PhD	s	-1	0	on {disfmarker} on the mel frequency bands ,
+Bro010.D.dialogueact416	897.761	898.491	D	PhD	s.%-	-1	0	We was think
+Bro010.B.dialogueact418	899.59	899.87	B	PhD	fh	-1	0	so . Yeah ,
+Bro010.B.dialogueact421	899.87	901.89	B	PhD	s^e	-1	0	be before everything .
+Bro010.C.dialogueact422	899.9	900.14	C	Professor	s^bk	-1	0	OK ,
+Bro010.D.dialogueact419	899.64	899.82	D	PhD	s^aa	-1	0	Yeah ,
+Bro010.C.dialogueact423	900.14	901.33	C	Professor	s^co.%-	-1	0	so just do that on the mel f
+Bro010.D.dialogueact420	899.82	901.11	D	PhD	%-	-1	0	we {disfmarker} no {disfmarker} nnn
+Bro010.D.dialogueact424	901.441	904.541	D	PhD	s	-1	0	We {disfmarker} we was thinking to do before after VAD
+Bro010.D.dialogueact425	904.541	904.901	D	PhD	fh	-1	0	or
+Bro010.B.dialogueact427	906.159	906.649	B	PhD	s^aa	-1	0	Yeah ,
+Bro010.D.dialogueact426	905.693	908.953	D	PhD	s^no	-1	0	Oh , {comment} we don't know exactly when it 's better .
+Bro010.B.dialogueact428	906.649	908.129	B	PhD	fh	-1	0	um {disfmarker}
+Bro010.D.dialogueact429	909.393	911.153	D	PhD	s	-1	0	Before after VAD
+Bro010.D.dialogueact430	911.153	911.393	D	PhD	%--	-1	0	or {disfmarker}
+Bro010.C.dialogueact432	912.94	915.968	C	Professor	fg|s.%--	-1	0	So {disfmarker} so you know that {disfmarker} that {disfmarker} that the way that they 're {disfmarker}
+Bro010.D.dialogueact431	912.765	913.275	D	PhD	s.%-	-1	0	and then
+Bro010.B.dialogueact433	913.869	914.159	B	PhD	%	-1	0	Um .
+Bro010.C.dialogueact434	916.058	931.8	C	Professor	s	+1	3	uh , one thing that would be no {disfmarker} good to find out about from this conference call is that what they were talking about , what they 're proposing doing , was having a third party , um , run a good VAD , and {disfmarker} and determine boundaries .
+Bro010.D.dialogueact435	932.195	932.385	D	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact436	933.174	937.728	C	Professor	s	+1	3	And then given those boundaries , then have everybody do the recognition .
+Bro010.D.dialogueact437	935.321	936.071	D	PhD	s^2	-1	0	Begin to work .
+Bro010.C.dialogueact438	938.114	946.334	C	Professor	s^e	-1	0	The reason for that was that , um , uh {disfmarker} if some one p one group put in the VAD and another didn't ,
+Bro010.C.dialogueact439	947.566	949.836	C	Professor	s^e	-1	0	uh , or one had a better VAD than the other
+Bro010.C.dialogueact440	950.335	955.059	C	Professor	s	-1	0	since that {disfmarker} they 're not viewing that as being part of the {disfmarker} the task ,
+Bro010.C.dialogueact441	955.518	961.806	C	Professor	s	-1	0	and that any {disfmarker} any manufacturer would put a bunch of effort into having some s kind of good speech - silence detection .
+Bro010.C.dialogueact442	962.413	963.323	C	Professor	s	-1	0	It still wouldn't be perfect
+Bro010.C.dialogueact443	963.323	963.893	C	Professor	fh	-1	0	but I mean ,
+Bro010.C.dialogueact444	964.233	967.093	C	Professor	s	-1	0	e the argument was " let 's not have that be part of this test . "
+Bro010.C.dialogueact445	967.434	969.784	C	Professor	s^e	-1	0	" Let 's {disfmarker} let 's separate that out . "
+Bro010.C.dialogueact446	970.782	971.292	C	Professor	s.%--	-1	0	And so ,
+Bro010.C.dialogueact447	972.191	974.041	C	Professor	s	+1	2	uh , I guess they argued about that yesterday
+Bro010.C.dialogueact448	974.041	974.241	C	Professor	%--	-1	0	and ,
+Bro010.C.dialogueact449	974.486	974.976	C	Professor	s^fa	-1	0	yeah , I 'm sorry ,
+Bro010.C.dialogueact450	974.976	975.936	C	Professor	s^no	+1	1	I don't {disfmarker} don't know the answer
+Bro010.C.dialogueact451	975.936	976.676	C	Professor	s^cs	+1	1	but we should find out .
+Bro010.C.dialogueact452	976.846	977.846	C	Professor	s	-1	0	I 'm sure we 'll find out soon
+Bro010.C.dialogueact453	978.823	980.413	C	Professor	s^e	-1	0	what they , uh {disfmarker} what they decided .
+Bro010.C.dialogueact454	983.93	984.74	C	Professor	fh	-1	0	So , uh {disfmarker}
+Bro010.C.dialogueact455	985.04	986.16	C	Professor	s	-1	0	Yeah , so there 's the question of the VAD
+Bro010.C.dialogueact456	986.16	991.381	C	Professor	s^bu^rt	-1	0	but otherwise it 's {disfmarker} it 's on the {disfmarker} the , uh {disfmarker} the mel fil filter bank , uh , energies I guess ?
+Bro010.D.dialogueact457	990.32	990.63	D	PhD	b	-1	0	Mm - hmm .
+Bro010.B.dialogueact459	991.593	991.913	B	PhD	s^aa	-1	0	Mmm , yeah .
+Bro010.C.dialogueact458	991.381	992.271	C	Professor	qy.%--	-1	0	You do {disfmarker} doing the {disfmarker} ?
+Bro010.D.dialogueact460	992.089	992.429	D	PhD	s^aa	-1	0	Mm - hmm .
+Bro010.C.dialogueact461	993.155	997.776	C	Professor	s^bu	-1	0	And you 're {disfmarker} you 're subtracting in the {disfmarker} in the {disfmarker} in the {disfmarker} I guess it 's power {disfmarker} power domain ,
+Bro010.C.dialogueact462	998.807	1001.17	C	Professor	fh|s^bu	-1	0	uh , or {disfmarker} or magnitude domain .
+Bro010.C.dialogueact463	1001.17	1002.27	C	Professor	s^bu|qy^d^g^rt	-1	0	Probably power domain , right ?
+Bro010.B.dialogueact465	1002.53	1003.86	B	PhD	s^na	-1	0	I guess it 's power domain , yeah .
+Bro010.C.dialogueact464	1002.52	1002.64	C	Professor	%	-1	0	why
+Bro010.B.dialogueact466	1003.86	1004.8	B	PhD	s^df	-1	0	I don't remember exactly .
+Bro010.C.dialogueact468	1005.13	1005.34	C	Professor	b	-1	0	Yeah ,
+Bro010.D.dialogueact467	1004.82	1005.49	D	PhD	s^no	-1	0	I don't remember .
+Bro010.B.dialogueact469	1005.7	1005.82	B	PhD	%--	-1	0	But {disfmarker}
+Bro010.B.dialogueact470	1006.07	1006.2	B	PhD	s^bk	-1	0	yeah ,
+Bro010.B.dialogueact471	1006.39	1008.15	B	PhD	s^e	-1	0	so it 's before everything else ,
+Bro010.C.dialogueact472	1006.46	1006.68	C	Professor	b	-1	0	yep .
+Bro010.B.dialogueact473	1008.15	1008.38	B	PhD	fh	-1	0	and {disfmarker}
+Bro010.C.dialogueact474	1008.64	1011.35	C	Professor	s^na	-1	0	I mean , if you look at the theory , it 's {disfmarker} it should be in the power domain
+Bro010.C.dialogueact475	1011.35	1014.74	C	Professor	s	-1	0	but {disfmarker} but , uh , I 've seen implementations where people do it in the magnitude domain
+Bro010.B.dialogueact476	1012.44	1012.79	B	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact477	1014.74	1014.87	C	Professor	%--	-1	0	and {disfmarker}
+Bro010.B.dialogueact478	1015.24	1016.12	B	PhD	b	-1	0	Mmm .
+Bro010.C.dialogueact479	1015.63	1016.52	C	Professor	s	-1	0	I have asked people why
+Bro010.C.dialogueact480	1016.52	1018.87	C	Professor	s	-1	0	and they shrug their shoulders and say , " oh , it works . "
+Bro010.C.dialogueact481	1018.99	1019.87	C	Professor	fh	-1	0	So .
+Bro010.B.dialogueact482	1022.15	1022.42	B	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact483	1023.18	1023.74	C	Professor	fh	-1	0	Uh ,
+Bro010.C.dialogueact484	1023.96	1024.6	C	Professor	s.%--	-1	0	and there 's this {disfmarker}
+Bro010.C.dialogueact485	1024.6	1026.01	C	Professor	s.%--	-1	0	I guess there 's this mysterious {disfmarker}
+Bro010.C.dialogueact486	1026.12	1030.07	C	Professor	s	-1	0	I mean people who do this a lot I guess have developed little tricks of the trade .
+Bro010.C.dialogueact487	1030.07	1032.13	C	Professor	s.%--	-1	0	I mean , there 's {disfmarker} there 's this , um {disfmarker}
+Bro010.C.dialogueact488	1032.4	1034.74	C	Professor	s	-1	0	you don't just subtract the {disfmarker} the estimate of the noise spectrum .
+Bro010.C.dialogueact489	1034.74	1036.59	C	Professor	s.%-	-1	0	You subtract th that times {disfmarker}
+Bro010.B.dialogueact490	1035.56	1036.44	B	PhD	s^2	-1	0	A little bit more
+Bro010.B.dialogueact491	1036.44	1036.68	B	PhD	fh	-1	0	and {disfmarker}
+Bro010.B.dialogueact493	1036.78	1036.98	B	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact492	1036.69	1037.56	C	Professor	s	-1	0	Or {disfmarker} or less ,
+Bro010.C.dialogueact494	1037.56	1037.73	C	Professor	fh	-1	0	or {disfmarker}
+Bro010.A.dialogueact495	1038.45	1038.69	A	PhD	qy^bh^d	-1	0	Really ?
+Bro010.B.dialogueact496	1038.45	1038.77	B	PhD	b	-1	0	Yeah .
+Bro010.A.dialogueact497	1039.29	1039.6	A	PhD	s^bk^fe	-1	0	Huh !
+Bro010.C.dialogueact498	1040.55	1040.89	C	Professor	fh	-1	0	Yeah .
+Bro010.B.dialogueact499	1041.32	1042.97	B	PhD	s.%--	-1	0	And generated this {disfmarker} this ,
+Bro010.C.dialogueact500	1041.51	1041.72	C	Professor	fh	-1	0	Uh .
+Bro010.B.dialogueact501	1043.25	1043.76	B	PhD	fh	-1	0	um ,
+Bro010.B.dialogueact502	1044.42	1047.5	B	PhD	s^rt	-1	0	so you have the estimation of the power spectra of the noise ,
+Bro010.B.dialogueact503	1048.13	1052.6	B	PhD	s	-1	0	and you multiply this by a factor which is depend dependent on the SNR .
+Bro010.B.dialogueact505	1053.66	1054.24	B	PhD	fh	-1	0	So . Well .
+Bro010.D.dialogueact504	1053.23	1053.96	D	PhD	s^am	-1	0	Hmm , maybe .
+Bro010.A.dialogueact506	1055.04	1055.26	A	PhD	s^bk^fe	-1	0	Hmm !
+Bro010.B.dialogueact507	1055.95	1063.3	B	PhD	s^rt	-1	0	When the speech lev when the signal level is more important , compared to this noise level , the coefficient is small , and around one .
+Bro010.B.dialogueact508	1064.61	1073.51	B	PhD	s	-1	0	But when the power le the s signal level is uh small compared to the noise level , the coefficient is more important .
+Bro010.B.dialogueact509	1074.48	1077.54	B	PhD	s	-1	0	And this reduce actually the music musical noise ,
+Bro010.A.dialogueact511	1077.91	1078.63	A	PhD	s^bk^fe	-1	0	Oh !
+Bro010.B.dialogueact510	1077.54	1077.72	B	PhD	fh	-1	0	uh
+Bro010.B.dialogueact512	1078.6	1080.84	B	PhD	s^e	-1	0	which is more important during silence portions ,
+Bro010.A.dialogueact514	1081.03	1081.38	A	PhD	s^bk	-1	0	Uh - huh .
+Bro010.B.dialogueact513	1080.88	1083.05	B	PhD	s^e	-1	0	when the s the energy 's small .
+Bro010.A.dialogueact515	1083.25	1083.51	A	PhD	s^bk^fe	-1	0	Hmm !
+Bro010.B.dialogueact516	1083.9	1085.14	B	PhD	s	-1	0	So there are tricks like this
+Bro010.B.dialogueact517	1085.14	1085.58	B	PhD	fh	-1	0	but , mmm .
+Bro010.A.dialogueact518	1085.64	1085.78	A	PhD	s^bk^fe	-1	0	Hmm !
+Bro010.C.dialogueact519	1086.62	1086.8	C	Professor	b	-1	0	Yeah .
+Bro010.B.dialogueact521	1088.36	1088.53	B	PhD	fh	-1	0	Yeah .
+Bro010.C.dialogueact520	1088.35	1088.66	C	Professor	b	-1	0	So .
+Bro010.A.dialogueact522	1091.68	1095.29	A	PhD	qy^rt	-1	0	Is the estimate of the noise spectrum a running estimate ?
+Bro010.A.dialogueact525	1096.37	1096.59	A	PhD	qrr.%--	-1	0	Or {disfmarker}
+Bro010.B.dialogueact523	1096.12	1096.32	B	PhD	s^aa	-1	0	Yeah .
+Bro010.C.dialogueact524	1096.25	1096.5	C	Professor	s^aa	-1	0	Yeah .
+Bro010.B.dialogueact526	1096.9	1097.04	B	PhD	s^aa^r	-1	0	Yeah .
+Bro010.C.dialogueact527	1098.69	1105.41	C	Professor	s	-1	0	Well , that 's {disfmarker} I mean , that 's what differs from different {disfmarker} different tasks and different s uh , spectral subtraction methods .
+Bro010.A.dialogueact529	1105.59	1105.72	A	PhD	b	-1	0	Hmm !
+Bro010.C.dialogueact528	1105.41	1118.54	C	Professor	s^cs	-1	0	I mean , if {disfmarker} if you have , uh , fair assurance that , uh , the noise is {disfmarker} is quite stationary , then the smartest thing to do is use as much data as possible to estimate the noise ,
+Bro010.C.dialogueact530	1118.65	1120.69	C	Professor	s^cs	-1	0	get a much better estimate , and subtract it off .
+Bro010.A.dialogueact531	1120.9	1121.26	A	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact532	1121.46	1131.1	C	Professor	s^cs	-1	0	But if it 's varying at all , which is gonna be the case for almost any real situation , you have to do it on - line , uh , with some forgetting factor or something .
+Bro010.A.dialogueact533	1131.55	1137.64	A	PhD	qy^rt	-1	0	So do you {disfmarker} is there some long window that extends into the past over which you calculate the average ?
+Bro010.C.dialogueact534	1139.1	1142.36	C	Professor	s	+1	2	Well , there 's a lot of different ways of computing the noise spectrum .
+Bro010.C.dialogueact535	1142.36	1148.16	C	Professor	s.%--	-1	0	So one of the things that , uh , Hans - Guenter Hirsch did , uh {disfmarker} and pas and other people {disfmarker}
+Bro010.C.dialogueact536	1148.25	1149.8	C	Professor	s^df	-1	0	actually , he 's {disfmarker} he wasn't the only one I guess ,
+Bro010.C.dialogueact537	1151.26	1159.67	C	Professor	s	-1	0	was to , uh , take some period of {disfmarker} of {disfmarker} of speech and in each band , uh , develop a histogram .
+Bro010.C.dialogueact538	1160.21	1166.15	C	Professor	s	-1	0	So , to get a decent histogram of these energies takes at least a few seconds really .
+Bro010.C.dialogueact539	1166.62	1169.12	C	Professor	s	-1	0	But , uh {disfmarker} I mean you can do it with a smaller amount
+Bro010.C.dialogueact540	1169.12	1169.87	C	Professor	s^e	-1	0	but it 's pretty rough .
+Bro010.C.dialogueact541	1171.09	1177.91	C	Professor	fh|s	-1	0	And , um , in fact I think the NIST standard method of determining signal - to - noise ratio is based on this .
+Bro010.A.dialogueact543	1178.86	1179.58	A	PhD	qy^bu^d^rt	-1	0	A couple seconds ?
+Bro010.C.dialogueact542	1178.67	1179.09	C	Professor	s.%-	-1	0	So {disfmarker}
+Bro010.C.dialogueact544	1179.9	1180.1	C	Professor	s^ar	-1	0	No , no ,
+Bro010.C.dialogueact545	1180.1	1181.19	C	Professor	s^nd	-1	0	it 's based on this kind of method ,
+Bro010.A.dialogueact547	1181.43	1181.72	A	PhD	b	-1	0	Hmm .
+Bro010.C.dialogueact546	1181.19	1182.18	C	Professor	s^e^nd	-1	0	this histogram method .
+Bro010.C.dialogueact548	1182.59	1183.52	C	Professor	s	-1	0	So you have a histogram .
+Bro010.C.dialogueact549	1184.1	1189.72	C	Professor	s	-1	0	Now , if you have signal and you have noise , you basically have these two bumps in the histogram ,
+Bro010.C.dialogueact550	1190.22	1192.29	C	Professor	s^e	-1	0	which you could approximate as two Gaussians .
+Bro010.A.dialogueact551	1192.9	1194.7	A	PhD	qy^rt	-1	0	But wh don't they overlap sometimes ?
+Bro010.C.dialogueact552	1194.67	1195.01	C	Professor	s^aa	-1	0	Oh , yeah .
+Bro010.A.dialogueact553	1195.19	1195.42	A	PhD	s^bk	-1	0	OK .
+Bro010.C.dialogueact554	1195.75	1197.31	C	Professor	s	-1	0	So you have a mixture of two Gaussians .
+Bro010.A.dialogueact555	1197.42	1197.7	A	PhD	s^bk	-1	0	Yeah .
+Bro010.C.dialogueact556	1198.01	1198.11	C	Professor	qy^d^f^g^rt	-1	0	Right ?
+Bro010.C.dialogueact557	1198.11	1199.91	C	Professor	s	-1	0	And you can use EM to figure out what it is . You know .
+Bro010.A.dialogueact558	1199.38	1199.79	A	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact559	1199.91	1202.47	C	Professor	s	-1	0	So {disfmarker} so basically now you have this mixture of two Gaussians ,
+Bro010.C.dialogueact560	1202.47	1203.8	C	Professor	s	-1	0	you {disfmarker} you n know what they are ,
+Bro010.C.dialogueact561	1203.8	1204.35	C	Professor	%--	-1	0	and , uh {disfmarker}
+Bro010.C.dialogueact562	1204.35	1204.8	C	Professor	s^fa	-1	0	I mean , sorry ,
+Bro010.C.dialogueact563	1204.8	1206.1	C	Professor	s^bsc	-1	0	you estimate what they are ,
+Bro010.C.dialogueact564	1206.68	1207.42	C	Professor	fh	-1	0	and , uh ,
+Bro010.C.dialogueact565	1207.42	1212.6	C	Professor	s	-1	0	so this gives you what the signal is and what the noise e energy is in that band in the spectrum .
+Bro010.C.dialogueact566	1212.6	1213.93	C	Professor	s	-1	0	And then you look over the whole thing
+Bro010.C.dialogueact567	1213.93	1215.0	C	Professor	s	-1	0	and now you have a noise spectrum .
+Bro010.C.dialogueact568	1216.32	1219.83	C	Professor	fh|s	-1	0	So , uh , Hans - Guenter Hirsch and others have used that kind of method .
+Bro010.C.dialogueact569	1219.95	1229.71	C	Professor	s^cs	-1	0	And the other thing to do is {disfmarker} which is sort of more trivial and obvious {comment} {disfmarker} is to , uh , uh , determine through magical means that {disfmarker} that , uh , there 's no speech in some period ,
+Bro010.C.dialogueact570	1229.71	1230.89	C	Professor	s^cs	-1	0	and then see what the spectrum is .
+Bro010.A.dialogueact571	1230.92	1231.25	A	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact572	1231.79	1232.04	C	Professor	fh	-1	0	Uh ,
+Bro010.C.dialogueact573	1232.72	1233.1	C	Professor	%--	-1	0	but ,
+Bro010.C.dialogueact574	1233.85	1236.54	C	Professor	s	-1	0	you know , it 's {disfmarker} that {disfmarker} that {disfmarker} that 's tricky to do .
+Bro010.C.dialogueact575	1236.54	1237.57	C	Professor	s^df	-1	0	It has mistakes .
+Bro010.C.dialogueact576	1237.57	1242.21	C	Professor	s^cs	-1	0	Uh , and if you 've got enough time , uh , this other method appears to be somewhat more reliable .
+Bro010.C.dialogueact577	1242.89	1253.9	C	Professor	s^cs	-1	0	Uh , a variant on that for just determining signal - to - noise ratio is to just , uh {disfmarker} you can do a w a uh {disfmarker} an iterative thing , EM - like thing , to determine means only .
+Bro010.C.dialogueact578	1254.0	1255.02	C	Professor	s	-1	0	I guess it is EM still ,
+Bro010.C.dialogueact579	1255.12	1257.01	C	Professor	s^cs	-1	0	but just {disfmarker} just determine the means only .
+Bro010.C.dialogueact580	1257.5	1258.7	C	Professor	s^cs	-1	0	Don't worry about the variances .
+Bro010.A.dialogueact581	1258.61	1259.08	A	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact582	1258.91	1266.76	C	Professor	s^cs	-1	0	And then you just use those mean values as being the {disfmarker} the , uh uh signal - to - noise ratio in that band .
+Bro010.A.dialogueact583	1268.41	1269.46	A	PhD	qw.%--	-1	0	But what is the {disfmarker}
+Bro010.A.dialogueact584	1270.39	1273.68	A	PhD	s	+1	2	it seems like this kind of thing could add to the latency .
+Bro010.A.dialogueact585	1274.25	1279.84	A	PhD	s^df	+1	2	I mean , depending on where the window was that you used to calculate {pause} the signal - to - noise ratio .
+Bro010.B.dialogueact586	1280.08	1280.34	B	PhD	s^aa	-1	0	Yeah ,
+Bro010.B.dialogueact587	1280.46	1280.7	B	PhD	s^aa	-1	0	sure .
+Bro010.B.dialogueact588	1281.45	1281.69	B	PhD	%--	-1	0	But {disfmarker}
+Bro010.B.dialogueact589	1282.07	1282.87	B	PhD	fh	-1	0	Mmm .
+Bro010.C.dialogueact590	1282.85	1283.49	C	Professor	s^nd	+1	2	Not necessarily .
+Bro010.C.dialogueact591	1283.98	1285.14	C	Professor	s^df	+1	2	Cuz if you don't look into the future ,
+Bro010.C.dialogueact592	1285.14	1285.43	C	Professor	qy^d^f^g^rt	-1	0	right ?
+Bro010.A.dialogueact593	1285.91	1286.04	A	PhD	s^bk	-1	0	OK ,
+Bro010.A.dialogueact594	1286.04	1287.33	A	PhD	s	-1	0	well that {disfmarker} I guess that was my question ,
+Bro010.C.dialogueact595	1286.28	1286.77	C	Professor	s.%--	-1	0	if you just {disfmarker}
+Bro010.C.dialogueact596	1286.77	1287.15	C	Professor	s^bk	-1	0	yeah {disfmarker}
+Bro010.A.dialogueact598	1287.33	1287.42	A	PhD	fh	-1	0	yeah .
+Bro010.C.dialogueact597	1287.15	1287.85	C	Professor	s.%--	-1	0	I mean , if you just {disfmarker}
+Bro010.C.dialogueact599	1287.85	1288.25	C	Professor	s.%--	-1	0	if you {disfmarker}
+Bro010.C.dialogueact600	1288.85	1289.38	C	Professor	s.%--	-1	0	you , uh {disfmarker}
+Bro010.C.dialogueact601	1289.38	1290.97	C	Professor	s.%--	-1	0	a at the beginning you have some {disfmarker}
+Bro010.A.dialogueact602	1292.48	1292.8	A	PhD	s^2	-1	0	Guess .
+Bro010.C.dialogueact603	1292.6	1293.72	C	Professor	s^m^na	-1	0	esti some guess
+Bro010.C.dialogueact604	1293.72	1295.65	C	Professor	fh	-1	0	and {disfmarker} and , uh , uh {disfmarker}
+Bro010.B.dialogueact605	1296.42	1296.74	B	PhD	fg|s.%-	-1	0	Yeah , but it {disfmarker}
+Bro010.C.dialogueact606	1296.53	1297.28	C	Professor	s	-1	0	It 's an interesting question .
+Bro010.C.dialogueact607	1297.28	1299.19	C	Professor	s	-1	0	I wonder how they did do it ?
+Bro010.B.dialogueact608	1298.27	1304.64	B	PhD	s	+1	2	Actually , it 's a mmm {disfmarker} If - if you want to have a good estimation on non - stationary noise you have to look in the {disfmarker} in the future .
+Bro010.B.dialogueact609	1304.64	1315.28	B	PhD	fh	-1	0	I mean , if you take your window and build your histogram in this window , um , what you can expect is to have an estimation of th of the noise in {disfmarker} in the middle of the window ,
+Bro010.B.dialogueact610	1315.28	1315.93	B	PhD	s^e	-1	0	not at the end .
+Bro010.B.dialogueact611	1315.93	1316.16	B	PhD	fh	-1	0	So {disfmarker}
+Bro010.C.dialogueact613	1316.6	1316.89	C	Professor	s^bk	-1	0	Well , yeah ,
+Bro010.B.dialogueact615	1317.12	1318.68	B	PhD	s.%-	-1	0	the {disfmarker} but {disfmarker} but people {disfmarker}
+Bro010.C.dialogueact614	1316.89	1319.35	C	Professor	qw^rt	+1	2	but what does {disfmarker} what {disfmarker} what {disfmarker} what does Alcatel do ?
+Bro010.D.dialogueact612	1316.44	1316.66	D	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact616	1319.53	1320.75	C	Professor	qw^d^e	+1	2	And {disfmarker} and France Telecom .
+Bro010.B.dialogueact617	1320.44	1320.58	B	PhD	%-	-1	0	The
+Bro010.B.dialogueact618	1321.05	1322.52	B	PhD	s	+1	2	They just look in the past .
+Bro010.B.dialogueact619	1322.52	1326.71	B	PhD	s	+1	2	I guess it works because the noise are , uh pret uh , almost stationary
+Bro010.C.dialogueact620	1325.62	1326.24	C	Professor	s^2	-1	0	Pretty stationary .
+Bro010.E.dialogueact621	1326.19	1326.98	E	Grad	s^t1	-1	0	Pretty stationary ,
+Bro010.B.dialogueact622	1326.71	1327.03	B	PhD	fh	-1	0	but ,
+Bro010.B.dialogueact624	1327.77	1328.34	B	PhD	fh	-1	0	um {disfmarker}
+Bro010.C.dialogueact625	1327.77	1328.84	C	Professor	fg|s.%--	-1	0	Well , the thing , e e e e
+Bro010.E.dialogueact623	1327.29	1327.4	E	Grad	b	-1	0	yeah .
+Bro010.C.dialogueact626	1328.84	1330.52	C	Professor	s^bk|s	+1	1	Yeah , y I mean , you 're talking about non - stationary noise
+Bro010.C.dialogueact627	1330.52	1335.85	C	Professor	s	+1	1	but I think that spectral subtraction is rarely {disfmarker} is {disfmarker} is not gonna work really well for {disfmarker} for non - stationary noise ,
+Bro010.B.dialogueact628	1335.78	1337.68	B	PhD	s^nd	-1	0	Well , if y if you have a good estimation of the noise ,
+Bro010.C.dialogueact629	1335.85	1336.06	C	Professor	qy^d^f^g	-1	0	you know ?
+Bro010.B.dialogueact630	1337.68	1338.09	B	PhD	s^ar	-1	0	yeah ,
+Bro010.B.dialogueact631	1338.29	1338.65	B	PhD	s.%--	-1	0	because
+Bro010.B.dialogueact632	1339.05	1339.15	B	PhD	fh	-1	0	well
+Bro010.B.dialogueact633	1339.15	1340.66	B	PhD	s^nd	-1	0	it it has to work .
+Bro010.C.dialogueact634	1340.06	1340.51	C	Professor	s^nd.%--	+1	1	But it 's hard to {disfmarker}
+Bro010.B.dialogueact635	1340.66	1340.97	B	PhD	%-	-1	0	i
+Bro010.C.dialogueact636	1340.67	1341.38	C	Professor	s^nd^r	-1	0	but that 's hard to do .
+Bro010.B.dialogueact637	1341.67	1341.81	B	PhD	s^aa	-1	0	Yeah ,
+Bro010.B.dialogueact638	1341.81	1342.35	B	PhD	s^m^na	+1	1	that 's hard to do .
+Bro010.B.dialogueact639	1342.35	1342.49	B	PhD	s^aa	-1	0	Yeah .
+Bro010.C.dialogueact640	1342.61	1342.81	C	Professor	s^bk	-1	0	Yeah .
+Bro010.C.dialogueact641	1342.88	1351.78	C	Professor	s	-1	0	So {disfmarker} so I think that {disfmarker} that what {disfmarker} what is {disfmarker} wh what 's more common is that you 're going to be helped with r slowly varying or stationary noise .
+Bro010.B.dialogueact642	1343.54	1343.68	B	PhD	fg	-1	0	But {disfmarker}
+Bro010.B.dialogueact643	1350.34	1350.76	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact644	1352.57	1355.25	C	Professor	s^e	-1	0	That 's what spectral subtraction will help with , practically speaking .
+Bro010.B.dialogueact645	1354.23	1354.63	B	PhD	b	-1	0	Mm - hmm .
+Bro010.B.dialogueact646	1355.31	1355.63	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact647	1355.81	1360.54	C	Professor	s	-1	0	If it varies a lot , to get a If {disfmarker} if {disfmarker} to get a good estimate you need a few seconds of speech ,
+Bro010.C.dialogueact648	1360.54	1361.35	C	Professor	s^e	-1	0	even if it 's centered ,
+Bro010.C.dialogueact649	1362.28	1362.53	C	Professor	qy^d^f^g^rt	-1	0	right ?
+Bro010.B.dialogueact651	1363.09	1363.4	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact650	1362.66	1370.68	C	Professor	s^df	-1	0	if you need a few seconds to get a decent estimate but it 's changed a lot in a few seconds , then it , you know , i it 's kind of a problem .
+Bro010.B.dialogueact652	1369.45	1369.7	B	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact653	1370.94	1375.09	C	Professor	s	-1	0	I mean , imagine e five hertz is the middle of the {disfmarker} of the speech modulation spectrum ,
+Bro010.B.dialogueact654	1371.76	1372.23	B	PhD	b	-1	0	Mmm .
+Bro010.C.dialogueact655	1375.09	1375.3	C	Professor	qy^d^f^g^rt	-1	0	right ?
+Bro010.C.dialogueact656	1375.71	1377.56	C	Professor	s	-1	0	So imagine a jack hammer going at five hertz .
+Bro010.B.dialogueact657	1378.29	1378.41	B	PhD	s^bk	-1	0	Yeah ,
+Bro010.B.dialogueact659	1378.59	1378.84	B	PhD	%-	-1	0	that 's {disfmarker}
+Bro010.C.dialogueact658	1378.29	1379.4	C	Professor	s	-1	0	I mean , good {disfmarker} good luck .
+Bro010.C.dialogueact660	1379.4	1379.65	C	Professor	fh	-1	0	So ,
+Bro010.B.dialogueact661	1380.36	1381.74	B	PhD	s^bu.%--	-1	0	So in this case , yeah , sure , you cannot {disfmarker}
+Bro010.C.dialogueact662	1382.29	1382.49	C	Professor	s^aa	-1	0	Yeah .
+Bro010.B.dialogueact663	1383.06	1393.56	B	PhD	s	-1	0	But I think y um , Hirsch does experiment with windows of like between five hundred milliseconds and one second .
+Bro010.B.dialogueact664	1393.56	1393.8	B	PhD	fh	-1	0	And
+Bro010.B.dialogueact665	1395.02	1397.39	B	PhD	s^ba	-1	0	well , five hundred wa was not so bad .
+Bro010.B.dialogueact666	1397.39	1397.71	B	PhD	fh	-1	0	I mean
+Bro010.B.dialogueact667	1398.4	1401.1	B	PhD	s	-1	0	and he worked on non - stationary noises ,
+Bro010.B.dialogueact668	1401.1	1406.88	B	PhD	s^e	-1	0	like noise modulated with well , wi with amplitude modulations
+Bro010.B.dialogueact669	1406.88	1407.07	B	PhD	fh	-1	0	and
+Bro010.B.dialogueact670	1407.69	1408.3	B	PhD	s^e	-1	0	things like that ,
+Bro010.A.dialogueact672	1408.75	1411.56	A	PhD	qy^rt.%--	-1	0	Were his , uh , windows centered around the {disfmarker}
+Bro010.B.dialogueact671	1408.34	1408.58	B	PhD	fh	-1	0	and {disfmarker}
+Bro010.B.dialogueact673	1409.7	1409.84	B	PhD	fh	-1	0	But {disfmarker}
+Bro010.B.dialogueact674	1413.04	1413.99	B	PhD	h	-1	0	Um ,
+Bro010.B.dialogueact675	1415.04	1415.31	B	PhD	s^aa	-1	0	yeah .
+Bro010.B.dialogueact676	1415.4	1415.7	B	PhD	fh	-1	0	Well ,
+Bro010.B.dialogueact677	1416.14	1416.44	B	PhD	s.%--	-1	0	I think {disfmarker}
+Bro010.B.dialogueact678	1416.44	1416.74	B	PhD	s^aa	-1	0	Yeah .
+Bro010.B.dialogueact679	1416.88	1420.82	B	PhD	s	-1	0	Well , in {disfmarker} in the paper he showed that actually the estimation of the noise is {disfmarker} is delayed .
+Bro010.B.dialogueact680	1420.82	1421.63	B	PhD	s.%--	-1	0	Well , it 's {disfmarker} there is {disfmarker}
+Bro010.B.dialogueact681	1422.21	1423.53	B	PhD	s^na	-1	0	you {disfmarker} you have to center the window ,
+Bro010.B.dialogueact682	1423.53	1423.66	B	PhD	s^aa	-1	0	yeah .
+Bro010.C.dialogueact683	1423.9	1424.07	C	Professor	b	-1	0	Yeah .
+Bro010.B.dialogueact684	1424.75	1425.09	B	PhD	fh	-1	0	Mmm .
+Bro010.C.dialogueact685	1425.09	1426.39	C	Professor	s	-1	0	No , I understand it 's better to do
+Bro010.C.dialogueact686	1426.39	1434.2	C	Professor	s^ng	-1	0	but I just think that {disfmarker} that , uh , for real noises wh what {disfmarker} what 's most likely to happen is that there 'll be some things that are relatively stationary
+Bro010.B.dialogueact687	1427.24	1427.45	B	PhD	b	-1	0	Mmm .
+Bro010.C.dialogueact688	1434.2	1436.67	C	Professor	s^e	-1	0	where you can use one or another spectral subtraction thing
+Bro010.B.dialogueact690	1436.93	1437.24	B	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact689	1436.67	1438.6	C	Professor	s	-1	0	and other things where it 's not so stationary
+Bro010.C.dialogueact691	1438.6	1438.73	C	Professor	%--	-1	0	and {disfmarker}
+Bro010.C.dialogueact692	1439.31	1443.08	C	Professor	s	-1	0	I mean , you can always pick something that {disfmarker} that falls between your methods ,
+Bro010.B.dialogueact694	1443.41	1443.89	B	PhD	b	-1	0	Hmm .
+Bro010.C.dialogueact693	1443.08	1443.75	C	Professor	fh	-1	0	uh ,
+Bro010.C.dialogueact695	1443.84	1444.25	C	Professor	fh	-1	0	uh ,
+Bro010.C.dialogueact696	1444.55	1452.2	C	Professor	s^no	-1	0	but I don't know if , you know , if sinusoidally , uh , modul amplitude modulated noise is {disfmarker} is sort of a big problem in {disfmarker} in in {disfmarker} practice .
+Bro010.B.dialogueact698	1452.54	1452.83	B	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact697	1452.2	1454.5	C	Professor	s.%--	-1	0	I think that {vocalsound} it 's uh {disfmarker}
+Bro010.A.dialogueact699	1454.65	1457.98	A	PhD	s^cs	-1	0	We could probably get a really good estimate of the noise if we just went to the noise files ,
+Bro010.A.dialogueact700	1458.65	1459.96	A	PhD	s^cs^e	-1	0	and built the averages from them .
+Bro010.C.dialogueact701	1458.92	1459.11	C	Professor	s^aa	-1	0	Yeah .
+Bro010.C.dialogueact702	1460.24	1460.44	C	Professor	fh	-1	0	Well .
+Bro010.B.dialogueact703	1461.16	1461.29	B	PhD	%	-1	0	What {disfmarker}
+Bro010.B.dialogueact704	1462.04	1462.51	B	PhD	qw^bu^rt	-1	0	What do you mean ?
+Bro010.C.dialogueact705	1464.41	1464.78	C	Professor	s	-1	0	Just cheat {disfmarker}
+Bro010.C.dialogueact706	1464.78	1465.41	C	Professor	s^r	-1	0	You 're saying , cheat .
+Bro010.B.dialogueact707	1467.55	1474.49	B	PhD	s	-1	0	But if the {disfmarker} if the noise is stationary perhaps you don't even need some kind of noise estimation algorithm .
+Bro010.C.dialogueact708	1468.21	1468.49	C	Professor	b	-1	0	Yeah .
+Bro010.C.dialogueact709	1470.17	1470.49	C	Professor	b	-1	0	Yeah .
+Bro010.B.dialogueact710	1474.49	1478.3	B	PhD	s^cs	-1	0	We just take th th th the beginning of the utterance
+Bro010.B.dialogueact711	1478.3	1478.56	B	PhD	fh	-1	0	and
+Bro010.C.dialogueact712	1479.33	1479.57	C	Professor	s^aa	-1	0	Oh , yeah ,
+Bro010.C.dialogueact713	1479.57	1479.84	C	Professor	s^aa	-1	0	sure .
+Bro010.B.dialogueact715	1480.07	1483.27	B	PhD	s^no	-1	0	I I know p I don't know if people tried this for Aurora .
+Bro010.D.dialogueact714	1480.06	1480.62	D	PhD	s	-1	0	It 's the same .
+Bro010.B.dialogueact716	1483.43	1488.58	B	PhD	s	-1	0	Well , everybody seems to use some kind of adaptive , well , scheme
+Bro010.C.dialogueact718	1487.73	1488.36	C	Professor	fg	-1	0	But {disfmarker} but {disfmarker}
+Bro010.D.dialogueact717	1487.26	1487.44	D	PhD	b	-1	0	Yeah .
+Bro010.B.dialogueact720	1488.58	1488.73	B	PhD	%-	-1	0	but ,
+Bro010.D.dialogueact719	1488.57	1489.55	D	PhD	s^2	-1	0	A dictionary .
+Bro010.B.dialogueact722	1489.58	1490.67	B	PhD	s	-1	0	is it very useful
+Bro010.C.dialogueact721	1489.27	1490.24	C	Professor	s.%-	-1	0	you know , stationary {disfmarker}
+Bro010.A.dialogueact723	1490.64	1491.93	A	PhD	s	-1	0	Very slow adaptation .
+Bro010.B.dialogueact724	1490.67	1491.18	B	PhD	s.%-	-1	0	and is the c
+Bro010.A.dialogueact726	1492.21	1492.37	A	PhD	%-	-1	0	th
+Bro010.C.dialogueact725	1492.05	1492.29	C	Professor	s^aa	-1	0	Right ,
+Bro010.C.dialogueact727	1492.29	1495.65	C	Professor	s	-1	0	the word " stationary " is {disfmarker} has a very precise statistical meaning .
+Bro010.C.dialogueact728	1495.65	1504.66	C	Professor	s	-1	0	But , you know , in {disfmarker} in signal - processing really what we 're talking about I think is things that change slowly , uh , compared with our {disfmarker} our processing techniques .
+Bro010.B.dialogueact730	1504.99	1505.41	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact729	1504.66	1512.87	C	Professor	s^e	-1	0	So if you 're driving along in a car I {disfmarker} I would think that most of the time the nature of the noise is going to change relatively slowly .
+Bro010.C.dialogueact731	1512.87	1514.53	C	Professor	s^e	-1	0	It 's not gonna stay absolute the same .
+Bro010.C.dialogueact732	1514.53	1519.0	C	Professor	s^e	-1	0	If you {disfmarker} if you check it out , uh , five minutes later you may be in a different part of the road
+Bro010.B.dialogueact734	1519.46	1519.83	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact733	1519.0	1520.11	C	Professor	s	-1	0	or whatever .
+Bro010.C.dialogueact735	1520.12	1521.97	C	Professor	s.%--	-1	0	But it 's {disfmarker} it 's {disfmarker} i i i
+Bro010.C.dialogueact736	1522.3	1527.49	C	Professor	s	-1	0	using the local characteristics in time , is probably going to work pretty well .
+Bro010.B.dialogueact737	1525.3	1525.71	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact738	1528.05	1533.25	C	Professor	s	-1	0	But you could get hurt a lot if you just took some something from the beginning of all the speech , of , you know , an hour of speech
+Bro010.C.dialogueact739	1533.25	1533.97	C	Professor	s.%--	-1	0	and then later {disfmarker}
+Bro010.B.dialogueact740	1533.94	1534.16	B	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact741	1535.14	1540.78	C	Professor	s	-1	0	Uh , so they may be {disfmarker} you know , may be overly , uh , complicated for {disfmarker} for this test
+Bro010.C.dialogueact742	1540.78	1540.94	C	Professor	%--	-1	0	but {disfmarker}
+Bro010.C.dialogueact743	1541.76	1542.88	C	Professor	fh	-1	0	but {disfmarker} but , uh ,
+Bro010.C.dialogueact744	1543.75	1544.17	C	Professor	s^no	-1	0	I don't know .
+Bro010.C.dialogueact745	1548.96	1550.57	C	Professor	s	-1	0	But what you 're saying , you know , makes sense , though .
+Bro010.C.dialogueact746	1550.57	1555.51	C	Professor	s	-1	0	I mean , if possible you shouldn't {disfmarker} you should {disfmarker} you should make it , uh , the center of the {disfmarker} center of the window .
+Bro010.C.dialogueact747	1555.51	1555.72	C	Professor	%--	-1	0	But {disfmarker}
+Bro010.C.dialogueact748	1556.64	1560.55	C	Professor	fh|s	-1	0	uh , we 're already having problems with these delay , uh {disfmarker} {vocalsound} delay issues .
+Bro010.B.dialogueact749	1560.04	1560.64	B	PhD	b	-1	0	Yeah , so .
+Bro010.C.dialogueact750	1560.55	1560.83	C	Professor	fh	-1	0	So ,
+Bro010.C.dialogueact751	1561.64	1563.59	C	Professor	s^cs	-1	0	uh , we 'll have to figure ways without it .
+Bro010.C.dialogueact752	1565.75	1566.18	C	Professor	fh	-1	0	Um ,
+Bro010.A.dialogueact753	1568.31	1581.47	A	PhD	qy^rt	-1	0	If they 're going to provide a , uh , voice activity detector that will tell you the boundaries of the speech , then , couldn't you just go outside those boundaries and do your estimate there ?
+Bro010.C.dialogueact754	1581.43	1581.73	C	Professor	s^aa	-1	0	Oh , yeah .
+Bro010.C.dialogueact755	1584.65	1584.95	C	Professor	s^na	-1	0	You bet .
+Bro010.C.dialogueact756	1587.24	1587.44	C	Professor	s^aa	-1	0	Yeah .
+Bro010.C.dialogueact757	1587.44	1589.97	C	Professor	s	-1	0	So I {disfmarker} I imagine that 's what they 're doing ,
+Bro010.C.dialogueact758	1589.97	1590.25	C	Professor	qy^d^g^rt	-1	0	right ?
+Bro010.C.dialogueact759	1590.25	1590.68	C	Professor	s.%--	-1	0	Is they 're {disfmarker}
+Bro010.C.dialogueact760	1591.44	1593.18	C	Professor	s	-1	0	they 're probably looking in nonspeech sections
+Bro010.C.dialogueact761	1593.18	1594.25	C	Professor	s.%--	-1	0	and getting some , uh {disfmarker}
+Bro010.B.dialogueact762	1594.43	1594.74	B	PhD	s^bk	-1	0	Yeah ,
+Bro010.B.dialogueact763	1594.74	1597.98	B	PhD	s	-1	0	they have some kind of threshold on {disfmarker} on the previous estimate ,
+Bro010.B.dialogueact764	1597.98	1598.29	B	PhD	fh	-1	0	and {disfmarker}
+Bro010.B.dialogueact765	1598.29	1598.53	B	PhD	fh	-1	0	So .
+Bro010.B.dialogueact766	1600.45	1600.92	B	PhD	fh	-1	0	Yeah .
+Bro010.B.dialogueact767	1602.31	1606.3	B	PhD	s	-1	0	I think . Yeah , I think Ericsson used this kind of threshold . Yeah ,
+Bro010.B.dialogueact768	1606.3	1608.5	B	PhD	s^e^rt	-1	0	so , they h they have an estimate of the noise level
+Bro010.B.dialogueact769	1609.3	1611.78	B	PhD	s^e^rt	-1	0	and they put a threshold like six or ten DB above ,
+Bro010.B.dialogueact770	1612.84	1613.47	B	PhD	fh	-1	0	and
+Bro010.B.dialogueact771	1614.23	1617.84	B	PhD	s^e	-1	0	what 's under this threshold is used to update the estimate .
+Bro010.B.dialogueact772	1618.75	1619.57	B	PhD	qy^rt	-1	0	Is {disfmarker} is that right
+Bro010.D.dialogueact773	1618.86	1619.14	D	PhD	b	-1	0	Yeah .
+Bro010.B.dialogueact774	1619.57	1619.64	B	PhD	qrr.%--	-1	0	or {disfmarker} ?
+Bro010.D.dialogueact775	1619.59	1620.23	D	PhD	s^na	-1	0	I think so .
+Bro010.B.dialogueact777	1621.23	1621.92	B	PhD	s.%--	-1	0	So it 's {disfmarker} it 's {disfmarker}
+Bro010.D.dialogueact776	1621.19	1622.38	D	PhD	s^df	-1	0	I have not here the proposal .
+Bro010.B.dialogueact778	1621.92	1622.29	B	PhD	fh	-1	0	Yeah .
+Bro010.B.dialogueact780	1623.17	1625.37	B	PhD	s	-1	0	It 's like saying what 's under the threshold is silence ,
+Bro010.C.dialogueact779	1622.77	1623.87	C	Professor	qy^rt	-1	0	Does France Telecom do this {disfmarker}
+Bro010.B.dialogueact781	1625.37	1625.52	B	PhD	fh	-1	0	and {disfmarker}
+Bro010.E.dialogueact782	1625.63	1626.33	E	Grad	b	-1	0	Hmm .
+Bro010.C.dialogueact783	1626.45	1628.15	C	Professor	qy^r^rt	-1	0	Does France Telecom do th do the same thing ?
+Bro010.C.dialogueact784	1629.06	1629.32	C	Professor	qy^d^e	-1	0	More or less ?
+Bro010.B.dialogueact785	1629.94	1630.73	B	PhD	s.%--	-1	0	I d I {disfmarker}
+Bro010.B.dialogueact786	1631.58	1632.78	B	PhD	qy^d^rt	-1	0	Y you know , perhaps ?
+Bro010.D.dialogueact787	1633.12	1633.35	D	PhD	s^ar	-1	0	No .
+Bro010.D.dialogueact788	1634.67	1636.05	D	PhD	s^df	-1	0	I do I have not here the proposal .
+Bro010.C.dialogueact789	1638.14	1638.34	C	Professor	s^bk	-1	0	OK .
+Bro010.C.dialogueact790	1643.27	1643.66	C	Professor	fg	-1	0	Um ,
+Bro010.C.dialogueact791	1645.36	1645.55	C	Professor	s^bk	-1	0	OK ,
+Bro010.C.dialogueact792	1645.55	1647.47	C	Professor	s^tc.%--	-1	0	if we 're {disfmarker} we 're done {disfmarker} done with that ,
+Bro010.C.dialogueact793	1647.48	1648.3	C	Professor	fh	-1	0	uh ,
+Bro010.C.dialogueact794	1649.07	1649.7	C	Professor	s^t1	-1	0	let 's see .
+Bro010.C.dialogueact795	1650.38	1652.87	C	Professor	s^co^t^tc	+1	2	Uh , maybe we can talk about a couple other things briefly ,
+Bro010.C.dialogueact796	1652.87	1656.23	C	Professor	s^e	-1	0	just , uh , things that {disfmarker} that we 've been chatting about
+Bro010.C.dialogueact797	1656.23	1658.05	C	Professor	s^e	-1	0	but haven't made it into these meetings yet .
+Bro010.C.dialogueact798	1658.13	1661.75	C	Professor	s	+1	2	So you 're coming up with your quals proposal ,
+Bro010.C.dialogueact799	1662.1	1669.15	C	Professor	qy^co^rt	-1	0	and , uh {disfmarker} Wanna just give a two three minute summary of what you 're planning on doing ?
+Bro010.E.dialogueact800	1668.7	1668.98	E	Grad	s^bk	-1	0	Oh ,
+Bro010.E.dialogueact801	1669.61	1670.19	E	Grad	fh	-1	0	um ,
+Bro010.E.dialogueact802	1671.18	1671.74	E	Grad	s	-1	0	two , three ,
+Bro010.E.dialogueact803	1671.74	1672.86	E	Grad	s	-1	0	it can be shorter than that .
+Bro010.C.dialogueact805	1673.24	1673.5	C	Professor	s^aa	-1	0	Yeah .
+Bro010.E.dialogueact804	1673.16	1673.67	E	Grad	fh	-1	0	Um .
+Bro010.E.dialogueact806	1674.36	1677.13	E	Grad	fh|s	-1	0	Well , I 've {disfmarker} I 've talked to some of you already .
+Bro010.E.dialogueact807	1677.49	1685.82	E	Grad	fh|s^cc	+1	2	Um , but I 'm , uh , looking into extending the work done by Larry Saul and John Allen and uh Mazin Rahim .
+Bro010.E.dialogueact808	1686.46	1692.15	E	Grad	fh|s	+1	1	Um , they {disfmarker} they have a system that 's , uh , a multi - band , um , system
+Bro010.E.dialogueact809	1692.15	1697.3	E	Grad	s	+1	1	but their multi - band is {disfmarker} is a little different than the way that we 've been doing multi - band in the past ,
+Bro010.E.dialogueact810	1697.3	1708.34	E	Grad	s^e	+1	1	where um {disfmarker} Where we 've been @ @ {comment} uh taking {pause} um {pause} {vocalsound} sub - band features and i training up these neural nets and {disfmarker} on {disfmarker} on phonetic targets ,
+Bro010.E.dialogueact811	1708.34	1710.86	E	Grad	s^e	+1	1	and then combining them some somehow down the line ,
+Bro010.E.dialogueact812	1711.37	1711.76	E	Grad	fh	-1	0	um ,
+Bro010.E.dialogueact813	1712.17	1723.19	E	Grad	s	+1	1	they 're {disfmarker} they 're taking sub - band features and , um , training up a detector that detects for , um , these phonetic features
+Bro010.E.dialogueact814	1723.68	1729.29	E	Grad	s^e	-1	0	for example , um , he presents um , uh , a detector to detect sonorance .
+Bro010.E.dialogueact815	1730.53	1734.07	E	Grad	s.%--	-1	0	And so what {disfmarker} what it basically is {disfmarker} is , um {disfmarker} it 's {disfmarker} there 's {disfmarker}
+Bro010.E.dialogueact816	1734.82	1738.95	E	Grad	s	-1	0	at the lowest level , there {disfmarker} it 's {disfmarker} it 's an OR ga I mean , it 's an AND gate .
+Bro010.E.dialogueact817	1739.14	1743.59	E	Grad	s^e	-1	0	So , uh , on each sub - band you have several independent tests ,
+Bro010.E.dialogueact818	1743.96	1748.03	E	Grad	s^e	-1	0	to test whether um , there 's the existence of sonorance in a sub - band .
+Bro010.E.dialogueact819	1748.62	1752.01	E	Grad	s	-1	0	And then , um , it c it 's combined by a soft AND gate .
+Bro010.E.dialogueact820	1752.48	1754.23	E	Grad	s.%--	-1	0	And at the {disfmarker} at the higher level ,
+Bro010.E.dialogueact821	1754.62	1756.15	E	Grad	s.%--	-1	0	for every {disfmarker} if ,
+Bro010.E.dialogueact822	1756.26	1756.65	E	Grad	fh	-1	0	um {disfmarker}
+Bro010.E.dialogueact823	1756.88	1759.69	E	Grad	s	-1	0	The higher level there 's a soft OR gate .
+Bro010.E.dialogueact824	1760.22	1774.42	E	Grad	s	-1	0	Uh , so if {disfmarker} if this detector detects um , the presence of {disfmarker} of sonorance in any of the sub - bands , then the detect uh , the OR gate at the top says , " OK , well this frame has evidence of sonorance . "
+Bro010.A.dialogueact826	1775.3	1777.94	A	PhD	qw^rt	-1	0	What are {disfmarker} what are some of the low level detectors that they use ?
+Bro010.E.dialogueact825	1774.82	1775.6	E	Grad	s.%-	-1	0	And these are all {disfmarker}
+Bro010.E.dialogueact827	1778.14	1778.52	E	Grad	s^bk	-1	0	Oh , OK .
+Bro010.E.dialogueact828	1778.52	1782.3	E	Grad	s^rt	-1	0	Well , the low level detectors are logistic regressions .
+Bro010.E.dialogueact829	1783.8	1784.1	E	Grad	fh	-1	0	Um ,
+Bro010.E.dialogueact830	1784.29	1784.72	E	Grad	%--	-1	0	and
+Bro010.E.dialogueact831	1785.9	1786.73	E	Grad	fh	-1	0	the , uh {disfmarker}
+Bro010.C.dialogueact833	1786.96	1791.21	C	Professor	s	-1	0	So that , by the way , basically is a {disfmarker} is one of the units in our {disfmarker} in our {disfmarker} our neural network .
+Bro010.E.dialogueact832	1786.89	1787.34	E	Grad	s.%-	-1	0	the one o
+Bro010.C.dialogueact834	1791.21	1792.06	C	Professor	s^e	-1	0	So that 's all it is .
+Bro010.C.dialogueact835	1792.06	1793.22	C	Professor	s^e	-1	0	It 's a sig it 's a sigmoid ,
+Bro010.E.dialogueact836	1792.17	1792.35	E	Grad	s^aa	-1	0	Yeah .
+Bro010.C.dialogueact837	1794.01	1795.81	C	Professor	s^e	-1	0	uh , with weighted sum at the input ,
+Bro010.A.dialogueact838	1796.38	1796.65	A	PhD	b	-1	0	Hmm .
+Bro010.C.dialogueact840	1797.0	1798.91	C	Professor	s^e	-1	0	which you train by gradient {pause} descent .
+Bro010.E.dialogueact839	1796.94	1797.22	E	Grad	b	-1	0	Right .
+Bro010.E.dialogueact841	1799.76	1799.9	E	Grad	s^bk	-1	0	Yeah ,
+Bro010.E.dialogueact842	1799.9	1806.97	E	Grad	s	-1	0	so he uses , um , an EM algorithm to {disfmarker} to um train up these um parameters for the logistic regression .
+Bro010.C.dialogueact844	1807.68	1808.08	C	Professor	fg	-1	0	Well , actually ,
+Bro010.C.dialogueact845	1808.08	1808.17	C	Professor	fg	-1	0	yeah ,
+Bro010.E.dialogueact843	1807.64	1807.92	E	Grad	%-	-1	0	The {disfmarker}
+Bro010.C.dialogueact846	1808.17	1810.37	C	Professor	s	-1	0	so I was using EM to get the targets .
+Bro010.C.dialogueact847	1812.34	1818.78	C	Professor	s	-1	0	So {disfmarker} so you have this {disfmarker} this {disfmarker} this AND gate {disfmarker} what we were calling an AND gate , but it 's a product {disfmarker} product rule thing at the output .
+Bro010.C.dialogueact848	1819.59	1823.93	C	Professor	s.%--	-1	0	And then he uses , uh , i u and then feeding into that are {disfmarker}
+Bro010.C.dialogueact849	1824.13	1824.43	C	Professor	s^fa	-1	0	I 'm sorry ,
+Bro010.C.dialogueact850	1824.43	1825.88	C	Professor	s^bu|qy^d^g^rt	-1	0	there 's {disfmarker} it 's an OR at the output , isn't it ?
+Bro010.C.dialogueact851	1825.88	1826.08	C	Professor	s^aa	-1	0	Yeah ,
+Bro010.E.dialogueact852	1825.92	1826.14	E	Grad	s^aa	-1	0	Mm - hmm .
+Bro010.C.dialogueact853	1826.57	1827.38	C	Professor	s	-1	0	so that 's the product .
+Bro010.C.dialogueact854	1827.38	1827.85	C	Professor	s.%--	-1	0	And then ,
+Bro010.C.dialogueact855	1828.42	1828.99	C	Professor	fh	-1	0	um ,
+Bro010.C.dialogueact856	1829.6	1831.99	C	Professor	s	-1	0	then he has each of these AND things .
+Bro010.C.dialogueact857	1832.14	1832.7	C	Professor	fh	-1	0	And ,
+Bro010.C.dialogueact858	1832.8	1833.18	C	Professor	fh	-1	0	um ,
+Bro010.C.dialogueact859	1834.09	1834.3	C	Professor	%--	-1	0	but {disfmarker}
+Bro010.C.dialogueact860	1834.3	1837.35	C	Professor	s	-1	0	so they 're little neural {disfmarker} neural units .
+Bro010.C.dialogueact861	1838.2	1838.72	C	Professor	fh	-1	0	Um ,
+Bro010.C.dialogueact862	1838.85	1840.36	C	Professor	fh	-1	0	and , um ,
+Bro010.C.dialogueact863	1840.7	1841.63	C	Professor	s	-1	0	they have to have targets .
+Bro010.C.dialogueact864	1841.82	1843.02	C	Professor	s	-1	0	And so the targets come from EM .
+Bro010.A.dialogueact865	1845.68	1849.08	A	PhD	qy.%--	-1	0	And so are each of these , low level detectors {comment} {disfmarker} are they ,
+Bro010.A.dialogueact866	1849.9	1850.47	A	PhD	fh	-1	0	uh {disfmarker}
+Bro010.A.dialogueact867	1852.73	1854.71	A	PhD	qy	-1	0	are these something that you decide ahead of time ,
+Bro010.A.dialogueact868	1854.71	1856.97	A	PhD	qy^d^e	-1	0	like " I 'm going to look for this particular feature
+Bro010.A.dialogueact869	1856.97	1858.2	A	PhD	qrr^d^e^rt	-1	0	or I 'm going to look at this frequency , "
+Bro010.A.dialogueact870	1858.2	1858.27	A	PhD	qrr.%--	-1	0	or {disfmarker}
+Bro010.A.dialogueact871	1858.9	1860.77	A	PhD	qw	-1	0	What {disfmarker} what {disfmarker} what are they looking at ?
+Bro010.E.dialogueact872	1859.16	1859.45	E	Grad	fg	-1	0	Um {disfmarker}
+Bro010.A.dialogueact873	1861.51	1862.25	A	PhD	qw	-1	0	What are their inputs ?
+Bro010.E.dialogueact874	1861.55	1861.73	E	Grad	fg	-1	0	Uh
+Bro010.E.dialogueact875	1863.03	1863.28	E	Grad	s^bk	-1	0	Right ,
+Bro010.E.dialogueact876	1863.28	1863.89	E	Grad	s.%--	-1	0	so the {disfmarker}
+Bro010.E.dialogueact877	1863.89	1864.29	E	Grad	s^bk	-1	0	OK ,
+Bro010.E.dialogueact878	1864.29	1872.29	E	Grad	s	-1	0	so at each for each sub - band {comment} there are basically , uh , several measures of SNR and {disfmarker} and correlation .
+Bro010.A.dialogueact879	1872.38	1872.89	A	PhD	s^bk	-1	0	Ah ,
+Bro010.A.dialogueact880	1872.88	1873.26	A	PhD	s^bk	-1	0	OK ,
+Bro010.A.dialogueact882	1873.48	1873.89	A	PhD	s^bk^r	-1	0	OK .
+Bro010.E.dialogueact881	1873.19	1873.63	E	Grad	fh	-1	0	Um ,
+Bro010.E.dialogueact883	1874.03	1877.31	E	Grad	s	-1	0	um and he said there 's like twenty of these per {disfmarker} per sub - band .
+Bro010.E.dialogueact884	1877.94	1878.48	E	Grad	fh	-1	0	Um ,
+Bro010.E.dialogueact885	1879.7	1888.96	E	Grad	s	-1	0	and for {disfmarker} for every s every sub - band , e you {disfmarker} you just pick ahead of time , um , " I 'm going to have like five {pause} i independent logistic tests . "
+Bro010.A.dialogueact886	1889.37	1889.7	A	PhD	b	-1	0	Mm - hmm .
+Bro010.E.dialogueact887	1889.43	1894.31	E	Grad	s	-1	0	And you initialize these parameters , um , in some {disfmarker} some way
+Bro010.E.dialogueact888	1894.72	1900.71	E	Grad	s	-1	0	and use EM to come up with your training targets for a {disfmarker} for the {disfmarker} the low - level detectors .
+Bro010.A.dialogueact889	1900.84	1901.25	A	PhD	b	-1	0	Mm - hmm .
+Bro010.E.dialogueact890	1901.1	1906.47	E	Grad	s	-1	0	And then , once you get that done , you {disfmarker} you {disfmarker} you train the whole {disfmarker} whole thing on maximum likelihood .
+Bro010.E.dialogueact891	1907.14	1907.57	E	Grad	fh	-1	0	Um ,
+Bro010.E.dialogueact892	1908.45	1923.13	E	Grad	s	+1	1	and h he shows that using this {disfmarker} this method to detect sonorance is it 's very robust compared to , um {disfmarker} {vocalsound} to typical , uh , full - band Gaussian mixtures um estimations of {disfmarker} of sonorance .
+Bro010.A.dialogueact893	1922.31	1922.71	A	PhD	b	-1	0	Mm - hmm .
+Bro010.A.dialogueact894	1923.21	1923.57	A	PhD	b	-1	0	Mm - hmm .
+Bro010.E.dialogueact895	1923.81	1925.14	E	Grad	fh	-1	0	And , uh
+Bro010.E.dialogueact896	1925.14	1925.53	E	Grad	fh	-1	0	so {disfmarker}
+Bro010.E.dialogueact897	1926.54	1928.76	E	Grad	s	+1	1	so that 's just {disfmarker} that 's just one detector .
+Bro010.E.dialogueact898	1929.0	1932.47	E	Grad	s	+1	1	So you can imagine building many of these detectors on different features .
+Bro010.E.dialogueact899	1932.47	1940.2	E	Grad	s	+1	1	You get enough of these detectors together , um , then you have enough information to do , um , higher level discrimination ,
+Bro010.E.dialogueact900	1940.2	1942.69	E	Grad	s^e	+1	1	for example , discriminating between phones
+Bro010.A.dialogueact901	1942.64	1943.14	A	PhD	b	-1	0	Mm - hmm .
+Bro010.E.dialogueact902	1943.01	1947.21	E	Grad	s	+1	1	and then you keep working your way up until you {disfmarker} you build a full recognizer .
+Bro010.A.dialogueact903	1945.73	1946.23	A	PhD	b	-1	0	Mm - hmm .
+Bro010.E.dialogueact904	1947.92	1954.24	E	Grad	fh|s	+1	1	So , um , that 's {disfmarker} that 's the direction which I 'm {disfmarker} I 'm thinking about going in my quals .
+Bro010.A.dialogueact905	1953.15	1953.48	A	PhD	s^ba	-1	0	Cool .
+Bro010.C.dialogueact906	1955.84	1957.85	C	Professor	s	-1	0	You know , it has a number of properties that I really liked .
+Bro010.C.dialogueact907	1957.85	1968.17	C	Professor	s^e	-1	0	I mean , one is the going towards , um , using narrow band information for , uh , ph phonetic features of some sort
+Bro010.C.dialogueact908	1968.17	1973.22	C	Professor	s^e	-1	0	rather than just , uh , immediately going for the {disfmarker} the typical sound units .
+Bro010.A.dialogueact909	1972.88	1973.23	A	PhD	s^bk	-1	0	Right .
+Bro010.C.dialogueact910	1973.65	1981.12	C	Professor	s	-1	0	Another thing I like about it is that you t this thing is going to be trained {disfmarker} explicitly trained for a product of errors rule ,
+Bro010.C.dialogueact911	1981.85	1986.69	C	Professor	s^e	-1	0	which is what , uh , Allen keeps pointing out that Fletcher observed in the twenties ,
+Bro010.A.dialogueact912	1986.83	1987.22	A	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact913	1987.31	1990.91	C	Professor	s	-1	0	uh , for people listening to narrow band stuff . That 's Friday 's talk , by the way .
+Bro010.C.dialogueact914	1991.7	1992.72	C	Professor	fh	-1	0	And then , um ,
+Bro010.C.dialogueact915	1994.07	1998.11	C	Professor	fh|s.%--	-1	0	Uh , the third thing I like about it is ,
+Bro010.C.dialogueact916	1999.17	2002.63	C	Professor	s^e	-1	0	uh , and we 've played around with this in a different kind of way a little bit
+Bro010.C.dialogueact917	2002.63	2005.07	C	Professor	s^e	-1	0	but it hasn't been our dominant way of {disfmarker} of operating anything ,
+Bro010.C.dialogueact918	2006.09	2008.38	C	Professor	s	-1	0	um , this issue of where the targets come from .
+Bro010.C.dialogueact919	2009.34	2022.91	C	Professor	s	-1	0	So in our case when we 've been training it multi - band things , the way we get the targets for the individual bands is , uh , that we get the phonetic label {disfmarker} for the sound there
+Bro010.A.dialogueact920	2022.81	2023.24	A	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact921	2022.91	2024.03	C	Professor	s.%--	-1	0	and we say , " OK , we train every {disfmarker} "
+Bro010.C.dialogueact922	2024.36	2027.93	C	Professor	s	-1	0	What this is saying is , OK , that 's maybe what our ultimate goal is {disfmarker}
+Bro010.C.dialogueact923	2028.27	2033.25	C	Professor	s	-1	0	or not ultimate but penultimate {vocalsound} goal is getting these {disfmarker} these small sound units .
+Bro010.C.dialogueact924	2033.25	2034.69	C	Professor	fh	-1	0	But {disfmarker} but , um ,
+Bro010.C.dialogueact925	2035.5	2038.81	C	Professor	qw.%--	-1	0	along the way how much should we , uh {disfmarker}
+Bro010.C.dialogueact926	2039.25	2042.23	C	Professor	qw^rt	-1	0	uh , what should we be training these intermediate things for ?
+Bro010.C.dialogueact927	2043.02	2048.27	C	Professor	s^no	-1	0	I mean , because , uh , we don't know uh , that this is a particularly good feature .
+Bro010.C.dialogueact928	2048.27	2049.23	C	Professor	s.%--	-1	0	I mean , there 's no way , uh {disfmarker}
+Bro010.C.dialogueact929	2049.34	2056.32	C	Professor	s	-1	0	someone in the audience yesterday was asking , " well couldn't you have people go through and mark the individual bands and say where the {disfmarker} where it was sonorant or not ? "
+Bro010.A.dialogueact930	2056.54	2056.92	A	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact931	2056.89	2065.96	C	Professor	s	-1	0	But , you know , I think having a bunch of people listening to critical band wide , {vocalsound} uh , chunks of speech trying to determine whether {disfmarker} {comment} I think it 'd be impossible .
+Bro010.E.dialogueact932	2062.75	2062.97	E	Grad	s^ba	-1	0	Ouch .
+Bro010.C.dialogueact933	2065.96	2068.52	C	Professor	s^df	-1	0	It 's all gonna sound like {disfmarker} like sine waves to you , more or less .
+Bro010.A.dialogueact934	2068.19	2068.84	A	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact935	2068.52	2068.75	C	Professor	s.%--	-1	0	I mean {disfmarker}
+Bro010.C.dialogueact936	2068.75	2069.07	C	Professor	s.%--	-1	0	Well not
+Bro010.C.dialogueact937	2069.07	2069.79	C	Professor	s.%--	-1	0	I mean , it 's g all g
+Bro010.C.dialogueact938	2069.99	2070.58	C	Professor	s	-1	0	narrow band
+Bro010.C.dialogueact939	2071.49	2071.92	C	Professor	fh	-1	0	uh ,
+Bro010.C.dialogueact940	2071.92	2076.73	C	Professor	s	-1	0	i I m I think it 's very hard for someone to {disfmarker} to {disfmarker} a person to make that determination .
+Bro010.C.dialogueact941	2077.39	2078.35	C	Professor	fh	-1	0	So , um ,
+Bro010.C.dialogueact942	2079.03	2082.39	C	Professor	fh|s^no	-1	0	um , we don't really know how those should be labeled .
+Bro010.C.dialogueact943	2082.92	2093.49	C	Professor	s	-1	0	It could sh be that you should , um , not be paying that much attention to , uh , certain bands for certain sounds , uh , in order to get the best result .
+Bro010.A.dialogueact944	2092.59	2092.96	A	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact945	2093.49	2101.57	C	Professor	s	-1	0	So , um , what we have been doing there , just sort of mixing it all together , is certainly much {disfmarker} much cruder than that .
+Bro010.C.dialogueact946	2101.57	2104.84	C	Professor	s^e	-1	0	We trained these things up on the {disfmarker} on the , uh the final label .
+Bro010.C.dialogueact947	2104.84	2107.6	C	Professor	s	-1	0	Now we have I guess done experiments {disfmarker}
+Bro010.C.dialogueact948	2107.6	2114.08	C	Professor	s.%-	-1	0	you 've probably done stuff where you have , um , done separate , uh , Viterbis on the different {disfmarker}
+Bro010.E.dialogueact949	2113.54	2113.77	E	Grad	s^aa	-1	0	Yeah .
+Bro010.E.dialogueact950	2113.77	2116.8	E	Grad	s^e^rt	-1	0	Forced alignment on the sub - band labels ?
+Bro010.C.dialogueact951	2116.97	2117.16	C	Professor	s^bk	-1	0	Yeah .
+Bro010.E.dialogueact952	2117.26	2117.45	E	Grad	s^bk	-1	0	Yeah .
+Bro010.C.dialogueact953	2118.08	2118.61	C	Professor	s	-1	0	You 've done that .
+Bro010.C.dialogueact954	2118.61	2119.9	C	Professor	qy^rt	-1	0	Did {disfmarker} did that help at all ?
+Bro010.E.dialogueact955	2120.37	2123.6	E	Grad	h|s^aap	-1	0	Um , it helps for one or t one iteration
+Bro010.E.dialogueact956	2123.6	2127.31	E	Grad	s^arp	-1	0	but um , anything after that it doesn't help .
+Bro010.C.dialogueact957	2127.86	2132.0	C	Professor	s	-1	0	So {disfmarker} so that may or may t it {disfmarker} that aspect of what he 's doing may or may not be helpful
+Bro010.C.dialogueact958	2132.0	2136.94	C	Professor	s^df.%--	-1	0	because in a sense that 's the same sort of thing . You 're taking global information and determining what you {disfmarker} how you should {disfmarker}
+Bro010.C.dialogueact959	2137.6	2141.04	C	Professor	s	-1	0	But this is {disfmarker} this is , uh , I th I think a little more direct .
+Bro010.A.dialogueact960	2141.56	2144.13	A	PhD	qw^rt	-1	0	How did they measure the performance of their detector ?
+Bro010.C.dialogueact961	2141.66	2141.79	C	Professor	%-	-1	0	And {disfmarker}
+Bro010.C.dialogueact962	2144.51	2149.82	C	Professor	s	-1	0	Well , he 's look he 's just actually looking at , uh , the confusions between sonorant and non - sonorant .
+Bro010.A.dialogueact963	2150.76	2151.17	A	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact964	2151.26	2152.85	C	Professor	s	-1	0	So he hasn't applied it to recognition
+Bro010.C.dialogueact965	2152.85	2154.31	C	Professor	s	-1	0	or if he did he didn't talk about it .
+Bro010.C.dialogueact966	2154.58	2155.36	C	Professor	s.%--	-1	0	It 's {disfmarker} it 's just {disfmarker}
+Bro010.C.dialogueact967	2155.85	2160.99	C	Professor	s.%--	-1	0	And one of the concerns in the audience , actually , was that {disfmarker} that , um , the , uh ,
+Bro010.C.dialogueact968	2161.38	2165.57	C	Professor	s	-1	0	uh {disfmarker} he {disfmarker} he did a comparison to , uh , you know , our old foil ,
+Bro010.C.dialogueact969	2165.57	2172.36	C	Professor	s	-1	0	the {disfmarker} the nasty old standard recognizer with {vocalsound} mel {disfmarker} mel filter bank at the front , and H M Ms , and {disfmarker} and so forth .
+Bro010.C.dialogueact970	2172.93	2175.08	C	Professor	s	-1	0	And , um , it didn't do nearly as well ,
+Bro010.C.dialogueact971	2175.08	2176.6	C	Professor	s^e	-1	0	especially in {disfmarker} in noise .
+Bro010.C.dialogueact972	2177.16	2177.73	C	Professor	s.%--	-1	0	But the {disfmarker}
+Bro010.C.dialogueact973	2177.73	2182.7	C	Professor	s	-1	0	one of the good questions in the audience was , well , yeah , but that wasn't trained for that .
+Bro010.C.dialogueact974	2182.8	2192.57	C	Professor	s	-1	0	I mean , this use of a very smooth , uh , spectral envelope is something that , you know , has evolved as being generally a good thing for speech recognition
+Bro010.C.dialogueact975	2193.61	2196.41	C	Professor	s.%--	-1	0	but if you knew that what you were gonna do is detect sonorants or not {disfmarker}
+Bro010.C.dialogueact976	2196.41	2204.7	C	Professor	s^e	-1	0	So sonorants and non - sonorants is {disfmarker} is {disfmarker} is almost like voiced - unvoiced , except I guess that the voiced stops are {disfmarker} are also called " obstruents " .
+Bro010.C.dialogueact977	2204.97	2205.39	C	Professor	fh	-1	0	Uh ,
+Bro010.C.dialogueact978	2205.6	2206.21	C	Professor	s.%--	-1	0	so it 's {disfmarker}
+Bro010.C.dialogueact979	2207.14	2211.03	C	Professor	s^bu	-1	0	it 's {disfmarker} uh , but with the exception of the stops I guess it 's pretty much the same as voiced - unvoiced ,
+Bro010.A.dialogueact981	2211.28	2211.8	A	PhD	s^aa	-1	0	Mm - hmm .
+Bro010.C.dialogueact980	2211.03	2211.28	C	Professor	qy^d^g^rt	-1	0	right ?
+Bro010.C.dialogueact982	2211.48	2212.15	C	Professor	fh	-1	0	So {disfmarker} so {disfmarker}
+Bro010.C.dialogueact983	2213.37	2213.68	C	Professor	fh	-1	0	Um .
+Bro010.C.dialogueact984	2214.65	2215.57	C	Professor	fh	-1	0	So , um ,
+Bro010.C.dialogueact985	2215.95	2217.06	C	Professor	s.%--	-1	0	if you knew you were doing that ,
+Bro010.C.dialogueact986	2217.06	2223.33	C	Professor	s	-1	0	if you were doing something say for a {disfmarker} a , uh {disfmarker} a {disfmarker} a Vocoder , you wouldn't use the same kind of features .
+Bro010.C.dialogueact987	2223.33	2228.06	C	Professor	s	-1	0	You would use something that was sensitive to the periodicity and {disfmarker} and not just the envelope .
+Bro010.C.dialogueact988	2228.74	2231.02	C	Professor	s	-1	0	Uh , and so in that sense it was an unfair test .
+Bro010.C.dialogueact989	2231.35	2231.72	C	Professor	fh	-1	0	Um ,
+Bro010.C.dialogueact990	2232.4	2233.98	C	Professor	s	-1	0	so I think that the questioner was right .
+Bro010.C.dialogueact991	2234.11	2236.14	C	Professor	s	-1	0	It {disfmarker} it was in that sense an unfair test .
+Bro010.C.dialogueact992	2236.14	2242.59	C	Professor	s	-1	0	Nonetheless , it was one that was interesting because , uh , this is what we are actually using for speech recognition ,
+Bro010.C.dialogueact993	2242.59	2243.65	C	Professor	s^e	-1	0	these smooth envelopes .
+Bro010.C.dialogueact994	2243.65	2258.7	C	Professor	s	-1	0	And this says that perhaps even , you know , trying to use them in the best way that we can , that {disfmarker} that {disfmarker} that we ordinarily do , with , you know , Gaussian mixtures and H M Ms {comment} and so forth , you {disfmarker} you don't , uh , actually do that well on determining whether something is sonorant or not .
+Bro010.A.dialogueact995	2252.48	2252.93	A	PhD	qy.%-	-1	0	Didn't they {disfmarker}
+Bro010.C.dialogueact996	2258.7	2263.26	C	Professor	s^e	-1	0	Which means you 're gonna make errors between similar sounds that are son sonorant or obstruent .
+Bro010.A.dialogueact997	2263.19	2265.88	A	PhD	qy^rt	-1	0	Didn't they also do some kind of an oracle experiment
+Bro010.A.dialogueact998	2266.28	2274.83	A	PhD	qy^d^e^rt	-1	0	where they said " if we {pause} could detect the sonorants perfectly {pause} and then show how it would improve speech recognition ?
+Bro010.A.dialogueact999	2275.25	2277.36	A	PhD	s^df	-1	0	I thought I remember hearing about an experiment like that .
+Bro010.C.dialogueact1000	2278.32	2279.12	C	Professor	qy^d^rt	-1	0	The - these same people ?
+Bro010.A.dialogueact1001	2279.13	2279.48	A	PhD	s^aa	-1	0	Mm - hmm .
+Bro010.C.dialogueact1002	2279.34	2280.81	C	Professor	s^no	-1	0	I don't remember that .
+Bro010.A.dialogueact1003	2281.38	2281.7	A	PhD	b	-1	0	Hmm .
+Bro010.C.dialogueact1004	2281.97	2282.57	C	Professor	s.%--	-1	0	That would {disfmarker} that 's {disfmarker}
+Bro010.C.dialogueact1005	2282.61	2282.96	C	Professor	s^aa	-1	0	you 're right ,
+Bro010.C.dialogueact1006	2282.95	2285.88	C	Professor	s^na	-1	0	that 's exactly the question to follow up this discussion , is
+Bro010.C.dialogueact1007	2286.53	2288.45	C	Professor	s^na	-1	0	suppose you did that , uh , got that right .
+Bro010.C.dialogueact1008	2289.62	2290.11	C	Professor	fh	-1	0	Um ,
+Bro010.C.dialogueact1009	2291.69	2291.91	C	Professor	fh	-1	0	Yeah .
+Bro010.A.dialogueact1010	2292.72	2292.86	A	PhD	b	-1	0	Hmm .
+Bro010.B.dialogueact1011	2294.64	2298.86	B	PhD	qw	-1	0	What could be the other low level detectors , I mean , for {disfmarker} {comment} Other kind of features ,
+Bro010.B.dialogueact1012	2298.86	2298.89	B	PhD	fh	-1	0	or {disfmarker} ?
+Bro010.B.dialogueact1013	2300.54	2302.89	B	PhD	s^e	-1	0	in addition to detecting sonorants
+Bro010.B.dialogueact1014	2302.89	2303.03	B	PhD	fh	-1	0	or {disfmarker} ?
+Bro010.B.dialogueact1016	2304.52	2307.58	B	PhD	qy^bu^d^rt	-1	0	Th - that 's what you want to {disfmarker} to {disfmarker} to go for also
+Bro010.E.dialogueact1015	2304.06	2304.86	E	Grad	h	-1	0	Um {disfmarker}
+Bro010.B.dialogueact1018	2307.58	2307.61	B	PhD	qrr.%--	-1	0	or {disfmarker} ?
+Bro010.E.dialogueact1017	2307.42	2307.92	E	Grad	qw.%--	-1	0	What t
+Bro010.E.dialogueact1019	2308.33	2312.68	E	Grad	qy^bu^d^rt	-1	0	Oh , build other {disfmarker} other detectors on different {pause} phonetic features ?
+Bro010.B.dialogueact1020	2309.34	2311.36	B	PhD	qy^2^d^rt	-1	0	Other low level detectors ?
+Bro010.B.dialogueact1021	2312.74	2312.96	B	PhD	s^aa	-1	0	Yeah .
+Bro010.E.dialogueact1022	2313.39	2313.92	E	Grad	h	-1	0	Um ,
+Bro010.E.dialogueact1023	2315.57	2316.55	E	Grad	s^t1	-1	0	uh Let 's see ,
+Bro010.E.dialogueact1024	2317.18	2318.08	E	Grad	fh	-1	0	um ,
+Bro010.E.dialogueact1025	2324.52	2324.65	E	Grad	s^bk	-1	0	Yeah ,
+Bro010.E.dialogueact1026	2324.65	2325.32	E	Grad	s^no	-1	0	I d I don't know .
+Bro010.E.dialogueact1027	2325.88	2326.47	E	Grad	fh	-1	0	e Um ,
+Bro010.E.dialogueact1028	2327.02	2327.63	E	Grad	fh	-1	0	um ,
+Bro010.E.dialogueact1029	2328.56	2332.56	E	Grad	s	-1	0	I mean , w easiest thing would be to go {disfmarker} go do some voicing stuff
+Bro010.E.dialogueact1030	2332.56	2334.22	E	Grad	s	-1	0	but that 's very similar to sonorance .
+Bro010.B.dialogueact1031	2334.51	2334.82	B	PhD	b	-1	0	Mm - hmm .
+Bro010.E.dialogueact1032	2334.74	2335.29	E	Grad	fh	-1	0	Um ,
+Bro010.A.dialogueact1033	2335.93	2339.59	A	PhD	s.%--	-1	0	When we {disfmarker} when we talked with John Ohala the other day we made a list of some of the things that w
+Bro010.E.dialogueact1034	2337.86	2338.08	E	Grad	b	-1	0	Yeah .
+Bro010.A.dialogueact1036	2340.22	2341.31	A	PhD	s^e	-1	0	like frication ,
+Bro010.E.dialogueact1035	2339.86	2340.64	E	Grad	s^bk	-1	0	Oh ! OK .
+Bro010.A.dialogueact1038	2341.85	2343.01	A	PhD	s^e	-1	0	abrupt closure ,
+Bro010.E.dialogueact1037	2341.48	2341.79	E	Grad	b	-1	0	Mm - hmm .
+Bro010.E.dialogueact1039	2343.25	2343.6	E	Grad	b	-1	0	Mm - hmm .
+Bro010.A.dialogueact1040	2344.18	2344.94	A	PhD	s^e	-1	0	R - coloring ,
+Bro010.A.dialogueact1041	2344.94	2345.75	A	PhD	s^e	-1	0	nasality ,
+Bro010.A.dialogueact1042	2346.16	2346.69	A	PhD	s^e	-1	0	voicing {disfmarker}
+Bro010.A.dialogueact1045	2348.37	2348.58	A	PhD	fh	-1	0	Uh .
+Bro010.C.dialogueact1043	2348.03	2348.13	C	Professor	fg	-1	0	Yeah ,
+Bro010.C.dialogueact1044	2348.13	2349.68	C	Professor	s.%--	-1	0	so there 's a half dozen like that that are {disfmarker}
+Bro010.E.dialogueact1046	2348.68	2348.87	E	Grad	s^bk	-1	0	Yeah ,
+Bro010.E.dialogueact1047	2349.17	2349.79	E	Grad	s^bk^m	-1	0	nasality .
+Bro010.C.dialogueact1048	2350.09	2351.87	C	Professor	s	-1	0	Now this was coming at it from a different angle
+Bro010.C.dialogueact1049	2351.87	2353.85	C	Professor	s^na	-1	0	but maybe it 's a good way to start .
+Bro010.C.dialogueact1050	2353.85	2361.84	C	Professor	s	-1	0	Uh , these are things which , uh , John felt that a {disfmarker} a , uh {disfmarker} a human annotator would be able to reliably mark .
+Bro010.C.dialogueact1052	2362.38	2369.58	C	Professor	s	-1	0	So the sort of things he felt would be difficult for a human annotator to reliably mark would be tongue position kinds of things .
+Bro010.E.dialogueact1051	2362.08	2362.46	E	Grad	s^bk	-1	0	Oh , OK .
+Bro010.E.dialogueact1053	2368.9	2369.89	E	Grad	s^2	-1	0	Placing stuff ,
+Bro010.A.dialogueact1054	2369.68	2370.08	A	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact1055	2369.8	2370.18	C	Professor	s^aa	-1	0	Yeah .
+Bro010.E.dialogueact1056	2370.34	2370.66	E	Grad	s^bk	-1	0	yeah .
+Bro010.A.dialogueact1058	2371.41	2372.81	A	PhD	s^cs^rt	-1	0	There 's also things like stress .
+Bro010.C.dialogueact1057	2371.29	2371.72	C	Professor	fh	-1	0	Uh {disfmarker}
+Bro010.A.dialogueact1059	2373.58	2374.49	A	PhD	s^cs	-1	0	You can look at stress .
+Bro010.C.dialogueact1061	2375.23	2382.9	C	Professor	s^nd	-1	0	But stress doesn't , uh , fit in this thing of coming up with features that will distinguish words from one another ,
+Bro010.E.dialogueact1060	2374.88	2375.25	E	Grad	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact1062	2383.28	2383.6	C	Professor	qy^d^f^g	-1	0	right ?
+Bro010.C.dialogueact1063	2383.68	2385.01	C	Professor	s^na	-1	0	It 's a {disfmarker} it 's a good thing to mark
+Bro010.C.dialogueact1064	2385.01	2386.94	C	Professor	s^df	-1	0	and will probably help us ultimate with recognition
+Bro010.A.dialogueact1065	2386.26	2386.49	A	PhD	s^bk	-1	0	Yeah ,
+Bro010.A.dialogueact1066	2386.49	2389.14	A	PhD	s	-1	0	there 's a few cases where it can like permit {comment} and permit .
+Bro010.C.dialogueact1067	2386.94	2387.26	C	Professor	%-	-1	0	but {disfmarker}
+Bro010.A.dialogueact1068	2390.26	2392.29	A	PhD	s^e	-1	0	But {disfmarker} that 's not very common in English .
+Bro010.A.dialogueact1069	2392.51	2396.35	A	PhD	s^e	-1	0	In other languages it 's more uh , important .
+Bro010.C.dialogueact1070	2397.32	2397.85	C	Professor	s^bk	-1	0	Well , yeah ,
+Bro010.C.dialogueact1071	2397.85	2400.21	C	Professor	s	-1	0	but i either case you 'd write PERMIT ,
+Bro010.C.dialogueact1072	2400.21	2400.48	C	Professor	qy^d^f^g	-1	0	right ?
+Bro010.C.dialogueact1073	2400.48	2401.35	C	Professor	s	-1	0	So you 'd get the word right .
+Bro010.A.dialogueact1074	2402.36	2406.55	A	PhD	s^ar|s	-1	0	No , I 'm saying , i i e I thought you were saying that stress doesn't help you distinguish between words .
+Bro010.C.dialogueact1075	2408.31	2408.94	C	Professor	h	-1	0	Um ,
+Bro010.A.dialogueact1076	2408.86	2409.53	A	PhD	s^bk	-1	0	Oh , I see what you 're saying .
+Bro010.A.dialogueact1077	2409.53	2411.94	A	PhD	s^bu	-1	0	As long as you get {disfmarker} The sequence ,
+Bro010.C.dialogueact1078	2410.72	2413.93	C	Professor	s	-1	0	We 're g if we 're doing {disfmarker} if we 're talking about transcription as opposed to something else {disfmarker}
+Bro010.A.dialogueact1079	2411.94	2412.19	A	PhD	qy^d^g^rt	-1	0	right ?
+Bro010.A.dialogueact1080	2412.87	2413.16	A	PhD	b	-1	0	Yeah .
+Bro010.A.dialogueact1081	2413.66	2414.61	A	PhD	b	-1	0	Yeah , yeah , yeah . Yeah .
+Bro010.A.dialogueact1083	2415.27	2415.46	A	PhD	b	-1	0	Right .
+Bro010.C.dialogueact1082	2415.05	2415.26	C	Professor	fh	-1	0	Yeah .
+Bro010.A.dialogueact1084	2415.9	2417.73	A	PhD	s	-1	0	So where it could help is maybe at a higher level .
+Bro010.A.dialogueact1087	2418.07	2418.27	A	PhD	s^bk	-1	0	Yeah .
+Bro010.C.dialogueact1086	2417.81	2418.06	C	Professor	s^aa	-1	0	Right .
+Bro010.E.dialogueact1085	2417.73	2419.43	E	Grad	s	-1	0	Like a understanding application .
+Bro010.A.dialogueact1088	2418.61	2419.2	A	PhD	s^m^na	-1	0	Understanding ,
+Bro010.A.dialogueact1089	2419.2	2419.47	A	PhD	b	-1	0	yeah .
+Bro010.A.dialogueact1092	2419.9	2420.34	A	PhD	b	-1	0	Exactly .
+Bro010.C.dialogueact1090	2419.41	2419.61	C	Professor	s^aa	-1	0	Yeah .
+Bro010.E.dialogueact1091	2419.66	2419.93	E	Grad	s^bk	-1	0	Yeah .
+Bro010.C.dialogueact1093	2420.42	2421.65	C	Professor	s	-1	0	But that 's this afternoon 's meeting .
+Bro010.C.dialogueact1094	2422.09	2422.27	C	Professor	fh	-1	0	Yeah .
+Bro010.C.dialogueact1095	2423.06	2424.52	C	Professor	s^j	-1	0	We don't understand anything in this meeting .
+Bro010.C.dialogueact1096	2428.97	2429.29	C	Professor	s^bk	-1	0	Yeah ,
+Bro010.C.dialogueact1097	2429.41	2429.79	C	Professor	s.%--	-1	0	so that 's {disfmarker}
+Bro010.C.dialogueact1098	2429.79	2429.99	C	Professor	fh	-1	0	yeah ,
+Bro010.C.dialogueact1099	2429.99	2431.48	C	Professor	s	-1	0	that 's , you know , a neat {disfmarker} neat thing
+Bro010.C.dialogueact1100	2431.48	2431.63	C	Professor	%--	-1	0	and {disfmarker}
+Bro010.C.dialogueact1101	2431.76	2432.36	C	Professor	fh	-1	0	and , uh {disfmarker}
+Bro010.C.dialogueact1103	2434.29	2434.63	C	Professor	fh	-1	0	So .
+Bro010.E.dialogueact1102	2433.8	2440.02	E	Grad	qy^d^rt	-1	0	S so , um , Ohala 's going to help do these , uh {pause} transcriptions of the meeting data ?
+Bro010.A.dialogueact1104	2440.66	2441.06	A	PhD	h	-1	0	Uh ,
+Bro010.A.dialogueact1105	2441.23	2441.79	A	PhD	s^no	-1	0	well I don't know .
+Bro010.A.dialogueact1106	2441.79	2443.88	A	PhD	s^df	-1	0	We d we sort of didn't get that far .
+Bro010.A.dialogueact1107	2444.0	2451.48	A	PhD	fh|s	-1	0	Um , we just talked about some possible features that could be marked by humans
+Bro010.A.dialogueact1108	2451.54	2452.49	A	PhD	fh	-1	0	and , um ,
+Bro010.E.dialogueact1109	2451.81	2452.09	E	Grad	b	-1	0	Hmm .
+Bro010.A.dialogueact1110	2453.17	2459.2	A	PhD	s	-1	0	because of having maybe some extra transcriber time we thought we could go through and mark some portion of the data for that .
+Bro010.A.dialogueact1111	2459.8	2460.48	A	PhD	fh	-1	0	And , uh {disfmarker}
+Bro010.C.dialogueact1113	2460.03	2460.22	C	Professor	s^bk	-1	0	Yeah ,
+Bro010.E.dialogueact1112	2459.84	2460.39	E	Grad	b	-1	0	Hmm .
+Bro010.C.dialogueact1114	2460.44	2464.73	C	Professor	s	-1	0	I mean , that 's not an immediate problem , that we don't immediately have a lot of extra transcriber time .
+Bro010.A.dialogueact1115	2464.59	2464.78	A	PhD	s^bk	-1	0	Yeah ,
+Bro010.A.dialogueact1117	2465.08	2465.29	A	PhD	s^bk	-1	0	right .
+Bro010.C.dialogueact1116	2464.73	2469.85	C	Professor	s	-1	0	But {disfmarker} but , uh , in the long term I guess Chuck is gonna continue the dialogue with John
+Bro010.C.dialogueact1118	2469.85	2470.84	C	Professor	fh	-1	0	and {disfmarker} and , uh ,
+Bro010.C.dialogueact1119	2471.76	2473.92	C	Professor	s	-1	0	and , we 'll {disfmarker} we 'll end up doing some I think .
+Bro010.A.dialogueact1120	2473.69	2476.36	A	PhD	s	-1	0	I 'm definitely interested in this area , too ,
+Bro010.A.dialogueact1121	2476.5	2479.26	A	PhD	s^e	-1	0	f uh , acoustic feature stuff .
+Bro010.C.dialogueact1122	2477.85	2478.12	C	Professor	b	-1	0	Uh - huh .
+Bro010.E.dialogueact1123	2478.5	2478.81	E	Grad	s^bk	-1	0	OK .
+Bro010.A.dialogueact1124	2479.72	2479.98	A	PhD	fh	-1	0	So .
+Bro010.C.dialogueact1125	2480.25	2482.5	C	Professor	s	-1	0	Yeah , I think it 's an interesting {disfmarker} interesting way to go .
+Bro010.E.dialogueact1126	2480.96	2481.12	E	Grad	s^ba	-1	0	Cool .
+Bro010.C.dialogueact1127	2482.73	2483.16	C	Professor	fh	-1	0	Um ,
+Bro010.C.dialogueact1128	2484.31	2486.86	C	Professor	s	-1	0	I say it like " said - int " . I think it has a number of good things .
+Bro010.C.dialogueact1129	2487.75	2488.12	C	Professor	fh	-1	0	Um ,
+Bro010.C.dialogueact1130	2489.47	2495.96	C	Professor	fh|qy^co^d^rt^tc	+1	2	so , uh , y you want to talk maybe a c two or three minutes about what we 've been talking about today and other days ?
+Bro010.F.dialogueact1131	2494.98	2495.23	F	Grad	s^bk.%-	-1	0	Ri
+Bro010.F.dialogueact1132	2496.48	2496.65	F	Grad	s^aa	-1	0	Yeah ,
+Bro010.F.dialogueact1133	2496.65	2496.99	F	Grad	s^aa	-1	0	OK ,
+Bro010.F.dialogueact1134	2496.99	2497.77	F	Grad	fh	-1	0	so , um ,
+Bro010.F.dialogueact1135	2498.31	2502.89	F	Grad	s	+1	2	we 're interested in , um , methods for far mike speech recognition ,
+Bro010.F.dialogueact1136	2502.89	2508.16	F	Grad	s^e	+1	2	um , {pause} mainly , uh , methods that deal with the reverberation {pause} in the far mike signal .
+Bro010.F.dialogueact1137	2508.16	2509.07	F	Grad	fh	-1	0	So , um ,
+Bro010.F.dialogueact1138	2509.95	2515.71	F	Grad	s^e	+1	1	one approach would be , um , say MSG and PLP , like was used in Aurora one
+Bro010.F.dialogueact1139	2515.71	2523.71	F	Grad	s	+1	1	and , um , there are other approaches which actually attempt to {pause} remove the reverberation , instead of being robust to it like MSG .
+Bro010.F.dialogueact1140	2524.26	2536.11	F	Grad	s	+1	1	And so we 're interested in , um , comparing the performance of {pause} um , a robust approach like MSG with these , um , speech enhancement or de - reverber de - reverberation approaches .
+Bro010.B.dialogueact1141	2536.2	2536.48	B	PhD	b	-1	0	Mm - hmm .
+Bro010.F.dialogueact1142	2537.3	2541.7	F	Grad	s	-1	0	And , um , {vocalsound} it looks like we 're gonna use the Meeting Recorder digits data for that .
+Bro010.B.dialogueact1143	2544.01	2545.94	B	PhD	s^bu	-1	0	And the de - reverberation algorithm ,
+Bro010.B.dialogueact1144	2546.01	2548.25	B	PhD	qy^rt	-1	0	do you have {disfmarker} can you give some more details on this
+Bro010.B.dialogueact1145	2548.25	2550.12	B	PhD	qy^e^rt	-1	0	or {disfmarker} ? Does it use one microphone ?
+Bro010.F.dialogueact1146	2550.02	2550.18	F	Grad	%	-1	0	o
+Bro010.F.dialogueact1148	2550.82	2550.94	F	Grad	%	-1	0	o
+Bro010.B.dialogueact1147	2550.82	2551.76	B	PhD	qy^d^e^rt	-1	0	Several microphones ?
+Bro010.B.dialogueact1149	2551.76	2551.95	B	PhD	qy.%-	-1	0	Does it {disfmarker} ?
+Bro010.F.dialogueact1150	2552.05	2552.46	F	Grad	s^bk	-1	0	OK ,
+Bro010.F.dialogueact1151	2552.46	2553.14	F	Grad	fh	-1	0	well , um ,
+Bro010.F.dialogueact1152	2553.56	2560.93	F	Grad	s.%-	-1	0	there was something that was done by , um , a guy named Carlos , I forget his last name , {comment} who worked with Hynek , who , um ,
+Bro010.C.dialogueact1153	2561.02	2561.57	C	Professor	s	-1	0	Avendano .
+Bro010.F.dialogueact1154	2562.09	2562.33	F	Grad	s^bk	-1	0	OK .
+Bro010.C.dialogueact1156	2562.94	2563.25	C	Professor	b	-1	0	Yeah .
+Bro010.F.dialogueact1155	2562.84	2563.69	F	Grad	fh	-1	0	Who , um ,
+Bro010.B.dialogueact1157	2564.13	2564.76	B	PhD	b	-1	0	Mm - hmm .
+Bro010.F.dialogueact1158	2564.44	2570.44	F	Grad	s	-1	0	um , it was like RASTA in the sense that of it was , um , de - convolution by filtering
+Bro010.F.dialogueact1159	2571.03	2573.29	F	Grad	s	-1	0	um , except he used a longer time window ,
+Bro010.B.dialogueact1160	2573.27	2573.61	B	PhD	b	-1	0	Mm - hmm .
+Bro010.F.dialogueact1161	2573.73	2574.91	F	Grad	s^e	-1	0	like a second maybe .
+Bro010.F.dialogueact1162	2574.91	2581.68	F	Grad	s^df	-1	0	And the reason for that is RASTA 's time window is too short to , um include the whole , um , reverberation {disfmarker}
+Bro010.F.dialogueact1163	2582.27	2583.16	F	Grad	s^no	-1	0	um , I don't know what you call it
+Bro010.F.dialogueact1164	2583.22	2584.63	F	Grad	s	-1	0	the reverberation response .
+Bro010.F.dialogueact1165	2585.75	2587.4	F	Grad	s	-1	0	I if you see wh if you see what I mean .
+Bro010.F.dialogueact1166	2587.78	2597.46	F	Grad	s^df	-1	0	The reverberation filter from my mouth to that mike is like {disfmarker} it 's t got it 's too long in the {disfmarker} in the time domain for the um {disfmarker} for the RASTA filtering to take care of it .
+Bro010.F.dialogueact1167	2598.18	2598.97	F	Grad	fh	-1	0	And , um ,
+Bro010.F.dialogueact1168	2599.66	2605.78	F	Grad	s	-1	0	then there are a couple of other speech enhancement approaches which haven't been tried for speech recognition yet
+Bro010.F.dialogueact1169	2605.78	2607.18	F	Grad	s	-1	0	but have just been tried for enhancement ,
+Bro010.F.dialogueact1170	2607.18	2617.51	F	Grad	s^e	-1	0	which , um , have the assumption that um , you can do LPC um analysis of th of the signal you get at the far microphone
+Bro010.F.dialogueact1171	2617.51	2622.3	F	Grad	s^rt	-1	0	and the , um , all pole filter that you get out of that should be good .
+Bro010.F.dialogueact1172	2622.87	2628.73	F	Grad	s^e^rt	-1	0	It 's just the , um , excitation signal {comment} that is going to be distorted by the reverberation
+Bro010.F.dialogueact1173	2629.29	2633.67	F	Grad	s^cs	-1	0	and so you can try and reconstruct a better excitation signal
+Bro010.F.dialogueact1174	2634.41	2641.43	F	Grad	s^cs	-1	0	and , um , feed that through the i um , all pole filter and get enhanced speech with reverberation reduced .
+Bro010.B.dialogueact1175	2640.1	2640.62	B	PhD	b	-1	0	Mm - hmm .
+Bro010.B.dialogueact1176	2643.41	2643.71	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact1177	2645.83	2651.79	C	Professor	s	+1	1	There 's also this , uh , um , uh , echo cancellation stuff that we 've sort of been chasing ,
+Bro010.C.dialogueact1178	2651.79	2652.52	C	Professor	fh	-1	0	so , uh
+Bro010.C.dialogueact1179	2653.04	2654.13	C	Professor	s.%--	-1	0	we have , uh {disfmarker}
+Bro010.C.dialogueact1180	2654.5	2657.87	C	Professor	s	+1	1	and when we 're saying these digits now we do have a close microphone signal
+Bro010.C.dialogueact1181	2657.87	2659.96	C	Professor	s	+1	1	and then there 's the distant microphone signal .
+Bro010.C.dialogueact1182	2660.57	2667.85	C	Professor	s	+1	1	And you could as a kind of baseline say , " OK , given that we have both of these , uh , we should be able to do , uh , a cancellation . "
+Bro010.C.dialogueact1183	2668.55	2679.98	C	Professor	s	+1	1	So that , uh , um , we {disfmarker} we , uh , essentially identify the system in between {disfmarker} the linear time invariant system between the microphones and {disfmarker} and {disfmarker} and {disfmarker} and re and invert it ,
+Bro010.C.dialogueact1184	2680.99	2685.15	C	Professor	s	+1	1	uh , or {disfmarker} or cancel it out to {disfmarker} to some {disfmarker} some reasonable approximation
+Bro010.B.dialogueact1185	2685.16	2685.52	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact1186	2685.83	2686.96	C	Professor	s^e	-1	0	through one method or another .
+Bro010.C.dialogueact1187	2687.42	2689.31	C	Professor	s^ba	-1	0	Uh , that 's not a practical thing ,
+Bro010.C.dialogueact1188	2689.71	2692.69	C	Professor	s	-1	0	uh , if you have a distant mike , you don't have a close mike ordinarily ,
+Bro010.C.dialogueact1189	2692.75	2695.27	C	Professor	s	-1	0	but we thought that might make {disfmarker} also might make a good baseline .
+Bro010.C.dialogueact1190	2696.14	2698.13	C	Professor	s	-1	0	Uh , it still won't be perfect because there 's noise .
+Bro010.C.dialogueact1191	2699.37	2700.2	C	Professor	%--	-1	0	Uh , but {disfmarker}
+Bro010.C.dialogueact1192	2700.87	2710.02	C	Professor	s	-1	0	And then there are s uh , there are single microphone methods that I think people have done for , uh {disfmarker} for this kind of de - reverberation .
+Bro010.C.dialogueact1193	2710.02	2712.72	C	Professor	qy^rt	-1	0	Do y do you know any references to any ?
+Bro010.C.dialogueact1194	2712.72	2718.21	C	Professor	s^df	-1	0	Cuz I {disfmarker} I w I was {disfmarker} w w I {disfmarker} I lead him down a {disfmarker} a bad path on that .
+Bro010.B.dialogueact1195	2714.26	2714.61	B	PhD	h	-1	0	Uh ,
+Bro010.B.dialogueact1196	2717.66	2724.9	B	PhD	s.%--	-1	0	I g I guess {disfmarker} I guess when people are working with single microphones , they are more trying to do {disfmarker}
+Bro010.C.dialogueact1197	2718.21	2718.34	C	Professor	%--	-1	0	But .
+Bro010.B.dialogueact1198	2726.84	2728.96	B	PhD	s.%--	-1	0	well , not {disfmarker} not very {disfmarker}
+Bro010.B.dialogueact1199	2729.17	2730.81	B	PhD	s^rt	-1	0	Well , there is the Avendano work ,
+Bro010.C.dialogueact1200	2730.93	2731.1	C	Professor	s^bk	-1	0	Right .
+Bro010.B.dialogueact1201	2731.75	2738.11	B	PhD	s^rt	-1	0	but also trying to mmm , uh {disfmarker} trying to f t find the de - convolution filter
+Bro010.B.dialogueact1202	2738.72	2739.56	B	PhD	s.%--	-1	0	but in the
+Bro010.B.dialogueact1203	2739.56	2740.1	B	PhD	fh	-1	0	um {disfmarker}
+Bro010.B.dialogueact1204	2741.33	2742.28	B	PhD	s^e	-1	0	not in the time domain
+Bro010.B.dialogueact1205	2742.28	2746.16	B	PhD	s^e	-1	0	but in the uh the stream of features uh I guess .
+Bro010.B.dialogueact1208	2748.43	2751.93	B	PhD	fg|s	-1	0	Well , @ @ {comment} there {disfmarker} there 's someone working on this on i in Mons
+Bro010.C.dialogueact1206	2748.04	2748.31	C	Professor	s^bk	-1	0	Yeah ,
+Bro010.C.dialogueact1207	2748.31	2748.71	C	Professor	s^bk	-1	0	OK .
+Bro010.B.dialogueact1209	2752.83	2753.57	B	PhD	s.%--	-1	0	So perhaps ,
+Bro010.B.dialogueact1210	2753.97	2754.19	B	PhD	fh	-1	0	yeah ,
+Bro010.B.dialogueact1211	2755.42	2756.67	B	PhD	s^cs.%--	-1	0	we should try t to {disfmarker}
+Bro010.B.dialogueact1212	2756.86	2757.81	B	PhD	s	-1	0	He 's working on this ,
+Bro010.B.dialogueact1213	2757.81	2758.9	B	PhD	s^e.%--	-1	0	on trying to {disfmarker}
+Bro010.C.dialogueact1214	2758.15	2758.34	C	Professor	b	-1	0	Yeah .
+Bro010.B.dialogueact1215	2759.82	2761.18	B	PhD	s^e	-1	0	on re reverberation ,
+Bro010.B.dialogueact1216	2762.01	2763.13	B	PhD	fh	-1	0	um {disfmarker}
+Bro010.C.dialogueact1217	2763.48	2765.63	C	Professor	s	-1	0	The first paper on this is gonna have great references ,
+Bro010.C.dialogueact1218	2765.63	2766.4	C	Professor	s	-1	0	I can tell already .
+Bro010.B.dialogueact1219	2767.68	2767.97	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact1220	2768.6	2769.75	C	Professor	s	-1	0	It 's always good to have references ,
+Bro010.C.dialogueact1221	2769.75	2771.11	C	Professor	s^e	-1	0	especially when reviewers read it
+Bro010.C.dialogueact1222	2771.11	2774.27	C	Professor	s^e	-1	0	or {disfmarker} or one of the authors and , {vocalsound} feel they 'll " You 're OK ,
+Bro010.C.dialogueact1223	2774.27	2775.2	C	Professor	s^j	-1	0	you 've r You cited me . "
+Bro010.B.dialogueact1224	2780.6	2780.93	B	PhD	fg	-1	0	So , yeah .
+Bro010.B.dialogueact1225	2781.81	2782.99	B	PhD	s^tc	-1	0	Well , he did echo cancellation
+Bro010.B.dialogueact1226	2782.99	2786.2	B	PhD	s	-1	0	and he did some fancier things
+Bro010.B.dialogueact1227	2786.2	2792.83	B	PhD	s^e	-1	0	like , uh , {vocalsound} {vocalsound} uh , training different network on different reverberation conditions
+Bro010.B.dialogueact1228	2792.83	2794.36	B	PhD	s^e	-1	0	and then trying to find the best one ,
+Bro010.B.dialogueact1229	2794.36	2794.79	B	PhD	fh	-1	0	but . Well .
+Bro010.C.dialogueact1230	2795.31	2795.52	C	Professor	b	-1	0	Yeah .
+Bro010.B.dialogueact1231	2797.5	2797.61	B	PhD	b	-1	0	Yeah .
+Bro010.C.dialogueact1232	2797.65	2802.84	C	Professor	s	-1	0	The oth the other thing , uh , that Dave was talking about earlier was , uh , uh , multiple mike things ,
+Bro010.C.dialogueact1233	2803.59	2805.31	C	Professor	fh|s^e	-1	0	uh , where they 're all distant .
+Bro010.C.dialogueact1234	2805.31	2808.25	C	Professor	s	-1	0	So , um , I mean , there 's {disfmarker} there 's all this work on arrays ,
+Bro010.C.dialogueact1235	2808.25	2814.37	C	Professor	s	-1	0	but the other thing is , uh , {pause} what can we do that 's cleverer that can take some advantage of only two mikes ,
+Bro010.C.dialogueact1236	2814.37	2816.57	C	Professor	s	-1	0	uh , particularly if there 's an obstruction between them ,
+Bro010.C.dialogueact1237	2816.76	2818.02	C	Professor	s^e	-1	0	as we {disfmarker} as we have over there .
+Bro010.B.dialogueact1238	2818.36	2818.72	B	PhD	qy^br^d^rt.%--	-1	0	If there is {disfmarker} ?
+Bro010.C.dialogueact1239	2819.36	2820.51	C	Professor	s	-1	0	An obstruction between them .
+Bro010.B.dialogueact1240	2820.76	2821.02	B	PhD	s^bk	-1	0	Ah , yeah .
+Bro010.C.dialogueact1241	2821.15	2822.03	C	Professor	s^df	-1	0	It creates a shadow
+Bro010.C.dialogueact1242	2822.43	2823.52	C	Professor	s^e	-1	0	which is {disfmarker} is helpful .
+Bro010.C.dialogueact1243	2823.52	2827.86	C	Professor	s^e	-1	0	It 's part of why you have such good directionality with , {vocalsound} with two ears
+Bro010.B.dialogueact1245	2827.94	2828.23	B	PhD	b	-1	0	Mm - hmm .
+Bro010.C.dialogueact1244	2827.86	2829.86	C	Professor	s^e	-1	0	even though they 're not several feet apart .
+Bro010.C.dialogueact1246	2830.46	2832.0	C	Professor	s^j	-1	0	For most {disfmarker} for most people 's heads .
+Bro010.A.dialogueact1247	2834.19	2834.94	A	PhD	s	-1	0	That could help though .
+Bro010.C.dialogueact1248	2835.0	2835.39	C	Professor	s.%--	-1	0	So that {disfmarker}
+Bro010.C.dialogueact1249	2835.39	2835.67	C	Professor	s.%--	-1	0	Yeah , the {disfmarker}
+Bro010.C.dialogueact1250	2835.79	2836.85	C	Professor	s.%--	-1	0	the head , in the way , is really {disfmarker}
+Bro010.C.dialogueact1251	2837.33	2837.95	C	Professor	s	-1	0	that 's what it 's for .
+Bro010.C.dialogueact1252	2838.52	2839.32	C	Professor	s.%-	-1	0	It 's basically ,
+Bro010.A.dialogueact1253	2839.43	2840.3	A	PhD	qy^bu^d^m^rt	-1	0	That 's what the head 's for ?
+Bro010.A.dialogueact1256	2840.84	2841.63	A	PhD	qy^2^d^rt	-1	0	To separate the ears ?
+Bro010.C.dialogueact1254	2840.41	2840.48	C	Professor	s^aa	-1	0	Yeah ,
+Bro010.C.dialogueact1255	2840.48	2841.39	C	Professor	s^df^na	-1	0	it 's to separate the ears .
+Bro010.C.dialogueact1257	2841.64	2842.12	C	Professor	s^aa	-1	0	That 's right ,
+Bro010.C.dialogueact1258	2842.12	2842.2	C	Professor	s^aa	-1	0	yeah .
+Bro010.C.dialogueact1259	2844.04	2844.26	C	Professor	fh	-1	0	Yeah .
+Bro010.C.dialogueact1260	2845.7	2846.36	C	Professor	fh	-1	0	Uh ,
+Bro010.C.dialogueact1261	2846.7	2847.21	C	Professor	fh	-1	0	so .
+Bro010.C.dialogueact1262	2849.1	2849.55	C	Professor	fg	-1	0	Anyway ,
+Bro010.C.dialogueact1263	2850.85	2853.98	C	Professor	fh|s^tc	-1	0	O K . Uh , I think that 's {disfmarker} that 's all we have this week .
+Bro010.E.dialogueact1264	2852.26	2852.37	E	Grad	b	-1	0	Oh .
+Bro010.C.dialogueact1265	2853.09	2855.17	C	Professor	fg	-1	0	
+Bro010.C.dialogueact1266	2853.98	2856.93	C	Professor	fh|s^t	-1	0	And , uh , I think it 's digit time .
+Bro010.A.dialogueact1267	2857.42	2860.5	A	PhD	s	-1	0	Actually the , um {disfmarker} For some reason the digit forms are blank .
+Bro010.C.dialogueact1268	2858.17	2858.36	C	Professor	qy^bh^d	-1	0	Yeah ?
+Bro010.A.dialogueact1269	2861.34	2868.72	A	PhD	s^df	-1	0	Uh , I think th that may be due to the fact that {comment} Adam ran out of digits , {comment} uh , and didn't have time to regenerate any .
+Bro010.C.dialogueact1270	2862.14	2862.39	C	Professor	s^bk^fe	-1	0	Oh !
+Bro010.C.dialogueact1271	2866.95	2867.27	C	Professor	s^bk^fe	-1	0	Oh !
+Bro010.C.dialogueact1272	2867.35	2868.17	C	Professor	s.%--	-1	0	I guess it 's {disfmarker}
+Bro010.C.dialogueact1273	2868.48	2871.08	C	Professor	s^bu	-1	0	Well there 's no real reason to write our names on here then ,
+Bro010.A.dialogueact1274	2870.72	2870.98	A	PhD	b	-1	0	Yeah ,
+Bro010.A.dialogueact1275	2870.98	2873.45	A	PhD	s^j.%--	-1	0	if you want to put your credit card numbers and , uh {disfmarker}
+Bro010.C.dialogueact1276	2871.08	2871.43	C	Professor	qy^g	-1	0	is there ?
+Bro010.E.dialogueact1277	2871.5	2871.69	E	Grad	%-	-1	0	Oh , no {disfmarker} ?
+Bro010.C.dialogueact1278	2873.59	2875.96	C	Professor	qy^rt	-1	0	Or do {disfmarker} did any {disfmarker} do we need the names for the other stuff ,
+Bro010.A.dialogueact1280	2876.18	2876.45	A	PhD	s^aa	-1	0	Uh , yeah ,
+Bro010.A.dialogueact1281	2876.45	2879.14	A	PhD	s^na	-1	0	I do need your names and {disfmarker} and the time , and all that ,
+Bro010.C.dialogueact1279	2875.96	2876.21	C	Professor	qrr.%--	-1	0	or {disfmarker} ?
+Bro010.C.dialogueact1282	2877.75	2878.25	C	Professor	s^bk	-1	0	Oh , OK .
+Bro010.A.dialogueact1283	2879.14	2880.56	A	PhD	s^df	-1	0	cuz we put that into the " key " files .
+Bro010.C.dialogueact1284	2880.71	2881.07	C	Professor	s^bk	-1	0	Oh , OK .
+Bro010.A.dialogueact1285	2881.26	2881.68	A	PhD	fh	-1	0	Um .
+Bro010.A.dialogueact1286	2882.72	2883.54	A	PhD	%--	-1	0	But w
+Bro010.C.dialogueact1287	2883.32	2883.63	C	Professor	s^bk	-1	0	OK .
+Bro010.A.dialogueact1288	2884.16	2885.05	A	PhD	s^df	-1	0	That 's why we have the forms ,
+Bro010.A.dialogueact1289	2885.26	2886.88	A	PhD	s^e	-1	0	uh , even if there are no digits .
+Bro010.C.dialogueact1290	2885.39	2885.75	C	Professor	s^bk	-1	0	OK ,
+Bro010.C.dialogueact1291	2885.75	2886.0	C	Professor	fg	-1	0	yeah ,
+Bro010.C.dialogueact1292	2886.0	2887.02	C	Professor	s	-1	0	I didn't notice this .
+Bro010.C.dialogueact1293	2887.02	2887.58	C	Professor	s	-1	0	I 'm sitting here
+Bro010.C.dialogueact1294	2887.58	2889.24	C	Professor	s	-1	0	and I was {disfmarker} I was about to read them too .
+Bro010.C.dialogueact1295	2890.55	2891.86	C	Professor	s	-1	0	It 's a , uh , blank sheet of paper .
+Bro010.A.dialogueact1296	2892.16	2894.49	A	PhD	s	-1	0	So I guess we 're {disfmarker} we 're done .
+Bro010.C.dialogueact1297	2894.38	2894.56	C	Professor	b	-1	0	Yeah ,
+Bro010.C.dialogueact1298	2894.85	2895.05	C	Professor	b	-1	0	yeah ,
+Bro010.C.dialogueact1299	2895.05	2896.67	C	Professor	s^cc^j	-1	0	I 'll do my credit card number later .
+Bro010.C.dialogueact1300	2896.93	2897.12	C	Professor	fh	-1	0	OK .

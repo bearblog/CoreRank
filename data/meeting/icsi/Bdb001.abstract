@@ -1,0 +1,39 @@
+2	Bdb001.s.1	Two main options were discussed as to the organisation of the collected data.
+Bdb001.F.dialogueact37	68.88	89.054	F	PhD	s	+1	1	and {vocalsound} the main thing that I was gonna ask people to help with today is {pause} to give input on what kinds of database format we should {pause} use in starting to link up things like word transcripts and annotations of word transcripts ,
+Bdb001.C.dialogueact404	790.456	791.666	C	Grad	s	+1	1	Th - there are sort of two choices .
+3	Bdb001.s.2	On the one hand , a bespoke XML structure that connects transcriptions and annotations ( down to the word-level ) to a common timeline.
+Bdb001.C.dialogueact44	113.159	118.67	C	Grad	s	+1	2	I mean , we {disfmarker} I sort of already have developed an XML format for this sort of stuff .
+Bdb001.C.dialogueact62	139.473	141.353	C	Grad	s	+1	2	So tha it has a single time - line ,
+Bdb001.C.dialogueact187	415.528	417.758	C	Grad	s	+1	1	I think for word - level , this would be OK .
+4	Bdb001.s.3	Its advantages are that it is easier to read , parse , map onto the Transcriber format and to expand with extra features.
+Bdb001.C.dialogueact413	820.401	828.131	C	Grad	s	+1	1	and I thought it was better if you 're looking at a raw file to be {disfmarker} t for the tags to say " it 's an utterance " , as opposed to the tag to say " it 's a link " .
+Bdb001.C.dialogueact442	864.059	865.709	C	Grad	s^df	+1	1	One of them is that it 's easy to parse .
+Bdb001.F.dialogueact454	886.53	890.508	F	PhD	s^bu.%--	+1	1	Can you {disfmarker} But you can add to those structures if you {disfmarker}
+Bdb001.C.dialogueact522	1019.57	1026.36	C	Grad	s	+1	1	The other thing {disfmarker} the other way that I sort of established this was as easy translation to and from the Transcriber format .
+1	Bdb001.s.4	Phone-level analysis can be included in the same structure , or in a separate , linked file.
+Bdb001.C.dialogueact270	535.857	539.447	C	Grad	s	+1	1	So I think it {disfmarker} it 's debatable whether you want to do phone - level in the same thing .
+5	Bdb001.s.5	The respective frame-level representation can be handled by P-files , a technology developed at ICSI , which also comes with a library of tools.
+Bdb001.C.dialogueact201	436.774	439.824	C	Grad	s	+1	2	or {disfmarker} or any frame - level stuff I would use P - file .
+Bdb001.C.dialogueact204	442.938	447.028	C	Grad	s	+1	2	It 's ICS uh , ICSI has a format for frame - level representation of features .
+Bdb001.C.dialogueact306	601.937	604.067	C	Grad	s	+1	2	And we have a lot of tools already to deal with it .
+Bdb001.C.dialogueact323	622.011	623.661	C	Grad	s^df^nd	+1	2	I mean , it 's something that we developed at ICSI .
+Bdb001.C.dialogueact982	2013.37	2015.66	C	Grad	s^df	+1	2	But , I mean , it is just something we developed at ICSI .
+1	Bdb001.s.6	Separation of levels of analysis makes files more compact and manageable.
+Bdb001.C.dialogueact218	469.043	469.883	C	Grad	s	+1	1	More compact ,
+3	Bdb001.s.7	XML standards offer libraries that can be used for the development of search tools.
+Bdb001.C.dialogueact780	1528.82	1538.46	C	Grad	s	+1	1	There 's a {pause} standard again in XML , specifically for searching XML documents {disfmarker} structured X - XML documents , where you can specify both the content and the structural position .
+Bdb001.C.dialogueact790	1549.9	1553.85	C	Grad	s^df	+1	1	It 's {disfmarker} it 's {disfmarker} you would use that to build your tool to do that sort of search .
+Bdb001.C.dialogueact890	1810.24	1814.48	C	Grad	s^e	+1	1	What you would do is , someone would build a tool that used that as a library .
+1	Bdb001.s.8	On the other hand , the ATLAS ( NIST ) technology offers a very similar , but more generic organisational scheme based on nodes and links.
+Bdb001.C.dialogueact409	809.504	813.268	C	Grad	s^e	+1	1	which was their file format is just nodes and links ,
+1	Bdb001.s.9	These are labeled with domain specific types , like "utterance" or "speaker".
+Bdb001.C.dialogueact461	905.905	908.755	C	Grad	s	+1	1	and then " type " would be " utterance " .
+4	Bdb001.s.10	This option offer well-developed infrastructure and flexibility as to the type of data storage ( flat XML files or relational database ).
+Bdb001.C.dialogueact474	927.043	928.723	C	Grad	s	+1	1	they 're developing a big infrastructure .
+Bdb001.C.dialogueact495	972.601	974.741	C	Grad	fh|s	+1	1	Um , and apparently they 've also developed a lot of tools ,
+Bdb001.C.dialogueact839	1648.35	1653.59	C	Grad	s	+1	1	One of the things that ATLAS is doing is they 're trying to define an API which is independent of the back store ,
+Bdb001.C.dialogueact841	1654.99	1661.14	C	Grad	s^df	+1	1	so that , uh , you could define a single API and the {disfmarker} the storage could be flat XML files or a database .
+3	Bdb001.s.11	In either case , it is important for the chosen format to allow for fast searches , flexible updates and , if possible , be reusable in future work.
+Bdb001.F.dialogueact380	727.717	736.566	F	PhD	s	+1	1	But I thought it would be good to get something that we can {disfmarker} that other people can use or adopt for their own kinds of encoding .
+Bdb001.F.dialogueact389	760.737	765.097	F	PhD	s	+1	1	And so I wanted something where {pause} all of this can be done in a elegant way
+Bdb001.F.dialogueact390	765.097	770.747	F	PhD	s	+1	1	and that if somebody wants to try something or compute something else , that it can be done flexibly .

@@ -1,0 +1,91 @@
+and some lines of code were already written today
+and um There one of our diligent workers has to sort of volunteer to look over Tilman 's shoulder while he is changing the grammars to English
+Either we do a syllable concatenating um grammar for the English generation which is sort of starting from scratch and doing it the easy way ,
+or we simply adopt the ah um more in - depth um style that is implemented in the German system
+and um are then able not only to produce strings but also the syntactic parse
+uh not parse not
+the syntactic tree that is underneath in the syntactic structure
+Johno , are you gonna have some time t to do that uh w with these guys ?
+cuz y you 're the grammar maven .
+the {disfmarker} the ultimate goal is that before they leave we {disfmarker} we can run through the entire system input through output on at least one or two sample things .
+so anyt we 'll find a time later in the week to uh get together and talk about {pause} your understanding of what SmartKom plans are .
+Thursday around eleven ?
+and we 're setting it up so that we can {disfmarker} we hope to implant certain intentions in people .
+let 's say a simple parse from a s from an utterance won't really give us is what the person actually wants .
+There are all kinds of decisions that we have identified in terms of getting to places and in terms of finding information about things .
+And we are constructing {disfmarker} and then we 've identified more or less the extra - linguistic parameters that may f play a role .
+Information related to the user and information related to the situation .
+And we also want to look closely on the linguistic information that
+what we can get from the utterance .
+That 's part of why we implant these intentions in the data collection to see whether people actually phrase things differently
+And um so the idea is to construct uh um suitable interfaces and a belief - net for a module that actually tries to guess what the underlying intention {pause} was .
+And if the action planner does something with it , great .
+If not you know , then that 's also something um that we can't really {disfmarker}
+at least we {comment} want to offer the extra information . We don't really {disfmarker} um we 're not too worried .
+Well the obvious one would be if {disfmarker} if you envision this as a module within SmartKom , where exactly would that Sit ?
+um {disfmarker} so far I 've thought of it as sort of adding it onto the modeler knowledge module .
+but it could sit anywhere in the attention - recognition
+But , uh th the current design suggests that if it seems to be an important decision and if the belief - net is equivocal so that it doesn't say that one of these is much more probable than the other , then an option is to go back and ask for the information you want .
+what one would like is for this uh , knowledge modeling module to add which of those it is and give it to the planner .
+And they 're currently um Agreeing or {disfmarker} or in the process of agreeing on an X M L - ification of um something like a state - transition network of how dialogues would proceed .
+and {disfmarker} The {disfmarker} these um transition networks uh will be what the action planner interprets in a sense .
+So there 's ac so there {disfmarker} th the word " action " , OK , is {disfmarker} is what 's ambiguous here .
+So action he action here means dia uh speech ac uh you know dialogue act .
+So I think the idea of having a , you know , transition diagram for the grammar of conversations is a good idea .
+when {disfmarker} so , when you get to the tourist domain it 's not just an information retrieval system .
+people are gonna have to think this through a bit more carefully .
+Now I dunno how much people have thought ahead to the tourist domain in this
+what 's called the action plan and what 's really the dialogue manager .
+I think the {disfmarker} the true key issues is how does the whatever comes out of the language input pipeline look like
+and then what the action planner does with it {disfmarker}
+And even on {disfmarker} on a more basic level the {disfmarker} the action planner actually needs to be able to have um an expressive power that can deal with these structures .
+And not just um say um {disfmarker} um the dialogue um will consist of ten possible states and th these states really are fixed in {disfmarker} in a certain sense .
+Would there be any chance of getting the terminology changed so that the dialogue planner was called a " dialogue planner " ?
+It oughta be called a {disfmarker} a dialogue manager .
+cuz that 's what everybody else calls it .
+So , s So what would happen if we sent a note saying " Gee we 've talked about this and couldn't we change this uh th the whole word ? "
+and I think this is just for historical reasons within uh , the preparation phase of the project
+and not because somebody actually believes it ought to be action planner .
+no he 's completely gonna rewrite everything . In Java .
+whether we 're {disfmarker} we 're gonna stick to Prolog or not .
+No , that 's gonna be phased out .
+are there currently is uh
+no syntactic analysis
+but in the next release there will be some .
+Yeah , uh the problem is th that it has to be very fast
+because um if you want to for more than one path anywhere
+Yeah and here 's the case where the English and the German might really be significantly different .
+In terms of if you 're trying to build some fast parser and so forth
+You really might wanna do it in a significantly different way .
+in terms of You know , w if you 're doing this for English as well as German
+Um Do you think now that it would be this {disfmarker} doing it similarly ?
+Some extensions uh have to be made . For {disfmarker} for a English version
+Not easy .
+and almost tested
+and just gonna say we have um again the recognizer to parser thing where we 're working on
+which is the way we decided we were gonna go because A , it 's easier in the beginning
+And um also um Ralf has hooked up with David and you 're gonna continue either all through tonight or tomorrow on whatever to get the er parser interface working .
+But what we actually observed in Heidelberg is that most people when they want to go there they actually don't want to enter ,
+because it 's not really interesting .
+They wanna go to a completely different point where they can look at it and take a picture .
+I mean {disfmarker} t s Ultimately if you have {disfmarker} if you can offer that information , somebody 's gonna s do something with it sooner or later .
+So that 's a functionality that doesn't exist yet to do that dynamically ,
+but if we can offer it that distinction , maybe somebody will go ahead and implement it .
+Surely nobody 's gonna go ahead and implement it if it 's never gonna be used ,
+I mean basically this is what attention - recognition literally sort of can {disfmarker}
+Well it 's supposed to do .
+That 's what it should do .
+um Robert didn't bring it today but there 's a {disfmarker} a belief - net which is {disfmarker}
+There 's a first cut at a belief - net that {disfmarker} that doesn't {disfmarker} it {disfmarker} isn't fully uh instantiated ,
+and in particular some of the {disfmarker} the combination rules and ways of getting the {disfmarker} the conditional probabilities aren't there .
+But we believe that we have laid out the fundamental decisions in this little space
+and the things that influence them .
+Do you want to um access , view or enter a thing .
+So that 's a a discrete decision .
+But for a full system , then one might very well formulate a query ,
+give it to the dialogue planner and say this , you know ar are you know you {disfmarker} are you planning to enter ?
+So that 's {disfmarker} under that model
+then , There would be a {disfmarker} uh {disfmarker} um a loop in which this thing would formulate a query ,
+That would get expressed and then hopefully you know , you 'd get an answer {pause} back .
+And that would of course {disfmarker} the answer would have to be parsed .
+And um and by virtue of doing that then in this case Johno will have acquired the knowledge of how to extend it .

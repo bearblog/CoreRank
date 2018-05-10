@@ -1,0 +1,101 @@
+12	Bmr023.s.23	Experimentation is taking place using different front-ends with the SRI recogniser.
+Bmr023.F.dialogueact135	331.499	335.679	F	Professor	s.%--	+1	2	Y y you guys were doing a bunch of experiments with different front - ends and then with {disfmarker}
+Bmr023.F.dialogueact133	317.486	327.273	F	Professor	qy	+1	2	Is there stuff that 's happened about , um , uh , the {pause} SRI recognizer et cetera ,
+Bmr023.C.dialogueact783	1966.34	1978.7	C	PhD	s	+1	2	you know , Chuck and I talked and the {pause} @ @ {comment} next thing to do is probably to tune the {disfmarker} um , the size of the Gaussian system , um , @ @ {comment} to {disfmarker} to this {disfmarker} to this feature vector , which we haven't done at all .
+Bmr023.F.dialogueact757	1900.65	1917.46	F	Professor	qy.%--	+1	3	Has {disfmarker} has , uh {disfmarker} ? We just {disfmarker} I think , just talked about this the other day , but h has {disfmarker} has anybody had a chance to try changing , uh , insertion penalty sort of things with the {disfmarker} with the , uh {disfmarker} {vocalsound} uh , using the tandem system input for the {disfmarker} ?
+Bmr023.C.dialogueact784	1978.7	1983.97	C	PhD	s	+1	2	We just used the same {vocalsound} configuration as we used for the {disfmarker} {vocalsound} for the standard system .
+Bmr023.F.dialogueact1171	2936.42	2941.3	F	Professor	s	+1	1	The other thing , uh , just to mention that Stephane {disfmarker} this was an innovation of Stephane 's , which was a pretty neat one ,
+Bmr023.F.dialogueact1172	2941.97	2945.57	F	Professor	s	+1	1	uh , and might particularly apply {vocalsound} here , given all these things we 're mentioning .
+Bmr023.F.dialogueact1173	2946.18	2951.97	F	Professor	s	+1	1	Um , Stephane 's idea was that , um , discriminant , uh , approaches are great .
+Bmr023.F.dialogueact1174	2952.6	2959.67	F	Professor	s	+1	1	Even the local ones , given , you know , these potential outer loops which , you know , you can convince yourself turn into the global ones .
+Bmr023.F.dialogueact1175	2960.61	2964.54	F	Professor	s	+1	1	Um , however , there 's times when it {pause} is not good .
+Bmr023.F.dialogueact1176	2965.2	2972.89	F	Professor	s^e	+1	1	Uh , when {pause} something about the test set is different enough from the training set that {disfmarker} that , uh , the discrimination that you 're learning is {disfmarker} is {disfmarker} is not a good one .
+Bmr023.F.dialogueact1178	2973.85	2987.12	F	Professor	s	+1	1	So , uh , his idea was to take as the input feature vector to the , uh , Gaussian mixture system , {vocalsound} uh , a concatenation of the neural net outputs and the regular features .
+13	Bmr023.s.24	This is not yet complete , but PLP results are improving to match those of MFCC , with vocal tract length normalisation working "beautifully" on a training set of 24 hours , and giving overall improvement of between 3 and 5%.
+Bmr023.C.dialogueact155	365.907	371.911	C	PhD	fh|s^ba	+1	2	um , it looks like the vocal tract length normalization is working beautifully , actually ,
+Bmr023.C.dialogueact811	2046.05	2053.48	C	PhD	s	+1	3	As I said before , the {disfmarker} uh using Dan 's , uh , uh , vocal tract normalization option works very well .
+Bmr023.C.dialogueact808	2038.16	2043.02	C	PhD	s.%--	+1	4	But the PLP features work {disfmarker} um , uh , you know , continue to improve the ,
+Bmr023.C.dialogueact813	2053.9	2062.53	C	PhD	s	+1	1	So , um , @ @ {comment} I ran one experiment where we 're just {vocalsound} did the vocal tract le normalization only in the test data ,
+Bmr023.C.dialogueact814	2062.92	2065.81	C	PhD	s	+1	1	so I didn't bother to retrain {pause} the models at all ,
+Bmr023.C.dialogueact816	2068.22	2080.05	C	PhD	s	+1	1	which is about what we get with {disfmarker} {vocalsound} uh , with , you know , just @ @ {comment} actually doing both training and test normalization , um , with , um , {vocalsound} the , uh {disfmarker} {vocalsound} uh , with the standard system .
+Bmr023.C.dialogueact817	2080.64	2087.57	C	PhD	s	+1	1	So , in a few hours we 'll have the numbers for the {disfmarker} for retraining everything with vocal tract length normalization
+Bmr023.C.dialogueact820	2090.03	2097.3	C	PhD	s	+1	1	So , it looks like the P L - fea P features {comment} do very well now with {disfmarker} after having figured out all these little tricks to {disfmarker} to get it to work .
+Bmr023.C.dialogueact831	2114.82	2123.24	C	PhD	fg|s	+1	1	Right . And {disfmarker} and what that suggests also is of course that the current Switchboard {pause} MLP isn't trained on very good features .
+Bmr023.C.dialogueact839	2140.08	2143.63	C	PhD	s^df^ng	+1	2	Well , but if you add them all up you have , uh , almost five percent difference now .
+Bmr023.F.dialogueact976	2445.68	2452.49	F	Professor	s	+1	2	And I think I agree with you that if we fixed lots of different things and they would all add up , we would probably have a {disfmarker} a {disfmarker} a competitive system .
+Bmr023.F.dialogueact977	2452.84	2455.87	F	Professor	s^bd^df	+1	2	But I think not that much of it is due to the front - end per se .
+Bmr023.F.dialogueact978	2455.87	2459.06	F	Professor	s	+1	2	I think maybe a couple percent of it is , as far as I can see from this .
+5	Bmr023.s.25	Thilo's automatic segmenter is now working , and although it has low precision , this is mediated by the high recall.
+Bmr023.C.dialogueact172	408.405	420.012	C	PhD	s^df	+1	3	Because in all our previous experiments , we had the {disfmarker} uh , you know , we were essentially cheating by having the , um , you know , the h the hand - segmentations as the basis of the recognition .
+Bmr023.C.dialogueact174	420.632	425.842	C	PhD	s^cs.%-	+1	4	And so now with Thilo 's segmenter working so well , I think we should {pause} consider doing a {disfmarker}
+Bmr023.G.dialogueact191	433.583	440.793	G	PhD	s^ba	+1	2	And even {disfmarker} The good thing is that since you , um , have high recall , {comment} even if you have low precision cuz you 're over - generating , that 's good
+Bmr023.G.dialogueact196	447.593	459.55	G	PhD	s^df	+1	1	but {vocalsound} I know that if we run recognition unconstrained on a whole waveform , we do very poorly because we 're {disfmarker} we 're getting insertions in places what {disfmarker} that you may well be cutting out .
+Bmr023.C.dialogueact991	2491.44	2504.2	C	PhD	qy^rt	+1	2	eh At this point I 'm as I mean , you know {disfmarker} e I 'm wondering is it {disfmarker} Can we expect , uh , a tandem system to do better than a properly trained {disfmarker} you know , a Gaussian system trained directly on the features with , you know , the right ch choice of {pause} parameters ?
+12	Bmr023.s.26	The group will send IBM another sample file to check that the beep problems are fixed , and this should take 2-3 weeks.
+Bmr023.D.dialogueact228	511.247	519.487	D	PhD	s^cs^e	+1	2	and the transcriber thought that the easiest thing for them would be if there was a beep and then the nu a number , a digit , and then a beep , uh , at the beginning of each one
+Bmr023.D.dialogueact232	522.351	527.713	D	PhD	fh|s	+1	1	And , um , {vocalsound} so Adam wrote a little script to generate those style , uh , beeps
+Bmr023.D.dialogueact269	582.57	585.48	D	PhD	s^cc	+1	1	So , um , we {disfmarker} We 're gonna send them one more sample meeting ,
+Bmr023.D.dialogueact270	585.76	587.82	D	PhD	s	+1	1	uh , and Thilo has run his segmentation .
+Bmr023.D.dialogueact271	587.82	590.03	D	PhD	s	+1	1	Adam 's gonna generate the chunked file .
+Bmr023.D.dialogueact272	590.575	593.445	D	PhD	s^cc	+1	1	And then , um , I 'll give it to Brian and they can try that out .
+Bmr023.D.dialogueact273	593.545	599.635	D	PhD	s	+1	1	And when we get that back we 'll see if that sort of fixes the problem we had with , uh , too many beeps in the last transcription .
+Bmr023.F.dialogueact274	600.165	604.795	F	Professor	s^bk|qy^rt	+1	1	OK . Do w do {disfmarker} what {disfmarker} Do you have any idea of the turn - around on {disfmarker} on those steps you just said ?
+Bmr023.D.dialogueact281	613.979	616.239	D	PhD	s	+1	1	The last one seemed like it took a couple of weeks .
+Bmr023.D.dialogueact283	616.836	618.696	D	PhD	fh|s^e	+1	1	Um , maybe even three .
+Bmr023.D.dialogueact284	619.417	621.397	D	PhD	fh|s	+1	1	Uh , that 's just the I B M side .
+Bmr023.E.dialogueact287	624.334	626.554	E	PhD	s	+1	1	It should @ @ be finished today or something . Yeah .
+2	Bmr023.s.27	Progress on transcriptions has been made on 5 "set one" meetings , and two more transcribers set on.
+Bmr023.A.dialogueact314	697.744	703.442	A	Postdoc	fg|s	+1	1	OK . So , um , we {disfmarker} {vocalsound} Uh , the transcribers have continued to work past what I 'm calling " set one " ,
+Bmr023.A.dialogueact316	708.065	711.855	A	Postdoc	s	+1	1	but , uh , they 've gotten five meetings done in that set .
+5	Bmr023.s.28	Pre-segmentation has proved useful.
+Bmr023.A.dialogueact379	908.72	912.17	A	Postdoc	s^ba^tc	+1	2	The {disfmarker} the {disfmarker} the pre - segmentations are so much {disfmarker} are s so extremely helpful .
+Bmr023.A.dialogueact410	971.685	976.705	A	Postdoc	s^ba	+1	2	But {disfmarker} but actually i it 's so correct for so much of the time , that it 's an enormous time saver
+Bmr023.A.dialogueact411	977.035	978.795	A	Postdoc	s	+1	2	and it just gets tweaked a little around the boundaries .
+Bmr023.A.dialogueact435	1018.8	1023.12	A	Postdoc	s^cs	+1	2	Wha - what you 'd really like is that they started with pre - segmented and were pre - segmented all the way through .
+Bmr023.G.dialogueact445	1034.91	1045.89	G	PhD	s^cs	+1	2	Yeah . As long as we have a record , I guess , of the original {pause} automatic one , we can always find out how well {pause} we would do fr from the recognition side by using those boundaries .
+9	Bmr023.s.29	Meeting Recorder data of the 62 hours of meetings already analysed has been organised into a spreadsheet with the aim to make this available over the WWW.
+Bmr023.D.dialogueact457	1068.03	1077.59	D	PhD	s^aa|s.%-	+1	3	Yeah . So , um , uh , Jane and Adam and I had a meeting where we talked about the reorganization of the {pause} directory structure for all of the meeting {disfmarker}
+Bmr023.D.dialogueact460	1080.32	1081.48	D	PhD	s^e	+1	3	For all the Meeting Recorder data .
+Bmr023.D.dialogueact463	1086.4	1097.78	D	PhD	s	+1	1	And then , Jane also s prepared a {disfmarker} um , started getting all of the {disfmarker} the meetings organized , so she prepared a {disfmarker} {vocalsound} a spreadsheet , which I spent the last couple of days adding to .
+Bmr023.D.dialogueact465	1102.94	1115.56	D	PhD	s	+1	1	been putting it into , uh , a spreadsheet {vocalsound} with start time , the date , the old meeting name , the new meeting name , the number of speakers , the duration of the meeting , comments , you know , what its transcription status is , all that kind of stuff .
+Bmr023.D.dialogueact468	1122.5	1124.92	D	PhD	s^df	+1	1	so we can keep people updated about what 's going on .
+Bmr023.D.dialogueact471	1131.26	1143.53	D	PhD	s	+1	1	but {vocalsound} so far , um , {vocalsound} as of Monday , the fourteenth , um , we 've had a total number of meeting sixty - two hours of meetings that we have collected .
+Bmr023.D.dialogueact473	1146.06	1149.53	D	PhD	s	+1	1	Uh , some other interesting things , average number of speakers per meeting is six .
+Bmr023.D.dialogueact475	1152.13	1155.49	D	PhD	s^cc	+1	1	and I 'm gonna have on here the total amount that 's been transcribed so far ,
+Bmr023.D.dialogueact479	1171.05	1179.06	D	PhD	s	+1	1	And {vocalsound} it 'll also list , uh , like under the status , if it 's at IBM or if it 's at ICSI , uh , or if it 's completed or which ones we 're excluding
+18	Bmr023.s.30	Classifier segmentation is expected to give better results from more data: currently "cheating" using word features for forced alignment , but looking to use other data such as "spurts".
+Bmr023.G.dialogueact620	1546.29	1551.94	G	PhD	s^df	+1	4	because the {vocalsound} prosodic features are {pause} very noisy and so you {disfmarker} you need a lot of data in order to model them .
+Bmr023.G.dialogueact621	1552.44	1554.15	G	PhD	s	+1	3	Um , so we 're starting to see some patterns
+Bmr023.G.dialogueact623	1560.8	1582.71	G	PhD	s	+1	3	But we did find that some of the features that , I gue Jane would know about , that are expressing sort of the {vocalsound} distance of , um , {vocalsound} boundaries from peaks in the utterance and {vocalsound} some {pause} local , um , range {disfmarker} pitch range effects , like how close people are to their floor , are showing up in these classifiers ,
+Bmr023.G.dialogueact624	1583.28	1587.68	G	PhD	s^e	+1	1	which are also being given some word features that are cheating , cuz they 're true words .
+Bmr023.G.dialogueact625	1588.02	1590.11	G	PhD	fh|s	+1	1	Um , so these are based on forced alignment .
+Bmr023.G.dialogueact640	1616.15	1619.29	G	PhD	s^na	+1	1	spurts is not cheating except that of course you know the real words ,
+Bmr023.B.dialogueact668	1645.77	1648.37	B	Grad	s^e	+1	1	Like , there 's a lot of different features you could just pull out .
+Bmr023.C.dialogueact670	1647.62	1651.82	C	PhD	s	+1	1	I mean that wouldn't be cheating because you can detect pause {pause} pretty well within the time .
+Bmr023.G.dialogueact682	1659.63	1662.39	G	PhD	qy^bu^rt	+1	1	I guess you reported on some te punctuation type {disfmarker}
+Bmr023.G.dialogueact683	1662.65	1665.88	G	PhD	s^e	+1	1	finding sentence boundaries , finding disfluency boundaries ,
+Bmr023.G.dialogueact685	1665.88	1673.05	G	PhD	s	+1	1	and then I had done some work on finding from the foreground speech whether or not someone was likely to interrupt ,
+Bmr023.G.dialogueact686	1673.05	1682.26	G	PhD	s^e:qy	+1	1	so where {disfmarker} you know , if I 'm talking now and someone {disfmarker} and {disfmarker} and Andreas is about to interrupt me , is he gonna choose a certain place in my speech , either prosodically or word - based .
+Bmr023.G.dialogueact687	1682.68	1685.79	G	PhD	s	+1	2	And there the prosodic features actually showed up
+Bmr023.G.dialogueact689	1688.68	1690.58	G	PhD	s^e	+1	1	even though the word features were available .
+Bmr023.G.dialogueact690	1691.18	1694.81	G	PhD	s^r.%--	+1	1	And a neat thing there too is I tried some {disfmarker} {vocalsound} putting the speaker {disfmarker}
+Bmr023.G.dialogueact691	1694.82	1698.35	G	PhD	s	+1	1	So , I gave everybody {vocalsound} a short version of their name .
+Bmr023.G.dialogueact696	1705.14	1711.59	G	PhD	s^bs	+1	1	So that means that overall , um , it wasn't just modeling Morgan , or it wasn't just modeling a single person ,
+Bmr023.G.dialogueact753	1894.24	1897.14	G	PhD	s^e	+1	1	to {disfmarker} to try to get a non - cheating version of how all this would work .
+4	Bmr023.s.31	Prosodaic features looking promising for identifying interruptions.
+Bmr023.G.dialogueact620	1546.29	1551.94	G	PhD	s^df	+1	4	because the {vocalsound} prosodic features are {pause} very noisy and so you {disfmarker} you need a lot of data in order to model them .
+Bmr023.G.dialogueact621	1552.44	1554.15	G	PhD	s	+1	3	Um , so we 're starting to see some patterns
+Bmr023.G.dialogueact623	1560.8	1582.71	G	PhD	s	+1	3	But we did find that some of the features that , I gue Jane would know about , that are expressing sort of the {vocalsound} distance of , um , {vocalsound} boundaries from peaks in the utterance and {vocalsound} some {pause} local , um , range {disfmarker} pitch range effects , like how close people are to their floor , are showing up in these classifiers ,
+Bmr023.G.dialogueact687	1682.68	1685.79	G	PhD	s	+1	2	And there the prosodic features actually showed up
+11	Bmr023.s.32	Generally the ICSI data offers better pitch features and vowel voicing than the Switchboard corpus due to the use of close talking mikes rather than telephone handsets.
+Bmr023.G.dialogueact724	1805.3	1809.6	G	PhD	s^rt	+1	1	The other thing that was interesting to me is that the pitch features are better than in Switchboard .
+Bmr023.G.dialogueact725	1810.23	1812.8	G	PhD	s	+1	1	And I think that really is from the close - talking mikes ,
+Bmr023.G.dialogueact726	1812.8	1821.53	G	PhD	s^df	+1	1	cuz the pitch processing that was done has much cleaner behavior than {disfmarker} than the Switchboard telephone bandwidth .
+Bmr023.G.dialogueact729	1822.83	1830.9	G	PhD	h|s^ba	+1	1	Um . Well , first of all , the pitch tracks are m have less , um , halvings and doublings than {disfmarker} than Switchboard
+Bmr023.G.dialogueact730	1830.9	1832.37	G	PhD	s^rt	+1	1	and there 's a lot less dropout ,
+Bmr023.G.dialogueact731	1832.43	1842.47	G	PhD	s	+1	1	so if you ask how many regions where you would normally expect some vowels to be occurring {vocalsound} are completely devoid of pitch information ,
+Bmr023.G.dialogueact734	1842.47	1847.54	G	PhD	s	+1	1	in other words the pitch tracker just didn't get a high enough probability of voicing for words {disfmarker}
+Bmr023.D.dialogueact742	1860.64	1864.39	D	PhD	qy^rt	+1	1	Could it have to do with the {disfmarker} the lower frequency cut - off on the Switchboard ?
+Bmr023.G.dialogueact743	1864.59	1868.31	G	PhD	s^am|s	+1	1	Ma - maybe . I mean , the tele we had telephone bandwidth for Switchboard
+Bmr023.G.dialogueact744	1868.71	1876.38	G	PhD	s	+1	1	and we had the an annoying sort of telephone handset movement problem that I think may also affect it .
+Bmr023.G.dialogueact746	1877.09	1880.41	G	PhD	s^ba	+1	1	So we 're just getting better signals in {disfmarker} in this data .

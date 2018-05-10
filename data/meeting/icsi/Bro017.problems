@@ -1,0 +1,49 @@
+30	Bro017.s.10	There was disagreement at the project meeting over two group development of Voice Activity Detectors , particularly since one group makes their code available to all and the others do not.
+Bro017.B.dialogueact33	53.882	55.672	B	Professor	s^na	+1	2	There is a plenty of {disfmarker} there 're plenty of issues .
+Bro017.E.dialogueact34	54.83	57.11	E	PhD	s.%-	+1	1	Like the voice activity detector ,
+Bro017.B.dialogueact35	56.64	64.825	B	Professor	s	+1	1	Well and what happened was that they realized that if two leading proposals , which was French Telecom Alcatel , and us both had uh voice activity detector .
+Bro017.B.dialogueact37	65.351	72.371	B	Professor	s:s	+1	1	And I said " well big surprise , I mean we could have told you that {pause} n n n four months ago , except we didn't because nobody else was bringing it up " .
+Bro017.B.dialogueact38	72.371	75.091	B	Professor	s	+1	1	Obviously French Telecom didn't volunteer this information either ,
+Bro017.B.dialogueact40	75.506	80.219	B	Professor	s	+1	1	cuz we were working on {disfmarker} mainly on voice activity detector for past uh several months
+Bro017.B.dialogueact42	82.759	86.019	B	Professor	s	+1	1	And everybody said " Well but this is not fair . We didn't know that . "
+Bro017.B.dialogueact43	86.9	89.99	B	Professor	s	+1	1	And of course uh the {disfmarker} it 's not working on features really .
+Bro017.B.dialogueact51	107.24	114.39	B	Professor	fh|s:s	+1	1	And so then ev ev everybody else says " well we should {disfmarker} we need to do a new eval evaluation without voice activity detector ,
+Bro017.B.dialogueact52	114.39	116.12	B	Professor	s:s	+1	1	or we have to do something about it " .
+Bro017.B.dialogueact54	116.12	118.61	B	Professor	s	+1	1	And in principle I {disfmarker} uh I {disfmarker} we agreed .
+Bro017.B.dialogueact58	121.98	126.58	B	Professor	s^cs	+1	1	but in that case , uh we would like to change the uh {disfmarker} the algorithm
+Bro017.B.dialogueact59	126.58	131.32	B	Professor	s^df	+1	1	because uh if we are working on different data , we probably will use a different set of tricks .
+Bro017.B.dialogueact61	132.031	136.951	B	Professor	s^rt	+1	1	But unfortunately nobody ever officially can somehow acknowledge that this can be done ,
+Bro017.B.dialogueact62	137.111	141.551	B	Professor	s	+1	1	because French Telecom was saying " no , no , no , now everybody has access to our code ,
+Bro017.B.dialogueact63	142.036	143.896	B	Professor	s	+1	1	so everybody is going to copy what we did . "
+Bro017.B.dialogueact65	145.68	150.84	B	Professor	s	+1	1	well our argument was everybody ha has access to our code , and everybody always had access to our code .
+Bro017.B.dialogueact66	150.84	153.702	B	Professor	s	+1	1	We never uh {disfmarker} uh denied that .
+Bro017.B.dialogueact67	153.702	161.055	B	Professor	s	+1	1	We thought that people are honest , that if you copy something and if it is protected {disfmarker} protected by patent then you negotiate , or something ,
+Bro017.B.dialogueact74	165.004	166.764	B	Professor	s:s	+1	1	But {disfmarker} And French Telecom was saying " no , no , no ,
+Bro017.B.dialogueact75	166.764	174.585	B	Professor	s	+1	1	there is a lot of little tricks which uh sort of uh cannot be protected and you guys will take them , " which probably is also true .
+Bro017.B.dialogueact79	187.046	194.677	B	Professor	s	+1	1	And I think they have to be honest in the long run , because winning proposal again {disfmarker} uh what will be available th is {disfmarker} will be a code .
+Bro017.B.dialogueact81	195.097	199.167	B	Professor	s	+1	1	So the uh {disfmarker} the people can go to code and say " well listen this is what you stole from me "
+Bro017.B.dialogueact87	202.982	209.826	B	Professor	s:s	+1	1	The biggest problem of course is that f that Alcatel French Telecom cl claims " well we fulfilled the conditions .
+Bro017.B.dialogueact88	209.826	210.626	B	Professor	s^ba	+1	1	We are the best .
+Bro017.B.dialogueact90	213.24	215.05	B	Professor	s^rt	+1	1	And e and other people don't feel that ,
+Bro017.B.dialogueact91	215.22	221.2	B	Professor	s	+1	1	because they {disfmarker} so they now decided that {disfmarker} that {disfmarker} is {disfmarker} the whole thing will be done on well - endpointed data ,
+Bro017.B.dialogueact97	235.038	240.126	B	Professor	s	+1	1	still not clear if we are going to run the {disfmarker} if we are allowed to run uh uh new algorithms ,
+Bro017.B.dialogueact99	241.366	243.046	B	Professor	s	+1	1	Because uh we would fight for that , really .
+Bro017.B.dialogueact101	246.725	255.963	B	Professor	s	+1	2	at least our experience is that only endpointing a {disfmarker} a mel cepstrum gets uh {disfmarker} gets you twenty - one percent improvement overall and twenty - seven improvement on SpeechDat - Car
+17	Bro017.s.11	There were also issues relating to the amount of improvement required if the baseline is improved.
+Bro017.B.dialogueact101	246.725	255.963	B	Professor	s	+1	2	at least our experience is that only endpointing a {disfmarker} a mel cepstrum gets uh {disfmarker} gets you twenty - one percent improvement overall and twenty - seven improvement on SpeechDat - Car
+Bro017.B.dialogueact103	257.02	262.18	B	Professor	s	+1	1	then obvious the database {disfmarker} uh I mean the {disfmarker} the {disfmarker} the {disfmarker} uh the baseline will go up .
+Bro017.B.dialogueact105	262.58	265.17	B	Professor	s	+1	1	And nobody can then achieve fifty percent improvement .
+Bro017.B.dialogueact106	265.819	275.477	B	Professor	s.%-	+1	1	So they agreed that uh there will be a twenty - five percent improvement required on {disfmarker} on uh h u m bad mis badly mismatched {disfmarker}
+Bro017.B.dialogueact119	287.798	297.588	B	Professor	fh|s	+1	1	And so , so now they want to say " we {disfmarker} we will require fifty percent improvement only for well matched condition , and only twenty - five percent for the serial cases . "
+Bro017.B.dialogueact121	298.595	303.575	B	Professor	fh|s	+1	1	And uh {disfmarker} and they almost agreed on that except that it wasn't a hundred percent agreed .
+Bro017.B.dialogueact122	303.575	307.554	B	Professor	s	+1	1	And so last time uh during the meeting , I just uh brought up the issue ,
+Bro017.B.dialogueact125	315.6	318.91	B	Professor	s	+1	1	For two years we are fighting for fifty percent improvement
+Bro017.B.dialogueact126	319.394	322.404	B	Professor	s	+1	1	and suddenly you are saying " oh no we {disfmarker} we will do something less " ,
+Bro017.B.dialogueact128	323.584	326.474	B	Professor	s	+1	1	And everybody said " oh we discussed that and you were not a mee there "
+Bro017.B.dialogueact129	326.474	332.784	B	Professor	s:s	+1	1	and I said " well a lot of other people were not there because not everybody participates at these teleconferencing c things . "
+Bro017.B.dialogueact130	332.954	336.194	B	Professor	s	+1	1	Then they said " oh no no no because uh everybody is invited . "
+Bro017.B.dialogueact131	336.464	341.284	B	Professor	s	+1	1	However , there is only ten or fifteen lines , so people can't even con you know participate .
+Bro017.B.dialogueact132	341.797	344.597	B	Professor	s	+1	1	So eh they agreed , and so they said " OK , we will discuss that . "
+Bro017.B.dialogueact136	356.18	361.66	B	Professor	s^rt	+1	1	So now officially , Nokia is uh uh complaining and said they {disfmarker} they are looking for support ,
+Bro017.B.dialogueact137	362.943	368.243	B	Professor	fh|s	+1	1	uh I think QualComm is uh saying , too " we shouldn't abandon the fifty percent yet .
+Bro017.B.dialogueact138	368.553	371.213	B	Professor	s^cs	+1	1	We should at least try once again , one more round . "

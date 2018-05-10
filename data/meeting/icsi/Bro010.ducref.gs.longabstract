@@ -1,0 +1,15 @@
+The Berkeley Meeting Recorder Group discussed the progress of several of their members.
+The progress being made on the group's main project , a speech recogniser for the cellular industry was reported.
+The group also touched upon matters that had broader implications for the work , such as the work of other groups on the same project.
+There were also some progress reports from group members working on other projects.
+No one from the group attended a recent video conference about their main project , but they need to find out what was discussed in it.
+Until they do , they will continue on , assuming nothing major has been changed.
+Need to discuss any new investigation with partners to make sure work is not repeated.
+There was a recent video conference meeting discussing the cellular project , but no one from the group attended and so do not know if it has any implications for their work , if any important decisions were made.
+This includes decisions on the desired latency for the system , since the group is currently at the limit.
+Spectral subtraction , which the group is currently investigating as a method of dealing with noise , may add to the delay time , but also it is hard to do with non-linear noise.
+Speakers mn007 and fn002 have been working on the groups main project , looking for bugs in the system , and trying to improve latency.
+The group's work currently has the highest latency on the project , and they are looking for ways to cut the delays.
+These include replacing FIR filters with IIR , and investigating spectral subtraction methods which do not require taking the future into account.
+Speaker me006 has put together a proposal to extend work on a multiband system using low-level detectors , and applying it to recognition.
+Speaker me026 has been looking at method for recognition using far mics , trying to deal with reverberation and echo-cancellation.

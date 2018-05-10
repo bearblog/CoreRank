@@ -1,0 +1,11 @@
+The voicedness recognition results are only marginally better after the last experiment using a net with three outputs.
+It shows that the issue is actually what the inputs to the net are.
+The 63% accuracy for the voiced/unvoiced net is not very good.
+Later , as the France Telecom proposal was discussed , it was noted that a constant used in the energy expression looks equivocal.
+With regard to the dynamic acoustic events experiments , the markings offered by both the Switchboard and TIMIT corpus are not readily appropriate.
+An automatic translation process will only provide some of the desired characteristics.
+In the PLP/mel cepstrum comparison for SRI , a difference of a few percent has been found.
+This could be due to differences in normalisation or a bug in the scripts.
+It was also found that the amount of pruning was higher for the PLP features and the run time of the recogniser longer.
+Finally , as to the digit recognition , the initial 41% error rate for the far mike was due to the training data being clean.
+However , for a real system , even an error rate of 4-5% is very poor.

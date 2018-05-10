@@ -1,0 +1,44 @@
+4	Bmr026.s.12	Jane will be contacted to see whether transcribers could work on a small amount of SmartKom data , in order to get the project moving.
+Bmr026.D.dialogueact44	80.494	97.058	D	PhD	s	+1	1	Because I {disfmarker} I need to ask Jane whether it 's {disfmarker} it would be OK for her {disfmarker} um , s some of her people to transcribe uh some of the initial data we got from the SmartKom data collection , which is these short like five or seven minute sessions .
+Bmr026.D.dialogueact52	108.41	112.57	D	PhD	s	+1	1	But to get going we would like some of the data transcribed right away so we can get started .
+Bmr026.D.dialogueact54	113.44	121.01	D	PhD	s.%--	+1	1	And so um I wanted to ask Jane if {disfmarker} if uh , you know , maybe one of their transcribers could {disfmarker} could do {disfmarker}
+Bmr026.D.dialogueact55	121.01	123.96	D	PhD	s.%-	+1	1	I mean since these are very short , that should really be uh ,
+1	Bmr026.s.13	Details of the transcription status web page will be sent to the group.
+Bmr026.F.dialogueact100	196.52	198.57	F	PhD	s^cc	+1	2	I 'll send it out to the list telling people to look at it .
+9	Bmr026.s.14	Participants will be contacted to approve transcripts or suggest edits , however this depends upon decisions regarding disk space and ( un )compression of audio files.
+Bmr026.A.dialogueact106	207.378	211.848	A	Grad	s	+1	2	So Jane also wanted to talk about participant approval , but I don't really think there 's much to talk about .
+Bmr026.A.dialogueact110	218.878	227.638	A	Grad	s^cc	+1	2	I 'm gonna send out to the participants , uh , with links to web pages which contain the transcripts and allow them to {pause} suggest edits .
+Bmr026.C.dialogueact115	233.096	235.786	C	PhD	qy^bu^d^rt	+1	2	So but it 's just transcripts , not the {disfmarker} not the audio ?
+Bmr026.A.dialogueact116	235.955	237.985	A	Grad	s^ar|s	+1	2	Nope , they 'll have access to the audio also .
+Bmr026.A.dialogueact121	241.41	243.66	A	Grad	s	+1	2	Because the transcripts might not be right .
+Bmr026.F.dialogueact125	245.77	249.91	F	PhD	qy^d^rt	+1	2	So , um the audio that they 're gonna have access to , will that be the uncompressed version ?
+Bmr026.F.dialogueact126	249.91	252.84	F	PhD	qrr.%-	+1	2	Or will you have scripts that like uncompress the various pieces and {disfmarker}
+Bmr026.A.dialogueact129	254.95	263.53	A	Grad	h|s	+1	2	Yeah , it 's {disfmarker} it 's probably going to have to be the uncompressed versions because , uh , uh , it takes too long to do random access decompression .
+Bmr026.F.dialogueact131	264.73	269.55	F	PhD	s.%-	+1	1	Yeah , I was just wondering because we 're uh running out of the un - backed - up disk space on
+4	Bmr026.s.15	There are disk space problems regarding scratch space , although the group decide that a solution about adding extra drives cannot be resolved without talking to sysadmin.
+Bmr026.B.dialogueact374	739.545	742.455	B	Professor	fh|s^df^f	+1	3	Uh , you know Dave Johnson is gone for , like , ten days ,
+Bmr026.B.dialogueact503	907.655	910.685	B	Professor	s	+1	4	I mean it 's just a question of figuring out where they should be and hanging them ,
+Bmr026.B.dialogueact536	978.258	981.158	B	Professor	s	+1	4	So this is a question that 's pretty hard to solve without talking to Dave ,
+Bmr026.B.dialogueact601	1097.29	1101.06	B	Professor	s	+1	5	But at any rate I think that there 's a {disfmarker} there 's a longer term thing and there 's immediate need
+4	Bmr026.s.16	Until they can be contacted , the group will use the hard drives on each other's machines.
+Bmr026.E.dialogueact387	752.69	756.41	E	Grad	s	+1	3	I have um {disfmarker} I have an eighteen gig drive hanging off of my computer .
+Bmr026.B.dialogueact503	907.655	910.685	B	Professor	s	+1	4	I mean it 's just a question of figuring out where they should be and hanging them ,
+Bmr026.B.dialogueact536	978.258	981.158	B	Professor	s	+1	4	So this is a question that 's pretty hard to solve without talking to Dave ,
+Bmr026.B.dialogueact601	1097.29	1101.06	B	Professor	s	+1	5	But at any rate I think that there 's a {disfmarker} there 's a longer term thing and there 's immediate need
+5	Bmr026.s.17	Displaying pitch contours live in Transcriber would be desirable for the demo , however , if the group run out of time , the group note that they could generate this statically using Powerpoint.
+Bmr026.D.dialogueact247	489.072	503.97	D	PhD	s^cs	+1	4	But {disfmarker} But it would be cool if the Transcriber interface had like another window for the {disfmarker} you know , maybe above the waveform where it would show some arbitrary valued function that is {disfmarker} that is you know time synchron ti ti time synchronous with the wavform .
+Bmr026.E.dialogueact284	540.42	542.04	E	Grad	s	+1	4	and see the pitch contours also .
+Bmr026.A.dialogueact290	548.043	550.853	A	Grad	s.%-	+1	4	Just record the audio clip and show an image and I think that 's {disfmarker}
+Bmr026.B.dialogueact300	570.986	577.156	B	Professor	s	+1	4	and , {vocalsound} the more live , the better , but uh , given the crunch of time , we may have to retreat from it to some extent .
+Bmr026.B.dialogueact301	577.156	585.566	B	Professor	s	+1	4	So I think {disfmarker} {pause} For a lot of reasons , I think it would be very nice to have this Transcriber interface be able to show some other interesting signal along with it
+8	Bmr026.s.18	The group decide that it may be more beneficial to have separate meetings to discuss recognition , since Jane and Liz are less likely to be interested in this.
+Bmr026.D.dialogueact652	1229.89	1246.49	D	PhD	fg|s^tc	+1	2	Um {disfmarker} Uh {disfmarker} One thing {disfmarker} I mean {disfmarker} we {disfmarker} {vocalsound} {vocalsound} in past meetings we had um also a you know various {disfmarker} variously talked about the um work that w uh was happening sort of on the {disfmarker} on the recognition side
+Bmr026.D.dialogueact660	1273.97	1285.57	D	PhD	s	+1	2	Well , it 's that {disfmarker} It 's just gonna be ver very boring for people who are not you know , sort of really interested in the details of the recognition system .
+Bmr026.B.dialogueact663	1286.42	1292.64	B	Professor	fg|qw	+1	2	Well , OK , so how many {disfmarker} how many people here would not be interested in uh {disfmarker} in a meeting about recognition ?
+Bmr026.D.dialogueact677	1305.43	1306.47	D	PhD	s	+1	2	Liz and Jane probably .
+Bmr026.F.dialogueact712	1369.71	1372.31	F	PhD	qw^cs^rt	+1	2	Why don't we alternate this meeting every other week ?
+Bmr026.F.dialogueact725	1386.2	1391.17	F	PhD	s	+1	2	But I do I don't {disfmarker} I mean a lot of times lately it seems like we don't really have enough for a full meeting on Meeting Recorder .
+Bmr026.B.dialogueact741	1402.85	1409.48	B	Professor	s^cs	+1	2	And then if we find , you know we 're just not getting enough done , there 's all these topics not coming up , then we can expand into another meeting .
+Bmr026.B.dialogueact744	1411.63	1420.29	B	Professor	fh|s^cs.%--	+1	3	Uh . So uh . Um . Let 's chat about it with Liz and Jane {pause} when we get a chance , see what they think and {disfmarker}
+1	Bmr026.s.19	They will discuss this with them before going ahead.
+Bmr026.B.dialogueact744	1411.63	1420.29	B	Professor	fh|s^cs.%--	+1	3	Uh . So uh . Um . Let 's chat about it with Liz and Jane {pause} when we get a chance , see what they think and {disfmarker}

@@ -1,0 +1,29 @@
+2	Bed003.s.26	There was a demonstration of the structure and the function of a toy version of the belief-net for the intentionality task.
+Bed003.B.dialogueact254	493.894	498.054	B	Grad	s	+1	2	Um right now it 's still kind of {pause} in a toy {pause} version of it ,
+Bed003.C.dialogueact565	972.83	978.408	C	Grad	s^df	+1	1	I mean {disfmarker} We can do a demo in the sense that we can um , {vocalsound} just ob observe the fact that this will , in fact do inference .
+7	Bed003.s.27	The features nodes include things like prosody , discourse , verb choice , "landmark-iness" of a building , time of day and whether the admission fee was discussed.
+Bed003.B.dialogueact91	201.38	203.96	B	Grad	s	+1	2	So then the features we decided {disfmarker} or we decided we were {disfmarker} talked about ,
+Bed003.B.dialogueact93	204.96	207.77	B	Grad	s	+1	2	Uh the {disfmarker} the prosody , the discourse , {pause} verb choice .
+Bed003.B.dialogueact95	213.46	215.08	B	Grad	s.%--	+1	1	The " landmark - iness " of uh {disfmarker}
+Bed003.B.dialogueact109	245.99	246.74	B	Grad	s	+1	1	the time of day ,
+Bed003.B.dialogueact269	539.822	545.258	B	Grad	s	+1	1	mainly because it 's {disfmarker} it 's just whether the verb is a Tango verb , an Enter verb , or a {pause} Vista verb .
+Bed003.D.dialogueact520	906.75	913.64	D	Grad	s	+1	1	but you can imagine that it 's verb plus various other things that are also not in the bottom layer that would {disfmarker} that would help you {disfmarker}
+Bed003.A.dialogueact1217	2060.15	2070.9	A	Grad	s^rt	+1	3	is that maybe we ob we could observe a couple of um discourse phenomena such as the admission fee ,
+4	Bed003.s.28	The values these nodes take feed into the middle layer nodes identified as hidden variables of the user/device interaction , such as whether the user is on tour , running an errand or in a hurry.
+Bed003.B.dialogueact235	434.077	444.434	B	Grad	s	+1	2	but the middle thing , we were thinking along the lines of maybe trying to figure out , like , the concept of whether they 're a tourist {pause} or {pause} whether they 're running an errand or something like that
+Bed003.B.dialogueact241	454.76	462.985	B	Grad	s	+1	2	So then the hidden variables {disfmarker} hair variables we came up with were whether someone was on a tour , running an errand , or whether they were in a hurry ,
+Bed003.C.dialogueact308	588.3	592.89	C	Grad	s	+1	2	but the other ones , the final destination , the whether they 're doing business , whether they 're in a hurry , and whether they 're tourists ,
+Bed003.C.dialogueact309	592.89	599.34	C	Grad	s	+1	1	that kind of thing is all uh {vocalsound} sort of {disfmarker} you know probabilistically depends on the other things .
+0	Bed003.s.29	These , in turn , help infer whether the user wants to see , enter or simply approach a building.
+2	Bed003.s.30	The set of features nodes is derived from linguistic cues , world knowledge and discourse history.
+Bed003.D.dialogueact350	660.26	664.194	D	Grad	s^bu	+1	2	and some of them are sort of {vocalsound} either world knowledge or situational {pause} things .
+Bed003.D.dialogueact345	646.906	652.146	D	Grad	s^bu	+1	3	So there are certain cues that are very strong {pause} either lexical or topic - based um , concept cues
+3	Bed003.s.31	SmartKom , although it does not code for intentions as specified in this task , provides a model of the discourse , which can be useful for the detection of features through querying and anaphora resolution.
+Bed003.A.dialogueact1362	2412.02	2416.17	A	Grad	s	+1	1	And this um {disfmarker} m won't differentiate between all modes ,
+Bed003.A.dialogueact1369	2434.85	2442.02	A	Grad	s	+1	1	and then it 's handed on to the discourse history which is , um o one of the most elaborate {disfmarker} elaborate modules .
+Bed003.A.dialogueact1371	2449.27	2455.2	A	Grad	s	+1	1	It helps an an anaphora resolution and it {disfmarker} and it fills in all the structures that are omitted ,
+4	Bed003.s.32	Experiments for the collection of new data will start soon , since someone who will recruit subjects and help run the experiments has already been hired and the designing of the experiments has also progressed significantly.
+Bed003.A.dialogueact1688	3108.32	3111.55	A	Grad	s	+1	1	meaning be the wizard for the data collection ,
+Bed003.A.dialogueact1689	3111.55	3114.99	A	Grad	s^rt	+1	1	also {vocalsound} maybe transcribe a little bit , if she has to ,
+Bed003.A.dialogueact1690	3115.28	3118.86	A	Grad	s	+1	1	but also recruiting subjects , organizing them , and so forth .
+Bed003.A.dialogueact1752	3273.87	3280.98	A	Grad	s	+1	2	But um {disfmarker} in terms of specifying the scenario , {vocalsound} um {disfmarker} uh {disfmarker} uh {disfmarker} we 've gotten a little further

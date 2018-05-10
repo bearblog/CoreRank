@@ -1,0 +1,8 @@
+For the DARPA meeting in July , the group propose that they should have the question answering mock-up and transcriber interface ready for then , and also have data available.
+Unfortunately , there are legal issues regarding the approval of transcripts.
+Additionally , the group would like to have their data transcriptions in "production mode" by then.
+However the group do not want to hire more transcribers until IBM confirms in the next 2-3 weeks the acceptability of the data.
+Segmentation for the recogniser has been done by hand which the group consider "cheating" , instead now they want to use Thilo's automatic segmenter.
+The classifier segmentation work is going well , but needs more data to improve results since non-native speaker data cannot be used.
+For the front-end , so far the group have been using a high number of Gaussians per cluster ( 64 ) rather than the ten per cluster used by researchers at CMU , therefore they need to tune their Gaussian system to the feature vector.
+The group  observed that it would be difficult to check for bugs in the generation of tandem features for the SRI system.

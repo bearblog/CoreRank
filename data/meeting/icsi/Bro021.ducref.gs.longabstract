@@ -1,0 +1,14 @@
+The ICSI Meeting Recorder Group at Berkeley met once more to discuss group members' progress.
+The majority of the group are working on tasks related to the Aurora Project , including on-line normalization and Wiener filtering.
+Other progress was also reported.
+A large part of the meeting was spent discussing calculations and approaches using the white-board in the room.
+At me013's behest , the group need to look closer at the errors made in tests on the aurora project , because the error rate may not be telling the whole picture.
+Mn052 volunteers to run some experiments into how different numbers of MFCCs affect results.
+Some previously reported results from me026 were determined to be garbage due to a bug in the code  Speaker mn052 also feels that his strange results are down to a bug.
+This week , speaker mn007 has mostly been focusing on trying different approaches to on-line normalization , but making little impact on results.
+He has also been playing with thresholding , effectively adding white noise to the data , but again with minimal affect.
+Also making little improvement is fn002's work with Vectorial Taylor series , as a means of dealing with noise.
+Mn052 has been adding Wiener filtering to the aurora task , and is thinking about future work on subspace.
+Speaker me026 has been investigating phase normalization , and the possibility of adding spectral subtraction to an existing system.
+Speaker me006 is still planning some cheating experiments to investigate features for recognition , alongside preparing for his quals.
+also , the groups submission to the Eurospeech conference has been accepted.

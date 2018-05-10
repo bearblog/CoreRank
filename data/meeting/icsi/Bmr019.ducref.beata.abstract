@@ -1,0 +1,5 @@
+In the first part of the Berkeley Meeting Recorder group meeting , members discussed the results and implications of a spoken digit recognition experiment using lapel microphones and the Hidden Markov Model Toolkit ( HTK ).
+It is reported that while the lapel microphones deliver good results , the HTK is outperformed by the SRI toolkit.
+Comparisons to other digit corpora such as TI are also made.
+The second part of the discussion focused on alignment of multiple speaker channels , specifically the problems of overlapping speech and back-channelling.
+Speaker adaptation was identified as an important issue is recognition as well as alignment.

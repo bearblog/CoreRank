@@ -1,0 +1,432 @@
+IS1001d.A.dialog-act.vkaraisk.1	5.59	6.75	PM	A	oth	-1	0	Okay .
+IS1001d.A.dialog-act.vkaraisk.2	11.616	18.03	PM	A	fra	-1	0	{vocalsound} Je croix que c'est dommage de le {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.3	18.03	22.02	PM	A	oth	-1	0	it will be sad to destroy this prototype .
+IS1001d.A.dialog-act.vkaraisk.4	22.02	24.59	PM	A	inf	-1	0	It really looks like a banana .
+IS1001d.C.dialog-act.vkaraisk.1	24.752	25.77	UI	C	be.pos	-1	0	{vocalsound} It is a banana .
+IS1001d.A.dialog-act.vkaraisk.5	26.33	28.8	PM	A	und	-1	0	It is a banana . {vocalsound}
+IS1001d.C.dialog-act.vkaraisk.2	26.82	28.22	UI	C	be.pos	-1	0	It is the essence of bananas .
+IS1001d.C.dialog-act.vkaraisk.3	33.28	34.36	UI	C	be.neg	-1	0	I would be confused with this thing .
+IS1001d.A.dialog-act.vkaraisk.6	35.685	37.987	PM	A	fra	-1	0	{vocalsound}
+IS1001d.C.dialog-act.vkaraisk.4	37.488	39.2	UI	C	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.7	39.51	40.548	PM	A	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.8	46.23	46.46	PM	A	oth	-1	0	Mm .
+IS1001d.B.dialog-act.vkaraisk.1	46.736	48.12	ID	B	fra	-1	0	{vocalsound}
+IS1001d.C.dialog-act.vkaraisk.5	46.69	47.09	UI	C	fra	-1	0	S
+IS1001d.A.dialog-act.vkaraisk.9	47.81	52.16	PM	A	stl	-1	0	Okay .
+IS1001d.D.dialog-act.vkaraisk.1	47.67	49.487	ME	D	oth	-1	0	Mm-hmm . {vocalsound}
+IS1001d.C.dialog-act.vkaraisk.6	49.46	50.25	UI	C	be.pos	-1	0	How is everyone ?
+IS1001d.A.dialog-act.vkaraisk.10	52.16	54.35	PM	A	be.pos	-1	0	Hi .
+IS1001d.B.dialog-act.vkaraisk.2	53.14	53.46	ID	B	be.pos	-1	0	Hi .
+IS1001d.A.dialog-act.vkaraisk.11	54.35	58.37	PM	A	inf	+1	0	So we are here for the detailed design meeting .
+IS1001d.D.dialog-act.vkaraisk.2	57.504	58.238	ME	D	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.12	59.865	62.86	PM	A	stl	-1	0	{vocalsound} So {vocalsound}
+IS1001d.C.dialog-act.vkaraisk.7	59.77	60.25	UI	C	bck	-1	0	Mm-hmm .
+IS1001d.A.dialog-act.vkaraisk.13	62.86	64.29	PM	A	fra	-1	0	we will uh {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.14	64.29	67.58	PM	A	inf	+1	0	I will first present what we are going to do in this meeting .
+IS1001d.A.dialog-act.vkaraisk.15	68.88	71.31	PM	A	fra	-1	0	Then uh I've {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.16	71.31	73.54	PM	A	inf	+1	0	I will also take notes during this meeting
+IS1001d.A.dialog-act.vkaraisk.17	73.54	78.9	PM	A	inf	+1	0	and I will send you uh a summary then as usual .
+IS1001d.A.dialog-act.vkaraisk.18	78.9	87.23	PM	A	inf	+1	0	We will then look at the evaluation criteria of the prototype presented by uh our two colleagues
+IS1001d.A.dialog-act.vkaraisk.19	87.23	92.69	PM	A	be.pos	-1	0	that make good work .
+IS1001d.B.dialog-act.vkaraisk.3	88.922	91.255	ID	B	fra	-1	0	{vocalsound}
+IS1001d.D.dialog-act.vkaraisk.3	89.44	90.368	ME	D	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.20	92.69	98.76	PM	A	inf	+1	0	{vocalsound} And uh then we will see the financial aspects and the cost of the product .
+IS1001d.A.dialog-act.vkaraisk.21	98.76	101.95	PM	A	inf	+1	0	Then we will uh evaluate the product .
+IS1001d.A.dialog-act.vkaraisk.22	102.74	115.12	PM	A	inf	+1	0	And uh end with the conclusion of this project and see whether it fits with {disfmarker} it fulf if it fulfil the requirement or not .
+IS1001d.A.dialog-act.vkaraisk.23	116.44	117.35	PM	A	stl	-1	0	So
+IS1001d.B.dialog-act.vkaraisk.4	115.99	116.38	ID	B	bck	-1	0	Mm-hmm .
+IS1001d.A.dialog-act.vkaraisk.24	117.35	117.97	PM	A	fra	-1	0	d
+IS1001d.A.dialog-act.vkaraisk.25	117.97	120.64	PM	A	sug	+1	1	let's start with the cost aspect
+IS1001d.A.dialog-act.vkaraisk.26	120.64	122.34	PM	A	stl	-1	0	so so
+IS1001d.A.dialog-act.vkaraisk.27	122.34	124.91	PM	A	inf	+1	1	I look at the aspect discussed last time ,
+IS1001d.A.dialog-act.vkaraisk.28	124.91	129.0	PM	A	inf	+1	1	that is to say uh to have a standard battery ,
+IS1001d.A.dialog-act.vkaraisk.29	129.0	136.69	PM	A	inf	+1	1	{vocalsound} to have a yellow banana shaped uh case with uh a rubber material around it
+IS1001d.B.dialog-act.vkaraisk.5	132.223	133.453	ID	B	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.30	136.69	137.38	PM	A	fra	-1	0	to be
+IS1001d.A.dialog-act.vkaraisk.31	137.38	139.53	PM	A	inf	+1	1	uh to feel spongy ,
+IS1001d.C.dialog-act.vkaraisk.8	138.4	139.27	UI	C	inf	-1	0	Like a banana .
+IS1001d.A.dialog-act.vkaraisk.32	140.912	148.69	PM	A	inf	+1	1	{vocalsound} and uh also at the different aspect like having a wheel etcetera .
+IS1001d.D.dialog-act.vkaraisk.4	140.512	140.896	ME	D	fra	-1	0	{vocalsound}
+IS1001d.B.dialog-act.vkaraisk.6	146.93	147.18	ID	B	bck	-1	0	Mm-hmm .
+IS1001d.A.dialog-act.vkaraisk.33	148.69	152.74	PM	A	inf	+1	3	And the cost ended to be ten point seven Euros .
+IS1001d.A.dialog-act.vkaraisk.34	152.74	153.05	PM	A	stl	-1	0	So
+IS1001d.A.dialog-act.vkaraisk.35	153.05	154.05	PM	A	ass	+1	1	which is uh good ,
+IS1001d.A.dialog-act.vkaraisk.36	154.05	158.64	PM	A	inf	+1	1	because we had a price gap of twelve point five Euros .
+IS1001d.B.dialog-act.vkaraisk.7	159.1	159.45	ID	B	bck	-1	0	Mm-hmm .
+IS1001d.A.dialog-act.vkaraisk.37	159.89	160.3	PM	A	stl	-1	0	So
+IS1001d.A.dialog-act.vkaraisk.38	160.3	162.83	PM	A	ass	+1	2	for the financial aspect it's okay ,
+IS1001d.A.dialog-act.vkaraisk.39	162.83	168.71	PM	A	inf	+1	2	we can uh {disfmarker} we can continue with this product uh as if ,
+IS1001d.D.dialog-act.vkaraisk.5	162.816	163.04	ME	D	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.40	168.71	174.72	PM	A	sug	+1	1	{vocalsound} and we are now going to see the project evaluation with uh our marketing expert .
+IS1001d.D.dialog-act.vkaraisk.6	175.248	177.85	ME	D	ass	-1	0	{vocalsound} Yeah . Okay .
+IS1001d.D.dialog-act.vkaraisk.7	177.85	178.6	ME	D	stl	-1	0	So uh
+IS1001d.D.dialog-act.vkaraisk.8	178.6	182.24	ME	D	sug	-1	0	you can have my project in {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.41	180.92	181.38	PM	A	ass	-1	0	Yeah .
+IS1001d.A.dialog-act.vkaraisk.42	182.58	183.75	PM	A	el.inf	-1	0	You have a presentation ?
+IS1001d.D.dialog-act.vkaraisk.9	183.71	184.32	ME	D	inf	-1	0	Uh yeah
+IS1001d.D.dialog-act.vkaraisk.10	184.32	184.912	ME	D	fra	-1	0	just a {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.43	187.81	189.79	PM	A	und	-1	0	Participant four , yes .
+IS1001d.D.dialog-act.vkaraisk.11	187.726	188.44	ME	D	inf	-1	0	{vocalsound} Four .
+IS1001d.D.dialog-act.vkaraisk.12	191.22	191.95	ME	D	inf	-1	0	Evaluation .
+IS1001d.A.dialog-act.vkaraisk.44	192.38	192.77	PM	A	und	-1	0	Okay .
+IS1001d.A.dialog-act.vkaraisk.45	196.4	196.9	PM	A	ass	-1	0	Okay .
+IS1001d.D.dialog-act.vkaraisk.13	196.98	197.3	ME	D	ass	-1	0	Okay .
+IS1001d.D.dialog-act.vkaraisk.14	197.3	200.0	ME	D	sug	-1	0	So you can go .
+IS1001d.D.dialog-act.vkaraisk.15	200.0	200.8	ME	D	sug	-1	0	We can go through .
+IS1001d.A.dialog-act.vkaraisk.46	201.2	201.92	PM	A	ass	-1	0	Okay .
+IS1001d.D.dialog-act.vkaraisk.16	202.82	203.35	ME	D	stl	-1	0	So
+IS1001d.D.dialog-act.vkaraisk.17	203.35	206.13	ME	D	inf	+1	1	I made an evaluation
+IS1001d.D.dialog-act.vkaraisk.18	206.13	216.87	ME	D	inf	+1	1	and the the evaluation criteria is made according to {vocalsound} the users' requirements and the market trends we talked about uh during the previous uh meetings .
+IS1001d.D.dialog-act.vkaraisk.19	216.87	218.68	ME	D	sug	-1	0	So you can go through
+IS1001d.D.dialog-act.vkaraisk.20	218.68	220.65	ME	D	fra	-1	0	and {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.47	220.04	220.51	PM	A	ass	-1	0	Okay .
+IS1001d.D.dialog-act.vkaraisk.21	220.65	221.94	ME	D	stl	-1	0	okay so uh
+IS1001d.D.dialog-act.vkaraisk.22	221.94	224.89	ME	D	inf	+1	1	we have uh six points .
+IS1001d.D.dialog-act.vkaraisk.23	224.89	225.34	ME	D	fra	-1	0	We
+IS1001d.D.dialog-act.vkaraisk.24	226.5	228.15	ME	D	inf	-1	0	we talked about before .
+IS1001d.A.dialog-act.vkaraisk.48	228.14	228.71	PM	A	bck	-1	0	Okay .
+IS1001d.D.dialog-act.vkaraisk.25	228.15	228.39	ME	D	stl	-1	0	So
+IS1001d.D.dialog-act.vkaraisk.26	228.39	238.48	ME	D	inf	+1	1	we we want to have a product fancy look and feel , technologically innovative , easy to use , fashion , {vocalsound} easy to find in a room , and robust ,
+IS1001d.A.dialog-act.vkaraisk.49	237.86	238.25	PM	A	bck	-1	0	Yeah .
+IS1001d.B.dialog-act.vkaraisk.8	237.94	238.26	ID	B	bck	-1	0	Mm-hmm .
+IS1001d.D.dialog-act.vkaraisk.27	238.48	240.42	ME	D	stl	-1	0	uh and uh uh
+IS1001d.D.dialog-act.vkaraisk.28	240.42	244.15	ME	D	inf	+1	1	I have a scale of uh seven points .
+IS1001d.A.dialog-act.vkaraisk.50	243.99	244.3	PM	A	bck	-1	0	Yeah .
+IS1001d.D.dialog-act.vkaraisk.29	244.15	245.43	ME	D	stl	-1	0	Okay . So
+IS1001d.D.dialog-act.vkaraisk.30	245.43	248.6	ME	D	off	+1	1	I go through all the uh all the points here ,
+IS1001d.A.dialog-act.vkaraisk.51	248.4	248.69	PM	A	bck	-1	0	Yeah .
+IS1001d.D.dialog-act.vkaraisk.31	248.6	258.06	ME	D	sug	+1	1	and uh according to what you think about the this project you can uh mm make a one point , two point or seven point .
+IS1001d.D.dialog-act.vkaraisk.32	258.06	258.99	ME	D	el.und	-1	0	Okay ?
+IS1001d.A.dialog-act.vkaraisk.52	258.63	259.02	PM	A	und	-1	0	Okay .
+IS1001d.D.dialog-act.vkaraisk.33	258.99	261.76	ME	D	inf	+1	1	And after we ha we have an an average , and uh we see .
+IS1001d.A.dialog-act.vkaraisk.53	262.55	262.95	PM	A	und	-1	0	Okay .
+IS1001d.B.dialog-act.vkaraisk.9	262.54	262.87	ID	B	und	-1	0	Mm-hmm .
+IS1001d.D.dialog-act.vkaraisk.34	262.87	263.45	ME	D	fra	-1	0	The {disfmarker}
+IS1001d.D.dialog-act.vkaraisk.35	263.45	265.05	ME	D	el.und	-1	0	okay ?
+IS1001d.D.dialog-act.vkaraisk.36	265.05	266.45	ME	D	stl	-1	0	{vocalsound} Uh so uh
+IS1001d.D.dialog-act.vkaraisk.37	266.45	268.83	ME	D	el.ass	+1	1	fancy look and feel , what do you think ?
+IS1001d.A.dialog-act.vkaraisk.54	267.86	268.41	PM	A	stl	-1	0	Okay .
+IS1001d.A.dialog-act.vkaraisk.55	268.41	271.6	PM	A	fra	-1	0	Maybe you can presen {vocalsound}
+IS1001d.D.dialog-act.vkaraisk.38	268.83	268.96	ME	D	fra	-1	0	F
+IS1001d.D.dialog-act.vkaraisk.39	268.96	270.63	ME	D	inf	+1	1	between o one and seven .
+IS1001d.A.dialog-act.vkaraisk.56	271.6	272.32	PM	A	stl	-1	0	okay .
+IS1001d.A.dialog-act.vkaraisk.57	272.32	274.66	PM	A	sug	-1	0	Maybe {disfmarker} {vocalsound} hold it .
+IS1001d.D.dialog-act.vkaraisk.40	272.848	273.312	ME	D	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.58	274.66	280.39	PM	A	ass	+1	1	{vocalsound} So I think it's uh very uh very nice .
+IS1001d.A.dialog-act.vkaraisk.59	280.39	280.88	PM	A	el.ass	-1	0	What do you think ?
+IS1001d.C.dialog-act.vkaraisk.9	280.26	282.03	UI	C	ass	+1	1	I give it a {disfmarker} I give it a five .
+IS1001d.A.dialog-act.vkaraisk.60	283.32	285.06	PM	A	stl	-1	0	Yeah . So
+IS1001d.A.dialog-act.vkaraisk.61	285.06	286.79	PM	A	el.inf	+1	1	it's between one and seven ?
+IS1001d.A.dialog-act.vkaraisk.62	286.79	288.61	PM	A	el.inf	+1	1	Seven is the highest uh ?
+IS1001d.D.dialog-act.vkaraisk.41	286.32	286.51	ME	D	inf	-1	0	Yeah .
+IS1001d.D.dialog-act.vkaraisk.42	287.542	289.228	ME	D	inf	+1	1	{vocalsound} Seven is the {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.63	288.61	289.87	PM	A	ass	+1	1	I will give a six .
+IS1001d.B.dialog-act.vkaraisk.10	291.12	293.05	ID	B	ass	+1	1	I will give a a five .
+IS1001d.D.dialog-act.vkaraisk.43	293.576	294.15	ME	D	und	-1	0	{vocalsound} Mm-hmm .
+IS1001d.C.dialog-act.vkaraisk.10	296.32	298.28	UI	C	el.ass	-1	0	{vocalsound} And you ?
+IS1001d.D.dialog-act.vkaraisk.44	296.144	297.06	ME	D	be.pos	-1	0	{gap} sorry .
+IS1001d.C.dialog-act.vkaraisk.11	298.28	300.07	UI	C	el.inf	-1	0	Do you vote uh Christine ?
+IS1001d.D.dialog-act.vkaraisk.45	298.075	301.83	ME	D	und	-1	0	{gap} eh ?
+IS1001d.C.dialog-act.vkaraisk.12	300.07	301.46	UI	C	el.inf	-1	0	Do you also vote ?
+IS1001d.D.dialog-act.vkaraisk.46	301.83	302.0	ME	D	inf	-1	0	{vocalsound} No ,
+IS1001d.D.dialog-act.vkaraisk.47	302.0	304.704	ME	D	inf	-1	0	I just want to see something {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.64	310.44	312.896	PM	A	sug	+1	1	Maybe we all have to agree on a common {disfmarker}
+IS1001d.C.dialog-act.vkaraisk.13	313.68	314.1	UI	C	stl	-1	0	Well ,
+IS1001d.C.dialog-act.vkaraisk.14	314.1	315.4	UI	C	fra	-1	0	we can {gap} very easily {vocalsound} .
+IS1001d.A.dialog-act.vkaraisk.65	315.57	315.7	PM	A	el.inf	-1	0	Yeah .
+IS1001d.D.dialog-act.vkaraisk.48	315.59	316.21	ME	D	oth	-1	0	Mm-hmm .
+IS1001d.B.dialog-act.vkaraisk.11	319.299	322.119	ID	B	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.66	320.512	320.88	PM	A	fra	-1	0	{vocalsound}
+IS1001d.D.dialog-act.vkaraisk.49	320.61	326.9	ME	D	fra	-1	0	Uh I think uh {gap} {vocalsound} and need to {gap} as well {vocalsound} .
+IS1001d.A.dialog-act.vkaraisk.67	327.22	328.55	PM	A	be.pos	-1	0	No problem .
+IS1001d.A.dialog-act.vkaraisk.68	328.55	328.83	PM	A	stl	-1	0	So
+IS1001d.C.dialog-act.vkaraisk.15	328.112	328.894	UI	C	fra	-1	0	{vocalsound}
+IS1001d.D.dialog-act.vkaraisk.50	328.31	328.58	ME	D	fra	-1	0	Need to {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.69	328.83	329.784	PM	A	fra	-1	0	this is your {disfmarker}
+IS1001d.D.dialog-act.vkaraisk.51	328.58	333.888	ME	D	el.inf	+1	1	uh I don't know if you {disfmarker} we ha we have to put uh one uh f If it's better or {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.70	344.39	346.05	PM	A	inf	-1	0	One is most {gap} .
+IS1001d.C.dialog-act.vkaraisk.16	344.4	344.617	UI	C	fra	-1	0	I {disfmarker}
+IS1001d.D.dialog-act.vkaraisk.52	345.83	346.06	ME	D	oth	-1	0	Uh-uh .
+IS1001d.A.dialog-act.vkaraisk.71	349.64	349.85	PM	A	stl	-1	0	Well ,
+IS1001d.A.dialog-act.vkaraisk.72	349.85	352.24	PM	A	sug	+1	1	we can choose what we want .
+IS1001d.D.dialog-act.vkaraisk.53	349.56	350.21	ME	D	oth	-1	0	Um .
+IS1001d.D.dialog-act.vkaraisk.54	351.41	352.32	ME	D	ass	-1	0	Yeah .
+IS1001d.A.dialog-act.vkaraisk.73	352.24	352.63	PM	A	stl	-1	0	Okay ,
+IS1001d.A.dialog-act.vkaraisk.74	352.63	354.44	PM	A	sug	+1	1	let's say that seven is the best .
+IS1001d.D.dialog-act.vkaraisk.55	352.32	354.4	ME	D	fra	-1	0	Or maybe we can say s
+IS1001d.D.dialog-act.vkaraisk.56	354.4	359.54	ME	D	ass	-1	0	seven is the best mm {vocalsound} .
+IS1001d.A.dialog-act.vkaraisk.75	356.4	356.7	PM	A	ass	-1	0	Okay .
+IS1001d.A.dialog-act.vkaraisk.76	357.69	359.5	PM	A	stl	-1	0	So so
+IS1001d.A.dialog-act.vkaraisk.78	359.5	366.3	PM	A	inf	+1	1	do note the grade we have five , six for me ,
+IS1001d.B.dialog-act.vkaraisk.12	365.48	365.89	ID	B	inf	-1	0	Five .
+IS1001d.A.dialog-act.vkaraisk.80	366.3	367.13	PM	A	und	-1	0	five .
+IS1001d.A.dialog-act.vkaraisk.79	367.13	369.24	PM	A	el.ass	-1	0	And what what's your choice ?
+IS1001d.D.dialog-act.vkaraisk.57	367.36	369.07	ME	D	be.pos	-1	0	Oh sorry . {vocalsound}
+IS1001d.A.dialog-act.vkaraisk.81	369.24	373.41	PM	A	el.ass	+1	1	How much would you give on the fancy aspect , on the fashionable aspect ?
+IS1001d.D.dialog-act.vkaraisk.58	369.07	369.793	ME	D	fra	-1	0	Six {disfmarker}
+IS1001d.D.dialog-act.vkaraisk.59	372.07	374.58	ME	D	fra	-1	0	Uh s you can {disfmarker}
+IS1001d.D.dialog-act.vkaraisk.60	374.58	375.2	ME	D	und	-1	0	how much what ?
+IS1001d.A.dialog-act.vkaraisk.82	375.32	376.39	PM	A	fra	-1	0	How much would you {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.83	376.39	378.71	PM	A	el.inf	-1	0	you don't answer to this uh questionnaire ?
+IS1001d.D.dialog-act.vkaraisk.61	377.86	378.07	ME	D	und	-1	0	Oh
+IS1001d.D.dialog-act.vkaraisk.62	378.07	378.34	ME	D	und	-1	0	yes
+IS1001d.D.dialog-act.vkaraisk.63	378.34	380.2	ME	D	ass	-1	0	I mm I dunno mm ,
+IS1001d.D.dialog-act.vkaraisk.64	380.2	382.368	ME	D	el.ass	+1	1	I think six , it's a good uh {disfmarker}
+IS1001d.C.dialog-act.vkaraisk.17	382.46	384.2	UI	C	inf	+1	1	So it will have five point five average .
+IS1001d.A.dialog-act.vkaraisk.84	383.85	385.27	PM	A	inf	-1	0	Five point five average .
+IS1001d.D.dialog-act.vkaraisk.65	385.29	386.39	ME	D	und	-1	0	Yeah .
+IS1001d.A.dialog-act.vkaraisk.85	386.45	386.76	PM	A	el.und	-1	0	Okay .
+IS1001d.C.dialog-act.vkaraisk.18	386.45	386.75	UI	C	bck	-1	0	Mm .
+IS1001d.D.dialog-act.vkaraisk.66	386.39	391.3	ME	D	fra	-1	0	Wa can {gap} . {vocalsound}
+IS1001d.B.dialog-act.vkaraisk.13	391.253	392.043	ID	B	fra	-1	0	{vocalsound}
+IS1001d.D.dialog-act.vkaraisk.67	391.3	393.62	ME	D	oth	-1	0	Okay .
+IS1001d.A.dialog-act.vkaraisk.86	392.77	393.13	PM	A	stl	-1	0	Well ,
+IS1001d.A.dialog-act.vkaraisk.87	393.13	393.6	PM	A	fra	-1	0	does it {disfmarker}
+IS1001d.D.dialog-act.vkaraisk.68	393.62	395.16	ME	D	fra	-1	0	{vocalsound} I
+IS1001d.D.dialog-act.vkaraisk.69	395.16	395.45	ME	D	be.pos	-1	0	sorry .
+IS1001d.C.dialog-act.vkaraisk.19	399.248	399.723	UI	C	fra	-1	0	{vocalsound}
+IS1001d.D.dialog-act.vkaraisk.70	399.45	400.19	ME	D	stl	-1	0	Okay . So
+IS1001d.D.dialog-act.vkaraisk.71	400.19	402.15	ME	D	el.ass	+1	1	after , the technological aspect ?
+IS1001d.A.dialog-act.vkaraisk.88	404.32	406.69	PM	A	und	-1	0	Okay , techne technological aspect .
+IS1001d.D.dialog-act.vkaraisk.72	407.0	407.28	ME	D	stl	-1	0	So
+IS1001d.D.dialog-act.vkaraisk.73	407.28	414.08	ME	D	inf	+1	1	we we said uh we have uh a new technological uh thing with a wheel .
+IS1001d.A.dialog-act.vkaraisk.89	414.34	416.17	PM	A	ass	-1	0	Yeah , we have the wheel .
+IS1001d.A.dialog-act.vkaraisk.90	416.17	418.44	PM	A	inf	+1	1	We also have the rubber material ,
+IS1001d.D.dialog-act.vkaraisk.74	415.82	416.17	ME	D	bck	-1	0	Uh .
+IS1001d.A.dialog-act.vkaraisk.91	419.56	426.03	PM	A	inf	-1	0	which make it uh like new also .
+IS1001d.A.dialog-act.vkaraisk.92	426.03	427.61	PM	A	ass	+1	1	I think I would give a five .
+IS1001d.C.dialog-act.vkaraisk.20	428.3	429.15	UI	C	ass	+1	1	It's {gap} four .
+IS1001d.A.dialog-act.vkaraisk.93	429.59	429.84	PM	A	und	-1	0	Four ?
+IS1001d.B.dialog-act.vkaraisk.14	429.69	431.48	ID	B	ass	+1	1	A four also ,
+IS1001d.B.dialog-act.vkaraisk.15	431.48	434.75	ID	B	inf	+1	1	because , except for the wheel , we don't have so much innovation .
+IS1001d.C.dialog-act.vkaraisk.21	431.21	431.44	UI	C	bck	-1	0	Yeah .
+IS1001d.B.dialog-act.vkaraisk.16	434.75	435.744	ID	B	fra	-1	0	The rubber is {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.94	436.07	436.48	PM	A	und	-1	0	Okay .
+IS1001d.B.dialog-act.vkaraisk.17	436.72	437.695	ID	B	fra	-1	0	Uh a four . I I {disfmarker}
+IS1001d.C.dialog-act.vkaraisk.22	436.39	436.5	UI	C	fra	-1	0	D
+IS1001d.C.dialog-act.vkaraisk.23	436.5	438.49	UI	C	fra	-1	0	are we including the voice {disfmarker} are you glu
+IS1001d.C.dialog-act.vkaraisk.24	438.49	441.29	UI	C	el.inf	+1	1	are we including the voice in the end or not ? Huh ?
+IS1001d.A.dialog-act.vkaraisk.95	440.68	440.99	PM	A	inf	+1	1	No .
+IS1001d.C.dialog-act.vkaraisk.25	441.29	442.5	UI	C	und	-1	0	No . Okay .
+IS1001d.A.dialog-act.vkaraisk.96	443.86	445.15	PM	A	stl	-1	0	So
+IS1001d.D.dialog-act.vkaraisk.76	444.46	444.64	ME	D	inf	-1	0	No .
+IS1001d.A.dialog-act.vkaraisk.97	445.15	447.32	PM	A	el.ass	-1	0	what's your uh grade ?
+IS1001d.D.dialog-act.vkaraisk.75	446.58	446.85	ME	D	ass	-1	0	Four .
+IS1001d.A.dialog-act.vkaraisk.98	447.32	448.26	PM	A	und	-1	0	Four ?
+IS1001d.A.dialog-act.vkaraisk.99	448.26	450.43	PM	A	inf	-1	0	So we have four , four f and five ?
+IS1001d.D.dialog-act.vkaraisk.77	450.27	451.97	ME	D	el.ass	-1	0	We can put four ?
+IS1001d.C.dialog-act.vkaraisk.26	450.8	451.63	UI	C	ass	-1	0	Yeah .
+IS1001d.A.dialog-act.vkaraisk.100	451.67	455.01	PM	A	ass	+1	1	Yeah , four . Four , yeah , let's put four .
+IS1001d.C.dialog-act.vkaraisk.27	451.63	452.49	UI	C	inf	-1	0	For twenty five .
+IS1001d.D.dialog-act.vkaraisk.78	451.97	452.92	ME	D	el.ass	-1	0	Everyone is okay
+IS1001d.D.dialog-act.vkaraisk.79	452.92	453.89	ME	D	fra	-1	0	or {disfmarker} four poin
+IS1001d.D.dialog-act.vkaraisk.80	454.64	454.97	ME	D	inf	-1	0	Four .
+IS1001d.C.dialog-act.vkaraisk.28	455.31	455.45	UI	C	ass	-1	0	Yeah .
+IS1001d.D.dialog-act.vkaraisk.81	457.52	458.59	ME	D	oth	-1	0	Okay .
+IS1001d.A.dialog-act.vkaraisk.101	458.66	461.255	PM	A	fra	-1	0	Doesn't it {disfmarker} {vocalsound}
+IS1001d.D.dialog-act.vkaraisk.82	461.53	464.64	ME	D	el.ass	+1	1	Very easy to use . Do you think it's easy to use ?
+IS1001d.A.dialog-act.vkaraisk.102	465.44	469.36	PM	A	ass	-1	0	Yeah , I think so . Yeah .
+IS1001d.B.dialog-act.vkaraisk.18	465.38	465.58	ID	B	ass	-1	0	Yeah .
+IS1001d.C.dialog-act.vkaraisk.29	465.86	466.91	UI	C	ass	+1	1	I give a seven , I think .
+IS1001d.B.dialog-act.vkaraisk.19	467.44	467.94	ID	B	ass	-1	0	Six .
+IS1001d.A.dialog-act.vkaraisk.103	469.36	474.43	PM	A	ass	-1	0	I would give a {disfmarker} I would give a seven as well .
+IS1001d.A.dialog-act.vkaraisk.104	474.43	475.69	PM	A	ass	-1	0	It's very easy to use .
+IS1001d.B.dialog-act.vkaraisk.20	476.04	476.51	ID	B	ass	-1	0	Six .
+IS1001d.D.dialog-act.vkaraisk.83	475.8	477.37	ME	D	ass	+1	1	Mm , six for me also .
+IS1001d.A.dialog-act.vkaraisk.105	478.2	478.97	PM	A	stl	-1	0	So
+IS1001d.C.dialog-act.vkaraisk.30	478.33	478.73	UI	C	und	-1	0	'Kay .
+IS1001d.D.dialog-act.vkaraisk.84	478.24	480.92	ME	D	inf	-1	0	Six point five . {vocalsound}
+IS1001d.A.dialog-act.vkaraisk.106	478.97	480.0	PM	A	inf	+1	1	six point five .
+IS1001d.B.dialog-act.vkaraisk.21	479.25	480.6	ID	B	inf	-1	0	Six six six point five .
+IS1001d.A.dialog-act.vkaraisk.107	481.38	481.83	PM	A	ass	-1	0	Okay .
+IS1001d.D.dialog-act.vkaraisk.85	480.92	481.46	ME	D	ass	-1	0	Okay .
+IS1001d.D.dialog-act.vkaraisk.86	482.944	487.71	ME	D	el.ass	+1	1	{vocalsound} Is it fashion ? {vocalsound}
+IS1001d.A.dialog-act.vkaraisk.108	485.94	486.36	PM	A	ass	-1	0	Oh yeah ,
+IS1001d.C.dialog-act.vkaraisk.31	485.568	485.776	UI	C	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.109	486.36	489.13	PM	A	inf	+1	1	its its f its fruit fruit shape .
+IS1001d.D.dialog-act.vkaraisk.87	487.71	489.758	ME	D	el.ass	-1	0	Seven ? {vocalsound}
+IS1001d.A.dialog-act.vkaraisk.110	489.13	490.71	PM	A	ass	+1	1	I would say seven .
+IS1001d.A.dialog-act.vkaraisk.111	490.71	492.92	PM	A	ass	-1	0	And is very very nice design .
+IS1001d.D.dialog-act.vkaraisk.88	491.9	492.8	ME	D	ass	+1	1	Yeah it's fashion ,
+IS1001d.D.dialog-act.vkaraisk.90	492.8	493.74	ME	D	inf	-1	0	because it's a fruit ,
+IS1001d.C.dialog-act.vkaraisk.32	493.89	494.09	UI	C	ass	-1	0	Yeah ,
+IS1001d.C.dialog-act.vkaraisk.33	494.09	495.54	UI	C	ass	+1	1	we can we can put a seven here .
+IS1001d.D.dialog-act.vkaraisk.91	493.74	495.86	ME	D	fra	-1	0	and we say that the {disfmarker}
+IS1001d.B.dialog-act.vkaraisk.22	495.83	496.76	ID	B	ass	-1	0	Yeah , seven .
+IS1001d.C.dialog-act.vkaraisk.34	495.54	495.77	UI	C	ass	-1	0	Yeah .
+IS1001d.D.dialog-act.vkaraisk.93	495.86	496.53	ME	D	ass	-1	0	yeah , seven .
+IS1001d.A.dialog-act.vkaraisk.112	496.61	497.29	PM	A	ass	-1	0	Yeah . Seven , okay .
+IS1001d.C.dialog-act.vkaraisk.35	496.68	498.21	UI	C	stl	-1	0	Yeah . Well ,
+IS1001d.C.dialog-act.vkaraisk.36	498.21	498.79	UI	C	oth	-1	0	we hope .
+IS1001d.B.dialog-act.vkaraisk.23	499.136	500.9	ID	B	el.ass	+1	1	{vocalsound} Easy to find .
+IS1001d.D.dialog-act.vkaraisk.94	499.424	505.947	ME	D	el.ass	-1	0	{vocalsound} Uh easy to find in a room ? {vocalsound}
+IS1001d.A.dialog-act.vkaraisk.113	501.584	504.732	PM	A	fra	-1	0	{vocalsound}
+IS1001d.B.dialog-act.vkaraisk.24	501.757	506.032	ID	B	be.pos	-1	0	{vocalsound} I lost my banana . {vocalsound}
+IS1001d.C.dialog-act.vkaraisk.37	502.215	506.176	UI	C	fra	-1	0	{vocalsound} {vocalsound}
+IS1001d.A.dialog-act.vkaraisk.114	506.13	507.61	PM	A	ass	+1	1	I think you can't miss it .
+IS1001d.C.dialog-act.vkaraisk.38	507.741	508.72	UI	C	ass	-1	0	{vocalsound} Yeah .
+IS1001d.A.dialog-act.vkaraisk.115	509.35	509.72	PM	A	oth	-1	0	Okay .
+IS1001d.D.dialog-act.vkaraisk.95	509.2	509.44	ME	D	el.ass	-1	0	Yeah ?
+IS1001d.B.dialog-act.vkaraisk.25	509.72	510.54	ID	B	oth	-1	0	Uh .
+IS1001d.C.dialog-act.vkaraisk.39	510.16	510.29	UI	C	ass	-1	0	Yeah ,
+IS1001d.C.dialog-act.vkaraisk.40	510.29	511.91	UI	C	ass	+1	1	I think it's cool .
+IS1001d.C.dialog-act.vkaraisk.41	511.91	513.39	UI	C	ass	-1	0	I think we can put a six here .
+IS1001d.D.dialog-act.vkaraisk.96	513.43	515.15	ME	D	inf	+1	1	We have the lightning ,
+IS1001d.D.dialog-act.vkaraisk.97	515.15	515.536	ME	D	fra	-1	0	or {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.116	516.9	517.24	PM	A	ass	-1	0	Yeah ,
+IS1001d.A.dialog-act.vkaraisk.117	517.24	519.07	PM	A	fra	-1	0	we have {vocalsound} the {vocalsound}
+IS1001d.D.dialog-act.vkaraisk.98	516.99	517.56	ME	D	inf	-1	0	The lighting .
+IS1001d.A.dialog-act.vkaraisk.118	519.07	521.18	PM	A	ass	-1	0	we don't sesh especially have the lightning
+IS1001d.C.dialog-act.vkaraisk.42	519.778	521.93	UI	C	el.ass	+1	1	{vocalsound} So you'll make the material transparent
+IS1001d.A.dialog-act.vkaraisk.119	521.18	521.701	PM	A	fra	-1	0	but {disfmarker}
+IS1001d.D.dialog-act.vkaraisk.99	520.816	521.9	ME	D	fra	-1	0	{vocalsound}
+IS1001d.C.dialog-act.vkaraisk.43	521.93	523.85	UI	C	inf	+1	1	so that it uh lights up completely ,
+IS1001d.C.dialog-act.vkaraisk.44	523.85	524.208	UI	C	fra	-1	0	or {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.120	524.48	524.78	PM	A	stl	-1	0	So
+IS1001d.A.dialog-act.vkaraisk.121	524.78	525.46	PM	A	inf	-1	0	it's yellow .
+IS1001d.A.dialog-act.vkaraisk.122	525.46	526.04	PM	A	ass	-1	0	It's okay .
+IS1001d.D.dialog-act.vkaraisk.100	525.444	527.522	ME	D	bck	-1	0	{vocalsound} Yeah . {gap}
+IS1001d.A.dialog-act.vkaraisk.123	526.04	528.99	PM	A	ass	-1	0	I think it's very easy to {vocalsound} {disfmarker}
+IS1001d.D.dialog-act.vkaraisk.101	528.02	528.43	ME	D	el.ass	-1	0	Seven ?
+IS1001d.A.dialog-act.vkaraisk.124	528.99	530.2	PM	A	ass	+1	1	I would say seven .
+IS1001d.A.dialog-act.vkaraisk.125	530.2	531.17	PM	A	inf	-1	0	It's hard to miss it .
+IS1001d.B.dialog-act.vkaraisk.26	529.904	532.15	ID	B	ass	-1	0	{vocalsound} Six .
+IS1001d.B.dialog-act.vkaraisk.27	532.15	533.18	ID	B	ass	-1	0	Yeah , okay .
+IS1001d.C.dialog-act.vkaraisk.45	532.45	532.67	UI	C	bck	-1	0	Yeah .
+IS1001d.D.dialog-act.vkaraisk.102	532.66	534.02	ME	D	el.ass	+1	1	Is it {disfmarker} is it robust ?
+IS1001d.A.dialog-act.vkaraisk.126	535.22	535.38	PM	A	ass	-1	0	Yeah ,
+IS1001d.A.dialog-act.vkaraisk.127	535.38	538.19	PM	A	inf	+1	1	it's rubber , made of rubber ,
+IS1001d.B.dialog-act.vkaraisk.28	535.54	536.27	ID	B	ass	-1	0	Uh f yeah ,
+IS1001d.B.dialog-act.vkaraisk.29	536.27	537.57	ID	B	inf	-1	0	it's ru it's rubber .
+IS1001d.A.dialog-act.vkaraisk.128	538.19	543.31	PM	A	inf	-1	0	I think it's m it's uh more rubber than uh other remote control .
+IS1001d.B.dialog-act.vkaraisk.30	541.92	543.23	ID	B	ass	-1	0	Yeah . {vocalsound}
+IS1001d.C.dialog-act.vkaraisk.46	542.71	543.09	UI	C	ass	-1	0	Yeah
+IS1001d.C.dialog-act.vkaraisk.47	543.09	547.26	UI	C	ass	+1	1	the only problem there might be {disfmarker} which {gap} know , i if it's very sensitive ,
+IS1001d.A.dialog-act.vkaraisk.129	547.19	548.87	PM	A	stl	-1	0	Yeah .
+IS1001d.C.dialog-act.vkaraisk.48	547.26	548.16	UI	C	oth	-1	0	they will ,
+IS1001d.B.dialog-act.vkaraisk.31	547.97	548.21	ID	B	bck	-1	0	Yeah .
+IS1001d.C.dialog-act.vkaraisk.49	548.16	548.608	UI	C	ass	-1	0	I don't know {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.130	548.87	552.66	PM	A	inf	+1	1	But it is uh {disfmarker} it is surrounded by rubber material .
+IS1001d.B.dialog-act.vkaraisk.32	551.99	552.29	ID	B	bck	-1	0	Yeah .
+IS1001d.C.dialog-act.vkaraisk.50	551.56	552.42	UI	C	bck	-1	0	Yeah , okay .
+IS1001d.A.dialog-act.vkaraisk.131	552.66	554.17	PM	A	ass	+1	1	So maybe we can put a six .
+IS1001d.B.dialog-act.vkaraisk.33	554.79	555.04	ID	B	ass	-1	0	Yeah .
+IS1001d.C.dialog-act.vkaraisk.51	554.93	555.1	UI	C	bck	-1	0	Mm .
+IS1001d.D.dialog-act.vkaraisk.103	555.283	558.35	ME	D	el.ass	+1	1	{vocalsound} Everybody is okay , six .
+IS1001d.B.dialog-act.vkaraisk.34	556.29	558.49	ID	B	ass	-1	0	Six or five . Five {vocalsound}
+IS1001d.A.dialog-act.vkaraisk.132	558.46	559.34	PM	A	ass	-1	0	Six is okay ?
+IS1001d.C.dialog-act.vkaraisk.52	558.72	560.05	UI	C	ass	-1	0	Six , yeah , for me .
+IS1001d.B.dialog-act.vkaraisk.35	559.77	560.22	ID	B	ass	-1	0	Six .
+IS1001d.D.dialog-act.vkaraisk.104	559.78	562.23	ME	D	stl	-1	0	Yeah . {vocalsound} Okay .
+IS1001d.A.dialog-act.vkaraisk.133	561.52	561.79	PM	A	bck	-1	0	Yeah .
+IS1001d.C.dialog-act.vkaraisk.53	561.78	562.06	UI	C	bck	-1	0	Yeah .
+IS1001d.D.dialog-act.vkaraisk.105	562.23	562.34	ME	D	fra	-1	0	S
+IS1001d.D.dialog-act.vkaraisk.106	562.34	565.75	ME	D	stl	-1	0	now {vocalsound} um so .
+IS1001d.A.dialog-act.vkaraisk.134	563.65	564.46	PM	A	oth	-1	0	Tadada .
+IS1001d.A.dialog-act.vkaraisk.135	566.44	567.78	PM	A	sug	+1	1	We have to sum up everything .
+IS1001d.C.dialog-act.vkaraisk.54	566.61	567.67	UI	C	inf	-1	0	Twenty .
+IS1001d.D.dialog-act.vkaraisk.107	567.06	574.75	ME	D	inf	-1	0	Thirteen uh , twenty , twenty six point five , uh seven , thirty two , thirty six {gap} .
+IS1001d.C.dialog-act.vkaraisk.55	572.37	573.45	UI	C	inf	-1	0	Thirty . Thir
+IS1001d.D.dialog-act.vkaraisk.108	574.75	575.86	ME	D	el.ass	-1	0	That's that's okay ?
+IS1001d.D.dialog-act.vkaraisk.109	578.05	578.43	ME	D	inf	-1	0	Six .
+IS1001d.A.dialog-act.vkaraisk.136	580.32	582.192	PM	A	ass	+1	1	{vocalsound} Six is a good {disfmarker}
+IS1001d.C.dialog-act.vkaraisk.56	580.6	580.84	UI	C	ass	-1	0	Okay .
+IS1001d.D.dialog-act.vkaraisk.110	581.91	582.78	ME	D	oth	-1	0	Good .
+IS1001d.D.dialog-act.vkaraisk.112	582.78	586.71	ME	D	inf	+1	1	Uh if we say that seven it's uh it's the better ,
+IS1001d.A.dialog-act.vkaraisk.137	585.8	586.04	PM	A	ass	-1	0	Yeah ,
+IS1001d.A.dialog-act.vkaraisk.138	586.04	586.37	PM	A	fra	-1	0	the be .
+IS1001d.B.dialog-act.vkaraisk.36	585.655	586.465	ID	B	fra	-1	0	{gap}
+IS1001d.C.dialog-act.vkaraisk.57	585.64	586.461	UI	C	ass	-1	0	Yeah , the top {disfmarker}
+IS1001d.D.dialog-act.vkaraisk.111	586.71	590.95	ME	D	ass	+1	2	and when uh s six sit six are good {disfmarker} it's a good uh p product , I think .
+IS1001d.A.dialog-act.vkaraisk.139	587.91	588.44	PM	A	stl	-1	0	Okay , so
+IS1001d.A.dialog-act.vkaraisk.140	588.44	589.491	PM	A	fra	-1	0	six is a {disfmarker}
+IS1001d.C.dialog-act.vkaraisk.58	588.11	588.38	UI	C	bck	-1	0	Mm .
+IS1001d.C.dialog-act.vkaraisk.59	590.35	591.54	UI	C	be.pos	-1	0	So will become eight soon ?
+IS1001d.A.dialog-act.vkaraisk.141	592.16	594.7	PM	A	ass	+1	2	So it's a good evaluation , I think .
+IS1001d.A.dialog-act.vkaraisk.142	594.7	596.01	PM	A	ass	-1	0	It's very promising .
+IS1001d.C.dialog-act.vkaraisk.60	596.21	596.45	UI	C	stl	-1	0	Yeah , well
+IS1001d.C.dialog-act.vkaraisk.61	596.45	601.167	UI	C	ass	-1	0	it's a bit biased . {vocalsound}
+IS1001d.A.dialog-act.vkaraisk.143	600.22	600.37	PM	A	bck	-1	0	Huh .
+IS1001d.D.dialog-act.vkaraisk.113	599.81	601.08	ME	D	ass	+1	2	We have a good price
+IS1001d.D.dialog-act.vkaraisk.114	601.08	602.06	ME	D	fra	-1	0	and uh {vocalsound} .
+IS1001d.B.dialog-act.vkaraisk.37	602.47	602.85	ID	B	ass	-1	0	Yeah .
+IS1001d.A.dialog-act.vkaraisk.144	604.52	607.696	PM	A	ass	+1	2	So this prototype is quite nice . {vocalsound}
+IS1001d.C.dialog-act.vkaraisk.62	604.11	604.51	UI	C	bck	-1	0	Okay .
+IS1001d.D.dialog-act.vkaraisk.115	604.15	604.6	ME	D	be.pos	-1	0	Good .
+IS1001d.C.dialog-act.vkaraisk.63	607.78	615.47	UI	C	inf	-1	0	Because I saw uh some phones that were banana shaped , uh wireless phones not mobile ones , wireless for the house ,
+IS1001d.D.dialog-act.vkaraisk.116	609.665	610.265	ME	D	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.145	611.49	611.73	PM	A	bck	-1	0	Yeah .
+IS1001d.A.dialog-act.vkaraisk.146	614.29	614.67	PM	A	bck	-1	0	Okay .
+IS1001d.C.dialog-act.vkaraisk.64	615.47	617.01	UI	C	inf	-1	0	uh quite big also ,
+IS1001d.D.dialog-act.vkaraisk.117	615.131	615.626	ME	D	fra	-1	0	{vocalsound}
+IS1001d.C.dialog-act.vkaraisk.65	617.01	622.58	UI	C	inf	-1	0	and they were selling {gap} something like a hundred Euros , two hundred Euros .
+IS1001d.A.dialog-act.vkaraisk.147	622.912	623.344	PM	A	fra	-1	0	{vocalsound}
+IS1001d.C.dialog-act.vkaraisk.66	623.78	625.63	UI	C	inf	-1	0	Just a {vocalsound} just a phone , wireless .
+IS1001d.A.dialog-act.vkaraisk.148	625.41	630.57	PM	A	ass	+1	1	So having this at twenty five Euros is uh quite attractive , I think .
+IS1001d.B.dialog-act.vkaraisk.38	625.33	625.65	ID	B	bck	-1	0	Mm-hmm .
+IS1001d.C.dialog-act.vkaraisk.67	630.2	630.54	UI	C	ass	-1	0	Yeah .
+IS1001d.A.dialog-act.vkaraisk.149	632.06	632.912	PM	A	fra	-1	0	I think the {disfmarker}
+IS1001d.B.dialog-act.vkaraisk.39	632.33	638.39	ID	B	inf	-1	0	But almo also the complexity between a phone and a remote control is not {disfmarker} cannot compare .
+IS1001d.C.dialog-act.vkaraisk.68	637.49	639.13	UI	C	ass	-1	0	Yeah . Yeah ,
+IS1001d.A.dialog-act.vkaraisk.150	639.04	639.4	PM	A	ass	-1	0	Yeah .
+IS1001d.C.dialog-act.vkaraisk.69	639.13	639.96	UI	C	inf	-1	0	it's much more complex ,
+IS1001d.C.dialog-act.vkaraisk.70	639.96	640.222	UI	C	fra	-1	0	but {disfmarker}
+IS1001d.A.dialog-act.vkaraisk.151	641.88	643.03	PM	A	stl	-1	0	So ,
+IS1001d.A.dialog-act.vkaraisk.152	643.03	645.73	PM	A	sug	-1	0	I think , we can summarise .
+IS1001d.A.dialog-act.vkaraisk.153	645.73	646.15	PM	A	stl	-1	0	So
+IS1001d.A.dialog-act.vkaraisk.154	646.15	647.37	PM	A	inf	+1	1	we have seen the prototype .
+IS1001d.A.dialog-act.vkaraisk.155	647.37	654.05	PM	A	ass	+1	1	It's very nice according to the work of our two designer .
+IS1001d.B.dialog-act.vkaraisk.40	652.419	653.906	ID	B	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.156	654.05	658.66	PM	A	inf	+1	2	The the the financial aspect were okay .
+IS1001d.A.dialog-act.vkaraisk.157	658.66	662.51	PM	A	inf	+1	2	We we have the cost below uh our threshold
+IS1001d.A.dialog-act.vkaraisk.158	662.51	665.77	PM	A	inf	+1	2	and so we could sell at twenty five Euros
+IS1001d.A.dialog-act.vkaraisk.159	665.77	667.58	PM	A	inf	+1	2	and make i make profit .
+IS1001d.A.dialog-act.vkaraisk.160	668.73	675.08	PM	A	ass	+1	2	The the evaluation give satisfying result as well .
+IS1001d.A.dialog-act.vkaraisk.161	675.08	678.29	PM	A	sug	-1	0	So I think we can move to the last part of the meeting .
+IS1001d.D.dialog-act.vkaraisk.118	680.24	680.864	ME	D	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.162	680.8	682.35	PM	A	stl	-1	0	So
+IS1001d.A.dialog-act.vkaraisk.163	682.35	685.35	PM	A	inf	+1	1	the cost is in the budget ,
+IS1001d.A.dialog-act.vkaraisk.164	685.35	687.09	PM	A	inf	+1	1	the evaluation is okay ,
+IS1001d.A.dialog-act.vkaraisk.165	687.09	689.68	PM	A	sug	+1	1	so I th I think we can now uh open champagne
+IS1001d.A.dialog-act.vkaraisk.166	689.68	692.7	PM	A	sug	-1	0	and make a huge party .
+IS1001d.B.dialog-act.vkaraisk.41	689.982	695.296	ID	B	be.pos	-1	0	{vocalsound} Start to eat banana . {vocalsound}
+IS1001d.C.dialog-act.vkaraisk.71	690.346	691.395	UI	C	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.167	692.7	700.16	PM	A	inf	-1	0	I don't know if it's provided by uh by the meeting staff .
+IS1001d.C.dialog-act.vkaraisk.72	697.851	698.591	UI	C	fra	-1	0	{vocalsound}
+IS1001d.D.dialog-act.vkaraisk.120	698.69	699.09	ME	D	bck	-1	0	Mm-hmm .
+IS1001d.C.dialog-act.vkaraisk.73	699.62	700.09	UI	C	stl	-1	0	Okay .
+IS1001d.A.dialog-act.vkaraisk.168	700.16	701.0	PM	A	stl	-1	0	{vocalsound} Okay so
+IS1001d.A.dialog-act.vkaraisk.169	701.0	702.06	PM	A	be.pos	-1	0	congratulation .
+IS1001d.A.dialog-act.vkaraisk.170	703.137	704.25	PM	A	be.pos	-1	0	{vocalsound} Nice product .
+IS1001d.B.dialog-act.vkaraisk.42	703.12	703.33	ID	B	ass	-1	0	Yeah .
+IS1001d.C.dialog-act.vkaraisk.74	702.901	704.53	UI	C	be.pos	+1	1	{vocalsound} Congratulations to the team .
+IS1001d.C.dialog-act.vkaraisk.75	704.53	706.82	UI	C	ass	+1	1	Uh very well , we worked together fantastically .
+IS1001d.D.dialog-act.vkaraisk.121	704.575	706.213	ME	D	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.171	706.76	706.96	PM	A	ass	-1	0	Yeah .
+IS1001d.B.dialog-act.vkaraisk.43	706.992	707.952	ID	B	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.172	708.2	710.81	PM	A	ass	+1	1	I think it was a good collaboration uh .
+IS1001d.A.dialog-act.vkaraisk.173	711.99	712.51	PM	A	ass	-1	0	Aspect .
+IS1001d.C.dialog-act.vkaraisk.76	711.689	713.09	UI	C	stl	-1	0	{vocalsound} So
+IS1001d.C.dialog-act.vkaraisk.77	713.09	714.07	UI	C	el.inf	-1	0	what does the management say ?
+IS1001d.A.dialog-act.vkaraisk.174	715.6	715.94	PM	A	und	-1	0	Sorry ?
+IS1001d.C.dialog-act.vkaraisk.78	716.01	717.7	UI	C	el.inf	-1	0	What does the management say ?
+IS1001d.A.dialog-act.vkaraisk.175	717.98	723.24	PM	A	inf	-1	0	I think we will have um much bigger project next time and a much bigger salary as well .
+IS1001d.C.dialog-act.vkaraisk.79	723.48	723.81	UI	C	und	-1	0	Ah .
+IS1001d.B.dialog-act.vkaraisk.44	724.089	725.896	ID	B	fra	-1	0	{vocalsound}
+IS1001d.D.dialog-act.vkaraisk.122	724.231	725.796	ME	D	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.176	724.93	732.16	PM	A	be.pos	-1	0	All it depends on who watch this meeting .
+IS1001d.B.dialog-act.vkaraisk.45	726.919	727.572	ID	B	fra	-1	0	{vocalsound}
+IS1001d.C.dialog-act.vkaraisk.80	727.568	729.312	UI	C	fra	-1	0	{vocalsound}
+IS1001d.B.dialog-act.vkaraisk.46	730.64	732.641	ID	B	bck	-1	0	{vocalsound} Yeah . {vocalsound}
+IS1001d.A.dialog-act.vkaraisk.177	732.16	733.499	PM	A	inf	-1	0	{vocalsound} We don't know . {vocalsound}
+IS1001d.C.dialog-act.vkaraisk.81	733.17	733.47	UI	C	bck	-1	0	Yeah .
+IS1001d.A.dialog-act.vkaraisk.179	734.64	737.39	PM	A	stl	-1	0	Okay , so
+IS1001d.C.dialog-act.vkaraisk.83	735.14	735.45	UI	C	oth	-1	0	Okay .
+IS1001d.A.dialog-act.vkaraisk.180	737.39	738.87	PM	A	be.pos	-1	0	good guys {vocalsound} ,
+IS1001d.D.dialog-act.vkaraisk.123	737.643	739.286	ME	D	fra	-1	0	{vocalsound}
+IS1001d.A.dialog-act.vkaraisk.181	738.87	741.59	PM	A	inf	-1	0	so see you for next uh successful project . {vocalsound}
+IS1001d.B.dialog-act.vkaraisk.47	738.75	739.44	ID	B	oth	-1	0	Okay .
+IS1001d.B.dialog-act.vkaraisk.48	742.68	743.35	ID	B	ass	-1	0	Yeah .
+IS1001d.B.dialog-act.vkaraisk.49	743.35	743.99	ID	B	oth	-1	0	Fruits .
+IS1001d.D.dialog-act.vkaraisk.124	744.61	744.81	ME	D	oth	-1	0	Mm 'kay .
+IS1001d.C.dialog-act.vkaraisk.84	751.73	751.76	UI	C	oth	-1	0	Mm .

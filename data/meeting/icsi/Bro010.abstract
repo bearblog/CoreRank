@@ -1,0 +1,30 @@
+2	Bro010.s.1	The Berkeley Meeting Recorder Group discussed the progress of several of their members.
+Bro010.C.dialogueact34	65.893	66.773	C	Professor	qw^rt	+1	2	So what are you doing ?
+Bro010.B.dialogueact36	68.29	80.681	B	PhD	h|s	+1	3	Uh , well , we 've {disfmarker} a little bit worked on trying to see , uh , what were the bugs and the problem with the latencies .
+0	Bro010.s.2	The progress being made on the group's main project , a speech recogniser for the cellular industry was reported.
+18	Bro010.s.3	The group also touched upon matters that had broader implications for the work , such as the work of other groups on the same project.
+Bro010.C.dialogueact66	152.87	155.07	C	Professor	qy^d^rt	+1	3	You {disfmarker} you had a discussion with Sunil about this though ?
+Bro010.B.dialogueact67	155.23	155.46	B	PhD	s^ar	+1	2	No .
+Bro010.C.dialogueact70	158.544	159.384	C	Professor	s^cs^ng	+1	2	Yeah , you should talk with him .
+Bro010.C.dialogueact78	168.39	171.32	C	Professor	s^df	+1	2	uh , cuz they could be doing the same thing and {disfmarker} or something .
+Bro010.C.dialogueact95	194.922	196.962	C	Professor	s^co	+1	2	We just {disfmarker} we just have to be in contact more .
+Bro010.C.dialogueact96	196.962	203.66	C	Professor	s^df	+1	2	I think that {disfmarker} the {disfmarker} the fact that we {disfmarker} we did that with {disfmarker} had that thing with the latencies was indicative of the fact that there wasn't enough communication .
+Bro010.B.dialogueact161	365.892	369.292	B	PhD	s^bd	+1	2	But , well , when we add up everything it 's {disfmarker} it will be alright .
+Bro010.B.dialogueact170	384.809	386.839	B	PhD	s	+1	3	So it would be around two hundred and forty {disfmarker}
+Bro010.A.dialogueact175	391.33	392.19	A	PhD	qw^rt	+1	3	What 's the allowable ?
+Bro010.C.dialogueact176	392.4	392.87	C	Professor	s	+1	3	Two - fifty ,
+Bro010.C.dialogueact183	401.334	409.576	C	Professor	h|s	+1	3	Uh , well the people who had very low latency want it to be low {disfmarker} uh , very {disfmarker} {vocalsound} very very narrow , uh , latency bound .
+Bro010.C.dialogueact188	413.229	415.059	C	Professor	s	+1	3	Unfortunately we 're the main ones with long latency ,
+Bro010.A.dialogueact289	641.84	649.624	A	PhD	s	+1	2	A person {disfmarker} I don't think a person can tell the difference between , uh , you know , a quarter of a second and a hundred milliseconds ,
+Bro010.A.dialogueact292	650.75	653.27	A	PhD	s	+1	2	I 'm not even sure if we can tell the difference between a quarter of a second and half a second .
+Bro010.A.dialogueact294	653.956	655.846	A	PhD	s^df	+1	2	I mean it just {disfmarker} it feels so quick .
+Bro010.C.dialogueact434	916.058	931.8	C	Professor	s	+1	3	uh , one thing that would be no {disfmarker} good to find out about from this conference call is that what they were talking about , what they 're proposing doing , was having a third party , um , run a good VAD , and {disfmarker} and determine boundaries .
+Bro010.C.dialogueact436	933.174	937.728	C	Professor	s	+1	3	And then given those boundaries , then have everybody do the recognition .
+Bro010.C.dialogueact447	972.191	974.041	C	Professor	s	+1	2	uh , I guess they argued about that yesterday
+6	Bro010.s.4	There were also some progress reports from group members working on other projects.
+Bro010.C.dialogueact795	1650.38	1652.87	C	Professor	s^co^t^tc	+1	2	Uh , maybe we can talk about a couple other things briefly ,
+Bro010.C.dialogueact798	1658.13	1661.75	C	Professor	s	+1	2	So you 're coming up with your quals proposal ,
+Bro010.E.dialogueact807	1677.49	1685.82	E	Grad	fh|s^cc	+1	2	Um , but I 'm , uh , looking into extending the work done by Larry Saul and John Allen and uh Mazin Rahim .
+Bro010.C.dialogueact1130	2489.47	2495.96	C	Professor	fh|qy^co^d^rt^tc	+1	2	so , uh , y you want to talk maybe a c two or three minutes about what we 've been talking about today and other days ?
+Bro010.F.dialogueact1135	2498.31	2502.89	F	Grad	s	+1	2	we 're interested in , um , methods for far mike speech recognition ,
+Bro010.F.dialogueact1136	2502.89	2508.16	F	Grad	s^e	+1	2	um , {pause} mainly , uh , methods that deal with the reverberation {pause} in the far mike signal .

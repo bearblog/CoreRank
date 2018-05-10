@@ -1,0 +1,5 @@
+The Berkeley Meeting Recorder group discussed the collection status for a set of connected digits recordings that are nearly complete and ready to be trained on a recognizer.
+Anticipated results were discussed in reference to results obtained for other digits corpora , i.e . Aurora and TI-digits.
+The group also considered the prospect of performing fine-grained acoustic-phonetic analyses on a subset of Meeting Recorder digits or Switchboard data.
+Pre-segmentation manipulations that allow for the segmentation of channel-specific speech/non-speech portions of the signal and the distinction of foreground versus background speech were discussed.
+Finally , speaker fe008 and fe016 reported on new efforts to adapt transcriptions to the needs of the SRI recognizer , including conventions for encoding acronyms , numbers , ambient noise , and unidentified inbreaths.

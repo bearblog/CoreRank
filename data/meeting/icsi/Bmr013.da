@@ -1,0 +1,1061 @@
+Bmr013.B.dialogueact1	98.41	98.71	B	Postdoc	s^tc.%	-1	0	Alright .
+Bmr013.C.dialogueact0	98.198	99.398	C	Professor	%-	-1	0	So , uh {disfmarker}
+Bmr013.F.dialogueact2	98.787	102.127	F	Grad	fg|s^t.x	-1	0	Um , so I wanted to discuss digits briefly , but that won't take too long .
+Bmr013.C.dialogueact3	100.188	100.508	C	Professor	s^ba	-1	0	Oh good .
+Bmr013.C.dialogueact4	101.238	101.458	C	Professor	b.x	-1	0	Right .
+Bmr013.C.dialogueact5	102.34	103.67	C	Professor	s^bk^rt^t	-1	0	OK , agenda items ,
+Bmr013.C.dialogueact6	104.79	105.87	C	Professor	fh|s^rt.x	-1	0	Uh , we have digits ,
+Bmr013.C.dialogueact7	106.4	106.94	C	Professor	qw^t	-1	0	What else we got ?
+Bmr013.A.dialogueact8	107.74	109.41	A	PhD	s^cs^rt.x	+1	1	New version of the presegmentation .
+Bmr013.C.dialogueact9	109.86	112.19	C	Professor	s^bk^m^rt	+1	1	New version of presegmentation .
+Bmr013.B.dialogueact10	113.425	119.063	B	Postdoc	fg|qy^t	-1	0	Um , do we wanna say something about the , an update of the , uh , transcript ?
+Bmr013.G.dialogueact11	115.35	116.85	G	PhD	s^aa|qy^cs.%-	-1	0	Yeah , why don't you summarize the {disfmarker}
+Bmr013.C.dialogueact12	119.79	121.3	C	Professor	s^bk^m	+1	0	Update on transcripts .
+Bmr013.G.dialogueact13	121.871	127.435	G	PhD	s^e	+1	0	And I guess that includes some {disfmarker} the filtering for the , the ASI refs , too .
+Bmr013.B.dialogueact14	128.318	128.618	B	Postdoc	s^aa	-1	0	Mmm .
+Bmr013.C.dialogueact15	129.17	129.91	C	Professor	qw^br^rt	-1	0	Filtering for what ?
+Bmr013.G.dialogueact16	130.353	136.496	G	PhD	s	-1	0	For the references that we need to go from the {disfmarker} the {pause} fancy transcripts to the sort of {nonvocalsound} brain - dead .
+Bmr013.B.dialogueact17	135.721	139.651	B	Postdoc	s	-1	0	It 'll {disfmarker} it 'll be {disfmarker} basically it 'll be a re - cap of a meeting that we had jointly this morning .
+Bmr013.C.dialogueact18	137.83	138.05	C	Professor	b	-1	0	Uh - huh .
+Bmr013.G.dialogueact19	139.513	140.593	G	PhD	s^e	-1	0	With Don , as well .
+Bmr013.B.dialogueact20	140.489	140.809	B	Postdoc	s^aa	-1	0	Mm - hmm .
+Bmr013.C.dialogueact21	141.163	141.423	C	Professor	s^bk	-1	0	Got it .
+Bmr013.C.dialogueact22	143.911	145.451	C	Professor	qy^d^rt^t.x	-1	0	Anything else more pressing than those things ?
+Bmr013.C.dialogueact23	145.451	147.491	C	Professor	fh|qh^cs^t	-1	0	So {disfmarker} So , why don't we just do those .
+Bmr013.C.dialogueact24	147.491	148.791	C	Professor	s.%--	-1	0	You said yours was brief , so {disfmarker}
+Bmr013.F.dialogueact25	147.82	148.06	F	Grad	s^bk	-1	0	OK .
+Bmr013.F.dialogueact26	149.582	153.332	F	Grad	fg|s^tc	+1	2	OK well , the , w uh as you can see from the numbers on the digits we 're almost done .
+Bmr013.F.dialogueact27	153.462	155.972	F	Grad	s^rt	+1	0	The digits goes up to {pause} about four thousand .
+Bmr013.F.dialogueact28	156.74	166.4	F	Grad	fh|s	+1	0	Um , and so , uh , we probably will be done with the TI - digits in , um , another couple weeks . um , depending on how many we read each time .
+Bmr013.F.dialogueact29	166.95	168.28	F	Grad	s	-1	0	So there were a bunch that we skipped .
+Bmr013.F.dialogueact30	168.41	171.74	F	Grad	s^e^rt	-1	0	You know , someone fills out the form and then they 're not at the meeting and so it 's blank .
+Bmr013.F.dialogueact31	172.25	174.21	F	Grad	fh|s	-1	0	Um , but those are almost all filled in as well .
+Bmr013.F.dialogueact32	174.803	179.343	F	Grad	s^cs	+1	2	And so , once we 're {disfmarker} it 's done it would be very nice to train up a recognizer and actually start working with this data .
+Bmr013.D.dialogueact33	179.649	182.779	D	PhD	qy^bu^d^rt	+1	0	So we 'll have a corpus that 's the size of TI - digits ?
+Bmr013.F.dialogueact34	179.804	180.244	F	Grad	%-	-1	0	And so {disfmarker}
+Bmr013.F.dialogueact35	182.978	184.868	F	Grad	s^e^na	+1	0	One particular test set of TI - digits .
+Bmr013.D.dialogueact36	185.07	185.78	D	PhD	s^m|s^bk	-1	0	Test set , OK .
+Bmr013.F.dialogueact37	185.22	191.52	F	Grad	s	-1	0	So , I {disfmarker} I extracted , Ther - there was a file sitting around which people have used here as a test set .
+Bmr013.F.dialogueact38	191.884	193.384	F	Grad	s	-1	0	It had been randomized and so on
+Bmr013.D.dialogueact39	193.364	194.134	D	PhD	s^bk	-1	0	
+Bmr013.F.dialogueact40	193.384	197.119	F	Grad	s	-1	0	and that 's just what I used to generate the order . of these particular ones .
+Bmr013.D.dialogueact41	194.564	194.914	D	PhD	s^ba	-1	0	Oh ! Great .
+Bmr013.D.dialogueact42	196.021	196.361	D	PhD	s^ba^r	-1	0	Great .
+Bmr013.C.dialogueact44	198.192	209.832	C	Professor	s	+1	0	So , I 'm impressed by what we could do , Is take the standard training set for TI - digits , train up with whatever , you know , great features we think we have , uh for instance , and then test on uh this test set .
+Bmr013.F.dialogueact43	197.73	198.06	F	Grad	fh	-1	0	Um {disfmarker}
+Bmr013.C.dialogueact45	209.962	213.572	C	Professor	s^cs	+1	0	And presumably uh it should do reasonably well on that ,
+Bmr013.C.dialogueact46	213.572	217.842	C	Professor	s^cs	+1	0	and then , presumably , we should go to the distant mike , and it should do poorly .
+Bmr013.D.dialogueact47	214.855	215.175	D	PhD	b	-1	0	Yeah .
+Bmr013.C.dialogueact49	218.4	222.06	C	Professor	s^j	-1	0	And then we should get really smart over the next year or two , and it {disfmarker} that should get better .
+Bmr013.F.dialogueact48	217.95	218.27	F	Grad	s^aa	-1	0	Right .
+Bmr013.F.dialogueact50	221.292	223.392	F	Grad	s^j	-1	0	And inc increase it by one or two percent , yeah .
+Bmr013.C.dialogueact51	222.41	225.157	C	Professor	b	-1	0	Yeah , {vocalsound} Yeah .
+Bmr013.F.dialogueact52	225.357	229.314	F	Grad	fg|s	+1	0	Um , but , in order to do that we need to extract out the actual digits .
+Bmr013.C.dialogueact53	229.776	229.976	C	Professor	s^aa	-1	0	Right .
+Bmr013.F.dialogueact54	230.001	237.311	F	Grad	fh|s	+1	0	Um , so that {disfmarker} the reason it 's not just a transcript is that there 're false starts , and misreads , and miscues and things like that .
+Bmr013.F.dialogueact55	237.651	241.471	F	Grad	s	+1	0	And so I have a set of scripts and X Waves where you just select the portion , hit R ,
+Bmr013.F.dialogueact56	242.002	245.282	F	Grad	fh|s	+1	0	um , it tells you what the next one should be , and you just look for that .
+Bmr013.F.dialogueact57	245.372	249.537	F	Grad	fh|s	-1	0	You know , so it {disfmarker} it 'll put on the screen , " The next set is six nine , nine two two " .
+Bmr013.F.dialogueact58	250.099	254.129	F	Grad	s	-1	0	And you find that , and , hit the key and it records it in a file in a particular format .
+Bmr013.C.dialogueact59	254.47	254.96	C	Professor	qy.%-	-1	0	So is this {disfmarker}
+Bmr013.F.dialogueact60	254.563	258.263	F	Grad	qr	+1	1	And so the {disfmarker} the question is , should we have the transcribers do that or should we just do it ?
+Bmr013.F.dialogueact61	258.826	259.446	F	Grad	s^bsc	-1	0	Well , some of us .
+Bmr013.F.dialogueact62	259.446	263.326	F	Grad	s	-1	0	I 've been do I 've done , eight meetings , something like that , just by hand .
+Bmr013.F.dialogueact63	264.389	265.359	F	Grad	s^bsc	-1	0	Just myself , rather .
+Bmr013.F.dialogueact64	267.497	268.597	F	Grad	s	-1	0	So it will not take long .
+Bmr013.F.dialogueact65	268.847	269.237	F	Grad	fh	-1	0	Um {disfmarker}
+Bmr013.C.dialogueact66	270.63	271.69	C	Professor	fg|qw	-1	0	Uh , what {disfmarker} what do you think ?
+Bmr013.B.dialogueact67	271.468	272.228	B	Postdoc	s.%--	-1	0	My feeling is that
+Bmr013.B.dialogueact68	272.228	273.878	B	Postdoc	s	-1	0	we discussed this right before coffee
+Bmr013.B.dialogueact69	273.878	280.028	B	Postdoc	s^ba^na	+1	1	and I think it 's a {disfmarker} it 's a fine idea partly because , um , it 's not un unrelated to their present skill set ,
+Bmr013.B.dialogueact70	280.553	284.133	B	Postdoc	s	-1	0	but it will add , for them , an extra dimension , it might be an interesting break for them .
+Bmr013.B.dialogueact71	284.183	288.473	B	Postdoc	s	-1	0	And also it is contributing to the , uh , c composition of the transcript
+Bmr013.B.dialogueact72	288.473	291.983	B	Postdoc	s	-1	0	cuz we can incorporate those numbers directly and it 'll be a more complete transcript .
+Bmr013.B.dialogueact73	291.983	293.793	B	Postdoc	s^ba	-1	0	So I 'm {disfmarker} I think it 's fine , that part .
+Bmr013.F.dialogueact74	293.476	294.246	F	Grad	s.%-	-1	0	There is {disfmarker} there is {disfmarker}
+Bmr013.C.dialogueact75	293.99	295.84	C	Professor	qy^bu^d	-1	0	So you think it 's fine to have the transcribers do it ?
+Bmr013.B.dialogueact76	295.825	296.245	B	Postdoc	s^aa	-1	0	Mm - hmm .
+Bmr013.C.dialogueact77	296.21	296.81	C	Professor	s^bk	-1	0	Yeah , OK .
+Bmr013.F.dialogueact78	296.562	305.788	F	Grad	s	-1	0	There 's one other small bit , which is just entering the information which at s which is at the top of this form , onto the computer , to go along with the {disfmarker} where the digits are recorded automatically .
+Bmr013.D.dialogueact79	297.399	297.519	D	PhD	b	-1	0	Good .
+Bmr013.C.dialogueact80	303.734	304.204	C	Professor	b	-1	0	Yeah .
+Bmr013.F.dialogueact81	306.156	309.756	F	Grad	s	-1	0	And so it 's just , you know , typing in name , times {disfmarker} time , date , and so on .
+Bmr013.F.dialogueact82	310.412	317.211	F	Grad	fh|s	-1	0	Um , which again either they can do , but it is , you know , firing up an editor , or , again , I can do .
+Bmr013.F.dialogueact83	317.842	318.732	F	Grad	s^e	-1	0	Or someone else can do .
+Bmr013.B.dialogueact84	318.691	326.79	B	Postdoc	s^ng	-1	0	And , that , you know , I 'm not , that {disfmarker} that one I 'm not so sure if it 's into the {disfmarker} the , things that , I , wanted to use the hours for ,
+Bmr013.B.dialogueact85	326.79	330.73	B	Postdoc	s^df	-1	0	because the , the time that they 'd be spending doing that they wouldn't be able to be putting more words on .
+Bmr013.C.dialogueact86	331.061	331.541	C	Professor	b	-1	0	Mmm .
+Bmr013.B.dialogueact87	331.641	332.941	B	Postdoc	s.%-	-1	0	But that 's really your choice , it 's your {disfmarker}
+Bmr013.D.dialogueact88	332.661	334.891	D	PhD	fg|qy^rt	-1	0	So are these two separate tasks that can happen ?
+Bmr013.D.dialogueact89	335.041	336.711	D	PhD	qrr.%-	-1	0	Or do they have to happen at the same time before {disfmarker}
+Bmr013.F.dialogueact90	336.402	342.28	F	Grad	s^ar|s	-1	0	No they don't have {disfmarker} this {disfmarker} you have to enter the data before , you do the second task , but they don't have to happen at the same time .
+Bmr013.D.dialogueact92	343.78	344.06	D	PhD	s^bk	-1	0	OK .
+Bmr013.F.dialogueact91	343.709	352.329	F	Grad	s^e	-1	0	So it 's {disfmarker} it 's just I have a file whi which has this information on it , and then when you start using my scripts , for extracting the times , it adds the times at the bottom of the file .
+Bmr013.F.dialogueact93	353.908	359.068	F	Grad	fh|s	-1	0	And so , um , I mean , it 's easy to create the files and leave them blank , and so actually we could do it in either order .
+Bmr013.D.dialogueact94	359.089	359.539	D	PhD	s^bk	-1	0	Oh , OK .
+Bmr013.F.dialogueact95	359.971	366.313	F	Grad	fh|s^cs	-1	0	Um , it 's {disfmarker} it 's sort of nice to have the same person do it just as a double - check , to make sure you 're entering for the right person .
+Bmr013.F.dialogueact96	366.593	368.708	F	Grad	s^e	-1	0	But , either way .
+Bmr013.C.dialogueact97	369.367	369.617	C	Professor	b	-1	0	Yeah .
+Bmr013.C.dialogueact98	370.66	380.01	C	Professor	fg|s	+1	1	Yeah just by way of uh , uh , a uh , order of magnitude , uh , um , we 've been working with this Aurora , uh data set .
+Bmr013.C.dialogueact99	380.57	393.31	C	Professor	s	+1	1	And , uh , the best score , on the , nicest part of the data , that is , where you 've got training and test set that are basically the same kinds of noise and so forth , uh , is about ,
+Bmr013.C.dialogueact100	393.6	394.13	C	Professor	h	-1	0	uh {disfmarker}
+Bmr013.C.dialogueact101	394.45	399.559	C	Professor	s	+1	2	I think the best score was something like five percent , uh , error , per digit .
+Bmr013.A.dialogueact104	400.758	401.528	A	PhD	s^m.%	-1	0	Per digit .
+Bmr013.C.dialogueact102	400.38	401.03	C	Professor	%-	-1	0	So , that {disfmarker}
+Bmr013.F.dialogueact103	400.573	401.423	F	Grad	s^bu^m	-1	0	Per digit .
+Bmr013.C.dialogueact105	401.57	401.84	C	Professor	s^aa	-1	0	You 're right .
+Bmr013.C.dialogueact106	401.84	408.64	C	Professor	s	-1	0	So if you were doing {pause} ten digit , uh , recognition , {vocalsound} you would really be in trouble .
+Bmr013.C.dialogueact108	409.22	416.2	C	Professor	s	+1	0	So {disfmarker} So the {disfmarker} The point there , and this is uh car noise uh , uh things , but {disfmarker} but real {disfmarker} real situation ,
+Bmr013.D.dialogueact107	408.793	409.143	D	PhD	b	-1	0	Mm - hmm .
+Bmr013.C.dialogueact109	416.29	416.93	C	Professor	s^t1.%--	-1	0	well , " real " ,
+Bmr013.C.dialogueact110	417.49	424.24	C	Professor	fh|s	+1	0	Um , the {disfmarker} uh there 's one microphone that 's close , that they have as {disfmarker} as this sort of thing , close versus distant .
+Bmr013.C.dialogueact111	424.861	426.091	C	Professor	fh|s	+1	0	Uh but in a car ,
+Bmr013.C.dialogueact112	426.351	429.461	C	Professor	s	+1	0	instead of {disfmarker} instead of having a projector noise it 's {disfmarker} it 's car noise .
+Bmr013.C.dialogueact113	429.949	434.119	C	Professor	fh|s	-1	0	Uh but it wasn't artificially added to get some {disfmarker} some artificial signal - to - noise ratio .
+Bmr013.C.dialogueact114	434.119	435.619	C	Professor	s	-1	0	It was just people driving around in a car .
+Bmr013.C.dialogueact115	436.29	438.18	C	Professor	s.%--	-1	0	So , that 's {disfmarker} that 's an indication ,
+Bmr013.C.dialogueact116	438.33	443.031	C	Professor	s	-1	0	uh that was with , many sites competing , and this was the very best score and so forth ,
+Bmr013.C.dialogueact117	443.031	445.225	C	Professor	s.%-	-1	0	so . More typical numbers like
+Bmr013.D.dialogueact118	443.56	446.465	D	PhD	s^ba	-1	0	Although the models weren't , that good ,
+Bmr013.D.dialogueact119	446.465	446.785	D	PhD	qy^d^g^rt	-1	0	right ?
+Bmr013.D.dialogueact120	446.865	448.535	D	PhD	qy^bu^rt	-1	0	I mean , the models are pretty crappy ?
+Bmr013.C.dialogueact121	448.93	449.3	C	Professor	s^aa	-1	0	You 're right .
+Bmr013.C.dialogueact122	449.3	451.53	C	Professor	s	+1	0	I think that we could have done better on the models ,
+Bmr013.C.dialogueact123	451.53	461.34	C	Professor	s^df	+1	0	but the thing is that we got {disfmarker} this {disfmarker} this is the kind of typical number , for all of the , uh , uh , things in this task , all of the , um , languages .
+Bmr013.C.dialogueact124	461.676	465.106	C	Professor	s	-1	0	And so I {disfmarker} I think we 'd probably {disfmarker} the models would be better in some than in others .
+Bmr013.C.dialogueact126	465.276	471.967	C	Professor	fh|s	+1	0	Um , so , uh . Anyway , just an indication once you get into this kind of realm even if you 're looking at connected digits it can be pretty hard .
+Bmr013.D.dialogueact125	465.077	465.327	D	PhD	b	-1	0	Hmm .
+Bmr013.B.dialogueact127	474.274	474.474	B	Postdoc	b	-1	0	Hmm .
+Bmr013.B.dialogueact128	475.359	477.832	B	Postdoc	s	-1	0	It 's gonna be fun to see how we , compare at this .
+Bmr013.B.dialogueact131	478.318	478.898	B	Postdoc	s^ba	-1	0	Very exciting . s @ @ .
+Bmr013.C.dialogueact129	478.099	478.419	C	Professor	b	-1	0	Yeah .
+Bmr013.D.dialogueact130	478.264	479.694	D	PhD	qw^tc	-1	0	How did we do on the TI - digits ?
+Bmr013.F.dialogueact132	478.67	480.32	F	Grad	s	-1	0	Well the prosodics are so much different
+Bmr013.F.dialogueact133	480.38	482.301	F	Grad	s^ba	-1	0	s it 's gonna be , strange .
+Bmr013.F.dialogueact134	483.012	485.822	F	Grad	s	+1	0	I mean the prosodics are not the same as TI - digits , for example .
+Bmr013.C.dialogueact135	486.09	486.3	C	Professor	b	-1	0	Yeah .
+Bmr013.F.dialogueact136	486.591	488.801	F	Grad	s^no	-1	0	So I 'm {disfmarker} I 'm not sure how much of effect that will have .
+Bmr013.D.dialogueact138	488.827	489.297	D	PhD	qw.%-	-1	0	H how do {disfmarker}
+Bmr013.G.dialogueact137	488.717	490.117	G	PhD	qw	-1	0	What do you mean , the prosodics ?
+Bmr013.F.dialogueact139	490.348	492.408	F	Grad	h|s^rt	+1	0	Um , just what we were talking about with grouping .
+Bmr013.F.dialogueact140	492.912	500.031	F	Grad	s	+1	0	That with these , the grouping , there 's no grouping at all , and so it 's just {disfmarker} the only sort of discontinuity you have is at the beginning and the end .
+Bmr013.G.dialogueact141	500.442	502.032	G	PhD	qw	-1	0	So what are they doing in Aurora ,
+Bmr013.G.dialogueact142	502.032	504.202	G	PhD	qy^rt	-1	0	are they reading actual phone numbers ,
+Bmr013.F.dialogueact143	502.822	503.742	F	Grad	s^no	-1	0	Aurora I don't know .
+Bmr013.F.dialogueact144	504.179	505.369	F	Grad	s^no^r	-1	0	I don't know what they do in Aurora .
+Bmr013.G.dialogueact145	504.202	506.242	G	PhD	qrr.%--	-1	0	or , a {disfmarker} a digit at a time , or {disfmarker} ?
+Bmr013.C.dialogueact146	506.615	507.765	C	Professor	h|s^no.%--	-1	0	Uh , I 'm not sure how {disfmarker}
+Bmr013.G.dialogueact147	506.886	507.396	G	PhD	%-	-1	0	Cuz it 's {disfmarker}
+Bmr013.C.dialogueact148	507.895	510.916	C	Professor	s	-1	0	no , no I mean it 's connected {disfmarker} it 's connected , uh , digits ,
+Bmr013.G.dialogueact149	509.59	510.26	G	PhD	s^bk^m	-1	0	Connected .
+Bmr013.C.dialogueact150	510.916	511.126	C	Professor	s^bk	-1	0	yeah .
+Bmr013.C.dialogueact152	511.56	511.72	C	Professor	%-	-1	0	But .
+Bmr013.F.dialogueact153	511.632	515.747	F	Grad	s^aa	-1	0	But {disfmarker} Right .
+Bmr013.G.dialogueact151	511.552	516.712	G	PhD	s	-1	0	So there 's also the {disfmarker} not just the prosody but the cross {disfmarker} the cross - word modeling is probably quite different .
+Bmr013.D.dialogueact155	516.913	522.022	D	PhD	%-	-1	0	H How
+Bmr013.F.dialogueact154	516.872	521.822	F	Grad	fg|s	-1	0	But in TI - digits , they 're reading things like zip codes and phone numbers and things like that ,
+Bmr013.G.dialogueact156	521.212	521.562	G	PhD	s^aa	-1	0	Right .
+Bmr013.D.dialogueact158	522.022	523.332	D	PhD	qw	+1	0	do we do on TI - digits ?
+Bmr013.F.dialogueact157	521.822	522.742	F	Grad	s	-1	0	so it 's gonna be different .
+Bmr013.F.dialogueact159	524.33	524.96	F	Grad	s^no	-1	0	I don't remember .
+Bmr013.F.dialogueact160	524.96	525.77	F	Grad	s^ba	-1	0	I mean , very good ,
+Bmr013.F.dialogueact161	525.77	526.06	F	Grad	qy^d^g	-1	0	right ?
+Bmr013.C.dialogueact162	526.35	527.75	C	Professor	s^aa|s.%-	-1	0	Yeah , I mean we were in the .
+Bmr013.F.dialogueact163	527.478	529.558	F	Grad	qy^2^bu^d^rt	-1	0	One and a half percent , two percent , something like that ?
+Bmr013.C.dialogueact164	528.99	530.98	C	Professor	h|s^ar	+1	0	Uh , I th no I think we got under a percent ,
+Bmr013.C.dialogueact166	531.15	543.029	C	Professor	s^df	+1	0	but it was {disfmarker} but it 's {disfmarker} but I mean . The very best system that I saw in the literature was a point two five percent or something that somebody had at {disfmarker} at Bell Labs , or . Uh , but . But , uh , sort of pulling out all the stops .
+Bmr013.F.dialogueact165	531.128	531.478	F	Grad	qy^bu^rt	-1	0	Oh really ?
+Bmr013.B.dialogueact168	532.042	662.107	B	Postdoc	s	-1	0	s @ @ . It s strikes me that there are more {disfmarker} each of them is more informative because it 's so , random ,
+Bmr013.F.dialogueact167	531.628	531.878	F	Grad	b	-1	0	OK .
+Bmr013.F.dialogueact169	539.452	539.752	F	Grad	s^bk	-1	0	Alright .
+Bmr013.D.dialogueact170	539.991	540.421	D	PhD	b	-1	0	Hmm .
+Bmr013.C.dialogueact171	543.029	546.729	C	Professor	s^df	-1	0	But I think a lot of systems sort of get half a percent , or three - quarters a percent ,
+Bmr013.F.dialogueact172	545.962	546.212	F	Grad	b	-1	0	Right .
+Bmr013.C.dialogueact173	546.729	547.699	C	Professor	s^e	-1	0	and we 're {disfmarker} we 're in there somewhere .
+Bmr013.F.dialogueact174	547.582	554.768	F	Grad	s	+1	0	But that {disfmarker} I mean it 's really {disfmarker} it 's {disfmarker} it 's close - talking mikes , no noise , clean signal , just digits , I mean , every everything is good .
+Bmr013.C.dialogueact175	553.209	553.489	C	Professor	b	-1	0	Yeah .
+Bmr013.G.dialogueact176	553.894	556.314	G	PhD	s	-1	0	It 's the beginning of time in speech recognition .
+Bmr013.F.dialogueact177	555.262	556.092	F	Grad	s^aa	-1	0	Yes , exactly .
+Bmr013.C.dialogueact178	558.179	558.539	C	Professor	s^aa	-1	0	Yeah .
+Bmr013.F.dialogueact179	558.88	561.49	F	Grad	s	-1	0	And we 've only recently got it to anywhere near human .
+Bmr013.G.dialogueact180	559.927	564.249	G	PhD	s^j	-1	0	It 's like the , single cell , you know , it 's the beginning of life ,
+Bmr013.D.dialogueact181	560.952	562.855	D	PhD	s^2^j	-1	0	Pre - prehistory .
+Bmr013.G.dialogueact182	564.249	564.499	G	PhD	b	-1	0	yeah .
+Bmr013.F.dialogueact183	564.973	567.823	F	Grad	s	-1	0	And it 's still like an order of magnitude worse than what humans do .
+Bmr013.G.dialogueact184	567.811	568.191	G	PhD	s^aa	-1	0	Right .
+Bmr013.C.dialogueact185	568.386	568.616	C	Professor	b	-1	0	Yeah .
+Bmr013.F.dialogueact186	568.585	568.975	F	Grad	%	-1	0	So .
+Bmr013.C.dialogueact187	569.087	570.357	C	Professor	s^j^na	-1	0	When {disfmarker} When they 're wide awake , yeah .
+Bmr013.C.dialogueact189	571.188	572.138	C	Professor	fh	-1	0	Um ,
+Bmr013.F.dialogueact188	570.982	571.172	F	Grad	b	-1	0	Yeah .
+Bmr013.F.dialogueact190	571.712	572.372	F	Grad	s^j	-1	0	After coffee .
+Bmr013.C.dialogueact191	572.838	573.678	C	Professor	s^j^m|s^bk	-1	0	after coffee , you 're right .
+Bmr013.C.dialogueact192	574.328	575.188	C	Professor	s^j	-1	0	Not after lunch .
+Bmr013.F.dialogueact193	575.174	580.297	F	Grad	fg|s^cc^tc	+1	0	OK , so , um , what I 'll do then is I 'll go ahead and enter , this data .
+Bmr013.F.dialogueact194	581.101	586.322	F	Grad	s^cc	+1	1	And then , hand off to Jane , and the transcribers to do the actual extraction of the digits .
+Bmr013.C.dialogueact195	584.745	584.985	C	Professor	b	-1	0	Yeah .
+Bmr013.C.dialogueact196	586.775	586.995	C	Professor	b	-1	0	Yeah .
+Bmr013.C.dialogueact197	587.57	599.432	C	Professor	s	+1	2	One question I have that {disfmarker} that I mean , we wouldn't know the answer to now but might , do some guessing , but I was talking before about doing some model modeling of arti uh , uh , marking of articulatory , features , with overlap and so on .
+Bmr013.F.dialogueact198	590.48	590.63	F	Grad	b	-1	0	Hmm .
+Bmr013.C.dialogueact199	599.702	601.406	C	Professor	fh	-1	0	And , and , um ,
+Bmr013.C.dialogueact200	602.138	602.978	C	Professor	s	-1	0	On some subset .
+Bmr013.C.dialogueact201	603.51	608.01	C	Professor	s	+1	2	One thought might be to do this uh , on {disfmarker} on the digits , or some piece of the digits .
+Bmr013.C.dialogueact202	608.01	610.48	C	Professor	s	-1	0	Uh , it 'd be easier , uh , and so forth .
+Bmr013.C.dialogueact203	610.48	614.577	C	Professor	s.%--	-1	0	The only thing is I 'm a little concerned that maybe the kind of phenomena , in w i i
+Bmr013.C.dialogueact204	614.827	632.341	C	Professor	s	+1	0	The reason for doing it is because the {disfmarker} the argument is that certainly with conversational speech , the stuff that we 've looked at here before , um , just doing the simple mapping , from , um , the phone , to the corresponding features that you could look up in a book , uh , isn't right .
+Bmr013.C.dialogueact205	632.826	633.576	C	Professor	s^r	-1	0	It isn't actually right .
+Bmr013.C.dialogueact206	633.576	640.448	C	Professor	s^e	+1	0	In fact there 's these overlapping processes where some voicing some up and then some , you know , some nasality is {disfmarker} comes in here , and so forth .
+Bmr013.C.dialogueact207	640.448	643.308	C	Professor	s	-1	0	And you do this gross thing saying " Well I guess it 's this phone starting there " .
+Bmr013.C.dialogueact208	644.028	645.99	C	Professor	fh|s	-1	0	So , uh , that 's the reasoning .
+Bmr013.C.dialogueact209	645.99	653.191	C	Professor	s	-1	0	But , It could be that when we 're reading digits , because it 's {disfmarker} it 's for such a limited set , that maybe {disfmarker} maybe that phenomenon doesn't occur as much .
+Bmr013.C.dialogueact210	653.191	653.601	C	Professor	s^no	-1	0	I don't know .
+Bmr013.C.dialogueact211	654.1	657.21	C	Professor	qo^rt	-1	0	Di - an anybody {disfmarker} ? {pause} Do you have any {disfmarker} ? {pause} Anybody have any opinion about that ,
+Bmr013.B.dialogueact212	662.107	663.977	B	Postdoc	s	-1	0	and that people might articulate more ,
+Bmr013.B.dialogueact213	664.067	666.397	B	Postdoc	s	-1	0	and you that might end up with more {disfmarker} a closer correspondence .
+Bmr013.C.dialogueact214	664.552	664.862	C	Professor	b	-1	0	Mm - hmm .
+Bmr013.C.dialogueact215	666.699	666.949	C	Professor	b	-1	0	Yeah .
+Bmr013.F.dialogueact216	666.751	668.081	F	Grad	s^na	-1	0	Yeah {disfmarker} that 's {disfmarker} I {disfmarker} I agree .
+Bmr013.D.dialogueact218	668.39	669.59	D	PhD	s	-1	0	Sort of less predictability ,
+Bmr013.F.dialogueact217	668.161	669.051	F	Grad	%-	-1	0	That {disfmarker} it 's just {disfmarker}
+Bmr013.B.dialogueact220	669.728	669.988	B	Postdoc	b	-1	0	Mm - hmm .
+Bmr013.C.dialogueact221	669.848	670.108	C	Professor	b	-1	0	Yeah .
+Bmr013.D.dialogueact219	669.59	720.519	D	PhD	%-	-1	0	and {disfmarker} You hafta {disfmarker}
+Bmr013.F.dialogueact223	670.998	696.684	F	Grad	fg|qy	-1	0	It 's a {disfmarker} Well {disfmarker} Would , this corpus really be the right one to even try that on ?
+Bmr013.G.dialogueact222	670.5	679.451	G	PhD	s	-1	0	Well it 's definitely true that , when people are , reading , even if they 're re - reading what , they had said spontaneously , that they have very different patterns .
+Bmr013.G.dialogueact224	679.451	682.732	G	PhD	s^e	-1	0	Mitch showed that , and some , dissertations have shown that .
+Bmr013.C.dialogueact225	680.514	680.704	C	Professor	b	-1	0	Right .
+Bmr013.G.dialogueact226	683.501	690.311	G	PhD	s	-1	0	So the fact that they 're reading , first of all , whether they 're reading in a room of , people , or rea you know , just the fact that they 're reading will make a difference .
+Bmr013.C.dialogueact227	690.648	690.928	C	Professor	b	-1	0	Yeah .
+Bmr013.G.dialogueact228	691.153	692.973	G	PhD	s	-1	0	And , depends what you 're interested in .
+Bmr013.C.dialogueact229	697.795	698.375	C	Professor	s^no	-1	0	See , I don't know .
+Bmr013.C.dialogueact230	698.375	707.517	C	Professor	s^cs	-1	0	So , may maybe the thing will be do {disfmarker} to take some very small subset , I mean not have a big , program , but take a small set , uh , subset of the conversational speech and a small subset of the digits ,
+Bmr013.C.dialogueact231	708.141	710.495	C	Professor	s^cs	-1	0	and {pause} look and {disfmarker} and just get a feeling for it .
+Bmr013.C.dialogueact232	710.993	712.802	C	Professor	fh|s^cs	-1	0	Um , just take a look . Really .
+Bmr013.B.dialogueact233	713.59	726.347	B	Postdoc	s	-1	0	H That could {disfmarker} could be an interesting design , too , cuz then you 'd have the com the comparison of the , uh , predictable speech versus the less predictable speech
+Bmr013.C.dialogueact234	713.663	717.37	C	Professor	s^df.%--	-1	0	Cuz I don't think anybody is , I at least , I don't know , of anybody , uh ,
+Bmr013.C.dialogueact235	718.382	720.721	C	Professor	s^no	-1	0	well , I don't know , {vocalsound} the answers .
+Bmr013.D.dialogueact236	721.552	721.872	D	PhD	fg	-1	0	Hey .
+Bmr013.C.dialogueact237	725.821	726.021	C	Professor	b	-1	0	Yeah .
+Bmr013.B.dialogueact238	726.347	729.917	B	Postdoc	s	-1	0	and maybe you 'd find that it worked in , in the , case of the pr of the , uh , non - predictable .
+Bmr013.C.dialogueact239	728.518	728.698	C	Professor	b	-1	0	Yeah .
+Bmr013.D.dialogueact240	729.348	739.643	D	PhD	s	-1	0	Hafta think about , the particular acoustic features to mark , too , because , I mean , some things , they wouldn't be able to mark , like , uh , you know , uh , tense lax .
+Bmr013.C.dialogueact241	733.642	733.932	C	Professor	b	-1	0	Mm - hmm .
+Bmr013.D.dialogueact242	739.773	740.903	D	PhD	s	-1	0	Some things are really difficult .
+Bmr013.D.dialogueact243	741.737	742.057	D	PhD	qy^d^f^g^rt	-1	0	You know ,
+Bmr013.B.dialogueact246	742.671	742.931	B	Postdoc	fg	-1	0	Well .
+Bmr013.D.dialogueact244	742.297	743.067	D	PhD	s	-1	0	just listening .
+Bmr013.F.dialogueact245	742.37	745.59	F	Grad	s^cs	-1	0	M I think we can get Ohala in to , give us some advice on that .
+Bmr013.D.dialogueact247	745.042	745.422	D	PhD	s^na	-1	0	Yeah .
+Bmr013.B.dialogueact248	745.696	748.776	B	Postdoc	s.%--	-1	0	Also I thought you were thinking of a much more restricted set of features , that {disfmarker}
+Bmr013.C.dialogueact249	749.028	754.822	C	Professor	s	-1	0	Yeah , but I {disfmarker} I {disfmarker} I {disfmarker} I was , like he said , {vocalsound} I was gonna bring John in and ask John what he thought .
+Bmr013.B.dialogueact250	752.772	753.282	B	Postdoc	s^bk	-1	0	Yeah , sure .
+Bmr013.B.dialogueact251	754.027	754.377	B	Postdoc	s^bk^r	-1	0	Sure .
+Bmr013.B.dialogueact252	754.801	754.961	B	Postdoc	b	-1	0	Yeah .
+Bmr013.C.dialogueact253	755.113	755.293	C	Professor	b	-1	0	Right .
+Bmr013.C.dialogueact254	755.908	759.048	C	Professor	s^aa|s^arp	-1	0	But I mean you want {disfmarker} you want it be restrictive but you also want it to {disfmarker} to {disfmarker} to have coverage .
+Bmr013.F.dialogueact255	759.219	759.469	F	Grad	b	-1	0	Right .
+Bmr013.B.dialogueact257	759.81	759.9	B	Postdoc	b	-1	0	Yeah
+Bmr013.C.dialogueact256	759.615	773.884	C	Professor	s	+1	0	You know i you should . It should be such that if you , if you , uh , if you had o um , all of the features , determined that you {disfmarker} that you were uh ch have chosen , that that would tell you , uh , in the steady - state case , uh , the phone .
+Bmr013.C.dialogueact258	774.572	775.38	C	Professor	fh	-1	0	So , um .
+Bmr013.B.dialogueact259	775.129	775.289	B	Postdoc	b	-1	0	OK .
+Bmr013.F.dialogueact260	776.436	778.616	F	Grad	s^bu	-1	0	Even , I guess with vowels that would be pretty hard ,
+Bmr013.F.dialogueact261	778.926	779.286	F	Grad	qy^g^rt	-1	0	wouldn't it ?
+Bmr013.F.dialogueact262	782.592	784.912	F	Grad	s	-1	0	To identify actually , you know , which one it is ?
+Bmr013.B.dialogueact263	785.562	790.105	B	Postdoc	s.%--	-1	0	It would seem to me that the points of articulation would be m more , g
+Bmr013.B.dialogueact264	790.105	796.669	B	Postdoc	s	-1	0	uh , I mean that 's {disfmarker} I think about articulatory features , I think about , points of articulation , which means , uh , rather than vowels .
+Bmr013.F.dialogueact265	795.649	795.859	F	Grad	b	-1	0	Yeah .
+Bmr013.D.dialogueact266	797.421	798.411	D	PhD	qw^bu^m^rt	-1	0	Points of articulation ?
+Bmr013.D.dialogueact267	798.411	798.801	D	PhD	qw^rt	-1	0	What do you mean ?
+Bmr013.B.dialogueact268	799.207	804.035	B	Postdoc	s	-1	0	So , is it , uh , bilabial or dental or is it , you know , palatal .
+Bmr013.C.dialogueact269	803.629	803.989	C	Professor	b.%	-1	0	Mm - hmm .
+Bmr013.B.dialogueact270	804.787	807.197	B	Postdoc	s^e	-1	0	Which {disfmarker} which are all like where {disfmarker} where your tongue comes to rest .
+Bmr013.C.dialogueact273	806.52	807.34	C	Professor	s^m	-1	0	Place , place .
+Bmr013.D.dialogueact272	806.342	807.892	D	PhD	s	-1	0	Place of ar place of articulation .
+Bmr013.F.dialogueact271	805.976	806.926	F	Grad	s.%	-1	0	Uvular .
+Bmr013.A.dialogueact276	807.993	808.373	A	PhD	s.%	-1	0	Place .
+Bmr013.B.dialogueact274	807.942	808.282	B	Postdoc	s^bsc^m	-1	0	Place .
+Bmr013.B.dialogueact277	808.282	810.102	B	Postdoc	s^ft.%--	-1	0	Thank you , what {disfmarker} whatev whatever I s said , that 's {disfmarker}
+Bmr013.C.dialogueact275	807.984	808.174	C	Professor	b	-1	0	Yeah .
+Bmr013.D.dialogueact278	808.643	808.903	D	PhD	b.%	-1	0	OK .
+Bmr013.B.dialogueact280	810.102	810.962	B	Postdoc	s	-1	0	I really meant place .
+Bmr013.C.dialogueact279	810.041	810.231	C	Professor	b	-1	0	Yeah .
+Bmr013.D.dialogueact281	810.277	811.057	D	PhD	s^bk	-1	0	OK , I see .
+Bmr013.C.dialogueact282	811.618	811.808	C	Professor	b	-1	0	Yeah .
+Bmr013.C.dialogueact283	812.092	813.442	C	Professor	fg|s^tc	-1	0	OK we got our jargon then , OK .
+Bmr013.B.dialogueact284	813.551	813.831	B	Postdoc	b	-1	0	Yeah .
+Bmr013.C.dialogueact285	814.34	814.85	C	Professor	fh	-1	0	Uh .
+Bmr013.G.dialogueact286	815.367	823.611	G	PhD	fg|s^tc	-1	0	Well it 's also , there 's , really a difference between , the pronunciation models in the dictionary , and , the pronunciations that people produce .
+Bmr013.G.dialogueact287	823.731	828.652	G	PhD	s	-1	0	And , so , You get , some of that information from Steve 's work on the {disfmarker} on the labeling
+Bmr013.C.dialogueact288	827.72	827.94	C	Professor	b	-1	0	Right .
+Bmr013.F.dialogueact289	827.979	828.209	F	Grad	b	-1	0	Right .
+Bmr013.G.dialogueact290	828.652	829.272	G	PhD	%--	-1	0	and it really ,
+Bmr013.G.dialogueact291	830.609	832.689	G	PhD	s^cs	-1	0	I actually think that data should be used more .
+Bmr013.G.dialogueact292	832.689	840.13	G	PhD	s	-1	0	That maybe , although I think the meeting context is great , that he has transcriptions that give you the actual phone sequence .
+Bmr013.G.dialogueact293	840.921	850.692	G	PhD	s	-1	0	And you can go from {disfmarker} not from that to the articulatory features , but that would be a better starting point for marking , the gestural features , then , data where you don't have that ,
+Bmr013.G.dialogueact294	850.692	867.45	G	PhD	s	-1	0	because , we {disfmarker} you wanna know , both about the way that they 're producing a certain sound , and what kinds of , you know what kinds of , phonemic , differences you get between these , transcribed , sequences and the dictionary ones .
+Bmr013.C.dialogueact295	867.607	871.367	C	Professor	s^aap	-1	0	Well you might be right that mi might be the way at getting at , what I was talking about ,
+Bmr013.C.dialogueact296	871.367	881.834	C	Professor	s^arp	-1	0	but the particular reason why I was interested in doing that was because I remember , when that happened , and , John Ohala was over here and he was looking at the spectrograms of the more difficult ones .
+Bmr013.C.dialogueact297	882.859	888.335	C	Professor	fh|s	-1	0	Uh , he didn't know what to say , about , what is the sequence of phones there .
+Bmr013.C.dialogueact298	888.425	889.665	C	Professor	s	-1	0	They came up with some compromise .
+Bmr013.C.dialogueact299	890.272	891.992	C	Professor	s	-1	0	Because that really wasn't what it look like .
+Bmr013.C.dialogueact301	891.992	893.572	C	Professor	s	-1	0	It didn't look like a sequence of phones
+Bmr013.F.dialogueact302	892.14	892.37	F	Grad	b	-1	0	Right .
+Bmr013.G.dialogueact300	891.75	892.2	G	PhD	b	-1	0	Right .
+Bmr013.C.dialogueact303	893.572	896.162	C	Professor	s	-1	0	it look like this blending thing happening here and here and here .
+Bmr013.F.dialogueact305	895.722	898.552	F	Grad	s^na	-1	0	Yeah , so you have this feature here , and , overlap , yeah .
+Bmr013.G.dialogueact304	895.622	896.002	G	PhD	b	-1	0	Right .
+Bmr013.C.dialogueact307	897.119	897.429	C	Professor	b	-1	0	Yeah .
+Bmr013.D.dialogueact306	896.929	898.009	D	PhD	s	-1	0	There was no name for that .
+Bmr013.G.dialogueact308	897.252	898.243	G	PhD	fg	-1	0	But {disfmarker} Right .
+Bmr013.C.dialogueact309	898.17	898.32	C	Professor	b	-1	0	Yeah .
+Bmr013.G.dialogueact310	898.293	900.795	G	PhD	s^nd^tc	-1	0	But it still is {disfmarker} there 's a {disfmarker} there are two steps .
+Bmr013.G.dialogueact311	900.795	908.068	G	PhD	s	-1	0	One {disfmarker} you know , one is going from a dictionary pronunciation of something , like , " gonna see you tomorrow " ,
+Bmr013.F.dialogueact312	901.365	911.249	F	Grad	s.%	-1	0	And {disfmarker} Or " gonta " .
+Bmr013.C.dialogueact313	904.302	904.612	C	Professor	b	-1	0	Right .
+Bmr013.C.dialogueact314	906.934	907.154	C	Professor	b	-1	0	Yeah .
+Bmr013.G.dialogueact315	908.068	910.478	G	PhD	s	-1	0	it could be " going to " or " gonna " or " gonta s " you know .
+Bmr013.C.dialogueact316	910.078	910.298	C	Professor	b	-1	0	Right .
+Bmr013.G.dialogueact317	910.92	911.94	G	PhD	fh	-1	0	And , yeah .
+Bmr013.G.dialogueact318	912.424	914.384	G	PhD	s	-1	0	" Gonna see you tomorrow " , uh , " guh see you tomorrow " .
+Bmr013.G.dialogueact319	914.774	923.381	G	PhD	s^cs	-1	0	And , that it would be nice to have these , intermediate , or these {disfmarker} some {disfmarker} these reduced pronunciations that those transcribers had marked or to have people mark those as well .
+Bmr013.C.dialogueact320	920.955	921.335	C	Professor	b	-1	0	Mm - hmm .
+Bmr013.G.dialogueact321	924.132	938.332	G	PhD	s^df	-1	0	Because , it 's not , um , that easy to go from the , dictionary , word pronuncia the dictionary phone pronunciation , to the gestural one without this intermediate or a syllable level kind of , representation .
+Bmr013.F.dialogueact322	937.645	939.845	F	Grad	s^nd	-1	0	Well I don't think Morgan 's suggesting that we do that , though .
+Bmr013.C.dialogueact323	938.451	938.801	C	Professor	qy^bu.%-	-1	0	Do you mean ,
+Bmr013.A.dialogueact324	940.794	941.024	A	PhD	b.%	-1	0	Yeah .
+Bmr013.C.dialogueact325	940.801	948.104	C	Professor	s	+1	0	Yeah , I mean , I I I 'm jus at the moment of course we 're just talking about what , to provide as a tool for people to do research who have different ideas about how to do it .
+Bmr013.C.dialogueact326	948.104	956.595	C	Professor	s	-1	0	So for instance , you might have someone who just has a wor has words with states , and has uh {disfmarker} uh , comes from articulatory gestures to that .
+Bmr013.C.dialogueact327	956.595	960.381	C	Professor	s	-1	0	And someone else , might actually want some phonetic uh intermediate thing .
+Bmr013.C.dialogueact328	960.909	963.599	C	Professor	s^cs	-1	0	So I think it would be {disfmarker} be best to have all of it if we could .
+Bmr013.C.dialogueact329	964.307	965.097	C	Professor	fh	-1	0	But {pause} um ,
+Bmr013.F.dialogueact330	964.954	970.272	F	Grad	s	+1	0	But {disfmarker} What I 'm imagining is a score - like notation , where each line is a particular feature .
+Bmr013.C.dialogueact331	965.673	965.853	C	Professor	b	-1	0	Yeah .
+Bmr013.F.dialogueact332	970.693	970.923	F	Grad	qy^d^f^g	-1	0	Right ,
+Bmr013.C.dialogueact334	971.211	971.421	C	Professor	b	-1	0	Yeah .
+Bmr013.F.dialogueact333	970.923	975.653	F	Grad	s^e	-1	0	so you would say , you know , it 's voiced through here , and so you have label here , and you have nas nasal here ,
+Bmr013.F.dialogueact335	975.653	980.982	F	Grad	s^e	-1	0	and , they {disfmarker} they could be overlapping in all sorts of bizarre ways that don't correspond to the timing on phones .
+Bmr013.C.dialogueact336	981.604	982.674	C	Professor	s.%--	-1	0	I mean this is the kind of reason why {disfmarker}
+Bmr013.C.dialogueact337	982.674	990.674	C	Professor	s	-1	0	I remember when at one of the Switchboard , workshops , that uh when we talked about doing the transcription project , Dave Talkin said , " can't be done " .
+Bmr013.F.dialogueact338	991.003	991.273	F	Grad	b	-1	0	Right .
+Bmr013.C.dialogueact339	991.882	996.24	C	Professor	s	-1	0	He was {disfmarker} he was , what {disfmarker} what he meant was that this isn't , you know , a sequence of phones ,
+Bmr013.C.dialogueact340	996.24	1005.11	C	Professor	s.%-	-1	0	and when you actually look at Switchboard that 's , not what you see , and , you know . And . It ,
+Bmr013.F.dialogueact341	998.999	1002.19	F	Grad	s^bu	-1	0	And in {disfmarker} in fact the inter - annotator agreement was not that good ,
+Bmr013.F.dialogueact342	1002.19	1002.53	F	Grad	qy^d^g^rt	-1	0	right ?
+Bmr013.F.dialogueact343	1003.0	1003.95	F	Grad	qy^e^rt	-1	0	On the harder ones ?
+Bmr013.C.dialogueact344	1005.22	1006.06	C	Professor	s^aa|s.%-	-1	0	yeah I mean it was
+Bmr013.G.dialogueact345	1005.3	1007.33	G	PhD	s.%--	-1	0	It depends how you look at it , and
+Bmr013.G.dialogueact346	1007.41	1011.11	G	PhD	s	-1	0	I {disfmarker} I understand what you 're saying about this , kind of transcription exactly ,
+Bmr013.C.dialogueact347	1009.7	1009.91	C	Professor	b	-1	0	Yeah .
+Bmr013.G.dialogueact348	1011.11	1013.99	G	PhD	s^df	-1	0	because I 've seen {disfmarker} you know , where does the voicing bar start and so forth .
+Bmr013.C.dialogueact349	1012.29	1012.5	C	Professor	b	-1	0	Yeah .
+Bmr013.G.dialogueact350	1014.43	1022.51	G	PhD	s	-1	0	All I 'm saying is that , it is useful to have that {disfmarker} the transcription of what was really said , and which syllables were reduced .
+Bmr013.G.dialogueact351	1023.09	1024.76	G	PhD	fh|s^e	-1	0	Uh , if you 're gonna add the features
+Bmr013.G.dialogueact352	1024.76	1034.7	G	PhD	s	-1	0	it 's also useful to have some level of representation which is , is a reduced {disfmarker} it 's a pronunciation variant , that currently the dictionaries don't give you
+Bmr013.C.dialogueact353	1033.58	1033.89	C	Professor	b	-1	0	Mm - hmm .
+Bmr013.G.dialogueact354	1034.7	1038.6	G	PhD	s^df	-1	0	because if you add them to the dictionary and you run recognition , you , you add confusion .
+Bmr013.C.dialogueact355	1037.53	1037.76	C	Professor	b	-1	0	Right .
+Bmr013.C.dialogueact357	1038.94	1039.14	C	Professor	b	-1	0	Right .
+Bmr013.G.dialogueact356	1038.83	1040.41	G	PhD	s	-1	0	So people purposely don't add them .
+Bmr013.G.dialogueact358	1041.64	1046.21	G	PhD	s	-1	0	So it 's useful to know which variant was {disfmarker} was produced , at least at the phone level .
+Bmr013.D.dialogueact359	1045.29	1057.45	D	PhD	s^cs	-1	0	So it would be {disfmarker} it would be great if we had , either these kind of , labelings on , the same portion of Switchboard that Steve marked , or , Steve 's type markings on this data , with these .
+Bmr013.G.dialogueact360	1055.13	1055.58	G	PhD	s^aa	-1	0	Right .
+Bmr013.G.dialogueact361	1055.78	1056.27	G	PhD	s	-1	0	That 's all , I mean .
+Bmr013.G.dialogueact362	1056.57	1057.17	G	PhD	s^aa	-1	0	Exactly .
+Bmr013.C.dialogueact363	1057.15	1057.35	C	Professor	b	-1	0	Yeah .
+Bmr013.G.dialogueact364	1057.7	1058.24	G	PhD	s^aa^r	-1	0	Exactly .
+Bmr013.C.dialogueact365	1058.26	1059.72	C	Professor	fg|s	-1	0	Yeah , no I {disfmarker} I don't disagree with that .
+Bmr013.G.dialogueact366	1058.86	1061.59	G	PhD	s^df	-1	0	And Steve 's type is fairly {disfmarker} it 's not that slow ,
+Bmr013.G.dialogueact367	1061.77	1062.67	G	PhD	fh	-1	0	uh , uh ,
+Bmr013.G.dialogueact368	1062.67	1065.33	G	PhD	s^no.%--	-1	0	I dunno exactly what the , timing was , but .
+Bmr013.C.dialogueact369	1064.47	1065.81	C	Professor	fg|s^aap	-1	0	Yeah u I don't disagree with it
+Bmr013.C.dialogueact370	1065.81	1069.73	C	Professor	s^arp.%--	-1	0	the on the only thing is that , What you actually will end {disfmarker} en end up with is something ,
+Bmr013.C.dialogueact371	1069.73	1071.09	C	Professor	s	-1	0	i it 's all compromised ,
+Bmr013.C.dialogueact372	1071.09	1071.28	C	Professor	qy^d^f^g	-1	0	right ,
+Bmr013.C.dialogueact373	1071.28	1076.34	C	Professor	s	-1	0	so , the string that you end up with isn't , actually , what happened .
+Bmr013.C.dialogueact374	1076.54	1081.35	C	Professor	s	-1	0	But it 's {disfmarker} it 's the best compromise that a group of people scratching their heads could come up with to describe what happened .
+Bmr013.D.dialogueact376	1081.74	1084.21	D	PhD	s^e	-1	0	And it 's more accurate than , phone labels .
+Bmr013.G.dialogueact375	1081.54	1081.91	G	PhD	b	-1	0	Mm - hmm .
+Bmr013.C.dialogueact377	1082.54	1089.96	C	Professor	s^m	-1	0	But . And it 's more accurate than the {disfmarker} than the dictionary or , if you 've got a pronunciation uh lexicon that has three or four ,
+Bmr013.F.dialogueact378	1083.52	1083.93	F	Grad	b.%	-1	0	The word .
+Bmr013.D.dialogueact379	1085.22	1085.41	D	PhD	b	-1	0	Yeah .
+Bmr013.C.dialogueact380	1089.96	1092.66	C	Professor	s	-1	0	this might be have been the fifth one that you tr that you pruned or whatever ,
+Bmr013.D.dialogueact381	1091.14	1092.17	D	PhD	s^bs	-1	0	So it 's like a continuum .
+Bmr013.G.dialogueact382	1091.23	1091.6	G	PhD	b	-1	0	Right .
+Bmr013.C.dialogueact385	1092.66	1093.13	C	Professor	s	-1	0	so sure .
+Bmr013.D.dialogueact384	1092.17	1093.58	D	PhD	s	-1	0	It 's {disfmarker} you 're going all the way down ,
+Bmr013.G.dialogueact383	1092.03	1092.28	G	PhD	fg	-1	0	Right .
+Bmr013.G.dialogueact386	1092.76	1093.05	G	PhD	fg	-1	0	Right .
+Bmr013.C.dialogueact389	1093.95	1094.13	C	Professor	b	-1	0	Yeah .
+Bmr013.D.dialogueact388	1093.77	1093.96	D	PhD	b	-1	0	yeah .
+Bmr013.G.dialogueact387	1093.48	1094.59	G	PhD	s.%--	-1	0	That 's what I meant is {disfmarker}
+Bmr013.C.dialogueact391	1094.92	1095.16	C	Professor	b	-1	0	Yeah .
+Bmr013.G.dialogueact390	1094.59	1099.55	G	PhD	s	-1	0	an and in some places it would fill in , So {disfmarker} the kinds of gestural features are not everywhere .
+Bmr013.F.dialogueact392	1096.87	1097.08	F	Grad	fg	-1	0	Well {disfmarker}
+Bmr013.D.dialogueact393	1099.85	1100.11	D	PhD	b	-1	0	Right .
+Bmr013.G.dialogueact394	1099.88	1103.66	G	PhD	s	-1	0	So there are some things that you don't have access to either from your ear or the spectrogram ,
+Bmr013.D.dialogueact395	1103.79	1104.12	D	PhD	b	-1	0	Mm - hmm .
+Bmr013.G.dialogueact396	1104.03	1107.34	G	PhD	s	-1	0	but you know what phone it was and that 's about all you can {disfmarker} all you can say .
+Bmr013.D.dialogueact397	1106.82	1107.04	D	PhD	b	-1	0	Right .
+Bmr013.G.dialogueact398	1107.34	1110.24	G	PhD	s.%-	-1	0	And then there are other cases where , nasality , voicing {disfmarker}
+Bmr013.D.dialogueact399	1108.62	1113.58	D	PhD	s	-1	0	It 's basically just having , multiple levels of {disfmarker} of , information and marking , on the signal .
+Bmr013.G.dialogueact400	1110.9	1111.22	G	PhD	s^aa	-1	0	Right .
+Bmr013.G.dialogueact401	1112.18	1112.49	G	PhD	b	-1	0	Right .
+Bmr013.C.dialogueact402	1112.78	1112.98	C	Professor	b	-1	0	Yeah .
+Bmr013.F.dialogueact404	1113.18	1117.19	F	Grad	s	+1	0	Well the other difference is that the {disfmarker} the features , are not synchronous ,
+Bmr013.G.dialogueact403	1113.15	1113.27	G	PhD	b.x	-1	0	Right .
+Bmr013.F.dialogueact405	1117.19	1117.42	F	Grad	qy^d^f^g	-1	0	right .
+Bmr013.F.dialogueact406	1117.42	1119.51	F	Grad	s	+1	0	They overlap each other in weird ways .
+Bmr013.D.dialogueact407	1118.68	1119.04	D	PhD	b	-1	0	Mm - hmm .
+Bmr013.D.dialogueact408	1119.63	1119.95	D	PhD	b	-1	0	Mm - hmm .
+Bmr013.F.dialogueact409	1120.04	1121.96	F	Grad	s	+1	0	So it 's not a strictly one - dimensional signal .
+Bmr013.C.dialogueact410	1122.46	1122.69	C	Professor	b	-1	0	Right .
+Bmr013.F.dialogueact411	1122.98	1125.01	F	Grad	s	-1	0	So I think that 's sorta qualitatively different .
+Bmr013.G.dialogueact412	1123.65	1123.91	G	PhD	fg	-1	0	Right .
+Bmr013.G.dialogueact413	1123.91	1127.51	G	PhD	s^aa|s^arp	+1	0	You can add the features in , uh , but it 'll be underspecified .
+Bmr013.B.dialogueact414	1126.62	1126.83	B	Postdoc	b	-1	0	Hmm .
+Bmr013.G.dialogueact415	1127.51	1130.98	G	PhD	s	-1	0	Th - there 'll be no way for you to actually mark what was said completely by features .
+Bmr013.F.dialogueact416	1132.12	1138.37	F	Grad	s^aa|s^arp	+1	0	Well not with our current system but you could imagine designing a system , that the states were features , rather than phones .
+Bmr013.G.dialogueact417	1132.21	1132.92	G	PhD	%-	-1	0	And i if you 're {disfmarker}
+Bmr013.G.dialogueact418	1140.19	1145.35	G	PhD	s^arp^tc	-1	0	Well , we {disfmarker} we 've probably have a {vocalsound} separate , um , discussion of , uh {disfmarker} of whether you can do that .
+Bmr013.B.dialogueact419	1140.69	1147.12	B	Postdoc	qy^bu^rt	-1	0	That 's {disfmarker} Well , {pause} isn't that {disfmarker} I thought that was , well but that {disfmarker} wasn't that kinda the direction ?
+Bmr013.F.dialogueact420	1142.94	1143.16	F	Grad	s^aa	-1	0	Yeah .
+Bmr013.B.dialogueact421	1147.12	1147.42	B	Postdoc	s.%--	-1	0	I thought
+Bmr013.C.dialogueact422	1147.56	1155.73	C	Professor	fg|s	-1	0	Yeah , so I mean , what , what {disfmarker} where this is , I mean , I I want would like to have something that 's useful to people other than those who are doing the specific kind of research I have in mind ,
+Bmr013.C.dialogueact423	1155.73	1156.88	C	Professor	s^cs	-1	0	so it should be something broader .
+Bmr013.C.dialogueact424	1156.88	1185.31	C	Professor	s	-1	0	But , The {disfmarker} but uh where I 'm coming from is , uh , we 're coming off of stuff that Larry Saul did with {disfmarker} with , um , uh , John Dalan and Muzim Rahim in which , uh , they , uh , have , um , a m a multi - band system that is , uh , trained through a combination of gradient learning an and EM , to {pause} um , estimate , uh , {vocalsound} the , uh , value for m for {disfmarker} for a particular feature .
+Bmr013.C.dialogueact425	1185.5	1185.82	C	Professor	qy^d^f^g	-1	0	OK .
+Bmr013.C.dialogueact426	1186.29	1199.23	C	Professor	s	-1	0	And this is part of a larger , image that John Dalan has about how the human brain does it in which he 's sort of imagining that , individual frequency channels are coming up with their own estimate , of {disfmarker} of these , these kinds of {disfmarker} something like this .
+Bmr013.C.dialogueact427	1199.23	1201.99	C	Professor	s	-1	0	Might not be , you know , exact features that , Jakobson thought of or something .
+Bmr013.C.dialogueact428	1201.99	1203.49	C	Professor	s	-1	0	But I mean you know some , something like that .
+Bmr013.C.dialogueact429	1203.49	1207.35	C	Professor	s	-1	0	Some kind of low - level features , which are not , fully , you know , phone classification .
+Bmr013.C.dialogueact430	1207.97	1222.4	C	Professor	s	-1	0	And the {disfmarker} the {disfmarker} th this particular image , of how thi how it 's done , is that , then given all of these estimates at that level , there 's a level above it , then which is {disfmarker} is making , some kind of sound unit classification such as , you know , phone
+Bmr013.C.dialogueact431	1222.4	1226.66	C	Professor	s	-1	0	and {disfmarker} and , you know . You could argue what , what a sound unit should be , and {disfmarker} and so forth .
+Bmr013.C.dialogueact432	1226.66	1228.53	C	Professor	s	-1	0	But that {disfmarker} that 's sort of what I was imagining doing ,
+Bmr013.C.dialogueact433	1229.11	1235.38	C	Professor	fh|s	-1	0	um , and {disfmarker} but it 's still open within that whether you would have an intermediate level in which it was actually phones , or not .
+Bmr013.C.dialogueact434	1235.38	1236.43	C	Professor	s	-1	0	You wouldn't necessarily have to .
+Bmr013.C.dialogueact435	1237.43	1247.81	C	Professor	fh|s	-1	0	Um , but , Again , I wouldn't wanna , wouldn't want what we {disfmarker} we produced to be so , know , local in perspective that it {disfmarker} it was matched , what we were thinking of doing one week ,
+Bmr013.C.dialogueact436	1247.81	1250.42	C	Professor	fh|s	-1	0	And {disfmarker} and , and , you know , what you 're saying is absolutely right .
+Bmr013.C.dialogueact437	1250.42	1257.14	C	Professor	s^bs^cs	-1	0	That , that if we , can we should put in , uh , another level of , of description there if we 're gonna get into some of this low - level stuff .
+Bmr013.D.dialogueact438	1257.38	1264.3	D	PhD	fg|s.%--	+1	1	Well , you know , um {disfmarker} I mean if we 're talking about , having the , annotators annotate these kinds of features , it seems like ,
+Bmr013.D.dialogueact439	1265.49	1265.91	D	PhD	fh	-1	0	You know , you {disfmarker}
+Bmr013.D.dialogueact440	1266.36	1269.52	D	PhD	qy^rt	+1	0	The {disfmarker} the question is , do they do that on , meeting data ?
+Bmr013.D.dialogueact441	1269.68	1271.77	D	PhD	qrr	-1	0	Or do they do that on , Switchboard ?
+Bmr013.F.dialogueact442	1271.7	1272.45	F	Grad	s^na	-1	0	That 's what I was saying ,
+Bmr013.B.dialogueact444	1272.54	1276.24	B	Postdoc	s^cs	-1	0	W Well it seems like you could do both .
+Bmr013.F.dialogueact443	1272.45	1274.43	F	Grad	s^cs	-1	0	maybe meeting data isn't the right corpus .
+Bmr013.B.dialogueact445	1276.24	1281.72	B	Postdoc	s^cs.%--	-1	0	I mean , I was thinking that it would be interesting , to do it with respect to , parts of Switchboard anyway , in terms of ,
+Bmr013.C.dialogueact446	1277.81	1278.37	C	Professor	b	-1	0	Mm - hmm .
+Bmr013.B.dialogueact447	1281.83	1290.63	B	Postdoc	fh|s^df	-1	0	uh {disfmarker} partly to see , if you could , generate first guesses at what the articulatory feature would be , based on the phone representation at that lower level .
+Bmr013.C.dialogueact448	1283.36	1283.79	C	Professor	b	-1	0	Mm - hmm .
+Bmr013.B.dialogueact449	1290.76	1291.92	B	Postdoc	s	-1	0	It might be a time gain .
+Bmr013.B.dialogueact450	1292.28	1294.6	B	Postdoc	s.%-	-1	0	But also in terms of comparability of , um ,
+Bmr013.C.dialogueact451	1292.51	1292.89	C	Professor	b	-1	0	Mm - hmm .
+Bmr013.D.dialogueact452	1295.48	1301.19	D	PhD	s^df^na	-1	0	Well cuz the yeah , and then also , if you did it on Switchboard , you would have , the full continuum of transcriptions .
+Bmr013.B.dialogueact453	1298.94	1299.44	B	Postdoc	s^t1	-1	0	what you gain
+Bmr013.B.dialogueact454	1301.16	1301.35	B	Postdoc	s^aa	-1	0	Yep .
+Bmr013.D.dialogueact455	1301.19	1307.26	D	PhD	s	-1	0	You 'd have it , from the lowest level , the ac acoustic features , then you 'd have the , you know , the phonetic level that Steve did ,
+Bmr013.B.dialogueact456	1305.38	1305.58	B	Postdoc	s^aa	-1	0	Mm - hmm .
+Bmr013.G.dialogueact457	1305.92	1307.53	G	PhD	s^aa|s	-1	0	Yeah that {disfmarker} that 's all I was thinking about .
+Bmr013.B.dialogueact461	1307.65	1308.37	B	Postdoc	s.%-	-1	0	And you could tell that {disfmarker}
+Bmr013.D.dialogueact458	1307.26	1307.43	D	PhD	fh	-1	0	and ,
+Bmr013.D.dialogueact460	1307.6	1307.89	D	PhD	b	-1	0	yeah .
+Bmr013.G.dialogueact459	1307.53	1311.09	G	PhD	s.%-	-1	0	it is telephone band , so , the bandwidth might be {disfmarker}
+Bmr013.D.dialogueact462	1308.48	1310.39	D	PhD	s	-1	0	It 'd be a complete , set then .
+Bmr013.B.dialogueact463	1309.64	1311.65	B	Postdoc	s	-1	0	And you get the relative gain up ahead .
+Bmr013.C.dialogueact464	1311.33	1312.5	C	Professor	s	-1	0	It 's so it 's a little different .
+Bmr013.C.dialogueact466	1312.83	1318.91	C	Professor	fg|s	+1	1	So I mean i we 'll see wha how much we can , uh , get the people to do , and how much money we 'll have and all this sort of thing ,
+Bmr013.G.dialogueact465	1312.77	1313.31	G	PhD	b^rt	-1	0	Yeah .
+Bmr013.B.dialogueact467	1315.14	1315.48	B	Postdoc	b	-1	0	Mm - hmm .
+Bmr013.B.dialogueact468	1317.31	1317.5	B	Postdoc	b	-1	0	Mm - hmm .
+Bmr013.D.dialogueact469	1318.29	1328.91	D	PhD	s^cs	+1	1	But it {disfmarker} it might be good to do what Jane was saying uh , you know , seed it , with , guesses about what we think the features are , based on , you know , the phone or Steve 's transcriptions or something . to make it quicker .
+Bmr013.C.dialogueact470	1318.91	1319.07	C	Professor	fh	-1	0	but ,
+Bmr013.C.dialogueact471	1319.49	1320.15	C	Professor	s^e	-1	0	Might be do both .
+Bmr013.F.dialogueact472	1328.15	1333.22	F	Grad	s^bu	-1	0	Alright , so based on the phone transcripts they would all be synchronous , but then you could imagine , nudging them here and there .
+Bmr013.D.dialogueact473	1331.89	1332.45	D	PhD	s^2	-1	0	Adjusting ?
+Bmr013.D.dialogueact474	1332.71	1333.62	D	PhD	s^aa	-1	0	Yeah , exactly .
+Bmr013.B.dialogueact476	1335.14	1335.35	B	Postdoc	b	-1	0	Yeah .
+Bmr013.D.dialogueact475	1334.99	1336.51	D	PhD	s^cs.%--	-1	0	Scoot the voicing over a little , because {disfmarker}
+Bmr013.F.dialogueact477	1336.29	1336.6	F	Grad	s^aa	-1	0	Right .
+Bmr013.C.dialogueact478	1336.87	1343.42	C	Professor	s	-1	0	Well I think what {disfmarker} I mean I 'm {disfmarker} I 'm a l little behind in what they 're doing , now , and , uh , the stuff they 're doing on Switchboard now .
+Bmr013.C.dialogueact479	1343.42	1349.74	C	Professor	s	-1	0	But I think that , Steve and the gang are doing , something with an automatic system first and then doing some adjustment .
+Bmr013.C.dialogueact480	1350.02	1351.08	C	Professor	s^rt	-1	0	As I re as I recall .
+Bmr013.C.dialogueact481	1351.54	1361.97	C	Professor	s^cs^rt	+1	1	So I mean that 's probably the right way to go anyway , is to {disfmarker} is to start off with an automatic system with a pretty rich pronunciation dictionary that , that , um , you know , tries , to label it all .
+Bmr013.C.dialogueact482	1362.23	1364.35	C	Professor	s^e	+1	0	And then , people go through and fix it .
+Bmr013.B.dialogueact483	1365.54	1369.9	B	Postdoc	qy^bu^d^rt	-1	0	So in {disfmarker} in our case you 'd think about us s starting with maybe the regular dictionary entry ,
+Bmr013.B.dialogueact484	1370.21	1370.7	B	Postdoc	s.%--	-1	0	and then ?
+Bmr013.B.dialogueact486	1370.82	1371.74	B	Postdoc	qrr	-1	0	Or {pause} would we {disfmarker}
+Bmr013.C.dialogueact485	1370.81	1373.65	C	Professor	fg|s^nd	-1	0	Well , regular dictionary , I mean , this is a pretty rich dictionary .
+Bmr013.C.dialogueact487	1373.65	1375.81	C	Professor	s^e	-1	0	It 's got , got a fair number of pronunciations in it
+Bmr013.B.dialogueact489	1375.86	1376.03	B	Postdoc	fg	-1	0	But {disfmarker}
+Bmr013.D.dialogueact488	1375.47	1383.61	D	PhD	s^cs	-1	0	Or you could start from the {disfmarker} if we were gonna , do the same set , of sentences that Steve had , done , we could start with those transcriptions .
+Bmr013.B.dialogueact490	1383.25	1383.5	B	Postdoc	s^aa	-1	0	Mm - hmm .
+Bmr013.B.dialogueact493	1384.3	1384.79	B	Postdoc	s.%-	-1	0	So I was thinking {disfmarker}
+Bmr013.C.dialogueact491	1383.86	1384.12	C	Professor	s^aa	-1	0	Yeah .
+Bmr013.G.dialogueact492	1383.9	1385.78	G	PhD	s^na.%-	-1	0	That 's actually what I was thinking , is tha {disfmarker}
+Bmr013.D.dialogueact495	1385.72	1386.01	D	PhD	b.%	-1	0	Yeah .
+Bmr013.F.dialogueact494	1385.3	1385.52	F	Grad	b	-1	0	Right .
+Bmr013.G.dialogueact496	1385.92	1397.76	G	PhD	s	-1	0	the problem is when you run , uh , if you run a regular dictionary , um , even if you have variants , in there , which most people don't , you don't always get , out , the actual pronunciations ,
+Bmr013.D.dialogueact497	1394.11	1394.36	D	PhD	b	-1	0	Yeah .
+Bmr013.G.dialogueact498	1397.76	1401.49	G	PhD	s^df	-1	0	so that 's why the human transcriber 's giving you the {disfmarker} that pronunciation ,
+Bmr013.B.dialogueact499	1399.25	1399.39	B	Postdoc	b.%	-1	0	Yeah .
+Bmr013.B.dialogueact501	1401.34	1401.46	B	Postdoc	s^bk.%	-1	0	Oh .
+Bmr013.C.dialogueact500	1401.02	1403.06	C	Professor	s^nd	-1	0	Actually maybe they 're using phone recognizers .
+Bmr013.G.dialogueact502	1401.49	1401.9	G	PhD	s.%-	-1	0	and so y
+Bmr013.G.dialogueact503	1402.99	1404.53	G	PhD	s^na	-1	0	they {disfmarker} they {disfmarker} I thought that they were {disfmarker}
+Bmr013.C.dialogueact504	1403.51	1404.07	C	Professor	qy^rt	-1	0	Is that what they 're doing ?
+Bmr013.F.dialogueact505	1403.53	1403.83	F	Grad	s^aa.%	-1	0	They are .
+Bmr013.C.dialogueact507	1404.7	1405.1	C	Professor	s^bk	-1	0	Oh , OK .
+Bmr013.G.dialogueact506	1404.69	1406.41	G	PhD	s^cs.%--	-1	0	we should catch up on what Steve is ,
+Bmr013.C.dialogueact509	1406.94	1407.14	C	Professor	b	-1	0	Yeah .
+Bmr013.G.dialogueact508	1406.77	1409.19	G	PhD	h|s	-1	0	uh {disfmarker} I think that would be a good i good idea .
+Bmr013.C.dialogueact510	1408.62	1411.06	C	Professor	s.%--	-1	0	Yeah , so I think that i i we also don't have , I mean ,
+Bmr013.C.dialogueact511	1411.16	1412.2	C	Professor	s	-1	0	we 've got a good start on it ,
+Bmr013.C.dialogueact512	1412.2	1417.88	C	Professor	s	-1	0	but we don't have a really good , meeting , recorder or recognizer or transcriber or anything yet ,
+Bmr013.C.dialogueact513	1417.88	1418.1	C	Professor	fh	-1	0	so .
+Bmr013.C.dialogueact515	1418.61	1424.8	C	Professor	s^cs	+1	3	So , I mean another way to look at this is to , is to , uh , do some stuff on Switchboard which has all this other , stuff to it .
+Bmr013.G.dialogueact514	1418.26	1418.62	G	PhD	s^aa	-1	0	Yeah .
+Bmr013.C.dialogueact516	1424.93	1432.77	C	Professor	fh|s^cs	+1	1	And then , um , As we get , further down the road and we can do more things ahead of time , we can , do some of the same things to the meeting data .
+Bmr013.D.dialogueact517	1428.4	1428.74	D	PhD	b.%	-1	0	Mm - hmm .
+Bmr013.B.dialogueact518	1430.88	1430.97	B	Postdoc	b	-1	0	OK .
+Bmr013.D.dialogueact519	1432.95	1433.24	D	PhD	b	-1	0	Yeah .
+Bmr013.B.dialogueact520	1434.13	1439.47	B	Postdoc	s	-1	0	And I 'm {disfmarker} and these people might {disfmarker} they {disfmarker} they are , s most of them are trained with IPA .
+Bmr013.C.dialogueact521	1434.14	1434.35	C	Professor	b.%	-1	0	Yeah
+Bmr013.B.dialogueact522	1439.57	1442.53	B	Postdoc	s	-1	0	They 'd be able to do phonetic - level coding , or articulatory .
+Bmr013.D.dialogueact523	1441.78	1443.51	D	PhD	qr^rt.%--	-1	0	Are they busy for the next couple years , or {disfmarker} ?
+Bmr013.B.dialogueact524	1445.48	1449.22	B	Postdoc	s^na^rt	-1	0	Well , you know , I mean they , they {disfmarker} they 're interested in continuing working with us ,
+Bmr013.B.dialogueact525	1449.22	1460.63	B	Postdoc	s	-1	0	so {disfmarker} I mean {disfmarker} I , and this would be up their alley , so , we could {disfmarker} when the {disfmarker} when you d meet with , with John Ohala and find , you know what taxonomy you want to apply , then , they 'd be , good to train onto it .
+Bmr013.C.dialogueact526	1459.52	1459.76	C	Professor	b	-1	0	Yeah .
+Bmr013.C.dialogueact527	1460.91	1461.09	C	Professor	b	-1	0	Yeah .
+Bmr013.C.dialogueact528	1461.31	1464.06	C	Professor	s^tc	-1	0	Anyway , this is , not an urgent thing at all ,
+Bmr013.B.dialogueact529	1462.22	1462.38	B	Postdoc	b.%	-1	0	Yeah .
+Bmr013.C.dialogueact530	1464.06	1464.83	C	Professor	s^e	-1	0	just it came up .
+Bmr013.D.dialogueact531	1464.13	1466.16	D	PhD	s^ba	-1	0	It 'd be very interesting though , to have {pause} that data .
+Bmr013.B.dialogueact534	1466.44	1467.12	B	Postdoc	s^ba	-1	0	I think so , too .
+Bmr013.F.dialogueact533	1466.08	1467.78	F	Grad	qw	-1	0	I wonder , how would you do a forced alignment ?
+Bmr013.G.dialogueact532	1466.0	1466.36	G	PhD	s^aa	-1	0	Yeah .
+Bmr013.G.dialogueact535	1466.64	1466.9	G	PhD	%-	-1	0	Might {disfmarker}
+Bmr013.B.dialogueact536	1470.16	1470.9	B	Postdoc	s^ba	-1	0	Interesting idea .
+Bmr013.F.dialogueact537	1470.9	1473.17	F	Grad	s^cs^e	-1	0	To {disfmarker} to {disfmarker} I mean , you 'd wanna iterate , somehow .
+Bmr013.F.dialogueact538	1474.3	1474.47	F	Grad	b	-1	0	Yeah .
+Bmr013.F.dialogueact539	1474.6	1475.92	F	Grad	s^ba	-1	0	It 's interesting thing to think about .
+Bmr013.D.dialogueact541	1475.31	1475.46	D	PhD	b.%	-1	0	Hmm .
+Bmr013.G.dialogueact540	1475.17	1475.99	G	PhD	%-	-1	0	It might be {disfmarker}
+Bmr013.F.dialogueact543	1476.77	1478.53	F	Grad	s^cs	-1	0	I mean you 'd {disfmarker} you 'd want models for spreading .
+Bmr013.G.dialogueact542	1476.58	1477.42	G	PhD	s^cs.%-	-1	0	I was thinking it might be n
+Bmr013.D.dialogueact544	1480.23	1481.44	D	PhD	qy^bu^d^rt	-1	0	Of the f acoustic features ?
+Bmr013.F.dialogueact545	1481.02	1481.38	F	Grad	s^aa	-1	0	Yeah .
+Bmr013.C.dialogueact547	1481.88	1482.15	C	Professor	b	-1	0	Mm - hmm .
+Bmr013.D.dialogueact546	1481.57	1481.84	D	PhD	s^aa	-1	0	Mm - hmm .
+Bmr013.C.dialogueact548	1484.04	1484.22	C	Professor	b	-1	0	Yeah .
+Bmr013.G.dialogueact549	1484.8	1491.82	G	PhD	s^cs^rt	-1	0	Well it might be neat to do some , phonetic , features on these , nonword words .
+Bmr013.G.dialogueact550	1491.88	1496.57	G	PhD	qy^e	-1	0	Are {disfmarker} are these kinds of words that people never {disfmarker} the " huh "s and the " hmm "s and the " huh " {vocalsound} and the uh {disfmarker}
+Bmr013.G.dialogueact551	1496.97	1498.01	G	PhD	s^df	-1	0	These k No , I 'm serious .
+Bmr013.G.dialogueact552	1498.01	1502.02	G	PhD	s	-1	0	There are all these kinds of {pause} functional , uh , elements .
+Bmr013.G.dialogueact553	1502.02	1503.31	G	PhD	s^no	-1	0	I don't know what you call {pause} them .
+Bmr013.G.dialogueact554	1503.41	1507.49	G	PhD	s	-1	0	But not just fill pauses but all kinds of ways of {pause} interrupting {comment} and so forth .
+Bmr013.F.dialogueact555	1506.96	1507.3	F	Grad	b	-1	0	Uh - huh .
+Bmr013.G.dialogueact556	1507.54	1510.55	G	PhD	s^e	-1	0	And some of them are , {vocalsound} yeah , " uh - huh "s , and " hmm "s , and , " hmm ! "
+Bmr013.G.dialogueact557	1511.06	1513.14	G	PhD	s^e	-1	0	" hmm " {comment} " OK " , " uh " {comment} Grunts ,
+Bmr013.G.dialogueact558	1513.68	1513.92	G	PhD	fh	-1	0	uh ,
+Bmr013.G.dialogueact559	1514.02	1514.88	G	PhD	s^ba	-1	0	that might be interesting .
+Bmr013.B.dialogueact560	1515.54	1516.81	B	Postdoc	s.x	-1	0	He 's got lip {disfmarker} {pause} lipsmacks .
+Bmr013.G.dialogueact561	1515.87	1516.4	G	PhD	s^e.x	-1	0	In the meetings .
+Bmr013.C.dialogueact562	1519.09	1519.75	C	Professor	s^co^t	-1	0	We should move on .
+Bmr013.B.dialogueact563	1519.69	1519.81	B	Postdoc	s^aa	-1	0	Yeah .
+Bmr013.C.dialogueact564	1520.59	1523.96	C	Professor	h|qo^d^rt^t	-1	0	Uh , new version of , uh , presegmentation ?
+Bmr013.A.dialogueact565	1524.78	1535.49	A	PhD	fg|s^rt	+1	2	Uh , oh yeah , um , {vocalsound} I worked a little bit on the {disfmarker} on the presegmentation to {disfmarker} to get another version which does channel - specific , uh , speech - nonspeech detection .
+Bmr013.A.dialogueact566	1536.34	1550.14	A	PhD	s	+1	0	And , what I did is I used some normalized features which , uh , look in into the {disfmarker} which is normalized energy , uh , energy normalized by the mean over the channels and by the , minimum over the , other .
+Bmr013.A.dialogueact567	1551.28	1552.09	A	PhD	s^bsc^rt	+1	0	within each channel .
+Bmr013.A.dialogueact568	1552.93	1561.69	A	PhD	fh|s^rt	+1	1	And to {disfmarker} to , mm , to , yeah , to normalize also loudness and {disfmarker} and modified loudness and things and that those special features actually are in my feature vector .
+Bmr013.F.dialogueact569	1555.51	1555.64	F	Grad	s^bk.%	-1	0	Oh .
+Bmr013.A.dialogueact570	1562.54	1571.44	A	PhD	s^rt	+1	1	And , and , therefore to be able to , uh , somewhat distinguish between foreground and background speech in {disfmarker} in the different {disfmarker} in {disfmarker} each channel .
+Bmr013.A.dialogueact571	1572.17	1580.4	A	PhD	s^rt	+1	1	And , eh , I tested it on {disfmarker} on three or four meetings and it seems to work , well yeah , fairly well , I {disfmarker} I would say .
+Bmr013.A.dialogueact572	1580.88	1582.31	A	PhD	s^rt	+1	1	There are some problems with the lapel mike .
+Bmr013.F.dialogueact573	1582.37	1582.7	F	Grad	s^bk	-1	0	Of course .
+Bmr013.A.dialogueact574	1582.95	1583.32	A	PhD	b	-1	0	Yeah .
+Bmr013.A.dialogueact576	1584.91	1585.97	A	PhD	fh	-1	0	Uh , yeah .
+Bmr013.F.dialogueact575	1584.86	1585.37	F	Grad	s^ba	-1	0	Wow that 's great .
+Bmr013.A.dialogueact577	1586.62	1587.0	A	PhD	%-	-1	0	And .
+Bmr013.F.dialogueact578	1586.77	1590.21	F	Grad	s^bu	-1	0	So I {disfmarker} I understand that 's what you were saying about your problem with , minimum .
+Bmr013.A.dialogueact579	1589.56	1589.71	A	PhD	s^aa	-1	0	Yeah .
+Bmr013.A.dialogueact580	1589.84	1590.05	A	PhD	fg	-1	0	And .
+Bmr013.A.dialogueact581	1590.35	1593.31	A	PhD	s^aa|s.%-	-1	0	Yeah , and {disfmarker} and I had {disfmarker} I had , uh , specific problems with .
+Bmr013.F.dialogueact582	1590.42	1590.95	F	Grad	s^bk	-1	0	I get it .
+Bmr013.F.dialogueact583	1592.22	1595.48	F	Grad	s^bu	+1	0	So new use ninetieth quartile , rather than , minimum .
+Bmr013.A.dialogueact584	1594.33	1594.49	A	PhD	s^aa	-1	0	Yeah .
+Bmr013.A.dialogueact585	1594.99	1595.1	A	PhD	s^aa	-1	0	Yeah .
+Bmr013.B.dialogueact586	1595.62	1596.17	B	Postdoc	s^fe	-1	0	Wow .
+Bmr013.A.dialogueact587	1596.27	1598.97	A	PhD	fg|s	+1	0	Yeah {disfmarker} yeah , then {disfmarker} I {disfmarker} I did some {disfmarker} some {disfmarker} some things like that ,
+Bmr013.B.dialogueact588	1596.96	1597.48	B	Postdoc	s^ba	-1	0	Interesting .
+Bmr013.A.dialogueact589	1599.32	1606.77	A	PhD	s^df^rt	-1	0	as there {disfmarker} there are some {disfmarker} some problems in , when , in the channel , there {disfmarker} they {disfmarker} the the speaker doesn't {disfmarker} doesn't talk much or doesn't talk at all .
+Bmr013.A.dialogueact590	1607.35	1616.24	A	PhD	s	+1	1	Then , the , yeah , there are {disfmarker} there are some problems with {disfmarker} with {disfmarker} with n with normalization , and , then , uh , there the system doesn't work at all .
+Bmr013.A.dialogueact591	1616.81	1621.32	A	PhD	s	-1	0	So , I 'm {disfmarker} I 'm glad that there is the {disfmarker} the digit part , where everybody is forced to say something ,
+Bmr013.C.dialogueact592	1616.86	1617.08	C	Professor	b.%	-1	0	Right .
+Bmr013.A.dialogueact593	1621.8	1624.34	A	PhD	s^ba	-1	0	so , that 's {disfmarker} that 's great for {disfmarker} for my purpose .
+Bmr013.A.dialogueact594	1625.13	1632.06	A	PhD	s	+1	1	And , the thing is I {disfmarker} I , then the evaluation of {disfmarker} of the system is a little bit hard , as I don't have any references .
+Bmr013.F.dialogueact595	1632.09	1632.89	F	Grad	s^rt.%--	-1	0	Well we did the hand {disfmarker}
+Bmr013.F.dialogueact596	1632.95	1633.77	F	Grad	s^bsc	-1	0	the one by hand .
+Bmr013.A.dialogueact597	1634.13	1638.12	A	PhD	s^aa|s	-1	0	Yeah , that 's the one {disfmarker} one wh where I do the training on so I can't do the evaluation on
+Bmr013.A.dialogueact598	1639.21	1647.62	A	PhD	qy^rt	-1	0	So the thing is , can the transcribers perhaps do some , some {disfmarker} some meetings in {disfmarker} in terms of speech - nonspeech in {disfmarker} in the specific channels ?
+Bmr013.F.dialogueact599	1640.51	1640.91	F	Grad	b	-1	0	Uh .
+Bmr013.B.dialogueact601	1648.05	1648.63	B	Postdoc	s.%-	-1	0	Well , I have {disfmarker}
+Bmr013.D.dialogueact600	1647.69	1649.44	D	PhD	qy^bu^rt	-1	0	Well won't you have that from their transcriptions ?
+Bmr013.B.dialogueact602	1649.53	1651.04	B	Postdoc	fg|s.%-	-1	0	Well , OK , so , now we need {disfmarker}
+Bmr013.F.dialogueact603	1650.09	1651.27	F	Grad	s^ar|s^df	-1	0	No , cuz we need is really tight .
+Bmr013.A.dialogueact604	1651.09	1651.24	A	PhD	s^aa	-1	0	Yeah .
+Bmr013.B.dialogueact605	1651.33	1652.25	B	Postdoc	fg	-1	0	so , um ,
+Bmr013.B.dialogueact606	1652.58	1656.71	B	Postdoc	s	+1	0	I think I might have done what you 're requesting , though I did it in the service of a different thing .
+Bmr013.A.dialogueact607	1655.49	1656.13	A	PhD	s^ba	-1	0	Oh , great .
+Bmr013.B.dialogueact608	1656.95	1661.81	B	Postdoc	s	+1	0	I have thirty minutes that I 've more tightly transcribed with reference to individual channels .
+Bmr013.A.dialogueact609	1660.87	1661.24	A	PhD	b	-1	0	OK .
+Bmr013.A.dialogueact610	1662.03	1662.75	A	PhD	s^ba	-1	0	OK , that 's great .
+Bmr013.A.dialogueact611	1662.95	1663.27	A	PhD	s^ba^r^rt	-1	0	That 's great
+Bmr013.A.dialogueact613	1663.5	1664.1	A	PhD	fh	-1	0	for me . Yeah , so .
+Bmr013.B.dialogueact612	1663.26	1663.84	B	Postdoc	s^cs.%-	-1	0	And I could {disfmarker} And {disfmarker}
+Bmr013.B.dialogueact615	1664.46	1664.73	B	Postdoc	s.%-	-1	0	And {disfmarker}
+Bmr013.F.dialogueact614	1664.33	1665.96	F	Grad	s	-1	0	Hopefully that 's not the same meeting that we did .
+Bmr013.B.dialogueact616	1666.23	1667.38	B	Postdoc	s^ar|s^nd	-1	0	No , actually it 's a different meeting .
+Bmr013.F.dialogueact617	1667.15	1667.38	F	Grad	s^bk	-1	0	Good .
+Bmr013.A.dialogueact619	1668.01	1668.24	A	PhD	b	-1	0	OK .
+Bmr013.B.dialogueact618	1667.66	1674.87	B	Postdoc	fh|s	-1	0	So , um , e so the , you know , we have the , th they transcribe as if it 's one channel with these {disfmarker} with the slashes to separate the overlapping parts .
+Bmr013.A.dialogueact621	1674.89	1675.1	A	PhD	b.%	-1	0	Yeah .
+Bmr013.B.dialogueact620	1674.87	1680.74	B	Postdoc	s	-1	0	And then we run it through {disfmarker} then it {disfmarker} then I 'm gonna edit it and I 'm gonna run it through channelize which takes it into Dave Gelbart 's form format .
+Bmr013.A.dialogueact622	1679.98	1680.12	A	PhD	b.%	-1	0	Yeah .
+Bmr013.B.dialogueact623	1680.74	1683.38	B	Postdoc	s	-1	0	And then you have , all these things split across according to channel ,
+Bmr013.B.dialogueact624	1683.38	1692.49	B	Postdoc	s	-1	0	and then that means that , if a person contributed more than once in a given , overlap during that time bend that {disfmarker} that two parts of the utterance end up together , it 's the same channel ,
+Bmr013.A.dialogueact626	1693.05	1693.31	A	PhD	b	-1	0	OK .
+Bmr013.B.dialogueact625	1692.89	1702.15	B	Postdoc	s	-1	0	and then I took his tool , and last night for the first thirty minutes of one of these transcripts , I , tightened up the , um , boundaries on individual speakers ' channels ,
+Bmr013.A.dialogueact627	1700.88	1701.27	A	PhD	b	-1	0	OK .
+Bmr013.A.dialogueact629	1702.48	1702.63	A	PhD	b	-1	0	Yeah .
+Bmr013.B.dialogueact628	1702.15	1707.02	B	Postdoc	s	-1	0	cuz his {disfmarker} his interface allows me to have total flexibility in the time tags across the channels .
+Bmr013.A.dialogueact630	1706.26	1706.4	A	PhD	b.%	-1	0	Yeah .
+Bmr013.B.dialogueact631	1707.59	1709.84	B	Postdoc	fh	-1	0	And {pause} um , so .
+Bmr013.A.dialogueact633	1709.37	1718.7	A	PhD	s^arp|s^cs	+1	0	so , yeah {disfmarker} yeah , that {disfmarker} that {disfmarker} that 's great , but what would be nice to have some more meetings , not just one meeting to {disfmarker} to be sure that {disfmarker} that , there is a system ,
+Bmr013.D.dialogueact632	1709.12	2011.83	D	PhD	s	-1	0	So , current {disfmarker} This week .
+Bmr013.B.dialogueact634	1712.15	1712.48	B	Postdoc	b	-1	0	Yes .
+Bmr013.B.dialogueact635	1712.74	1713.48	B	Postdoc	s^2	-1	0	Might not be what you need .
+Bmr013.F.dialogueact636	1718.17	1722.19	F	Grad	s^cs	+1	0	Yeah , so if we could get a couple meetings done with that level of precision I think that would be a good idea .
+Bmr013.A.dialogueact637	1720.29	1720.61	A	PhD	s^bk	-1	0	OK .
+Bmr013.A.dialogueact639	1722.64	1722.79	A	PhD	b	-1	0	Yeah .
+Bmr013.B.dialogueact638	1722.42	1722.79	B	Postdoc	s^bk	-1	0	Oh , OK .
+Bmr013.B.dialogueact640	1723.54	1724.69	B	Postdoc	qw.%-	-1	0	Uh , how {disfmarker} how m much
+Bmr013.B.dialogueact641	1725.21	1726.7	B	Postdoc	s	-1	0	time {disfmarker} so the meetings vary in length ,
+Bmr013.B.dialogueact642	1726.79	1731.25	B	Postdoc	qw	-1	0	what are we talking about in terms of the number of minutes you 'd like to have as your {disfmarker} as your training set ?
+Bmr013.A.dialogueact643	1732.69	1737.23	A	PhD	s^cs	+1	1	It seems to me that it would be good to have , a few minutes from {disfmarker} from different meetings ,
+Bmr013.A.dialogueact644	1737.67	1738.15	A	PhD	h	-1	0	so .
+Bmr013.A.dialogueact645	1739.02	1740.63	A	PhD	s^e^no	-1	0	But I 'm not sure about how much .
+Bmr013.B.dialogueact646	1741.06	1745.85	B	Postdoc	qr^bu^d^rt.%--	-1	0	OK , now you 're saying different meetings because of different speakers or because of different audio quality or both or {disfmarker} ?
+Bmr013.A.dialogueact647	1745.41	1745.72	A	PhD	s	-1	0	Both {disfmarker}
+Bmr013.A.dialogueact648	1745.99	1746.41	A	PhD	s^r	-1	0	both .
+Bmr013.A.dialogueact650	1746.52	1750.61	A	PhD	s	-1	0	Different {disfmarker} different number of speakers , different speakers , different {pause} conditions .
+Bmr013.B.dialogueact649	1746.04	1746.43	B	Postdoc	s^bk	-1	0	OK .
+Bmr013.C.dialogueact651	1749.74	1752.41	C	Professor	fg|s	-1	0	Yeah , we don't have that much variety in meetings yet ,
+Bmr013.C.dialogueact652	1752.41	1758.94	C	Professor	fh|s.%--	-1	0	uh , I mean we have this meeting and the feature meeting and we have a couple others that we have uh , couple examples of . But {disfmarker} but , uh ,
+Bmr013.A.dialogueact653	1754.61	1754.8	A	PhD	s^arp.%-	-1	0	Yeah , m
+Bmr013.A.dialogueact654	1757.81	1757.94	A	PhD	b	-1	0	Yeah .
+Bmr013.B.dialogueact655	1758.01	1758.43	B	Postdoc	b	-1	0	Mm - hmm .
+Bmr013.E.dialogueact656	1759.8	1763.09	E	Grad	s^cs.%--	-1	0	Even probably with the gains {pause} differently will affect it , you mean {disfmarker}
+Bmr013.A.dialogueact657	1763.76	1764.7	A	PhD	h|s^ar.%-	-1	0	Uh , not really as {disfmarker}
+Bmr013.C.dialogueact658	1763.83	1764.68	C	Professor	s	-1	0	Poten - potentially .
+Bmr013.A.dialogueact660	1765.32	1766.5	A	PhD	s^df^na|s^aa	-1	0	uh , because of the normalization , yeah .
+Bmr013.E.dialogueact659	1764.84	1766.27	E	Grad	qy^bu^d^rt	-1	0	Oh , cuz you use the normalization ?
+Bmr013.E.dialogueact661	1766.27	1766.63	E	Grad	s^bk^rt	-1	0	OK .
+Bmr013.A.dialogueact663	1767.02	1767.15	A	PhD	b.%	-1	0	Yeah .
+Bmr013.C.dialogueact662	1767.01	1767.41	C	Professor	s^bk	-1	0	Oh , OK .
+Bmr013.G.dialogueact664	1767.41	1768.33	G	PhD	s^cs.%--	-1	0	We can try running {disfmarker}
+Bmr013.G.dialogueact665	1768.33	1775.04	G	PhD	s^rt	-1	0	we haven't done this yet because , um , uh , Andreas an is {disfmarker} is gonna move over the SRI recognizer .
+Bmr013.G.dialogueact666	1775.04	1777.28	G	PhD	s^df	-1	0	i basically I ran out of machines at SRI ,
+Bmr013.A.dialogueact668	1777.69	1777.93	A	PhD	b	-1	0	OK .
+Bmr013.G.dialogueact667	1777.28	1778.45	G	PhD	s^df	-1	0	cuz we 're running the evals
+Bmr013.G.dialogueact669	1778.51	1780.0	G	PhD	s^df	-1	0	and I just don't have machine time there .
+Bmr013.G.dialogueact670	1780.49	1805.88	G	PhD	s^cs	-1	0	But , once that 's moved over , uh , hopefully in a {disfmarker} a couple days , then , we can take , um , what Jane just told us about as , the presegmented , {vocalsound} {nonvocalsound} the {disfmarker} the segmentations that you did , at level eight or som {comment} at some , threshold that Jane , tha {pause} right , and try doing , forced alignment . um , on the word strings .
+Bmr013.F.dialogueact671	1789.02	1789.97	F	Grad	s^fe^t1.%	-1	0	Oh , shoot !
+Bmr013.A.dialogueact672	1793.74	1793.88	A	PhD	b	-1	0	Yeah .
+Bmr013.A.dialogueact673	1795.15	1795.31	A	PhD	b	-1	0	Yeah .
+Bmr013.B.dialogueact674	1797.91	1799.07	B	Postdoc	s^2	-1	0	The pre presegment
+Bmr013.A.dialogueact675	1799.16	1799.28	A	PhD	b	-1	0	Yeah .
+Bmr013.B.dialogueact676	1799.19	1799.38	B	Postdoc	b	-1	0	yeah .
+Bmr013.A.dialogueact677	1804.77	1805.46	A	PhD	qy^bu	-1	0	With the recognizer ?
+Bmr013.A.dialogueact678	1805.71	1806.06	A	PhD	b	-1	0	Yeah .
+Bmr013.G.dialogueact679	1805.88	1809.11	G	PhD	s	-1	0	And if it 's good , then that will {disfmarker} that may give you a good boundary .
+Bmr013.G.dialogueact680	1809.11	1811.49	G	PhD	s	-1	0	Of course if it 's good , we don't {disfmarker} then we 're {disfmarker} we 're fine ,
+Bmr013.A.dialogueact681	1810.98	1811.19	A	PhD	fg	-1	0	Yeah .
+Bmr013.A.dialogueact682	1811.19	1811.33	A	PhD	%-	-1	0	M
+Bmr013.G.dialogueact683	1811.49	1817.58	G	PhD	s^no	-1	0	but , I don't know yet whether these , segments that contain a lot of pauses around the words , will work or not .
+Bmr013.A.dialogueact684	1816.6	1830.02	A	PhD	s^cs	-1	0	I {disfmarker} I would quite like to have some manually transcribed references for {disfmarker} for the system , as I 'm not sure if {disfmarker} if it 's really good to compare with {disfmarker} with some other automatic , found boundaries .
+Bmr013.G.dialogueact685	1820.98	1821.4	G	PhD	s^bk	-1	0	Yeah .
+Bmr013.G.dialogueact686	1828.33	1828.61	G	PhD	b	-1	0	Right .
+Bmr013.B.dialogueact687	1830.34	1834.32	B	Postdoc	s^ng|qy^cs^d^rt	-1	0	Well , no , if we were to start with this and then tweak it h manually , would that {disfmarker} that would be OK ?
+Bmr013.A.dialogueact688	1831.99	1832.16	A	PhD	b	-1	0	Yeah .
+Bmr013.G.dialogueact689	1833.2	1833.52	G	PhD	b	-1	0	Right .
+Bmr013.A.dialogueact690	1833.85	1834.49	A	PhD	s^aa	-1	0	Yeah {pause} sure .
+Bmr013.G.dialogueact691	1834.25	1835.27	G	PhD	s^am	-1	0	They might be OK .
+Bmr013.B.dialogueact692	1834.8	1834.95	B	Postdoc	b.%	-1	0	OK .
+Bmr013.G.dialogueact693	1835.27	1837.18	G	PhD	s	-1	0	It {disfmarker} you know it really depends on a lot of things ,
+Bmr013.A.dialogueact694	1836.11	1836.33	A	PhD	b	-1	0	Yeah .
+Bmr013.G.dialogueact695	1837.18	1843.26	G	PhD	s	-1	0	but , I would have maybe a transciber , uh , look at the result of a forced alignment and then adjust those .
+Bmr013.A.dialogueact696	1840.16	1840.36	A	PhD	b	-1	0	Yeah .
+Bmr013.A.dialogueact697	1840.74	1841.9	A	PhD	s^2.%--	-1	0	To a adjust them , or ,
+Bmr013.A.dialogueact698	1841.9	1842.15	A	PhD	s^aa	-1	0	yeah .
+Bmr013.A.dialogueact699	1842.53	1843.23	A	PhD	s^aa^r	-1	0	Yeah , yeah .
+Bmr013.G.dialogueact700	1843.26	1844.49	G	PhD	s	-1	0	That might save some time .
+Bmr013.A.dialogueact702	1845.18	1845.6	A	PhD	s^aa	-1	0	Yeah , great .
+Bmr013.G.dialogueact701	1844.94	1846.42	G	PhD	s	-1	0	If they 're horrible it won't help at all ,
+Bmr013.G.dialogueact703	1846.42	1847.79	G	PhD	s	-1	0	but they might not be horrible .
+Bmr013.A.dialogueact704	1848.1	1848.21	A	PhD	b	-1	0	Yeah .
+Bmr013.G.dialogueact705	1848.87	1852.08	G	PhD	s^cc	-1	0	So {disfmarker} but I 'll let you know when we , uh , have that .
+Bmr013.A.dialogueact706	1850.9	1851.41	A	PhD	s^ba	-1	0	OK , great .
+Bmr013.B.dialogueact707	1852.48	1853.97	B	Postdoc	qw^rt.%--	-1	0	How many minutes would you want from {disfmarker}
+Bmr013.B.dialogueact708	1854.01	1862.74	B	Postdoc	s	-1	0	I mean , we could {pause} easily , get a section , you know , like say a minute or so , from every meeting that we have so f from the newer ones that we 're working on , everyone that we have .
+Bmr013.B.dialogueact709	1863.3	1863.75	B	Postdoc	%--	-1	0	And then ,
+Bmr013.B.dialogueact710	1866.25	1867.07	B	Postdoc	s	-1	0	should provide this .
+Bmr013.A.dialogueact711	1866.93	1870.21	A	PhD	s	-1	0	If it 's not the first minute of {disfmarker} of the meeting , that {disfmarker} that 's OK with me ,
+Bmr013.A.dialogueact712	1870.21	1879.99	A	PhD	s	-1	0	but , in {disfmarker} in the first minute , uh , Often there are some {disfmarker} some strange things going on which {disfmarker} which aren't really , well , for , which {disfmarker} which aren't re re really good .
+Bmr013.A.dialogueact713	1880.46	1886.94	A	PhD	fh|s^rt	-1	0	So . What {disfmarker} what I 'd quite like , perhaps , is , to have , some five minutes of {disfmarker} of {disfmarker} of different meetings ,
+Bmr013.A.dialogueact714	1887.39	1887.79	A	PhD	fh	-1	0	so .
+Bmr013.B.dialogueact715	1888.81	1891.63	B	Postdoc	s^bs	-1	0	Somewhere not in the very beginning , five minutes , OK .
+Bmr013.A.dialogueact716	1891.48	1891.58	A	PhD	b	-1	0	Yeah .
+Bmr013.B.dialogueact717	1892.4	1894.65	B	Postdoc	s	-1	0	And , then I wanted to ask you just for my inter information ,
+Bmr013.B.dialogueact718	1894.65	1896.91	B	Postdoc	qy.%--	-1	0	then , would you , be trai
+Bmr013.B.dialogueact719	1897.45	1898.16	B	Postdoc	s^df.%--	-1	0	cuz I don't quite unders
+Bmr013.B.dialogueact720	1898.21	1905.6	B	Postdoc	qy^rt	+1	0	so , would you be training then , um , the segmenter so that , it could , on the basis of that , segment the rest of the meeting ?
+Bmr013.B.dialogueact721	1905.6	1913.1	B	Postdoc	qy^rt	-1	0	So , if I give you like {pause} five minutes is the idea that this would then be applied to , uh , to , providing tighter time {pause} bands ?
+Bmr013.A.dialogueact722	1910.9	1913.57	A	PhD	s^aa	+1	0	I {disfmarker} I could do a {disfmarker} a retraining with that , yeah .
+Bmr013.B.dialogueact723	1914.11	1914.76	B	Postdoc	s^ba	-1	0	Wow , interesting .
+Bmr013.A.dialogueact724	1914.69	1917.78	A	PhD	s	-1	0	That 's {disfmarker} but {disfmarker} but I hope that I {disfmarker} I don't need to do it .
+Bmr013.B.dialogueact725	1915.34	1915.64	B	Postdoc	b	-1	0	OK .
+Bmr013.A.dialogueact727	1918.5	1921.28	A	PhD	s	-1	0	So , uh it c can be do in an unsupervised way .
+Bmr013.B.dialogueact726	1918.49	1918.69	B	Postdoc	b	-1	0	Uh - huh .
+Bmr013.A.dialogueact729	1923.02	1923.26	A	PhD	%-	-1	0	So .
+Bmr013.B.dialogueact728	1922.99	1923.36	B	Postdoc	s^bk	-1	0	Excellent .
+Bmr013.B.dialogueact730	1923.41	1923.98	B	Postdoc	s^bk^r	-1	0	Excellent , OK .
+Bmr013.A.dialogueact731	1924.45	1925.17	A	PhD	s^am	-1	0	I 'm {disfmarker} I 'm not sure ,
+Bmr013.A.dialogueact732	1925.37	1931.51	A	PhD	s	-1	0	but , for {disfmarker} for {disfmarker} for those three meetings whi which I {disfmarker} which I did , it seems to be , quite well ,
+Bmr013.A.dialogueact733	1931.51	1934.72	A	PhD	s	+1	1	but , there are some {disfmarker} some {disfmarker} as I said some problems with the lapel mike ,
+Bmr013.A.dialogueact734	1934.78	1940.57	A	PhD	s^cs	+1	1	but , perhaps we can do something with {disfmarker} with cross - correlations to , to get rid of the {disfmarker} of those .
+Bmr013.A.dialogueact735	1941.39	1941.77	A	PhD	fh	-1	0	And .
+Bmr013.A.dialogueact736	1943.2	1943.3	A	PhD	fh	-1	0	Yeah .
+Bmr013.A.dialogueact737	1943.57	1945.93	A	PhD	s	-1	0	That 's {disfmarker} that 's what I {disfmarker} that 's my {pause} future work .
+Bmr013.A.dialogueact738	1945.93	1952.0	A	PhD	s	+1	1	Well {disfmarker} well what I want to do is to {disfmarker} to look into cross - correlations for {disfmarker} for removing those , false overlaps .
+Bmr013.B.dialogueact739	1953.17	1953.46	B	Postdoc	s^ba	-1	0	Wonderful .
+Bmr013.G.dialogueact740	1953.67	1958.04	G	PhD	qy^rt	-1	0	Are the , um , wireless , different than the wired , mikes , at all ?
+Bmr013.G.dialogueact741	1958.12	1959.52	G	PhD	qy^rt	-1	0	I mean , have you noticed any difference ?
+Bmr013.A.dialogueact742	1958.96	1966.85	A	PhD	s^no	-1	0	I 'm {disfmarker} I 'm not sure , um , if {disfmarker} if there are any wired mikes in those meetings , or , uh , I have {disfmarker} have to loo have a look at them
+Bmr013.A.dialogueact743	1966.85	1969.65	A	PhD	s^ar	-1	0	but , I 'm {disfmarker} I 'm {disfmarker} I think there 's no difference between ,
+Bmr013.G.dialogueact744	1970.09	1971.98	G	PhD	qy^bu^d^rt	-1	0	So it 's just the lapel versus everything else ?
+Bmr013.A.dialogueact745	1971.32	1971.42	A	PhD	s^aa	-1	0	Yeah .
+Bmr013.A.dialogueact746	1972.06	1972.21	A	PhD	s^aa^r	-1	0	Yeah .
+Bmr013.B.dialogueact747	1973.36	1979.64	B	Postdoc	s	-1	0	OK , so then , if that 's five minutes per meeting we 've got like twelve minutes , twelve meetings , roughly , that I 'm {disfmarker} that I 've been working with , then {disfmarker}
+Bmr013.C.dialogueact748	1979.07	1982.88	C	Professor	qw.%--	-1	0	Of {disfmarker} of {disfmarker} of the meetings that you 're working with , how many of them are different , tha
+Bmr013.A.dialogueact749	1979.82	1980.01	A	PhD	s^ar.%	-1	0	No .
+Bmr013.C.dialogueact750	1982.88	1986.66	C	Professor	qy	-1	0	are there any of them that are different than , these two meetings ?
+Bmr013.B.dialogueact751	1987.03	1989.81	B	Postdoc	qr.%--	-1	0	Well {disfmarker} oh wa in terms of the speakers or the conditions or the ?
+Bmr013.C.dialogueact752	1989.35	1990.03	C	Professor	s	-1	0	Yeah , speakers .
+Bmr013.C.dialogueact753	1990.08	1990.5	C	Professor	s^fa	-1	0	Sorry .
+Bmr013.A.dialogueact756	1990.88	1991.39	A	PhD	%-	-1	0	Yeah , that {disfmarker}
+Bmr013.B.dialogueact755	1990.6	1993.55	B	Postdoc	h|s^aa^rt	-1	0	Um , we have different combinations of speakers .
+Bmr013.C.dialogueact754	1990.5	1990.95	C	Professor	fh	-1	0	So .
+Bmr013.B.dialogueact757	1993.64	1998.45	B	Postdoc	s^e	-1	0	I mean , just from what I 've seen , uh , there are some where , um , you 're present or not present ,
+Bmr013.B.dialogueact758	1998.45	2001.23	B	Postdoc	s^e	-1	0	and , then {disfmarker} then you have the difference between the networks group and this group
+Bmr013.A.dialogueact759	2001.24	2002.79	A	PhD	s	-1	0	Yeah , I know , some of the NSA meetings , yeah .
+Bmr013.C.dialogueact760	2001.57	2001.68	C	Professor	fg	-1	0	Yeah .
+Bmr013.C.dialogueact761	2001.68	2003.37	C	Professor	s^no.%--	-1	0	So I didn't know in the group you had if you had {disfmarker}
+Bmr013.A.dialogueact762	2003.32	2003.51	A	PhD	b	-1	0	Yeah .
+Bmr013.C.dialogueact763	2003.37	2004.87	C	Professor	qy^bu^d^rt	-1	0	so you have the networks meeting ?
+Bmr013.A.dialogueact765	2004.74	2004.88	A	PhD	s^aa	-1	0	Yeah .
+Bmr013.B.dialogueact764	2004.59	2005.19	B	Postdoc	s^aa	-1	0	Yep , we do .
+Bmr013.C.dialogueact766	2005.46	2007.73	C	Professor	qy^r.%--	-1	0	Do you have any of Jerry 's meetings in your , pack , er ,
+Bmr013.B.dialogueact767	2007.41	2007.97	B	Postdoc	h|s^ar	-1	0	Um , no .
+Bmr013.C.dialogueact768	2008.19	2008.47	C	Professor	s^bk^m	-1	0	No ?
+Bmr013.B.dialogueact769	2009.05	2009.63	B	Postdoc	s^bsc^rt.%--	-1	0	We could ,
+Bmr013.B.dialogueact770	2009.63	2011.13	B	Postdoc	s	-1	0	I mean you {disfmarker} you recorded one last week or so .
+Bmr013.B.dialogueact771	2011.13	2013.43	B	Postdoc	s^cc	-1	0	I could get that new one in this week {disfmarker} I get that new one in .
+Bmr013.F.dialogueact772	2011.32	2011.52	F	Grad	b	-1	0	Yep .
+Bmr013.F.dialogueact774	2012.73	2012.89	F	Grad	%	-1	0	u
+Bmr013.G.dialogueact773	2012.5	2014.62	G	PhD	s	-1	0	We 're gonna be recording them every {pause} Monday ,
+Bmr013.C.dialogueact775	2013.9	2014.23	C	Professor	b	-1	0	Yeah .
+Bmr013.C.dialogueact776	2014.85	2016.59	C	Professor	s^df	-1	0	Cuz I think he really needs variety ,
+Bmr013.G.dialogueact777	2015.1	2015.48	G	PhD	fh	-1	0	so {disfmarker}
+Bmr013.A.dialogueact780	2016.91	2017.14	A	PhD	b	-1	0	Yeah .
+Bmr013.B.dialogueact779	2016.68	2016.91	B	Postdoc	b	-1	0	Great .
+Bmr013.C.dialogueact778	2016.59	2020.83	C	Professor	s^e	+1	0	and {disfmarker} and having as much variety for speaker certainly would be a big part of that I think .
+Bmr013.A.dialogueact781	2020.88	2021.06	A	PhD	b	-1	0	Yeah .
+Bmr013.B.dialogueact782	2021.08	2021.82	B	Postdoc	s.%--	-1	0	OK , so if I ,
+Bmr013.B.dialogueact783	2022.18	2023.43	B	Postdoc	s^t1.%--	-1	0	OK , included {disfmarker} include ,
+Bmr013.B.dialogueact784	2023.91	2028.52	B	Postdoc	s	-1	0	OK , then , uh , if I were to include all together samples from twelve meetings that would only take an hour
+Bmr013.B.dialogueact785	2028.52	2029.9	B	Postdoc	s^cc	-1	0	and I could get the transcribers to do that
+Bmr013.B.dialogueact786	2029.9	2030.19	B	Postdoc	qy^d^g^rt	-1	0	right {disfmarker}
+Bmr013.B.dialogueact787	2030.19	2034.47	B	Postdoc	s	-1	0	I mean , what I mean is , that would be an hour sampled , and then they 'd transcribe those {disfmarker} that hour ,
+Bmr013.B.dialogueact788	2034.47	2034.71	B	Postdoc	qy^d^g^rt	-1	0	right ?
+Bmr013.B.dialogueact789	2034.83	2035.66	B	Postdoc	qy^rt	-1	0	That 's what I should do ?
+Bmr013.C.dialogueact790	2035.12	2035.43	C	Professor	s^aa	-1	0	Yeah .
+Bmr013.C.dialogueact791	2036.91	2037.22	C	Professor	s.%--	-1	0	And .
+Bmr013.A.dialogueact794	2037.6	2038.17	A	PhD	%-	-1	0	That 's {disfmarker} that 's .
+Bmr013.B.dialogueact795	2037.69	2038.38	B	Postdoc	s^bsc	-1	0	I don't mean transcribe
+Bmr013.C.dialogueact792	2037.37	2037.57	C	Professor	fh	-1	0	Right .
+Bmr013.C.dialogueact793	2037.57	2038.68	C	Professor	%-	-1	0	Ye - But you 're {disfmarker} y
+Bmr013.B.dialogueact796	2038.38	2039.35	B	Postdoc	s	-1	0	I mean {disfmarker} I mean adjust .
+Bmr013.B.dialogueact797	2039.35	2043.59	B	Postdoc	s^e	-1	0	So they get it into the multi - channel format and then adjust the timebands so it 's precise .
+Bmr013.C.dialogueact798	2042.63	2045.11	C	Professor	s^bu	-1	0	So that should be faster than the ten times kind of thing ,
+Bmr013.B.dialogueact799	2044.53	2045.09	B	Postdoc	s^aa	-1	0	Absolutely .
+Bmr013.B.dialogueact801	2045.27	2049.73	B	Postdoc	s.%--	-1	0	I did {disfmarker} I did , um , uh , so , last night I did , uh ,
+Bmr013.C.dialogueact800	2045.11	2045.4	C	Professor	fh	-1	0	yeah .
+Bmr013.B.dialogueact802	2049.73	2050.56	B	Postdoc	s^t1	-1	0	Oh gosh ,
+Bmr013.B.dialogueact803	2051.29	2058.15	B	Postdoc	s	-1	0	well , last night , I did about half an hour in , three hours , which is not , terrific ,
+Bmr013.C.dialogueact804	2055.91	2056.27	C	Professor	b	-1	0	Yeah .
+Bmr013.B.dialogueact805	2058.15	2058.73	B	Postdoc	fh	-1	0	but , um ,
+Bmr013.B.dialogueact807	2059.16	2060.78	B	Postdoc	s.%--	-1	0	anyway , it 's an hour and a half per {disfmarker}
+Bmr013.C.dialogueact806	2059.06	2059.29	C	Professor	b	-1	0	Yeah .
+Bmr013.C.dialogueact808	2059.29	2060.1	C	Professor	%-	-1	0	Well , that 's probably .
+Bmr013.A.dialogueact809	2062.16	2062.38	A	PhD	fg	-1	0	So .
+Bmr013.B.dialogueact810	2062.23	2064.89	B	Postdoc	s	-1	0	Well , I can't calculate on my , {vocalsound} on my feet .
+Bmr013.A.dialogueact811	2064.17	2069.08	A	PhD	qr^rt.%--	-1	0	Do the transcribers actually start wi with , uh , transcribing new meetings , or {pause} are they ?
+Bmr013.B.dialogueact812	2069.42	2073.91	B	Postdoc	h|s^ng	-1	0	Well , um they 're still working {disfmarker} they still have enough to finish that I haven't assigned a new meeting ,
+Bmr013.A.dialogueact813	2072.75	2072.95	A	PhD	s^bk	-1	0	OK .
+Bmr013.B.dialogueact814	2073.91	2075.24	B	Postdoc	%--	-1	0	but the next , m m
+Bmr013.B.dialogueact815	2075.24	2077.1	B	Postdoc	s	-1	0	I was about to need to assign a new meeting
+Bmr013.B.dialogueact816	2077.1	2078.55	B	Postdoc	s^e	-1	0	and I was going to take it from one of the new ones ,
+Bmr013.A.dialogueact817	2077.99	2078.21	A	PhD	b	-1	0	OK .
+Bmr013.B.dialogueact818	2078.55	2080.53	B	Postdoc	s^e	-1	0	and I could easily give them Jerry Feldman 's meeting ,
+Bmr013.B.dialogueact819	2080.53	2081.01	B	Postdoc	s	-1	0	no problem .
+Bmr013.B.dialogueact820	2082.18	2083.82	B	Postdoc	fh	-1	0	And , then {disfmarker}
+Bmr013.A.dialogueact821	2082.81	2083.12	A	PhD	b	-1	0	OK .
+Bmr013.G.dialogueact822	2084.29	2087.05	G	PhD	s	-1	0	So they 're really running out of , data , prett I mean that 's good .
+Bmr013.B.dialogueact823	2086.72	2086.88	B	Postdoc	s^aa	-1	0	Mm - hmm .
+Bmr013.B.dialogueact824	2087.1	2087.82	B	Postdoc	s	-1	0	Uh , that first set .
+Bmr013.G.dialogueact825	2087.4	2088.22	G	PhD	s^bk	-1	0	Um , OK .
+Bmr013.C.dialogueact826	2088.56	2093.89	C	Professor	s	-1	0	They 're running out of data unless we s make the decision that we should go over and start , uh , transcribing the other set .
+Bmr013.G.dialogueact827	2089.21	2089.84	G	PhD	%-	-1	0	So {disfmarker}
+Bmr013.C.dialogueact828	2094.46	2095.89	C	Professor	s^rt	-1	0	There {disfmarker} the first {disfmarker} the first half .
+Bmr013.A.dialogueact830	2100.48	2100.83	A	PhD	b.%	-1	0	Yeah .
+Bmr013.B.dialogueact829	2100.42	2103.24	B	Postdoc	s	-1	0	And so I was in the process of like editing them but this is wonderful news .
+Bmr013.A.dialogueact831	2103.02	2103.33	A	PhD	b.%	-1	0	OK .
+Bmr013.C.dialogueact832	2103.65	2103.85	C	Professor	b.%	-1	0	Alright .
+Bmr013.B.dialogueact833	2104.15	2105.64	B	Postdoc	s.%--	-1	0	We funded the experiment with , uh {disfmarker}
+Bmr013.B.dialogueact834	2105.7	2108.4	B	Postdoc	s.%--	-1	0	also we were thinking maybe applying that that to getting the ,
+Bmr013.B.dialogueact835	2109.2	2112.58	B	Postdoc	fh|s	-1	0	Yeah , that 'll be , very useful to getting the overlaps to be more precise all the way through .
+Bmr013.C.dialogueact836	2113.49	2116.37	C	Professor	s	+1	0	So this , blends nicely into the update on transcripts .
+Bmr013.B.dialogueact837	2116.34	2116.83	B	Postdoc	s^aa	-1	0	Yes , it does .
+Bmr013.B.dialogueact839	2117.34	2124.52	B	Postdoc	s^t^tc	-1	0	So , um , {comment} um , Liz , and {disfmarker} and Don , and I met this morning , in the BARCO room , with the lecture hall ,
+Bmr013.C.dialogueact838	2117.03	2117.25	C	Professor	b.%	-1	0	OK .
+Bmr013.G.dialogueact840	2119.29	2119.76	G	PhD	s^t3	-1	0	Yeah , please .
+Bmr013.G.dialogueact841	2119.97	2120.3	G	PhD	s^co	-1	0	Go ahead .
+Bmr013.G.dialogueact842	2123.67	2124.75	G	PhD	s^2	-1	0	And this afternoon .
+Bmr013.B.dialogueact843	2125.31	2126.02	B	Postdoc	s^m	-1	0	and this afternoon ,
+Bmr013.B.dialogueact844	2126.02	2138.54	B	Postdoc	s	+1	1	it drifted into the afternoon , {comment} {vocalsound} uh , concerning this issue of , um , the , well there 's basically the issue of the interplay between the transcript format and the processing that , they need to do for , the SRI recognizer .
+Bmr013.B.dialogueact845	2139.22	2144.57	B	Postdoc	fh|s	-1	0	And , um , well , so , I mentioned the process that I 'm going through with the data ,
+Bmr013.B.dialogueact846	2144.57	2149.86	B	Postdoc	s	-1	0	so , you know , I get the data back from the transcri Well , s uh , metaphorically , get the data back from the transcriber ,
+Bmr013.B.dialogueact847	2149.86	2153.5	B	Postdoc	s	-1	0	and then I , check for simple things like spelling errors and things like that .
+Bmr013.B.dialogueact848	2153.82	2158.98	B	Postdoc	s	-1	0	And , um , I 'm going to be doing a more thorough editing , with respect to consistency of the conventions .
+Bmr013.B.dialogueact849	2159.55	2161.29	B	Postdoc	s	-1	0	But they 're {disfmarker} they 're generally very good .
+Bmr013.B.dialogueact850	2161.97	2168.62	B	Postdoc	s	-1	0	And , then , I run it through , uh , the channelize program to get it into the multi - channel format , OK .
+Bmr013.B.dialogueact851	2169.08	2182.1	B	Postdoc	s	+1	0	And {pause} the , what we discussed this morning , I would summarize as saying that , um , these units that result , in a {disfmarker} a particular channel and a particular timeband , at {disfmarker} at that level , um , vary in length .
+Bmr013.B.dialogueact852	2182.66	2187.14	B	Postdoc	s	+1	1	And , um , {nonvocalsound} their recognizer would prefer that the units not be overly long .
+Bmr013.B.dialogueact853	2187.42	2194.52	B	Postdoc	s	-1	0	But it 's really an empirical question , whether the units we get at this point through , just that process I described might be sufficient for them .
+Bmr013.B.dialogueact854	2194.52	2205.4	B	Postdoc	s^cc	+1	1	So , as a first pass through , a first chance without having to do a lot of hand - editing , what we 're gonna do , is , I 'll run it through channelize , give them those data after I 've done the editing process and be sure it 's clean .
+Bmr013.B.dialogueact855	2205.44	2210.5	B	Postdoc	s	+1	0	And I can do that , pretty quickly , with just , that minimal editing , without having to hand - break things .
+Bmr013.C.dialogueact856	2207.29	2207.7	C	Professor	b.%	-1	0	Mm - hmm .
+Bmr013.B.dialogueact857	2210.82	2215.89	B	Postdoc	s	+1	1	And then we 'll see if the units that we 're getting , uh , with the {disfmarker} at that level , are sufficient .
+Bmr013.B.dialogueact858	2216.04	2218.24	B	Postdoc	s	-1	0	And maybe they don't need to be further broken down .
+Bmr013.B.dialogueact859	2218.66	2222.6	B	Postdoc	s	+1	0	And if they do need to be further broken down then maybe it just be piece - wise , maybe it won't be the whole thing .
+Bmr013.B.dialogueact860	2223.28	2227.78	B	Postdoc	s.%--	-1	0	So , that 's {disfmarker} that 's what we were discussing , this morning as far as I {disfmarker} Among {disfmarker}
+Bmr013.G.dialogueact861	2226.64	2226.99	G	PhD	b	-1	0	Right .
+Bmr013.B.dialogueact862	2228.05	2229.87	B	Postdoc	s	+1	2	also we discussed some adaptational things ,
+Bmr013.G.dialogueact863	2228.56	2229.17	G	PhD	%-	-1	0	Then lots of {disfmarker}
+Bmr013.B.dialogueact865	2229.87	2230.24	B	Postdoc	s.%-	-1	0	so it 's like ,
+Bmr013.G.dialogueact864	2229.72	2230.06	G	PhD	b	-1	0	Right .
+Bmr013.B.dialogueact866	2230.73	2236.58	B	Postdoc	fh|s	+1	2	uh {disfmarker} You know I hadn't , uh , incorporated , a convention explicitly to handle acronyms , for example ,
+Bmr013.B.dialogueact867	2236.62	2243.69	B	Postdoc	s:s	-1	0	but if someone says , PZM it would be nice to have that be directly interpretable from , the transcript what they said ,
+Bmr013.C.dialogueact868	2242.48	2242.9	C	Professor	b	-1	0	Mm - hmm .
+Bmr013.B.dialogueact869	2243.69	2245.23	B	Postdoc	s^bsc	-1	0	or Pi - uh Tcl {disfmarker} TCL I mean .
+Bmr013.B.dialogueact870	2245.23	2245.45	B	Postdoc	s.%--	-1	0	It 's like
+Bmr013.B.dialogueact871	2245.63	2251.4	B	Postdoc	s	-1	0	y it 's {disfmarker} and so , um , I 've {disfmarker} I 've incorporated also convention , with that
+Bmr013.B.dialogueact872	2251.39	2253.42	B	Postdoc	s	-1	0	but that 's easy to handle at the post editing phase ,
+Bmr013.B.dialogueact873	2253.41	2255.72	B	Postdoc	s^cc	-1	0	and I 'll mention it to , transcribers for the next phase
+Bmr013.B.dialogueact874	2255.72	2256.18	B	Postdoc	s^ba	-1	0	but that 's OK .
+Bmr013.B.dialogueact875	2256.18	2259.18	B	Postdoc	s	+1	2	And then , a similar conv uh , convention for numbers .
+Bmr013.B.dialogueact876	2259.18	2261.4	B	Postdoc	s	-1	0	So if they say one - eighty - three versus one eight three .
+Bmr013.B.dialogueact877	2262.26	2270.64	B	Postdoc	fh|s	+1	0	Um , and also I 'll be , um , encoding , as I do my post - editing , the , things that are in curly brackets , which are clarificational material .
+Bmr013.B.dialogueact878	2270.96	2274.42	B	Postdoc	s	-1	0	And eh to incorporate , uh , keyword , at the beginning .
+Bmr013.B.dialogueact879	2274.42	2279.93	B	Postdoc	s	+1	0	So , it 's gonna be either a gloss or it 's gonna be a vocal sound like a , laugh or a cough , or , so forth .
+Bmr013.B.dialogueact880	2280.28	2288.99	B	Postdoc	s	+1	0	Or a non - vocal sound like a doors door - slam , and that can be easily done with a , you know , just a {disfmarker} one little additional thing in the , in the general format .
+Bmr013.G.dialogueact881	2289.75	2297.71	G	PhD	fg|s	-1	0	Yeah we j we just needed a way to , strip , you know , all the comments , all the things th the {disfmarker} that linguist wants but the recognizer can't do anything with .
+Bmr013.G.dialogueact882	2298.55	2305.13	G	PhD	fh|s	-1	0	Um , but to keep things that we mapped to like reject models , or , you know , uh , mouth noise , or , cough .
+Bmr013.G.dialogueact883	2305.98	2308.11	G	PhD	s	-1	0	And then there 's this interesting issue Jane brought up
+Bmr013.G.dialogueact884	2308.11	2309.42	G	PhD	s^e	-1	0	which I hadn't thought about before
+Bmr013.G.dialogueact885	2309.42	2313.18	G	PhD	s.%--	-1	0	but I was , realizing as I went through the transcripts , that there are some noises like ,
+Bmr013.G.dialogueact886	2314.25	2314.68	G	PhD	fh	-1	0	um ,
+Bmr013.G.dialogueact887	2314.73	2322.26	G	PhD	s	-1	0	well the {disfmarker} good example was an inbreath , where a transcriber working from , the mixed , signal , doesn't know whose breath it is ,
+Bmr013.F.dialogueact888	2322.26	2322.56	F	Grad	b	-1	0	Right .
+Bmr013.G.dialogueact889	2322.26	2325.3	G	PhD	s	-1	0	and they 've been assigning it to someone that may or may not be correct .
+Bmr013.G.dialogueact890	2325.83	2333.99	G	PhD	s	-1	0	And what we do is , if it 's a breath sound , you know , a sound from the speaker , we map it , to , a noise model , like a mouth - noise model in the recognizer ,
+Bmr013.G.dialogueact891	2333.99	2337.19	G	PhD	s	-1	0	and , yeah , it probably doesn't hurt that much once in a while to have these ,
+Bmr013.G.dialogueact892	2337.19	2340.63	G	PhD	s^ba	-1	0	but , if they 're in the wrong channel , that 's , not a good idea .
+Bmr013.G.dialogueact893	2341.04	2344.9	G	PhD	s	+1	0	And then there 's also , things like door - slams that 's really in no one 's channel ,
+Bmr013.G.dialogueact894	2344.9	2346.23	G	PhD	s	-1	0	they 're like {disfmarker} it 's in the room .
+Bmr013.A.dialogueact896	2346.75	2347.02	A	PhD	b.%	-1	0	Yeah .
+Bmr013.F.dialogueact895	2346.68	2346.92	F	Grad	b.%	-1	0	Right .
+Bmr013.G.dialogueact897	2347.2	2354.16	G	PhD	s.%-	+1	0	And {pause} uh , Jane had this nice , uh , idea of having , like an extra , uh couple tiers ,
+Bmr013.F.dialogueact898	2353.0	2353.78	F	Grad	s^2	-1	0	An extra channel .
+Bmr013.B.dialogueact899	2354.13	2354.3	B	Postdoc	fg	-1	0	Yeah .
+Bmr013.B.dialogueact901	2354.3	2356.39	B	Postdoc	s	-1	0	I 've been {disfmarker} I 've been adding that to the ones I 've been editing .
+Bmr013.G.dialogueact900	2354.16	2354.59	G	PhD	s^aa	-1	0	yeah .
+Bmr013.G.dialogueact902	2355.35	2359.09	G	PhD	s	+1	0	And we were thinking , that is useful also when there 's uncertainties .
+Bmr013.G.dialogueact903	2359.09	2363.98	G	PhD	s	+1	2	So if they hear a breath and they don't know who breath it is it 's better to put it in that channel than to put it in the speaker 's channel
+Bmr013.G.dialogueact904	2363.98	2365.68	G	PhD	s^df	-1	0	because maybe it was someone else 's breath ,
+Bmr013.G.dialogueact905	2365.68	2366.83	G	PhD	fh	-1	0	or {disfmarker} Uh ,
+Bmr013.G.dialogueact906	2366.9	2370.05	G	PhD	s	-1	0	so I think that 's a good {disfmarker} you can always clean that up , post - processing .
+Bmr013.B.dialogueact907	2370.55	2370.7	B	Postdoc	b	-1	0	Yeah .
+Bmr013.G.dialogueact908	2370.6	2371.92	G	PhD	s	-1	0	So a lot of little details ,
+Bmr013.G.dialogueact909	2371.92	2376.91	G	PhD	s	-1	0	but I think we 're , coming to some kinda closure , on that .
+Bmr013.G.dialogueact910	2376.91	2387.13	G	PhD	s	+1	0	So the idea is then , uh , Don can take , uh , Jane 's post - processed channelized version , and , with some scripts , you know , convert that to {disfmarker} to a reference for the recognizer
+Bmr013.G.dialogueact911	2387.13	2388.87	G	PhD	s	-1	0	and we can , can run these .
+Bmr013.G.dialogueact912	2389.14	2398.54	G	PhD	s	+1	1	So {pause} when that 's , ready {disfmarker} you know , as soon as that 's ready , and as soon as the recognizer is here we can get , twelve hours of force - aligned and recognized data .
+Bmr013.G.dialogueact913	2399.44	2401.96	G	PhD	s	-1	0	And , you know , start , working on it ,
+Bmr013.B.dialogueact914	2401.51	2401.73	B	Postdoc	%-	-1	0	And {disfmarker}
+Bmr013.G.dialogueact915	2401.96	2405.15	G	PhD	s	-1	0	so we 're , I dunno a coup a week or two away I would say from ,
+Bmr013.G.dialogueact916	2406.14	2410.63	G	PhD	s^e	-1	0	uh , if {disfmarker} if that process is automatic once we get your post - process , transcript .
+Bmr013.B.dialogueact917	2412.08	2412.2	B	Postdoc	b	-1	0	Mm - hmm .
+Bmr013.B.dialogueact918	2412.31	2415.13	B	Postdoc	s^ba	-1	0	And that doesn't {disfmarker} the amount of editing that it would require is not very much either .
+Bmr013.B.dialogueact919	2415.13	2418.75	B	Postdoc	s	-1	0	I 'm just hoping that the units that are provided in that way , {nonvocalsound} will be sufficient
+Bmr013.B.dialogueact920	2418.75	2422.73	B	Postdoc	s^df	-1	0	cuz I would save a lot of , uh , time , dividing things .
+Bmr013.G.dialogueact921	2423.56	2424.93	G	PhD	s^aa|s^ba	-1	0	Yeah , some of them are quite long .
+Bmr013.G.dialogueact922	2425.8	2426.17	G	PhD	%-	-1	0	Just from {disfmarker}
+Bmr013.G.dialogueact923	2426.27	2426.65	G	PhD	s^no	-1	0	I dunno
+Bmr013.G.dialogueact924	2426.65	2427.27	G	PhD	qw.%-	-1	0	how long were {disfmarker}
+Bmr013.G.dialogueact925	2427.34	2428.0	G	PhD	qy^bu^d.%-	-1	0	you did one ?
+Bmr013.E.dialogueact926	2428.17	2430.96	E	Grad	s	-1	0	I saw a couple , {vocalsound} around twenty seconds ,
+Bmr013.E.dialogueact927	2431.22	2433.72	E	Grad	s	-1	0	and that was just without looking too hard for it ,
+Bmr013.E.dialogueact928	2433.72	2436.48	E	Grad	s	-1	0	so , I would imagine that there might be some that are longer .
+Bmr013.G.dialogueact929	2433.83	2434.14	G	PhD	s^bk	-1	0	Right .
+Bmr013.B.dialogueact930	2434.43	2434.96	B	Postdoc	fg|%-	-1	0	Well n
+Bmr013.B.dialogueact931	2436.65	2437.17	B	Postdoc	s	-1	0	One question ,
+Bmr013.B.dialogueact932	2437.17	2440.26	B	Postdoc	qr	-1	0	e w would that be a single speaker or is that multiple speakers overlapping ?
+Bmr013.E.dialogueact933	2439.05	2441.68	E	Grad	s^ar|s^df.%--	-1	0	No . No , but if we 're gonna segment it ,
+Bmr013.E.dialogueact934	2441.68	2448.09	E	Grad	s	-1	0	like if there 's one speaker in there , that says " OK " or something , right in the middle , it 's gonna have a lot of dead time around it ,
+Bmr013.G.dialogueact935	2447.0	2456.1	G	PhD	fg|s	-1	0	Right . It 's not the {disfmarker} it 's not the fact that we can't process a twenty second segment , it 's the fact that , there 's twenty seconds in which to place one word in the wrong place
+Bmr013.E.dialogueact936	2448.09	2448.59	E	Grad	s.%-	-1	0	so it 's not {disfmarker}
+Bmr013.B.dialogueact939	2457.22	2457.48	B	Postdoc	b	-1	0	Yeah .
+Bmr013.E.dialogueact937	2456.88	2457.14	E	Grad	b	-1	0	Yeah .
+Bmr013.G.dialogueact938	2457.02	2459.66	G	PhD	s^e	-1	0	You know , if {disfmarker} if someone has a very short utterance there ,
+Bmr013.G.dialogueact940	2459.66	2465.76	G	PhD	s	-1	0	and that 's where , we , might wanna have this individual , you know , ha have your pre pre - process input .
+Bmr013.A.dialogueact941	2463.5	2463.74	A	PhD	b	-1	0	Yep .
+Bmr013.A.dialogueact942	2465.21	2465.38	A	PhD	b	-1	0	Yeah .
+Bmr013.A.dialogueact943	2465.55	2465.81	A	PhD	b	-1	0	Sure .
+Bmr013.B.dialogueact946	2466.18	2466.88	B	Postdoc	s^ba	+1	0	That 's very important .
+Bmr013.A.dialogueact945	2466.18	2475.35	A	PhD	s	+1	0	I {disfmarker} I {disfmarker} I thought that perhaps the transcribers could start then from the {disfmarker} those mult multi - channel , uh , speech - nonspeech detections , if they would like to .
+Bmr013.G.dialogueact944	2466.14	2466.8	G	PhD	s^bd^no	-1	0	And I just don't know ,
+Bmr013.G.dialogueact947	2466.8	2467.39	G	PhD	s^cc	-1	0	I have to run it .
+Bmr013.B.dialogueact949	2474.96	2476.16	B	Postdoc	qy^bu^d	-1	0	In {disfmarker} in doing the hand - marking ?
+Bmr013.G.dialogueact948	2474.47	2474.87	G	PhD	s^bk	-1	0	Right .
+Bmr013.A.dialogueact950	2475.89	2476.15	A	PhD	s^aa	-1	0	Yeah .
+Bmr013.B.dialogueact951	2476.16	2477.2	B	Postdoc	s^aa|s^na	-1	0	Yeah that 's what I was thinking , too .
+Bmr013.G.dialogueact952	2476.85	2477.17	G	PhD	b	-1	0	Right .
+Bmr013.B.dialogueact954	2477.63	2477.82	B	Postdoc	b	-1	0	Yeah .
+Bmr013.G.dialogueact953	2477.45	2478.86	G	PhD	s	-1	0	So that 's probably what will happen ,
+Bmr013.G.dialogueact955	2478.86	2480.4	G	PhD	s	-1	0	but we 'll try it this way and see .
+Bmr013.A.dialogueact956	2479.9	2480.08	A	PhD	b	-1	0	Yeah .
+Bmr013.G.dialogueact957	2481.03	2483.03	G	PhD	s^rt	+1	0	I mean it 's probably good enough for force - alignment .
+Bmr013.G.dialogueact958	2483.61	2485.86	G	PhD	s.%--	-1	0	If it 's not then we 're really {disfmarker} then we def definitely
+Bmr013.A.dialogueact959	2485.32	2485.56	A	PhD	b	-1	0	Yeah .
+Bmr013.G.dialogueact960	2486.25	2489.07	G	PhD	s	+1	0	uh , but for free recognition I 'm {disfmarker} it 'll probably not be good enough .
+Bmr013.G.dialogueact961	2489.07	2492.79	G	PhD	s	+1	0	We 'll probably get lots of errors because of the cross - talk , and , noises and things .
+Bmr013.A.dialogueact962	2491.79	2492.09	A	PhD	b	-1	0	Yep .
+Bmr013.C.dialogueact963	2496.48	2496.68	C	Professor	s^ba^rt^tc	-1	0	Good
+Bmr013.C.dialogueact964	2497.19	2501.08	C	Professor	s^t^tc	-1	0	s I think that 's probably our agenda , or starting up there .
+Bmr013.B.dialogueact965	2500.24	2501.55	B	Postdoc	fg|s	-1	0	Oh I wanted to ask one thing ,
+Bmr013.B.dialogueact967	2501.92	2503.3	B	Postdoc	s^rt	+1	0	the microphones {disfmarker} the new microphones ,
+Bmr013.C.dialogueact966	2501.59	2501.82	C	Professor	qw^rt	-1	0	Yeah ? K .
+Bmr013.B.dialogueact968	2503.3	2504.05	B	Postdoc	qw.%-	-1	0	when do we get , uh ?
+Bmr013.F.dialogueact969	2504.36	2505.79	F	Grad	h|s	-1	0	Uh , they said it would take about a week .
+Bmr013.B.dialogueact970	2506.01	2506.56	B	Postdoc	s^bk|s^ba	-1	0	Oh , exciting . K .
+Bmr013.B.dialogueact971	2506.87	2506.99	B	Postdoc	s^bk	-1	0	K .
+Bmr013.C.dialogueact972	2507.03	2507.16	C	Professor	s^bk	-1	0	K .
+Bmr013.D.dialogueact973	2507.04	2507.77	D	PhD	qy^bu^d^rt	-1	0	You ordered them already ?
+Bmr013.F.dialogueact974	2507.56	2507.81	F	Grad	s^aa	-1	0	Mm - hmm .
+Bmr013.D.dialogueact975	2508.3	2508.64	D	PhD	s^ba	-1	0	Great .
+Bmr013.G.dialogueact976	2509.08	2511.0	G	PhD	qw	-1	0	So what happens to our old microphones ?
+Bmr013.C.dialogueact977	2512.36	2514.16	C	Professor	s	-1	0	They go where old microphones go .
+Bmr013.F.dialogueact978	2512.53	2512.97	F	Grad	h	-1	0	Um {disfmarker}
+Bmr013.G.dialogueact979	2512.8	2514.03	G	PhD	qy^rt	-1	0	Do we give them to someone ,
+Bmr013.G.dialogueact980	2514.55	2514.75	G	PhD	qrr.%--	-1	0	or {disfmarker} ?
+Bmr013.F.dialogueact981	2515.64	2519.31	F	Grad	s.%--	-1	0	Well the only thing we 're gonna have extra , for now ,
+Bmr013.G.dialogueact982	2518.4	2519.54	G	PhD	s	-1	0	We don't have more receivers ,
+Bmr013.G.dialogueact983	2519.54	2519.99	G	PhD	s.%-	-1	0	we just have {disfmarker}
+Bmr013.F.dialogueact984	2520.17	2520.87	F	Grad	s^aa|%--	-1	0	Right , we don
+Bmr013.F.dialogueact986	2520.87	2523.09	F	Grad	s	-1	0	so the only thing we 'll have extra now is just the lapel .
+Bmr013.G.dialogueact985	2520.82	2521.2	G	PhD	b	-1	0	Right .
+Bmr013.F.dialogueact987	2523.46	2525.09	F	Grad	s	-1	0	Not {disfmarker} not the , bodypack ,
+Bmr013.F.dialogueact988	2525.45	2526.42	F	Grad	s^e	-1	0	just the lapel .
+Bmr013.G.dialogueact989	2525.9	2527.04	G	PhD	s^2^m	-1	0	Just the lapel itself .
+Bmr013.F.dialogueact990	2526.97	2529.4	F	Grad	s	-1	0	Um , and then one of the {disfmarker} one of those .
+Bmr013.F.dialogueact991	2529.79	2536.18	F	Grad	s	+1	0	Since , what I decided to do , on Morgan 's suggestion , was just get two , new microphones , um , and try them out .
+Bmr013.F.dialogueact993	2536.74	2538.27	F	Grad	s	-1	0	And then , if we like them we 'll get more .
+Bmr013.G.dialogueact992	2536.43	2537.06	G	PhD	b	-1	0	Mm - hmm .
+Bmr013.C.dialogueact995	2539.07	2539.3	C	Professor	b	-1	0	Yeah .
+Bmr013.G.dialogueact994	2538.89	2539.16	G	PhD	s^bk	-1	0	OK .
+Bmr013.F.dialogueact996	2539.41	2541.26	F	Grad	s	-1	0	Since they 're {disfmarker} they 're like two hundred bucks a piece ,
+Bmr013.F.dialogueact997	2541.26	2543.92	F	Grad	s	-1	0	we won't , uh , at least try them out .
+Bmr013.D.dialogueact998	2543.83	2545.79	D	PhD	s^bu	-1	0	So it 's a replacement for this headset mike ?
+Bmr013.F.dialogueact999	2545.04	2546.16	F	Grad	s^aa	-1	0	Yep . Yep .
+Bmr013.C.dialogueact1000	2546.13	2546.34	C	Professor	b	-1	0	Yeah .
+Bmr013.F.dialogueact1001	2547.33	2548.92	F	Grad	s	-1	0	And they 're gonna do the wiring for us .
+Bmr013.D.dialogueact1002	2549.18	2550.82	D	PhD	qw	-1	0	What 's the , um , style of the headset ?
+Bmr013.F.dialogueact1003	2551.07	2553.45	F	Grad	s	+1	0	It 's , um , it 's by Crown ,
+Bmr013.F.dialogueact1004	2553.51	2556.45	F	Grad	s^e	+1	0	and it 's one of these sort of mount around the ear thingies ,
+Bmr013.F.dialogueact1005	2556.99	2562.43	F	Grad	s	-1	0	and , uh , when I s when I mentioned that we thought it was uncomfortable he said it was a common problem with the Sony .
+Bmr013.F.dialogueact1006	2562.79	2565.16	F	Grad	s	-1	0	And this is how apparently a lot of people are getting around it .
+Bmr013.D.dialogueact1007	2565.34	2565.68	D	PhD	b.%	-1	0	Hmm .
+Bmr013.F.dialogueact1008	2565.62	2570.58	F	Grad	s	-1	0	And I checked on the web , and every site I went to , raved about this particular mike .
+Bmr013.F.dialogueact1009	2571.15	2573.28	F	Grad	s	-1	0	It 's apparently comfortable and stays on the head well ,
+Bmr013.F.dialogueact1010	2573.28	2574.42	F	Grad	s	-1	0	so we 'll see if it 's any good .
+Bmr013.F.dialogueact1011	2574.96	2577.4	F	Grad	s	-1	0	But , uh , I think it 's promising .
+Bmr013.B.dialogueact1012	2578.22	2580.57	B	Postdoc	qy^bu^d^rt	-1	0	You said it was used by aerobics instructors ?
+Bmr013.F.dialogueact1013	2579.95	2580.15	F	Grad	s^aa	-1	0	
+Bmr013.F.dialogueact1014	2579.97	2585.35	F	Grad	fg|s	-1	0	Yep . Yep , so it was {disfmarker} it was advertised for performers
+Bmr013.B.dialogueact1016	2580.94	2581.62	B	Postdoc	s^ba	-1	0	That says a lot .
+Bmr013.E.dialogueact1015	2580.85	2581.13	E	Grad	z	-1	0	Hmm .
+Bmr013.C.dialogueact1017	2583.68	2586.97	C	Professor	s^j	-1	0	For the recor for the record Adam is not a paid employee or a consultant of Crown .
+Bmr013.F.dialogueact1018	2585.35	2585.76	F	Grad	%-	-1	0	and {disfmarker}
+Bmr013.F.dialogueact1019	2586.25	2586.67	F	Grad	qw^br	-1	0	Excuse me ?
+Bmr013.B.dialogueact1020	2587.86	2588.17	B	Postdoc	s^bk	-1	0	Oh .
+Bmr013.C.dialogueact1023	2588.13	2591.61	C	Professor	s^r	-1	0	I said " For the record Adam is {disfmarker} is not a paid consultant or employee of Crown " .
+Bmr013.F.dialogueact1021	2588.05	2588.36	F	Grad	qw^br^r	-1	0	Excuse me ?
+Bmr013.G.dialogueact1022	2588.12	2588.44	G	PhD	s^bk	-1	0	Right .
+Bmr013.F.dialogueact1024	2589.95	2590.51	F	Grad	s^aa	-1	0	That 's right .
+Bmr013.G.dialogueact1025	2590.52	2594.08	G	PhD	s	-1	0	However , he may be solicited after these meetings are distributed .
+Bmr013.F.dialogueact1026	2595.82	2597.05	F	Grad	s	-1	0	Well we 're using the Crown P Z
+Bmr013.C.dialogueact1028	2596.88	2597.09	C	Professor	b	-1	0	Yeah .
+Bmr013.G.dialogueact1027	2596.45	2598.33	G	PhD	s^co^j	-1	0	Don't worry about finishing your dissertation .
+Bmr013.F.dialogueact1029	2597.05	2597.65	F	Grad	s^bu	-1	0	These are Crown
+Bmr013.F.dialogueact1030	2597.65	2598.04	F	Grad	qy^g^rt	-1	0	aren't they ?
+Bmr013.C.dialogueact1032	2598.6	2599.07	C	Professor	s^bk	-1	0	Right .
+Bmr013.F.dialogueact1031	2598.47	2599.39	F	Grad	s^bu^r	-1	0	The P Z Ms are Crown ,
+Bmr013.F.dialogueact1033	2599.39	2599.73	F	Grad	qy^g^rt	-1	0	aren't they ?
+Bmr013.C.dialogueact1034	2599.98	2600.23	C	Professor	s^aa	-1	0	Yeah .
+Bmr013.F.dialogueact1035	2600.47	2601.14	F	Grad	s^bk|s	-1	0	Yeah , I thought they were .
+Bmr013.C.dialogueact1036	2601.1	2602.1	C	Professor	s	-1	0	You bet . You bet .
+Bmr013.F.dialogueact1037	2602.82	2604.1	F	Grad	s^j	-1	0	And they work very well .
+Bmr013.G.dialogueact1038	2604.42	2604.89	G	PhD	s^bk	-1	0	Yes .
+Bmr013.C.dialogueact1039	2605.72	2610.02	C	Professor	s	-1	0	So if we go to a workshop about all this {disfmarker} this it 's gonna be a meeting about meetings about meetings .
+Bmr013.C.dialogueact1040	2612.92	2613.18	C	Professor	s^bk	-1	0	OK .
+Bmr013.C.dialogueact1041	2614.3	2614.67	C	Professor	fh	-1	0	So .
+Bmr013.F.dialogueact1042	2614.61	2617.24	F	Grad	s	-1	0	And then it {disfmarker} we have to go to the planning session for that workshop .
+Bmr013.C.dialogueact1043	2616.97	2619.53	C	Professor	fh|s^e	-1	0	Oh , yeah , what {disfmarker} Which 'll be the meeting about the meeting about the meeting .
+Bmr013.D.dialogueact1044	2617.05	2617.79	D	PhD	z	-1	0	Oh , god .
+Bmr013.F.dialogueact1045	2618.37	2621.38	F	Grad	s	-1	0	Cuz then it would be a meeting about the meeting about the meeting about meetings .
+Bmr013.B.dialogueact1046	2619.061	2619.616	B	Postdoc	z	-1	0	
+Bmr013.C.dialogueact1047	2619.53	2619.86	C	Professor	b	-1	0	Yeah ?
+Bmr013.C.dialogueact1048	2620.59	2622.31	C	Professor	s^cs:s	-1	0	Just start saying " M four " .
+Bmr013.C.dialogueact1049	2622.46	2623.03	C	Professor	s^bk	-1	0	Yeah , OK .
+Bmr013.F.dialogueact1050	2622.81	2622.99	F	Grad	b	-1	0	Yeah .
+Bmr013.F.dialogueact1051	2623.81	2624.71	F	Grad	s^cs^j	-1	0	M to the fourth .
+Bmr013.C.dialogueact1052	2625.62	2626.39	C	Professor	qy^rt^t^tc	-1	0	Should we do the digits ?
+Bmr013.F.dialogueact1053	2626.53	2627.14	F	Grad	s^aa|s^co	-1	0	Yep , go for it .
+Bmr013.C.dialogueact1054	2627.55	2627.87	C	Professor	s^bk	-1	0	OK .
+Bmr013.A.dialogueact1055	2672.06	2674.21	A	PhD	z	-1	0	S {pause} s
+Bmr013.F.dialogueact1056	2771.65	2772.88	F	Grad	z	-1	0	Pause between the lines , remember ?
+Bmr013.E.dialogueact1057	2892.81	2893.15	E	Grad	z	-1	0	Excuse me .
+Bmr013.F.dialogueact1058	2896.97	2897.23	F	Grad	z	-1	0	OK .
+Bmr013.C.dialogueact1059	2897.53	2898.04	C	Professor	z	-1	0	OK .
+Bmr013.G.dialogueact1060	2898.53	2898.83	G	PhD	z	-1	0	Huh .

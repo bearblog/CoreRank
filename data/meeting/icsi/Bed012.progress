@@ -1,0 +1,17 @@
+1	Bed012.s.20	The presented Bayes-net takes inputs from the Situation , User , Discourse and Ontology models.
+Bed012.B.dialogueact28	165.769	171.049	B	Grad	s.%-	+1	2	That 's basically {pause} just specifying the {disfmarker} the input for the {disfmarker} w what 's
+0	Bed012.s.21	There are several values ( elements ) defined in each of these models.
+2	Bed012.s.22	The inputs are fed into the belief-net , which , in turn , outputs the posterior probabilities for the values of all the decision nodes.
+Bed012.B.dialogueact186	764.56	771.19	B	Grad	s^bs	+1	2	So , it {disfmarker} n I mean {disfmarker} a All I 'm saying is , whatever our input is , we 're always gonna get the full output .
+Bed012.B.dialogueact390	1213.8	1224.66	B	Grad	s	+1	2	What {disfmarker} what {disfmarker} what I am thinking , or what we 're about to propose here is we 're always gonna get the whole list of values and their posterior probabilities .
+1	Bed012.s.23	These comprise "Go-there" , "EVA" , "Info-on" , "Location" , "Timing" , etc.
+Bed012.A.dialogueact423	1329.71	1336.42	A	Grad	s^df	+1	2	it 's based on things like , uh , there 's gonna be a node for Go - there or not , and there 's gonna be a node for Enter , View , Approach .
+3	Bed012.s.24	At this stage , all the decision nodes are evenly weighted: regardless of the context , each output is trusted equally.
+Bed012.C.dialogueact346	1116.21	1117.33	C	Grad	s	+1	1	I guess they are evenly weighted .
+Bed012.A.dialogueact347	1117.93	1119.37	A	Grad	qy^bu^d^rt	+1	1	The different decision nodes , you mean ?
+Bed012.A.dialogueact357	1132.7	1138.32	A	Grad	s	+1	1	If we trusted the Go - there node more th much more than we trusted the other ones , then we would conclude , even in this situation , that he wanted to go there .
+1	Bed012.s.25	Input and output node structure was presented in XML , as this is the format that will be used for the system.
+Bed012.B.dialogueact33	182.68	185.96	B	Grad	s^e	+1	1	And , also , I mean , this is a {disfmarker} what the input is going to be .
+2	Bed012.s.26	A large number of the value probabilities have already been set.
+Bed012.B.dialogueact627	1896.22	1902.42	B	Grad	s^rt	+1	1	So we have , uh {disfmarker} Believe it or not , we have all the bottom ones here .
+Bed012.B.dialogueact665	1966.21	1971.35	B	Grad	s^co^rt	+1	1	So , we have to come up with values for this , and this , this , this , and so forth .

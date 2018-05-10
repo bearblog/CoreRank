@@ -1,0 +1,92 @@
+10	TS3006b.dharshi.s.1	The marketing expert reported on research which shows that users think most remotes are ugly , easily lost and bad for RSI.
+TS3006b.D.dialog-act.dharshi.36	250.53	253.48	D	ME	off	+1	1	I'm gonna talk about functional requirements .
+TS3006b.D.dialog-act.dharshi.38	255.84	259.53	D	ME	inf	+1	1	Well uh some research has be done uh has been done .
+TS3006b.D.dialog-act.dharshi.39	259.53	265.21	D	ME	inf	+1	1	Uh observing of one hundred uh subjects in the usability lab using a remote control .
+TS3006b.D.dialog-act.dharshi.40	265.21	267.37	D	ME	inf	+1	1	Uh and they also filled in a questionnaire .
+TS3006b.D.dialog-act.dharshi.42	272.45	275.44	D	ME	inf	+1	1	They disliked the look-and-feel of current remotes controls .
+TS3006b.D.dialog-act.dharshi.43	275.44	277.31	D	ME	inf	+1	1	{vocalsound} Users think they're ugly .
+TS3006b.D.dialog-act.dharshi.47	287.46	289.98	D	ME	inf	+1	1	they are often lost somewhere in the room .
+TS3006b.D.dialog-act.dharshi.48	289.98	294.43	D	ME	inf	+1	1	Um it takes too much time to learn how to use a new remote control .
+TS3006b.D.dialog-act.dharshi.49	294.43	298.18	D	ME	inf	+1	1	And they're bad for R_S_I_ .
+TS3006b.D.dialog-act.dharshi.44	277.31	282.15	D	ME	inf	+1	1	Um {vocalsound} they do not match the the operating behaviour of the users .
+5	TS3006b.dharshi.s.2	Audio settings are rarely used , and the power , channel and volume buttons are used most often.
+TS3006b.D.dialog-act.dharshi.53	311.87	317.84	D	ME	inf	+1	1	Uh most irrelevant and less used were audio settings , mono , stereo , uh pitch , bass .
+TS3006b.D.dialog-act.dharshi.65	349.1	351.22	D	ME	inf	+1	1	Uh most relevant , uh most used functions ,
+TS3006b.D.dialog-act.dharshi.67	353.45	357.39	D	ME	inf	+1	1	Uh power button , uh channel , volume selection .
+TS3006b.D.dialog-act.dharshi.68	357.39	358.21	D	ME	inf	+1	1	Uh teletext
+TS3006b.D.dialog-act.dharshi.69	358.21	367.24	D	ME	inf	+1	2	but we can skip that because I saw the newsflash , and teletext is so outdated that it it's i should not be used uh any more in the future .
+2	TS3006b.dharshi.s.3	The remote should be user-friendly and have a good look and feel.
+TS3006b.D.dialog-act.dharshi.95	462.44	469.13	D	ME	sug	+1	1	Um well we have to keep all the classic functions but make the buttons as user-friendly as possible .
+TS3006b.D.dialog-act.dharshi.99	482.02	489.85	D	ME	inf	+1	1	And I think {disfmarker} and certainly for for the for the lower age groups , uh nice design , which uh does not make the remote control {gap} in your room .
+8	TS3006b.dharshi.s.4	The marketing expert and project manager described the new requirements that the target group is users under 40 , the remote should not include teletext , should be only for TV , and should feature the corporate logo.
+TS3006b.C.dialog-act.dharshi.45	373.21	376.44	C	ID	el.inf	+1	1	By the way where did you guys get that newsflash from ?
+TS3006b.A.dialog-act.dharshi.44	380.57	382.796	A	PM	inf	+1	1	I receiv the mail but you don't . So {disfmarker}
+TS3006b.D.dialog-act.dharshi.73	382.36	385.21	D	ME	inf	+1	1	No so it's a text file n in the project folder .
+TS3006b.A.dialog-act.dharshi.50	418.47	423.43	A	PM	inf	+1	2	And the new product should reach new markets , which is the customers below forty .
+TS3006b.A.dialog-act.dharshi.54	502.35	504.93	A	PM	inf	+1	2	But it also needs to have corporate identity .
+TS3006b.D.dialog-act.dharshi.105	505.64	507.26	D	ME	inf	+1	2	so the the logo has to be
+TS3006b.D.dialog-act.dharshi.109	507.26	510.3	D	ME	ass	+1	2	uh present yeah , and the colours as well .
+TS3006b.D.dialog-act.dharshi.132	646.29	652.95	D	ME	inf	+1	2	Yeah but uh the the newsflash also stated that it should control only one device , only your television .
+11	TS3006b.dharshi.s.5	The user interface designer showed examples of two contrasting remotes , recommending that they should use the best features of both.
+TS3006b.B.dialog-act.dharshi.53	581.25	584.14	B	UI	inf	+1	1	I uh had uh two examples .
+TS3006b.B.dialog-act.dharshi.54	584.14	590.3	B	UI	inf	+1	1	Um this one is the the yeah the advanced one with a lot of options and functions and buttons .
+TS3006b.B.dialog-act.dharshi.55	590.3	591.68	B	UI	inf	+1	1	This the easy one
+TS3006b.B.dialog-act.dharshi.56	591.68	597.16	B	UI	sug	+1	1	I think we have to to combine them . And uh yeah merge the best functions of all examples .
+TS3006b.B.dialog-act.dharshi.59	608.83	612.63	B	UI	ass	+1	1	Okay so so we have the option for more functions .
+TS3006b.B.dialog-act.dharshi.65	629.72	633.84	B	UI	sug	+1	1	Yeah but I prefer we we uh use the the basic options uh yeah .
+TS3006b.B.dialog-act.dharshi.66	633.84	639.75	B	UI	sug	+1	1	We have to to make them very easy so for just uh zapping around the channels you can just push one button .
+TS3006b.B.dialog-act.dharshi.73	664.92	668.49	B	UI	inf	+1	1	Um yeah only use a extra function if they are really needed .
+TS3006b.A.dialog-act.dharshi.86	669.17	670.81	A	PM	sug	+1	1	so maybe you can hide them or something .
+TS3006b.D.dialog-act.dharshi.141	684.52	689.64	D	ME	inf	+1	1	So it looks very simple and all the advanced features are hidden in the screen , uh with a clear menu .
+TS3006b.B.dialog-act.dharshi.87	738.08	744.13	B	UI	sug	+1	1	So we have to make uh a compromise between functionality and fashional fashionable
+4	TS3006b.dharshi.s.6	The group decided to use an LCD screen and speech recognition.
+TS3006b.C.dialog-act.dharshi.56	615.04	619.85	C	ID	el.inf	+1	2	And we do have to integrate the screen and the the speech {disfmarker}
+TS3006b.A.dialog-act.dharshi.93	701.31	703.14	A	PM	el.inf	+1	1	So what does the screen do ?
+TS3006b.B.dialog-act.dharshi.79	706.67	708.68	B	UI	inf	+1	1	For for the advanced functions I think .
+TS3006b.D.dialog-act.dharshi.146	714.07	718.51	D	ME	ass	+1	1	Well I , my guess is it's it's pretty handy for advanced uh advanced functions .
+9	TS3006b.dharshi.s.7	The industrial designer described how a remote works , and explained that his presentation was incomplete because he had not received the necessary information in time.
+TS3006b.C.dialog-act.dharshi.66	749.93	755.232	C	ID	ass	+1	2	Well my presentation is a bit uh sucky . {vocalsound}
+TS3006b.C.dialog-act.dharshi.80	800.47	805.41	C	ID	inf	+1	2	Um yeah well I was working on this before I got my information .
+TS3006b.C.dialog-act.dharshi.81	805.41	812.88	C	ID	inf	+1	2	So I was just working off the top of my head and using my colin common knowledge about uh remote controls .
+TS3006b.C.dialog-act.dharshi.82	813.29	817.01	C	ID	inf	+1	2	And well the info on the website which came too late .
+TS3006b.C.dialog-act.dharshi.87	842.61	855.05	C	ID	inf	+1	2	But um yeah then uh the information came and it was kind of exact with all the steps in the remote control that I had to follow , so I was trying to organise them for myself .
+TS3006b.C.dialog-act.dharshi.92	866.27	868.72	C	ID	ass	+1	1	I mean everything speaks for itself I guess .
+TS3006b.C.dialog-act.dharshi.93	868.72	876.11	C	ID	inf	+1	1	Mean you press a button um {vocalsound} the it tru goes , it sends a signal to a chip ,
+TS3006b.C.dialog-act.dharshi.94	876.11	882.36	C	ID	inf	+1	1	which uh translates it into infrared signal of certin spatial frequencies .
+TS3006b.C.dialog-act.dharshi.97	895.76	901.35	C	ID	inf	+1	1	and the T_V_ will translate it into a function .
+24	TS3006b.dharshi.s.8	The group discussed what functions to include and the layout of the remote , and the marketing expert drew a possible design on the board.
+TS3006b.B.dialog-act.dharshi.93	912.4	916.352	B	UI	sug	+1	1	Okay shou should we make a list of the of all the functions we want uh {disfmarker}
+TS3006b.C.dialog-act.dharshi.102	1013.68	1021.02	C	ID	sug	+1	1	Yeah so what we might wanna do is uh yeah cust I have customised the screen functions , if you know what I mean .
+TS3006b.B.dialog-act.dharshi.102	1046.27	1056.308	B	UI	sug	+1	1	The the simple functions for for the the whole public , and the the advanced options for the younger people yeah who are more yeah experienced with uh {disfmarker}
+TS3006b.D.dialog-act.dharshi.181	1077.62	1083.95	D	ME	sug	+1	1	Uh you can make a {disfmarker} if you make a drawing .
+TS3006b.A.dialog-act.dharshi.165	1114.08	1114.65	A	PM	bck	+1	1	Basic .
+TS3006b.D.dialog-act.dharshi.194	1121.9	1125.02	D	ME	inf	+1	1	so it should fit right in into your hand .
+TS3006b.D.dialog-act.dharshi.201	1163.8	1170.04	D	ME	ass	+1	1	Okay so y yeah you have you have it in your hand , and the screen is below , and the buttons are in the middle .
+TS3006b.D.dialog-act.dharshi.238	1304.95	1310.07	D	ME	sug	+1	1	But it should be {disfmarker} if the screen is here then the logo should be like on on top ,
+TS3006b.A.dialog-act.dharshi.203	1324.96	1331.06	A	PM	inf	+1	1	And for the speech uh recognition part , if we want to incorporate that , we need a microphone .
+TS3006b.D.dialog-act.dharshi.252	1356.44	1361.05	D	ME	ass	+1	1	Yeah I mean a screen on top looks more lo logical to me .
+TS3006b.D.dialog-act.dharshi.257	1379.59	1383.27	D	ME	sug	+1	2	So we put this on top , and then make the corporate logo
+TS3006b.D.dialog-act.dharshi.268	1426.4	1432.31	D	ME	inf	+1	1	I mean this is basically numbers , volume , uh channel up and down .
+TS3006b.C.dialog-act.dharshi.133	1442.95	1449.9	C	ID	el.inf	+1	1	Yeah so we we needed to integrate the sound and uh and image options right ?
+TS3006b.A.dialog-act.dharshi.240	1521.54	1522.84	A	PM	sug	+1	1	So channel programming ?
+TS3006b.D.dialog-act.dharshi.315	1628.42	1634.71	D	ME	inf	+1	3	Yeah a audio settings , mono , stereo , pitch , bass , treble . Screen settings , brightness and colour .
+TS3006b.A.dialog-act.dharshi.283	1728.59	1730.69	A	PM	inf	+1	1	S swap channels ?
+TS3006b.A.dialog-act.dharshi.285	1733.51	1735.23	A	PM	ass	+1	1	Swap's good option .
+TS3006b.D.dialog-act.dharshi.408	2125.16	2126.28	D	ME	ass	+1	2	That's very good idea .
+TS3006b.C.dialog-act.dharshi.192	2109.51	2123.37	C	ID	sug	+1	2	Hey is it interesting for users if we put LED lights under the buttons ? So that if you uh press on the menu function that only the buttons that are used for the menu are ligh li light up .
+TS3006b.C.dialog-act.dharshi.197	2176.01	2179.58	C	ID	ass	+1	1	The pr the problem with the okay button in the middle is ,
+TS3006b.C.dialog-act.dharshi.199	2181.59	2189.32	C	ID	ass	+1	1	sorry , uh is uh if you're pressing up and down , you can easily press the okay once you , when you're not already at your choice .
+TS3006b.B.dialog-act.dharshi.201	2189.04	2194.37	B	UI	sug	+1	1	So maybe make one uh one okay button and and one navigation button .
+TS3006b.D.dialog-act.dharshi.262	1403.42	1406.17	D	ME	ass	+1	2	Yeah okay . So on the on the top is better .
+TS3006b.A.dialog-act.dharshi.215	1414.23	1417.52	A	PM	ass	+1	1	Depends on the sensitivity of the microphone , but I think that's okay .
+5	TS3006b.dharshi.s.9	They decided to have buttons for the basic functions and make the advanced functions accessible through the screen.
+TS3006b.B.dialog-act.dharshi.103	1059.75	1065.98	B	UI	sug	+1	1	I w I should uh put uh the the yeah the extra advanced options on the onto the onscreen display .
+TS3006b.C.dialog-act.dharshi.153	1545.68	1548.96	C	ID	ass	+1	1	Under the a yeah advanced option menu you can put those things .
+TS3006b.A.dialog-act.dharshi.255	1597.76	1604.42	A	PM	inf	+1	1	you have basically a button menu , which you can use directly , uh according to the old principle .
+TS3006b.A.dialog-act.dharshi.256	1604.42	1614.36	A	PM	inf	+1	1	And the L_C_D_ options are activated by some some software options , thats communicates with the infrared uh decoder yeah .
+TS3006b.D.dialog-act.dharshi.315	1628.42	1634.71	D	ME	inf	+1	3	Yeah a audio settings , mono , stereo , pitch , bass , treble . Screen settings , brightness and colour .
+4	TS3006b.dharshi.s.10	They also discussed what buttons would be needed to navigate the menu on the LCD screen.
+TS3006b.C.dialog-act.dharshi.115	1242.95	1249.45	C	ID	sug	+1	1	I thought {disfmarker} but this is really your department , that we need just the functional display and four cursors .
+TS3006b.D.dialog-act.dharshi.224	1251.41	1255.5	D	ME	inf	+1	1	most of the time you have one button in the middle . It says menu ,
+TS3006b.D.dialog-act.dharshi.225	1255.5	1264.34	D	ME	inf	+1	1	and then if you press it you {disfmarker} the screen gets activated and then you can use these buttons to scroll up and down and left and right to go into functon
+TS3006b.D.dialog-act.dharshi.232	1282.2	1290.35	D	ME	inf	+1	1	and then uh on on each on each screen there's there should be an option to go back to a to a upper level .

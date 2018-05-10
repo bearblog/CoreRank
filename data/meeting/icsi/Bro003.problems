@@ -1,0 +1,57 @@
+7	Bro003.s.13	It is not clear what combinations of dimensions , which features,
+should be run in the cube project.
+Bro003.F.dialogueact1423	3499.48	3507.8	F	Professor	s	+1	2	So it seems like there 's {disfmarker} there 's some peculiarities of the , uh {disfmarker} of each of these dimensions that are getting sorted out .
+Bro003.F.dialogueact1424	3508.54	3518.48	F	Professor	s	+1	3	And then , um , if {disfmarker} if you work on getting the , uh , assembly lines together , and then the {disfmarker} the pieces sort of get ready to go into the assembly line
+Bro003.F.dialogueact1429	3531.08	3534.34	F	Professor	s^ba	+1	3	What 's {disfmarker} what 's great about this is it sets it up in a very systematic way ,
+Bro003.F.dialogueact1430	3534.58	3541.38	F	Professor	s^cs	+1	3	so that , uh , once these {disfmarker} all of these , you know , mundane but real problems get sorted out , we can just start turning the crank
+Bro003.F.dialogueact1456	3576.5	3603.05	F	Professor	fh|s	+1	4	And , uh , the thing is that once you get a better handle on how much you can realistically do , uh , um , {vocalsound} concurrently on different machines , different SPERTs , and so forth , uh , and you see how long it takes on what machine and so forth , you can stand back from it and say , " OK , if we look at all these combinations we 're talking about , and combinations of combinations , and so forth , " you 'll probably find you can't do it all .
+Bro003.F.dialogueact1460	3604.1	3608.52	F	Professor	s^co	+1	2	so then at that point , uh , we should sort out which ones do we throw away .
+Bro003.F.dialogueact1461	3608.63	3611.59	F	Professor	s^e	+1	2	Which of the combinations across {disfmarker} you know , what are the most likely ones ,
+6	Bro003.s.14	It is important to know because
+the processes are going to be large and processor and memory hungry.
+Bro003.F.dialogueact322	1122.67	1124.06	F	Professor	s^df	+1	1	Cuz you don't know who 's gonna call ,
+Bro003.F.dialogueact1193	2921.18	2927.76	F	Professor	s^cs	+1	2	clearly , there {disfmarker} there 's no way we can even begin to do an any significant amount here unless we use multiple machines .
+Bro003.F.dialogueact1424	3508.54	3518.48	F	Professor	s	+1	3	And then , um , if {disfmarker} if you work on getting the , uh , assembly lines together , and then the {disfmarker} the pieces sort of get ready to go into the assembly line
+Bro003.F.dialogueact1429	3531.08	3534.34	F	Professor	s^ba	+1	3	What 's {disfmarker} what 's great about this is it sets it up in a very systematic way ,
+Bro003.F.dialogueact1430	3534.58	3541.38	F	Professor	s^cs	+1	3	so that , uh , once these {disfmarker} all of these , you know , mundane but real problems get sorted out , we can just start turning the crank
+Bro003.F.dialogueact1456	3576.5	3603.05	F	Professor	fh|s	+1	4	And , uh , the thing is that once you get a better handle on how much you can realistically do , uh , um , {vocalsound} concurrently on different machines , different SPERTs , and so forth , uh , and you see how long it takes on what machine and so forth , you can stand back from it and say , " OK , if we look at all these combinations we 're talking about , and combinations of combinations , and so forth , " you 'll probably find you can't do it all .
+8	Bro003.s.15	To bear in mind is the fact that the cellular industry has an image of
+speech recognition in that's what they are after.
+Bro003.F.dialogueact324	1127.32	1128.71	F	Professor	fh|qw	+1	1	uh {disfmarker} how do you know what language it is ?
+Bro003.F.dialogueact325	1129.86	1130.82	F	Professor	s	+1	1	Somebody picks up the phone .
+Bro003.F.dialogueact326	1131.43	1132.43	F	Professor	s	+1	1	So thi this is their image .
+Bro003.F.dialogueact341	1147.03	1151.2	F	Professor	s	+1	1	so the phone doesn't know what a {disfmarker} what {disfmarker} what your language is .
+Bro003.F.dialogueact355	1165.13	1179.08	F	Professor	s	+1	1	But the particular image that the cellular industry has right now is that it 's distributed speech recognition , where the , uh , uh , probabilistic part , and {disfmarker} and s semantics and so forth are all on the servers , and you compute features of the {disfmarker} uh , on the phone .
+Bro003.F.dialogueact357	1181.48	1184.34	F	Professor	s	+1	1	We might {disfmarker} might or might not agree that that 's the way it will be in ten years ,
+Bro003.F.dialogueact358	1184.34	1187.08	F	Professor	s	+1	1	but that 's {disfmarker} that 's {disfmarker} that 's what they 're asking for .
+Bro003.F.dialogueact359	1187.47	1192.94	F	Professor	s	+1	1	So {disfmarker} so I think that {disfmarker} th th it is an important issue whether it works cross - language .
+5	Bro003.s.16	Must be careful if using a broad training source that is carefully
+hand marked , because it would be unclear which is the reason for
+improvement.
+Bro003.A.dialogueact496	1583.89	1587.0	A	PhD	qy^rt	+1	1	Were the digits , um , hand - labeled for phones ?
+Bro003.C.dialogueact500	1590.98	1599.47	C	Grad	s	+1	1	those were {disfmarker} those were automatically derived by {disfmarker} by Dan using , um , embedded {disfmarker} embedded training and alignment .
+Bro003.A.dialogueact510	1611.09	1620.67	A	PhD	s	+1	1	I {disfmarker} I think you 're doing this test because you want to determine whether or not , uh , having s general speech performs as well as having specific {pause} speech .
+Bro003.A.dialogueact518	1629.29	1637.72	A	PhD	s	+1	1	so I was just wondering if the fact that TIMIT {disfmarker} you 're using the hand - labeled stuff from TIMIT might be {disfmarker} confuse the results that you get .
+Bro003.F.dialogueact534	1673.29	1679.35	F	Professor	qr	+1	1	It would be another interesting scientific question to ask , " Is it because it 's a broad source or because it was , you know , carefully ? "
+5	Bro003.s.17	Memory is of concern , because final product needs to run potentially
+one cheaper cell phones , which have limited memory capacity.
+Bro003.B.dialogueact1057	2683.54	2687.47	B	PhD	qy^bu^r^rt	+1	1	Isn't there like a limit {pause} on the computation load , or d latency , or something like that for Aurora task ?
+Bro003.F.dialogueact1063	2690.59	2691.64	F	Professor	s^nd^rt	+1	1	so , there 's not really a limit .
+Bro003.F.dialogueact1064	2691.82	2696.02	F	Professor	s^e	+1	1	What it is is that there 's {disfmarker} there 's , uh {disfmarker} it 's just penalty ,
+Bro003.F.dialogueact1066	2696.45	2701.39	F	Professor	s^e	+1	1	That {disfmarker} that if you 're using , uh , a megabyte , then they 'll say that 's very nice ,
+Bro003.F.dialogueact1067	2701.49	2703.48	F	Professor	s^e	+1	1	but , of course , it will never go on a cheap cell phone .
+12	Bro003.s.18	OGI doesn't have a phoneme superset ready prepared , for they are
+working with clusters , which may be good enough for digits , but not
+for discriminating words.
+Bro003.F.dialogueact1867	4762.99	4765.73	F	Professor	qy^rt	+1	2	Has OGI done anything about this issue ?
+Bro003.F.dialogueact1868	4765.99	4770.49	F	Professor	qy^rt	+1	2	Do they have {disfmarker} Do they have any kind of superset that they already have ?
+Bro003.G.dialogueact1870	4772.57	4779.73	G	PhD	s^df	+1	2	Well , they {disfmarker} they {disfmarker} they 're going actually the {disfmarker} the other way , defining uh , phoneme clusters , apparently .
+Bro003.A.dialogueact1875	4786.81	4789.54	A	PhD	s^bu	+1	2	So they just throw the speech from all different languages together ,
+Bro003.A.dialogueact1876	4789.54	4793.98	A	PhD	qy^bu^d^rt	+1	2	then cluster it into sixty or fifty or whatever clusters ?
+Bro003.G.dialogueact1910	4875.43	4879.59	G	PhD	s^df	+1	2	and e i perhaps u using broad phoneme classes ,
+Bro003.G.dialogueact1911	4879.69	4884.07	G	PhD	s^df	+1	2	it 's {disfmarker} it 's OK for um , uh classifying the digits ,
+Bro003.G.dialogueact1912	4884.07	4886.74	G	PhD	s^df	+1	2	but as soon as you will have more words ,
+Bro003.G.dialogueact1913	4887.69	4893.73	G	PhD	s^df	+1	2	well , words can differ with only a single phoneme , and {disfmarker} which could be the same , uh , class .
+Bro003.A.dialogueact1926	4914.04	4917.93	A	PhD	qy^bu^d^rt	+1	2	So you 're saying that there may not be enough information coming out of the net to help you discriminate the words ?
+Bro003.G.dialogueact1928	4916.82	4917.16	G	PhD	s^aa	+1	2	Yeah ,
+Bro003.B.dialogueact1931	4920.2	4923.06	B	PhD	s^bu|qy^d^g^rt	+1	2	Fact , most confusions are within the phone {disfmarker} phone classes , right ?

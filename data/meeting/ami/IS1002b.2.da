@@ -1,0 +1,857 @@
+IS1002b.A.dialog-act.s9553330.1	91.24	92.51	PM	A	stl	-1	0	So
+IS1002b.A.dialog-act.s9553330.2	93.73	97.61	PM	A	inf	+1	0	we are here to talk about functional design .
+IS1002b.A.dialog-act.s9553330.3	97.61	104.87	PM	A	inf	+1	0	Now hopefully we've all got a better idea from {vocalsound} {disfmarker} than we did f leaving the last meeting as to what it is we are up to now .
+IS1002b.A.dialog-act.s9553330.4	105.79	107.62	PM	A	off	+1	0	So here's an agenda .
+IS1002b.A.dialog-act.s9553330.5	107.62	109.13	PM	A	inf	-1	0	Uh I'll open .
+IS1002b.A.dialog-act.s9553330.6	109.13	112.54	PM	A	off	+1	0	Um you should know that I'll be taking minutes during all the meetings ,
+IS1002b.A.dialog-act.s9553330.7	112.54	116.03	PM	A	inf	-1	0	as I was struggling to our last time uh
+IS1002b.A.dialog-act.s9553330.8	116.03	119.75	PM	A	inf	+1	0	and that'll be easier for me now because I'm not actually giving the whole presentation .
+IS1002b.A.dialog-act.s9553330.9	119.75	127.56	PM	A	inf	+1	0	Uh the additional points are just the stuff that we sent and that I forwarded on from upper management having a few bright ideas to make our lives painful .
+IS1002b.C.dialog-act.s9553330.1	119.735	120.072	ID	C	fra	-1	0	{vocalsound}
+IS1002b.C.dialog-act.s9553330.2	123.136	124.281	ID	C	fra	-1	0	{vocalsound}
+IS1002b.A.dialog-act.s9553330.10	128.03	132.65	PM	A	inf	+1	0	Um {vocalsound} now {vocalsound} you can all give your presentations .
+IS1002b.A.dialog-act.s9553330.11	132.65	134.97	PM	A	inf	+1	0	We can talk about the requirements
+IS1002b.A.dialog-act.s9553330.12	134.97	138.35	PM	A	inf	+1	0	and hopefully come to some decisions .
+IS1002b.A.dialog-act.s9553330.13	138.35	139.67	PM	A	inf	-1	0	{vocalsound} Right , forty minutes for this meeting ,
+IS1002b.A.dialog-act.s9553330.14	139.67	140.84	PM	A	inf	-1	0	so a bit more time than the last one .
+IS1002b.A.dialog-act.s9553330.15	141.94	142.85	PM	A	inf	-1	0	Here's the additional points
+IS1002b.A.dialog-act.s9553330.16	142.85	148.2	PM	A	el.ass	-1	0	I just wanted to put those in there to see if you guys had any comments on them .
+IS1002b.A.dialog-act.s9553330.17	149.43	150.9	PM	A	el.inf	+1	1	Uh did you all receive that email ?
+IS1002b.B.dialog-act.s9553330.1	151.33	151.64	UI	B	inf	-1	0	Yep .
+IS1002b.D.dialog-act.s9553330.1	151.36	151.68	ME	D	inf	-1	0	Yeah .
+IS1002b.A.dialog-act.s9553330.18	152.1	157.006	PM	A	el.sug	+1	1	So does anyone have any overall {gap}
+IS1002b.D.dialog-act.s9553330.2	156.36	178.58	ME	D	inf	+1	2	Well {vocalsound} uh what comes up for me is that if we're gonna if we're gonna be marketing a product that is going to be uh having {vocalsound} no teletext , people are very comfortable {vocalsound} with {vocalsound} the idea of having teletext and using teletext , and so we're not {disfmarker} we're gonna be a new product without something that people are very comfortable having right now .
+IS1002b.A.dialog-act.s9553330.19	161.57	161.87	PM	A	bck	-1	0	Mm .
+IS1002b.A.dialog-act.s9553330.20	167.06	167.2	PM	A	bck	-1	0	Mm .
+IS1002b.A.dialog-act.s9553330.21	172.04	172.39	PM	A	bck	-1	0	Yep .
+IS1002b.D.dialog-act.s9553330.3	178.97	183.92	ME	D	inf	-1	0	So that's , from a marketing perspective I I see I see a lack .
+IS1002b.A.dialog-act.s9553330.22	180.8	181.07	PM	A	bck	-1	0	Mm .
+IS1002b.D.dialog-act.s9553330.4	183.92	186.29	ME	D	inf	-1	0	And so we have to go , I think , in the other direction .
+IS1002b.D.dialog-act.s9553330.5	186.29	189.648	ME	D	el.sug	+1	1	What are we gonna have that makes this thing better than {disfmarker}
+IS1002b.A.dialog-act.s9553330.23	189.08	191.41	PM	A	inf	+1	1	Well tha that first point could uh also be an op opportunity
+IS1002b.A.dialog-act.s9553330.24	191.41	198.85	PM	A	inf	+1	1	because in seeing that teletext is becoming outdated , some sort remote control that can work with the Internet {disfmarker} {vocalsound} there is the opportunity that's presented , I guess .
+IS1002b.D.dialog-act.s9553330.6	195.619	195.922	ME	D	fra	-1	0	{vocalsound}
+IS1002b.D.dialog-act.s9553330.7	197.53	200.09	ME	D	ass	+1	1	Right . Yeah . No , I I agree with you .
+IS1002b.A.dialog-act.s9553330.25	200.33	200.75	PM	A	bck	-1	0	Okay .
+IS1002b.D.dialog-act.s9553330.8	200.09	205.19	ME	D	inf	+1	1	So what I'm talking about is I see that one side we're eliminating something so we have to come up with another side
+IS1002b.D.dialog-act.s9553330.9	205.19	213.15	ME	D	inf	+1	1	which is , what are we gonna be targeting our market uh that {vocalsound} identifies our product as better than {disfmarker} because it doesn't have teletext it has ta-ta-ta-ta-ta .
+IS1002b.A.dialog-act.s9553330.26	213.3	213.61	PM	A	bck	-1	0	Okay .
+IS1002b.D.dialog-act.s9553330.10	213.15	215.04	ME	D	inf	-1	0	So that's that's that was my reactions .
+IS1002b.A.dialog-act.s9553330.28	215.09	215.36	PM	A	bck	-1	0	Yeah .
+IS1002b.A.dialog-act.s9553330.29	215.36	219.03	PM	A	inf	+1	1	but but we are sort of being dictated that this should only be for the television .
+IS1002b.D.dialog-act.s9553330.11	218.15	218.39	ME	D	bck	-1	0	Yeah yeah .
+IS1002b.A.dialog-act.s9553330.30	219.03	220.55	PM	A	inf	+1	2	So we're quite fixed .
+IS1002b.A.dialog-act.s9553330.31	220.55	228.54	PM	A	inf	+1	1	So we're really probably , in terms of marketing , are looking for that's uh that's a cost winner rather than a fantastic new feature product .
+IS1002b.D.dialog-act.s9553330.12	220.39	220.53	ME	D	bck	-1	0	Yep .
+IS1002b.C.dialog-act.s9553330.3	228.032	230.69	ID	C	inf	-1	0	{vocalsound} Yeah bu but we we're designing only the remote ,
+IS1002b.A.dialog-act.s9553330.32	228.54	228.72	PM	A	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.13	228.26	228.57	ME	D	ass	-1	0	Okay .
+IS1002b.C.dialog-act.s9553330.4	230.69	232.63	ID	C	inf	-1	0	we not design the T_V_ .
+IS1002b.A.dialog-act.s9553330.33	232.29	232.51	PM	A	bck	-1	0	Hmm .
+IS1002b.C.dialog-act.s9553330.5	232.63	239.29	ID	C	inf	+1	2	So uh we're gonna be removing the teletext out of any T_V_ that we {disfmarker} people use our remote with .
+IS1002b.D.dialog-act.s9553330.14	237.3	237.81	ME	D	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.15	237.81	238.02	ME	D	fra	-1	0	'Kay .
+IS1002b.A.dialog-act.s9553330.34	239.92	240.14	PM	A	bck	-1	0	Hmm .
+IS1002b.D.dialog-act.s9553330.17	239.57	240.13	ME	D	ass	-1	0	That's right .
+IS1002b.C.dialog-act.s9553330.6	240.32	242.18	ID	C	ass	+1	2	So it's kind of a stupid decision .
+IS1002b.D.dialog-act.s9553330.16	240.13	241.07	ME	D	fra	-1	0	I think we take with you .
+IS1002b.A.dialog-act.s9553330.35	241.66	245.53	PM	A	inf	-1	0	But there's also the potential for mark there's a market here for our lost teletext .
+IS1002b.B.dialog-act.s9553330.2	242.12	242.29	UI	B	bck	-1	0	Right .
+IS1002b.A.dialog-act.s9553330.36	245.53	250.03	PM	A	inf	-1	0	For example someone that just goes to the shop that wants a replacement {disfmarker} wants it as {vocalsound} cheap as possible .
+IS1002b.A.dialog-act.s9553330.37	250.03	251.96	PM	A	inf	-1	0	Twenty-five Euros is the selling price ,
+IS1002b.A.dialog-act.s9553330.38	251.96	253.77	PM	A	inf	+1	1	we really have to innovate here I guess .
+IS1002b.D.dialog-act.s9553330.18	254.15	260.09	ME	D	inf	-1	0	That's what I'm that's what I'm talking about is is that we have to find something that is gonna be very attractive about this product
+IS1002b.D.dialog-act.s9553330.19	260.09	262.3	ME	D	inf	+1	1	'cause somebody , some people are gonna be hap unhappy
+IS1002b.D.dialog-act.s9553330.20	262.3	265.62	ME	D	inf	+1	1	'cause it took {disfmarker} they can't ac access their teletext .
+IS1002b.A.dialog-act.s9553330.39	265.06	265.33	PM	A	bck	-1	0	Mm .
+IS1002b.D.dialog-act.s9553330.21	265.62	266.49	ME	D	stl	-1	0	Okay .
+IS1002b.D.dialog-act.s9553330.22	266.49	272.75	ME	D	inf	+1	1	'Cause we're talking about {vocalsound} eighty percent or ninety percent or ninety-five percent of the televisions out there are are teletext .
+IS1002b.A.dialog-act.s9553330.40	274.4	274.65	PM	A	bck	-1	0	K yeah .
+IS1002b.D.dialog-act.s9553330.23	274.66	278.3	ME	D	inf	-1	0	So so it's it's not that I'm criticizing the product at all .
+IS1002b.D.dialog-act.s9553330.24	278.3	281.83	ME	D	inf	+1	2	It's just when we eliminate that then what do we bring ?
+IS1002b.D.dialog-act.s9553330.25	281.83	283.5	ME	D	inf	-1	0	What are we bringing in to take the place of this ,
+IS1002b.A.dialog-act.s9553330.41	283.95	284.22	PM	A	bck	-1	0	Mm 'kay .
+IS1002b.D.dialog-act.s9553330.26	283.5	285.61	ME	D	sug	-1	0	and we have to d {disfmarker} in my opinion we have to double up .
+IS1002b.C.dialog-act.s9553330.7	284.109	284.547	ID	C	fra	-1	0	{vocalsound}
+IS1002b.D.dialog-act.s9553330.27	285.61	289.18	ME	D	sug	-1	0	If we lose one we need to bring two or three .
+IS1002b.A.dialog-act.s9553330.42	288.08	288.29	PM	A	bck	-1	0	Okay .
+IS1002b.A.dialog-act.s9553330.43	290.45	290.74	PM	A	stl	-1	0	Okay
+IS1002b.A.dialog-act.s9553330.44	290.74	295.18	PM	A	ass	+1	1	I think that the {vocalsound} last point is probably quite uh straightforward .
+IS1002b.A.dialog-act.s9553330.45	295.18	298.69	PM	A	inf	+1	1	Obviously the the {disfmarker} w it has to be branded .
+IS1002b.A.dialog-act.s9553330.47	299.84	299.93	PM	A	bck	-1	0	'Kay .
+IS1002b.C.dialog-act.s9553330.9	299.38	301.312	ID	C	el.inf	+1	1	So then the double R_ will be our our {disfmarker}
+IS1002b.A.dialog-act.s9553330.46	303.57	305.24	PM	A	inf	-1	0	On the product yeah .
+IS1002b.A.dialog-act.s9553330.48	305.24	306.61	PM	A	el.inf	+1	1	Can you handle that black and yellow ?
+IS1002b.B.dialog-act.s9553330.3	304.9	305.721	UI	B	fra	-1	0	I think one of {disfmarker}
+IS1002b.C.dialog-act.s9553330.8	305.29	306.14	ID	C	fra	-1	0	I tho I tho I thou
+IS1002b.C.dialog-act.s9553330.10	307.03	309.89	ID	C	inf	-1	0	I think Rol Ro Rolls-Royce might mind , but don't worry .
+IS1002b.B.dialog-act.s9553330.4	310.48	319.46	UI	B	inf	+1	1	I think w , yeah , one of the things that we should also keep in mind um when we're doing this {disfmarker} I mean our company's slogan is we put the fashion in electronics , right .
+IS1002b.B.dialog-act.s9553330.5	319.46	327.5	UI	B	inf	+1	1	So I think our kind of {disfmarker} our target here is to {vocalsound} have some kind of very like sleek {vocalsound} nice look remote
+IS1002b.B.dialog-act.s9553330.6	327.5	329.17	UI	B	inf	-1	0	and we want it to be functional as well ,
+IS1002b.B.dialog-act.s9553330.7	329.17	334.73	UI	B	inf	+1	1	but I think one of the main selling points is that we don't want it to be clunky like like this thing here .
+IS1002b.A.dialog-act.s9553330.49	334.88	335.12	PM	A	bck	-1	0	Mm .
+IS1002b.B.dialog-act.s9553330.8	334.73	336.41	UI	B	inf	-1	0	You know we don't wanna a big clunker .
+IS1002b.B.dialog-act.s9553330.9	336.41	341.248	UI	B	inf	+1	1	We want something that looks nice and it's fashionable and so {disfmarker}
+IS1002b.D.dialog-act.s9553330.28	342.54	343.31	ME	D	el.inf	-1	0	So you have this ?
+IS1002b.A.dialog-act.s9553330.50	343.49	343.63	PM	A	inf	-1	0	Nah .
+IS1002b.A.dialog-act.s9553330.51	344.96	346.97	PM	A	inf	+1	0	So we have three presentations ,
+IS1002b.A.dialog-act.s9553330.52	346.97	351.41	PM	A	sug	+1	0	and I think we'll go in order of participant number here .
+IS1002b.A.dialog-act.s9553330.53	353.19	357.48	PM	A	sug	+1	0	So we can have a look at the working design first from participant two .
+IS1002b.A.dialog-act.s9553330.121	357.48	357.968	PM	A	fra	-1	0	That's {disfmarker}
+IS1002b.A.dialog-act.s9553330.54	359.488	360.99	PM	A	bck	-1	0	{gap} Okay .
+IS1002b.C.dialog-act.s9553330.11	359.32	359.53	ID	C	bck	-1	0	Yes .
+IS1002b.B.dialog-act.s9553330.10	359.83	360.29	UI	B	ass	-1	0	That's fine .
+IS1002b.B.dialog-act.s9553330.11	365.97	367.07	UI	B	stl	-1	0	Okay so
+IS1002b.A.dialog-act.s9553330.56	367.33	370.07	PM	A	fra	-1	0	Mm it's enough . But uh click it on off ?
+IS1002b.B.dialog-act.s9553330.12	370.42	371.32	UI	B	inf	-1	0	so you all know me ,
+IS1002b.B.dialog-act.s9553330.13	371.32	372.59	UI	B	inf	+1	1	I'm the Industrial Designer .
+IS1002b.B.dialog-act.s9553330.14	374.47	378.5	UI	B	inf	+1	1	And we've some basic components that um our remote is gonna need ,
+IS1002b.B.dialog-act.s9553330.15	378.5	380.4	UI	B	inf	+1	1	just basically every remote'll need 'em .
+IS1002b.C.dialog-act.s9553330.12	379.635	380.174	ID	C	fra	-1	0	{vocalsound}
+IS1002b.B.dialog-act.s9553330.16	380.4	382.97	UI	B	inf	+1	1	We need some kinda of power d power source .
+IS1002b.B.dialog-act.s9553330.17	382.97	387.79	UI	B	inf	+1	1	Um we have to decide on our our user interface , which is his department ,
+IS1002b.B.dialog-act.s9553330.18	387.79	390.71	UI	B	inf	+1	1	but the in user interface is also a major component .
+IS1002b.B.dialog-act.s9553330.19	390.71	408.59	UI	B	inf	+1	1	Um we need a programmable digital signal processor to um to take the input from the user and translate that into uh into electronic signal , which we pass to the infra-red L_E_D_ , which you aim at the television uh which {disfmarker} and it receives that signal .
+IS1002b.B.dialog-act.s9553330.20	409.71	411.1	UI	B	inf	+1	1	You need a on-off switch
+IS1002b.B.dialog-act.s9553330.21	411.1	413.29	UI	B	ass	-1	0	um I don't know how that got in there .
+IS1002b.B.dialog-act.s9553330.22	413.29	422.23	UI	B	inf	+1	1	And uh we also need to um have the {vocalsound} {disfmarker} if we want a universal remote we need to have encryption codes for the different makes of T_V_s .
+IS1002b.B.dialog-act.s9553330.23	422.23	426.15	UI	B	inf	+1	1	So we need to know all the different you know all the different signals
+IS1002b.B.dialog-act.s9553330.24	426.15	428.96	UI	B	inf	+1	1	and so that'll require some memory as well .
+IS1002b.B.dialog-act.s9553330.25	431.48	437.48	UI	B	inf	+1	1	Um so here's just a basic layout of how how the remote would work .
+IS1002b.B.dialog-act.s9553330.26	437.48	441.27	UI	B	inf	+1	1	You ha the v the power source is in the upper right-hand corner there ,
+IS1002b.B.dialog-act.s9553330.27	441.27	448.6	UI	B	inf	+1	1	and you can see that uh we have the user interface here which is connected to the chip which does all our signal processing ,
+IS1002b.B.dialog-act.s9553330.28	448.6	452.24	UI	B	inf	+1	1	and then passes that signal on to the infra-red L_E_D_
+IS1002b.B.dialog-act.s9553330.29	452.24	458.17	UI	B	inf	+1	1	and that signal is then emitted and received by the television at the photo-transistor .
+IS1002b.B.dialog-act.s9553330.30	458.71	462.23	UI	B	inf	-1	0	So {vocalsound} those are the basic components that need to go into this
+IS1002b.B.dialog-act.s9553330.31	462.23	467.5	UI	B	inf	-1	0	and everything else is pretty much uh open to move around .
+IS1002b.D.dialog-act.s9553330.29	468.04	472.72	ME	D	el.inf	-1	0	Now is {disfmarker} would this be {vocalsound} considered just a standard uh um {disfmarker}
+IS1002b.B.dialog-act.s9553330.32	474.1	474.86	UI	B	fra	-1	0	I think any des
+IS1002b.D.dialog-act.s9553330.30	474.6	477.29	ME	D	inf	-1	0	This is not this is not cutting edge technology we're talking here .
+IS1002b.B.dialog-act.s9553330.33	477.53	477.77	UI	B	ass	-1	0	No .
+IS1002b.D.dialog-act.s9553330.31	477.29	479.54	ME	D	inf	+1	1	We're talking about existing technology .
+IS1002b.B.dialog-act.s9553330.34	479.14	479.4	UI	B	ass	-1	0	Right
+IS1002b.B.dialog-act.s9553330.35	479.4	480.017	UI	B	fra	-1	0	I think {disfmarker}
+IS1002b.D.dialog-act.s9553330.32	479.54	482.78	ME	D	inf	-1	0	Nothing is being modified or upgraded or new discoveries .
+IS1002b.B.dialog-act.s9553330.36	481.57	481.82	UI	B	ass	-1	0	Yeah
+IS1002b.B.dialog-act.s9553330.37	481.82	490.01	UI	B	inf	+1	1	this is just {disfmarker} this is just a basic layout of ev {vocalsound} of all the components that w w are gonna be absolutely necessary f to have a working remote .
+IS1002b.B.dialog-act.s9553330.38	490.01	493.64	UI	B	sug	+1	1	We can add things in like if we wanted some voice recognition ,
+IS1002b.B.dialog-act.s9553330.39	493.64	502.46	UI	B	inf	+1	1	I mean that {vocalsound} I mean {vocalsound} that you can kinda say would {vocalsound} would fall under the user interface and the digital signal processing chip .
+IS1002b.D.dialog-act.s9553330.33	501.26	502.33	ME	D	bck	-1	0	Okay . Okay .
+IS1002b.A.dialog-act.s9553330.57	502.4	504.49	PM	A	el.inf	+1	1	Do we have an idea of costs of different components ?
+IS1002b.B.dialog-act.s9553330.40	504.8	508.91	UI	B	inf	+1	2	Um well the most the most costly components are gonna be the chip
+IS1002b.B.dialog-act.s9553330.41	508.91	511.48	UI	B	fra	-1	0	and the uh th it could als
+IS1002b.B.dialog-act.s9553330.42	511.48	515.13	UI	B	inf	+1	1	basically the user interface and the casing are gonna be expensive as well .
+IS1002b.A.dialog-act.s9553330.58	515.44	515.58	PM	A	bck	-1	0	'Kay .
+IS1002b.B.dialog-act.s9553330.43	515.13	521.33	UI	B	inf	+1	1	Um the L_E_D_ and the the transistors and everything else are you know they're they're pretty cheap .
+IS1002b.B.dialog-act.s9553330.44	521.72	528.0	UI	B	inf	+1	1	So depending on what we want our functionality to be , um the chip could be expensive or it could be cheap .
+IS1002b.A.dialog-act.s9553330.59	528.05	528.34	PM	A	bck	-1	0	Mm 'kay .
+IS1002b.B.dialog-act.s9553330.45	528.0	534.23	UI	B	inf	+1	1	Um depending on the n amount of memory we need in there and stuff like that and h and h {vocalsound} you know how much power .
+IS1002b.A.dialog-act.s9553330.60	533.54	535.68	PM	A	el.inf	-1	0	Do we have any ballpark figures for that yet ? No .
+IS1002b.B.dialog-act.s9553330.46	535.68	538.19	UI	B	inf	-1	0	Uh I don't have any figures right now .
+IS1002b.A.dialog-act.s9553330.61	537.83	538.05	PM	A	bck	-1	0	'Kay .
+IS1002b.B.dialog-act.s9553330.47	538.19	542.58	UI	B	inf	+1	1	We uh we have to wait until we get to a more specific design phase for that .
+IS1002b.A.dialog-act.s9553330.62	541.8	541.97	PM	A	bck	-1	0	Yeah .
+IS1002b.B.dialog-act.s9553330.48	542.58	556.66	UI	B	inf	+1	1	Um but {disfmarker} and I think a significant part of the cost could be the actual the actual casing itself and and you know the the b the buttons and things like that , I think .
+IS1002b.D.dialog-act.s9553330.34	542.51	542.92	ME	D	bck	-1	0	N okay .
+IS1002b.D.dialog-act.s9553330.35	554.95	555.05	ME	D	bck	-1	0	Mm .
+IS1002b.D.dialog-act.s9553330.36	555.81	556.54	ME	D	und	-1	0	Mm the shell ?
+IS1002b.B.dialog-act.s9553330.49	557.11	558.06	UI	B	inf	-1	0	Yeah . Basically yeah .
+IS1002b.D.dialog-act.s9553330.37	558.05	558.36	ME	D	ass	-1	0	Okay .
+IS1002b.A.dialog-act.s9553330.63	561.75	561.97	PM	A	bck	-1	0	Okay .
+IS1002b.B.dialog-act.s9553330.50	563.22	563.69	UI	B	stl	-1	0	So yeah .
+IS1002b.B.dialog-act.s9553330.51	563.69	564.85	UI	B	inf	+1	1	That's all I have really .
+IS1002b.A.dialog-act.s9553330.64	565.45	566.17	PM	A	be.pos	-1	0	Okay . Thanks .
+IS1002b.A.dialog-act.s9553330.65	570.53	573.77	PM	A	inf	-1	0	And we have participant three , which I believe is Pedro .
+IS1002b.C.dialog-act.s9553330.13	574.302	575.6	ID	C	fra	-1	0	{vocalsound} I {disfmarker}
+IS1002b.A.dialog-act.s9553330.66	580.69	582.11	PM	A	inf	-1	0	I can give you that to click on .
+IS1002b.C.dialog-act.s9553330.14	581.59	583.38	ID	C	oth	-1	0	Hey mouse .
+IS1002b.D.dialog-act.s9553330.38	582.656	583.52	ME	D	fra	-1	0	{vocalsound}
+IS1002b.C.dialog-act.s9553330.15	583.38	585.12	ID	C	oth	-1	0	Open . {vocalsound}
+IS1002b.A.dialog-act.s9553330.67	585.99	586.622	PM	A	fra	-1	0	And you wanna get {disfmarker}
+IS1002b.C.dialog-act.s9553330.16	587.4	590.611	ID	C	be.pos	-1	0	When we're fighting over it's also more {disfmarker} lot more fun . {vocalsound}
+IS1002b.A.dialog-act.s9553330.68	589.9	592.77	PM	A	sug	-1	0	View a slide show , that's what you wanna do , yeah ?
+IS1002b.A.dialog-act.s9553330.69	592.77	593.42	PM	A	sug	-1	0	Just go up to view .
+IS1002b.B.dialog-act.s9553330.52	594.64	595.34	UI	B	sug	-1	0	Click , don't {disfmarker} Yeah .
+IS1002b.C.dialog-act.s9553330.17	594.56	594.96	ID	C	bck	-1	0	Uh .
+IS1002b.A.dialog-act.s9553330.70	596.01	596.25	PM	A	bck	-1	0	Mm 'kay
+IS1002b.C.dialog-act.s9553330.18	596.66	598.86	ID	C	inf	-1	0	This doesn't work . {vocalsound}
+IS1002b.C.dialog-act.s9553330.19	598.86	600.37	ID	C	inf	+1	1	So yeah function design .
+IS1002b.C.dialog-act.s9553330.20	600.37	603.49	ID	C	inf	-1	0	Um you guys know me , Pedro , and um
+IS1002b.C.dialog-act.s9553330.21	605.39	609.85	ID	C	inf	+1	1	what I found is we want to do fashion
+IS1002b.C.dialog-act.s9553330.22	609.85	615.48	ID	C	sug	+1	1	and I think , honestly , we should keep technology low and just simple basically
+IS1002b.C.dialog-act.s9553330.23	615.48	618.07	ID	C	sug	+1	1	and try to aim for design .
+IS1002b.C.dialog-act.s9553330.25	618.07	618.48	ID	C	fra	+1	0	If
+IS1002b.C.dialog-act.s9553330.24	618.48	622.57	ID	C	inf	+1	1	basically a case will will cost the same if it looks good or bad
+IS1002b.C.dialog-act.s9553330.26	623.78	626.04	ID	C	inf	+1	1	so we ma we have to make it look good .
+IS1002b.C.dialog-act.s9553330.27	626.04	629.16	ID	C	sug	+1	1	Um something cute and small .
+IS1002b.C.dialog-act.s9553330.28	629.16	631.49	ID	C	inf	+1	1	The big chunky remotes are died in the eighties .
+IS1002b.C.dialog-act.s9553330.29	631.49	636.22	ID	C	sug	-1	0	So we should just go for something that people will like to actually look at .
+IS1002b.A.dialog-act.s9553330.71	636.432	636.992	PM	A	fra	-1	0	{vocalsound}
+IS1002b.C.dialog-act.s9553330.30	637.3	646.87	ID	C	inf	+1	1	And um although mo most people will buy s televisions and everything for uh {disfmarker} that have loads of loads of little functions and everything
+IS1002b.C.dialog-act.s9553330.31	646.87	651.47	ID	C	inf	+1	1	and they mostly end up using simple functions and little things
+IS1002b.C.dialog-act.s9553330.32	651.47	661.37	ID	C	inf	+1	1	and most the people won't won't get too mad of actually having to go the {disfmarker} to the s to the television to , for instance , tune in their {disfmarker} the stations .
+IS1002b.C.dialog-act.s9553330.33	661.37	663.49	ID	C	inf	+1	1	There's no need to have that in the remote .
+IS1002b.C.dialog-act.s9553330.34	663.49	664.27	ID	C	stl	-1	0	So um
+IS1002b.C.dialog-act.s9553330.35	665.91	678.85	ID	C	sug	+1	1	um as for what I would recommend for uh the the interface design , and uh I will change the colours on the on the logo , but {vocalsound} um we should go for the user-oriented device ,
+IS1002b.C.dialog-act.s9553330.36	678.85	682.67	ID	C	inf	+1	1	so simple controls and good ergonomics .
+IS1002b.C.dialog-act.s9553330.37	682.67	689.82	ID	C	off	+1	3	Um and uh although I th I th I'm still here recommending the teletext so I'll remove that , I guess ,
+IS1002b.C.dialog-act.s9553330.38	689.82	691.296	ID	C	fra	-1	0	but um we should go for the {disfmarker}
+IS1002b.A.dialog-act.s9553330.72	690.99	699.59	PM	A	inf	+1	2	But I t I think what the {vocalsound} the management recommendation was less that there's a worry that teletext will become outdated rather than we shouldn't have it .
+IS1002b.A.dialog-act.s9553330.73	699.59	704.35	PM	A	sug	+1	3	So I I still think if it's cheap enough functionality-wise to include , it really should be in there .
+IS1002b.B.dialog-act.s9553330.53	704.32	704.6	UI	B	bck	-1	0	Mm-hmm .
+IS1002b.A.dialog-act.s9553330.74	704.83	706.94	PM	A	fra	-1	0	Because otherwise we're just going to {disfmarker}
+IS1002b.A.dialog-act.s9553330.75	706.94	715.69	PM	A	inf	+1	1	I mean {vocalsound} even if it's necessary or not , if you {disfmarker} if you're given the choice between a t a remote with teletext or without uh when it really {disfmarker}
+IS1002b.A.dialog-act.s9553330.76	715.69	724.93	PM	A	inf	+1	1	if it i {vocalsound} if it isn't more expensive for us to k make {disfmarker} because as far as I understand it , {vocalsound} it can be operated with the same set of buttons , yeah ?
+IS1002b.A.dialog-act.s9553330.77	724.93	726.0	PM	A	sug	-1	0	So it should be in there .
+IS1002b.B.dialog-act.s9553330.54	724.61	725.51	UI	B	fra	-1	0	Right as far as {disfmarker}
+IS1002b.C.dialog-act.s9553330.39	724.614	725.25	ID	C	bck	-1	0	{vocalsound} Yeah .
+IS1002b.B.dialog-act.s9553330.55	725.51	728.13	UI	B	inf	+1	1	i it's just uh {vocalsound} the cost of an extra button .
+IS1002b.B.dialog-act.s9553330.56	728.13	731.22	UI	B	inf	-1	0	I mean software-wise there's really no difference .
+IS1002b.A.dialog-act.s9553330.78	728.88	729.06	PM	A	bck	-1	0	Yeah .
+IS1002b.A.dialog-act.s9553330.79	731.12	731.939	PM	A	fra	-1	0	Okay . Isn't {disfmarker}
+IS1002b.B.dialog-act.s9553330.57	731.22	731.66	UI	B	bck	-1	0	I think .
+IS1002b.D.dialog-act.s9553330.39	731.984	733.54	ME	D	off	-1	0	{vocalsound} I have maybe a silly question .
+IS1002b.D.dialog-act.s9553330.40	733.54	740.55	ME	D	inf	+1	1	I {disfmarker} in the very beginning it said with the with the advent of computers there's gonna be the {disfmarker} it's gonna be out-moded teletext .
+IS1002b.D.dialog-act.s9553330.41	740.55	743.29	ME	D	und	+1	1	I I don't understand how those two things are connected .
+IS1002b.D.dialog-act.s9553330.42	743.29	749.68	ME	D	el.inf	+1	1	How does how does computers and teletext {disfmarker} h how {disfmarker} why is one eliminating the need of the other ?
+IS1002b.D.dialog-act.s9553330.43	749.68	750.49	ME	D	und	-1	0	I don't understand that .
+IS1002b.A.dialog-act.s9553330.80	750.6	755.95	PM	A	inf	+1	1	Well maybe what we're getting into here is the the idea of uh Internet through the T_V_ for example .
+IS1002b.A.dialog-act.s9553330.81	755.95	758.18	PM	A	sug	-1	0	So that might play on what we can do .
+IS1002b.C.dialog-act.s9553330.40	757.41	757.9	ID	C	ass	-1	0	Yeah
+IS1002b.C.dialog-act.s9553330.41	757.9	767.8	ID	C	inf	+1	1	the they're basically aiming at saying that {vocalsound} you would use {disfmarker} you know a couple of years ago teletext to be the easiest way to check like for uh uh the scheduling and the next programme and stuff like that
+IS1002b.B.dialog-act.s9553330.58	764.56	765.34	UI	B	inf	-1	0	Scheduling .
+IS1002b.B.dialog-act.s9553330.59	767.49	770.77	UI	B	inf	-1	0	Um to find out what what you're watching even if there's commercials you know .
+IS1002b.C.dialog-act.s9553330.42	767.8	768.128	ID	C	fra	-1	0	and now {disfmarker}
+IS1002b.C.dialog-act.s9553330.43	770.8	771.6	ID	C	bck	-1	0	Yeah
+IS1002b.D.dialog-act.s9553330.44	771.03	771.42	ME	D	bck	-1	0	Okay .
+IS1002b.C.dialog-act.s9553330.44	771.6	773.01	ID	C	inf	-1	0	and now you can c look it over Internet .
+IS1002b.C.dialog-act.s9553330.45	773.01	777.81	ID	C	ass	+1	2	But I still think teletext is way more convenient until until we have the same commodities .
+IS1002b.B.dialog-act.s9553330.60	774.46	775.9	UI	B	fra	-1	0	I think I ha
+IS1002b.B.dialog-act.s9553330.61	778.23	778.74	UI	B	ass	-1	0	I agree .
+IS1002b.D.dialog-act.s9553330.45	777.78	778.32	ME	D	ass	-1	0	Yeah 'cause , yeah ,
+IS1002b.D.dialog-act.s9553330.46	778.32	781.01	ME	D	inf	+1	1	I just {disfmarker} I don't see the cross-over between computers and television .
+IS1002b.D.dialog-act.s9553330.47	781.01	783.41	ME	D	inf	+1	1	I mean I do see the cross-over in some sense ,
+IS1002b.C.dialog-act.s9553330.46	783.44	784.97	ID	C	ass	-1	0	Yeah , but it's not happen yet . Yeah .
+IS1002b.D.dialog-act.s9553330.48	783.41	787.92	ME	D	inf	+1	1	but but but but with the {disfmarker} the remote is is used for television , okay .
+IS1002b.B.dialog-act.s9553330.62	784.47	785.12	UI	B	fra	-1	0	Well for me {disfmarker}
+IS1002b.A.dialog-act.s9553330.82	785.06	786.81	PM	A	inf	-1	0	Well you have digital T_V_ still already .
+IS1002b.B.dialog-act.s9553330.63	788.36	788.78	UI	B	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.49	787.92	794.64	ME	D	inf	-1	0	So so if we make the cross-over and we're gonna view television on computers then we're then we're losing the the necessity of the remote . S
+IS1002b.B.dialog-act.s9553330.64	791.32	792.486	UI	B	fra	-1	0	Unless you have a {disfmarker}
+IS1002b.A.dialog-act.s9553330.83	794.24	799.88	PM	A	inf	+1	1	Well there there is a {disfmarker} for example on digital T_V_ systems you have {disfmarker} you can press a button and you can buy things in adverts ,
+IS1002b.B.dialog-act.s9553330.65	794.13	794.42	UI	B	bck	-1	0	Yeah .
+IS1002b.A.dialog-act.s9553330.84	799.88	803.02	PM	A	inf	-1	0	and you can uh you can view through a catalogue for example .
+IS1002b.B.dialog-act.s9553330.66	800.75	800.98	UI	B	bck	-1	0	Mm-hmm .
+IS1002b.A.dialog-act.s9553330.87	803.02	808.549	PM	A	fra	-1	0	A a family member of mine has got a system where you just um you can {disfmarker}
+IS1002b.A.dialog-act.s9553330.88	808.58	812.23	PM	A	inf	+1	1	Yeah , and there's other features for example on other systems where you can pause live T_V_ and things like that .
+IS1002b.A.dialog-act.s9553330.85	812.23	818.59	PM	A	inf	+1	1	They're just features from the Internet uh from computers are are coming into the T_V_ sort of under the covers ,
+IS1002b.A.dialog-act.s9553330.86	818.59	820.32	PM	A	inf	-1	0	but you still use it through a teletext .
+IS1002b.D.dialog-act.s9553330.50	818.47	818.83	ME	D	bck	-1	0	Okay .
+IS1002b.A.dialog-act.s9553330.89	820.32	826.69	PM	A	inf	-1	0	So now the things to think here are that that there's gonna be more functionality , potentially that we can handle .
+IS1002b.D.dialog-act.s9553330.51	820.45	820.79	ME	D	bck	-1	0	Okay .
+IS1002b.C.dialog-act.s9553330.47	824.87	825.15	ID	C	ass	-1	0	Yeah
+IS1002b.C.dialog-act.s9553330.48	825.15	827.88	ID	C	inf	-1	0	but we we don't we're not aiming a command for that .
+IS1002b.C.dialog-act.s9553330.49	827.88	828.45	ID	C	inf	-1	0	That's the thing .
+IS1002b.C.dialog-act.s9553330.50	828.45	833.152	ID	C	inf	+1	1	And all of those require the other commands with more complexity and more software and {disfmarker}
+IS1002b.B.dialog-act.s9553330.67	832.72	835.01	UI	B	inf	-1	0	{gap} I think a lot of that's proprietary anyways .
+IS1002b.B.dialog-act.s9553330.68	835.01	839.47	UI	B	inf	-1	0	You're not gonna be able to , you , like command a TiVo with our remote . I don't think .
+IS1002b.A.dialog-act.s9553330.90	835.82	836.02	PM	A	bck	-1	0	Mm .
+IS1002b.A.dialog-act.s9553330.91	840.12	841.68	PM	A	inf	-1	0	But still there there's an opportunity .
+IS1002b.A.dialog-act.s9553330.92	841.68	851.73	PM	A	sug	+1	1	If if it's {vocalsound} , for example , a trainable one then we're {vocalsound} just simply having like an up , down , left , right , an okay button or something like that might might do as well in future proofing it .
+IS1002b.A.dialog-act.s9553330.93	852.809	853.264	PM	A	fra	-1	0	{gap}
+IS1002b.C.dialog-act.s9553330.51	852.39	852.58	ID	C	ass	-1	0	Yeah
+IS1002b.C.dialog-act.s9553330.52	852.58	856.576	ID	C	inf	-1	0	but we would increase the price to try to make it a trainable one , so {disfmarker}
+IS1002b.A.dialog-act.s9553330.94	854.42	854.62	PM	A	bck	-1	0	Mm .
+IS1002b.A.dialog-act.s9553330.95	857.17	857.46	PM	A	bck	-1	0	Okay .
+IS1002b.C.dialog-act.s9553330.53	857.91	858.87	ID	C	ass	-1	0	Well I dunno .
+IS1002b.C.dialog-act.s9553330.54	858.87	860.99	ID	C	inf	-1	0	One way the other teletext was there
+IS1002b.C.dialog-act.s9553330.55	860.99	862.42	ID	C	sug	+1	1	but I guess we can remove it
+IS1002b.C.dialog-act.s9553330.56	862.42	866.31	ID	C	sug	-1	0	or , you know , make two separate interface designs .
+IS1002b.B.dialog-act.s9553330.69	864.88	870.35	UI	B	sug	+1	1	I think if it's possible you should try to you know have a talk with management about that .
+IS1002b.B.dialog-act.s9553330.70	870.35	871.344	UI	B	sug	-1	0	Just you know {disfmarker}
+IS1002b.C.dialog-act.s9553330.57	871.91	872.16	ID	C	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.52	871.68	873.47	ME	D	inf	-1	0	Yeah I don't I don't see the logic .
+IS1002b.C.dialog-act.s9553330.58	873.48	873.79	ID	C	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.53	873.47	875.71	ME	D	inf	+1	3	I I don't see the logic in elimination of teletext ,
+IS1002b.D.dialog-act.s9553330.54	875.71	877.01	ME	D	fra	-1	0	I just I I {disfmarker}
+IS1002b.A.dialog-act.s9553330.96	876.6	878.01	PM	A	ass	+1	2	Yeah , and neither do I in fact .
+IS1002b.D.dialog-act.s9553330.55	877.01	878.42	ME	D	inf	-1	0	but I'm not a tech-mind either .
+IS1002b.D.dialog-act.s9553330.56	878.42	881.78	ME	D	inf	-1	0	I just don't see the cross-over between computers and and and
+IS1002b.A.dialog-act.s9553330.97	881.64	881.93	PM	A	fra	-1	0	Bu uh .
+IS1002b.D.dialog-act.s9553330.57	881.78	885.19	ME	D	inf	-1	0	{disfmarker} 'Cause we are designing something for a television , okay .
+IS1002b.C.dialog-act.s9553330.59	884.203	885.176	ID	C	fra	-1	0	{vocalsound}
+IS1002b.A.dialog-act.s9553330.98	884.71	886.36	PM	A	off	-1	0	I'll communicate that back to those guys there
+IS1002b.A.dialog-act.s9553330.99	886.36	896.86	PM	A	inf	+1	2	a a and th the message really we wanna be sending to them is that , although teletext may become outdated w there's no l logic in not having it in there anyway i if it doesn't affect the price .
+IS1002b.B.dialog-act.s9553330.71	895.04	896.49	UI	B	fra	-1	0	Right it's just not
+IS1002b.C.dialog-act.s9553330.60	894.71	894.89	ID	C	bck	-1	0	Yeah .
+IS1002b.A.dialog-act.s9553330.100	896.86	908.62	PM	A	inf	-1	0	Um but I I think what they're pushing us towards here is in terms of thinking of ways to future-proof our system for future systems that have something else other than teletext maybe .
+IS1002b.B.dialog-act.s9553330.72	896.49	896.79	UI	B	bck	-1	0	{disfmarker} Yeah .
+IS1002b.C.dialog-act.s9553330.61	896.65	896.8	ID	C	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.58	896.36	898.38	ME	D	inf	-1	0	We are selling it to an existing market .
+IS1002b.A.dialog-act.s9553330.101	908.62	909.232	PM	A	fra	-1	0	I dunno I'm {disfmarker}
+IS1002b.C.dialog-act.s9553330.62	908.47	908.64	ID	C	ass	-1	0	Yeah
+IS1002b.C.dialog-act.s9553330.63	908.64	913.31	ID	C	inf	+1	1	but we're not putting some {disfmarker} there's no no putting anything in in the place of teletext .
+IS1002b.D.dialog-act.s9553330.59	909.33	909.766	ME	D	fra	-1	0	That's {disfmarker}
+IS1002b.A.dialog-act.s9553330.102	913.01	913.26	PM	A	bck	-1	0	Mm 'kay .
+IS1002b.D.dialog-act.s9553330.60	912.56	912.87	ME	D	ass	-1	0	Yeah ,
+IS1002b.C.dialog-act.s9553330.64	913.31	913.82	ID	C	inf	-1	0	That's the problem .
+IS1002b.D.dialog-act.s9553330.61	912.87	913.23	ME	D	fra	-1	0	and and ,
+IS1002b.D.dialog-act.s9553330.62	913.23	913.54	ME	D	ass	-1	0	yeah ,
+IS1002b.D.dialog-act.s9553330.63	913.54	918.47	ME	D	inf	+1	1	and and we're also {vocalsound} marketing a product . It's {disfmarker} what I'm seeing is a is a mid-range cost product .
+IS1002b.A.dialog-act.s9553330.103	918.89	919.06	PM	A	bck	-1	0	Mm .
+IS1002b.D.dialog-act.s9553330.64	918.47	922.55	ME	D	inf	+1	1	So so w we can't go and pump a whole bunch of technology into this thing
+IS1002b.A.dialog-act.s9553330.104	921.62	921.86	PM	A	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.65	922.55	925.02	ME	D	inf	-1	0	because all of a sudden we are gonna have cost overruns .
+IS1002b.D.dialog-act.s9553330.66	925.02	930.16	ME	D	el.sug	-1	0	So if we drop {disfmarker} if we are gonna choose to drop teletext , again what are we adding to the product that makes it marketable ?
+IS1002b.A.dialog-act.s9553330.105	931.19	932.18	PM	A	bck	-1	0	Hmm .
+IS1002b.A.dialog-act.s9553330.106	932.18	942.32	PM	A	inf	+1	1	So if we're keeping it basic we're loo loo what we're looking to sell it basically is it's uh just being very easy to use , looking exceptionally good , that sort of thing .
+IS1002b.A.dialog-act.s9553330.107	942.32	944.2	PM	A	inf	-1	0	'Cause we really don't have anything else there , do we ?
+IS1002b.C.dialog-act.s9553330.65	944.56	944.78	ID	C	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.67	944.77	945.88	ME	D	ass	-1	0	I don't I don't see it ,
+IS1002b.D.dialog-act.s9553330.68	945.88	953.3	ME	D	inf	+1	1	and to me if I'm gonna market a product for b for beauty for for design I'm gonna I'm gonna try to market it at a much higher price .
+IS1002b.D.dialog-act.s9553330.69	953.3	955.57	ME	D	inf	-1	0	I need to make it special with a high price tag .
+IS1002b.D.dialog-act.s9553330.70	955.57	958.89	ME	D	inf	-1	0	I don't want to make it economically uh g uh competitive .
+IS1002b.A.dialog-act.s9553330.108	956.6	956.97	PM	A	bck	-1	0	Mm-hmm .
+IS1002b.D.dialog-act.s9553330.71	958.89	961.3	ME	D	inf	+1	1	I want I want to market it as exclusive .
+IS1002b.D.dialog-act.s9553330.72	961.3	964.62	ME	D	inf	+1	1	So I would market this product it {disfmarker} at eighty-nine Euros
+IS1002b.D.dialog-act.s9553330.73	964.62	969.44	ME	D	inf	+1	1	and come up with some really {vocalsound} beautiful exterior design or something
+IS1002b.D.dialog-act.s9553330.74	969.44	971.85	ME	D	inf	+1	1	th but but I don't think we have that flexibility .
+IS1002b.A.dialog-act.s9553330.109	970.45	979.02	PM	A	ass	+1	1	But i if design if design is cheap and functionality is basic , then twenty-five Euros is probably a high price for a commoner garden {disfmarker} stan standard T_V_
+IS1002b.A.dialog-act.s9553330.110	979.02	980.78	PM	A	fra	-1	0	so the place {disfmarker} uh remote the
+IS1002b.A.dialog-act.s9553330.111	980.78	991.4	PM	A	inf	-1	0	then the place we're going to justify that cost is through through design through making it a a sleek elegant {vocalsound} high-priced basic remote .
+IS1002b.A.dialog-act.s9553330.112	991.4	992.54	PM	A	el.und	-1	0	Does that make sense , huh ?
+IS1002b.D.dialog-act.s9553330.75	992.08	994.2	ME	D	und	-1	0	No I no I I understand what you say ,
+IS1002b.A.dialog-act.s9553330.113	993.27	993.39	PM	A	bck	-1	0	Mm .
+IS1002b.D.dialog-act.s9553330.76	994.2	995.23	ME	D	fra	-1	0	but what I'm what I'm ,
+IS1002b.D.dialog-act.s9553330.77	995.23	997.15	ME	D	sug	-1	0	okay {disfmarker} we probably need to move along ,
+IS1002b.A.dialog-act.s9553330.114	997.03	997.99	PM	A	ass	-1	0	Yeah we probably should .
+IS1002b.D.dialog-act.s9553330.78	997.15	1000.74	ME	D	inf	-1	0	but my my concern is trying to find a marketing niche for this product ,
+IS1002b.A.dialog-act.s9553330.115	997.99	998.97	PM	A	inf	-1	0	We we're doing alright for time .
+IS1002b.D.dialog-act.s9553330.79	1000.74	1010.16	ME	D	inf	+1	1	and if I'm coming in with a with with twenty-five Euros , which is mid-market price , um then what am I going to give these people for this ?
+IS1002b.A.dialog-act.s9553330.118	1009.65	1009.9	PM	A	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.80	1010.16	1011.14	ME	D	inf	-1	0	So that's just my question ,
+IS1002b.D.dialog-act.s9553330.81	1011.14	1012.06	ME	D	inf	-1	0	but we can keep talking .
+IS1002b.A.dialog-act.s9553330.119	1012.39	1013.4	PM	A	ass	-1	0	Okay .
+IS1002b.A.dialog-act.s9553330.120	1013.4	1014.77	PM	A	be.pos	-1	0	Sorry that kinda cut into you there .
+IS1002b.C.dialog-act.s9553330.66	1015.27	1015.54	ID	C	be.pos	-1	0	No
+IS1002b.C.dialog-act.s9553330.67	1015.54	1020.83	ID	C	inf	+1	2	just I I would I would advocate for continuing teletext and those would be the basic commands .
+IS1002b.C.dialog-act.s9553330.68	1020.83	1026.24	ID	C	off	+1	1	Um as for , you know , the the case design uh maybe I'll come up with more concrete ideas .
+IS1002b.C.dialog-act.s9553330.69	1026.24	1032.672	ID	C	inf	+1	1	Right now it's just the idea of simplicity and slickness , cute and small um {disfmarker}
+IS1002b.B.dialog-act.s9553330.73	1031.05	1032.12	UI	B	stl	-1	0	Right .
+IS1002b.B.dialog-act.s9553330.74	1032.12	1040.33	UI	B	inf	+1	1	I'm just thinking you know with all these universal remotes that are out there , how many people {vocalsound} how many people actually use every feature
+IS1002b.B.dialog-act.s9553330.75	1040.33	1040.85	UI	B	fra	-1	0	that ar
+IS1002b.B.dialog-act.s9553330.76	1040.85	1050.34	UI	B	ass	+1	1	you know i like these trainable remotes and things like that , where , you know , it's just so confusing to do {vocalsound} to use all these functions .
+IS1002b.B.dialog-act.s9553330.77	1050.34	1057.75	UI	B	inf	+1	1	Where I think the largest portion of the market is just gonna {disfmarker} you know they lost their T_V_ remote , they need another one that'll work with their T_V_ .
+IS1002b.B.dialog-act.s9553330.78	1057.75	1059.18	UI	B	inf	+1	1	They want something that looks nice ,
+IS1002b.B.dialog-act.s9553330.79	1059.18	1061.71	UI	B	inf	-1	0	that that that isn't gonna break when they drop it ,
+IS1002b.B.dialog-act.s9553330.80	1061.71	1068.71	UI	B	inf	+1	1	that you know that maybe it's it's ergonomic , it feels good in your hand , something like that .
+IS1002b.A.dialog-act.s9553330.122	1067.25	1067.5	PM	A	bck	-1	0	Mm .
+IS1002b.B.dialog-act.s9553330.81	1068.71	1072.06	UI	B	inf	+1	1	I think that's gonna be where you're gonna find the biggest , you know , market share .
+IS1002b.A.dialog-act.s9553330.123	1073.08	1077.4	PM	A	inf	-1	0	So we are looking for something that looks good and just works , rather than looking for any special features .
+IS1002b.A.dialog-act.s9553330.124	1077.4	1077.76	PM	A	fra	-1	0	Is that {disfmarker}
+IS1002b.B.dialog-act.s9553330.82	1077.54	1081.89	UI	B	inf	+1	1	I think the more bells and whistles we add , it's just gonna cut into our into our profits .
+IS1002b.C.dialog-act.s9553330.70	1077.711	1078.21	ID	C	bck	-1	0	{vocalsound} Yeah .
+IS1002b.B.dialog-act.s9553330.83	1081.89	1096.55	UI	B	inf	+1	1	Because I think as we as we add costs for things like uh {disfmarker} for like if we add the voice recognition and things like that , I think {vocalsound} you know what percentage of the of the um of the market is actually gonna use that ?
+IS1002b.A.dialog-act.s9553330.125	1096.97	1097.22	PM	A	bck	-1	0	Mm .
+IS1002b.B.dialog-act.s9553330.84	1096.55	1099.25	UI	B	inf	-1	0	Maybe five percent , you know ,
+IS1002b.C.dialog-act.s9553330.71	1096.57	1096.79	ID	C	bck	-1	0	Yeah mm .
+IS1002b.A.dialog-act.s9553330.126	1098.55	1102.86	PM	A	sug	+1	1	But we can talk a little bit more potentially in the marketing marketing presentation about this .
+IS1002b.B.dialog-act.s9553330.85	1099.25	1100.012	UI	B	fra	-1	0	and how much {disfmarker}
+IS1002b.B.dialog-act.s9553330.88	1101.12	1101.31	UI	B	bck	-1	0	Right .
+IS1002b.B.dialog-act.s9553330.86	1102.28	1102.9	UI	B	ass	-1	0	Yeah okay .
+IS1002b.A.dialog-act.s9553330.127	1102.86	1103.8	PM	A	ass	-1	0	Be a good idea .
+IS1002b.B.dialog-act.s9553330.87	1102.9	1103.4	UI	B	be.pos	-1	0	I'm sorry .
+IS1002b.A.dialog-act.s9553330.128	1103.8	1106.55	PM	A	be.pos	-1	0	Uh sorry , I didn't mean to cut in {vocalsound} .
+IS1002b.D.dialog-act.s9553330.82	1104.429	1105.63	ME	D	bck	-1	0	{vocalsound} Yeah .
+IS1002b.B.dialog-act.s9553330.89	1105.17	1106.06	UI	B	be.pos	-1	0	Sorry boss {vocalsound} .
+IS1002b.A.dialog-act.s9553330.129	1106.55	1108.32	PM	A	be.pos	-1	0	I'm not the boss {vocalsound} .
+IS1002b.A.dialog-act.s9553330.130	1108.32	1108.59	PM	A	stl	-1	0	Okay .
+IS1002b.D.dialog-act.s9553330.83	1108.56	1113.68	ME	D	el.sug	+1	1	Oh P Pedro , I just want to say quickly I I would really like it when you can come up with some more bells and whistles , eh .
+IS1002b.C.dialog-act.s9553330.72	1114.288	1114.88	ID	C	fra	-1	0	{vocalsound}
+IS1002b.D.dialog-act.s9553330.84	1114.91	1122.07	ME	D	sug	+1	1	You know sell uh {disfmarker} things come to my mind is uh uh something that's uh {vocalsound} um voice-activated .
+IS1002b.D.dialog-act.s9553330.85	1122.07	1125.136	ME	D	inf	-1	0	I know we're getting into some , I hope , some big money on this thing , but {disfmarker}
+IS1002b.A.dialog-act.s9553330.131	1124.76	1126.46	PM	A	inf	-1	0	I think that's probably a question more for
+IS1002b.A.dialog-act.s9553330.132	1127.66	1129.04	PM	A	inf	-1	0	for this guy here , yeah .
+IS1002b.D.dialog-act.s9553330.86	1127.24	1128.85	ME	D	el.inf	-1	0	Is that for over here ?
+IS1002b.B.dialog-act.s9553330.90	1128.2	1129.3	UI	B	inf	-1	0	Yeah .
+IS1002b.B.dialog-act.s9553330.91	1129.3	1130.41	UI	B	inf	-1	0	Well it's kinda both of us .
+IS1002b.D.dialog-act.s9553330.87	1128.85	1129.58	ME	D	und	-1	0	Okay , alright .
+IS1002b.A.dialog-act.s9553330.133	1130.59	1131.32	PM	A	el.inf	-1	0	Is it ?
+IS1002b.B.dialog-act.s9553330.92	1130.41	1131.87	UI	B	fra	-1	0	Us us user interface .
+IS1002b.A.dialog-act.s9553330.134	1131.32	1131.72	PM	A	bck	-1	0	Okay .
+IS1002b.D.dialog-act.s9553330.88	1130.98	1131.39	ME	D	fra	-1	0	That's {disfmarker}
+IS1002b.C.dialog-act.s9553330.73	1132.55	1132.72	ID	C	bck	-1	0	Mm-hmm .
+IS1002b.D.dialog-act.s9553330.89	1132.21	1134.18	ME	D	sug	+1	1	'Cause uh and I think of voice-activated
+IS1002b.D.dialog-act.s9553330.90	1134.18	1139.78	ME	D	inf	+1	1	I think of of {vocalsound} how many times I've I've lost my my remote and I can't find it .
+IS1002b.D.dialog-act.s9553330.91	1139.78	1145.05	ME	D	sug	+1	1	So some way that I can I can find my remote by clapping my hands or something
+IS1002b.B.dialog-act.s9553330.93	1140.33	1140.54	UI	B	bck	-1	0	Mm-hmm .
+IS1002b.B.dialog-act.s9553330.94	1142.48	1143.31	UI	B	ass	-1	0	I was thinking about that .
+IS1002b.B.dialog-act.s9553330.95	1144.12	1147.022	UI	B	ass	-1	0	Then your lights would go off , though . {vocalsound}
+IS1002b.A.dialog-act.s9553330.135	1144.66	1144.93	PM	A	bck	-1	0	Mm .
+IS1002b.D.dialog-act.s9553330.92	1145.05	1149.02	ME	D	fra	-1	0	uh and and so so um {disfmarker} {vocalsound}
+IS1002b.C.dialog-act.s9553330.74	1145.952	1147.262	ID	C	fra	-1	0	{vocalsound}
+IS1002b.D.dialog-act.s9553330.93	1149.02	1150.01	ME	D	ass	-1	0	But this 's just something .
+IS1002b.D.dialog-act.s9553330.94	1150.01	1151.44	ME	D	inf	-1	0	I'm trying to find some bells and whistles
+IS1002b.D.dialog-act.s9553330.95	1151.44	1154.93	ME	D	el.sug	-1	0	'cause when they talk about tel taking out teletext , it's like , what are we gonna put in ?
+IS1002b.D.dialog-act.s9553330.96	1154.93	1156.51	ME	D	el.sug	-1	0	What makes this thing attractive ?
+IS1002b.D.dialog-act.s9553330.97	1156.51	1158.06	ME	D	inf	-1	0	And it's only for televisions .
+IS1002b.D.dialog-act.s9553330.98	1158.71	1159.74	ME	D	fra	-1	0	So we {disfmarker} everyth
+IS1002b.D.dialog-act.s9553330.99	1159.74	1168.67	ME	D	inf	+1	1	our our competition out there has got these these multiple adaptors where they can use 'em for their V_C_R_s , their D_V_D_s , their {vocalsound} their televisions
+IS1002b.D.dialog-act.s9553330.100	1168.67	1171.95	ME	D	inf	-1	0	and we're coming out with one remote for television only .
+IS1002b.D.dialog-act.s9553330.101	1171.95	1174.53	ME	D	inf	+1	1	And so to me we have to make this a really special product
+IS1002b.B.dialog-act.s9553330.96	1172.88	1173.18	UI	B	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.102	1174.53	1178.26	ME	D	inf	-1	0	I I I don't s I really have to say I don't see the market niche for this product .
+IS1002b.D.dialog-act.s9553330.103	1178.26	1179.74	ME	D	inf	-1	0	At this price I don't see it yet .
+IS1002b.D.dialog-act.s9553330.104	1179.74	1181.31	ME	D	off	-1	0	I'm {disfmarker} I I go along with this ,
+IS1002b.D.dialog-act.s9553330.105	1181.31	1183.66	ME	D	inf	-1	0	because this is what we're given to try to market ,
+IS1002b.D.dialog-act.s9553330.106	1183.66	1193.23	ME	D	inf	+1	1	but I I don't see the market niche for this product without without some really sort of something really special to identify it as as unique in the market .
+IS1002b.A.dialog-act.s9553330.136	1187.2	1187.47	PM	A	bck	-1	0	Hmm .
+IS1002b.C.dialog-act.s9553330.75	1194.21	1195.65	ID	C	sug	+1	1	But we th that should be design .
+IS1002b.D.dialog-act.s9553330.107	1196.31	1196.63	ME	D	ass	-1	0	Yeah .
+IS1002b.C.dialog-act.s9553330.76	1196.92	1198.74	ID	C	sug	-1	0	That should be the design basically .
+IS1002b.B.dialog-act.s9553330.97	1198.04	1198.22	UI	B	bck	-1	0	Right .
+IS1002b.C.dialog-act.s9553330.77	1198.74	1201.97	ID	C	inf	+1	1	I think technology we'd we {disfmarker} we're not in the price range to do it .
+IS1002b.C.dialog-act.s9553330.78	1203.22	1207.09	ID	C	inf	-1	0	We don't have the money to do it towards t f technology
+IS1002b.C.dialog-act.s9553330.79	1207.09	1209.52	ID	C	sug	+1	1	so we should we should aim at design .
+IS1002b.D.dialog-act.s9553330.109	1207.25	1207.59	ME	D	bck	-1	0	Okay .
+IS1002b.D.dialog-act.s9553330.108	1208.04	1209.94	ME	D	el.inf	-1	0	Have to do {disfmarker} you have to do it in the box ?
+IS1002b.C.dialog-act.s9553330.80	1209.52	1210.84	ID	C	inf	-1	0	Yeah . Yeah .
+IS1002b.D.dialog-act.s9553330.110	1209.94	1212.79	ME	D	inf	+1	1	Okay well , so so that's up to you then
+IS1002b.D.dialog-act.s9553330.111	1212.79	1216.41	ME	D	ass	-1	0	to {vocalsound} to make this box in something that's absolutely extraordinary .
+IS1002b.C.dialog-act.s9553330.81	1216.672	1217.262	ID	C	fra	-1	0	{vocalsound}
+IS1002b.A.dialog-act.s9553330.137	1219.81	1220.13	PM	A	stl	-1	0	Okay .
+IS1002b.D.dialog-act.s9553330.112	1219.91	1221.21	ME	D	sug	-1	0	Maybe make it in the form of a gun .
+IS1002b.D.dialog-act.s9553330.113	1221.21	1222.79	ME	D	sug	-1	0	We can sell it in United States .
+IS1002b.A.dialog-act.s9553330.138	1222.816	1222.816	PM	A	fra	-1	0	{vocalsound}
+IS1002b.C.dialog-act.s9553330.82	1222.88	1224.048	ID	C	fra	-1	0	{vocalsound}
+IS1002b.A.dialog-act.s9553330.139	1224.43	1226.0	PM	A	off	-1	0	I have a question uh for you .
+IS1002b.A.dialog-act.s9553330.140	1226.0	1237.34	PM	A	el.inf	+1	1	Does any of the um the features that Pedro's spoken about here have any implications we might not have thought about on in terms of just pure functionality ?
+IS1002b.A.dialog-act.s9553330.141	1237.34	1240.08	PM	A	el.inf	-1	0	In terms of making it work or the cost of that or {disfmarker}
+IS1002b.B.dialog-act.s9553330.98	1238.26	1239.184	UI	B	fra	-1	0	I don't {vocalsound} {disfmarker}
+IS1002b.B.dialog-act.s9553330.99	1239.91	1241.72	UI	B	inf	+1	1	I think all these things are pretty standard .
+IS1002b.B.dialog-act.s9553330.100	1241.72	1242.65	UI	B	ass	-1	0	I think we'll be okay .
+IS1002b.A.dialog-act.s9553330.142	1242.95	1243.21	PM	A	bck	-1	0	Okay .
+IS1002b.A.dialog-act.s9553330.143	1244.53	1245.28	PM	A	bck	-1	0	'Kay .
+IS1002b.A.dialog-act.s9553330.144	1245.28	1245.72	PM	A	be.pos	-1	0	Cheers .
+IS1002b.A.dialog-act.s9553330.145	1248.56	1250.52	PM	A	inf	+1	1	Onto participant {vocalsound} four .
+IS1002b.A.dialog-act.s9553330.146	1261.072	1262.243	PM	A	fra	-1	0	{gap} {vocalsound}
+IS1002b.D.dialog-act.s9553330.114	1260.72	1265.73	ME	D	fra	-1	0	Well {vocalsound} you know for marketing f {vocalsound} marketing for me is uh {disfmarker}
+IS1002b.D.dialog-act.s9553330.115	1265.73	1266.92	ME	D	el.inf	-1	0	and uh how do I go here ?
+IS1002b.D.dialog-act.s9553330.116	1266.92	1267.28	ME	D	und	-1	0	Okay .
+IS1002b.B.dialog-act.s9553330.101	1269.18	1270.72	UI	B	sug	-1	0	Mm you can just click .
+IS1002b.D.dialog-act.s9553330.117	1270.43	1272.29	ME	D	oth	-1	0	Go go .
+IS1002b.B.dialog-act.s9553330.102	1272.34	1272.86	UI	B	ass	-1	0	No no no
+IS1002b.D.dialog-act.s9553330.118	1272.29	1272.62	ME	D	el.ass	-1	0	Is that right ?
+IS1002b.B.dialog-act.s9553330.103	1272.86	1273.97	UI	B	sug	-1	0	you just get off that .
+IS1002b.B.dialog-act.s9553330.104	1273.97	1275.12	UI	B	sug	-1	0	You just click anywhere .
+IS1002b.D.dialog-act.s9553330.119	1275.46	1276.5	ME	D	und	-1	0	Ah-ha .
+IS1002b.D.dialog-act.s9553330.120	1276.5	1279.9	ME	D	fra	-1	0	Yeah , what for me is it um {disfmarker}
+IS1002b.D.dialog-act.s9553330.121	1279.9	1282.34	ME	D	inf	-1	0	I d I don't know what I'm marketing right now , okay ,
+IS1002b.D.dialog-act.s9553330.122	1282.34	1285.35	ME	D	inf	+1	1	'til you spoke and when I wrote this , I don't know what I'm marketing .
+IS1002b.D.dialog-act.s9553330.123	1285.35	1297.67	ME	D	inf	+1	1	I just know that I I was identified as a a {disfmarker} we identified ourselves as a as a developer , as a manufacturer , and as a as a um distributor t to other wholesalers .
+IS1002b.D.dialog-act.s9553330.124	1298.1	1307.41	ME	D	inf	+1	1	And so the th the twenty-five Euros that we've identified as the sale price is a wholesale price rather than a retail price .
+IS1002b.C.dialog-act.s9553330.83	1305.97	1306.21	ID	C	bck	-1	0	Mm-hmm .
+IS1002b.D.dialog-act.s9553330.125	1307.41	1309.46	ME	D	inf	-1	0	That's what we decided here .
+IS1002b.D.dialog-act.s9553330.126	1309.46	1318.34	ME	D	inf	+1	1	Um so what I did is I I decided that {vocalsound} that this this needs to be a product in a in a sense can market itself .
+IS1002b.D.dialog-act.s9553330.127	1318.34	1324.38	ME	D	inf	-1	0	So what we've identified here as our main marketing stratagem is is in design .
+IS1002b.D.dialog-act.s9553330.128	1324.62	1329.8	ME	D	inf	+1	1	We're making the most beautiful attractive uh whatever we decide it is .
+IS1002b.D.dialog-act.s9553330.129	1329.8	1333.88	ME	D	inf	-1	0	So that means we have about seven more minutes or ten minutes left .
+IS1002b.A.dialog-act.s9553330.147	1333.1	1333.38	PM	A	ass	-1	0	Mm-hmm .
+IS1002b.D.dialog-act.s9553330.130	1333.88	1340.19	ME	D	inf	+1	1	Um {vocalsound} so I would like to have a product that that we can sell easily .
+IS1002b.D.dialog-act.s9553330.131	1340.19	1341.59	ME	D	inf	-1	0	So I say inspiration ,
+IS1002b.D.dialog-act.s9553330.132	1341.59	1347.42	ME	D	inf	+1	1	so having something beauty , something attractive , uh something that in a sense will sell itself .
+IS1002b.C.dialog-act.s9553330.84	1347.1	1347.4	ID	C	bck	-1	0	Mm-hmm .
+IS1002b.D.dialog-act.s9553330.133	1347.42	1351.8	ME	D	inf	+1	1	Uh innovation I think fits into what we're talking about here with design .
+IS1002b.D.dialog-act.s9553330.134	1351.8	1354.93	ME	D	inf	+1	1	Uh cutting edge technology , I don't think we're gonna have that ,
+IS1002b.D.dialog-act.s9553330.135	1354.93	1356.71	ME	D	inf	-1	0	these were ideas I was putting together ,
+IS1002b.D.dialog-act.s9553330.136	1357.18	1364.34	ME	D	inf	+1	1	um unless we come up with some New Age product a as far as the casing is concerned .
+IS1002b.D.dialog-act.s9553330.137	1364.34	1369.5	ME	D	inf	-1	0	I I wanna make this thing something that I can identify as special in some way ,
+IS1002b.D.dialog-act.s9553330.138	1369.5	1370.82	ME	D	fra	-1	0	so maybe we can have some {disfmarker}
+IS1002b.D.dialog-act.s9553330.139	1370.82	1373.44	ME	D	inf	+1	1	I I talked about environmentally sensitive ,
+IS1002b.D.dialog-act.s9553330.140	1373.44	1378.82	ME	D	sug	+1	1	uh maybe we have a product that can be identified in some way as advantageous in a home .
+IS1002b.D.dialog-act.s9553330.141	1378.82	1380.38	ME	D	ass	-1	0	I don't know .
+IS1002b.D.dialog-act.s9553330.142	1380.38	1381.26	ME	D	ass	-1	0	These are just thoughts .
+IS1002b.D.dialog-act.s9553330.143	1381.71	1386.12	ME	D	off	+1	1	Uh I wanted to talk about uh who we are as a as a corporation ,
+IS1002b.D.dialog-act.s9553330.144	1386.12	1395.77	ME	D	inf	+1	1	that we're new , we're aggressive , we're competitive , we're we're trying to provide a product from a new perspective rather than from an old corporate line .
+IS1002b.D.dialog-act.s9553330.145	1395.77	1402.03	ME	D	inf	+1	1	So to me it's about selling d uh our identity {disfmarker} our corporate identity along with the product .
+IS1002b.D.dialog-act.s9553330.146	1405.12	1409.92	ME	D	inf	-1	0	{vocalsound} Um what I found is that the projected costs are competitive .
+IS1002b.C.dialog-act.s9553330.85	1410.91	1411.29	ID	C	bck	-1	0	Mm-hmm .
+IS1002b.D.dialog-act.s9553330.147	1411.08	1413.42	ME	D	inf	+1	1	Uh we're kind of in the middle of the market ,
+IS1002b.D.dialog-act.s9553330.148	1413.42	1417.98	ME	D	inf	-1	0	but what I'm seeing is that the market is ready for {disfmarker} I I identified new technology ,
+IS1002b.D.dialog-act.s9553330.149	1417.98	1424.7	ME	D	inf	+1	1	but again , because what I see is budget restrictions and limitations , I don't know that we can bring any new technology into this thing .
+IS1002b.D.dialog-act.s9553330.150	1424.7	1429.152	ME	D	el.sug	-1	0	If if we could have a technological something {disfmarker}
+IS1002b.B.dialog-act.s9553330.105	1429.37	1431.03	UI	B	off	-1	0	I have an idea .
+IS1002b.D.dialog-act.s9553330.151	1429.82	1430.39	ME	D	fra	-1	0	Mm p
+IS1002b.D.dialog-act.s9553330.152	1430.39	1430.96	ME	D	ass	-1	0	please .
+IS1002b.B.dialog-act.s9553330.106	1431.03	1434.12	UI	B	inf	+1	1	And it's kind of {vocalsound} along the s lines of environmentally sensitive ,
+IS1002b.B.dialog-act.s9553330.107	1434.12	1436.24	UI	B	inf	+1	1	and it may even fit into ergonomics ,
+IS1002b.B.dialog-act.s9553330.108	1436.24	1442.97	UI	B	inf	+1	1	and even kind of address the issue of losing losing the remote , what we were saying it's a common issue .
+IS1002b.A.dialog-act.s9553330.148	1442.33	1442.72	PM	A	bck	-1	0	Mm .
+IS1002b.B.dialog-act.s9553330.109	1443.6	1451.41	UI	B	inf	+1	1	Um what we can do is , well you know that batteries {disfmarker} throwing a aw remotes run through batteries like crazy . Right ?
+IS1002b.D.dialog-act.s9553330.153	1448.928	1453.184	ME	D	sug	-1	0	{vocalsound} Solar . {vocalsound}
+IS1002b.A.dialog-act.s9553330.149	1449.89	1450.08	PM	A	bck	-1	0	Yeah .
+IS1002b.B.dialog-act.s9553330.110	1451.41	1453.35	UI	B	fra	-1	0	And {vocalsound} s for some people {disfmarker}
+IS1002b.B.dialog-act.s9553330.111	1453.35	1453.93	UI	B	ass	-1	0	Yeah {vocalsound} .
+IS1002b.B.dialog-act.s9553330.112	1453.93	1455.64	UI	B	ass	+1	1	{vocalsound} Well maybe not a solar remote
+IS1002b.B.dialog-act.s9553330.113	1455.64	1458.79	UI	B	sug	+1	1	but instead what about if we had like a power cradle ?
+IS1002b.D.dialog-act.s9553330.154	1455.36	1456.16	ME	D	sug	-1	0	But solar {disfmarker}
+IS1002b.B.dialog-act.s9553330.114	1458.79	1463.31	UI	B	sug	+1	1	Like a a cradle that is is there to hold the remote when you're not using it ,
+IS1002b.B.dialog-act.s9553330.115	1463.31	1464.88	UI	B	inf	-1	0	so you'll always know where the remote is
+IS1002b.B.dialog-act.s9553330.116	1464.88	1467.09	UI	B	inf	+1	1	'cause you have to put it back there to charge the remote ,
+IS1002b.B.dialog-act.s9553330.117	1467.39	1474.67	UI	B	sug	+1	1	and we can , instead of having instead of having , you know , replaceable batteries we'll just have a power cell that stays there for the life of the remote .
+IS1002b.B.dialog-act.s9553330.118	1474.67	1479.95	UI	B	inf	-1	0	You never have to get {disfmarker} go through the {disfmarker} go through {vocalsound} uh all these different batteries .
+IS1002b.B.dialog-act.s9553330.119	1480.27	1482.27	UI	B	fra	-1	0	And also you can {disfmarker}
+IS1002b.B.dialog-act.s9553330.120	1482.27	1485.84	UI	B	ass	+1	1	I I think it's a good opportunity for the user design {disfmarker}
+IS1002b.B.dialog-act.s9553330.121	1485.84	1492.61	UI	B	inf	-1	0	or for {disfmarker} not just for the user design , but also for the {disfmarker} just for the look and feel of the remote as as a whole .
+IS1002b.B.dialog-act.s9553330.122	1492.61	1500.72	UI	B	sug	+1	1	You know you could have some kind of neat little , you know , {vocalsound} a sexy design for d a cradle and the remote itself .
+IS1002b.D.dialog-act.s9553330.155	1497.568	1498.508	ME	D	fra	-1	0	{vocalsound}
+IS1002b.D.dialog-act.s9553330.156	1500.74	1501.62	ME	D	ass	-1	0	Blah , I like it .
+IS1002b.D.dialog-act.s9553330.157	1501.62	1502.31	ME	D	ass	+1	1	I like the idea ,
+IS1002b.D.dialog-act.s9553330.158	1502.31	1504.67	ME	D	inf	+1	2	but we're talking about {disfmarker} in cost is gonna probably double .
+IS1002b.B.dialog-act.s9553330.123	1505.28	1506.85	UI	B	inf	-1	0	It w it would increase the cost .
+IS1002b.D.dialog-act.s9553330.159	1506.65	1508.02	ME	D	ass	-1	0	But boy , we can sell this thing ,
+IS1002b.D.dialog-act.s9553330.160	1508.02	1509.2	ME	D	inf	-1	0	because there's no batteries ,
+IS1002b.D.dialog-act.s9553330.161	1509.2	1510.71	ME	D	inf	-1	0	it's environmentally sensitive ,
+IS1002b.D.dialog-act.s9553330.162	1510.71	1513.62	ME	D	inf	-1	0	i we can identify it as a safer product in some form .
+IS1002b.B.dialog-act.s9553330.124	1513.56	1515.28	UI	B	sug	+1	1	And you could page the remote if you lose it .
+IS1002b.B.dialog-act.s9553330.125	1515.28	1516.57	UI	B	sug	-1	0	Maybe there's a button on the cradle .
+IS1002b.D.dialog-act.s9553330.163	1516.56	1517.88	ME	D	ass	-1	0	Yep , that's right .
+IS1002b.D.dialog-act.s9553330.164	1517.88	1519.03	ME	D	fra	-1	0	I really see
+IS1002b.A.dialog-act.s9553330.150	1518.79	1522.43	PM	A	el.inf	+1	1	Now the the question is can we make this for less than twelve-fifty per ?
+IS1002b.D.dialog-act.s9553330.165	1519.03	1519.85	ME	D	fra	-1	0	But the cost i
+IS1002b.D.dialog-act.s9553330.166	1522.15	1522.99	ME	D	ass	+1	1	No no . No no ,
+IS1002b.D.dialog-act.s9553330.167	1522.99	1524.67	ME	D	inf	+1	1	we have t we have to change the end cost .
+IS1002b.A.dialog-act.s9553330.151	1525.0	1538.06	PM	A	sug	+1	1	We we well do we necessarily have to change the end cost because uh {vocalsound} Can we dl can we do that without {vocalsound} uh changing it twelve-fifty per product , if we basically can sell more based on this ?
+IS1002b.D.dialog-act.s9553330.168	1524.67	1526.42	ME	D	inf	-1	0	There's uh {disfmarker} I mean I don't see it anyway .
+IS1002b.D.dialog-act.s9553330.169	1538.76	1538.91	ME	D	ass	-1	0	Yeah ,
+IS1002b.D.dialog-act.s9553330.170	1538.91	1540.29	ME	D	inf	-1	0	that's gonna be up to these guys .
+IS1002b.B.dialog-act.s9553330.126	1540.32	1540.68	UI	B	stl	-1	0	Well
+IS1002b.D.dialog-act.s9553330.171	1540.29	1542.64	ME	D	inf	+1	1	I {vocalsound} {disfmarker} my reaction is no , but
+IS1002b.B.dialog-act.s9553330.127	1541.411	1548.97	UI	B	off	+1	1	{vocalsound} what I can do is I can d look into ho well Pedro and I can look into how much this might increase our our costs
+IS1002b.A.dialog-act.s9553330.152	1548.85	1549.05	PM	A	bck	-1	0	Mm-hmm .
+IS1002b.B.dialog-act.s9553330.128	1548.97	1553.97	UI	B	sug	-1	0	and you can look into what kind of effect an increased cost is gonna have on our on our final numbers .
+IS1002b.A.dialog-act.s9553330.153	1555.45	1555.66	PM	A	ass	-1	0	Yeah
+IS1002b.A.dialog-act.s9553330.154	1555.66	1559.136	PM	A	sug	+1	1	we we can certainly push for a more expensive product if that's gonna be {disfmarker}
+IS1002b.D.dialog-act.s9553330.172	1558.21	1562.55	ME	D	sug	+1	1	Well , see I I {disfmarker} see I I'm an advocate to make this an exclusive product .
+IS1002b.D.dialog-act.s9553330.173	1562.55	1567.01	ME	D	sug	-1	0	You know , let's let's sell this wholesale for for fifty Euros , sixty Euros .
+IS1002b.D.dialog-act.s9553330.174	1567.01	1574.12	ME	D	sug	+1	1	Let's make this thing really exclusive , environmentally sensitive , uh high-tech design , uh ergonomics , all of this .
+IS1002b.D.dialog-act.s9553330.175	1574.12	1579.82	ME	D	sug	-1	0	Just make this thing uh , yeah , the the the Rolls Royce of of remote controls .
+IS1002b.B.dialog-act.s9553330.129	1579.57	1580.878	UI	B	fra	-1	0	I {vocalsound} I {disfmarker}
+IS1002b.D.dialog-act.s9553330.176	1580.18	1581.34	ME	D	sug	-1	0	Every home's got to have it .
+IS1002b.D.dialog-act.s9553330.177	1581.34	1582.16	ME	D	fra	-1	0	If you don't have one ,
+IS1002b.D.dialog-act.s9553330.178	1582.16	1583.52	ME	D	el.inf	-1	0	hey what kind of remote do you have ?
+IS1002b.D.dialog-act.s9553330.179	1583.52	1584.85	ME	D	inf	-1	0	Oh you've got one of those ,
+IS1002b.D.dialog-act.s9553330.180	1584.85	1585.98	ME	D	ass	-1	0	oh fantastic ,
+IS1002b.D.dialog-act.s9553330.181	1585.98	1587.25	ME	D	inf	-1	0	I want one of those too .
+IS1002b.B.dialog-act.s9553330.130	1587.2	1587.42	UI	B	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.182	1587.25	1588.86	ME	D	inf	-1	0	I just don't have enough money right now .
+IS1002b.B.dialog-act.s9553330.131	1589.08	1600.26	UI	B	inf	+1	1	I just don't know about that , because in order to do that {vocalsound} {disfmarker} in order to price it at that kind of level I think we'd need to have every functionality that all the other competitors are offering
+IS1002b.B.dialog-act.s9553330.132	1600.26	1606.37	UI	B	inf	+1	1	like being able to operate , you know , the D_V_D_ player and , you know , the stereo system and all that .
+IS1002b.B.dialog-act.s9553330.133	1606.37	1610.1	UI	B	inf	+1	2	Which is a pretty basic function that w we've opted out of .
+IS1002b.B.dialog-act.s9553330.134	1610.1	1615.088	UI	B	inf	-1	0	And additionally we're m maybe not supporting teletext um {disfmarker}
+IS1002b.A.dialog-act.s9553330.155	1615.59	1615.69	PM	A	ass	-1	0	Nah ,
+IS1002b.A.dialog-act.s9553330.156	1615.69	1619.46	PM	A	inf	+1	3	I think we can say with certainty now that we are supporting teletext .
+IS1002b.D.dialog-act.s9553330.183	1617.369	1620.531	ME	D	fra	-1	0	{vocalsound}
+IS1002b.B.dialog-act.s9553330.135	1618.82	1623.8	UI	B	inf	+1	1	But I do think there are some basic features that we don't have that a lot of other remotes are going to have .
+IS1002b.D.dialog-act.s9553330.184	1622.352	1623.898	ME	D	fra	-1	0	{vocalsound}
+IS1002b.D.dialog-act.s9553330.185	1624.3	1624.95	ME	D	bck	-1	0	Yep ,
+IS1002b.D.dialog-act.s9553330.186	1624.95	1629.54	ME	D	inf	-1	0	one one thing I don't understand is h they've they've given us this package , okay .
+IS1002b.A.dialog-act.s9553330.157	1629.02	1629.27	PM	A	bck	-1	0	Mm-hmm .
+IS1002b.D.dialog-act.s9553330.187	1629.54	1633.37	ME	D	sug	-1	0	Now uh in my opinion we need to give them a package back , okay .
+IS1002b.D.dialog-act.s9553330.188	1633.37	1635.22	ME	D	inf	-1	0	They say they say okay here you go .
+IS1002b.D.dialog-act.s9553330.189	1635.22	1638.97	ME	D	inf	+1	1	They gave us a fundament a foundation of of what they want ,
+IS1002b.A.dialog-act.s9553330.158	1639.08	1639.35	PM	A	bck	-1	0	Mm-hmm .
+IS1002b.B.dialog-act.s9553330.136	1638.69	1638.93	UI	B	bck	-1	0	Mm-hmm .
+IS1002b.D.dialog-act.s9553330.190	1638.97	1641.96	ME	D	inf	+1	1	and and w it's our place to kinda analyse and evaluate .
+IS1002b.D.dialog-act.s9553330.191	1641.96	1644.47	ME	D	inf	-1	0	I don't think it's our place to create their product for them ,
+IS1002b.D.dialog-act.s9553330.192	1644.47	1645.48	ME	D	inf	-1	0	maybe it is .
+IS1002b.D.dialog-act.s9553330.193	1645.48	1649.32	ME	D	ass	+1	2	I don't know what kind of role we have in this {disfmarker} in the corporate ladder uh ,
+IS1002b.D.dialog-act.s9553330.194	1649.32	1653.36	ME	D	sug	-1	0	but to me it's like , okay , you have got your {disfmarker} here's our ideas , okay .
+IS1002b.A.dialog-act.s9553330.159	1653.19	1653.42	PM	A	bck	-1	0	Mm .
+IS1002b.D.dialog-act.s9553330.195	1653.56	1655.31	ME	D	sug	-1	0	And then let them look at those ideas and
+IS1002b.D.dialog-act.s9553330.196	1655.31	1659.47	ME	D	sug	-1	0	they say , yeah well , we can we can raise the price twenty percent ,
+IS1002b.D.dialog-act.s9553330.197	1659.47	1661.9	ME	D	sug	-1	0	you know we like this idea , this idea no ,
+IS1002b.D.dialog-act.s9553330.198	1661.9	1664.28	ME	D	inf	-1	0	but {vocalsound} to me it's it's about a choice ,
+IS1002b.D.dialog-act.s9553330.199	1664.28	1670.07	ME	D	sug	+1	2	do we follow their directives or do we make uh presentations back and and then and then discuss ?
+IS1002b.D.dialog-act.s9553330.200	1671.49	1676.55	ME	D	inf	+1	2	beca I I do not {disfmarker} I do not see the market niche for the product that they're handing f handing us right now .
+IS1002b.A.dialog-act.s9553330.160	1676.09	1676.37	PM	A	bck	-1	0	Mm .
+IS1002b.B.dialog-act.s9553330.139	1676.71	1677.81	UI	B	fra	-1	0	I don I I d
+IS1002b.D.dialog-act.s9553330.201	1676.55	1677.1	ME	D	inf	-1	0	I don't see it .
+IS1002b.B.dialog-act.s9553330.140	1677.81	1678.97	UI	B	ass	-1	0	I have to disagree though .
+IS1002b.B.dialog-act.s9553330.141	1678.97	1684.83	UI	B	inf	+1	1	I think our market niche is basically people who need {vocalsound} {disfmarker} who have lost their remote
+IS1002b.B.dialog-act.s9553330.142	1684.83	1689.46	UI	B	inf	-1	0	or uh who've broken their remote and don't wanna send back to the manufacturer ,
+IS1002b.B.dialog-act.s9553330.143	1689.46	1691.62	UI	B	inf	-1	0	they just wanna run out to the store and get a remote ,
+IS1002b.B.dialog-act.s9553330.144	1691.62	1695.04	UI	B	inf	+1	1	and then they're gonna look on the shelf and they're gonna see ours is the nicest looking remote .
+IS1002b.B.dialog-act.s9553330.145	1695.04	1696.26	UI	B	inf	-1	0	It does what they need .
+IS1002b.B.dialog-act.s9553330.137	1696.26	1697.19	UI	B	fra	-1	0	These aren't {disfmarker}
+IS1002b.B.dialog-act.s9553330.138	1697.19	1698.624	UI	B	fra	-1	0	I I think that it {disfmarker}
+IS1002b.A.dialog-act.s9553330.161	1698.18	1700.19	PM	A	off	-1	0	And and th to get to back to another point ,
+IS1002b.A.dialog-act.s9553330.163	1700.19	1701.95	PM	A	be.pos	-1	0	sorry uh uh {vocalsound} for cutting in but ,
+IS1002b.A.dialog-act.s9553330.164	1701.95	1706.4	PM	A	inf	+1	1	I th I think it's important to remember that that this remote has to work with multiple T_V_s , yeah ,
+IS1002b.A.dialog-act.s9553330.165	1706.4	1707.38	PM	A	inf	+1	1	'cause it's selling on its own .
+IS1002b.B.dialog-act.s9553330.146	1706.7	1706.85	UI	B	bck	-1	0	Right .
+IS1002b.A.dialog-act.s9553330.166	1707.38	1710.49	PM	A	inf	-1	0	It's not going to be specifically for Hitachi T_V_s or or whatever .
+IS1002b.D.dialog-act.s9553330.202	1708.1	1708.37	ME	D	bck	-1	0	Right .
+IS1002b.B.dialog-act.s9553330.147	1708.98	1709.49	UI	B	bck	-1	0	Right .
+IS1002b.D.dialog-act.s9553330.203	1710.05	1710.73	ME	D	und	-1	0	No I understand that .
+IS1002b.A.dialog-act.s9553330.167	1711.09	1720.31	PM	A	inf	-1	0	So technologically , if I understand it , uh T_V_s {vocalsound} T_V_ remote's working exactly the same way as video remotes and D_V_D_ remotes .
+IS1002b.A.dialog-act.s9553330.168	1720.31	1722.47	PM	A	inf	+1	1	All you need to do is train them to the individual one ,
+IS1002b.A.dialog-act.s9553330.169	1722.47	1726.28	PM	A	inf	-1	0	all you need to do is is know the the f like some four-digit code .
+IS1002b.D.dialog-act.s9553330.204	1723.5	1724.106	ME	D	fra	-1	0	{gap}
+IS1002b.A.dialog-act.s9553330.170	1726.28	1732.51	PM	A	inf	-1	0	So saying that it works with all T_V_s is equivalent to saying that it'll work with D_V_D_s and other things .
+IS1002b.B.dialog-act.s9553330.148	1726.33	1726.61	UI	B	bck	-1	0	Mm-hmm .
+IS1002b.D.dialog-act.s9553330.205	1731.32	1731.62	ME	D	ass	-1	0	Nope ,
+IS1002b.D.dialog-act.s9553330.206	1731.62	1734.94	ME	D	inf	+1	1	they've identified the product as not working for anything but televisions .
+IS1002b.A.dialog-act.s9553330.171	1735.03	1735.63	PM	A	und	-1	0	Oh okay okay .
+IS1002b.C.dialog-act.s9553330.87	1734.77	1736.354	ID	C	fra	-1	0	Yeah y y you you wouldn't {disfmarker}
+IS1002b.D.dialog-act.s9553330.207	1734.94	1736.8	ME	D	inf	-1	0	They've identified this product limita
+IS1002b.A.dialog-act.s9553330.172	1735.63	1736.5	PM	A	fra	-1	0	We have done this .
+IS1002b.D.dialog-act.s9553330.208	1736.8	1739.91	ME	D	inf	-1	0	That's why I say I don't I don't see the market niche for this .
+IS1002b.C.dialog-act.s9553330.86	1737.46	1738.53	ID	C	inf	-1	0	The interface will be different .
+IS1002b.A.dialog-act.s9553330.174	1739.94	1740.32	PM	A	bck	-1	0	I see .
+IS1002b.D.dialog-act.s9553330.209	1739.91	1746.73	ME	D	inf	+1	2	If we if w if we were going to have a product that worked for D_V_D_s , V_C_R_s and everything , then I can see the market niche ,
+IS1002b.A.dialog-act.s9553330.175	1745.18	1745.56	PM	A	bck	-1	0	Mm-hmm .
+IS1002b.D.dialog-act.s9553330.210	1746.73	1751.18	ME	D	inf	-1	0	but we we're only identified as going for televisions without teletext .
+IS1002b.B.dialog-act.s9553330.149	1751.37	1751.59	UI	B	bck	-1	0	Right .
+IS1002b.D.dialog-act.s9553330.211	1751.18	1757.24	ME	D	inf	-1	0	And it's like whoa we ha in my opinion we have to go with something that's extremely exclusive to make this thing marketable ,
+IS1002b.B.dialog-act.s9553330.150	1755.86	1756.643	UI	B	fra	-1	0	Well here's {disfmarker}
+IS1002b.A.dialog-act.s9553330.173	1757.09	1757.98	PM	A	fra	-1	0	And I I'd {disfmarker}
+IS1002b.D.dialog-act.s9553330.212	1757.24	1759.46	ME	D	inf	+1	2	because who wants just a television remote ?
+IS1002b.A.dialog-act.s9553330.176	1757.98	1758.39	PM	A	be.pos	-1	0	Mm sorry .
+IS1002b.B.dialog-act.s9553330.151	1758.46	1758.65	UI	B	bck	-1	0	Right .
+IS1002b.B.dialog-act.s9553330.152	1759.56	1761.9	UI	B	off	-1	0	We he well here's my thing about that .
+IS1002b.D.dialog-act.s9553330.213	1759.46	1760.665	ME	D	inf	-1	0	I don't . {vocalsound}
+IS1002b.B.dialog-act.s9553330.153	1761.9	1768.46	UI	B	inf	+1	1	If you're in the market for this ultimate remote , you're not gonna go for just a television remote .
+IS1002b.B.dialog-act.s9553330.154	1768.46	1782.8	UI	B	inf	-1	0	If it can't control {disfmarker} if it can't control your your D_V_D_ player and a al if y if you can't get that all-in-one ultimate remote , that just {disfmarker} you can throw all your other remotes away . I'm not gonna buy a d seventy-five Euro remote .
+IS1002b.D.dialog-act.s9553330.215	1768.96	1769.27	ME	D	ass	-1	0	That's right .
+IS1002b.D.dialog-act.s9553330.214	1781.005	1781.948	ME	D	fra	-1	0	{vocalsound}
+IS1002b.D.dialog-act.s9553330.216	1783.03	1785.17	ME	D	ass	-1	0	I I I have a tendency to agree with you .
+IS1002b.D.dialog-act.s9553330.217	1785.17	1786.08	ME	D	inf	-1	0	I really do .
+IS1002b.A.dialog-act.s9553330.177	1786.04	1787.49	PM	A	ass	+1	1	So we really can't chase that .
+IS1002b.D.dialog-act.s9553330.218	1786.08	1789.49	ME	D	inf	-1	0	That's why I say I quest I q I question the marketability of the product .
+IS1002b.D.dialog-act.s9553330.219	1789.49	1791.96	ME	D	inf	-1	0	I really question where we create the demand .
+IS1002b.B.dialog-act.s9553330.155	1790.32	1791.99	UI	B	fra	-1	0	So I think what we {disfmarker}
+IS1002b.A.dialog-act.s9553330.178	1792.04	1793.79	PM	A	inf	+1	1	We're really looking for something basic .
+IS1002b.B.dialog-act.s9553330.156	1791.99	1793.119	UI	B	inf	-1	0	So that's what I'm saying {disfmarker}
+IS1002b.A.dialog-act.s9553330.179	1793.79	1799.99	PM	A	inf	+1	1	The the one thing that that that you said really struck a chord with me here in that we're we're carrying the corporate identity with the product ,
+IS1002b.A.dialog-act.s9553330.180	1799.99	1802.4	PM	A	inf	-1	0	but we're actually looking for a large profit at the same time
+IS1002b.A.dialog-act.s9553330.181	1802.4	1811.41	PM	A	sug	+1	1	where I'd be inclined to go back to upper-level management and say like let's just cut down our profit expected on this product because we are actually branding our company here .
+IS1002b.A.dialog-act.s9553330.182	1811.41	1812.9	PM	A	inf	-1	0	We're selling more than just the product .
+IS1002b.A.dialog-act.s9553330.183	1813.27	1819.67	PM	A	inf	+1	1	We're trying to get mind-share about uh Real Reaction to to the people who are gonna buy consumer electronics .
+IS1002b.A.dialog-act.s9553330.184	1819.67	1824.22	PM	A	inf	-1	0	We want people to eventually say , oh that's that's Real Reaction that's a good m make . It's reliable .
+IS1002b.A.dialog-act.s9553330.185	1825.36	1831.28	PM	A	inf	+1	1	And and we're gonna make it {disfmarker} we're gonna win mind-share by uh either being a fantastic product
+IS1002b.C.dialog-act.s9553330.88	1825.269	1825.808	ID	C	fra	-1	0	{vocalsound}
+IS1002b.A.dialog-act.s9553330.186	1831.28	1836.65	PM	A	inf	+1	1	or for it working , it just being good , reasonable-priced , {vocalsound} and solid .
+IS1002b.A.dialog-act.s9553330.187	1836.65	1844.12	PM	A	inf	-1	0	So if we can make {disfmarker} if we can put an emphasis here on it not breaking I think that's in itself an extremely {vocalsound} big thing .
+IS1002b.B.dialog-act.s9553330.158	1840.1	1840.34	UI	B	bck	-1	0	Mm-hmm .
+IS1002b.B.dialog-act.s9553330.157	1841.99	1842.83	UI	B	ass	-1	0	I think that's big .
+IS1002b.D.dialog-act.s9553330.220	1843.08	1853.89	ME	D	inf	+1	1	W {vocalsound} okay if you if you drop the cost , now if you make if you make {disfmarker} go to the other side of the cost scale , and you make it less expensive , then all of a sudden now we're going into an a a new market area .
+IS1002b.D.dialog-act.s9553330.221	1853.89	1861.21	ME	D	sug	-1	0	So we can say low-cost uh uh um uh good design , beautiful , wa-da-da-da-da-da .
+IS1002b.C.dialog-act.s9553330.89	1857.88	1858.36	ID	C	inf	-1	0	Good design .
+IS1002b.A.dialog-act.s9553330.188	1859.31	1860.45	PM	A	inf	-1	0	We only have a few minutes left .
+IS1002b.D.dialog-act.s9553330.222	1861.21	1863.38	ME	D	inf	+1	1	But what I'm saying is right now we're middle market .
+IS1002b.A.dialog-act.s9553330.189	1864.52	1867.8	PM	A	el.inf	+1	1	Is twenty-five Euros a mid-market price for a remote ?
+IS1002b.D.dialog-act.s9553330.223	1864.64	1865.227	ME	D	fra	-1	0	{vocalsound}
+IS1002b.A.dialog-act.s9553330.190	1867.8	1868.13	PM	A	bck	-1	0	Okay .
+IS1002b.D.dialog-act.s9553330.224	1867.46	1867.7	ME	D	inf	-1	0	Yeah
+IS1002b.B.dialog-act.s9553330.159	1867.97	1868.69	UI	B	inf	-1	0	I think so , yeah .
+IS1002b.D.dialog-act.s9553330.225	1867.7	1871.22	ME	D	inf	-1	0	for for multi for a multi-function remote , that's a mid-market price .
+IS1002b.D.dialog-act.s9553330.226	1871.22	1878.12	ME	D	inf	-1	0	In a discount right now you can buy 'em on sale sometimes for about about uh eighteen , nineteen Euro ,
+IS1002b.A.dialog-act.s9553330.191	1878.55	1878.74	PM	A	bck	-1	0	Okay .
+IS1002b.D.dialog-act.s9553330.227	1878.12	1883.86	ME	D	inf	-1	0	and that's for the multi-functions , uh D_V_D_ , V_C_R_ , uh catch-alls .
+IS1002b.D.dialog-act.s9553330.228	1883.86	1886.14	ME	D	inf	-1	0	And and they have 'em in a little box in the middle ,
+IS1002b.D.dialog-act.s9553330.229	1886.14	1891.81	ME	D	inf	-1	0	and and this is the consciousness that most people have about replacement remote controls .
+IS1002b.D.dialog-act.s9553330.230	1891.81	1897.74	ME	D	sug	-1	0	So to me {vocalsound} , to market this a t only a television remote control we have to change consciousness .
+IS1002b.D.dialog-act.s9553330.231	1898.05	1902.8	ME	D	inf	+1	1	We have to have something that will change people's thinking to identify this as advantageous ,
+IS1002b.D.dialog-act.s9553330.232	1902.8	1903.89	ME	D	inf	-1	0	and I don't know what that is .
+IS1002b.D.dialog-act.s9553330.233	1903.89	1908.09	ME	D	inf	+1	1	It's gotta be low-cost or high-cost with with special design features .
+IS1002b.A.dialog-act.s9553330.192	1908.56	1918.01	PM	A	sug	+1	1	Well I'd be inclined to say , if we can make the design better than any comparable remote while reducing the cost , then that's the way we really should play it .
+IS1002b.A.dialog-act.s9553330.193	1918.4	1924.28	PM	A	sug	+1	2	If we can take it down to you know fifteen rather than twenty-five and make a low profit-margin on it ,
+IS1002b.B.dialog-act.s9553330.160	1918.13	1918.35	UI	B	ass	-1	0	Yeah .
+IS1002b.A.dialog-act.s9553330.194	1924.28	1927.09	PM	A	sug	-1	0	but we're really doing that to sell the brand .
+IS1002b.A.dialog-act.s9553330.195	1927.09	1928.13	PM	A	inf	-1	0	Yep we have five minutes left .
+IS1002b.A.dialog-act.s9553330.196	1929.41	1931.95	PM	A	sug	-1	0	Uh rather th uh to to to sell for Real Reactions .
+IS1002b.D.dialog-act.s9553330.234	1929.67	1930.422	ME	D	fra	-1	0	Or my d {vocalsound}
+IS1002b.A.dialog-act.s9553330.197	1931.95	1939.81	PM	A	off	+1	2	And I can communicate this to to the more senior {vocalsound} uh mm people within the company here to to get a reaction .
+IS1002b.A.dialog-act.s9553330.199	1940.859	1941.162	PM	A	fra	-1	0	{vocalsound}
+IS1002b.B.dialog-act.s9553330.161	1940.72	1944.96	UI	B	el.ass	-1	0	What about um the idea that I had with the cradle ?
+IS1002b.B.dialog-act.s9553330.162	1944.96	1945.82	UI	B	el.ass	-1	0	How do you feel about that ?
+IS1002b.A.dialog-act.s9553330.200	1947.6	1948.68	PM	A	el.ass	-1	0	Well how does everybody feel ?
+IS1002b.B.dialog-act.s9553330.163	1947.25	1948.24	UI	B	el.ass	-1	0	Or how does everybody feel ?
+IS1002b.D.dialog-act.s9553330.235	1948.062	1951.6	ME	D	inf	-1	0	{vocalsound} I mean I I {vocalsound} well we g we're talking about the other end now .
+IS1002b.A.dialog-act.s9553330.198	1948.68	1949.542	PM	A	fra	-1	0	{gap} I I think {disfmarker}
+IS1002b.D.dialog-act.s9553330.236	1951.6	1952.11	ME	D	ass	-1	0	I like it .
+IS1002b.B.dialog-act.s9553330.164	1952.31	1952.45	UI	B	ass	-1	0	No ,
+IS1002b.B.dialog-act.s9553330.165	1952.45	1956.09	UI	B	inf	-1	0	but I {disfmarker} that's the thing I I don't think it's necessarily the other end .
+IS1002b.D.dialog-act.s9553330.237	1952.11	1952.85	ME	D	ass	-1	0	I like the idea ,
+IS1002b.D.dialog-act.s9553330.238	1952.85	1954.544	ME	D	fra	-1	0	but we have t we have to find out {disfmarker}
+IS1002b.A.dialog-act.s9553330.201	1956.08	1956.77	PM	A	fra	-1	0	The other the o
+IS1002b.A.dialog-act.s9553330.202	1956.77	1961.69	PM	A	ass	-1	0	the problem with that in my mind I just think off-hand as a as a consumer , would I wanna buy that ?
+IS1002b.A.dialog-act.s9553330.203	1961.69	1963.25	PM	A	inf	-1	0	And I think maybe not
+IS1002b.A.dialog-act.s9553330.204	1963.25	1965.23	PM	A	inf	-1	0	because I've got a remote
+IS1002b.A.dialog-act.s9553330.205	1965.23	1968.15	PM	A	inf	-1	0	and I'll take it to different chairs , I'll take it to different {disfmarker}
+IS1002b.B.dialog-act.s9553330.166	1967.38	1967.58	UI	B	stl	-1	0	Mm-hmm .
+IS1002b.A.dialog-act.s9553330.206	1968.15	1970.44	PM	A	inf	+1	1	I w I don't wanna go over somewhere and put it down .
+IS1002b.A.dialog-act.s9553330.207	1970.7	1975.89	PM	A	sug	+1	1	It {disfmarker} i if it is gonna be somewhere that you put it down then it needs to be at the side of your armchair ,
+IS1002b.B.dialog-act.s9553330.167	1970.71	1970.89	UI	B	bck	-1	0	Right .
+IS1002b.A.dialog-act.s9553330.208	1975.89	1977.9	PM	A	inf	+1	1	and that implies that there's only one T_V_ user .
+IS1002b.A.dialog-act.s9553330.209	1977.9	1980.28	PM	A	ass	-1	0	So it's very good for some people
+IS1002b.A.dialog-act.s9553330.210	1980.28	1981.44	PM	A	fra	-1	0	but it's not a like {vocalsound} {disfmarker}
+IS1002b.B.dialog-act.s9553330.168	1980.28	1981.39	UI	B	inf	-1	0	Well it lasts {disfmarker}
+IS1002b.B.dialog-act.s9553330.169	1981.39	1983.93	UI	B	inf	+1	1	it would last for several hours on its own power ,
+IS1002b.B.dialog-act.s9553330.170	1983.93	1986.11	UI	B	inf	+1	1	but when you're done with it you put it back in the cradle .
+IS1002b.A.dialog-act.s9553330.211	1986.08	1988.71	PM	A	ass	+1	2	But it it takes away the ease of use of the remote to a certain extent .
+IS1002b.B.dialog-act.s9553330.171	1988.08	1988.37	UI	B	ass	-1	0	Yeah
+IS1002b.A.dialog-act.s9553330.212	1988.71	1990.15	PM	A	inf	-1	0	You have to l sort of remember .
+IS1002b.B.dialog-act.s9553330.172	1988.37	1988.768	UI	B	fra	-1	0	well it {disfmarker}
+IS1002b.B.dialog-act.s9553330.173	1990.15	1990.34	UI	B	bck	-1	0	Mm-hmm .
+IS1002b.A.dialog-act.s9553330.213	1990.15	1993.696	PM	A	inf	-1	0	You have to d shift down the side of the couch to find it and put it back and {disfmarker}
+IS1002b.B.dialog-act.s9553330.174	1993.69	1993.9	UI	B	bck	-1	0	Mm-hmm .
+IS1002b.A.dialog-act.s9553330.216	1994.71	1996.04	PM	A	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.239	1995.008	1997.618	ME	D	fra	-1	0	{vocalsound} Well . {vocalsound}
+IS1002b.A.dialog-act.s9553330.217	1996.04	2003.09	PM	A	ass	+1	1	I d I d I d I think it it {disfmarker} in my mind it doesn't seem like something that oh I'd really want uh because of that fact .
+IS1002b.D.dialog-act.s9553330.240	2000.99	2001.29	ME	D	bck	-1	0	Mm .
+IS1002b.A.dialog-act.s9553330.218	2003.09	2004.54	PM	A	inf	-1	0	But I I don't know , that's just my opinion .
+IS1002b.D.dialog-act.s9553330.241	2004.56	2007.81	ME	D	inf	+1	1	Well , I think again it's it {disfmarker} we have a cost issue here .
+IS1002b.D.dialog-act.s9553330.242	2007.81	2011.66	ME	D	inf	-1	0	You know if we're gonna go in this direction , to me we're going to the other side of the cost range .
+IS1002b.A.dialog-act.s9553330.219	2011.8	2011.97	PM	A	bck	-1	0	Mm .
+IS1002b.D.dialog-act.s9553330.244	2011.66	2023.1	ME	D	el.sug	-1	0	Are we gonna make this {disfmarker} selling selling the cost as a high high-tech uh um environmentally sensitive whatever , or are we gonna go to the lower side of the range ?
+IS1002b.D.dialog-act.s9553330.245	2023.1	2026.8	ME	D	inf	-1	0	{vocalsound} Again I don't see our market niche in the middle for our product yet .
+IS1002b.A.dialog-act.s9553330.220	2027.0	2027.19	PM	A	bck	-1	0	'Kay .
+IS1002b.D.dialog-act.s9553330.246	2026.8	2027.71	ME	D	inf	-1	0	I don't see it yet .
+IS1002b.A.dialog-act.s9553330.221	2028.305	2030.55	PM	A	fra	-1	0	{vocalsound} So what do we think maybe we should {disfmarker}
+IS1002b.A.dialog-act.s9553330.222	2030.55	2032.5	PM	A	el.sug	-1	0	Pedro , do you have any opinion on it ?
+IS1002b.C.dialog-act.s9553330.90	2032.88	2040.69	ID	C	sug	+1	1	Uh we should keep it simple , mm medium-low cost mar um cost area and uh make it look good .
+IS1002b.D.dialog-act.s9553330.247	2041.96	2044.41	ME	D	off	-1	0	W {vocalsound} a question I have in in a {vocalsound} {disfmarker}
+IS1002b.D.dialog-act.s9553330.248	2044.41	2047.83	ME	D	ass	-1	0	'cause I I I think I agree with you on , we gotta make it a box .
+IS1002b.D.dialog-act.s9553330.249	2047.83	2050.36	ME	D	inf	+1	1	The box is gonna sell it I think , the outside , the casing .
+IS1002b.A.dialog-act.s9553330.223	2049.13	2050.1	PM	A	sug	-1	0	Really need to wrap up now .
+IS1002b.D.dialog-act.s9553330.250	2050.36	2053.26	ME	D	el.inf	+1	1	Can can can we have multiple designs ?
+IS1002b.D.dialog-act.s9553330.251	2055.14	2055.88	ME	D	sug	-1	0	Have a modern ,
+IS1002b.D.dialog-act.s9553330.252	2055.88	2057.11	ME	D	sug	-1	0	have a traditional ,
+IS1002b.D.dialog-act.s9553330.253	2057.11	2058.3	ME	D	sug	-1	0	have a {disfmarker} you know ,
+IS1002b.D.dialog-act.s9553330.254	2058.3	2064.51	ME	D	sug	+1	1	and so so instead of them all looking the same , people can have maybe four or five different designs they can choose from .
+IS1002b.D.dialog-act.s9553330.255	2064.51	2066.4	ME	D	inf	+1	1	I don't know what that creates cost , or {disfmarker}
+IS1002b.B.dialog-act.s9553330.175	2066.53	2074.288	UI	B	inf	-1	0	Well the the problem with that is we may end up with a whole bunch of inventory of a of a poor design you know . So {disfmarker}
+IS1002b.C.dialog-act.s9553330.91	2066.872	2067.511	ID	C	fra	-1	0	{vocalsound}
+IS1002b.D.dialog-act.s9553330.256	2071.11	2072.66	ME	D	ass	-1	0	Yep one over another .
+IS1002b.D.dialog-act.s9553330.257	2072.66	2073.95	ME	D	ass	-1	0	Yeah , okay , I hear that .
+IS1002b.C.dialog-act.s9553330.92	2074.26	2075.472	ID	C	ass	-1	0	Yeah , complicated but {disfmarker}
+IS1002b.B.dialog-act.s9553330.176	2076.07	2079.67	UI	B	fra	-1	0	Um but what we could do is some kind of {vocalsound}
+IS1002b.B.dialog-act.s9553330.177	2079.67	2080.592	UI	B	fra	-1	0	well I mean {disfmarker}
+IS1002b.B.dialog-act.s9553330.178	2082.947	2087.41	UI	B	sug	+1	1	{vocalsound} Yeah we we need to , I mean , have a few designs to look at
+IS1002b.B.dialog-act.s9553330.179	2087.41	2094.01	UI	B	sug	-1	0	and then come up with something that I think we all agree is , you know , the best fit .
+IS1002b.B.dialog-act.s9553330.180	2094.01	2096.95	UI	B	inf	+1	1	I think w what's really important is it has to look good ,
+IS1002b.B.dialog-act.s9553330.181	2096.95	2099.96	UI	B	inf	-1	0	it has to feel {vocalsound} {disfmarker} it has to feel good in your hand ,
+IS1002b.A.dialog-act.s9553330.224	2099.89	2100.06	PM	A	bck	-1	0	Yeah .
+IS1002b.B.dialog-act.s9553330.182	2099.96	2101.45	UI	B	inf	+1	1	it has to be durable ,
+IS1002b.B.dialog-act.s9553330.183	2101.45	2105.82	UI	B	inf	+1	1	it has to a and I think it's really important that it doesn't look cheap .
+IS1002b.B.dialog-act.s9553330.184	2105.82	2114.51	UI	B	inf	-1	0	I think I think we have to make sure people look at it an and feel like it its like a quality remote . Even though the cost may be low .
+IS1002b.C.dialog-act.s9553330.93	2105.86	2106.24	ID	C	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.258	2113.14	2114.49	ME	D	fra	-1	0	What ab what ab {disfmarker}
+IS1002b.D.dialog-act.s9553330.259	2114.49	2120.99	ME	D	sug	+1	1	what about a a remote that's {vocalsound} that {vocalsound} doesn't maybe look like a remote ?
+IS1002b.D.dialog-act.s9553330.260	2123.51	2124.31	ME	D	inf	-1	0	Just an idea .
+IS1002b.B.dialog-act.s9553330.185	2124.16	2124.4	UI	B	bck	-1	0	Mm-hmm .
+IS1002b.D.dialog-act.s9553330.261	2124.31	2125.1	ME	D	fra	-1	0	Just just
+IS1002b.D.dialog-act.s9553330.262	2125.1	2127.91	ME	D	inf	-1	0	okay 'cause I mean we all know what a remote looks like on the outside .
+IS1002b.D.dialog-act.s9553330.263	2127.91	2129.48	ME	D	inf	-1	0	They're selling these things everywhere .
+IS1002b.D.dialog-act.s9553330.264	2129.48	2134.59	ME	D	sug	-1	0	Maybe that could be part of our design exclusivity , is we make a remote that doesn't even look like a remote
+IS1002b.D.dialog-act.s9553330.265	2134.59	2136.18	ME	D	sug	+1	1	it it opens like a telephone .
+IS1002b.B.dialog-act.s9553330.186	2136.21	2137.71	UI	B	sug	+1	1	Or what if it looks like a pen ?
+IS1002b.D.dialog-act.s9553330.266	2137.88	2138.71	ME	D	ass	-1	0	Doesn't matter , yeah .
+IS1002b.B.dialog-act.s9553330.187	2138.58	2138.86	UI	B	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.267	2138.71	2142.14	ME	D	inf	-1	0	I'm just jus I talking about some {disfmarker} something to make this thing unique .
+IS1002b.B.dialog-act.s9553330.188	2139.91	2140.51	UI	B	sug	-1	0	A pointer ?
+IS1002b.D.dialog-act.s9553330.268	2142.14	2142.36	ME	D	fra	-1	0	It {disfmarker}
+IS1002b.D.dialog-act.s9553330.269	2142.36	2144.11	ME	D	off	-1	0	That's the thing , I'm gonna keep thumping on .
+IS1002b.B.dialog-act.s9553330.189	2143.89	2144.13	UI	B	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.270	2144.11	2145.75	ME	D	off	-1	0	I'll sell whatever you guys design .
+IS1002b.A.dialog-act.s9553330.225	2144.61	2144.79	PM	A	bck	-1	0	Mm .
+IS1002b.B.dialog-act.s9553330.190	2145.65	2145.81	UI	B	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.271	2145.75	2147.38	ME	D	inf	+1	1	I don't have a problem selling a product ,
+IS1002b.D.dialog-act.s9553330.272	2147.38	2148.46	ME	D	inf	-1	0	that's not the issue .
+IS1002b.D.dialog-act.s9553330.273	2148.46	2149.41	ME	D	inf	-1	0	I give you ideas ,
+IS1002b.D.dialog-act.s9553330.274	2149.41	2150.83	ME	D	inf	-1	0	you guys create the product .
+IS1002b.D.dialog-act.s9553330.275	2150.83	2153.63	ME	D	off	+1	1	Once you have the finished product I'll find a way to sell it .
+IS1002b.D.dialog-act.s9553330.276	2153.63	2154.38	ME	D	inf	-1	0	Don't worry about it .
+IS1002b.D.dialog-act.s9553330.277	2154.38	2157.2	ME	D	inf	-1	0	I just give you these things now , because these are my thoughts and feelings .
+IS1002b.B.dialog-act.s9553330.191	2157.64	2157.9	UI	B	stl	-1	0	So
+IS1002b.C.dialog-act.s9553330.94	2157.56	2157.88	ID	C	bck	-1	0	Okay .
+IS1002b.B.dialog-act.s9553330.192	2159.11	2163.04	UI	B	sug	-1	0	just {vocalsound} to touch on m my point one last time that I had brought up .
+IS1002b.B.dialog-act.s9553330.193	2163.04	2165.52	UI	B	fra	-1	0	Um I really {vocalsound} {disfmarker}
+IS1002b.B.dialog-act.s9553330.194	2165.52	2181.45	UI	B	sug	+1	1	un unless you guys are die-hard against the fact that um it's possible like it reduces the usability of the remote b and the fact that you can't lose it on your own , I think it still might be a good idea to investigate having like a power cradle .
+IS1002b.A.dialog-act.s9553330.226	2180.64	2180.84	PM	A	ass	-1	0	Yeah .
+IS1002b.C.dialog-act.s9553330.95	2182.69	2183.58	ID	C	ass	-1	0	Okay . Yeah .
+IS1002b.B.dialog-act.s9553330.195	2183.2	2195.76	UI	B	ass	+1	1	Because I really think i in a certain sense it almost like {disfmarker} for me I would want to have that just , because I know at the end of when I'm done watching T_V_ that when I'm done , oh I better go find the remote and put it back where it belongs .
+IS1002b.B.dialog-act.s9553330.196	2195.76	2198.54	UI	B	inf	-1	0	Maybe th th th that's just some people that like that .
+IS1002b.A.dialog-act.s9553330.227	2198.48	2205.92	PM	A	inf	-1	0	I mean there's al there's also remote controls I remember that that worked uh , this hasn't been done in a while I think , but th as a as a watch .
+IS1002b.B.dialog-act.s9553330.197	2198.54	2199.216	UI	B	fra	-1	0	A lot of people {disfmarker}
+IS1002b.D.dialog-act.s9553330.278	2198.64	2199.17	ME	D	ass	-1	0	No no .
+IS1002b.B.dialog-act.s9553330.198	2205.35	2206.29	UI	B	und	-1	0	As a watch ?
+IS1002b.A.dialog-act.s9553330.228	2205.92	2206.21	PM	A	ass	-1	0	Yeah ,
+IS1002b.A.dialog-act.s9553330.229	2206.21	2208.37	PM	A	inf	-1	0	there is remote control watches um ,
+IS1002b.B.dialog-act.s9553330.199	2206.29	2206.67	UI	B	bck	-1	0	Mm 'kay .
+IS1002b.A.dialog-act.s9553330.230	2208.37	2210.64	PM	A	inf	-1	0	but I think they're a sorta eighties thing ,
+IS1002b.A.dialog-act.s9553330.231	2210.64	2213.58	PM	A	ass	-1	0	so it might not be easy to market in it {disfmarker}
+IS1002b.A.dialog-act.s9553330.232	2213.58	2216.48	PM	A	inf	-1	0	uh but the the technologies came along and it might be cheaper to make now .
+IS1002b.C.dialog-act.s9553330.96	2213.46	2214.99	ID	C	ass	-1	0	Yeah they are not simple .
+IS1002b.A.dialog-act.s9553330.233	2216.48	2218.29	PM	A	inf	-1	0	Those things may have been inexpensive for all I know .
+IS1002b.B.dialog-act.s9553330.200	2218.62	2218.87	UI	B	bck	-1	0	Mm-hmm .
+IS1002b.D.dialog-act.s9553330.279	2219.17	2226.81	ME	D	inf	+1	1	One thing I just thought about when you were saying that , is that the p our target market is gonna be someone who has lost or broken {disfmarker}
+IS1002b.A.dialog-act.s9553330.234	2226.129	2226.466	PM	A	fra	-1	0	{vocalsound}
+IS1002b.B.dialog-act.s9553330.201	2226.66	2227.63	UI	B	inf	-1	0	That's what I was saying .
+IS1002b.D.dialog-act.s9553330.280	2226.81	2227.4	ME	D	el.inf	-1	0	We gotta stop ?
+IS1002b.A.dialog-act.s9553330.235	2227.375	2228.16	PM	A	inf	-1	0	{vocalsound} Gotta cut up .
+IS1002b.D.dialog-act.s9553330.281	2227.4	2230.71	ME	D	inf	-1	0	Who's lost or broken their their remote .
+IS1002b.D.dialog-act.s9553330.282	2230.71	2233.62	ME	D	inf	-1	0	So {vocalsound} how many remotes do they wanna buy ?
+IS1002b.D.dialog-act.s9553330.283	2233.62	2240.4	ME	D	sug	+1	1	Can we p can we sell them a remote that can maybe guarantee they will not need to buy another one ?
+IS1002b.B.dialog-act.s9553330.202	2237.94	2238.62	UI	B	ass	-1	0	Exactly .
+IS1002b.A.dialog-act.s9553330.237	2240.03	2240.28	PM	A	bck	-1	0	Mm .
+IS1002b.C.dialog-act.s9553330.97	2240.31	2240.53	ID	C	bck	-1	0	Yeah .
+IS1002b.D.dialog-act.s9553330.284	2240.4	2248.45	ME	D	sug	+1	1	And so with with with this kind of system or locator or something , to to think about , how have people been been losing or breaking their remote ?
+IS1002b.B.dialog-act.s9553330.203	2242.15	2242.5	UI	B	bck	-1	0	Mm-hmm .
+IS1002b.B.dialog-act.s9553330.204	2247.82	2248.1	UI	B	bck	-1	0	Mm-hmm .
+IS1002b.D.dialog-act.s9553330.285	2248.45	2249.33	ME	D	sug	-1	0	How does this happen ?
+IS1002b.A.dialog-act.s9553330.236	2249.61	2250.78	PM	A	inf	-1	0	The last remote you'll ever buy .
+IS1002b.B.dialog-act.s9553330.205	2249.75	2251.264	UI	B	fra	-1	0	And also presumably they've {disfmarker}
+IS1002b.D.dialog-act.s9553330.286	2250.88	2259.08	ME	D	sug	+1	1	And and then and then design the product , maybe some component of the product that can identify this as the last one you'll ever need to buy .
+IS1002b.A.dialog-act.s9553330.238	2258.72	2261.36	PM	A	fra	-1	0	Well if if we're going down that then we can {disfmarker} we don't need to go the {disfmarker}
+IS1002b.B.dialog-act.s9553330.207	2258.9	2259.43	UI	B	bck	-1	0	Exactly .
+IS1002b.A.dialog-act.s9553330.239	2261.36	2266.81	PM	A	ass	-1	0	it it strikes me that the locator feature might actually be uh quite expensive to make .
+IS1002b.B.dialog-act.s9553330.208	2264.39	2264.6	UI	B	bck	-1	0	Yeah .
+IS1002b.A.dialog-act.s9553330.240	2266.81	2270.5	PM	A	ass	+1	1	Whereas actually just putting it in a power cradle might not be too expensive at all
+IS1002b.A.dialog-act.s9553330.241	2270.5	2272.14	PM	A	inf	-1	0	because that's just done with mobile phones
+IS1002b.B.dialog-act.s9553330.209	2270.25	2270.49	UI	B	bck	-1	0	True .
+IS1002b.A.dialog-act.s9553330.242	2272.14	2277.94	PM	A	sug	-1	0	you can just n we we have said we have actually similar products that we can take from and potentially cut costs there .
+IS1002b.B.dialog-act.s9553330.210	2271.81	2271.95	UI	B	bck	-1	0	Right .
+IS1002b.B.dialog-act.s9553330.211	2273.06	2273.62	UI	B	bck	-1	0	Yeah .
+IS1002b.B.dialog-act.s9553330.206	2273.62	2275.6	UI	B	inf	+1	1	The locator'll definitely be more expensive .
+IS1002b.B.dialog-act.s9553330.212	2277.69	2277.96	UI	B	bck	-1	0	Mm-hmm .
+IS1002b.A.dialog-act.s9553330.243	2278.35	2280.61	PM	A	sug	+1	1	Um need to look into whether we can do that
+IS1002b.A.dialog-act.s9553330.244	2280.61	2284.71	PM	A	inf	-1	0	but uh I think we we have some m mobile phone-based products
+IS1002b.A.dialog-act.s9553330.245	2284.71	2287.34	PM	A	off	-1	0	uh checking quickly our Internet .
+IS1002b.A.dialog-act.s9553330.246	2287.34	2290.288	PM	A	inf	-1	0	We really need to finish up here . But uh {disfmarker}
+IS1002b.D.dialog-act.s9553330.287	2289.024	2290.25	ME	D	fra	-1	0	{gap} uh {disfmarker}
+IS1002b.D.dialog-act.s9553330.288	2290.25	2293.557	ME	D	sug	-1	0	we can make it in the shape of a coffee pot . {vocalsound}
+IS1002b.A.dialog-act.s9553330.247	2293.27	2295.75	PM	A	inf	-1	0	Yeah we have the {gap} the power-adaptor products .
+IS1002b.A.dialog-act.s9553330.248	2295.75	2297.1	PM	A	inf	-1	0	We sell power-adaptor products .
+IS1002b.A.dialog-act.s9553330.249	2297.1	2301.68	PM	A	inf	-1	0	So for example there's nothing stopping us using that technology .
+IS1002b.D.dialog-act.s9553330.289	2298.63	2302.43	ME	D	inf	-1	0	It's uh just it's that I think it's telling us to stop our meeting .
+IS1002b.A.dialog-act.s9553330.250	2301.68	2302.31	PM	A	ass	-1	0	Yeah .
+IS1002b.A.dialog-act.s9553330.252	2302.692	2303.028	PM	A	fra	-1	0	{vocalsound}
+IS1002b.D.dialog-act.s9553330.290	2302.43	2308.24	ME	D	inf	-1	0	{vocalsound} So we have the c we probably have have on-line in our in our system , we have the ability to create this , we're talking about .
+IS1002b.A.dialog-act.s9553330.251	2309.32	2310.28	PM	A	ass	-1	0	Yeah I think so ,
+IS1002b.D.dialog-act.s9553330.291	2309.64	2310.42	ME	D	inf	-1	0	A charging system .
+IS1002b.A.dialog-act.s9553330.253	2310.28	2311.33	PM	A	fra	-1	0	without it being too {disfmarker}
+IS1002b.A.dialog-act.s9553330.254	2311.33	2315.16	PM	A	inf	-1	0	In fact we can cut costs through using the manufacturing that's already gonna be in place here .
+IS1002b.B.dialog-act.s9553330.213	2314.92	2315.07	UI	B	bck	-1	0	Right .
+IS1002b.D.dialog-act.s9553330.292	2315.15	2320.19	ME	D	inf	-1	0	If if we can create this we have probably five or six or seven really strong marketing characteristics .
+IS1002b.B.dialog-act.s9553330.214	2319.52	2320.17	UI	B	bck	-1	0	Right .
+IS1002b.A.dialog-act.s9553330.255	2320.56	2320.81	PM	A	stl	-1	0	Okay .
+IS1002b.B.dialog-act.s9553330.215	2320.17	2325.06	UI	B	sug	+1	1	I think one of the things that we can put right on the box is , never buy another battery .
+IS1002b.A.dialog-act.s9553330.256	2324.68	2324.86	PM	A	bck	-1	0	Yep .
+IS1002b.B.dialog-act.s9553330.216	2325.06	2326.53	UI	B	sug	-1	0	You know , something like that .
+IS1002b.A.dialog-act.s9553330.257	2326.98	2328.84	PM	A	be.pos	-1	0	'Kay . Thanks guys .
+IS1002b.C.dialog-act.s9553330.98	2328.23	2328.49	ID	C	bck	-1	0	Yep .
+IS1002b.D.dialog-act.s9553330.293	2330.62	2332.304	ME	D	oth	-1	0	No that's not what I want , I want {disfmarker}
+IS1002b.D.dialog-act.s9553330.294	2336.89	2338.72	ME	D	oth	-1	0	Oh look it here .

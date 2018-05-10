@@ -1,0 +1,5 @@
+Speakers mn007 and fn002 have been working on the groups main project , looking for bugs in the system , and trying to improve latency.
+The group's work currently has the highest latency on the project , and they are looking for ways to cut the delays.
+These include replacing FIR filters with IIR , and investigating spectral subtraction methods which do not require taking the future into account.
+Speaker me006 has put together a proposal to extend work on a multiband system using low-level detectors , and applying it to recognition.
+Speaker me026 has been looking at method for recognition using far mics , trying to deal with reverberation and echo-cancellation.

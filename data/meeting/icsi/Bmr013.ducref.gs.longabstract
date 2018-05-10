@@ -1,0 +1,23 @@
+The Berkeley Meeting Recorder group discussed the collection status for a set of connected digits recordings that are nearly complete and ready to be trained on a recognizer.
+Anticipated results were discussed in reference to results obtained for other digits corpora , i.e . Aurora and TI-digits.
+The group also considered the prospect of performing fine-grained acoustic-phonetic analyses on a subset of Meeting Recorder digits or Switchboard data.
+Pre-segmentation manipulations that allow for the segmentation of channel-specific speech/non-speech portions of the signal and the distinction of foreground versus background speech were discussed.
+Finally , speaker fe008 and fe016 reported on new efforts to adapt transcriptions to the needs of the SRI recognizer , including conventions for encoding acronyms , numbers , ambient noise , and unidentified inbreaths.
+The group decided to delegate the extraction of digits to the transcriber pool.
+A tentative decision was also made to delegate transcribers with the task of labelling a subset of digits or Switchboard data for fine-grained acoustic-phonetic features.
+Speaker fe008 will run selected Meeting Recorder data through channelize and determine whether the resulting units are of a sufficient length.
+With respect to encoding more fine-grained acoustic information in transcriptions , the question was posed: which features should be marked?
+Speaker mn014 reported problems pre-segmenting speech recorded via the lapel microphones.
+Normalization of the energy measured across and within channels is problematic when performed for speakers who say little or nothing during meetings.
+The evaluation of pre-segmented data is difficult without tightly transcribed time references to the individual channels from which the speech was derived.
+The SRI recognizer requires that multi-channel format units not be too large , indicating that some additional pre-processing of unit lengths may be necessary.
+A test set of Meeting Recorder digits is nearly complete.
+Future work will include training this data on a recognizer , and feeding the recognizer with corresponding far-field microphone data.
+It was noted that the results of experiments testing similar digits corpora have yielded high error rates , indicating that similar problems may be expected for the set of Meeting Recoreder digits.
+The group discussed the prospect of performing fine-grained acoustic-phonetic analyses on a subset of digits or Switchboard data.
+It was suggested that prior to the use of data-driven methods , knowledge-driven approaches should be used to 'seed' the data with sub-phonemic features , either manually , or using a rich pronunciation dictionary.
+A new version of the pre-segmentation tool that segments channel-specific speech/non-speech portions of the signal has been developed and tested.
+Future pre-segmentation work will include normalizing other features , such as loudness , enabling the distinction of foreground versus background speech.
+Speaker mn014 will also look at cross-correlations for removing false overlaps.
+New efforts were reported to adapt transcriptions to the needs of the SRI recognizer , including conventions for encoding acronyms , numbers , ambient noise , and unidentified inbreaths.
+With the arrival of the SRI recognizer , 12 hours of forced aligned , recognized data can be expected.

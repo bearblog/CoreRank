@@ -1,0 +1,9 @@
+A paper has been submitted to Eurospeech , which also includes a section on new corpora.
+The statistics in the paper are based on the transcripts of two meeting and two telephone conversation corpora.
+In the first two , the overlapped words vary between 9% and 18%.
+The telephone conversation results were in-between and very similar to each other.
+On the other hand , the automatic recognition errors affected by overlaps were reduced dramatically by focusing on regions with the foreground speech.
+Furthermore , it was shown that after spurts , backchannels , disfluencies and discourse markers , the likelihood of interruption by other speakers was much higher.
+Files with the recordings , as well as some experimental data will be available for other researchers in an FTP directory that is being set up.
+Parts of the recordings will have to be beeped out by a script that has already been developed.
+Finally , EDU meetings already recorded have now been pre-segmented and assigned to the transcribers at ICSI.

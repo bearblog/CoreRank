@@ -1,0 +1,43 @@
+0	Bro024.s.1	Another weekly meeting on ICSI's Meeting Recorder Group at Berkeley , though the members are joined by a visiting researcher.
+6	Bro024.s.2	The groups regulars reported progress on their work on mean subtraction , noise estimation , voice activity detection and the Vector Taylor Series.
+Bro024.C.dialogueact32	54.79	66.021	C	Grad	fh|s	+1	2	so , yeah , the {disfmarker} this past week I 've been main mainly occupied with , um , getting some results , u from the SRI system trained on this short Hub - five training set for the mean subtraction method .
+Bro024.B.dialogueact480	1339.44	1343.92	B	PhD	s	+1	2	so the last week , uh , I showed some results with only SpeechDat - Car
+Bro024.B.dialogueact485	1352.51	1355.41	B	PhD	s	+1	2	So I was like looking into " why , what is wrong with the TI - digits ? " .
+Bro024.B.dialogueact487	1356.69	1363.06	B	PhD	s	+1	2	And I found that , the noise estimation is a reason for the TI - digits to perform worse than the baseline .
+Bro024.E.dialogueact1136	2676.76	2687.18	E	PhD	s^bk|s^rt^tc	+1	2	yeah , there are two figures showing actually the , mmm , um , performance of the current VAD .
+Bro024.H.dialogueact1796	4030.56	4037.89	H	PhD	h|s	+1	2	Well , I only say that the {disfmarker} this is , a summary of the {disfmarker} of all the VTS experiments
+34	Bro024.s.3	While on these topics , related areas discussed included recognition window length , training versus test set sizes , artificial distortion and latency concerns.
+Bro024.C.dialogueact161	446.42	454.7	C	Grad	s^tc	+1	1	And then there 's um , another thing I wanna start looking at , um , {vocalsound} wi is , um , the choice of the analysis window length .
+Bro024.C.dialogueact167	468.54	474.166	C	Grad	s	+1	1	with the {disfmarker} with the HTK set - up I should be able to do some experiments , on just varying that length ,
+Bro024.C.dialogueact168	474.166	478.406	C	Grad	s^e	+1	1	say between one and three seconds , in a few different reverberation conditions ,
+Bro024.D.dialogueact176	506.94	514.998	D	Professor	s	+1	1	I guess one thing that might also be an issue , uh , cuz part of what you 're doing is you 're getting a {disfmarker} a spectrum over a bunch of different kinds of speech sounds .
+Bro024.D.dialogueact178	516.488	521.02	D	Professor	s	+1	1	and so it might matter how fast someone was talking for instance .
+Bro024.D.dialogueact180	521.638	528.379	D	Professor	s	+1	1	You know , if you {disfmarker} if {disfmarker} if {disfmarker} if there 's a lot of phones in one second maybe you 'll get a {disfmarker} a really good sampling of all these different things ,
+Bro024.D.dialogueact181	528.379	532.719	D	Professor	s	+1	1	and {disfmarker} {vocalsound} and , uh , on the other hand if someone 's talking slowly maybe you 'd need more .
+Bro024.C.dialogueact241	721.61	730.042	C	Grad	s	+1	1	a actually I was just thinking about what I was asking about earlier , wi which is about having {vocalsound} less than say twelve seconds in the SmartKom system to do the mean subtraction .
+Bro024.C.dialogueact242	730.042	735.279	C	Grad	s^bu	+1	1	You said in {vocalsound} systems where you use cepstral mean subtraction , they concatenate utterances
+Bro024.C.dialogueact243	735.339	740.639	C	Grad	qy^rt	+1	1	and , {vocalsound} do you know how they address this issue of , um , testing versus training ?
+Bro024.G.dialogueact245	744.694	746.834	G	Professor	s	+1	1	I think what they do is they do it always on - line ,
+Bro024.G.dialogueact247	746.834	749.814	G	Professor	s	+1	1	I mean , that you just take what you have from the past ,
+Bro024.G.dialogueact248	750.557	752.957	G	Professor	s	+1	1	that you calculate the mean of this and subtract the mean .
+Bro024.C.dialogueact254	765.472	773.939	C	Grad	fh|qw	+1	1	and , um , so {disfmarker} so in tha in that case , wh what do they do when they 're t um , performing the cepstral mean subtraction on the training data ?
+Bro024.C.dialogueact255	774.63	776.68	C	Grad	s^df	+1	1	So {disfmarker} because you 'd have hours and hours of training data .
+Bro024.C.dialogueact256	776.68	779.248	C	Grad	qy^rt	+1	1	So do they cut it off and start over ?
+Bro024.D.dialogueact276	820.414	822.654	D	Professor	s	+1	1	and so if you 're splitting things up into utterances {disfmarker}
+Bro024.D.dialogueact277	822.654	830.181	D	Professor	s^df	+1	1	So , for instance , in a dialogue system , {comment} where you 're gonna be asking , uh , you know , th for some information , there 's some initial th something .
+Bro024.D.dialogueact288	849.752	856.736	D	Professor	s	+1	1	and I think the heuristics of exactly how people handle that and how they handle their training I 'm sure vary from place to place .
+Bro024.C.dialogueact311	913.96	919.19	C	Grad	s	+1	1	so you 'd {disfmarker} you {disfmarker} and so in training you would start over at {disfmarker} at every new phone call or at every {vocalsound} new speaker .
+Bro024.G.dialogueact770	1943.38	1948.06	G	Professor	s^cs	+1	1	it {disfmarker} it seems to be the best what {disfmarker} wh wh what {disfmarker} what we can do in this moment is multi - condition training .
+Bro024.G.dialogueact771	1948.72	1957.67	G	Professor	s^cs	+1	1	And every when we now start introducing some {disfmarker} some noise reduction technique we {disfmarker} we introduce also somehow artificial distortions .
+Bro024.G.dialogueact773	1958.66	1965.05	G	Professor	s	+1	1	And these artificial distortions {disfmarker} uh , I have the feeling that they are the reason why {disfmarker} why we have the problems in this multi - condition training .
+Bro024.G.dialogueact774	1965.79	1969.36	G	Professor	s	+1	1	That means the H M Ms we trained , they are {disfmarker} they are based on Gaussians ,
+Bro024.G.dialogueact780	1980.06	1984.28	G	Professor	s.%--	+1	1	And if we introduce now this {disfmarker} this u spectral subtraction , or Wiener filtering stuff {disfmarker}
+Bro024.G.dialogueact791	2016.3	2020.69	G	Professor	s	+1	1	I mean , this is your noise estimate and you somehow subtract it or do whatever .
+Bro024.G.dialogueact793	2022.69	2028.02	G	Professor	s	+1	1	And then I think what you do is you introduce some {disfmarker} some artificial distribution in this
+Bro024.G.dialogueact795	2029.59	2030.72	G	Professor	s^e	+1	1	in {disfmarker} in the models .
+Bro024.D.dialogueact1005	2454.27	2464.45	D	Professor	fg|s	+1	1	So {disfmarker} So , basically our {disfmarker} our position is {vocalsound} that , um , we shouldn't be unduly constraining the latency at this point
+Bro024.D.dialogueact1006	2464.54	2469.32	D	Professor	s^df	+1	1	because we 're all still experimenting with trying to make the performance better in the presence of noise .
+Bro024.D.dialogueact1007	2469.95	2480.57	D	Professor	fh|s	+1	1	Uh , there is a minority in that group who is a arguing {disfmarker} who are arguing for {vocalsound} um , uh , having a further constraining of the latency .
+Bro024.D.dialogueact1008	2481.03	2490.41	D	Professor	fh|s^df	+1	1	So we 're s just continuing to keep aware of what the trade - offs are and , you know , what {disfmarker} what do we gain from having longer or shorter latencies ?
+Bro024.D.dialogueact1014	2506.7	2509.65	D	Professor	s	+1	1	Well , France Telecom was {disfmarker} was {disfmarker} was very short latency
+Bro024.G.dialogueact1019	2511.13	2513.36	G	Professor	s	+1	1	It was in the order of thirty milliseconds

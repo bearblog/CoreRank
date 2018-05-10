@@ -1,0 +1,95 @@
+8	Bro010.s.11	Speakers mn007 and fn002 have been working on the groups main project , looking for bugs in the system , and trying to improve latency.
+Bro010.C.dialogueact34	65.893	66.773	C	Professor	qw^rt	+1	2	So what are you doing ?
+Bro010.B.dialogueact36	68.29	80.681	B	PhD	h|s	+1	3	Uh , well , we 've {disfmarker} a little bit worked on trying to see , uh , what were the bugs and the problem with the latencies .
+Bro010.B.dialogueact39	82.68	85.47	B	PhD	s	+1	2	We took {disfmarker} first we took the LDA filters
+Bro010.B.dialogueact40	86.2	89.889	B	PhD	s	+1	2	and , {vocalsound} uh , we designed new filters ,
+Bro010.B.dialogueact41	90.467	92.497	B	PhD	s^e	+1	2	using uh recursive filters actually .
+Bro010.B.dialogueact53	117.1	121.54	B	PhD	s^e^rt	+1	2	Well , similar , but that have shorter delays .
+Bro010.B.dialogueact59	130.37	135.219	B	PhD	s^rt	+1	2	And the low frequency band has sixty - four milliseconds of delay ,
+Bro010.B.dialogueact60	135.609	144.405	B	PhD	s^rt	+1	2	and the high frequency band filter has something like eleven milliseconds compared to the two hundred milliseconds of the IIR filters .
+27	Bro010.s.12	The group's work currently has the highest latency on the project , and they are looking for ways to cut the delays.
+Bro010.B.dialogueact36	68.29	80.681	B	PhD	h|s	+1	3	Uh , well , we 've {disfmarker} a little bit worked on trying to see , uh , what were the bugs and the problem with the latencies .
+Bro010.C.dialogueact117	250.63	254.75	C	Professor	s^bu	+1	1	So that would be , uh , a reduction of a hundred and thirty - six milliseconds ,
+Bro010.C.dialogueact120	257.38	259.79	C	Professor	qw	+1	1	What was the total we ended up with through the whole system ?
+Bro010.B.dialogueact121	259.489	260.979	B	PhD	s	+1	1	Three hundred and thirty .
+Bro010.C.dialogueact122	261.81	262.52	C	Professor	qy^d.%--	+1	1	So that would be within {disfmarker} ?
+Bro010.B.dialogueact123	263.232	263.472	B	PhD	s^aa	+1	1	Yeah ,
+Bro010.B.dialogueact161	365.892	369.292	B	PhD	s^bd	+1	2	But , well , when we add up everything it 's {disfmarker} it will be alright .
+Bro010.B.dialogueact163	371.254	375.82	B	PhD	s	+1	1	so , sixty - five , plus ten , plus {disfmarker} for the downsampling ,
+Bro010.B.dialogueact164	375.82	378.16	B	PhD	s	+1	1	plus eighty - five for the on - line normalization .
+Bro010.B.dialogueact168	380.27	383.74	B	PhD	s	+1	1	plus {disfmarker} plus eighty for the neural net and PCA .
+Bro010.B.dialogueact170	384.809	386.839	B	PhD	s	+1	3	So it would be around two hundred and forty {disfmarker}
+Bro010.C.dialogueact172	388.56	389.77	C	Professor	s	+1	2	Just {disfmarker} just barely in there .
+Bro010.A.dialogueact175	391.33	392.19	A	PhD	qw^rt	+1	3	What 's the allowable ?
+Bro010.C.dialogueact176	392.4	392.87	C	Professor	s	+1	3	Two - fifty ,
+Bro010.C.dialogueact183	401.334	409.576	C	Professor	h|s	+1	3	Uh , well the people who had very low latency want it to be low {disfmarker} uh , very {disfmarker} {vocalsound} very very narrow , uh , latency bound .
+Bro010.C.dialogueact184	409.576	411.536	C	Professor	s	+1	2	And the people who have longer latency don't .
+Bro010.C.dialogueact188	413.229	415.059	C	Professor	s	+1	3	Unfortunately we 're the main ones with long latency ,
+Bro010.B.dialogueact194	417.79	422.18	B	PhD	s	+1	2	and basically the best proposal had something like thirty or forty milliseconds of latency .
+Bro010.C.dialogueact230	510.413	513.683	C	Professor	s	+1	1	To get down to forty or fifty milliseconds we 'd have to throw out most of what we 're doing .
+Bro010.A.dialogueact289	641.84	649.624	A	PhD	s	+1	2	A person {disfmarker} I don't think a person can tell the difference between , uh , you know , a quarter of a second and a hundred milliseconds ,
+Bro010.A.dialogueact292	650.75	653.27	A	PhD	s	+1	2	I 'm not even sure if we can tell the difference between a quarter of a second and half a second .
+Bro010.A.dialogueact294	653.956	655.846	A	PhD	s^df	+1	2	I mean it just {disfmarker} it feels so quick .
+Bro010.C.dialogueact313	697.198	700.058	C	Professor	s^cs	+1	2	we could cut {disfmarker} we know what else , we could cut down on the neural net time
+Bro010.C.dialogueact314	700.408	703.02	C	Professor	s^cs^e	+1	2	by {disfmarker} by , uh , playing around a little bit ,
+Bro010.C.dialogueact315	703.43	704.62	C	Professor	s^cs^e	+1	2	going more into the past ,
+Bro010.A.dialogueact318	706.75	709.9	A	PhD	qy^rt	+1	2	So is the latency from the neural net caused by how far ahead you 're looking ?
+Bro010.C.dialogueact319	710.021	710.251	C	Professor	s^aa	+1	2	Mm - hmm .
+28	Bro010.s.13	These include replacing FIR filters with IIR , and investigating spectral subtraction methods which do not require taking the future into account.
+Bro010.B.dialogueact39	82.68	85.47	B	PhD	s	+1	2	We took {disfmarker} first we took the LDA filters
+Bro010.B.dialogueact40	86.2	89.889	B	PhD	s	+1	2	and , {vocalsound} uh , we designed new filters ,
+Bro010.B.dialogueact41	90.467	92.497	B	PhD	s^e	+1	2	using uh recursive filters actually .
+Bro010.B.dialogueact51	102.19	115.621	B	PhD	s	+1	1	So we took the filters {disfmarker} the FIR filters {vocalsound} and we {comment} designed , uh , IIR filters that have the same frequency response .
+Bro010.B.dialogueact53	117.1	121.54	B	PhD	s^e^rt	+1	2	Well , similar , but that have shorter delays .
+Bro010.B.dialogueact59	130.37	135.219	B	PhD	s^rt	+1	2	And the low frequency band has sixty - four milliseconds of delay ,
+Bro010.B.dialogueact60	135.609	144.405	B	PhD	s^rt	+1	2	and the high frequency band filter has something like eleven milliseconds compared to the two hundred milliseconds of the IIR filters .
+Bro010.C.dialogueact66	152.87	155.07	C	Professor	qy^d^rt	+1	3	You {disfmarker} you had a discussion with Sunil about this though ?
+Bro010.C.dialogueact313	697.198	700.058	C	Professor	s^cs	+1	2	we could cut {disfmarker} we know what else , we could cut down on the neural net time
+Bro010.C.dialogueact314	700.408	703.02	C	Professor	s^cs^e	+1	2	by {disfmarker} by , uh , playing around a little bit ,
+Bro010.C.dialogueact315	703.43	704.62	C	Professor	s^cs^e	+1	2	going more into the past ,
+Bro010.A.dialogueact318	706.75	709.9	A	PhD	qy^rt	+1	2	So is the latency from the neural net caused by how far ahead you 're looking ?
+Bro010.C.dialogueact319	710.021	710.251	C	Professor	s^aa	+1	2	Mm - hmm .
+Bro010.D.dialogueact353	778.361	786.44	D	PhD	s	+1	2	Also we were thinking to {disfmarker} to , uh , apply the eh , spectral subtraction from Ericsson
+Bro010.D.dialogueact356	786.98	793.17	D	PhD	s	+1	2	and to {disfmarker} to change the contextual KLT for LDA .
+Bro010.D.dialogueact370	804.102	807.822	D	PhD	s	+1	1	Uh , to change and use LDA discriminative .
+Bro010.C.dialogueact434	916.058	931.8	C	Professor	s	+1	3	uh , one thing that would be no {disfmarker} good to find out about from this conference call is that what they were talking about , what they 're proposing doing , was having a third party , um , run a good VAD , and {disfmarker} and determine boundaries .
+Bro010.C.dialogueact436	933.174	937.728	C	Professor	s	+1	3	And then given those boundaries , then have everybody do the recognition .
+Bro010.C.dialogueact534	1139.1	1142.36	C	Professor	s	+1	2	Well , there 's a lot of different ways of computing the noise spectrum .
+Bro010.A.dialogueact584	1270.39	1273.68	A	PhD	s	+1	2	it seems like this kind of thing could add to the latency .
+Bro010.A.dialogueact585	1274.25	1279.84	A	PhD	s^df	+1	2	I mean , depending on where the window was that you used to calculate {pause} the signal - to - noise ratio .
+Bro010.C.dialogueact590	1282.85	1283.49	C	Professor	s^nd	+1	2	Not necessarily .
+Bro010.C.dialogueact591	1283.98	1285.14	C	Professor	s^df	+1	2	Cuz if you don't look into the future ,
+Bro010.B.dialogueact608	1298.27	1304.64	B	PhD	s	+1	2	Actually , it 's a mmm {disfmarker} If - if you want to have a good estimation on non - stationary noise you have to look in the {disfmarker} in the future .
+Bro010.C.dialogueact614	1316.89	1319.35	C	Professor	qw^rt	+1	2	but what does {disfmarker} what {disfmarker} what {disfmarker} what does Alcatel do ?
+Bro010.C.dialogueact616	1319.53	1320.75	C	Professor	qw^d^e	+1	2	And {disfmarker} and France Telecom .
+Bro010.B.dialogueact618	1321.05	1322.52	B	PhD	s	+1	2	They just look in the past .
+Bro010.B.dialogueact619	1322.52	1326.71	B	PhD	s	+1	2	I guess it works because the noise are , uh pret uh , almost stationary
+15	Bro010.s.14	Speaker me006 has put together a proposal to extend work on a multiband system using low-level detectors , and applying it to recognition.
+Bro010.C.dialogueact795	1650.38	1652.87	C	Professor	s^co^t^tc	+1	2	Uh , maybe we can talk about a couple other things briefly ,
+Bro010.C.dialogueact798	1658.13	1661.75	C	Professor	s	+1	2	So you 're coming up with your quals proposal ,
+Bro010.E.dialogueact807	1677.49	1685.82	E	Grad	fh|s^cc	+1	2	Um , but I 'm , uh , looking into extending the work done by Larry Saul and John Allen and uh Mazin Rahim .
+Bro010.E.dialogueact808	1686.46	1692.15	E	Grad	fh|s	+1	1	Um , they {disfmarker} they have a system that 's , uh , a multi - band , um , system
+Bro010.E.dialogueact809	1692.15	1697.3	E	Grad	s	+1	1	but their multi - band is {disfmarker} is a little different than the way that we 've been doing multi - band in the past ,
+Bro010.E.dialogueact810	1697.3	1708.34	E	Grad	s^e	+1	1	where um {disfmarker} Where we 've been @ @ {comment} uh taking {pause} um {pause} {vocalsound} sub - band features and i training up these neural nets and {disfmarker} on {disfmarker} on phonetic targets ,
+Bro010.E.dialogueact811	1708.34	1710.86	E	Grad	s^e	+1	1	and then combining them some somehow down the line ,
+Bro010.E.dialogueact813	1712.17	1723.19	E	Grad	s	+1	1	they 're {disfmarker} they 're taking sub - band features and , um , training up a detector that detects for , um , these phonetic features
+Bro010.E.dialogueact892	1908.45	1923.13	E	Grad	s	+1	1	and h he shows that using this {disfmarker} this method to detect sonorance is it 's very robust compared to , um {disfmarker} {vocalsound} to typical , uh , full - band Gaussian mixtures um estimations of {disfmarker} of sonorance .
+Bro010.E.dialogueact897	1926.54	1928.76	E	Grad	s	+1	1	so that 's just {disfmarker} that 's just one detector .
+Bro010.E.dialogueact898	1929.0	1932.47	E	Grad	s	+1	1	So you can imagine building many of these detectors on different features .
+Bro010.E.dialogueact899	1932.47	1940.2	E	Grad	s	+1	1	You get enough of these detectors together , um , then you have enough information to do , um , higher level discrimination ,
+Bro010.E.dialogueact900	1940.2	1942.69	E	Grad	s^e	+1	1	for example , discriminating between phones
+Bro010.E.dialogueact902	1943.01	1947.21	E	Grad	s	+1	1	and then you keep working your way up until you {disfmarker} you build a full recognizer .
+Bro010.E.dialogueact904	1947.92	1954.24	E	Grad	fh|s	+1	1	So , um , that 's {disfmarker} that 's the direction which I 'm {disfmarker} I 'm thinking about going in my quals .
+12	Bro010.s.15	Speaker me026 has been looking at method for recognition using far mics , trying to deal with reverberation and echo-cancellation.
+Bro010.C.dialogueact1130	2489.47	2495.96	C	Professor	fh|qy^co^d^rt^tc	+1	2	so , uh , y you want to talk maybe a c two or three minutes about what we 've been talking about today and other days ?
+Bro010.F.dialogueact1135	2498.31	2502.89	F	Grad	s	+1	2	we 're interested in , um , methods for far mike speech recognition ,
+Bro010.F.dialogueact1136	2502.89	2508.16	F	Grad	s^e	+1	2	um , {pause} mainly , uh , methods that deal with the reverberation {pause} in the far mike signal .
+Bro010.F.dialogueact1138	2509.95	2515.71	F	Grad	s^e	+1	1	one approach would be , um , say MSG and PLP , like was used in Aurora one
+Bro010.F.dialogueact1139	2515.71	2523.71	F	Grad	s	+1	1	and , um , there are other approaches which actually attempt to {pause} remove the reverberation , instead of being robust to it like MSG .
+Bro010.F.dialogueact1140	2524.26	2536.11	F	Grad	s	+1	1	And so we 're interested in , um , comparing the performance of {pause} um , a robust approach like MSG with these , um , speech enhancement or de - reverber de - reverberation approaches .
+Bro010.C.dialogueact1177	2645.83	2651.79	C	Professor	s	+1	1	There 's also this , uh , um , uh , echo cancellation stuff that we 've sort of been chasing ,
+Bro010.C.dialogueact1180	2654.5	2657.87	C	Professor	s	+1	1	and when we 're saying these digits now we do have a close microphone signal
+Bro010.C.dialogueact1181	2657.87	2659.96	C	Professor	s	+1	1	and then there 's the distant microphone signal .
+Bro010.C.dialogueact1182	2660.57	2667.85	C	Professor	s	+1	1	And you could as a kind of baseline say , " OK , given that we have both of these , uh , we should be able to do , uh , a cancellation . "
+Bro010.C.dialogueact1183	2668.55	2679.98	C	Professor	s	+1	1	So that , uh , um , we {disfmarker} we , uh , essentially identify the system in between {disfmarker} the linear time invariant system between the microphones and {disfmarker} and {disfmarker} and {disfmarker} and re and invert it ,
+Bro010.C.dialogueact1184	2680.99	2685.15	C	Professor	s	+1	1	uh , or {disfmarker} or cancel it out to {disfmarker} to some {disfmarker} some reasonable approximation

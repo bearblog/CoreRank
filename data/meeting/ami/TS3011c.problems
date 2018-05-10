@@ -1,0 +1,26 @@
+2	TS3011c.vkaraisk.s.22	It is not clear whether a kinetic dynamo can be used , because it is unlikely that a user shakes the remote enough , as one would do with similarly powered watches.
+TS3011c.B.dialog-act.vkaraisk.65	896.64	902.78	B	UI	el.inf	+1	1	But if you're watching a movie , how many times uh you take the the remote control and and {disfmarker}
+TS3011c.C.dialog-act.vkaraisk.123	923.87	929.54	C	ID	inf	+1	1	But uh the problem here is that it it supplies a a very little amount of kinetic energy .
+2	TS3011c.vkaraisk.s.23	The use of a scroll wheel with integrated button was debated , as not everyone was convinced of its use for this project.
+TS3011c.B.dialog-act.vkaraisk.79	1056.07	1061.48	B	UI	inf	+1	1	I can't see uh any uh scenario where you would use a scroll-wheel with a button on it .
+TS3011c.C.dialog-act.vkaraisk.166	1093.46	1097.43	C	ID	inf	+1	1	There's no scenario where you use uh the button in the scroll-wheel .
+2	TS3011c.vkaraisk.s.24	Using the speech recognition on the device may not be convenient , since the remote will have to pointing towards the TV at the same time for the infrared to work.
+TS3011c.A.dialog-act.vkaraisk.196	1521.88	1536.42	A	PM	el.ass	+1	1	what about um {vocalsound} the issue I um addressed at the beginning of the meeting ? Um the voice function w with the infrared uh issue .
+TS3011c.C.dialog-act.vkaraisk.284	1537.55	1545.47	C	ID	ass	+1	1	It's it's {disfmarker} uh I uh I can imagine it's very dull to talk to a device w if you have to point to another device .
+2	TS3011c.vkaraisk.s.25	LCD screens may add an extra hi-tech touch , but given all the other features , it might be too much.
+TS3011c.A.dialog-act.vkaraisk.212	1618.69	1624.06	A	PM	inf	+1	1	according to Ruud , the the the market likes um new flashy technology ,
+TS3011c.C.dialog-act.vkaraisk.310	1661.46	1664.78	C	ID	inf	+1	1	Uh I think our customers will go insane .
+1	TS3011c.vkaraisk.s.26	The company colours (grey and yellow and black) did not seem sufficiently bright and trendy to everyone.
+TS3011c.A.dialog-act.vkaraisk.272	1878.41	1882.88	A	PM	ass	+1	1	Yeah , although I don't think that's very colourful . Except for the yellow of course ,
+2	TS3011c.vkaraisk.s.27	Printing an image on the remote to make it more colourful is doable , but cannot be done by the manufacturing department.
+TS3011c.A.dialog-act.vkaraisk.280	1919.98	1924.41	A	PM	sug	+1	1	it should be a full colour cover with such an image
+TS3011c.C.dialog-act.vkaraisk.362	1938.17	1943.98	C	ID	inf	+1	1	but uh I'm afraid it's not possible to print a picture on uh the device .
+6	TS3011c.vkaraisk.s.28	The front could have a rubber finish , or the buttons will be made of rubber.
+TS3011c.C.dialog-act.vkaraisk.350	1848.89	1850.85	C	ID	el.inf	+1	1	What about uh the finishing of the case ?
+TS3011c.A.dialog-act.vkaraisk.268	1854.12	1855.81	A	PM	inf	+1	2	Yeah , with colourful rubber .
+TS3011c.C.dialog-act.vkaraisk.375	1997.08	1998.4	C	ID	inf	+1	1	because they're they're rubber too .
+TS3011c.A.dialog-act.vkaraisk.316	2138.34	2144.17	A	PM	ass	+1	1	we should have it the other way around , I guess . A plastic cover with rubber finishing .
+TS3011c.A.dialog-act.vkaraisk.314	2115.73	2121.64	A	PM	el.ass	+1	1	What about um making this rubber and making this plastic ?
+TS3011c.C.dialog-act.vkaraisk.392	2157.84	2158.81	C	ID	ass	+1	1	I'm I'm not so sure ,
+1	TS3011c.vkaraisk.s.29	It was debated that customers may prefer a total spongy texture , not just in the buttons and the sides of the remote.
+TS3011c.C.dialog-act.vkaraisk.400	2170.87	2176.61	C	ID	inf	+1	1	So if you want the spongy feel , you need uh to make these buttons all all of rubber .

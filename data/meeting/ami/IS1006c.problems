@@ -1,0 +1,49 @@
+15	IS1006c.rdhillon.s.16	Whether to allow the LCD or the remote case to come in different colors.
+IS1006c.D.dialog-act.vkaraisk.61	736.608	744.25	D	ME	el.ass	+1	2	{gap} Do you think it can come in several colours ?
+IS1006c.B.dialog-act.vkaraisk.75	745.947	752.24	B	UI	sug	+1	2	{vocalsound} I would make a backlight of the L_C_D_ screen with different colours .
+IS1006c.D.dialog-act.vkaraisk.63	752.07	753.49	D	ME	el.ass	+1	2	Um but not the case .
+IS1006c.D.dialog-act.vkaraisk.64	754.67	758.7	D	ME	el.inf	+1	2	Uh the case would only be in that uh aluminium uh titanium stuff ,
+IS1006c.A.dialog-act.vkaraisk.64	759.82	763.78	A	PM	inf	+1	2	Because apparently from your survey people like colours ,
+IS1006c.B.dialog-act.vkaraisk.79	769.12	773.05	B	UI	inf	+1	2	let's remember there's a Nokia phone which changeable panels .
+IS1006c.D.dialog-act.vkaraisk.73	774.06	776.23	D	ME	sug	+1	2	so that would be the option
+IS1006c.C.dialog-act.vkaraisk.126	785.449	791.69	C	ID	el.inf	+1	3	{vocalsound} But it would be expensive , no ? If you use colour L_C_D_ .
+IS1006c.C.dialog-act.vkaraisk.127	794.14	799.37	C	ID	sug	+1	3	Uh instead of that maybe we can change the colour of the assembler .
+IS1006c.C.dialog-act.vkaraisk.129	801.01	810.7	C	ID	sug	+1	3	if users want more colours they can pay more money to get this uh the shapes and they can have different assembly .
+IS1006c.A.dialog-act.vkaraisk.72	825.46	834.85	A	PM	el.inf	+1	3	you you propose something with option i that increase the price if we {disfmarker} if you want o more colours {vocalsound} on L_C_D_ ,
+IS1006c.B.dialog-act.vkaraisk.89	842.16	846.14	B	UI	sug	+1	2	there's one more decisi uh one more solution in fact , um {vocalsound}
+IS1006c.B.dialog-act.vkaraisk.90	846.14	853.16	B	UI	inf	+1	2	'cause there are some some paints that can change colour according to where they are ,
+IS1006c.B.dialog-act.vkaraisk.91	853.16	862.44	B	UI	inf	+1	2	like they can reflect different colours depending on what is around , like what colour is around , and depending on the temperature ,
+IS1006c.A.dialog-act.vkaraisk.79	865.6	869.14	A	PM	ass	+1	2	but that's maybe mo too much expensive , yeah .
+6	IS1006c.rdhillon.s.17	How to account for the increase in production costs for a remote that comes in different colors.
+IS1006c.C.dialog-act.vkaraisk.126	785.449	791.69	C	ID	el.inf	+1	3	{vocalsound} But it would be expensive , no ? If you use colour L_C_D_ .
+IS1006c.C.dialog-act.vkaraisk.129	801.01	810.7	C	ID	sug	+1	3	if users want more colours they can pay more money to get this uh the shapes and they can have different assembly .
+IS1006c.C.dialog-act.vkaraisk.127	794.14	799.37	C	ID	sug	+1	3	Uh instead of that maybe we can change the colour of the assembler .
+IS1006c.A.dialog-act.vkaraisk.72	825.46	834.85	A	PM	el.inf	+1	3	you you propose something with option i that increase the price if we {disfmarker} if you want o more colours {vocalsound} on L_C_D_ ,
+IS1006c.D.dialog-act.vkaraisk.94	909.696	913.12	D	ME	inf	+1	2	{vocalsound} I think I think they would be ready p ready to pay more for that .
+IS1006c.D.dialog-act.vkaraisk.97	920.99	922.27	D	ME	ass	+1	2	It might be optional , yeah .
+7	IS1006c.rdhillon.s.18	How to make a "smart" remote.
+IS1006c.B.dialog-act.vkaraisk.120	1019.54	1023.83	B	UI	el.sug	+1	2	but how smart should it be to not to complicate things too much ?
+IS1006c.D.dialog-act.vkaraisk.129	1061.43	1066.87	D	ME	el.inf	+1	2	Are are you saying here that uh the remote controls should be aware of who is using it ?
+IS1006c.B.dialog-act.vkaraisk.130	1074.19	1076.46	B	UI	sug	+1	2	I just want to say it should be real smart .
+IS1006c.C.dialog-act.vkaraisk.173	1094.92	1101.15	C	ID	fra	+1	2	since we have {disfmarker} we want to do some speaker dependent speech recognition uh so we can use {disfmarker}
+IS1006c.D.dialog-act.vkaraisk.139	1100.16	1102.99	D	ME	sug	+1	2	So it could be smart in that way .
+IS1006c.D.dialog-act.vkaraisk.142	1119.12	1129.54	D	ME	sug	+1	2	it might also record the kind of uh channels you are u more often using and uh levels of volumes that you're more often uh {disfmarker} things like that
+IS1006c.D.dialog-act.vkaraisk.148	1140.59	1145.632	D	ME	sug	+1	2	{vocalsound} The remote that knows you . {vocalsound}
+9	IS1006c.rdhillon.s.19	Whether to make a remote out of rubber or titanium.
+IS1006c.C.dialog-act.vkaraisk.60	372.87	379.19	C	ID	sug	+1	2	But full assembly {disfmarker} We'll use mainly for titanium {gap}
+IS1006c.C.dialog-act.vkaraisk.37	279.97	287.21	C	ID	sug	+1	2	And also we want to go for titanium design instead of rubber or {disfmarker}
+IS1006c.C.dialog-act.vkaraisk.41	288.11	293.12	C	ID	inf	+1	2	the problem is with this design we found that we can't use double-curved shapes .
+IS1006c.A.dialog-act.vkaraisk.131	1433.72	1435.98	A	PM	ass	+1	2	So maybe titanium it's not a good idea .
+IS1006c.D.dialog-act.vkaraisk.219	1428.67	1433.61	D	ME	ass	+1	2	because it's what is probably more feasible in terms of sponginess .
+IS1006c.D.dialog-act.vkaraisk.218	1425.62	1428.67	D	ME	sug	+1	2	I think uh the rubber aspect might be important
+IS1006c.D.dialog-act.vkaraisk.255	1561.38	1566.21	D	ME	ass	+1	2	If if it's something like rubber made or {disfmarker} I think it it's also going to be good .
+IS1006c.C.dialog-act.vkaraisk.287	1795.4	1802.92	C	ID	sug	+1	2	Maybe we can have two different {gap} assembly also like one spongy and one kind of titanium .
+IS1006c.A.dialog-act.vkaraisk.182	1787.24	1792.2	A	PM	sug	+1	2	you explore now that you're going to work together these these two .
+7	IS1006c.rdhillon.s.20	Whether the team should invent their own trend.
+IS1006c.A.dialog-act.vkaraisk.24	330.841	342.73	A	PM	el.inf	+1	2	{vocalsound} Um I want to know why it b uh just uh sorry but for the point before uh why not the rubber , if it is something that it seems to be light .
+IS1006c.B.dialog-act.vkaraisk.5	351.2	356.21	B	UI	sug	+1	2	W we can use something like you know {vocalsound} the whole body's titanium
+IS1006c.B.dialog-act.vkaraisk.6	356.21	362.07	B	UI	sug	+1	2	but there are some rubber or I dunno some rubber parts
+IS1006c.C.dialog-act.vkaraisk.253	1657.01	1658.7	C	ID	inf	+1	2	we want to follow general trend .
+IS1006c.D.dialog-act.vkaraisk.262	1666.925	1670.36	D	ME	inf	+1	2	{vocalsound} No , we don't have to ,
+IS1006c.D.dialog-act.vkaraisk.264	1671.86	1676.69	D	ME	sug	+1	2	Again , as I said we can also try to make it , to create the trend .
+IS1006c.B.dialog-act.vkaraisk.147	1677.26	1680.14	B	UI	el.ass	+1	2	are we confident enough on creating trends ?

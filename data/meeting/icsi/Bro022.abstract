@@ -1,0 +1,27 @@
+1	Bro022.s.1	A typical progress report meeting for the ICSI Meeting Recorder Group at Berkeley.
+Bro022.A.dialogueact17	35.124	41.55	A	PhD	qy^cs^rt^t^tc	+1	2	So , should we just do the same kind of deal where we {pause} go around and do , uh , status report {pause} kind of things ?
+11	Bro022.s.2	Each of the group reported their most recent progress , and any results they have achieved.
+Bro022.A.dialogueact17	35.124	41.55	A	PhD	qy^cs^rt^t^tc	+1	2	So , should we just do the same kind of deal where we {pause} go around and do , uh , status report {pause} kind of things ?
+Bro022.A.dialogueact44	73.93	74.69	A	PhD	qw^cs	+1	2	Why don't you go ahead , Barry ?
+Bro022.F.dialogueact49	78.373	84.613	F	Grad	fh|s	+1	2	Well , this past week I 've just been , uh , getting down and dirty into writing my {disfmarker} my proposal .
+Bro022.A.dialogueact158	342.87	344.55	A	PhD	fg|qy^co^rt	+1	2	So , uh , you want to go next , Dave ?
+Bro022.E.dialogueact164	348.01	353.54	E	Grad	s	+1	2	last week I finally got results from the SRI system about this mean subtraction approach .
+Bro022.E.dialogueact480	1101.79	1106.55	E	Grad	s	+1	2	And I also , um , did some experiments {pause} about normalizing the phase .
+Bro022.A.dialogueact518	1206.24	1206.99	A	PhD	qy^cs^rt	+1	2	Do you want to go , Stephane ?
+Bro022.C.dialogueact521	1215.24	1221.46	C	PhD	s	+1	3	I 'm more interested in trying to figure out what 's still the difference between the SRI system and the Aurora system .
+Bro022.G.dialogueact1010	2298.85	2300.76	G	PhD	s^tc	+1	2	th I 've been playing with this Wiener filter , like .
+Bro022.A.dialogueact1122	2606.62	2607.32	A	PhD	qo^rt	+1	2	How about you , Carmen ?
+Bro022.D.dialogueact1123	2608.19	2611.4	D	PhD	s^rt	+1	2	Well , I am still working with , eh , VTS .
+6	Bro022.s.3	This then prompted discussion about the reasons behind such findings , which were for the most part not as expected.
+Bro022.E.dialogueact170	384.509	390.821	E	Grad	qw^df	+1	3	wh why would that be , um , {vocalsound} considering that we actually got an improvement in near - mike performance using HTK ?
+Bro022.E.dialogueact172	391.633	395.113	E	Grad	s	+1	2	uh , with some input from , uh , Andreas , I have a theory in two parts .
+Bro022.C.dialogueact525	1229.07	1233.02	C	PhD	s^df	+1	2	because {pause} this is also one big difference between {pause} the two systems .
+Bro022.C.dialogueact527	1236.14	1244.0	C	PhD	s^rt	+1	2	the other differences were {pause} the fact that maybe the acoustic models of the SRI are more {disfmarker} SRI system are more complex .
+Bro022.B.dialogueact536	1259.61	1260.89	B	Professor	s^e	+1	2	You know , they have channel adaptation .
+Bro022.A.dialogueact543	1262.55	1264.24	A	PhD	s	+1	2	Well , there 's also the normalization .
+5	Bro022.s.4	Topics the group touched upon included spectral subtraction , phase normalization , Voice activity detection , along with comparisons between systems.
+Bro022.C.dialogueact521	1215.24	1221.46	C	PhD	s	+1	3	I 'm more interested in trying to figure out what 's still the difference between the SRI system and the Aurora system .
+Bro022.C.dialogueact754	1630.91	1634.67	C	PhD	s^tc.%--	+1	3	Uh , the next thing is this {disfmarker} this VAD problem that ,
+Bro022.C.dialogueact951	2136.2	2138.67	C	PhD	s^rt^tc	+1	1	Uh , the second thing is the {disfmarker} this spectral subtraction .
+Bro022.C.dialogueact954	2144.49	2151.19	C	PhD	s^e	+1	1	which I 've just started yesterday to launch a bunch of , uh , {nonvocalsound} twenty - five experiments ,
+Bro022.C.dialogueact955	2152.76	2157.83	C	PhD	fh|s^e	+1	1	uh , with different , uh , values for the parameters that are used .

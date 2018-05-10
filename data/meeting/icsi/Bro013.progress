@@ -1,0 +1,122 @@
+14	Bro013.s.11	The group have been comparing their recognition system to a few others , and theirs has not come off favourably.
+Bro013.E.dialogueact12	39.907	46.43	E	PhD	s^t	+1	4	Uh , well , first there are perhaps these uh Meeting Recorder digits that we tested .
+Bro013.A.dialogueact15	47.453	51.017	A	Professor	s.%--	+1	2	The {disfmarker} both the uh {disfmarker} {vocalsound} the SRI System and the oth
+Bro013.A.dialogueact17	51.017	58.989	A	Professor	s	+1	2	And for one thing that {disfmarker} that sure shows the {vocalsound} difference between having a lot of uh training data {vocalsound} or not ,
+Bro013.A.dialogueact20	58.989	71.339	A	Professor	fh|s	+1	1	uh , the uh {disfmarker} {vocalsound} The best kind of number we have on the English uh {disfmarker} on near microphone only is {disfmarker} is uh three or four percent .
+Bro013.A.dialogueact22	72.259	83.111	A	Professor	fh|s	+1	1	And uh it 's significantly better than that , using fairly simple front - ends {vocalsound} on {disfmarker} {vocalsound} on the uh {disfmarker} {vocalsound} uh , with the SRI system .
+Bro013.A.dialogueact26	86.231	89.771	A	Professor	s	+1	2	But that 's {disfmarker} that 's using uh a {disfmarker} a pretty huge amount of data ,
+Bro013.A.dialogueact30	93.95	101.78	A	Professor	s	+1	2	In fact , mostly not digits for the actual training the H M Ms whereas uh in this case we 're just using digits for training the H M
+Bro013.E.dialogueact40	121.4	124.03	E	PhD	s^df	+1	2	because it 's their very d huge , their huge system .
+Bro013.A.dialogueact62	159.061	165.307	A	Professor	s^cs.%--	+1	1	But {disfmarker} but uh what {disfmarker} what I think I 'd be interested to do given that , is that we {disfmarker} we should uh {vocalsound} take {disfmarker}
+Bro013.A.dialogueact65	166.827	170.207	A	Professor	s^cs	+1	1	is to take some of these tandem things and feed it into the SRI system ,
+Bro013.E.dialogueact73	175.86	177.69	E	PhD	s.%--	+1	2	But I guess the main point is the data because
+Bro013.E.dialogueact75	179.6	182.34	E	PhD	s	+1	2	Our back - end is {disfmarker} is fairly simple
+Bro013.E.dialogueact76	182.34	188.883	E	PhD	s.%--	+1	2	but until now , well , the attempts to improve it or {disfmarker} have fail
+Bro013.E.dialogueact121	273.21	279.094	E	PhD	s	+1	2	The {disfmarker} the fact that {disfmarker} the result with the tandem and Aurora system are {vocalsound} uh so much worse .
+31	Bro013.s.12	There could be many reasons for this , including smaller training set , more realistic data , or older technology.
+Bro013.A.dialogueact17	51.017	58.989	A	Professor	s	+1	2	And for one thing that {disfmarker} that sure shows the {vocalsound} difference between having a lot of uh training data {vocalsound} or not ,
+Bro013.A.dialogueact26	86.231	89.771	A	Professor	s	+1	2	But that 's {disfmarker} that 's using uh a {disfmarker} a pretty huge amount of data ,
+Bro013.A.dialogueact30	93.95	101.78	A	Professor	s	+1	2	In fact , mostly not digits for the actual training the H M Ms whereas uh in this case we 're just using digits for training the H M
+Bro013.E.dialogueact40	121.4	124.03	E	PhD	s^df	+1	2	because it 's their very d huge , their huge system .
+Bro013.E.dialogueact73	175.86	177.69	E	PhD	s.%--	+1	2	But I guess the main point is the data because
+Bro013.A.dialogueact81	195.56	198.737	A	Professor	s	+1	2	I mean so to {disfmarker} {vocalsound} So there 's {disfmarker} there 's {disfmarker} there 's two things being affected .
+Bro013.A.dialogueact84	198.737	202.627	A	Professor	s	+1	2	I mean . One is that {disfmarker} that , you know , there 's something simple that 's wrong with the back - end .
+Bro013.A.dialogueact85	202.627	203.937	A	Professor	s	+1	2	We 've been playing a number of states
+Bro013.A.dialogueact87	204.507	208.947	A	Professor	fh|s	+1	2	uh I {disfmarker} I don't know if he got to the point of playing with the uh number of Gaussians yet
+Bro013.A.dialogueact91	212.04	215.01	A	Professor	s	+1	2	But , yeah , so far he hadn't gotten any big improvement ,
+Bro013.A.dialogueact93	215.01	217.74	A	Professor	s^df	+1	2	but that 's all with the same amount of data which is pretty small .
+Bro013.E.dialogueact97	221.204	226.054	E	PhD	s^cs.%-	+1	1	So , yeah , we could retrain some of these tandem on {disfmarker} on huge {disfmarker}
+Bro013.A.dialogueact98	225.14	228.66	A	Professor	s^na|s^ng	+1	1	Well , you could do that , but I 'm saying even with it not {disfmarker} with that part not retrained ,
+Bro013.A.dialogueact100	230.38	234.71	A	Professor	s	+1	1	just {disfmarker} just using {disfmarker} having the H M Ms {disfmarker} much better H M
+Bro013.E.dialogueact113	248.77	253.7	E	PhD	s^cs	+1	2	perhaps it 's not related , the amount of data but the um recording conditions .
+Bro013.A.dialogueact120	270.593	272.903	A	Professor	qw	+1	1	What {disfmarker} what is the problem that you 're trying to explain ?
+Bro013.E.dialogueact121	273.21	279.094	E	PhD	s	+1	2	The {disfmarker} the fact that {disfmarker} the result with the tandem and Aurora system are {vocalsound} uh so much worse .
+Bro013.A.dialogueact127	279.632	290.043	A	Professor	s	+1	2	I uh but I 'm {disfmarker} I 'm almost certain that it {disfmarker} it {disfmarker} {vocalsound} I mean , that it has to do with the um amount of training data .
+Bro013.A.dialogueact129	290.783	292.993	A	Professor	s	+1	2	It {disfmarker} it 's {disfmarker} it 's orders of magnitude off .
+Bro013.A.dialogueact159	341.317	346.88	A	Professor	qy^rt	+1	2	let 's see , in the {disfmarker} in these multi - train things did we include noisy data in the training ?
+Bro013.A.dialogueact161	347.41	349.54	A	Professor	s	+1	2	I mean , that could be hurting us actually , for the clean case .
+Bro013.A.dialogueact205	441.65	443.2	A	Professor	s	+1	2	You know , I don't think there 's anything magical here .
+Bro013.A.dialogueact207	443.2	446.19	A	Professor	s^bs	+1	2	It 's , you know , we used a simple HTK system with a modest amount of data .
+Bro013.A.dialogueact208	446.19	450.84	A	Professor	s	+1	2	And this is a {disfmarker} a , you know , modern {vocalsound} uh system
+Bro013.A.dialogueact210	451.14	453.29	A	Professor	s	+1	2	uh has {disfmarker} has a lot of nice points to it .
+Bro013.A.dialogueact213	455.76	458.8	A	Professor	fh|s	+1	2	So . I mean , the HTK is an older HTK , even .
+Bro013.A.dialogueact244	551.075	554.525	A	Professor	s	+1	2	I mean , there 's {disfmarker} {vocalsound} even though it 's close - miked there 's still {disfmarker} there really is background noise .
+Bro013.A.dialogueact246	556.555	565.815	A	Professor	fh|s	+1	2	Um . And {vocalsound} uh I suspect when the TI - digits were recorded if somebody fumbled or said something wrong or something that they probably made them take it over .
+Bro013.A.dialogueact248	568.48	572.6	A	Professor	s	+1	2	It was not {disfmarker} I mean there was no attempt to have it be realistic in any {disfmarker} in any sense at all .
+Bro013.E.dialogueact254	576.88	582.11	E	PhD	s	+1	2	TI - digit is {disfmarker} it 's very , very clean and it 's like studio recording
+Bro013.E.dialogueact256	582.885	588.546	E	PhD	s	+1	2	whereas these Meeting Recorder digits sometimes you have breath noise
+12	Bro013.s.13	Speaker mn007 has put the best voice activity detector into the system , to great improvements along with designing new filters that run at the correct latency.
+Bro013.E.dialogueact329	755.7	759.569	E	PhD	s.%--	+1	2	Perhaps the point is that we 've been working on {vocalsound} is ,
+Bro013.E.dialogueact330	759.569	762.689	E	PhD	s	+1	2	yeah , we have put the um the good VAD in the system
+Bro013.E.dialogueact331	762.689	765.98	E	PhD	s	+1	2	and {vocalsound} it really makes a huge difference .
+Bro013.E.dialogueact335	770.743	775.438	E	PhD	s^rt	+1	1	I think , yeah , this is perhaps one of the reason why our system was not {disfmarker} {vocalsound} not the best ,
+Bro013.E.dialogueact336	775.438	784.401	E	PhD	s	+1	1	because with the new VAD , it 's very {disfmarker} the results are similar to the France Telecom results and perhaps even better sometimes .
+Bro013.E.dialogueact398	956.978	959.268	E	PhD	s	+1	1	Uh I designed a new {disfmarker} a new filter
+Bro013.E.dialogueact399	960.228	970.153	E	PhD	s	+1	1	because when I designed other filters with shorter delay from the LDA filters , {vocalsound} there was one filter with fif sixty millisecond delay and the other with ten milliseconds
+Bro013.E.dialogueact400	970.153	974.467	E	PhD	s.%--	+1	1	and {vocalsound} uh Hynek suggested that both could have sixty - five sixty - s
+Bro013.E.dialogueact405	976.83	978.12	E	PhD	s.%-	+1	1	Both should have sixty - five because {disfmarker}
+Bro013.A.dialogueact407	978.43	979.5	A	Professor	s^bu|qy^d^g	+1	1	You didn't gain anything , right ?
+Bro013.E.dialogueact409	980.804	983.094	E	PhD	s	+1	1	and uh it 's running .
+Bro013.E.dialogueact411	987.502	991.912	E	PhD	s	+1	1	Uh but the filter is of course closer to the reference filter .
+7	Bro013.s.14	Speaker fn002 has started to find parameters for voiced/unvoiced feature detection , and has found some classic ones , although there are other things she wishes to look at.
+Bro013.E.dialogueact426	1017.07	1023.79	E	PhD	fg|s	+1	2	Yeah , and then we 've started to work with this of um voiced - unvoiced stuff .
+Bro013.D.dialogueact435	1059.94	1068.69	D	PhD	s	+1	2	No , I w {vocalsound} I begin to play {vocalsound} with Matlab and to found some parameter robust for voiced - unvoiced decision .
+Bro013.D.dialogueact437	1070.43	1088.62	D	PhD	s	+1	1	And we {disfmarker} {vocalsound} they {disfmarker} we found that maybe w is a classical parameter , the {vocalsound} sq the variance {vocalsound} between the um FFT of the signal and the small spectrum of time {vocalsound} we {disfmarker} after the um mel filter bank .
+Bro013.D.dialogueact439	1090.51	1092.38	D	PhD	s	+1	1	And , well , is more or less robust .
+Bro013.D.dialogueact440	1092.68	1094.07	D	PhD	s	+1	1	Is good for clean speech .
+Bro013.E.dialogueact451	1109.61	1114.84	E	PhD	s.%--	+1	1	So , basically we wa want to look at something like the ex the ex excitation signal and {disfmarker}
+Bro013.E.dialogueact454	1115.71	1117.09	E	PhD	s.%--	+1	1	which are the variance of it and {disfmarker}
+16	Bro013.s.15	Me013 offers a few ideas of simple things she may want to try , as he is not confident with everything she is trying.
+Bro013.A.dialogueact537	1278.79	1279.58	A	Professor	s.%--	+1	1	So now I wonder {disfmarker}
+Bro013.A.dialogueact539	1282.72	1287.68	A	Professor	s	+1	1	I know you want to get at something orthogonal from what you get with the smooth spectrum
+Bro013.A.dialogueact540	1288.51	1293.26	A	Professor	fh|qy^rt	+1	1	Um . But if you were to really try and get a voiced - unvoiced , do you {disfmarker} do you want to totally ignore that ?
+Bro013.A.dialogueact542	1294.19	1301.14	A	Professor	s	+1	1	I mean , clearly a {disfmarker} a very big {disfmarker} very big cues {vocalsound} for voiced - unvoiced come from uh spectral slope and so on ,
+Bro013.E.dialogueact547	1305.7	1308.8	E	PhD	s	+1	1	Well , this would be {disfmarker} this would be perhaps an additional parameter ,
+Bro013.D.dialogueact552	1311.84	1317.39	D	PhD	s^aa|s	+1	1	Yeah because when did noise clear {nonvocalsound} in these section is clear
+Bro013.A.dialogueact559	1326.81	1331.46	A	Professor	s	+1	1	I mean , {vocalsound} certainly if {vocalsound} you want to do good voiced - unvoiced detection , you need a few features .
+Bro013.A.dialogueact560	1331.46	1334.71	A	Professor	s	+1	1	Each {disfmarker} each feature is {vocalsound} by itself not enough .
+Bro013.A.dialogueact561	1334.71	1342.31	A	Professor	fh|s	+1	1	But , you know , people look at {disfmarker} at slope and {vocalsound} uh first auto - correlation coefficient , divided by power .
+Bro013.A.dialogueact570	1362.0	1368.61	A	Professor	s^cs	+1	1	Or maybe you could you just do it going through the P FFT 's figuring out some um probable {vocalsound} um harmonic structure .
+Bro013.A.dialogueact624	1470.73	1473.16	A	Professor	s^cs	+1	1	What I was talking about was just , starting with the FFT
+Bro013.A.dialogueact625	1473.71	1478.64	A	Professor	s^cs	+1	1	you could {disfmarker} you could uh do a very rough thing to estimate {disfmarker} estimate uh pitch .
+Bro013.A.dialogueact628	1479.88	1499.19	A	Professor	fh|s	+1	1	And uh uh , given {disfmarker} you know , given that , uh {vocalsound} you could uh uh come up with some kind of estimate of how much of the low frequency energy was {disfmarker} was explained by {disfmarker} {vocalsound} by uh uh those harmonics .
+Bro013.A.dialogueact631	1504.16	1506.42	A	Professor	s^df	+1	1	It 's uh a variant on what you 're s what you 're doing .
+Bro013.A.dialogueact633	1511.72	1513.18	A	Professor	s	+1	1	But as you say it 's not that smooth here .
+Bro013.A.dialogueact634	1513.18	1527.21	A	Professor	s^cs	+1	1	And {disfmarker} and so if you {disfmarker} {vocalsound} if you just you know subtracted off uh your guess of the harmonics then something like this would end up with {vocalsound} quite a bit lower energy in the first fifteen hundred hertz or so
+13	Bro013.s.16	Speaker me006 is continuing with the idea of extending work on acoustic feature detection.
+Bro013.A.dialogueact647	1560.58	1561.12	A	Professor	qo^tc	+1	2	What 's up with you ?
+Bro013.B.dialogueact648	1561.58	1566.43	B	Grad	h|s^rt	+1	2	Um {vocalsound} our t I went to {vocalsound} talk with uh Mike Jordan this {disfmarker} this week
+Bro013.B.dialogueact650	1567.31	1574.64	B	Grad	fh|s	+1	2	um {nonvocalsound} and uh {vocalsound} shared with him the ideas about um {vocalsound} extending the Larry Saul work
+Bro013.B.dialogueact651	1575.51	1580.2	B	Grad	fh|s	+1	2	and um I asked him some questions about factorial H M
+Bro013.B.dialogueact652	1580.2	1590.81	B	Grad	fh|s	+1	2	so like later down the line when {vocalsound} we 've come up with these {disfmarker} these feature detectors , how do we {disfmarker} {vocalsound} how do we uh {vocalsound} you know , uh model the time series that {disfmarker} that happens
+Bro013.B.dialogueact653	1591.2	1606.3	B	Grad	fh|s	+1	2	um {vocalsound} {vocalsound} and {vocalsound} and we talked a little bit about {vocalsound} factorial H M Ms and how {vocalsound} um when you 're doing inference {disfmarker} or w when you 're doing recognition , there 's like simple Viterbi stuff that you can do for {disfmarker} {vocalsound} for these H M
+Bro013.B.dialogueact654	1606.3	1615.31	B	Grad	fh|s	+1	2	and {vocalsound} the uh {disfmarker} {vocalsound} the great advantages that um a lot of times the factorial H M Ms don't {vocalsound} um {vocalsound} don't over - alert the problem
+Bro013.B.dialogueact655	1615.31	1621.6	B	Grad	s	+1	2	there they have a limited number of parameters and they focus directly on {disfmarker} {vocalsound} on uh the sub - problems at hand
+Bro013.B.dialogueact659	1640.08	1644.65	B	Grad	fh|s	+1	2	So he {disfmarker} he seemed {disfmarker} he seemed like really interested in {disfmarker} {vocalsound} in um {disfmarker} in this
+Bro013.B.dialogueact660	1644.65	1648.97	B	Grad	s	+1	2	and said {disfmarker} said this is {disfmarker} this is something very do - able and can learn a lot
+Bro013.B.dialogueact662	1651.39	1655.49	B	Grad	fh|s	+1	2	yeah , I 've just been {vocalsound} continue reading um about certain things .
+Bro013.B.dialogueact665	1658.3	1671.72	B	Grad	s	+1	2	thinking of maybe using um {vocalsound} um m modulation spectrum stuff to {vocalsound} um {disfmarker} as features um also in the {disfmarker} in the sub - bands
+Bro013.B.dialogueact667	1671.72	1683.25	B	Grad	s^e	+1	2	because {vocalsound} it seems like {vocalsound} the modulation um spectrum tells you a lot about the intelligibility of {disfmarker} of certain um words and stuff
+12	Bro013.s.17	He is continuing to read , and has discussed the suitability of factorial HMMs with a colleague.
+Bro013.B.dialogueact648	1561.58	1566.43	B	Grad	h|s^rt	+1	2	Um {vocalsound} our t I went to {vocalsound} talk with uh Mike Jordan this {disfmarker} this week
+Bro013.B.dialogueact650	1567.31	1574.64	B	Grad	fh|s	+1	2	um {nonvocalsound} and uh {vocalsound} shared with him the ideas about um {vocalsound} extending the Larry Saul work
+Bro013.B.dialogueact651	1575.51	1580.2	B	Grad	fh|s	+1	2	and um I asked him some questions about factorial H M
+Bro013.B.dialogueact652	1580.2	1590.81	B	Grad	fh|s	+1	2	so like later down the line when {vocalsound} we 've come up with these {disfmarker} these feature detectors , how do we {disfmarker} {vocalsound} how do we uh {vocalsound} you know , uh model the time series that {disfmarker} that happens
+Bro013.B.dialogueact653	1591.2	1606.3	B	Grad	fh|s	+1	2	um {vocalsound} {vocalsound} and {vocalsound} and we talked a little bit about {vocalsound} factorial H M Ms and how {vocalsound} um when you 're doing inference {disfmarker} or w when you 're doing recognition , there 's like simple Viterbi stuff that you can do for {disfmarker} {vocalsound} for these H M
+Bro013.B.dialogueact654	1606.3	1615.31	B	Grad	fh|s	+1	2	and {vocalsound} the uh {disfmarker} {vocalsound} the great advantages that um a lot of times the factorial H M Ms don't {vocalsound} um {vocalsound} don't over - alert the problem
+Bro013.B.dialogueact655	1615.31	1621.6	B	Grad	s	+1	2	there they have a limited number of parameters and they focus directly on {disfmarker} {vocalsound} on uh the sub - problems at hand
+Bro013.B.dialogueact659	1640.08	1644.65	B	Grad	fh|s	+1	2	So he {disfmarker} he seemed {disfmarker} he seemed like really interested in {disfmarker} {vocalsound} in um {disfmarker} in this
+Bro013.B.dialogueact660	1644.65	1648.97	B	Grad	s	+1	2	and said {disfmarker} said this is {disfmarker} this is something very do - able and can learn a lot
+Bro013.B.dialogueact662	1651.39	1655.49	B	Grad	fh|s	+1	2	yeah , I 've just been {vocalsound} continue reading um about certain things .
+Bro013.B.dialogueact665	1658.3	1671.72	B	Grad	s	+1	2	thinking of maybe using um {vocalsound} um m modulation spectrum stuff to {vocalsound} um {disfmarker} as features um also in the {disfmarker} in the sub - bands
+Bro013.B.dialogueact667	1671.72	1683.25	B	Grad	s^e	+1	2	because {vocalsound} it seems like {vocalsound} the modulation um spectrum tells you a lot about the intelligibility of {disfmarker} of certain um words and stuff
+6	Bro013.s.18	Speaker me026 has been learning more about previous work on reverberation , and is ready to start with a re-implementation of the theory.
+Bro013.C.dialogueact676	1694.76	1698.25	C	Grad	s	+1	2	so I 've been looking at Avendano 's work
+Bro013.C.dialogueact678	1700.14	1705.6	C	Grad	s^cc	+1	2	uh I 'll try to write up in my next stat status report a nice description of {vocalsound} what he 's doing ,
+Bro013.C.dialogueact702	1829.8	1840.58	C	Grad	s^cc	+1	1	s so I 'm {disfmarker} I guess my first stab actually in continuing {vocalsound} his work is to um {vocalsound} re - implement this {disfmarker} this thing which um {vocalsound} changes the time and frequency resolutions
+Bro013.C.dialogueact703	1840.58	1841.75	C	Grad	s^df	+1	1	cuz he doesn't have code for me .
+Bro013.C.dialogueact704	1841.75	1843.82	C	Grad	s^cc	+1	1	So that that 'll take some reading about the theory .
+Bro013.C.dialogueact705	1843.82	1844.78	C	Grad	s^no	+1	1	I don't really know the theory .
+2	Bro013.s.19	From there he wants to extend the work to look at time-varying reverb.
+Bro013.C.dialogueact709	1851.66	1857.29	C	Grad	s^cc	+1	1	so the {disfmarker} the way I want to extend his work is make it able to deal with a time varying reverberation response
+Bro013.C.dialogueact711	1860.12	1867.04	C	Grad	s	+1	1	we don't really know {vocalsound} how fast the um {disfmarker} the reverberation response is varying the Meeting Recorder data

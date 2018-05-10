@@ -1,0 +1,20 @@
+The Berkeley Even Deeper Understanding group discussed plans and concerns regarding the architecture of SmartKom , its proposed modules , and the types of interactions expected to take place between modules.
+The meeting was largely focused on SmartKom's decision making capacity and how to adapt this functionality to the tourist information domain.
+The group set a date for assessing SmartKom plans.
+It was decided that SmartKom's action plans should be represented in XML as a state transition network.
+It was proposed that the term 'dialogue planner' should replace 'dialogue manager'.
+Prolog will be phased out completely and replaced by Java code.
+The dialogue manager must be capable of changing states , i.e . go from being event driven to answering a question from a planning module.
+SmartKom should feature a well defined core interface , with domain-specific information kept external.
+A syntactic analysis component that performs chunk parsing will be added to the system.
+As a functional module , the action planner is too restrictive for the tourist domain and requires complex slots from the dialogue manager.
+What form will the language input have , and what will the action planner do with it?
+Links must be in place between the input end , action planner , parser , and language feedback components for communicating the current state of plan.
+Interactions in a deep map system between the spatial planner and the route planner are too convoluted.
+SmartKom requires a fast and robust parser that includes language-specific extensions.
+Which form of semantic construction grammar should be used , and how would such information be derived from the parsed input?
+Efforts are in progress to complete and test the code , generate an English grammar like that used in the German system , and get the parser interface working.
+A 'wizard of Oz' style data collection experiment is in progress to model users' underlying intentions when communicating with the dialogue component of a tourist domain GPS.
+Corresponding interfaces and a belief net will be incorporated into the knowledge modelling module.
+While the current focus is on decision making , a fuller implementation of SmartKom will enable it to query the user for desired information.
+Stemming information is connected to the lexicon through the use of knowledge bases from Verbmobil.

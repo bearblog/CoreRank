@@ -1,0 +1,5 @@
+Efforts are in progress to complete and test the code , generate an English grammar like that used in the German system , and get the parser interface working.
+A 'wizard of Oz' style data collection experiment is in progress to model users' underlying intentions when communicating with the dialogue component of a tourist domain GPS.
+Corresponding interfaces and a belief net will be incorporated into the knowledge modelling module.
+While the current focus is on decision making , a fuller implementation of SmartKom will enable it to query the user for desired information.
+Stemming information is connected to the lexicon through the use of knowledge bases from Verbmobil.

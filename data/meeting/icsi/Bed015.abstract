@@ -1,0 +1,40 @@
+2	Bed015.s.1	The discussion concerned the revised semantic specification and the construction formalism.
+Bed015.F.dialogueact24	44.702	50.742	F	Grad	s	+1	1	And so one on one side is {disfmarker} on one side is a sort of the revised sort of updated semantic specification .
+Bed015.F.dialogueact26	51.102	55.042	F	Grad	s	+1	1	And the other side is , um , sort of a revised construction formalism .
+2	Bed015.s.2	The different levels of the latter focus on what construction types are encountered and what bindings there are between them.
+Bed015.F.dialogueact69	137.4	138.91	F	Grad	s	+1	2	So they could all have a type at the beginning .
+Bed015.F.dialogueact149	389.681	392.451	F	Grad	s^bk|s	+1	2	OK , and then again semantic constraints here are just {disfmarker} are just bindings .
+1	Bed015.s.3	The notation maintains properties of both dependency and constituent-based grammars.
+Bed015.F.dialogueact805	1777.14	1784.31	F	Grad	s	+1	1	But , you know , we have the {pause} properties of dependency grammars and some properties of constituents {disfmarker} constituent - based grammar .
+4	Bed015.s.4	The encoding of features is still incomplete: frame profiles , focus , adjectives , nominal expressions are phenomena in the process of being integrated.
+Bed015.F.dialogueact765	1644.89	1646.06	F	Grad	s	+1	2	I think that 's still in progress .
+Bed015.F.dialogueact789	1739.82	1743.68	F	Grad	s.%--	+1	1	Other things we didn't {vocalsound} totally deal with , um ,
+Bed015.F.dialogueact790	1743.79	1747.99	F	Grad	s	+1	1	well , we 've had a lot of other stuff that Keith and I have them working on in terms of like how you deal with like an adjective .
+Bed015.F.dialogueact793	1748.14	1750.1	F	Grad	s	+1	1	You know , a {disfmarker} a nominal expression .
+1	Bed015.s.5	Similarly , ways to handle mental spaces will have to be added on top.
+Bed015.F.dialogueact408	910.593	915.053	F	Grad	s	+1	1	So there 's going to be some extra {disfmarker} you know , definitely other notation we 'll need for that which we skip for now .
+2	Bed015.s.6	On the other hand , the semantic specification structures information in terms of "scenario" , "referent" and "discourse segment".
+Bed015.F.dialogueact1022	2193.69	2196.79	F	Grad	s	+1	2	So you see it 's " scenario " , " referent " and " discourse segment " .
+Bed015.E.dialogueact1245	2752.47	2753.56	E	Grad	s^rt	+1	2	The " scenario " box ,
+1	Bed015.s.7	Each category comprises a number of slots filled in by information derived from the utterance.
+Bed015.F.dialogueact1025	2201.05	2209.19	F	Grad	s|qy^d^f^g^rt	+1	2	And actually it 's just a list of various slots from which you would draw {disfmarker} draw in order to paint your picture , a bunch of frames , bi and bindings , right ?
+5	Bed015.s.8	It is , essentially , a toolkit with which to create semantic constructions , as well as the bindings between them and with the ontology.
+Bed015.C.dialogueact1276	2826.15	2836.29	C	Professor	s	+1	1	which is made up entirely of these things and , uh , bindings among them .
+Bed015.C.dialogueact1278	2837.08	2838.85	C	Professor	s^e	+1	1	And bindings to ontology items .
+Bed015.C.dialogueact1280	2839.8	2848.94	C	Professor	s	+1	1	So that {disfmarker} that the who that this is the tool kit under whi out of which you can make a semantic specification .
+Bed015.C.dialogueact1286	2861.94	2871.92	C	Professor	s.%--	+1	1	So this is an that anything you have , in the party line , {comment} anything you have as the semantic side of constructions comes , from pieces of this {disfmarker} ignoring li
+Bed015.C.dialogueact1290	2873.97	2878.09	C	Professor	s	+1	1	But it 's got to be pieces of this along with constraints among them .
+3	Bed015.s.9	Among the issues still being defined , mental spaces and context ( eg pronoun references ) present similarities that can be echoed in the specification.
+Bed015.A.dialogueact1473	3251.41	3258.99	A	Grad	s^bk|qy	+1	2	Yeah , but you {disfmarker} Don't we ultimately want to handle that analogously to the way we handle time and place ,
+Bed015.C.dialogueact1588	3485.96	3493.46	C	Professor	fh|s	+1	2	Um , we might be able to handle context in the same way that we handle mental spaces
+Bed015.C.dialogueact1595	3512.14	3525.14	C	Professor	s	+1	1	So that pulling something out of a discourse context is I think similar to other kinds of , uh , mental space phenomena .
+3	Bed015.s.10	Work on both of these formalisms will continue with circumscription of the construction space that will be studied in more detail.
+Bed015.C.dialogueact1833	3937.15	3940.14	C	Professor	s	+1	2	Um , and we 're going to have to s sort of bound the complexity .
+Bed015.C.dialogueact1881	4040.93	4045.57	C	Professor	s^cs	+1	2	but just try to describe which ones you think we ought to have .
+Bed015.C.dialogueact1885	4052.02	4054.1	C	Professor	s^cs^e	+1	2	Just {disfmarker} just sort of , you know , define your space .
+5	Bed015.s.11	Work on construal will use Bayes-nets , which will be fed information from other modules and implement general rules to infer how utterances are construed.
+Bed015.A.dialogueact2089	4460.57	4464.74	A	Grad	fh|s	+1	2	Um , imagine you {disfmarker} you write a Bayes - net ,
+Bed015.A.dialogueact2094	4469.0	4472.82	A	Grad	s	+1	2	um , completely from scratch every time you do construal .
+Bed015.A.dialogueact2113	4517.12	4524.35	A	Grad	s	+1	1	And that fills in your CPT 's with which you can then query , um , the {disfmarker} the net that you just wrote
+Bed015.A.dialogueact2114	4525.2	4530.48	A	Grad	s:s	+1	1	and find out how thing X is construed as an utterance U .
+Bed015.A.dialogueact2123	4548.5	4556.53	A	Grad	s	+1	1	You may have some general rules as to how things can be {disfmarker} can be construed as what , so that will allow you to craft the {disfmarker} the {disfmarker} the initial notes .

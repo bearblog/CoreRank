@@ -1,0 +1,10 @@
+The group discussed the first version of the Bayes-net used to work out a user's intentions when asking for directions from a navigation device.
+Three intentions were identified: Vista ( to view ) , Enter ( to visit ) and Tango ( to approach ).
+The structure of the belief-net comprises , firstly , a feature layer , which includes linguistic , discourse and world knowledge information that can be gleaned from the data.
+It is possible for these variables to form thematic clusters(  eg "entrance" , "type of object" , "verb" ) , each one with a separate middle layer.
+These feed , in turn , into the main middle layer , that defines more general hidden variables , such as the tourist/business status of the user.
+The feature layer can end up being cue-based , while the middle layers task-based.
+The latter determine the final probability of each intention in the output layer.
+This first model of the belief-net was built in JavaBayes , since it is a free package , has a graphical interface , and it can take XML files as input.
+At this stage , all the actual probabilities are ad-hoc and hand-coded.
+However , there has been progress in the design and organisation of experiments , that will eventually provide data more useful and appropriate for this task.

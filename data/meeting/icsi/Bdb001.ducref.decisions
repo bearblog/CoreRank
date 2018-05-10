@@ -1,0 +1,3 @@
+In order to confirm the suitability of the data format provided by the ATLAS project , its current state of development will be investigated.
+More specifically , the issues that have to be ascertained are , firstly , whether the external file representation offers a format that would be appropriate for speech data , and , secondly , how the linking between the different annotations ( eg , between word-level representations and prosodic-feature structures ) can be achieved.
+Regardless of the actual format , however , there was consensus that keeping levels of analysis ( words , phones , frames , etc ) on separate , inter-linked files can make their management easier.

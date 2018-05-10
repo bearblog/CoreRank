@@ -1,0 +1,26 @@
+3	Bmr019.s.10	In order for the digit recognition results to be more reliably comparable , it was suggested that the TI digit corpus is tested on SRI as well.
+Bmr019.B.dialogueact172	320.712	326.019	B	Professor	qy^rt	-1	0	Hav - Have you ever t {vocalsound} Have you ever tried this exact same recognizer out on the actual TI - digits test set ?
+Bmr019.B.dialogueact175	331.008	332.208	B	Professor	s^cs	-1	0	It might be interesting to do that .
+Bmr019.B.dialogueact185	361.105	362.475	B	Professor	s^df	-1	0	so that these numbers were comparable
+1	Bmr019.s.11	Additionally , results are going to be checked by examining the signal from different microphones.
+Bmr019.B.dialogueact411	810.93	812.02	B	Professor	s	+1	1	the near versus far .
+1	Bmr019.s.12	Some modifications to the TI corpus may be needed to further consolidate this juxtaposition.
+Bmr019.E.dialogueact293	576.926	581.026	E	Grad	s^bk|s	-1	0	Right . So we {disfmarker} we could probably do an extraction that was roughly equivalent .
+2	Bmr019.s.13	The ultimate purpose is to create a system that can be fed different features and will substitute HTK.
+Bmr019.B.dialogueact605	1188.41	1193.29	B	Professor	s	+1	1	we want to {vocalsound} have the ability to feed it different features .
+Bmr019.B.dialogueact607	1194.44	1201.0	B	Professor	s	+1	0	And then , um , {vocalsound} from the point of view of the front - end research , it would be s uh , substituting for HTK .
+5	Bmr019.s.14	As regards the forced alignments , word-level alignments that have already been checked in Waves could be merged with transcripts and utterance-level representations produced in Transcriber , as both packages can use the CTM format.
+Bmr019.C.dialogueact824	1771.54	1776.48	C	Postdoc	s^cs^df	-1	0	is i does it have to be Waves ? Because if we could benefit from what you did , incorporate that into the present transcripts , {comment} that would help .
+Bmr019.C.dialogueact842	1812.65	1813.54	C	Postdoc	s	-1	0	I used it in Transcriber
+Bmr019.C.dialogueact853	1834.99	1837.8	C	Postdoc	s	-1	0	Well , I th I 'm thinking just ch e e incorporating it into the representation .
+Bmr019.F.dialogueact863	1845.76	1854.64	F	PhD	s	-1	0	I mean , we convert it to this format that the , um , NIST scoring tool unders uh , CTM . Conversation Time - Marked file .
+Bmr019.E.dialogueact866	1857.41	1859.52	E	Grad	s	-1	0	I think Transcriber , uh , outputs CTM .
+2	Bmr019.s.15	More measurements and correspondence with data from other corpora ( CallHome , Switchboard ) are going to be carried out with respect to backchanneling and overlaps.
+Bmr019.A.dialogueact1063	2190.27	2198.56	A	PhD	s	+1	1	We were {disfmarker} I guess the other thing we 're {disfmarker} we 're {disfmarker} I should say is that we 're gonna , um try {disfmarker} compare this type of overlap analysis to Switchboard ,
+Bmr019.A.dialogueact1066	2199.64	2200.3	A	PhD	s^m^na	+1	0	and CallHome ,
+1	Bmr019.s.16	The intention is to write a paper with the results of this task.
+Bmr019.A.dialogueact1071	2210.02	2211.42	A	PhD	s	-1	0	Try to create a paper out of that .
+3	Bmr019.s.17	Towards the end of the meeting the group discussed possible agenda topics for big meeting scheduled for the following Saturday.
+Bmr019.B.dialogueact25	34.427	44.126	B	Professor	s^t	-1	0	I guess the other thing , {vocalsound} which I came unprepared for , uh , {vocalsound} is , uh , to dis s s see if there 's anything anybody wants to discuss about the Saturday meeting .
+Bmr019.B.dialogueact1531	2997.23	3002.41	B	Professor	qo	-1	0	Uh , one is {pause} anything that , um , {vocalsound} anybody has to say about Saturday ?
+Bmr019.B.dialogueact1535	3008.74	3012.97	B	Professor	s^df	-1	0	I mean , u um , Mari was asking {disfmarker} was trying to come up with something like an agenda

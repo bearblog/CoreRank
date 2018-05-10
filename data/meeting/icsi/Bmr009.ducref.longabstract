@@ -1,0 +1,12 @@
+The Berkely Meeting Recorder group discussed efforts by speaker mn005 to measure energy levels in cases of speaker overlap in which the time window analyzed was 200 milliseconds or greater.
+Preliminary results were presented showing that log domain analyses did not reveal a significant difference in mean energy levels for windows of overlapping versus non-overlapping speech.
+In contrast , raw energy analyses were successful in showing the two groups to be distinct.
+Participants discussed alternate strategies for examining energy and the importance of categorizing types of speaker overlap.
+Participants also reviewed the latest iteration of speaker forms , and discussed recent changes to the Transcriber tool.
+Continuing efforts by speaker mn005 to measure energy levels in cases of speaker overlap will not include additional log energy analyses , but rather an analysis of raw energy for normalized speaker dataacross windows of varying duration , followed by an examination of pitch- and harmonicity-related features.
+Speakers fe008 and fe016 discussed plans to categorize and produce a taxonomy of types of speaker overlap.
+Time marks for transcribed or force-aligned data are needed to analyze types of speaker overlap.
+With respect to speaker forms , the group discussed problems associated with categorizing regional dialects of American English.
+The new version of Transcriber does not feature the waveform , as re-drawing of this window is too slow using Snack.
+The latest iteration of speaker forms was presented.
+New mutitrans patches were added to the Transcriber tool to enable it to run with fewer delays , still allowing users to open multiple panes and listen to different channels of the mixed signal.

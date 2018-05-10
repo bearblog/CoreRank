@@ -1,0 +1,45 @@
+7	Bmr005.s.12	A cursory review of a subset of Meeting Recorder data is in progress to determine whether it is suitable material for a collaboration with another ICSI researcher interested in analyzing inference structures.
+Bmr005.E.dialogueact59	501.93	506.56	E	Professor	s	+1	2	but anyway some {disfmarker} some potential collaboration there about {disfmarker} about the {disfmarker} about the {disfmarker} working with these data .
+Bmr005.B.dialogueact75	532.98	542.069	B	Postdoc	fh|s	+1	2	Um , so , uh , he was interested in the question of {disfmarker} you know , relating to his {disfmarker} to the research he presented recently , um of inference structures ,
+Bmr005.B.dialogueact86	583.665	590.225	B	Postdoc	fh|s	+1	1	So , I looked through the transcript that we have so far , {comment} and um , fou identified a couple different types of things of that type
+Bmr005.E.dialogueact104	675.578	680.188	E	Professor	fh|s	+1	2	so um we were trying to think of ways that his interests could interact with ours
+Bmr005.E.dialogueact106	680.388	700.788	E	Professor	fh|s^cs.x	+1	1	and um uh I thought that if we were going to project into the future when we had a lot of data , uh and um such things might be useful for that in or before we invested too much uh effort into that he should uh , with Jane 's help , look into some of the data that we 're {disfmarker} already have
+Bmr005.B.dialogueact131	755.051	756.921	B	Postdoc	s^e	+1	2	He 's interested in these {disfmarker} these knowledge structures ,
+Bmr005.B.dialogueact133	756.921	759.161	B	Postdoc	s^e	+1	2	inferences that you draw {pause} i from {disfmarker}
+4	Bmr005.s.13	Efforts by speaker mn005 are in progress to detect overlapping speech.
+Bmr005.E.dialogueact41	419.187	438.83	E	Professor	fh|s	+1	2	Um , so um the one th one thing I know that we have on that is uh we had talked a {disfmarker} a couple weeks before um uh about the uh {disfmarker} the stuff you were doing with {disfmarker} with uh um uh l l attempting to locate events ,
+Bmr005.D.dialogueact325	1137.32	1144.35	D	PhD	s^df	+1	2	to {disfmarker} to find a {disfmarker} a good solution to detect eh , the overlapping zone in eh speech recorded .
+Bmr005.D.dialogueact573	1842.88	1847.66	D	PhD	s^cs	+1	1	But eh my idea is to {disfmarker} to process only {pause} nnn , this eh {disfmarker} nnn , this kind of s of eh speech .
+Bmr005.E.dialogueact631	2001.72	2011.09	E	Professor	s	+1	2	but you have {disfmarker} you have time uh , uh marked {disfmarker} twelve minute {disfmarker} the {disfmarker} the {disfmarker} the um overlaps in twelve minutes of it .
+5	Bmr005.s.14	For a single transcribed meeting , speaker mn005 reported approximately 300 cases of overlap.
+Bmr005.D.dialogueact364	1286.61	1290.84	D	PhD	h|s	+1	1	Eh almost eh three hundred eh in one session
+Bmr005.D.dialogueact328	1163.43	1169.86	D	PhD	fh|s	+1	1	And eh so eh I was eh {disfmarker} I am transcribing the {disfmarker} the first session
+Bmr005.D.dialogueact625	1987.97	1995.06	D	PhD	s^ng	+1	1	I {disfmarker} I consider all the {disfmarker} all the session because eh I {disfmarker} I count the nnn {disfmarker} the nnn {disfmarker} the overlappings marked by {disfmarker} by Jane ,
+Bmr005.E.dialogueact630	1999.94	2001.72	E	Professor	s^bu	+1	1	So it 's three hundred in forty - five minutes ,
+Bmr005.E.dialogueact859	2477.22	2486.23	E	Professor	s^cs	+1	2	but I mean we {disfmarker} {comment} if uh {disfmarker} if he could speed up what he was doing by just getting the speaker overlaps so that we had it , say , for forty - five minutes , then at least we 'd have three hundred examples of it .
+4	Bmr005.s.15	Future work will involve manually deriving time marks from sections of overlapping speech for the same meeting , and then experimenting with different measures , e.g . energy increase , to determine a set of acoustically salient features for identifying speaker overlap.
+Bmr005.D.dialogueact706	2146.01	2148.34	D	PhD	s.%-	+1	2	On - only to mark {disfmarker} only to mark overlapping zone , but {disfmarker}
+Bmr005.E.dialogueact746	2230.03	2236.27	E	Professor	s^bs	+1	1	So the idea was that what he was going to be doing was experimenting with different measures
+Bmr005.E.dialogueact747	2236.62	2242.12	E	Professor	s^e.%--	+1	1	such as the increase in energy , such as the energy in the LPC residuals , such as {disfmarker}
+Bmr005.E.dialogueact757	2266.56	2271.61	E	Professor	s	+1	1	And so the i the idea of the manual marking was to say " OK this , i you know , it 's {disfmarker} it 's really here " .
+5	Bmr005.s.16	Approximately 12-13 hours of Meeting Recorder data have been collected , roughly 45 minutes of which have been transcribed.
+Bmr005.E.dialogueact945	2664.14	2670.03	E	Professor	fg|s	+1	1	Right so there 's this {disfmarker} this {disfmarker} There 's this forty - five minute piece that Jane transcribed .
+Bmr005.E.dialogueact966	2705.55	2707.68	E	Professor	s	+1	1	We 're saying about {pause} twelve hours .
+Bmr005.G.dialogueact967	2706.04	2708.32	G	Grad	s	+1	1	About twelve {pause} by now . Twelve or thirteen .
+Bmr005.E.dialogueact1162	3368.01	3371.98	E	Professor	s	+1	1	We have {disfmarker} we have an hour uh that {disfmarker} that is transcribed ,
+Bmr005.E.dialogueact1163	3371.98	3375.69	E	Professor	s	+1	1	we have {disfmarker} we have twelve hours that 's recorded but not transcribed ,
+4	Bmr005.s.17	Additional meetings by other ICSI research groups will be recorded.
+Bmr005.E.dialogueact975	2717.19	2722.73	E	Professor	s^rt	+1	2	but there 's at least one meeting recorded of uh the uh uh natural language guys .
+Bmr005.E.dialogueact984	2736.85	2738.11	E	Professor	s	+1	2	and we 're recording those ,
+Bmr005.E.dialogueact983	2729.43	2736.5	E	Professor	fh|s^rt	+1	2	uh , we 've started having a morning meeting , today uh i starting a w a week or two ago , on the uh front - end issues ,
+Bmr005.E.dialogueact985	2738.75	2744.29	E	Professor	fh|s	+1	2	uh there 's a network services and applications group here who 's agreed to have their meetings recorded ,
+2	Bmr005.s.18	A suggestion was made that multi-channel data also be collected in cooperation with local media broadcasters , and that such events might be recorded live from ICSI.
+Bmr005.E.dialogueact1210	3491.9	3509.47	E	Professor	s	+1	1	Yeah . So {disfmarker} Yeah . So I {disfmarker} I {disfmarker} uh , I {disfmarker} I 'd mentioned to Adam , and {disfmarker} that was another thing I was gonna talk {disfmarker} uh , mention to them before {disfmarker} {comment} that uh there 's uh {disfmarker} It {disfmarker} it oc it occurred to me that we might be able to get some additional data by talking to uh acquaintances in local broadcast media .
+Bmr005.E.dialogueact1227	3571.79	3584.21	E	Professor	s	+1	1	the other thing that occurred to me after we had that discussion , in fact , is that it 's even possible , since of course , many radio shows are not live , {comment} uh that we could invite them to have like some of their {disfmarker} {comment} record some of their shows here .
+2	Bmr005.s.19	The group aims to collect over 100 hours of Meeting Recorder data in total.
+Bmr005.E.dialogueact1189	3448.55	3454.91	E	Professor	s	+1	1	So , I th I think that if we are able to keep that up for a few months , we are gonna have more like a hundred hours .
+Bmr005.E.dialogueact1248	3637.82	3644.11	E	Professor	s	+1	1	But yeah I think that it 's not unreasonable to aim at getting , you know , significantly in excess of a hundred hours .
+1	Bmr005.s.20	Speaker consent forms are being revised.
+Bmr005.B.dialogueact1151	3329.52	3333.55	B	Postdoc	s	+1	1	The a apparently {disfmarker} I mean , we 're gonna do a revised form , of course .
+1	Bmr005.s.21	It was suggested that subjects should sign a new consent form after 10 recording sessions.
+Bmr005.B.dialogueact1156	3346.79	3351.3	B	Postdoc	s	+1	1	So I think from a s practical standpoint , maybe we could have them do it once every ten meetings , or something .

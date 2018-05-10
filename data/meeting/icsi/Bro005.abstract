@@ -1,0 +1,59 @@
+5	Bro005.s.1	The main topic for discussion by the Berkeley Meeting Recorder group was progress on the experiments run as part of the groups main project , a speech recogniser for the cellular industry.
+Bro005.D.dialogueact8	29.643	33.683	D	Professor	z	+1	2	so , uh , you 've got some , uh , Xerox things to pass out ?
+Bro005.A.dialogueact38	88.513	93.9	A	PhD	fg|s	+1	2	OK , s so there is kind of summary of what has been done {disfmarker}
+Bro005.A.dialogueact42	96.09	98.83	A	PhD	s^rt	+1	3	Summary of experiments since , well , since last week
+Bro005.A.dialogueact43	98.83	102.387	A	PhD	s^rt	+1	3	and also since the {disfmarker} we 've started to run {disfmarker} work on this .
+Bro005.A.dialogueact44	103.277	115.416	A	PhD	fh|s	+1	3	Um . {pause} So since last week we 've started to fill the column with um {vocalsound} uh features w with nets trained on PLP with on - line normalization
+33	Bro005.s.2	This included reporting the results , and making conclusions to shape future work.
+Bro005.D.dialogueact8	29.643	33.683	D	Professor	z	+1	2	so , uh , you 've got some , uh , Xerox things to pass out ?
+Bro005.A.dialogueact14	42.097	43.207	A	PhD	z	+1	2	Yeah , I 'm sorry for the table ,
+Bro005.A.dialogueact15	43.207	47.707	A	PhD	z	+1	2	but as it grows in size , uh , it .
+Bro005.D.dialogueact16	48.421	50.801	D	Professor	z	+1	2	Uh , so for th the last column we use our imagination .
+Bro005.A.dialogueact38	88.513	93.9	A	PhD	fg|s	+1	2	OK , s so there is kind of summary of what has been done {disfmarker}
+Bro005.A.dialogueact42	96.09	98.83	A	PhD	s^rt	+1	3	Summary of experiments since , well , since last week
+Bro005.A.dialogueact43	98.83	102.387	A	PhD	s^rt	+1	3	and also since the {disfmarker} we 've started to run {disfmarker} work on this .
+Bro005.A.dialogueact44	103.277	115.416	A	PhD	fh|s	+1	3	Um . {pause} So since last week we 've started to fill the column with um {vocalsound} uh features w with nets trained on PLP with on - line normalization
+Bro005.A.dialogueact45	115.416	117.156	A	PhD	s	+1	2	but with delta also ,
+Bro005.A.dialogueact57	145.806	154.556	A	PhD	s^rt	+1	3	uh {pause} when we use the large training set using French , Spanish , and English , you have one hundred and six without delta
+Bro005.A.dialogueact58	154.556	156.056	A	PhD	s	+1	3	and eighty - nine with the delta .
+Bro005.D.dialogueact59	156.701	163.801	D	Professor	s^bu	+1	3	a And again all of these numbers are with a hundred percent being , uh , the baseline performance ,
+Bro005.A.dialogueact81	213.556	216.956	A	PhD	s	+1	3	and training with other languages is a little bit worse .
+Bro005.A.dialogueact79	210.858	212.658	A	PhD	s	+1	3	we have a ninety - one number ,
+Bro005.A.dialogueact78	209.758	210.858	A	PhD	s^rt	+1	3	so , it 's multi - English ,
+Bro005.A.dialogueact88	226.19	231.05	A	PhD	s	+1	2	And , yeah , and here the gap is still more important between using delta and not using delta .
+Bro005.A.dialogueact90	231.79	236.58	A	PhD	s^rt	+1	3	If y if I take the training s the large training set , it 's {disfmarker} we have one hundred and seventy - two ,
+Bro005.A.dialogueact92	237.18	239.29	A	PhD	s	+1	3	and one hundred and four when we use delta .
+Bro005.A.dialogueact94	240.304	243.374	A	PhD	fh.x|s^rt	+1	2	Uh . {pause} Even if the contexts used is quite the same ,
+Bro005.A.dialogueact110	284.06	287.72	A	PhD	s	+1	2	except for the multi - English , which is always one of the best .
+Bro005.A.dialogueact112	294.894	313.501	A	PhD	s^rt.x	+1	2	then we started to work on a large dat database containing , uh , sentences from the French , from the Spanish , from the TIMIT , from SPINE , uh from {comment} uh English digits , and from Italian digits .
+Bro005.A.dialogueact117	321.484	326.702	A	PhD	s	+1	2	and {pause} uh , actually we did this before knowing the result of all the data ,
+Bro005.A.dialogueact118	327.535	333.335	A	PhD	s	+1	2	uh , so we have to to redo the uh {disfmarker} the experiment training the net with , uh PLP , but with delta .
+Bro005.B.dialogueact157	468.954	477.314	B	PhD	s^rt	+1	3	And first in the experiment - one I {disfmarker} I do {disfmarker} I {disfmarker} I use different MLP ,
+Bro005.A.dialogueact606	1559.41	1561.32	A	PhD	fg|s^2	+1	2	Yeah , and test across everything .
+Bro005.D.dialogueact605	1553.01	1558.27	D	Professor	s^cs^tc	+1	2	So I guess the other thing is to take {disfmarker} you know {disfmarker} if one were to take , uh , you know , a couple of the most successful of these ,
+Bro005.D.dialogueact608	1561.39	1562.92	D	Professor	s^aa|s	+1	2	Yeah , try all these different tests .
+Bro005.A.dialogueact651	1714.38	1715.86	A	PhD	s	+1	2	we still have to work on Finnish ,
+Bro005.A.dialogueact652	1717.11	1723.84	A	PhD	s	+1	2	um , basically , to make a decision on which MLP can be the best across the different languages .
+Bro005.A.dialogueact653	1723.84	1730.32	A	PhD	s	+1	2	For the moment it 's the TIMIT network , and perhaps the network trained on everything .
+Bro005.A.dialogueact658	1744.01	1750.24	A	PhD	s	+1	1	Uh , well , the next part of the document is , well , basically , a kind of summary of what {disfmarker} everything that has been done .
+Bro005.A.dialogueact659	1750.24	1753.9	A	PhD	s.%--	+1	1	So . We have seventy - nine M L Ps trained on
+Bro005.A.dialogueact661	1759.71	1762.45	A	PhD	s	+1	1	ten {disfmarker} on ten different databases .
+18	Bro005.s.3	Also discussed were the details of the continued collaboration with project partner OGI.
+Bro005.A.dialogueact621	1592.15	1606.02	A	PhD	fh	+1	2	Um , discussion with Hynek , Sunil and Pratibha for trying to plug in their our {disfmarker} our networks with their {disfmarker} within their block diagram ,
+Bro005.A.dialogueact622	1607.67	1612.89	A	PhD	s	+1	2	uh , where to plug in the {disfmarker} the network , uh , after the {disfmarker} the feature ,
+Bro005.A.dialogueact623	1612.89	1617.66	A	PhD	s	+1	2	before as um a as a plugin or as a anoth another path ,
+Bro005.A.dialogueact626	1621.11	1623.59	A	PhD	s.%--	+1	2	actually Hynek would like to see ,
+Bro005.A.dialogueact627	1625.13	1637.11	A	PhD	s	+1	2	perhaps if you remember the block diagram there is , uh , temporal LDA followed b by a spectral LDA for each uh critical band .
+Bro005.A.dialogueact628	1638.58	1642.05	A	PhD	s	+1	2	And he would like to replace these by a network
+Bro005.A.dialogueact629	1642.53	1646.63	A	PhD	s	+1	2	which would , uh , make the system look like a TRAP .
+Bro005.A.dialogueact1001	2611.07	2614.05	A	PhD	s^rt	+1	2	Um , there are still open questions there ,
+Bro005.A.dialogueact999	2599.63	2608.05	A	PhD	s	+1	2	The future work is , {pause} well , try to connect to the {disfmarker} to make {disfmarker} to plug in the system to the OGI
+Bro005.A.dialogueact1003	2614.26	2616.26	A	PhD	s	+1	2	where to put the MLP basically .
+Bro005.D.dialogueact1065	2764.54	2767.62	D	Professor	fg|s^bu	+1	2	So . Uh , we {disfmarker} we wanna get their path running here ,
+Bro005.D.dialogueact1067	2767.89	2769.45	D	Professor	s	+1	2	If so , we can add this other stuff .
+Bro005.D.dialogueact1069	2771.1	2772.41	D	Professor	s	+1	2	as an additional path
+Bro005.A.dialogueact1076	2780.0	2786.59	A	PhD	s^aa|s	+1	2	Yeah , the way we want to do it perhaps is to {disfmarker} just to get the VAD labels and the final features .
+Bro005.A.dialogueact1078	2788.0	2793.04	A	PhD	s	+1	2	So they will send us the {disfmarker} Well , provide us with the feature files ,
+Bro005.D.dialogueact1087	2811.17	2817.81	D	Professor	s	+1	2	So we {disfmarker} So . First thing of course we 'd wanna do there is to make sure that when we get those labels of final features is that we get the same results as them .
+Bro005.D.dialogueact1088	2818.97	2820.21	D	Professor	s	+1	2	Without putting in a second path .
+Bro005.D.dialogueact1092	2825.96	2834.51	D	Professor	s^co	+1	2	Yeah just th w i i Just to make sure that we {pause} have {disfmarker} we understand properly what things are , our very first thing to do is to {disfmarker} is to double check that we get the exact same results as them on HTK .

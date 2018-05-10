@@ -1,0 +1,150 @@
+6	TS3006d.dharshi.s.1	The project manager decided to start by looking at costs instead of the prototype presentation because the original design was too expensive and had to be changed.
+TS3006d.A.dialog-act.dharshi.1	2.42	7.24	A	PM	off	+1	1	Okay . Uh first of all I'll start with the costs ,
+TS3006d.A.dialog-act.dharshi.2	7.24	11.02	A	PM	inf	+1	1	because that's going to influence our design .
+TS3006d.A.dialog-act.dharshi.5	18.6	20.45	A	PM	inf	+1	2	Because we have a problem .
+TS3006d.D.dialog-act.dharshi.10	100.01	102.16	D	ME	el.inf	+1	2	It has to be twelve and a half .
+TS3006d.A.dialog-act.dharshi.25	105.99	108.8	A	PM	sug	+1	2	You're going to redesign something .
+TS3006d.A.dialog-act.dharshi.26	108.8	113.87	A	PM	inf	+1	2	Okay , so we're at twenty five .
+9	TS3006d.dharshi.s.2	The group discussed which features should be dropped.
+TS3006d.A.dialog-act.dharshi.29	115.58	119.23	A	PM	el.sug	+1	1	Do we keep the shape doubly curved or g do we go for single curved ?
+TS3006d.C.dialog-act.dharshi.7	120.5	123.79	C	ID	sug	+1	1	Well I guess i we'll have to go for single curve then .
+TS3006d.A.dialog-act.dharshi.33	145.5	156.43	A	PM	sug	+1	2	Uh another option I saw was to drop the buttons one through nine , so you can't directly access a channel , but instead use only the up and down arrows .
+TS3006d.B.dialog-act.dharshi.14	163.6	166.42	B	UI	ass	+1	2	But we don't have any basic options any more .
+TS3006d.A.dialog-act.dharshi.38	172.5	173.85	A	PM	ass	+1	1	They don't need special colours .
+TS3006d.D.dialog-act.dharshi.122	620.59	622.02	D	ME	sug	+1	2	{vocalsound} So let's go for the plastic .
+TS3006d.D.dialog-act.dharshi.128	667.31	670.62	D	ME	inf	+1	2	So the only option is an hand dynamo .
+TS3006d.B.dialog-act.dharshi.71	807.0	812.02	B	UI	sug	+1	1	drop the the special colour , and uh do the special colour for the buttons .
+TS3006d.D.dialog-act.dharshi.162	876.36	879.04	D	ME	ass	+1	1	Yeah it has to be curved and has to have that colour .
+4	TS3006d.dharshi.s.3	The group decided that the LCD screen was integral to their design , but dropped the speech recognition.
+TS3006d.C.dialog-act.dharshi.16	185.33	190.87	C	ID	ass	+1	2	{disfmarker} I mean we're gonna use the L_C_D_ screen anyway . So we'll just have to use it for everything .
+TS3006d.B.dialog-act.dharshi.26	316.99	319.105	B	UI	sug	+1	2	Could drop the speech recognition . {vocalsound}
+TS3006d.D.dialog-act.dharshi.53	357.98	363.37	D	ME	inf	+1	2	There are more people who like speech recognition than an L_C_D_ screen .
+TS3006d.D.dialog-act.dharshi.60	385.4	386.97	D	ME	ass	+1	2	Yeah . Let's drop the speech .
+9	TS3006d.dharshi.s.4	They decided to drop all the buttons in favour of an integrated scroll push-button , and to use a hand dynamo instead of kinetic energy as a power source.
+TS3006d.C.dialog-act.dharshi.15	180.52	185.33	C	ID	inf	+1	1	That was exactly my point . Like let's drop all the buttons , and just make one
+TS3006d.C.dialog-act.dharshi.16	185.33	190.87	C	ID	ass	+1	2	{disfmarker} I mean we're gonna use the L_C_D_ screen anyway . So we'll just have to use it for everything .
+TS3006d.D.dialog-act.dharshi.25	222.39	224.89	D	ME	ass	+1	2	Integrated scroll-wheel push-button , yeah .
+TS3006d.C.dialog-act.dharshi.21	211.32	213.97	C	ID	sug	+1	2	we need one integrated button for everything then .
+TS3006d.B.dialog-act.dharshi.23	286.48	294.86	B	UI	inf	+1	2	But but th the cost of one integrated button is far more than a few extra push-buttons .
+TS3006d.A.dialog-act.dharshi.85	395.0	403.3	A	PM	sug	+1	1	if you lose the the Back , the Okay button {disfmarker} Uh v let's say we only have the four arrows , and the Menu button .
+TS3006d.B.dialog-act.dharshi.36	427.51	431.93	B	UI	sug	+1	2	With with one uh integrated button we can uh do the whole menu thing .
+TS3006d.A.dialog-act.dharshi.186	900.9	904.476	A	PM	ass	+1	1	Yeah but it's just a scroll-wheel which you can push down . So {disfmarker}
+TS3006d.D.dialog-act.dharshi.175	905.04	909.5	D	ME	sug	+1	1	Okay . Make it a special colour and then it look fancy .
+47	TS3006d.dharshi.s.5	The marketing expert led the prototype evaluation , based on the new design.
+TS3006d.D.dialog-act.dharshi.195	1023.62	1026.19	D	ME	inf	+1	1	We all have to keep in mind what has changed now .
+TS3006d.D.dialog-act.dharshi.196	1026.19	1034.22	D	ME	inf	+1	1	So what we have left on the {disfmarker} Because evaluation is based on the initial uh user requirements .
+TS3006d.D.dialog-act.dharshi.200	1041.08	1046.4	D	ME	inf	+1	1	Well we evaluate uh the design with a seven point scale , as following .
+TS3006d.D.dialog-act.dharshi.205	1058.0	1065.29	D	ME	inf	+1	1	Well the criteria are based on the user requirements , uh the trends from the marketing research , and the marketing strategy of the company itself .
+TS3006d.D.dialog-act.dharshi.211	1081.22	1085.38	D	ME	inf	+1	1	And we all have to uh agree on a certain level .
+TS3006d.D.dialog-act.dharshi.215	1091.55	1097.34	D	ME	el.ass	+1	1	Well the first point is the remote control matches the operating behaviour of the young user .
+TS3006d.C.dialog-act.dharshi.117	1105.621	1107.99	C	ID	ass	+1	1	{vocalsound} I think it does .
+TS3006d.C.dialog-act.dharshi.118	1107.99	1114.39	C	ID	inf	+1	1	Because the operating {gap} behaviour of the young user was also defined in colour and shape and the use of L_C_D_ ,
+TS3006d.D.dialog-act.dharshi.239	1170.81	1175.34	D	ME	ass	+1	1	Okay well I say still two , but it has to be three then .
+TS3006d.D.dialog-act.dharshi.251	1206.02	1209.24	D	ME	el.ass	+1	1	The remote control has irrelevant or less used functions .
+TS3006d.D.dialog-act.dharshi.253	1211.609	1220.8	D	ME	ass	+1	1	{vocalsound} Yeah . Well , yeah . So it it's a very true point . I mean it hides all those function .
+TS3006d.D.dialog-act.dharshi.262	1235.32	1238.09	D	ME	el.ass	+1	1	It shows the relevant and most used functions .
+TS3006d.C.dialog-act.dharshi.137	1291.47	1295.81	C	ID	sug	+1	1	It automatically has the the programme and the volume function ,
+TS3006d.C.dialog-act.dharshi.152	1363.55	1365.06	C	ID	ass	+1	1	Okay five .
+TS3006d.D.dialog-act.dharshi.307	1381.24	1388.49	D	ME	el.ass	+1	1	Uh the the remote control makes use of technolog technological innovation like L_C_D_ screen and speech recognition .
+TS3006d.A.dialog-act.dharshi.264	1394.49	1395.48	A	PM	ass	+1	1	Yeah , I say two .
+TS3006d.D.dialog-act.dharshi.317	1420.29	1426.57	D	ME	inf	+1	1	Okay , it has a fancy look and feel by using fruit and vegetable prints , primary colours and sponge-like material .
+TS3006d.C.dialog-act.dharshi.164	1437.51	1443.89	C	ID	ass	+1	1	So we still uh we still have the primary colours . But only on the on the outside , not on the button .
+TS3006d.C.dialog-act.dharshi.168	1449.51	1453.57	C	ID	el.inf	+1	1	Yeah still we we dropped also on the the double uh curve .
+TS3006d.D.dialog-act.dharshi.318	1426.57	1433.8	D	ME	ass	+1	1	{vocalsound} It should have been two questions . {vocalsound} I realise now , because {vocalsound} sponge-like material is dropped .
+TS3006d.D.dialog-act.dharshi.324	1463.05	1465.57	D	ME	el.ass	+1	1	. So maybe in the middle or something .
+TS3006d.C.dialog-act.dharshi.173	1471.75	1474.49	C	ID	ass	+1	1	Actually we d we didn't do so well on this one .
+TS3006d.C.dialog-act.dharshi.176	1482.71	1487.55	C	ID	ass	+1	1	I mean the sponge-like and the three D_ shape , that would give it something young and fresh .
+TS3006d.D.dialog-act.dharshi.334	1499.41	1502.604	D	ME	el.ass	+1	1	Uh the remote control displays the corporate logo . {vocalsound}
+TS3006d.D.dialog-act.dharshi.338	1524.98	1530.29	D	ME	ass	+1	1	But there's uh enough space for the corporate logo . I mean , {vocalsound} if there's only one thing .
+TS3006d.C.dialog-act.dharshi.184	1537.15	1541.94	C	ID	ass	+1	1	And even the shape we have now uh simulates kind of an R_ and the reversed R_ ,
+TS3006d.D.dialog-act.dharshi.341	1544.62	1547.54	D	ME	el.ass	+1	1	{vocalsound} The remote control is easy to use .
+TS3006d.D.dialog-act.dharshi.343	1550.12	1555.93	D	ME	ass	+1	1	Skill , uh I would say six , or something . I don't think it's easy to use , or not so .
+TS3006d.C.dialog-act.dharshi.188	1554.935	1560.82	C	ID	ass	+1	1	{vocalsound} The only e the only thing easy about it is that you don't have to move your fingers . 'Cause it has only one button .
+TS3006d.D.dialog-act.dharshi.349	1569.13	1571.67	D	ME	ass	+1	1	Yeah . Well I I would say a five or a six .
+TS3006d.C.dialog-act.dharshi.191	1575.04	1577.27	C	ID	ass	+1	1	It's really not easy to use .
+TS3006d.D.dialog-act.dharshi.354	1594.04	1596.14	D	ME	el.ass	+1	1	uh the remote control is durable .
+TS3006d.C.dialog-act.dharshi.194	1597.62	1602.1	C	ID	ass	+1	1	Definitely in casing , 'cause we have a hard plastic
+TS3006d.C.dialog-act.dharshi.196	1603.3	1607.33	C	ID	ass	+1	1	Yeah because the the batteries , those thingies last forever .
+TS3006d.D.dialog-act.dharshi.361	1612.5	1617.3	D	ME	ass	+1	1	Yeah . If you don't drop it too much , it's uh should last pretty long .
+TS3006d.D.dialog-act.dharshi.363	1619.03	1624.15	D	ME	ass	+1	1	But uh I think rubber compared is better . So I think a two is more appropriate
+TS3006d.D.dialog-act.dharshi.366	1632.93	1634.57	D	ME	ass	+1	1	Okay I will go {disfmarker} go for two .
+TS3006d.D.dialog-act.dharshi.368	1638.01	1642.51	D	ME	el.ass	+1	1	The remote control's a good example for company's motto , we put the fashion in electronics .
+TS3006d.C.dialog-act.dharshi.204	1655.23	1660.3	C	ID	ass	+1	1	Because we kind of tried to but we kind of failed with the budget that we have .
+TS3006d.D.dialog-act.dharshi.377	1670.24	1674.728	D	ME	ass	+1	1	But it all has to do with the budget , because it's it's not the bad idea we had , so {disfmarker}
+TS3006d.B.dialog-act.dharshi.153	1675.92	1677.26	B	UI	ass	+1	1	Yeah , four is okay .
+TS3006d.D.dialog-act.dharshi.380	1681.47	1686.44	D	ME	inf	+1	1	So if I understood it right , we have to count these numbers .
+TS3006d.D.dialog-act.dharshi.388	1702.36	1707.43	D	ME	inf	+1	1	Yeah just add them and then uh divide them .
+TS3006d.D.dialog-act.dharshi.392	1712.7	1717.33	D	ME	inf	+1	1	I all made it possible uh for a positive questions , so we can count it .
+TS3006d.C.dialog-act.dharshi.218	1764.63	1765.94	C	ID	inf	+1	1	And then you can count them together .
+TS3006d.D.dialog-act.dharshi.424	1808.29	1812.2	D	ME	inf	+1	1	That's uh three uh {disfmarker} {vocalsound} Or le less than a three .
+TS3006d.D.dialog-act.dharshi.428	1820.14	1825.08	D	ME	inf	+1	2	makes three point one one one one one one one .
+2	TS3006d.dharshi.s.6	The group were satisfied with the overall score of 3.1.
+TS3006d.D.dialog-act.dharshi.428	1820.14	1825.08	D	ME	inf	+1	2	makes three point one one one one one one one .
+TS3006d.A.dialog-act.dharshi.332	1824.38	1825.87	A	PM	ass	+1	1	So we're better than average .
+23	TS3006d.dharshi.s.7	The industrial designer and user interface designer worked on a drawing of the new design , while the project manager and marketing manager worked on the final report.
+TS3006d.D.dialog-act.dharshi.449	1927.42	1932.567	D	ME	sug	+1	1	Yeah we we have to maybe if we have to redesign it on this {disfmarker} {vocalsound}
+TS3006d.C.dialog-act.dharshi.256	1938.93	1942.45	C	ID	el.ass	+1	1	Okay uh we're still gonna go for the fancy colours ?
+TS3006d.B.dialog-act.dharshi.178	1944.5	1950.46	B	UI	sug	+1	1	Yeah we we can just uh use this one . And then uh over-paint it with uh uh the green uh {disfmarker}
+TS3006d.A.dialog-act.dharshi.348	1948.49	1952.05	A	PM	inf	+1	1	The the button has a special colour , the frame has a special colour .
+TS3006d.A.dialog-act.dharshi.350	1957.31	1962.66	A	PM	sug	+1	1	Oh and you might want to add a uh infrared LED .
+TS3006d.A.dialog-act.dharshi.353	1972.8	1982.26	A	PM	off	+1	1	Well I have to um um make an uh report of every decision we made so far .
+TS3006d.A.dialog-act.dharshi.354	1982.26	1987.41	A	PM	inf	+1	1	And I try to get chip just before uh I uh receive the Excel sheet .
+TS3006d.A.dialog-act.dharshi.357	1991.11	1992.15	A	PM	sug	+1	1	but maybe you can help me .
+TS3006d.B.dialog-act.dharshi.185	1994.98	1997.94	B	UI	el.inf	+1	1	Okay , but how do we make the the scroll uh button ?
+TS3006d.D.dialog-act.dharshi.464	2006.03	2012.68	D	ME	oth	+1	1	The the target group has a weak spot for fruit and vegetables , like primary colours , spongy shape .
+TS3006d.B.dialog-act.dharshi.192	2027.01	2029.34	B	UI	el.sug	+1	1	Yeah , is it's horizontal or vertical ?
+TS3006d.A.dialog-act.dharshi.364	2036.11	2040.93	A	PM	off	+1	1	Well I think I have to make a p an issue called finance .
+TS3006d.B.dialog-act.dharshi.199	2052.67	2056.03	B	UI	ass	+1	1	It's not very fashionable anymore . But uh it's okay .
+TS3006d.B.dialog-act.dharshi.204	2075.4	2082.508	B	UI	sug	+1	1	Maybe that's a s a special colour for it . So we can make it uh special ? {vocalsound}
+TS3006d.C.dialog-act.dharshi.284	2092.47	2094.89	C	ID	el.inf	+1	1	{disfmarker} uh can we do a print ?
+TS3006d.B.dialog-act.dharshi.209	2095.63	2096.44	B	UI	inf	+1	1	I'm not sure .
+TS3006d.C.dialog-act.dharshi.289	2113.59	2116.1	C	ID	sug	+1	1	Shall we just give it some dots to make it look pretty ?
+TS3006d.D.dialog-act.dharshi.488	2128.98	2131.35	D	ME	el.inf	+1	1	We have the original balance sheet , or {disfmarker}
+TS3006d.C.dialog-act.dharshi.305	2219.01	2221.79	C	ID	ass	+1	1	Okay , it's not the prettiest , I know .
+TS3006d.D.dialog-act.dharshi.503	2235.51	2238.6	D	ME	sug	+1	1	Maybe maybe it c it can say that . The Real Remote .
+TS3006d.C.dialog-act.dharshi.318	2284.14	2286.25	C	ID	el.ass	+1	1	Shall we do the logo in black or not ?
+TS3006d.D.dialog-act.dharshi.529	2416.57	2418.49	D	ME	inf	+1	1	Well it's it's single single curved .
+TS3006d.D.dialog-act.dharshi.531	2426.55	2430.41	D	ME	ass	+1	1	But it's it's better to have in the front , this kind of shape , because it looks nice .
+25	TS3006d.dharshi.s.8	The project manager led an evaluation of the project process.
+TS3006d.A.dialog-act.dharshi.436	2640.83	2643.82	A	PM	inf	+1	1	Oh yeah , we have to do the project uh evaluation .
+TS3006d.A.dialog-act.dharshi.440	2652.62	2656.27	A	PM	el.ass	+1	1	So how were {disfmarker} did the project process uh go ?
+TS3006d.A.dialog-act.dharshi.441	2656.27	2659.94	A	PM	el.ass	+1	1	Did you , were you all pleased with the process as it was ?
+TS3006d.C.dialog-act.dharshi.367	2666.89	2671.76	C	ID	ass	+1	1	Yeah well at first I was really stressed . Because it went a bit fast .
+TS3006d.C.dialog-act.dharshi.368	2671.76	2678.98	C	ID	ass	+1	1	But then as I knew the tempo that I had to be on , the second time I think I did a bit better .
+TS3006d.D.dialog-act.dharshi.580	2683.72	2691.26	D	ME	ass	+1	1	because at first you you make your individual contribution , and then come here , and you have no idea what the others have to make .
+TS3006d.D.dialog-act.dharshi.581	2691.26	2698.98	D	ME	ass	+1	1	And then finally you have some idea , okay this is gonna w this is what we gonna make together and okay I will arrange this and you will arrange that ,
+TS3006d.D.dialog-act.dharshi.582	2698.98	2705.712	D	ME	ass	+1	1	and you have a k a kind of idea what you can expect on the next half hour when you have to work on your own . So {disfmarker}
+TS3006d.D.dialog-act.dharshi.583	2706.69	2711.03	D	ME	ass	+1	2	The process , I mean , the interaction between us became better and better I guess .
+TS3006d.B.dialog-act.dharshi.288	2710.44	2712.59	B	UI	ass	+1	2	Yeah . Especially after the first meeting .
+TS3006d.C.dialog-act.dharshi.374	2725.39	2729.24	C	ID	ass	+1	1	Well you did become more assertive the the second time round , so that {disfmarker}
+TS3006d.A.dialog-act.dharshi.452	2735.35	2739.16	A	PM	el.ass	+1	2	Um was there uh enough room for creativity ?
+TS3006d.B.dialog-act.dharshi.294	2741.11	2745.28	B	UI	ass	+1	2	but only the the financial parts uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.590	2753.31	2760.7	D	ME	ass	+1	2	Also not only the drawing and the the making of the thing itself , but also in explaining it to the other people , by means of uh
+TS3006d.D.dialog-act.dharshi.591	2761.7	2764.92	D	ME	ass	+1	2	the the board and uh PowerPoint and Word and stuff like that .
+TS3006d.A.dialog-act.dharshi.453	2764.48	2769.4	A	PM	el.ass	+1	2	So and the {disfmarker} uh about the board {gap} digital pen ?
+TS3006d.D.dialog-act.dharshi.593	2776.43	2779.17	D	ME	ass	+1	2	the digital pen is better than the SMARTboard .
+TS3006d.D.dialog-act.dharshi.594	2779.17	2781.23	D	ME	ass	+1	2	Because it it it just works better .
+TS3006d.D.dialog-act.dharshi.600	2797.74	2801.205	D	ME	ass	+1	2	But the screen is useful , in essence , but it doesn't work that well . {vocalsound}
+TS3006d.C.dialog-act.dharshi.383	2805.86	2814.17	C	ID	inf	+1	2	And uh as I said , uh I uh have no idea how PowerPoint works , so will take me half a day to be able to make a normal PowerPoint presentation .
+TS3006d.A.dialog-act.dharshi.461	2835.51	2840.42	A	PM	el.ass	+1	1	Okay , are are there {vocalsound} any new ideas about this ?
+TS3006d.D.dialog-act.dharshi.606	2843.01	2850.57	D	ME	ass	+1	1	It's use especially useful , I guess , to to evaluate designs and graph graphical stuff .
+TS3006d.B.dialog-act.dharshi.298	2856.84	2859.43	B	UI	ass	+1	2	I think the PowerPoint is is too limited .
+TS3006d.C.dialog-act.dharshi.391	2869.14	2876.0	C	ID	ass	+1	2	Yeah the the the problem with PowerPoint for me is that you have to i put in the pre-made chunks c as well .
+TS3006d.D.dialog-act.dharshi.611	2881.71	2888.108	D	ME	ass	+1	2	Yeah . But it it's useful to to show something to to an {disfmarker} a small audience , and then to {disfmarker}
+2	TS3006d.dharshi.s.9	The group thought that they worked well together , especially after the first meeting.
+TS3006d.D.dialog-act.dharshi.583	2706.69	2711.03	D	ME	ass	+1	2	The process , I mean , the interaction between us became better and better I guess .
+TS3006d.B.dialog-act.dharshi.288	2710.44	2712.59	B	UI	ass	+1	2	Yeah . Especially after the first meeting .
+3	TS3006d.dharshi.s.10	They were happy with the room for creativity , but thought they were limited by the budget.
+TS3006d.A.dialog-act.dharshi.452	2735.35	2739.16	A	PM	el.ass	+1	2	Um was there uh enough room for creativity ?
+TS3006d.B.dialog-act.dharshi.294	2741.11	2745.28	B	UI	ass	+1	2	but only the the financial parts uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.590	2753.31	2760.7	D	ME	ass	+1	2	Also not only the drawing and the the making of the thing itself , but also in explaining it to the other people , by means of uh
+9	TS3006d.dharshi.s.11	They preferred the digital pens to the SMARTboard .  They had mixed feelings about using PowerPoint.
+TS3006d.D.dialog-act.dharshi.591	2761.7	2764.92	D	ME	ass	+1	2	the the board and uh PowerPoint and Word and stuff like that .
+TS3006d.A.dialog-act.dharshi.453	2764.48	2769.4	A	PM	el.ass	+1	2	So and the {disfmarker} uh about the board {gap} digital pen ?
+TS3006d.D.dialog-act.dharshi.593	2776.43	2779.17	D	ME	ass	+1	2	the digital pen is better than the SMARTboard .
+TS3006d.D.dialog-act.dharshi.594	2779.17	2781.23	D	ME	ass	+1	2	Because it it it just works better .
+TS3006d.D.dialog-act.dharshi.600	2797.74	2801.205	D	ME	ass	+1	2	But the screen is useful , in essence , but it doesn't work that well . {vocalsound}
+TS3006d.C.dialog-act.dharshi.383	2805.86	2814.17	C	ID	inf	+1	2	And uh as I said , uh I uh have no idea how PowerPoint works , so will take me half a day to be able to make a normal PowerPoint presentation .
+TS3006d.B.dialog-act.dharshi.298	2856.84	2859.43	B	UI	ass	+1	2	I think the PowerPoint is is too limited .
+TS3006d.C.dialog-act.dharshi.391	2869.14	2876.0	C	ID	ass	+1	2	Yeah the the the problem with PowerPoint for me is that you have to i put in the pre-made chunks c as well .
+TS3006d.D.dialog-act.dharshi.611	2881.71	2888.108	D	ME	ass	+1	2	Yeah . But it it's useful to to show something to to an {disfmarker} a small audience , and then to {disfmarker}

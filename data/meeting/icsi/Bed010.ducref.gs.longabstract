@@ -1,0 +1,34 @@
+The translation of SmartKom to english is in its final stages.
+The synthesis module will be the last one to do , after the english syntax trees are completed.
+The system is still buggy and unstable , but it will soon be ready for a demonstration.
+This is the first of two working demos required for the project.
+Further than that , there are no restrictions on the focus of the research or its possible applications.
+For example , issues like spatial descriptions could be investigated.
+The variety of linguistic conventions seem to develop around an ego/allo-centric and a proximal/distal paradigm.
+The latter is also reflected in neuro-physiological data.
+From an engineering perspective , the belief-net for the AVE task should be completed within a few weeks.
+The majority of the nodes are already there.
+This leaves the dependencies between them and the rules of computation to be set.
+Since the whole system is going to be re-designed , there are major decisions to be taken regarding the parser and the ontology , as well as what can be re-used from past EML projects.
+In parallel , another team is working on formalisation and notation.
+Finally , more ideas are expected to come from students and their research.
+The final english SmartKom demo will be presented to the whole institute once the system is de-bugged and stabilised.
+After the demo , the focus of research can switch towards purely scientific goals , including issues on ontology , deep semantic constructions , execution engines etc.
+Moreover , a new system will be designed for the project and at least some parts of it should be built.
+Similarly , the construction analyser should be a single , general tool working for both the tourist domain and child language modelling.
+The focus for the next meeting will be on the belief-net , of which a working demo should be complete in the next few weeks.
+Since there are not enough data , its connections and weights will have to be designed.
+Although JavaBayes has been the tool of choice until now , the possibility that Hugin could be a better option should be investigated.
+In order to promote the collaboration with EML , the group-ware server there will be updated with all progress being made in the two sites.
+A talk on some of the issues will also be organised to take place at DFKI.
+The german SmartKom version available on the server does not work.
+The english version , although still under development , does work , however , the system is still unstable as -apart from other reasons- it was initially built to work with a touch screen.
+De-bugging and cleaning up has to take place before any new modules are added on it.
+As regards the belief-net , no connections and dependencies have been built into it.
+These will have to be guessed instead of learnt through data , as not enough data is available for such a task.
+Finally , it has been noted that the JavaBayes GUI does not satisfy all the presentation requirements for this belief-net and modifying the underlying code would be too time-consuming.
+The german SmartKom system has been translated to English up to the speech synthesis level.
+The german syntax trees are currently being adapted to English.
+These also contribute information to the synthesis module in order to achieve better pronunciation.
+The current english version is probably the best working one , since some of the problems with the original system have been corrected.
+The design of the belief-net has also progressed significantly: the vast majority of the nodes have been identified and the feasibility of the task from a technical point of view has been confirmed.

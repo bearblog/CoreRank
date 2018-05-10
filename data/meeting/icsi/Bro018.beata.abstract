@@ -1,0 +1,149 @@
+0	Bro018.s.1	The Berkeley Robustness group discussed various projects by students and research staff.
+55	Bro018.s.2	First , speaker fn002 presented her experimental results on voice-unvoice detection.
+Bro018.D.dialogueact6	11.336	18.116	D	PhD	s	+1	2	Well eh you know that I work {disfmarker} I begin to work with a new feature to detect voice - unvoice .
+Bro018.D.dialogueact8	19.429	34.6	D	PhD	s^rt	+1	2	What I trying two MLP to {disfmarker} to the {disfmarker} with this new feature and the fifteen feature uh from the eh bus base system
+Bro018.D.dialogueact16	45.44	50.96	D	PhD	s^aa|s	-1	0	yeah the Aurora system with the new filter , VAD or something like that .
+Bro018.D.dialogueact18	51.84	57.63	D	PhD	s	+1	1	And I 'm trying two MLP , one one that only have t three output ,
+Bro018.D.dialogueact19	58.19	59.82	D	PhD	s	+1	1	voice , unvoice , and silence ,
+Bro018.D.dialogueact21	60.55	65.18	D	PhD	s	+1	1	and other one that have fifty - six output .
+Bro018.D.dialogueact22	65.97	67.53	D	PhD	s	+1	1	The probabilities of the allophone .
+Bro018.D.dialogueact23	68.84	73.08	D	PhD	s^rt	+1	1	And I tried to do some experiment of recognition with that
+Bro018.D.dialogueact24	73.89	78.51	D	PhD	s	+1	1	and only have result with {disfmarker} with the MLP with the three output .
+Bro018.D.dialogueact25	79.273	82.813	D	PhD	s	-1	0	And I put together the fifteen features and the three MLP output .
+Bro018.D.dialogueact26	83.623	88.77	D	PhD	s	+1	1	And , well , the result are li a little bit better , but more or less similar .
+Bro018.C.dialogueact32	96.99	98.14	C	Professor	qw	-1	0	What features does it see ?
+Bro018.D.dialogueact34	99.43	107.04	D	PhD	s	-1	0	The inputs are the fifteen {disfmarker} the fifteen uh bases feature .
+Bro018.D.dialogueact36	107.792	109.222	D	PhD	s	-1	0	the {disfmarker} with the new code .
+Bro018.D.dialogueact39	117.13	126.38	D	PhD	s	-1	0	the variance of the auto - correlation function , except the {disfmarker} the first point , because half the height value is R - zero
+Bro018.D.dialogueact45	129.42	132.02	D	PhD	s	-1	0	the first coefficient of the auto - correlation function .
+Bro018.D.dialogueact46	132.25	135.833	D	PhD	s.%--	-1	0	That is like the energy with these three feature ,
+Bro018.C.dialogueact52	145.71	151.21	C	Professor	s	-1	0	but then you have something like spectral slope , which is you get like R - one ov over R - zero or something like that .
+Bro018.C.dialogueact63	162.64	163.94	C	Professor	qw.%--	-1	0	but if you just say " what is {disfmarker} "
+Bro018.C.dialogueact64	163.94	166.34	C	Professor	s.%--	-1	0	I mean , to first order , um
+Bro018.C.dialogueact65	166.48	169.23	C	Professor	fh|s	-1	0	yeah one of the differences between voiced , unvoiced and silence is energy .
+Bro018.C.dialogueact67	169.64	172.0	C	Professor	s	-1	0	Another one is {disfmarker} but the other one is the spectral shape .
+Bro018.C.dialogueact72	173.48	176.41	C	Professor	s	-1	0	and so R - one over R - zero is what you typically use for that .
+Bro018.C.dialogueact79	183.02	190.59	C	Professor	s^df:qr	-1	0	See , because it {disfmarker} because this is {disfmarker} this is just like a single number to tell you um " does the spectrum look like that or does it look like that " .
+Bro018.C.dialogueact85	193.58	203.16	C	Professor	s	-1	0	So if it 's {disfmarker} if it 's um {disfmarker} if it 's low energy uh but the {disfmarker} but the spectrum looks like that or like that , it 's probably silence .
+Bro018.C.dialogueact87	204.068	208.821	C	Professor	s	-1	0	Uh but if it 's low energy and the spectrum looks like that , it 's probably unvoiced .
+Bro018.C.dialogueact89	210.15	222.529	C	Professor	s^rt	-1	0	So if you just {disfmarker} if you just had to pick two features to determine voiced - unvoiced , you 'd pick something about the spectrum like uh R - one over R - zero , um and R - zero
+Bro018.C.dialogueact106	249.08	263.04	C	Professor	fg|s^bk.%--	-1	0	Right , but it seemed to me that what you were what you were getting at before was that there is something about the difference between the original signal or the original FFT and with the filter which is what {disfmarker}
+Bro018.C.dialogueact107	263.04	265.13	C	Professor	s	-1	0	and the variance was one take uh on it .
+Bro018.C.dialogueact113	270.666	274.546	C	Professor	s.%--	-1	0	Then in that case , if you have two nets ,
+Bro018.C.dialogueact114	276.71	280.97	C	Professor	s^f|s.%-	-1	0	Alright , and this one has three outputs , and this one has f
+Bro018.C.dialogueact117	282.11	283.47	C	Professor	s^rt	-1	0	fifty - six , or something ,
+Bro018.C.dialogueact119	284.6	294.08	C	Professor	s	-1	0	if you were to sum up the probabilities for the voiced and for the unvoiced and for the silence here , we 've found in the past you 'll do better at voiced - unvoiced - silence than you do with this one .
+Bro018.C.dialogueact120	295.43	299.33	C	Professor	s	-1	0	So just having the three output thing doesn't {disfmarker} doesn't really buy you anything .
+Bro018.C.dialogueact135	325.29	333.64	C	Professor	s	-1	0	And what I was saying is that the only thing I think that it buys you is um based on whether you feed it something different .
+Bro018.C.dialogueact137	336.71	360.81	C	Professor	s	-1	0	And so the kind of thing that {disfmarker} that she was talking about before , was looking at something uh ab um {disfmarker} something uh about the difference between the {disfmarker} the uh um log FFT uh log power uh and the log magnitude uh F F - spectrum uh and the um uh filter bank .
+Bro018.C.dialogueact142	370.76	375.49	C	Professor	s	-1	0	So the particular measure that she chose was the variance of this m of this difference ,
+Bro018.C.dialogueact144	376.05	377.87	C	Professor	s	-1	0	but that might not be the right number .
+Bro018.C.dialogueact151	393.81	400.69	C	Professor	qw^cs	-1	0	uh What about it you skip all the {disfmarker} all the really clever things , and just fed the log magnitude spectrum into this ?
+Bro018.C.dialogueact161	416.42	421.11	C	Professor	s	-1	0	And you just took this thing in here because it 's a neural net and neural nets are wonderful
+Bro018.C.dialogueact162	421.11	427.291	C	Professor	s	-1	0	and figure out what they can {disfmarker} what they most need from things , and I mean that 's what they 're good at .
+Bro018.E.dialogueact197	511.81	514.35	E	PhD	qw	-1	0	How long does it take , Carmen , to train up one of these nets ?
+Bro018.D.dialogueact200	517.2	518.54	D	PhD	s	-1	0	Mmm , one day or less .
+Bro018.A.dialogueact204	522.23	526.12	A	Grad	qw	-1	0	What are {disfmarker} what are your f uh frame error rates for {disfmarker} for this ?
+Bro018.A.dialogueact212	535.268	539.578	A	Grad	s^bu.%--	-1	0	Fif - fifty - six percent accurate for v voice - unvoice
+Bro018.D.dialogueact216	541.43	542.8	D	PhD	s^ng	-1	0	I don't remember for voice - unvoice ,
+Bro018.A.dialogueact223	545.299	546.779	A	Grad	s	-1	0	Should be in nineties somewhere .
+Bro018.D.dialogueact227	547.91	549.04	D	PhD	s	-1	0	This is for the other one .
+Bro018.D.dialogueact232	557.03	563.24	D	PhD	s	-1	0	That I look in the {disfmarker} with the other {disfmarker} nnn the other MLP that we have are more or less the same number .
+Bro018.D.dialogueact235	575.06	584.117	D	PhD	s	-1	0	I think that {disfmarker} I {disfmarker} I {disfmarker} I think that for the other one , for the three output , is sixty sixty - two , sixty three more or less .
+Bro018.C.dialogueact240	585.59	586.16	C	Professor	s^ba	-1	0	That 's pretty bad .
+Bro018.D.dialogueact241	586.826	588.606	D	PhD	s^aa|s^df	-1	0	Yeah , because it 's noise also .
+Bro018.C.dialogueact260	606.447	613.82	C	Professor	s^co	-1	0	If you 're getting fifty - six here , try adding together the probabilities of all of the voiced phones here and all of the unvoiced phones
+Bro018.C.dialogueact273	635.91	645.673	C	Professor	s^co	-1	0	Given this {disfmarker} this uh regular old net that 's just for choosing for other purposes , uh add up the probabilities of the different subclasses and see {disfmarker} see how well you do .
+Bro018.D.dialogueact293	671.04	674.969	D	PhD	s	-1	0	We have noisy TIMIT with the noise of the {disfmarker} the TI - digits .
+43	Bro018.s.3	Speaker me006 talked about his work on testing completeness for acoustic events and his plans for using support vector machines to recognise phonological features.
+Bro018.A.dialogueact454	1083.59	1091.11	A	Grad	s	+1	1	Then uh I talked a little bit about {vocalsound} um continuing with these dynamic ev um acoustic events ,
+Bro018.A.dialogueact455	1091.66	1104.88	A	Grad	s	+1	1	and um {vocalsound} {vocalsound} we 're {disfmarker} we 're {disfmarker} we 're {vocalsound} thinking about a way to test the completeness of a {disfmarker} a set of um dynamic uh events .
+Bro018.A.dialogueact456	1105.45	1122.79	A	Grad	qo	+1	1	Uh , completeness in the {disfmarker} in the sense that {vocalsound} um if we {disfmarker} if we pick these X number of acoustic events , {vocalsound} do they provide sufficient coverage {vocalsound} for the phones that we 're trying to recognize {vocalsound} or {disfmarker} or the f the words that we 're gonna try to recognize later on .
+Bro018.A.dialogueact457	1123.44	1139.65	A	Grad	s	+1	1	And so Morgan and I were uh discussing {vocalsound} um s uh s a form of a cheating experiment {vocalsound} where we get {disfmarker} {vocalsound} um we have uh {vocalsound} um a chosen set of features , or acoustic events ,
+Bro018.A.dialogueact458	1140.1	1146.28	A	Grad	s	+1	1	and we train up a hybrid {vocalsound} um system to do phone recognition on TIMIT .
+Bro018.A.dialogueact459	1146.99	1163.19	A	Grad	s	-1	0	So i i the idea is if we get good phone recognition results , {vocalsound} using um these set of acoustic events , {vocalsound} then {vocalsound} um that {disfmarker} that says that these acoustic events are g sufficient to cover {vocalsound} a set of phones ,
+Bro018.A.dialogueact461	1165.06	1173.5	A	Grad	qo	-1	0	Um so i it would be a {disfmarker} {vocalsound} a measure of " are we on the right track with {disfmarker} with the {disfmarker} the choices of our acoustic events " .
+Bro018.C.dialogueact470	1188.12	1196.61	C	Professor	s	-1	0	The {disfmarker} the other thing I was suggesting , though , is that given that you 're talking about binary features , uh , maybe the first thing to do is just to count
+Bro018.C.dialogueact471	1197.55	1202.59	C	Professor	fh|s	-1	0	and uh count co - occurrences and get probabilities for a discrete HMM
+Bro018.C.dialogueact473	1204.65	1214.7	C	Professor	s	-1	0	because it 's just {disfmarker} Say , if you had ten {disfmarker} ten events , uh that you were counting , uh each frame would only have a thousand possible values for these ten bits ,
+Bro018.C.dialogueact474	1215.53	1222.53	C	Professor	fh|s^rt	-1	0	and uh so you could make a table that would {disfmarker} say , if you had thirty - nine phone categories , that would be a thousand by thirty - nine ,
+Bro018.C.dialogueact475	1222.53	1234.69	C	Professor	s	-1	0	and just count the co - occurrences and divide them by the {disfmarker} the uh {disfmarker} uh uh occ uh count the co - occurrences between the event and the phone and divide them by the number of occurrences of the phone ,
+Bro018.C.dialogueact476	1234.87	1238.83	C	Professor	s^rt	-1	0	and that would give you the likelihood of the {disfmarker} of the event given the phone .
+Bro018.C.dialogueact477	1239.34	1243.44	C	Professor	s	-1	0	And um then just use that in a very simple HMM
+Bro018.C.dialogueact478	1243.71	1251.88	C	Professor	s.%--	-1	0	and uh you could uh do phone recognition then and uh wouldn't have any of the issues of the uh training of the net or {disfmarker}
+Bro018.C.dialogueact483	1259.33	1277.44	C	Professor	s	-1	0	you know , if {disfmarker} uh uh the example I was giving was that if {disfmarker} if you had um onset of voicing and {disfmarker} and end of voicing as being two kinds of events , then if you had those a all marked correctly , and you counted co - occurrences , you should get it completely right .
+Bro018.C.dialogueact486	1280.27	1284.11	C	Professor	fh|s	-1	0	um {disfmarker} But you 'd get all the other distinctions , you know , randomly wrong .
+Bro018.C.dialogueact489	1289.58	1301.61	C	Professor	s	-1	0	If you just do this by counting , then you should be able to find out in a pretty straightforward way whether you have a sufficient uh set of events to {disfmarker} to do the kind of level of {disfmarker} {vocalsound} of uh classification of phones that you 'd like .
+Bro018.C.dialogueact491	1304.1	1309.81	C	Professor	qo^tc	-1	0	And then the other thing that we were discussing was {disfmarker} was um {vocalsound} OK , how do you get the {disfmarker} your training data .
+Bro018.C.dialogueact496	1327.52	1341.04	C	Professor	s	-1	0	So , it seems to me that the only reasonable starting point is uh to automatically translate the uh current TIMIT markings into the markings you want .
+Bro018.C.dialogueact523	1407.08	1414.72	C	Professor	s	-1	0	and hopefully there should be some point at which {vocalsound} having more information doesn't tell you really all that much more about what the phones are .
+Bro018.C.dialogueact539	1451.77	1461.4	C	Professor	s^f|qo^bs	-1	0	You know . The idea is with a {disfmarker} with a very simple statistical structure , could you {disfmarker} could you uh at least verify that you 've chosen features that {vocalsound} are sufficient .
+Bro018.A.dialogueact545	1474.39	1481.11	A	Grad	h|s^rt	-1	0	So for my class project I 'm {vocalsound} um {vocalsound} {vocalsound} I 'm tinkering with uh support vector machines ?
+Bro018.A.dialogueact548	1488.24	1496.13	A	Grad	s	-1	0	And so I 'm gonna apply that to {vocalsound} um compare it with the results by um King and Taylor who did {vocalsound} um these
+Bro018.A.dialogueact552	1505.28	1509.41	A	Grad	s	-1	0	and made a mapping from the MFCC 's to these phonological features ,
+Bro018.A.dialogueact553	1509.41	1513.32	A	Grad	s	-1	0	so I 'm gonna {vocalsound} do a similar thing with {disfmarker} {vocalsound} with support vector machines
+Bro018.A.dialogueact557	1518.08	1524.34	A	Grad	h|s	-1	0	Um . So , support vector machines are {disfmarker} are good with dealing with a less amount of data
+Bro018.A.dialogueact571	1551.16	1559.91	A	Grad	s	-1	0	So , {vocalsound} the {disfmarker} the simple idea behind a support vector machine is {vocalsound} um , {vocalsound} you have {disfmarker} you have this feature space ,
+Bro018.A.dialogueact574	1560.2	1569.66	A	Grad	s	-1	0	and then it finds the optimal separating plane , um between these two different um classes ,
+Bro018.A.dialogueact578	1575.84	1585.12	A	Grad	s	-1	0	what it {disfmarker} i at the end of the day , what it actually does is {vocalsound} it picks {vocalsound} those examples of the features that are closest to the separating boundary ,
+Bro018.A.dialogueact579	1585.4	1586.5	A	Grad	s	-1	0	and remembers those
+Bro018.A.dialogueact581	1586.96	1591.56	A	Grad	s	-1	0	and {disfmarker} {vocalsound} and uses them to recreate the boundary for the test set .
+Bro018.A.dialogueact582	1592.06	1614.15	A	Grad	s	-1	0	So , given these {vocalsound} um these features , or {disfmarker} or these {disfmarker} these examples , {pause} um , {pause} critical examples , {vocalsound} which they call support f support vectors , {vocalsound} then um {vocalsound} given a new example , {vocalsound} if the new example falls {vocalsound} um away from the boundary in one direction then it 's classified as being a part of this particular class
+Bro018.E.dialogueact613	1679.95	1685.42	E	PhD	s^bs	-1	0	So rather than doing nearest neighbor where you compare to every single one , you just pick a few critical ones ,
+Bro018.A.dialogueact625	1723.07	1732.23	A	Grad	s	-1	0	I it can be a {disfmarker} a reduced um {vocalsound} parameterization of {disfmarker} of the {disfmarker} the model by just keeping {vocalsound} certain selected examples .
+Bro018.A.dialogueact635	1749.82	1753.35	A	Grad	s	-1	0	Actually you don't get a {disfmarker} you don't get a nice number between zero and one .
+Bro018.A.dialogueact636	1753.35	1755.29	A	Grad	s^e	-1	0	You get {disfmarker} you get either a zero or a one .
+Bro018.C.dialogueact648	1779.83	1781.58	C	Professor	s	-1	0	But you have the distances to work with .
+Bro018.A.dialogueact653	1789.99	1801.46	A	Grad	fg|s	-1	0	Yeah , they {disfmarker} {vocalsound} they had a {disfmarker} had a way to translate the distances into {disfmarker} into probabilities with the {disfmarker} with the simple {vocalsound} um {vocalsound} uh sigmoidal function .
+Bro018.A.dialogueact687	1855.08	1858.32	A	Grad	s	-1	0	I 'm just doing {vocalsound} detection of phonological features .
+Bro018.A.dialogueact735	1943.4	1955.08	A	Grad	s	-1	0	f so for every phone there is {disfmarker} there is a um {disfmarker} a vector of ones and zeros {vocalsound} f uh corresponding to whether it exhibits a particular phonological feature or not .
+Bro018.A.dialogueact750	1984.91	1993.29	A	Grad	s	-1	0	basically it 's to learn a mapping {vocalsound} from {disfmarker} {vocalsound} from the MFCC 's to {vocalsound} uh phonological features .
+Bro018.E.dialogueact555	1514.17	1517.21	E	PhD	qw^rt	-1	0	So what 's the advantage of support vector machines ?
+24	Bro018.s.4	Speakers me013 and me018 discussed improvements to the current implementation of the RASTA feature representation.
+Bro018.A.dialogueact550	1497.32	1503.91	A	Grad	s	-1	0	using recurrent neural nets , they recognized {vocalsound} um {vocalsound} a set of phonological features
+Bro018.C.dialogueact796	2091.35	2104.24	C	Professor	s	+1	1	but I was gonna ask about the {disfmarker} {vocalsound} the um {vocalsound} changes to the data in comparing PLP and mel cepstrum for the SRI system .
+Bro018.C.dialogueact805	2115.52	2119.68	C	Professor	s	+1	1	and {vocalsound} you told me that there was a difference in how the normalization was done .
+Bro018.C.dialogueact806	2120.14	2128.4	C	Professor	s	+1	1	And I was asking if you were going to do {disfmarker} {vocalsound} redo it uh for PLP with the normalization done as it had been done for the mel cepstrum .
+Bro018.E.dialogueact813	2140.3	2141.33	E	PhD	s	+1	1	well it seems like there 's a bug ,
+Bro018.E.dialogueact815	2147.01	2149.39	E	PhD	s	+1	1	but it 's big enough that it {disfmarker} it seems wrong .
+Bro018.E.dialogueact814	2141.45	2146.43	E	PhD	s	+1	1	because the difference in performance is {disfmarker} it 's not gigantic
+Bro018.E.dialogueact831	2185.17	2192.47	E	PhD	s	-1	0	So I was going through and just double - checking that kind of think first , to see if there was just some kind of obvious bug in the way that I was computing the features .
+Bro018.E.dialogueact899	2358.15	2363.02	E	PhD	s	-1	0	So one thing that I did notice , yesterday I was studying the um {disfmarker} the uh RASTA code
+Bro018.E.dialogueact901	2363.63	2372.04	E	PhD	s	-1	0	and it looks like we don't have any way to um control the frequency range that we use in our analysis .
+Bro018.E.dialogueact904	2379.69	2387.01	E	PhD	s:s	-1	0	We don't have any set of parameters where we can say you know , " only process from you know a hundred and ten hertz to thirty - seven - fifty " .
+Bro018.C.dialogueact935	2465.88	2471.03	C	Professor	fg|s	-1	0	Yeah , so the idea is that the very lowest frequencies and {disfmarker} and typically the veriest {comment} highest frequencies are kind of junk .
+Bro018.C.dialogueact938	2474.24	2480.05	C	Professor	s	-1	0	you just {disfmarker} for continuity you just approximate them by {disfmarker} {vocalsound} by the second to highest and second to lowest .
+Bro018.E.dialogueact972	2554.99	2563.54	E	PhD	s	-1	0	I was wondering if there 's maybe um {vocalsound} certain settings of the parameters when you compute PLP which would basically cause it to output mel cepstrum .
+Bro018.C.dialogueact981	2578.33	2592.98	C	Professor	s	-1	0	what you can do is um you can definitely change the {disfmarker} the filter bank from being uh a uh trapezoidal integration to a {disfmarker} a {disfmarker} a triangular one ,
+Bro018.C.dialogueact993	2613.12	2627.89	C	Professor	s	-1	0	I mean {vocalsound} the fundamental d d difference that we 've seen any kind of difference from before , which is actually an advantage for the P L P i uh , I think , is that the {disfmarker} the smoothing at the end is auto - regressive instead of being cepstral {disfmarker} uh , {comment} from cepstral truncation .
+Bro018.E.dialogueact1014	2685.91	2697.09	E	PhD	s	-1	0	One of the things that I did notice was that the um log likelihoods coming out of the log recognizer from the PLP data were much lower , much smaller ,
+Bro018.E.dialogueact1015	2697.27	2707.07	E	PhD	s	-1	0	than for the mel cepstral stuff , and that the average amount of pruning that was happening was therefore a little bit higher for the PLP features .
+Bro018.E.dialogueact1017	2708.2	2715.16	E	PhD	s	-1	0	So , since he used the same exact pruning thresholds for both , I was wondering if it could be that we 're getting more pruning .
+Bro018.C.dialogueact1036	2747.33	2756.81	C	Professor	s^cs^rt	-1	0	But I mean you could {disfmarker} uh if {disfmarker} if {disfmarker} if that looks promising you could , you know , r uh run {vocalsound} the overall test set with a {disfmarker} with a few different uh pruning thresholds for both ,
+Bro018.E.dialogueact1050	2778.48	2782.28	E	PhD	s	-1	0	And the uh the {disfmarker} the run time of the recognizer on the PLP features is longer
+Bro018.E.dialogueact1051	2782.56	2784.91	E	PhD	s	-1	0	which sort of implies that the networks are bushier ,
+Bro018.E.dialogueact1052	2785.05	2786.42	E	PhD	s	-1	0	you know , there 's more things it 's considering
+Bro018.E.dialogueact1053	2786.8	2789.32	E	PhD	s	-1	0	which goes along with the fact that the matches aren't as good .
+22	Bro018.s.5	Finally , speaker me026 presented his experiment with the mean subtraction method and the group discussed its implications.
+Bro018.B.dialogueact1087	2839.07	2842.13	B	Grad	s	+1	2	well I {vocalsound} tried this mean subtraction method .
+Bro018.B.dialogueact1089	2842.45	2846.95	B	Grad	s	+1	2	Due to Avendano , {vocalsound} I 'm taking s um {vocalsound} six seconds of speech ,
+Bro018.B.dialogueact1090	2847.13	2852.97	B	Grad	s	+1	1	um {vocalsound} I 'm using two second {vocalsound} FFT analysis frames , {vocalsound} stepped by a half second
+Bro018.B.dialogueact1097	2872.13	2877.18	B	Grad	s	+1	1	I use that to normalize the s the current center frame {vocalsound} by mean subtraction .
+Bro018.B.dialogueact1098	2877.51	2880.44	B	Grad	s	-1	0	And I then {disfmarker} then I move to the next frame and I {disfmarker} {vocalsound} I do it again .
+Bro018.B.dialogueact1099	2881.2	2882.74	B	Grad	s^bsc	-1	0	Well , actually I calculate all the means first
+Bro018.B.dialogueact1100	2882.74	2883.82	B	Grad	s	-1	0	and then I do the subtraction .
+Bro018.B.dialogueact1105	2896.17	2906.91	B	Grad	s	+1	1	um {vocalsound} where I just used the simulated impulse response um {vocalsound} the error rate went from something like eighty it was from something like eighteen percent {vocalsound} to um four percent .
+Bro018.B.dialogueact1106	2907.75	2917.74	B	Grad	s	+1	1	And on meeting rec recorder far mike digits , mike {disfmarker} on channel F , it went from um {vocalsound} {vocalsound} forty - one percent error to eight percent error .
+Bro018.B.dialogueact1118	2954.37	2956.72	B	Grad	s^df	-1	0	He did one PZM channel and one PDA channel .
+Bro018.B.dialogueact1124	2962.08	2965.09	B	Grad	s	-1	0	I think it was about five percent error for the PZM channel .
+Bro018.C.dialogueact1128	2969.45	2970.95	C	Professor	qw^rt	-1	0	So why were you getting forty - one here ?
+Bro018.B.dialogueact1131	2973.47	2976.12	B	Grad	s	-1	0	I {disfmarker} I 'm g I 'm guessing it was the {disfmarker} the training data .
+Bro018.B.dialogueact1132	2976.43	2980.38	B	Grad	s^df	-1	0	Uh , clean TI - digits is , like , pretty pristine {vocalsound} training data ,
+Bro018.C.dialogueact1160	3015.57	3021.93	C	Professor	s	-1	0	So probably it should be something we should try then is to {disfmarker} is to see if {disfmarker} is {vocalsound} at some point just to take {disfmarker} i to transform the data
+Bro018.C.dialogueact1161	3021.93	3025.91	C	Professor	s	-1	0	and then {disfmarker} {vocalsound} and then uh use th use it for the SRI system .
+Bro018.B.dialogueact1186	3080.55	3086.97	B	Grad	s	-1	0	O one thing I 'm wondering about is what this mean subtraction method {vocalsound} um will do if it 's faced with additive noise .
+Bro018.B.dialogueact1188	3087.72	3093.1	B	Grad	s^df	-1	0	Cuz I {disfmarker} I {disfmarker} it 's cuz I don't know what log magnitude spectral subtraction is gonna do to additive noise .
+Bro018.B.dialogueact1198	3107.52	3112.62	B	Grad	s^bk^rt|s^bu	-1	0	OK , so it 's then {disfmarker} then it 's {disfmarker} it 's {disfmarker} it 's reasonable to expect it would be helpful if we used it with the SRI system
+Bro018.C.dialogueact1204	3116.16	3122.41	C	Professor	fg|s	-1	0	Yeah , w we 're often asked this when we work with a system that {disfmarker} that isn't {disfmarker} isn't sort of industry {disfmarker} industry standard great ,
+Bro018.C.dialogueact1206	3123.1	3126.07	C	Professor	s	-1	0	uh and we see some reduction in error using some clever method ,
+Bro018.C.dialogueact1207	3126.17	3129.39	C	Professor	qy	-1	0	then , you know , will it work on a {disfmarker} {vocalsound} on a {disfmarker} on a good system .

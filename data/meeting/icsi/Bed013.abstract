@@ -1,0 +1,29 @@
+3	Bed013.s.1	An idea for future work was suggested during the visit of the german project manager: the possibility to use the same system for language generation.
+Bed013.D.dialogueact46	146.98	153.04	D	Grad	s^rt^t^tc	+1	1	and the other bit of news is we had {disfmarker} you know , uh , I was visited by my German project manager
+Bed013.D.dialogueact54	171.43	176.46	D	Grad	s	+1	1	and he came up {disfmarker} we came up {disfmarker} with a pretty strange idea .
+Bed013.D.dialogueact64	213.17	219.8	D	Grad	s	+1	1	It should be possible to make that system produce questions .
+1	Bed013.s.2	Having a system able to ask questions could contribute significantly to training the belief-net.
+Bed013.D.dialogueact94	344.12	345.74	D	Grad	s	+1	2	But maybe one could do some learning .
+2	Bed013.s.3	Setting up certain inputs in the Bayes-net would imply certain intentions , which would trigger dialogues.
+Bed013.B.dialogueact126	475.19	479.37	B	Grad	s^bu^rt	+1	1	The basic idea I guess would be to give {disfmarker} allow the system to have intentions , basically ?
+Bed013.D.dialogueact173	586.89	593.41	D	Grad	s:qw	+1	1	Well you can observe some user and context stuff and ask , what 's the posterior probabilities of all of our decision nodes .
+3	Bed013.s.4	There is potential to make a conference paper out of presenting the current work and the project aspirations within a parsing paradigm.
+Bed013.B.dialogueact346	958.09	960.27	B	Grad	s	+1	1	I mean we just {disfmarker} I mean it wouldn't hurt to write up a paper ,
+Bed013.D.dialogueact508	1278.11	1295.17	D	Grad	fg|s^cs	+1	1	Well , I {disfmarker} I also think that if we sort of write about what we have done in the past six months , we {disfmarker} we {disfmarker} we could sort of craft a nice little paper that {pause} if it gets rejected , which could happen , doesn't hurt
+Bed013.D.dialogueact741	1675.64	1679.16	D	Grad	s	+1	1	And then we can say , uh well what we do is this .
+3	Bed013.s.5	The focus should be the Bayes-net , to which all other modules interface.
+Bed013.D.dialogueact785	1776.75	1783.53	D	Grad	s	+1	2	So this will be sort of documenting what we think , and documenting what we have in terms of the Bayes - net stuff .
+Bed013.D.dialogueact898	1992.24	1993.54	D	Grad	s	+1	1	Well , in the moment it 's a Bayes - net .
+Bed013.D.dialogueact899	1994.35	1998.37	D	Grad	s	+1	1	And it has sort of fifty not - yet - specified interfaces .
+1	Bed013.s.6	Situation , User , Discourse and Ontology feed into the net to infer user intentions.
+Bed013.D.dialogueact833	1894.45	1906.11	D	Grad	s	+1	1	The SUDO - square {nonvocalsound} is , {vocalsound} " Situation " , " User " , " Discourse " , right ? " Ontology " .
+1	Bed013.s.7	Someone asking where the castle is after having asked about the admission fee , indicates that -given that the castle is open to tourists- they want to go there , as opposed to knowing its whereabouts.
+Bed013.D.dialogueact950	2083.92	2095.7	D	Grad	s:qw	+1	1	and Johno coming up with the idea that if the person discussed the {disfmarker} discussed the admission fee , in {disfmarker} eh previously , that might be a good indication that , " how do I get to the castle ? " , actually he wants to enter .
+4	Bed013.s.8	It was suggested that they start analysing what the Discourse and Ontology would give as inputs to the Bayes-net by working on simple utterances like "where is X?".
+Bed013.D.dialogueact1051	2403.7	2416.99	D	Grad	s	+1	2	and specify um , what {disfmarker} what we think the {disfmarker} the output uh , observe , out {disfmarker} i input nodes for our Bayes - nets for the sub sub - D , for the discourse bit , should be .
+Bed013.D.dialogueact1133	2680.06	2690.98	D	Grad	s:qw	+1	2	So we want to sort of come up with what gets uh , input , and how inter in case of a " where is " question .
+Bed013.D.dialogueact1350	3221.67	3229.37	D	Grad	s^df	+1	2	so that we actually end up with um , um , nodes for the discourse and ontology
+Bed013.D.dialogueact1351	3229.93	3231.88	D	Grad	s	+1	1	so that we can put them into our Bayes - net ,
+1	Bed013.s.9	With this addition , all input layers of the net would be functioning.
+Bed013.D.dialogueact1355	3239.94	3243.04	D	Grad	s	+1	1	and we can run our better JavaBayes , and have it produce some output .
+0	Bed013.s.10	Although this function would be limited , it would allow for the Bayes-net to be tested in its entirety and , henceforth , extended.

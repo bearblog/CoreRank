@@ -1,0 +1,7 @@
+An early version of the PRM of the system presented the same problem as a flat Bayes-net: the CPT's become too large.
+Another PRM issue that arose and remained unclear was how the probabilities are specified ( instead of learnt ) on the actual relations between the classes.
+Furthermore , the lack of a PRM interpreter is an open issue.
+It is not within the remit of the project to build one from scratch , therefore , an existing implementation has to be found.
+On the other hand , the discussion about the smart tutoring system being built at the International University showed the importance of finding out  which context parameters are influential in a given domain.
+It is easy to hack up a system for a small domain , but making it scalable is much more difficult.
+Finally , there was a passing mention of problems encountered with the speech synthesis module of SmartKom.

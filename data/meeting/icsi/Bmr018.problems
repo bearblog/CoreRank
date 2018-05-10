@@ -1,0 +1,28 @@
+3	Bmr018.s.8	Transcribers risk overlooking speech that is deeply embedded in the mixed signal.
+Bmr018.A.dialogueact273	467.39	474.873	A	Postdoc	s	+1	1	and there really was , then , if it didn't show up in a mixed signal to verify , then it might be overlooked ,
+Bmr018.A.dialogueact313	532.32	539.4	A	Postdoc	fg|s	+1	1	Yeah , but presumably , most of those they should be able to hear from the mixed signal unless they 're embedded in the heavil heavy overlap section
+Bmr018.D.dialogueact490	881.98	884.87	D	PhD	s	+1	1	I don't know that you can locate them very well from the mixed signal ,
+1	Bmr018.s.9	Should transcriptions be derived from each of the close-talking channels or from the mixed signal alone?
+Bmr018.A.dialogueact274	475.36	481.205	A	Postdoc	fh|qr	+1	1	so , I mean , the question is " should {disfmarker} should a transcriber listen to the entire thing or can it g can it be based on the mixed signal ? "
+1	Bmr018.s.10	The pre-segmentation tool does not perform well on short utterances , e.g . backchannels.
+Bmr018.D.dialogueact296	512.56	515.72	D	PhD	s^arp	+1	1	Except for {vocalsound} it doesn't do well on short things , remember .
+2	Bmr018.s.11	The Transcriber interface does not allow the user to quickly switch among visual displays , i.e . multi-channel waveforms.
+Bmr018.E.dialogueact405	705.034	711.121	E	Grad	s	+1	1	The problem is that {disfmarker} that {disfmarker} the Tcl - TK interface with the visuals , it 's very slow to load waveforms .
+Bmr018.A.dialogueact414	717.62	720.38	A	Postdoc	s	+1	1	but you just can't get the visual display to show quickly .
+3	Bmr018.s.12	Forced alignments were problematic for non-digits data due to cross-talk.
+Bmr018.F.dialogueact685	1210.39	1213.15	F	PhD	h|s	+1	1	Oh , well , yeah , so I 've been struggling with the forced alignments .
+Bmr018.F.dialogueact704	1304.88	1311.19	F	PhD	s	+1	1	but it might well be that we can't get clean alignments out of this {disfmarker} out of those , uh , {vocalsound} channels ,
+Bmr018.D.dialogueact720	1348.01	1355.04	D	PhD	s	+1	1	so he thought well if we can do something quick and dirty because Dan said the cross - cancellation , it 's not straight - forward .
+0	Bmr018.s.13	This problem was reported to be particularly bad for cross-talk featuring more than one word.
+3	Bmr018.s.14	Echo cancellation was considered as a means of improving forced alignments , but was ultimately deemed to be too time-consuming given the dynamic aspect of adapting distances between speakers.
+Bmr018.C.dialogueact706	1311.86	1316.17	C	Professor	qy^bu^d^rt	+1	1	Unless maybe we do this , uh , um , cancellation business .
+Bmr018.D.dialogueact709	1316.91	1321.05	D	PhD	s	+1	1	but it 's clear from Dan that this is not something you can do in a short amount of time .
+Bmr018.D.dialogueact754	1427.99	1433.8	D	PhD	fh|s.%--	+1	1	um , but then if you add the dynamic aspect of adapting distances , then it wasn't {disfmarker}
+1	Bmr018.s.15	Comparing error rates in terms of the recording device used , i.e . lapel versus wireless microphones , is tedious.
+Bmr018.F.dialogueact763	1455.29	1456.75	F	PhD	s^df	+1	1	It 's very tedious to check these .
+1	Bmr018.s.16	Deleting segments of the recordings is expected to be very time-consuming for transcribers.
+Bmr018.A.dialogueact925	1848.84	1851.0	A	Postdoc	s	+1	1	and I really find it a pain in the neck to delete things
+1	Bmr018.s.17	More results are needed for generating adequate submissions for Eurospeech'01.
+Bmr018.E.dialogueact1128	2271.47	2273.37	E	Grad	s	+1	1	Yeah , for Eurospeech we want some results
+1	Bmr018.s.18	Participants have complained that the head-mounted microphone is uncomfortable.
+Bmr018.E.dialogueact1211	2406.4	2409.76	E	Grad	s	+1	1	but if they 're not comfortable , we have the same problems we have with these stupid things .

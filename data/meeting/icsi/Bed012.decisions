@@ -1,0 +1,10 @@
+1	Bed012.s.10	The suggestion that the most appropriate decision node of the belief-net in each situation could be chosen as a function of what construction was used , was deemed unsuitable at this stage.
+Bed012.C.dialogueact419	1320.01	1320.81	C	Grad	s^bsc	+1	2	Every construction .
+1	Bed012.s.11	There are many interdependencies between the output nodes that this approach could not take into account.
+Bed012.B.dialogueact443	1392.11	1393.59	B	Grad	s^df^e	+1	1	Because there are interdependencies ,
+2	Bed012.s.12	The rest of the values for the Bayes-net nodes will be built in within the week.
+Bed012.B.dialogueact624	1887.67	1889.45	B	Grad	s^e^rt	+1	1	sometime {pause} this week {pause} again
+Bed012.B.dialogueact626	1890.62	1896.08	B	Grad	s^e^t	+1	1	and finish up the , uh , values of this .
+2	Bed012.s.13	The finished prototype will be presented during the next meeting.
+Bed012.B.dialogueact728	2101.37	2104.35	B	Grad	fh|s^e^t	+1	2	And , um , finish up this Bayes - net .
+Bed012.B.dialogueact741	2137.0	2138.16	B	Grad	s^cc^e	+1	2	And we present our results ,

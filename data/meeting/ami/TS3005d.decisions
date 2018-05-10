@@ -1,0 +1,20 @@
+1	TS3005d.rdhillon.s.10	The remote uses a conventional battery.
+TS3005d.B.dialog-act.vkaraisk.371	1395.29	1398.03	B	UI	sug	+1	2	A battery . One battery ,
+4	TS3005d.rdhillon.s.11	The remote will not use a sample speaker and feature speech recognition.
+TS3005d.D.dialog-act.vkaraisk.316	1561.69	1563.27	D	ME	sug	+1	3	Scrap sample speaker ?
+TS3005d.A.dialog-act.vkaraisk.283	1563.45	1566.14	A	PM	sug	+1	3	you should you should drop the speech recognition .
+TS3005d.A.dialog-act.vkaraisk.295	1607.76	1611.67	A	PM	sug	+1	3	But I think the only option is to drop the uh sample speaker .
+TS3005d.A.dialog-act.vkaraisk.315	1786.58	1789.83	A	PM	inf	+1	2	we we dropped the speech recognition together with the speaker .
+1	TS3005d.rdhillon.s.12	The remote will use an advanced chip.
+TS3005d.B.dialog-act.vkaraisk.374	1404.56	1405.29	B	UI	inf	+1	2	advanced chip ,
+4	TS3005d.rdhillon.s.13	The case will be single curved.
+TS3005d.B.dialog-act.vkaraisk.101	474.57	476.46	B	UI	inf	+1	3	It uh {disfmarker} oh it's in the background . Oh .
+TS3005d.B.dialog-act.vkaraisk.109	499.73	506.21	B	UI	inf	+1	3	it would be uh something like this from the side , but with a bit of uh curve here ,
+TS3005d.C.dialog-act.vkaraisk.281	1420.16	1421.84	C	ID	ass	+1	2	Single nee single curved .
+TS3005d.A.dialog-act.vkaraisk.284	1567.53	1568.66	A	PM	sug	+1	3	And then you can keep the curve .
+1	TS3005d.rdhillon.s.14	The case is made of rubber.
+TS3005d.D.dialog-act.vkaraisk.285	1445.24	1446.01	D	ME	oth	+1	2	Rubber .
+3	TS3005d.rdhillon.s.15	The remote will not feature a scroll wheel.
+TS3005d.C.dialog-act.vkaraisk.355	1678.137	1679.84	C	ID	sug	+1	3	{vocalsound} then it's possible to make .
+TS3005d.C.dialog-act.vkaraisk.360	1692.68	1694.63	C	ID	inf	+1	2	You lose this one , you got eleven point five
+TS3005d.D.dialog-act.vkaraisk.381	1796.26	1800.07	D	ME	ass	+1	2	Y yea the scroll wheel is dropped .

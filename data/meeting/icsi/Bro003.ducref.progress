@@ -1,0 +1,20 @@
+Speaker mn007 has been preparing the French digit database.
+Training
+and testing with varying noise.
+speaker me006 has installed updated software for everyone.
+Working on
+label files from TIMIT for training neural nets.
+Trying to figure out
+what the input to the cube should be.
+speaker fn002 has been testing the Italian database on a net trained
+on Spanish.
+She has had problems with incompatible labels though.
+Within the next year , the network is to be upgraded , and in a couple
+of weeks , the group should have access to 4 new 36 gigabyte file
+servers.
+Me018 has been copying some corpus stuff to a non-backed up
+system , but not yet deleted originals.
+Current plan is to use a superset of phones for the cube project
+derived from the various training languages.
+HTK training currently takes 6 hours to a day , and the neural net
+takes 1-2 days.

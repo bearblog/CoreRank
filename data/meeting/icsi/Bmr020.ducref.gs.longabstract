@@ -1,0 +1,35 @@
+The main topics of the agenda were a paper submitted to Eurospeech and the organising of the recording transcriptions to be done by IBM.
+The results presented in the former show a significant percentage of overlapping speech even without counting in backchanneling.
+Additionally , the high error rate in the recognition of such overlapping speech by the SRI recogniser was minimised simply by changing the scoring method used.
+Finally , a strong correlation between pauses and interruptions was confirmed.
+All these measurements were based on the sample of available transcripts.
+Other features , like prosody , will be studied in the near future.
+An FTP directory containing such experimental data is being set up for the benefit of other researchers.
+Regarding the transcriptions to be carried out by IBM , the discussion mainly concerned the format of the recordings that should be sent to them.
+Suggestions included sending only the channels with the dominant speakers for transcription , but it was finally agreed on sending the original files with minimal modifications , as there will be extensive in-house post-processing.
+Within this discussion , the rationale behind the coding of the time bins according to the flow of discourse was also explained.
+The files made available in the FTP directory will be the original ones ( before down-sampling ) , as these seem to be wanted by other parties.
+Moreover , as files may have been modified through different processing , tests will be carried out in order to ensure the generation of beep files in a consistent way.
+Also towards this goal , some of the time bins will need to be merged.
+On the other hand , the two meetings where time bins have been hand-coded in detail will be used to fine-tune the forced alignments.
+Recordings will be sent to IBM for transcription.
+Before that , the files will be automatically pre-segmented into speech/non-speech bins and the beeps will be inserted.
+In order to make things easier for the transcribers , breathy channels , which are erroneously marked as speech , will be re-classified correctly with other methods.
+All this pre-processing will have to be evaluated first by checking a sample of the output files.
+Other issues , like whether and how synthesised speech off a laptop needs be transcribed , will be resolved during the in-house post-processing of the transcriptions.
+There is a slight worry about the acceptance of the paper submitted to Eurospeech as the deadline was exceeded.
+As to the content of the paper , the overlap statistics have not been normalised against the number of participants in the conversation , although the dependency is probably going to be a weak one.
+Additionally , the correlation between pauses in speech and interruptions does not provide a cause-and-effect link for these phenomena.
+The preparation of files for transcription by IBM is facing some minor difficulties , as some features ( hand-coded time boundaries , multiplicity of channels etc ) may complicate the generation of beep files.
+Besides this , the automatic pre-segmentation has been deemed to be good , but there are still no specific measurements to verify this.
+The pre-segmentation tool also classifies synthesised speech used in a recording as "normal speech" and assigns a random channel to it.
+The transcribers at IBM may not be able to differentiate between the two.
+A paper has been submitted to Eurospeech , which also includes a section on new corpora.
+The statistics in the paper are based on the transcripts of two meeting and two telephone conversation corpora.
+In the first two , the overlapped words vary between 9% and 18%.
+The telephone conversation results were in-between and very similar to each other.
+On the other hand , the automatic recognition errors affected by overlaps were reduced dramatically by focusing on regions with the foreground speech.
+Furthermore , it was shown that after spurts , backchannels , disfluencies and discourse markers , the likelihood of interruption by other speakers was much higher.
+Files with the recordings , as well as some experimental data will be available for other researchers in an FTP directory that is being set up.
+Parts of the recordings will have to be beeped out by a script that has already been developed.
+Finally , EDU meetings already recorded have now been pre-segmented and assigned to the transcribers at ICSI.

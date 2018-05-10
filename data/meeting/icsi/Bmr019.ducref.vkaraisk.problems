@@ -1,0 +1,8 @@
+At the digit recognition task , HTK systems , which are commonly used , performed worse than SRI.
+The error rate with the current digit corpus is expected to be higher than with the TI one , since the latter are wide-band studio recordings.
+The distance of the microphones from the speaker also affects the results.
+The microphones themselves are not of the best quality , although this has been a design choice.
+Furthermore , it was noted that SRI is somewhat cumbersome: feeding features into the recogniser requires separate files to be dumped out for every segment to be processed.
+There were also a couple of problematic points with forced alignments: the pruning proved too severe and word locations needed to be constrained further.
+Using adaptation for both the foreground and the background speaker also resulted in some strange alignments.
+Moreover , there were some speaker identification mistakes that occurred whilst transcribing from the mixed channel.

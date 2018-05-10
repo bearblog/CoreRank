@@ -1,0 +1,8 @@
+One meeting recording has been channelized and pre-segmented for delivery to IBM.
+A sample of digits data is being prepared for IBM.
+Preliminary recognition results were obtained for a subset of digits data.
+The error rate distribution was multimodal , reflecting differences in performance for native versus non-native speakers , and also possible pre-processing errors.
+Future efforts will involve an attempt to get good forced alignments on digits data and generate a report for Eurospeech'01.
+A program has been developed for replacing sections of recorded speech with editing bleeps.
+The tightening of time bins for one NSA meeting was checked and judged to be highly accurate.
+Efforts are ongoing to improve forced alignments for a subset of non-digits data , including acoustic adaptation manipulations.

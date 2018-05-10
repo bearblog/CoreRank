@@ -1,0 +1,59 @@
+One time , pretending to be a system ,
+So the belief - net takes as input , a vector ,
+and uh see if we can find a way to present this to this linguists group that {disfmarker} that is helpful to them .
+What you 'd really like of course is the same thing you 'd always like which is that you have um a kind of intermediate representation which looks the same o over a bunch of inputs and a bunch of outputs .
+and then collect uh sub - objects and then recombine them and put them together .
+I mean , not necessarily in th in this meeting , but to try to informally think about what the decision variables are .
+but also we definitely want to look up in the dialogue history um some s some stuff .
+And that {disfmarker} uh there 's {disfmarker} there 's some {disfmarker} some important generalities that you 're getting ,
+Um , we have to refine the tasks more and more , which of course we haven't done at all , so far , in order to avoid this rephrasing ,
+So . What you 're trying to get out of this deep co cognitive linguistics is the fact that w if you know about source {disfmarker} source , paths and goals , and nnn {comment} all this sort of stuff , that a lot of this is the same , for different tasks .
+Um {pause} And also if she 's willing to take on the job of organizing all those subjects and stuff that would be wonderful .
+Uh , Prosody I don't really {disfmarker} I 'm not really sure what prosody means , in this context ,
+and that may actually involve getting more information .
+this is what she had to read {pause} aloud .
+And I don't yet see how that goes .
+and you wanted to specialize it to these three ones , then you would have to supply the parameters .
+You just uh do " this is what we did , and here 's the {pause} thing , and here 's s some of the dialogue and {disfmarker} and so forth . "
+And uh my suggestion is of course we {disfmarker} we keep the wizard , because I think she did a wonderful job ,
+this was the uh first three tasks she had to {disfmarker} to master after she called the system ,
+I think we {disfmarker} I {disfmarker} I can come up with a {disfmarker} a code for a module that we call the " cognitive dispatcher " , which does nothing ,
+That 's kind of related to that .
+And the other trick , which is not a technical trick , it 's kind of a knowledge engineering trick , is to make the n {pause} each node sufficiently narrow that you don't get this combinatorics .
+Um , you know , we have {disfmarker} we have the concept of what their intention was , whether they were trying to tour or do business or whatever ,
+one time , to {disfmarker} pretending to be a human , which is actually not pretending .
+which is there are technical ways of doing it ,
+my idea on that was {pause} uh , partly we 'll talk about system stuff for the computer scientists ,
+and then we want to look up some more stuff in the ontology
+There will be rules , but they aren't rules that come to final decisions , they 're rules that gather information for a decision process .
+S so if you just number them " one " , " two " , " three " it 's
+or they were hurried .
+So the immediate problem is just deciding w which {disfmarker}
+uh , we have a d a technical problem with the belief - nets that we {disfmarker} we don't want all the com
+She also agrees that you know if it 's all just gonna be students the data is gonna be less valuable because of that
+Yeah , so {disfmarker} um , in terms of Context , what we had currently said was whether they were a businessman or a tourist of some other person .
+Five minutes is just too long .
+And um , in terms of World Knowledge , this would just basically be like opening and closing times of things , the time of day it is , and whatnot .
+that 's another sort of thing " OK , here 's a {disfmarker} another kind of minimal uh way of tackling this " .
+too many factors if we {disfmarker} if we allow them to just go combinatorially .
+But the uh {disfmarker} the {disfmarker} the nice thing is that you know , it just is a {disfmarker} is a visual aid for thinking about these things which has comple clearly have to be specified m more carefully
+The harder problem is we decide what we want to use , how are we gonna get it ?
+is , if we just do this , we could wind up with a huge uh , combinatoric input to the Mode thing .
+I should say the system was supposed to break down and then um these were the remaining three tasks that she was going to solve , with a human {disfmarker}
+but partly I did want it to get the linguists involved in some of this issue about what the task is and all {disfmarker} um you know , what the dialogue is , and what 's going on linguistically ,
+So , what I did for this {disfmarker} this is {disfmarker} uh , a pedagogical belief - net
+a deterministic rule for every property
+My guess is it 'll be the same basic agent that um can go off and get information , run it through a {disfmarker} a c this belief - net that {disfmarker}
+Um , Discourse was related to whether they had asked about open hours
+we have to add , you know , not too much about um object types and stuff ,
+So that if you have sources , you have trajectors and stuff like that ,
+Add extra properties ,
+And the two that I came up with were Trajector - landmark and then Source - path - goal as initial ones .
+So . On Friday we had our wizard test data test and um {vocalsound} these are some of the results .
+Um , the Parse would be what verb they chose ,
+but it looks of complect object trees and decides how {disfmarker} are there parts missing that need to be filled out ,
+Well , this is not a working Bayes - net .
+But what I 'd like to be able to do is to have the way that you extract properties , that will go into different Bayes - nets , be the {disfmarker} uh general .
+And um {disfmarker} and here is exactly where what 's gonna be replaced with our Bayes - net ,
+Aspects of the X - schema to add .
+and I grouped things according to what {disfmarker} how I thought they would fit in to uh image schemas that would be related .

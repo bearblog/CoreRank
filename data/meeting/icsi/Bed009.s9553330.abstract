@@ -1,0 +1,90 @@
+2	Bed009.s.1	The ICSI group working on a tourism dialogue manager met with visitors from the group behind the software they are using.
+Bed009.B.dialogueact10	31.772	36.02	B	Grad	z	-1	0	OK Well , so Ralf and Tilman are here .
+Bed009.B.dialogueact50	239.322	241.802	B	Grad	s^rt	-1	0	uh we 'll introduce ourselves and what we do .
+8	Bed009.s.2	The basic aim of the meeting was to discuss the development of the tool , and explain the groups application of it.
+Bed009.F.dialogueact104	431.22	436.61	F	Professor	s	-1	0	Sort of one branch is to get us caught up on what 's going on .
+Bed009.F.dialogueact105	437.104	443.274	F	Professor	s^cs	-1	0	Also of course it would be really nice to know what the plans are , in addition to what 's sort of already in code .
+Bed009.B.dialogueact164	603.98	606.56	B	Grad	s.%--	-1	0	facing to {disfmarker} to what we 've sort of been doing here
+Bed009.B.dialogueact166	609.66	611.83	B	Grad	s	+1	1	well for one thing we 're also using this room to collect data .
+Bed009.B.dialogueact169	616.247	621.147	B	Grad	s.%--	+1	1	no not meeting data but sort of {disfmarker} sort ah our version of a wizard experiment such
+Bed009.B.dialogueact176	633.753	638.424	B	Grad	s	+1	1	and so it 's a {disfmarker} sort of a computer call system that gives you tourist information
+Bed009.B.dialogueact179	640.2	643.55	B	Grad	s	-1	0	And it breaks halfway through the experiment and a human operator comes on .
+Bed009.B.dialogueact180	644.681	654.44	B	Grad	s	-1	0	and part of that is sort of trying to find out whether people change their linguistic verbal behavior when first thinking they speak to a machine and then to a human .
+32	Bed009.s.3	The system is to be used to create , and deliver route plans , but will need to be able to come back and ask for further information.
+Bed009.B.dialogueact215	756.1	761.54	B	Grad	s	+1	0	let 's say a simple parse from a s from an utterance won't really give us is what the person actually wants .
+Bed009.B.dialogueact223	773.93	781.534	B	Grad	s	-1	0	There are all kinds of decisions that we have identified in terms of getting to places and in terms of finding information about things .
+Bed009.B.dialogueact224	782.45	789.65	B	Grad	s	-1	0	And we are constructing {disfmarker} and then we 've identified more or less the extra - linguistic parameters that may f play a role .
+Bed009.B.dialogueact225	789.95	793.23	B	Grad	s	-1	0	Information related to the user and information related to the situation .
+Bed009.B.dialogueact230	813.21	827.87	B	Grad	fh|s	+1	1	And um so the idea is to construct uh um suitable interfaces and a belief - net for a module that actually tries to guess what the underlying intention {pause} was .
+Bed009.B.dialogueact233	840.501	841.901	B	Grad	s	-1	0	you know , " that person doesn't wanna enter .
+Bed009.B.dialogueact234	841.901	846.161	B	Grad	s	-1	0	That person just wants to take a picture , " cuz he just bought film ,
+Bed009.F.dialogueact306	1030.39	1035.66	F	Professor	s	-1	0	So {disfmarker} well , let me {disfmarker} Let me s {pause} expand on that a little bit from the point of view of the generation .
+Bed009.F.dialogueact311	1049.59	1054.33	F	Professor	s	-1	0	There 's a first cut at a belief - net that {disfmarker} that doesn't {disfmarker} it {disfmarker} isn't fully uh instantiated ,
+Bed009.F.dialogueact312	1054.33	1059.37	F	Professor	s	-1	0	and in particular some of the {disfmarker} the combination rules and ways of getting the {disfmarker} the conditional probabilities aren't there .
+Bed009.F.dialogueact313	1059.67	1064.91	F	Professor	s	-1	0	But we believe that we have laid out the fundamental decisions in this little space
+Bed009.F.dialogueact319	1078.17	1079.48	F	Professor	s	+1	0	So that 's a a discrete decision .
+Bed009.F.dialogueact322	1082.29	1093.32	F	Professor	s	-1	0	what one would like is for this uh , knowledge modeling module to add which of those it is and give it to the planner .
+Bed009.F.dialogueact324	1095.14	1116.49	F	Professor	s	+1	1	But , uh th the current design suggests that if it seems to be an important decision and if the belief - net is equivocal so that it doesn't say that one of these is much more probable than the other , then an option is to go back and ask for the information you want .
+Bed009.F.dialogueact327	1118.01	1120.78	F	Professor	s	-1	0	Now there are two ways one can go {disfmarker} a imagine doing that .
+Bed009.F.dialogueact328	1121.28	1124.26	F	Professor	s	-1	0	For the debugging we 'll probably just have a {disfmarker} a drop - down menu
+Bed009.F.dialogueact331	1126.62	1132.61	F	Professor	s	-1	0	But for a full system , then one might very well formulate a query ,
+Bed009.F.dialogueact332	1133.45	1137.54	F	Professor	s:qy	-1	0	give it to the dialogue planner and say this , you know ar are you know you {disfmarker} are you planning to enter ?
+Bed009.F.dialogueact385	1270.84	1276.34	F	Professor	s	-1	0	So there 's ac so there {disfmarker} th the word " action " , OK , is {disfmarker} is what 's ambiguous here .
+Bed009.F.dialogueact389	1276.69	1283.92	F	Professor	fh|s	-1	0	So , um one thing is there 's an actual planner that tells the person in the tourist domain now ,
+Bed009.F.dialogueact397	1289.73	1297.24	F	Professor	s	-1	0	So that 's that form of planning , and action , and a route planner and GIS , all sort of stuff .
+Bed009.A.dialogueact400	1301.46	1307.68	A	PhD	s^df	-1	0	No , in SmartKom terminology that 's um called a function that 's modeled by a function modeler .
+Bed009.F.dialogueact638	1920.91	1924.43	F	Professor	s	-1	0	There is {disfmarker} there 's a logic to dialogue which {disfmarker} which is {disfmarker} is separable .
+Bed009.B.dialogueact642	1935.08	1937.71	B	Grad	s	-1	0	you know f " Find me a good route for this . "
+Bed009.B.dialogueact644	1938.11	1942.82	B	Grad	s	-1	0	It doesn't really have to worry ab how route planner A or how route planner B actually wants it .
+Bed009.F.dialogueact649	1953.54	1965.11	F	Professor	s	-1	0	I think it will turn out to be the case that uh , this thing we 're talking about , th the extended n uh knowledge modeler will fill in some parameters about what the person wants .
+Bed009.F.dialogueact650	1965.11	1975.91	F	Professor	s	-1	0	One could well imagine that the next thing that 's trying to fill out the detailed uh , route planning , let 's say , will also have questions that it would like to ask the user .
+Bed009.F.dialogueact651	1976.67	1981.98	F	Professor	s	-1	0	You could well imagine you get to a point where it 's got a {disfmarker} a choice to make and it just doesn't know something .
+Bed009.F.dialogueact652	1983.28	1990.94	F	Professor	s	-1	0	And so y you would like it t also be able to uh formulate a query .
+Bed009.F.dialogueact654	1992.41	2000.19	F	Professor	s	-1	0	And to run that back through uh . the dialogue manager and to the output module and back around .
+Bed009.F.dialogueact656	2001.01	2004.61	F	Professor	s	-1	0	And a I a a good design would {disfmarker} would allow that to happen .
+Bed009.F.dialogueact671	2031.08	2033.62	F	Professor	s	+1	1	So that forces the dialogue manager to change state .
+13	Bed009.s.4	They discussed with their visitors where this application fits into the original system.
+Bed009.A.dialogueact264	930.76	936.52	A	PhD	qw^rt	-1	0	Well the obvious one would be if {disfmarker} if you envision this as a module within SmartKom , where exactly would that Sit ?
+Bed009.B.dialogueact265	937.24	943.17	B	Grad	h|s.x	+1	1	um {disfmarker} so far I 've thought of it as sort of adding it onto the modeler knowledge module .
+Bed009.B.dialogueact274	951.38	955.97	B	Grad	s.%--	-1	0	I mean basically this is what attention - recognition literally sort of can {disfmarker}
+Bed009.F.dialogueact319	1078.17	1079.48	F	Professor	s	+1	0	So that 's a a discrete decision .
+Bed009.F.dialogueact322	1082.29	1093.32	F	Professor	s	-1	0	what one would like is for this uh , knowledge modeling module to add which of those it is and give it to the planner .
+Bed009.F.dialogueact324	1095.14	1116.49	F	Professor	s	+1	1	But , uh th the current design suggests that if it seems to be an important decision and if the belief - net is equivocal so that it doesn't say that one of these is much more probable than the other , then an option is to go back and ask for the information you want .
+Bed009.A.dialogueact355	1190.08	1198.8	A	PhD	fg|s	+1	0	So {disfmarker} my suggestion then is that you um look into the currently ongoing discussion about how the action plans are supposed to look like .
+Bed009.A.dialogueact356	1199.47	1212.08	A	PhD	s	+1	1	And they 're currently um Agreeing or {disfmarker} or in the process of agreeing on an X M L - ification of um something like a state - transition network of how dialogues would proceed .
+Bed009.A.dialogueact357	1212.41	1219.39	A	PhD	s	-1	0	and {disfmarker} The {disfmarker} these um transition networks uh will be what the action planner interprets in a sense .
+Bed009.A.dialogueact401	1308.56	1312.96	A	PhD	s	-1	0	And it 's th that 's completely um encapsulated from th the dialogue system .
+Bed009.A.dialogueact400	1301.46	1307.68	A	PhD	s^df	-1	0	No , in SmartKom terminology that 's um called a function that 's modeled by a function modeler .
+Bed009.A.dialogueact403	1316.57	1323.17	A	PhD	s	-1	0	and then you get back from that mmm , a functioning model um which might be a planner or a VCR or whatever .
+Bed009.F.dialogueact407	1327.62	1331.94	F	Professor	s^bu	+1	0	So action he action here means dia uh speech ac uh you know dialogue act .
+30	Bed009.s.5	They also discussed where the system was going , and arranged another meeting to discuss at greater length.
+Bed009.F.dialogueact109	445.733	450.49	F	Professor	qy^rt	-1	0	w w was there uh a time when we were set up to do that ?
+Bed009.F.dialogueact110	450.67	457.339	F	Professor	s^cs	-1	0	It probably will work better if we do it later in the week , after {pause} we actually understand uh better what 's going on .
+Bed009.F.dialogueact122	463.501	472.491	F	Professor	s^cc	+1	1	so anyt we 'll find a time later in the week to uh get together and talk about {pause} your understanding of what SmartKom plans are .
+Bed009.A.dialogueact355	1190.08	1198.8	A	PhD	fg|s	+1	0	So {disfmarker} my suggestion then is that you um look into the currently ongoing discussion about how the action plans are supposed to look like .
+Bed009.A.dialogueact356	1199.47	1212.08	A	PhD	s	+1	1	And they 're currently um Agreeing or {disfmarker} or in the process of agreeing on an X M L - ification of um something like a state - transition network of how dialogues would proceed .
+Bed009.A.dialogueact357	1212.41	1219.39	A	PhD	s	-1	0	and {disfmarker} The {disfmarker} these um transition networks uh will be what the action planner interprets in a sense .
+Bed009.A.dialogueact363	1227.03	1231.69	A	PhD	s	-1	0	and Marcus and Michael together are um leading the discussion there ,
+Bed009.F.dialogueact366	1232.4	1233.77	F	Professor	s	+1	0	So we ha we have to get in on that .
+Bed009.F.dialogueact369	1234.63	1239.79	F	Professor	s	-1	0	because um partly those are like X - schemas .
+Bed009.F.dialogueact372	1240.55	1241.74	F	Professor	s	-1	0	the transition diagrams .
+Bed009.F.dialogueact374	1242.21	1250.19	F	Professor	s	-1	0	And it may be that {disfmarker} that um we should early on make sure that they have the flexibility that we need .
+Bed009.B.dialogueact475	1490.64	1499.35	B	Grad	qw.%--	-1	0	Who {disfmarker} How far is the uh the {disfmarker} the M - three - L specification for {disfmarker} for the la natural language input gone on the {disfmarker} the uh
+Bed009.D.dialogueact484	1515.19	1519.59	D	Grad	s^aa|s	-1	0	Yeah , there 's a meeting next next week I think
+Bed009.B.dialogueact705	2144.14	2150.29	B	Grad	s^rt	-1	0	But we are facing of course much more um realistic problems .
+Bed009.B.dialogueact706	2151.32	2158.39	B	Grad	s^rt	+1	0	And language input for example , is of course uh crucial you know also when you do the sort of deep understanding analysis that we envision .
+Bed009.B.dialogueact711	2168.7	2174.98	B	Grad	fh|qo	-1	0	and um so we {disfmarker} we 're thinking , for example how much syntactic analysis actually happens already in the parser .
+Bed009.B.dialogueact713	2175.64	2178.59	B	Grad	s^rt	-1	0	and whether one could interface to that potentially
+Bed009.D.dialogueact715	2178.78	2180.45	D	Grad	qy.%--	-1	0	are there currently is uh
+Bed009.D.dialogueact716	2180.45	2181.96	D	Grad	s^rt	-1	0	no syntactic analysis
+Bed009.D.dialogueact717	2182.64	2185.09	D	Grad	s	-1	0	but in the next release there will be some .
+Bed009.F.dialogueact727	2200.84	2202.88	F	Professor	qw	+1	0	Uh , So what are {disfmarker} what are the plans roughly ?
+Bed009.D.dialogueact728	2203.7	2207.74	D	Grad	h|s^rt	+1	1	um it 's to {disfmarker} to integrate and syntactic analysis .
+Bed009.D.dialogueact729	2208.71	2213.64	D	Grad	s^rt	-1	0	and um add some more features like segmentation .
+Bed009.D.dialogueact730	2214.39	2223.13	D	Grad	s^rt	-1	0	So then an utter more than one utterance is {disfmarker} There um there 's often uh pause between it
+Bed009.F.dialogueact736	2238.05	2240.24	F	Professor	qy^rt	-1	0	Do you have a particular parser in mind ?
+Bed009.F.dialogueact738	2242.82	2244.15	F	Professor	qy.%--	-1	0	I mean have you thought through {disfmarker} ?
+Bed009.D.dialogueact741	2248.75	2251.99	D	Grad	s^ar|s.%--	-1	0	No {disfmarker} no it 's {disfmarker} uh I think it 's it 's totally complicated for
+Bed009.D.dialogueact749	2257.94	2260.63	D	Grad	s	-1	0	ah and so {vocalsound} things must be simpler
+Bed009.D.dialogueact760	2279.33	2282.81	D	Grad	s^bk|s	+1	1	Yeah , uh the problem is th that it has to be very fast
+Bed009.D.dialogueact769	2300.5	2306.11	D	Grad	s	+1	1	And they also have to be very robust . cuz of um speech recognition errors

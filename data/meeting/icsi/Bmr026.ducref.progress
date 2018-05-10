@@ -1,0 +1,11 @@
+The group are still waiting for IBM to return transcripts next week.
+This is not holding the group up , since parallel transcription is being used , and new transcribers have been recruited.
+The web page detailing transcription status is working and being updated when possible.
+Backed-up disk space has been seen as a priority by sysadmin , and the group are now only using 30% of this.
+DARPA demos are progressing , with indexing added to the back-end , which will allow the front end to do filtering.
+Transcriber has been developed to run on a Windows machine , with further development being undertaken to add a pitch contour display.
+There is also the potential for a demo to be developed from X Waves.
+The final version of PLP has been tested which shows similar performance as the system with the Mel Ceptra front-end ( although performance for males is slightly , but non-significantly better ).
+Combining the two systems gives a 1.5% improvement in performance.
+There has also been some improvement with digits , by training the system on read speech data , rather than training solely on TI digits or TIMIT data.
+Progress is being made with SRI system alignment , with label files converted to train the net.

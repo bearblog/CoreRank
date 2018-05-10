@@ -1,0 +1,17 @@
+5	Bed002.s.27	When asking for directions , a user of a navigational device may wish to either view , enter or simply approach a building.
+Bed002.B.dialogueact245	824.32	830.38	B	Grad	s	+1	2	So , {vocalsound} what we found interesting is , first of all , intentions differ .
+Bed002.B.dialogueact249	838.243	841.883	B	Grad	s	+1	2	Or maybe you actually want to come as close as possible to the building .
+Bed002.B.dialogueact247	834.955	836.235	B	Grad	s	+1	2	Maybe you want to see it ,
+Bed002.B.dialogueact246	831.525	833.985	B	Grad	s	+1	2	Maybe you want to enter a building .
+Bed002.B.dialogueact263	886.1	895.612	B	Grad	s.%--	+1	2	If you don't have the intention of entering your building , but you know that something is really close to it , and you just want to approach it , or get to that building .
+2	Bed002.s.28	This was identified as an initial problem to be tackled through "deep understanding"-type inferences.
+Bed002.B.dialogueact342	1130.25	1135.45	B	Grad	s	+1	2	Maybe for a deep understanding task , that 's a nice sort of playground or first little thing . "
+Bed002.C.dialogueact373	1240.27	1248.84	C	Professor	s	+1	2	So we think it 's a well - formed , uh , starter task for this , uh , deeper understanding in the tourist domain .
+2	Bed002.s.29	There is a set of data to start work on from previous work.
+Bed002.C.dialogueact606	1862.33	1864.18	C	Professor	s	+1	2	these {disfmarker} We have all these transcripts
+Bed002.C.dialogueact1057	2947.19	2949.75	C	Professor	s	+1	1	and we have some {disfmarker} some data that 's loose ,
+3	Bed002.s.30	Similarly , the SmartKom data-format and an ontology developed for the tourist domain ( both in XML-standard formats ) can be used as groundwork for defining the features , which indicate the user's intentions.
+Bed002.B.dialogueact1102	3072.15	3077.63	B	Grad	s	+1	1	For example , this th th the dialogue history is {disfmarker} is um , producing XML documents .
+Bed002.B.dialogueact1104	3079.45	3089.21	B	Grad	s.x	+1	1	And the ontology that um , uh the student is {disfmarker} is constructing for me back in {disfmarker} in EML is in OIL and that 's also in XML .
+Bed002.B.dialogueact1105	3089.66	3095.29	B	Grad	s.x	+1	1	And so that 's where a lot of knowledge about bakeries , about hotels , about castles and stuff is gonna come from .
+0	Bed002.s.31	For the creation and management of the belief-nets necessary for the task , there are readily available packages -such as JavaBayes- and tools that can provide the infrastructure for a prototype system.

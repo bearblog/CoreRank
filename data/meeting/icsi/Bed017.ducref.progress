@@ -1,0 +1,9 @@
+The first phase of the data collection has been completed.
+Thirty subjects were recorded in total.
+Of those dialogues , ten have been transcribed.
+A new wizard will carry out the second phase.
+On top of this , a presentation of a PRM of the proposed system took place.
+The PRM comprises a set of classes , such as "user" , "site" , "route" , "time" and "query" with relations between them.
+Another class incorporates a number of attributes ( "money affordability" , "travel compatibility" etc ) modelling the intermediate nodes of the Bayes-net , as well as references to the other classes in the model.
+This model is much cleaner , and it also makes it easier to specify the CPT's.
+At this stage , the model makes two decisions ( outputs ): how much a site fits a user's needs and what the user intention is in EVA terms.

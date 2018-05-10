@@ -1,0 +1,176 @@
+9	IS1008b.JacquelinePalmer.s.1	The Project Manager gave new requirements for the product: the remote will not include a teletext function , will only be used for television , and must show the corporate image.
+
+IS1008b.A.dialog-act.vkaraisk.30	114.26	115.99	A	PM	inf	+1	1	management come with the new proposal ,
+IS1008b.A.dialog-act.vkaraisk.32	116.44	118.79	A	PM	off	+1	1	and I have to discuss a few points on this .
+IS1008b.A.dialog-act.vkaraisk.33	119.56	124.38	A	PM	inf	+1	1	Uh both says new insights in the aim of your project .
+IS1008b.A.dialog-act.vkaraisk.34	126.36	135.42	A	PM	inf	+1	1	Uh the one is uh the teletext becomes uh outmoded , okay because if uh because of the computer systems and the new technology .
+IS1008b.A.dialog-act.vkaraisk.37	136.42	140.59	A	PM	inf	+1	1	we don't need to consider really about the teletext all in our new project design .
+IS1008b.A.dialog-act.vkaraisk.38	141.35	145.44	A	PM	inf	+1	1	And the second one is about uh the remote control .
+IS1008b.A.dialog-act.vkaraisk.39	146.37	149.19	A	PM	inf	+1	1	Should be used only for the T_V_ .
+IS1008b.A.dialog-act.vkaraisk.41	153.78	164.6	A	PM	inf	+1	1	And the third point , it's very very important to establish our uh marketing or uh corporate image , okay , with this new project or new product .
+31	IS1008b.JacquelinePalmer.s.2	The Industrial Designer presented  possible components to consider.
+IS1008b.A.dialog-act.vkaraisk.48	178.86	183.03	A	PM	sug	+1	1	I'll invite uh Christine to discuss about uh the functional design .
+IS1008b.B.dialog-act.vkaraisk.9	213.98	219.14	B	ID	sug	+1	1	I I figured uh we should um identify some user requirements ,
+IS1008b.B.dialog-act.vkaraisk.11	219.14	230.29	B	ID	sug	+1	1	and from my experience , I wanna uh , and from {vocalsound} research I did , uh the the device has to turn the television on and off the first time you press on the big button ,
+IS1008b.B.dialog-act.vkaraisk.15	238.64	243.54	B	ID	inf	+1	1	Because one of the biggest problems with remote controls is finding them .
+IS1008b.B.dialog-act.vkaraisk.17	245.77	250.01	B	ID	inf	+1	1	since we have to establish our corporate image on the basis of this new product ,
+IS1008b.B.dialog-act.vkaraisk.20	250.01	251.97	B	ID	sug	+1	1	thought we better look at things that are popular
+IS1008b.B.dialog-act.vkaraisk.21	251.97	254.12	B	ID	sug	+1	1	and um ex go beyond those ,
+IS1008b.B.dialog-act.vkaraisk.22	256.58	268.5	B	ID	sug	+1	1	um {vocalsound} and then uh we might wanna talk eventually about the materials that are appropriate to use in uh in the construction , especially in the the uh the outside of the product
+IS1008b.B.dialog-act.vkaraisk.25	273.67	277.67	B	ID	inf	+1	1	I did a little history on uh the the uh remote controls
+IS1008b.B.dialog-act.vkaraisk.46	334.46	342.569	B	ID	inf	+1	1	all these devices are examples of where uh mm {disfmarker} they {vocalsound} represent examples that are available today {vocalsound}
+IS1008b.B.dialog-act.vkaraisk.47	342.569	348.24	B	ID	be.pos	+1	1	{vocalsound} which I think the one in the middle is r um really uh something to keep in mind .
+IS1008b.B.dialog-act.vkaraisk.50	354.41	356.51	B	ID	be.pos	+1	1	you could throw it at things
+IS1008b.B.dialog-act.vkaraisk.51	356.51	360.68	B	ID	be.pos	+1	1	if if the T_V_ didn't turn on and off , you could use it for something else .
+IS1008b.B.dialog-act.vkaraisk.54	367.14	374.43	B	ID	inf	+1	1	But um {vocalsound} I just {vocalsound} took some {vocalsound} different uh schematics
+IS1008b.B.dialog-act.vkaraisk.56	376.07	380.07	B	ID	inf	+1	1	and I guess this is what a slide might look like if you were drawing a circuit board .
+IS1008b.B.dialog-act.vkaraisk.59	385.54	387.81	B	ID	inf	+1	1	personal preferences , {vocalsound} um
+IS1008b.B.dialog-act.vkaraisk.61	389.11	391.33	B	ID	ass	+1	1	uh I I'm really thinking outside the box here ,
+IS1008b.B.dialog-act.vkaraisk.62	391.33	400.08	B	ID	sug	+1	1	and I think that we should consider perhaps having an an an a a size uh {vocalsound} {disfmarker} a remote control that changes in size depending on the user preference .
+IS1008b.B.dialog-act.vkaraisk.63	400.34	403.08	B	ID	sug	+1	1	So something that's very very flexible and inflatable
+IS1008b.B.dialog-act.vkaraisk.65	404.42	408.01	B	ID	sug	+1	1	I think um it could either be {disfmarker} you could go either one extreme ,
+IS1008b.B.dialog-act.vkaraisk.66	408.01	409.06	B	ID	sug	+1	1	be very colourful ,
+IS1008b.B.dialog-act.vkaraisk.67	409.06	411.12	B	ID	sug	+1	1	or you could make it clear ,
+IS1008b.B.dialog-act.vkaraisk.68	411.12	413.71	B	ID	sug	+1	1	and um kind of blend in with things ,
+IS1008b.B.dialog-act.vkaraisk.70	421.52	424.4	B	ID	sug	+1	1	Um I think uh it needs to be waterproof ,
+IS1008b.B.dialog-act.vkaraisk.71	424.4	427.34	B	ID	inf	+1	1	because uh sometimes they fall into cups
+IS1008b.B.dialog-act.vkaraisk.76	433.56	437.91	B	ID	inf	+1	1	one of my requirements was about needs t to tell you when it's done its job or not ,
+IS1008b.B.dialog-act.vkaraisk.77	437.91	440.59	B	ID	inf	+1	1	because half the time , I keep pushing on the remote control ,
+IS1008b.B.dialog-act.vkaraisk.78	440.59	443.85	B	ID	inf	+1	1	and I don't know if it's actually understood my message ,
+IS1008b.B.dialog-act.vkaraisk.79	443.85	446.47	B	ID	sug	+1	1	so I think it should give you some sort of an oral cue .
+IS1008b.B.dialog-act.vkaraisk.80	446.92	449.88	B	ID	sug	+1	1	And uh , course I never wanna replace the battery .
+IS1008b.B.dialog-act.vkaraisk.104	552.3	556.048	B	ID	inf	+1	1	nobody told me how mu what our financial objective is , so um {disfmarker}
+14	IS1008b.JacquelinePalmer.s.3	The group then discussed hard materials to include in the design.
+IS1008b.A.dialog-act.vkaraisk.57	456.99	461.13	A	PM	sug	+1	2	if you can add other facility , other feature , like uh unbreakable .
+IS1008b.A.dialog-act.vkaraisk.59	462.52	467.48	A	PM	inf	+1	1	because uh especially today , you know , you have the family and the kids ,
+IS1008b.A.dialog-act.vkaraisk.61	467.81	468.87	A	PM	inf	+1	1	and the kids throw it
+IS1008b.A.dialog-act.vkaraisk.66	472.86	479.71	A	PM	sug	+1	1	if you can add the feature , okay , for your uh fabric whatever in your outline design okay , with unbreakable ,
+IS1008b.A.dialog-act.vkaraisk.68	479.95	484.21	A	PM	ass	+1	1	I think that will give a lot of advantage for our product ,
+IS1008b.C.dialog-act.vkaraisk.16	513.3	516.26	C	UI	el.sug	+1	1	Do you have any preconceived ideas in terms of materials ?
+IS1008b.C.dialog-act.vkaraisk.17	516.79	521.14	C	UI	inf	+1	2	'Cause , for example , in the unbreakable thing , doing something plastic would be harder ,
+IS1008b.C.dialog-act.vkaraisk.18	521.14	530.223	C	UI	inf	+1	1	whereas having something like , I dunno , steel or titanium isn't really economically viable . {vocalsound}
+IS1008b.B.dialog-act.vkaraisk.93	525.7	530.41	B	ID	inf	+1	1	Titanium would be {vocalsound} be heavy , too ,
+IS1008b.B.dialog-act.vkaraisk.96	533.98	536.16	B	ID	el.ass	+1	1	um {disfmarker} I wanted feedback ,
+IS1008b.B.dialog-act.vkaraisk.98	538.24	541.7	B	ID	el.ass	+1	1	but we'll see what your uh personal preferences are and your thoughts .
+IS1008b.B.dialog-act.vkaraisk.99	543.905	545.03	B	ID	ass	+1	1	{vocalsound} I like titanium .
+IS1008b.D.dialog-act.vkaraisk.4	546.73	547.4	D	ME	inf	+1	1	Expensive .
+IS1008b.B.dialog-act.vkaraisk.105	557.2	560.69	B	ID	be.pos	+1	1	It'd be hard to inflate something ou made out of titanium though {vocalsound} .
+40	IS1008b.JacquelinePalmer.s.4	The Marketing Expert presented an initial sales plan and showed that there is a demand for remotes featuring voice recognition and other capabilities; the group discussed how it could be integrated into the functional design.
+IS1008b.D.dialog-act.vkaraisk.14	735.69	745.12	D	ME	inf	+1	1	from the marketing {disfmarker} yeah , from the marketing side , just to to give an idea what the management is looking for , I was looking for a a remote control to have a s
+IS1008b.D.dialog-act.vkaraisk.16	747.59	751.12	D	ME	inf	+1	1	I have a sales price of twenty-five Euro ,
+IS1008b.D.dialog-act.vkaraisk.17	751.12	754.42	D	ME	inf	+1	1	with a production price of uh twelve and a half Euro .
+IS1008b.D.dialog-act.vkaraisk.18	756.77	764.13	D	ME	inf	+1	1	For what uh I think from what we're trying to find , we're tr we're looking for , I don't think that price is exactly in the market .
+IS1008b.D.dialog-act.vkaraisk.22	770.62	779.57	D	ME	inf	+1	1	in the recent surveys , uh from the ages {disfmarker} fr from fifteen to thirty-five , eighty percent are willing to spend more money for something as fancy as trendy .
+IS1008b.D.dialog-act.vkaraisk.23	780.59	783.59	D	ME	ass	+1	1	Twenty-five Euros , uh that's that's a preson reasonable price .
+IS1008b.D.dialog-act.vkaraisk.25	785.69	791.35	D	ME	sug	+1	1	Now if we're gonna take a risk , and push this up a bit , make it more expensive ,
+IS1008b.D.dialog-act.vkaraisk.27	794.76	796.5	D	ME	ass	+1	1	then it w it could possibly sell .
+IS1008b.D.dialog-act.vkaraisk.30	800.08	806.0	D	ME	ass	+1	1	But , I think uh there's one other thing interesting {disfmarker} two things that are interesting {gap}
+IS1008b.D.dialog-act.vkaraisk.31	806.0	815.2	D	ME	inf	+1	1	is that uh from the fifteen to thirty-five year-old group , which always spends more money on trendy new things , speech recognition is requested .
+IS1008b.D.dialog-act.vkaraisk.32	816.49	824.53	D	ME	inf	+1	1	And we're talking between seventy-five to ninety percent of this group is willing to pay for speech recognition on a remote .
+IS1008b.D.dialog-act.vkaraisk.33	825.47	827.98	D	ME	inf	+1	1	Obviously , we can't make a remote into a computer ,
+IS1008b.D.dialog-act.vkaraisk.34	827.98	829.76	D	ME	sug	+1	1	but maybe simple commands .
+IS1008b.D.dialog-act.vkaraisk.37	831.38	834.79	D	ME	sug	+1	1	louder , softer , on , off .
+IS1008b.D.dialog-act.vkaraisk.41	842.75	845.0	D	ME	inf	+1	1	Thirty-five percent say they're too difficult to use .
+IS1008b.D.dialog-act.vkaraisk.42	845.37	848.04	D	ME	sug	+1	1	So we have to figure out a way of making it um more user friendly .
+IS1008b.D.dialog-act.vkaraisk.43	848.737	855.137	D	ME	inf	+1	1	{vocalsound} Uh fifty percent say they can't find the remote half the time . {vocalsound}
+IS1008b.D.dialog-act.vkaraisk.44	855.45	858.15	D	ME	sug	+1	2	So maybe one word speech recognition commands ,
+IS1008b.D.dialog-act.vkaraisk.45	858.15	860.04	D	ME	sug	+1	2	say remote , and there's a beep beep beep ,
+IS1008b.D.dialog-act.vkaraisk.47	866.0	869.72	D	ME	ass	+1	1	But , in the cost that uh the management is looking for , that's not gonna be possible .
+IS1008b.D.dialog-act.vkaraisk.50	871.35	872.16	D	ME	sug	+1	1	But if it's trendy ,
+IS1008b.D.dialog-act.vkaraisk.51	872.16	872.92	D	ME	sug	+1	1	if it's fancy ,
+IS1008b.D.dialog-act.vkaraisk.52	872.92	874.63	D	ME	sug	+1	1	it's got some colour to it ,
+IS1008b.D.dialog-act.vkaraisk.53	874.63	876.54	D	ME	sug	+1	1	if it's very easy {disfmarker} easy to use ,
+IS1008b.D.dialog-act.vkaraisk.54	876.54	886.47	D	ME	sug	+1	2	if it's got simple remote {disfmarker} speech remote uh control , like I said , louder , softer , change channel , on , off , remote , it goes beep beep ,
+IS1008b.D.dialog-act.vkaraisk.48	892.43	900.32	D	ME	sug	+1	1	So we're gonna have to look at it in a {vocalsound} in this global idea , with the ideas of the industrial uh design .
+IS1008b.D.dialog-act.vkaraisk.49	901.11	903.1	D	ME	sug	+1	1	But , price obviously we have to talk about .
+IS1008b.A.dialog-act.vkaraisk.131	916.95	922.74	A	PM	el.ass	+1	1	What do you think about uh the design , uh what he was talking about {disfmarker} of the speech recognition ?
+IS1008b.B.dialog-act.vkaraisk.117	926.72	930.87	B	ID	ass	+1	1	training is always an issue with uh commands .
+IS1008b.B.dialog-act.vkaraisk.120	933.3	944.35	B	ID	ass	+1	1	uh {disfmarker} we can perhaps um {vocalsound} do it if the user is willing to spend some time in the training process ,
+IS1008b.B.dialog-act.vkaraisk.123	951.402	960.65	B	ID	inf	+1	1	{vocalsound} But um anyway , um {vocalsound} I I think also that uh this might impact the battery life .
+IS1008b.B.dialog-act.vkaraisk.125	963.03	972.4	B	ID	sug	+1	1	maybe what we'll have to do is um add something where you can um recharge it wirelessly
+IS1008b.B.dialog-act.vkaraisk.128	978.28	979.95	B	ID	sug	+1	1	or maybe uh set it out in the sun
+IS1008b.B.dialog-act.vkaraisk.129	979.95	985.41	B	ID	sug	+1	1	and it uh , you know , gets uh , from the light , um a a solar cell inside there
+IS1008b.C.dialog-act.vkaraisk.32	991.27	994.79	C	UI	ass	+1	1	It seems also like with the speech recognition , yeah , it's a great feature ,
+IS1008b.C.dialog-act.vkaraisk.33	994.79	998.17	C	UI	inf	+1	1	but if you're watching T_V_ , there's a lot of ambient sound ,
+IS1008b.C.dialog-act.vkaraisk.37	1003.78	1011.53	C	UI	sug	+1	1	so then you have to make sure that the speech recognizer is good enough to filter out the T_V_ speech , and the the user's speech .
+IS1008b.D.dialog-act.vkaraisk.59	1041.17	1047.21	D	ME	be.neg	+1	1	Because tha w {vocalsound} with speech recognition uh th I'm not that good at that idea
+IS1008b.D.dialog-act.vkaraisk.67	1061.68	1070.42	D	ME	inf	+1	1	Because I think s with speech recognition , if uh the the remote or like the telephone {vocalsound} {disfmarker} it has a exact word that it has to hear .
+IS1008b.D.dialog-act.vkaraisk.68	1071.08	1073.75	D	ME	ass	+1	1	I don't think it would come through a sentence in a television .
+6	IS1008b.JacquelinePalmer.s.5	The Project Manager offered to help the Industrial Designer find companies to provide help in integrating this component.
+IS1008b.A.dialog-act.vkaraisk.135	1099.64	1101.96	A	PM	off	+1	1	what I can uh suggest to you , Christine ,
+IS1008b.A.dialog-act.vkaraisk.137	1102.35	1116.99	A	PM	sug	+1	2	uh if you need some uh {disfmarker} the technical feedback , or some training , okay , about uh this facility , especially for the speech recognition , I can recommend you some companies like uh Intel or I_B_M_ ,
+IS1008b.A.dialog-act.vkaraisk.139	1117.39	1120.36	A	PM	inf	+1	1	because they're already in this uh speech recognition part ,
+IS1008b.A.dialog-act.vkaraisk.143	1127.95	1132.52	A	PM	off	+1	2	and uh if you want , I can coordinate , okay , to get some information ,
+IS1008b.A.dialog-act.vkaraisk.146	1132.86	1145.0	A	PM	sug	+1	1	and uh you can uh let me know , okay , so what kind of uh the details you require okay , to add this feature in this project .
+IS1008b.A.dialog-act.vkaraisk.149	1153.14	1159.69	A	PM	sug	+1	1	we need to know how much is the timeframe you need to develop , apart from uh what {gap} today .
+13	IS1008b.JacquelinePalmer.s.6	The designers expressed that they needed more information from the board on their expectations for the product.
+IS1008b.D.dialog-act.vkaraisk.80	1164.33	1167.23	D	ME	sug	+1	2	From from your side uh , you're gonna have to go back the management
+IS1008b.D.dialog-act.vkaraisk.81	1167.23	1169.46	D	ME	sug	+1	2	and s be more s precise .
+IS1008b.D.dialog-act.vkaraisk.82	1169.46	1170.54	D	ME	el.sug	+1	2	What do they want ?
+IS1008b.D.dialog-act.vkaraisk.83	1170.54	1173.52	D	ME	el.ass	+1	1	Uh {vocalsound} , a risk , take a risk on the market ?
+IS1008b.D.dialog-act.vkaraisk.84	1173.52	1178.42	D	ME	el.ass	+1	1	Something that's gonna cost more , but could very easily s make a boom in the market ?
+IS1008b.D.dialog-act.vkaraisk.85	1179.08	1180.97	D	ME	sug	+1	1	Because it has to be something totally different ,
+IS1008b.A.dialog-act.vkaraisk.156	1185.78	1187.82	A	PM	inf	+1	1	but end of the day , you're the sales guy ,
+IS1008b.A.dialog-act.vkaraisk.161	1194.13	1198.73	A	PM	sug	+1	1	It's uh of course it's uh good to uh tell the management how much it's cost us
+IS1008b.A.dialog-act.vkaraisk.165	1201.86	1209.75	A	PM	off	+1	1	I don't mind to convince , okay , the management to spend some more money on the project , okay , if you can make out of
+IS1008b.A.dialog-act.vkaraisk.172	1218.29	1221.94	A	PM	inf	+1	2	The management says , okay , so they they don't want certain facilities ,
+IS1008b.A.dialog-act.vkaraisk.175	1223.98	1225.51	A	PM	inf	+1	1	they want something uh new ,
+IS1008b.A.dialog-act.vkaraisk.177	1226.21	1229.09	A	PM	inf	+1	2	I think uh like uh speech recognit definitely they will agree ,
+IS1008b.A.dialog-act.vkaraisk.180	1231.79	1235.45	A	PM	oth	+1	2	And uh I hope I can convince the management on that ,
+36	IS1008b.JacquelinePalmer.s.7	The User Interface Designer gave a presentation on product design from the user's perspective and emphasized simplicity in design.
+IS1008b.C.dialog-act.vkaraisk.65	1332.31	1339.18	C	UI	inf	+1	1	the method that we usually use in the user interface design is that we need to look at what people like and what people don't like about existing products .
+IS1008b.C.dialog-act.vkaraisk.66	1339.18	1341.13	C	UI	inf	+1	1	So , in our case , existing remote controls .
+IS1008b.C.dialog-act.vkaraisk.71	1347.3	1350.95	C	UI	inf	+1	1	We seem to have intuitions about why things are good or things are bad ,
+IS1008b.C.dialog-act.vkaraisk.72	1350.95	1356.31	C	UI	inf	+1	1	but when you look , technically , at how it works , sometimes that's not the case .
+IS1008b.C.dialog-act.vkaraisk.73	1356.89	1359.79	C	UI	sug	+1	1	Then we need to decide what functionalities we really want to keep ,
+IS1008b.C.dialog-act.vkaraisk.75	1364.52	1366.94	C	UI	sug	+1	1	Um and then what the remote control should look like ,
+IS1008b.C.dialog-act.vkaraisk.78	1371.63	1375.6	C	UI	sug	+1	1	in terms of the functionalities that we need , you obviously need to be able to turn the T_V_ on and off .
+IS1008b.C.dialog-act.vkaraisk.79	1375.6	1381.12	C	UI	sug	+1	1	You need to change channels , both by directly going to a specific channel or by channel surfing .
+IS1008b.C.dialog-act.vkaraisk.80	1381.12	1382.81	C	UI	sug	+1	1	You need to be able to control the volume
+IS1008b.C.dialog-act.vkaraisk.81	1382.81	1387.68	C	UI	sug	+1	1	and then control any menus on the T_V_ to regulate contrast or whatever .
+IS1008b.C.dialog-act.vkaraisk.83	1392.51	1397.18	C	UI	inf	+1	1	the problems that people have expressed is that there's too many buttons on remote controls , in general .
+IS1008b.C.dialog-act.vkaraisk.84	1397.62	1400.79	C	UI	inf	+1	1	The buttons {disfmarker} it's not clear what they're supposed to do .
+IS1008b.C.dialog-act.vkaraisk.85	1401.33	1408.18	C	UI	inf	+1	1	Um often , you need to know specific button sequences {vocalsound} to get certain functionalities done ,
+IS1008b.C.dialog-act.vkaraisk.86	1408.18	1412.93	C	UI	inf	+1	1	um which you don't necessarily always remember , especially if it's a functionality that you don't use very often .
+IS1008b.C.dialog-act.vkaraisk.89	1416.74	1418.84	C	UI	inf	+1	1	here we've got two examples
+IS1008b.C.dialog-act.vkaraisk.90	1418.84	1424.43	C	UI	inf	+1	1	where here on the left-hand side , you can see a remote control that has lots and lots of buttons .
+IS1008b.C.dialog-act.vkaraisk.91	1424.43	1426.7	C	UI	ass	+1	1	The buttons , in a lot of cases , are tiny .
+IS1008b.C.dialog-act.vkaraisk.93	1429.65	1430.58	C	UI	inf	+1	1	they're labelled ,
+IS1008b.C.dialog-act.vkaraisk.95	1430.58	1434.04	C	UI	ass	+1	1	but the labels don't necessarily tell you too much .
+IS1008b.C.dialog-act.vkaraisk.96	1434.33	1437.81	C	UI	inf	+1	1	Whereas , on the other side , you have a much simpler remote control
+IS1008b.C.dialog-act.vkaraisk.97	1437.81	1442.72	C	UI	inf	+1	1	that I think basically has the minimum functionalities {vocalsound} that are needed .
+IS1008b.C.dialog-act.vkaraisk.98	1442.72	1448.29	C	UI	inf	+1	1	And it sort of looks simpler and just less imposing when you first look at it .
+IS1008b.C.dialog-act.vkaraisk.99	1448.29	1454.06	C	UI	sug	+1	1	So , I would be inclined to go sort of towards this , in terms of design , rather than this .
+IS1008b.C.dialog-act.vkaraisk.100	1454.54	1461.29	C	UI	sug	+1	1	And if there's specific functionalities that require more buttons , then we can figure out how to do it with existing um buttons .
+IS1008b.C.dialog-act.vkaraisk.101	1462.02	1466.24	C	UI	sug	+1	1	So my personal preferences are to keep the number of buttons to a limit , or to a minimum ,
+IS1008b.C.dialog-act.vkaraisk.103	1467.07	1475.25	C	UI	sug	+1	1	make frequently used buttons bigger and more strategically placed , so like the on button being really obvious one , the channel changing and the volume ,
+IS1008b.C.dialog-act.vkaraisk.104	1475.25	1477.89	C	UI	sug	+1	2	and to keep the design basically sleek and simple .
+IS1008b.B.dialog-act.vkaraisk.138	1501.41	1507.7	B	ID	inf	+1	1	Clearly your research and uh {disfmarker} and ours uh heading in the same direction ,
+IS1008b.B.dialog-act.vkaraisk.140	1510.72	1520.36	B	ID	inf	+1	1	the only thing that I saw missing from uh your your research that we found was this uh ability to find the doggone thing when you need it .
+IS1008b.B.dialog-act.vkaraisk.145	1531.99	1550.59	B	ID	ass	+1	1	I also think that um uh th f the the feel of it is uh , when you hold it , is something that um uh was expressed more in in in in my uh design
+IS1008b.B.dialog-act.vkaraisk.147	1553.0	1559.27	B	ID	inf	+1	1	'cause those are the parameters that an Industrial Designer's more thinking about , th th the look and the feel ,
+IS1008b.C.dialog-act.vkaraisk.116	1560.0	1568.13	C	UI	ass	+1	1	that's definitely a very important factor , especially to users who are gonna be buying the thing and then using it almost on an {disfmarker} daily basis in a lot of cases , I think .
+IS1008b.A.dialog-act.vkaraisk.205	1576.41	1584.66	A	PM	sug	+1	1	for anybody need uh any help , for time being , on this uh subjects , okay , so please come back to me ,
+IS1008b.A.dialog-act.vkaraisk.206	1584.66	1591.28	A	PM	off	+1	1	and uh Christine , maybe I can uh try to help you to get some uh the technical uh the companies
+IS1008b.A.dialog-act.vkaraisk.207	1591.28	1594.08	A	PM	inf	+1	1	to help you for uh make a design uh slim ,
+IS1008b.A.dialog-act.vkaraisk.209	1594.37	1598.39	A	PM	inf	+1	1	and to add some features , like we are talking about , the speech recognition and all .
+12	IS1008b.JacquelinePalmer.s.8	She also suggested that the group make a decision on which features to include in the final product design , but the group decided to postpone it.
+IS1008b.C.dialog-act.vkaraisk.118	1600.15	1604.23	C	UI	sug	+1	2	Should we maybe make a decision about what features we actually want to include ,
+IS1008b.C.dialog-act.vkaraisk.119	1604.23	1606.2	C	UI	inf	+1	1	'cause we've thrown a lot of features onto the table ,
+IS1008b.C.dialog-act.vkaraisk.121	1607.72	1610.48	C	UI	el.ass	+1	2	do we actually want to incorporate all of them ,
+IS1008b.C.dialog-act.vkaraisk.122	1610.48	1613.44	C	UI	el.sug	+1	2	or have we missed anything ?
+IS1008b.B.dialog-act.vkaraisk.155	1613.78	1615.78	B	ID	sug	+1	1	Do you wanna go back and look at the closing slide ,
+IS1008b.B.dialog-act.vkaraisk.156	1615.78	1617.65	B	ID	inf	+1	1	maybe that would provide some guidance ?
+IS1008b.B.dialog-act.vkaraisk.165	1654.77	1660.26	B	ID	sug	+1	3	I think we should {vocalsound} do as many features as uh {disfmarker} start with all of them right now
+IS1008b.C.dialog-act.vkaraisk.132	1678.11	1683.97	C	UI	el.ass	+1	2	I was just thinking is it really practical to start designing something with features that we're just gonna end up throwing away ?
+IS1008b.C.dialog-act.vkaraisk.133	1683.97	1692.54	C	UI	inf	+1	2	I mean , it takes a lot of time and effort for everyone to consider different features , um
+IS1008b.C.dialog-act.vkaraisk.134	1693.42	1702.11	C	UI	sug	+1	2	and s if we spend that time and effort on features that we're not gonna use , maybe it's better to spend it on the f thinking more about features that we actually do want ,
+IS1008b.B.dialog-act.vkaraisk.169	1703.01	1705.51	B	ID	sug	+1	3	I think we should take that as an action item for after the meeting ,
+IS1008b.B.dialog-act.vkaraisk.170	1705.51	1706.98	B	ID	inf	+1	2	'cause w our meeting time has run out .
+6	IS1008b.JacquelinePalmer.s.9	The designers were given their assignments: the Marketing Expert will present the marketing concept; the User Interface Designer , the user interface concept; the Industrial Designer , the components concept.
+IS1008b.B.dialog-act.vkaraisk.159	1637.89	1639.83	B	ID	inf	+1	1	it says individual actions ,
+IS1008b.B.dialog-act.vkaraisk.164	1649.78	1654.29	B	ID	inf	+1	1	Um and specific instructions will be sent by our our coach .
+IS1008b.B.dialog-act.vkaraisk.163	1647.05	1648.95	B	ID	inf	+1	2	and you're supposed to keep watching the trends .
+IS1008b.B.dialog-act.vkaraisk.162	1644.33	1647.05	B	ID	inf	+1	2	supposed to work on the user interface concept ,
+IS1008b.B.dialog-act.vkaraisk.161	1641.02	1643.86	B	ID	inf	+1	2	so I'm supposed to do the components concept ,
+IS1008b.B.dialog-act.vkaraisk.166	1660.26	1662.47	B	ID	sug	+1	3	and eliminate them later in the process ,

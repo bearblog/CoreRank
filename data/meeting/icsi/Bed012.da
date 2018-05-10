@@ -1,0 +1,971 @@
+Bed012.B.dialogueact0	81.836	85.556	B	Grad	s^rt^t	-1	0	So I guess this is more or less now just to get you up to date , Johno .
+Bed012.B.dialogueact1	86.87	88.2	B	Grad	s.%-	-1	0	This is what , uh ,
+Bed012.C.dialogueact2	89.335	90.235	C	Grad	s^j	-1	0	This is a meeting for me .
+Bed012.B.dialogueact3	91.0	92.12	B	Grad	fh	-1	0	um ,
+Bed012.B.dialogueact4	92.74	96.601	B	Grad	s	-1	0	Eva , Bhaskara , and I did .
+Bed012.D.dialogueact5	97.474	99.214	D	Grad	qy^rt	-1	0	Did you add more stuff to it ? {pause} later ?
+Bed012.B.dialogueact6	99.58	100.56	B	Grad	h|qw^rt	-1	0	Um . Why ?
+Bed012.D.dialogueact7	101.132	102.352	D	Grad	h|s^bd	-1	0	Um . I don't know .
+Bed012.D.dialogueact8	102.432	104.282	D	Grad	s	-1	0	There were , like , the {disfmarker} you know , @ @ and all that stuff .
+Bed012.D.dialogueact9	104.312	106.022	D	Grad	s	-1	0	But . I thought you {disfmarker} you said you were adding stuff
+Bed012.B.dialogueact11	106.501	107.341	B	Grad	h|s^ar	-1	0	Uh , no .
+Bed012.D.dialogueact10	106.022	106.602	D	Grad	s^bd	-1	0	but {pause} I don't know .
+Bed012.B.dialogueact12	107.401	108.181	B	Grad	%--	-1	0	This is {disfmarker}
+Bed012.B.dialogueact13	110.002	110.842	B	Grad	fh	-1	0	Um ,
+Bed012.B.dialogueact14	112.482	112.602	B	Grad	s^fe	-1	0	Ha !
+Bed012.B.dialogueact15	113.523	113.983	B	Grad	s^ba	-1	0	Very nice .
+Bed012.B.dialogueact16	115.41	122.841	B	Grad	s^cs^rt	-1	0	Um , so we thought that , {vocalsound} We can write up uh , an element ,
+Bed012.B.dialogueact17	124.764	130.243	B	Grad	s^e^rt	-1	0	and {disfmarker} for each of the situation nodes that we observed in the Bayes - net ?
+Bed012.B.dialogueact18	132.319	132.929	B	Grad	fh	-1	0	So .
+Bed012.B.dialogueact19	134.57	137.18	B	Grad	qw^rt	+1	0	What 's the situation like at the entity that is mentioned ?
+Bed012.B.dialogueact20	137.18	138.23	B	Grad	s^e^rt	+1	0	if we know anything about it ?
+Bed012.B.dialogueact21	138.23	139.53	B	Grad	qy^rt	-1	0	Is it under construction ?
+Bed012.B.dialogueact22	139.53	142.887	B	Grad	qrr^rt	-1	0	Or is it on fire or something {pause} happening to it ?
+Bed012.B.dialogueact23	142.887	143.567	B	Grad	qrr^rt	-1	0	Or is it stable ?
+Bed012.B.dialogueact24	144.3	144.76	B	Grad	s^e	-1	0	and so forth ,
+Bed012.B.dialogueact25	144.85	157.287	B	Grad	s	-1	0	going all the way um , f through Parking , Location , Hotel , Car , Restroom , @ @ {comment} Riots , Fairs , Strikes , or Disasters .
+Bed012.C.dialogueact26	157.17	160.32	C	Grad	qy^rt	-1	0	So is {disfmarker} This is {disfmarker} A situation are {disfmarker} is all the things which can be happening right now ?
+Bed012.C.dialogueact27	161.49	163.98	C	Grad	qrr^rt	-1	0	Or , what is the situation type ?
+Bed012.B.dialogueact28	165.769	171.049	B	Grad	s.%-	+1	2	That 's basically {pause} just specifying the {disfmarker} the input for the {disfmarker} w what 's
+Bed012.C.dialogueact29	172.02	172.54	C	Grad	s^bk	-1	0	Oh , I see
+Bed012.C.dialogueact30	172.54	174.1	C	Grad	qw^rt	+1	0	y Why are you specifying it in XML ?
+Bed012.B.dialogueact31	174.797	180.283	B	Grad	h|s^df^rt	-1	0	Um . Just because it forces us to be specific about the values {pause} here ?
+Bed012.C.dialogueact32	181.809	182.109	C	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact33	182.68	185.96	B	Grad	s^e	+1	1	And , also , I mean , this is a {disfmarker} what the input is going to be .
+Bed012.B.dialogueact34	186.28	186.56	B	Grad	qy^d^g^rt	-1	0	Right ?
+Bed012.B.dialogueact35	187.03	187.79	B	Grad	s^cc.%-	-1	0	So , we will , uh {disfmarker}
+Bed012.B.dialogueact36	188.18	189.48	B	Grad	s.%-	-1	0	This is a schema . This is {disfmarker}
+Bed012.C.dialogueact37	189.61	195.22	C	Grad	fg|qy^rt	-1	0	Well , yeah . I just don't know if this is th l what the {disfmarker} Does {disfmarker} This is what Java Bayes takes ? as a Bayes - net spec ?
+Bed012.B.dialogueact38	194.094	200.744	B	Grad	s^ar|s^df	-1	0	No , because I mean if we {disfmarker} I mean we 're sure gonna interface to {disfmarker} We 're gonna get an XML document from somewhere .
+Bed012.B.dialogueact39	201.61	201.81	B	Grad	qy^d^g^rt	-1	0	Right ?
+Bed012.B.dialogueact40	201.93	211.24	B	Grad	s:s	-1	0	And that XML document will say " We are able to {disfmarker} We were able to observe that w the element , um , @ @ {comment} of the Location that the car is near . "
+Bed012.B.dialogueact41	212.73	216.165	B	Grad	s.%--	-1	0	So that 's gonna be {disfmarker} {vocalsound} {comment} Um .
+Bed012.C.dialogueact42	216.36	218.23	C	Grad	s^bu	-1	0	So this is the situational context , everything in it .
+Bed012.C.dialogueact43	218.23	219.51	C	Grad	qy^rt	-1	0	Is that what Situation is short for ,
+Bed012.C.dialogueact44	219.51	220.65	C	Grad	qy^bu^e^rt	-1	0	shi situational context ?
+Bed012.B.dialogueact45	221.628	221.798	B	Grad	s^aa	-1	0	Yep .
+Bed012.C.dialogueact46	222.12	222.25	C	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact47	224.04	231.808	B	Grad	s^rt	-1	0	So this is just , again , a an XML schemata which defines a set of possible , uh , permissible XML structures ,
+Bed012.B.dialogueact48	232.309	234.849	B	Grad	s^e	-1	0	which we view as input into the Bayes - net .
+Bed012.B.dialogueact49	238.122	238.442	B	Grad	qy^d^f^g^rt	-1	0	Right ?
+Bed012.C.dialogueact50	238.79	244.053	C	Grad	qy^bu^d^rt	-1	0	And then we can r {pause} uh possibly run one of them uh transformations ?
+Bed012.C.dialogueact51	244.363	247.513	C	Grad	s^e^rt	-1	0	That put it into the format that the Bayes n or Java Bayes or whatever wants ?
+Bed012.B.dialogueact52	247.942	251.502	B	Grad	qy^bu^rt	-1	0	Yea - Are you talking {disfmarker} are you talking about the {disfmarker} the structure ?
+Bed012.C.dialogueact53	252.67	252.96	C	Grad	%-	-1	0	Well it {disfmarker}
+Bed012.B.dialogueact54	253.37	254.59	B	Grad	s^e	-1	0	I mean when you observe a node .
+Bed012.C.dialogueact55	254.43	259.11	C	Grad	s	-1	0	When you {disfmarker} when you say {pause} the input to the {pause} v Java Bayes , {comment} it takes a certain format ,
+Bed012.B.dialogueact56	258.138	258.588	B	Grad	b	-1	0	Um - hmm .
+Bed012.C.dialogueact57	259.11	259.43	C	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.C.dialogueact58	260.2	261.42	C	Grad	s^e	-1	0	Which I don't think is this .
+Bed012.C.dialogueact59	261.88	262.56	C	Grad	s^no	-1	0	Although I don't know .
+Bed012.B.dialogueact60	263.23	264.33	B	Grad	s^ar	-1	0	No , it 's certainly not this .
+Bed012.B.dialogueact61	264.41	264.51	B	Grad	s^ar	-1	0	Nuh .
+Bed012.C.dialogueact62	265.3	266.66	C	Grad	qy.%-	-1	0	So you could just {disfmarker} Couldn't you just run a {disfmarker}
+Bed012.B.dialogueact63	267.15	268.34	B	Grad	s^2	-1	0	XSL . {comment} Yeah .
+Bed012.C.dialogueact64	268.56	268.95	C	Grad	s^aa	-1	0	Yeah .
+Bed012.C.dialogueact65	269.518	271.488	C	Grad	qy^bu^rt	-1	0	To convert it into the Java Bayes for format ?
+Bed012.B.dialogueact66	271.64	271.82	B	Grad	s^aa	-1	0	Yep .
+Bed012.C.dialogueact67	272.556	272.766	C	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact68	273.54	275.912	B	Grad	s^ba	-1	0	That 's {disfmarker} That 's no problem ,
+Bed012.B.dialogueact69	275.912	278.772	B	Grad	s.%--	-1	0	but I even think that , um {disfmarker}
+Bed012.B.dialogueact70	279.501	282.851	B	Grad	s.%--	+1	0	I mean , once {disfmarker} Once you have this sort of as {disfmarker} running as a module {disfmarker}
+Bed012.B.dialogueact71	283.46	283.67	B	Grad	qy^d^g^rt	-1	0	Right ?
+Bed012.B.dialogueact72	283.67	293.14	B	Grad	s:s	+1	0	What you want is {disfmarker} You wanna say , " OK , give me the posterior probabilities of the Go - there {pause} node , when this is happening . "
+Bed012.B.dialogueact73	293.29	293.64	B	Grad	qy^d^g^rt	-1	0	Right ?
+Bed012.B.dialogueact74	293.64	298.73	B	Grad	s:s	-1	0	When the person said this , the car is there , it 's raining , and this is happening .
+Bed012.B.dialogueact75	299.38	305.04	B	Grad	s^e^rt	-1	0	And with this you can specify the {disfmarker} what 's happening in the situation , and what 's happening with the user .
+Bed012.B.dialogueact76	305.75	310.13	B	Grad	s	-1	0	So we get {disfmarker} After we are done , through the Situation we get the User Vector .
+Bed012.B.dialogueact77	312.49	313.68	B	Grad	s.%-	-1	0	So , this is a {disfmarker}
+Bed012.C.dialogueact78	314.629	317.029	C	Grad	qy^bu^d^m	+1	0	So this is just a specification of all the possible inputs ?
+Bed012.B.dialogueact79	317.301	317.451	B	Grad	s^aa	+1	0	Yep .
+Bed012.B.dialogueact80	318.81	319.12	B	Grad	fh	-1	0	And ,
+Bed012.B.dialogueact81	320.98	322.21	B	Grad	s^e	-1	0	all the possible outputs , too .
+Bed012.B.dialogueact83	323.882	329.651	B	Grad	s:s	-1	0	So , we have , um , for example , the , uh , Go - there decision node
+Bed012.C.dialogueact82	323.42	323.67	C	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact84	330.55	333.14	B	Grad	s^rt	-1	0	which has two elements ,
+Bed012.B.dialogueact85	333.42	336.66	B	Grad	s^e	-1	0	going - there and its posterior probability ,
+Bed012.B.dialogueact86	337.24	340.1	B	Grad	s^e^rt	-1	0	and not - going - there and its posterior probability ,
+Bed012.B.dialogueact87	342.64	349.8	B	Grad	s^df	-1	0	because the output is always gonna be all the decision nodes and all the {disfmarker} the {disfmarker} a all the posterior probabilities for all the values .
+Bed012.C.dialogueact88	351.712	354.412	C	Grad	qy^rt	-1	0	And then we would just look at the , eh , Struct that we wanna look at
+Bed012.C.dialogueact89	354.412	357.142	C	Grad	s^e.%--	-1	0	in terms of if {disfmarker} if we 're only asking about one of the {disfmarker}
+Bed012.C.dialogueact90	358.59	367.35	C	Grad	qy^bu^d^rt	-1	0	So like , if I 'm just interested in the going - there node , I would just pull that information out of the Struct that gets return that would {disfmarker} that Java Bayes would output ?
+Bed012.B.dialogueact91	369.73	371.74	B	Grad	h|s^aap	-1	0	Um , pretty much , yes ,
+Bed012.B.dialogueact92	371.74	375.02	B	Grad	s	-1	0	but I think it 's a little bit more complex .
+Bed012.B.dialogueact93	377.22	384.11	B	Grad	s^df	+1	1	As , if I understand it correctly , it always gives you all the posterior probabilities for all the values of all decision nodes .
+Bed012.B.dialogueact94	385.11	394.04	B	Grad	s	-1	0	So , when we input something , we always get the , uh , posterior probabilities for all of these .
+Bed012.B.dialogueact95	394.04	394.26	B	Grad	qy^d^g^rt	-1	0	Right ?
+Bed012.C.dialogueact96	394.44	394.67	C	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact97	395.58	400.49	B	Grad	s	-1	0	So there is no way of telling it t not to tell us about the EVA {pause} values .
+Bed012.C.dialogueact98	400.627	401.327	C	Grad	s^aa	-1	0	Yeah , wait I agree ,
+Bed012.C.dialogueact99	401.327	402.907	C	Grad	s^bk	-1	0	that 's {disfmarker} yeah , use {disfmarker} oh , uh {pause} Yeah , OK .
+Bed012.B.dialogueact100	403.86	411.272	B	Grad	s	-1	0	So {disfmarker} so we get this whole list of {disfmarker} of , um , things ,
+Bed012.B.dialogueact101	411.272	414.28	B	Grad	s	+1	1	and the question is what to do with it ,
+Bed012.B.dialogueact102	415.6	416.33	B	Grad	s	-1	0	what to hand on ,
+Bed012.B.dialogueact103	416.88	417.77	B	Grad	s	+1	0	how to interpret it ,
+Bed012.B.dialogueact104	418.47	419.09	B	Grad	s^e	-1	0	in a sense .
+Bed012.B.dialogueact105	420.15	425.36	B	Grad	s	-1	0	So y you said if you {disfmarker} " I 'm only interested in whether he wants to go there or not " , then I just look at that node ,
+Bed012.B.dialogueact106	426.304	426.824	B	Grad	s.%-	-1	0	look which one {disfmarker}
+Bed012.C.dialogueact107	426.412	427.892	C	Grad	qy^bu^d^rt	-1	0	Look at that Struct in the output ,
+Bed012.B.dialogueact109	428.232	428.412	B	Grad	s^aa	-1	0	Yep .
+Bed012.C.dialogueact108	427.892	428.392	C	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.B.dialogueact110	429.665	431.375	B	Grad	s^m	-1	0	Look at that Struct in the {disfmarker} the output ,
+Bed012.B.dialogueact111	431.375	433.45	B	Grad	s^e	-1	0	even though I wouldn't call it a " Struct " .
+Bed012.B.dialogueact112	433.45	433.68	B	Grad	fh	-1	0	But .
+Bed012.C.dialogueact113	434.507	436.987	C	Grad	s	-1	0	Well i well , it 's an XML Structure that 's being res returned ,
+Bed012.B.dialogueact114	436.831	437.511	B	Grad	s^bk|s^aa	-1	0	Oh . Mm - hmm .
+Bed012.C.dialogueact115	436.987	437.217	C	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.B.dialogueact116	438.95	440.55	B	Grad	s	-1	0	So every part of a structure is a " Struct " .
+Bed012.B.dialogueact117	441.56	441.74	B	Grad	b	-1	0	Yeah .
+Bed012.C.dialogueact118	442.08	447.09	C	Grad	s:s	-1	0	Yeah , I just uh {disfmarker} I just was {disfmarker} abbreviated it to Struct in my head , and started going with that .
+Bed012.B.dialogueact119	448.95	450.68	B	Grad	s	-1	0	That element or object , I would say .
+Bed012.C.dialogueact120	450.2	452.12	C	Grad	s.%--	-1	0	Not a C Struct . That 's not what I was trying to k
+Bed012.B.dialogueact121	451.54	451.8	B	Grad	b	-1	0	Yeah .
+Bed012.C.dialogueact122	452.12	452.56	C	Grad	s	-1	0	though yeah .
+Bed012.B.dialogueact123	454.02	454.27	B	Grad	fg	-1	0	OK .
+Bed012.B.dialogueact124	454.86	455.89	B	Grad	fh	-1	0	And , um ,
+Bed012.B.dialogueact125	457.951	466.88	B	Grad	s^df.%--	-1	0	the reason is {disfmarker} why I think it 's a little bit more complex or why {disfmarker} why we can even think about it as an interesting problem in and of itself is {disfmarker}
+Bed012.B.dialogueact126	467.81	468.57	B	Grad	fh	-1	0	Um .
+Bed012.B.dialogueact127	470.473	472.515	B	Grad	s.%--	-1	0	So . The , uh {disfmarker}
+Bed012.B.dialogueact128	474.68	475.81	B	Grad	s^co	-1	0	Let 's look at an example .
+Bed012.C.dialogueact129	477.68	484.69	C	Grad	qy^rt	-1	0	Well , w wouldn't we just take the structure that 's outputted and then run another transformation on it , that would just dump the one that we wanted out ?
+Bed012.B.dialogueact130	489.24	490.58	B	Grad	s^aa|s	-1	0	Yeah . w We 'd need to prune .
+Bed012.B.dialogueact131	491.754	492.014	B	Grad	qy^d^g^rt	-1	0	Right ?
+Bed012.B.dialogueact132	493.427	494.317	B	Grad	s	-1	0	Throw things away .
+Bed012.C.dialogueact133	495.621	497.081	C	Grad	s^nd	-1	0	Well , actually , you don't even need to do that with XML .
+Bed012.B.dialogueact135	497.473	497.693	B	Grad	%-	-1	0	No
+Bed012.C.dialogueact134	497.081	498.521	C	Grad	s^ng.%-	-1	0	D Can't you just look at one specific {disfmarker}
+Bed012.B.dialogueact136	498.6	504.933	B	Grad	s^aa|s:s	-1	0	Yeah , exactly . The {disfmarker} @ @ {comment} Xerxes allows you to say , u " Just give me the value of that , and that , and that . "
+Bed012.B.dialogueact137	506.74	512.74	B	Grad	s	-1	0	But , we don't really know what we 're interested in {pause} before we look at the complete {disfmarker} at {disfmarker} at the overall result .
+Bed012.B.dialogueact138	513.229	518.51	B	Grad	s:qw	+1	1	So the person said , um , " Where is X ? "
+Bed012.B.dialogueact139	518.6	519.08	B	Grad	fh	-1	0	and so ,
+Bed012.B.dialogueact140	520.16	526.767	B	Grad	s:qy	+1	1	we want to know , um , is {disfmarker} Does he want info ?
+Bed012.B.dialogueact141	527.337	528.227	B	Grad	s^e	-1	0	o on this ?
+Bed012.B.dialogueact142	528.867	530.887	B	Grad	s^e^rt	+1	0	or know the location ?
+Bed012.B.dialogueact143	531.72	532.76	B	Grad	s^e:qy	+1	1	Or does he want to go there ?
+Bed012.B.dialogueact144	535.88	538.12	B	Grad	s^co	-1	0	Let 's assume this is our {disfmarker} our question .
+Bed012.C.dialogueact145	537.41	537.73	C	Grad	s^bk	-1	0	Sure .
+Bed012.B.dialogueact146	538.5	538.64	B	Grad	qy^d^g^rt	-1	0	Nuh ?
+Bed012.B.dialogueact147	539.49	539.92	B	Grad	fh	-1	0	So .
+Bed012.B.dialogueact148	542.82	543.32	B	Grad	fh	-1	0	Um .
+Bed012.B.dialogueact149	546.428	547.338	B	Grad	s^t1	-1	0	Do this in Perl .
+Bed012.B.dialogueact150	564.709	565.339	B	Grad	s.%--	-1	0	So we get {disfmarker}
+Bed012.B.dialogueact151	601.79	602.02	B	Grad	b	-1	0	OK .
+Bed012.B.dialogueact152	617.27	618.57	B	Grad	s^co	-1	0	Let 's assume this is the output .
+Bed012.B.dialogueact153	621.952	622.292	B	Grad	fh	-1	0	So .
+Bed012.B.dialogueact154	623.1	625.2	B	Grad	s.%--	-1	0	We should con be able to conclude from that that {disfmarker}
+Bed012.B.dialogueact155	626.25	632.889	B	Grad	s	+1	0	I mean . It 's always gonna give us a value of how likely we think i it is that he wants to go there and doesn't want to go there ,
+Bed012.B.dialogueact156	634.21	637.398	B	Grad	s^e	+1	0	or how likely it is that he wants to get information .
+Bed012.B.dialogueact157	638.03	641.7	B	Grad	s^cs	-1	0	But , maybe w we should just reverse this to make it a little bit more delicate .
+Bed012.B.dialogueact158	644.075	646.305	B	Grad	qr	-1	0	So , does he wanna know where it is ? or does he wanna go there ?
+Bed012.C.dialogueact159	653.88	654.78	C	Grad	s	-1	0	He wants to know where it is .
+Bed012.B.dialogueact160	659.24	659.47	B	Grad	s^aa	-1	0	Right .
+Bed012.B.dialogueact161	660.51	661.68	B	Grad	s^aa	-1	0	I {disfmarker} I {disfmarker} I tend to agree .
+Bed012.B.dialogueact162	661.68	662.96	B	Grad	s.%-	-1	0	And if it 's {disfmarker} If {disfmarker}
+Bed012.C.dialogueact163	662.91	664.37	C	Grad	s^cs.%-	-1	0	Well now , y I mean , you could {disfmarker}
+Bed012.B.dialogueact164	664.11	666.35	B	Grad	s.%--	-1	0	And i if there 's sort of a clear winner here ,
+Bed012.B.dialogueact165	667.65	674.314	B	Grad	fh|s.%--	-1	0	and , um {disfmarker} and this is pretty , uh {disfmarker} indifferent ,
+Bed012.B.dialogueact166	683.96	689.75	B	Grad	s	-1	0	then we {disfmarker} then we might conclude that he actually wants to just know where , uh t uh , he does want to go there .
+Bed012.C.dialogueact167	691.11	700.46	C	Grad	fg|qy^rt	-1	0	Uh , out of curiosity , is there a reason why we wouldn't combine these three nodes ? into one smaller subnet ?
+Bed012.C.dialogueact168	701.27	705.81	C	Grad	s.%--	-1	0	that would just basically be {pause} the question for {disfmarker}
+Bed012.C.dialogueact169	705.81	707.29	C	Grad	s^bu	-1	0	We have " where is X ? " is the question ,
+Bed012.C.dialogueact170	707.29	707.51	C	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.C.dialogueact171	707.51	709.34	C	Grad	qy^bu^rt	-1	0	That would just be Info - on or Location ?
+Bed012.C.dialogueact172	710.03	710.67	C	Grad	s^e.%--	-1	0	Based upon {disfmarker}
+Bed012.B.dialogueact173	712.71	713.21	B	Grad	s^2:s	-1	0	Or Go - there .
+Bed012.B.dialogueact174	713.21	716.03	B	Grad	s^df	-1	0	A lot of people ask that , if they actually just wanna go there .
+Bed012.B.dialogueact175	717.75	719.69	B	Grad	s:qw	-1	0	People come up to you on campus and say , " Where 's the library ? "
+Bed012.B.dialogueact176	719.69	722.37	B	Grad	s:s^co	-1	0	You 're gonna say {disfmarker} y you 're gonna say , g " Go down that way . "
+Bed012.B.dialogueact177	722.55	727.5	B	Grad	s.%-	-1	0	You 're not gonna say " It 's {disfmarker} It 's five hundred yards away from you " or " It 's north of you " , or {disfmarker} " it 's located {disfmarker} "
+Bed012.C.dialogueact178	726.99	734.91	C	Grad	s	-1	0	Well , I mean {disfmarker} But the {disfmarker} there 's {disfmarker} So you just have three decisions for the final node , that would link thes these three nodes in the net together .
+Bed012.B.dialogueact179	735.75	736.93	B	Grad	h	-1	0	Um .
+Bed012.B.dialogueact180	738.88	740.02	B	Grad	s^no	-1	0	I don't know whether I understand what you mean .
+Bed012.B.dialogueact181	740.02	751.09	B	Grad	s^cs^t	-1	0	But . Again , in this {disfmarker} Given this input , we , also in some situations , may wanna postulate an opinion whether that person wants to go there now
+Bed012.B.dialogueact182	751.72	752.61	B	Grad	s^e	-1	0	the nicest way ,
+Bed012.B.dialogueact183	752.9	753.56	B	Grad	s^e	-1	0	use a cab ,
+Bed012.B.dialogueact184	753.67	754.3	B	Grad	s.%--	-1	0	or so s
+Bed012.B.dialogueact185	755.91	763.66	B	Grad	s	-1	0	wants to know it {disfmarker} wants to know where it is because he wants something fixed there , because he wants to visit t it or whatever .
+Bed012.B.dialogueact186	764.56	771.19	B	Grad	s^bs	+1	2	So , it {disfmarker} n I mean {disfmarker} a All I 'm saying is , whatever our input is , we 're always gonna get the full output .
+Bed012.B.dialogueact187	772.35	781.42	B	Grad	s	+1	1	And some {disfmarker} some things will always be sort of too {disfmarker} not significant enough .
+Bed012.C.dialogueact188	779.432	779.642	C	Grad	%-	-1	0	Wha
+Bed012.C.dialogueact189	781.812	782.922	C	Grad	s^e	-1	0	Or i or i it 'll be tight .
+Bed012.C.dialogueact190	782.922	784.202	C	Grad	s^e	+1	1	You won't {disfmarker} it 'll be hard to decide .
+Bed012.B.dialogueact191	783.641	783.921	B	Grad	s^aa	-1	0	Yep .
+Bed012.C.dialogueact192	784.542	790.983	C	Grad	s^df	-1	0	But I mean , I guess {disfmarker} I guess the thing is , uh , this is another , smaller , case of reasoning in the case of an uncertainty ,
+Bed012.C.dialogueact193	790.983	795.708	C	Grad	s	-1	0	which makes me think Bayes - net should be the way to solve these things .
+Bed012.C.dialogueact194	795.708	797.208	C	Grad	s.%--	-1	0	So if you had {disfmarker} If for every construction ,
+Bed012.B.dialogueact196	797.548	797.798	B	Grad	s^fe	-1	0	Oh !
+Bed012.C.dialogueact195	797.208	797.468	C	Grad	qy^d^f^g^rt	-1	0	right ?
+Bed012.C.dialogueact197	798.17	800.37	C	Grad	s^cs:s	+1	0	you could say , " Well , there {disfmarker} Here 's the Where - Is construction . "
+Bed012.C.dialogueact198	800.838	805.758	C	Grad	s	+1	1	And for the Where - Is construction , we know we need to l look at this node , that merges these three things together
+Bed012.B.dialogueact199	805.996	806.366	B	Grad	b	-1	0	Mm - hmm .
+Bed012.C.dialogueact200	806.54	808.01	C	Grad	s^df^e	-1	0	as for th to decide the response .
+Bed012.C.dialogueact201	808.17	812.14	C	Grad	s	-1	0	And since we have a finite number of constructions that we can deal with , we could have a finite number of nodes .
+Bed012.B.dialogueact202	812.948	813.318	B	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact204	814.758	815.228	B	Grad	b	-1	0	Mm - hmm .
+Bed012.C.dialogueact203	814.311	817.141	C	Grad	s	-1	0	Say , if we had to y deal with arbitrary language , it wouldn't make any sense to do that ,
+Bed012.C.dialogueact205	817.141	820.951	C	Grad	s^df	-1	0	because there 'd be no way to generate the nodes for every possible sentence .
+Bed012.B.dialogueact206	821.323	821.573	B	Grad	b	-1	0	Mm - hmm .
+Bed012.C.dialogueact207	821.66	823.47	C	Grad	s.%--	-1	0	But since we can only deal with a finite amount of stuff {disfmarker}
+Bed012.B.dialogueact208	824.67	830.49	B	Grad	s^bu	-1	0	So , basically , the idea is to f to feed the output of that belief - net into another belief - net .
+Bed012.C.dialogueact209	830.79	833.56	C	Grad	s^aa|s^bs	-1	0	Yeah , so basically take these three things and then put them into another belief - net .
+Bed012.B.dialogueact210	833.91	835.93	B	Grad	qw	-1	0	But , why {disfmarker} why {disfmarker} why only those three ?
+Bed012.B.dialogueact211	835.93	836.58	B	Grad	qw.%-	-1	0	Why not the whol
+Bed012.C.dialogueact212	836.193	837.903	C	Grad	s:qw	-1	0	Well , I mean , d For the Where - Is question .
+Bed012.C.dialogueact213	838.183	839.793	C	Grad	s:qw	-1	0	So we 'd have a node for the Where - Is question .
+Bed012.B.dialogueact214	842.65	847.16	B	Grad	s^arp.%--	-1	0	Yeah . But we believe that all the decision nodes are {disfmarker} can be relevant for the Where - Is ,
+Bed012.B.dialogueact215	847.46	849.52	B	Grad	s^e^rt:qw	-1	0	and the Where {disfmarker} How - do - I - get - to
+Bed012.B.dialogueact216	849.89	851.17	B	Grad	s^e	-1	0	or the Tell - me - something - about .
+Bed012.C.dialogueact217	856.4	857.18	C	Grad	s	-1	0	You can come in if you want .
+Bed012.B.dialogueact218	859.18	859.97	B	Grad	s	-1	0	Yes , it is allowed .
+Bed012.C.dialogueact219	860.347	862.837	C	Grad	s^2	-1	0	As long as y you 're not wearing your h your h headphones .
+Bed012.C.dialogueact220	869.69	872.11	C	Grad	s	-1	0	Well , I do I {disfmarker} See , I don't know if this is a {pause} good idea or not .
+Bed012.C.dialogueact221	872.11	873.05	C	Grad	s	-1	0	I 'm just throwing it out .
+Bed012.C.dialogueact222	875.015	882.585	C	Grad	s^cs	-1	0	But uh , it seems like we could have {disfmarker} I mea or uh we could put all of the all of the r information that could also be relevant {pause} into the Where - Is node answer
+Bed012.B.dialogueact223	880.512	880.742	B	Grad	b	-1	0	Mm - hmm .
+Bed012.B.dialogueact224	884.181	884.301	B	Grad	s^aa	-1	0	Yep .
+Bed012.C.dialogueact225	885.17	885.44	C	Grad	s^e	-1	0	node
+Bed012.C.dialogueact226	885.991	886.241	C	Grad	s^e	-1	0	thing
+Bed012.C.dialogueact227	887.013	887.303	C	Grad	s^e	-1	0	stuff .
+Bed012.C.dialogueact228	887.943	888.633	C	Grad	fh	-1	0	And uh {disfmarker}
+Bed012.D.dialogueact229	890.719	890.919	D	Grad	b	-1	0	OK .
+Bed012.B.dialogueact230	893.25	893.49	B	Grad	fg	-1	0	I mean {disfmarker}
+Bed012.B.dialogueact231	894.185	901.595	B	Grad	s^co	-1	0	Let 's not forget we 're gonna get some very strong {pause} input from {pause} these sub dis from these discourse things ,
+Bed012.B.dialogueact232	901.595	901.945	B	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.B.dialogueact233	902.469	902.969	B	Grad	fh	-1	0	So .
+Bed012.B.dialogueact234	903.57	905.43	B	Grad	s:s^co	-1	0	" Tell me the location of X . "
+Bed012.B.dialogueact235	906.61	906.79	B	Grad	qy^d^g^rt	-1	0	Nuh ?
+Bed012.B.dialogueact236	907.39	909.88	B	Grad	s:qw	-1	0	Or " Where is X located at ? "
+Bed012.C.dialogueact237	909.522	909.872	C	Grad	%-	-1	0	We u
+Bed012.B.dialogueact238	910.21	910.38	B	Grad	qy^d^g^rt	-1	0	Nuh ?
+Bed012.C.dialogueact239	910.8	915.42	C	Grad	s	-1	0	Yeah , I know , but the Bayes - net would be able to {disfmarker} The weights on the {disfmarker} on the nodes in the Bayes - net would be able to do all that ,
+Bed012.B.dialogueact241	915.649	916.099	B	Grad	s^aa^rt	-1	0	Mm - hmm .
+Bed012.C.dialogueact240	915.42	915.82	C	Grad	qy^d^g^rt	-1	0	wouldn't it ?
+Bed012.C.dialogueact242	917.792	918.092	C	Grad	s.%--	-1	0	Here 's a k
+Bed012.C.dialogueact243	919.646	919.766	C	Grad	s^fe	-1	0	Oh !
+Bed012.C.dialogueact244	920.208	921.588	C	Grad	s^cc	-1	0	Oh , I 'll wait until you 're {pause} plugged in .
+Bed012.C.dialogueact245	922.77	923.42	C	Grad	s^co	-1	0	Oh , don't sit there .
+Bed012.C.dialogueact246	923.42	923.84	C	Grad	s^co	-1	0	Sit here .
+Bed012.C.dialogueact247	924.541	925.541	C	Grad	s^df	-1	0	You know how you don't like that one .
+Bed012.C.dialogueact248	925.651	925.991	C	Grad	s	-1	0	It 's OK .
+Bed012.C.dialogueact249	927.549	928.249	C	Grad	s^df	-1	0	That 's the weird one .
+Bed012.C.dialogueact250	929.124	932.104	C	Grad	s^df	-1	0	That 's the one that 's painful . That hurts . It hurts so bad .
+Bed012.C.dialogueact251	935.86	937.36	C	Grad	s^j	-1	0	I 'm h I 'm happy that they 're recording that .
+Bed012.C.dialogueact252	938.3	944.61	C	Grad	s^rt	-1	0	That headphone . The headphone {pause} that you have to put on backwards , with the little {disfmarker} little thing {disfmarker} and the little {disfmarker} little foam block on it ?
+Bed012.C.dialogueact253	945.256	946.926	C	Grad	s^ba	-1	0	It 's a painful , painful microphone .
+Bed012.B.dialogueact254	949.97	951.51	B	Grad	s	-1	0	I think it 's th called " the Crown " .
+Bed012.C.dialogueact255	952.14	952.64	C	Grad	s^m	-1	0	The crown ?
+Bed012.D.dialogueact256	952.401	952.991	D	Grad	qw^rt	-1	0	What ?
+Bed012.B.dialogueact257	953.115	953.345	B	Grad	s^aa	-1	0	Yeah ,
+Bed012.B.dialogueact258	953.485	954.505	B	Grad	s	-1	0	versus " the Sony " .
+Bed012.A.dialogueact259	956.648	957.098	A	Grad	qy^d^m^rt	-1	0	The Crown ?
+Bed012.A.dialogueact260	957.637	958.477	A	Grad	qy^rt	-1	0	Is that the actual name ?
+Bed012.A.dialogueact262	959.544	959.704	A	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact261	959.078	959.418	B	Grad	s^aa	-1	0	Mm - hmm .
+Bed012.B.dialogueact263	960.55	961.27	B	Grad	s^e	-1	0	The manufacturer .
+Bed012.C.dialogueact264	962.48	963.62	C	Grad	s	-1	0	I don't see a manufacturer on it .
+Bed012.B.dialogueact266	964.991	965.371	B	Grad	%-	-1	0	You w
+Bed012.C.dialogueact265	964.94	965.08	C	Grad	s^co	-1	0	Oh , wait ,
+Bed012.C.dialogueact267	965.08	965.35	C	Grad	s	-1	0	here it is .
+Bed012.C.dialogueact268	965.35	966.07	C	Grad	s^e	-1	0	h This thingy .
+Bed012.C.dialogueact269	967.34	968.41	C	Grad	s^na	-1	0	Yeah , it 's " The Crown " .
+Bed012.C.dialogueact270	969.11	970.06	C	Grad	s^j	-1	0	The crown of pain !
+Bed012.A.dialogueact271	971.125	971.575	A	Grad	s^aa	-1	0	Yes .
+Bed012.B.dialogueact272	972.418	972.978	B	Grad	qy^d^rt	-1	0	You 're on - line ?
+Bed012.C.dialogueact273	973.61	975.11	C	Grad	qy^rt	-1	0	Are you {disfmarker} are your mike o Is your mike on ?
+Bed012.A.dialogueact274	974.465	974.865	A	Grad	s^aa	-1	0	Indeed .
+Bed012.C.dialogueact275	975.18	975.5	C	Grad	s^bk	-1	0	OK .
+Bed012.C.dialogueact276	977.1	978.12	C	Grad	s^bu	-1	0	So you 've been working with these guys ?
+Bed012.C.dialogueact277	978.12	979.0	C	Grad	qy^d	-1	0	You know what 's going on ?
+Bed012.A.dialogueact278	979.115	979.465	A	Grad	s^aa	-1	0	Yes ,
+Bed012.A.dialogueact279	979.565	980.075	A	Grad	s^aa	-1	0	I have .
+Bed012.A.dialogueact280	980.994	981.654	A	Grad	s^e	-1	0	And , I do .
+Bed012.A.dialogueact281	983.122	983.552	A	Grad	s^bk	-1	0	Yeah , alright .
+Bed012.A.dialogueact283	983.552	984.522	A	Grad	qy^t	-1	0	s So where are we ?
+Bed012.C.dialogueact282	983.31	983.93	C	Grad	s^fe^j	-1	0	Excellent !
+Bed012.B.dialogueact284	985.47	986.38	B	Grad	s^t	-1	0	We 're discussing this .
+Bed012.A.dialogueact285	986.58	987.61	A	Grad	s^j	-1	0	I don't think it can handle French ,
+Bed012.A.dialogueact286	987.61	988.01	A	Grad	s	-1	0	but anyway .
+Bed012.B.dialogueact287	991.015	991.465	B	Grad	fg	-1	0	So .
+Bed012.B.dialogueact288	992.44	994.25	B	Grad	s^co	-1	0	Assume we have something coming in .
+Bed012.B.dialogueact289	994.25	995.81	B	Grad	s:qw	-1	0	A person says , " Where is X ? " ,
+Bed012.B.dialogueact290	995.81	1000.66	B	Grad	s^rt	-1	0	and we get a certain {disfmarker} We have a Situation vector and a User vector and everything is fine ?
+Bed012.B.dialogueact291	1001.58	1003.22	B	Grad	%-	-1	0	An - an and {disfmarker} and our {disfmarker} and our {disfmarker}
+Bed012.C.dialogueact292	1002.79	1005.93	C	Grad	qy^rt^t3	-1	0	Did you just sti Did you just stick the m the {disfmarker} the {disfmarker} the microphone actually in the tea ?
+Bed012.A.dialogueact293	1005.97	1006.5	A	Grad	s^ar^t3	-1	0	No .
+Bed012.B.dialogueact294	1008.54	1009.36	B	Grad	fh	-1	0	And , um ,
+Bed012.A.dialogueact295	1009.51	1010.15	A	Grad	s^ng^t3	-1	0	I 'm not drinking tea .
+Bed012.A.dialogueact296	1010.15	1010.86	A	Grad	qw^t3	-1	0	What are you talking about ?
+Bed012.C.dialogueact297	1011.81	1012.21	C	Grad	s^bk^t3	-1	0	Oh , yeah .
+Bed012.C.dialogueact298	1012.2	1012.49	C	Grad	s^fa^t3	-1	0	Sorry .
+Bed012.B.dialogueact299	1013.62	1017.3	B	Grad	s^co^rt	-1	0	let 's just assume our Bayes - net just has three decision nodes for the time being .
+Bed012.B.dialogueact300	1017.83	1021.73	B	Grad	s	-1	0	These three , he wants to know something about it , he wants to know where it is , he wants to go there .
+Bed012.C.dialogueact301	1022.31	1025.32	C	Grad	s^bu	-1	0	In terms of , these would be wha how we would answer the question Where - Is ,
+Bed012.C.dialogueact302	1025.55	1025.8	C	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.C.dialogueact303	1026.47	1026.72	C	Grad	%--	-1	0	We u
+Bed012.C.dialogueact304	1028.36	1030.96	C	Grad	s	-1	0	This is {disfmarker} i That 's what you s it seemed like , explained it to me earlier
+Bed012.B.dialogueact306	1031.42	1032.27	B	Grad	s^aap|%-	-1	0	Yeah , but , mmm .
+Bed012.C.dialogueact305	1030.96	1034.04	C	Grad	s:qw	-1	0	w We {disfmarker} we 're {disfmarker} we wanna know how to answer the question " Where is X ? "
+Bed012.B.dialogueact307	1032.27	1032.33	B	Grad	b	-1	0	Yeah .
+Bed012.B.dialogueact308	1034.26	1036.64	B	Grad	s^df	-1	0	No , I can {disfmarker} I can do the Timing node in here , too ,
+Bed012.B.dialogueact309	1036.64	1037.57	B	Grad	s.%-:s	-1	0	and say " OK . "
+Bed012.C.dialogueact310	1037.12	1041.01	C	Grad	s^nd	-1	0	Well , yeah , but in the s uh , let 's just deal with the s the simple case of we 're not worrying about timing or anything .
+Bed012.C.dialogueact311	1041.42	1043.55	C	Grad	s^e:qw	-1	0	We just want to know how we should answer " Where is X ? "
+Bed012.B.dialogueact312	1043.72	1043.94	B	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact313	1045.26	1046.06	B	Grad	fh	-1	0	And , um ,
+Bed012.B.dialogueact314	1047.07	1047.76	B	Grad	fh	-1	0	OK , and ,
+Bed012.B.dialogueact315	1050.76	1052.09	B	Grad	s	-1	0	Go - there has two values ,
+Bed012.B.dialogueact316	1052.09	1052.41	B	Grad	qy^d^g^rt	-1	0	right ? ,
+Bed012.B.dialogueact317	1052.41	1053.62	B	Grad	s^rt:s	-1	0	Go - there and not - Go - there .
+Bed012.B.dialogueact318	1053.97	1056.38	B	Grad	s^co^rt	-1	0	Let 's assume those are the posterior probabilities of that .
+Bed012.A.dialogueact319	1056.5	1056.92	A	Grad	b	-1	0	Mm - hmm .
+Bed012.B.dialogueact320	1057.19	1059.55	B	Grad	s	-1	0	Info - on has True or False and Location .
+Bed012.B.dialogueact321	1059.85	1061.3	B	Grad	s	-1	0	So , he wants to know something about it ,
+Bed012.B.dialogueact322	1061.3	1064.18	B	Grad	s	-1	0	and he wants to know something {disfmarker} he wants to know Where - it - is ,
+Bed012.A.dialogueact323	1063.62	1064.33	A	Grad	s^fa^t3	-1	0	Excuse me .
+Bed012.B.dialogueact324	1064.63	1066.53	B	Grad	s^e	-1	0	has these values .
+Bed012.B.dialogueact325	1068.1	1068.96	B	Grad	fh	-1	0	And , um ,
+Bed012.C.dialogueact326	1069.71	1070.9	C	Grad	s^bk	-1	0	Oh , I see why we can't do that .
+Bed012.B.dialogueact327	1071.72	1077.53	B	Grad	s	-1	0	And , um , in this case we would probably all agree that he wants to go there .
+Bed012.B.dialogueact328	1077.65	1079.33	B	Grad	s	-1	0	Our belief - net thinks he wants to go there ,
+Bed012.A.dialogueact330	1079.81	1079.92	A	Grad	b	-1	0	Yeah .
+Bed012.B.dialogueact329	1079.67	1079.92	B	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.A.dialogueact331	1080.34	1080.72	A	Grad	s^aa	-1	0	Mm - hmm .
+Bed012.B.dialogueact332	1080.72	1081.75	B	Grad	s^e	-1	0	In the , uh , whatever ,
+Bed012.B.dialogueact333	1081.75	1085.57	B	Grad	s^rt	-1	0	if we have something like this here ,
+Bed012.B.dialogueact334	1086.52	1087.2	B	Grad	fh	-1	0	and
+Bed012.B.dialogueact335	1091.21	1092.17	B	Grad	s^e	-1	0	this like that
+Bed012.B.dialogueact336	1092.17	1093.84	B	Grad	s^e.%-	-1	0	and maybe here also some {disfmarker}
+Bed012.A.dialogueact337	1094.9	1097.23	A	Grad	s^cs.%--	-1	0	You should probably {comment} make them out of {disfmarker}
+Bed012.A.dialogueact338	1097.37	1097.62	A	Grad	b	-1	0	Yeah .
+Bed012.B.dialogueact340	1098.87	1099.56	B	Grad	s	-1	0	something like that ,
+Bed012.C.dialogueact339	1098.67	1099.53	C	Grad	%-	-1	0	Well , it
+Bed012.B.dialogueact341	1100.25	1108.62	B	Grad	s	-1	0	then we would guess , " Aha ! He , our belief - net , {comment} has s stronger beliefs that he wants to know where it is , than actually wants to go {pause} there . "
+Bed012.B.dialogueact342	1110.2	1110.38	B	Grad	qy^d^f^g^rt	-1	0	Right ?
+Bed012.C.dialogueact343	1111.22	1113.24	C	Grad	qy^bu^rt	-1	0	That it {disfmarker} Doesn't this assume , though , that they 're evenly weighted ?
+Bed012.D.dialogueact344	1111.62	1111.93	D	Grad	s^aa	-1	0	True .
+Bed012.C.dialogueact345	1114.09	1114.5	C	Grad	%--	-1	0	Like {disfmarker}
+Bed012.C.dialogueact346	1116.21	1117.33	C	Grad	s	+1	1	I guess they are evenly weighted .
+Bed012.A.dialogueact347	1117.93	1119.37	A	Grad	qy^bu^d^rt	+1	1	The different decision nodes , you mean ?
+Bed012.C.dialogueact348	1119.54	1121.66	C	Grad	s^na^rt:s	-1	0	Yeah , the Go - there , the Info - on , and the Location ?
+Bed012.A.dialogueact349	1121.53	1123.1	A	Grad	s^na	-1	0	Well , d yeah , this is making the assumption .
+Bed012.A.dialogueact350	1125.43	1125.85	A	Grad	s^aa	-1	0	Yes .
+Bed012.C.dialogueact352	1127.12	1127.54	C	Grad	%-	-1	0	Like {disfmarker}
+Bed012.B.dialogueact351	1127.12	1128.24	B	Grad	qw	-1	0	What do you mean by " differently weighted " ?
+Bed012.B.dialogueact353	1128.24	1130.39	B	Grad	s^df	-1	0	They don't feed into anything really anymore .
+Bed012.A.dialogueact355	1130.69	1131.45	A	Grad	qw.%-	-1	0	But I mean , why do we {disfmarker}
+Bed012.C.dialogueact354	1130.45	1131.39	C	Grad	%-	-1	0	Or I jus
+Bed012.A.dialogueact357	1132.7	1138.32	A	Grad	s	+1	1	If we trusted the Go - there node more th much more than we trusted the other ones , then we would conclude , even in this situation , that he wanted to go there .
+Bed012.C.dialogueact356	1132.69	1133.19	C	Grad	%-	-1	0	Le
+Bed012.A.dialogueact358	1139.79	1141.59	A	Grad	s	-1	0	So , in that sense , we weight them equally
+Bed012.A.dialogueact360	1142.85	1143.21	A	Grad	s^e	-1	0	right now .
+Bed012.B.dialogueact359	1142.6	1142.84	B	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact361	1143.07	1143.62	B	Grad	s^bk	-1	0	Makes sense .
+Bed012.B.dialogueact362	1143.62	1143.8	B	Grad	b	-1	0	Yeah .
+Bed012.B.dialogueact364	1146.63	1146.77	B	Grad	%-	-1	0	But {disfmarker}
+Bed012.C.dialogueact363	1146.6	1152.89	C	Grad	s.%--	-1	0	So the But I guess the k the question {disfmarker} that I was as er wondering or maybe Robert was proposing to me is {disfmarker}
+Bed012.C.dialogueact365	1153.17	1156.43	C	Grad	qw^rt	-1	0	How do we d make the decision on {disfmarker} as to {disfmarker} which one to listen to ?
+Bed012.A.dialogueact366	1157.91	1161.45	A	Grad	s	-1	0	Yeah , so , the final d decision is the combination of these three .
+Bed012.A.dialogueact367	1161.45	1163.1	A	Grad	s.%-	-1	0	So again , it 's {disfmarker} it 's some kind of , uh {disfmarker}
+Bed012.C.dialogueact368	1163.38	1163.78	C	Grad	s^2	-1	0	Bayes - net .
+Bed012.A.dialogueact369	1164.39	1164.93	A	Grad	s^aa	-1	0	Yeah , sure .
+Bed012.C.dialogueact370	1165.99	1169.56	C	Grad	s.%--	-1	0	OK so , then , the question i So then my question is t to you then , would be {disfmarker}
+Bed012.C.dialogueact371	1171.83	1177.17	C	Grad	qy^rt	-1	0	So is the only r reason we can make all these smaller Bayes - nets , because we know we can only deal with a finite set of constructions ?
+Bed012.C.dialogueact372	1177.31	1182.1	C	Grad	s^df	-1	0	Cuz oth If we 're just taking arbitrary language in , we couldn't have a node for every possible question ,
+Bed012.C.dialogueact373	1182.1	1182.37	C	Grad	qy^d^g^rt	-1	0	you know ?
+Bed012.A.dialogueact374	1186.34	1188.11	A	Grad	s^bc	-1	0	A decision node for every possible question , you mean ?
+Bed012.C.dialogueact375	1188.66	1190.14	C	Grad	s^na	-1	0	Well , I {disfmarker} like , in the case of {disfmarker} Yeah .
+Bed012.C.dialogueact376	1190.47	1195.02	C	Grad	s^na.%--	-1	0	In the ca Any piece of language , we wouldn't be able to answer it with this system , b if we just h
+Bed012.C.dialogueact377	1195.63	1197.2	C	Grad	s^df	-1	0	Cuz we wouldn't have the correct node .
+Bed012.C.dialogueact378	1197.2	1199.53	C	Grad	s^bu	-1	0	Basically , w what you 're s proposing is a n Where - Is node ,
+Bed012.C.dialogueact379	1199.53	1199.77	C	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.A.dialogueact380	1200.14	1200.42	A	Grad	s^aa	-1	0	Yeah .
+Bed012.C.dialogueact381	1201.0	1209.02	C	Grad	s^bu	-1	0	And {disfmarker} and if we {disfmarker} And if someone {disfmarker} says , you know , uh , something in Mandarin to the system , we 'd - wouldn't know which node to look at to answer that question ,
+Bed012.A.dialogueact382	1202.38	1202.67	A	Grad	%-	-1	0	So is {disfmarker}
+Bed012.A.dialogueact383	1205.22	1205.41	A	Grad	b	-1	0	Yeah .
+Bed012.A.dialogueact385	1209.49	1209.79	A	Grad	s^aa	-1	0	Yeah .
+Bed012.C.dialogueact384	1209.02	1209.27	C	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.B.dialogueact386	1210.52	1210.69	B	Grad	fg	-1	0	Mmm ?
+Bed012.C.dialogueact387	1210.55	1211.75	C	Grad	s.%-	-1	0	So , but {disfmarker} but if we have a finite {disfmarker}
+Bed012.C.dialogueact388	1211.88	1212.12	C	Grad	qw^rt	-1	0	What ?
+Bed012.B.dialogueact389	1212.62	1213.48	B	Grad	s^ng	-1	0	I don't see your point .
+Bed012.B.dialogueact390	1213.8	1224.66	B	Grad	s	+1	2	What {disfmarker} what {disfmarker} what I am thinking , or what we 're about to propose here is we 're always gonna get the whole list of values and their posterior probabilities .
+Bed012.B.dialogueact391	1225.15	1228.88	B	Grad	s	+1	1	And now we need an expert system or belief - net or something that interprets that ,
+Bed012.B.dialogueact392	1229.9	1236.33	B	Grad	s^e	-1	0	that looks at all the values and says , " The winner is Timing .
+Bed012.B.dialogueact393	1236.33	1237.14	B	Grad	s:s^co	-1	0	Now , go there . "
+Bed012.B.dialogueact394	1237.81	1239.03	B	Grad	s:s^co	-1	0	" Uh , go there , Timing , now . "
+Bed012.B.dialogueact395	1239.81	1243.33	B	Grad	s^e:s	-1	0	Or , " The winner is Info - on , Function - Off . "
+Bed012.B.dialogueact396	1244.08	1247.62	B	Grad	s^e	-1	0	So , he wants to know {pause} something about it , and what it does .
+Bed012.B.dialogueact397	1248.38	1248.52	B	Grad	qy^d^g^rt	-1	0	Nuh ?
+Bed012.B.dialogueact398	1250.88	1253.92	B	Grad	s.%-	-1	0	Uh , regardless of {disfmarker} of {disfmarker} of the input . Wh - Regardle
+Bed012.C.dialogueact399	1252.17	1261.93	C	Grad	qw^nd	-1	0	Yeah , but But how does the expert {disfmarker} but how does the expert system know {disfmarker} how who which one to declare the winner , if it doesn't know the question it is , and how that question should be answered ?
+Bed012.B.dialogueact400	1265.86	1274.63	B	Grad	s	-1	0	Based on the k what the question was , so what the discourse , the ontology , the situation and the user model gave us , we came up with these values for these decisions .
+Bed012.C.dialogueact401	1274.69	1276.61	C	Grad	s^arp|qw	+1	0	Yeah I know . But how do we weight what we get out ?
+Bed012.C.dialogueact402	1279.05	1280.56	C	Grad	s^e	+1	0	As , which one i Which ones are important ?
+Bed012.C.dialogueact403	1286.12	1291.66	C	Grad	s^cs	+1	1	So my i So , if we were to it with a Bayes - net , we 'd have to have a node {disfmarker} for every question that we knew how to deal with ,
+Bed012.C.dialogueact404	1292.53	1295.53	C	Grad	s^e	+1	0	that would take all of the inputs and weight them appropriately for that question .
+Bed012.B.dialogueact405	1296.54	1296.88	B	Grad	b^rt	-1	0	Mm - hmm .
+Bed012.C.dialogueact406	1298.35	1299.03	C	Grad	qy^f^rt	-1	0	Does that make sense ?
+Bed012.C.dialogueact407	1300.11	1300.37	C	Grad	qy^d^rt	-1	0	Yay ,
+Bed012.C.dialogueact408	1300.37	1300.74	C	Grad	qy^d^rt	-1	0	nay ?
+Bed012.A.dialogueact409	1301.29	1305.98	A	Grad	h|qy^bu^rt	-1	0	Um , I mean , are you saying that , what happens if you try to scale this up to the situation , or are we just dealing with arbitrary language ?
+Bed012.C.dialogueact410	1301.4	1301.5	C	Grad	%-	-1	0	We {disfmarker}
+Bed012.A.dialogueact411	1307.96	1308.71	A	Grad	qy^rt	-1	0	Is that your point ?
+Bed012.C.dialogueact412	1309.37	1313.01	C	Grad	s^ar|s.%--	-1	0	Well , no . I {disfmarker} I guess my question is , Is the reason that we can make a node f
+Bed012.C.dialogueact413	1313.01	1315.5	C	Grad	s^co	-1	0	or {disfmarker} OK . So , lemme see if I 'm confused .
+Bed012.C.dialogueact414	1315.5	1317.23	C	Grad	qy	+1	0	Are we going to make a node for every question ?
+Bed012.C.dialogueact415	1317.48	1318.25	C	Grad	qy^rt	-1	0	Does that make sense ? {disfmarker}
+Bed012.A.dialogueact417	1318.57	1319.34	A	Grad	qy^d^rt	-1	0	For every question ?
+Bed012.C.dialogueact416	1318.25	1318.5	C	Grad	qrr	-1	0	Or not .
+Bed012.A.dialogueact418	1319.64	1319.94	A	Grad	%-	-1	0	Like {disfmarker}
+Bed012.C.dialogueact419	1320.01	1320.81	C	Grad	s^bsc	+1	2	Every construction .
+Bed012.A.dialogueact420	1323.2	1323.68	A	Grad	h	-1	0	Hmm .
+Bed012.A.dialogueact421	1325.78	1327.22	A	Grad	s^nd	-1	0	I don't {disfmarker} Not necessarily , I would think .
+Bed012.A.dialogueact422	1328.2	1329.71	A	Grad	s^df	+1	0	I mean , it 's not based on constructions ,
+Bed012.A.dialogueact423	1329.71	1336.42	A	Grad	s^df	+1	2	it 's based on things like , uh , there 's gonna be a node for Go - there or not , and there 's gonna be a node for Enter , View , Approach .
+Bed012.C.dialogueact424	1332.95	1333.6	C	Grad	%-	-1	0	Wel
+Bed012.C.dialogueact425	1335.1	1335.55	C	Grad	fg	-1	0	W OK .
+Bed012.C.dialogueact426	1336.73	1338.08	C	Grad	s	-1	0	So , someone asked a question .
+Bed012.A.dialogueact427	1338.55	1338.71	A	Grad	b	-1	0	Yeah .
+Bed012.C.dialogueact428	1339.0	1341.1	C	Grad	qw	-1	0	How do we decide how to answer it ?
+Bed012.B.dialogueact429	1344.03	1348.49	B	Grad	h|s^co	-1	0	Well , look at {disfmarker} look {disfmarker} Face yourself with this pr question .
+Bed012.B.dialogueact430	1348.49	1352.0	B	Grad	s	-1	0	You get this {disfmarker} You 'll have {disfmarker} y This is what you get .
+Bed012.B.dialogueact431	1352.63	1354.8	B	Grad	s:qw	-1	0	And now you have to make a decision . What do we think ?
+Bed012.B.dialogueact432	1355.46	1356.52	B	Grad	qw	-1	0	What does this tell us ?
+Bed012.B.dialogueact433	1357.98	1363.18	B	Grad	s^e	-1	0	And not knowing what was asked , and what happened , and whether the person was a tourist or a local ,
+Bed012.B.dialogueact434	1363.52	1369.57	B	Grad	s^df	-1	0	because all of these factors have presumably already gone into making these posterior probabilities .
+Bed012.B.dialogueact436	1371.34	1376.63	B	Grad	s^cs.%-:s	-1	0	What {disfmarker} what we need is a {disfmarker} just a mechanism that says , " Aha ! There is {disfmarker} "
+Bed012.C.dialogueact435	1371.19	1371.48	C	Grad	b	-1	0	Yeah .
+Bed012.C.dialogueact437	1377.12	1380.0	C	Grad	s^nd.%-	-1	0	I just don't think a " winner - take - all " type of thing is the {disfmarker}
+Bed012.A.dialogueact438	1381.14	1383.51	A	Grad	s	+1	0	I mean , in general , like , we won't just have those three ,
+Bed012.A.dialogueact439	1383.51	1383.79	A	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.A.dialogueact440	1383.79	1386.07	A	Grad	s	+1	0	We 'll have , uh , like , many , many nodes .
+Bed012.A.dialogueact442	1386.6	1392.34	A	Grad	s	+1	0	So we have to , like {disfmarker} So that it 's no longer possible to just look at the nodes themselves and figure out what the person is trying to say .
+Bed012.B.dialogueact441	1386.21	1386.44	B	Grad	s^aa	-1	0	Yep .
+Bed012.B.dialogueact443	1392.11	1393.59	B	Grad	s^df^e	+1	1	Because there are interdependencies ,
+Bed012.B.dialogueact444	1393.59	1393.77	B	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.B.dialogueact445	1394.21	1394.82	B	Grad	%--	-1	0	The uh {disfmarker}
+Bed012.B.dialogueact446	1397.17	1403.8	B	Grad	s.%--	-1	0	Uh , no . So if {disfmarker} if for example , the Go - there posterior possibility is so high , um ,
+Bed012.B.dialogueact447	1405.03	1410.26	B	Grad	s	-1	0	uh , w if it 's {disfmarker} if it has reached {disfmarker} reached a certain height , then all of this becomes irrelevant .
+Bed012.B.dialogueact448	1410.69	1418.89	B	Grad	s.%-	-1	0	So . If {disfmarker} even if {disfmarker} if the function or the history or something is scoring pretty good on the true node , true value {disfmarker}
+Bed012.C.dialogueact449	1418.5	1418.83	C	Grad	fg	-1	0	Wel
+Bed012.C.dialogueact450	1419.75	1420.61	C	Grad	s^nd	-1	0	I don't know about that ,
+Bed012.C.dialogueact451	1420.61	1422.28	C	Grad	s.%-	-1	0	cuz that would suggest that {disfmarker} I mean {disfmarker}
+Bed012.B.dialogueact452	1423.44	1425.37	B	Grad	qy^2^bu^d^rt	-1	0	He wants to go there and know something about it ?
+Bed012.C.dialogueact453	1423.56	1424.75	C	Grad	qy.%-	-1	0	Do they have to be mutual
+Bed012.C.dialogueact454	1425.24	1426.81	C	Grad	s^aa|qy^rt	-1	0	Yeah . Do they have to be mutually exclusive ?
+Bed012.B.dialogueact455	1427.96	1430.5	B	Grad	s^na	-1	0	I think to some extent they are .
+Bed012.B.dialogueact456	1432.76	1433.63	B	Grad	s^am	-1	0	Or maybe they 're not .
+Bed012.C.dialogueact457	1434.85	1439.2	C	Grad	s^df	-1	0	Cuz I , uh {disfmarker} The way you describe what they meant , they weren't mutu uh , they didn't seem mutually exclusive to me .
+Bed012.B.dialogueact458	1441.18	1446.77	B	Grad	s.%--	-1	0	Well , if he doesn't want to go there , even if the Enter posterior proba
+Bed012.B.dialogueact459	1446.77	1447.1	B	Grad	fh	-1	0	So .
+Bed012.C.dialogueact460	1447.58	1447.8	C	Grad	fh	-1	0	Wel
+Bed012.B.dialogueact461	1448.39	1449.4	B	Grad	s:s	-1	0	Go - there is No .
+Bed012.B.dialogueact462	1450.13	1450.98	B	Grad	s:s	-1	0	Enter is High ,
+Bed012.B.dialogueact463	1450.98	1452.42	B	Grad	s:s	-1	0	and Info - on is High .
+Bed012.C.dialogueact464	1452.15	1454.34	C	Grad	s.%-	-1	0	Well , yeah , just out of the other three , though , that you had in the {disfmarker}
+Bed012.B.dialogueact465	1454.51	1454.73	B	Grad	qw^br^rt	-1	0	Hmm ?
+Bed012.C.dialogueact466	1454.86	1455.51	C	Grad	s	-1	0	those three nodes .
+Bed012.C.dialogueact467	1455.51	1457.5	C	Grad	s^r	-1	0	The - d They didn't seem like they were mutually exclusive .
+Bed012.B.dialogueact468	1456.82	1457.61	B	Grad	s^ar	-1	0	No , there 's {disfmarker} No .
+Bed012.B.dialogueact469	1457.85	1457.97	B	Grad	%-	-1	0	But {disfmarker}
+Bed012.B.dialogueact470	1459.36	1459.92	B	Grad	s.%-	-1	0	It 's through the {disfmarker}
+Bed012.C.dialogueact471	1459.52	1462.74	C	Grad	s	-1	0	So th s so , yeah , but some {disfmarker} So , some things would drop out , and some things would still be important .
+Bed012.B.dialogueact472	1463.17	1463.49	B	Grad	b	-1	0	Mm - hmm .
+Bed012.C.dialogueact473	1471.63	1476.18	C	Grad	s^rt	-1	0	But I guess what 's confusing me is , if we have a Bayes - net to deal w another Bayes - net to deal with this stuff ,
+Bed012.A.dialogueact474	1477.74	1478.0	A	Grad	b^rt	-1	0	Mm - hmm .
+Bed012.C.dialogueact475	1478.64	1479.12	C	Grad	fh	-1	0	you know ,
+Bed012.C.dialogueact476	1480.02	1480.67	C	Grad	fh	-1	0	uh ,
+Bed012.C.dialogueact477	1481.58	1492.17	C	Grad	qy^bu^rt	-1	0	is the only reason {disfmarker} OK , so , I guess , if we have a Ba - another Bayes - net to deal with this stuff , the only r reason {pause} we can design it is cuz we know what each question is asking ?
+Bed012.A.dialogueact478	1493.07	1493.3	A	Grad	s^aa	-1	0	Yeah .
+Bed012.A.dialogueact479	1494.16	1494.73	A	Grad	s^aa	-1	0	I think that 's true .
+Bed012.C.dialogueact480	1496.64	1499.71	C	Grad	s^bu.%--	-1	0	And then , so , the only reason {disfmarker} way we would know what question he 's asking is based upon {disfmarker}
+Bed012.C.dialogueact481	1499.71	1505.96	C	Grad	s^bu	+1	0	Oh , so if {disfmarker} Let 's say I had a construction parser , and I plug this in , I would know what each construction {disfmarker} the communicative intent of the construction was
+Bed012.A.dialogueact482	1506.06	1506.37	A	Grad	b^rt	-1	0	Mm - hmm .
+Bed012.C.dialogueact483	1506.39	1509.06	C	Grad	s	+1	0	and so then I would know how to weight the nodes appropriately , in response .
+Bed012.C.dialogueact484	1511.62	1515.89	C	Grad	s:s	-1	0	So no matter what they said , if I could map it onto a Where - Is construction , I could say , " ah !
+Bed012.A.dialogueact485	1512.58	1512.74	A	Grad	%-	-1	0	Ge
+Bed012.A.dialogueact486	1514.65	1514.93	A	Grad	b	-1	0	Mm - hmm .
+Bed012.C.dialogueact487	1516.18	1517.85	C	Grad	s:qw	-1	0	well the the intent , here , was Where - Is " ,
+Bed012.A.dialogueact488	1517.99	1518.5	A	Grad	s^bk	-1	0	OK , right .
+Bed012.C.dialogueact489	1518.29	1519.24	C	Grad	s^cc	-1	0	and I could look at those .
+Bed012.A.dialogueact490	1520.39	1520.68	A	Grad	s^aa	-1	0	Yeah .
+Bed012.A.dialogueact491	1522.2	1522.79	A	Grad	s^aa|%--	-1	0	Yes , I mean .
+Bed012.A.dialogueact492	1523.83	1524.22	A	Grad	s^aa	-1	0	Sure .
+Bed012.A.dialogueact493	1525.51	1527.58	A	Grad	s^na	-1	0	You do need to know {disfmarker} I mean , to have that kind of information .
+Bed012.B.dialogueact494	1531.22	1531.44	B	Grad	b	-1	0	Hmm .
+Bed012.B.dialogueact495	1531.89	1533.98	B	Grad	s^na.%--	-1	0	Yeah , I 'm also agreeing that {pause} a simple
+Bed012.B.dialogueact496	1535.23	1537.44	B	Grad	s^cs	-1	0	pru {comment} Take the ones where we have a clear winner .
+Bed012.B.dialogueact497	1539.07	1542.55	B	Grad	s^cs^e	-1	0	Forget about the ones where it 's all sort of middle ground .
+Bed012.B.dialogueact498	1543.2	1544.01	B	Grad	s^cs^e	-1	0	Prune those out
+Bed012.B.dialogueact499	1544.01	1546.52	B	Grad	s^cs^e	-1	0	and just hand over the ones where we have a winner .
+Bed012.B.dialogueact500	1547.46	1549.26	B	Grad	s^ba^df	-1	0	Yeah , because that would be the easiest way .
+Bed012.B.dialogueact501	1549.37	1561.58	B	Grad	s^cs:s^co	-1	0	We just compose as an output an XML mes {vocalsound} message that says . " Go there {pause} now . " " Enter historical information . "
+Bed012.B.dialogueact502	1562.69	1564.82	B	Grad	s	-1	0	And not care whether that 's consistent with anything .
+Bed012.B.dialogueact503	1565.43	1565.63	B	Grad	qy^d^f^g^rt	-1	0	Right ?
+Bed012.B.dialogueact504	1566.37	1572.45	B	Grad	s	-1	0	But in this case if we say , " definitely he doesn't want to go there . He just wants to know where it is . "
+Bed012.B.dialogueact505	1574.24	1576.13	B	Grad	s.%--	-1	0	or let 's call this {disfmarker} this " Look - At - H "
+Bed012.B.dialogueact506	1576.28	1577.95	B	Grad	s	-1	0	He wants to know something about the history of .
+Bed012.B.dialogueact507	1578.18	1580.85	B	Grad	s^e:s^co	-1	0	So he said , " Tell me something about the history of that . "
+Bed012.B.dialogueact508	1581.9	1589.12	B	Grad	s	-1	0	Now , the e But for some reason the Endpoint - Approach gets a really high score , {pause} too .
+Bed012.B.dialogueact509	1590.06	1595.78	B	Grad	s	-1	0	We can't expect this to be sort of at O point {comment} three , three , three , O point , three , three , three , O point , three , three , three .
+Bed012.B.dialogueact510	1595.79	1596.05	B	Grad	qy^d^g^rt	-1	0	Right ?
+Bed012.B.dialogueact511	1598.17	1600.53	B	Grad	s^cs	-1	0	Somebody needs to zap that .
+Bed012.B.dialogueact512	1601.94	1602.15	B	Grad	qy^d^g^rt	-1	0	You know ?
+Bed012.B.dialogueact513	1602.22	1605.33	B	Grad	s^e.%-	-1	0	Or know {disfmarker} There needs to be some knowledge that {disfmarker}
+Bed012.C.dialogueact514	1606.7	1609.33	C	Grad	s^aap.%--	-1	0	We {disfmarker} Yeah , but , the Bayes - net that would merge {disfmarker}
+Bed012.C.dialogueact515	1611.06	1614.31	C	Grad	s^fa	-1	0	I just realized that I had my hand in between my mouth and my micr er , my and my microphone .
+Bed012.C.dialogueact516	1615.05	1624.53	C	Grad	s:s	+1	0	So then , the Bayes - net that would merge there , that would make the decision between Go - there , Info - on , and Location , would have a node to tell you which one of those three you wanted ,
+Bed012.C.dialogueact517	1624.53	1626.99	C	Grad	s^e	-1	0	and based upon that node , then you would look at the other stuff .
+Bed012.B.dialogueact518	1626.96	1627.15	B	Grad	s^aa	-1	0	Yep .
+Bed012.B.dialogueact520	1629.09	1629.25	B	Grad	s^aa^r	-1	0	Yep .
+Bed012.C.dialogueact519	1629.04	1630.27	C	Grad	%--	-1	0	I mean , it i
+Bed012.C.dialogueact521	1630.87	1631.61	C	Grad	qy^f^rt	-1	0	Does that make sense ?
+Bed012.B.dialogueact522	1631.93	1636.79	B	Grad	fg|s^bs	-1	0	Yep . It 's sort of one of those , that 's {disfmarker} It 's more like a decision tree , if {disfmarker} if you want .
+Bed012.B.dialogueact523	1637.04	1639.37	B	Grad	s^bu	-1	0	You first look o at the lowball ones ,
+Bed012.C.dialogueact524	1638.38	1639.13	C	Grad	fg|%-	-1	0	Yeah , i
+Bed012.B.dialogueact525	1639.37	1639.73	B	Grad	s.%-	-1	0	and then {disfmarker}
+Bed012.C.dialogueact526	1640.24	1642.04	C	Grad	s.%--	-1	0	Yeah , I didn't intend to say that every possible {disfmarker}
+Bed012.C.dialogueact527	1642.04	1642.35	C	Grad	fh	-1	0	OK .
+Bed012.C.dialogueact528	1642.67	1643.37	C	Grad	s	-1	0	There was a confusion there ,
+Bed012.C.dialogueact529	1643.37	1645.61	C	Grad	s	-1	0	k I didn't intend to say every possible thing should go into the Bayes - net ,
+Bed012.C.dialogueact530	1645.61	1649.05	C	Grad	s^df	-1	0	because some of the things aren't relevant in the Bayes - net for a specific question .
+Bed012.C.dialogueact531	1651.54	1657.91	C	Grad	s^e	-1	0	Like the Endpoint is not necessarily relevant in the Bayes - net for Where - Is until after you 've decided whether you wanna go there or not .
+Bed012.B.dialogueact532	1658.02	1658.26	B	Grad	b	-1	0	Mm - hmm .
+Bed012.A.dialogueact533	1659.61	1659.95	A	Grad	s^aa	-1	0	Right .
+Bed012.C.dialogueact534	1663.89	1664.79	C	Grad	s^co	-1	0	Show us the way , Bhaskara .
+Bed012.A.dialogueact535	1665.7	1667.06	A	Grad	s.%--	-1	0	I guess the other thing is that um , yeah .
+Bed012.A.dialogueact536	1667.06	1669.07	A	Grad	s.%--	-1	0	I mean , when you 're asked a specific question and you don't even {disfmarker}
+Bed012.A.dialogueact537	1670.24	1676.33	A	Grad	s	+1	0	Like , if you 're asked a Where - Is question , you may not even look {disfmarker} like , ask for the posterior probability of the , uh , EVA node ,
+Bed012.A.dialogueact538	1676.33	1676.62	A	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.A.dialogueact539	1677.24	1680.99	A	Grad	s^df	+1	2	Cuz , that 's what {disfmarker} I mean , in the Bayes - net you always ask for the posterior probability of a specific node .
+Bed012.A.dialogueact540	1681.24	1682.06	A	Grad	fh	-1	0	So , I mean ,
+Bed012.A.dialogueact541	1682.73	1684.92	A	Grad	s	+1	0	you may not even bother to compute things you don't need .
+Bed012.B.dialogueact542	1682.85	1683.24	B	Grad	fg	-1	0	Um .
+Bed012.B.dialogueact543	1686.0	1687.13	B	Grad	qy^bu^rt	-1	0	Aren't we always computing all ?
+Bed012.A.dialogueact544	1687.54	1687.9	A	Grad	s^ar	-1	0	No .
+Bed012.A.dialogueact545	1688.67	1693.18	A	Grad	s^df	-1	0	You can compute , uh , the posterior probability of one subset of the nodes , given some other nodes ,
+Bed012.A.dialogueact546	1693.18	1695.41	A	Grad	s^e	-1	0	but totally ignore some other nodes , also .
+Bed012.A.dialogueact547	1696.09	1698.15	A	Grad	s	-1	0	Basically , things you ignore get marginalized over .
+Bed012.B.dialogueact548	1698.65	1700.68	B	Grad	s^nd	+1	0	Yeah , but that 's {disfmarker} that 's just shifting the problem .
+Bed012.B.dialogueact549	1701.17	1702.35	B	Grad	s^ng	+1	0	Then you would have to make a decision ,
+Bed012.A.dialogueact551	1702.59	1703.21	A	Grad	s^aa|s^df.%-	-1	0	Yeah . So you have to make {disfmarker}
+Bed012.B.dialogueact550	1702.35	1706.13	B	Grad	s:qw	+1	0	" OK , if it 's a Where - Is question , which decision nodes do I query ? "
+Bed012.A.dialogueact552	1704.85	1705.15	A	Grad	s^aa	-1	0	Yeah .
+Bed012.A.dialogueact553	1706.57	1706.98	A	Grad	s^aa	-1	0	Yes .
+Bed012.A.dialogueact555	1708.37	1709.56	A	Grad	s^na	-1	0	But I would think that 's what you want to do .
+Bed012.B.dialogueact554	1708.23	1708.77	B	Grad	%-	-1	0	That 's un
+Bed012.A.dialogueact556	1710.24	1710.5	A	Grad	qy^d^g^rt	-1	0	Right ?
+Bed012.B.dialogueact557	1711.55	1712.94	B	Grad	s^arp	-1	0	Mmm .
+Bed012.D.dialogueact558	1712.61	1715.03	D	Grad	s^ng	+1	1	Well , eventually , you still have to pick out which ones you look at .
+Bed012.B.dialogueact559	1714.85	1715.0	B	Grad	s^aa	-1	0	Yeah .
+Bed012.D.dialogueact560	1715.03	1716.41	D	Grad	s	-1	0	So it 's pretty much the same problem ,
+Bed012.B.dialogueact561	1716.32	1718.44	B	Grad	s	-1	0	Yeah {disfmarker} it 's {disfmarker} it 's {disfmarker} it 's apples and oranges .
+Bed012.D.dialogueact562	1716.41	1716.74	D	Grad	qy^d^g^rt	-1	0	isn't it ?
+Bed012.B.dialogueact563	1718.44	1718.59	B	Grad	qy^d^g^rt	-1	0	Nuh ?
+Bed012.B.dialogueact564	1720.61	1724.85	B	Grad	s	+1	1	I mean , maybe it does make a difference in terms of performance , computational time .
+Bed012.A.dialogueact566	1725.0	1725.49	A	Grad	b^rt	-1	0	Mm - hmm .
+Bed012.B.dialogueact565	1724.85	1733.59	B	Grad	s^cs.%--	-1	0	So either you always have it compute all the posterior possibilities for all the values for all nodes , and then prune the ones you think that are irrelevant ,
+Bed012.A.dialogueact567	1730.59	1730.91	A	Grad	b	-1	0	Mmm .
+Bed012.B.dialogueact568	1734.96	1741.69	B	Grad	s^cs^e	-1	0	or you just make a p @ @ {comment} a priori estimate of what you think might be relevant and query those .
+Bed012.A.dialogueact569	1742.98	1743.23	A	Grad	s^aa	-1	0	Yeah .
+Bed012.C.dialogueact570	1760.19	1763.74	C	Grad	qy^bu:s^co	+1	1	So basically , you 'd have a decision tree {pause} query , {pause} Go - there .
+Bed012.C.dialogueact571	1763.81	1766.88	C	Grad	s^e	+1	0	If k if that 's false , query this one . If that 's true , query that one .
+Bed012.C.dialogueact572	1766.88	1768.48	C	Grad	s^e.%-	+1	1	And just basically do a binary search through the {disfmarker} ?
+Bed012.A.dialogueact573	1769.76	1772.15	A	Grad	s^aap	-1	0	I don't know if it would necessarily be that , uh , complicated .
+Bed012.A.dialogueact574	1772.33	1772.83	A	Grad	fh	-1	0	But , uh {disfmarker}
+Bed012.A.dialogueact576	1775.55	1776.7	A	Grad	s.%-	-1	0	I mean , it w
+Bed012.C.dialogueact575	1775.46	1777.05	C	Grad	s^nd:s^co	-1	0	Well , in the case of Go - there , it would be .
+Bed012.C.dialogueact577	1777.05	1777.39	C	Grad	s.%--	-1	0	In the case {disfmarker}
+Bed012.C.dialogueact578	1777.39	1781.06	C	Grad	s^df	-1	0	Cuz if you needed an If y If Go - there was true , you 'd wanna know what endpoint was .
+Bed012.C.dialogueact579	1781.06	1784.4	C	Grad	s^df	-1	0	And if it was false , you 'd wanna d look at either Lo - Income Info - on or History .
+Bed012.A.dialogueact580	1786.21	1786.5	A	Grad	s^aa	-1	0	Yeah .
+Bed012.A.dialogueact581	1788.24	1788.99	A	Grad	s^aa	-1	0	That 's true , I guess .
+Bed012.A.dialogueact582	1789.05	1791.18	A	Grad	s^na	-1	0	Yeah , {vocalsound} so , in a way you would have that .
+Bed012.C.dialogueact583	1800.23	1802.58	C	Grad	s^t^tc	+1	1	Also , I 'm somewhat boggled by that Hugin software .
+Bed012.A.dialogueact584	1803.2	1803.93	A	Grad	s^bk|qw	-1	0	OK , why 's that ?
+Bed012.C.dialogueact585	1804.35	1808.15	C	Grad	s	+1	1	I can't figure out how to get the probabilities into it .
+Bed012.C.dialogueact586	1808.64	1809.29	C	Grad	s.%--	-1	0	Like , I 'd look at {disfmarker}
+Bed012.A.dialogueact587	1810.62	1810.87	A	Grad	b^rt	-1	0	Mm - hmm .
+Bed012.C.dialogueact588	1810.63	1811.94	C	Grad	s	-1	0	It 's somewha It 's boggling me .
+Bed012.A.dialogueact589	1812.48	1812.72	A	Grad	s^bk	-1	0	OK .
+Bed012.A.dialogueact590	1814.09	1814.43	A	Grad	s^bk	-1	0	Alright .
+Bed012.A.dialogueact591	1815.27	1816.94	A	Grad	s	-1	0	Well , hopefully it 's {pause} fixable .
+Bed012.C.dialogueact592	1816.63	1816.74	C	Grad	%-	-1	0	Ju
+Bed012.A.dialogueact594	1817.46	1818.27	A	Grad	%-	-1	0	It 's {disfmarker} there 's a {disfmarker}
+Bed012.C.dialogueact593	1817.45	1823.73	C	Grad	s^aa|s^df	-1	0	Oh yeah , yeah . I d I just think I haven't figured out what {disfmarker} the terms in Hugin mean , versus what Java Bayes terms are .
+Bed012.A.dialogueact595	1823.83	1824.18	A	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact596	1826.13	1829.36	B	Grad	fg|qy^rt	-1	0	Um , by the way , are {disfmarker} Do we know whether Jerry and Nancy are coming ?
+Bed012.A.dialogueact597	1826.65	1827.76	A	Grad	s	-1	0	So we can figure this out .
+Bed012.B.dialogueact598	1829.54	1830.02	B	Grad	qrr.%--	-1	0	Or {disfmarker} ?
+Bed012.A.dialogueact599	1830.2	1833.36	A	Grad	s^na	-1	0	They should come when they 're done their stuff , basically , whenever that is .
+Bed012.A.dialogueact600	1834.29	1834.71	A	Grad	fh	-1	0	So .
+Bed012.C.dialogueact601	1834.62	1835.91	C	Grad	qw^rt	-1	0	What d what do they need to do left ?
+Bed012.A.dialogueact602	1837.45	1837.94	A	Grad	h	-1	0	Um ,
+Bed012.A.dialogueact603	1838.95	1840.64	A	Grad	s	-1	0	I guess , Jerry needs to enter marks ,
+Bed012.A.dialogueact604	1840.7	1842.27	A	Grad	s	-1	0	but I don't know if he 's gonna do that now or later .
+Bed012.A.dialogueact605	1842.5	1845.31	A	Grad	fh|s	-1	0	But , uh , if he 's gonna enter marks , it 's gonna take him awhile , I guess ,
+Bed012.A.dialogueact606	1845.31	1845.99	A	Grad	s	-1	0	and he won't be here .
+Bed012.C.dialogueact607	1846.76	1847.49	C	Grad	qw^rt	-1	0	And what 's Nancy doing ?
+Bed012.A.dialogueact608	1848.03	1848.57	A	Grad	qh^m^rt	-1	0	Nancy ?
+Bed012.A.dialogueact609	1848.75	1853.44	A	Grad	h|s	-1	0	Um , she was sorta finishing up the , uh , calculation of marks and assigning of grades ,
+Bed012.A.dialogueact610	1853.44	1854.51	A	Grad	s	-1	0	but I don't know if she should be here .
+Bed012.A.dialogueact611	1856.33	1857.79	A	Grad	s	-1	0	Well {disfmarker} or , she should be free after that ,
+Bed012.A.dialogueact612	1857.79	1858.05	A	Grad	fh	-1	0	so {disfmarker}
+Bed012.A.dialogueact613	1859.09	1860.29	A	Grad	s^e	-1	0	assuming she 's coming to this meeting .
+Bed012.A.dialogueact614	1862.27	1863.31	A	Grad	s^no	-1	0	I don't know if she knows about it .
+Bed012.C.dialogueact615	1866.06	1866.94	C	Grad	s^bu	-1	0	She 's on the email list ,
+Bed012.C.dialogueact616	1866.94	1867.15	C	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.A.dialogueact617	1867.56	1867.85	A	Grad	qy^bu^no^rt	-1	0	Is she ?
+Bed012.A.dialogueact618	1867.85	1868.18	A	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact619	1868.02	1868.2	B	Grad	b	-1	0	Mm - hmm .
+Bed012.B.dialogueact620	1871.47	1871.8	B	Grad	fg	-1	0	OK .
+Bed012.B.dialogueact621	1872.64	1873.73	B	Grad	%--	-1	0	Because
+Bed012.B.dialogueact622	1876.47	1886.18	B	Grad	s^bs^rt	+1	0	basically , what {disfmarker} where we also have decided , prior to this meeting is that we would have a rerun of the three of us sitting together
+Bed012.D.dialogueact623	1886.68	1886.98	D	Grad	b	-1	0	OK .
+Bed012.B.dialogueact624	1887.67	1889.45	B	Grad	s^e^rt	+1	1	sometime {pause} this week {pause} again
+Bed012.A.dialogueact625	1889.81	1890.02	A	Grad	b	-1	0	OK .
+Bed012.B.dialogueact626	1890.62	1896.08	B	Grad	s^e^t	+1	1	and finish up the , uh , values of this .
+Bed012.B.dialogueact627	1896.22	1902.42	B	Grad	s^rt	+1	1	So we have , uh {disfmarker} Believe it or not , we have all the bottom ones here .
+Bed012.C.dialogueact628	1903.98	1904.31	C	Grad	%-	-1	0	Well , I {disfmarker}
+Bed012.D.dialogueact629	1904.66	1906.46	D	Grad	qy.%-	-1	0	You added a bunch of {pause} nodes , for {disfmarker} ?
+Bed012.B.dialogueact630	1906.52	1906.73	B	Grad	s^aa	-1	0	Yep .
+Bed012.B.dialogueact632	1907.8	1910.37	B	Grad	s	-1	0	We {disfmarker} we {disfmarker} we have {disfmarker} Actually what we have is this line .
+Bed012.D.dialogueact631	1907.71	1907.92	D	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact633	1912.26	1912.47	B	Grad	qy^d^g^rt	-1	0	Right ?
+Bed012.C.dialogueact634	1912.58	1915.69	C	Grad	fg|qw^rt	-1	0	Uh , what do the , uh , structures do ?
+Bed012.B.dialogueact635	1915.54	1915.77	B	Grad	b	-1	0	Hmm ?
+Bed012.C.dialogueact636	1915.69	1918.7	C	Grad	s^rt	-1	0	So the {disfmarker} the {disfmarker} the {disfmarker} For instance , this Location node 's got two inputs ,
+Bed012.A.dialogueact638	1919.06	1919.69	A	Grad	s^bc	-1	0	Four inputs .
+Bed012.B.dialogueact639	1919.13	1919.32	B	Grad	b	-1	0	Hmm .
+Bed012.C.dialogueact637	1918.91	1919.43	C	Grad	s^e.%-	-1	0	that one you {disfmarker}
+Bed012.B.dialogueact640	1919.97	1920.14	B	Grad	s^aa^m	-1	0	Four .
+Bed012.A.dialogueact641	1920.73	1922.48	A	Grad	s^df	-1	0	Those are {disfmarker} The bottom things are inputs , also .
+Bed012.C.dialogueact642	1922.54	1923.1	C	Grad	s^bk	-1	0	Oh , I see .
+Bed012.A.dialogueact643	1923.57	1923.77	A	Grad	s^bk	-1	0	Yeah .
+Bed012.C.dialogueact644	1925.82	1926.29	C	Grad	s.%--	-1	0	OK , that was
+Bed012.C.dialogueact645	1926.29	1927.9	C	Grad	fh|s	-1	0	OK . That makes a lot more sense to me now .
+Bed012.B.dialogueact646	1928.54	1928.68	B	Grad	b	-1	0	Yep .
+Bed012.C.dialogueact647	1928.71	1934.09	C	Grad	s.%--	-1	0	Cuz I thought it was like , that one in Stuart 's book about , you know , the {disfmarker}
+Bed012.A.dialogueact648	1934.44	1935.29	A	Grad	qy^2^rt	-1	0	Alarm in the dog ?
+Bed012.C.dialogueact649	1935.19	1935.65	C	Grad	s^aa	-1	0	U Yeah .
+Bed012.A.dialogueact650	1935.9	1936.02	A	Grad	b	-1	0	Yeah .
+Bed012.C.dialogueact651	1936.06	1937.19	C	Grad	s^bc^ng	-1	0	Or the earthquake and the alarm .
+Bed012.A.dialogueact652	1937.69	1938.87	A	Grad	s^fa|s	-1	0	Sorry . Yeah , I 'm confusing two .
+Bed012.C.dialogueact653	1939.26	1940.13	C	Grad	s	-1	0	Yeah , there 's a dog one , too ,
+Bed012.C.dialogueact654	1940.13	1941.01	C	Grad	s^e	-1	0	but that 's in Java Bayes ,
+Bed012.A.dialogueact656	1941.41	1941.62	A	Grad	s^aa	-1	0	Right .
+Bed012.C.dialogueact655	1941.01	1941.32	C	Grad	qy^d^g^rt	-1	0	isn't it ?
+Bed012.A.dialogueact657	1942.13	1942.47	A	Grad	s^am	-1	0	Maybe .
+Bed012.C.dialogueact658	1942.79	1945.4	C	Grad	s	-1	0	But there 's something about bowel problems or something with the dog .
+Bed012.A.dialogueact659	1946.93	1947.02	A	Grad	b	-1	0	Yeah .
+Bed012.B.dialogueact660	1947.6	1952.02	B	Grad	s	-1	0	And we have all the top ones ,
+Bed012.B.dialogueact661	1952.84	1954.89	B	Grad	s^e^rt	-1	0	all the ones to which no arrows are pointing .
+Bed012.B.dialogueact662	1956.16	1959.11	B	Grad	s	-1	0	What we 're missing are the {disfmarker} these ,
+Bed012.B.dialogueact663	1959.64	1960.89	B	Grad	s^e	-1	0	where arrows are pointing ,
+Bed012.B.dialogueact664	1960.89	1964.18	B	Grad	s^e	-1	0	where we 're combining top ones .
+Bed012.B.dialogueact665	1966.21	1971.35	B	Grad	s^co^rt	+1	1	So , we have to come up with values for this , and this , this , this , and so forth .
+Bed012.B.dialogueact666	1973.5	1976.92	B	Grad	s^cs	+1	0	And maybe just fiddle around with it a little bit more .
+Bed012.B.dialogueact667	1980.76	1981.84	B	Grad	fh	-1	0	And , um .
+Bed012.B.dialogueact668	1982.74	1985.21	B	Grad	s	-1	0	And then it 's just , uh , edges ,
+Bed012.B.dialogueact669	1986.88	1987.3	B	Grad	%--	-1	0	many of
+Bed012.B.dialogueact670	1989.62	1989.93	B	Grad	s^r	-1	0	edges .
+Bed012.B.dialogueact671	1991.76	1996.8	B	Grad	fh|s	+1	0	And , um , we won't {comment} meet next Monday .
+Bed012.B.dialogueact672	1997.33	1998.22	B	Grad	fh	-1	0	So .
+Bed012.C.dialogueact673	1998.22	1999.16	C	Grad	qy^d^rt	-1	0	Cuz of Memorial Day ?
+Bed012.A.dialogueact675	2000.31	2001.58	A	Grad	s^cc	+1	0	We 'll meet next Tuesday , I guess .
+Bed012.B.dialogueact674	2000.13	2000.3	B	Grad	s^aa	-1	0	Yep .
+Bed012.B.dialogueact676	2002.2	2002.33	B	Grad	s^aa	-1	0	Yeah .
+Bed012.C.dialogueact677	2002.98	2004.9	C	Grad	qw^rt	-1	0	When 's Jerry leaving for {disfmarker} Italia ?
+Bed012.B.dialogueact678	2004.59	2005.5	B	Grad	s	-1	0	On {disfmarker} on Friday .
+Bed012.A.dialogueact679	2006.09	2006.56	A	Grad	qw^d^rt	-1	0	Which Friday ?
+Bed012.B.dialogueact680	2006.3	2007.13	B	Grad	s	-1	0	This {disfmarker} this Friday .
+Bed012.A.dialogueact681	2007.54	2007.87	A	Grad	s^bk	-1	0	OK .
+Bed012.D.dialogueact682	2007.86	2008.89	D	Grad	s^bk|qy^bu^m^rt	-1	0	Oh . This Friday ?
+Bed012.C.dialogueact683	2008.54	2008.67	C	Grad	b	-1	0	Ugh .
+Bed012.B.dialogueact684	2009.23	2009.72	B	Grad	s^aa^r	-1	0	This Friday .
+Bed012.C.dialogueact685	2009.26	2010.12	C	Grad	qy^bu^d^rt	-1	0	As in , four days ?
+Bed012.B.dialogueact686	2010.61	2010.78	B	Grad	s^aa	-1	0	Yep .
+Bed012.C.dialogueact687	2011.81	2012.33	C	Grad	s^bsc	-1	0	Or , three days ?
+Bed012.A.dialogueact688	2012.56	2013.82	A	Grad	qw^rt	-1	0	Is he {disfmarker} How long is he gone for ?
+Bed012.B.dialogueact689	2014.04	2014.6	B	Grad	s	-1	0	Two weeks .
+Bed012.A.dialogueact690	2017.73	2018.25	A	Grad	qh^rt	-1	0	Italy , huh ?
+Bed012.A.dialogueact691	2019.77	2021.27	A	Grad	qw^rt	-1	0	What 's , uh {disfmarker} what 's there ?
+Bed012.B.dialogueact692	2024.7	2025.37	B	Grad	s^j	-1	0	Well , it 's a country .
+Bed012.B.dialogueact693	2026.17	2026.5	B	Grad	s^j	-1	0	Buildings .
+Bed012.B.dialogueact694	2027.28	2027.62	B	Grad	s^j^rt	-1	0	People .
+Bed012.A.dialogueact696	2028.54	2029.01	A	Grad	s^j	-1	0	Pasta .
+Bed012.C.dialogueact695	2028.05	2029.08	C	Grad	s	-1	0	But it 's not a conference or anything .
+Bed012.B.dialogueact698	2029.45	2029.67	B	Grad	b^rt	-1	0	Hmm ?
+Bed012.C.dialogueact697	2029.08	2030.0	C	Grad	s	-1	0	He 's just visiting .
+Bed012.A.dialogueact699	2030.46	2030.8	A	Grad	s^bk	-1	0	Right .
+Bed012.A.dialogueact700	2031.17	2031.68	A	Grad	s^aa^m	-1	0	Just visiting .
+Bed012.B.dialogueact701	2032.63	2033.07	B	Grad	s	-1	0	Vacation .
+Bed012.A.dialogueact702	2037.15	2037.99	A	Grad	s^ba	-1	0	It 's a pretty nice place ,
+Bed012.A.dialogueact703	2039.06	2041.31	A	Grad	s^e	-1	0	in my brief , uh , encounter with it .
+Bed012.B.dialogueact704	2041.73	2042.07	B	Grad	qy.%--	-1	0	Do you guys {disfmarker}
+Bed012.B.dialogueact705	2042.07	2048.08	B	Grad	s^t^tc	-1	0	Oh , yeah . So . Part of what we actually want to do is sort of schedule out what we want to surprise him with when {disfmarker} when he comes back .
+Bed012.B.dialogueact706	2048.8	2049.59	B	Grad	fh	-1	0	Um , so {disfmarker}
+Bed012.C.dialogueact707	2049.13	2050.55	C	Grad	s^j	-1	0	Oh , I think we should disappoint him .
+Bed012.B.dialogueact708	2050.76	2051.02	B	Grad	qh^rt	-1	0	Yeah ?
+Bed012.B.dialogueact709	2051.28	2055.7	B	Grad	s	-1	0	You {disfmarker} or have a finished construction parser and a working belief - net ,
+Bed012.B.dialogueact710	2055.7	2056.11	B	Grad	fh	-1	0	and uh {disfmarker}
+Bed012.C.dialogueact711	2056.71	2057.86	C	Grad	s^ba	-1	0	That wouldn't be disappointing .
+Bed012.C.dialogueact712	2058.66	2062.41	C	Grad	s^cs^j	-1	0	I think w we should do absolutely no work for the two weeks that he 's gone .
+Bed012.B.dialogueact713	2062.23	2064.37	B	Grad	s^j^na	-1	0	Well , that 's actually what I had planned , personally .
+Bed012.B.dialogueact714	2064.37	2068.77	B	Grad	s^j	-1	0	I had {disfmarker} I {disfmarker} I had sort of scheduled out in my mind that you guys do a lot of work , and I do nothing .
+Bed012.B.dialogueact715	2069.79	2070.6	B	Grad	s.%-	-1	0	And then , I sort of {disfmarker}
+Bed012.C.dialogueact716	2070.55	2071.35	C	Grad	s^ba	-1	0	Oh , yeah , that sounds good , too .
+Bed012.B.dialogueact717	2072.47	2074.4	B	Grad	s	-1	0	sort of bask in {disfmarker} in your glory .
+Bed012.B.dialogueact718	2079.26	2080.85	B	Grad	qy	-1	0	But , uh , i do you guys have any vacation plans ,
+Bed012.B.dialogueact719	2080.85	2085.77	B	Grad	s^df	-1	0	because I myself am going to be , um , gone ,
+Bed012.B.dialogueact720	2085.77	2088.02	B	Grad	s^bd	-1	0	but this is actually not really important .
+Bed012.B.dialogueact721	2088.02	2090.42	B	Grad	s	-1	0	Just this weekend we 're going camping .
+Bed012.C.dialogueact722	2090.11	2091.58	C	Grad	s	-1	0	Yeah , I 'm wanna be this {disfmarker} gone this weekend , too .
+Bed012.B.dialogueact723	2092.11	2092.23	B	Grad	b	-1	0	Ah .
+Bed012.B.dialogueact724	2093.33	2095.17	B	Grad	qy^bu^d^rt	-1	0	But we 're all going to be here on Tuesday again ?
+Bed012.B.dialogueact725	2096.63	2097.16	B	Grad	s^e^rt	-1	0	Looks like it ?
+Bed012.D.dialogueact726	2096.63	2096.8	D	Grad	s^aa	-1	0	Yeah .
+Bed012.B.dialogueact727	2098.43	2100.48	B	Grad	s^co^rt	+1	0	OK , then . Let 's meet {disfmarker} meet again next Tuesday .
+Bed012.B.dialogueact728	2101.37	2104.35	B	Grad	fh|s^e^t	+1	2	And , um , finish up this Bayes - net .
+Bed012.B.dialogueact729	2105.06	2109.56	B	Grad	s.%--	-1	0	And once we have finished it , I guess we can , um {disfmarker}
+Bed012.B.dialogueact730	2111.0	2113.13	B	Grad	s	-1	0	and that 's going to be more just you and me ,
+Bed012.B.dialogueact731	2114.2	2123.05	B	Grad	s^df.%--	-1	0	because Bhaskara is doing probabilistic , recursive , structured , object - oriented , uh ,
+Bed012.C.dialogueact732	2123.04	2123.94	C	Grad	s^2^j	-1	0	Killing machines !
+Bed012.B.dialogueact733	2125.93	2126.83	B	Grad	s^bc	-1	0	reasoning machines .
+Bed012.A.dialogueact734	2126.98	2127.14	A	Grad	b	-1	0	Yes .
+Bed012.B.dialogueact735	2127.72	2128.68	B	Grad	fh	-1	0	And , um {disfmarker}
+Bed012.C.dialogueact736	2128.5	2130.55	C	Grad	qh^j	-1	0	Killing , reasoning . What 's the difference ?
+Bed012.D.dialogueact737	2130.38	2133.06	D	Grad	qy^bu^rt	-1	0	Wait . So you 're saying , next Tuesday , is it the whole group meeting ,
+Bed012.D.dialogueact738	2133.06	2136.2	D	Grad	qrr.%--	-1	0	or just us three working on it , or {disfmarker} or {disfmarker} ?
+Bed012.B.dialogueact739	2134.29	2134.59	B	Grad	h	-1	0	Uh .
+Bed012.B.dialogueact740	2135.79	2136.47	B	Grad	s	-1	0	The whole group .
+Bed012.B.dialogueact741	2137.0	2138.16	B	Grad	s^cc^e	+1	2	And we present our results ,
+Bed012.B.dialogueact742	2138.78	2139.33	B	Grad	s^e	-1	0	our final ,
+Bed012.D.dialogueact743	2139.97	2140.21	D	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact744	2140.62	2141.13	B	Grad	s^e	-1	0	definite {disfmarker}
+Bed012.D.dialogueact745	2141.27	2145.44	D	Grad	s^bu.%--	-1	0	So , when you were saying we {pause} need to do a re - run of , like {disfmarker}
+Bed012.A.dialogueact746	2144.95	2145.35	A	Grad	qw	-1	0	h What ?
+Bed012.D.dialogueact747	2146.64	2148.33	D	Grad	s^bu.%-	-1	0	What {disfmarker} Like , just working out the rest of the {disfmarker}
+Bed012.B.dialogueact748	2148.41	2150.72	B	Grad	s^aa|s^co	-1	0	Yeah . We should do this th the upcoming days .
+Bed012.D.dialogueact749	2150.27	2150.77	D	Grad	qy^d^rt	-1	0	This week ?
+Bed012.B.dialogueact750	2151.04	2151.87	B	Grad	s^aa^m	-1	0	So , this week , yeah .
+Bed012.C.dialogueact752	2151.89	2155.64	C	Grad	qy^bu^d^rt	-1	0	When you say , " the whole group " , you mean {pause} the four of us , and Keith ?
+Bed012.D.dialogueact751	2151.83	2152.06	D	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact753	2156.26	2157.23	B	Grad	s^na.%-	-1	0	And , Ami might .
+Bed012.C.dialogueact754	2157.63	2158.46	C	Grad	s^na	-1	0	Ami might be here ,
+Bed012.C.dialogueact755	2158.46	2160.45	C	Grad	s^e^rt	-1	0	and it 's possible that Nancy 'll be here ?
+Bed012.B.dialogueact756	2160.41	2160.65	B	Grad	s^aa	-1	0	Yep .
+Bed012.C.dialogueact757	2166.99	2167.44	C	Grad	fh	-1	0	So ,
+Bed012.C.dialogueact758	2168.17	2168.5	C	Grad	fh	-1	0	yeah .
+Bed012.B.dialogueact759	2170.71	2171.45	B	Grad	s.%--	-1	0	Because , th you know ,
+Bed012.B.dialogueact760	2171.45	2172.96	B	Grad	s.%-	-1	0	once we have the belief - net done {disfmarker}
+Bed012.C.dialogueact761	2172.33	2174.44	C	Grad	s^co	-1	0	You 're just gonna have to explain it to me , then , on Tuesday ,
+Bed012.C.dialogueact762	2174.44	2175.58	C	Grad	s^e	-1	0	how it 's all gonna work out .
+Bed012.C.dialogueact763	2176.57	2176.76	C	Grad	b	-1	0	You know .
+Bed012.B.dialogueact764	2181.62	2181.98	B	Grad	s^cc	-1	0	We will .
+Bed012.B.dialogueact765	2182.66	2188.66	B	Grad	s^aa|s	+1	1	OK . Because then , once we have it sort of up and running , then we can start you know , defining the interfaces
+Bed012.B.dialogueact766	2188.66	2189.78	B	Grad	s^e	+1	0	and then feed stuff into it
+Bed012.B.dialogueact767	2189.78	2190.7	B	Grad	s^e	+1	0	and get stuff out of it ,
+Bed012.B.dialogueact768	2190.7	2195.38	B	Grad	s^e	+1	1	and then hook it up to some fake construction parser
+Bed012.B.dialogueact769	2195.74	2196.12	B	Grad	fh	-1	0	and {disfmarker}
+Bed012.C.dialogueact770	2196.27	2198.65	C	Grad	s^2	-1	0	That you will have in about nine months or so .
+Bed012.B.dialogueact772	2198.91	2199.09	B	Grad	b	-1	0	Yeah .
+Bed012.C.dialogueact771	2198.65	2198.94	C	Grad	b	-1	0	Yeah .
+Bed012.B.dialogueact773	2200.32	2201.28	B	Grad	fh	-1	0	And , um ,
+Bed012.C.dialogueact774	2201.23	2203.12	C	Grad	s^j	-1	0	The first bad version 'll be done in nine months .
+Bed012.B.dialogueact775	2204.37	2206.59	B	Grad	s^cc	+1	1	Yeah , I can worry about the ontology interface
+Bed012.B.dialogueact776	2206.59	2209.45	B	Grad	s^co	+1	1	and you can {disfmarker} Keith can worry about the discourse .
+Bed012.B.dialogueact777	2209.45	2217.14	B	Grad	s	-1	0	I mean , this is pretty {disfmarker} Um , I mean , I {disfmarker} I {disfmarker} I hope everybody uh knows that these are just going to be uh dummy values ,
+Bed012.B.dialogueact778	2217.14	2217.4	B	Grad	qy^d^f^g^rt	-1	0	right ?
+Bed012.A.dialogueact779	2217.75	2217.99	A	Grad	%-	-1	0	Which {disfmarker}
+Bed012.B.dialogueact780	2217.81	2218.29	B	Grad	s^e.%-	-1	0	where the {disfmarker}
+Bed012.A.dialogueact781	2219.59	2220.24	A	Grad	qw^rt	-1	0	Which ones ?
+Bed012.B.dialogueact782	2220.03	2226.36	B	Grad	s:s	-1	0	S so {disfmarker} so if the endpoint {disfmarker} if the Go - there is Yes and No , then Go - there - discourse will just be fifty - fifty .
+Bed012.B.dialogueact783	2227.16	2227.3	B	Grad	qy^d^g^rt	-1	0	Right ?
+Bed012.A.dialogueact784	2228.49	2231.45	A	Grad	h|qw^bu.%-	-1	0	Um , what do you mean ? If the Go - there says No , then the Go - there is {disfmarker}
+Bed012.D.dialogueact785	2229.37	2230.04	D	Grad	s	-1	0	I don't get it .
+Bed012.A.dialogueact786	2231.84	2232.63	A	Grad	s	-1	0	I don't u understand .
+Bed012.B.dialogueact787	2235.95	2236.36	B	Grad	h	-1	0	Um .
+Bed012.A.dialogueact788	2236.85	2239.05	A	Grad	s:s	-1	0	Like , the Go - there depends on all those four things .
+Bed012.B.dialogueact789	2239.02	2239.29	B	Grad	s^aa	-1	0	Yep .
+Bed012.A.dialogueact790	2239.69	2240.19	A	Grad	b	-1	0	Yeah .
+Bed012.B.dialogueact791	2239.82	2242.17	B	Grad	qw^rt	-1	0	But , what are the values of the Go - there - discourse ?
+Bed012.A.dialogueact792	2242.67	2243.75	A	Grad	s	-1	0	Well , it depends on the situation .
+Bed012.A.dialogueact793	2243.75	2245.5	A	Grad	s.%--	-1	0	If the discourse is strongly indicating that {disfmarker}
+Bed012.B.dialogueact794	2245.77	2247.67	B	Grad	s	-1	0	Yeah , but , uh , we have no discourse input .
+Bed012.A.dialogueact795	2248.23	2251.79	A	Grad	s^bk|s.%--	-1	0	Oh , I see . The d See , uh , specifically in our situation , D and O are gonna be , uh {disfmarker}
+Bed012.A.dialogueact796	2252.1	2252.31	A	Grad	s^bk	-1	0	Yeah .
+Bed012.A.dialogueact797	2252.78	2253.03	A	Grad	s^bk	-1	0	Sure .
+Bed012.A.dialogueact798	2253.49	2253.87	A	Grad	s	-1	0	So , whatever .
+Bed012.D.dialogueact799	2253.81	2254.8	D	Grad	s^bs.%--	-1	0	So , so far we have {disfmarker}
+Bed012.D.dialogueact800	2255.8	2256.97	D	Grad	qy^rt	-1	0	Is that what the Keith node is ?
+Bed012.B.dialogueact801	2257.12	2257.36	B	Grad	s^aa	-1	0	Yep .
+Bed012.D.dialogueact802	2257.8	2259.96	D	Grad	s^bk|qy^rt	-1	0	OK . And you 're taking it out ? {pause} for now ?
+Bed012.B.dialogueact804	2260.34	2262.21	B	Grad	s.%--	-1	0	Well , this is D {disfmarker}
+Bed012.D.dialogueact803	2260.28	2260.39	D	Grad	qrr.%--	-1	0	Or {disfmarker} ?
+Bed012.B.dialogueact805	2262.72	2264.8	B	Grad	s	-1	0	OK , this , I can {disfmarker} I can get it in here .
+Bed012.D.dialogueact806	2263.76	2264.9	D	Grad	s.%-	-1	0	All the D 's are {disfmarker}
+Bed012.B.dialogueact807	2265.64	2266.34	B	Grad	s^r^t1	-1	0	I can get it in here ,
+Bed012.B.dialogueact808	2266.34	2269.53	B	Grad	s.%--	-1	0	so th We have the , uh , um ,
+Bed012.B.dialogueact809	2271.21	2273.27	B	Grad	s^cs	-1	0	sk let 's {disfmarker} let 's call it " Keith - Johno
+Bed012.A.dialogueact811	2277.39	2277.56	A	Grad	s^m	-1	0	Johno ?
+Bed012.B.dialogueact810	2277.32	2277.66	B	Grad	s^e^rt	-1	0	node " .
+Bed012.B.dialogueact812	2278.56	2281.47	B	Grad	s	-1	0	There is an H {comment} somewhere printed .
+Bed012.C.dialogueact813	2281.19	2281.61	C	Grad	s	-1	0	There you go .
+Bed012.A.dialogueact814	2282.37	2284.18	A	Grad	s	-1	0	Yeah . People have the same problem with my name .
+Bed012.B.dialogueact815	2284.94	2285.0	B	Grad	b	-1	0	Yeah .
+Bed012.A.dialogueact816	2286.34	2286.43	A	Grad	s^fe	-1	0	Oops .
+Bed012.B.dialogueact817	2286.6	2287.52	B	Grad	fh	-1	0	And , um ,
+Bed012.C.dialogueact818	2288.33	2290.87	C	Grad	qr	-1	0	Does th th does the H go b before the A or after the A ?
+Bed012.A.dialogueact819	2291.97	2292.55	A	Grad	qy^bu^rt	-1	0	Oh , in my name ?
+Bed012.A.dialogueact821	2292.74	2293.28	A	Grad	s	-1	0	Before the A .
+Bed012.C.dialogueact820	2292.62	2292.88	C	Grad	s^aa	-1	0	Yeah .
+Bed012.C.dialogueact822	2293.96	2294.59	C	Grad	s^ba	-1	0	OK , good .
+Bed012.C.dialogueact823	2295.29	2296.9	C	Grad	s.%--	-1	0	Cuz you kn When you said people have the same problem , I thought {disfmarker}
+Bed012.C.dialogueact824	2297.0	2299.25	C	Grad	s.%--	-1	0	Cuz my H goes after the uh e e e the v
+Bed012.A.dialogueact825	2298.37	2299.85	A	Grad	s	-1	0	People have the inverse problem with my name .
+Bed012.C.dialogueact826	2299.67	2299.97	C	Grad	s^bk	-1	0	OK .
+Bed012.C.dialogueact827	2301.36	2306.4	C	Grad	s	-1	0	I always have to check , every time y I send you an email , {comment} a past email of yours , {comment} to make sure I 'm spelling your name correctly .
+Bed012.A.dialogueact828	2307.26	2307.46	A	Grad	b	-1	0	Yeah .
+Bed012.A.dialogueact829	2308.06	2308.55	A	Grad	s^bk	-1	0	That 's good .
+Bed012.C.dialogueact830	2309.39	2310.02	C	Grad	s^j	-1	0	I worry about you .
+Bed012.A.dialogueact831	2311.59	2312.32	A	Grad	s^ft^j	-1	0	I appreciate that .
+Bed012.B.dialogueact832	2314.02	2318.69	B	Grad	s	-1	0	But , when you abbreviate yourself as the " Basman " , you don't use any H 's .
+Bed012.A.dialogueact833	2318.49	2318.9	A	Grad	qy^m^rt	-1	0	" Basman " ?
+Bed012.A.dialogueact834	2319.23	2321.33	A	Grad	s^df	-1	0	Yeah , it 's because of the chessplayer named Michael Basman ,
+Bed012.A.dialogueact835	2321.83	2322.7	A	Grad	s^e	-1	0	who is my hero .
+Bed012.B.dialogueact836	2323.0	2323.29	B	Grad	s^bk	-1	0	OK .
+Bed012.C.dialogueact837	2325.67	2326.43	C	Grad	s^fe^j	-1	0	You 're a geek .
+Bed012.C.dialogueact838	2327.74	2328.2	C	Grad	s^ba	-1	0	It 's O K .
+Bed012.C.dialogueact839	2328.3	2328.39	C	Grad	%-	-1	0	I
+Bed012.B.dialogueact841	2330.58	2330.92	B	Grad	fg	-1	0	OK .
+Bed012.C.dialogueact840	2330.47	2330.94	C	Grad	qw.%--	-1	0	How do you pronou
+Bed012.C.dialogueact842	2331.23	2332.16	C	Grad	qw^rt	-1	0	How do you pronounce your name ?
+Bed012.D.dialogueact843	2332.32	2332.56	D	Grad	s	-1	0	Eva .
+Bed012.C.dialogueact844	2333.06	2333.24	C	Grad	qy^d^m^rt	-1	0	Eva ?
+Bed012.A.dialogueact846	2333.95	2334.41	A	Grad	qy^d^rt	-1	0	Not Eva ?
+Bed012.D.dialogueact845	2333.69	2333.78	D	Grad	s^aa	-1	0	Yeah .
+Bed012.C.dialogueact847	2334.99	2336.63	C	Grad	qo	-1	0	What if I were {disfmarker} What if I were to call you Eva ?
+Bed012.D.dialogueact848	2337.9	2339.26	D	Grad	s	-1	0	I 'd probably still respond to it .
+Bed012.D.dialogueact849	2339.79	2341.44	D	Grad	s	-1	0	I 've had people call me Eva ,
+Bed012.D.dialogueact850	2341.44	2342.1	D	Grad	s^no	-1	0	but I don't know .
+Bed012.C.dialogueact851	2342.67	2344.15	C	Grad	s^ng	-1	0	No , not just Eva , Eva .
+Bed012.C.dialogueact852	2344.33	2348.23	C	Grad	s^df	-1	0	Like if I u take the V and s pronounce it like it was a German V ?
+Bed012.B.dialogueact853	2349.68	2350.44	B	Grad	s^2	-1	0	Which is F .
+Bed012.C.dialogueact854	2350.67	2350.96	C	Grad	s^aa	-1	0	Yeah .
+Bed012.D.dialogueact855	2351.95	2353.54	D	Grad	h|s^no	-1	0	Um , no idea then .
+Bed012.B.dialogueact856	2353.42	2353.88	B	Grad	s^2	-1	0	Voiced .
+Bed012.D.dialogueact857	2355.88	2356.01	D	Grad	qw^br^rt	-1	0	What ?
+Bed012.C.dialogueact858	2356.99	2357.86	C	Grad	s	-1	0	It sounds like an F .
+Bed012.D.dialogueact859	2357.11	2357.26	D	Grad	%-	-1	0	I {disfmarker}
+Bed012.C.dialogueact860	2357.99	2359.01	C	Grad	s	-1	0	There 's also an F in German ,
+Bed012.D.dialogueact861	2358.32	2358.64	D	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact863	2359.35	2361.32	B	Grad	s	-1	0	Well , it 's just the difference between voiced and unvoiced .
+Bed012.C.dialogueact862	2359.01	2359.52	C	Grad	s^e.%-	-1	0	which is why I {disfmarker}
+Bed012.C.dialogueact864	2361.32	2361.66	C	Grad	b	-1	0	Yeah .
+Bed012.D.dialogueact865	2361.35	2361.69	D	Grad	s^bk	-1	0	OK .
+Bed012.C.dialogueact866	2368.68	2369.51	C	Grad	s	-1	0	As long as that 's O K .
+Bed012.D.dialogueact867	2368.82	2369.52	D	Grad	fg	-1	0	Um .
+Bed012.C.dialogueact868	2369.71	2371.46	C	Grad	s	-1	0	I mean , I might slip out and say it accidentally .
+Bed012.C.dialogueact869	2371.63	2372.27	C	Grad	s^bd	-1	0	That 's all I 'm saying .
+Bed012.D.dialogueact870	2372.04	2372.93	D	Grad	s^ba	-1	0	That 's fine .
+Bed012.A.dialogueact871	2374.23	2376.01	A	Grad	fg|s	-1	0	Yeah . It doesn't matter what those nodes are , anyway ,
+Bed012.A.dialogueact872	2376.01	2377.59	A	Grad	s^df	-1	0	because we 'll just make the weights " zero " for now .
+Bed012.B.dialogueact873	2378.32	2378.52	B	Grad	s^aa	-1	0	Yep .
+Bed012.B.dialogueact874	2379.62	2380.54	B	Grad	s^na^r	-1	0	We 'll make them zero for now ,
+Bed012.B.dialogueact875	2381.24	2383.73	B	Grad	s^df	-1	0	because it {disfmarker} who {disfmarker} who knows what they come up with ,
+Bed012.B.dialogueact876	2384.92	2385.7	B	Grad	s^e	-1	0	what 's gonna come in there .
+Bed012.B.dialogueact877	2387.03	2387.33	B	Grad	fh	-1	0	OK .
+Bed012.B.dialogueact878	2388.74	2389.99	B	Grad	fh	-1	0	And , um ,
+Bed012.B.dialogueact879	2393.31	2393.99	B	Grad	%--	-1	0	then
+Bed012.B.dialogueact880	2398.29	2401.9	B	Grad	qy^rt^t	-1	0	should we start on Thursday ?
+Bed012.A.dialogueact881	2402.89	2403.24	A	Grad	s^aa	-1	0	OK .
+Bed012.B.dialogueact882	2402.9	2404.39	B	Grad	qy^d^e^rt	-1	0	And not meet tomorrow ?
+Bed012.A.dialogueact883	2405.05	2405.28	A	Grad	s^aa	-1	0	Sure .
+Bed012.B.dialogueact884	2412.14	2412.39	B	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact885	2414.2	2415.03	B	Grad	s^cc	-1	0	I 'll send an email ,
+Bed012.B.dialogueact886	2416.18	2417.19	B	Grad	s^cc^e	-1	0	make a time suggestion .
+Bed012.C.dialogueact887	2417.58	2417.72	C	Grad	s^co^t	-1	0	Wait ,
+Bed012.C.dialogueact888	2417.72	2421.63	C	Grad	s	+1	0	maybe it 's OK , so that {disfmarker} that {disfmarker} that we can {disfmarker} that we have one node per construction .
+Bed012.C.dialogueact889	2422.03	2426.5	C	Grad	s^df	+1	0	Cuz even in people , like , they don't know what you 're talking about if you 're using some sort of strange construction .
+Bed012.B.dialogueact890	2428.83	2432.11	B	Grad	s^aap	+1	0	Yeah , they would still c sort of get the closest , best fit .
+Bed012.C.dialogueact891	2432.58	2434.85	C	Grad	s^aap	-1	0	Well , yeah , but I mean , the {disfmarker} uh , I mean , that 's what the construction parser would do .
+Bed012.B.dialogueact893	2435.17	2435.67	B	Grad	b	-1	0	Mm - hmm .
+Bed012.C.dialogueact892	2434.85	2438.35	C	Grad	s^df	-1	0	Uh , I mean , if you said something completely arbitrary , it would f find the closest construction ,
+Bed012.B.dialogueact894	2438.34	2438.69	B	Grad	b	-1	0	OK .
+Bed012.C.dialogueact895	2438.35	2438.52	C	Grad	qy^d^f^g^rt	-1	0	right ?
+Bed012.C.dialogueact896	2438.52	2439.89	C	Grad	s.%--	-1	0	But if you said something that was completel er {disfmarker}
+Bed012.C.dialogueact897	2439.89	2441.99	C	Grad	s^bsc	-1	0	h theoretically the construction parser would do that {disfmarker}
+Bed012.C.dialogueact898	2442.36	2447.55	C	Grad	s	-1	0	But if you said something for which there was no construction whatsoever , n people wouldn't have any idea what you were talking about .
+Bed012.B.dialogueact899	2447.73	2448.09	B	Grad	b	-1	0	Mm - hmm .
+Bed012.C.dialogueact900	2448.89	2450.71	C	Grad	s^e	-1	0	Like " Bus dog fried egg . " I mean .
+Bed012.C.dialogueact901	2451.59	2452.66	C	Grad	b	-1	0	You know .
+Bed012.B.dialogueact902	2452.5	2454.9	B	Grad	s^2	-1	0	Or , if even something Chinese , for example .
+Bed012.C.dialogueact903	2454.68	2455.82	C	Grad	s^e	-1	0	Or , something in Mandarin , yeah .
+Bed012.C.dialogueact904	2456.86	2458.33	C	Grad	s^e	-1	0	Or Cantonese , as the case may be .
+Bed012.C.dialogueact905	2462.22	2463.28	C	Grad	qo	-1	0	What do you think about that , Bhaskara ?
+Bed012.A.dialogueact906	2464.16	2464.55	A	Grad	h	-1	0	I mean {disfmarker}
+Bed012.A.dialogueact907	2465.52	2465.79	A	Grad	h	-1	0	Well {disfmarker}
+Bed012.A.dialogueact908	2467.38	2470.76	A	Grad	qw	+1	0	But how many constructions do {disfmarker} could we possibly have {pause} nodes for ?
+Bed012.C.dialogueact909	2473.14	2474.29	C	Grad	qr^bu^d.%-	-1	0	In this system , or in r
+Bed012.A.dialogueact910	2474.8	2475.2	A	Grad	s^ar:s	-1	0	No , we .
+Bed012.A.dialogueact911	2475.47	2476.8	A	Grad	s^e	-1	0	Like , when people do this kind of thing .
+Bed012.C.dialogueact912	2476.38	2478.18	C	Grad	qw^bu^rt	-1	0	Oh , when p How many constructions do people have ?
+Bed012.A.dialogueact913	2478.42	2478.6	A	Grad	s^aa	-1	0	Yeah .
+Bed012.C.dialogueact914	2478.82	2480.0	C	Grad	s^no	-1	0	I have not {comment} the slightest idea .
+Bed012.A.dialogueact915	2480.9	2485.07	A	Grad	qy^rt	-1	0	Is it considered to be like in {disfmarker} are they considered to be like very , uh , sort of s abstract things ?
+Bed012.C.dialogueact916	2483.84	2485.31	C	Grad	s	-1	0	Every noun is a construction .
+Bed012.A.dialogueact917	2485.36	2487.8	A	Grad	s^bk|s^bu	-1	0	OK , so it 's like in the {pause} thousands .
+Bed012.C.dialogueact918	2486.4	2486.46	C	Grad	%-	-1	0	The {disfmarker}
+Bed012.C.dialogueact919	2486.46	2486.79	C	Grad	b	-1	0	Yeah .
+Bed012.C.dialogueact920	2487.85	2490.41	C	Grad	s	+1	0	Any {disfmarker} any form - meaning pair , to my understanding , is a construction .
+Bed012.A.dialogueact921	2490.95	2491.26	A	Grad	s^bk	-1	0	OK .
+Bed012.B.dialogueact922	2491.25	2491.58	B	Grad	fh	-1	0	So .
+Bed012.C.dialogueact923	2491.65	2495.67	C	Grad	s^e	-1	0	And form u starts at the level of noun {disfmarker} Or actually , maybe even sounds .
+Bed012.B.dialogueact924	2495.08	2495.47	B	Grad	s^2	-1	0	Phoneme .
+Bed012.B.dialogueact925	2495.74	2495.96	B	Grad	b	-1	0	Yep .
+Bed012.C.dialogueact926	2495.93	2496.22	C	Grad	b	-1	0	Yeah .
+Bed012.C.dialogueact927	2496.85	2497.82	C	Grad	s^e	-1	0	And goes upwards
+Bed012.C.dialogueact928	2499.08	2501.74	C	Grad	s^e	-1	0	until you get the ditransitive construction .
+Bed012.A.dialogueact930	2501.98	2502.25	A	Grad	%-	-1	0	S
+Bed012.C.dialogueact929	2501.74	2503.67	C	Grad	s.%--	-1	0	And then , of course , the c I guess , maybe there can be the {disfmarker}
+Bed012.C.dialogueact931	2503.77	2505.21	C	Grad	qy^bu.%-	-1	0	Can there be combinations of the dit
+Bed012.A.dialogueact932	2504.56	2505.97	A	Grad	s^2	-1	0	Discourse - level {pause} constructions .
+Bed012.C.dialogueact933	2505.59	2505.79	C	Grad	s^aa	-1	0	Yeah .
+Bed012.C.dialogueact934	2507.23	2509.0	C	Grad	s	-1	0	The " giving a speech " construction ,
+Bed012.B.dialogueact935	2509.87	2511.11	B	Grad	s	-1	0	Rhetorical constructions .
+Bed012.A.dialogueact937	2511.36	2511.72	A	Grad	b	-1	0	Yes .
+Bed012.B.dialogueact936	2511.11	2511.26	B	Grad	b^rt	-1	0	Yeah .
+Bed012.B.dialogueact938	2518.77	2523.41	B	Grad	fg|s	+1	0	But , I mean , you know , you can probably count {disfmarker} count the ways .
+Bed012.B.dialogueact939	2523.63	2523.89	B	Grad	fh	-1	0	I mean .
+Bed012.C.dialogueact940	2523.7	2525.37	C	Grad	s^na	-1	0	It 's probab Yeah , I would s definitely say it 's finite .
+Bed012.B.dialogueact941	2525.45	2525.67	B	Grad	s^aa	-1	0	Yeah .
+Bed012.C.dialogueact942	2525.87	2528.36	C	Grad	s	-1	0	And at least in compilers , that 's all that really matters ,
+Bed012.C.dialogueact943	2528.36	2529.91	C	Grad	s^e	+1	0	as long as your analysis is finite .
+Bed012.A.dialogueact944	2531.67	2533.08	A	Grad	qw^rt	-1	0	How 's that ? {nonvocalsound} How it can be finite , again ?
+Bed012.C.dialogueact945	2534.45	2536.23	C	Grad	s	-1	0	Nah , I can't think of a way it would be infinite .
+Bed012.B.dialogueact946	2537.38	2539.16	B	Grad	s^ng	-1	0	Well , you can come up with new constructions .
+Bed012.C.dialogueact947	2539.67	2548.91	C	Grad	s^aa^j|s	-1	0	Yeah . {comment} If the {disfmarker} if your {disfmarker} if your brain was totally non - deterministic , then perhaps there 's a way to get , uh , infin an infinite number of constructions that you 'd have to worry about .
+Bed012.A.dialogueact948	2550.29	2552.1	A	Grad	s	-1	0	But , I mean , in the {nonvocalsound} practical sense , it 's impossible .
+Bed012.C.dialogueact949	2552.79	2554.41	C	Grad	s^aa|s^df^rt	-1	0	Right . Cuz if we have a fixed number of neurons {disfmarker} ?
+Bed012.A.dialogueact950	2554.76	2555.07	A	Grad	s^aa	-1	0	Yeah .
+Bed012.C.dialogueact951	2559.03	2561.46	C	Grad	s.%--	-1	0	So the best - case scenario would be the number of constructions {disfmarker}
+Bed012.C.dialogueact952	2561.59	2564.11	C	Grad	s^bsc	-1	0	or , the worst - case scenario is the number of constructions equals the number of neurons .
+Bed012.A.dialogueact953	2564.06	2565.65	A	Grad	s^aap	-1	0	Well , two to the power of the number of neurons .
+Bed012.C.dialogueact954	2565.76	2566.04	C	Grad	s^aa	-1	0	Right .
+Bed012.C.dialogueact955	2567.32	2568.53	C	Grad	s^aap	-1	0	But still finite .
+Bed012.B.dialogueact956	2576.15	2576.51	B	Grad	b	-1	0	OK .
+Bed012.C.dialogueact957	2577.21	2577.42	C	Grad	s^co	-1	0	No , wait .
+Bed012.C.dialogueact958	2577.42	2578.37	C	Grad	qy^rt	-1	0	Not necessarily , is it ?
+Bed012.C.dialogueact959	2578.52	2579.58	C	Grad	s^co	-1	0	We can end the {pause} meeting .
+Bed012.C.dialogueact960	2579.58	2579.87	C	Grad	%--	-1	0	I just {disfmarker}
+Bed012.C.dialogueact961	2580.41	2582.84	C	Grad	qy^rt	-1	0	Can't you use different var different levels of activation ?
+Bed012.C.dialogueact962	2583.17	2587.82	C	Grad	s^e	-1	0	across , uh {disfmarker} lots of different neurons , to specify different values ?
+Bed012.B.dialogueact963	2584.37	2584.73	B	Grad	b	-1	0	Mm - hmm .
+Bed012.A.dialogueact964	2589.01	2593.16	A	Grad	h|s^aap.%-	-1	0	Um , yeah , but there 's , like , a certain level of {disfmarker}
+Bed012.C.dialogueact965	2593.1	2593.92	C	Grad	s^2	-1	0	There 's a bandwidth issue ,
+Bed012.A.dialogueact967	2594.14	2596.08	A	Grad	s^na	-1	0	Bandw - Yeah , so you can't do better than something .
+Bed012.C.dialogueact966	2593.92	2594.18	C	Grad	qy^d^g^rt	-1	0	right ?
+Bed012.C.dialogueact968	2594.44	2594.95	C	Grad	b	-1	0	Yeah .
+Bed012.B.dialogueact969	2595.58	2596.4	B	Grad	z	-1	0	Turn off the mikes .
+Bed012.B.dialogueact970	2596.63	2598.41	B	Grad	z	-1	0	Otherwise it gets really tough for the tr

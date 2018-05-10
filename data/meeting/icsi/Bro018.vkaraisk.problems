@@ -1,0 +1,27 @@
+3	Bro018.s.20	The voicedness recognition results are only marginally better after the last experiment using a net with three outputs.
+Bro018.D.dialogueact24	73.89	78.51	D	PhD	s	+1	1	and only have result with {disfmarker} with the MLP with the three output .
+Bro018.D.dialogueact26	83.623	88.77	D	PhD	s	+1	1	And , well , the result are li a little bit better , but more or less similar .
+Bro018.C.dialogueact120	295.43	299.33	C	Professor	s	-1	0	So just having the three output thing doesn't {disfmarker} doesn't really buy you anything .
+1	Bro018.s.21	It shows that the issue is actually what the inputs to the net are.
+Bro018.C.dialogueact122	300.18	301.63	C	Professor	s	-1	0	The issue is what you feed it .
+2	Bro018.s.22	The 63% accuracy for the voiced/unvoiced net is not very good.
+Bro018.D.dialogueact235	575.06	584.117	D	PhD	s	-1	0	I think that {disfmarker} I {disfmarker} I {disfmarker} I think that for the other one , for the three output , is sixty sixty - two , sixty three more or less .
+Bro018.C.dialogueact240	585.59	586.16	C	Professor	s^ba	-1	0	That 's pretty bad .
+1	Bro018.s.23	Later , as the France Telecom proposal was discussed , it was noted that a constant used in the energy expression looks equivocal.
+Bro018.D.dialogueact335	793.49	800.04	D	PhD	s^no	+1	3	I don't know why they have some constant in the expression of the lower energy .
+1	Bro018.s.24	With regard to the dynamic acoustic events experiments , the markings offered by both the Switchboard and TIMIT corpus are not readily appropriate.
+Bro018.C.dialogueact491	1304.1	1309.81	C	Professor	qo^tc	-1	0	And then the other thing that we were discussing was {disfmarker} was um {vocalsound} OK , how do you get the {disfmarker} your training data .
+1	Bro018.s.25	An automatic translation process will only provide some of the desired characteristics.
+Bro018.C.dialogueact497	1341.75	1351.14	C	Professor	s	-1	0	And uh {vocalsound} it won't have the kind of characteristic that you 'd like , of catching funny kind of things that maybe aren't there from these automatic markings ,
+1	Bro018.s.26	In the PLP/mel cepstrum comparison for SRI , a difference of a few percent has been found.
+Bro018.C.dialogueact802	2110.76	2115.44	C	Professor	s^rt	+1	1	So we talked on the phone about this , that {disfmarker} that there was still a difference of a {disfmarker} of a few percent
+1	Bro018.s.27	This could be due to differences in normalisation or a bug in the scripts.
+Bro018.E.dialogueact813	2140.3	2141.33	E	PhD	s	+1	1	well it seems like there 's a bug ,
+2	Bro018.s.28	It was also found that the amount of pruning was higher for the PLP features and the run time of the recogniser longer.
+Bro018.E.dialogueact1017	2708.2	2715.16	E	PhD	s	-1	0	So , since he used the same exact pruning thresholds for both , I was wondering if it could be that we 're getting more pruning .
+Bro018.E.dialogueact1050	2778.48	2782.28	E	PhD	s	-1	0	And the uh the {disfmarker} the run time of the recognizer on the PLP features is longer
+2	Bro018.s.29	Finally , as to the digit recognition , the initial 41% error rate for the far mike was due to the training data being clean.
+Bro018.C.dialogueact1128	2969.45	2970.95	C	Professor	qw^rt	-1	0	So why were you getting forty - one here ?
+Bro018.B.dialogueact1132	2976.43	2980.38	B	Grad	s^df	-1	0	Uh , clean TI - digits is , like , pretty pristine {vocalsound} training data ,
+1	Bro018.s.30	However , for a real system , even an error rate of 4-5% is very poor.
+Bro018.C.dialogueact1219	3154.16	3158.72	C	Professor	s^ba	-1	0	And uh so the {disfmarker} the four or five percent or something is {disfmarker} is {disfmarker} is quite poor .

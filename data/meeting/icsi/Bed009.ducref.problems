@@ -1,0 +1,6 @@
+As a functional module , the action planner is too restrictive for the tourist domain and requires complex slots from the dialogue manager.
+What form will the language input have , and what will the action planner do with it?
+Links must be in place between the input end , action planner , parser , and language feedback components for communicating the current state of plan.
+Interactions in a deep map system between the spatial planner and the route planner are too convoluted.
+SmartKom requires a fast and robust parser that includes language-specific extensions.
+Which form of semantic construction grammar should be used , and how would such information be derived from the parsed input?

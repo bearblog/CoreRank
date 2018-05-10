@@ -1,0 +1,27 @@
+Topics discussed by the Berkeley Meeting Recorder group included the status of the first test set of digits data , naming conventions for files , speaker identification tags , and encoding files with details about the recording.
+The group also discussed a proposal for a grant from the NSF's ITR ( Information Technology Research ) program , transcriptions , and efforts by speaker mn005 to detect speaker overlap using harmonicity-related features.
+Particular focus was paid to questions about transcription procedures , i.e . how to deal with overlooked backchannels , and audible breaths.
+A small percentage of transcripts will be changed to reflect mis-read , uncorrected digits.
+A speaker database will be compiled to establish consistent links between speakers and their corresponding identification tags.
+Sections of densely overlapping speech will require hand-checking so that overlooked backchannels may be manually segmented and labelled.
+The transcribers should only code audible breaths within a grouping of words , and not outside regions of continuous speech.
+It was further determined that audible breaths are an important facet of recorded speech , and that removing them from the corpus would be contrary to the aims of the project.
+Speaker mn005 will prepare his results for detecting speaker overlap and present them in the next meeting.
+During digits readings , subjects tend to chunk numbers together rather than reading each number separately.
+When working from the mixed channel , transcribers may select only one start and end time for overlapping speech , resulting in points of overlap that are less tightly tuned.
+Transcribers are likely to overlook backchannels in densely populated sections of speaker overlap.
+Speaker mn014 reported that this is also problematic for the automatic detection of speech and non-speech , as backchannels that are very short and not loud enough will inevitably be overlooked.
+Speaker mn005 reported problems distinguishing between possible harmonics and other frequency peaks , and creating an algorithm for obtaining the instantaneous frequency.
+The encoding of all audible breaths is too time-consuming.
+The first test set of digits is complete and includes 4,000 lines , each comprising between 1-10 digits.
+New digits forms were distributed for eliciting different prosodic groupings of numbers.
+New naming conventions were discussed as means for facilitating the sorting process.
+Existing files will be changed so that all filenames are of equal length.
+Similar changes will be made to speaker identification tags.
+Files will also contain information specifying channel , microphone , and broadcaster information.
+A proposal is being drafted for a grant from the NSF's ITR program for extending the research initiatives of the Meeting Recorder project.
+Speaker fe008 is performing channel-by-channel transcriptions to create tighter time bins.
+Tentative plans are to assign single channels to the transcriber pool and then piece them together afterwards.
+Efforts by speaker mn005 are in progress to detect speaker overlap in the mixed signal using harmonicity-related features.
+For determining the instantaneous frequency , speaker me013 recommended deriving the maxima from energy multiples of a given frequency.
+It was also suggested that speaker mn005 should determine whether portions of the signal are voiced or unvoiced , as voiced intervals reflecting a relatively low fraction of energy in the harmonic sequence are likely to indicate sections of overlap.

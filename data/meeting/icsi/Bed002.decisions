@@ -1,0 +1,35 @@
+2	Bed002.s.9	Inferring intentions in a navigational context is an appropriate task both in project and real-world terms.
+Bed002.B.dialogueact342	1130.25	1135.45	B	Grad	s	+1	2	Maybe for a deep understanding task , that 's a nice sort of playground or first little thing . "
+Bed002.C.dialogueact373	1240.27	1248.84	C	Professor	s	+1	2	So we think it 's a well - formed , uh , starter task for this , uh , deeper understanding in the tourist domain .
+2	Bed002.s.10	Its goals are clearly defined and contributre to a smarter system.
+Bed002.C.dialogueact1056	2944.68	2946.73	C	Professor	s	+1	1	OK ? We {disfmarker} we have a {disfmarker} we know what the outcomes are gonna be ,
+Bed002.B.dialogueact1273	3622.13	3623.94	B	Grad	s	+1	1	it all {disfmarker} all of a sudden it does much better .
+3	Bed002.s.11	Although there are some preliminary data to work on , task-specific experiments and recordings will take place.
+Bed002.C.dialogueact606	1862.33	1864.18	C	Professor	s	+1	2	these {disfmarker} We have all these transcripts
+Bed002.B.dialogueact665	2006.87	2015.93	B	Grad	s	+1	2	But , um , since we are designing a {disfmarker} a {disfmarker} a {disfmarker} an , compared to this , even bigger data collection effort , {comment} um , we will definitely take care to put it in there ,
+Bed002.C.dialogueact710	2080.87	2084.81	C	Professor	s	+1	1	and start recording subjects probably within a month or something .
+2	Bed002.s.12	The XML format is going to be used has not been defined , although the SmartKom data can be used as a foundation.
+Bed002.C.dialogueact497	1601.99	1609.17	C	Professor	s	+1	1	So , th they 're gonna give us some cr uh {disfmarker} or {disfmarker} We can assume that y you get this crude information .
+Bed002.C.dialogueact1110	3101.29	3105.83	C	Professor	fg|s	+1	1	So , yeah , we 're sort of {nonvocalsound} committed to XML as the kind of , uh , interchange .
+2	Bed002.s.13	In the first instance , the group will have to decide on the software package to be used for the creation and manipulation of the belief-nets.
+Bed002.C.dialogueact1028	2847.82	2852.77	C	Professor	s^bk|s	+1	1	OK ? So {disfmarker} y so one of th one of the things we wanna do is actually , uh , pick a package ,
+Bed002.C.dialogueact1180	3320.36	3330.19	C	Professor	s^aa|s	+1	1	Yeah bu w I 'd like that this {disfmarker} y yeah , this week , to ha to n to {vocalsound} have y guys , uh , you know , pick {vocalsound} the {disfmarker} y you know , belief - net package
+4	Bed002.s.14	Stability and ease-of-use -in addition to ability to handle XML- of the package are the focus at this stage , instead of the ability to handle large amounts of data.
+Bed002.C.dialogueact1032	2859.05	2863.58	C	Professor	s	+1	1	You know , we don't need the one that 'll solve massive , uh , belief - nets quickly .
+Bed002.C.dialogueact1035	2867.25	2872.9	C	Professor	s	+1	1	But we do want one in which it 's easy to interact with and , uh , modify .
+Bed002.C.dialogueact1051	2928.56	2929.71	C	Professor	s^e.%--	+1	1	you want it stable , you want it {disfmarker}
+Bed002.C.dialogueact1037	2881.09	2887.41	C	Professor	s	+1	1	And probably one in which it 's easy to have , um , what amounts to transcript files .
+1	Bed002.s.15	Experts in Bayes nets within ICSI can be consulted on the matter.
+Bed002.C.dialogueact1085	3045.4	3052.86	C	Professor	s	+1	1	an and there 're plenty of people around , students in the department who , you know , live and breathe Bayes - nets .
+2	Bed002.s.16	The decision will be presented in the next meeting along with a first schema of the belief-nets themselves.
+Bed002.C.dialogueact1208	3393.8	3400.34	C	Professor	s^aap^cs	+1	1	Well , I 'd like to also , though , uh , ha have a first cut at what the belief - net looks like .
+Bed002.B.dialogueact1247	3521.78	3524.65	B	Grad	s^e	+1	1	is show the state and show the system and show that .
+2	Bed002.s.17	Possible intermediate nodes can be added to the nets after this.
+Bed002.C.dialogueact416	1397.29	1399.73	C	Professor	s	+1	1	And you probably need intermediate nodes .
+Bed002.C.dialogueact1017	2808.11	2818.03	C	Professor	s	+1	3	and then in the longer run , you would figure out how you could derive them . From previous discourse or w any anything else you knew .
+5	Bed002.s.18	The hypothesis that a set of features from which intentions can be derived exists has to be assessed , before moving on to how to extract these features from the data automatically.
+Bed002.C.dialogueact413	1387.78	1390.81	C	Professor	qh	+1	2	is , uh , one , where do you get this i {comment} information from ,
+Bed002.C.dialogueact612	1894.63	1900.85	C	Professor	s	+1	3	If that goes well , then we can start worrying about how we would extract them .
+Bed002.B.dialogueact770	2241.83	2244.93	B	Grad	s	+1	1	And then we can start worrying about where to get this input ,
+Bed002.C.dialogueact968	2685.97	2690.51	C	Professor	qh	+1	3	The issue is , can we find a way to , basically , featurize it
+Bed002.C.dialogueact1053	2931.36	2942.45	C	Professor	s	+1	1	And , as soon as we have one , we can start trying to , uh , make a first cut at what 's going on .

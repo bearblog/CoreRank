@@ -1,0 +1,12 @@
+For the digit recognition task , results from different microphones were taken.
+The lapel mikes did well in this task since they capture less breath noises and there is less clothes rustling during the digit reading.
+Some obvious mistakes in the reading were deleted manually.
+Adaptation ( means and variance ) improved recognition results by 0.6%.
+Similarly , work on forced alignments also gave better results , at least with the data from native speakers.
+It was enforced in the analysis that foreground speech be continuous.
+Moreover , noise and background speech models were made.
+Meanwhile , two transcripts have been manually aligned at utterance level.
+This process has also shown that speaker identification works better when multiple channels are used.
+A further conclusion was that backchanneling seemed to come mainly from the speaker that is more directly involved with the foreground utterance.
+A paper on segmentation is being submitted to Eurospeech and work on another one is being finished with the same intention.
+The aim of the latter is to identify spurts and overlapped speech and tag them uniformly throughout the individual channels.

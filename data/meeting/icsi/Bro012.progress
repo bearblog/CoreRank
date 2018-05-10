@@ -1,0 +1,87 @@
+2	Bro012.s.15	Speaker mn007 and fn002 have been working on improving the recogniser performance as well as reducing it's latency.
+Bro012.F.dialogueact165	474.572	485.782	F	PhD	h|s^rt	+1	4	Uh . Since the last meeting we 've {disfmarker} we 've tried to put together um {vocalsound} the clean low - pass um downsampling , upsampling , I mean ,
+Bro012.F.dialogueact166	486.496	490.876	F	PhD	s^rt	+1	3	Uh the new filter that 's replacing the LDA filters ,
+22	Bro012.s.16	Work on new filters has reduced latency , but made no improvement , though a slight reduction in performance occurred in the well matched case.
+Bro012.F.dialogueact165	474.572	485.782	F	PhD	h|s^rt	+1	4	Uh . Since the last meeting we 've {disfmarker} we 've tried to put together um {vocalsound} the clean low - pass um downsampling , upsampling , I mean ,
+Bro012.F.dialogueact166	486.496	490.876	F	PhD	s^rt	+1	3	Uh the new filter that 's replacing the LDA filters ,
+Bro012.F.dialogueact172	506.167	512.871	F	PhD	s^ba^rt	+1	1	and then we have results that are not um {vocalsound} {vocalsound} very impressive .
+Bro012.F.dialogueact173	512.871	516.261	F	PhD	s	+1	1	Well , there is no {vocalsound} real improvement .
+Bro012.A.dialogueact174	517.99	520.0	A	Professor	s^bu^df	+1	1	But it 's not wer worse
+Bro012.A.dialogueact176	520.22	521.84	A	Professor	s^bu^df	+1	1	and it 's better {disfmarker} better latency ,
+Bro012.F.dialogueact181	526.74	528.97	F	PhD	s	+1	2	It seems better when we look at the mismatched case
+Bro012.F.dialogueact182	528.97	535.31	F	PhD	s^rt	+1	2	but {vocalsound} I think we are like {disfmarker} like cheated here by the {disfmarker} th this problem
+Bro012.F.dialogueact183	535.31	547.97	F	PhD	s	+1	2	that {vocalsound} uh in some cases when you modify slight {disfmarker} slightly modify the initial condition you end up {vocalsound} completely somewhere air somewhere else in the {disfmarker} in the space , {vocalsound} the parameters .
+Bro012.F.dialogueact432	1147.62	1148.21	F	PhD	fg	+1	1	Well anyway
+Bro012.F.dialogueact435	1149.92	1152.5	F	PhD	fh|s^rt	+1	1	Yeah . So it hurts a little bit on the well - match
+Bro012.F.dialogueact464	1201.08	1204.88	F	PhD	s^rt	+1	1	No , point six {comment} uh percent absolute on Italian {disfmarker}
+Bro012.F.dialogueact469	1210.96	1213.52	F	PhD	s^rt	+1	1	Uh well we start from ninety - four point sixty - four ,
+Bro012.F.dialogueact470	1213.63	1215.58	F	PhD	s	+1	1	and we go to ninety - four point O four .
+Bro012.F.dialogueact492	1241.41	1245.17	F	PhD	s	+1	1	For Finnish , we start to ninety - three point eight - four
+Bro012.F.dialogueact493	1245.17	1246.99	F	PhD	s^rt	+1	1	and we go to ninety - three point seventy - four .
+Bro012.F.dialogueact494	1248.29	1251.87	F	PhD	s	+1	1	And for Spanish we are {disfmarker} we were at ninety - five point O five
+Bro012.F.dialogueact495	1251.87	1254.49	F	PhD	s	+1	1	and we go to ninety - three - s point sixty one .
+Bro012.A.dialogueact496	1255.07	1256.63	A	Professor	s^bk|s^ba	+1	1	OK , so we are getting hurt somewhat .
+Bro012.F.dialogueact507	1269.7	1275.66	F	PhD	s^rt	+1	1	but the filter {disfmarker} So the filter with the shorter delay hurts on Italian well - matched ,
+Bro012.A.dialogueact535	1346.84	1351.35	A	Professor	qy	+1	1	Uh . Do the {disfmarker} does the new filter make things uh better or worse for the other cases ?
+Bro012.A.dialogueact540	1356.6	1358.41	A	Professor	s^bu^m	+1	1	Doesn't hurt , but doesn't get a little better , or something .
+12	Bro012.s.17	Also tried adding some spectral subtraction , but it doesn't work will with on-line normalization and at this stage is just hurting results.
+Bro012.F.dialogueact756	1895.66	1898.3	F	PhD	s	+1	1	Well . I start {disfmarker} we started to work on spectral subtraction .
+Bro012.F.dialogueact757	1898.3	1904.15	F	PhD	s^rt	+1	1	And {vocalsound} um {vocalsound} the preliminary results were very bad .
+Bro012.F.dialogueact758	1904.85	1914.15	F	PhD	s	+1	1	So the thing that we did is just to add spectral subtraction before this , the Wall uh process , which contains LDA on - line normalization .
+Bro012.F.dialogueact760	1915.8	1918.5	F	PhD	s^ba	+1	1	And it hurts uh a lot .
+Bro012.F.dialogueact993	2420.1	2426.05	F	PhD	s	+1	2	And what they did at OGI is just {vocalsound} uh they don't use on - line normalization , for the moment , on spectral subtraction
+Bro012.F.dialogueact996	2428.24	2433.08	F	PhD	s	+1	2	I think as soon as they will try on - line normalization {vocalsound} there will be a problem .
+Bro012.A.dialogueact1320	3159.96	3160.84	A	Professor	s^ba	+1	2	Yeah , that 's a good idea .
+Bro012.F.dialogueact1322	3165.56	3168.87	F	PhD	s	+1	2	Because , yeah , well , spectral subtraction is good
+Bro012.F.dialogueact1323	3168.87	3173.13	F	PhD	s	+1	2	and we could u we could use the fine structure to {disfmarker} to have a better estimate of the noise
+Bro012.F.dialogueact1324	3173.13	3182.69	F	PhD	s.%--	+1	1	but {vocalsound} still there is this issue with spectral subtraction that it seems to increase the variance of {disfmarker} of {disfmarker} of
+Bro012.F.dialogueact1327	3184.92	3191.1	F	PhD	s^ba	+1	1	Well it 's this musical noise which is annoying if you d you do some kind of on - line normalization after .
+Bro012.F.dialogueact1332	3198.98	3204.52	F	PhD	fg|s^ba	+1	1	Well . Spectral subtraction and on - line normalization don't seem to {disfmarker} to go together very well .
+26	Bro012.s.18	They have also been considering the possibility of using a second stream of data looking at the voicedness of the data , which would draw some ideas from previous work.
+Bro012.D.dialogueact1118	2715.32	2724.11	D	PhD	s^tc.%--	+1	1	Also is Stephane was thinking that {vocalsound} maybe it was useful to f to think about uh {vocalsound} voiced - unvoiced {disfmarker}
+Bro012.F.dialogueact1123	2732.19	2742.64	F	PhD	fg|s	+1	1	Yeah , my feeling is that um actually {vocalsound} when we look at all the proposals , ev everybody is still using some kind of spectral envelope
+Bro012.A.dialogueact1126	2746.41	2747.84	A	Professor	s^bs	+1	1	No use of pitch uh basically .
+Bro012.F.dialogueact1129	2749.57	2754.42	F	PhD	s	+1	1	but to look at the um fine {disfmarker} at the {disfmarker} at the high re high resolution spectrum .
+Bro012.F.dialogueact1135	2759.94	2767.0	F	PhD	s^rt	+1	1	Cuz I have a feeling that {vocalsound} when we look {disfmarker} when we look at the {disfmarker} just at the envelope there is no way you can tell if it 's voiced and unvoiced ,
+Bro012.F.dialogueact1180	2837.97	2843.8	F	PhD	h|s^cs.%--	+1	1	Um yeah , so yeah , I think if we try to develop a second stream
+Bro012.F.dialogueact1181	2845.25	2849.38	F	PhD	s	+1	1	well , there would be one stream that is the envelope and the second , it could be interesting to have
+Bro012.F.dialogueact1182	2849.65	2853.04	F	PhD	s^rt	+1	1	that 's {disfmarker} something that 's more related to the fine structure of the spectrum .
+Bro012.F.dialogueact1188	2865.71	2870.44	F	PhD	fh|s^cs^rt	+1	1	well , voiced - speech detector , that 's working on {disfmarker} on the FFT
+Bro012.F.dialogueact1190	2872.95	2874.45	F	PhD	s^cs^rt	+1	1	Larry Saul could be an idea .
+Bro012.F.dialogueact1192	2874.45	2879.24	F	PhD	s^cs^rt	+1	1	We were are thinking about just {vocalsound} kind of uh taking the spectrum
+Bro012.F.dialogueact1193	2880.13	2888.28	F	PhD	s	+1	1	and computing the variance of {disfmarker} of the high resolution spectrum {vocalsound} and things like this .
+Bro012.A.dialogueact1197	2890.77	2903.73	A	Professor	s	+1	1	Uh we had a guy here some years ago who did some work on {vocalsound} um {vocalsound} making use of voicing information uh to {vocalsound} help in reducing the noise .
+Bro012.A.dialogueact1200	2904.42	2909.46	A	Professor	s	+1	1	So what he was doing is basically y you {disfmarker} {vocalsound} you do estimate the pitch .
+Bro012.A.dialogueact1204	2914.09	2916.37	A	Professor	s	+1	1	or you estimate fine harmonic structure ,
+Bro012.A.dialogueact1209	2926.96	2932.38	A	Professor	s	+1	1	i if there is strong harmonic structure , {vocalsound} you can throw away stuff that 's {disfmarker} that 's non - harmonic .
+Bro012.A.dialogueact1212	2933.74	2938.14	A	Professor	s^rt	+1	1	And that {disfmarker} that is another way of getting rid of part of the noise
+Bro012.A.dialogueact1216	2945.01	2947.56	A	Professor	s	+1	1	brings in a little more information than just spectral subtraction .
+Bro012.A.dialogueact1219	2949.42	2952.56	A	Professor	s^rt	+1	1	And he had some {disfmarker} I mean , he did that sort of in combination with RASTA .
+Bro012.A.dialogueact1224	2956.05	2959.06	A	Professor	s	+1	1	and {disfmarker} and got some {disfmarker} some decent results doing that .
+Bro012.A.dialogueact1225	2959.06	2960.83	A	Professor	s	+1	1	So that {disfmarker} that 's another {disfmarker} another way .
+Bro012.F.dialogueact1322	3165.56	3168.87	F	PhD	s	+1	2	Because , yeah , well , spectral subtraction is good
+Bro012.A.dialogueact1320	3159.96	3160.84	A	Professor	s^ba	+1	2	Yeah , that 's a good idea .
+Bro012.F.dialogueact1323	3168.87	3173.13	F	PhD	s	+1	2	and we could u we could use the fine structure to {disfmarker} to have a better estimate of the noise
+Bro012.A.dialogueact1343	3228.76	3236.07	A	Professor	s^rt	+1	2	In fact if you get {disfmarker} if you go into uh {disfmarker} a uh harmonics - related thing {vocalsound} it 's definitely going to be different than what they 're doing
+Bro012.A.dialogueact1346	3239.13	3241.01	A	Professor	s^rt	+1	2	should have some interesting properties in noise .
+20	Bro012.s.19	Me018 has been looking at the baseline system and feels it may be possible to decrease the run time of experiments by decreasing the iteration , and he has also got the five processor Linux machine capable of running HTKs.
+Bro012.B.dialogueact279	729.93	736.33	B	PhD	s	+1	1	Somebody , I think it was Morgan , suggested at the last meeting that I actually count to see {vocalsound} how many parameters and how many frames .
+Bro012.B.dialogueact282	736.877	742.627	B	PhD	s	+1	1	And there are uh almost one point eight million frames of training data
+Bro012.B.dialogueact283	743.487	747.207	B	PhD	s	+1	1	and less than forty thousand parameters in the baseline system .
+Bro012.A.dialogueact290	755.53	759.09	A	Professor	s	+1	1	And that {disfmarker} that says that we could have lots more parameters actually .
+Bro012.B.dialogueact296	768.452	773.952	B	PhD	s^rt	+1	1	For {disfmarker} for all of the digit models , they end up at three mixtures per state .
+Bro012.B.dialogueact297	774.374	777.364	B	PhD	s	+1	1	And so I just did a quick experiment , where I changed it so it went to four
+Bro012.B.dialogueact298	777.727	785.87	B	PhD	s	+1	1	and um {vocalsound} it it {disfmarker} it didn't have a r any significant effect at the uh medium mismatch and high mismatch cases
+Bro012.B.dialogueact301	789.488	795.244	B	PhD	s	+1	1	Uh so I 'm r gonna run that again but {vocalsound} um with many more uh mixtures per state .
+Bro012.B.dialogueact316	833.309	848.396	B	PhD	s	+1	1	but one one thing I {disfmarker} I wanted to check out before I increased the um {vocalsound} number of mixtures per state was {vocalsound} uh {vocalsound} in their {vocalsound} default training script they do an initial set of three re - estimations
+Bro012.B.dialogueact318	851.807	854.977	B	PhD	s	+1	1	and then they do seven iterations then the add mixtures
+Bro012.B.dialogueact319	854.977	856.927	B	PhD	s	+1	1	and they do another seven then they add mixtures
+Bro012.B.dialogueact320	857.258	858.968	B	PhD	s	+1	1	then they do a final set of seven and they quit .
+Bro012.B.dialogueact322	860.954	864.194	B	PhD	s^df	+1	1	and it also makes the experiments go take a really long time
+Bro012.B.dialogueact327	876.53	880.765	B	PhD	s	+1	1	And so one of the things I did was I compiled HTK for the Linux {vocalsound} machines
+Bro012.B.dialogueact329	880.875	884.345	B	PhD	s	+1	1	cuz we have this one from IBM that 's got like five processors in it ?
+Bro012.B.dialogueact331	885.025	894.437	B	PhD	s	+1	1	and so now I 'm {disfmarker} you can run stuff on that and that really helps a lot because now we 've got {vocalsound} you know , extra machines that we can use for compute .
+Bro012.B.dialogueact333	894.757	900.617	B	PhD	s^rt	+1	1	And if {disfmarker} I 'm do running an experiment right now where I 'm changing the number of iterations ? {vocalsound} from seven to three ?
+Bro012.B.dialogueact335	900.687	903.117	B	PhD	s	+1	1	just to see how it affects the baseline system .
+Bro012.B.dialogueact337	909.858	917.269	B	PhD	s^df	+1	1	And if it 's not a {disfmarker} a huge difference from running with seven iterations , {vocalsound} um , you know , we should be able to get a lot more experiments done .
+Bro012.B.dialogueact339	918.158	921.238	B	PhD	s	+1	1	And so . I 'll let you know what {disfmarker} what happens with that .

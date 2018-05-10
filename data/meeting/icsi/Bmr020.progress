@@ -1,0 +1,33 @@
+2	Bmr020.s.27	A paper has been submitted to Eurospeech , which also includes a section on new corpora.
+Bmr020.F.dialogueact84	137.15	140.996	F	Professor	fg|s^bu	+1	2	Uh , and you just sent off a Eurospeech paper ,
+Bmr020.A.dialogueact111	173.49	184.322	A	Grad	fg|s	+1	1	uh , Dave Gelbart sent me email , I think he sent it to you too , {comment} that um , there 's a special topic , section in si in Eurospeech on new , corp corpors corpora .
+2	Bmr020.s.28	The statistics in the paper are based on the transcripts of two meeting and two telephone conversation corpora.
+Bmr020.G.dialogueact173	239.52	241.34	G	PhD	s^ar|s	+1	2	No . Well , according to the transcripts .
+Bmr020.G.dialogueact210	289.52	300.74	G	PhD	fh|s	+1	1	Um , and we computed how many overlapped i uh spurts there were and how many overlapped words there were . {vocalsound} Um , for four different {pause} corpora ,
+3	Bmr020.s.29	In the first two , the overlapped words vary between 9% and 18%.
+Bmr020.G.dialogueact204	274.615	277.715	G	PhD	fh|s^e	+1	2	Uh , the one was that the {disfmarker} just the {disfmarker} the amount of overlap
+Bmr020.G.dialogueact207	278.745	280.715	G	PhD	s^e	+1	1	s in terms of {disfmarker} in terms of number of words
+Bmr020.G.dialogueact282	423.58	432.603	G	PhD	fh|s	+1	1	So , {vocalsound} in terms of number of words , it 's like seventeen or eigh eighteen percent for the Meeting Recorder meetings and {vocalsound} about half that for , {vocalsound} uh , the Robustness .
+2	Bmr020.s.30	The telephone conversation results were in-between and very similar to each other.
+Bmr020.G.dialogueact220	320.731	323.081	G	PhD	fh|s	+1	1	uh , but next were Switchboard and CallHome ,
+Bmr020.G.dialogueact221	323.161	324.621	G	PhD	s^e	+1	1	which both had roughly the same ,
+2	Bmr020.s.31	On the other hand , the automatic recognition errors affected by overlaps were reduced dramatically by focusing on regions with the foreground speech.
+Bmr020.G.dialogueact337	506.61	515.385	G	PhD	s	+1	2	and then the second one was just basically the {disfmarker} {vocalsound} the stuff we had in the {disfmarker} in the HLT paper on how overlaps effect the {pause} recognition performance .
+Bmr020.G.dialogueact373	608.931	622.77	G	PhD	s	+1	2	But basically what we found is after we take out these regions {disfmarker} so we only score the regions that were certified as foreground speech , {comment} {vocalsound} the recognition error went down to almost {vocalsound} uh , the {pause} level of the non - overlapped {pause} speech .
+6	Bmr020.s.32	Furthermore , it was shown that after spurts , backchannels , disfluencies and discourse markers , the likelihood of interruption by other speakers was much higher.
+Bmr020.G.dialogueact500	873.32	873.91	G	PhD	s^bsc	+1	1	End of spurt .
+Bmr020.G.dialogueact503	882.54	884.72	G	PhD	s	+1	1	and then we had things like discourse markers ,
+Bmr020.G.dialogueact504	885.71	886.97	G	PhD	s	+1	1	uh , backchannels ,
+Bmr020.G.dialogueact505	888.08	889.2	G	PhD	s	+1	1	uh , disfluencies .
+Bmr020.G.dialogueact529	967.15	974.07	G	PhD	s	+1	2	so at the end after a discourse marker or after backchannel or after filled pause , you 're much more likely to be interrupted {vocalsound} than before .
+Bmr020.G.dialogueact531	975.43	977.41	G	PhD	s	+1	1	And also of course after spurt ends ,
+4	Bmr020.s.33	Files with the recordings , as well as some experimental data will be available for other researchers in an FTP directory that is being set up.
+Bmr020.G.dialogueact702	1205.97	1215.09	G	PhD	s	+1	2	and also , um , the other person that wants it {disfmarker} There is one person at SRI who wants to look at the {vocalsound} um , you know , the uh {disfmarker} the data we have so far ,
+Bmr020.G.dialogueact704	1215.72	1218.14	G	PhD	s^df	+1	2	and so I figured that FTP is the best {pause} approach .
+Bmr020.G.dialogueact705	1218.55	1223.2	G	PhD	s	+1	2	So what I did is I um {disfmarker} {vocalsound} {vocalsound} @ @ {comment} I made a n new directory
+Bmr020.G.dialogueact747	1288.34	1294.83	G	PhD	s	+1	1	So all I {disfmarker} all I was gonna do there was stick the {disfmarker} the transcripts after we {disfmarker} the way that we munged them for scoring ,
+1	Bmr020.s.34	Parts of the recordings will have to be beeped out by a script that has already been developed.
+Bmr020.C.dialogueact860	1434.01	1438.85	C	Postdoc	h|qy^d^rt	+1	1	So , um you know that Adam created um , a b a script to generate the beep file ?
+2	Bmr020.s.35	Finally , EDU meetings already recorded have now been pre-segmented and assigned to the transcribers at ICSI.
+Bmr020.C.dialogueact1140	2032.08	2038.44	C	Postdoc	s^e	+1	1	so the e EDU meetings , that {vocalsound} Thilo ha has now presegmented all of them for us , on a channel by channel basis .
+Bmr020.C.dialogueact1142	2040.04	2044.53	C	Postdoc	s	+1	1	so , I 've assigned {disfmarker} I 've {disfmarker} I 've assigned them to our transcribers

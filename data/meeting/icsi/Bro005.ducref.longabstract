@@ -1,0 +1,19 @@
+The main topic for discussion by the Berkeley Meeting Recorder group was progress on the experiments run as part of the groups main project , a speech recogniser for the cellular industry.
+This included reporting the results , and making conclusions to shape future work.
+Also discussed were the details of the continued collaboration with project partner OGI.
+Further investigation into the lack of difference using MSG features makes should not be made while they are on their current short time scale for results.
+Same goes for anything else that comes up and looks interesting , leave it for just now.
+Really should pick which results are looking the best at this stage , and take only them further.
+Someone should look closely at the non-TIMIT databases , their Viterbi alignments , and their phoneme strings to see is that is why TIMIT is better.
+Need to get OGI's system from them , and get it running like they do , before integrating into it.
+It is unclear if the English TIMIT database is providing the best results because English is the best language or TIMIT is the most accurately labelled dataset because it was hand labelled.
+The results table was very large and difficult to follow; it was unclear which of the numbers were error or accuracy rate , and straight rates or percentages of the baseline.
+There is very limited training data , over only a few conditions.
+Test and real data is likely to encompass much more variability.
+Speakers mn007 and fn002 have made further progress into the series of experiments they have been running in previous weeks; results were varied.
+The main conclusions include that training on task data is good , and the best broad training data is the English TIMIT database.
+Other results show that MSG makes little difference , adding MLP improves when trained on task data , decreases figures when not , while using delta generally improves the situation , as does on-line normalization.
+Starting work with a new broad database drawn from English , French , TIMIT , SPINE and English and Italian digits.
+mn007 has also started work on multi-band MLP trainings , with large context.
+OGI have a block diagram explaining their system , and the group are trying to fit their work into it.
+Speaker me006 has been helping prepare data , but is mainly doing work for a class he takes , looking at modelling asynchrony.

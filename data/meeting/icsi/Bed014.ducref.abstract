@@ -1,0 +1,12 @@
+Minor technical issues,such as format conversions for XML and JavaBayes and the full translation of the SmartKom generation module in English , are currently being resolved.
+The voice synthesiser will also be replaced by better technology.
+An important research issue to be investigated is how the concept of mental spaces and probabilistic relational models can be integrated into the belief-net.
+Mental space interdependencies are based on relatively clean rules , since people seem to manage them easily.
+A step towards this goal is the construction formalism being put together.
+This module will eventually have to include ways to simulate questions , do emphasis and focus.
+The constructions could be built assuming either conventional or conversational implicature.
+At this stage both routes need to be examined.
+The formalism will also serve as a starting point for the definition of construal mechanisms.
+Similarly , issues like time plans and discourse stacks are dependent on how the ontology and discourse history are going to be structured and linked.
+One suggestion was to use the spreading activation as a paradigm for activating nodes in the belief-net.
+Finally , using type constraints in the construction analysis should work , as long as they are complex enough not to generate too many parses.

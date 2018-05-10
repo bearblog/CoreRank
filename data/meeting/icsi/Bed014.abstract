@@ -1,0 +1,32 @@
+1	Bed014.s.1	Minor technical issues,such as format conversions for XML and JavaBayes and the full translation of the SmartKom generation module in English , are currently being resolved.
+Bed014.E.dialogueact81	174.87	187.17	E	Grad	s	+1	2	and Eva is using the Xalan style sheet processor to convert the XML that 's output by the Java Bayes for the {disfmarker} into the , uh , E Bayes input .
+1	Bed014.s.2	The voice synthesiser will also be replaced by better technology.
+Bed014.E.dialogueact171	399.05	401.16	E	Grad	s^aa|s	+1	1	Yep . We ha we have to change the voice .
+2	Bed014.s.3	An important research issue to be investigated is how the concept of mental spaces and probabilistic relational models can be integrated into the belief-net.
+Bed014.C.dialogueact309	670.67	681.03	C	Professor	fh|s.%-	+1	1	Uh , w Which is {comment} mental spaces and uh {disfmarker} and - or {disfmarker}
+Bed014.C.dialogueact317	683.462	692.372	C	Professor	s	+1	1	But the other part of it is the way they connect to these , uh , probabilistic relational models .
+2	Bed014.s.4	Mental space interdependencies are based on relatively clean rules , since people seem to manage them easily.
+Bed014.C.dialogueact371	909.513	914.523	C	Professor	s	+1	1	so there probably are some , uh , relatively clean rules ,
+Bed014.C.dialogueact370	905.11	909.513	C	Professor	s	+1	1	is that people do manage to do this
+1	Bed014.s.5	A step towards this goal is the construction formalism being put together.
+Bed014.C.dialogueact369	894.81	904.77	C	Professor	s	+1	1	No , I know , I th I I think that is gonna be sort of the key to this wh to th the big project of the summer of {disfmarker} of getting the constructions right
+5	Bed014.s.6	This module will eventually have to include ways to simulate questions , do emphasis and focus.
+Bed014.A.dialogueact1121	2478.26	2481.6	A	Grad	qh	+1	1	which is the issue of , um , how do you simulate questions ?
+Bed014.C.dialogueact1156	2530.97	2538.39	C	Professor	s	+1	1	We didn't {disfmarker} we never did figure out how we were gonna do emphasis in {disfmarker} in uh , the semspec .
+Bed014.C.dialogueact1155	2529.52	2530.97	C	Professor	s^e	+1	1	incl including the questions {disfmarker}
+Bed014.A.dialogueact1239	2692.27	2693.63	A	Grad	s	+1	1	Uh , no , all the focus stuff .
+Bed014.A.dialogueact1236	2683.04	2685.23	A	Grad	s^cc	+1	1	and we 'll figure out exactly how to write that up and so on ,
+2	Bed014.s.7	The constructions could be built assuming either conventional or conversational implicature.
+Bed014.A.dialogueact469	1104.28	1108.82	A	Grad	s	+1	3	The question of whether the polysemy is sort of like in the construction or pragmatic .
+Bed014.A.dialogueact532	1221.26	1224.68	A	Grad	s	+1	3	Well the question is basically , is this conventional or conversational implicature ?
+2	Bed014.s.8	At this stage both routes need to be examined.
+Bed014.C.dialogueact544	1247.93	1251.19	C	Professor	s^df	+1	2	W we know for sure that we have to be able to do both .
+Bed014.C.dialogueact703	1729.84	1733.05	C	Professor	s	+1	3	I mean it {disfmarker} th {vocalsound} I can thi I can think of arguments in either direction on that .
+1	Bed014.s.9	The formalism will also serve as a starting point for the definition of construal mechanisms.
+Bed014.C.dialogueact791	1978.48	1982.44	C	Professor	fg|s	+1	1	Right . So . {vocalsound} Right . So thing {disfmarker} That 's part of why we want the formalism ,
+0	Bed014.s.10	Similarly , issues like time plans and discourse stacks are dependent on how the ontology and discourse history are going to be structured and linked.
+1	Bed014.s.11	One suggestion was to use the spreading activation as a paradigm for activating nodes in the belief-net.
+Bed014.B.dialogueact584	1407.58	1408.98	B	Grad	s^2	+1	1	priming a spreading activation
+2	Bed014.s.12	Finally , using type constraints in the construction analysis should work , as long as they are complex enough not to generate too many parses.
+Bed014.B.dialogueact1374	2974.93	2987.23	B	Grad	s	+1	1	Which {pause} uh , so far , in terms of like putting up all the constraints as , you know , pushing them into type constraints , the {disfmarker} when I 've , you know , propo then proposed it to linguists who haven't yet given me {disfmarker} you know , we haven't yet thought of a reason that that wouldn't work .
+Bed014.B.dialogueact1375	2987.78	2991.15	B	Grad	s^f|s^e	+1	1	Right ? As long as we allow our type constraints to be reasonably {pause} complex .

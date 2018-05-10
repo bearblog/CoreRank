@@ -1,0 +1,59 @@
+1	Bmr019.s.1	In the first part of the Berkeley Meeting Recorder group meeting , members discussed the results and implications of a spoken digit recognition experiment using lapel microphones and the Hidden Markov Model Toolkit ( HTK ).
+Bmr019.E.dialogueact12	12.133	18.592	E	Grad	s	+1	1	Two items , which was , uh , digits and possibly stuff on {disfmarker} on , uh , forced alignment ,
+3	Bmr019.s.2	It is reported that while the lapel microphones deliver good results , the HTK is outperformed by the SRI toolkit.
+Bmr019.E.dialogueact90	121.753	127.063	E	Grad	s	+1	1	I mean that it was basically {disfmarker} the only thing that was even slightly surprising was that the lapel did so well .
+Bmr019.B.dialogueact142	214.907	230.407	B	Professor	s^rt	+1	0	uh , I mean , there the point of interest to the group was primarily that , um , {vocalsound} the , uh {disfmarker} the system that we had that was based on H T K , that 's used by , you know , {pause} all the participants in Aurora , {vocalsound} was so much worse {vocalsound} than the {disfmarker} than the S R
+Bmr019.B.dialogueact201	377.87	380.66	B	Professor	s	+1	0	One is , yeah , the SRI system is a lot better than the HTK {disfmarker}
+16	Bmr019.s.3	Comparisons to other digit corpora such as TI are also made.
+Bmr019.B.dialogueact172	320.712	326.019	B	Professor	qy^rt	-1	0	Hav - Have you ever t {vocalsound} Have you ever tried this exact same recognizer out on the actual TI - digits test set ?
+Bmr019.E.dialogueact179	335.98	337.46	E	Grad	s	-1	0	I bet it would do even slightly better .
+Bmr019.F.dialogueact180	340.452	346.63	F	PhD	s	-1	0	I could {disfmarker} and they are using a system that 's , um {disfmarker} you know , h is actually trained on digits ,
+Bmr019.F.dialogueact181	347.2	355.32	F	PhD	s^df	-1	0	um , but h h otherwise uses the same , you know , decoder , the same , uh , training methods , and so forth ,
+Bmr019.F.dialogueact183	355.32	358.25	F	PhD	s^cs	-1	0	and I could ask them what they get {pause} on TI - digits .
+Bmr019.B.dialogueact184	357.375	361.105	B	Professor	s^bk|s^cs^ng	+1	1	Yeah , bu although I 'd be {disfmarker} I think it 'd be interesting to just take this exact actual system
+Bmr019.B.dialogueact185	361.105	362.475	B	Professor	s^df	-1	0	so that these numbers were comparable
+Bmr019.B.dialogueact197	369.61	375.28	B	Professor	s^df	-1	0	I mean , cuz we were getting sub one percent {vocalsound} numbers on TI - digits also with the tandem thing .
+Bmr019.F.dialogueact273	528.825	535.072	F	PhD	qy^rt	-1	0	So does {disfmarker} so th so does {disfmarker} does , um , {vocalsound} the TI - digits database have speakers that are known ?
+Bmr019.F.dialogueact276	536.067	541.877	F	PhD	qy^rt	-1	0	And is there {disfmarker} is there enough data or a comparable {disfmarker} comparable amount of data to {disfmarker} to what we have in our recordings here ?
+Bmr019.E.dialogueact317	639.042	641.942	E	Grad	qy^rt	-1	0	The other thing is , isn't TI - digits isolated digits ?
+Bmr019.E.dialogueact320	643.232	646.112	E	Grad	s^df	-1	0	I 'm {disfmarker} I looked through a bunch of the digits t corp corpora ,
+Bmr019.B.dialogueact325	655.928	658.368	B	Professor	fg|s	-1	0	Yeah . Most of TI - digits is connected digits , I think .
+Bmr019.B.dialogueact327	658.368	660.778	B	Professor	s	-1	0	The {disfmarker} I mean , we had a Bellcore corpus that we were using .
+Bmr019.E.dialogueact328	660.644	661.954	E	Grad	s	-1	0	Maybe it 's the Bell Gram .
+Bmr019.E.dialogueact330	662.869	663.439	E	Grad	s^e	-1	0	Bell Digits .
+29	Bmr019.s.4	The second part of the discussion focused on alignment of multiple speaker channels , specifically the problems of overlapping speech and back-channelling.
+Bmr019.E.dialogueact12	12.133	18.592	E	Grad	s	+1	1	Two items , which was , uh , digits and possibly stuff on {disfmarker} on , uh , forced alignment ,
+Bmr019.B.dialogueact660	1340.45	1343.51	B	Professor	fg|qo^d^e	-1	0	OK . So the s the {disfmarker} the next thing we had on the agenda was something about alignments ?
+Bmr019.A.dialogueact667	1351.96	1365.35	A	PhD	s	+1	2	and {disfmarker} and {disfmarker} W we {disfmarker} we were able to get some definite improvement on the forced alignments by looking at them first and then realizing the kinds of errors {pause} that were occurring
+Bmr019.A.dialogueact669	1367.19	1373.3	A	PhD	s	-1	0	some of the errors occurring very frequently are just things like the first word being moved to as early as possible in the recognition ,
+Bmr019.C.dialogueact985	2050.88	2056.68	C	Postdoc	s	+1	0	The other thing that was w interesting to me was that I picked up a lot of , um , backchannels which were hidden in the mixed signal ,
+Bmr019.C.dialogueact992	2067.79	2079.62	C	Postdoc	s	+1	1	When I was looking at these backchannels , they were turning up usually {disfmarker} {vocalsound} very often in {disfmarker} w well , I won't say " usually " {disfmarker} but anyway , very often , I picked them up in a channel {vocalsound} w which was the person who had asked a question .
+Bmr019.C.dialogueact995	2084.76	2086.32	C	Postdoc	s	-1	0	but it would be the person who asked the question .
+Bmr019.C.dialogueact996	2086.32	2088.28	C	Postdoc	s	-1	0	Other people weren't really doing much backchannelling .
+Bmr019.C.dialogueact1001	2092.3	2097.23	C	Postdoc	s^df	-1	0	but {disfmarker} but it does seem more natural to give a backchannel when {disfmarker} when you 're somehow involved in the topic ,
+Bmr019.C.dialogueact1055	2173.4	2178.91	C	Postdoc	s^e	-1	0	which is that , you know , so th there are lots of channels where you don't have these backchannels , w when a question has been asked
+Bmr019.F.dialogueact1166	2329.98	2334.91	F	PhD	s^bd^df	-1	0	uh , this {disfmarker} this is just {disfmarker} maybe someone has s some {disfmarker} some ideas about how to do it better ,
+Bmr019.F.dialogueact1168	2334.91	2338.76	F	PhD	s	-1	0	but we {disfmarker} So we 're taking these , uh , alignments from the individual channels .
+Bmr019.F.dialogueact1170	2340.79	2344.0	F	PhD	s	+1	0	from each alignment we 're producing , uh , one of these CTM files ,
+Bmr019.F.dialogueact1171	2344.0	2349.0	F	PhD	s	+1	0	which essentially has {disfmarker} it 's just a linear sequence of words with the begin times for every word and the duration .
+Bmr019.F.dialogueact1183	2372.0	2379.43	F	PhD	fg|s	+1	0	OK . Then we have a messy alignment process where we actually insert into the sequence of words the , uh , tags
+Bmr019.F.dialogueact1184	2379.43	2382.12	F	PhD	s^e	+1	0	for , like , where {disfmarker} where sentence {disfmarker} ends of sentence ,
+Bmr019.F.dialogueact1185	2382.43	2383.53	F	PhD	s^e	-1	0	question marks ,
+Bmr019.F.dialogueact1186	2383.53	2385.58	F	PhD	fh|s^e	-1	0	um , {vocalsound} various other things .
+Bmr019.F.dialogueact1198	2411.43	2414.93	F	PhD	s	+1	1	And then we merge all the alignments from the various channels
+Bmr019.F.dialogueact1199	2414.93	2416.39	F	PhD	s	+1	1	and we sort them by time .
+Bmr019.F.dialogueact1200	2418.56	2425.43	F	PhD	s	-1	0	And then there 's a {disfmarker} then there 's a process where you now determine the spurts .
+Bmr019.F.dialogueact1201	2426.11	2429.26	F	PhD	s	-1	0	That is {disfmarker} Actually , no , you do that before you merge the various channels .
+Bmr019.F.dialogueact1204	2433.39	2436.25	F	PhD	s	-1	0	you identify the beginnings and ends of these spurts ,
+Bmr019.F.dialogueact1205	2436.25	2439.4	F	PhD	s	-1	0	and you put another set of tags in there to keep those straight .
+Bmr019.F.dialogueact1207	2440.05	2444.77	F	PhD	s	-1	0	And then you merge everything in terms of , you know , linearizing the sequence based on the time marks .
+Bmr019.F.dialogueact1208	2445.45	2450.31	F	PhD	s	-1	0	And then {vocalsound} you extract the individual channels again ,
+Bmr019.F.dialogueact1209	2450.31	2454.24	F	PhD	s	-1	0	but this time you know where the other people start and end talking {disfmarker}
+Bmr019.F.dialogueact1213	2468.9	2479.33	F	PhD	s	+1	0	So , you {disfmarker} you basically have everything sort of lined up and in a form where you can look at the individual speakers and how their speech relates to the other speakers ' speech .
+Bmr019.F.dialogueact1250	2546.01	2551.39	F	PhD	s	+1	0	So you sort of {disfmarker} at that point , you discretize things into just having overlap or no overlap .
+5	Bmr019.s.5	Speaker adaptation was identified as an important issue is recognition as well as alignment.
+Bmr019.B.dialogueact412	812.02	814.316	B	Professor	s	-1	0	And , yeah , the adaptation would get {vocalsound} th some of that .
+Bmr019.A.dialogueact736	1571.17	1574.39	A	PhD	s^cs^rt	+1	1	We probably want to adapt at least the foreground speaker .
+Bmr019.A.dialogueact737	1574.39	1579.01	A	PhD	s	+1	1	But , I guess Andreas tried adapting both the foreground and a background generic speaker ,
+Bmr019.A.dialogueact738	1579.01	1582.41	A	PhD	s^ba	+1	1	and that 's actually a little bit of a f funky model .
+Bmr019.A.dialogueact739	1582.41	1584.19	A	PhD	s	+1	1	Like , it gives you some weird alignments ,

@@ -1,0 +1,11 @@
+A forty-five minute session has already been transcribed at ICSI and also sent to IBM.
+Another twelve hours have been recorded and are currently being put on CD's , in order to be sent to IBM for transcription.
+There are already arrangements in place for the regular recording of some morning meetings , as well as those by the natural language and network services teams.
+Problems with crashing equipment are being sorted out.
+Jose has completed a detailed marking and labeling of all one thousand acoustic events in the first twelve minutes of the transcribed session mentioned above.
+He has counted three hundrend overlapping zones in the whole session.
+In the meantime , Adam is working on a revised interface for the transcription of these zones.
+A simple program to locate overlapping zones automatically by -in a nutshell- detecting energy increases in the signal , is being written.
+Its output can be impported into Transcriber.
+Other potentially useful scripts , that are ready , include one for a cross-correlation filter which cleans up the original signal and some for automatic transcription of digits.
+Finally , a preliminary check on the usefulness of inference structures in the analysis of meetings was carried out.

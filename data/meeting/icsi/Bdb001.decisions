@@ -1,0 +1,11 @@
+3	Bdb001.s.12	In order to confirm the suitability of the data format provided by the ATLAS project , its current state of development will be investigated.
+Bdb001.C.dialogueact395	779.196	780.546	C	Grad	s^cs	+1	1	We should look at ATLAS ,
+Bdb001.C.dialogueact497	975.691	976.351	C	Grad	s^cs	+1	1	Maybe I should .
+Bdb001.C.dialogueact512	1005.06	1006.6	C	Grad	s^cc	+1	1	So I 'll {disfmarker} I 'll take a closer look at it .
+4	Bdb001.s.13	More specifically , the issues that have to be ascertained are , firstly , whether the external file representation offers a format that would be appropriate for speech data , and , secondly , how the linking between the different annotations ( eg , between word-level representations and prosodic-feature structures ) can be achieved.
+Bdb001.A.dialogueact477	933.977	937.757	A	PhD	qy^rt	+1	2	Do they already have something that 's {disfmarker} that would be useful for us in place ?
+Bdb001.C.dialogueact674	1333.7	1336.65	C	Grad	s^cs	+1	1	Well , I think I 'm {disfmarker} I think w I had better look at it again
+Bdb001.C.dialogueact703	1385.71	1388.09	C	Grad	s^no	+1	1	but I 'm forgetting the exact level of nesting .
+Bdb001.C.dialogueact922	1904.73	1907.55	C	Grad	s	+1	2	I mean , I have to look at it again to see whether it can really do what we want ,
+1	Bdb001.s.14	Regardless of the actual format , however , there was consensus that keeping levels of analysis ( words , phones , frames , etc ) on separate , inter-linked files can make their management easier.
+Bdb001.A.dialogueact564	1098.79	1101.55	A	PhD	s^bs	+1	1	It seems to me you want to keep the frame - level stuff separate .

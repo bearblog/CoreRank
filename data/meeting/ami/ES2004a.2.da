@@ -1,0 +1,493 @@
+ES2004a.A.dialog-act.s9553330.1	0.37	1.76	UI	A	bck	-1	0	Hmm hmm hmm .
+ES2004a.B.dialog-act.s9553330.1	0.0	1.575	PM	B	fra	-1	0	{vocalsound}
+ES2004a.B.dialog-act.s9553330.2	10.99	12.13	PM	B	fra	-1	0	Are we {disfmarker}
+ES2004a.B.dialog-act.s9553330.3	12.13	14.53	PM	B	el.inf	-1	0	we're not allowed to dim the lights so people can see that a bit better ?
+ES2004a.A.dialog-act.s9553330.2	17.88	18.15	UI	A	bck	-1	0	Yeah .
+ES2004a.B.dialog-act.s9553330.4	18.87	20.29	PM	B	ass	-1	0	Okay , that's fine .
+ES2004a.B.dialog-act.s9553330.5	22.37	23.81	PM	B	el.inf	-1	0	Am I supposed to be standing up there ?
+ES2004a.B.dialog-act.s9553330.6	25.18	25.6	PM	B	bck	-1	0	Okay .
+ES2004a.D.dialog-act.s9553330.1	25.15	26.83	ME	D	el.inf	-1	0	So we've got both of these clipped on ?
+ES2004a.D.dialog-act.s9553330.2	29.12	30.48	ME	D	ass	-1	0	She gonna answer me or not ?
+ES2004a.B.dialog-act.s9553330.7	29.86	32.297	PM	B	fra	-1	0	Yeah , I've got {disfmarker} {vocalsound}
+ES2004a.D.dialog-act.s9553330.3	31.3	33.39	ME	D	ass	-1	0	Right , both of them , okay .
+ES2004a.B.dialog-act.s9553330.8	34.26	34.72	PM	B	ass	-1	0	Yes .
+ES2004a.D.dialog-act.s9553330.4	42.63	43.29	ME	D	oth	-1	0	God .
+ES2004a.B.dialog-act.s9553330.9	44.48	47.136	PM	B	fra	-1	0	{vocalsound}
+ES2004a.D.dialog-act.s9553330.5	49.75	53.18	ME	D	oth	-1	0	Jesus , it's gonna fall off {gap} .
+ES2004a.A.dialog-act.s9553330.3	63.81	66.416	UI	A	bck	-1	0	Okay . Yep , yep . {vocalsound}
+ES2004a.A.dialog-act.s9553330.4	71.95	72.06	UI	A	bck	-1	0	Okay .
+ES2004a.A.dialog-act.s9553330.5	80.5	81.66	UI	A	bck	-1	0	Tu tu tu tu
+ES2004a.B.dialog-act.s9553330.10	80.49	81.9	PM	B	stl	-1	0	Okay . {vocalsound}
+ES2004a.B.dialog-act.s9553330.11	81.9	83.82	PM	B	be.pos	-1	0	Hello everybody .
+ES2004a.A.dialog-act.s9553330.6	83.22	84.03	UI	A	be.pos	-1	0	Hi , good morning .
+ES2004a.B.dialog-act.s9553330.12	83.82	85.75	PM	B	inf	+1	1	Um I'm Sarah ,
+ES2004a.B.dialog-act.s9553330.13	85.75	87.87	PM	B	inf	+1	1	the Project Manager
+ES2004a.B.dialog-act.s9553330.14	87.87	91.96	PM	B	inf	-1	0	and this is our first meeting , surprisingly enough .
+ES2004a.B.dialog-act.s9553330.15	91.96	94.743	PM	B	inf	+1	1	Okay , this is our agenda , um {vocalsound}
+ES2004a.B.dialog-act.s9553330.16	95.68	98.39	PM	B	inf	-1	0	we will do some stuff ,
+ES2004a.B.dialog-act.s9553330.17	98.39	101.93	PM	B	inf	+1	1	get to know each other a bit better to feel more comfortable with each other .
+ES2004a.B.dialog-act.s9553330.18	101.93	106.28	PM	B	inf	+1	1	Um then we'll go do tool training ,
+ES2004a.B.dialog-act.s9553330.19	106.28	108.14	PM	B	inf	+1	1	talk about the project plan ,
+ES2004a.B.dialog-act.s9553330.20	108.14	112.03	PM	B	inf	+1	1	discuss our own ideas and everything um
+ES2004a.B.dialog-act.s9553330.21	112.03	114.5	PM	B	inf	-1	0	and we've got twenty five minutes to do that ,
+ES2004a.B.dialog-act.s9553330.22	114.5	115.89	PM	B	und	-1	0	as far as I can understand .
+ES2004a.B.dialog-act.s9553330.23	117.62	121.54	PM	B	inf	+1	1	Now , we're developing a remote control which you probably already know .
+ES2004a.B.dialog-act.s9553330.24	121.54	124.73	PM	B	inf	+1	1	Um , we want it to be original ,
+ES2004a.B.dialog-act.s9553330.25	124.73	126.99	PM	B	inf	-1	0	something that's uh {disfmarker} people haven't thought of ,
+ES2004a.B.dialog-act.s9553330.26	126.99	128.78	PM	B	inf	-1	0	that's not out in the shops ,
+ES2004a.B.dialog-act.s9553330.27	128.78	130.31	PM	B	inf	+1	1	um , trendy ,
+ES2004a.B.dialog-act.s9553330.28	130.31	132.01	PM	B	inf	+1	1	appealing to a wide market ,
+ES2004a.B.dialog-act.s9553330.29	132.01	135.52	PM	B	inf	-1	0	but you know , not a hunk of metal ,
+ES2004a.B.dialog-act.s9553330.30	135.52	137.06	PM	B	inf	+1	1	and user-friendly ,
+ES2004a.B.dialog-act.s9553330.31	137.06	142.83	PM	B	inf	+1	1	grannies to kids , maybe even pooches should be able to use it .
+ES2004a.B.dialog-act.s9553330.32	142.83	146.26	PM	B	inf	+1	2	Okay , um , first is the functional design ,
+ES2004a.B.dialog-act.s9553330.33	146.26	149.58	PM	B	inf	+1	2	um this is where we all go off and do our individual work ,
+ES2004a.B.dialog-act.s9553330.34	149.58	153.98	PM	B	inf	+1	2	um what needs need to be fulfilled by the product ,
+ES2004a.B.dialog-act.s9553330.35	153.98	156.63	PM	B	inf	+1	1	um what effects the product has to have
+ES2004a.B.dialog-act.s9553330.36	156.63	159.4	PM	B	inf	-1	0	and how it's actually going to do that .
+ES2004a.B.dialog-act.s9553330.37	159.4	160.95	PM	B	inf	+1	1	Um , conceptual design ,
+ES2004a.B.dialog-act.s9553330.38	162.31	163.11	PM	B	inf	-1	0	what we're thinking ,
+ES2004a.B.dialog-act.s9553330.39	163.11	164.33	PM	B	inf	-1	0	how it's gonna go
+ES2004a.B.dialog-act.s9553330.40	164.33	165.49	PM	B	inf	+1	1	and then the detailed design ,
+ES2004a.B.dialog-act.s9553330.41	165.49	167.8	PM	B	inf	+1	1	how we're actually gonna put it into practice and make it work .
+ES2004a.A.dialog-act.s9553330.7	168.79	168.88	UI	A	bck	-1	0	'Kay .
+ES2004a.B.dialog-act.s9553330.42	170.38	172.03	PM	B	stl	-1	0	Okay , right .
+ES2004a.B.dialog-act.s9553330.43	172.03	174.48	PM	B	inf	+1	1	We're gonna practice with the pens
+ES2004a.B.dialog-act.s9553330.44	174.48	178.32	PM	B	inf	+1	1	and draw our favourite animal on the white board ,
+ES2004a.B.dialog-act.s9553330.45	178.32	179.71	PM	B	off	-1	0	I'll go first ,
+ES2004a.B.dialog-act.s9553330.46	179.71	184.1	PM	B	inf	+1	1	and um sum up the characteristics of that animal .
+ES2004a.A.dialog-act.s9553330.8	180.246	181.722	UI	A	fra	-1	0	{vocalsound}
+ES2004a.D.dialog-act.s9553330.6	180.288	180.8	ME	D	fra	-1	0	{vocalsound}
+ES2004a.B.dialog-act.s9553330.47	184.1	186.128	PM	B	stl	-1	0	So {disfmarker}
+ES2004a.A.dialog-act.s9553330.9	188.28	188.43	UI	A	bck	-1	0	Oops .
+ES2004a.B.dialog-act.s9553330.48	188.83	192.976	PM	B	off	-1	0	Okay , I'll leave space for everyone else . Um {disfmarker}
+ES2004a.B.dialog-act.s9553330.49	211.46	211.97	PM	B	oth	-1	0	What's missing ?
+ES2004a.B.dialog-act.s9553330.51	243.22	244.33	PM	B	inf	-1	0	We're running out of blue .
+ES2004a.B.dialog-act.s9553330.52	246.93	247.89	PM	B	stl	-1	0	Okay .
+ES2004a.B.dialog-act.s9553330.53	247.89	248.92	PM	B	inf	-1	0	I'm not gonna ask you to guess ,
+ES2004a.B.dialog-act.s9553330.54	248.92	250.6	PM	B	inf	+1	1	I'm going to tell you that's supposed to be a tiger .
+ES2004a.A.dialog-act.s9553330.10	252.48	252.56	UI	A	bck	-1	0	Mm .
+ES2004a.B.dialog-act.s9553330.55	254.53	269.06	PM	B	inf	-1	0	And I see them as majestic , and independent , and proud .
+ES2004a.A.dialog-act.s9553330.11	255.91	256.25	UI	A	be.pos	-1	0	Oh sorry .
+ES2004a.A.dialog-act.s9553330.12	258.31	258.64	UI	A	bck	-1	0	Mm-hmm .
+ES2004a.B.dialog-act.s9553330.56	272.31	275.42	PM	B	el.sug	-1	0	Now , who would like to go next ?
+ES2004a.A.dialog-act.s9553330.13	275.09	275.45	UI	A	off	-1	0	Yeah , me .
+ES2004a.B.dialog-act.s9553330.57	275.42	275.8	PM	B	ass	-1	0	'Kay .
+ES2004a.D.dialog-act.s9553330.7	275.76	276.624	ME	D	fra	-1	0	{vocalsound}
+ES2004a.A.dialog-act.s9553330.14	277.312	279.75	UI	A	fra	-1	0	{gap} Cat .
+ES2004a.A.dialog-act.s9553330.15	285.15	286.61	UI	A	el.inf	-1	0	Where did this come from ?
+ES2004a.B.dialog-act.s9553330.58	287.57	289.66	PM	B	el.inf	-1	0	Is that your lapel then ?
+ES2004a.A.dialog-act.s9553330.16	289.09	290.68	UI	A	inf	-1	0	Uh , yep .
+ES2004a.B.dialog-act.s9553330.59	289.66	290.1	PM	B	be.pos	-1	0	There you go .
+ES2004a.A.dialog-act.s9553330.17	290.68	293.32	UI	A	be.pos	-1	0	Thank you .
+ES2004a.A.dialog-act.s9553330.18	293.32	296.02	UI	A	el.sug	+1	1	Uh , maybe you can guess what I'm trying to make ?
+ES2004a.D.dialog-act.s9553330.8	306.38	307.2	ME	D	sug	+1	1	A kind of dog ?
+ES2004a.B.dialog-act.s9553330.60	307.225	308.062	PM	B	fra	-1	0	{vocalsound}
+ES2004a.A.dialog-act.s9553330.19	309.22	310.08	UI	A	ass	-1	0	Yep .
+ES2004a.A.dialog-act.s9553330.20	313.47	316.97	UI	A	inf	-1	0	It's actually sitting , so {vocalsound}
+ES2004a.C.dialog-act.s9553330.1	315.696	317.4	ID	C	inf	-1	0	{vocalsound} It's sitting down .
+ES2004a.D.dialog-act.s9553330.9	315.85	316.3	ME	D	und	-1	0	Sorry ?
+ES2004a.A.dialog-act.s9553330.21	316.97	319.15	UI	A	inf	-1	0	it's sitting , it's not standing .
+ES2004a.D.dialog-act.s9553330.10	317.9	318.62	ME	D	bck	-1	0	Uh .
+ES2004a.A.dialog-act.s9553330.22	319.15	321.86	UI	A	inf	-1	0	Okay , I see it as one thing it's very supportive .
+ES2004a.A.dialog-act.s9553330.23	324.13	325.01	UI	A	inf	-1	0	It's your best friend
+ES2004a.A.dialog-act.s9553330.24	325.01	327.01	UI	A	inf	-1	0	and your {disfmarker} you can talk to a dog ,
+ES2004a.A.dialog-act.s9553330.25	327.01	327.73	UI	A	inf	-1	0	it can be your best friend ,
+ES2004a.A.dialog-act.s9553330.26	327.73	331.36	UI	A	inf	-1	0	it doesn't discriminate between you , based on what you are .
+ES2004a.A.dialog-act.s9553330.27	331.36	335.54	UI	A	inf	-1	0	Second it's loyal
+ES2004a.A.dialog-act.s9553330.28	335.54	340.96	UI	A	inf	-1	0	and third thing it's got intuition .
+ES2004a.A.dialog-act.s9553330.29	340.96	345.49	UI	A	inf	-1	0	{gap} dogs can som sometimes can make out between a thief and a person
+ES2004a.D.dialog-act.s9553330.11	344.91	345.36	ME	D	bck	-1	0	Mm-hmm .
+ES2004a.A.dialog-act.s9553330.30	345.49	351.06	UI	A	inf	-1	0	so basically these are the three unique features I think belong to a dog .
+ES2004a.B.dialog-act.s9553330.61	350.01	351.09	PM	B	be.pos	-1	0	Okay , thank you .
+ES2004a.A.dialog-act.s9553330.31	351.06	351.47	UI	A	be.pos	-1	0	Thank you .
+ES2004a.C.dialog-act.s9553330.2	353.48	355.55	ID	C	off	-1	0	Yeah I'll have a go .
+ES2004a.A.dialog-act.s9553330.32	354.11	354.82	UI	A	bck	-1	0	Okay .
+ES2004a.A.dialog-act.s9553330.33	356.33	356.9	UI	A	be.pos	-1	0	Sorry .
+ES2004a.C.dialog-act.s9553330.3	356.98	357.37	ID	C	be.pos	-1	0	Thanks .
+ES2004a.D.dialog-act.s9553330.12	356.51	358.3	ME	D	be.pos	-1	0	Please , please leave me a space at the bottom ,
+ES2004a.D.dialog-act.s9553330.13	358.3	359.11	ME	D	be.pos	-1	0	I'm little ,
+ES2004a.B.dialog-act.s9553330.62	358.816	360.912	PM	B	fra	-1	0	{vocalsound}
+ES2004a.C.dialog-act.s9553330.4	359.11	361.74	ID	C	ass	-1	0	Alright , okay .
+ES2004a.D.dialog-act.s9553330.14	359.11	362.14	ME	D	inf	-1	0	you can get to the top , with standing on a chair .
+ES2004a.C.dialog-act.s9553330.5	361.74	367.65	ID	C	inf	-1	0	Well since you guys have chosen the ones I wanted to do , I'll have to have to go for something a bit random .
+ES2004a.A.dialog-act.s9553330.34	364.336	367.84	UI	A	el.ass	-1	0	{vocalsound} Does it look like a dog actually ?
+ES2004a.B.dialog-act.s9553330.63	364.608	366.01	PM	B	ass	-1	0	{vocalsound} Okay .
+ES2004a.C.dialog-act.s9553330.6	371.43	375.29	ID	C	inf	-1	0	And also , my drawing skill isn't that great so , yeah .
+ES2004a.B.dialog-act.s9553330.64	373.84	376.864	PM	B	ass	-1	0	Well , as you can see , the quality of the work today is um {disfmarker}
+ES2004a.D.dialog-act.s9553330.15	373.52	374.626	ME	D	fra	-1	0	{vocalsound}
+ES2004a.A.dialog-act.s9553330.35	375.08	375.43	UI	A	bck	-1	0	Mm .
+ES2004a.D.dialog-act.s9553330.16	376.8	379.584	ME	D	ass	-1	0	I think it's outstandingly good . {vocalsound}
+ES2004a.B.dialog-act.s9553330.65	377.914	379.452	PM	B	fra	-1	0	{gap} {vocalsound}
+ES2004a.C.dialog-act.s9553330.8	379.6	382.51	ID	C	inf	+1	1	Okay , now I'm gonna have to change what is was originally gonna be
+ES2004a.B.dialog-act.s9553330.66	382.048	383.223	PM	B	fra	-1	0	{vocalsound}
+ES2004a.C.dialog-act.s9553330.9	382.51	384.48	ID	C	inf	-1	0	because that looks like a beak now , so .
+ES2004a.C.dialog-act.s9553330.10	390.412	397.95	ID	C	ass	+1	1	{vocalsound} Yeah , it can be a crocodile , it can be a crocodile .
+ES2004a.D.dialog-act.s9553330.19	391.13	391.74	ME	D	sug	-1	0	Crocodile ?
+ES2004a.B.dialog-act.s9553330.70	393.99	394.92	PM	B	sug	-1	0	Gonna be a bird .
+ES2004a.B.dialog-act.s9553330.71	396.31	398.76	PM	B	fra	-1	0	Is it gonna be {disfmarker}
+ES2004a.D.dialog-act.s9553330.17	397.008	398.565	ME	D	fra	-1	0	{vocalsound}
+ES2004a.A.dialog-act.s9553330.36	397.65	399.178	UI	A	fra	-1	0	{vocalsound}
+ES2004a.C.dialog-act.s9553330.11	397.95	399.76	ID	C	fra	-1	0	{vocalsound} Well it was it was an {disfmarker} at first {disfmarker}
+ES2004a.B.dialog-act.s9553330.72	398.76	399.8	PM	B	sug	-1	0	{vocalsound} it's gonna be a bird .
+ES2004a.C.dialog-act.s9553330.12	399.76	402.05	ID	C	inf	-1	0	firstly it was an attempt at a T_ Rex
+ES2004a.C.dialog-act.s9553330.13	402.05	404.53	ID	C	inf	-1	0	and then it sort of changed into a pelican
+ES2004a.D.dialog-act.s9553330.20	403.24	403.35	ME	D	fra	-1	0	O
+ES2004a.C.dialog-act.s9553330.14	404.53	406.27	ID	C	inf	-1	0	but it can be a crocodile now actually {vocalsound} .
+ES2004a.B.dialog-act.s9553330.67	405.306	407.104	PM	B	fra	-1	0	{vocalsound}
+ES2004a.D.dialog-act.s9553330.18	405.28	407.376	ME	D	fra	-1	0	{vocalsound}
+ES2004a.B.dialog-act.s9553330.68	416.688	417.376	PM	B	fra	-1	0	{vocalsound}
+ES2004a.B.dialog-act.s9553330.73	420.11	420.95	PM	B	ass	-1	0	That's lovely .
+ES2004a.C.dialog-act.s9553330.15	421.2	426.55	ID	C	inf	-1	0	Yeah and uh I'll have to think on the spot of uh things that it is . Um
+ES2004a.D.dialog-act.s9553330.21	421.44	422.34	ME	D	fra	-1	0	Beauti that's {disfmarker}
+ES2004a.C.dialog-act.s9553330.16	428.12	430.22	ID	C	inf	-1	0	uh scary ,
+ES2004a.C.dialog-act.s9553330.17	432.48	434.37	ID	C	inf	-1	0	uh strong ,
+ES2004a.C.dialog-act.s9553330.18	438.74	441.99	ID	C	inf	-1	0	yeah that's about it I think {vocalsound} .
+ES2004a.B.dialog-act.s9553330.74	439.85	441.77	PM	B	ass	-1	0	Okay {vocalsound} it's fine .
+ES2004a.D.dialog-act.s9553330.22	440.149	442.12	ME	D	bck	-1	0	{vocalsound} Okay .
+ES2004a.D.dialog-act.s9553330.23	443.16	445.32	ME	D	ass	-1	0	Um , I'm very impressed with your artistic skills ,
+ES2004a.C.dialog-act.s9553330.19	445.23	446.682	ID	C	bck	-1	0	Uh uh {disfmarker}
+ES2004a.D.dialog-act.s9553330.24	445.32	447.95	ME	D	inf	-1	0	mine's {disfmarker} are dreadful .
+ES2004a.D.dialog-act.s9553330.25	447.95	449.61	ME	D	inf	-1	0	Oops this is now coming apart ,
+ES2004a.D.dialog-act.s9553330.26	449.61	450.85	ME	D	off	-1	0	let me just put the top in .
+ES2004a.C.dialog-act.s9553330.20	450.45	451.744	ID	C	fra	-1	0	Wo {vocalsound}
+ES2004a.D.dialog-act.s9553330.27	454.0	455.25	ME	D	oth	-1	0	I hope that clicks in ,
+ES2004a.D.dialog-act.s9553330.28	455.25	456.94	ME	D	off	-1	0	I'll just {disfmarker} I'll hold it on , okay .
+ES2004a.B.dialog-act.s9553330.69	456.912	458.633	PM	B	fra	-1	0	{vocalsound}
+ES2004a.C.dialog-act.s9553330.7	456.505	456.992	ID	C	fra	-1	0	{vocalsound}
+ES2004a.D.dialog-act.s9553330.29	457.97	459.83	ME	D	oth	-1	0	Oops , oh dear ,
+ES2004a.D.dialog-act.s9553330.30	459.83	460.57	ME	D	el.inf	-1	0	what happened there ?
+ES2004a.B.dialog-act.s9553330.75	461.09	462.16	PM	B	oth	-1	0	Technical help .
+ES2004a.C.dialog-act.s9553330.21	465.48	465.99	ID	C	bck	-1	0	Hmm .
+ES2004a.D.dialog-act.s9553330.31	465.38	466.73	ME	D	ass	-1	0	Hopefully that'll stay on ,
+ES2004a.D.dialog-act.s9553330.32	466.73	468.51	ME	D	inf	-1	0	two-handed version .
+ES2004a.C.dialog-act.s9553330.22	467.94	468.7	ID	C	bck	-1	0	Okay .
+ES2004a.D.dialog-act.s9553330.33	468.51	470.88	ME	D	fra	-1	0	Okay , uh {disfmarker}
+ES2004a.D.dialog-act.s9553330.34	474.41	475.91	ME	D	inf	-1	0	Again this is off the top of my head ,
+ES2004a.D.dialog-act.s9553330.35	475.91	479.35	ME	D	inf	-1	0	I was gonna do a big cat too , um .
+ES2004a.C.dialog-act.s9553330.23	476.71	477.792	ID	C	bck	-1	0	Uh {disfmarker}
+ES2004a.B.dialog-act.s9553330.76	481.27	481.66	PM	B	bck	-1	0	Hmm .
+ES2004a.D.dialog-act.s9553330.36	481.26	481.55	ME	D	be.pos	-1	0	Oh dear ,
+ES2004a.D.dialog-act.s9553330.37	481.55	484.68	ME	D	ass	-1	0	it doesn't look what like what I want it to be {vocalsound} .
+ES2004a.C.dialog-act.s9553330.24	484.48	484.72	ID	C	fra	-1	0	S
+ES2004a.C.dialog-act.s9553330.25	487.43	487.92	ID	C	fra	-1	0	Uh {disfmarker}
+ES2004a.D.dialog-act.s9553330.38	487.1	487.71	ME	D	fra	-1	0	Uh .
+ES2004a.C.dialog-act.s9553330.26	488.812	491.385	ID	C	fra	-1	0	{gap}
+ES2004a.D.dialog-act.s9553330.39	488.77	491.41	ME	D	inf	-1	0	It's not a vampire bat honestly {vocalsound} .
+ES2004a.B.dialog-act.s9553330.77	489.66	491.34	PM	B	bck	-1	0	{vocalsound} Okay , yeah .
+ES2004a.D.dialog-act.s9553330.40	492.9	497.78	ME	D	inf	-1	0	Uh and somewhere there's a body behind .
+ES2004a.C.dialog-act.s9553330.27	497.4	499.98	ID	C	sug	-1	0	Okay , some sort of bird {vocalsound}
+ES2004a.D.dialog-act.s9553330.41	497.78	498.69	ME	D	fra	-1	0	That's my dreadful {disfmarker}
+ES2004a.D.dialog-act.s9553330.42	498.69	499.96	ME	D	ass	-1	0	that's the worst yet ,
+ES2004a.D.dialog-act.s9553330.43	499.96	500.47	ME	D	fra	-1	0	that's {disfmarker}
+ES2004a.D.dialog-act.s9553330.44	500.47	502.82	ME	D	inf	+1	1	it's meant to be an eagle {vocalsound}
+ES2004a.B.dialog-act.s9553330.78	501.19	501.85	PM	B	fra	-1	0	A seagu
+ES2004a.A.dialog-act.s9553330.37	501.78	502.67	UI	A	ass	-1	0	Eagle , okay .
+ES2004a.B.dialog-act.s9553330.79	501.85	502.71	PM	B	ass	-1	0	right ,
+ES2004a.C.dialog-act.s9553330.28	501.76	503.22	ID	C	ass	-1	0	Ah eagle , right okay .
+ES2004a.B.dialog-act.s9553330.80	502.71	504.66	PM	B	ass	-1	0	not a seagull {vocalsound} .
+ES2004a.D.dialog-act.s9553330.45	502.82	504.65	ME	D	inf	-1	0	you can tell it's a flying animal {vocalsound}
+ES2004a.D.dialog-act.s9553330.46	504.65	506.56	ME	D	ass	-1	0	could have been a seagull ,
+ES2004a.D.dialog-act.s9553330.47	506.56	508.09	ME	D	inf	-1	0	I never thought of a seagull .
+ES2004a.D.dialog-act.s9553330.48	508.09	511.49	ME	D	inf	-1	0	An eagle , um again I'm thinking on my feet goodness .
+ES2004a.D.dialog-act.s9553330.49	511.49	512.85	ME	D	inf	-1	0	I suppose they're all so independent ,
+ES2004a.D.dialog-act.s9553330.50	512.85	516.12	ME	D	off	-1	0	I'd put that one down again .
+ES2004a.D.dialog-act.s9553330.51	516.12	518.66	ME	D	oth	-1	0	{vocalsound} Da dum um .
+ES2004a.C.dialog-act.s9553330.29	519.87	520.95	ID	C	inf	-1	0	They're good at golf .
+ES2004a.D.dialog-act.s9553330.52	520.28	523.19	ME	D	oth	-1	0	Indepen independent , right ,
+ES2004a.D.dialog-act.s9553330.53	523.19	524.93	ME	D	el.inf	-1	0	did you say they're good at golf ?
+ES2004a.B.dialog-act.s9553330.81	524.131	525.96	PM	B	inf	-1	0	{vocalsound} Eagle .
+ES2004a.C.dialog-act.s9553330.30	524.31	525.16	ID	C	inf	-1	0	Yeah ,
+ES2004a.C.dialog-act.s9553330.31	525.16	526.26	ID	C	inf	-1	0	no yeah ,
+ES2004a.D.dialog-act.s9553330.54	524.93	526.24	ME	D	el.inf	-1	0	Are they ?
+ES2004a.C.dialog-act.s9553330.32	526.26	528.63	ID	C	inf	-1	0	an eagle .
+ES2004a.D.dialog-act.s9553330.55	526.24	527.94	ME	D	und	-1	0	Oh . Oh right , okay ,
+ES2004a.B.dialog-act.s9553330.82	527.237	529.002	PM	B	fra	-1	0	{vocalsound}
+ES2004a.D.dialog-act.s9553330.56	527.94	529.2	ME	D	inf	-1	0	I'm not good at golf .
+ES2004a.C.dialog-act.s9553330.33	528.63	529.024	ID	C	fra	-1	0	{gap} {vocalsound}
+ES2004a.D.dialog-act.s9553330.57	529.2	536.6	ME	D	inf	-1	0	I'd say they're quite free-spirited , flying around everywhere , doing their own thing .
+ES2004a.D.dialog-act.s9553330.58	541.43	544.95	ME	D	inf	-1	0	And uh , birds of prey aren't they ,
+ES2004a.B.dialog-act.s9553330.83	545.31	545.64	PM	B	bck	-1	0	Mm-hmm .
+ES2004a.D.dialog-act.s9553330.59	544.95	546.05	ME	D	oth	-1	0	oh dear ,
+ES2004a.D.dialog-act.s9553330.60	546.05	549.53	ME	D	inf	-1	0	intrepid . I'll put that , intrepid .
+ES2004a.B.dialog-act.s9553330.84	547.101	547.952	PM	B	fra	-1	0	{vocalsound}
+ES2004a.D.dialog-act.s9553330.61	553.66	554.68	ME	D	inf	-1	0	There we go ,
+ES2004a.B.dialog-act.s9553330.86	554.48	555.15	PM	B	ass	-1	0	That's lovely .
+ES2004a.D.dialog-act.s9553330.62	554.68	556.77	ME	D	ass	-1	0	hope that pen's gonna be okay .
+ES2004a.B.dialog-act.s9553330.85	558.112	559.777	PM	B	fra	-1	0	{vocalsound}
+ES2004a.D.dialog-act.s9553330.63	558.67	559.33	ME	D	oth	-1	0	Whoops .
+ES2004a.C.dialog-act.s9553330.34	559.504	559.872	ID	C	fra	-1	0	{vocalsound}
+ES2004a.B.dialog-act.s9553330.87	561.11	561.6	PM	B	stl	-1	0	Okay .
+ES2004a.B.dialog-act.s9553330.88	563.12	564.31	PM	B	ass	-1	0	That was fun ,
+ES2004a.B.dialog-act.s9553330.89	564.31	565.46	PM	B	stl	-1	0	right .
+ES2004a.B.dialog-act.s9553330.90	565.46	570.39	PM	B	inf	+1	1	Um finance-wise , we've got a selling price at twenty five Euros ,
+ES2004a.B.dialog-act.s9553330.91	570.39	574.64	PM	B	inf	+1	1	which I don't actually know what that is in Pounds , at all .
+ES2004a.B.dialog-act.s9553330.92	574.64	575.32	PM	B	el.inf	-1	0	Any ideas ?
+ES2004a.C.dialog-act.s9553330.35	575.11	576.63	ID	C	fra	-1	0	It's about {disfmarker}
+ES2004a.A.dialog-act.s9553330.38	576.76	578.71	UI	A	inf	-1	0	One point four or something like that .
+ES2004a.C.dialog-act.s9553330.36	576.63	577.66	ID	C	bck	-1	0	mm , mm yeah .
+ES2004a.D.dialog-act.s9553330.64	576.51	577.21	ME	D	inf	+1	1	Seventeen .
+ES2004a.A.dialog-act.s9553330.39	578.71	581.5	UI	A	inf	-1	0	One point four Euro would make a Pound or something like that .
+ES2004a.C.dialog-act.s9553330.37	580.85	582.43	ID	C	ass	-1	0	Yeah , yeah , something like that ,
+ES2004a.A.dialog-act.s9553330.40	582.6	582.92	UI	A	bck	-1	0	Yeah .
+ES2004a.C.dialog-act.s9553330.38	582.43	583.98	ID	C	fra	-1	0	so that {disfmarker}
+ES2004a.B.dialog-act.s9553330.93	583.85	585.12	PM	B	sug	-1	0	D fifteen ?
+ES2004a.C.dialog-act.s9553330.39	583.98	587.57	ID	C	inf	-1	0	yeah about seventeen , seventeen Pounds , something like that .
+ES2004a.B.dialog-act.s9553330.94	585.12	586.38	PM	B	inf	-1	0	Seventeen .
+ES2004a.D.dialog-act.s9553330.65	584.88	585.97	ME	D	inf	-1	0	Seventeen Pounds .
+ES2004a.B.dialog-act.s9553330.95	586.38	587.98	PM	B	ass	+1	1	Okay , that's expensive .
+ES2004a.D.dialog-act.s9553330.66	588.37	589.55	ME	D	el.inf	+1	0	Should we be making notes of this ?
+ES2004a.D.dialog-act.s9553330.67	589.55	591.74	ME	D	el.inf	-1	0	We can just refer to this later can't we ?
+ES2004a.B.dialog-act.s9553330.96	590.98	592.23	PM	B	inf	-1	0	I think so , I think so ,
+ES2004a.C.dialog-act.s9553330.40	590.86	591.37	ID	C	fra	-1	0	But {disfmarker}
+ES2004a.B.dialog-act.s9553330.97	592.23	593.78	PM	B	off	+1	0	I'll be able to um pull it up ,
+ES2004a.D.dialog-act.s9553330.68	591.74	592.28	ME	D	bck	-1	0	Yeah , okay .
+ES2004a.B.dialog-act.s9553330.98	593.78	595.93	PM	B	off	+1	0	or I could put it in the shared folder or something .
+ES2004a.C.dialog-act.s9553330.41	594.19	603.21	ID	C	inf	+1	1	Havi having said that though , if you wanna get one of those {disfmarker} the the ones on the market at the moment they're s they're about twenty pounds anyway .
+ES2004a.D.dialog-act.s9553330.69	593.81	594.27	ME	D	bck	-1	0	Okay .
+ES2004a.C.dialog-act.s9553330.42	603.21	604.55	ID	C	fra	-1	0	So , it'd still be {disfmarker}
+ES2004a.B.dialog-act.s9553330.99	603.88	604.22	PM	B	el.inf	-1	0	Really ?
+ES2004a.D.dialog-act.s9553330.70	603.51	604.22	ME	D	bck	-1	0	Right .
+ES2004a.C.dialog-act.s9553330.43	604.55	605.56	ID	C	inf	-1	0	yeah ,
+ES2004a.C.dialog-act.s9553330.44	605.56	608.09	ID	C	inf	-1	0	we had to buy one {vocalsound} .
+ES2004a.D.dialog-act.s9553330.71	605.84	606.02	ME	D	fra	-1	0	So
+ES2004a.B.dialog-act.s9553330.101	606.66	607.02	PM	B	fra	-1	0	Mm .
+ES2004a.B.dialog-act.s9553330.100	608.13	609.291	PM	B	fra	-1	0	I think {disfmarker}
+ES2004a.D.dialog-act.s9553330.72	608.09	610.65	ME	D	sug	-1	0	so I suppose later it depends if we want to undercut the price ,
+ES2004a.D.dialog-act.s9553330.73	610.65	611.15	ME	D	fra	-1	0	we d or
+ES2004a.D.dialog-act.s9553330.74	611.15	613.93	ME	D	sug	-1	0	or is it going to make our product look a cheapie-cheapie option ?
+ES2004a.B.dialog-act.s9553330.102	613.51	614.39	PM	B	ass	-1	0	Yeah ,
+ES2004a.B.dialog-act.s9553330.103	614.39	617.82	PM	B	inf	+1	1	um production cost's at twelve fifty , so
+ES2004a.C.dialog-act.s9553330.45	614.07	614.89	ID	C	bck	-1	0	Hmm .
+ES2004a.A.dialog-act.s9553330.41	617.54	618.36	UI	A	ass	-1	0	Okay ,
+ES2004a.A.dialog-act.s9553330.42	618.36	619.59	UI	A	ass	-1	0	pretty huge margin .
+ES2004a.B.dialog-act.s9553330.104	619.13	624.26	PM	B	inf	-1	0	half of the selling price is taken up by building it .
+ES2004a.C.dialog-act.s9553330.46	621.46	622.16	ID	C	bck	-1	0	Yeah .
+ES2004a.D.dialog-act.s9553330.75	622.02	622.23	ME	D	bck	-1	0	Mm .
+ES2004a.B.dialog-act.s9553330.105	624.26	628.76	PM	B	inf	+1	1	Um , and profit aim is fifty million Euros ,
+ES2004a.D.dialog-act.s9553330.76	623.85	624.23	ME	D	bck	-1	0	Mm-hmm .
+ES2004a.B.dialog-act.s9553330.106	628.76	629.44	PM	B	fra	-1	0	which is uh {disfmarker}
+ES2004a.D.dialog-act.s9553330.77	630.37	631.2	ME	D	el.inf	-1	0	In our first year ?
+ES2004a.B.dialog-act.s9553330.107	631.29	632.61	PM	B	inf	-1	0	Yi yes ,
+ES2004a.B.dialog-act.s9553330.108	632.61	637.195	PM	B	inf	-1	0	um yeah , I presume so . Um {disfmarker}
+ES2004a.D.dialog-act.s9553330.78	635.54	635.88	ME	D	bck	-1	0	Mm-hmm .
+ES2004a.A.dialog-act.s9553330.43	636.39	637.104	UI	A	fra	-1	0	So then {disfmarker}
+ES2004a.D.dialog-act.s9553330.79	638.1	639.7	ME	D	inf	+1	1	You've got market range international
+ES2004a.D.dialog-act.s9553330.80	639.7	645.22	ME	D	inf	+1	1	and you did say earlier it's got to be a {disfmarker} um accessible and usable by sort of all age groups
+ES2004a.B.dialog-act.s9553330.111	645.18	645.59	PM	B	bck	-1	0	Mm-hmm .
+ES2004a.D.dialog-act.s9553330.81	645.22	649.69	ME	D	inf	-1	0	just t we're not focusing on business market , any particular thing , it's everyone
+ES2004a.B.dialog-act.s9553330.109	649.13	649.87	PM	B	ass	-1	0	No ,
+ES2004a.B.dialog-act.s9553330.110	649.87	650.29	PM	B	ass	-1	0	yeah .
+ES2004a.D.dialog-act.s9553330.82	649.69	651.11	ME	D	inf	-1	0	{disfmarker} user-friendly to everyone .
+ES2004a.D.dialog-act.s9553330.83	651.11	651.49	ME	D	und	-1	0	Okay .
+ES2004a.B.dialog-act.s9553330.112	653.57	654.39	PM	B	fra	-1	0	So {disfmarker}
+ES2004a.D.dialog-act.s9553330.84	653.41	655.4	ME	D	inf	-1	0	Big target group {vocalsound} .
+ES2004a.B.dialog-act.s9553330.113	654.39	655.64	PM	B	ass	-1	0	yes , yes ,
+ES2004a.B.dialog-act.s9553330.114	655.64	656.8	PM	B	fra	-1	0	I don't think we have to {disfmarker}
+ES2004a.B.dialog-act.s9553330.115	656.8	662.22	PM	B	inf	-1	0	I don't think it's a case of worrying about different languages and things like that ,
+ES2004a.B.dialog-act.s9553330.116	662.22	664.37	PM	B	inf	-1	0	um making that a key point ,
+ES2004a.D.dialog-act.s9553330.85	661.85	662.2	ME	D	bck	-1	0	No .
+ES2004a.B.dialog-act.s9553330.117	664.37	669.7	PM	B	inf	-1	0	just that it's going to be in the international market like Australia , America , things like that .
+ES2004a.D.dialog-act.s9553330.86	666.69	666.94	ME	D	bck	-1	0	Mm .
+ES2004a.B.dialog-act.s9553330.118	669.7	670.24	PM	B	stl	-1	0	Okay .
+ES2004a.B.dialog-act.s9553330.119	675.2	678.29	PM	B	el.inf	+1	1	What are your experiences with remote controls ?
+ES2004a.B.dialog-act.s9553330.120	678.29	688.38	PM	B	inf	+1	1	I mean I've got {disfmarker} we got um {disfmarker} we had three videos , a T_V_ and a sort of amp thing all set up
+ES2004a.A.dialog-act.s9553330.44	687.25	687.56	UI	A	bck	-1	0	Mm-hmm .
+ES2004a.B.dialog-act.s9553330.121	688.38	694.75	PM	B	inf	+1	1	so we got one of the universal remote controls , um that you programme each of your things into ,
+ES2004a.C.dialog-act.s9553330.47	688.13	688.44	ID	C	bck	-1	0	Yeah .
+ES2004a.A.dialog-act.s9553330.45	691.49	691.81	UI	A	bck	-1	0	Yeah ,
+ES2004a.C.dialog-act.s9553330.48	691.23	692.13	ID	C	bck	-1	0	Yeah .
+ES2004a.D.dialog-act.s9553330.87	691.12	691.89	ME	D	bck	-1	0	Alright .
+ES2004a.A.dialog-act.s9553330.46	691.81	692.22	UI	A	fra	-1	0	that c
+ES2004a.B.dialog-act.s9553330.122	694.75	697.34	PM	B	inf	+1	1	but that kept losing the signals
+ES2004a.B.dialog-act.s9553330.123	697.34	699.39	PM	B	inf	-1	0	so we'd have to re-programme it every now and again .
+ES2004a.B.dialog-act.s9553330.124	699.39	701.35	PM	B	inf	-1	0	I think it was quite a cheapie as well ,
+ES2004a.B.dialog-act.s9553330.125	701.35	702.7	PM	B	inf	-1	0	so that might have had something to do with it ,
+ES2004a.C.dialog-act.s9553330.49	701.1	701.42	ID	C	bck	-1	0	Yeah
+ES2004a.C.dialog-act.s9553330.50	701.42	701.88	ID	C	fra	-1	0	uh .
+ES2004a.D.dialog-act.s9553330.88	701.09	701.69	ME	D	bck	-1	0	Mm-hmm .
+ES2004a.B.dialog-act.s9553330.126	702.7	708.91	PM	B	ass	+1	1	but that was quite good , the fact that you could {disfmarker} You didn't have six remote controls sitting in front of you .
+ES2004a.C.dialog-act.s9553330.51	705.18	706.72	ID	C	inf	-1	0	Use all the ones at the same time .
+ES2004a.D.dialog-act.s9553330.89	708.07	708.55	ME	D	bck	-1	0	Right .
+ES2004a.A.dialog-act.s9553330.47	708.61	709.16	UI	A	bck	-1	0	Okay ,
+ES2004a.A.dialog-act.s9553330.48	709.16	711.04	UI	A	sug	-1	0	you wanna integrate everything into one like {disfmarker}
+ES2004a.C.dialog-act.s9553330.52	711.24	712.85	ID	C	ass	-1	0	Yeah ,
+ES2004a.A.dialog-act.s9553330.49	712.33	712.72	UI	A	bck	-1	0	Okay .
+ES2004a.D.dialog-act.s9553330.90	711.88	712.92	ME	D	bck	-1	0	Mm-hmm .
+ES2004a.C.dialog-act.s9553330.53	712.85	713.328	ID	C	fra	-1	0	'cause you {disfmarker}
+ES2004a.D.dialog-act.s9553330.91	712.92	717.17	ME	D	inf	+1	1	My experience has only been being given the remote control with the object I buy ,
+ES2004a.D.dialog-act.s9553330.92	717.17	719.26	ME	D	inf	+1	1	not doing any tampering with it and programming ,
+ES2004a.D.dialog-act.s9553330.93	719.26	722.44	ME	D	inf	-1	0	using it to programme T_V_ and uh uh videos and things .
+ES2004a.D.dialog-act.s9553330.94	722.44	727.68	ME	D	inf	-1	0	But basically on , off , volume up and down , channel one , two , th that basic functions ,
+ES2004a.B.dialog-act.s9553330.127	727.67	728.16	PM	B	bck	-1	0	Mm .
+ES2004a.D.dialog-act.s9553330.95	727.68	731.34	ME	D	ass	-1	0	I don't think I could go any further with it than that ,
+ES2004a.D.dialog-act.s9553330.96	731.34	736.05	ME	D	sug	-1	0	so , I suppose it's got to be something usable by someone like me as well .
+ES2004a.B.dialog-act.s9553330.128	734.98	735.33	PM	B	ass	-1	0	Yeah ,
+ES2004a.B.dialog-act.s9553330.129	735.33	738.69	PM	B	inf	-1	0	the main {disfmarker} that's the main stuff anyway , I mean
+ES2004a.D.dialog-act.s9553330.97	737.29	737.67	ME	D	bck	-1	0	Mm-hmm .
+ES2004a.B.dialog-act.s9553330.130	738.69	739.62	PM	B	fra	-1	0	{disfmarker} and you don't want to {disfmarker}
+ES2004a.B.dialog-act.s9553330.131	739.62	747.37	PM	B	inf	+1	1	I hate I hate looking at a control and seeing a million tiny little buttons with tiny little words saying what they all do
+ES2004a.D.dialog-act.s9553330.98	746.42	746.84	ME	D	bck	-1	0	Mm .
+ES2004a.B.dialog-act.s9553330.132	747.37	751.76	PM	B	inf	-1	0	and just sitting there searching for the teletext button or something like that .
+ES2004a.C.dialog-act.s9553330.54	747.66	747.95	ID	C	bck	-1	0	Yeah .
+ES2004a.D.dialog-act.s9553330.99	749.82	750.81	ME	D	bck	-1	0	Mm .
+ES2004a.D.dialog-act.s9553330.100	750.81	753.44	ME	D	inf	+1	1	And symbols that you don't necessarily understand ,
+ES2004a.B.dialog-act.s9553330.133	752.59	752.95	PM	B	ass	-1	0	Yeah .
+ES2004a.D.dialog-act.s9553330.101	753.44	755.29	ME	D	inf	-1	0	symbols you're meant to understand that you don't .
+ES2004a.A.dialog-act.s9553330.50	755.18	758.06	UI	A	sug	+1	1	So simplification of symbols you could think of .
+ES2004a.B.dialog-act.s9553330.134	754.864	755.92	PM	B	bck	-1	0	{vocalsound} Um .
+ES2004a.B.dialog-act.s9553330.135	757.43	759.07	PM	B	fra	-1	0	When they're {disfmarker}
+ES2004a.B.dialog-act.s9553330.136	759.07	761.83	PM	B	inf	-1	0	when you've got the main things on the front of it
+ES2004a.B.dialog-act.s9553330.137	761.83	772.83	PM	B	inf	+1	1	and a section opens up or something to the other functions where you can do sound or options kind of recording , things like that inside it .
+ES2004a.D.dialog-act.s9553330.102	768.52	768.98	ME	D	bck	-1	0	Oh yeah .
+ES2004a.D.dialog-act.s9553330.103	772.32	772.69	ME	D	bck	-1	0	Mm-hmm .
+ES2004a.B.dialog-act.s9553330.138	772.83	776.45	PM	B	inf	-1	0	'Cause it doesn't make {disfmarker} when you pick it up it doesn't make it really complicated to look at ,
+ES2004a.D.dialog-act.s9553330.104	775.6	775.84	ME	D	bck	-1	0	Mm .
+ES2004a.B.dialog-act.s9553330.139	776.45	779.79	PM	B	inf	-1	0	it's obvious what you're doing , um .
+ES2004a.D.dialog-act.s9553330.105	777.34	777.65	ME	D	fra	-1	0	Mm-hmm .
+ES2004a.C.dialog-act.s9553330.55	777.92	778.66	ID	C	fra	-1	0	Mm .
+ES2004a.D.dialog-act.s9553330.107	779.78	781.1	ME	D	off	-1	0	Actually that just raises a point ,
+ES2004a.D.dialog-act.s9553330.108	781.1	783.26	ME	D	el.ass	-1	0	I wonder what our design people think ,
+ES2004a.D.dialog-act.s9553330.109	783.26	788.22	ME	D	inf	+1	1	but you know on a mobile phone , you can press a key and it gives you a menu , it's got a menu display ,
+ES2004a.A.dialog-act.s9553330.52	784.99	785.28	UI	A	bck	-1	0	Mm-hmm .
+ES2004a.A.dialog-act.s9553330.51	787.08	787.74	UI	A	ass	-1	0	Menu , alright .
+ES2004a.D.dialog-act.s9553330.110	788.22	792.52	ME	D	sug	+1	1	I wonder if incorporating that into the design of a remote control might be useful ,
+ES2004a.C.dialog-act.s9553330.56	792.17	792.62	ID	C	bck	-1	0	Yeah .
+ES2004a.A.dialog-act.s9553330.53	792.89	793.601	UI	A	bck	-1	0	Uh uh {disfmarker}
+ES2004a.D.dialog-act.s9553330.111	792.52	794.48	ME	D	sug	+1	1	so you've got a little L_C_D_ display .
+ES2004a.A.dialog-act.s9553330.54	794.46	794.85	UI	A	ass	-1	0	Right ,
+ES2004a.A.dialog-act.s9553330.55	794.85	796.74	UI	A	inf	-1	0	I was thinking on the same lines you ,
+ES2004a.A.dialog-act.s9553330.56	796.74	802.9	UI	A	sug	+1	1	instead of having too many b buttons and make it complicated for the user , may h maybe have an L_C_D_ di display or something like that ,
+ES2004a.A.dialog-act.s9553330.57	802.9	806.03	UI	A	inf	-1	0	like a mobile , yeah and with menus .
+ES2004a.D.dialog-act.s9553330.112	803.8	805.92	ME	D	ass	-1	0	With menus , yeah , yeah .
+ES2004a.A.dialog-act.s9553330.58	806.03	812.03	UI	A	sug	-1	0	And if it's s somewhat similar to what you have on mobile phone , people might find it easier to browse and navigate also maybe .
+ES2004a.D.dialog-act.s9553330.113	811.15	811.49	ME	D	bck	-1	0	Yeah .
+ES2004a.B.dialog-act.s9553330.140	812.35	813.65	PM	B	el.sug	+1	1	What about the older generation ?
+ES2004a.B.dialog-act.s9553330.141	813.65	815.09	PM	B	el.sug	-1	0	What about granny and grandads ?
+ES2004a.A.dialog-act.s9553330.59	815.216	818.96	UI	A	oth	-1	0	{vocalsound} You mean to save it lesser number .
+ES2004a.B.dialog-act.s9553330.142	816.15	819.84	PM	B	inf	-1	0	Um , my grandad can answer his mobile phone ,
+ES2004a.B.dialog-act.s9553330.143	819.84	823.63	PM	B	inf	-1	0	but he couldn't even dream of texting or something like that .
+ES2004a.C.dialog-act.s9553330.57	819.96	820.26	ID	C	bck	-1	0	Yeah .
+ES2004a.D.dialog-act.s9553330.115	821.35	823.79	ME	D	bck	-1	0	Mm-hmm . Mm-hmm .
+ES2004a.D.dialog-act.s9553330.116	823.79	827.97	ME	D	el.inf	-1	0	Can he programme his remote control or is it basic with that too ?
+ES2004a.A.dialog-act.s9553330.60	826.06	826.35	UI	A	bck	-1	0	Right .
+ES2004a.B.dialog-act.s9553330.144	828.12	830.04	PM	B	inf	-1	0	I don't think they tape things ,
+ES2004a.C.dialog-act.s9553330.58	829.37	834.05	ID	C	inf	-1	0	Yeah , my grandad's actually better than me at using teletext , so {vocalsound}
+ES2004a.B.dialog-act.s9553330.145	830.04	831.516	PM	B	fra	-1	0	I don't think they use {disfmarker}
+ES2004a.D.dialog-act.s9553330.117	830.05	830.6	ME	D	bck	-1	0	Right .
+ES2004a.D.dialog-act.s9553330.118	833.26	833.8	ME	D	bck	-1	0	Right .
+ES2004a.D.dialog-act.s9553330.119	834.64	839.27	ME	D	inf	-1	0	So that's a problem regardless of of any design modifications you you come up with ,
+ES2004a.C.dialog-act.s9553330.59	838.64	839.0	ID	C	ass	-1	0	Yeah .
+ES2004a.D.dialog-act.s9553330.120	839.27	842.48	ME	D	inf	+1	1	that's gonna be a problem anyway with the older generation perhaps ,
+ES2004a.B.dialog-act.s9553330.146	841.2	843.24	PM	B	ass	-1	0	Mm , yeah , the age gap .
+ES2004a.C.dialog-act.s9553330.60	843.73	852.17	ID	C	inf	-1	0	Yeah , what it just needs to be {disfmarker} as long as it's sort of self-intuitive and you can can work out what everything's doing ,
+ES2004a.C.dialog-act.s9553330.61	852.17	861.94	ID	C	inf	-1	0	'cause I mean , menus on sort of new phones now they've sort of got all these pictures and stuff which makes it fairly obvious what you're trying to do .
+ES2004a.B.dialog-act.s9553330.147	862.33	862.76	PM	B	bck	-1	0	Mm .
+ES2004a.A.dialog-act.s9553330.61	863.21	863.53	UI	A	bck	-1	0	Mm-hmm .
+ES2004a.B.dialog-act.s9553330.148	864.3	864.64	PM	B	ass	-1	0	I don't know ,
+ES2004a.B.dialog-act.s9553330.149	864.64	866.26	PM	B	fra	-1	0	I d
+ES2004a.C.dialog-act.s9553330.62	864.43	865.885	ID	C	fra	-1	0	But I don't know how {disfmarker}
+ES2004a.B.dialog-act.s9553330.150	866.26	871.74	PM	B	inf	+1	1	I don't like the , you know the new phones that have kind of got a Windows-based running system .
+ES2004a.C.dialog-act.s9553330.63	870.18	870.69	ID	C	bck	-1	0	Oh yeah .
+ES2004a.D.dialog-act.s9553330.121	872.2	872.59	ME	D	bck	-1	0	Mm-hmm .
+ES2004a.B.dialog-act.s9553330.151	872.95	874.73	PM	B	ass	+1	1	I find it really confusing ,
+ES2004a.B.dialog-act.s9553330.152	874.73	876.83	PM	B	inf	-1	0	I kept getting lost {vocalsound} in the phone ,
+ES2004a.B.dialog-act.s9553330.153	876.83	878.06	PM	B	inf	-1	0	I di I've not got a new one
+ES2004a.B.dialog-act.s9553330.154	878.06	879.34	PM	B	inf	-1	0	but uh my friend got a new one
+ES2004a.D.dialog-act.s9553330.122	878.36	878.8	ME	D	bck	-1	0	Right .
+ES2004a.B.dialog-act.s9553330.155	879.34	882.87	PM	B	inf	-1	0	and I was trying to do things with it and I just kept getting lost ,
+ES2004a.B.dialog-act.s9553330.156	882.87	885.17	PM	B	ass	-1	0	but that's just me .
+ES2004a.C.dialog-act.s9553330.64	885.18	893.7	ID	C	inf	+1	2	Yeah , I don't I don't know how for twenty fi , or twelve Euros fifty how much of a excellent screen you could get ,
+ES2004a.D.dialog-act.s9553330.123	885.286	885.89	ME	D	fra	-1	0	{vocalsound}
+ES2004a.B.dialog-act.s9553330.157	893.63	894.31	PM	B	ass	-1	0	Yeah .
+ES2004a.C.dialog-act.s9553330.65	893.7	899.31	ID	C	inf	+1	2	you'd you'd have to sort of keep it down to a black and white L_C_D_ thing anyway , I'd assume .
+ES2004a.D.dialog-act.s9553330.124	895.43	895.75	ME	D	bck	-1	0	Mm-hmm .
+ES2004a.D.dialog-act.s9553330.125	898.71	905.64	ME	D	sug	-1	0	Is it possible that that for the older generation you could have like an extra button that you press for large print like you do in large print books ?
+ES2004a.A.dialog-act.s9553330.62	905.32	905.7	UI	A	bck	-1	0	Okay .
+ES2004a.B.dialog-act.s9553330.158	905.77	907.5	PM	B	inf	-1	0	Teletext has got that option as well .
+ES2004a.D.dialog-act.s9553330.126	905.64	908.27	ME	D	inf	-1	0	Obviously it displays less on the screen ,
+ES2004a.D.dialog-act.s9553330.127	908.27	909.49	ME	D	inf	-1	0	it displays less on the screen
+ES2004a.D.dialog-act.s9553330.128	909.49	911.78	ME	D	inf	-1	0	but as long as they can read it that's the main thing .
+ES2004a.B.dialog-act.s9553330.159	911.86	912.35	PM	B	bck	-1	0	Yeah .
+ES2004a.B.dialog-act.s9553330.160	913.69	917.37	PM	B	sug	-1	0	Or what about kind of a dual function ?
+ES2004a.B.dialog-act.s9553330.161	917.37	924.28	PM	B	sug	-1	0	In that you've got the basic buttons just for your play , volume , programme things
+ES2004a.D.dialog-act.s9553330.129	923.65	924.04	ME	D	bck	-1	0	Mm-hmm .
+ES2004a.B.dialog-act.s9553330.162	924.28	934.88	PM	B	sug	-1	0	and also {disfmarker} and then a menu to go into with obvious pictures , obvious symbols and that's where you control recording and things like that .
+ES2004a.D.dialog-act.s9553330.130	930.704	931.44	ME	D	bck	-1	0	{vocalsound} Yeah .
+ES2004a.D.dialog-act.s9553330.131	932.99	933.37	ME	D	bck	-1	0	Mm-hmm .
+ES2004a.D.dialog-act.s9553330.132	934.74	935.18	ME	D	bck	-1	0	Mm .
+ES2004a.D.dialog-act.s9553330.133	935.18	941.85	ME	D	sug	+1	2	The other thing is , just ch chucking into mobile phone f design features again , it could have a flip top remote control
+ES2004a.D.dialog-act.s9553330.134	941.85	947.56	ME	D	sug	-1	0	so that when you flip over the top , your screen is {disfmarker} you can have a bigger screen in the the flip over .
+ES2004a.B.dialog-act.s9553330.163	945.43	945.84	PM	B	bck	-1	0	Mm-hmm .
+ES2004a.A.dialog-act.s9553330.65	946.04	946.66	UI	A	bck	-1	0	Mm , okay .
+ES2004a.A.dialog-act.s9553330.64	948.6	949.09	UI	A	fra	-1	0	S
+ES2004a.B.dialog-act.s9553330.164	948.48	949.91	PM	B	inf	+1	1	I think that's a cost thing ,
+ES2004a.B.dialog-act.s9553330.165	949.91	953.165	PM	B	inf	-1	0	I don't I don't know how much we're gonna know about {disfmarker}
+ES2004a.C.dialog-act.s9553330.66	949.9	950.21	ID	C	fra	-1	0	Y
+ES2004a.A.dialog-act.s9553330.63	950.91	952.68	UI	A	fra	-1	0	It might
+ES2004a.D.dialog-act.s9553330.135	951.06	951.41	ME	D	ass	-1	0	Yeah ?
+ES2004a.A.dialog-act.s9553330.66	952.68	954.37	UI	A	inf	-1	0	it might save a b bit of space ,
+ES2004a.A.dialog-act.s9553330.67	954.37	957.38	UI	A	inf	-1	0	it's i instead of looking bulky , it might look small .
+ES2004a.D.dialog-act.s9553330.136	954.93	955.27	ME	D	bck	-1	0	Mm-hmm .
+ES2004a.B.dialog-act.s9553330.166	956.02	958.07	PM	B	ass	-1	0	Yes , no that's important .
+ES2004a.A.dialog-act.s9553330.68	957.38	959.24	UI	A	inf	-1	0	But it might have its cost implications .
+ES2004a.C.dialog-act.s9553330.67	957.25	957.6	ID	C	bck	-1	0	Yeah .
+ES2004a.D.dialog-act.s9553330.137	956.78	958.6	ME	D	ass	-1	0	Yeah , like smaller .
+ES2004a.B.dialog-act.s9553330.167	959.48	960.29	PM	B	bck	-1	0	Okay .
+ES2004a.D.dialog-act.s9553330.138	959.69	963.7	ME	D	inf	+1	1	And there's no reason we need to make it look as fashionable and stylish as a mobile phone ,
+ES2004a.D.dialog-act.s9553330.139	963.7	966.35	ME	D	inf	+1	1	it can still be lightweight plastic , you know ?
+ES2004a.B.dialog-act.s9553330.168	965.1	965.57	PM	B	bck	-1	0	Mm .
+ES2004a.A.dialog-act.s9553330.69	966.22	966.48	UI	A	bck	-1	0	Right .
+ES2004a.D.dialog-act.s9553330.140	966.35	969.16	ME	D	inf	+1	1	Something that's easily moulded and produced .
+ES2004a.B.dialog-act.s9553330.169	968.84	969.23	PM	B	bck	-1	0	Yeah .
+ES2004a.D.dialog-act.s9553330.141	969.16	972.975	ME	D	be.pos	-1	0	Sorry I'm treading on your territory guys . {vocalsound}
+ES2004a.B.dialog-act.s9553330.170	970.976	974.29	PM	B	stl	-1	0	{vocalsound} Um , right , okay
+ES2004a.C.dialog-act.s9553330.68	970.68	971.79	ID	C	ass	-1	0	No uh uh {disfmarker}
+ES2004a.B.dialog-act.s9553330.171	974.29	976.43	PM	B	inf	+1	0	we've got half an hour before the next meeting ,
+ES2004a.B.dialog-act.s9553330.172	976.43	979.94	PM	B	inf	+1	1	so we're all gonna go off and do our individual things . Um
+ES2004a.B.dialog-act.s9553330.173	981.2	983.44	PM	B	inf	-1	0	I think that's probably about it
+ES2004a.B.dialog-act.s9553330.174	983.44	985.94	PM	B	inf	+1	1	and then we'll come back and liaise again
+ES2004a.B.dialog-act.s9553330.175	985.94	989.51	PM	B	inf	+1	0	and I get to do another fantastic PowerPoint presentation .
+ES2004a.C.dialog-act.s9553330.69	985.49	988.8	ID	C	bck	-1	0	Yeah .
+ES2004a.C.dialog-act.s9553330.70	988.8	992.96	ID	C	off	-1	0	Just just a quick thing about the um {vocalsound}
+ES2004a.B.dialog-act.s9553330.176	991.07	991.47	PM	B	ass	-1	0	Sure .
+ES2004a.C.dialog-act.s9553330.71	992.96	996.66	ID	C	off	+1	1	about what you're saying about the uh {disfmarker} does does it need to be fashionable ?
+ES2004a.C.dialog-act.s9553330.72	996.66	997.63	ID	C	fra	-1	0	The sort of {disfmarker}
+ES2004a.C.dialog-act.s9553330.73	997.63	1000.17	ID	C	inf	+1	1	I I had a quick look at the company website
+ES2004a.C.dialog-act.s9553330.74	1000.17	1005.24	ID	C	inf	+1	1	and it's like the the uh {disfmarker} we put the fashion into electronics ,
+ES2004a.C.dialog-act.s9553330.75	1005.24	1009.49	ID	C	ass	-1	0	so I think think the whole design thing might be qui
+ES2004a.D.dialog-act.s9553330.142	1005.06	1005.74	ME	D	und	-1	0	Ah right .
+ES2004a.A.dialog-act.s9553330.70	1005.79	1006.25	UI	A	und	-1	0	Okay .
+ES2004a.B.dialog-act.s9553330.177	1005.86	1006.44	PM	B	und	-1	0	Okay .
+ES2004a.D.dialog-act.s9553330.145	1006.9	1007.5	ME	D	bck	-1	0	Okay .
+ES2004a.C.dialog-act.s9553330.76	1009.49	1012.35	ID	C	inf	+1	1	I mean you don't {disfmarker} you you can still have plastic
+ES2004a.D.dialog-act.s9553330.146	1009.16	1010.6	ME	D	fra	-1	0	Sure b
+ES2004a.D.dialog-act.s9553330.147	1010.6	1011.3	ME	D	bck	-1	0	y yeah .
+ES2004a.C.dialog-act.s9553330.77	1012.35	1014.848	ID	C	ass	-1	0	and it'd look quite good but {disfmarker}
+ES2004a.D.dialog-act.s9553330.148	1013.7	1017.7	ME	D	inf	-1	0	But {disfmarker} yeah , I mean it doesn't have to be that , you know {vocalsound}
+ES2004a.D.dialog-act.s9553330.149	1017.7	1018.62	ME	D	inf	-1	0	th that was my main point ,
+ES2004a.C.dialog-act.s9553330.78	1018.54	1018.91	ID	C	bck	-1	0	Yeah .
+ES2004a.D.dialog-act.s9553330.150	1018.62	1019.45	ME	D	inf	+1	1	we don't have to use metal ,
+ES2004a.D.dialog-act.s9553330.151	1019.45	1021.36	ME	D	inf	-1	0	I don't know if using plastic does make it cheaper ,
+ES2004a.B.dialog-act.s9553330.178	1019.99	1020.49	PM	B	bck	-1	0	Mm .
+ES2004a.D.dialog-act.s9553330.152	1021.36	1022.1	ME	D	inf	-1	0	I presume it would .
+ES2004a.B.dialog-act.s9553330.179	1022.32	1022.84	PM	B	ass	-1	0	I would {disfmarker}
+ES2004a.C.dialog-act.s9553330.79	1022.0	1022.96	ID	C	bck	-1	0	Yeah . Yeah .
+ES2004a.D.dialog-act.s9553330.153	1022.1	1024.41	ME	D	bck	-1	0	Yeah , yeah , yeah .
+ES2004a.B.dialog-act.s9553330.180	1022.84	1023.99	PM	B	ass	-1	0	it would probably .
+ES2004a.B.dialog-act.s9553330.181	1025.04	1026.89	PM	B	inf	+1	1	I mean there's Sky remote controls and everything .
+ES2004a.B.dialog-act.s9553330.182	1026.89	1027.86	PM	B	inf	+1	1	They're kind of moulded
+ES2004a.B.dialog-act.s9553330.183	1027.86	1029.37	PM	B	inf	-1	0	and look a bit different ,
+ES2004a.B.dialog-act.s9553330.184	1029.37	1032.59	PM	B	inf	+1	1	and the Telewest remote controls are silver plastic ,
+ES2004a.B.dialog-act.s9553330.185	1032.59	1035.08	PM	B	ass	-1	0	which looks a bit smarter ,
+ES2004a.D.dialog-act.s9553330.154	1032.93	1033.35	ME	D	bck	-1	0	Right .
+ES2004a.B.dialog-act.s9553330.186	1035.08	1038.65	PM	B	ass	+1	1	so yeah I guess that's stuff we can think about .
+ES2004a.D.dialog-act.s9553330.155	1037.32	1037.95	ME	D	bck	-1	0	Okay .
+ES2004a.B.dialog-act.s9553330.187	1038.65	1041.56	PM	B	sug	+1	0	Okay , so let's break it up there .
+ES2004a.B.dialog-act.s9553330.188	1042.4	1043.13	PM	B	el.und	-1	0	Okay ?
+ES2004a.C.dialog-act.s9553330.80	1042.58	1043.43	ID	C	ass	-1	0	Okay .
+ES2004a.D.dialog-act.s9553330.156	1042.19	1042.3	ME	D	bck	-1	0	'Kay .
+ES2004a.B.dialog-act.s9553330.189	1043.13	1044.16	PM	B	be.pos	+1	0	So , see you in half an hour .
+ES2004a.D.dialog-act.s9553330.157	1046.42	1048.48	ME	D	el.inf	-1	0	Do we go back to our room ? Yep ?
+ES2004a.A.dialog-act.s9553330.71	1048.05	1048.38	UI	A	inf	-1	0	Mm , yeah .
+ES2004a.B.dialog-act.s9553330.190	1047.76	1049.04	PM	B	inf	-1	0	I think so , yeah .

@@ -1,0 +1,91 @@
+3	Bro003.s.19	Speaker mn007 has been preparing the French digit database.
+Bro003.F.dialogueact158	652.941	655.75	F	Professor	fh|qw	+1	1	So , uh , what 's been going on ?
+Bro003.G.dialogueact160	658.586	663.541	G	PhD	h|s^rt	+1	1	Um . {vocalsound} Well , preparation of the French test data actually .
+Bro003.G.dialogueact163	670.33	673.86	G	PhD	s	+1	1	well , it is , uh , a digit French database of microphone speech ,
+1	Bro003.s.20	Training
+and testing with varying noise.
+Bro003.G.dialogueact165	677.32	683.226	G	PhD	s^rt	+1	1	and I 've added noise to one part , with the {disfmarker} actually the Aurora - two noises .
+4	Bro003.s.21	speaker me006 has installed updated software for everyone.
+Bro003.F.dialogueact420	1408.67	1408.94	F	Professor	fh	+1	1	OK .
+Bro003.F.dialogueact423	1413.99	1414.32	F	Professor	s^co^t^tc	+1	1	Your turn .
+Bro003.C.dialogueact427	1426.14	1430.33	C	Grad	s	+1	1	I re - installed , um , um , HTK , the free version ,
+Bro003.C.dialogueact429	1434.68	1437.37	C	Grad	s^e	+1	1	which is the same version that , uh , OGI is using .
+3	Bro003.s.22	Working on
+label files from TIMIT for training neural nets.
+Bro003.C.dialogueact426	1416.17	1425.89	C	Grad	h|s	+1	1	Um , Let 's see , I {disfmarker} I spent the last week , uh , looking over Stephane 's shoulder . And {disfmarker} {vocalsound} and understanding some of the data .
+Bro003.C.dialogueact442	1466.32	1470.27	C	Grad	fg|s^rt	+1	1	Um , yeah , so I I 've been looking at , uh , uh , TIMIT stuff .
+Bro003.C.dialogueact443	1470.91	1487.47	C	Grad	fh|s^e	+1	1	Um , the {disfmarker} the stuff that we 've been working on with TIMIT , trying to get a , um {disfmarker} a labels file so we can , uh , train up a {disfmarker} train up a net on TIMIT and test , um , the difference between this net trained on TIMIT and a net trained on digits alone .
+2	Bro003.s.23	Trying to figure out
+what the input to the cube should be.
+Bro003.C.dialogueact452	1503.04	1505.98	C	Grad	s	+1	3	Well , the inputs are one dimension of the cube ,
+Bro003.C.dialogueact454	1506.06	1517.34	C	Grad	s^e	+1	2	which , um , we 've talked about it being , uh , PLP , um , M F C Cs , um , J - JRASTA , JRASTA - LDA {disfmarker}
+8	Bro003.s.24	speaker fn002 has been testing the Italian database on a net trained
+on Spanish.
+Bro003.F.dialogueact1328	3234.28	3235.89	F	Professor	qy^rt	+1	1	Carmen , did you {disfmarker} do you have something else to add ?
+Bro003.E.dialogueact1331	3239.4	3250.14	E	PhD	s	+1	1	D I begin to work with the Italian database to {disfmarker} nnn , to {disfmarker} with the f front - end and with the HTK program and the @ @ .
+Bro003.E.dialogueact1332	3251.8	3262.18	E	PhD	s	+1	1	And I trained eh , with the Spanish two neural network with PLP and with LogRASTA PLP .
+Bro003.E.dialogueact1354	3327.05	3340.85	E	PhD	fg|s^cs	+1	1	Um , and I think to {disfmarker} to {disfmarker} to recognize the Italian digits with the neural netw Spanish neural network ,
+Bro003.E.dialogueact1359	3352.45	3357.1	E	PhD	s	+1	2	But prepa to prepare the {disfmarker} the database are difficult .
+Bro003.E.dialogueact1360	3357.37	3363.73	E	PhD	s	+1	2	Was for me , n it was a difficult work last week with the labels
+Bro003.E.dialogueact1361	3363.73	3373.02	E	PhD	s^df	+1	2	because the {disfmarker} the program with the label obtained that I have , the Albayzin , is different w to the label to train the neural network .
+Bro003.E.dialogueact1362	3373.15	3379.6	E	PhD	s^cs	+1	2	And {pause} {vocalsound} that is another work that we must to do , to {disfmarker} to change .
+8	Bro003.s.25	She has had problems with incompatible labels though.
+Bro003.E.dialogueact1359	3352.45	3357.1	E	PhD	s	+1	2	But prepa to prepare the {disfmarker} the database are difficult .
+Bro003.E.dialogueact1360	3357.37	3363.73	E	PhD	s	+1	2	Was for me , n it was a difficult work last week with the labels
+Bro003.E.dialogueact1361	3363.73	3373.02	E	PhD	s^df	+1	2	because the {disfmarker} the program with the label obtained that I have , the Albayzin , is different w to the label to train the neural network .
+Bro003.E.dialogueact1362	3373.15	3379.6	E	PhD	s^cs	+1	2	And {pause} {vocalsound} that is another work that we must to do , to {disfmarker} to change .
+Bro003.E.dialogueact1386	3403.3	3404.33	E	PhD	s	+1	1	The Spanish labels ?
+Bro003.E.dialogueact1387	3405.01	3407.33	E	PhD	s	+1	1	That was in different format ,
+Bro003.E.dialogueact1389	3407.93	3414.06	E	PhD	s^e	+1	1	that the format for the em {disfmarker} the program to train the neural network .
+Bro003.E.dialogueact1390	3414.5	3416.03	E	PhD	s	+1	1	I necessary to convert .
+6	Bro003.s.26	Within the next year , the network is to be upgraded , and in a couple
+of weeks , the group should have access to 4 new 36 gigabyte file
+servers.
+Bro003.F.dialogueact1488	3661.12	3664.78	F	Professor	s	+1	1	We 're {disfmarker} over the next year or two , we 're gonna be upgrading the networks in this place ,
+Bro003.F.dialogueact1490	3665.12	3668.13	F	Professor	s	+1	1	but right now they 're still all te pretty much all ten megabit lines .
+Bro003.F.dialogueact1491	3668.13	3671.49	F	Professor	s	+1	1	And we have reached the {disfmarker} this {disfmarker} the machines are getting faster and faster .
+Bro003.F.dialogueact1492	3672.08	3678.73	F	Professor	s	+1	1	So , it actually has reached the point where it 's a significant drag on the time for something to move the data from one place to another .
+Bro003.F.dialogueact1512	3746.61	3753.23	F	Professor	s	+1	1	It 's gonna take us a couple weeks at least to get the , uh , uh , the amount of disk we 're gonna be getting . We 're actually gonna get ,
+Bro003.F.dialogueact1513	3753.38	3759.38	F	Professor	s^e	+1	1	uh , I think four more , uh , thirty - six gigabyte drives
+5	Bro003.s.27	Me018 has been copying some corpus stuff to a non-backed up
+system , but not yet deleted originals.
+Bro003.A.dialogueact1624	4038.43	4044.62	A	PhD	s	+1	2	Dan {disfmarker} David , um , put a new , um , drive onto Abbott , that 's an X disk ,
+Bro003.A.dialogueact1627	4046.71	4060.05	A	PhD	fh|s	+1	2	um , I 've been going through and copying data that is , you know , some kind of corpus stuff usually , that {disfmarker} that we 've got on a CD - ROM or something , onto that new disk to free up space {pause} on other disks .
+Bro003.A.dialogueact1629	4068.23	4072.45	A	PhD	s	+1	2	We haven't deleted them off of the slash - DC disk that they 're on right now in Abbott ,
+Bro003.A.dialogueact1631	4074.41	4083.89	A	PhD	s^cs	+1	2	uh , but we {disfmarker} I would like to go through {disfmarker} sit down with you about some of these other ones and see if we can move them onto , um , this new disk also .
+Bro003.G.dialogueact1632	4084.11	4084.98	G	PhD	s^aa	+1	2	Yeah , OK .
+24	Bro003.s.28	Current plan is to use a superset of phones for the cube project
+derived from the various training languages.
+Bro003.G.dialogueact563	1741.79	1750.09	G	PhD	s	+1	1	and {disfmarker} So we plan to develop a subset of the phonemes , uh , that includes , uh , all the phonemes of our training languages ,
+Bro003.F.dialogueact567	1755.93	1757.23	F	Professor	s^bu	+1	1	You mean a superset , sort of .
+Bro003.G.dialogueact568	1757.24	1757.82	G	PhD	h|s^aa	+1	1	Uh , yeah ,
+Bro003.E.dialogueact575	1766.52	1776.01	E	PhD	s	+1	1	SAMPA phone ? For English {disfmarker} uh American English , and the {disfmarker} the {disfmarker} the language who have more phone are the English .
+Bro003.E.dialogueact578	1779.74	1789.89	E	PhD	s	+1	1	But n for example , in Spain , the Spanish have several phone that d doesn't appear in the E English and we thought to complete .
+Bro003.E.dialogueact579	1790.59	1801.76	E	PhD	s	+1	1	But for that , it needs {disfmarker} we must r h do a lot of work {vocalsound} because we need to generate new tran transcription for the database that we have .
+Bro003.F.dialogueact1807	4620.69	4634.37	F	Professor	s^bs	+1	2	So {disfmarker} wh that {disfmarker} so the {disfmarker} the other suggestion that just came up was , well what about having him {pause} work on the , uh , {pause} multilingual super f superset {pause} kind of thing .
+Bro003.F.dialogueact1808	4634.66	4641.66	F	Professor	fh|s^bs	+1	2	Uh , coming up with that and then , you know , training it {disfmarker} training a net on that , say , um , from {disfmarker} from , uh {disfmarker} from TIMIT or something .
+Bro003.F.dialogueact1811	4646.04	4647.89	F	Professor	qw	+1	1	wh what would this task consist of ?
+Bro003.G.dialogueact1814	4653.65	4656.79	G	PhD	fh|s^rt	+1	1	um , creating the {disfmarker} the superset ,
+Bro003.G.dialogueact1815	4656.79	4663.48	G	PhD	s^rt	+1	1	and , uh , modifying the lab labels for matching the superset .
+Bro003.G.dialogueact1818	4668.71	4670.2	G	PhD	s	+1	1	Well , creating the mappings , actually .
+Bro003.F.dialogueact1867	4762.99	4765.73	F	Professor	qy^rt	+1	2	Has OGI done anything about this issue ?
+Bro003.F.dialogueact1868	4765.99	4770.49	F	Professor	qy^rt	+1	2	Do they have {disfmarker} Do they have any kind of superset that they already have ?
+Bro003.G.dialogueact1870	4772.57	4779.73	G	PhD	s^df	+1	2	Well , they {disfmarker} they {disfmarker} they 're going actually the {disfmarker} the other way , defining uh , phoneme clusters , apparently .
+Bro003.A.dialogueact1875	4786.81	4789.54	A	PhD	s^bu	+1	2	So they just throw the speech from all different languages together ,
+Bro003.A.dialogueact1876	4789.54	4793.98	A	PhD	qy^bu^d^rt	+1	2	then cluster it into sixty or fifty or whatever clusters ?
+Bro003.G.dialogueact1910	4875.43	4879.59	G	PhD	s^df	+1	2	and e i perhaps u using broad phoneme classes ,
+Bro003.G.dialogueact1911	4879.69	4884.07	G	PhD	s^df	+1	2	it 's {disfmarker} it 's OK for um , uh classifying the digits ,
+Bro003.G.dialogueact1912	4884.07	4886.74	G	PhD	s^df	+1	2	but as soon as you will have more words ,
+Bro003.G.dialogueact1913	4887.69	4893.73	G	PhD	s^df	+1	2	well , words can differ with only a single phoneme , and {disfmarker} which could be the same , uh , class .
+Bro003.A.dialogueact1926	4914.04	4917.93	A	PhD	qy^bu^d^rt	+1	2	So you 're saying that there may not be enough information coming out of the net to help you discriminate the words ?
+Bro003.G.dialogueact1928	4916.82	4917.16	G	PhD	s^aa	+1	2	Yeah ,
+Bro003.B.dialogueact1931	4920.2	4923.06	B	PhD	s^bu|qy^d^g^rt	+1	2	Fact , most confusions are within the phone {disfmarker} phone classes , right ?
+7	Bro003.s.29	HTK training currently takes 6 hours to a day , and the neural net
+takes 1-2 days.
+Bro003.F.dialogueact1146	2866.88	2869.33	F	Professor	qw	+1	1	How long does it take for an , uh , HTK training ?
+Bro003.G.dialogueact1147	2869.45	2871.6	G	PhD	s	+1	1	It 's around six hours , I think .
+Bro003.E.dialogueact1155	2878.95	2879.72	E	PhD	s	+1	1	Maybe one day .
+Bro003.F.dialogueact1211	2962.63	2967.2	F	Professor	s	+1	1	It 's {disfmarker} it 's {disfmarker} let 's say it 's six hours or eight hours , or something for the training of HTK .
+Bro003.F.dialogueact1212	2967.2	2970.4	F	Professor	qw	+1	1	How long is it for training of {disfmarker} of , uh , the neural net ?
+Bro003.G.dialogueact1215	2974.15	2975.08	G	PhD	s	+1	1	I would say two days .
+Bro003.E.dialogueact1220	2977.63	2979.45	E	PhD	s^arp	+1	1	Depends on the corpus .

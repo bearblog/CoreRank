@@ -1,0 +1,36 @@
+1	TS3012d.vkaraisk.s.18	The production cost was 17 euros , 4.5 more than the budget.
+TS3012d.A.dialog-act.vkaraisk.83	279.29	282.98	A	PM	inf	+1	3	You have the total of seventeen Euros in production cost ,
+1	TS3012d.vkaraisk.s.19	It was imperative that some of the features had to be taken out.
+TS3012d.A.dialog-act.vkaraisk.87	287.83	289.89	A	PM	el.sug	+1	1	What do we scrap .
+5	TS3012d.vkaraisk.s.20	There was disagreement over whether the special colour should be scrapped and the look to rely on the separate covers.
+TS3012d.A.dialog-act.vkaraisk.98	319.96	322.94	A	PM	inf	+1	1	so I had to take out the special colour I suppose .
+TS3012d.A.dialog-act.vkaraisk.110	350.85	354.65	A	PM	sug	+1	1	and if you want it {disfmarker} if you want the custom design , then you can buy the separate covers .
+TS3012d.B.dialog-act.vkaraisk.41	428.76	432.11	B	UI	inf	+1	1	I think the colour is more important than the really the curve ,
+TS3012d.A.dialog-act.vkaraisk.147	445.83	454.63	A	PM	inf	+1	1	but the example is because we do offer the um {vocalsound} the possibility of adding your own custom covers .
+TS3012d.A.dialog-act.vkaraisk.186	562.12	569.93	A	PM	sug	+1	2	I think it's the best solution to make those cu custom covers for the design aspect
+4	TS3012d.vkaraisk.s.21	Other solutions , like abandoning the curve of the casing or replace the rubber with plastic were also suggested.
+TS3012d.A.dialog-act.vkaraisk.137	418.53	419.8	A	PM	sug	+1	1	we could take out the curve .
+TS3012d.C.dialog-act.vkaraisk.35	462.51	465.69	C	ID	el.ass	+1	1	Can we then not also uh change the material ?
+TS3012d.C.dialog-act.vkaraisk.36	465.69	467.71	C	ID	sug	+1	1	We take plastic for the basic cover
+TS3012d.A.dialog-act.vkaraisk.215	662.88	664.82	A	PM	und	+1	1	I say lose the curve . Oh that's true ,
+4	TS3012d.vkaraisk.s.22	They were also not allowed to raise the budget limit.
+TS3012d.B.dialog-act.vkaraisk.37	361.69	366.59	B	UI	el.inf	+1	1	So can't we just basically extend it to thirteen ?
+TS3012d.A.dialog-act.vkaraisk.121	370.82	373.03	A	PM	inf	+1	1	uh the project is a no-go if we go over twelve and a half ,
+TS3012d.D.dialog-act.vkaraisk.25	512.07	518.9	D	ME	el.inf	+1	1	so why why uh {vocalsound} do we have to keep us uh uh um on the twelve and a half ?
+TS3012d.A.dialog-act.vkaraisk.171	521.89	526.43	A	PM	inf	+1	1	and we got our our orders from the pro from the boss of our company
+8	TS3012d.vkaraisk.s.23	The precise use of the LCD was not defined: it could be used for TV configuration , or , if possible , for displaying the TV programme and previews.
+TS3012d.D.dialog-act.vkaraisk.114	1050.96	1055.23	D	ME	el.inf	+1	1	What are we uh displaying on the L_C_D_ screen ?
+TS3012d.C.dialog-act.vkaraisk.104	1060.77	1065.58	C	ID	inf	+1	1	Things like brightness and uh those kind of things we've put in the menu ,
+TS3012d.A.dialog-act.vkaraisk.338	1075.8	1078.48	A	PM	inf	+1	1	I thought that people wanted previews on their {disfmarker}
+TS3012d.A.dialog-act.vkaraisk.342	1083.99	1085.04	A	PM	inf	+1	1	I don't think it's possible really .
+TS3012d.A.dialog-act.vkaraisk.346	1103.73	1109.38	A	PM	el.sug	+1	1	uh with configuring your remote control for favourite {disfmarker} your favourite channel for example , how do you configure that .
+TS3012d.A.dialog-act.vkaraisk.348	1109.38	1111.37	A	PM	sug	+1	1	So that could be done by L_C_D_ display .
+TS3012d.A.dialog-act.vkaraisk.419	1345.87	1355.15	A	PM	inf	+1	1	I do admit that we d {vocalsound} did miss a little {disfmarker} or didn't sp didn't talk {gap} {disfmarker} talk enough about the possibility of the L_C_D_ display .
+TS3012d.A.dialog-act.vkaraisk.423	1361.04	1367.47	A	PM	sug	+1	1	{gap} {disfmarker} like I said , {vocalsound} changing channels , everything hidden in your L_C_D_ display , so you just need the navigation buttons to do everything .
+2	TS3012d.vkaraisk.s.24	Although the SMARTboard was useful to draw ideas quickly  , it could be improved in terms of response time.
+TS3012d.A.dialog-act.vkaraisk.467	1514.79	1517.02	A	PM	ass	+1	1	I think a SMARTboard SMARTboard is pretty cool .
+TS3012d.B.dialog-act.vkaraisk.125	1524.97	1530.7	B	UI	sug	+1	2	Although for actual design I'd say the response time should be a little bit higher ,
+1	TS3012d.vkaraisk.s.25	Similarly , the digital pens did not allow the user to work on more than one page at a time.
+TS3012d.C.dialog-act.vkaraisk.168	1582.03	1585.56	C	ID	inf	+1	2	So we cannot work on more than one page at same time . That's not possible .
+1	TS3012d.vkaraisk.s.26	The team were unable to communicate amongst themselves in between meetings , which hindered the flow of information.
+TS3012d.A.dialog-act.vkaraisk.453	1470.69	1474.57	A	PM	inf	+1	2	Because , yeah was very hard to work with one another if you cannot communicate in the meantime ,

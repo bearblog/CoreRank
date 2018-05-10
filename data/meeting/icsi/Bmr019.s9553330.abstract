@@ -1,0 +1,130 @@
+0	Bmr019.s.1	The meeting at Berkley was of ICSI's group concerned with recognition of recorded meeting data.
+5	Bmr019.s.2	The two main topics of conversation were adaptation within digit recognition , and alignment within the larger vocabulary meeting recognition.
+Bmr019.E.dialogueact8	8.16	9.83	E	Grad	fg|s^t^tc	-1	0	OK , our agenda was quite short .
+Bmr019.E.dialogueact12	12.133	18.592	E	Grad	s	+1	1	Two items , which was , uh , digits and possibly stuff on {disfmarker} on , uh , forced alignment ,
+Bmr019.E.dialogueact88	116.01	118.02	E	Grad	fg|s^t^tc	-1	0	So , anyway , I can talk about digits .
+Bmr019.E.dialogueact89	118.02	120.77	E	Grad	qr	-1	0	Um , did everyone get the results or shall I go over them again ?
+Bmr019.B.dialogueact660	1340.45	1343.51	B	Professor	fg|qo^d^e	-1	0	OK . So the s the {disfmarker} the next thing we had on the agenda was something about alignments ?
+52	Bmr019.s.3	The group discussed issues of different microphones , changing to using a new system , and whether people were making Eurospeech submissions.
+Bmr019.E.dialogueact90	121.753	127.063	E	Grad	s	+1	1	I mean that it was basically {disfmarker} the only thing that was even slightly surprising was that the lapel did so well .
+Bmr019.E.dialogueact93	136.123	138.443	E	Grad	s	-1	0	The lapel mike is a very high - quality microphone .
+Bmr019.E.dialogueact94	138.889	145.809	E	Grad	s	-1	0	And as Morgan pointed out , that there are actually some advantages to it in terms of breath noises and clothes rustling {pause} if no one else is talking .
+Bmr019.B.dialogueact100	149.0	153.99	B	Professor	fg|s	-1	0	Well , it 's {disfmarker} Yeah , sort of the bre the breath noises and the mouth clicks and so forth like that , the lapel 's gonna be better on .
+Bmr019.B.dialogueact103	154.493	156.973	B	Professor	s	-1	0	The lapel is typically worse on the {disfmarker} on clothes rustling ,
+Bmr019.G.dialogueact114	167.825	173.455	G	Grad	s	-1	0	Probably the fact that it picks up other people 's speakers {disfmarker} other people 's talking is an indication of that it {disfmarker} the fact it is a good microphone .
+Bmr019.B.dialogueact138	209.294	212.634	B	Professor	fg|s	-1	0	Um . Yeah , we actually talked about this in the , uh , front - end meeting this morning , too .
+Bmr019.B.dialogueact142	214.907	230.407	B	Professor	s^rt	+1	0	uh , I mean , there the point of interest to the group was primarily that , um , {vocalsound} the , uh {disfmarker} the system that we had that was based on H T K , that 's used by , you know , {pause} all the participants in Aurora , {vocalsound} was so much worse {vocalsound} than the {disfmarker} than the S R
+Bmr019.B.dialogueact144	230.407	247.411	B	Professor	s	+1	1	And the interesting thing is that even though , {vocalsound} yes , it 's a digits task and that 's a relatively small number of words and there 's a bunch of digits that you train on , {vocalsound} it 's just not as good as having a {disfmarker} a l very large amount of data and training up a {disfmarker} a {disfmarker} a nice good big {vocalsound} HMM .
+Bmr019.B.dialogueact145	247.411	250.991	B	Professor	s	+1	1	Um , also you had the adaptation in the SRI system , which we didn't have in this .
+Bmr019.F.dialogueact178	334.802	340.002	F	PhD	s	-1	0	But {disfmarker} but , I have {disfmarker} I mean , people {disfmarker} people at SRI are actually working on digits .
+Bmr019.F.dialogueact335	682.129	685.419	F	PhD	s^df	-1	0	Because that would adapt your models to the room acoustics
+Bmr019.F.dialogueact332	664.83	681.603	F	PhD	s	+1	0	By the way , I think we can improve these numbers if we care to compr improve them {vocalsound} by , um , {vocalsound} not starting with the Switchboard models but by taking the Switchboard models and doing supervised adaptation on a small amount of digit data collected in this setting .
+Bmr019.F.dialogueact336	685.419	688.699	F	PhD	s^df^e	-1	0	and f for the far - field microphones , you know , to the noise .
+Bmr019.F.dialogueact338	694.176	699.826	F	PhD	s	-1	0	And then you use those adapted models , which are not speaker adapted but sort of acous you know , channel adapted {disfmarker}
+Bmr019.F.dialogueact351	727.88	735.285	F	PhD	s	-1	0	Um , but , you know , I {disfmarker} uh , my impression was that you were actually interested in the far - field microphone , uh , problem ,
+Bmr019.E.dialogueact398	784.6	787.09	E	Grad	fg|s	-1	0	Yeah , I think these mikes are not working as well as I would like .
+Bmr019.F.dialogueact400	787.431	791.061	F	PhD	s^aa|s^na	-1	0	Yeah , I think this contraption around your head is not {pause} working so well .
+Bmr019.B.dialogueact410	806.21	810.93	B	Professor	s	+1	0	The other thing that {disfmarker} that , uh {disfmarker} of course , what Barry was looking at was {disfmarker} was just that ,
+Bmr019.B.dialogueact411	810.93	812.02	B	Professor	s	+1	1	the near versus far .
+Bmr019.B.dialogueact412	812.02	814.316	B	Professor	s	-1	0	And , yeah , the adaptation would get {vocalsound} th some of that .
+Bmr019.B.dialogueact414	814.316	822.175	B	Professor	s	-1	0	But , I think even {disfmarker} even if there was , uh , only a factor of two or something , like I was saying in the email , I think that 's {disfmarker} {vocalsound} that 's a big factor .
+Bmr019.B.dialogueact470	890.822	903.549	B	Professor	fg|s	+1	1	Yeah . I {disfmarker} I know what I was thinking was that maybe , uh , i i we could actually t t try at least looking at , uh , some of the {disfmarker} the large vocabulary speech from a far microphone ,
+Bmr019.E.dialogueact546	1063.04	1065.8	E	Grad	s^df	+1	0	because {pause} that could be why the PDA is worse .
+Bmr019.E.dialogueact547	1066.65	1069.24	E	Grad	s^df	+1	1	Because it 's further away from most of the people reading digits .
+Bmr019.A.dialogueact553	1073.33	1077.17	A	PhD	fg|s^cs	-1	0	Well , yeah . You could look at , I guess , that PZM or something .
+Bmr019.A.dialogueact561	1097.96	1099.6	A	PhD	qy^rt	-1	0	And aren't these pretty bad microphones ?
+Bmr019.B.dialogueact564	1100.46	1101.4	B	Professor	s^aap	-1	0	Well , they 're bad .
+Bmr019.B.dialogueact565	1102.62	1104.75	B	Professor	s^df^ng	-1	0	But , I mean , if you listen to it , it sounds OK . You know ?
+Bmr019.E.dialogueact566	1106.64	1113.13	E	Grad	fg|s	-1	0	Yeah . When you listen to it , uh , the PZM and the PDA {disfmarker} Yeah , th the PDA has higher sound floor
+Bmr019.A.dialogueact570	1116.8	1119.47	A	PhD	s	-1	0	I just remember you saying you got them to be cheap on purpose .
+Bmr019.E.dialogueact576	1125.91	1129.14	E	Grad	s	-1	0	So they are {disfmarker} they 're not the PZM three hundred dollar type .
+Bmr019.E.dialogueact578	1129.14	1130.18	E	Grad	s	-1	0	They 're the twenty - five cent ,
+Bmr019.E.dialogueact580	1131.58	1132.99	E	Grad	s	-1	0	buy them in packs of thousand type .
+Bmr019.B.dialogueact585	1139.06	1147.48	B	Professor	s^j	-1	0	I mean , if you 're not {vocalsound} doing something ridiculous like feeding it to a speech recognizer , they {disfmarker} they {disfmarker} {vocalsound} they {disfmarker} you know , you can hear the sou hear the sounds just fine .
+Bmr019.F.dialogueact597	1172.84	1174.68	F	PhD	qw^e	+1	0	I mean , what 's {disfmarker} where do we go from here ?
+Bmr019.F.dialogueact600	1175.46	1178.4	F	PhD	s	-1	0	we {disfmarker} so we have a {disfmarker} we have a {disfmarker} a system that works pretty well
+Bmr019.F.dialogueact601	1178.4	1183.3	F	PhD	s	-1	0	but it 's not , you know , the system that people here are used to using {disfmarker} to working with .
+Bmr019.B.dialogueact603	1183.63	1186.34	B	Professor	s.%--	-1	0	Well , I think what we wanna do is we want to {disfmarker} eh ,
+Bmr019.B.dialogueact605	1188.41	1193.29	B	Professor	s	+1	1	we want to {vocalsound} have the ability to feed it different features .
+Bmr019.B.dialogueact607	1194.44	1201.0	B	Professor	s	+1	0	And then , um , {vocalsound} from the point of view of the front - end research , it would be s uh , substituting for HTK .
+Bmr019.B.dialogueact613	1208.16	1219.72	B	Professor	s	+1	1	And then , um , uh , also Dave is {disfmarker} is thinking about using the data in different ways , uh , to {vocalsound} um , uh , explicitly work on reverberation
+Bmr019.B.dialogueact615	1219.72	1224.39	B	Professor	s^e	-1	0	starting with some techniques that some other people have {pause} found somewhat useful , and {disfmarker} Yeah .
+Bmr019.F.dialogueact617	1224.11	1232.46	F	PhD	s^bu	+1	1	So {disfmarker} so the key {pause} thing that 's missing here is basically the ability to feed , you know , other features {vocalsound} i into the recognizer
+Bmr019.F.dialogueact618	1232.46	1234.4	F	PhD	s^bu^e	+1	1	and also then to train the system .
+Bmr019.F.dialogueact635	1261.54	1269.02	F	PhD	s	+1	0	It 's {disfmarker} uh , I mean , the {disfmarker} the front - end is f i tha that 's in the SRI recognizer is very nice in that it does a lot of things on the fly
+Bmr019.F.dialogueact636	1269.02	1278.92	F	PhD	s^df	-1	0	but it unfortunately {pause} is not {pause} designed and , um {disfmarker} {vocalsound} like the , uh , ICSI system is , where you can feed it from a pipeline of {disfmarker} of the command .
+Bmr019.F.dialogueact637	1278.92	1286.56	F	PhD	s.%--	+1	0	So , the {disfmarker} what that means probably for the foreseeable future is that you have to , uh , dump out , um {disfmarker}
+Bmr019.F.dialogueact638	1287.12	1291.44	F	PhD	s	+1	0	you know , if you want to use some new features , you have to dump them into individual files
+Bmr019.F.dialogueact639	1292.04	1293.98	F	PhD	s	-1	0	and {pause} give those files to the recognizer .
+Bmr019.B.dialogueact1072	2212.02	2215.03	B	Professor	fg|s^df	-1	0	Yeah . I mean , y y you folks have probably {pause} already told me ,
+Bmr019.B.dialogueact1073	2215.03	2218.5	B	Professor	qy	+1	0	but were {disfmarker} were you intending to do a Eurospeech submission ,
+31	Bmr019.s.4	They talked about adaption models , issues of multiple speakers , and they feel they lack data per speaker.
+Bmr019.B.dialogueact144	230.407	247.411	B	Professor	s	+1	1	And the interesting thing is that even though , {vocalsound} yes , it 's a digits task and that 's a relatively small number of words and there 's a bunch of digits that you train on , {vocalsound} it 's just not as good as having a {disfmarker} a l very large amount of data and training up a {disfmarker} a {disfmarker} a nice good big {vocalsound} HMM .
+Bmr019.B.dialogueact145	247.411	250.991	B	Professor	s	+1	1	Um , also you had the adaptation in the SRI system , which we didn't have in this .
+Bmr019.F.dialogueact155	264.75	268.3	F	PhD	s	+1	1	So there was a significant loss from not doing the adaptation .
+Bmr019.B.dialogueact200	375.28	377.87	B	Professor	s	-1	0	So , {vocalsound} one {disfmarker} so there were a number of things we noted from this .
+Bmr019.B.dialogueact201	377.87	380.66	B	Professor	s	+1	0	One is , yeah , the SRI system is a lot better than the HTK {disfmarker}
+Bmr019.B.dialogueact205	384.422	395.563	B	Professor	s	+1	3	Uh , but the other is that , um , the digits {vocalsound} recorded here in this room with these close mikes , i uh , are actually a lot harder than the {pause} studio - recording TI - digits .
+Bmr019.B.dialogueact207	395.973	402.743	B	Professor	s	-1	0	I think , you know , one reason for that , uh , might be that there 's still {disfmarker} even though it 's close - talking , there still is some noise and some room acoustics .
+Bmr019.B.dialogueact209	403.109	410.099	B	Professor	s	-1	0	And another might be that , uh , I 'd {disfmarker} I would presume that in the studio , uh , uh , situation recording read speech that if somebody
+Bmr019.B.dialogueact210	410.655	415.765	B	Professor	s	-1	0	did something a little funny or n pronounced something a little funny or made a little {disfmarker} that they didn't include it ,
+Bmr019.E.dialogueact224	438.916	442.516	E	Grad	s	-1	0	Um , so there 's a little bit of correction but it 's definitely not as clean as TI - digits .
+Bmr019.E.dialogueact228	449.18	451.28	E	Grad	s	-1	0	So it would probably do even a little better still
+Bmr019.E.dialogueact230	452.68	453.39	E	Grad	s^e	-1	0	on the SRI system ,
+Bmr019.F.dialogueact273	528.825	535.072	F	PhD	qy^rt	-1	0	So does {disfmarker} so th so does {disfmarker} does , um , {vocalsound} the TI - digits database have speakers that are known ?
+Bmr019.F.dialogueact276	536.067	541.877	F	PhD	qy^rt	-1	0	And is there {disfmarker} is there enough data or a comparable {disfmarker} comparable amount of data to {disfmarker} to what we have in our recordings here ?
+Bmr019.E.dialogueact279	541.79	543.06	E	Grad	s^no	-1	0	I don't know how many speakers there are ,
+Bmr019.E.dialogueact280	543.06	545.4	E	Grad	s^e	-1	0	and {disfmarker} and how many speakers per utterance .
+Bmr019.F.dialogueact287	560.942	568.312	F	PhD	s^e	+1	2	If you have only one utterance per speaker you might actually screw up on estimating the {disfmarker} the warping , uh , factor .
+Bmr019.E.dialogueact289	570.053	572.613	E	Grad	s	-1	0	I strongly suspect that they have more speakers than we do .
+Bmr019.F.dialogueact290	573.47	575.12	F	PhD	s^bk|s^nd	-1	0	Right . But it 's not the amount of speakers ,
+Bmr019.F.dialogueact292	575.12	576.93	F	PhD	s^e	-1	0	it 's the num it 's the amount of data per speaker .
+Bmr019.E.dialogueact293	576.926	581.026	E	Grad	s^bk|s	-1	0	Right . So we {disfmarker} we could probably do an extraction that was roughly equivalent .
+Bmr019.F.dialogueact332	664.83	681.603	F	PhD	s	+1	0	By the way , I think we can improve these numbers if we care to compr improve them {vocalsound} by , um , {vocalsound} not starting with the Switchboard models but by taking the Switchboard models and doing supervised adaptation on a small amount of digit data collected in this setting .
+Bmr019.F.dialogueact335	682.129	685.419	F	PhD	s^df	-1	0	Because that would adapt your models to the room acoustics
+Bmr019.F.dialogueact336	685.419	688.699	F	PhD	s^df^e	-1	0	and f for the far - field microphones , you know , to the noise .
+Bmr019.F.dialogueact338	694.176	699.826	F	PhD	s	-1	0	And then you use those adapted models , which are not speaker adapted but sort of acous you know , channel adapted {disfmarker}
+Bmr019.F.dialogueact351	727.88	735.285	F	PhD	s	-1	0	Um , but , you know , I {disfmarker} uh , my impression was that you were actually interested in the far - field microphone , uh , problem ,
+Bmr019.B.dialogueact410	806.21	810.93	B	Professor	s	+1	0	The other thing that {disfmarker} that , uh {disfmarker} of course , what Barry was looking at was {disfmarker} was just that ,
+Bmr019.B.dialogueact411	810.93	812.02	B	Professor	s	+1	1	the near versus far .
+Bmr019.B.dialogueact412	812.02	814.316	B	Professor	s	-1	0	And , yeah , the adaptation would get {vocalsound} th some of that .
+Bmr019.B.dialogueact414	814.316	822.175	B	Professor	s	-1	0	But , I think even {disfmarker} even if there was , uh , only a factor of two or something , like I was saying in the email , I think that 's {disfmarker} {vocalsound} that 's a big factor .
+Bmr019.B.dialogueact470	890.822	903.549	B	Professor	fg|s	+1	1	Yeah . I {disfmarker} I know what I was thinking was that maybe , uh , i i we could actually t t try at least looking at , uh , some of the {disfmarker} the large vocabulary speech from a far microphone ,
+29	Bmr019.s.5	On alignment , they were concerned over matters of background and foreground speech , though they have identified common errors by looking more closely at the waves.
+Bmr019.A.dialogueact667	1351.96	1365.35	A	PhD	s	+1	2	and {disfmarker} and {disfmarker} W we {disfmarker} we were able to get some definite improvement on the forced alignments by looking at them first and then realizing the kinds of errors {pause} that were occurring
+Bmr019.A.dialogueact669	1367.19	1373.3	A	PhD	s	-1	0	some of the errors occurring very frequently are just things like the first word being moved to as early as possible in the recognition ,
+Bmr019.A.dialogueact671	1378.51	1384.74	A	PhD	s	-1	0	and possibly a problem with needing constraints on word locations .
+Bmr019.A.dialogueact675	1388.68	1396.22	A	PhD	s	-1	0	I got this {vocalsound} whacky idea that {disfmarker} just from looking at the data , that when people talk {pause} their words are usually chunked together .
+Bmr019.A.dialogueact676	1397.33	1400.87	A	PhD	s	-1	0	It 's not that they say one word and then there 's a bunch of words together .
+Bmr019.A.dialogueact677	1401.2	1404.88	A	PhD	s^rt	-1	0	They 're {comment} might say one word and then another word far away if they were doing just backchannels ?
+Bmr019.A.dialogueact678	1405.27	1411.9	A	PhD	s	-1	0	But in general , if there 's , like , five or six words and one word 's far away from it , that 's probably wrong on average .
+Bmr019.F.dialogueact700	1464.84	1466.83	F	PhD	s.%--	-1	0	and then the other thing was that ,
+Bmr019.F.dialogueact701	1467.78	1474.79	F	PhD	s	+1	1	you know , as Liz said the {disfmarker} we f enforce the fact that , uh , the foreground speech has to be continuous .
+Bmr019.F.dialogueact702	1474.79	1480.99	F	PhD	s^e	-1	0	It cannot be {disfmarker} you cannot have a background speech hypothesis in the middle of the foreground speech .
+Bmr019.F.dialogueact703	1481.22	1483.83	F	PhD	s^e	-1	0	You can only have background speech at the beginning and the end .
+Bmr019.A.dialogueact705	1486.15	1489.33	A	PhD	s^cs	+1	0	and I think what we really want is some clever way to do this ,
+Bmr019.A.dialogueact706	1489.33	1495.15	A	PhD	s.%--	+1	0	where , um , you know , from the data or from maybe some hand - corrected alignments from transcribers that
+Bmr019.A.dialogueact707	1495.69	1504.25	A	PhD	s.%--	+1	1	things like words that do occur just by themselves {pause} a alone , like backchannels or something that we did allow to have background speech around it {disfmarker}
+Bmr019.A.dialogueact712	1508.67	1512.79	A	PhD	s	+1	0	So , I think we have a version that 's pretty good for the native speakers .
+Bmr019.A.dialogueact713	1512.79	1514.72	A	PhD	s^no	-1	0	I don't know yet about the non - native speakers .
+Bmr019.A.dialogueact737	1574.39	1579.01	A	PhD	s	+1	1	But , I guess Andreas tried adapting both the foreground and a background generic speaker ,
+Bmr019.A.dialogueact738	1579.01	1582.41	A	PhD	s^ba	+1	1	and that 's actually a little bit of a f funky model .
+Bmr019.A.dialogueact739	1582.41	1584.19	A	PhD	s	+1	1	Like , it gives you some weird alignments ,
+Bmr019.A.dialogueact740	1584.19	1588.24	A	PhD	s^df	+1	1	just because often the background speakers match better to the foreground than the foreground speaker .
+Bmr019.A.dialogueact809	1736.69	1738.02	A	PhD	s^rt	-1	0	So I looked at them all in Waves
+Bmr019.A.dialogueact810	1738.02	1740.04	A	PhD	s	-1	0	and just lined up all the alignments ,
+Bmr019.A.dialogueact811	1740.16	1742.21	A	PhD	s	-1	0	and , at first it sort of looked like a mess
+Bmr019.A.dialogueact812	1742.21	1745.81	A	PhD	s:s	-1	0	and then the more I looked at it , I thought " OK , well it 's moving these words leftward
+Bmr019.A.dialogueact813	1745.81	1747.88	A	PhD	s^ba	-1	0	and {disfmarker} " You know , it wasn't that bad .
+Bmr019.A.dialogueact814	1747.88	1749.32	A	PhD	s	-1	0	It was just doing certain things wrong .
+Bmr019.A.dialogueact816	1749.99	1753.79	A	PhD	s^df	-1	0	But , I don't , you know , have time to l {comment} to look at all of them
+Bmr019.A.dialogueact817	1753.79	1757.83	A	PhD	s^cs	+1	0	and it would be really useful to have , like , a {disfmarker} a transcriber who could use Waves ,
+Bmr019.A.dialogueact818	1758.39	1763.56	A	PhD	s^cs^e	-1	0	um , just mark , like , the beginning and end of the foreground speaker 's real words {disfmarker}
+7	Bmr019.s.6	They also discussed plans for an up coming group meeting.
+Bmr019.B.dialogueact25	34.427	44.126	B	Professor	s^t	-1	0	I guess the other thing , {vocalsound} which I came unprepared for , uh , {vocalsound} is , uh , to dis s s see if there 's anything anybody wants to discuss about the Saturday meeting .
+Bmr019.F.dialogueact32	52.125	53.875	F	PhD	s	-1	0	Talk about aligning people 's schedules .
+Bmr019.B.dialogueact46	62.664	69.234	B	Professor	s^rt	-1	0	With {disfmarker} with {disfmarker} whatever it was , a month and a half or something ahead of time , the only time we could find in common {disfmarker} roughly in common , was on a Saturday .
+Bmr019.B.dialogueact1531	2997.23	3002.41	B	Professor	qo	-1	0	Uh , one is {pause} anything that , um , {vocalsound} anybody has to say about Saturday ?
+Bmr019.B.dialogueact1532	3002.41	3004.16	B	Professor	qo^e^rt	-1	0	Anything we should do in prep for Saturday ?
+Bmr019.B.dialogueact1535	3008.74	3012.97	B	Professor	s^df	-1	0	I mean , u um , Mari was asking {disfmarker} was trying to come up with something like an agenda
+Bmr019.A.dialogueact1552	3029.2	3030.5	A	PhD	s^df^ng	-1	0	We won't have enough microphones ,

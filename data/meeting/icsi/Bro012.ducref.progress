@@ -1,0 +1,5 @@
+Speaker mn007 and fn002 have been working on improving the recogniser performance as well as reducing it's latency.
+Work on new filters has reduced latency , but made no improvement , though a slight reduction in performance occurred in the well matched case.
+Also tried adding some spectral subtraction , but it doesn't work will with on-line normalization and at this stage is just hurting results.
+They have also been considering the possibility of using a second stream of data looking at the voicedness of the data , which would draw some ideas from previous work.
+Me018 has been looking at the baseline system and feels it may be possible to decrease the run time of experiments by decreasing the iteration , and he has also got the five processor Linux machine capable of running HTKs.

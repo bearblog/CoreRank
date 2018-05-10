@@ -1,0 +1,69 @@
+15	IS1001a.JacquelinePalmer.s.1	The Project Manager introduced the project to the group and gave a timeline for the project.
+IS1001a.A.dialog-act.s9553330.7	81.96	84.52	A	PM	be.pos	+1	1	Okay so welcome everyone .
+IS1001a.A.dialog-act.s9553330.8	84.52	91.29	A	PM	inf	+1	1	So we are here for the kickoff meeting of uh the process of designing a new remote control .
+IS1001a.A.dialog-act.s9553330.9	93.04	100.72	A	PM	inf	+1	1	So I will first start with a warm welcome opening {vocalsound} stuff ,
+IS1001a.A.dialog-act.s9553330.10	100.72	109.72	A	PM	inf	+1	1	then uh we will uh see what will be uh our product and what will be the different step we will have to design it .
+IS1001a.A.dialog-act.s9553330.11	111.2	115.47	A	PM	inf	+1	1	And uh then we will uh discuss if we have few ideas
+IS1001a.A.dialog-act.s9553330.12	115.47	125.24	A	PM	inf	+1	1	and we will uh end uh by uh dispatching the different task you will be {disfmarker} you will have to fulfil to complete this process .
+IS1001a.A.dialog-act.s9553330.19	149.79	153.71	A	PM	inf	+1	1	So the the goal is to have a remote control
+IS1001a.A.dialog-act.s9553330.20	153.71	163.54	A	PM	inf	+1	1	so to have an advantage over our competitors we have to be original , we have to be trendy and we have to also try to be user-friendly .
+IS1001a.A.dialog-act.s9553330.21	166.1	171.72	A	PM	inf	+1	1	So uh the design step will be divided in three uh main points .
+IS1001a.A.dialog-act.s9553330.22	171.72	174.38	A	PM	inf	+1	1	First it will be the functional design .
+IS1001a.A.dialog-act.s9553330.23	175.76	178.31	A	PM	inf	+1	1	Third is the conceptual design
+IS1001a.A.dialog-act.s9553330.24	178.31	180.1	A	PM	inf	+1	1	and then is the desired design .
+IS1001a.A.dialog-act.s9553330.25	180.1	189.29	A	PM	inf	+1	1	So the functional design is to identify the main user needs , the technical function the remote control should fulfil .
+IS1001a.A.dialog-act.s9553330.29	190.42	205.58	A	PM	inf	+1	1	And then we will move to f conceptual design where we'll specify the different component involved , what kind of user interf interface we want and what are the different uh trend in user interface and stuff like that .
+IS1001a.A.dialog-act.s9553330.30	205.97	217.09	A	PM	inf	+1	1	And then the desired devi design will consist in uh specifically implementing {vocalsound} and detailing the choice we've uh made in the second point .
+5	IS1001a.JacquelinePalmer.s.2	The group trained themselves to use the meeting room tools by drawing on the whiteboard.
+IS1001a.A.dialog-act.s9553330.31	220.8	234.13	A	PM	sug	+1	1	So I will now ask you which is very important for the design of a new remote control for to uh each of us to to draw uh your favourite animal on the white board .
+IS1001a.B.dialog-act.s9553330.30	270.06	271.89	B	UI	inf	+1	1	It's an abstract drawing of an orangutan .
+IS1001a.A.dialog-act.s9553330.43	318.16	324.356	A	PM	inf	+1	1	Of course your animal is recorded so it's not lost . {vocalsound}
+IS1001a.D.dialog-act.s9553330.15	351.9	353.56	D	ME	inf	+1	1	It's a cat .
+IS1001a.A.dialog-act.s9553330.57	393.86	402.68	A	PM	off	+1	1	{vocalsound} Maybe I can draw like a very simplified cow . {vocalsound}
+4	IS1001a.JacquelinePalmer.s.3	The Project Manager presented the project budget and the projected price point and profit goals.
+IS1001a.A.dialog-act.s9553330.65	436.68	444.1	A	PM	inf	+1	1	So {disfmarker} Here the uh financial objective of our project .
+IS1001a.A.dialog-act.s9553330.66	444.1	450.54	A	PM	inf	+1	1	That is to say to to have a production cost lower than twelve point five Euros
+IS1001a.A.dialog-act.s9553330.67	450.54	460.72	A	PM	inf	+1	1	and have a selling price of twice that price t in order to target a profe profit of uh fifty uh million Euros .
+IS1001a.A.dialog-act.s9553330.68	463.984	471.81	A	PM	inf	+1	1	{vocalsound} Yeah if it's trendy , original I d fulfil the user needs .
+20	IS1001a.JacquelinePalmer.s.4	The group discussed several of their initial ideas for the features of the product.
+IS1001a.A.dialog-act.s9553330.73	482.32	488.07	A	PM	inf	+1	2	so we have to decide for example if it can control one device or multiple .
+IS1001a.A.dialog-act.s9553330.75	495.18	498.22	A	PM	el.ass	+1	1	Maybe I can have the {disfmarker} your opinion from the marketing side ?
+IS1001a.B.dialog-act.s9553330.67	499.15	506.5	B	UI	inf	+1	2	Uh if if we bundle the remote control with something uh to sell then it could be a single device , otherwise it could be programmable one
+IS1001a.A.dialog-act.s9553330.80	526.85	538.87	A	PM	el.sug	+1	1	And uh do you have any ideas um of uh design ideas or any uh uh technical requirement we we should uh fulfil ?
+IS1001a.C.dialog-act.s9553330.24	547.68	550.41	C	ID	sug	+1	1	If we don't have so many buttons could be nice .
+IS1001a.A.dialog-act.s9553330.82	552.63	558.39	A	PM	el.ass	+1	1	And do you have it also to be {disfmarker} to be lighted in order to be used in the dark ?
+IS1001a.C.dialog-act.s9553330.26	577.74	583.13	C	ID	sug	+1	1	Something which is not squarey maybe uh , not a box .
+IS1001a.A.dialog-act.s9553330.89	590.53	593.39	A	PM	ass	+1	1	So . Fit in your hand , yeah .
+IS1001a.A.dialog-act.s9553330.91	610.5	613.13	A	PM	ass	+1	2	{vocalsound} Water-proof as well .
+IS1001a.A.dialog-act.s9553330.93	621.33	623.65	A	PM	inf	+1	2	Maybe water-proof would be very original .
+IS1001a.B.dialog-act.s9553330.84	644.04	652.87	B	UI	inf	+1	2	And , and that's one of the {disfmarker} that's one of the shock {disfmarker} I mean there are people that have a remote control and they are worried that it's going to break and they put some extra plastic around it .
+IS1001a.A.dialog-act.s9553330.99	655.67	663.7	A	PM	sug	+1	3	But maybe we can bulk it with uh already this plastic thing and uh the waterproof uh stuff as well .
+IS1001a.A.dialog-act.s9553330.101	665.78	675.9	A	PM	sug	+1	3	Maybe we can sell uh all that together , so so plastic protection and uh and a waterproof box as well .
+IS1001a.C.dialog-act.s9553330.35	685.9	689.6	C	ID	inf	+1	2	most of the time I I lose my remote control .
+IS1001a.C.dialog-act.s9553330.36	689.6	695.52	C	ID	sug	+1	2	We should have s uh special bu button on the T_V_ to make the remote control beeping .
+IS1001a.A.dialog-act.s9553330.107	697.32	702.51	A	PM	sug	+1	2	Maybe we can have uh something you whistle and uh the remote control uh beep .
+IS1001a.A.dialog-act.s9553330.114	723.71	727.49	A	PM	ass	+1	3	That's a good idea , that's very original and that's can uh improve .
+IS1001a.B.dialog-act.s9553330.93	736.43	739.14	B	UI	inf	+1	2	So i it's just going to add t to the cost .
+IS1001a.A.dialog-act.s9553330.119	753.78	759.05	A	PM	inf	+1	3	Yeah . We have to ask the quest of that's uh design to the uh Industrial um Designer .
+IS1001a.A.dialog-act.s9553330.121	764.11	769.516	A	PM	sug	+1	4	{vocalsound} Okay so try to find that for next meeting . {vocalsound}
+15	IS1001a.JacquelinePalmer.s.5	They discussed making the remote able to control multiple devices , protection from water or from dropping the remote , and a locator function.
+IS1001a.A.dialog-act.s9553330.76	509.22	515.01	A	PM	el.ass	+1	2	Okay , so if it selled uh by its own i it it would rather be for multiple device .
+IS1001a.B.dialog-act.s9553330.67	499.15	506.5	B	UI	inf	+1	2	Uh if if we bundle the remote control with something uh to sell then it could be a single device , otherwise it could be programmable one
+IS1001a.A.dialog-act.s9553330.73	482.32	488.07	A	PM	inf	+1	2	so we have to decide for example if it can control one device or multiple .
+IS1001a.A.dialog-act.s9553330.91	610.5	613.13	A	PM	ass	+1	2	{vocalsound} Water-proof as well .
+IS1001a.A.dialog-act.s9553330.93	621.33	623.65	A	PM	inf	+1	2	Maybe water-proof would be very original .
+IS1001a.B.dialog-act.s9553330.84	644.04	652.87	B	UI	inf	+1	2	And , and that's one of the {disfmarker} that's one of the shock {disfmarker} I mean there are people that have a remote control and they are worried that it's going to break and they put some extra plastic around it .
+IS1001a.A.dialog-act.s9553330.99	655.67	663.7	A	PM	sug	+1	3	But maybe we can bulk it with uh already this plastic thing and uh the waterproof uh stuff as well .
+IS1001a.A.dialog-act.s9553330.101	665.78	675.9	A	PM	sug	+1	3	Maybe we can sell uh all that together , so so plastic protection and uh and a waterproof box as well .
+IS1001a.C.dialog-act.s9553330.35	685.9	689.6	C	ID	inf	+1	2	most of the time I I lose my remote control .
+IS1001a.C.dialog-act.s9553330.36	689.6	695.52	C	ID	sug	+1	2	We should have s uh special bu button on the T_V_ to make the remote control beeping .
+IS1001a.A.dialog-act.s9553330.107	697.32	702.51	A	PM	sug	+1	2	Maybe we can have uh something you whistle and uh the remote control uh beep .
+IS1001a.A.dialog-act.s9553330.114	723.71	727.49	A	PM	ass	+1	3	That's a good idea , that's very original and that's can uh improve .
+IS1001a.B.dialog-act.s9553330.93	736.43	739.14	B	UI	inf	+1	2	So i it's just going to add t to the cost .
+IS1001a.A.dialog-act.s9553330.119	753.78	759.05	A	PM	inf	+1	3	Yeah . We have to ask the quest of that's uh design to the uh Industrial um Designer .
+IS1001a.A.dialog-act.s9553330.121	764.11	769.516	A	PM	sug	+1	4	{vocalsound} Okay so try to find that for next meeting . {vocalsound}
+4	IS1001a.JacquelinePalmer.s.6	The Project Manager then instructed the User Interface Designer to research users' requirements , and instructed the Industrial and User Interface Designers to research the functions and usability features that were discussed in the meeting.
+IS1001a.A.dialog-act.s9553330.125	776.35	787.74	A	PM	inf	+1	2	So so I will ask the Industrial Designer to find out more about this industrial design so any working {disfmarker} any working function we have discussed .
+IS1001a.A.dialog-act.s9553330.126	788.59	804.44	A	PM	inf	+1	2	So then I will ask the User Interf Interface Designer to to think about the point we discussed like the number of buttons , the the fact that is lighted or not , things like that , and what would be convenient for the user .
+IS1001a.A.dialog-act.s9553330.127	805.28	818.89	A	PM	inf	+1	2	And also um {vocalsound} I will ask the Market Expert to uh try to find out what are the absolute requirements , what is absolutely needed in a remote control uh for the user .
+IS1001a.A.dialog-act.s9553330.130	826.9	832.608	A	PM	inf	+1	1	and uh look at your mail because you will receive uh some good advice soon . {vocalsound}

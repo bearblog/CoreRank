@@ -1,0 +1,20 @@
+4	ES2002d.rdhillon.s.9	The remote will not contain a kinetic battery.
+ES2002d.A.dialog-act.dharshi.63	424.42	424.78	A	ID	inf	+1	2	No .
+ES2002d.B.dialog-act.dharshi.86	423.2	424.94	B	PM	el.inf	+1	2	Do we have kinetic as well ?
+ES2002d.B.dialog-act.dharshi.90	431.02	433.02	B	PM	el.inf	+1	2	And that's because of cost restraints is it ?
+ES2002d.A.dialog-act.dharshi.66	432.42	432.75	A	ID	inf	+1	2	Yep .
+1	ES2002d.rdhillon.s.10	The remote will have a regular chip.
+ES2002d.A.dialog-act.dharshi.95	582.78	588.29	A	ID	sug	+1	3	The other thing could be that um you could take away the L_C_D_ panel and the advanced chip together ,
+1	ES2002d.rdhillon.s.11	The case will be double-curved.
+ES2002d.B.dialog-act.dharshi.96	456.85	458.53	B	PM	el.inf	+1	1	So we want double-curved ?
+1	ES2002d.rdhillon.s.12	The remote will have push buttons.
+ES2002d.A.dialog-act.dharshi.82	498.69	499.9	A	ID	inf	+1	2	We've got push buttons as well .
+1	ES2002d.rdhillon.s.13	The remote will not feature an LCD display.
+ES2002d.A.dialog-act.dharshi.95	582.78	588.29	A	ID	sug	+1	3	The other thing could be that um you could take away the L_C_D_ panel and the advanced chip together ,
+1	ES2002d.rdhillon.s.14	The display will be on the television instead of on the remote.
+ES2002d.A.dialog-act.dharshi.100	599.53	603.3	A	ID	inf	+1	1	so when we scroll we need just some way to get the T_V_ to respond ,
+1	ES2002d.rdhillon.s.15	The buttons will be normal colored.
+ES2002d.A.dialog-act.dharshi.123	694.55	697.81	A	ID	inf	+1	2	Um so then these just become normal coloured buttons ,
+2	ES2002d.rdhillon.s.16	The remote will have square buttons.
+ES2002d.C.dialog-act.dharshi.102	882.37	883.29	C	ME	el.ass	+1	1	Square buttons ?
+ES2002d.A.dialog-act.dharshi.146	883.33	883.48	A	ID	ass	+1	1	Yeah

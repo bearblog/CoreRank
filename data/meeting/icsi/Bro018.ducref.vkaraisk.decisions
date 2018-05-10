@@ -1,0 +1,8 @@
+For possible improvements in the voicedness detection , it was suggested that the MLP inputs become simpler: the net can be fed just with the log magnitude ( perhaps along with the variance ) over multiple frames.
+The accuracy of the two nets should be compared by adding all the probabilities of voiced/unvoiced phones in the 56-output MLP; the respective result in the other MLP should be at least as good.
+At the same time , the France Telecom proposal and code will be studied closely for useful ideas.
+Regarding the acoustic events experiment , it was recommended that a simpler task be done first: event/phone co-occurrences should be counted in order to get phone probabilities for a discrete HMM.
+The results can be used as base for the evaluation of more sophisticated methods.
+An appropriately modified version of TIMIT can be used as training data.
+As for the PLP/mel cepstrum comparison , a test is going to be carried out to check whether the pruning threshold is causing the search errors.
+Finally , the subtraction method for spectral means will also be tested on SRI , since the base results for this were much better that for Aurora.

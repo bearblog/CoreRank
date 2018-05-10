@@ -1,0 +1,24 @@
+1	Bed009.s.18	A native english speaker will have to oversee the generator translation and resolve any grammar issues that may arise.
+Bed009.B.dialogueact58	277.76	288.823	B	Grad	s^rt	-1	0	and um There one of our diligent workers has to sort of volunteer to look over Tilman 's shoulder while he is changing the grammars to English
+0	Bed009.s.19	A few issues regarding the ongoing development of the project came into focus.
+3	Bed009.s.20	The current M3L specifications are incomplete as to tourist path information and intention recognition.
+Bed009.B.dialogueact215	756.1	761.54	B	Grad	s	+1	0	let 's say a simple parse from a s from an utterance won't really give us is what the person actually wants .
+Bed009.B.dialogueact475	1490.64	1499.35	B	Grad	qw.%--	-1	0	Who {disfmarker} How far is the uh the {disfmarker} the M - three - L specification for {disfmarker} for the la natural language input gone on the {disfmarker} the uh
+Bed009.B.dialogueact476	1499.6	1505.08	B	Grad	s	-1	0	I haven't seen anything for the uh tourist path domain .
+1	Bed009.s.21	The current parser itself extracts no syntactic information.
+Bed009.D.dialogueact716	2180.45	2181.96	D	Grad	s^rt	-1	0	no syntactic analysis
+1	Bed009.s.22	A more sophisticated parser is needed , yet most of the available ones would not satisfy the speed requirements of the project.
+Bed009.D.dialogueact760	2279.33	2282.81	D	Grad	s^bk|s	+1	1	Yeah , uh the problem is th that it has to be very fast
+2	Bed009.s.23	The belief-net whose inputs include the parse , is not fully instantiated yet: some rules of combination and conditional probabilities are not there yet.
+Bed009.F.dialogueact311	1049.59	1054.33	F	Professor	s	-1	0	There 's a first cut at a belief - net that {disfmarker} that doesn't {disfmarker} it {disfmarker} isn't fully uh instantiated ,
+Bed009.F.dialogueact312	1054.33	1059.37	F	Professor	s	-1	0	and in particular some of the {disfmarker} the combination rules and ways of getting the {disfmarker} the conditional probabilities aren't there .
+2	Bed009.s.24	Also underspecified are the details of the interaction between different modules: the dialogue manager and action planner , although separate modules , need to interact closely and update each other's state.
+Bed009.A.dialogueact524	1640.88	1644.12	A	PhD	s	-1	0	and it 's {disfmarker} it 's not really um been defined yet
+Bed009.A.dialogueact525	1644.12	1654.94	A	PhD	s	-1	0	but there 's gonna be some kind of feedback and input from uh the action planner into all the analysis modules , telling them what to expect and what the current state of the discourse is .
+1	Bed009.s.25	The current dialogue manager is also designed with a much narrower domain in mind.
+Bed009.A.dialogueact451	1441.26	1447.54	A	PhD	s^no	+1	1	and I 'm not sure if {disfmarker} if complex slots of that type are really um being taken into consideration .
+4	Bed009.s.26	Finally , some ambiguities and other terminology issues were identified , although it is not clear how difficult changes may be.
+Bed009.F.dialogueact385	1270.84	1276.34	F	Professor	s	-1	0	So there 's ac so there {disfmarker} th the word " action " , OK , is {disfmarker} is what 's ambiguous here .
+Bed009.F.dialogueact555	1725.74	1732.89	F	Professor	qy	+1	0	Would there be any chance of getting the terminology changed so that the dialogue planner was called a " dialogue planner " ?
+Bed009.A.dialogueact561	1745.52	1747.41	A	PhD	s	+1	1	It oughta be called a {disfmarker} a dialogue manager .
+Bed009.A.dialogueact579	1780.0	1784.7	A	PhD	s	-1	0	So if there is resistance against changing it , that 's just because " Oh , We don't want to change things . "

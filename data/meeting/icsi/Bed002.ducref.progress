@@ -1,0 +1,5 @@
+When asking for directions , a user of a navigational device may wish to either view , enter or simply approach a building.
+This was identified as an initial problem to be tackled through "deep understanding"-type inferences.
+There is a set of data to start work on from previous work.
+Similarly , the SmartKom data-format and an ontology developed for the tourist domain ( both in XML-standard formats ) can be used as groundwork for defining the features , which indicate the user's intentions.
+For the creation and management of the belief-nets necessary for the task , there are readily available packages -such as JavaBayes- and tools that can provide the infrastructure for a prototype system.

@@ -1,0 +1,112 @@
+6	Bmr024.s.19	Digit and beeps have been re-recorded by Chuck to aid IBM transcription , and enable alignment.
+Bmr024.D.dialogueact104	224.736	229.438	D	Professor	s^cs^t^tc	+1	2	Well , maybe uh , since that {disfmarker} that was a pretty short one , maybe we should talk about the IBM transcription status .
+Bmr024.F.dialogueact108	232.264	239.213	F	Grad	s	+1	2	So , we , uh {disfmarker} we did another version of the beeps , where we separated each beeps with a spoken digit .
+Bmr024.F.dialogueact109	239.529	242.809	F	Grad	s	+1	1	Chuck came up here and recorded some di himself speaking some digits ,
+Bmr024.E.dialogueact114	254.723	257.558	E	PhD	s	+1	1	And we have done that on the {pause} automatic segmentations .
+Bmr024.F.dialogueact117	261.334	262.434	F	Grad	s	+1	1	We just sent it to IBM .
+Bmr024.B.dialogueact130	281.403	286.574	B	PhD	s^cs	+1	1	And the main thing will be if we can align what they give us with what we sent them .
+0	Bmr024.s.20	The group discuss the extent to which digits can be automatically transcribed , including their experimentation with forced alignment and speech recognition.
+1	Bmr024.s.21	Transcription is progressing well: two transcribers hired and and two more will be hired soon.
+Bmr024.A.dialogueact233	440.033	444.043	A	Postdoc	s	+1	2	I {disfmarker} I hire {disfmarker} I 've hired two extra people already , expect to hire two more .
+8	Bmr024.s.22	Five "set 2" meetings are being edited by the head transcriber , and "set 3" are being prepared , with the aim of having 20 available for the DARPA demo.
+Bmr024.A.dialogueact236	450.586	455.01	A	Postdoc	s	+1	2	which are now being edited by my head transcriber , {vocalsound} in terms of spelling errors and all that .
+Bmr024.A.dialogueact237	455.01	460.787	A	Postdoc	s	+1	2	She 's also checking through and mar and {disfmarker} {vocalsound} and monitoring , um , the transcription of another transcriber .
+Bmr024.A.dialogueact240	463.54	465.9	A	Postdoc	s	+1	1	And , I 've moved on now to what I 'm calling set three .
+Bmr024.A.dialogueact241	465.9	472.86	A	Postdoc	s	+1	1	I sort of thought if I do it in sets {disfmarker} groups of five , then I can have , like , sort of a {disfmarker} a parallel processing through {disfmarker} through the {disfmarker} the current .
+Bmr024.A.dialogueact243	473.203	481.438	A	Postdoc	s	+1	2	And {disfmarker} and you indicated to me that we have a g a goal now , {vocalsound} for the {disfmarker} for the , um , {nonvocalsound} {vocalsound} the , uh , DARPA demo , of twenty hours .
+Bmr024.A.dialogueact244	481.805	489.323	A	Postdoc	s	+1	2	So , I 'm gonna go up to twenty hours , be sure that everything gets processed , and released , and {disfmarker} {pause} {comment} and that 's {disfmarker} that 's what my goal is .
+Bmr024.D.dialogueact248	494.704	506.687	D	Professor	s	+1	2	But I guess the other thing is that , um , that {disfmarker} that 's kinda twenty hours ASAP because the longer before the demo we actually have the twenty hours , the more time it 'll be for people to actually do cool things with it .
+Bmr024.D.dialogueact263	522.718	536.289	D	Professor	fg|qy^d^rt	+1	4	Yeah , I mean , I guess the {disfmarker} So the difference if {disfmarker} if , um , if the IBM stuff works out , the difference in the job would be that they p primarily would be checking through things that were already done by someone else ?
+6	Bmr024.s.23	Pre-segmentation is very useful , with visual information desirable for transcription of backchannel behaviour.
+Bmr024.A.dialogueact283	563.989	568.511	A	Postdoc	s	+1	1	Well , {vocalsound} I realize that , um , w i we we 're using the pre - segmented version ,
+Bmr024.A.dialogueact284	568.946	572.882	A	Postdoc	fh|s	+1	1	and , um , the pre - segmented version is extremely useful ,
+Bmr024.A.dialogueact285	573.191	577.452	A	Postdoc	qy^cs	+1	1	and wouldn't it be , useful also to have the visual representation of those segments ?
+Bmr024.A.dialogueact286	577.882	591.048	A	Postdoc	s	+1	1	And so I 've {disfmarker} {pause} uh , {pause} I , uh , uh , I 've {comment} trained the new one {disfmarker} uh , the new the newest one , {vocalsound} to , um , {vocalsound} use the visual from the channel that is gonna be transcribed at any given time .
+Bmr024.A.dialogueact288	593.339	598.919	A	Postdoc	s	+1	1	Because what happens then , is you scan across the signal and once in a while you 'll find a blip that didn't show up in the pre - segmentation .
+Bmr024.A.dialogueact301	620.119	622.959	A	Postdoc	s	+1	1	but at the same time we 're benefitting tremendously from the pre - segmentation
+21	Bmr024.s.24	Now Thilo's segmenter is working , the group discuss re-evaluation of recognition without cheating on the segmentation , possibly using time-constrained alignment.
+Bmr024.F.dialogueact325	682.126	690.961	F	Grad	s	+1	2	so , I was just wondering what people thought about how automated can we make the process of finding where the people read the digits , doing a forced alignment , and doing the timing .
+Bmr024.D.dialogueact326	691.674	692.904	D	Professor	s	+1	2	Well , forced alignment would be one thing .
+Bmr024.D.dialogueact327	692.904	694.614	D	Professor	qw^rt	+1	2	What about just actually doing recognition ?
+Bmr024.D.dialogueact345	730.905	737.122	D	Professor	s	+1	2	I was just asking , just out of curiosity , if {disfmarker} if with , uh {disfmarker} uh , the SRI recognizer getting one percent word error ,
+Bmr024.D.dialogueact346	738.25	741.723	D	Professor	fh|qy	+1	2	uh , would we {disfmarker} would we do {pause} better {disfmarker} ?
+Bmr024.D.dialogueact347	742.167	753.83	D	Professor	qy^bu^d^rt	+1	2	So , if you do a forced alignment but the force but the {disfmarker} but the transcription you have is wrong because they actually made mistakes , uh , or {vocalsound} false starts , it 's {disfmarker} it 's much less c {vocalsound} it 's {pause} much less common than one percent ?
+Bmr024.F.dialogueact350	759.249	763.179	F	Grad	fh|s	+1	1	Well , I guess {disfmarker} yeah , I guess if we segmented it , we could get one percent on digits .
+Bmr024.D.dialogueact357	765.19	767.29	D	Professor	s.%-	+1	1	I 'm not saying it should be one way or the other , but it 's {disfmarker} If {disfmarker}
+Bmr024.F.dialogueact360	771.512	773.862	F	Grad	s^cs	+1	2	Hire some people , or use the transcribers to do it .
+Bmr024.F.dialogueact361	773.862	775.552	F	Grad	s^cs	+1	3	We could let IBM transcribe it .
+Bmr024.F.dialogueact364	780.765	782.835	F	Grad	fh|s^cs	+1	3	Um , or we could try some automated methods .
+Bmr024.F.dialogueact365	784.798	791.495	F	Grad	s^cs	+1	3	And my {disfmarker} my tendency right now is , well , if IBM comes back with this meeting and the transcript is good , just let them do it .
+Bmr024.I.dialogueact421	901.639	921.987	I	PhD	fh|s^cs	+1	2	and {disfmarker} {vocalsound} and {disfmarker} and , uh , one of the obvious things that occur to us was that we 're {disfmarker} since we now have Thilo 's segmenter and it works , you know , amazingly well , {vocalsound} um , we should actually basically re - evaluate the recognition , um , results using {disfmarker} you know , without cheating on the segmentations .
+Bmr024.E.dialogueact427	929.062	930.962	E	PhD	qy^d	+1	2	The references for {disfmarker} for {pause} those segments ?
+Bmr024.I.dialogueact432	933.086	943.312	I	PhD	fh|s	+1	2	No , actually , um , NIST has , um m a fairly sophisticated scoring program {vocalsound} that you can give a , um {disfmarker} {vocalsound} a time ,
+Bmr024.I.dialogueact436	944.49	956.086	I	PhD	fh|s.%-	+1	2	uh {disfmarker} You know , you basically just give two {pause} time - marked sequences of words , and it computes the um {disfmarker} the , {comment} uh {disfmarker} {comment} you know , the {disfmarker} the {disfmarker} th
+Bmr024.I.dialogueact441	958.074	961.963	I	PhD	fh|s	+1	2	So , it {disfmarker} we just {disfmarker} and we use that actually in Hub - five to do the scoring .
+Bmr024.I.dialogueact442	962.695	966.635	I	PhD	fh|s	+1	2	Um . So what we 've been using so far was sort of a {pause} simplified version of the scoring .
+Bmr024.I.dialogueact457	980.022	981.662	I	PhD	s	+1	2	It does time - constrained word - alignment .
+Bmr024.I.dialogueact467	993.733	999.39	I	PhD	s	+1	2	That Thilo wanted to use {pause} the recognizer alignments to train up his , um , speech detector .
+Bmr024.I.dialogueact469	1000.23	1009.78	I	PhD	fh|s	+1	2	Um , so that we could use , uh {disfmarker} you know there wouldn't be so much hand {vocalsound} labelling needed to , uh {disfmarker} to generate training data for {disfmarker} for the speech detector .
+19	Bmr024.s.25	Also , they discuss the use of recogniser alignment to train the speech detector.
+Bmr024.D.dialogueact345	730.905	737.122	D	Professor	s	+1	2	I was just asking , just out of curiosity , if {disfmarker} if with , uh {disfmarker} uh , the SRI recognizer getting one percent word error ,
+Bmr024.D.dialogueact346	738.25	741.723	D	Professor	fh|qy	+1	2	uh , would we {disfmarker} would we do {pause} better {disfmarker} ?
+Bmr024.D.dialogueact347	742.167	753.83	D	Professor	qy^bu^d^rt	+1	2	So , if you do a forced alignment but the force but the {disfmarker} but the transcription you have is wrong because they actually made mistakes , uh , or {vocalsound} false starts , it 's {disfmarker} it 's much less c {vocalsound} it 's {pause} much less common than one percent ?
+Bmr024.D.dialogueact327	692.904	694.614	D	Professor	qw^rt	+1	2	What about just actually doing recognition ?
+Bmr024.F.dialogueact325	682.126	690.961	F	Grad	s	+1	2	so , I was just wondering what people thought about how automated can we make the process of finding where the people read the digits , doing a forced alignment , and doing the timing .
+Bmr024.D.dialogueact326	691.674	692.904	D	Professor	s	+1	2	Well , forced alignment would be one thing .
+Bmr024.F.dialogueact360	771.512	773.862	F	Grad	s^cs	+1	2	Hire some people , or use the transcribers to do it .
+Bmr024.F.dialogueact361	773.862	775.552	F	Grad	s^cs	+1	3	We could let IBM transcribe it .
+Bmr024.F.dialogueact364	780.765	782.835	F	Grad	fh|s^cs	+1	3	Um , or we could try some automated methods .
+Bmr024.F.dialogueact365	784.798	791.495	F	Grad	s^cs	+1	3	And my {disfmarker} my tendency right now is , well , if IBM comes back with this meeting and the transcript is good , just let them do it .
+Bmr024.I.dialogueact421	901.639	921.987	I	PhD	fh|s^cs	+1	2	and {disfmarker} {vocalsound} and {disfmarker} and , uh , one of the obvious things that occur to us was that we 're {disfmarker} since we now have Thilo 's segmenter and it works , you know , amazingly well , {vocalsound} um , we should actually basically re - evaluate the recognition , um , results using {disfmarker} you know , without cheating on the segmentations .
+Bmr024.E.dialogueact427	929.062	930.962	E	PhD	qy^d	+1	2	The references for {disfmarker} for {pause} those segments ?
+Bmr024.I.dialogueact432	933.086	943.312	I	PhD	fh|s	+1	2	No , actually , um , NIST has , um m a fairly sophisticated scoring program {vocalsound} that you can give a , um {disfmarker} {vocalsound} a time ,
+Bmr024.I.dialogueact436	944.49	956.086	I	PhD	fh|s.%-	+1	2	uh {disfmarker} You know , you basically just give two {pause} time - marked sequences of words , and it computes the um {disfmarker} the , {comment} uh {disfmarker} {comment} you know , the {disfmarker} the {disfmarker} th
+Bmr024.I.dialogueact441	958.074	961.963	I	PhD	fh|s	+1	2	So , it {disfmarker} we just {disfmarker} and we use that actually in Hub - five to do the scoring .
+Bmr024.I.dialogueact442	962.695	966.635	I	PhD	fh|s	+1	2	Um . So what we 've been using so far was sort of a {pause} simplified version of the scoring .
+Bmr024.I.dialogueact457	980.022	981.662	I	PhD	s	+1	2	It does time - constrained word - alignment .
+Bmr024.I.dialogueact467	993.733	999.39	I	PhD	s	+1	2	That Thilo wanted to use {pause} the recognizer alignments to train up his , um , speech detector .
+Bmr024.I.dialogueact469	1000.23	1009.78	I	PhD	fh|s	+1	2	Um , so that we could use , uh {disfmarker} you know there wouldn't be so much hand {vocalsound} labelling needed to , uh {disfmarker} to generate training data for {disfmarker} for the speech detector .
+16	Bmr024.s.26	The group discuss possible ways to improve the SRI recognition error rate , suggestions include use of low-pass filter , or retraining models.
+Bmr024.B.dialogueact1173	2094.3	2097.59	B	PhD	s^na	+1	3	N I 'm successfully , uh , increasing the error rate .
+Bmr024.I.dialogueact1250	2230.49	2236.01	I	PhD	s.%--	+1	3	d so the one thing that I then tried was to put in the low - pass filter , which we have in the {disfmarker}
+Bmr024.I.dialogueact1251	2236.56	2245.48	I	PhD	s	+1	2	So , most {disfmarker} most Hub - five systems actually band - limit the {disfmarker} uh , at about , uh , thirty - seven hundred , um , hertz .
+Bmr024.I.dialogueact1253	2245.48	2248.91	I	PhD	s	+1	2	Although , you know , normally , I mean , the channel goes to four {disfmarker} four thousand .
+Bmr024.I.dialogueact1258	2255.15	2257.02	I	PhD	fh|s	+1	4	Um {pause} and it didn't hurt on the males either .
+Bmr024.I.dialogueact1261	2262.49	2267.17	I	PhD	s	+1	4	Oh , and suddenly , also the v the vocal tract length normalization only in the test se on the test data .
+Bmr024.I.dialogueact1292	2336.15	2342.44	I	PhD	s	+1	4	We 're looking at the discrepancy between the SRI system and the SRI system when trained with ICSI features .
+Bmr024.D.dialogueact1317	2390.45	2392.36	D	Professor	s^ng	+1	4	Or maybe {disfmarker} or maybe you 're doing one too many .
+Bmr024.I.dialogueact1319	2393.49	2398.01	I	PhD	s^ar|s^nd	+1	4	No , but with Baum - Welch , there shouldn't be an over - fitting issue , really .
+Bmr024.F.dialogueact1323	2400.23	2402.37	F	Grad	s^cs	+1	2	Well , you can try each one on a cross - validation set ,
+Bmr024.D.dialogueact1351	2444.01	2451.66	D	Professor	s^rt	+1	2	Well , he was {disfmarker} he 's {disfmarker} it looked like the probabil at one point he was looking at the probabilities he was getting out {disfmarker} at the likelihoods he was getting out of PLP versus mel cepstrum , and they looked pretty different ,
+Bmr024.D.dialogueact1379	2503.04	2504.85	D	Professor	s	+1	2	But , you 're only talking about a percent or two .
+Bmr024.I.dialogueact1394	2531.01	2534.76	I	PhD	s	+1	2	So , for the PLP features we use the triangular filter shapes .
+Bmr024.I.dialogueact1395	2534.76	2538.25	I	PhD	s	+1	2	And for the {disfmarker} in the SRI front - end we use the trapezoidal one .
+Bmr024.D.dialogueact1430	2588.92	2593.64	D	Professor	s	+1	3	We 've always viewed it , anyway , as the major difference between the two , is actually in the smoothing ,
+Bmr024.D.dialogueact1432	2594.26	2606.48	D	Professor	s	+1	3	that the {disfmarker} that the , um , {vocalsound} PLP , and {disfmarker} and the reason PLP has been advantageous in , uh , slightly noisy situations is because , {vocalsound} PLP does the smoothing at the end by an auto - regressive model ,
+13	Bmr024.s.27	Differences in smoothing are proposed to be mainly responsible for the difference between the male and female results.
+Bmr024.I.dialogueact1258	2255.15	2257.02	I	PhD	fh|s	+1	4	Um {pause} and it didn't hurt on the males either .
+Bmr024.I.dialogueact1261	2262.49	2267.17	I	PhD	s	+1	4	Oh , and suddenly , also the v the vocal tract length normalization only in the test se on the test data .
+Bmr024.I.dialogueact1272	2296.52	2301.22	I	PhD	s	+1	4	maybe between one and two percent , um , for the females .
+Bmr024.I.dialogueact1292	2336.15	2342.44	I	PhD	s	+1	4	We 're looking at the discrepancy between the SRI system and the SRI system when trained with ICSI features .
+Bmr024.D.dialogueact1317	2390.45	2392.36	D	Professor	s^ng	+1	4	Or maybe {disfmarker} or maybe you 're doing one too many .
+Bmr024.I.dialogueact1319	2393.49	2398.01	I	PhD	s^ar|s^nd	+1	4	No , but with Baum - Welch , there shouldn't be an over - fitting issue , really .
+Bmr024.F.dialogueact1323	2400.23	2402.37	F	Grad	s^cs	+1	2	Well , you can try each one on a cross - validation set ,
+Bmr024.D.dialogueact1351	2444.01	2451.66	D	Professor	s^rt	+1	2	Well , he was {disfmarker} he 's {disfmarker} it looked like the probabil at one point he was looking at the probabilities he was getting out {disfmarker} at the likelihoods he was getting out of PLP versus mel cepstrum , and they looked pretty different ,
+Bmr024.D.dialogueact1379	2503.04	2504.85	D	Professor	s	+1	2	But , you 're only talking about a percent or two .
+Bmr024.I.dialogueact1394	2531.01	2534.76	I	PhD	s	+1	2	So , for the PLP features we use the triangular filter shapes .
+Bmr024.I.dialogueact1395	2534.76	2538.25	I	PhD	s	+1	2	And for the {disfmarker} in the SRI front - end we use the trapezoidal one .
+Bmr024.D.dialogueact1430	2588.92	2593.64	D	Professor	s	+1	3	We 've always viewed it , anyway , as the major difference between the two , is actually in the smoothing ,
+Bmr024.D.dialogueact1432	2594.26	2606.48	D	Professor	s	+1	3	that the {disfmarker} that the , um , {vocalsound} PLP , and {disfmarker} and the reason PLP has been advantageous in , uh , slightly noisy situations is because , {vocalsound} PLP does the smoothing at the end by an auto - regressive model ,
+6	Bmr024.s.28	File reorganisation was discussed briefly as Chuck was not present , however progress has been made in sharing file naming conventions with UW.
+Bmr024.D.dialogueact62	141.921	152.836	D	Professor	qy^cs^d^rt	+1	2	but {disfmarker} but , uh , probably , if we had to pick something {pause} that we would talk on for ten minutes or so while they 're coming here . Or I guess it would be , you think , reorganization status ,
+Bmr024.F.dialogueact65	154.147	157.098	F	Grad	s	+1	2	I mean , I think , Chuck was the one who added out the agenda item .
+Bmr024.F.dialogueact66	157.098	159.338	F	Grad	s	+1	2	I don't really have anything to say other than that we still haven't done it .
+Bmr024.F.dialogueact93	207.39	211.46	F	Grad	s	+1	2	So , naming conventions and things like that , that I 've been trying to keep actually up to date .
+Bmr024.F.dialogueact95	212.83	215.51	F	Grad	s	+1	2	And I 've been sharing them with U - d UW folks also .
+Bmr024.I.dialogueact1272	2296.52	2301.22	I	PhD	s	+1	4	maybe between one and two percent , um , for the females .
+5	Bmr024.s.29	Also , the Absinthe machine is now working well , and has speeded up in proportion to its extra processors.
+Bmr024.D.dialogueact1534	2876.75	2878.77	D	Professor	qy^tc.%--	+1	2	So , is there something quick about Absinthe {pause} that you {disfmarker} ?
+Bmr024.F.dialogueact1538	2886.27	2891.37	F	Grad	s	+1	2	and got {vocalsound} {vocalsound} a speedup roughly proportional to the number of processors times the clock cycle .
+Bmr024.F.dialogueact1549	2901.78	2908.68	F	Grad	s	+1	2	But the {disfmarker} what it means is that it 's likely that for net training and forward passes , we 'll {disfmarker} Absinthe will be a good machine .
+Bmr024.F.dialogueact1550	2909.26	2912.11	F	Grad	s	+1	2	Especially if we get a few more processors and upgrade the processors .
+Bmr024.D.dialogueact1606	2993.81	3002.33	D	Professor	s^cs	+1	2	I think , uh , probably , uh , Adam and {disfmarker} and , uh , Chuck and me should talk about {disfmarker} should get together and talk about that sometime soon .

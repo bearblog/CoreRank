@@ -1,0 +1,82 @@
+3	Bmr025.s.24	Several transcribers have now been hired , and double-checking is almost finished.
+Bmr025.A.dialogueact14	39.458	41.398	A	Postdoc	s^rt	+1	2	Um I hired several more transcribers ,
+Bmr025.A.dialogueact15	41.398	42.628	A	Postdoc	s	+1	2	They 're making great progress .
+Bmr025.A.dialogueact21	49.73	52.87	A	Postdoc	s	+1	2	uh I 've been uh finishing up the uh double checking .
+4	Bmr025.s.25	Information retrieval will progress using uncorrected transcripts.
+Bmr025.H.dialogueact25	58.43	66.45	H	Grad	qy^rt	+1	1	as a somewhat segue into the next topic , um could I get a hold of uh the data even if it 's not really corrected yet
+Bmr025.H.dialogueact27	66.45	68.2	H	Grad	s^df^e	+1	1	just so I can get the data formats
+Bmr025.H.dialogueact28	68.81	71.0	H	Grad	s^df^e	+1	1	and make sure the information retrieval stuff is working ?
+Bmr025.H.dialogueact84	144.17	146.06	H	Grad	s^e	+1	3	especially for the information retrieval stuff .
+13	Bmr025.s.26	In parallel to the transcription , the first five EDU meetings are chunked and ready to go to IBM , once the IBM transcript is checked and satisfactory.
+Bmr025.D.dialogueact45	95.02	99.02	D	PhD	s	+1	1	I 've uh just processed the first five EDU meetings
+Bmr025.D.dialogueact46	99.02	100.49	D	PhD	s	+1	1	and they are chunked up
+Bmr025.D.dialogueact47	100.49	103.43	D	PhD	s^rt	+1	1	so they would {disfmarker} they probably can be sent to IBM
+Bmr025.D.dialogueact48	104.139	104.959	D	PhD	s^e^rt	+1	1	whenever they want them .
+Bmr025.F.dialogueact49	105.92	107.16	F	PhD	s.%-	+1	1	Well the second one of those
+Bmr025.D.dialogueact51	107.13	108.82	D	PhD	s^aa|s^2	+1	1	Yep . It 's already at IBM ,
+Bmr025.F.dialogueact54	109.044	111.074	F	PhD	s	+1	1	That 's the one that {pause} we 're waiting to hear from them on .
+Bmr025.F.dialogueact69	117.78	121.7	F	PhD	s^rt	+1	1	And so as soon as we hear from Brian that this one is OK
+Bmr025.F.dialogueact71	121.7	122.92	F	PhD	s	+1	1	and we get the transcript back
+Bmr025.F.dialogueact72	122.92	129.389	F	PhD	s	+1	1	and we find out that hopefully there are no problems matching up the transcript with what we gave them ,
+Bmr025.F.dialogueact73	130.45	133.98	F	PhD	s^cc	+1	1	then uh we 'll be ready to go and we 'll just send them the next four as a big batch ,
+Bmr025.F.dialogueact80	140.58	141.72	F	PhD	s	+1	2	We 're sort of doing things in parallel ,
+Bmr025.H.dialogueact84	144.17	146.06	H	Grad	s^e	+1	3	especially for the information retrieval stuff .
+1	Bmr025.s.27	For the DARPA demo:
+Bmr025.B.dialogueact88	152.36	152.93	B	Professor	s^rt^t	+1	2	DARPA demos ,
+8	Bmr025.s.28	Tools have been written to convert everything into the correct file formats , an now the THISTL back-end querying and indexing tool is now working on the command line.
+Bmr025.H.dialogueact91	156.82	161.38	H	Grad	s	+1	1	So I 've been working on using the THISL tools to do information retrieval on meeting data
+Bmr025.H.dialogueact92	161.908	165.822	H	Grad	s	+1	1	and the THISL tools are {disfmarker} there 're two sets , there 's a back - end and a front - end ,
+Bmr025.H.dialogueact93	165.942	167.312	H	Grad	s	+1	2	so the front - end is the user interface
+Bmr025.H.dialogueact94	167.312	170.532	H	Grad	s	+1	2	and the back - end is the indexing tool and the querying tool .
+Bmr025.H.dialogueact96	176.774	181.7	H	Grad	s	+1	2	And the command line version of the indexing and the querying is now working .
+Bmr025.H.dialogueact97	182.369	188.493	H	Grad	s	+1	1	So at least on the one meeting that I had the transcript for uh conveniently you can now do information retrieval on it ,
+Bmr025.H.dialogueact98	188.593	193.003	H	Grad	s^e	+1	1	do {disfmarker} type in a {disfmarker} a string and get back a list of start - end times for the meeting ,
+Bmr025.H.dialogueact95	171.4	176.37	H	Grad	s	+1	2	And so I 've written some tools to convert everything into the right for file formats .
+7	Bmr025.s.29	Work is also underway to improve the front-end THISTL interface.
+Bmr025.H.dialogueact93	165.942	167.312	H	Grad	s	+1	2	so the front - end is the user interface
+Bmr025.H.dialogueact94	167.312	170.532	H	Grad	s	+1	2	and the back - end is the indexing tool and the querying tool .
+Bmr025.H.dialogueact111	215.475	218.935	H	Grad	s.%--	+1	2	but my intention is to do a prettier user interface based either {disfmarker}
+Bmr025.H.dialogueact119	233.196	235.906	H	Grad	s	+1	3	but it does mean you need to be running a web server .
+Bmr025.H.dialogueact121	236.76	238.69	H	Grad	s	+1	3	And so it {disfmarker} it 's pretty big and complex .
+Bmr025.H.dialogueact122	239.424	241.674	H	Grad	fh|s	+1	3	Uh and it would be difficult to port to Windows
+Bmr025.H.dialogueact125	244.967	250.614	H	Grad	s	+1	3	Uh the other option is Dan did the Tcl - TK THISL GUI front - end for Broadcast News
+11	Bmr025.s.30	The demo of Transcriber interface was discussed , and may include graphical illustration of prosodic features indicating sentence or turn boundaries.
+Bmr025.G.dialogueact337	669.18	679.334	G	PhD	s^cs	+1	2	So another idea I w t had just now actually for the demo was whether it might be of interest to sh to show some of the prosody uh {vocalsound} work that Don 's been doing .
+Bmr025.G.dialogueact340	683.0	688.36	G	PhD	s^cs^e	+1	1	and then show for instance a task like finding sentence boundaries or finding turn boundaries .
+Bmr025.G.dialogueact342	690.36	693.15	G	PhD	s^cs	+1	1	you know , you can show that graphically , sort of what the features are doing .
+Bmr025.G.dialogueact343	693.22	696.18	G	PhD	s	+1	1	It , you know , it doesn't work great but it 's definitely giving us something .
+Bmr025.G.dialogueact345	696.729	698.599	G	PhD	s^no	+1	1	I don't know if that would be of interest or not .
+Bmr025.B.dialogueact346	697.07	700.87	B	Professor	s^na	+1	1	at {disfmarker} at the very least we 're gonna want something illustrative with that
+Bmr025.B.dialogueact348	702.47	708.57	B	Professor	s	+1	1	and so i if there 's something that shows it graphically it 's much better than me just having a bullet point
+Bmr025.C.dialogueact357	717.736	723.05	C	Grad	s^cc	+1	1	Yeah we can probably find some examples of different type of prosodic events going on .
+Bmr025.B.dialogueact359	722.869	729.419	B	Professor	s	+1	2	S so when we here were having this demo meeting , what we 're sort of coming up with is that we wanna have all these pieces together , to first order , by the end of the month
+Bmr025.G.dialogueact370	735.43	735.79	G	PhD	s^bk^m	+1	2	Next month .
+Bmr025.B.dialogueact377	738.703	745.834	B	Professor	fg|s	+1	2	Uh {disfmarker} that 'll {disfmarker} that 'll give us {disfmarker} that 'll give us a week or so to uh {disfmarker} to port things over to my laptop and make sure that works ,
+9	Bmr025.s.31	Work is continuing to create tools for handling XML data , which extract data from the XML key files.
+Bmr025.H.dialogueact403	777.83	779.93	H	Grad	s	+1	2	So I 've been doing a bunch of XML tools
+Bmr025.H.dialogueact406	785.145	790.265	H	Grad	s^df	+1	1	because there are a lot of tools that let you do extraction and reformatting of XML tools .
+Bmr025.H.dialogueact429	835.852	842.688	H	Grad	s^e	+1	1	I 'm converting the Key files to XML so that you can extract m uh various inf uh sorted information on individual meetings
+Bmr025.G.dialogueact436	850.98	854.82	G	PhD	qy^rt	+1	3	Oh , quick question on that . Is {disfmarker} do we have the {disfmarker} {vocalsound} the seat information ?
+Bmr025.H.dialogueact439	856.7	859.54	H	Grad	s^aap.%-	+1	2	The seat information is on the Key files for the ones which
+Bmr025.H.dialogueact502	904.648	908.728	H	Grad	s^df	+1	5	I mean this is why I wanna use a g a tool to do it rather than the plain text
+Bmr025.H.dialogueact504	908.728	911.238	H	Grad	s^df	+1	4	because with the plain text it 's very easy to skip those things .
+Bmr025.H.dialogueact528	936.67	939.96	H	Grad	s^rt	+1	5	Yeah and then the other thing also that Thilo noticed is , on the microphone ,
+Bmr025.H.dialogueact558	978.808	982.835	H	Grad	s^e	+1	5	the {disfmarker} the one that shows up here , {comment} that will flash yellow if the mike isn't connected .
+5	Bmr025.s.32	Tools will also be provided to ensure that appropriate meeting information is present , and that microphones and recording is working.
+Bmr025.G.dialogueact436	850.98	854.82	G	PhD	qy^rt	+1	3	Oh , quick question on that . Is {disfmarker} do we have the {disfmarker} {vocalsound} the seat information ?
+Bmr025.H.dialogueact502	904.648	908.728	H	Grad	s^df	+1	5	I mean this is why I wanna use a g a tool to do it rather than the plain text
+Bmr025.H.dialogueact504	908.728	911.238	H	Grad	s^df	+1	4	because with the plain text it 's very easy to skip those things .
+Bmr025.H.dialogueact528	936.67	939.96	H	Grad	s^rt	+1	5	Yeah and then the other thing also that Thilo noticed is , on the microphone ,
+Bmr025.H.dialogueact558	978.808	982.835	H	Grad	s^e	+1	5	the {disfmarker} the one that shows up here , {comment} that will flash yellow if the mike isn't connected .
+2	Bmr025.s.33	The ChannelTrans interface is now working on Windows machines.
+Bmr025.A.dialogueact657	1195.65	1201.63	A	Postdoc	s^bu^rt	+1	2	I know that uh that Thilo you were , um , bringing the Channeltrans interface onto the Windows machine ?
+Bmr025.D.dialogueact658	1202.46	1203.89	D	PhD	s	+1	2	Yeah it 's {disfmarker} it {disfmarker} Basically it 's done ,
+3	Bmr025.s.34	More wireless microphones have been ordered , and the room is to be re-wired as suggested by Jane , using the wireless close-talking microphones first , and then the far-field microphones.
+Bmr025.H.dialogueact1000	1842.84	1847.02	H	Grad	fh|s	+1	2	W uh {disfmarker} {comment} We ordered uh more wireless ,
+Bmr025.H.dialogueact1003	1849.64	1853.05	H	Grad	s^cc	+1	2	And then at the same time I 'll probably rewire the room as per Jane 's suggestion
+Bmr025.H.dialogueact1004	1853.05	1859.9	H	Grad	s^df	+1	2	so that uh the first N channels are wireless , eh are the m the close - talking and the next N are far - field .
+4	Bmr025.s.35	Analysis of the recognition runs to identify features and their characteristics is on-going.
+Bmr025.B.dialogueact1020	1884.11	1893.79	B	Professor	s	+1	2	I mean there 's {disfmarker} there 's all this stuff going on uh between uh Andreas and {disfmarker} and {disfmarker} and Dave and Chuck and others with various kinds of runs
+Bmr025.B.dialogueact1021	1893.79	1896.21	B	Professor	fh|s^e	+1	2	uh um {disfmarker} recognition runs ,
+Bmr025.B.dialogueact1022	1896.21	1897.92	B	Professor	s	+1	2	trying to figure things out about the features
+Bmr025.B.dialogueact1023	1897.92	1899.98	B	Professor	s	+1	2	but it 's {disfmarker} it 's all sort of in process ,

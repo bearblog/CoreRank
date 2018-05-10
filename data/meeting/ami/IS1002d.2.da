@@ -1,0 +1,557 @@
+IS1002d.A.dialog-act.dharshi.1	3.57	3.87	PM	A	stl	-1	0	Uh 'kay .
+IS1002d.A.dialog-act.dharshi.2	9.69	10.796	PM	A	stl	-1	0	So {disfmarker}
+IS1002d.D.dialog-act.dharshi.1	10.97	11.73	ME	D	stl	-1	0	So so so .
+IS1002d.B.dialog-act.dharshi.1	11.56	12.5	UI	B	sug	-1	0	Put on your mic .
+IS1002d.C.dialog-act.dharshi.1	12.967	16.8	ID	C	el.inf	-1	0	{vocalsound} So you forgot how this works again ?
+IS1002d.B.dialog-act.dharshi.2	17.59	18.2	UI	B	be.pos	-1	0	Boss .
+IS1002d.A.dialog-act.dharshi.3	19.08	19.64	PM	A	bck	-1	0	Yep .
+IS1002d.C.dialog-act.dharshi.2	21.05	21.94	ID	C	be.pos	-1	0	{gap} Boss .
+IS1002d.D.dialog-act.dharshi.2	23.64	25.56	ME	D	ass	-1	0	Maybe . Maybe maybe maybe .
+IS1002d.A.dialog-act.dharshi.4	25.41	31.47	PM	A	inf	+1	0	Okay so we're here to talk about the detailed design of the product ,
+IS1002d.A.dialog-act.dharshi.5	31.47	31.75	PM	A	el.ass	-1	0	'kay ?
+IS1002d.B.dialog-act.dharshi.3	32.15	32.35	UI	B	ass	-1	0	Yep .
+IS1002d.A.dialog-act.dharshi.6	33.21	36.66	PM	A	inf	+1	0	And here's the agenda for this meeting .
+IS1002d.A.dialog-act.dharshi.7	36.66	42.6	PM	A	off	+1	0	Uh I'm just gonna open , say a few boring words to start with again , and start taking minutes afterwards .
+IS1002d.A.dialog-act.dharshi.9	42.6	45.11	PM	A	sug	+1	0	You guys are gonna give us a presentation of our wonder product
+IS1002d.A.dialog-act.dharshi.10	45.11	48.1	PM	A	inf	-1	0	that I can see some demonstrations of over there .
+IS1002d.A.dialog-act.dharshi.11	48.1	48.93	PM	A	ass	-1	0	Looks cool .
+IS1002d.A.dialog-act.dharshi.12	49.27	52.75	PM	A	sug	+1	0	And then we're gonna evaluate it .
+IS1002d.D.dialog-act.dharshi.3	51.536	53.75	ME	D	oth	-1	0	{vocalsound} Bra
+IS1002d.B.dialog-act.dharshi.4	52.192	52.748	UI	B	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.13	52.75	54.54	PM	A	sug	+1	0	Then we're gonna talk about finance ,
+IS1002d.A.dialog-act.dharshi.14	54.54	59.09	PM	A	inf	-1	0	and I've got a lovely Excel spreadsheet that I knocked up in the last five minutes for this .
+IS1002d.A.dialog-act.dharshi.15	59.09	61.22	PM	A	fra	-1	0	And uh
+IS1002d.C.dialog-act.dharshi.3	58.816	60.46	ID	C	el.inf	-1	0	{vocalsound} Hmm you knocked it up ?
+IS1002d.A.dialog-act.dharshi.16	61.22	61.81	PM	A	inf	-1	0	yep .
+IS1002d.A.dialog-act.dharshi.17	61.81	65.84	PM	A	sug	-1	0	And {vocalsound} we're gonna evaluate the product and close .
+IS1002d.B.dialog-act.dharshi.5	61.424	65.005	UI	B	fra	-1	0	{vocalsound}
+IS1002d.C.dialog-act.dharshi.4	61.709	65.602	ID	C	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.18	65.84	67.51	PM	A	inf	-1	0	Got forty minutes to do this in .
+IS1002d.A.dialog-act.dharshi.19	67.51	69.35	PM	A	ass	-1	0	We should be fine .
+IS1002d.A.dialog-act.dharshi.20	69.35	71.76	PM	A	sug	-1	0	Let's try and keep this one on schedule .
+IS1002d.B.dialog-act.dharshi.6	71.24	71.52	UI	B	ass	-1	0	Alright .
+IS1002d.A.dialog-act.dharshi.21	71.76	72.464	PM	A	fra	-1	0	So {disfmarker}
+IS1002d.C.dialog-act.dharshi.5	72.624	72.912	ID	C	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.22	73.84	74.302	PM	A	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.23	75.48	80.1	PM	A	el.inf	-1	0	Your thing is in {disfmarker} where is it ?
+IS1002d.A.dialog-act.dharshi.24	80.1	80.534	PM	A	fra	-1	0	Is it in {disfmarker}
+IS1002d.B.dialog-act.dharshi.7	80.2	81.36	UI	B	inf	-1	0	Three , three .
+IS1002d.C.dialog-act.dharshi.6	79.73	81.15	ID	C	inf	-1	0	Thi third third third .
+IS1002d.C.dialog-act.dharshi.7	82.74	83.77	ID	C	inf	-1	0	The end product thingy .
+IS1002d.C.dialog-act.dharshi.8	87.04	87.35	ID	C	ass	-1	0	Yeah .
+IS1002d.A.dialog-act.dharshi.25	88.84	89.28	PM	A	el.sug	-1	0	Who wants it ?
+IS1002d.B.dialog-act.dharshi.8	91.3	91.89	UI	B	sug	-1	0	Pedro can have it .
+IS1002d.C.dialog-act.dharshi.9	93.672	94.496	ID	C	fra	-1	0	{vocalsound}
+IS1002d.B.dialog-act.dharshi.9	96.39	96.77	UI	B	stl	-1	0	I like {disfmarker}
+IS1002d.C.dialog-act.dharshi.10	96.096	96.448	ID	C	fra	-1	0	{gap} .
+IS1002d.B.dialog-act.dharshi.10	96.77	97.44	UI	B	off	-1	0	I'll help talk .
+IS1002d.C.dialog-act.dharshi.11	97.504	101.48	ID	C	inf	-1	0	{vocalsound} Um yeah so what we ended up with .
+IS1002d.C.dialog-act.dharshi.13	103.65	112.41	ID	C	inf	+1	1	Production costs estimated by our manufacturing department and um the research department , which is us , is uh fifteen point eight Euros ,
+IS1002d.B.dialog-act.dharshi.11	109.696	110.192	UI	B	fra	-1	0	{vocalsound}
+IS1002d.C.dialog-act.dharshi.14	112.41	114.5	ID	C	inf	-1	0	someone forgot the {vocalsound} units there
+IS1002d.B.dialog-act.dharshi.12	113.52	114.28	UI	B	inf	-1	0	Unit price .
+IS1002d.C.dialog-act.dharshi.15	114.5	115.93	ID	C	inf	-1	0	yeah , uh unit price {disfmarker}
+IS1002d.C.dialog-act.dharshi.16	115.93	120.34	ID	C	inf	-1	0	unit production price cost thing . Um
+IS1002d.C.dialog-act.dharshi.17	120.74	123.0	ID	C	inf	+1	1	we implemented the basic functions ,
+IS1002d.C.dialog-act.dharshi.18	123.0	127.55	ID	C	inf	+1	1	which is just T_V_ functions plus the locator ,
+IS1002d.C.dialog-act.dharshi.19	127.55	129.95	ID	C	inf	-1	0	which was one of the marketing things ,
+IS1002d.C.dialog-act.dharshi.20	129.95	131.34	ID	C	inf	+1	1	cradle ,
+IS1002d.C.dialog-act.dharshi.21	131.34	136.37	ID	C	inf	+1	1	scroll wheel for uh the {vocalsound} the channels ,
+IS1002d.C.dialog-act.dharshi.22	136.37	145.3	ID	C	inf	+1	1	and uh we implemented the f the the way of putting the new and revolutionary zapping , your favourite channels functionality , in the scroll .
+IS1002d.A.dialog-act.dharshi.26	145.69	147.07	PM	A	und	-1	0	Zapping your favourite channels , eh ?
+IS1002d.C.dialog-act.dharshi.23	147.35	147.65	ID	C	ass	-1	0	Yeah .
+IS1002d.B.dialog-act.dharshi.13	148.04	149.47	UI	B	inf	+1	1	Scrolling through your favourites list .
+IS1002d.A.dialog-act.dharshi.27	149.48	150.13	PM	A	inf	-1	0	Oh okay okay .
+IS1002d.C.dialog-act.dharshi.24	150.15	151.18	ID	C	inf	-1	0	Zapping you know zapping .
+IS1002d.A.dialog-act.dharshi.28	151.9	153.25	PM	A	ass	-1	0	Ah 'kay okay , that's favourites .
+IS1002d.C.dialog-act.dharshi.25	152.64	156.0	ID	C	ass	-1	0	Maybe it's just a Portuguese thing {vocalsound} .
+IS1002d.C.dialog-act.dharshi.26	156.0	157.76	ID	C	inf	-1	0	And um yeah that was the result .
+IS1002d.A.dialog-act.dharshi.29	159.03	160.81	PM	A	ass	-1	0	Ah 'kay .
+IS1002d.A.dialog-act.dharshi.30	160.81	163.16	PM	A	ass	+1	1	I like the the the the logo on there as well .
+IS1002d.C.dialog-act.dharshi.27	160.767	162.595	ID	C	fra	-1	0	{vocalsound}
+IS1002d.B.dialog-act.dharshi.14	163.91	164.82	UI	B	ass	-1	0	It's very prominent {vocalsound} .
+IS1002d.A.dialog-act.dharshi.31	165.35	166.11	PM	A	ass	-1	0	It is very prominent .
+IS1002d.A.dialog-act.dharshi.32	166.11	166.896	PM	A	fra	-1	0	So this is the {disfmarker}
+IS1002d.B.dialog-act.dharshi.15	168.05	168.89	UI	B	stl	-1	0	So {vocalsound}
+IS1002d.B.dialog-act.dharshi.16	168.89	170.81	UI	B	off	-1	0	here I'll give you the {disfmarker}
+IS1002d.B.dialog-act.dharshi.17	170.81	172.03	UI	B	inf	+1	1	so this is the cradle unit ,
+IS1002d.B.dialog-act.dharshi.18	172.03	175.01	UI	B	inf	-1	0	and this is the actual remote itself .
+IS1002d.B.dialog-act.dharshi.19	175.01	182.16	UI	B	inf	+1	1	Um so the scroll bar is {disfmarker} or the scroll wheel is this this green little scrolly guy here ,
+IS1002d.B.dialog-act.dharshi.20	182.16	185.41	UI	B	inf	-1	0	um and then the volume controls are here and here .
+IS1002d.A.dialog-act.dharshi.33	185.05	185.45	PM	A	bck	-1	0	Okay .
+IS1002d.B.dialog-act.dharshi.21	185.41	190.67	UI	B	inf	-1	0	Uh you've got the keypad which is the numbers uh f from zero to nine and then ten .
+IS1002d.B.dialog-act.dharshi.22	190.67	192.18	UI	B	inf	-1	0	This is the power button .
+IS1002d.B.dialog-act.dharshi.23	192.18	195.01	UI	B	stl	-1	0	Uh we have our um {vocalsound}
+IS1002d.B.dialog-act.dharshi.24	195.01	196.48	UI	B	inf	-1	0	we have the enter button
+IS1002d.B.dialog-act.dharshi.25	196.48	199.2	UI	B	el.inf	-1	0	and uh what was the other button here ?
+IS1002d.B.dialog-act.dharshi.26	201.67	202.8	UI	B	inf	+1	1	This is the teletext .
+IS1002d.C.dialog-act.dharshi.28	201.9	203.01	ID	C	stl	-1	0	Start s the
+IS1002d.C.dialog-act.dharshi.30	203.01	205.4	ID	C	inf	-1	0	the start uh to to to
+IS1002d.B.dialog-act.dharshi.27	204.8	206.05	UI	B	inf	-1	0	The programme button ,
+IS1002d.C.dialog-act.dharshi.31	205.4	205.97	ID	C	ass	-1	0	programme yeah .
+IS1002d.A.dialog-act.dharshi.34	206.38	207.25	PM	A	ass	-1	0	Ah , okay I see .
+IS1002d.B.dialog-act.dharshi.28	206.05	207.69	UI	B	ass	-1	0	yeah the programme button .
+IS1002d.B.dialog-act.dharshi.29	207.69	216.18	UI	B	inf	+1	1	So this bl this button will be used both for the favourites and for programming {vocalsound} your uh the um the type of television you wanna use .
+IS1002d.B.dialog-act.dharshi.30	216.18	221.35	UI	B	inf	+1	1	So um the plastic is the white area of this {disfmarker} of the model here ,
+IS1002d.B.dialog-act.dharshi.31	221.35	223.67	UI	B	inf	+1	1	and the red area is like a rubber covering .
+IS1002d.A.dialog-act.dharshi.35	223.96	224.54	PM	A	ass	-1	0	It's pretty cool .
+IS1002d.B.dialog-act.dharshi.32	223.67	227.24	UI	B	inf	-1	0	So you can see that when it lays like this or like this {disfmarker}
+IS1002d.B.dialog-act.dharshi.33	227.24	232.32	UI	B	inf	+1	1	and the buttons are all gonna be rubber , so it's pretty hard to actually damage it um {disfmarker}
+IS1002d.A.dialog-act.dharshi.36	232.26	232.6	PM	A	stl	-1	0	Is that {disfmarker}
+IS1002d.A.dialog-act.dharshi.37	232.6	236.64	PM	A	el.inf	+1	1	could that be easy to {disfmarker} for the scroll wheel to be rotated if it lands on it ?
+IS1002d.B.dialog-act.dharshi.34	237.43	244.03	UI	B	ass	+1	1	Yeah that might be a possible a mi uh possible problem , but if you drop it {disfmarker}
+IS1002d.C.dialog-act.dharshi.32	243.25	245.57	ID	C	be.pos	-1	0	Not helping {vocalsound} .
+IS1002d.A.dialog-act.dharshi.38	244.064	245.2	PM	A	fra	-1	0	{vocalsound}
+IS1002d.B.dialog-act.dharshi.36	244.03	244.59	UI	B	ass	-1	0	yeah {vocalsound} .
+IS1002d.A.dialog-act.dharshi.39	246.31	248.69	PM	A	ass	-1	0	Oh well I guess it depends on the stiffness a little of it .
+IS1002d.B.dialog-act.dharshi.38	249.38	249.75	UI	B	ass	-1	0	Yeah
+IS1002d.B.dialog-act.dharshi.39	249.75	251.98	UI	B	inf	-1	0	and it depends on if it's sliding ,
+IS1002d.B.dialog-act.dharshi.40	251.98	253.44	UI	B	ass	-1	0	but I think it's pretty ergonomic .
+IS1002d.B.dialog-act.dharshi.41	253.44	254.09	UI	B	sug	-1	0	You can feel it .
+IS1002d.A.dialog-act.dharshi.40	254.73	256.5	PM	A	ass	-1	0	Mm . Feels good .
+IS1002d.C.dialog-act.dharshi.33	255.472	255.888	ID	C	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.41	256.5	260.45	PM	A	el.inf	+1	1	I take it that this is gonna be slightly lighter in the final design as well .
+IS1002d.B.dialog-act.dharshi.42	259.38	260.54	UI	B	inf	-1	0	Yeah of course .
+IS1002d.B.dialog-act.dharshi.43	260.54	261.84	UI	B	inf	-1	0	Well this is clay {vocalsound} .
+IS1002d.C.dialog-act.dharshi.34	260.556	262.338	ID	C	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.42	262.752	264.89	PM	A	ass	-1	0	{vocalsound} Yeah it's kinda cool .
+IS1002d.A.dialog-act.dharshi.43	264.89	266.13	PM	A	ass	-1	0	You have to reach a little bit don't you .
+IS1002d.B.dialog-act.dharshi.44	265.52	267.2	UI	B	ass	-1	0	Yeah the the power button is a bit of a reach ,
+IS1002d.B.dialog-act.dharshi.45	267.2	269.84	UI	B	off	+1	1	but I think we might scale down the final model a bit .
+IS1002d.A.dialog-act.dharshi.44	269.44	270.65	PM	A	ass	-1	0	Ah yeah that wouldn't make sense .
+IS1002d.B.dialog-act.dharshi.46	269.84	272.704	UI	B	inf	-1	0	{vocalsound} These {disfmarker} this is a bit larger than it would be , but {disfmarker}
+IS1002d.A.dialog-act.dharshi.45	273.66	274.81	PM	A	ass	-1	0	It's cool . I'm impressed .
+IS1002d.C.dialog-act.dharshi.35	275.13	276.44	ID	C	ass	-1	0	Don't have no one to handle that .
+IS1002d.B.dialog-act.dharshi.47	275.92	276.727	UI	B	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.46	277.95	278.85	PM	A	sug	-1	0	And hold it so {vocalsound} {disfmarker}
+IS1002d.D.dialog-act.dharshi.4	277.58	279.27	ME	D	stl	-1	0	Mm that's {disfmarker}
+IS1002d.A.dialog-act.dharshi.47	278.85	280.46	PM	A	el.ass	-1	0	wh what's the marketing perspective ?
+IS1002d.D.dialog-act.dharshi.5	279.27	280.69	ME	D	stl	-1	0	oh that's {disfmarker}
+IS1002d.D.dialog-act.dharshi.6	280.69	282.14	ME	D	ass	-1	0	oh I like it .
+IS1002d.D.dialog-act.dharshi.7	282.14	285.74	ME	D	ass	-1	0	I mean you guys gave me more than I was asking for , so I'm happy
+IS1002d.D.dialog-act.dharshi.8	285.74	288.15	ME	D	ass	-1	0	because we've got some really marketable features in this .
+IS1002d.D.dialog-act.dharshi.9	290.6	292.0	ME	D	ass	-1	0	Yeah I think it's good .
+IS1002d.D.dialog-act.dharshi.10	292.0	293.04	ME	D	ass	-1	0	Good good good job .
+IS1002d.B.dialog-act.dharshi.48	294.23	297.5	UI	B	sug	-1	0	Mm Pedro can demonstrate the the paging ability .
+IS1002d.C.dialog-act.dharshi.36	296.24	296.62	ID	C	off	-1	0	Yeah .
+IS1002d.C.dialog-act.dharshi.37	297.19	303.05	ID	C	inf	+1	2	So you ha you have like the the base station with um the little button for the where's my remote .
+IS1002d.B.dialog-act.dharshi.50	303.27	303.95	UI	B	oth	+1	2	Beep beep beep .
+IS1002d.D.dialog-act.dharshi.11	304.08	305.49	ME	D	fra	-1	0	{vocalsound} Uh pla
+IS1002d.B.dialog-act.dharshi.49	305.616	306.576	UI	B	fra	-1	0	{vocalsound}
+IS1002d.C.dialog-act.dharshi.38	307.22	308.48	ID	C	inf	-1	0	The locator function .
+IS1002d.D.dialog-act.dharshi.12	307.35	307.68	ME	D	fra	-1	0	I'm ha
+IS1002d.A.dialog-act.dharshi.48	308.204	309.52	PM	A	bck	-1	0	{vocalsound} Okay .
+IS1002d.D.dialog-act.dharshi.13	308.95	312.15	ME	D	ass	-1	0	It's great . That's great . It's a great feature .
+IS1002d.B.dialog-act.dharshi.51	311.49	315.07	UI	B	oth	-1	0	Um beep beep beep {vocalsound}
+IS1002d.A.dialog-act.dharshi.49	312.15	314.97	PM	A	ass	-1	0	Mm it's impressing .
+IS1002d.C.dialog-act.dharshi.39	314.08	322.704	ID	C	ass	-1	0	{vocalsound} Wicked isn't it ? {vocalsound}
+IS1002d.A.dialog-act.dharshi.51	314.97	315.71	PM	A	oth	-1	0	{vocalsound} So let me get it ,
+IS1002d.B.dialog-act.dharshi.52	315.07	317.4	UI	B	fra	-1	0	so {vocalsound}
+IS1002d.A.dialog-act.dharshi.52	315.71	317.248	PM	A	el.inf	-1	0	if I press this button {disfmarker}
+IS1002d.B.dialog-act.dharshi.53	317.4	321.5	UI	B	oth	-1	0	beep beep beep {vocalsound}
+IS1002d.A.dialog-act.dharshi.53	318.33	320.92	PM	A	ass	-1	0	I see . That's pretty cool .
+IS1002d.A.dialog-act.dharshi.59	320.92	321.31	PM	A	oth	-1	0	Hang on .
+IS1002d.A.dialog-act.dharshi.60	321.68	326.187	PM	A	fra	-1	0	{vocalsound}
+IS1002d.B.dialog-act.dharshi.54	321.5	323.47	UI	B	oth	-1	0	beep beep beep {vocalsound}
+IS1002d.B.dialog-act.dharshi.55	323.47	326.11	UI	B	be.pos	-1	0	be shut up . {vocalsound}
+IS1002d.C.dialog-act.dharshi.41	324.584	335.473	ID	C	fra	-1	0	{vocalsound}
+IS1002d.D.dialog-act.dharshi.14	324.16	328.839	ME	D	be.pos	-1	0	So you can take this ho take this home with you tonight and you can push that and he'll be across town {disfmarker}
+IS1002d.B.dialog-act.dharshi.56	326.11	330.46	UI	B	oth	-1	0	Beep beep beep {vocalsound}
+IS1002d.A.dialog-act.dharshi.61	328.336	328.848	PM	A	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.62	329.613	333.69	PM	A	be.pos	-1	0	{vocalsound} I plan to do that as well .
+IS1002d.B.dialog-act.dharshi.57	330.46	334.22	UI	B	be.pos	-1	0	okay . Um no no no tha that's alri
+IS1002d.A.dialog-act.dharshi.63	333.69	338.32	PM	A	el.inf	-1	0	{vocalsound} So the the two blue {disfmarker} are are those for the the it to charge off of {disfmarker} in ?
+IS1002d.B.dialog-act.dharshi.58	337.84	340.01	UI	B	inf	-1	0	Exactly that's exactly what those are for .
+IS1002d.A.dialog-act.dharshi.64	338.96	339.59	PM	A	ass	-1	0	Ah okay okay .
+IS1002d.B.dialog-act.dharshi.59	340.01	344.45	UI	B	inf	+1	2	And um there's one other feature that we were debating , but we decided to go against it ,
+IS1002d.B.dialog-act.dharshi.60	344.45	345.98	UI	B	stl	-1	0	is um {disfmarker} you could
+IS1002d.C.dialog-act.dharshi.42	344.144	344.512	ID	C	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.65	346.401	348.527	PM	A	fra	-1	0	{vocalsound}
+IS1002d.B.dialog-act.dharshi.61	345.98	349.27	UI	B	oth	-1	0	beep beep beep {vocalsound} {disfmarker}
+IS1002d.C.dialog-act.dharshi.43	346.014	353.448	ID	C	fra	-1	0	{vocalsound}
+IS1002d.B.dialog-act.dharshi.62	349.27	353.35	UI	B	inf	+1	2	we were thinking that it might be interesting to have a trigger button here because you have this finger {disfmarker}
+IS1002d.A.dialog-act.dharshi.66	352.87	355.2	PM	A	ass	-1	0	Yeah {vocalsound} it's the right shape isn't it ?
+IS1002d.B.dialog-act.dharshi.63	353.35	355.89	UI	B	inf	-1	0	it it's it kinda feels like there should be something there ,
+IS1002d.B.dialog-act.dharshi.64	355.89	359.48	UI	B	inf	+1	2	but we couldn't figure out what button is important enough to put there .
+IS1002d.B.dialog-act.dharshi.65	359.48	362.707	UI	B	inf	+1	2	And we we don't wanna accidentally be hitting the power button like that so {disfmarker}
+IS1002d.A.dialog-act.dharshi.67	361.91	366.45	PM	A	sug	+1	2	But maybe if you had a trigger plus the scroll then that would get past the the problem of it landing and scrolling ,
+IS1002d.B.dialog-act.dharshi.66	363.86	364.06	UI	B	bck	-1	0	Mm .
+IS1002d.A.dialog-act.dharshi.68	366.45	368.3	PM	A	inf	-1	0	'cause then it would need to be hit on both sides {gap} .
+IS1002d.B.dialog-act.dharshi.67	366.28	366.51	UI	B	bck	-1	0	Right .
+IS1002d.B.dialog-act.dharshi.68	368.12	371.18	UI	B	off	+1	1	So maybe in a final design phase we might tweak that a little bit ,
+IS1002d.A.dialog-act.dharshi.69	371.2	371.55	PM	A	ass	-1	0	Okay .
+IS1002d.B.dialog-act.dharshi.69	371.18	371.584	UI	B	fra	-1	0	but {disfmarker}
+IS1002d.D.dialog-act.dharshi.15	372.93	374.08	ME	D	ass	-1	0	Uh , I can see that .
+IS1002d.A.dialog-act.dharshi.70	373.51	377.08	PM	A	ass	+1	1	But it's definitely got options for like different types of models and things as well based on that ,
+IS1002d.A.dialog-act.dharshi.71	377.08	377.37	PM	A	el.ass	-1	0	hasn't it ?
+IS1002d.B.dialog-act.dharshi.70	376.73	377.01	UI	B	bck	-1	0	Mm-hmm .
+IS1002d.D.dialog-act.dharshi.16	379.2	380.9	ME	D	ass	-1	0	Yep I like .
+IS1002d.D.dialog-act.dharshi.17	380.9	381.22	ME	D	ass	-1	0	Good job .
+IS1002d.A.dialog-act.dharshi.72	382.15	384.19	PM	A	el.inf	-1	0	So is that the the final colour scheme as well or ?
+IS1002d.D.dialog-act.dharshi.18	383.457	386.02	ME	D	ass	-1	0	{vocalsound} No no .
+IS1002d.B.dialog-act.dharshi.71	384.38	387.37	UI	B	inf	-1	0	Oh no this is {vocalsound} just what we had to work with at the time .
+IS1002d.A.dialog-act.dharshi.73	387.8	388.09	PM	A	ass	-1	0	Okay .
+IS1002d.B.dialog-act.dharshi.72	388.84	391.15	UI	B	sug	+1	1	So we'll leave the colour scheme up to the marketing people .
+IS1002d.A.dialog-act.dharshi.75	391.89	392.8	PM	A	fra	-1	0	The {disfmarker} hmm .
+IS1002d.B.dialog-act.dharshi.73	393.904	394.464	UI	B	fra	-1	0	{vocalsound}
+IS1002d.B.dialog-act.dharshi.77	396.63	396.97	UI	B	sug	-1	0	Careful .
+IS1002d.A.dialog-act.dharshi.76	397.39	398.66	PM	A	inf	-1	0	It came off .
+IS1002d.A.dialog-act.dharshi.77	398.66	401.568	PM	A	ass	-1	0	The scroll wheels , {gap} a problem with them not being sort of {disfmarker}
+IS1002d.B.dialog-act.dharshi.74	400.768	401.168	UI	B	fra	-1	0	{vocalsound}
+IS1002d.C.dialog-act.dharshi.44	403.632	403.904	ID	C	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.78	404.44	406.7	PM	A	inf	-1	0	I don't think the user interface guy wants to touch it anymore .
+IS1002d.D.dialog-act.dharshi.19	404.16	405.86	ME	D	fra	-1	0	Well I mean of course , I mean {disfmarker}
+IS1002d.B.dialog-act.dharshi.75	405.12	408.524	UI	B	fra	-1	0	{vocalsound}
+IS1002d.C.dialog-act.dharshi.45	406.601	409.659	ID	C	fra	-1	0	{vocalsound}
+IS1002d.D.dialog-act.dharshi.20	406.32	411.62	ME	D	sug	+1	1	My my s my suggestion is we're gonna go go to the silvers and blacks like most of the televisions .
+IS1002d.A.dialog-act.dharshi.74	411.54	411.83	PM	A	bck	-1	0	Mm .
+IS1002d.D.dialog-act.dharshi.21	412.85	414.51	ME	D	sug	-1	0	You know some blend of silvers and blacks .
+IS1002d.B.dialog-act.dharshi.76	417.472	421.408	UI	B	oth	-1	0	{vocalsound} Beep beep beep . {vocalsound}
+IS1002d.A.dialog-act.dharshi.79	419.168	421.34	PM	A	ass	-1	0	{vocalsound} Okay enough of that .
+IS1002d.C.dialog-act.dharshi.46	418.932	421.888	ID	C	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.80	421.34	422.35	PM	A	ass	-1	0	Well i it's cool guys .
+IS1002d.A.dialog-act.dharshi.81	423.6	426.62	PM	A	el.inf	-1	0	'Kay so are we done with the this presentation ?
+IS1002d.B.dialog-act.dharshi.78	427.03	427.21	UI	B	inf	-1	0	Yeah .
+IS1002d.C.dialog-act.dharshi.47	427.32	427.63	ID	C	inf	-1	0	Ja .
+IS1002d.A.dialog-act.dharshi.82	427.97	428.543	PM	A	ass	-1	0	Okay . {vocalsound}
+IS1002d.C.dialog-act.dharshi.48	430.12	439.169	ID	C	fra	-1	0	{vocalsound}
+IS1002d.B.dialog-act.dharshi.79	431.072	432.03	UI	B	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.83	432.96	433.37	PM	A	oth	-1	0	Now now .
+IS1002d.B.dialog-act.dharshi.80	434.368	435.216	UI	B	fra	-1	0	{vocalsound}
+IS1002d.D.dialog-act.dharshi.22	437.24	440.45	ME	D	inf	+1	1	So you're not gonna find my uh my folder up there
+IS1002d.D.dialog-act.dharshi.23	440.45	441.66	ME	D	inf	+1	1	I gotta do mine up at the board .
+IS1002d.A.dialog-act.dharshi.84	442.89	443.5	PM	A	ass	-1	0	Have you ? Okay .
+IS1002d.D.dialog-act.dharshi.24	443.76	444.11	ME	D	ass	-1	0	Yeah yeah .
+IS1002d.D.dialog-act.dharshi.25	445.21	447.456	ME	D	stl	-1	0	So {vocalsound} {disfmarker}
+IS1002d.A.dialog-act.dharshi.85	447.38	450.2	PM	A	el.inf	-1	0	Can I not get your get at stuff from your shared folder now ?
+IS1002d.D.dialog-act.dharshi.26	450.49	455.81	ME	D	inf	+1	2	No it's not in there because I had the computer problem and I I I cou I couldn't create it .
+IS1002d.A.dialog-act.dharshi.86	453.3	454.1	PM	A	ass	-1	0	Oh I see I see .
+IS1002d.D.dialog-act.dharshi.27	455.81	458.13	ME	D	inf	-1	0	I couldn't create it in the PowerPoint ,
+IS1002d.A.dialog-act.dharshi.87	457.744	458.24	PM	A	fra	-1	0	{vocalsound}
+IS1002d.D.dialog-act.dharshi.28	458.13	461.91	ME	D	inf	-1	0	and I think I've got this really strange cable .
+IS1002d.D.dialog-act.dharshi.29	461.91	468.45	ME	D	fra	-1	0	So what I had , basically going from the PowerPoint format , is that
+IS1002d.D.dialog-act.dharshi.30	468.45	471.37	ME	D	ass	-1	0	uh yeah yeah I like this a lot .
+IS1002d.D.dialog-act.dharshi.31	473.66	479.71	ME	D	el.inf	-1	0	Is this one of the tests is to see how we can adapt to s changing situations in the in the meeting room ?
+IS1002d.A.dialog-act.dharshi.88	480.752	481.152	PM	A	fra	-1	0	{vocalsound}
+IS1002d.C.dialog-act.dharshi.49	480.352	483.14	ID	C	inf	-1	0	{vocalsound} Nah .
+IS1002d.B.dialog-act.dharshi.81	481.072	481.648	UI	B	fra	-1	0	{vocalsound}
+IS1002d.D.dialog-act.dharshi.32	483.14	485.11	ME	D	inf	-1	0	So what we had is we had the method .
+IS1002d.D.dialog-act.dharshi.34	488.64	490.01	ME	D	el.inf	-1	0	That's not how you spell method , is it ?
+IS1002d.B.dialog-act.dharshi.82	490.98	491.56	UI	B	inf	-1	0	No way .
+IS1002d.A.dialog-act.dharshi.89	491.734	492.407	PM	A	fra	-1	0	{vocalsound}
+IS1002d.D.dialog-act.dharshi.35	491.73	493.2	ME	D	ass	-1	0	No A_ {vocalsound} .
+IS1002d.D.dialog-act.dharshi.33	494.304	496.064	ME	D	fra	-1	0	{gap} .
+IS1002d.D.dialog-act.dharshi.36	497.776	500.32	ME	D	ass	-1	0	{vocalsound} So this doesn't go so fast this way .
+IS1002d.D.dialog-act.dharshi.37	503.1	507.0	ME	D	inf	+1	1	And when I speak about method I speak about the marketing of the product huh .
+IS1002d.D.dialog-act.dharshi.38	514.96	523.09	ME	D	inf	+1	1	And uh to me with this product we got uh {disfmarker} we got {vocalsound} basically three things to market .
+IS1002d.D.dialog-act.dharshi.39	523.09	524.69	ME	D	inf	+1	1	We've got the features ,
+IS1002d.D.dialog-act.dharshi.40	528.28	530.74	ME	D	inf	+1	1	we have the uh characteristics ,
+IS1002d.D.dialog-act.dharshi.41	535.48	537.71	ME	D	stl	-1	0	and we have the {vocalsound}
+IS1002d.D.dialog-act.dharshi.42	537.71	539.74	ME	D	inf	-1	0	I I don't know what we would call the other part {disfmarker}
+IS1002d.D.dialog-act.dharshi.43	539.74	545.952	ME	D	stl	-1	0	what we call you know the the {vocalsound} the corp corporate {disfmarker}
+IS1002d.D.dialog-act.dharshi.44	547.38	547.93	ME	D	el.inf	-1	0	Help me .
+IS1002d.D.dialog-act.dharshi.45	550.53	553.69	ME	D	inf	+1	1	The the corporation stands behind the product , okay .
+IS1002d.D.dialog-act.dharshi.46	553.69	555.62	ME	D	inf	-1	0	So the features I think {vocalsound}
+IS1002d.D.dialog-act.dharshi.47	555.62	563.52	ME	D	inf	-1	0	we got the scroll , we've got the uh the locator , we've got the durability , we've got the dependability ,
+IS1002d.C.dialog-act.dharshi.50	559.75	560.52	ID	C	inf	-1	0	It fell off .
+IS1002d.D.dialog-act.dharshi.48	563.52	569.31	ME	D	inf	+1	1	we've got you know the features that make this a unique product . Um
+IS1002d.B.dialog-act.dharshi.83	565.3	565.84	UI	B	oth	-1	0	Beep beep beep .
+IS1002d.D.dialog-act.dharshi.49	569.868	572.53	ME	D	inf	-1	0	{vocalsound} the characteristics I talk about ,
+IS1002d.D.dialog-act.dharshi.50	572.53	579.99	ME	D	inf	+1	1	we have reliability , we have comfort , we have ergonomics , we have environmentally s sensitive .
+IS1002d.D.dialog-act.dharshi.51	579.99	586.11	ME	D	inf	-1	0	Uh and the corporation , we're talking about {disfmarker} we're we're a new we're a new company .
+IS1002d.D.dialog-act.dharshi.52	586.11	588.34	ME	D	inf	-1	0	We're wanting to make a name for ourself .
+IS1002d.D.dialog-act.dharshi.53	588.34	594.28	ME	D	inf	-1	0	We're wanting you to uh find our product so we're gonna give you a good product at a fair price .
+IS1002d.D.dialog-act.dharshi.54	594.5	607.39	ME	D	sug	+1	2	One thing I would want to to see is uh is can we can we get a lifetime uh guarantee on this product , a normal use guarantee ,
+IS1002d.D.dialog-act.dharshi.55	607.39	617.62	ME	D	inf	-1	0	which means that this product , for the for the life of of {disfmarker} the life use , if it should have a technical problem , that we could re replace it at no cost ?
+IS1002d.D.dialog-act.dharshi.56	617.62	619.98	ME	D	ass	-1	0	That was something I would be interested in .
+IS1002d.D.dialog-act.dharshi.58	619.98	622.97	ME	D	stl	-1	0	Um so {vocalsound} yeah
+IS1002d.D.dialog-act.dharshi.59	622.97	626.23	ME	D	ass	-1	0	without uh going into great details , we have a we have a product ,
+IS1002d.D.dialog-act.dharshi.60	626.23	638.43	ME	D	ass	+1	1	it has the features and the characteristics , and the background , I believe , to make it marketable I believe at a cost of of of thirty thirty five to to fifty Euros .
+IS1002d.D.dialog-act.dharshi.61	638.43	644.45	ME	D	ass	+1	1	We're gonna be competitive , and we're gonna we're gonna have a market niche .
+IS1002d.D.dialog-act.dharshi.57	644.45	645.46	ME	D	stl	-1	0	Um w
+IS1002d.A.dialog-act.dharshi.90	645.24	645.6	PM	A	stl	-1	0	Do you {disfmarker}
+IS1002d.A.dialog-act.dharshi.91	645.6	653.73	PM	A	el.ass	+1	1	would you a argue that that we're better going for the higher cost than bringing it down into twenty f five as we probably could , but lowering our profit margins ?
+IS1002d.D.dialog-act.dharshi.62	654.21	658.58	ME	D	ass	-1	0	That that would be uh that would be I think a decision best made by corporate
+IS1002d.D.dialog-act.dharshi.63	658.58	660.13	ME	D	stl	-1	0	um I I m
+IS1002d.D.dialog-act.dharshi.64	660.13	666.94	ME	D	ass	+1	1	for my evaluation , based on what our competition is , I th I think that that we can go after this
+IS1002d.D.dialog-act.dharshi.65	666.94	673.31	ME	D	ass	-1	0	and and and go after more of the uh exclusivity sense than the mass market sense .
+IS1002d.A.dialog-act.dharshi.92	673.74	674.02	PM	A	bck	-1	0	Mm-hmm .
+IS1002d.A.dialog-act.dharshi.93	675.2	675.47	PM	A	ass	-1	0	Mm 'kay .
+IS1002d.D.dialog-act.dharshi.66	677.97	681.26	ME	D	ass	-1	0	But I'm sh I'm sure open to to market this in either direction .
+IS1002d.D.dialog-act.dharshi.67	683.39	685.7	ME	D	ass	-1	0	But you guys came up with a great product ,
+IS1002d.D.dialog-act.dharshi.68	685.7	692.5	ME	D	ass	+1	1	and at that cost I think it uh {disfmarker} there's nobody else that's putting this this combination of of ingredients together .
+IS1002d.D.dialog-act.dharshi.69	692.5	697.35	ME	D	ass	+1	3	The only limitations I see to this is that we're focused on television only .
+IS1002d.D.dialog-act.dharshi.70	697.63	701.53	ME	D	ass	-1	0	Uh that's the only that's the only drawback I see to this .
+IS1002d.D.dialog-act.dharshi.71	701.53	709.38	ME	D	ass	-1	0	But with all of these other features I think people c {vocalsound} one thing I'm I'm hoping for is people are not gonna even notice .
+IS1002d.D.dialog-act.dharshi.72	709.38	716.78	ME	D	ass	+1	3	There's gonna be somebody going home and say oh sh this thing doesn't work for my D_V_D_ and my {disfmarker} but I like these other things , so they keep it , they don't take it back .
+IS1002d.A.dialog-act.dharshi.94	716.4	722.31	PM	A	inf	-1	0	And we're actually quite open to be able to expand the product for a later version with those features quite simply anyway , aren't we ?
+IS1002d.A.dialog-act.dharshi.95	722.31	725.0	PM	A	inf	-1	0	Th there's no fundamentally different technology to do that .
+IS1002d.D.dialog-act.dharshi.73	722.896	730.13	ME	D	sug	+1	3	{vocalsound} Well one of one of the thoughts that I had is can can this unit be be produced in a way that makes it upgradable ?
+IS1002d.A.dialog-act.dharshi.96	732.21	732.46	PM	A	bck	-1	0	Hmm .
+IS1002d.D.dialog-act.dharshi.74	731.84	738.55	ME	D	inf	-1	0	You know uh like like a um a sim card in a in a um in a telephone .
+IS1002d.D.dialog-act.dharshi.75	738.55	742.399	ME	D	el.inf	-1	0	You know is there a card in th can we make a card and so after {vocalsound} {disfmarker}
+IS1002d.C.dialog-act.dharshi.51	741.51	747.198	ID	C	inf	+1	2	W we need we need we need s some more buttons if it would to work on some other stuff , but {disfmarker}
+IS1002d.B.dialog-act.dharshi.84	746.46	746.7	UI	B	bck	-1	0	Mm-hmm .
+IS1002d.D.dialog-act.dharshi.76	746.68	747.92	ME	D	bck	-1	0	Mm-hmm ,
+IS1002d.D.dialog-act.dharshi.77	747.92	749.26	ME	D	el.und	-1	0	but you follow what I'm s I'm s
+IS1002d.C.dialog-act.dharshi.52	748.63	749.46	ID	C	und	-1	0	We we w yeah
+IS1002d.C.dialog-act.dharshi.53	749.46	752.86	ID	C	inf	-1	0	we could get another version of it that actually works .
+IS1002d.C.dialog-act.dharshi.54	752.86	753.794	ID	C	fra	-1	0	But uh {disfmarker}
+IS1002d.D.dialog-act.dharshi.78	752.53	756.16	ME	D	fra	-1	0	Yeah 'cause if if we can make this unit upgradable then we're {disfmarker} {vocalsound}
+IS1002d.D.dialog-act.dharshi.79	756.16	759.46	ME	D	inf	-1	0	yeah but then we talk about changing the warranty concept and everything ,
+IS1002d.D.dialog-act.dharshi.80	759.46	762.07	ME	D	inf	-1	0	but that's that was just an idea I had .
+IS1002d.D.dialog-act.dharshi.81	762.07	763.867	ME	D	fra	-1	0	Uh to me the only additions {disfmarker}
+IS1002d.A.dialog-act.dharshi.97	762.68	767.74	PM	A	ass	+1	2	Yeah , the plus there's the the risk of making it unusable as well , or making it less {disfmarker}
+IS1002d.A.dialog-act.dharshi.98	767.74	770.69	PM	A	inf	+1	2	b because at the moment it's actually very straightforward to look at all the buttons ,
+IS1002d.A.dialog-act.dharshi.99	770.69	772.93	PM	A	inf	-1	0	you know what they do , it's very simple , and it just works .
+IS1002d.D.dialog-act.dharshi.82	771.57	771.74	ME	D	bck	-1	0	Yeah .
+IS1002d.A.dialog-act.dharshi.100	774.04	775.09	PM	A	ass	-1	0	Mm there's a risk of that .
+IS1002d.D.dialog-act.dharshi.83	773.55	773.81	ME	D	bck	-1	0	Yep .
+IS1002d.D.dialog-act.dharshi.84	775.54	777.11	ME	D	inf	-1	0	But anyway that's uh {disfmarker}
+IS1002d.A.dialog-act.dharshi.101	779.57	781.59	PM	A	sug	+1	1	Okay so we can talk about finance now .
+IS1002d.A.dialog-act.dharshi.102	782.99	785.14	PM	A	inf	+1	1	So I have a little spreadsheet for us
+IS1002d.A.dialog-act.dharshi.103	785.14	786.01	PM	A	fra	-1	0	where {disfmarker}
+IS1002d.A.dialog-act.dharshi.104	786.01	787.01	PM	A	stl	-1	0	I I was wondering , you {disfmarker}
+IS1002d.A.dialog-act.dharshi.105	787.01	790.19	PM	A	el.inf	-1	0	when you talked about the fifteen point eight Euros , I was wondering how you came up with that figure ?
+IS1002d.B.dialog-act.dharshi.85	791.24	798.07	UI	B	inf	-1	0	Well , that was just just our technical team added up the um production costs of the individual units .
+IS1002d.D.dialog-act.dharshi.85	791.681	793.059	ME	D	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.107	797.91	798.59	PM	A	ass	-1	0	Okay
+IS1002d.A.dialog-act.dharshi.108	798.59	802.83	PM	A	inf	-1	0	so I have bit of a spreadsheet here for this .
+IS1002d.A.dialog-act.dharshi.109	803.651	804.01	PM	A	stl	-1	0	{vocalsound} Now
+IS1002d.B.dialog-act.dharshi.86	803.75	804.13	UI	B	oth	-1	0	Oh .
+IS1002d.C.dialog-act.dharshi.55	803.65	805.51	ID	C	ass	-1	0	Very co very colf colourful .
+IS1002d.A.dialog-act.dharshi.110	804.85	812.86	PM	A	inf	+1	1	I've made a f few assumptions here in that I'm assuming that our power adaptor we can make for a cost of four Euros ,
+IS1002d.B.dialog-act.dharshi.87	806.366	806.848	UI	B	fra	-1	0	{vocalsound}
+IS1002d.B.dialog-act.dharshi.88	809.62	809.83	UI	B	bck	-1	0	Uh-huh .
+IS1002d.A.dialog-act.dharshi.111	812.86	814.99	PM	A	inf	-1	0	equivalent to solar cells ,
+IS1002d.A.dialog-act.dharshi.112	814.99	822.84	PM	A	inf	+1	1	which I think is probably fair considering that we have in-house manufacturing of power adaptors already .
+IS1002d.B.dialog-act.dharshi.89	822.21	822.46	UI	B	bck	-1	0	Uh-huh .
+IS1002d.A.dialog-act.dharshi.113	822.84	828.13	PM	A	inf	+1	1	Uh {vocalsound} and I'm assuming that the locator beacon ,
+IS1002d.A.dialog-act.dharshi.114	828.13	828.896	PM	A	inf	-1	0	the you know the {disfmarker}
+IS1002d.B.dialog-act.dharshi.90	829.48	829.7	UI	B	bck	-1	0	Yeah .
+IS1002d.D.dialog-act.dharshi.86	829.21	829.5	ME	D	bck	-1	0	Mm-hmm .
+IS1002d.C.dialog-act.dharshi.56	829.78	830.24	ID	C	oth	-1	0	beep beep beep .
+IS1002d.A.dialog-act.dharshi.115	830.592	832.37	PM	A	fra	-1	0	{vocalsound} Can be made for {disfmarker}
+IS1002d.A.dialog-act.dharshi.116	832.37	833.74	PM	A	ass	-1	0	it sounded different that time {disfmarker}
+IS1002d.A.dialog-act.dharshi.117	833.74	838.16	PM	A	inf	+1	1	uh can be made for a similar price to uh an L_C_ display ,
+IS1002d.B.dialog-act.dharshi.91	834.27	838.123	UI	B	be.pos	-1	0	Oh , sorry . {vocalsound}
+IS1002d.C.dialog-act.dharshi.57	835.632	836.398	ID	C	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.118	838.16	839.648	PM	A	stl	-1	0	uh an uh {gap} {disfmarker}
+IS1002d.A.dialog-act.dharshi.119	840.496	843.36	PM	A	el.ass	-1	0	{vocalsound} Uh do you think that's fair coming from a {disfmarker} m the manufacturing ?
+IS1002d.B.dialog-act.dharshi.92	843.7	844.11	UI	B	ass	-1	0	Yeah
+IS1002d.B.dialog-act.dharshi.93	844.11	851.69	UI	B	inf	+1	1	um I do think we that we we {vocalsound} uh don't need the events chip on print , we only need the uh the regular chip on print ,
+IS1002d.A.dialog-act.dharshi.120	844.752	845.456	PM	A	fra	-1	0	{gap} .
+IS1002d.A.dialog-act.dharshi.121	851.96	852.29	PM	A	ass	-1	0	Okay .
+IS1002d.B.dialog-act.dharshi.94	851.69	854.46	UI	B	ass	-1	0	so there may have been a m miscalculation in there .
+IS1002d.A.dialog-act.dharshi.122	853.62	853.77	PM	A	bck	-1	0	Yep .
+IS1002d.A.dialog-act.dharshi.123	858.42	858.7	PM	A	ass	-1	0	Okay .
+IS1002d.A.dialog-act.dharshi.124	860.15	861.75	PM	A	inf	-1	0	So we're down to sixteen point four , yeah .
+IS1002d.B.dialog-act.dharshi.95	861.24	863.952	UI	B	inf	-1	0	And we and we have a single-curved uh {disfmarker}
+IS1002d.A.dialog-act.dharshi.125	865.64	867.63	PM	A	el.inf	+1	1	Is that a single-curved rather than a double-curved ?
+IS1002d.B.dialog-act.dharshi.96	868.76	870.081	UI	B	fra	-1	0	Uh I think that {disfmarker}
+IS1002d.A.dialog-act.dharshi.126	871.17	873.28	PM	A	inf	-1	0	We're not entirely sure what single-curve versus double-cur
+IS1002d.D.dialog-act.dharshi.87	870.88	873.87	ME	D	inf	-1	0	{vocalsound} We've got a we've got a curve and a droop .
+IS1002d.D.dialog-act.dharshi.88	873.87	876.87	ME	D	inf	-1	0	I don't know whether that {vocalsound} .
+IS1002d.B.dialog-act.dharshi.97	874.94	876.66	UI	B	inf	+1	1	It's single-curved ,
+IS1002d.A.dialog-act.dharshi.127	876.07	876.46	PM	A	el.ass	-1	0	You think ?
+IS1002d.A.dialog-act.dharshi.128	876.46	877.58	PM	A	ass	-1	0	Okay
+IS1002d.B.dialog-act.dharshi.98	876.66	876.9	UI	B	ass	-1	0	yeah .
+IS1002d.A.dialog-act.dharshi.129	877.58	878.4	PM	A	ass	-1	0	I'm {gap} convinced .
+IS1002d.A.dialog-act.dharshi.130	880.47	882.81	PM	A	inf	-1	0	But we save one Euro that way , yeah ?
+IS1002d.A.dialog-act.dharshi.131	882.81	886.9	PM	A	inf	+1	1	So we come {disfmarker} bring it down to {disfmarker} {vocalsound} Fifteen point four .
+IS1002d.B.dialog-act.dharshi.99	885.83	887.94	UI	B	inf	+1	1	See it's a little bit more than f single-curved .
+IS1002d.B.dialog-act.dharshi.100	887.94	889.44	UI	B	inf	+1	1	So yeah it's fifteen point eight ,
+IS1002d.B.dialog-act.dharshi.101	889.44	892.64	UI	B	inf	-1	0	that's where we came up with it {vocalsound} .
+IS1002d.A.dialog-act.dharshi.133	891.365	892.86	PM	A	oth	-1	0	{vocalsound} Well hang on .
+IS1002d.D.dialog-act.dharshi.89	891.344	893.861	ME	D	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.134	892.86	894.61	PM	A	sug	-1	0	Do don't speak so {disfmarker}
+IS1002d.A.dialog-act.dharshi.135	894.61	895.76	PM	A	fra	-1	0	it's in here , in that {vocalsound}
+IS1002d.B.dialog-act.dharshi.103	894.58	894.94	UI	B	bck	-1	0	Okay .
+IS1002d.A.dialog-act.dharshi.136	895.76	897.09	PM	A	stl	-1	0	w do we have any {disfmarker}
+IS1002d.A.dialog-act.dharshi.137	897.09	899.24	PM	A	el.inf	-1	0	we have special form don't we ?
+IS1002d.B.dialog-act.dharshi.102	898.61	899.19	UI	B	inf	-1	0	Yeah we do .
+IS1002d.C.dialog-act.dharshi.58	898.34	898.67	ID	C	inf	-1	0	Yeah .
+IS1002d.A.dialog-act.dharshi.138	899.24	901.3	PM	A	stl	-1	0	So that's {disfmarker} yeah .
+IS1002d.B.dialog-act.dharshi.104	900.55	903.64	UI	B	oth	-1	0	Ah . What do you know {vocalsound} .
+IS1002d.A.dialog-act.dharshi.139	901.3	902.46	PM	A	stl	-1	0	But the the the {disfmarker}
+IS1002d.A.dialog-act.dharshi.140	902.46	904.63	PM	A	inf	+1	1	we haven't talked about any special colour though
+IS1002d.A.dialog-act.dharshi.141	904.63	905.79	PM	A	stl	-1	0	uh I don't th
+IS1002d.B.dialog-act.dharshi.105	905.12	908.896	UI	B	ass	-1	0	{vocalsound} Oh it's {vocalsound} a that's not very special , it's pretty {disfmarker}
+IS1002d.A.dialog-act.dharshi.142	905.79	907.92	PM	A	inf	+1	1	if we're going for greys and silvers then I don't think we're {disfmarker}
+IS1002d.A.dialog-act.dharshi.143	909.156	910.752	PM	A	fra	-1	0	{vocalsound} O okay so we're {disfmarker}
+IS1002d.B.dialog-act.dharshi.106	910.032	913.93	UI	B	fra	-1	0	{vocalsound} If th {vocalsound} .
+IS1002d.A.dialog-act.dharshi.144	911.64	915.81	PM	A	stl	-1	0	Push-button , scroll wheel , we're {disfmarker} basically we have uh th
+IS1002d.C.dialog-act.dharshi.59	911.71	912.112	ID	C	fra	-1	0	We don't {disfmarker}
+IS1002d.A.dialog-act.dharshi.145	915.81	920.08	PM	A	el.inf	+1	1	is this intended to be a button as well or just a scroll ?
+IS1002d.B.dialog-act.dharshi.107	919.32	919.95	UI	B	inf	+1	1	That's a scroll .
+IS1002d.C.dialog-act.dharshi.60	918.89	919.58	ID	C	inf	-1	0	It's a scroll .
+IS1002d.A.dialog-act.dharshi.146	920.08	920.7	PM	A	el.inf	-1	0	Just a scroll ?
+IS1002d.A.dialog-act.dharshi.147	920.7	924.17	PM	A	el.inf	-1	0	It's not one of the scrolls where , for example , with this one you could push it down to be a button ?
+IS1002d.B.dialog-act.dharshi.108	924.87	927.45	UI	B	inf	-1	0	Uh no we just use it as a scroll .
+IS1002d.D.dialog-act.dharshi.90	926.42	926.79	ME	D	oth	-1	0	Ooh .
+IS1002d.A.dialog-act.dharshi.148	927.94	929.23	PM	A	ass	-1	0	Okay
+IS1002d.A.dialog-act.dharshi.149	929.23	930.96	PM	A	inf	+1	1	then we have fifteen point eight Euros .
+IS1002d.B.dialog-act.dharshi.109	931.35	933.73	UI	B	ass	-1	0	It was a pretty accurate estimate I would say .
+IS1002d.A.dialog-act.dharshi.150	932.832	933.76	PM	A	ass	-1	0	{vocalsound} It wasn't bad .
+IS1002d.C.dialog-act.dharshi.61	933.03	933.43	ID	C	bck	-1	0	Yes .
+IS1002d.B.dialog-act.dharshi.110	934.502	936.64	UI	B	bck	-1	0	{vocalsound} Yeah {vocalsound} .
+IS1002d.C.dialog-act.dharshi.62	934.58	936.22	ID	C	be.pos	-1	0	We're wicked . Awesome .
+IS1002d.A.dialog-act.dharshi.151	937.17	938.13	PM	A	stl	-1	0	Okay so
+IS1002d.A.dialog-act.dharshi.152	939.24	940.64	PM	A	stl	-1	0	we're on to the {disfmarker}
+IS1002d.B.dialog-act.dharshi.111	939.7	942.75	UI	B	be.pos	-1	0	S 's kind of s frighteningly accurate {vocalsound} .
+IS1002d.C.dialog-act.dharshi.63	942.31	942.78	ID	C	bck	-1	0	Yeah .
+IS1002d.A.dialog-act.dharshi.153	942.96	947.84	PM	A	inf	+1	1	We're on to the pat-on-the-back part of the presentation ,
+IS1002d.A.dialog-act.dharshi.154	947.84	959.98	PM	A	inf	-1	0	where we have a look at the criterias th that Paul {vocalsound} the criterion criteria that Paul has has given us {vocalsound} , and we can use that to tell {disfmarker} How's it going ?
+IS1002d.A.dialog-act.dharshi.155	961.856	964.26	PM	A	el.ass	-1	0	{vocalsound} Anyone got any thoughts ?
+IS1002d.B.dialog-act.dharshi.112	963.43	963.57	UI	B	und	-1	0	What ?
+IS1002d.A.dialog-act.dharshi.156	964.26	965.37	PM	A	el.ass	+1	1	How how have we done today ?
+IS1002d.B.dialog-act.dharshi.113	966.17	967.09	UI	B	ass	+1	1	I think we did pretty well .
+IS1002d.A.dialog-act.dharshi.157	968.04	969.41	PM	A	ass	-1	0	I think we did pretty well too .
+IS1002d.C.dialog-act.dharshi.64	967.6	967.79	ID	C	bck	-1	0	Yeah .
+IS1002d.A.dialog-act.dharshi.158	969.41	970.73	PM	A	ass	-1	0	That looks pretty spectacular .
+IS1002d.D.dialog-act.dharshi.91	971.08	979.0	ME	D	ass	+1	1	No , I think we come up with a with a attractive marketable um product and and concept .
+IS1002d.A.dialog-act.dharshi.159	988.68	990.03	PM	A	el.ass	-1	0	Any other chang uh thoughts ?
+IS1002d.A.dialog-act.dharshi.160	997.06	1000.62	PM	A	el.ass	+1	1	Okay so th th what about um room for creativity ?
+IS1002d.D.dialog-act.dharshi.92	998.24	999.68	ME	D	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.161	1003.67	1005.6	PM	A	fra	-1	0	Is it the {gap} .
+IS1002d.C.dialog-act.dharshi.65	1003.54	1004.535	ID	C	fra	-1	0	That was mm-hmm {disfmarker}
+IS1002d.B.dialog-act.dharshi.114	1005.0	1007.71	UI	B	ass	+1	2	Sh I think there was plenty of room .
+IS1002d.A.dialog-act.dharshi.162	1006.92	1007.28	PM	A	stl	-1	0	I {vocalsound}
+IS1002d.C.dialog-act.dharshi.66	1006.75	1006.93	ID	C	bck	-1	0	Yeah .
+IS1002d.A.dialog-act.dharshi.163	1007.28	1009.35	PM	A	ass	+1	2	I think we we ended up being quite creative there .
+IS1002d.B.dialog-act.dharshi.115	1007.71	1008.93	UI	B	stl	-1	0	We got a couple innovative i
+IS1002d.D.dialog-act.dharshi.93	1009.64	1010.33	ME	D	ass	-1	0	Yeah
+IS1002d.B.dialog-act.dharshi.116	1010.42	1011.58	UI	B	ass	-1	0	Couple innovative ideas .
+IS1002d.D.dialog-act.dharshi.94	1010.33	1013.48	ME	D	stl	-1	0	well we we we kinda broke {vocalsound} {disfmarker}
+IS1002d.D.dialog-act.dharshi.95	1013.48	1018.8	ME	D	ass	+1	3	we kinda at least adjusted every every criteria they gave us
+IS1002d.A.dialog-act.dharshi.164	1019.2	1019.42	PM	A	bck	-1	0	Mm .
+IS1002d.D.dialog-act.dharshi.96	1018.8	1023.66	ME	D	inf	-1	0	because we d we still have the the teletext capability in this thing right ,
+IS1002d.B.dialog-act.dharshi.117	1023.1	1023.32	UI	B	bck	-1	0	Mm-hmm .
+IS1002d.C.dialog-act.dharshi.67	1022.9	1023.09	ID	C	bck	-1	0	No .
+IS1002d.D.dialog-act.dharshi.97	1023.66	1027.51	ME	D	inf	-1	0	we raised the price of it , we've added two t new technology to it .
+IS1002d.C.dialog-act.dharshi.68	1025.15	1025.6	ID	C	bck	-1	0	Yeah .
+IS1002d.D.dialog-act.dharshi.98	1027.51	1033.53	ME	D	inf	-1	0	So you know you know if this thing flies then we've we've adjusted or broken every every idea they gave us .
+IS1002d.A.dialog-act.dharshi.165	1034.32	1035.55	PM	A	ass	-1	0	Not every idea necessarily ,
+IS1002d.C.dialog-act.dharshi.69	1034.39	1035.05	ID	C	bck	-1	0	Basically .
+IS1002d.A.dialog-act.dharshi.166	1035.55	1038.96	PM	A	inf	-1	0	it's still a remote control {vocalsound} .
+IS1002d.B.dialog-act.dharshi.118	1037.488	1038.647	UI	B	fra	-1	0	{vocalsound}
+IS1002d.D.dialog-act.dharshi.99	1037.54	1038.66	ME	D	ass	-1	0	Yeah yeah yeah yeah .
+IS1002d.A.dialog-act.dharshi.168	1038.96	1039.41	PM	A	stl	-1	0	Uh no
+IS1002d.A.dialog-act.dharshi.169	1039.41	1042.61	PM	A	ass	+1	3	yeah but {disfmarker} we did we did break with the specs a little bit I guess ,
+IS1002d.C.dialog-act.dharshi.70	1039.135	1039.873	ID	C	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.170	1042.61	1043.52	PM	A	fra	-1	0	but the uh {disfmarker}
+IS1002d.D.dialog-act.dharshi.100	1043.88	1044.52	ME	D	stl	-1	0	But I like {disfmarker}
+IS1002d.D.dialog-act.dharshi.101	1044.52	1049.06	ME	D	ass	-1	0	I mean when I say we have we had {disfmarker} I believe we have room for creativity 'cause w this is {disfmarker} we did it .
+IS1002d.A.dialog-act.dharshi.171	1051.28	1054.7	PM	A	el.ass	-1	0	'Kay leadership , what do we report back to the bosses ?
+IS1002d.A.dialog-act.dharshi.172	1054.7	1059.65	PM	A	ass	-1	0	No th th I think they were r reasonably flexible with us over the whole changing the specs thing .
+IS1002d.B.dialog-act.dharshi.119	1060.74	1061.14	UI	B	bck	-1	0	Yep .
+IS1002d.C.dialog-act.dharshi.71	1060.65	1066.16	ID	C	ass	+1	2	It was more of a teamwork thing then really leadership based project was
+IS1002d.A.dialog-act.dharshi.173	1064.74	1065.29	PM	A	ass	-1	0	I agree .
+IS1002d.C.dialog-act.dharshi.72	1067.88	1068.55	ID	C	ass	-1	0	Teamwork .
+IS1002d.D.dialog-act.dharshi.102	1067.92	1070.91	ME	D	ass	-1	0	Cohesive yeah .
+IS1002d.A.dialog-act.dharshi.174	1069.91	1070.48	PM	A	ass	-1	0	Synergy .
+IS1002d.B.dialog-act.dharshi.120	1070.943	1074.38	UI	B	be.pos	-1	0	{vocalsound} There was a lot of synergy .
+IS1002d.C.dialog-act.dharshi.73	1070.928	1077.488	ID	C	fra	-1	0	{vocalsound}
+IS1002d.D.dialog-act.dharshi.103	1070.91	1073.0	ME	D	ass	-1	0	Yes synergistic yeah .
+IS1002d.A.dialog-act.dharshi.175	1072.617	1077.52	PM	A	ass	-1	0	{vocalsound} Teamwork ,
+IS1002d.A.dialog-act.dharshi.176	1077.52	1078.91	PM	A	fra	-1	0	yeah he is uh .
+IS1002d.D.dialog-act.dharshi.104	1078.41	1078.82	ME	D	bck	-1	0	Yeah .
+IS1002d.A.dialog-act.dharshi.177	1080.24	1082.37	PM	A	el.ass	-1	0	What did we think of the meeting room ,
+IS1002d.A.dialog-act.dharshi.178	1082.37	1083.76	PM	A	ass	-1	0	I guess is an important thing here .
+IS1002d.A.dialog-act.dharshi.179	1085.82	1086.04	PM	A	bck	-1	0	Mm .
+IS1002d.B.dialog-act.dharshi.121	1085.68	1088.29	UI	B	ass	+1	3	These cables suck {vocalsound} .
+IS1002d.A.dialog-act.dharshi.181	1087.92	1089.7	PM	A	ass	-1	0	Yeah , this falls off
+IS1002d.C.dialog-act.dharshi.74	1088.52	1088.83	ID	C	ass	-1	0	Yeah .
+IS1002d.A.dialog-act.dharshi.182	1089.7	1093.1	PM	A	ass	-1	0	and uh the white board worked really well without any pro
+IS1002d.B.dialog-act.dharshi.122	1090.05	1090.27	UI	B	bck	-1	0	Yep .
+IS1002d.C.dialog-act.dharshi.75	1090.87	1091.385	ID	C	fra	-1	0	And that's {disfmarker}
+IS1002d.B.dialog-act.dharshi.123	1092.47	1092.79	UI	B	bck	-1	0	Yeah .
+IS1002d.C.dialog-act.dharshi.76	1092.6	1094.09	ID	C	ass	-1	0	D you must have very long shirts .
+IS1002d.C.dialog-act.dharshi.77	1094.09	1097.15	ID	C	ass	-1	0	That's way far down lapel mic .
+IS1002d.A.dialog-act.dharshi.183	1097.9	1098.95	PM	A	und	-1	0	Mm-mm , lapel .
+IS1002d.A.dialog-act.dharshi.184	1098.95	1101.16	PM	A	ass	-1	0	Wha okay , oh , alright {vocalsound} .
+IS1002d.C.dialog-act.dharshi.78	1098.48	1102.42	ID	C	inf	-1	0	{vocalsound} Lapel lapel lapel {vocalsound} .
+IS1002d.B.dialog-act.dharshi.124	1099.29	1099.77	UI	B	inf	-1	0	Lapel .
+IS1002d.C.dialog-act.dharshi.79	1102.42	1110.326	ID	C	be.pos	-1	0	That's almost a crotch {vocalsound} mi cr {vocalsound}
+IS1002d.A.dialog-act.dharshi.185	1104.61	1106.51	PM	A	ass	-1	0	That's it's down , it's quite close .
+IS1002d.D.dialog-act.dharshi.105	1104.938	1113.472	ME	D	be.pos	-1	0	{vocalsound} You know you know what they're gonna have on the recording in there from that microphone is your lunch digesting you know th {vocalsound}
+IS1002d.A.dialog-act.dharshi.186	1107.31	1108.6	PM	A	be.pos	-1	0	Keep it , keep it calm .
+IS1002d.A.dialog-act.dharshi.187	1110.992	1120.38	PM	A	be.pos	-1	0	{vocalsound} Oh dear {vocalsound} . No more pizza for me {vocalsound} .
+IS1002d.C.dialog-act.dharshi.80	1110.544	1119.92	ID	C	be.pos	-1	0	{vocalsound} Oh dear oh dear {vocalsound} .
+IS1002d.D.dialog-act.dharshi.106	1114.787	1118.153	ME	D	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.188	1120.38	1122.31	PM	A	ass	+1	1	So yeah the the pen came in alright
+IS1002d.A.dialog-act.dharshi.189	1122.31	1124.86	PM	A	ass	+1	3	and it's a little uncomfortable to use but I guess it works .
+IS1002d.C.dialog-act.dharshi.81	1124.58	1126.71	ID	C	ass	-1	0	'Cause this is {disfmarker} you were using it o upside down .
+IS1002d.C.dialog-act.dharshi.82	1126.71	1127.44	ID	C	fra	-1	0	Still that {disfmarker}
+IS1002d.B.dialog-act.dharshi.125	1127.552	1133.48	UI	B	be.pos	-1	0	{vocalsound} That's our boss {vocalsound} .
+IS1002d.A.dialog-act.dharshi.190	1128.186	1133.63	PM	A	ass	-1	0	{vocalsound} Nah , I'm I'm not convinced of that at all .
+IS1002d.D.dialog-act.dharshi.107	1128.096	1131.638	ME	D	fra	-1	0	{vocalsound}
+IS1002d.C.dialog-act.dharshi.83	1128.63	1133.156	ID	C	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.191	1133.63	1135.54	PM	A	inf	-1	0	I've been wor I've been wondering about that all day ,
+IS1002d.A.dialog-act.dharshi.192	1135.54	1137.46	PM	A	stl	-1	0	but see these look like they're {disfmarker}
+IS1002d.A.dialog-act.dharshi.193	1137.46	1140.86	PM	A	ass	-1	0	that looks the oth that looks like it would be that way around ,
+IS1002d.C.dialog-act.dharshi.84	1138.12	1139.12	ID	C	inf	-1	0	Use them like that .
+IS1002d.B.dialog-act.dharshi.126	1139.72	1140.37	UI	B	ass	-1	0	Pedro's right .
+IS1002d.A.dialog-act.dharshi.194	1140.86	1143.91	PM	A	ass	-1	0	but it feels more comfortable , wh what you call upside-down .
+IS1002d.B.dialog-act.dharshi.127	1142.54	1143.5	UI	B	ass	-1	0	Pedro's right .
+IS1002d.A.dialog-act.dharshi.195	1143.91	1145.14	PM	A	ass	-1	0	I don't care .
+IS1002d.A.dialog-act.dharshi.196	1145.14	1148.3	PM	A	inf	-1	0	Uh okay so that data might be slightly invalid .
+IS1002d.A.dialog-act.dharshi.197	1148.3	1149.67	PM	A	el.ass	+1	1	What new ideas have we found ?
+IS1002d.C.dialog-act.dharshi.85	1147.968	1149.024	ID	C	fra	-1	0	{vocalsound}
+IS1002d.B.dialog-act.dharshi.128	1151.92	1152.61	UI	B	fra	-1	0	Oh wel
+IS1002d.D.dialog-act.dharshi.108	1152.06	1157.36	ME	D	el.inf	-1	0	New ideas f uh for the product or for the the the the environment or {disfmarker}
+IS1002d.A.dialog-act.dharshi.198	1157.51	1159.47	PM	A	sug	-1	0	Well let's do both then .
+IS1002d.D.dialog-act.dharshi.109	1157.36	1157.87	ME	D	fra	-1	0	what are we ta
+IS1002d.A.dialog-act.dharshi.199	1159.47	1160.56	PM	A	el.ass	-1	0	Uh for the product ?
+IS1002d.B.dialog-act.dharshi.129	1160.96	1167.56	UI	B	ass	+1	1	Well we had the favourites list , and the scroll bar , and we have the cradle , and the r uh remote call feature .
+IS1002d.D.dialog-act.dharshi.110	1166.75	1166.9	ME	D	oth	-1	0	Oh .
+IS1002d.A.dialog-act.dharshi.200	1168.0	1169.37	PM	A	ass	-1	0	Yeah we came up with quite a bit .
+IS1002d.C.dialog-act.dharshi.86	1169.33	1170.67	ID	C	ass	-1	0	Bunch of new ideas .
+IS1002d.A.dialog-act.dharshi.201	1171.15	1173.36	PM	A	el.ass	-1	0	And for the meeting room , Has anyone got any more {disfmarker}
+IS1002d.C.dialog-act.dharshi.87	1174.78	1176.86	ID	C	ass	+1	3	Yeah comfortable headsets would be nice .
+IS1002d.A.dialog-act.dharshi.202	1176.9	1178.3	PM	A	ass	-1	0	Yeah less sore on the ears .
+IS1002d.D.dialog-act.dharshi.111	1177.03	1179.2	ME	D	stl	-1	0	Well I I mean {disfmarker}
+IS1002d.C.dialog-act.dharshi.88	1177.93	1178.29	ID	C	bck	-1	0	Mm .
+IS1002d.D.dialog-act.dharshi.112	1179.2	1185.3	ME	D	ass	-1	0	clearly remote control microphones would be the would be a nice solution to all these cables ,
+IS1002d.D.dialog-act.dharshi.113	1185.3	1190.08	ME	D	ass	-1	0	but I'm sure that there's there's some justification for these things that I don't know about .
+IS1002d.D.dialog-act.dharshi.114	1190.08	1193.21	ME	D	ass	+1	3	And of course I did not have so much fun with my computer this afternoon .
+IS1002d.B.dialog-act.dharshi.130	1193.355	1194.16	UI	B	fra	-1	0	{vocalsound}
+IS1002d.D.dialog-act.dharshi.115	1193.21	1196.78	ME	D	ass	-1	0	It's not been uh it's not been cooperating so well ,
+IS1002d.D.dialog-act.dharshi.116	1196.78	1198.37	ME	D	ass	-1	0	but {vocalsound} I don't think that's the
+IS1002d.D.dialog-act.dharshi.117	1199.96	1200.7	ME	D	ass	-1	0	that's avoidable .
+IS1002d.C.dialog-act.dharshi.89	1201.0	1201.6	ID	C	ass	-1	0	Coulda been worse .
+IS1002d.A.dialog-act.dharshi.203	1202.34	1203.52	PM	A	stl	-1	0	Okay {vocalsound} so {disfmarker}
+IS1002d.A.dialog-act.dharshi.204	1204.6	1205.793	PM	A	el.inf	+1	2	Are the costs within the budget ? {vocalsound}
+IS1002d.C.dialog-act.dharshi.90	1205.83	1207.38	ID	C	inf	-1	0	Mm n {vocalsound} no .
+IS1002d.A.dialog-act.dharshi.205	1206.75	1207.4	PM	A	inf	-1	0	Nope .
+IS1002d.D.dialog-act.dharshi.118	1206.45	1206.67	ME	D	inf	-1	0	No .
+IS1002d.A.dialog-act.dharshi.206	1207.4	1208.5	PM	A	oth	-1	0	Oh hang on it really {disfmarker}
+IS1002d.A.dialog-act.dharshi.207	1208.5	1211.5	PM	A	inf	-1	0	that's something we {disfmarker} that the costs were under twelve fifty Euros .
+IS1002d.A.dialog-act.dharshi.208	1211.5	1212.56	PM	A	inf	-1	0	No requirements are changed .
+IS1002d.A.dialog-act.dharshi.209	1212.56	1214.48	PM	A	inf	-1	0	We're still under twenty Euros to build , so we're good .
+IS1002d.C.dialog-act.dharshi.91	1213.307	1213.833	ID	C	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.210	1216.05	1219.36	PM	A	el.inf	-1	0	And the costs within the budget ?
+IS1002d.A.dialog-act.dharshi.211	1219.36	1222.41	PM	A	inf	+1	3	Not the original budget , but they are now .
+IS1002d.A.dialog-act.dharshi.212	1222.41	1223.83	PM	A	el.inf	+1	0	Is the project evaluated ?
+IS1002d.A.dialog-act.dharshi.213	1223.83	1224.89	PM	A	inf	-1	0	Mm I think so yeah ,
+IS1002d.A.dialog-act.dharshi.214	1224.89	1228.16	PM	A	inf	-1	0	then celebration as it says .
+IS1002d.C.dialog-act.dharshi.93	1226.21	1228.7	ID	C	be.pos	-1	0	Hooray .
+IS1002d.D.dialog-act.dharshi.119	1227.584	1228.23	ME	D	bck	-1	0	{vocalsound} Okay .
+IS1002d.C.dialog-act.dharshi.94	1228.7	1230.37	ID	C	be.pos	-1	0	Free coke provided at the cafeteria .
+IS1002d.A.dialog-act.dharshi.215	1230.74	1232.15	PM	A	inf	-1	0	Oh I don't know how that got there .
+IS1002d.B.dialog-act.dharshi.131	1230.46	1231.31	UI	B	be.pos	-1	0	All right .
+IS1002d.A.dialog-act.dharshi.216	1232.15	1232.91	PM	A	stl	-1	0	Uh anyway .
+IS1002d.B.dialog-act.dharshi.132	1233.232	1234.496	UI	B	fra	-1	0	{vocalsound}
+IS1002d.C.dialog-act.dharshi.95	1233.138	1235.53	ID	C	el.inf	-1	0	{vocalsound} Who wrote that one ?
+IS1002d.A.dialog-act.dharshi.217	1234.637	1235.51	PM	A	fra	-1	0	{vocalsound} Thank
+IS1002d.B.dialog-act.dharshi.133	1235.968	1236.336	UI	B	fra	-1	0	{vocalsound}
+IS1002d.A.dialog-act.dharshi.218	1237.67	1238.2	PM	A	be.pos	-1	0	Thanks guys .
+IS1002d.D.dialog-act.dharshi.120	1237.2	1238.37	ME	D	sug	+1	0	So we need to close this meeting ,
+IS1002d.C.dialog-act.dharshi.96	1237.946	1238.925	ID	C	fra	-1	0	{vocalsound}
+IS1002d.D.dialog-act.dharshi.121	1238.37	1240.28	ME	D	ass	-1	0	yeah bravo . Congratulations .
+IS1002d.B.dialog-act.dharshi.134	1240.6	1241.43	UI	B	ass	-1	0	Good job guys .
+IS1002d.C.dialog-act.dharshi.97	1240.38	1240.86	ID	C	ass	-1	0	Cool .
+IS1002d.D.dialog-act.dharshi.122	1241.82	1243.89	ME	D	inf	-1	0	S I've got a lot of paperwork to catch up on
+IS1002d.D.dialog-act.dharshi.123	1243.89	1246.9	ME	D	sug	-1	0	so let's close this and come back and {disfmarker} 'kay .
+IS1002d.A.dialog-act.dharshi.225	1245.7	1247.65	PM	A	inf	-1	0	Yeah , I've got a lot of paperwork to catch up on too .
+IS1002d.A.dialog-act.dharshi.219	1249.75	1250.19	PM	A	oth	-1	0	Oh .

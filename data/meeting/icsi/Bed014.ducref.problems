@@ -1,0 +1,7 @@
+As the translation of the german SmartKom into English moves on , the generation rules may prove difficult to tackle for someone without experience in functional programming , as they are written in LISP.
+As far as the construction analysis is concerned , the two problems that will need to be solved are to identify the couplings between constructions in different mental spaces and to define how inferences will work in the belief-net from a technical point of view.
+Additionally , in the example "Where is X?" construction , the ambiguity ( Location or Path ) could be coded either in the semantics of the construction or as if determined by context.
+The former could mean creating a different construction for every slight pragmatic variation.
+On the other hand , some of the belief-net probabilities could be instantiated in the lexicon.
+Specifying which approach to take when linking the ontology and the discourse history has also proven not to be straightforward.
+Finally , it is still undecided where construal comes in , which would help delimit the constructions as well.

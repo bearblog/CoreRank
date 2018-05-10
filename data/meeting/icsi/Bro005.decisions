@@ -1,0 +1,56 @@
+8	Bro005.s.4	Further investigation into the lack of difference using MSG features makes should not be made while they are on their current short time scale for results.
+Bro005.D.dialogueact715	1909.84	1912.31	D	Professor	s.%--	+1	1	So , on the MSG uh problem
+Bro005.D.dialogueact716	1913.3	1922.69	D	Professor	s.%--	+1	1	um , I think that in {disfmarker} in the {disfmarker} um , in the short {pause} time {pause} solution
+Bro005.D.dialogueact717	1923.66	1930.96	D	Professor	s.%--	+1	1	um , that is , um , trying to figure out what we can proceed forward with to make the greatest progress ,
+Bro005.D.dialogueact723	1937.47	1940.58	D	Professor	s	+1	1	I think it 's kind of in category that it 's , it {disfmarker} it may be complicated .
+Bro005.D.dialogueact725	1942.25	1948.3	D	Professor	s^cs	+1	1	And uh it might be {disfmarker} if someone 's interested in it , uh , certainly encourage anybody to look into it in the longer term ,
+Bro005.D.dialogueact726	1949.02	1951.85	D	Professor	s	+1	1	once we get out of this particular rush {pause} uh for results .
+Bro005.D.dialogueact728	1951.85	1955.85	D	Professor	s^cs.%--	+1	1	But in the short term , unless you have some {disfmarker} some s strong idea of what 's wrong ,
+Bro005.D.dialogueact780	2032.27	2038.03	D	Professor	s	+1	1	but {disfmarker} but my {disfmarker} my guess would be that it 's something that is a simple thing that could take a while to find .
+9	Bro005.s.5	Same goes for anything else that comes up and looks interesting , leave it for just now.
+Bro005.D.dialogueact966	2495.91	2498.49	D	Professor	fg|s	+1	1	Yeah , that {pause} seems like a good thing to do , probably ,
+Bro005.D.dialogueact968	2500.38	2502.85	D	Professor	s	+1	1	not uh again a short - term sort of thing .
+Bro005.A.dialogueact945	2433.13	2438.15	A	PhD	s	+1	1	the two of the main issues perhaps are still the language dependency {vocalsound} and the noise dependency .
+Bro005.A.dialogueact946	2438.25	2445.99	A	PhD	s^cs	+1	1	And perhaps to try to reduce the language dependency , we should focus on finding some other kind of training targets .
+Bro005.A.dialogueact952	2454.19	2456.87	A	PhD	s^rt	+1	1	For moment you use {disfmarker} we use phonetic targets
+Bro005.A.dialogueact953	2456.87	2459.53	A	PhD	s	+1	1	but we could also use articulatory targets , soft targets ,
+Bro005.A.dialogueact954	2459.81	2465.02	A	PhD	s^cs	+1	1	and perhaps even , um use networks that doesn't do classification
+Bro005.A.dialogueact955	2465.02	2466.23	A	PhD	s	+1	1	but just regression
+Bro005.A.dialogueact960	2476.75	2488.9	A	PhD	s^cs	+1	1	and well , basically com com compute features and noit not , nnn , features without noise . I mean uh , transform the fea noisy features {vocalsound} in other features that are not noisy .
+15	Bro005.s.6	Really should pick which results are looking the best at this stage , and take only them further.
+Bro005.D.dialogueact605	1553.01	1558.27	D	Professor	s^cs^tc	+1	2	So I guess the other thing is to take {disfmarker} you know {disfmarker} if one were to take , uh , you know , a couple of the most successful of these ,
+Bro005.A.dialogueact606	1559.41	1561.32	A	PhD	fg|s^2	+1	2	Yeah , and test across everything .
+Bro005.D.dialogueact608	1561.39	1562.92	D	Professor	s^aa|s	+1	2	Yeah , try all these different tests .
+Bro005.D.dialogueact1007	2625.39	2634.13	D	Professor	s.%--	+1	1	but one of the core quote {comment} " open questions " for that is um , um , if we take the uh {disfmarker} you know , the best ones here ,
+Bro005.D.dialogueact1008	2634.13	2635.56	D	Professor	s	+1	1	maybe not just the best one ,
+Bro005.D.dialogueact1009	2635.56	2636.88	D	Professor	s	+1	1	but the best few or something {disfmarker}
+Bro005.D.dialogueact1010	2636.98	2639.31	D	Professor	s	+1	1	You want the most promising group from these other experiments .
+Bro005.D.dialogueact1018	2652.74	2662.5	D	Professor	s	+1	1	We know that there 's a mis there 's a uh {disfmarker} a {disfmarker} a loss in performance when the neural net is trained on conditions that are different than {disfmarker} than , uh we 're gonna test on ,
+Bro005.D.dialogueact1019	2662.54	2672.93	D	Professor	qo	+1	1	but well , if you look over a range of these different tests um , how well do these different ways of combining the straight features with the MLP features , uh stand up over that range ?
+Bro005.D.dialogueact1025	2684.45	2686.36	D	Professor	s	+1	1	look at these different ways of combining it .
+Bro005.D.dialogueact1029	2692.5	2695.56	D	Professor	s	+1	1	And just look {disfmarker} take that case and then look over all the different things .
+Bro005.D.dialogueact1030	2695.56	2698.78	D	Professor	qw	+1	1	How does that {disfmarker} How does that compare between the {disfmarker}
+Bro005.D.dialogueact1034	2700.58	2701.76	D	Professor	s^m^na	+1	1	All the different test sets ,
+Bro005.D.dialogueact1036	2702.38	2706.6	D	Professor	s^e	+1	1	and for {disfmarker} and for the couple different ways that you have of {disfmarker} of {disfmarker} of combining them .
+Bro005.D.dialogueact1038	2707.37	2710.14	D	Professor	qw.%--	+1	1	Um . {pause} How well do they stand up , over the {disfmarker}
+11	Bro005.s.7	Someone should look closely at the non-TIMIT databases , their Viterbi alignments , and their phoneme strings to see is that is why TIMIT is better.
+Bro005.A.dialogueact842	2209.69	2213.79	A	PhD	s^df^rt	+1	2	But you have two {disfmarker} two effects , the effect of changing language
+Bro005.A.dialogueact843	2213.79	2218.57	A	PhD	s^df	+1	2	and the effect of training on something that 's {pause} Viterbi - aligned instead of hand {disfmarker} hand - labeled .
+Bro005.D.dialogueact847	2227.01	2228.2	D	Professor	qy^rt	+1	2	Do you think the alignments are bad ?
+Bro005.D.dialogueact848	2228.85	2230.39	D	Professor	qy	+1	2	I mean , have you looked at the alignments at all ?
+Bro005.D.dialogueact849	2230.39	2231.64	D	Professor	s	+1	2	What the Viterbi alignment 's doing ?
+Bro005.D.dialogueact854	2241.85	2243.16	D	Professor	s^cs	+1	2	Might be interesting to look at it .
+Bro005.A.dialogueact860	2259.99	2266.61	A	PhD	s^am|s^ng	+1	2	Yeah . But {disfmarker} Yeah . But , perhaps it 's not really the {disfmarker} the alignment that 's bad
+Bro005.A.dialogueact861	2266.61	2271.32	A	PhD	s^cs	+1	2	but the {disfmarker} just the ph phoneme string that 's used for the alignment
+Bro005.D.dialogueact866	2273.51	2275.02	D	Professor	s^bs	+1	2	The pronunciation models and so forth
+Bro005.A.dialogueact877	2296.13	2300.37	A	PhD	s	+1	2	there {disfmarker} there might be errors just in the {disfmarker} in {disfmarker} in the ph string of phonemes .
+Bro005.A.dialogueact880	2306.88	2308.78	A	PhD	fh|s	+1	2	Yeah , so this is not really the Viterbi alignment ,
+8	Bro005.s.8	Need to get OGI's system from them , and get it running like they do , before integrating into it.
+Bro005.D.dialogueact1065	2764.54	2767.62	D	Professor	fg|s^bu	+1	2	So . Uh , we {disfmarker} we wanna get their path running here ,
+Bro005.D.dialogueact1067	2767.89	2769.45	D	Professor	s	+1	2	If so , we can add this other stuff .
+Bro005.D.dialogueact1069	2771.1	2772.41	D	Professor	s	+1	2	as an additional path
+Bro005.A.dialogueact1076	2780.0	2786.59	A	PhD	s^aa|s	+1	2	Yeah , the way we want to do it perhaps is to {disfmarker} just to get the VAD labels and the final features .
+Bro005.A.dialogueact1078	2788.0	2793.04	A	PhD	s	+1	2	So they will send us the {disfmarker} Well , provide us with the feature files ,
+Bro005.D.dialogueact1087	2811.17	2817.81	D	Professor	s	+1	2	So we {disfmarker} So . First thing of course we 'd wanna do there is to make sure that when we get those labels of final features is that we get the same results as them .
+Bro005.D.dialogueact1088	2818.97	2820.21	D	Professor	s	+1	2	Without putting in a second path .
+Bro005.D.dialogueact1092	2825.96	2834.51	D	Professor	s^co	+1	2	Yeah just th w i i Just to make sure that we {pause} have {disfmarker} we understand properly what things are , our very first thing to do is to {disfmarker} is to double check that we get the exact same results as them on HTK .

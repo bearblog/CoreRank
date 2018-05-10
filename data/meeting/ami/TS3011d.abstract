@@ -1,0 +1,53 @@
+0	TS3011d.vkaraisk.s.1	The UI and ID presented a prototype drawing of the remote control design.
+2	TS3011d.vkaraisk.s.2	It can be used as a normal remote , but the speech recognition also provides a more advanced alternative interface.
+TS3011d.A.dialog-act.vkaraisk.3	290.284	292.354	A	PM	el.inf	+1	1	A a and the voice recognition as well ,
+TS3011d.C.dialog-act.vkaraisk.13	293.974	295.464	C	ID	inf	+1	1	it's it's it's another approach ,
+1	TS3011d.vkaraisk.s.3	The speech recognition works as a finding mechanism as well.
+TS3011d.B.dialog-act.vkaraisk.89	1151.454	1156.074	B	UI	sug	+1	1	but you c you can you can just say find and he repeats find .
+5	TS3011d.vkaraisk.s.4	The rubber case is yellow with grey or black , with buttons either made of plastic or rubber.
+TS3011d.A.dialog-act.vkaraisk.9	307.624	309.164	A	PM	el.inf	+1	1	And and the case is is rubber ?
+TS3011d.A.dialog-act.vkaraisk.10	310.464	311.234	A	PM	el.inf	+1	1	And the buttons ?
+TS3011d.B.dialog-act.vkaraisk.4	311.67	313.414	B	UI	inf	+1	1	{vocalsound} Plastic or rubber .
+TS3011d.C.dialog-act.vkaraisk.19	316.434	318.094	C	ID	inf	+1	1	Uh yellow with uh
+TS3011d.C.dialog-act.vkaraisk.20	320.144	327.228	C	ID	ass	+1	1	grey or black or something like that . Whatever cost uh cost uh the least . {vocalsound}
+2	TS3011d.vkaraisk.s.5	An extra button could activate/deactivate the voice recognition.
+TS3011d.A.dialog-act.vkaraisk.22	352.094	359.974	A	PM	sug	+1	1	M m but maybe you do want a programme button to uh for example activate the voice recognition , or train the voice voice recognition .
+TS3011d.C.dialog-act.vkaraisk.30	358.334	361.824	C	ID	ass	+1	1	okay . Okay , yeah , that's right . Or something li like that .
+3	TS3011d.vkaraisk.s.6	The prototype proved extremely over budget.
+TS3011d.A.dialog-act.vkaraisk.40	468.204	471.694	A	PM	inf	+1	3	The production costs .
+TS3011d.B.dialog-act.vkaraisk.21	489.944	490.564	B	UI	inf	+1	3	Twenty two .
+TS3011d.A.dialog-act.vkaraisk.69	576.984	581.944	A	PM	inf	+1	2	th this design is not um within our price model .
+2	TS3011d.vkaraisk.s.7	The main contributing factors were the solar cell and speech recognition.
+TS3011d.A.dialog-act.vkaraisk.44	497.564	501.504	A	PM	inf	+1	1	And what makes it very expensive is uh for example the solar cell .
+TS3011d.A.dialog-act.vkaraisk.58	544.414	549.244	A	PM	sug	+1	2	um by not using the voice recognition feature ,
+2	TS3011d.vkaraisk.s.8	One way to compensate for the loss of features , but still attract their target group , would be to add more colour to the design.
+TS3011d.A.dialog-act.vkaraisk.96	692.584	697.144	A	PM	sug	+1	1	uh by giving it another colour already .
+TS3011d.A.dialog-act.vkaraisk.93	683.054	692.584	A	PM	inf	+1	1	Although I think we {disfmarker} yeah , but we could still make uh a remote control that ap uh um applies um more to young people
+1	TS3011d.vkaraisk.s.9	After the costing , the original prototype was evaluated on a scale of 1(excellent)-7(very bad).
+TS3011d.A.dialog-act.vkaraisk.139	916.494	921.374	A	PM	inf	+1	1	we are evaluating this this uh design now . This prototype .
+12	TS3011d.vkaraisk.s.10	The criteria used were fancifulness (2) , technological innovation (2) , ease of use (2.5) , whether it is easy to find (1) , sponginess (1.5) , number of features (1).
+TS3011d.D.dialog-act.vkaraisk.29	798.644	801.424	D	ME	el.ass	+1	1	Is it ? Is it fancy ?
+TS3011d.B.dialog-act.vkaraisk.46	862.344	863.864	B	UI	el.ass	+1	1	just {vocalsound} give it a two .
+TS3011d.D.dialog-act.vkaraisk.41	905.744	907.964	D	ME	el.ass	+1	1	was it innovative ?
+TS3011d.C.dialog-act.vkaraisk.108	942.164	943.684	C	ID	ass	+1	1	I think uh it's a two .
+TS3011d.D.dialog-act.vkaraisk.47	948.104	949.024	D	ME	el.ass	+1	1	Is it easy to use ?
+TS3011d.A.dialog-act.vkaraisk.169	1129.364	1131.134	A	PM	inf	+1	1	so it will be a two point five .
+TS3011d.D.dialog-act.vkaraisk.62	1133.41	1146.368	D	ME	el.ass	+1	1	{vocalsound} Is it easy to find ? {vocalsound}
+TS3011d.A.dialog-act.vkaraisk.188	1180.994	1183.764	A	PM	ass	+1	1	but I personally give it a one .
+TS3011d.A.dialog-act.vkaraisk.191	1189.904	1192.674	A	PM	el.ass	+1	1	The feel of the remote control is spongy .
+TS3011d.D.dialog-act.vkaraisk.77	1261.654	1263.234	D	ME	inf	+1	1	and make this a one point five .
+TS3011d.A.dialog-act.vkaraisk.207	1272.444	1277.854	A	PM	el.ass	+1	1	The remote control offers enough features .
+TS3011d.A.dialog-act.vkaraisk.230	1390.974	1396.324	A	PM	ass	+1	1	I'll give it uh a one . For for the {disfmarker} for this t uh type of market , I think it's a one .
+10	TS3011d.vkaraisk.s.11	Finally , the team evaluated the project process in terms of creativity (choices too narrow) , leadership and teamwork (happy with it , but they missed communicating in between meetings) , and means (SMARTboard was not satisfactory , but the digital pens were alright , but not too useful).
+TS3011d.A.dialog-act.vkaraisk.253	1546.364	1559.194	A	PM	sug	+1	1	we'll go further on with the the rest of the evaluation . About the project itself , not about the product .
+TS3011d.C.dialog-act.vkaraisk.230	1617.104	1624.804	C	ID	inf	+1	1	looking at room for creativity , there was w way too {disfmarker} the the choice of components was way too narrow .
+TS3011d.A.dialog-act.vkaraisk.273	1664.044	1668.114	A	PM	el.ass	+1	1	Uh leadership .
+TS3011d.B.dialog-act.vkaraisk.140	1665.884	1668.749	B	UI	be.pos	+1	1	Fantastic . {vocalsound}
+TS3011d.C.dialog-act.vkaraisk.241	1679.834	1680.784	C	ID	ass	+1	1	I think we're a good team .
+TS3011d.A.dialog-act.vkaraisk.278	1687.284	1697.872	A	PM	inf	+1	1	I missed it um to be able to contact you in between and uh say uh , hey Roo uh {gap} . {vocalsound} Um {disfmarker}
+TS3011d.A.dialog-act.vkaraisk.284	1713.274	1716.524	A	PM	el.ass	+1	1	the means , the SMARTboard , the digital pen . Did you like 'em ?
+TS3011d.C.dialog-act.vkaraisk.248	1715.917	1718.054	C	ID	ass	+1	1	{vocalsound} Uh . The digital pen was okay ,
+TS3011d.C.dialog-act.vkaraisk.249	1718.054	1720.384	C	ID	ass	+1	1	but SMARTboard was really bad .
+TS3011d.C.dialog-act.vkaraisk.273	1901.174	1903.694	C	ID	inf	+1	1	The drawing cap capabilities are very limited .
+1	TS3011d.vkaraisk.s.12	The delay in providing costs of components was criticised.
+TS3011d.B.dialog-act.vkaraisk.134	1599.464	1603.224	B	UI	inf	+1	1	But w um we weren't aware of the prices of the costs .

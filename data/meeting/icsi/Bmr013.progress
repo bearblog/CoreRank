@@ -1,0 +1,31 @@
+1	Bmr013.s.14	A test set of Meeting Recorder digits is nearly complete.
+Bmr013.F.dialogueact26	149.582	153.332	F	Grad	fg|s^tc	+1	2	OK well , the , w uh as you can see from the numbers on the digits we 're almost done .
+1	Bmr013.s.15	Future work will include training this data on a recognizer , and feeding the recognizer with corresponding far-field microphone data.
+Bmr013.F.dialogueact32	174.803	179.343	F	Grad	s^cs	+1	2	And so , once we 're {disfmarker} it 's done it would be very nice to train up a recognizer and actually start working with this data .
+1	Bmr013.s.16	It was noted that the results of experiments testing similar digits corpora have yielded high error rates , indicating that similar problems may be expected for the set of Meeting Recoreder digits.
+Bmr013.C.dialogueact101	394.45	399.559	C	Professor	s	+1	2	I think the best score was something like five percent , uh , error , per digit .
+3	Bmr013.s.17	The group discussed the prospect of performing fine-grained acoustic-phonetic analyses on a subset of digits or Switchboard data.
+Bmr013.C.dialogueact197	587.57	599.432	C	Professor	s	+1	2	One question I have that {disfmarker} that I mean , we wouldn't know the answer to now but might , do some guessing , but I was talking before about doing some model modeling of arti uh , uh , marking of articulatory , features , with overlap and so on .
+Bmr013.C.dialogueact201	603.51	608.01	C	Professor	s	+1	2	One thought might be to do this uh , on {disfmarker} on the digits , or some piece of the digits .
+Bmr013.C.dialogueact515	1418.61	1424.8	C	Professor	s^cs	+1	3	So , I mean another way to look at this is to , is to , uh , do some stuff on Switchboard which has all this other , stuff to it .
+2	Bmr013.s.18	It was suggested that prior to the use of data-driven methods , knowledge-driven approaches should be used to 'seed' the data with sub-phonemic features , either manually , or using a rich pronunciation dictionary.
+Bmr013.D.dialogueact469	1318.29	1328.91	D	PhD	s^cs	+1	1	But it {disfmarker} it might be good to do what Jane was saying uh , you know , seed it , with , guesses about what we think the features are , based on , you know , the phone or Steve 's transcriptions or something . to make it quicker .
+Bmr013.C.dialogueact481	1351.54	1361.97	C	Professor	s^cs^rt	+1	1	So I mean that 's probably the right way to go anyway , is to {disfmarker} is to start off with an automatic system with a pretty rich pronunciation dictionary that , that , um , you know , tries , to label it all .
+4	Bmr013.s.19	A new version of the pre-segmentation tool that segments channel-specific speech/non-speech portions of the signal has been developed and tested.
+Bmr013.A.dialogueact8	107.74	109.41	A	PhD	s^cs^rt.x	+1	1	New version of the presegmentation .
+Bmr013.C.dialogueact9	109.86	112.19	C	Professor	s^bk^m^rt	+1	1	New version of presegmentation .
+Bmr013.A.dialogueact565	1524.78	1535.49	A	PhD	fg|s^rt	+1	2	Uh , oh yeah , um , {vocalsound} I worked a little bit on the {disfmarker} on the presegmentation to {disfmarker} to get another version which does channel - specific , uh , speech - nonspeech detection .
+Bmr013.A.dialogueact571	1572.17	1580.4	A	PhD	s^rt	+1	1	And , eh , I tested it on {disfmarker} on three or four meetings and it seems to work , well yeah , fairly well , I {disfmarker} I would say .
+2	Bmr013.s.20	Future pre-segmentation work will include normalizing other features , such as loudness , enabling the distinction of foreground versus background speech.
+Bmr013.A.dialogueact568	1552.93	1561.69	A	PhD	fh|s^rt	+1	1	And to {disfmarker} to , mm , to , yeah , to normalize also loudness and {disfmarker} and modified loudness and things and that those special features actually are in my feature vector .
+Bmr013.A.dialogueact570	1562.54	1571.44	A	PhD	s^rt	+1	1	And , and , therefore to be able to , uh , somewhat distinguish between foreground and background speech in {disfmarker} in the different {disfmarker} in {disfmarker} each channel .
+2	Bmr013.s.21	Speaker mn014 will also look at cross-correlations for removing false overlaps.
+Bmr013.A.dialogueact734	1934.78	1940.57	A	PhD	s^cs	+1	1	but , perhaps we can do something with {disfmarker} with cross - correlations to , to get rid of the {disfmarker} of those .
+Bmr013.A.dialogueact738	1945.93	1952.0	A	PhD	s	+1	1	Well {disfmarker} well what I want to do is to {disfmarker} to look into cross - correlations for {disfmarker} for removing those , false overlaps .
+4	Bmr013.s.22	New efforts were reported to adapt transcriptions to the needs of the SRI recognizer , including conventions for encoding acronyms , numbers , ambient noise , and unidentified inbreaths.
+Bmr013.B.dialogueact862	2228.05	2229.87	B	Postdoc	s	+1	2	also we discussed some adaptational things ,
+Bmr013.B.dialogueact866	2230.73	2236.58	B	Postdoc	fh|s	+1	2	uh {disfmarker} You know I hadn't , uh , incorporated , a convention explicitly to handle acronyms , for example ,
+Bmr013.B.dialogueact875	2256.18	2259.18	B	Postdoc	s	+1	2	And then , a similar conv uh , convention for numbers .
+Bmr013.G.dialogueact903	2359.09	2363.98	G	PhD	s	+1	2	So if they hear a breath and they don't know who breath it is it 's better to put it in that channel than to put it in the speaker 's channel
+1	Bmr013.s.23	With the arrival of the SRI recognizer , 12 hours of forced aligned , recognized data can be expected.
+Bmr013.G.dialogueact912	2389.14	2398.54	G	PhD	s	+1	1	So {pause} when that 's , ready {disfmarker} you know , as soon as that 's ready , and as soon as the recognizer is here we can get , twelve hours of force - aligned and recognized data .

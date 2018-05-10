@@ -1,0 +1,658 @@
+IS1000a.C.dialog-act.vkaraisk.1	37.25	38.01	UI	C	oth	-1	0	Okay .
+IS1000a.D.dialog-act.vkaraisk.1	38.71	40.89	ID	D	inf	-1	0	Or you get it .
+IS1000a.D.dialog-act.vkaraisk.2	40.89	41.34	ID	D	ass	-1	0	Okay .
+IS1000a.C.dialog-act.vkaraisk.2	44.93	45.83	UI	C	inf	-1	0	No I don't think so
+IS1000a.C.dialog-act.vkaraisk.3	45.83	48.14	UI	C	sug	-1	0	it has to be like that
+IS1000a.C.dialog-act.vkaraisk.4	48.14	49.86	UI	C	ass	-1	0	yeah
+IS1000a.C.dialog-act.vkaraisk.5	49.86	51.42	UI	C	sug	-1	0	and you have to adjust the length .
+IS1000a.C.dialog-act.vkaraisk.6	70.02	72.86	UI	C	oth	-1	0	Okay , and then .
+IS1000a.B.dialog-act.vkaraisk.1	92.24	94.15	PM	B	stl	-1	0	{vocalsound} So
+IS1000a.B.dialog-act.vkaraisk.2	94.15	97.48	PM	B	sug	+1	1	we uh {disfmarker} we will wait for Anna , a few minutes .
+IS1000a.C.dialog-act.vkaraisk.7	96.02	99.02	UI	C	ass	-1	0	Yeah , s yeah , um .
+IS1000a.D.dialog-act.vkaraisk.3	98.976	100.298	ID	D	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.4	104.96	105.45	ID	D	oth	-1	0	Mm {vocalsound} .
+IS1000a.D.dialog-act.vkaraisk.5	105.45	108.24	ID	D	ass	-1	0	Yours is well {disfmarker} {vocalsound}
+IS1000a.C.dialog-act.vkaraisk.8	110.91	113.13	UI	C	sug	+1	1	I think you can put anywhere you want , actually .
+IS1000a.C.dialog-act.vkaraisk.9	114.49	114.73	UI	C	stl	-1	0	I thin
+IS1000a.D.dialog-act.vkaraisk.6	114.31	114.5	ID	D	stl	-1	0	Yeah
+IS1000a.D.dialog-act.vkaraisk.7	114.5	116.416	ID	D	sug	-1	0	but the the mic should not {disfmarker}
+IS1000a.C.dialog-act.vkaraisk.10	116.89	118.65	UI	C	inf	+1	1	It's not a directional mic , anyway .
+IS1000a.B.dialog-act.vkaraisk.3	122.88	126.94	PM	B	inf	-1	0	I think it should work like this .
+IS1000a.D.dialog-act.vkaraisk.8	122.4	123.68	ID	D	fra	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.11	126.4	126.88	UI	C	oth	-1	0	Uh .
+IS1000a.B.dialog-act.vkaraisk.4	126.94	133.43	PM	B	off	+1	1	So I will try to get my presentation running .
+IS1000a.C.dialog-act.vkaraisk.12	133.51	134.26	UI	C	und	-1	0	Yeah .
+IS1000a.D.dialog-act.vkaraisk.9	133.07	134.12	ID	D	und	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.5	138.26	138.75	PM	B	oth	-1	0	Mm .
+IS1000a.D.dialog-act.vkaraisk.10	141.52	141.98	ID	D	stl	-1	0	Mm .
+IS1000a.D.dialog-act.vkaraisk.11	141.98	142.97	ID	D	inf	+1	1	Can't help you with that .
+IS1000a.C.dialog-act.vkaraisk.13	143.39	144.61	UI	C	be.neg	-1	0	Last .
+IS1000a.B.dialog-act.vkaraisk.6	144.84	147.15	PM	B	be.pos	-1	0	It's no matter .
+IS1000a.D.dialog-act.vkaraisk.12	144.85	145.11	ID	D	ass	-1	0	Okay ,
+IS1000a.D.dialog-act.vkaraisk.13	145.11	145.38	ID	D	fra	-1	0	it's y
+IS1000a.D.dialog-act.vkaraisk.14	145.38	145.79	ID	D	ass	-1	0	yeah .
+IS1000a.B.dialog-act.vkaraisk.7	148.98	149.33	PM	B	be.pos	-1	0	No problem .
+IS1000a.B.dialog-act.vkaraisk.8	150.61	150.93	PM	B	stl	-1	0	Ah
+IS1000a.B.dialog-act.vkaraisk.9	150.93	151.6	PM	B	inf	-1	0	yes .
+IS1000a.D.dialog-act.vkaraisk.15	154.37	154.61	ID	D	oth	-1	0	Right .
+IS1000a.C.dialog-act.vkaraisk.14	158.83	159.64	UI	C	ass	-1	0	Okay .
+IS1000a.D.dialog-act.vkaraisk.16	161.88	163.89	ID	D	sug	-1	0	Then press uh al
+IS1000a.C.dialog-act.vkaraisk.15	165.23	165.59	UI	C	ass	-1	0	Okay .
+IS1000a.D.dialog-act.vkaraisk.17	165.37	166.36	ID	D	sug	-1	0	This .
+IS1000a.B.dialog-act.vkaraisk.10	166.09	167.57	PM	B	und	-1	0	I don't know .
+IS1000a.D.dialog-act.vkaraisk.18	166.36	166.72	ID	D	el.und	-1	0	You know ?
+IS1000a.B.dialog-act.vkaraisk.11	167.57	168.13	PM	B	sug	-1	0	Just try .
+IS1000a.C.dialog-act.vkaraisk.16	169.27	169.47	UI	C	ass	-1	0	'Kay .
+IS1000a.B.dialog-act.vkaraisk.12	169.96	171.168	PM	B	fra	-1	0	On this normal {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.19	170.19	170.87	ID	D	ass	-1	0	Oh oh .
+IS1000a.C.dialog-act.vkaraisk.17	171.11	172.43	UI	C	sug	+1	1	Alt F_ five .
+IS1000a.B.dialog-act.vkaraisk.13	174.1	174.96	PM	B	ass	-1	0	Good .
+IS1000a.B.dialog-act.vkaraisk.14	174.96	176.95	PM	B	inf	+1	1	Doesn't appear on the screen here .
+IS1000a.D.dialog-act.vkaraisk.20	176.233	177.03	ID	D	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.21	179.28	181.424	ID	D	oth	-1	0	Right well {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.15	183.66	183.87	PM	B	oth	-1	0	Oh .
+IS1000a.D.dialog-act.vkaraisk.22	184.08	186.39	ID	D	ass	-1	0	Wow . Amazing .
+IS1000a.D.dialog-act.vkaraisk.24	186.39	188.8	ID	D	inf	+1	1	It's working {vocalsound} .
+IS1000a.B.dialog-act.vkaraisk.16	188.04	189.32	PM	B	ass	-1	0	Okay .
+IS1000a.B.dialog-act.vkaraisk.17	189.32	192.49	PM	B	be.pos	-1	0	Thank you . {vocalsound} Uh .
+IS1000a.A.dialog-act.vkaraisk.1	208.3	208.68	ME	A	oth	-1	0	Hold that .
+IS1000a.A.dialog-act.vkaraisk.2	213.26	213.44	ME	A	ass	-1	0	Okay .
+IS1000a.B.dialog-act.vkaraisk.18	212.93	213.12	PM	B	stl	-1	0	Yes
+IS1000a.B.dialog-act.vkaraisk.19	213.12	215.12	PM	B	sug	-1	0	and you can put can clip it uh on your {disfmarker}
+IS1000a.A.dialog-act.vkaraisk.3	216.64	217.97	ME	A	ass	-1	0	Okay . Mm .
+IS1000a.B.dialog-act.vkaraisk.20	216.44	216.87	PM	B	sug	-1	0	Somewhere .
+IS1000a.B.dialog-act.vkaraisk.21	224.47	225.52	PM	B	stl	-1	0	So , {vocalsound}
+IS1000a.B.dialog-act.vkaraisk.22	225.52	226.35	PM	B	be.pos	-1	0	good morning , everyone .
+IS1000a.B.dialog-act.vkaraisk.23	227.6	227.984	PM	B	stl	-1	0	Um {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.24	229.22	233.5	PM	B	be.pos	+1	1	Welcome at uh {disfmarker} at the kick off meeting of our uh latest project .
+IS1000a.D.dialog-act.vkaraisk.25	228.935	230.021	ID	D	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.25	233.5	235.93	PM	B	el.inf	-1	0	I hope you all have been uh updated about it .
+IS1000a.D.dialog-act.vkaraisk.26	236.98	237.34	ID	D	inf	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.26	238.52	239.02	PM	B	ass	-1	0	Good .
+IS1000a.C.dialog-act.vkaraisk.18	238.76	239.89	UI	C	oth	-1	0	So . Yes .
+IS1000a.B.dialog-act.vkaraisk.27	240.34	240.6	PM	B	stl	-1	0	So
+IS1000a.B.dialog-act.vkaraisk.28	240.6	247.91	PM	B	sug	+1	1	w we will try to structure this uh meeting with an a with an agenda uh as presented here .
+IS1000a.B.dialog-act.vkaraisk.29	247.91	255.03	PM	B	inf	+1	1	Um after the opening we will tr get acquainted to each other .
+IS1000a.C.dialog-act.vkaraisk.19	247.456	247.968	UI	C	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.30	255.03	257.58	PM	B	inf	+1	1	See what our roles are in this project .
+IS1000a.B.dialog-act.vkaraisk.31	258.77	260.32	PM	B	fra	-1	0	So , um {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.32	262.14	272.66	PM	B	inf	+1	1	We have been provided with uh some uh w technical tools to uh {disfmarker} to communicate and to well , learn from each other's plans
+IS1000a.B.dialog-act.vkaraisk.33	272.66	274.89	PM	B	off	-1	0	uh as I can say
+IS1000a.B.dialog-act.vkaraisk.34	274.89	276.02	PM	B	stl	-1	0	um so
+IS1000a.B.dialog-act.vkaraisk.35	276.02	282.73	PM	B	inf	+1	1	w we will also try to uh to get acquainted to this tools
+IS1000a.B.dialog-act.vkaraisk.37	282.73	283.25	PM	B	stl	-1	0	so
+IS1000a.B.dialog-act.vkaraisk.38	283.25	284.64	PM	B	inf	-1	0	they are also new to me
+IS1000a.B.dialog-act.vkaraisk.39	284.64	288.56	PM	B	inf	-1	0	I don't know whether you worked with them before .
+IS1000a.B.dialog-act.vkaraisk.40	288.56	293.77	PM	B	inf	+1	1	Um then we will come to the uh to the to the actual project plan .
+IS1000a.B.dialog-act.vkaraisk.41	293.77	300.17	PM	B	el.inf	+1	1	You all know I hope {vocalsound} how it's about uh the uh new r remote control we are going going to design .
+IS1000a.A.dialog-act.vkaraisk.4	298.36	298.6	ME	A	inf	-1	0	Mm-hmm .
+IS1000a.C.dialog-act.vkaraisk.20	299.33	299.98	UI	C	inf	-1	0	Total .
+IS1000a.B.dialog-act.vkaraisk.42	301.7	304.58	PM	B	inf	+1	1	Uh then we will uh discuss
+IS1000a.B.dialog-act.vkaraisk.43	304.58	306.72	PM	B	el.sug	-1	0	uh , well , how it should be
+IS1000a.B.dialog-act.vkaraisk.44	306.72	313.46	PM	B	el.sug	+1	1	and uh {disfmarker} wh what uh what our new product should look lite {disfmarker} like .
+IS1000a.B.dialog-act.vkaraisk.45	313.46	319.1	PM	B	inf	-1	0	And uh well then uh after some twenty five minutes I hope uh we can end this meeting .
+IS1000a.B.dialog-act.vkaraisk.46	322.58	325.67	PM	B	stl	-1	0	So . Um
+IS1000a.B.dialog-act.vkaraisk.47	325.67	331.248	PM	B	inf	+1	1	basically this is about a uh a new c remote control . Um {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.48	334.07	335.77	PM	B	fra	-1	0	We {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.49	335.77	339.99	PM	B	inf	+1	1	When you design a new product you of {disfmarker} uh you of course want it to be original .
+IS1000a.B.dialog-act.vkaraisk.50	339.99	340.64	PM	B	fra	-1	0	Be uh {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.51	340.64	342.1	PM	B	inf	+1	1	we want to be distinguished ,
+IS1000a.B.dialog-act.vkaraisk.52	342.1	342.62	PM	B	el.ass	-1	0	mm ?
+IS1000a.B.dialog-act.vkaraisk.53	342.62	350.37	PM	B	inf	+1	1	People uh want to uh when they look at the shelf want to think , well that's the product I I need .
+IS1000a.B.dialog-act.vkaraisk.54	350.37	352.04	PM	B	sug	+1	1	So it needs to be trendy .
+IS1000a.B.dialog-act.vkaraisk.55	352.04	353.65	PM	B	inf	-1	0	I mean trendy is what people want ,
+IS1000a.B.dialog-act.vkaraisk.56	353.65	355.85	PM	B	inf	-1	0	so then I w they will buy our product .
+IS1000a.B.dialog-act.vkaraisk.57	357.68	362.8	PM	B	sug	+1	1	But then , uh , it also should work uh user friendly
+IS1000a.B.dialog-act.vkaraisk.58	362.8	373.68	PM	B	inf	-1	0	and uh otherwise people uh uh well it will not be uh be rated very well in consumer uh articles and like that .
+IS1000a.D.dialog-act.vkaraisk.27	374.247	374.802	ID	D	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.59	378.66	379.12	PM	B	stl	-1	0	So ,
+IS1000a.B.dialog-act.vkaraisk.60	379.12	391.568	PM	B	inf	+1	1	the general outline of uh new project will be we first uh go through a functional design phase . Um {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.61	392.96	398.25	PM	B	inf	+1	1	You all get uh um certain task uh in this uh in this phase
+IS1000a.B.dialog-act.vkaraisk.62	398.25	403.1	PM	B	inf	+1	1	and uh then we will meet again
+IS1000a.B.dialog-act.vkaraisk.63	403.1	405.76	PM	B	inf	+1	1	and uh discuss this functional design .
+IS1000a.B.dialog-act.vkaraisk.64	405.76	418.83	PM	B	inf	+1	1	And the same holds for the uh ph two phases uh after this , the conceptual design and after that a a more detailed design
+IS1000a.B.dialog-act.vkaraisk.66	418.83	423.98	PM	B	inf	+1	1	in which the the final project should get its definite shape .
+IS1000a.B.dialog-act.vkaraisk.67	426.45	426.79	PM	B	stl	-1	0	Alright ,
+IS1000a.B.dialog-act.vkaraisk.68	426.79	429.45	PM	B	sug	+1	1	but first we will do some uh tool training .
+IS1000a.B.dialog-act.vkaraisk.69	431.25	438.6	PM	B	inf	-1	0	In all in front of you uh you see uh the uh notebooks and w uh n note blocks
+IS1000a.B.dialog-act.vkaraisk.70	438.6	443.39	PM	B	inf	+1	1	and we have here a a {disfmarker} a {disfmarker} a white-board .
+IS1000a.C.dialog-act.vkaraisk.21	442.8	443.41	UI	C	fra	-1	0	Whitebo
+IS1000a.A.dialog-act.vkaraisk.5	443.55	443.74	ME	A	bck	-1	0	Mm-hmm .
+IS1000a.B.dialog-act.vkaraisk.71	445.88	448.93	PM	B	fra	-1	0	And um well it should work uh {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.72	448.93	454.57	PM	B	inf	+1	1	I've read it from my uh from some colleague that it should work with some kind of toolbar .
+IS1000a.B.dialog-act.vkaraisk.73	454.57	456.73	PM	B	inf	+1	1	I didn't find out yet how it work ,
+IS1000a.B.dialog-act.vkaraisk.74	456.73	460.832	PM	B	el.inf	-1	0	but maybe one of you did , so {disfmarker} Um {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.28	461.0	463.1	ID	D	inf	+1	1	Under documents in the shared folder .
+IS1000a.D.dialog-act.vkaraisk.29	463.1	463.33	ID	D	ass	-1	0	Okay .
+IS1000a.B.dialog-act.vkaraisk.75	464.26	465.55	PM	B	und	-1	0	Yes .
+IS1000a.B.dialog-act.vkaraisk.76	465.55	467.41	PM	B	el.inf	-1	0	Do {disfmarker} Do we have to say something about that ?
+IS1000a.B.dialog-act.vkaraisk.77	467.41	471.17	PM	B	inf	+1	1	I I I'm not fully updated about this shared folder uh .
+IS1000a.D.dialog-act.vkaraisk.30	472.5	472.63	ID	D	stl	-1	0	Yeah ,
+IS1000a.D.dialog-act.vkaraisk.31	472.63	476.57	ID	D	inf	+1	1	I guess we'll have a shared folder uh with documents that we can share .
+IS1000a.D.dialog-act.vkaraisk.32	476.57	478.41	ID	D	fra	-1	0	And uh , yeah .
+IS1000a.B.dialog-act.vkaraisk.78	478.02	478.51	PM	B	stl	-1	0	Yes well
+IS1000a.B.dialog-act.vkaraisk.79	478.51	482.05	PM	B	sug	-1	0	we will then find out ho how it works .
+IS1000a.D.dialog-act.vkaraisk.33	482.66	483.05	ID	D	ass	-1	0	Yes .
+IS1000a.B.dialog-act.vkaraisk.80	483.65	486.7	PM	B	stl	-1	0	Um . Well ,
+IS1000a.B.dialog-act.vkaraisk.81	486.7	489.34	PM	B	inf	-1	0	this seems to me , yes , some computer program
+IS1000a.B.dialog-act.vkaraisk.82	489.34	490.47	PM	B	inf	-1	0	but I didn't find it yet .
+IS1000a.B.dialog-act.vkaraisk.83	492.0	492.87	PM	B	stl	-1	0	So ,
+IS1000a.B.dialog-act.vkaraisk.84	492.87	493.83	PM	B	sug	-1	0	we'll come to that later .
+IS1000a.B.dialog-act.vkaraisk.85	495.3	498.25	PM	B	stl	-1	0	So , uh
+IS1000a.B.dialog-act.vkaraisk.86	498.25	500.32	PM	B	sug	+1	1	now we will try out the white-board we have here .
+IS1000a.B.dialog-act.vkaraisk.87	502.29	502.68	PM	B	stl	-1	0	So ,
+IS1000a.B.dialog-act.vkaraisk.88	504.97	507.264	PM	B	sug	-1	0	I would suggest uh {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.34	507.51	508.51	ID	D	sug	+1	1	Each of us is going .
+IS1000a.B.dialog-act.vkaraisk.89	508.8	509.21	PM	B	stl	-1	0	Well ,
+IS1000a.B.dialog-act.vkaraisk.90	509.21	509.76	PM	B	ass	-1	0	yes ,
+IS1000a.B.dialog-act.vkaraisk.91	509.76	513.95	PM	B	sug	-1	0	um we uh we should try to t to draw on it
+IS1000a.B.dialog-act.vkaraisk.92	513.95	517.07	PM	B	inf	-1	0	and then well it should be smart some way .
+IS1000a.B.dialog-act.vkaraisk.93	517.07	521.541	PM	B	inf	+1	1	I {disfmarker} {vocalsound} I'm not really sure how this works , but {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.35	521.19	521.68	ID	D	stl	-1	0	Okay ,
+IS1000a.D.dialog-act.vkaraisk.36	521.68	522.32	ID	D	off	+1	1	shall I start ?
+IS1000a.A.dialog-act.vkaraisk.6	522.34	523.15	ME	A	ass	-1	0	Mm . Yeah .
+IS1000a.B.dialog-act.vkaraisk.94	522.85	523.19	PM	B	ass	-1	0	Yes ,
+IS1000a.C.dialog-act.vkaraisk.22	522.47	522.84	UI	C	ass	-1	0	Yeah ,
+IS1000a.B.dialog-act.vkaraisk.95	523.19	524.93	PM	B	ass	-1	0	a good idea Mael .
+IS1000a.C.dialog-act.vkaraisk.23	522.84	524.08	UI	C	sug	-1	0	you can start it you know .
+IS1000a.A.dialog-act.vkaraisk.7	524.13	526.57	ME	A	inf	+1	1	I think for us it's just like a normal whiteboard ,
+IS1000a.A.dialog-act.vkaraisk.8	526.57	528.7	ME	A	inf	+1	1	but they'll be recording what we write down .
+IS1000a.D.dialog-act.vkaraisk.37	527.85	528.13	ID	D	stl	-1	0	So ,
+IS1000a.D.dialog-act.vkaraisk.38	528.13	528.72	ID	D	fra	-1	0	i
+IS1000a.C.dialog-act.vkaraisk.24	528.85	529.09	UI	C	stl	-1	0	No
+IS1000a.C.dialog-act.vkaraisk.25	529.09	530.24	UI	C	inf	-1	0	they will record through that .
+IS1000a.C.dialog-act.vkaraisk.26	530.24	531.42	UI	C	inf	-1	0	There's a sensor over there
+IS1000a.A.dialog-act.vkaraisk.9	531.12	532.15	ME	A	bck	-1	0	Mm . Mm .
+IS1000a.C.dialog-act.vkaraisk.27	531.42	533.76	UI	C	inf	-1	0	which is going to record the strokes that you make .
+IS1000a.A.dialog-act.vkaraisk.10	533.24	535.29	ME	A	inf	-1	0	But for us it's just like a normal whiteboard .
+IS1000a.B.dialog-act.vkaraisk.96	533.61	533.85	PM	B	und	-1	0	Okay .
+IS1000a.C.dialog-act.vkaraisk.28	534.97	535.26	UI	C	ass	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.97	536.23	536.45	PM	B	und	-1	0	'Kay .
+IS1000a.C.dialog-act.vkaraisk.29	537.74	538.608	UI	C	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.39	539.8	540.448	ID	D	fra	-1	0	But it's {disfmarker}
+IS1000a.A.dialog-act.vkaraisk.11	541.072	542.131	ME	A	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.40	545.11	547.792	ID	D	inf	-1	0	Actually , I think I cannot go with uh {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.98	548.4	548.896	PM	B	fra	-1	0	You {disfmarker} you {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.99	551.54	552.38	PM	B	el.inf	-1	0	D doesn't it work ?
+IS1000a.B.dialog-act.vkaraisk.100	553.6	554.23	PM	B	fra	-1	0	Maybe someo
+IS1000a.B.dialog-act.vkaraisk.101	554.23	556.82	PM	B	sug	+1	1	Maybe {disfmarker} maybe Anna , maybe you can start .
+IS1000a.A.dialog-act.vkaraisk.12	555.66	555.88	ME	A	bck	-1	0	Mm-hmm .
+IS1000a.D.dialog-act.vkaraisk.41	555.73	556.98	ID	D	ass	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.102	556.82	560.96	PM	B	inf	-1	0	Then he can maybe find out to get his cord right .
+IS1000a.A.dialog-act.vkaraisk.13	562.38	563.09	ME	A	oth	-1	0	I have to draw .
+IS1000a.B.dialog-act.vkaraisk.103	562.6	564.336	PM	B	stl	-1	0	So um {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.104	565.16	566.17	PM	B	fra	-1	0	L
+IS1000a.B.dialog-act.vkaraisk.105	566.17	571.23	PM	B	sug	+1	1	Why don't you draw uh {vocalsound} your favourite animal on on th on the white-board .
+IS1000a.D.dialog-act.vkaraisk.42	566.892	568.736	ID	D	fra	-1	0	{vocalsound}
+IS1000a.A.dialog-act.vkaraisk.14	570.62	573.58	ME	A	und	-1	0	M my {disfmarker} my favourite animal .
+IS1000a.A.dialog-act.vkaraisk.15	573.58	573.82	ME	A	be.pos	-1	0	{vocalsound} Sorry
+IS1000a.A.dialog-act.vkaraisk.16	573.82	574.68	ME	A	inf	-1	0	this is all tangled up here .
+IS1000a.B.dialog-act.vkaraisk.106	579.42	581.776	PM	B	und	-1	0	Oh , I see uh {disfmarker}
+IS1000a.A.dialog-act.vkaraisk.17	580.98	581.81	ME	A	ass	-1	0	That's better .
+IS1000a.C.dialog-act.vkaraisk.30	584.46	584.79	UI	C	bck	-1	0	Yeah .
+IS1000a.A.dialog-act.vkaraisk.18	585.353	586.562	ME	A	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.107	585.56	588.46	PM	B	oth	-1	0	Yeah . Yes . Mm .
+IS1000a.B.dialog-act.vkaraisk.108	594.54	595.05	PM	B	sug	-1	0	So draw it .
+IS1000a.B.dialog-act.vkaraisk.109	595.05	597.449	PM	B	off	-1	0	We will try to guess what it is . {vocalsound}
+IS1000a.A.dialog-act.vkaraisk.19	595.69	597.19	ME	A	bck	-1	0	Mm-hmm .
+IS1000a.A.dialog-act.vkaraisk.20	597.19	600.65	ME	A	be.neg	-1	0	{vocalsound} I'm a very bad drawer .
+IS1000a.B.dialog-act.vkaraisk.110	599.006	599.712	PM	B	fra	-1	0	{vocalsound}
+IS1000a.A.dialog-act.vkaraisk.21	602.83	603.08	ME	A	ass	-1	0	Weird .
+IS1000a.A.dialog-act.vkaraisk.22	607.11	610.75	ME	A	inf	-1	0	Um . You're not gonna be able to guess from my drawing .
+IS1000a.A.dialog-act.vkaraisk.23	610.75	611.89	ME	A	be.neg	-1	0	I'm a bad drawer .
+IS1000a.A.dialog-act.vkaraisk.24	611.89	612.24	ME	A	inf	-1	0	Okay .
+IS1000a.B.dialog-act.vkaraisk.111	614.73	614.94	PM	B	oth	-1	0	Mm .
+IS1000a.A.dialog-act.vkaraisk.25	617.71	619.08	ME	A	inf	-1	0	They're ears , by the way .
+IS1000a.C.dialog-act.vkaraisk.31	617.72	618.37	UI	C	inf	-1	0	's a cat .
+IS1000a.A.dialog-act.vkaraisk.26	619.08	619.87	ME	A	el.inf	-1	0	No .
+IS1000a.A.dialog-act.vkaraisk.27	619.87	621.18	ME	A	ass	-1	0	Um close though .
+IS1000a.A.dialog-act.vkaraisk.28	626.75	627.43	ME	A	stl	-1	0	Okay so {disfmarker}
+IS1000a.A.dialog-act.vkaraisk.29	627.43	628.23	ME	A	inf	-1	0	like a pet animal .
+IS1000a.D.dialog-act.vkaraisk.43	631.409	633.31	ID	D	oth	-1	0	{vocalsound} Okay .
+IS1000a.A.dialog-act.vkaraisk.30	634.912	636.65	ME	A	inf	-1	0	{vocalsound} Like a cat .
+IS1000a.C.dialog-act.vkaraisk.32	637.14	637.55	UI	C	und	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.112	639.34	640.08	PM	B	inf	-1	0	It's like a cat ,
+IS1000a.B.dialog-act.vkaraisk.113	640.08	641.74	PM	B	inf	-1	0	so I guess it's a cat . {vocalsound}
+IS1000a.A.dialog-act.vkaraisk.31	641.35	641.93	ME	A	inf	-1	0	No ,
+IS1000a.A.dialog-act.vkaraisk.32	641.93	643.35	ME	A	inf	-1	0	not a cat though .
+IS1000a.B.dialog-act.vkaraisk.114	645.03	645.8	PM	B	oth	-1	0	What is this now ?
+IS1000a.C.dialog-act.vkaraisk.33	658.87	660.22	UI	C	oth	-1	0	Ah you forget about it .
+IS1000a.D.dialog-act.vkaraisk.44	661.6	662.25	ID	D	el.inf	-1	0	You're on the knife .
+IS1000a.C.dialog-act.vkaraisk.34	662.65	663.75	UI	C	inf	-1	0	Yeah ,
+IS1000a.C.dialog-act.vkaraisk.35	663.75	667.23	UI	C	ass	-1	0	uh I think it's fine .
+IS1000a.C.dialog-act.vkaraisk.36	667.23	669.07	UI	C	off	-1	0	I just don't want to carry it off .
+IS1000a.C.dialog-act.vkaraisk.37	671.29	673.26	UI	C	ass	-1	0	Man , this wires ,
+IS1000a.C.dialog-act.vkaraisk.38	673.26	673.41	UI	C	el.ass	-1	0	eh ?
+IS1000a.C.dialog-act.vkaraisk.39	673.41	675.01	UI	C	sug	-1	0	We need a wireless microphone .
+IS1000a.D.dialog-act.vkaraisk.45	676.24	676.965	ID	D	fra	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.40	678.79	680.79	UI	C	el.und	-1	0	You know ?
+IS1000a.C.dialog-act.vkaraisk.41	680.79	681.73	UI	C	fra	-1	0	Pro specially we should
+IS1000a.C.dialog-act.vkaraisk.42	681.73	683.56	UI	C	sug	-1	0	next project we should take l like that .
+IS1000a.A.dialog-act.vkaraisk.33	688.96	690.26	ME	A	stl	-1	0	Okay . So .
+IS1000a.B.dialog-act.vkaraisk.115	688.88	690.15	PM	B	stl	-1	0	So ,
+IS1000a.A.dialog-act.vkaraisk.34	690.26	691.32	ME	A	ass	-1	0	It's not a cat ,
+IS1000a.B.dialog-act.vkaraisk.116	690.15	691.14	PM	B	inf	-1	0	that's the cat .
+IS1000a.A.dialog-act.vkaraisk.35	691.32	692.77	ME	A	inf	+1	1	it's a dog .
+IS1000a.B.dialog-act.vkaraisk.117	691.14	691.36	PM	B	und	-1	0	Oh .
+IS1000a.C.dialog-act.vkaraisk.43	691.38	691.81	UI	C	stl	-1	0	So .
+IS1000a.D.dialog-act.vkaraisk.46	691.54	691.79	ID	D	oth	-1	0	Mael .
+IS1000a.B.dialog-act.vkaraisk.118	692.26	692.78	PM	B	und	-1	0	It's a dog .
+IS1000a.A.dialog-act.vkaraisk.36	692.77	694.56	ME	A	ass	-1	0	Yes .
+IS1000a.B.dialog-act.vkaraisk.119	694.35	694.56	PM	B	stl	-1	0	So
+IS1000a.B.dialog-act.vkaraisk.120	694.56	696.2	PM	B	inf	-1	0	but that's also kind of cat ,
+IS1000a.C.dialog-act.vkaraisk.44	695.69	695.84	UI	C	stl	-1	0	Oh
+IS1000a.B.dialog-act.vkaraisk.121	696.2	696.81	PM	B	el.ass	-1	0	isn't it ?
+IS1000a.C.dialog-act.vkaraisk.45	695.84	697.12	UI	C	el.inf	-1	0	the dog doesn't have a tail ?
+IS1000a.A.dialog-act.vkaraisk.37	697.104	698.78	ME	A	inf	-1	0	{vocalsound} It's got a tail then .
+IS1000a.B.dialog-act.vkaraisk.122	697.88	699.68	PM	B	inf	-1	0	B bo both predators .
+IS1000a.C.dialog-act.vkaraisk.46	698.95	701.37	UI	C	ass	-1	0	Yeah , sure , yeah .
+IS1000a.A.dialog-act.vkaraisk.38	700.6	701.48	ME	A	ass	-1	0	Yeah yeah .
+IS1000a.C.dialog-act.vkaraisk.47	701.37	703.28	UI	C	inf	-1	0	I thought so . The dogs have a tail .
+IS1000a.A.dialog-act.vkaraisk.39	703.49	705.53	ME	A	inf	-1	0	So do cats .
+IS1000a.B.dialog-act.vkaraisk.123	703.29	703.47	PM	B	stl	-1	0	So ,
+IS1000a.B.dialog-act.vkaraisk.124	703.47	704.0	PM	B	be.pos	-1	0	thank you .
+IS1000a.B.dialog-act.vkaraisk.125	704.0	706.66	PM	B	el.inf	-1	0	Uh d did you uh work out cord ?
+IS1000a.D.dialog-act.vkaraisk.47	703.822	704.592	ID	D	fra	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.48	704.512	705.952	UI	C	fra	-1	0	{vocalsound}
+IS1000a.A.dialog-act.vkaraisk.40	705.53	708.144	ME	A	inf	-1	0	And you guessed cats without a tail . {vocalsound}
+IS1000a.C.dialog-act.vkaraisk.49	708.06	708.48	UI	C	ass	-1	0	Yeah .
+IS1000a.D.dialog-act.vkaraisk.48	708.52	708.75	ID	D	stl	-1	0	Yeah ,
+IS1000a.D.dialog-act.vkaraisk.49	708.75	712.0	ID	D	off	-1	0	I think I will go without {disfmarker} without it ,
+IS1000a.A.dialog-act.vkaraisk.41	710.34	710.67	ME	A	oth	-1	0	Okay .
+IS1000a.B.dialog-act.vkaraisk.126	712.4	712.78	PM	B	ass	-1	0	Okay .
+IS1000a.D.dialog-act.vkaraisk.50	712.0	712.21	ID	D	el.ass	-1	0	right ?
+IS1000a.C.dialog-act.vkaraisk.50	715.86	717.18	UI	C	inf	-1	0	It'll still not extend ,
+IS1000a.C.dialog-act.vkaraisk.51	717.18	717.41	UI	C	el.ass	-1	0	right ?
+IS1000a.C.dialog-act.vkaraisk.52	717.41	718.42	UI	C	inf	-1	0	It's not up to that .
+IS1000a.A.dialog-act.vkaraisk.42	722.42	723.78	ME	A	sug	-1	0	Okay , there you go .
+IS1000a.A.dialog-act.vkaraisk.43	723.78	724.13	ME	A	stl	-1	0	So
+IS1000a.A.dialog-act.vkaraisk.44	724.13	729.23	ME	A	inf	-1	0	what favourite characteristics . Uh . Dogs are always friendly and loyal and fun .
+IS1000a.A.dialog-act.vkaraisk.45	750.07	750.58	ME	A	el.inf	-1	0	A horse ?
+IS1000a.C.dialog-act.vkaraisk.53	750.59	751.47	UI	C	inf	+1	1	It's a horse .
+IS1000a.A.dialog-act.vkaraisk.46	753.168	757.54	ME	A	be.pos	-1	0	{vocalsound} This is why you're the designer .
+IS1000a.A.dialog-act.vkaraisk.47	757.54	762.128	ME	A	be.neg	-1	0	And I'm marketing . {vocalsound}
+IS1000a.B.dialog-act.vkaraisk.127	757.81	762.76	PM	B	ass	-1	0	Yes . Yes , yes this is {disfmarker} Yes definitely a horse . Yes .
+IS1000a.B.dialog-act.vkaraisk.128	762.76	766.56	PM	B	ass	-1	0	Oh very good . So {disfmarker}
+IS1000a.A.dialog-act.vkaraisk.48	766.79	767.712	ME	A	und	-1	0	Ah {vocalsound}
+IS1000a.B.dialog-act.vkaraisk.129	767.71	768.778	PM	B	fra	-1	0	I suppose it {disfmarker}
+IS1000a.C.dialog-act.vkaraisk.54	768.01	768.58	UI	C	stl	-1	0	Ah
+IS1000a.C.dialog-act.vkaraisk.55	768.58	770.1	UI	C	sug	-1	0	I think you can put that .
+IS1000a.A.dialog-act.vkaraisk.49	775.57	776.48	ME	A	ass	-1	0	Mm-hmm . That's it .
+IS1000a.A.dialog-act.vkaraisk.50	780.448	784.09	ME	A	inf	+1	1	{vocalsound} A blue and black zebra {vocalsound} .
+IS1000a.C.dialog-act.vkaraisk.56	781.049	785.605	UI	C	fra	-1	0	{vocalsound} {vocalsound}
+IS1000a.A.dialog-act.vkaraisk.51	785.472	787.168	ME	A	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.130	785.25	786.41	PM	B	oth	-1	0	Yes .
+IS1000a.B.dialog-act.vkaraisk.131	790.23	792.47	PM	B	be.pos	-1	0	Can {disfmarker} you can meet them in Africa , I think .
+IS1000a.B.dialog-act.vkaraisk.132	792.47	794.4	PM	B	ass	-1	0	Yes . Very good . So {disfmarker}
+IS1000a.A.dialog-act.vkaraisk.52	794.55	796.42	ME	A	be.pos	-1	0	The very rare blue zebras . Yes .
+IS1000a.C.dialog-act.vkaraisk.57	796.464	800.422	UI	C	off	-1	0	{gap} I'll tell to get it off my {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.133	798.05	798.77	PM	B	sug	-1	0	Ma Matthew ?
+IS1000a.C.dialog-act.vkaraisk.58	805.41	805.84	UI	C	und	-1	0	Uh ?
+IS1000a.C.dialog-act.vkaraisk.59	809.24	810.24	UI	C	oth	-1	0	Mm-hmm .
+IS1000a.B.dialog-act.vkaraisk.134	809.98	810.432	PM	B	fra	-1	0	So {disfmarker}
+IS1000a.A.dialog-act.vkaraisk.53	813.44	814.33	ME	A	inf	-1	0	You got a lot of room here .
+IS1000a.B.dialog-act.vkaraisk.135	813.7	814.015	PM	B	fra	-1	0	Maybe {disfmarker}
+IS1000a.A.dialog-act.vkaraisk.54	814.33	815.66	ME	A	sug	-1	0	You can probably reach .
+IS1000a.C.dialog-act.vkaraisk.60	815.64	815.72	UI	C	stl	-1	0	Oh
+IS1000a.C.dialog-act.vkaraisk.61	815.72	815.99	UI	C	fra	-1	0	y
+IS1000a.C.dialog-act.vkaraisk.62	815.99	816.9	UI	C	ass	-1	0	it's not for that .
+IS1000a.A.dialog-act.vkaraisk.55	817.25	817.43	ME	A	el.inf	-1	0	No ?
+IS1000a.C.dialog-act.vkaraisk.63	817.84	817.95	UI	C	inf	-1	0	No .
+IS1000a.B.dialog-act.vkaraisk.136	818.54	822.24	PM	B	el.inf	-1	0	I hope you have some space in your uh the horse of uh Mael .
+IS1000a.C.dialog-act.vkaraisk.64	820.64	821.18	UI	C	inf	-1	0	Okay . Yeah .
+IS1000a.C.dialog-act.vkaraisk.65	826.41	827.56	UI	C	el.sug	-1	0	So what should I draw ?
+IS1000a.C.dialog-act.vkaraisk.67	827.56	827.78	UI	C	oth	-1	0	Mm .
+IS1000a.C.dialog-act.vkaraisk.66	828.82	831.24	UI	C	inf	-1	0	He has already to do cat .
+IS1000a.A.dialog-act.vkaraisk.56	831.48	834.448	ME	A	inf	-1	0	I took a dog . {vocalsound}
+IS1000a.D.dialog-act.vkaraisk.51	833.632	834.0	ID	D	fra	-1	0	{vocalsound}
+IS1000a.A.dialog-act.vkaraisk.57	841.26	844.45	ME	A	el.inf	-1	0	Um . A mouse ?
+IS1000a.B.dialog-act.vkaraisk.137	849.43	855.952	PM	B	inf	-1	0	This looks likes a cat who has been driven over . {vocalsound}
+IS1000a.A.dialog-act.vkaraisk.58	852.608	856.93	ME	A	und	-1	0	{vocalsound} Okay .
+IS1000a.D.dialog-act.vkaraisk.52	853.593	860.58	ID	D	ass	-1	0	{vocalsound} Yeah . {vocalsound}
+IS1000a.B.dialog-act.vkaraisk.138	857.952	859.296	PM	B	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.53	860.58	864.45	ID	D	sug	-1	0	And we should sum up its favourite charas characteristics ,
+IS1000a.D.dialog-act.vkaraisk.54	864.45	865.26	ID	D	el.ass	-1	0	right ?
+IS1000a.A.dialog-act.vkaraisk.59	866.37	868.254	ME	A	bck	-1	0	Mm-hmm . {vocalsound}
+IS1000a.B.dialog-act.vkaraisk.139	870.23	871.48	PM	B	oth	-1	0	Yes , the moustache .
+IS1000a.D.dialog-act.vkaraisk.55	872.3	872.976	ID	D	stl	-1	0	So {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.140	873.42	874.86	PM	B	inf	+1	1	That's {disfmarker} that's definitely a cat .
+IS1000a.A.dialog-act.vkaraisk.60	875.13	875.36	ME	A	ass	-1	0	Mm-hmm .
+IS1000a.D.dialog-act.vkaraisk.56	875.62	876.82	ID	D	ass	-1	0	Uh yeah .
+IS1000a.D.dialog-act.vkaraisk.57	876.82	878.88	ID	D	inf	-1	0	And i Th They like to sleep ,
+IS1000a.D.dialog-act.vkaraisk.58	878.88	881.92	ID	D	el.inf	-1	0	that's why you said you they are like this .
+IS1000a.B.dialog-act.vkaraisk.141	886.911	893.74	PM	B	inf	-1	0	{vocalsound} It's quite , you know {disfmarker} relaxed situation .
+IS1000a.A.dialog-act.vkaraisk.61	887.616	889.12	ME	A	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.59	887.17	887.31	ID	D	oth	-1	0	Yeah .
+IS1000a.D.dialog-act.vkaraisk.60	889.04	890.704	ID	D	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.142	893.74	894.08	PM	B	ass	-1	0	Yes .
+IS1000a.A.dialog-act.vkaraisk.62	894.95	895.23	ME	A	bck	-1	0	Mm-hmm .
+IS1000a.B.dialog-act.vkaraisk.143	900.608	904.592	PM	B	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.144	906.2	909.232	PM	B	ass	-1	0	Yes , okay . {vocalsound}
+IS1000a.A.dialog-act.vkaraisk.63	910.08	911.104	ME	A	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.61	910.713	912.99	ID	D	inf	-1	0	{vocalsound} She has the small legs .
+IS1000a.B.dialog-act.vkaraisk.145	912.96	913.81	PM	B	be.pos	-1	0	Th thank you , Matthew .
+IS1000a.D.dialog-act.vkaraisk.62	914.06	915.28	ID	D	bck	-1	0	Yeah .
+IS1000a.D.dialog-act.vkaraisk.63	918.224	922.24	ID	D	be.pos	-1	0	{vocalsound} Thank you , Matthew .
+IS1000a.A.dialog-act.vkaraisk.64	920.144	926.722	ME	A	inf	-1	0	{vocalsound} It's a very big rat . Or a very small cat . {vocalsound}
+IS1000a.B.dialog-act.vkaraisk.146	919.648	923.328	PM	B	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.64	922.24	922.67	ID	D	ass	-1	0	{vocalsound} Perfect .
+IS1000a.D.dialog-act.vkaraisk.65	923.449	924.14	ID	D	stl	-1	0	{vocalsound} Oh
+IS1000a.D.dialog-act.vkaraisk.66	924.14	925.43	ID	D	und	-1	0	a rat , okay .
+IS1000a.B.dialog-act.vkaraisk.147	927.93	934.19	PM	B	ass	-1	0	Yes , this is certain uh {disfmarker} some contribution to our project . {vocalsound}
+IS1000a.A.dialog-act.vkaraisk.65	932.88	933.19	ME	A	bck	-1	0	Mm 'kay .
+IS1000a.D.dialog-act.vkaraisk.67	932.51	934.237	ID	D	fra	-1	0	And you , {gap}
+IS1000a.A.dialog-act.vkaraisk.66	933.59	934.92	ME	A	sug	-1	0	Your turn .
+IS1000a.B.dialog-act.vkaraisk.149	934.19	937.92	PM	B	stl	-1	0	So . Let's see .
+IS1000a.B.dialog-act.vkaraisk.150	937.92	940.57	PM	B	el.inf	-1	0	Which animal has not been drawn yet .
+IS1000a.B.dialog-act.vkaraisk.151	952.27	952.44	PM	B	stl	-1	0	So
+IS1000a.B.dialog-act.vkaraisk.152	952.44	954.11	PM	B	inf	-1	0	you've all drawn land animals ,
+IS1000a.A.dialog-act.vkaraisk.67	954.579	955.315	ME	A	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.153	954.11	957.21	PM	B	off	-1	0	so why not draw an animal from the water .
+IS1000a.D.dialog-act.vkaraisk.68	956.47	957.86	ID	D	sug	-1	0	A bird .
+IS1000a.D.dialog-act.vkaraisk.69	957.86	958.51	ID	D	und	-1	0	Okay , in the water .
+IS1000a.A.dialog-act.vkaraisk.68	958.781	967.252	ME	A	fra	-1	0	{vocalsound} {vocalsound}
+IS1000a.A.dialog-act.vkaraisk.69	968.95	969.31	ME	A	stl	-1	0	Ah
+IS1000a.A.dialog-act.vkaraisk.70	969.31	971.26	ME	A	inf	-1	0	I don't know what that is .
+IS1000a.A.dialog-act.vkaraisk.71	971.26	972.046	ME	A	fra	-1	0	It's a bit {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.70	971.35	972.64	ID	D	oth	-1	0	Mm .
+IS1000a.B.dialog-act.vkaraisk.154	971.993	977.14	PM	B	oth	-1	0	{vocalsound} Mm . {vocalsound}
+IS1000a.A.dialog-act.vkaraisk.72	972.66	973.888	ME	A	ass	-1	0	It's a bit hard to guess . {vocalsound}
+IS1000a.D.dialog-act.vkaraisk.71	973.648	978.36	ID	D	ass	-1	0	{vocalsound} Yeah . {vocalsound}
+IS1000a.A.dialog-act.vkaraisk.73	975.046	978.128	ME	A	fra	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.68	977.43	977.728	UI	C	stl	-1	0	So {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.72	978.36	979.02	ID	D	sug	-1	0	Put it colours .
+IS1000a.D.dialog-act.vkaraisk.73	979.02	980.69	ID	D	inf	-1	0	Maybe it would help us .
+IS1000a.A.dialog-act.vkaraisk.74	980.0	980.37	ME	A	bck	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.155	980.64	980.94	PM	B	ass	-1	0	Yes .
+IS1000a.C.dialog-act.vkaraisk.69	981.22	983.27	UI	C	el.inf	-1	0	The cat is going to eat the fish or the rat ?
+IS1000a.D.dialog-act.vkaraisk.74	982.85	984.46	ID	D	sug	-1	0	With different pen widths .
+IS1000a.A.dialog-act.vkaraisk.75	983.722	985.74	ME	A	bck	-1	0	{vocalsound} Mm-hmm.$
+IS1000a.B.dialog-act.vkaraisk.156	983.317	984.455	PM	B	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.157	987.27	987.881	PM	B	stl	-1	0	So {disfmarker}
+IS1000a.A.dialog-act.vkaraisk.76	993.41	993.51	ME	A	und	-1	0	Oh ,
+IS1000a.A.dialog-act.vkaraisk.77	993.51	994.17	ME	A	inf	-1	0	it's a shark now .
+IS1000a.D.dialog-act.vkaraisk.75	994.15	994.24	ID	D	und	-1	0	Ah
+IS1000a.D.dialog-act.vkaraisk.76	994.24	994.83	ID	D	inf	+1	1	it's a shark ,
+IS1000a.D.dialog-act.vkaraisk.77	994.83	995.1	ID	D	ass	-1	0	yeah .
+IS1000a.A.dialog-act.vkaraisk.78	995.68	999.952	ME	A	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.158	996.0	996.26	PM	B	und	-1	0	Oh ,
+IS1000a.B.dialog-act.vkaraisk.159	996.26	997.86	PM	B	ass	-1	0	yes , why not ?
+IS1000a.D.dialog-act.vkaraisk.78	996.901	999.58	ID	D	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.160	997.86	998.93	PM	B	ass	-1	0	{vocalsound} Good idea .
+IS1000a.C.dialog-act.vkaraisk.70	999.36	999.43	UI	C	stl	-1	0	Ah
+IS1000a.C.dialog-act.vkaraisk.71	999.43	1001.28	UI	C	inf	-1	0	it's a baby shark , it looks to me ,
+IS1000a.A.dialog-act.vkaraisk.79	1001.3	1001.57	ME	A	bck	-1	0	Mm .
+IS1000a.C.dialog-act.vkaraisk.72	1001.28	1005.38	UI	C	be.pos	-1	0	you know it's going to eat the cat rather than the cat eating the fish , no ?
+IS1000a.D.dialog-act.vkaraisk.79	1004.83	1005.49	ID	D	bck	-1	0	Oh .
+IS1000a.A.dialog-act.vkaraisk.80	1005.67	1007.39	ME	A	inf	-1	0	Now it's a swordfish .
+IS1000a.B.dialog-act.vkaraisk.161	1007.632	1007.872	PM	B	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.162	1010.46	1011.43	PM	B	ass	-1	0	Why not . A swordfish .
+IS1000a.A.dialog-act.vkaraisk.81	1011.104	1011.664	ME	A	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.80	1010.87	1012.47	ID	D	inf	-1	0	You have some in {disfmarker} in Australia ,
+IS1000a.D.dialog-act.vkaraisk.81	1012.47	1013.64	ID	D	el.ass	-1	0	right ?
+IS1000a.A.dialog-act.vkaraisk.82	1013.07	1014.29	ME	A	und	-1	0	Swordfish .
+IS1000a.B.dialog-act.vkaraisk.163	1012.572	1013.318	PM	B	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.82	1013.64	1014.31	ID	D	inf	-1	0	Yeah .
+IS1000a.A.dialog-act.vkaraisk.83	1014.29	1016.06	ME	A	ass	-1	0	Um , maybe .
+IS1000a.D.dialog-act.vkaraisk.83	1014.31	1015.02	ID	D	inf	-1	0	I dunno .
+IS1000a.A.dialog-act.vkaraisk.84	1017.36	1018.48	ME	A	inf	-1	0	I've never seen one , no .
+IS1000a.D.dialog-act.vkaraisk.85	1017.6	1017.87	ID	D	oth	-1	0	Oh well .
+IS1000a.D.dialog-act.vkaraisk.84	1018.86	1019.04	ID	D	bck	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.164	1022.01	1024.36	PM	B	oth	-1	0	I hope it still works .
+IS1000a.B.dialog-act.vkaraisk.165	1024.36	1024.656	PM	B	stl	-1	0	So {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.86	1023.89	1024.39	ID	D	ass	-1	0	Perfect .
+IS1000a.D.dialog-act.vkaraisk.87	1024.39	1024.52	ID	D	stl	-1	0	So
+IS1000a.D.dialog-act.vkaraisk.88	1024.52	1027.94	ID	D	el.inf	-1	0	I dunno if we need to spend time on that , actually {vocalsound}
+IS1000a.D.dialog-act.vkaraisk.89	1027.94	1028.88	ID	D	fra	-1	0	But uh {disfmarker}
+IS1000a.C.dialog-act.vkaraisk.73	1028.48	1030.96	UI	C	sug	-1	0	You should go for the next one it seems to me .
+IS1000a.B.dialog-act.vkaraisk.166	1029.29	1030.06	PM	B	stl	-1	0	W Well ,
+IS1000a.B.dialog-act.vkaraisk.167	1030.06	1033.78	PM	B	inf	-1	0	this uh this tool seemed to work .
+IS1000a.A.dialog-act.vkaraisk.85	1033.27	1033.71	ME	A	ass	-1	0	Mm-hmm .
+IS1000a.D.dialog-act.vkaraisk.90	1033.04	1034.18	ID	D	ass	-1	0	Yeah , exactly , yeah .
+IS1000a.B.dialog-act.vkaraisk.168	1033.78	1036.8	PM	B	sug	+1	1	{vocalsound} Let's continue to uh {disfmarker} to the real stuff .
+IS1000a.D.dialog-act.vkaraisk.91	1035.93	1037.38	ID	D	ass	-1	0	Wow .
+IS1000a.B.dialog-act.vkaraisk.169	1039.08	1045.01	PM	B	inf	+1	1	Um our project uh finance uh thing .
+IS1000a.B.dialog-act.vkaraisk.170	1045.01	1056.44	PM	B	inf	+1	2	Uh when we are {disfmarker} and when w you are uh going to design w uh we must keep in mind that the selling price of the product uh will be about twenty five Euros ,
+IS1000a.B.dialog-act.vkaraisk.171	1056.44	1067.25	PM	B	sug	-1	0	so when designing a project uh I also look at you uh Mael , keep in mind uh uh uh {disfmarker} People uh
+IS1000a.C.dialog-act.vkaraisk.74	1059.18	1059.92	UI	C	inf	-1	0	Twenty four .
+IS1000a.D.dialog-act.vkaraisk.92	1064.39	1064.54	ID	D	bck	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.172	1068.31	1072.91	PM	B	sug	-1	0	want to get the feeling this is a twenty five Euro project uh pr um
+IS1000a.B.dialog-act.vkaraisk.173	1074.05	1074.54	PM	B	sug	-1	0	product .
+IS1000a.D.dialog-act.vkaraisk.93	1073.59	1074.66	ID	D	inf	-1	0	Per remote control ,
+IS1000a.A.dialog-act.vkaraisk.86	1074.99	1075.36	ME	A	bck	-1	0	Mm .
+IS1000a.D.dialog-act.vkaraisk.94	1074.66	1075.04	ID	D	ass	-1	0	yeah ?
+IS1000a.D.dialog-act.vkaraisk.95	1075.04	1075.89	ID	D	und	-1	0	Per project .
+IS1000a.B.dialog-act.vkaraisk.174	1076.13	1076.83	PM	B	ass	-1	0	Yes .
+IS1000a.B.dialog-act.vkaraisk.175	1076.83	1079.09	PM	B	stl	-1	0	Okay . Um
+IS1000a.D.dialog-act.vkaraisk.96	1078.48	1078.928	ID	D	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.176	1079.09	1086.04	PM	B	inf	+1	2	more interesting for our company {vocalsound} of course , p uh profit aim , about fifty million Euro .
+IS1000a.B.dialog-act.vkaraisk.177	1086.04	1087.85	PM	B	stl	-1	0	So
+IS1000a.B.dialog-act.vkaraisk.178	1087.85	1095.07	PM	B	sug	-1	0	we have to sell uh quite a lot of this uh {vocalsound} um things .
+IS1000a.B.dialog-act.vkaraisk.179	1095.07	1098.1	PM	B	inf	-1	0	Uh we will try to uh
+IS1000a.B.dialog-act.vkaraisk.180	1099.43	1101.18	PM	B	inf	+1	2	to get at a international market
+IS1000a.B.dialog-act.vkaraisk.181	1101.18	1102.24	PM	B	stl	-1	0	uh so um
+IS1000a.B.dialog-act.vkaraisk.182	1102.24	1106.57	PM	B	inf	-1	0	it will be I think mainly Europe and uh Northern America ,
+IS1000a.C.dialog-act.vkaraisk.75	1106.68	1108.98	UI	C	oth	-1	0	Ah yeah , the sale man , four million .
+IS1000a.B.dialog-act.vkaraisk.183	1107.91	1109.44	PM	B	inf	-1	0	maybe some uh Asian countries .
+IS1000a.B.dialog-act.vkaraisk.184	1111.01	1125.07	PM	B	inf	+1	2	Um also important for you all is um the the product uh production cost must be maximal uh twelve uh twelve Euro and fifty cents .
+IS1000a.D.dialog-act.vkaraisk.97	1123.632	1128.36	ID	D	inf	-1	0	{vocalsound} So it's half of the selling price , if I am good in mathematics .
+IS1000a.B.dialog-act.vkaraisk.185	1127.6	1128.7	PM	B	ass	-1	0	Yes , of course .
+IS1000a.B.dialog-act.vkaraisk.186	1128.7	1130.81	PM	B	stl	-1	0	Uh um I mean
+IS1000a.B.dialog-act.vkaraisk.187	1130.81	1133.36	PM	B	inf	-1	0	we still have to uh to make a profit ,
+IS1000a.B.dialog-act.vkaraisk.188	1133.36	1133.55	PM	B	el.und	-1	0	huh ?
+IS1000a.C.dialog-act.vkaraisk.76	1133.83	1136.924	UI	C	inf	+1	1	They have to sell at least four million to make a profit {vocalsound}
+IS1000a.D.dialog-act.vkaraisk.98	1133.72	1134.32	ID	D	ass	-1	0	Of course .
+IS1000a.A.dialog-act.vkaraisk.87	1134.45	1135.403	ME	A	bck	-1	0	Mm . {vocalsound}
+IS1000a.B.dialog-act.vkaraisk.189	1134.79	1136.06	PM	B	inf	-1	0	You all have to be paid .
+IS1000a.A.dialog-act.vkaraisk.88	1136.4	1136.65	ME	A	bck	-1	0	Mm .
+IS1000a.B.dialog-act.vkaraisk.190	1138.14	1138.68	PM	B	und	-1	0	Excuse me ?
+IS1000a.C.dialog-act.vkaraisk.77	1138.07	1138.36	UI	C	stl	-1	0	Ah
+IS1000a.C.dialog-act.vkaraisk.78	1138.36	1139.0	UI	C	stl	-1	0	we have to make {disfmarker}
+IS1000a.C.dialog-act.vkaraisk.79	1139.0	1142.66	UI	C	inf	-1	0	we have to sell at least four million to make our own profit . Fifty mill
+IS1000a.D.dialog-act.vkaraisk.99	1141.94	1142.12	ID	D	oth	-1	0	Oh
+IS1000a.D.dialog-act.vkaraisk.100	1142.12	1146.0	ID	D	be.pos	-1	0	you're g very good in mathematics .
+IS1000a.A.dialog-act.vkaraisk.89	1143.36	1143.959	ME	A	ass	-1	0	Yes . {vocalsound}
+IS1000a.C.dialog-act.vkaraisk.80	1143.52	1144.384	UI	C	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.191	1145.19	1146.7	PM	B	ass	-1	0	Yes , indeed .
+IS1000a.C.dialog-act.vkaraisk.81	1145.851	1147.58	UI	C	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.101	1146.0	1146.76	ID	D	und	-1	0	{vocalsound} Four million .
+IS1000a.B.dialog-act.vkaraisk.192	1148.25	1149.52	PM	B	stl	-1	0	So uh well
+IS1000a.B.dialog-act.vkaraisk.193	1149.52	1155.99	PM	B	inf	+1	1	I think w when we are working on the international market , uh in principle it has enough customers
+IS1000a.D.dialog-act.vkaraisk.102	1149.19	1149.39	ID	D	bck	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.194	1155.99	1156.69	PM	B	stl	-1	0	uh so
+IS1000a.B.dialog-act.vkaraisk.195	1156.69	1161.24	PM	B	ass	-1	0	when we have a good product we uh we could uh meet this this aim , I think .
+IS1000a.B.dialog-act.vkaraisk.196	1162.48	1162.73	PM	B	stl	-1	0	So ,
+IS1000a.B.dialog-act.vkaraisk.197	1162.73	1163.79	PM	B	inf	-1	0	that about finance .
+IS1000a.B.dialog-act.vkaraisk.198	1165.08	1172.51	PM	B	sug	+1	1	And uh now just let have some discussion about what is a good remote control
+IS1000a.B.dialog-act.vkaraisk.199	1172.51	1176.88	PM	B	inf	+1	1	and uh well keep in mind this this first point , it has to be original ,
+IS1000a.B.dialog-act.vkaraisk.200	1176.88	1178.11	PM	B	inf	+1	1	it has to be trendy ,
+IS1000a.B.dialog-act.vkaraisk.201	1178.11	1179.44	PM	B	inf	+1	1	it has to be user friendly .
+IS1000a.B.dialog-act.vkaraisk.202	1182.06	1191.67	PM	B	el.sug	+1	1	Um , maybe someone can mention some additional uh prerequisites for a good remote control .
+IS1000a.A.dialog-act.vkaraisk.90	1190.32	1190.53	ME	A	oth	-1	0	Mm-hmm .
+IS1000a.C.dialog-act.vkaraisk.82	1195.54	1197.536	UI	C	sug	+1	3	Of course it should have a on off button . {vocalsound}
+IS1000a.A.dialog-act.vkaraisk.91	1197.71	1197.98	ME	A	bck	-1	0	Mm-hmm .
+IS1000a.B.dialog-act.vkaraisk.203	1198.92	1199.57	PM	B	stl	-1	0	Yes , well
+IS1000a.B.dialog-act.vkaraisk.204	1199.57	1204.43	PM	B	sug	+1	1	i it should have the the the the expected functionality uh of a remote control .
+IS1000a.A.dialog-act.vkaraisk.92	1202.62	1204.7	ME	A	bck	-1	0	Mm . Yeah .
+IS1000a.C.dialog-act.vkaraisk.83	1204.59	1205.08	UI	C	ass	-1	0	Yeah ,
+IS1000a.C.dialog-act.vkaraisk.84	1205.08	1205.43	UI	C	fra	-1	0	s
+IS1000a.C.dialog-act.vkaraisk.85	1205.43	1208.93	UI	C	el.inf	-1	0	and it depends what application you are using it for .
+IS1000a.A.dialog-act.vkaraisk.93	1208.4	1208.67	ME	A	bck	-1	0	Mm .
+IS1000a.C.dialog-act.vkaraisk.86	1208.93	1210.208	UI	C	fra	-1	0	You might need uh {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.205	1210.45	1212.08	PM	B	inf	-1	0	We wer we were thinking television . Uh .
+IS1000a.A.dialog-act.vkaraisk.94	1212.05	1212.3	ME	A	bck	-1	0	Mm .
+IS1000a.C.dialog-act.vkaraisk.87	1212.33	1214.95	UI	C	inf	+1	2	We are targ targeting the television set .
+IS1000a.C.dialog-act.vkaraisk.88	1214.95	1216.03	UI	C	stl	-1	0	So ,
+IS1000a.A.dialog-act.vkaraisk.95	1215.71	1215.92	ME	A	bck	-1	0	Mm .
+IS1000a.C.dialog-act.vkaraisk.89	1216.03	1219.45	UI	C	sug	+1	3	you need to record the channels .
+IS1000a.A.dialog-act.vkaraisk.96	1217.97	1218.14	ME	A	bck	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.206	1218.97	1219.3	PM	B	bck	-1	0	Mm-hmm .
+IS1000a.C.dialog-act.vkaraisk.90	1219.45	1226.73	UI	C	sug	+1	3	{vocalsound} You need to browse the {disfmarker} browse the channels in upward downward way ,
+IS1000a.A.dialog-act.vkaraisk.97	1226.41	1226.59	ME	A	bck	-1	0	Mm .
+IS1000a.B.dialog-act.vkaraisk.207	1225.98	1226.93	PM	B	ass	-1	0	Yes , yes .
+IS1000a.B.dialog-act.vkaraisk.208	1226.93	1228.0	PM	B	ass	-1	0	Th th that's very handy
+IS1000a.B.dialog-act.vkaraisk.209	1228.0	1229.13	PM	B	inf	-1	0	I {disfmarker} I always miss it
+IS1000a.B.dialog-act.vkaraisk.210	1229.13	1236.7	PM	B	inf	-1	0	and {disfmarker} on some remote controls that you can go channel up or down ins instead of retyping the number , especially when you have a lot of channels .
+IS1000a.C.dialog-act.vkaraisk.91	1229.4	1229.648	UI	C	stl	-1	0	Uh {disfmarker}
+IS1000a.C.dialog-act.vkaraisk.92	1230.85	1231.584	UI	C	fra	-1	0	And {disfmarker}
+IS1000a.A.dialog-act.vkaraisk.98	1233.47	1235.21	ME	A	bck	-1	0	Mm . Mm .
+IS1000a.C.dialog-act.vkaraisk.93	1236.19	1237.424	UI	C	fra	-1	0	Uh , and {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.103	1237.12	1240.5	ID	D	fra	+1	1	And uh just before starting the detailed discussion , maybe we
+IS1000a.D.dialog-act.vkaraisk.104	1240.66	1242.28	ID	D	el.inf	+1	1	are the marketing guy ? Or {disfmarker}
+IS1000a.A.dialog-act.vkaraisk.99	1242.12	1243.02	ME	A	inf	+1	1	I'm marketing .
+IS1000a.C.dialog-act.vkaraisk.94	1242.55	1243.06	UI	C	inf	-1	0	Marketing .
+IS1000a.D.dialog-act.vkaraisk.105	1242.28	1243.02	ID	D	fra	-1	0	th
+IS1000a.D.dialog-act.vkaraisk.106	1243.02	1245.23	ID	D	inf	-1	0	So you are the marketing .
+IS1000a.A.dialog-act.vkaraisk.100	1244.69	1244.81	ME	A	ass	-1	0	Yep .
+IS1000a.D.dialog-act.vkaraisk.107	1245.23	1249.22	ID	D	inf	+1	1	And you are in the u use user interface uh design .
+IS1000a.C.dialog-act.vkaraisk.95	1247.48	1247.75	UI	C	ass	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.211	1248.08	1248.21	PM	B	ass	-1	0	Yes .
+IS1000a.C.dialog-act.vkaraisk.96	1249.23	1249.46	UI	C	ass	-1	0	Yeah .
+IS1000a.D.dialog-act.vkaraisk.108	1249.22	1249.7	ID	D	fra	-1	0	So just {disfmarker} yeah
+IS1000a.D.dialog-act.vkaraisk.109	1249.7	1251.08	ID	D	inf	-1	0	I wanted to to be sure .
+IS1000a.C.dialog-act.vkaraisk.97	1251.08	1251.43	UI	C	und	-1	0	Sure .
+IS1000a.D.dialog-act.vkaraisk.110	1251.08	1254.59	ID	D	inf	+1	1	And I I'm the the industrial designer
+IS1000a.A.dialog-act.vkaraisk.101	1254.58	1254.81	ME	A	bck	-1	0	Mm-hmm .
+IS1000a.B.dialog-act.vkaraisk.212	1254.96	1255.38	PM	B	ass	-1	0	Yes .
+IS1000a.C.dialog-act.vkaraisk.98	1254.645	1255.214	UI	C	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.111	1254.59	1255.43	ID	D	stl	-1	0	okay .
+IS1000a.C.dialog-act.vkaraisk.99	1255.69	1256.04	UI	C	und	-1	0	Oh .
+IS1000a.D.dialog-act.vkaraisk.112	1255.43	1257.98	ID	D	inf	-1	0	Because I I don't know you very well , actually , but yeah .
+IS1000a.C.dialog-act.vkaraisk.100	1257.17	1259.51	UI	C	inf	+1	1	I'm Matthew . You know . {vocalsound}
+IS1000a.D.dialog-act.vkaraisk.113	1257.98	1258.98	ID	D	und	-1	0	Okay .
+IS1000a.D.dialog-act.vkaraisk.114	1258.98	1260.01	ID	D	inf	+1	1	Mael .
+IS1000a.C.dialog-act.vkaraisk.101	1259.51	1261.71	UI	C	fra	-1	0	Matth s uh
+IS1000a.D.dialog-act.vkaraisk.115	1260.01	1261.49	ID	D	be.pos	-1	0	Happy to meet you .
+IS1000a.A.dialog-act.vkaraisk.102	1261.23	1261.57	ME	A	inf	+1	1	Anna .
+IS1000a.C.dialog-act.vkaraisk.102	1261.71	1262.89	UI	C	und	-1	0	Anna .
+IS1000a.D.dialog-act.vkaraisk.116	1261.49	1262.17	ID	D	und	-1	0	{vocalsound} Okay .
+IS1000a.D.dialog-act.vkaraisk.117	1262.17	1264.649	ID	D	be.pos	-1	0	It's very uh {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.213	1263.38	1264.61	PM	B	inf	+1	1	A and I'm Nanne .
+IS1000a.C.dialog-act.vkaraisk.103	1262.89	1263.97	UI	C	el.inf	-1	0	And
+IS1000a.C.dialog-act.vkaraisk.104	1263.97	1266.37	UI	C	inf	-1	0	um uh Matthew , yeah .
+IS1000a.B.dialog-act.vkaraisk.214	1266.51	1266.914	PM	B	stl	-1	0	So {disfmarker}
+IS1000a.C.dialog-act.vkaraisk.105	1266.37	1267.4	UI	C	inf	-1	0	I thi think you know me ,
+IS1000a.D.dialog-act.vkaraisk.118	1266.59	1274.43	ID	D	ass	-1	0	Uh so yeah uh {disfmarker} Just uh on your web page but uh yeah not uh {disfmarker} not face to face .
+IS1000a.B.dialog-act.vkaraisk.215	1267.78	1269.01	PM	B	ass	-1	0	Yes .
+IS1000a.C.dialog-act.vkaraisk.106	1267.4	1267.77	UI	C	el.ass	-1	0	yeah ?
+IS1000a.C.dialog-act.vkaraisk.107	1267.77	1268.99	UI	C	ass	-1	0	right yeah .
+IS1000a.B.dialog-act.vkaraisk.216	1272.0	1273.664	PM	B	stl	-1	0	So . Um {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.217	1276.44	1276.58	PM	B	fra	-1	0	S
+IS1000a.C.dialog-act.vkaraisk.108	1277.05	1277.8	UI	C	stl	-1	0	So .
+IS1000a.D.dialog-act.vkaraisk.119	1276.896	1277.888	ID	D	stl	-1	0	{vocalsound} So mm {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.218	1277.56	1278.04	PM	B	fra	-1	0	S s
+IS1000a.A.dialog-act.vkaraisk.103	1278.58	1278.81	ME	A	stl	-1	0	Mm .
+IS1000a.B.dialog-act.vkaraisk.219	1279.03	1283.77	PM	B	el.inf	+1	1	Are there some other very important things to to do {disfmarker} well ,
+IS1000a.C.dialog-act.vkaraisk.109	1279.1	1279.507	UI	C	stl	-1	0	So {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.120	1278.926	1279.36	ID	D	stl	-1	0	{vocalsound} So
+IS1000a.D.dialog-act.vkaraisk.121	1279.36	1279.93	ID	D	fra	-1	0	I
+IS1000a.B.dialog-act.vkaraisk.220	1285.38	1289.75	PM	B	el.inf	-1	0	to specify in this first phase of of the project .
+IS1000a.B.dialog-act.vkaraisk.221	1289.75	1290.38	PM	B	stl	-1	0	So
+IS1000a.B.dialog-act.vkaraisk.222	1290.38	1293.59	PM	B	inf	+1	2	the browse function , as you m mentioned .
+IS1000a.A.dialog-act.vkaraisk.104	1291.39	1294.21	ME	A	bck	-1	0	Mm . Yeah . Oth yeah .
+IS1000a.C.dialog-act.vkaraisk.110	1293.16	1301.91	UI	C	sug	+1	2	And uh , you'd need the usual ones , like the changing the volume , changing the the channel
+IS1000a.C.dialog-act.vkaraisk.111	1301.91	1304.55	UI	C	fra	-1	0	and then {disfmarker} you uh {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.223	1303.25	1304.08	PM	B	bck	-1	0	Yes . Yeah .
+IS1000a.C.dialog-act.vkaraisk.112	1304.55	1309.85	UI	C	inf	+1	1	Today we have uh um teletext and all those things .
+IS1000a.C.dialog-act.vkaraisk.113	1309.85	1312.28	UI	C	inf	+1	1	Tomorrow you might have a some more functions
+IS1000a.C.dialog-act.vkaraisk.114	1312.28	1314.608	UI	C	inf	-1	0	which might come through that , so {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.224	1313.28	1313.66	PM	B	bck	-1	0	Yes .
+IS1000a.D.dialog-act.vkaraisk.122	1313.96	1314.75	ID	D	el.inf	-1	0	Like what ?
+IS1000a.D.dialog-act.vkaraisk.123	1314.75	1317.71	ID	D	el.inf	-1	0	Like internet on the on T_V_ ?
+IS1000a.A.dialog-act.vkaraisk.105	1316.4	1316.75	ME	A	bck	-1	0	Mm .
+IS1000a.C.dialog-act.vkaraisk.115	1316.1	1316.65	UI	C	inf	-1	0	Yeah
+IS1000a.C.dialog-act.vkaraisk.116	1316.65	1318.18	UI	C	inf	-1	0	I_P_O_ or .
+IS1000a.C.dialog-act.vkaraisk.117	1318.18	1319.58	UI	C	inf	-1	0	Now we are looking for
+IS1000a.C.dialog-act.vkaraisk.118	1320.74	1323.83	UI	C	inf	-1	0	television things or I_P_ .
+IS1000a.C.dialog-act.vkaraisk.119	1323.83	1328.37	UI	C	inf	+1	1	For example personal video recorder and all those stuffs are coming up .
+IS1000a.D.dialog-act.vkaraisk.124	1323.92	1324.16	ID	D	bck	-1	0	Yeah .
+IS1000a.A.dialog-act.vkaraisk.106	1326.19	1326.49	ME	A	bck	-1	0	Mm .
+IS1000a.A.dialog-act.vkaraisk.107	1328.61	1331.37	ME	A	ass	+1	1	But we can't really design for something that hasn't been invented yet .
+IS1000a.C.dialog-act.vkaraisk.121	1329.71	1329.93	UI	C	oth	-1	0	Yeah .
+IS1000a.C.dialog-act.vkaraisk.122	1331.49	1331.7	UI	C	stl	-1	0	Ah
+IS1000a.C.dialog-act.vkaraisk.123	1331.7	1337.52	UI	C	inf	-1	0	it's {disfmarker} it's {disfmarker} it's {disfmarker} it's coming up , actually . The personal video recorder and all those things it is coming up .
+IS1000a.B.dialog-act.vkaraisk.225	1336.23	1337.4	PM	B	stl	-1	0	Mm , well uh
+IS1000a.B.dialog-act.vkaraisk.226	1337.4	1338.672	PM	B	fra	-1	0	I I think {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.227	1341.49	1349.47	PM	B	sug	+1	1	Uh w y you two should {disfmarker} should , I think , think this over uh w espec what , what functionality .
+IS1000a.D.dialog-act.vkaraisk.125	1341.12	1342.34	ID	D	stl	-1	0	{vocalsound} Actually , yeah
+IS1000a.C.dialog-act.vkaraisk.124	1342.11	1343.474	UI	C	fra	-1	0	Let's {disfmarker} Let's take {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.126	1342.34	1343.132	ID	D	fra	-1	0	w {vocalsound}
+IS1000a.D.dialog-act.vkaraisk.127	1349.56	1350.04	ID	D	ass	-1	0	Of course ,
+IS1000a.D.dialog-act.vkaraisk.128	1350.04	1353.36	ID	D	fra	+1	2	and first before um designing the func
+IS1000a.D.dialog-act.vkaraisk.129	1353.36	1353.77	ID	D	stl	-1	0	well
+IS1000a.D.dialog-act.vkaraisk.130	1353.77	1358.03	ID	D	sug	+1	2	thinking about the functionalities , we need to know what are the user requirements .
+IS1000a.A.dialog-act.vkaraisk.108	1357.26	1358.08	ME	A	ass	-1	0	Mm . Yeah .
+IS1000a.D.dialog-act.vkaraisk.131	1358.03	1367.05	ID	D	inf	-1	0	Um then if they need internet , then we would be able to to p to propose something with uh uh T_V_ over I_P_ .
+IS1000a.B.dialog-act.vkaraisk.228	1358.75	1359.13	PM	B	bck	-1	0	Mm-hmm .
+IS1000a.A.dialog-act.vkaraisk.109	1359.3	1359.45	ME	A	bck	-1	0	Yeah .
+IS1000a.A.dialog-act.vkaraisk.110	1361.42	1361.6	ME	A	bck	-1	0	Mm .
+IS1000a.A.dialog-act.vkaraisk.111	1363.57	1363.76	ME	A	bck	-1	0	Yeah .
+IS1000a.A.dialog-act.vkaraisk.113	1367.4	1373.94	ME	A	inf	+1	1	But {disfmarker} Ninety percent of the time , ninety nine percent of the time , people will be using the main functions , the volume , the different channels ,
+IS1000a.A.dialog-act.vkaraisk.114	1373.94	1375.03	ME	A	stl	-1	0	so
+IS1000a.A.dialog-act.vkaraisk.115	1375.03	1376.55	ME	A	sug	+1	1	we can have all the fancy things as well
+IS1000a.A.dialog-act.vkaraisk.116	1376.55	1379.69	ME	A	sug	+1	1	but the main controls need to be very obvious and very easy to use .
+IS1000a.B.dialog-act.vkaraisk.229	1379.07	1383.87	PM	B	inf	+1	2	Mm mm mm . Keep k keep in mind i it's a {disfmarker} it's a twenty five Euro unit ,
+IS1000a.B.dialog-act.vkaraisk.230	1383.87	1391.36	PM	B	sug	+1	2	so uh uh the the very fancy stuff uh w we can leave that out , I think .
+IS1000a.A.dialog-act.vkaraisk.117	1391.69	1391.93	ME	A	bck	-1	0	Mm .
+IS1000a.B.dialog-act.vkaraisk.231	1391.36	1391.9	PM	B	stl	-1	0	So
+IS1000a.B.dialog-act.vkaraisk.232	1391.9	1400.04	PM	B	inf	+1	2	twenty five Euro you expect a quite , well normal but good functioning user friendly remote control .
+IS1000a.A.dialog-act.vkaraisk.118	1396.77	1396.97	ME	A	bck	-1	0	Mm .
+IS1000a.C.dialog-act.vkaraisk.125	1400.45	1400.63	UI	C	stl	-1	0	Oh
+IS1000a.C.dialog-act.vkaraisk.126	1400.63	1405.68	UI	C	sug	-1	0	in that case you can you always hook up with uh someone who is providing that
+IS1000a.C.dialog-act.vkaraisk.127	1405.68	1413.136	UI	C	sug	-1	0	and you know , {vocalsound} you {disfmarker} you sell their product as well as your product with them , you know . {vocalsound}
+IS1000a.A.dialog-act.vkaraisk.119	1410.62	1410.81	ME	A	bck	-1	0	Mm .
+IS1000a.A.dialog-act.vkaraisk.120	1413.11	1415.034	ME	A	sug	-1	0	So try and get T_V_ manufacturers to {disfmarker}
+IS1000a.C.dialog-act.vkaraisk.128	1413.573	1418.1	UI	C	ass	-1	0	{vocalsound} Yeah .
+IS1000a.D.dialog-act.vkaraisk.132	1413.09	1413.23	ID	D	stl	-1	0	Yeah ,
+IS1000a.D.dialog-act.vkaraisk.133	1413.23	1420.224	ID	D	ass	-1	0	but w w we want to design a new one . {vocalsound} Mm . {vocalsound}
+IS1000a.C.dialog-act.vkaraisk.129	1418.1	1418.36	UI	C	stl	-1	0	{vocalsound} No ,
+IS1000a.C.dialog-act.vkaraisk.130	1418.36	1420.19	UI	C	und	-1	0	it's okay , yeah I understand .
+IS1000a.C.dialog-act.vkaraisk.131	1420.19	1422.9	UI	C	sug	+1	1	So we need some numbering buttons , some teletext things
+IS1000a.D.dialog-act.vkaraisk.134	1420.5	1420.68	ID	D	bck	-1	0	Yeah .
+IS1000a.C.dialog-act.vkaraisk.132	1422.9	1424.464	UI	C	fra	-1	0	and then um {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.135	1424.51	1424.71	ID	D	fra	-1	0	The {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.136	1424.71	1424.88	ID	D	stl	-1	0	Yeah ,
+IS1000a.D.dialog-act.vkaraisk.137	1424.88	1426.75	ID	D	inf	+1	1	the main is browsing . Yeah .
+IS1000a.B.dialog-act.vkaraisk.233	1425.52	1425.75	PM	B	ass	-1	0	Yes ,
+IS1000a.B.dialog-act.vkaraisk.234	1425.75	1434.05	PM	B	sug	+1	2	but but but ab about the spec the buttons , the buttons uh that will be on it . I I think we can discuss that in the in the next meeting .
+IS1000a.C.dialog-act.vkaraisk.133	1428.76	1429.13	UI	C	bck	-1	0	Yeah .
+IS1000a.C.dialog-act.vkaraisk.134	1434.24	1434.56	UI	C	und	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.235	1435.35	1439.85	PM	B	off	+1	1	Uh I would like to get this wrapped up
+IS1000a.B.dialog-act.vkaraisk.236	1439.85	1441.46	PM	B	off	-1	0	and go to an end of this meeting .
+IS1000a.C.dialog-act.vkaraisk.135	1442.0	1442.41	UI	C	ass	-1	0	Okay .
+IS1000a.B.dialog-act.vkaraisk.237	1443.68	1444.122	PM	B	stl	-1	0	So {disfmarker}
+IS1000a.C.dialog-act.vkaraisk.136	1443.7	1444.09	UI	C	stl	-1	0	Okay ,
+IS1000a.C.dialog-act.vkaraisk.137	1444.09	1445.75	UI	C	fra	-1	0	we are alread mm . Mm .
+IS1000a.B.dialog-act.vkaraisk.238	1445.62	1445.85	PM	B	stl	-1	0	So
+IS1000a.D.dialog-act.vkaraisk.138	1445.31	1445.64	ID	D	ass	-1	0	Okay .
+IS1000a.B.dialog-act.vkaraisk.239	1445.85	1449.1	PM	B	inf	+1	1	you know now the basic {disfmarker} the basic things .
+IS1000a.A.dialog-act.vkaraisk.121	1448.68	1448.89	ME	A	ass	-1	0	Mm-hmm .
+IS1000a.C.dialog-act.vkaraisk.138	1448.28	1448.56	UI	C	ass	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.240	1451.36	1451.82	PM	B	stl	-1	0	well
+IS1000a.B.dialog-act.vkaraisk.241	1451.82	1454.34	PM	B	sug	+1	1	just {disfmarker} just for the next meeting , um
+IS1000a.C.dialog-act.vkaraisk.139	1451.87	1452.14	UI	C	fra	-1	0	L
+IS1000a.B.dialog-act.vkaraisk.242	1457.14	1463.16	PM	B	sug	+1	2	well , uh , you wor yes , work on a design ,
+IS1000a.B.dialog-act.vkaraisk.243	1463.16	1464.0	PM	B	sug	-1	0	keep it general ,
+IS1000a.B.dialog-act.vkaraisk.244	1464.0	1469.92	PM	B	inf	+1	1	I mean {disfmarker} so w we will be still fle flexible with maybe adding some functions .
+IS1000a.B.dialog-act.vkaraisk.245	1469.92	1470.32	PM	B	stl	-1	0	So {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.139	1469.76	1470.2	ID	D	bck	-1	0	Mm-hmm .
+IS1000a.B.dialog-act.vkaraisk.246	1471.46	1478.256	PM	B	inf	+1	2	Um you will be working on {disfmarker} on technical function design , so {disfmarker}
+IS1000a.C.dialog-act.vkaraisk.140	1479.35	1479.83	UI	C	ass	-1	0	Yeah , sure .
+IS1000a.B.dialog-act.vkaraisk.247	1480.45	1486.8	PM	B	sug	+1	2	And uh you {disfmarker} and you and uh uh uh well , think about requirements ,
+IS1000a.A.dialog-act.vkaraisk.122	1486.87	1487.15	ME	A	und	-1	0	Mm-hmm .
+IS1000a.B.dialog-act.vkaraisk.248	1486.8	1487.12	PM	B	el.und	-1	0	eh ?
+IS1000a.B.dialog-act.vkaraisk.249	1487.12	1488.33	PM	B	el.ass	+1	1	Does it need internet ,
+IS1000a.B.dialog-act.vkaraisk.250	1488.33	1490.21	PM	B	el.ass	+1	1	or or do do we stay at
+IS1000a.B.dialog-act.vkaraisk.251	1491.36	1494.83	PM	B	el.ass	+1	1	basic basic television uh interface .
+IS1000a.C.dialog-act.vkaraisk.141	1491.35	1491.79	UI	C	fra	-1	0	Stam .
+IS1000a.A.dialog-act.vkaraisk.123	1492.16	1492.29	ME	A	bck	-1	0	Yeah .
+IS1000a.B.dialog-act.vkaraisk.252	1497.64	1500.19	PM	B	stl	-1	0	So , uh
+IS1000a.B.dialog-act.vkaraisk.253	1501.36	1505.36	PM	B	sug	-1	0	I think we should now all go work uh uh at this
+IS1000a.A.dialog-act.vkaraisk.124	1505.63	1505.84	ME	A	bck	-1	0	Mm-hmm .
+IS1000a.B.dialog-act.vkaraisk.254	1505.36	1510.03	PM	B	inf	+1	1	and uh you will be informed via email and other kind of communication .
+IS1000a.A.dialog-act.vkaraisk.125	1510.0	1510.15	ME	A	ass	-1	0	Yeah .
+IS1000a.C.dialog-act.vkaraisk.142	1510.78	1511.29	UI	C	ass	-1	0	Okay .
+IS1000a.B.dialog-act.vkaraisk.255	1511.37	1511.56	PM	B	stl	-1	0	So
+IS1000a.B.dialog-act.vkaraisk.256	1511.56	1513.61	PM	B	inf	+1	1	next meeting will be in uh {disfmarker} in thirty minutes uh .
+IS1000a.D.dialog-act.vkaraisk.140	1511.51	1511.99	ID	D	ass	-1	0	Perfect .
+IS1000a.B.dialog-act.vkaraisk.257	1513.61	1514.65	PM	B	sug	-1	0	K keep it in mind .

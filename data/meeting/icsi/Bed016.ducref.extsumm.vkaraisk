@@ -1,0 +1,108 @@
+Well , you {disfmarker} you had s you said there were two things that you might wanna do .
+One was rehearse your i i talk {disfmarker}
+so I can show you what I 've got , get your input on it , and maybe some suggestions ,
+And the same is true for the proposal .
+It basically says , well " this is construal " ,
+and then it continues to say that one could potentially build a probabilistic relational model that has some general , domain - general rules
+how things are construed ,
+and then the idea is to use ontology , situation , user , and discourse model to instantiate elements in the classes of the probabilistic relational model {pause} to do some inferences in terms of what is being construed as what
+in our beloved tourism domain .
+Um , actually this is the {disfmarker} the newest version after your comments ,
+um , if you would have checked your email you may have received a note from Yees asking you to send me the , uh , up - to - d
+current formalism thing that you presented .
+And y uh , email any time ,
+but most usefully before {disfmarker}
+The twenty - ninth .
+That 's when I 'm meeting with Wolfgang Wahlster to sell him this idea .
+Then I 'm also going to present a little talk at EML , about what we have done here
+So basically we can make a point that here is ontological knowledge
+but if it 's nine {disfmarker} nine PM in the evening then the discotheque question would be , for example , one that might ask for directions instead of just location .
+That 's sort of motivating it .
+Then what have we done so far ?
+We had our little bit of , um , um , SmartKom stuff , that we did ,
+Oh , you 've got the parser done .
+And , um , and Fey is doing the synthesis stuff as we speak .
+the generation outputter .
+Then I 'm going to talk about the data ,
+and some preliminary observations ,
+Um , I will talk about our problems with the rephrasing ,
+and then maybe talk about the big picture here ,
+e tell a little bit {disfmarker} as much as I {pause} can about the NTL story .
+and then , {vocalsound} talk a bit about the embodied and simulation approach favored here
+talk about the construction aspect
+and then at the end about our Bayes - net .
+So X - schemas , then , I would like to do {disfmarker}
+Oh , maybe the FMRI stuff .
+Well , the time to mention it , if you mention it , is when you talk about mirror neurons ,
+Depends . I mean , there is a , um , whole language learning story ,
+But I don't think I {disfmarker} I am capable of {disfmarker} of do pulling this off and doing justice to the matter .
+I mean I might even mention that this work you 're doing is sort of also with the MPI in Leipzig ,
+Because , um , EML is building up a huge thing in Leipzig .
+let 's talk about your thesis proposal .
+You might want to , uh , double - check the spellings of the authors ' names on your references ,
+you had a few , uh , misspells in your slides , there .
+i i it looks like the , uh , metaphor didn't get in yet .
+So the top of the second {disfmarker} of pa page two you have a sentence .
+No , it {disfmarker} it {disfmarker} it s says it
+yeah , it doesn't give the punch line .
+which is , that , the constructions , that , uh , Nancy and Keith and friends are doing , uh , are , in a way , quite general
+but cover only base cases .
+And to make them apply to metaphorical cases and metonymic cases and all those things , requires this additional mechanism , of construal .
+And the punch line is , he claimed , that if you do this right , you can get essentially orthogonality ,
+that if you introduce a new construction at {disfmarker} at the base level , it should com uh , interact with all the metonymies and metaphors
+so that all of the projections of it also should work .
+And , similarly , if you introduce a new metaphor , it should then uh , compose with all of the constructions .
+I mean , it seems like nothing is context - free .
+Oh , nothing is context - free ,
+but there are basic cases .
+That is , um , there are physical containers ,
+But " walked into the cafe and ordered a drink , " and " walked into the cafe and broke his nose , "
+Oh , it doesn't mean that they 're unambiguous .
+But it does say that , uh , if you walked into the cafe and broke your nose , then you are construing the cafe as an obstacle .
+The " walk into it " never really means , w as in walked smack {disfmarker}
+But " run into " does .
+But {disfmarker} Like , " run into an old friend " , it probably needs its own construction .
+there are idioms
+anything else you want to ask us about
+the thesis proposal , you got {disfmarker}
+the {disfmarker} i what would have been really nice is to find an example for all of this , uh , from our domain .
+w Well we have , for example , a canonical use of something
+and y it 's , you know , we have some constructions
+and then it 's construed as something ,
+and then we {disfmarker} we may get the same constructions with a metaphorical use that 's also relevant to the {disfmarker} to the domain .
+So " in the bus " and " on the bus , "
+Right . So {disfmarker} so that {disfmarker} that may or may not be what you {disfmarker} what you want to do .
+We had {disfmarker} we had {disfmarker} initially we 'd {disfmarker} started discussing the " out of film . "
+uh {disfmarker} we 've thought about it before , uh t uh {disfmarker} to use the examples in other papers ,
+and it 's {disfmarker} it 's a little complicated .
+So I would try to {disfmarker} I would stay away from one that involves weird construal stuff .
+I mean the {disfmarker} the old bakery example might be nice ,
+" Is there a bakery around here " .
+and {disfmarker} there 're all sorts of reasons why you might be asking about the existence of a bakery
+but it 's not clear that they 're mainly construal examples .
+So the metonymy thing is probably the easiest
+Where is the castle ?
+How old is it ?
+How much does it cost ?
+But as Nancy just su suggested it 's probably ellipticus .
+Well , I mean , my argument here is {disfmarker} it 's {disfmarker} it 's {disfmarker} it 's the same thing as " Plato 's on the top shelf , "
+OK . Can we think of a nice metaphorical use of " where " in the tourist 's domain ?
+" where was Heidelberg , um , in the Thirty Years ' War ? "
+You know , " Where could I learn its opening hours , " or something .
+But that 's not metaphorical .
+A st uh , well , you can certainly say , um , you know , " I 'm in overload . "
+A fixed expression , yeah .
+the data that I 've looked at so far that rec
+I mean , there 's tons of cases for polysemy .
+But I think the argument should be {disfmarker} uh , can be made that , you know , despite the fact that this is not the most met metaphorical domain ,
+I mean maybe the " where is something " question as a whole , you know , can be construed as , u i locational versus instructional request .
+Yeah but then you 're not on the lexical level ,
+that 's sort of one level higher .
+Also it would be nice to get {disfmarker} ultimately to get a nice mental space example ,
+so , even temporal references are {disfmarker}
+just in the spatial domain are rare .
+Yeah , maybe we can include that also in our second , uh , data run .
+OK . So why don't we plan to give you feedback electronically .
+Not {disfmarker} not rehearse ,
+the b the combination of the biology and the Leipzig connection might be interesting to these guys ,
+there {disfmarker} the {disfmarker} there {disfmarker} we 've got various i generations of slides that show language analysis , and matching to the underlying image schemas ,

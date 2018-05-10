@@ -1,0 +1,6 @@
+An XML scheme to build representations of the data is already available.
+It incorporates information regarding utterances , sentences , speakers , words , etc.
+All these features are linked together via time-marks that slot into a single , common timeline.
+This format also allows for linking to different levels of representation of the same data.
+For the frame-level representation , P-files is a readily available technology , developed at ICSI.
+Besides the appropriate format , P-files come with a library of tools and the respective documentation.

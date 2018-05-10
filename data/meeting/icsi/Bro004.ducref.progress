@@ -1,0 +1,15 @@
+Speakers mn007 and fn002 have been running experiments.
+Looking at
+different features , under different training conditions.
+Moving from
+training with task data to broad data increases error rate by 10% , and
+moving to multiple languages increases a further 20-30%.
+PLP with
+JRASTA better than just PLP on mismatched conditions , but slightly
+worse on well matched.
+Speaker fn002 is also looking at the HTK training , but does not yet
+have results.
+Speaker mn007 is going to start work on creating broad phonetic
+categories based on various features , and combine this with original
+features like PLP.
+As yet unsure how to combine the data however.

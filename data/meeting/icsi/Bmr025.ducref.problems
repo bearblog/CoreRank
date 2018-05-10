@@ -1,0 +1,7 @@
+Improving the THISL front-end user interface may be difficult if it is to run on Windows as a web server Tcl-TK may need to be used instead.
+More information on XML transcription formats is required for the creation of the tools.
+Information for key files , such as Microphone type , seating , and participant information , is not being properly recorded , and in some cases the microphones aren't working properly.
+However this should be rectified by the use of appropriate XML tools.
+The CrossPads have not been used to their full potential , which is because of a number of problems regarding their use:
+First , they need to be synchronised with the time of the meeting recording , and secondly , they use a non standard data format which needs converting.
+Additionally , some people tend not to make notes in meetings.

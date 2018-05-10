@@ -1,0 +1,12 @@
+The first test set of digits is complete and includes 4,000 lines , each comprising between 1-10 digits.
+New digits forms were distributed for eliciting different prosodic groupings of numbers.
+New naming conventions were discussed as means for facilitating the sorting process.
+Existing files will be changed so that all filenames are of equal length.
+Similar changes will be made to speaker identification tags.
+Files will also contain information specifying channel , microphone , and broadcaster information.
+A proposal is being drafted for a grant from the NSF's ITR program for extending the research initiatives of the Meeting Recorder project.
+Speaker fe008 is performing channel-by-channel transcriptions to create tighter time bins.
+Tentative plans are to assign single channels to the transcriber pool and then piece them together afterwards.
+Efforts by speaker mn005 are in progress to detect speaker overlap in the mixed signal using harmonicity-related features.
+For determining the instantaneous frequency , speaker me013 recommended deriving the maxima from energy multiples of a given frequency.
+It was also suggested that speaker mn005 should determine whether portions of the signal are voiced or unvoiced , as voiced intervals reflecting a relatively low fraction of energy in the harmonic sequence are likely to indicate sections of overlap.

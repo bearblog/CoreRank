@@ -1,0 +1,30 @@
+The Berkeley Meeting Recorder group discussed efforts to train and test the Aurora group's HTK-based recognition system on ICSI's digits corpus.
+Members also discussed efforts to produce forced alignments from a selection of Meeting Recorder data.
+Performance in both tasks was adversely affected by the manner of recording conditions implemented and difficulties attributing utterances to the appropriate speakers.
+While debugging efforts resulted in improved forced alignments , dealing with mixed channel speech and speaker overlap remains a key objective for future work.
+The group is additionally focused on a continued ability to feed different features into the recognizer and then train the system accordingly.
+For comparing Meeting Recorder digits results , it was decided that the Aurora HTK-based system should be tested on data from the TI digits corpus.
+The script for extracting speaker ID information will require modifications to obtain a more accurate estimation of the amount of data recorded per speaker.
+Subsequent recognition experiments will look at large vocabulary speech from a far-field microphone ( as performed in Switchboard evaluations ).
+Hand-marked , word-level alignments are needed to reveal speaker boundaries and tune the parameters of the model.
+Modifications to the Transcriber tool are required for allowing transcribers to simultaneously view the signal in XWaves and see where words are located in time.
+Digits training needs to be performed on a larger data set.
+A significant loss in recognition resulted from not having included the type of phone-loop adaptation found in the SRI system.
+Recognition performance was worse for digits recorded in closed microphone conditions versus those recorded in a studio ( e.g . TI-digits ).
+A mismatch between the manner in which data were collected and the models used for doing recognition---e.g . bandwidth parameterization and the use of near- versus far-field microphones---was identified.
+Too little data per speaker can have a negative effect on VTL estimation.
+The PZM channel selected for obtaining digits data was too far away from most of the speakers.
+Current speech alignment techniques assume that foreground speech must be continuous and , barring some isolated words and backchannels , can not cope with overlapping background speech.
+Performing adaptations on both the foreground and background speaker produced a new variety of misalignments , a problem resulting , in part , from the fact that background speakers often match better to foreground conditionss.
+Transcribers occasionally misidentified speakers and omitted backchannels that were more hidden in the mixed signal.
+Good recognition performance was achieved with the lapel microphones.
+The recognizer performed well on time-aligned segments labelled as 'non-overlap' ( i.e . one person talking ) , while segments labelled as 'overlap' ( i.e . multiple speakers talking at the same time ) yielded poor results.
+Future recognition efforts will include looking at reverberation.
+Forced alignment improvements were gained by examining the types of errors generated and making the necessary adjustments.
+More accurate alignments were achieved by significantly increasing the pruning value.
+Future alignment efforts will include cloning the reject model , and adapting it to both the foreground and background speaker.
+Members of the group will also compare Meeting Recorder data with other corpora ( e.g . Switchboard ) to determine whether speaker overlap is a feature that is more specific to meetings versus other modes of spoken interaction.
+A cursory analysis of background speech revealed that backchannels frequently occurred after a question was asked.
+Backchannels also featured a high proportion of 'yeahs' and a substantially fewer 'uh-huhs'.
+Several group members are preparing Eurospeech submissions.
+Speakers fe016 and mn017 are preparing a paper about the 'spurt' format , wherein spurts from individual channels---i.e . continuous speech regions delineated by pauses---will be extracted , merged with alignments from different channels , and time-aligned.

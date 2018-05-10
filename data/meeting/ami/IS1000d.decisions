@@ -1,0 +1,23 @@
+1	IS1000d.elana.s.12	The remote will be double-curved.
+IS1000d.B.dialog-act.vkaraisk.321	1990.15	1990.77	B	PM	el.inf	+1	2	Double curve .
+1	IS1000d.elana.s.13	The energy source will be a normal AA battery.
+IS1000d.D.dialog-act.vkaraisk.281	1955.5	1958.13	D	UI	inf	+1	2	maybe you might use a A_A_ battery actually .
+0	IS1000d.elana.s.14	Shaped like a surfboard.
+1	IS1000d.elana.s.15	Made of plastic.
+IS1000d.B.dialog-act.vkaraisk.331	2012.16	2014.56	B	PM	el.inf	+1	2	Uh , plastic would be the material .
+2	IS1000d.elana.s.16	Will contain a regular chip.
+IS1000d.B.dialog-act.vkaraisk.314	1968.22	1971.92	B	PM	sug	+1	2	{gap} given speech recognition I think w you should go for the less fancy chip .
+IS1000d.C.dialog-act.vkaraisk.285	2234.04	2237.5	C	ID	inf	+1	2	I think yeah regular , today we you can do that with regular chip .
+3	IS1000d.elana.s.17	Have no LCD screen or speech recognition.
+IS1000d.D.dialog-act.vkaraisk.323	2381.73	2383.41	D	UI	ass	+1	4	Okay so we can get rid of it
+IS1000d.A.dialog-act.vkaraisk.405	2376.27	2381.31	A	ME	sug	+1	4	I think , unless we can really drive these prices down we need to get rid of the L_C_D_ display .
+IS1000d.C.dialog-act.vkaraisk.325	2511.01	2516.0	C	ID	inf	+1	3	The speech recognition is out . Because of the budget , yeah .
+2	IS1000d.elana.s.18	Addition of two buttons.
+IS1000d.D.dialog-act.vkaraisk.321	2367.48	2371.31	D	UI	inf	+1	2	for example if you add two more functionalities then better you add two more buttons ,
+IS1000d.D.dialog-act.vkaraisk.324	2383.41	2386.15	D	UI	sug	+1	2	and then add a couple of buttons .
+1	IS1000d.elana.s.19	Production cost 12 Euros , 50 cents cheaper than budget.
+IS1000d.B.dialog-act.vkaraisk.419	2535.72	2540.32	B	PM	inf	+1	2	and that that now twelve Euros is the is is the price ,
+3	IS1000d.elana.s.20	Will talk to the suppliers to see if they can lower prices and add a few more features.
+IS1000d.A.dialog-act.vkaraisk.438	2553.84	2556.12	A	ME	sug	+1	1	w we can go back and l talk to the suppliers maybe
+IS1000d.A.dialog-act.vkaraisk.439	2556.12	2558.71	A	ME	sug	+1	1	and see if we can drive the prices down to add a few more things in
+IS1000d.A.dialog-act.vkaraisk.440	2558.71	2561.94	A	ME	inf	+1	1	but that's all we can do with the restrictions we have at the moment .

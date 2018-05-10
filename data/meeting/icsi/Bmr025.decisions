@@ -1,0 +1,53 @@
+3	Bmr025.s.10	DARPA demo illustrating prosody of meeting events will be completed by the end of the ( next ) month , so as to allow a week or so for transferring data across to laptops.
+Bmr025.B.dialogueact359	722.869	729.419	B	Professor	s	+1	2	S so when we here were having this demo meeting , what we 're sort of coming up with is that we wanna have all these pieces together , to first order , by the end of the month
+Bmr025.G.dialogueact370	735.43	735.79	G	PhD	s^bk^m	+1	2	Next month .
+Bmr025.B.dialogueact377	738.703	745.834	B	Professor	fg|s	+1	2	Uh {disfmarker} that 'll {disfmarker} that 'll give us {disfmarker} that 'll give us a week or so to uh {disfmarker} to port things over to my laptop and make sure that works ,
+13	Bmr025.s.11	After consulting others , the group decide that not backing up their meeting data is a bad idea , since this cannot be recovered.
+Bmr025.H.dialogueact601	1044.93	1051.23	H	Grad	s	+1	2	Um I spoke with Dave Johnson about putting all the Meeting Recorder stuff on non - backed - up disk to save the overhead of backup
+Bmr025.H.dialogueact603	1054.33	1055.56	H	Grad	s^ba	+1	1	but he thought it was a bad idea .
+Bmr025.H.dialogueact604	1056.2	1063.23	H	Grad	s^ba^rt	+1	2	In fact what he said is doing the manual one , {comment} doing uh NW archive to copy it {comment} is a good idea
+Bmr025.H.dialogueact605	1063.52	1065.68	H	Grad	s	+1	2	and we should do that and have it backed up .
+Bmr025.H.dialogueact606	1066.65	1069.96	H	Grad	s	+1	2	He w he 's a firm believer in {disfmarker} in lots of different modalities of backup .
+Bmr025.H.dialogueact608	1071.85	1073.44	H	Grad	s^df	+1	2	This data cannot be recovered .
+Bmr025.H.dialogueact611	1079.52	1082.48	H	Grad	s	+1	2	and if then a mistake is made and we lose the archive we should have the backup .
+Bmr025.B.dialogueact613	1088.51	1093.55	B	Professor	s	+1	2	if it 's stationary it 's not going to go through the increment it 's not gonna burden things in the incremental backups .
+Bmr025.H.dialogueact614	1092.87	1094.51	H	Grad	s^2	+1	2	Just {disfmarker} just the monthly full .
+Bmr025.H.dialogueact620	1104.1	1108.56	H	Grad	s	+1	2	and we 're far enough away from saturation on full backups that it 's w probably OK .
+Bmr025.H.dialogueact622	1108.96	1119.43	H	Grad	fh|s	+1	4	And uh , so the only issue here is the timing between getting more disks and uh recording meetings .
+Bmr025.B.dialogueact623	1120.09	1129.31	B	Professor	s^bu	+1	4	So I guess the idea is that we would be reserving the non - backed - up space for things that took less than twenty - four hours to recreate or something like that ,
+Bmr025.H.dialogueact624	1129.13	1133.34	H	Grad	s^na	+1	4	Things that are recreatable easily and also {disfmarker} Yeah , basically things that are recreatable .
+11	Bmr025.s.12	Therefore , meeting recorder data will be backed up , and also stored manually using the NW archive.
+Bmr025.H.dialogueact604	1056.2	1063.23	H	Grad	s^ba^rt	+1	2	In fact what he said is doing the manual one , {comment} doing uh NW archive to copy it {comment} is a good idea
+Bmr025.H.dialogueact605	1063.52	1065.68	H	Grad	s	+1	2	and we should do that and have it backed up .
+Bmr025.H.dialogueact606	1066.65	1069.96	H	Grad	s	+1	2	He w he 's a firm believer in {disfmarker} in lots of different modalities of backup .
+Bmr025.H.dialogueact608	1071.85	1073.44	H	Grad	s^df	+1	2	This data cannot be recovered .
+Bmr025.H.dialogueact611	1079.52	1082.48	H	Grad	s	+1	2	and if then a mistake is made and we lose the archive we should have the backup .
+Bmr025.B.dialogueact613	1088.51	1093.55	B	Professor	s	+1	2	if it 's stationary it 's not going to go through the increment it 's not gonna burden things in the incremental backups .
+Bmr025.H.dialogueact614	1092.87	1094.51	H	Grad	s^2	+1	2	Just {disfmarker} just the monthly full .
+Bmr025.H.dialogueact620	1104.1	1108.56	H	Grad	s	+1	2	and we 're far enough away from saturation on full backups that it 's w probably OK .
+Bmr025.H.dialogueact622	1108.96	1119.43	H	Grad	fh|s	+1	4	And uh , so the only issue here is the timing between getting more disks and uh recording meetings .
+Bmr025.B.dialogueact623	1120.09	1129.31	B	Professor	s^bu	+1	4	So I guess the idea is that we would be reserving the non - backed - up space for things that took less than twenty - four hours to recreate or something like that ,
+Bmr025.H.dialogueact624	1129.13	1133.34	H	Grad	s^na	+1	4	Things that are recreatable easily and also {disfmarker} Yeah , basically things that are recreatable .
+3	Bmr025.s.13	More disk space will be purchased , however for now , data which is easily re-creatable will not be backed up.
+Bmr025.B.dialogueact623	1120.09	1129.31	B	Professor	s^bu	+1	4	So I guess the idea is that we would be reserving the non - backed - up space for things that took less than twenty - four hours to recreate or something like that ,
+Bmr025.H.dialogueact624	1129.13	1133.34	H	Grad	s^na	+1	4	Things that are recreatable easily and also {disfmarker} Yeah , basically things that are recreatable .
+Bmr025.H.dialogueact622	1108.96	1119.43	H	Grad	fh|s	+1	4	And uh , so the only issue here is the timing between getting more disks and uh recording meetings .
+7	Bmr025.s.14	After evaluating the use of the CrossPads , the group decide to return one , and also keep one which will be left out in meetings to encourage its use.
+Bmr025.B.dialogueact841	1571.38	1579.31	B	Professor	s	+1	2	uh part of the reason {disfmarker} I think part of the reason that Adam was so interested in uh the SpeechCorder sort of f idea from the beginning is he said from the beginning he hated taking notes
+Bmr025.B.dialogueact957	1792.13	1794.66	B	Professor	s^co	+1	1	but {disfmarker} uh by I {disfmarker} I would suggest you return one .
+Bmr025.B.dialogueact960	1795.62	1797.9	B	Professor	s^df	+1	1	Because we {disfmarker} we you know , we {disfmarker} we haven't used it at all .
+Bmr025.G.dialogueact963	1798.12	1799.3	G	PhD	s^cs	+1	1	One would probably be fine .
+Bmr025.G.dialogueact964	1800.31	1802.0	G	PhD	s^cs	+1	3	Maybe we could do like a student project ,
+Bmr025.G.dialogueact966	1802.0	1807.05	G	PhD	s^ba	+1	3	you know , maybe someone who wants to do this as their main like s project for something would be cool .
+Bmr025.H.dialogueact969	1808.71	1812.13	H	Grad	s^cs	+1	3	I mean if we had them out and sitting on the table people might use them a little more
+7	Bmr025.s.15	Use of PDAs and buttons for note-taking will be investigated , along with using the data for a student research project.
+Bmr025.B.dialogueact838	1565.58	1570.41	B	Professor	s^cs	+1	2	we {disfmarker} we get somebody to buy into the idea of doing this as part of the task .
+Bmr025.E.dialogueact864	1636.25	1640.92	E	PhD	s^cs	+1	2	Well if you wanted to do that maybe the right architecture for it is to get a PDA with a wireless card .
+Bmr025.E.dialogueact865	1641.32	1645.99	E	PhD	s	+1	2	And {disfmarker} and that way you can synchronize very easily with the {disfmarker} the {disfmarker} the meeting
+Bmr025.H.dialogueact885	1680.19	1684.09	H	Grad	s^cs	+1	2	I mean for what {disfmarker} what you 've been describing buttons would be even more convenient than anything else ,
+Bmr025.G.dialogueact964	1800.31	1802.0	G	PhD	s^cs	+1	3	Maybe we could do like a student project ,
+Bmr025.G.dialogueact966	1802.0	1807.05	G	PhD	s^ba	+1	3	you know , maybe someone who wants to do this as their main like s project for something would be cool .
+Bmr025.H.dialogueact969	1808.71	1812.13	H	Grad	s^cs	+1	3	I mean if we had them out and sitting on the table people might use them a little more
+2	Bmr025.s.16	Because of time constraints , the group decide to do simultaneous digits.
+Bmr025.H.dialogueact1043	1927.99	1929.01	H	Grad	s^na	+1	1	I mean you hav sorta have to .
+Bmr025.G.dialogueact1042	1926.83	1928.73	G	PhD	s^cs^r^rt	+1	1	Yeah , so we might wanna do it simultaneous .

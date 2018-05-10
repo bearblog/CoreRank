@@ -1,0 +1,105 @@
+11	Bro008.s.6	mn007 and fn002 have been working with the new Danish and German databases , making improvements , though more so with results on the Danish.
+Bro008.D.dialogueact21	60.34	66.9	D	Professor	s	+1	3	You know most of the time , even {disfmarker} I mean even though it 's true that the overall number for Danish {disfmarker} we didn't improve it
+Bro008.A.dialogueact27	94.08	97.7	A	PhD	s^rt	+1	2	Y Actually , uh , um , for the Danish , there 's still some kind of mystery
+Bro008.A.dialogueact28	98.35	107.24	A	PhD	s^df	+1	2	because , um , um , when we use the straight features , we are not able to get these nice number
+Bro008.A.dialogueact29	108.02	109.98	A	PhD	s^e	+1	2	with the ICSI OGI one , I mean .
+Bro008.A.dialogueact34	116.27	122.14	A	PhD	fh|s^df^rt	+1	2	Uh , so , uh , that 's probably something wrong with the features that we get from OGI .
+Bro008.A.dialogueact35	123.466	127.556	A	PhD	fh|s	+1	2	Uh , and Sunil is working on {disfmarker} on trying to {disfmarker} to check everything .
+Bro008.D.dialogueact40	130.281	131.941	D	Professor	s^r	+1	2	We have a little bit of time on that , actually .
+Bro008.D.dialogueact66	179.149	183.059	D	Professor	s^ba	+1	2	I mean , even with these results as they are , it 's {disfmarker} it 's {disfmarker} it 's really not that bad .
+Bro008.D.dialogueact68	186.286	202.326	D	Professor	s	+1	2	And it looks like the overall result as they are now , even without , you know , any {disfmarker} any bugs being fixed is that , uh , on the {disfmarker} the other tasks , we had this average of , uh , forty uh {disfmarker} nine percent , or so , improvement .
+Bro008.D.dialogueact69	202.948	207.618	D	Professor	s	+1	2	And here we have somewhat better than that than the Danish , and somewhat worse than that on the German ,
+Bro008.D.dialogueact70	207.618	223.138	D	Professor	fh|s	+1	2	but I mean , it sounds like , uh , one way or another , the methods that we 're doing can reduce the error rate from {disfmarker} from mel ceptrum {pause} down by , you know {pause} a fourth of them to , uh , a half of them .
+14	Bro008.s.7	The results are reasonable , but still not good enough.
+Bro008.D.dialogueact66	179.149	183.059	D	Professor	s^ba	+1	2	I mean , even with these results as they are , it 's {disfmarker} it 's {disfmarker} it 's really not that bad .
+Bro008.D.dialogueact68	186.286	202.326	D	Professor	s	+1	2	And it looks like the overall result as they are now , even without , you know , any {disfmarker} any bugs being fixed is that , uh , on the {disfmarker} the other tasks , we had this average of , uh , forty uh {disfmarker} nine percent , or so , improvement .
+Bro008.D.dialogueact69	202.948	207.618	D	Professor	s	+1	2	And here we have somewhat better than that than the Danish , and somewhat worse than that on the German ,
+Bro008.D.dialogueact70	207.618	223.138	D	Professor	fh|s	+1	2	but I mean , it sounds like , uh , one way or another , the methods that we 're doing can reduce the error rate from {disfmarker} from mel ceptrum {pause} down by , you know {pause} a fourth of them to , uh , a half of them .
+Bro008.D.dialogueact318	1046.89	1051.53	D	Professor	s	+1	2	The other thing that strikes me , just looking at these numbers is , just taking the best cases ,
+Bro008.D.dialogueact319	1051.59	1056.85	D	Professor	s	+1	2	I mean , some of these , of course , even with all of our {disfmarker} our wonderful processing , still are horrible kinds of numbers .
+Bro008.D.dialogueact320	1057.36	1064.83	D	Professor	s.%--	+1	2	But just take the best case , the well - matched {pause} uh , German case after {disfmarker} er well - matched Danish after we {disfmarker}
+Bro008.D.dialogueact322	1065.49	1074.26	D	Professor	s	+1	2	the kind of numbers we 're getting are about eight or nine {pause} uh {pause} p percent {pause} error {pause} per digit .
+Bro008.D.dialogueact325	1076.17	1077.73	D	Professor	s	+1	2	This is obviously not usable ,
+Bro008.D.dialogueact328	1078.13	1082.8	D	Professor	s.x	+1	2	I mean , if you have ten digits for a phone number {comment} I mean , every now and then you 'll get it right .
+Bro008.D.dialogueact455	1476.28	1480.88	D	Professor	fh|s^df.x	+1	2	Uh {pause} {vocalsound} Uh {pause} {vocalsound} I mean , they 're much better than they were , you know .
+Bro008.D.dialogueact456	1480.88	1485.02	D	Professor	s	+1	2	We 're talking about thirty to sixty percent , uh , error rate reduction .
+Bro008.D.dialogueact457	1485.02	1488.51	D	Professor	s^ba	+1	2	That 's {disfmarker} that 's really great stuff to {disfmarker} to do that in relatively short time .
+Bro008.D.dialogueact458	1489.24	1494.31	D	Professor	s	+1	2	But even after that it 's still , you know , so poor that {disfmarker} that , uh , no one could really use it .
+4	Bro008.s.8	However , it has not been possible to compare results to the best , as still development system.
+Bro008.C.dialogueact85	259.218	261.938	C	PhD	qw^rt	+1	1	How much {disfmarker} how much better was the best system than ours ?
+Bro008.D.dialogueact86	263.129	264.069	D	Professor	s^no	+1	1	Well , we don't know yet .
+Bro008.D.dialogueact88	264.59	267.46	D	Professor	fh|s	+1	1	Uh , I mean , first place , there 's still this thing to {disfmarker} to work out ,
+Bro008.D.dialogueact89	267.46	273.64	D	Professor	s	+1	1	and second place {disfmarker} second thing is that the only results that we have so far from before were really development set results .
+39	Bro008.s.9	There are a number of things that the group wishes to consider for looking for further improvements.
+Bro008.D.dialogueact290	905.67	914.4	D	Professor	fh|s^t	+1	1	So , uh , I 'm interested in hearing {disfmarker} hearing your thoughts about {pause} where you think we should go from this .
+Bro008.D.dialogueact292	914.4	916.11	D	Professor	s	+1	1	I mean , we tried a lot of things in a hurry ,
+Bro008.D.dialogueact293	916.36	928.08	D	Professor	fh|s	+1	1	and , uh , if we can back off from this now and sort of take our time with something , and not have doing things quickly be quite so much the constraint , what {disfmarker} what you think would be the best thing to do .
+Bro008.A.dialogueact296	936.306	942.116	A	PhD	s	+1	1	Well , first , uh , to really have a look at {disfmarker} at the speech {pause} {vocalsound} from these databases
+Bro008.A.dialogueact297	942.116	943.666	A	PhD	s^df	+1	1	because , well , we tried several thing ,
+Bro008.A.dialogueact298	943.666	951.996	A	PhD	s.%--	+1	1	but we did not really look {vocalsound} at what what 's happening , and {vocalsound} where is the noise , and
+Bro008.A.dialogueact308	980.6	991.688	A	PhD	s	+1	1	Actually , there is one thing that {disfmarker} well {pause} Um , generally we {disfmarker} we think that {vocalsound} most of the errors are within phoneme classes ,
+Bro008.A.dialogueact310	996.608	1001.37	A	PhD	s^cs	+1	1	so I think it could be interesting to {disfmarker} to see if it {disfmarker} I don't think it 's still true when we add noise ,
+Bro008.A.dialogueact311	1001.37	1010.87	A	PhD	fh|s	+1	1	and {vocalsound} so we have {disfmarker} I {disfmarker} I guess the confusion ma the confusion matrices are very different when {disfmarker} when we have noise , and when it 's clean speech .
+Bro008.A.dialogueact312	1012.07	1019.71	A	PhD	s^cs	+1	1	And probably , there is much more {pause} between classes errors for noisy speech .
+Bro008.A.dialogueact315	1026.5	1036.83	A	PhD	fg|s^cs	+1	1	Yeah , so perhaps we could have a {disfmarker} a large gain , eh , just by looking at improving the , uh , recognition , not of phonemes , but of phoneme classes , simply .
+Bro008.D.dialogueact409	1310.3	1317.55	D	Professor	qy^rt	+1	1	Does a any you have any thoughts about what else {vocalsound} y you 're thinking that you didn't get to that you would like to do if you had more time ?
+Bro008.E.dialogueact414	1326.48	1331.1	E	PhD	s^cs	+1	1	Maybe {vocalsound} we trying again with the articulatory feature .
+Bro008.E.dialogueact416	1332.08	1336.76	E	PhD	s	+1	1	because we tried {disfmarker} we {disfmarker} some {disfmarker} one experiment that doesn't work .
+Bro008.E.dialogueact419	1339.06	1348.54	E	PhD	s^cs^rt	+1	1	because , tsk {comment} {vocalsound} maybe do better some step the general , {vocalsound} eh , diagram .
+Bro008.D.dialogueact423	1357.95	1366.73	D	Professor	s^df	+1	1	there were a lot of times when we 've tried something and it didn't work right away , even though we had an intuition that there should be something there .
+Bro008.D.dialogueact424	1367.26	1368.87	D	Professor	s	+1	1	And so then we would just stop it .
+Bro008.D.dialogueact426	1371.08	1383.25	D	Professor	fh|s.%-	+1	1	And , uh , one of the things {disfmarker} I don't remember the details on , but I remember at some point , when you were working with a second stream , and you tried a low - pass filtering to cepstrum , in some case you got {disfmarker}
+Bro008.D.dialogueact428	1383.7	1386.0	D	Professor	s^na	+1	1	Well , but it was {comment} an MSG - like thing , but it wasn't MSG ,
+Bro008.D.dialogueact430	1387.38	1390.46	D	Professor	fh|s	+1	1	Uh , you {disfmarker} y I think in some case you got some little improvement ,
+Bro008.D.dialogueact438	1402.52	1410.9	D	Professor	s	+1	1	And it seems to me that , um , if that is an important idea , which , you know , might be , that one could work at it for a while , as you 're saying .
+Bro008.D.dialogueact441	1412.8	1417.79	D	Professor	fh|s^tc	+1	1	Uh , and you had , you know , you had the multi - band things also , and , you know , there was issue of that .
+Bro008.D.dialogueact444	1418.44	1422.83	D	Professor	fh|s	+1	1	Um , Barry 's going to be , uh , continuing working on multi - band things as well .
+Bro008.D.dialogueact445	1422.84	1427.91	D	Professor	s	+1	1	We were just talking about , um , {vocalsound} some , uh , some work that we 're interested in .
+Bro008.D.dialogueact446	1429.0	1445.78	D	Professor	s^e	+1	1	Kind of inspired by the stuff by Larry Saul with the , uh {pause} uh , learning articulatory feature in {disfmarker} I think , in the case of his paper {disfmarker} with sonorance based on , uh , multi - band information where you have a {disfmarker} a combination of gradient learning an and , uh , EM .
+Bro008.C.dialogueact505	1629.43	1640.3	C	PhD	s	+1	1	Uh , now , I 'm interested in , um , uh {pause} looking at the experiments where you use , um {pause} uh , data from multiple languages to train the neural net .
+Bro008.C.dialogueact506	1640.59	1646.56	C	PhD	s^no	+1	1	And I don't know how far , or if you guys even had a chance to try that , but {pause} that would be some it 'd be interesting to me .
+Bro008.A.dialogueact509	1648.8	1656.06	A	PhD	s	+1	1	Again , it 's the kind of {disfmarker} of thing that , uh , we were thin thinking {disfmarker} thinking that it would work , but it didn't work .
+Bro008.A.dialogueact510	1656.92	1662.77	A	PhD	fh|s.x	+1	1	And , eh , so there is kind of {disfmarker} of {pause} not a bug , but something wrong in what we are doing , perhaps .
+Bro008.A.dialogueact515	1663.54	1667.57	A	PhD	fh|s^e.%--	+1	1	Uh , something wrong , perhaps in the {disfmarker} just in the {disfmarker} the fact that the labels are {disfmarker}
+Bro008.A.dialogueact518	1668.97	1671.87	A	PhD	s^rt	+1	1	What worked best is the hand - labeled data .
+Bro008.A.dialogueact522	1676.27	1679.52	A	PhD	s^no^rt	+1	1	I don't know if we can get some hand - labeled data from other languages .
+Bro008.A.dialogueact526	1682.78	1686.39	A	PhD	s^ba	+1	1	But {pause} that would be something interesting t to {disfmarker} to see .
+Bro008.D.dialogueact530	1686.71	1692.56	D	Professor	fg|s	+1	1	Also , uh , {vocalsound} I mean , there was just the whole notion of having multiple nets that were trained on different data .
+Bro008.D.dialogueact531	1693.45	1697.16	D	Professor	s.%--	+1	1	So one form of different data was {disfmarker} is from different languages , but the other
+Bro008.D.dialogueact532	1697.63	1703.3	D	Professor	fh|s.%--	+1	1	Well , i in fact , uh , m in those experiments it wasn't so much combining multiple nets , it was a single net that had different
+Bro008.D.dialogueact534	1703.84	1708.11	D	Professor	s:qw	+1	1	So , first thing is would it be better if they were multiple nets , for some reason ?
+Bro008.D.dialogueact535	1708.63	1715.14	D	Professor	s	+1	1	Second thing is , never mind the different languages , just having acoustic conditions rather than training them all up in one ,
+Bro008.D.dialogueact536	1715.13	1717.19	D	Professor	qw	+1	1	would it be helpful to have different ones ?
+24	Bro008.s.10	There are various techniques that various groups have tried , and they should all be considered for possible combinations of systems.
+Bro008.D.dialogueact74	231.932	239.642	D	Professor	s	+1	2	I mean , I think that , uh , one of the things that Hynek was talking about was understanding what was in the other really good proposals
+Bro008.D.dialogueact76	239.932	245.942	D	Professor	s	+1	2	and trying to see if what should ultimately be proposed is some , uh , combination of things .
+Bro008.D.dialogueact78	248.332	251.952	D	Professor	s	+1	1	Cuz there 's things that they are doing {pause} there that we certainly are not doing .
+Bro008.D.dialogueact79	252.909	255.149	D	Professor	s	+1	1	And there 's things that we 're doing that {pause} they 're not doing .
+Bro008.D.dialogueact107	332.053	339.956	D	Professor	fh|s	+1	1	Um {pause} It 's probably a good time to look at what 's really going on and seeing if there 's a {disfmarker} there 's a way to combine the best ideas
+Bro008.D.dialogueact108	339.956	343.436	D	Professor	s	+1	1	while at the same time not blowing up the amount of , uh , resources used ,
+Bro008.D.dialogueact140	437.346	442.026	D	Professor	s	+1	1	But i it it {disfmarker} so it looks like they did some {disfmarker} some , uh , reasonable things ,
+Bro008.D.dialogueact141	442.466	445.736	D	Professor	fh|s	+1	1	uh , and they 're not things that we did , precisely .
+Bro008.D.dialogueact142	445.736	450.626	D	Professor	s	+1	1	We did unreasonable things , {vocalsound} which {disfmarker} because we like to try strange things ,
+Bro008.D.dialogueact143	450.626	452.716	D	Professor	s	+1	1	and {disfmarker} and , uh , and our things worked too .
+Bro008.D.dialogueact146	455.731	461.701	D	Professor	fh|s^cs	+1	1	uh , it 's possible that some combination of these different things that were done would be the best thing to do .
+Bro008.D.dialogueact147	462.194	467.784	D	Professor	s	+1	1	But the only caveat to that is that everybody 's being real conscious of how much memory and how much CPU they 're using
+Bro008.D.dialogueact148	467.784	474.878	D	Professor	s	+1	1	because these , {vocalsound} {vocalsound} {vocalsound} uh , standards are supposed to go on cell phones with m moderate resources in both respects .
+Bro008.A.dialogueact233	677.333	682.673	A	PhD	qy^bu^d^rt	+1	1	So , Hynek will try to push for trying to combine , uh , different things ?
+Bro008.D.dialogueact238	689.615	693.255	D	Professor	s^cs:qy	+1	1	I mean , I think the question is " Is there {disfmarker} is there some advantage ? "
+Bro008.D.dialogueact239	693.255	696.025	D	Professor	s^cs	+1	1	I mean , you could just take the best system and say that 's the standard .
+Bro008.D.dialogueact240	696.6	706.83	D	Professor	s	+1	1	But the thing is that if different systems are getting at good things , um , a again within the constraint of the resources , if there 's something simple that you can do
+Bro008.D.dialogueact242	717.592	722.302	D	Professor	fh|s	+1	1	So , um , everything that we did could probably just be added on to what Alcatel did ,
+Bro008.D.dialogueact243	722.302	724.282	D	Professor	s	+1	1	and i it 'd probably work pretty well with them , too .
+Bro008.D.dialogueact247	741.407	742.977	D	Professor	s	+1	1	I mean , the VAD stuff they both had ,
+Bro008.D.dialogueact249	744.34	748.73	D	Professor	fh|s	+1	1	And , um , so {disfmarker} and they both had some kind of on - line normalization ,
+Bro008.D.dialogueact255	752.447	756.247	D	Professor	s	+1	2	so , it seems like the main different there is the {disfmarker} is the , uh , filtering .
+Bro008.D.dialogueact257	759.547	768.034	D	Professor	s	+1	2	shouldn't take a lot of memory to do that Uh , and I also wouldn't think the CPU , uh , would be much either for that part .
+Bro008.D.dialogueact258	768.034	775.924	D	Professor	s	+1	2	So , if you can {disfmarker} if you can add those in {pause} um {pause} then , uh , you can cut the data rate in half .
+7	Bro008.s.11	One suitable candidate for combination is the group's own filtering which reduces bandwidth to half bit transmission rate.
+Bro008.D.dialogueact156	485.728	500.078	D	Professor	fh|s	+1	1	Um , now , one of the things that 's nice about what we did is , we do have a {disfmarker} a , uh {disfmarker} a filtering , which leads to a {disfmarker} a , uh {disfmarker} a reduction in the bandwidth in the modulation spectrum , which allows us to downsample .
+Bro008.D.dialogueact157	500.078	506.198	D	Professor	fh|s	+1	1	So , uh , as a result of that we have a reduced , um , transmission rate for the bits .
+Bro008.D.dialogueact171	538.904	546.134	D	Professor	s	+1	1	so in reality , if you put this {disfmarker} this system in into , uh , the field , it would be twenty - four hundred bits per second , not forty - eight hundred .
+Bro008.D.dialogueact173	547.443	551.163	D	Professor	fh|s	+1	1	um , so that 's a nice feature of what {disfmarker} what we did .
+Bro008.D.dialogueact255	752.447	756.247	D	Professor	s	+1	2	so , it seems like the main different there is the {disfmarker} is the , uh , filtering .
+Bro008.D.dialogueact257	759.547	768.034	D	Professor	s	+1	2	shouldn't take a lot of memory to do that Uh , and I also wouldn't think the CPU , uh , would be much either for that part .
+Bro008.D.dialogueact258	768.034	775.924	D	Professor	s	+1	2	So , if you can {disfmarker} if you can add those in {pause} um {pause} then , uh , you can cut the data rate in half .

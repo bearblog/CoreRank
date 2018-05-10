@@ -1,0 +1,250 @@
+7	ES2006c.elana.s.1	The project manager opens the meeting by stating the agenda.
+ES2006c.C.dialog-act.s9553330.3	6.68	8.45	C	PM	inf	+1	1	I sent you the agenda ,
+ES2006c.C.dialog-act.s9553330.4	8.45	10.44	C	PM	inf	+1	1	it was on the {disfmarker} in the project documents .
+ES2006c.C.dialog-act.s9553330.6	13.85	19.08	C	PM	inf	+1	1	Anyway , it's {disfmarker} the meeting's gonna follow more or less the same structure as last time ,
+ES2006c.C.dialog-act.s9553330.7	19.08	21.56	C	PM	inf	+1	1	so we'll go round each of you in turn
+ES2006c.C.dialog-act.s9553330.8	21.56	26.15	C	PM	inf	+1	1	and you can give your presentations on what you've been up to .
+ES2006c.C.dialog-act.s9553330.9	26.15	36.94	C	PM	inf	+1	1	Um and at the end of that we need to discuss what you've come up with , so that we can make a decision on the key remote control concepts ,
+ES2006c.C.dialog-act.s9553330.11	37.4	49.72	C	PM	inf	+1	1	we need to know about the components' properties , materials , the user interface and any trends that the Marketing Expert has been watching .
+16	ES2006c.elana.s.2	The industrial designer begins presenting , first describing the insides of a remote control.
+ES2006c.A.dialog-act.s9553330.4	57.69	61.09	A	ID	inf	+1	1	so I haven't made a PowerPoint presentation ,
+ES2006c.A.dialog-act.s9553330.6	61.37	64.08	A	ID	off	+1	1	I I thought I'll use the whiteboard instead .
+ES2006c.A.dialog-act.s9553330.10	76.6	80.31	A	ID	inf	+1	1	I thought I'll use the whiteboard because we have so many different options
+ES2006c.A.dialog-act.s9553330.11	80.31	87.02	A	ID	sug	+1	1	and what we can do is that we can start um uh rubbing off the options that we do not require
+ES2006c.A.dialog-act.s9553330.12	87.02	91.63	A	ID	sug	+1	1	and putting in the options that uh are m or highlighting or underlining them or something like that .
+ES2006c.A.dialog-act.s9553330.13	93.03	103.59	A	ID	inf	+1	1	Okay , so uh I'll start again with a brief introduction to {disfmarker} connect that anyway {disfmarker} brief introduction to the insides of a remote control
+ES2006c.A.dialog-act.s9553330.18	119.68	124.85	A	ID	inf	+1	1	If you open it , you have a circuit board here , right ,
+ES2006c.A.dialog-act.s9553330.19	124.85	127.83	A	ID	inf	+1	1	and this is the chip that I was talking about last time .
+ES2006c.A.dialog-act.s9553330.20	127.83	136.27	A	ID	inf	+1	1	This basically sends information to a tr uh transistor here , which then uh sends the information to an L_E_D_ device here .
+ES2006c.A.dialog-act.s9553330.21	136.27	141.52	A	ID	inf	+1	1	If you flip the printed circuit board , and this is th the most important point here ,
+ES2006c.A.dialog-act.s9553330.24	148.89	154.96	A	ID	inf	+1	1	So you see for example a particular button attaches to a particular place on the P_C_B_
+ES2006c.A.dialog-act.s9553330.26	157.27	160.9	A	ID	inf	+1	1	on pressing this button I {disfmarker} a circuit completes ,
+ES2006c.A.dialog-act.s9553330.27	160.9	163.48	A	ID	inf	+1	1	the information goes to the chip , which is somewhere here
+ES2006c.A.dialog-act.s9553330.28	163.48	171.57	A	ID	inf	+1	1	and the chip that tra then translates the code into an infra infrared radiation , which goes goes out through there .
+ES2006c.A.dialog-act.s9553330.29	171.57	183.02	A	ID	inf	+1	1	{vocalsound} So uh the important point that I read over the website was uh that the configurations of these printed circuit circuit boards uh are quite cheap to make ,
+ES2006c.A.dialog-act.s9553330.33	193.67	196.66	A	ID	inf	+1	1	so these are the different options that we have .
+26	ES2006c.elana.s.3	He lists the options for types of batteries , shapes for the remote case , materials to use , and functions to include such as push buttons , scroll wheels , and LCD screens.
+ES2006c.A.dialog-act.s9553330.35	199.57	203.63	A	ID	off	+1	1	So the batteries , I'll start with the battery , right ?
+ES2006c.A.dialog-act.s9553330.36	208.6	218.54	A	ID	inf	+1	1	So they can be simple which is like uh the normal batteries in uh our {disfmarker} uh the cells , yeah ?
+ES2006c.A.dialog-act.s9553330.39	226.42	227.85	A	ID	inf	+1	1	And dynamos .
+ES2006c.A.dialog-act.s9553330.42	234.64	238.82	A	ID	el.ass	+1	1	So uh I don't know if {disfmarker} even if you want to consider this ,
+ES2006c.A.dialog-act.s9553330.46	247.5	252.47	A	ID	inf	+1	1	So {vocalsound} the third one is uh the kinetic energy ones .
+ES2006c.A.dialog-act.s9553330.50	265.75	274.38	A	ID	inf	+1	1	The the kinetic energy one is uh that e uh uh they are usually modern watches , since our hand keeps moving , it keeps the watch ticking .
+ES2006c.A.dialog-act.s9553330.51	274.38	278.95	A	ID	ass	+1	1	But I dunno i if it is a good idea for a remote control , because it'll just lie there for a long while sometimes .
+ES2006c.A.dialog-act.s9553330.52	278.95	284.42	A	ID	inf	+1	1	But as soon as you pick it up it moves and then again it uh re recharges or something .
+ES2006c.A.dialog-act.s9553330.53	284.42	290.55	A	ID	inf	+1	1	And the fourth option is the solar cells , which are also {vocalsound} made by the company .
+ES2006c.A.dialog-act.s9553330.54	290.55	292.34	A	ID	inf	+1	1	Environment friendly .
+ES2006c.A.dialog-act.s9553330.57	301.47	304.88	A	ID	inf	+1	1	There are different cases that can be provided .
+ES2006c.A.dialog-act.s9553330.58	304.88	310.21	A	ID	inf	+1	1	They can be {disfmarker} basically the shape of the cases , they can be flat ,
+ES2006c.A.dialog-act.s9553330.59	310.21	317.81	A	ID	inf	+1	1	they can be curved with uh one-sided curved and one side flat ,
+ES2006c.A.dialog-act.s9553330.60	317.81	321.72	A	ID	inf	+1	1	and they can be curved with {disfmarker} on both the sides .
+ES2006c.D.dialog-act.s9553330.8	328.352	333.68	D	UI	el.inf	+1	1	{vocalsound} Um you mean this would be like the the overall shape of the remote control , yeah ,
+ES2006c.A.dialog-act.s9553330.63	333.3	333.69	A	ID	inf	+1	1	Yeah ,
+ES2006c.A.dialog-act.s9553330.65	339.61	341.81	A	ID	inf	+1	1	uh there were different kind of supplements available ,
+ES2006c.A.dialog-act.s9553330.66	341.81	347.91	A	ID	inf	+1	1	um like it can be in plastic , rubber , wood , or titanium , right ?
+ES2006c.A.dialog-act.s9553330.72	360.41	368.86	A	ID	inf	+1	1	so uh we can use even um {vocalsound} a certain titanium is also used uh in the company to make uh {vocalsound} uh some space design equipment ,
+ES2006c.A.dialog-act.s9553330.73	368.86	375.64	A	ID	inf	+1	1	so it's kind of um uh it'll be probably nicer to use , because it relates to the overall image of the company ,
+ES2006c.A.dialog-act.s9553330.74	375.64	379.48	A	ID	inf	+1	1	but uh it cannot be used on a double curved surface .
+ES2006c.A.dialog-act.s9553330.79	390.92	392.76	A	ID	inf	+1	1	the interface options now .
+ES2006c.A.dialog-act.s9553330.81	395.44	399.59	A	ID	inf	+1	1	{vocalsound} we can have push-buttons , like most remotes do
+ES2006c.A.dialog-act.s9553330.84	405.04	411.376	A	ID	inf	+1	1	Uh we can have scroll wheels like the ones on um uh mouse pointers uh uh {disfmarker}
+ES2006c.A.dialog-act.s9553330.87	416.95	421.72	A	ID	inf	+1	1	they can even have an an integrated uh push-button inside the scrolling thing .
+ES2006c.A.dialog-act.s9553330.91	432.72	434.02	A	ID	inf	+1	1	we can have L_C_D_s .
+12	ES2006c.elana.s.4	He then talks about the type of chip certain features would require.
+ES2006c.A.dialog-act.s9553330.94	449.37	453.75	A	ID	inf	+1	1	so th this concerns firs first of all the the chips I I showed you at uh {disfmarker}
+ES2006c.A.dialog-act.s9553330.96	456.51	461.51	A	ID	inf	+1	1	The P_C_B_ is uh inexpensive , so we can put put in uh whatever we want ,
+ES2006c.A.dialog-act.s9553330.97	461.51	466.1	A	ID	inf	+1	1	but the various integrated circuit options are , we have either a simple one
+ES2006c.A.dialog-act.s9553330.98	468.88	470.1	A	ID	inf	+1	1	or a regular
+ES2006c.A.dialog-act.s9553330.99	472.93	474.32	A	ID	inf	+1	1	or advanced .
+ES2006c.A.dialog-act.s9553330.102	486.04	497.83	A	ID	inf	+1	1	okay , so the good thing about uh wh wh why why we would want to use advanced u why we might want to use advanced is that L_C_D_s can only come with the advanced chip .
+ES2006c.A.dialog-act.s9553330.104	499.39	504.44	A	ID	inf	+1	1	we need regular or advanced for uh scroll wheels .
+ES2006c.A.dialog-act.s9553330.106	509.26	513.35	A	ID	inf	+1	1	Um {vocalsound} and the chip basically includes the infra infrared sender .
+ES2006c.A.dialog-act.s9553330.108	516.22	524.09	A	ID	inf	+1	1	besides this in electr under electronics uh also the company has started making a sample sender ,
+ES2006c.A.dialog-act.s9553330.109	524.09	527.16	A	ID	inf	+1	1	which is {vocalsound} {disfmarker} did not explained what i what it was ,
+ES2006c.A.dialog-act.s9553330.112	535.19	547.27	A	ID	inf	+1	1	So I'm guessing that uh the sample speaker is probably something like um uh you know , as soon as you press a button , it it mm uh give gives you feedback , one five or whatever .
+ES2006c.A.dialog-act.s9553330.115	551.11	556.93	A	ID	inf	+1	1	I dunno whether sample sender sender has to do something with voice recognition or not , but anyway .
+18	ES2006c.elana.s.5	The interface specialist begins presenting , first defining user interface and then showing some examples of remotes.
+ES2006c.C.dialog-act.s9553330.70	633.6	635.25	C	PM	inf	+1	1	Right , interface concept .
+ES2006c.D.dialog-act.s9553330.22	636.55	647.04	D	UI	inf	+1	1	Um to be honest actually , I mentioned some some of the things which which could fit on the on the {disfmarker} this talk um this time , I m I mentioned them already in the previous talk .
+ES2006c.D.dialog-act.s9553330.23	647.04	655.25	D	UI	inf	+1	1	So um yeah , this time um I might not have them on the slides but I {vocalsound} I can just mention them aw again .
+ES2006c.D.dialog-act.s9553330.25	657.27	662.49	D	UI	inf	+1	1	So um I thought um I would also include the definition of user interface
+ES2006c.D.dialog-act.s9553330.26	662.49	671.54	D	UI	inf	+1	1	um so it's the aspects of a of of a computer system or programme which can be seen uh by the user um
+ES2006c.D.dialog-act.s9553330.28	672.66	677.04	D	UI	inf	+1	1	uh the mechanisms that the user uses to control its operation and input data .
+ES2006c.D.dialog-act.s9553330.29	677.04	684.61	D	UI	inf	+1	1	So this would p includes things like shape and size and buttons and um voice recognition as well , and colour , and so on .
+ES2006c.D.dialog-act.s9553330.30	685.53	695.63	D	UI	inf	+1	1	Um um the method I {vocalsound} employed this time was {vocalsound} a again having a look to related products and mainly on the internet
+ES2006c.D.dialog-act.s9553330.31	695.63	702.69	D	UI	inf	+1	1	and then {vocalsound} um {vocalsound} analyse them uh from the point of view of user fen friendliness
+ES2006c.D.dialog-act.s9553330.32	702.69	709.83	D	UI	inf	+1	1	and {vocalsound} also um {vocalsound} whether their appearance was was pleasant .
+ES2006c.D.dialog-act.s9553330.34	715.76	721.88	D	UI	inf	+1	1	this can help us to decide which features we want to incorporate in our product .
+ES2006c.D.dialog-act.s9553330.36	726.42	736.74	D	UI	inf	+1	2	So in in the case of many user interfaces , they're just so full of buttons that it's actually uh hard to find the ones you you really um want to use
+ES2006c.D.dialog-act.s9553330.37	736.74	741.81	D	UI	inf	+1	2	and um and it's just confusing , it takes y know time to learn .
+ES2006c.D.dialog-act.s9553330.39	743.72	748.7	D	UI	off	+1	2	and I thought I would just quickly show some of them that I found .
+ES2006c.D.dialog-act.s9553330.48	768.67	771.41	D	UI	inf	+1	2	so yeah , they're quite big and have many many buttons .
+ES2006c.D.dialog-act.s9553330.49	771.41	775.78	D	UI	inf	+1	2	Actually {vocalsound} of the {disfmarker} of all these I personally p prefer this one ,
+ES2006c.D.dialog-act.s9553330.50	775.78	781.68	D	UI	inf	+1	2	because it's it's the smallest and and with with least {disfmarker} uh with the smallest number of buttons as well .
+ES2006c.D.dialog-act.s9553330.51	781.68	789.21	D	UI	inf	+1	2	And I would say even the appearance of some of them is kind of not so nice .
+32	ES2006c.elana.s.6	She mentions that many existing remotes do not have a nice appearance , and states her preference for a remote that is small and simple and contains a scrolling wheel.
+ES2006c.D.dialog-act.s9553330.36	726.42	736.74	D	UI	inf	+1	2	So in in the case of many user interfaces , they're just so full of buttons that it's actually uh hard to find the ones you you really um want to use
+ES2006c.D.dialog-act.s9553330.37	736.74	741.81	D	UI	inf	+1	2	and um and it's just confusing , it takes y know time to learn .
+ES2006c.D.dialog-act.s9553330.39	743.72	748.7	D	UI	off	+1	2	and I thought I would just quickly show some of them that I found .
+ES2006c.D.dialog-act.s9553330.48	768.67	771.41	D	UI	inf	+1	2	so yeah , they're quite big and have many many buttons .
+ES2006c.D.dialog-act.s9553330.49	771.41	775.78	D	UI	inf	+1	2	Actually {vocalsound} of the {disfmarker} of all these I personally p prefer this one ,
+ES2006c.D.dialog-act.s9553330.50	775.78	781.68	D	UI	inf	+1	2	because it's it's the smallest and and with with least {disfmarker} uh with the smallest number of buttons as well .
+ES2006c.D.dialog-act.s9553330.51	781.68	789.21	D	UI	inf	+1	2	And I would say even the appearance of some of them is kind of not so nice .
+ES2006c.D.dialog-act.s9553330.58	814.15	817.73	D	UI	inf	+1	1	{vocalsound} Our own company has developed a new in user interface
+ES2006c.D.dialog-act.s9553330.62	820.77	822.73	D	UI	inf	+1	1	we can uh include voice recognition
+ES2006c.D.dialog-act.s9553330.64	824.54	830.88	D	UI	inf	+1	1	i it's possible to record eighty different voice samples on it .
+ES2006c.D.dialog-act.s9553330.66	836.29	839.91	D	UI	inf	+1	1	Um s another new development is a scroll button ,
+ES2006c.D.dialog-act.s9553330.65	830.88	835.85	D	UI	inf	+1	1	Uh so uh this uh this one was already mentioned uh the L_C_ display .
+ES2006c.D.dialog-act.s9553330.68	842.37	854.357	D	UI	inf	+1	1	And uh our own manufacturing division ha has uh designed {vocalsound} a new um {vocalsound} {vocalsound} uh programmable speech uh {vocalsound}
+ES2006c.D.dialog-act.s9553330.72	862.84	865.7	D	UI	inf	+1	1	uh uh it it it comes together with a voice recognition ,
+ES2006c.D.dialog-act.s9553330.76	882.49	889.29	D	UI	inf	+1	1	So {vocalsound} I mean this is also one of the n dev new developments which we might consider if we wanted to include .
+ES2006c.D.dialog-act.s9553330.73	865.7	874.64	D	UI	inf	+1	1	but it's {disfmarker} once once the mm {vocalsound} um gadget uh recognises uh the voice of the speaker , there can be a um pre-programmed answer ,
+ES2006c.A.dialog-act.s9553330.130	890.96	895.69	A	ID	el.inf	+1	1	Um {vocalsound} uh are you sure wha what this means , a spinning wheel with the L_C_ display ?
+ES2006c.D.dialog-act.s9553330.78	900.6	902.31	D	UI	inf	+1	1	the scroll button is a different thing .
+ES2006c.D.dialog-act.s9553330.79	902.31	906.02	D	UI	inf	+1	1	I I have a picture if you {vocalsound} {disfmarker} just a moment ,
+ES2006c.A.dialog-act.s9553330.132	915.071	917.32	A	ID	ass	+1	1	{vocalsound} Oh okay , the iPod thing , yeah .
+ES2006c.D.dialog-act.s9553330.82	908.78	915.17	D	UI	inf	+1	1	but I think it's just like um {vocalsound} it's it's a wheel , it's like not separate buttons .
+ES2006c.B.dialog-act.s9553330.24	921.64	929.37	B	ME	inf	+1	1	It's like it's like where you {disfmarker} you know how you have your your mouse , and y you go round and i it's kind of like that and you spin round
+ES2006c.B.dialog-act.s9553330.29	939.42	942.97	B	ME	inf	+1	1	I like the the wheels that click on the side you you get 'em much slower ,
+ES2006c.B.dialog-act.s9553330.31	946.17	952.61	B	ME	inf	+1	1	Do you know , if you're lookin if you're th scrolling through the A_ to Z_ of your music and you're looking for something at T_ , then it's a lot faster than the wheel ,
+ES2006c.B.dialog-act.s9553330.32	952.61	954.25	B	ME	inf	+1	1	but you've got a lot less control over it .
+ES2006c.D.dialog-act.s9553330.89	964.68	968.71	D	UI	inf	+1	1	Okay , and the personal preferences are pretty much the same as as as last time .
+ES2006c.D.dialog-act.s9553330.91	971.29	974.44	D	UI	inf	+1	1	Okay , we decided to include voice recognition ,
+ES2006c.D.dialog-act.s9553330.92	974.44	982.93	D	UI	inf	+1	1	so to have the standard uh major buttons like on , off , um ch the channels and and then um volume
+ES2006c.D.dialog-act.s9553330.93	982.93	985.4	D	UI	inf	+1	1	and then the rest would be a menu on the screen .
+ES2006c.D.dialog-act.s9553330.94	985.92	991.36	D	UI	fra	+1	1	Um and I I also thought uh {vocalsound} if we want to keep it small and nice um
+ES2006c.D.dialog-act.s9553330.95	991.36	995.83	D	UI	ass	+1	1	and actually I I quite like the idea of a scroll a scrolling button ,
+ES2006c.D.dialog-act.s9553330.96	995.83	1003.53	D	UI	inf	+1	1	I thought it could be for for voice like , I dunno , it mm like on a um i like it used to be on Walkmans or something .
+28	ES2006c.elana.s.7	The marketing expert gives her presentation about user requirements and current trends.
+ES2006c.C.dialog-act.s9553330.95	1013.84	1015.27	C	PM	inf	+1	1	Okay , straight to trends ,
+ES2006c.B.dialog-act.s9553330.37	1073.29	1082.74	B	ME	inf	+1	1	Um so what I did was to search the internet to come up with market trends and you know what users are gonna be wanting in the the near future .
+ES2006c.B.dialog-act.s9553330.40	1085.04	1092.37	B	ME	inf	+1	1	Now , the first aspect is apparently twice as important as the second aspect , which is twice as important as the third a aspect .
+ES2006c.B.dialog-act.s9553330.41	1092.37	1097.59	B	ME	inf	+1	1	So , I mean the the easy to use thing is fairly low down on the {disfmarker}
+ES2006c.B.dialog-act.s9553330.42	1097.59	1101.03	B	ME	inf	+1	1	which I think given the target group is what you would expect , really .
+ES2006c.B.dialog-act.s9553330.43	1101.75	1104.42	B	ME	inf	+1	1	Um , you know , people want something new ,
+ES2006c.B.dialog-act.s9553330.44	1104.42	1106.88	B	ME	inf	+1	1	something technologically innovative and different ,
+ES2006c.B.dialog-act.s9553330.45	1106.88	1114.8	B	ME	inf	+1	1	so the whole idea with the L_C_D_s and the spinning and the colours and the voice recognition is quite like , quite the thing to go for .
+ES2006c.A.dialog-act.s9553330.148	1119.48	1126.43	A	ID	sug	+1	1	So um {vocalsound} uh maybe uh as you're discussing things , is it okay if we just uh keep highlighting things here ?
+ES2006c.A.dialog-act.s9553330.151	1130.79	1135.38	A	ID	ass	+1	1	so probably voice recognition is is kind of important , right ?
+ES2006c.C.dialog-act.s9553330.110	1135.74	1138.62	C	PM	sug	+1	1	And maybe the L_C_D_ and spinning {disfmarker}
+ES2006c.A.dialog-act.s9553330.154	1138.64	1140.36	A	ID	inf	+1	1	Okay , I I have a point about L_C_D_ ,
+ES2006c.A.dialog-act.s9553330.156	1143.3	1148.03	A	ID	inf	+1	1	W uh L_C_D_s are basically for feedback , right , to the user who's pressing buttons ,
+ES2006c.A.dialog-act.s9553330.157	1148.03	1150.18	A	ID	inf	+1	1	and the feedback can come through television itself ,
+ES2006c.A.dialog-act.s9553330.158	1150.18	1151.79	A	ID	el.ass	+1	1	so do we need an L_C_D_ on the remote ?
+ES2006c.B.dialog-act.s9553330.50	1152.224	1154.52	B	ME	inf	+1	1	{vocalsound} Depends how fast your television runs , really ,
+ES2006c.B.dialog-act.s9553330.52	1155.86	1158.89	B	ME	inf	+1	1	I mean we've got one of those um Telewest boxes
+ES2006c.B.dialog-act.s9553330.53	1158.89	1160.31	B	ME	inf	+1	1	and you put the number in the remote
+ES2006c.B.dialog-act.s9553330.58	1164.0	1165.98	B	ME	inf	+1	1	so i it actually takes quite a long time .
+ES2006c.B.dialog-act.s9553330.60	1169.0	1173.7	B	ME	inf	+1	1	so I think , you know , a screen on the remote would probably cut down your time on that .
+ES2006c.C.dialog-act.s9553330.114	1176.57	1181.58	C	PM	inf	+1	1	It it is also quite nice though to to have something here so you don't interrupt the picture on the screen ,
+ES2006c.B.dialog-act.s9553330.68	1194.24	1198.84	B	ME	sug	+1	1	But um I think maybe a way to do it would be a similar way to how you have your mobile phone , you know ,
+ES2006c.B.dialog-act.s9553330.69	1198.84	1200.1	B	ME	inf	+1	1	like you have the slidey ones
+ES2006c.B.dialog-act.s9553330.70	1200.1	1201.45	B	ME	inf	+1	1	and you have the flippy ones
+ES2006c.B.dialog-act.s9553330.72	1204.91	1208.27	B	ME	sug	+1	1	So you can have like what looks like a normal remote control , you know
+ES2006c.B.dialog-act.s9553330.73	1208.27	1209.98	B	ME	sug	+1	1	or like a minimalist remote control .
+ES2006c.B.dialog-act.s9553330.74	1209.98	1213.95	B	ME	inf	+1	1	So you got your buttons one to nine , your on and off and your volume on that
+ES2006c.B.dialog-act.s9553330.75	1213.95	1218.0	B	ME	sug	+1	1	and then if you want to mess about with it , you flip it open and ,
+8	ES2006c.elana.s.8	She shares that fruits and vegetables are popular , meaning curviness and assymetry are in.
+ES2006c.B.dialog-act.s9553330.81	1238.01	1241.9	B	ME	inf	+1	1	Okay , apparently , fruit and vegetables will be providing inspiration .
+ES2006c.B.dialog-act.s9553330.84	1245.6	1250.25	B	ME	inf	+1	1	{vocalsound} Um so these will be an important feature for clothes , shoes and furniture .
+ES2006c.B.dialog-act.s9553330.85	1250.25	1253.56	B	ME	inf	+1	1	So I mean , I'm taking this to mean , you know , curviness .
+ES2006c.B.dialog-act.s9553330.87	1255.52	1258.38	B	ME	inf	+1	1	'Cause you don't tend to get flat vegetables . You know ?
+ES2006c.C.dialog-act.s9553330.126	1257.82	1259.59	C	PM	sug	+1	1	and possibly even uneven ,
+ES2006c.B.dialog-act.s9553330.89	1259.89	1261.93	B	ME	sug	+1	1	bit of asymmetry and stuff .
+ES2006c.B.dialog-act.s9553330.90	1261.93	1268.5	B	ME	inf	+1	1	But that would be a good way to to get in the whole um R_S_I_ issue in there ,
+ES2006c.B.dialog-act.s9553330.92	1273.35	1278.19	B	ME	inf	+1	1	so you wanna {disfmarker} you curve it so that it's suitable for use with the right hand .
+3	ES2006c.elana.s.9	The group decides to use LCD screens to give the remote style.
+ES2006c.A.dialog-act.s9553330.169	1219.03	1222.79	A	ID	inf	+1	1	So now we seem to have a consensus that L_C_D_s are definitely the way to go
+ES2006c.C.dialog-act.s9553330.121	1222.56	1223.62	C	PM	ass	+1	1	Yeah , I think so .
+ES2006c.A.dialog-act.s9553330.170	1222.79	1223.936	A	ID	inf	+1	1	because of style and {disfmarker}
+19	ES2006c.elana.s.10	They discuss what material should be used , talk about how the surface of the case should look , and plan out the general user interface.
+ES2006c.B.dialog-act.s9553330.93	1279.68	1283.55	B	ME	inf	+1	1	, I'm not quite sure about the relevance of material will be spongy .
+ES2006c.C.dialog-act.s9553330.131	1283.74	1285.92	C	PM	inf	+1	1	Something a bit squishy and {disfmarker}
+ES2006c.D.dialog-act.s9553330.101	1287.3	1289.46	D	UI	sug	+1	1	So it could be like a rubbery {disfmarker}
+ES2006c.C.dialog-act.s9553330.133	1304.89	1306.36	C	PM	inf	+1	1	and it'd help if you drop it ,
+ES2006c.A.dialog-act.s9553330.184	1309.87	1316.1	A	ID	inf	+1	1	So if if we use uh latex cases , they won't allow us to use solar cells , as an energy source
+ES2006c.C.dialog-act.s9553330.137	1326.29	1333.35	C	PM	sug	+1	1	Or if we want to use the the latex , then we have to go with one of the other um power things .
+ES2006c.A.dialog-act.s9553330.186	1318.14	1328.088	A	ID	inf	+1	1	so um we could use {vocalsound} titanium , wood or plastic uh or uh {disfmarker}
+ES2006c.B.dialog-act.s9553330.100	1332.0	1335.21	B	ME	inf	+1	1	If it's made of rubber you could get the kinetic energy fairly easily there ,
+ES2006c.A.dialog-act.s9553330.191	1346.15	1349.1	A	ID	sug	+1	1	So probably double curved surface is the way to go ,
+ES2006c.A.dialog-act.s9553330.193	1351.75	1355.03	A	ID	sug	+1	1	Or or curved at one end and flat on the top ,
+ES2006c.B.dialog-act.s9553330.104	1362.77	1365.39	B	ME	inf	+1	1	You have to have a certain element of flatness , I think .
+ES2006c.A.dialog-act.s9553330.198	1371.93	1376.2	A	ID	ass	+1	1	singe single side curved or double side curved does not say too much , does it ?
+ES2006c.B.dialog-act.s9553330.113	1388.6	1392.81	B	ME	sug	+1	1	so I mean does curved one side mean one side is straight
+ES2006c.A.dialog-act.s9553330.204	1398.03	1402.91	A	ID	el.inf	+1	1	Di now did it say anywhere in your research material about this sliding stuff uh
+ES2006c.B.dialog-act.s9553330.114	1392.81	1397.59	B	ME	sug	+1	1	and , you know curved two sides means the whole thing is just a big curvy p thing ?
+ES2006c.A.dialog-act.s9553330.205	1402.91	1410.26	A	ID	inf	+1	1	because um {vocalsound} according to the information that I have , I think uh the onl only options that we have with the case is {disfmarker} are these three .
+ES2006c.A.dialog-act.s9553330.207	1415.19	1419.59	A	ID	inf	+1	1	It does not say anything about uh whether technically , you know , this this stuff is available at all .
+ES2006c.B.dialog-act.s9553330.117	1420.41	1425.44	B	ME	inf	+1	1	Uh it's it's more about the protecting the L_C_D_ , which I think is where it came from .
+ES2006c.B.dialog-act.s9553330.118	1425.44	1427.42	B	ME	inf	+1	1	But no , my research didn't tell me anything ,
+70	ES2006c.elana.s.11	After they make some decisions about the remote , the project manager closes the meeting by telling them what their tasks will be until the next meeting.
+ES2006c.C.dialog-act.s9553330.152	1445.78	1451.13	C	PM	inf	+1	2	Looking at what we've got , we we want an L_C_D_ display with a spinning wheel .
+ES2006c.A.dialog-act.s9553330.217	1456.91	1459.05	A	ID	el.inf	+1	1	hand dynamos are definitely out , right ?
+ES2006c.C.dialog-act.s9553330.156	1461.84	1466.79	C	PM	inf	+1	1	it's not {disfmarker} that's not streamlined and sexy , {vocalsound} having a having a wind up .
+ES2006c.A.dialog-act.s9553330.221	1467.58	1471.56	A	ID	inf	+1	1	kinetic energy does seem to have some kind of uh uh appeal ,
+ES2006c.B.dialog-act.s9553330.126	1473.037	1476.51	B	ME	inf	+1	1	{vocalsound} It's about the practicality of it really , isn't it ? You know ?
+ES2006c.A.dialog-act.s9553330.226	1478.87	1480.64	A	ID	inf	+1	1	this this thing will have to be tapped every time ,
+ES2006c.A.dialog-act.s9553330.227	1480.64	1483.67	A	ID	inf	+1	1	which which might be very frustrating for the user .
+ES2006c.C.dialog-act.s9553330.158	1483.524	1488.09	C	PM	inf	+1	1	{vocalsound} Depends how much how much movement it really needs .
+ES2006c.A.dialog-act.s9553330.231	1492.66	1494.35	A	ID	sug	+1	1	Okay , let's keep it option uh keep an option ,
+ES2006c.A.dialog-act.s9553330.237	1508.98	1511.18	A	ID	el.ass	+1	1	Wood , do you think wood will be a good idea ?
+ES2006c.B.dialog-act.s9553330.128	1519.76	1522.04	B	ME	inf	+1	1	I can't imagine a m wooden remote control .
+ES2006c.C.dialog-act.s9553330.167	1533.35	1541.536	C	PM	inf	+1	1	and given that we're we're looking at more spongy material preferences , I ha would think maybe rubber or plastic is more {disfmarker}
+ES2006c.B.dialog-act.s9553330.132	1546.71	1548.2	B	ME	inf	+1	1	I mean it's it's alright for a table ,
+ES2006c.B.dialog-act.s9553330.134	1551.0	1553.145	B	ME	inf	+1	1	And splinters and stuff and {disfmarker}
+ES2006c.B.dialog-act.s9553330.136	1574.88	1577.13	B	ME	inf	+1	2	You have to have some push-buttons , don't you ?
+ES2006c.D.dialog-act.s9553330.129	1576.85	1580.62	D	UI	sug	+1	2	I think for for the channel numb uh channel numbers you still need them , wouldn't you ?
+ES2006c.A.dialog-act.s9553330.256	1587.28	1592.12	A	ID	inf	+1	1	if you have an L_C_D_ display , then mm you can select almost everything on the L_C_D_ display .
+ES2006c.D.dialog-act.s9553330.135	1596.8	1604.13	D	UI	inf	+1	1	when we s um {vocalsound} discussed that we might like this flipping open thing , then I mean y you can use it as a normal remote control ,
+ES2006c.B.dialog-act.s9553330.142	1608.79	1618.29	B	ME	inf	+1	2	I think this is going back to the the graph at the beginning that I made , where , you know , the buttons that people use all the time , you want buttons for them and everything else menu-driven .
+ES2006c.B.dialog-act.s9553330.149	1646.72	1655.22	B	ME	inf	+1	1	I think the thing is , so if someone just wants to turn on their T_V_ and put on a channel , then it should be easier to use than any other remote ,
+ES2006c.B.dialog-act.s9553330.150	1655.22	1663.45	B	ME	inf	+1	1	and then if someone wants to , you know , change the contrast on their T_V_ and {disfmarker} they should be able to do that and it should be accessible ,
+ES2006c.D.dialog-act.s9553330.151	1699.05	1704.37	D	UI	inf	+1	1	So I think it {vocalsound} it doesn't make sense to have both like a scrolling and spinning thing ,
+ES2006c.C.dialog-act.s9553330.187	1707.28	1709.58	C	PM	inf	+1	2	Just spinning and not scrolling , I would say .
+ES2006c.B.dialog-act.s9553330.157	1718.13	1726.73	B	ME	ass	+1	1	But I mean the the thing with this whole {disfmarker} if y you're planning on making it out of rubber , on the basis that it's spongy , then I'm not sure how well a scrolling wheel would work .
+ES2006c.C.dialog-act.s9553330.190	1726.82	1736.64	C	PM	inf	+1	2	But if you've got a {disfmarker} if if you've got a flipped thing , effectively it's something that's curved on one side and flat on the other side , but you folded it in half .
+ES2006c.A.dialog-act.s9553330.278	1739.31	1743.12	A	ID	ass	+1	1	I'm not sure it'll be a good idea to construct the whole thing out of rubber .
+ES2006c.D.dialog-act.s9553330.160	1745.48	1747.54	D	UI	inf	+1	2	the case would be rubber and the the buttons ,
+ES2006c.C.dialog-act.s9553330.192	1743.19	1746.7	C	PM	inf	+1	1	No , I think it's just the casing rubber on the outside .
+ES2006c.A.dialog-act.s9553330.281	1751.66	1755.34	A	ID	sug	+1	1	Everything else in plastic or even titanium if we want to use it .
+ES2006c.B.dialog-act.s9553330.163	1755.25	1757.46	B	ME	sug	+1	1	Or maybe like interchangeable cases .
+ES2006c.B.dialog-act.s9553330.165	1762.49	1766.84	B	ME	inf	+1	1	but I have like a {disfmarker} {vocalsound} you know , obviously my iPod's not made of rubber ,
+ES2006c.B.dialog-act.s9553330.166	1766.84	1769.2	B	ME	inf	+1	1	but then I have a little rubber case that goes over the top of it
+ES2006c.B.dialog-act.s9553330.167	1769.2	1772.69	B	ME	inf	+1	1	and I can change the colour , theoretically , to match my outfit .
+ES2006c.B.dialog-act.s9553330.169	1779.79	1782.73	B	ME	inf	+1	2	I think the spinning wheel is definitely very now .
+ES2006c.A.dialog-act.s9553330.291	1793.28	1797.632	A	ID	inf	+1	1	{vocalsound} And uh colours can be provided with the case rather than {disfmarker}
+ES2006c.D.dialog-act.s9553330.167	1803.4	1807.79	D	UI	inf	+1	1	it was a a requirement that we use our um th the colours of our company ,
+ES2006c.D.dialog-act.s9553330.168	1807.79	1811.152	D	UI	el.inf	+1	1	so would it be like yellow , grey and black or something , or {disfmarker}
+ES2006c.B.dialog-act.s9553330.171	1811.91	1814.28	B	ME	inf	+1	1	That doesn't fit in with the whole vegetable theme though .
+ES2006c.C.dialog-act.s9553330.202	1814.96	1816.44	C	PM	sug	+1	1	Bananas . {vocalsound}
+ES2006c.B.dialog-act.s9553330.173	1817.99	1822.0	B	ME	sug	+1	1	but I mean do you think we could incorporate the colours of the company into the buttons
+ES2006c.B.dialog-act.s9553330.174	1822.0	1826.51	B	ME	sug	+1	2	and then make the colour of the main remote {vocalsound} the colour like vegetable colours , do you know ?
+ES2006c.B.dialog-act.s9553330.176	1827.97	1834.21	B	ME	sug	+1	2	I mean I suppose vegetable colours would be orange and green and some reds and um maybe purple
+ES2006c.B.dialog-act.s9553330.177	1834.21	1838.76	B	ME	sug	+1	1	and that and then you'd pick the buttons in company colours to to match with it .
+ES2006c.A.dialog-act.s9553330.296	1846.73	1851.28	A	ID	inf	+1	1	Uh since we're having L_C_D_s there there's no way that we're will be able to {disfmarker}
+ES2006c.A.dialog-act.s9553330.297	1851.28	1857.06	A	ID	inf	+1	1	um what we do need to consider , however , is that the price is going up for the ever every such thing that we are considering ,
+ES2006c.A.dialog-act.s9553330.298	1857.06	1860.82	A	ID	inf	+1	2	but since L_C_D_s seems to be uh a definite yes ,
+ES2006c.A.dialog-act.s9553330.300	1865.35	1866.83	A	ID	off	+1	1	So I'll rub off the other two .
+ES2006c.B.dialog-act.s9553330.179	1868.86	1873.856	B	ME	el.inf	+1	1	So are we discounting solar energy because rubber's gonna be used in there somewhere or {disfmarker}
+ES2006c.A.dialog-act.s9553330.309	1906.93	1910.17	A	ID	ass	+1	1	a although it does seem uh interesting .
+ES2006c.A.dialog-act.s9553330.313	1919.11	1924.28	A	ID	inf	+1	1	Uh okay , so r we understand this better now that uh the the speaker is for the feedback , right ?
+ES2006c.C.dialog-act.s9553330.221	1928.44	1934.36	C	PM	inf	+1	2	I think if we can if we can include them at not too much extra cost , then I'd put them in ,
+ES2006c.C.dialog-act.s9553330.227	1949.68	1956.36	C	PM	inf	+1	1	And the case is curved on one side , but then flat flat , so it's flipped into each other .
+ES2006c.A.dialog-act.s9553330.320	1952.64	1953.59	A	ID	inf	+1	2	Flat on the top .
+ES2006c.A.dialog-act.s9553330.326	2004.74	2011.43	A	ID	el.inf	+1	2	Uh um we we're definitely going in for voice recognition as well as L_C_D_s , mm .
+ES2006c.C.dialog-act.s9553330.237	2033.15	2038.33	C	PM	inf	+1	2	So we've basically worked out that we're going with a simple battery ,
+ES2006c.C.dialog-act.s9553330.238	2038.33	2041.59	C	PM	inf	+1	1	the advanced chip
+ES2006c.A.dialog-act.s9553330.308	1902.18	1906.93	A	ID	inf	+1	1	using the simple battery will be a safer option as compared to the kinetic energy one , I mean ,
+ES2006c.C.dialog-act.s9553330.206	1847.949	1850.97	C	PM	inf	+1	1	{vocalsound} We need the advanced {disfmarker} yeah .
+ES2006c.C.dialog-act.s9553330.239	2041.59	2049.74	C	PM	inf	+1	2	and a curved on one side case which is folded in on itself , um made out of rubber
+ES2006c.C.dialog-act.s9553330.240	2049.74	2053.11	C	PM	inf	+1	2	and the buttons are also rubber .
+ES2006c.B.dialog-act.s9553330.198	2098.74	2105.73	B	ME	inf	+1	1	You've maybe got , you know {disfmarker} {vocalsound} like if you're modelling on iPod you've got five buttons and a wheel ,
+ES2006c.B.dialog-act.s9553330.199	2105.73	2107.97	B	ME	inf	+1	1	and four of the buttons are in the wheel ,
+ES2006c.B.dialog-act.s9553330.200	2107.97	2110.69	B	ME	inf	+1	1	and the other one's the little bit inside the wheel ,
+ES2006c.C.dialog-act.s9553330.254	2112.66	2117.11	C	PM	inf	+1	1	Okay , so now we've got thirty minutes before our next meeting .
+ES2006c.C.dialog-act.s9553330.255	2117.11	2123.63	C	PM	inf	+1	2	In the meantime , the Industrial Designer over here is gonna work on the look and feel design ,
+ES2006c.C.dialog-act.s9553330.257	2126.33	2131.6	C	PM	inf	+1	2	Um the User Interface Designer will work on the user interface design
+ES2006c.C.dialog-act.s9553330.258	2131.6	2137.41	C	PM	inf	+1	2	and the Marketing Expert is going to work on product evaluation .
+ES2006c.C.dialog-act.s9553330.259	2137.41	2147.41	C	PM	inf	+1	2	And as well as that , the two designers are going to work together on our prototype following those instructions that we've just come up with using modelling clay
+ES2006c.C.dialog-act.s9553330.260	2147.41	2152.97	C	PM	inf	+1	2	and you will get extra instructions from your personal coach .
+ES2006c.C.dialog-act.s9553330.262	2153.86	2160.44	C	PM	inf	+1	1	And anyone who hasn't put their their presentation in the project documents folder , it would be good just so {disfmarker} in case we have to refer to it .

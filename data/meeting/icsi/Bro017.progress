@@ -1,0 +1,28 @@
+5	Bro017.s.12	OGI are looking at methods of making the initial estimations more robust to noise , though with little success.
+Bro017.B.dialogueact175	460.36	471.36	B	Professor	s^rt	+1	2	So what we are doing at OGI now is uh uh uh working basically on our parts which we I think a little bit neglected ,
+Bro017.B.dialogueact176	472.14	473.11	B	Professor	s	+1	1	like noise separation .
+Bro017.B.dialogueact177	474.12	484.6	B	Professor	fh|s	+1	1	Uh so we are looking in ways is {disfmarker} in uh which {disfmarker} uh with which we can provide better initial estimate of the mel spectrum basically ,
+Bro017.B.dialogueact178	485.37	488.1	B	Professor	s	+1	1	which would be a l uh , f more robust to noise ,
+Bro017.B.dialogueact179	488.1	490.17	B	Professor	s	+1	1	and so far not much uh success .
+10	Bro017.s.13	Most of their effort is now on TRAP recognition from temporal patterns.
+Bro017.B.dialogueact228	643.025	650.635	B	Professor	s	+1	2	And then most of the effort is uh now also aimed at this e e TRAP recognition .
+Bro017.B.dialogueact229	651.481	654.061	B	Professor	s^e	+1	1	This uh {disfmarker} this is this recognition from temporal patterns .
+Bro017.B.dialogueact238	662.97	670.94	B	Professor	fh|s	+1	1	but , what it is , is that normally what you do is that you recognize uh speech based on a shortened spectrum .
+Bro017.B.dialogueact241	671.644	677.514	B	Professor	s	+1	1	Essentially L P - LPC , mel cepstrum , uh , everything starts with a spectral slice .
+Bro017.B.dialogueact242	678.86	686.85	B	Professor	fh|s	+1	1	Uh so if you s So , given the spectrogram you essentially are sliding {disfmarker} sliding the spectrogram along the uh f frequency axis
+Bro017.B.dialogueact244	686.85	689.484	B	Professor	s^e	+1	1	and you keep shifting this thing , and you have a spectrogram .
+Bro017.B.dialogueact246	689.484	694.324	B	Professor	s	+1	1	So you can say " well you can also take the time trajectory of the energy at a given frequency " ,
+Bro017.B.dialogueact248	694.972	697.792	B	Professor	s	+1	1	and what you get is then , that you get a p {pause} vector .
+Bro017.B.dialogueact250	704.68	712.137	B	Professor	s	+1	1	Namely you can say i it {disfmarker} I will {disfmarker} I will say that this vector will eh {disfmarker} will {disfmarker} will describe the phoneme which is in the center of the vector .
+Bro017.B.dialogueact254	718.38	720.7	B	Professor	s^rt	+1	1	so it 's a very different vector , very different properties ,
+10	Bro017.s.14	ICSI members have almost finished their report , and have been trying some things out which has led to the conclusion that C-1 channel is not at all useful.
+Bro017.E.dialogueact576	1550.26	1553.16	E	PhD	qw.%--	+1	2	How 's your documentation or whatever
+Bro017.E.dialogueact577	1553.16	1554.78	E	PhD	qw	+1	1	it w what was it you guys were working on last week ?
+Bro017.C.dialogueact579	1555.8	1559.09	C	PhD	s^rt	+1	1	finally we {disfmarker} we 've not finished with this .
+Bro017.D.dialogueact581	1559.41	1560.34	D	PhD	s^ar	+1	1	More or less it 's finished .
+Bro017.D.dialogueact583	1561.66	1571.79	D	PhD	s^cs	+1	1	Ma - nec to need a little more time to improve the English , and maybe s to fill in something {disfmarker} some small detail , something like that ,
+Bro017.C.dialogueact588	1575.35	1580.93	C	PhD	s	+1	1	Well , we have a document that explain a big part of the experiments ,
+Bro017.E.dialogueact594	1588.39	1590.32	E	PhD	qw^rt	+1	2	So have you been running some new experiments ?
+Bro017.C.dialogueact598	1593.6	1603.81	C	PhD	s^rt	+1	1	We 've fff {comment} done some strange things like removing C - zero or C - one from the {disfmarker} {vocalsound} {vocalsound} the vector of parameters ,
+Bro017.C.dialogueact599	1604.07	1608.33	C	PhD	s	+1	1	and we noticed that C - one is almost not useful at all .
+Bro017.C.dialogueact600	1608.73	1611.9	C	PhD	s^rt	+1	1	You can remove it from the vector , it doesn't hurt .

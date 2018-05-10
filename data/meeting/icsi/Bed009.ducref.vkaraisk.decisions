@@ -1,0 +1,8 @@
+As the generator module is being translated to english , it was agreed that the best approach is to use the same grammar as in german , as this also produces syntactic trees.
+The same approach is going to be taken for the new parser release.
+A single system is going to be used for german and english with possible code extensions to be written to accommodate the differences.
+The new parser needs to be fast and robust in dealing with speech input.
+The Verbmobil and FORWISS chunk parsers can provide with a valuable paradigm.
+It was also agreed that the enhanced knowledge model that is going to be produced with the use of the belief-nets will need to integrate with parallel developments in the design of dialogues.
+Some of the terminology will also have to be adapted.
+Another meeting was scheduled to take place before the departure of the german visitors , in order to discuss future objectives of SmartKom.

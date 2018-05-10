@@ -1,0 +1,48 @@
+3	TS3012b.vkaraisk.s.30	Speech recognition and LCD screens could be added to the remote control , but they might be too expensive for this project.
+TS3012b.B.dialog-act.vkaraisk.10	301.83	303.85	B	UI	ass	+1	1	'Cause it sounds pretty expensive too .
+TS3012b.A.dialog-act.vkaraisk.227	996.83	998.38	A	PM	ass	+1	1	Speech recognition , I think it's very hard ,
+TS3012b.B.dialog-act.vkaraisk.204	2017.95	2022.7	B	UI	inf	+1	2	Oh , we're not going to be able to sell it for twenty-five then , with an L_C_D_ screen .
+1	TS3012b.vkaraisk.s.31	The industrial designer wondered whether the remote should be universal or programmable.
+TS3012b.C.dialog-act.vkaraisk.88	968.84	974.64	C	ID	el.sug	+1	1	then uh I'd I'd like to know now if we want the uh universal remote control or not ,
+1	TS3012b.vkaraisk.s.32	Symbols on remotes fade with time.
+TS3012b.B.dialog-act.vkaraisk.42	455.42	458.65	B	UI	inf	+1	1	Uh also symbols tend to fade after a while .
+2	TS3012b.vkaraisk.s.33	It may not be technically possible for a universal remote control to create menus for various advanced settings on the TV itself.
+TS3012b.B.dialog-act.vkaraisk.96	1204.72	1213.29	B	UI	el.inf	+1	1	Is it techni technically possible to uh {vocalsound} send a signal to a television and then pops up a menu ,
+TS3012b.C.dialog-act.vkaraisk.127	1218.23	1218.78	C	ID	inf	+1	1	I don't think so .
+5	TS3012b.vkaraisk.s.34	Different TVs have different functions incorporated in their built-in menus , making it hard to know in advance which buttons you can do without on the remote.
+TS3012b.A.dialog-act.vkaraisk.328	1280.01	1285.72	A	PM	inf	+1	1	but you can't you cannot take into consideration all the different brands of T_V_s .
+TS3012b.C.dialog-act.vkaraisk.229	1960.3	1963.0	C	ID	inf	+1	1	Because it needs to be configured in the television under the menu .
+TS3012b.C.dialog-act.vkaraisk.230	1963.0	1964.19	C	ID	inf	+1	1	If it isn't , then we cannot reach it .
+TS3012b.A.dialog-act.vkaraisk.575	1965.28	1968.18	A	PM	ass	+1	1	But I think most modern T_V_s have it in their menu .
+TS3012b.C.dialog-act.vkaraisk.232	1969.49	1972.86	C	ID	el.ass	+1	1	Uh isn't there a possibility to do research on that , so we know that for sure ?
+0	TS3012b.vkaraisk.s.35	It is difficult to organise or limit the number of buttons in a way that makes the remote easier to use.
+16	TS3012b.vkaraisk.s.36	The team also discussed extensively the positioning of various buttons.
+TS3012b.A.dialog-act.vkaraisk.384	1428.79	1430.106	A	PM	inf	+1	2	Think it's like this . {vocalsound}
+TS3012b.B.dialog-act.vkaraisk.130	1426.43	1431.9	B	UI	fra	+1	2	and since you're holding it like this , I suggest you put the channel up channel down and volume {disfmarker}
+TS3012b.A.dialog-act.vkaraisk.374	1405.31	1410.68	A	PM	sug	+1	2	I think that the {vocalsound} the buttons should be {disfmarker} the channel buttons should be {vocalsound} uh on their own .
+TS3012b.B.dialog-act.vkaraisk.139	1454.07	1457.51	B	UI	sug	+1	2	Uh maybe the menu button can go i in the middle .
+TS3012b.A.dialog-act.vkaraisk.393	1456.09	1456.81	A	PM	ass	+1	2	Yeah , in the middle .
+TS3012b.B.dialog-act.vkaraisk.144	1494.79	1497.69	B	UI	el.ass	+1	2	uh the power button somewhere over here ?
+TS3012b.A.dialog-act.vkaraisk.425	1540.72	1542.45	A	PM	sug	+1	2	I think it should be at the bottom somewhere .
+TS3012b.A.dialog-act.vkaraisk.423	1539.49	1539.89	A	PM	und	+1	2	Mute .
+TS3012b.D.dialog-act.vkaraisk.183	1561.911	1567.61	D	ME	sug	+1	2	{vocalsound} Around uh not uh not at top at the {disfmarker} around the volume selection .
+TS3012b.B.dialog-act.vkaraisk.180	1870.6	1873.59	B	UI	el.sug	+1	2	Where would we want the uh teletext button ?
+TS3012b.B.dialog-act.vkaraisk.182	1876.98	1878.51	B	UI	el.ass	+1	2	Do we put it somewhere over here ?
+TS3012b.B.dialog-act.vkaraisk.222	2262.63	2265.88	B	UI	el.ass	+1	2	Do we put the volume control and the channel control here ,
+TS3012b.D.dialog-act.vkaraisk.291	2269.16	2269.84	D	ME	ass	+1	2	In the middle .
+TS3012b.A.dialog-act.vkaraisk.674	2271.73	2275.06	A	PM	sug	+1	2	Maybe in a circle for example , like we {disfmarker} like in this example .
+TS3012b.B.dialog-act.vkaraisk.226	2280.31	2283.78	B	UI	el.ass	+1	2	but we do agree that we {vocalsound} keep this at the centre ,
+TS3012b.A.dialog-act.vkaraisk.679	2285.81	2288.02	A	PM	ass	+1	2	I think the channel button should be in the centre .
+4	TS3012b.vkaraisk.s.37	Using a charger for the remote may be too expensive.
+TS3012b.C.dialog-act.vkaraisk.170	1601.6	1605.92	C	ID	el.ass	+1	2	Shall we uh also look if it's possible to make a rechargeable remote ?
+TS3012b.A.dialog-act.vkaraisk.459	1624.26	1626.34	A	PM	inf	+1	1	I'm not sure y {vocalsound} I'm not sure it's {disfmarker} if it's expensive ,
+TS3012b.C.dialog-act.vkaraisk.187	1676.02	1677.19	C	ID	inf	+1	1	But I think that will cost a lot .
+TS3012b.A.dialog-act.vkaraisk.484	1716.13	1717.27	A	PM	inf	+1	1	I'm not sure if it costs a lot ,
+3	TS3012b.vkaraisk.s.38	Consumers claim they would pay more for a remote with LCD screen , but adding the component might be too expensive.
+TS3012b.D.dialog-act.vkaraisk.69	287.33	290.53	D	ME	sug	+1	2	And they want maybe an uh L_C_D_ screen
+TS3012b.D.dialog-act.vkaraisk.252	2003.43	2009.29	D	ME	inf	+1	2	Um they want to pay for an L_C_D_ screen and speech recognition .
+TS3012b.B.dialog-act.vkaraisk.204	2017.95	2022.7	B	UI	inf	+1	2	Oh , we're not going to be able to sell it for twenty-five then , with an L_C_D_ screen .
+3	TS3012b.vkaraisk.s.39	In the case where it is added , the issue would be whether to place it at the top or the bottom of the remote.
+TS3012b.D.dialog-act.vkaraisk.276	2170.7	2176.13	D	ME	ass	+1	1	If you're reading from top to bottom , I think it's better to put it uh at the top .
+TS3012b.A.dialog-act.vkaraisk.654	2201.29	2201.95	A	PM	inf	+1	1	I {disfmarker} I'm not sure .
+TS3012b.A.dialog-act.vkaraisk.662	2214.43	2216.35	A	PM	inf	+1	1	So we have three people saying it should be on top .

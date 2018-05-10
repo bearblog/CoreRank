@@ -1,0 +1,26 @@
+The focus of the meeting was on a presentation of the work done already on the building of the Bayes-net.
+The input layer deriving information from things like the user and situation models , feeds into a set of decision nodes , such as the Enter/View/Approach ( EVA ) endpoint.
+In any particular situation , most of the outputs will not be relevant to the given context.
+Therefore , they will either have to be pruned a posteriori , or only a subset of the possible decision nodes will be computed in each occasion.
+The latter option could could follow a binary search-tree approach and it could also be better in computational terms.
+In any case , on what basis the "winner" output is chosen is not clear.
+One suggestion was discussed: the particular constructions used can determine the pertinent decision ( output ) nodes.
+The complete prototype of the Bayes-net will be presented in the next meeting.
+After that , it will be possible to define interfaces and a dummy construction parser , in order to test and link modules together.
+The suggestion that the most appropriate decision node of the belief-net in each situation could be chosen as a function of what construction was used , was deemed unsuitable at this stage.
+There are many interdependencies between the output nodes that this approach could not take into account.
+The rest of the values for the Bayes-net nodes will be built in within the week.
+The finished prototype will be presented during the next meeting.
+Any set of inputs will provide either the whole range of output values of the Bayes-net or an a priori selection of those outputs.
+In both cases , what is needed is a way to single out the appropriate outputs for any given context.
+For example , in the case of a "where is" question , whether the prevalent output should be "Go-there" or "Info-on" or even a third option has to be computed somehow.
+In any case , there are many input values that have not been entered in the Bayes-net at this stage.
+Furthermore , no inputs for the Ontology and Discourse can be built in yet , as they involve research that will be carried out in the future.
+Finally , there has been a problem with adding probabilities in a net created with the Hugin software , but this should be overcome very shortly.
+The presented Bayes-net takes inputs from the Situation , User , Discourse and Ontology models.
+There are several values ( elements ) defined in each of these models.
+The inputs are fed into the belief-net , which , in turn , outputs the posterior probabilities for the values of all the decision nodes.
+These comprise "Go-there" , "EVA" , "Info-on" , "Location" , "Timing" , etc.
+At this stage , all the decision nodes are evenly weighted: regardless of the context , each output is trusted equally.
+Input and output node structure was presented in XML , as this is the format that will be used for the system.
+A large number of the value probabilities have already been set.

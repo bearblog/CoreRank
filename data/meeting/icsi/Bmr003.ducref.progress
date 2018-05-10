@@ -1,0 +1,11 @@
+Efforts are in progress to collect and transcribe 30-40 hours of Meeting Recorder data.
+The Transcriber tool is being used to do word-level transcriptions , and was reported to work well , when used with supplementary scripts , for specifying multiple speakers.
+Other levels of transcription being considered include marking stress , repairs , and false starts.
+A set of transcription conventions have been formulated for marking colloquial forms , the continuity of utterances , etc.
+A cost assessment was made for sending Meeting Recorder data to an external transcription service.
+It was agreed that hiring linguistics graduate students would be cheaper and allow the group to maintain greater control over the transcription process.
+Tentative pre-segmentation efforts will enable the automatic generation of phrase boundaries and speaker identity coding , and will be extendable for use at UW.
+Perl and XWaves scripts are available for extracting and aligning digits data.
+Other suggestions for future work included performing multi-channel speech/non-speech detection , and linking an ASR system to the Transcriber tool.
+The recording room electronics setup has been diagrammed and will take approximately one week to configure.
+It was suggested that such efforts will enable researchers at UW and other collaborating institutions to create their own recording setups more cheaply.

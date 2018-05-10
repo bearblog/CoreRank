@@ -1,0 +1,54 @@
+5	TS3003b.rdhillon.s.19	Cost of a touchscreen.
+TS3003b.C.dialog-act.vkaraisk.4	836.59	842.32	C	ID	ass	+1	2	I think if we are gonna use a touchscreen uh we're gonna go way above the twelve and a half Euros .
+TS3003b.B.dialog-act.vkaraisk.72	842.51	844.27	B	UI	ass	+1	2	N I I don't think so .
+TS3003b.B.dialog-act.vkaraisk.73	844.27	850.69	B	UI	sug	+1	2	Uh you got uh quite a cheap uh touchscreen . S um it's uh not uh in colour or something .
+TS3003b.A.dialog-act.vkaraisk.230	1859.2	1865.37	A	PM	ass	+1	2	Um I don't know if that will rise the cost too much ,
+TS3003b.C.dialog-act.vkaraisk.68	1865.97	1869.41	C	ID	inf	+1	2	um I think we'll have to choose between the docking station or the screen ,
+11	TS3003b.rdhillon.s.20	Whether to include teletext in the design despite the new requirement which indicates that the team is not to work with teletext.
+TS3003b.D.dialog-act.vkaraisk.112	1201.97	1208.63	D	ME	inf	+1	2	But I think if you're targeting people of forty plus , the chance that they will have a T_V_ with internet access
+TS3003b.D.dialog-act.vkaraisk.109	1189.52	1194.96	D	ME	inf	+1	2	'cause you're you're saying that teletext is gonna be an old feature
+TS3003b.D.dialog-act.vkaraisk.113	1209.76	1212.78	D	ME	inf	+1	2	within the next like twenty years is very slim .
+TS3003b.D.dialog-act.vkaraisk.114	1214.14	1221.33	D	ME	inf	+1	2	In addition people indicated that teletext simply was an important feature for the remote control .
+TS3003b.D.dialog-act.vkaraisk.115	1221.33	1225.43	D	ME	ass	+1	2	So I think it's pretty dumb to put no teletext feature on it .
+TS3003b.A.dialog-act.vkaraisk.150	1437.03	1440.55	A	PM	sug	+1	3	Uh I think teletext can be uh
+TS3003b.A.dialog-act.vkaraisk.151	1441.97	1451.34	A	PM	sug	+1	3	um can be a function as well . But only if uh if it won't higher the the cost ,
+TS3003b.B.dialog-act.vkaraisk.100	1459.03	1463.95	B	UI	inf	+1	2	But um deaf people need uh teletext for uh for subtitles .
+TS3003b.D.dialog-act.vkaraisk.143	1466.64	1469.71	D	ME	ass	+1	2	I think it'd definitely be a bad idea not to include teletext .
+TS3003b.A.dialog-act.vkaraisk.163	1481.67	1484.77	A	PM	ass	+1	2	I think that's a good idea as well , especially for the subtitles .
+TS3003b.A.dialog-act.vkaraisk.160	1470.57	1473.74	A	PM	el.ass	+1	2	Is anybody um really against teletext ?
+4	TS3003b.rdhillon.s.21	The user target group of adults age forty and up is quite small.
+TS3003b.D.dialog-act.vkaraisk.118	1235.33	1240.63	D	ME	ass	+1	2	Besides that , I think the market for forty plus is like pretty small .
+TS3003b.D.dialog-act.vkaraisk.119	1243.2	1248.73	D	ME	inf	+1	2	But I mean if I s if I see this , it's {disfmarker} I think we're just gonna go for another
+TS3003b.A.dialog-act.vkaraisk.120	1249.59	1251.07	A	PM	inf	+1	2	Standard remote .
+TS3003b.A.dialog-act.vkaraisk.129	1278.19	1289.92	A	PM	inf	+1	2	if you look in Holland at the whole generation of forty plus , fifty plus , it it's the the biggest share of the of the whole population now .
+5	TS3003b.rdhillon.s.22	What buttons and functions to include on the remote.
+TS3003b.A.dialog-act.vkaraisk.177	1566.54	1572.19	A	PM	el.inf	+1	2	But do you need the buttons for one to zero .
+TS3003b.D.dialog-act.vkaraisk.155	1572.58	1575.08	D	ME	inf	+1	2	Think if you're gonna include teletext you do .
+TS3003b.A.dialog-act.vkaraisk.181	1585.18	1587.97	A	PM	el.ass	+1	3	maybe we can implement the scroll button ?
+TS3003b.A.dialog-act.vkaraisk.182	1589.84	1591.54	A	PM	el.ass	+1	2	Or a joystick like ?
+TS3003b.D.dialog-act.vkaraisk.164	1654.01	1664.97	D	ME	ass	+1	3	But I don't think {disfmarker} I think if you're gonna make a remote control only to operate a T_V_ , you there's not much you can gain on um having as few buttons as possible .
+6	TS3003b.rdhillon.s.23	Whether to include a scroll button.
+TS3003b.A.dialog-act.vkaraisk.181	1585.18	1587.97	A	PM	el.ass	+1	3	maybe we can implement the scroll button ?
+TS3003b.A.dialog-act.vkaraisk.184	1594.5	1601.682	A	PM	inf	+1	2	Just look if you look at telephones . The Sony telephone has a scroll button which is very useful in searching names or {disfmarker}
+TS3003b.D.dialog-act.vkaraisk.160	1603.81	1610.89	D	ME	inf	+1	2	but um I don't think there are many T_V_s that can switch channels that fast .
+TS3003b.D.dialog-act.vkaraisk.161	1610.89	1618.99	D	ME	inf	+1	2	And so you would need like the T_V_ would need an a function where you can actually view all channels and scroll through it .
+TS3003b.C.dialog-act.vkaraisk.55	1629.27	1632.75	C	ID	inf	+1	2	If we're gonna focus on elderly people they'll have to adapt .
+TS3003b.C.dialog-act.vkaraisk.57	1635.48	1638.6	C	ID	sug	+1	2	So perhaps we should s stick to the basic layout .
+10	TS3003b.rdhillon.s.24	Whether to focus more on the layout of the buttons or the docking station.
+TS3003b.A.dialog-act.vkaraisk.193	1678.13	1680.82	A	PM	ass	+1	2	I think it's very important in the in the design .
+TS3003b.A.dialog-act.vkaraisk.194	1681.93	1687.63	A	PM	inf	+1	2	You can make a very fancy design uh with putting the buttons on the right places .
+TS3003b.D.dialog-act.vkaraisk.164	1654.01	1664.97	D	ME	ass	+1	3	But I don't think {disfmarker} I think if you're gonna make a remote control only to operate a T_V_ , you there's not much you can gain on um having as few buttons as possible .
+TS3003b.A.dialog-act.vkaraisk.205	1738.23	1744.34	A	PM	el.ass	+1	2	you suggest we could better um focus on for example the docking station .
+TS3003b.D.dialog-act.vkaraisk.181	1754.51	1758.17	D	ME	ass	+1	2	I think , mean we obviously need a good way to position all the buttons
+TS3003b.D.dialog-act.vkaraisk.183	1759.39	1761.53	D	ME	sug	+1	2	But I don't think we should spend very much time in that .
+TS3003b.A.dialog-act.vkaraisk.208	1764.56	1771.15	A	PM	el.inf	+1	2	Do you think the docking station will uh is allowed in the budget we have ?
+TS3003b.C.dialog-act.vkaraisk.59	1776.04	1778.81	C	ID	inf	+1	2	And if the remote stays rather small , it should be possible
+TS3003b.C.dialog-act.vkaraisk.63	1797.22	1799.02	C	ID	el.ass	+1	2	we're just gonna focus on the extras ?
+TS3003b.A.dialog-act.vkaraisk.217	1800.46	1801.12	A	PM	ass	+1	2	I think so .
+6	TS3003b.rdhillon.s.25	Whether the user target group should be people age 60 to 80.
+TS3003b.C.dialog-act.vkaraisk.46	1364.95	1372.49	C	ID	ass	+1	2	if we if we make a remote control just l with that idea in mind , we could make tons of money , I think .
+TS3003b.A.dialog-act.vkaraisk.256	1999.66	2006.87	A	PM	inf	+1	3	Because I think what we're going to design now is for people above sixty , maybe .
+TS3003b.A.dialog-act.vkaraisk.258	2011.35	2019.25	A	PM	sug	+1	2	If we want um a {gap} with uh for example the the telephone for elderly people , we can
+TS3003b.A.dialog-act.vkaraisk.259	2020.51	2022.52	A	PM	sug	+1	2	target the real elderly people .
+TS3003b.A.dialog-act.vkaraisk.263	2040.118	2045.35	A	PM	el.inf	+1	3	{gap} Now you're talking about sixty to eighty for example .
+TS3003b.D.dialog-act.vkaraisk.222	2048.3	2051.96	D	ME	sug	+1	2	But I'd have to look into that a little more .

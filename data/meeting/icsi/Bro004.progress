@@ -1,0 +1,79 @@
+17	Bro004.s.20	Speakers mn007 and fn002 have been running experiments.
+Bro004.D.dialogueact58	95.621	108.831	D	PhD	h|s^rt	+1	2	Uh so . {pause} uh {disfmarker} We {disfmarker} So {pause} As I was already said , we {disfmarker} we mainly focused on uh four kind of features .
+Bro004.D.dialogueact60	109.171	118.371	D	PhD	s^rt	+1	3	The PLP , the PLP with JRASTA , the MSG , and the MFCC from the baseline Aurora .
+Bro004.D.dialogueact62	122.382	126.942	D	PhD	s	+1	3	Uh , and we focused for the {disfmarker} the test part on the English and the Italian .
+Bro004.D.dialogueact63	129.558	133.778	D	PhD	fh|s.%--	+1	3	Um . We 've trained uh several neural networks on {disfmarker}
+Bro004.D.dialogueact64	134.508	139.988	D	PhD	s^rt	+1	3	so {disfmarker} on the TI - digits English {pause} and on the Italian data
+Bro004.D.dialogueact65	140.438	148.098	D	PhD	s	+1	3	and also on the broad uh {pause} English uh French and uh Spanish databases .
+Bro004.D.dialogueact67	156.525	168.055	D	PhD	s^rt	+1	2	and um , actually what we {disfmarker} we @ @ observed is that if the network is trained on the task data it works pretty well .
+Bro004.D.dialogueact127	321.601	324.251	D	PhD	s^rt	+1	3	The first testing is {pause} with task data {disfmarker}
+Bro004.D.dialogueact130	334.62	341.987	D	PhD	s	+1	3	The second test is trained on a single language um with broad database ,
+Bro004.D.dialogueact131	342.117	344.077	D	PhD	s^rt	+1	3	but the same language as the t task data .
+Bro004.D.dialogueact133	344.785	349.005	D	PhD	s^rt	+1	3	But for Italian we choose Spanish which {pause} we assume is close to Italian .
+Bro004.D.dialogueact134	349.725	355.343	D	PhD	s^rt	+1	3	The third test is by using , um the three language database
+Bro004.B.dialogueact138	358.803	360.673	B	Professor	qy^d.%--	+1	3	That 's including the w the {disfmarker} {pause} the {disfmarker}
+Bro004.B.dialogueact140	361.744	362.684	B	Professor	s^2.%--	+1	3	the one that it 's {disfmarker}
+Bro004.D.dialogueact141	362.6	362.8	D	PhD	s^aa	+1	3	Yeah .
+Bro004.A.dialogueact147	368.139	369.459	A	PhD	s^bu	+1	3	it 's the broad {pause} data .
+Bro004.D.dialogueact150	369.806	378.246	D	PhD	s	+1	3	And the fourth test is uh {pause} excluding from these three languages the language {pause} that is {pause} the task language .
+15	Bro004.s.21	Looking at
+different features , under different training conditions.
+Bro004.D.dialogueact60	109.171	118.371	D	PhD	s^rt	+1	3	The PLP , the PLP with JRASTA , the MSG , and the MFCC from the baseline Aurora .
+Bro004.D.dialogueact62	122.382	126.942	D	PhD	s	+1	3	Uh , and we focused for the {disfmarker} the test part on the English and the Italian .
+Bro004.D.dialogueact63	129.558	133.778	D	PhD	fh|s.%--	+1	3	Um . We 've trained uh several neural networks on {disfmarker}
+Bro004.D.dialogueact64	134.508	139.988	D	PhD	s^rt	+1	3	so {disfmarker} on the TI - digits English {pause} and on the Italian data
+Bro004.D.dialogueact65	140.438	148.098	D	PhD	s	+1	3	and also on the broad uh {pause} English uh French and uh Spanish databases .
+Bro004.D.dialogueact127	321.601	324.251	D	PhD	s^rt	+1	3	The first testing is {pause} with task data {disfmarker}
+Bro004.D.dialogueact130	334.62	341.987	D	PhD	s	+1	3	The second test is trained on a single language um with broad database ,
+Bro004.D.dialogueact131	342.117	344.077	D	PhD	s^rt	+1	3	but the same language as the t task data .
+Bro004.D.dialogueact133	344.785	349.005	D	PhD	s^rt	+1	3	But for Italian we choose Spanish which {pause} we assume is close to Italian .
+Bro004.D.dialogueact134	349.725	355.343	D	PhD	s^rt	+1	3	The third test is by using , um the three language database
+Bro004.B.dialogueact140	361.744	362.684	B	Professor	s^2.%--	+1	3	the one that it 's {disfmarker}
+Bro004.B.dialogueact138	358.803	360.673	B	Professor	qy^d.%--	+1	3	That 's including the w the {disfmarker} {pause} the {disfmarker}
+Bro004.D.dialogueact141	362.6	362.8	D	PhD	s^aa	+1	3	Yeah .
+Bro004.A.dialogueact147	368.139	369.459	A	PhD	s^bu	+1	3	it 's the broad {pause} data .
+Bro004.D.dialogueact150	369.806	378.246	D	PhD	s	+1	3	And the fourth test is uh {pause} excluding from these three languages the language {pause} that is {pause} the task language .
+4	Bro004.s.22	Moving from
+training with task data to broad data increases error rate by 10% , and
+moving to multiple languages increases a further 20-30%.
+Bro004.D.dialogueact157	386.454	398.704	D	PhD	s	+1	2	example {pause} uh when we go from TI - digits training to {pause} TIMIT training {pause} uh we lose {pause} uh around ten percent ,
+Bro004.D.dialogueact158	399.064	405.22	D	PhD	s	+1	2	uh . The error rate increase u of {disfmarker} of {disfmarker} of ten percent , relative .
+Bro004.D.dialogueact162	408.648	413.558	D	PhD	s	+1	2	And then when we jump to the multilingual data it 's uh it become worse
+Bro004.D.dialogueact168	425.72	427.55	D	PhD	s^aap	+1	2	Twenty to {disfmarker} to thirty percent further .
+6	Bro004.s.23	PLP with
+JRASTA better than just PLP on mismatched conditions , but slightly
+worse on well matched.
+Bro004.D.dialogueact331	801.261	803.261	D	PhD	s^rt	+1	1	So . This was for the PLP ,
+Bro004.D.dialogueact335	807.231	811.171	D	PhD	s.%--	+1	1	For the PLP with JRASTA the {disfmarker} {pause} the {disfmarker} we {disfmarker}
+Bro004.D.dialogueact336	811.291	820.051	D	PhD	s^rt	+1	1	This is quite the same {pause} tendency , {pause} with a slight increase of the error rate , {pause} uh if we go to {disfmarker} to TIMIT .
+Bro004.D.dialogueact337	820.841	824.241	D	PhD	s^rt	+1	1	And then it 's {disfmarker} it gets worse with the multilingual .
+Bro004.D.dialogueact339	828.919	832.639	D	PhD	s^rt	+1	1	There {disfmarker} there is a difference actually with {disfmarker} b between PLP and JRASTA
+Bro004.D.dialogueact340	832.639	844.559	D	PhD	s^rt	+1	1	is that {pause} JRASTA {pause} seems to {pause} perform better with the highly mismatched {pause} condition {pause} but slightly {disfmarker} slightly worse {pause} for the well matched condition .
+4	Bro004.s.24	Speaker fn002 is also looking at the HTK training , but does not yet
+have results.
+Bro004.B.dialogueact857	2355.32	2358.89	B	Professor	qy^rt	+1	1	Are there {disfmarker} is there {disfmarker} are there any H T K {pause} trainings {disfmarker} testings going on ?
+Bro004.E.dialogueact859	2358.17	2368.81	E	PhD	s	+1	1	I {disfmarker} I {disfmarker} I 'm trying the HTK with eh , {pause} PLP twelve on - line delta - delta and MSG filter {pause} together .
+Bro004.E.dialogueact862	2369.73	2370.74	E	PhD	s^aa^m	+1	1	The combination , yeah .
+Bro004.E.dialogueact863	2371.16	2373.18	E	PhD	s^df	+1	1	But I haven't result {vocalsound} at this moment .
+13	Bro004.s.25	Speaker mn007 is going to start work on creating broad phonetic
+categories based on various features , and combine this with original
+features like PLP.
+Bro004.D.dialogueact888	2400.04	2409.97	D	PhD	s	+1	1	And {pause} we {pause} plan to work also on the idea of using both {pause} features {pause} and net outputs .
+Bro004.D.dialogueact893	2427.22	2436.95	D	PhD	s^rt	+1	1	So we have um {pause} come up with um {pause} different kind of {pause} broad phonetic categories .
+Bro004.D.dialogueact894	2437.97	2442.28	D	PhD	s^rt	+1	1	And we have {disfmarker} Basically we have three {pause} types of broad phonetic classes .
+Bro004.D.dialogueact902	2462.76	2464.44	D	PhD	s^m	+1	1	Twenty - seven broad classes .
+Bro004.D.dialogueact936	2522.09	2526.49	D	PhD	s^rt	+1	1	So it 's {disfmarker} Well , it 's basically a standard net with fewer {pause} classes .
+Bro004.F.dialogueact943	2531.38	2532.86	F	Grad	s^2	+1	1	But including the features .
+Bro004.D.dialogueact948	2537.28	2547.24	D	PhD	s^df	+1	1	because Well , I believe the effect that {disfmarker} of {disfmarker} of too reducing too much the information is {pause} basically {disfmarker} basically what happens
+Bro004.B.dialogueact951	2548.07	2550.57	B	Professor	s^cs.%-	+1	1	But you think if you include that {pause} plus the other features ,
+Bro004.B.dialogueact970	2590.72	2599.49	B	Professor	qr^d^rt	+1	2	And then uh , just to remind me , all of that goes {pause} into {disfmarker} uh , that all of that is transformed by uh , uh , K - KL or something , or {disfmarker} ?
+Bro004.D.dialogueact974	2601.9	2604.38	D	PhD	s	+1	2	one single KL to transform everything
+Bro004.B.dialogueact988	2615.15	2616.78	B	Professor	s^bs.%--	+1	2	So there 's a question of whether you would {disfmarker}
+Bro004.B.dialogueact992	2619.43	2621.39	B	Professor	s	+1	2	Whether you would transform together or just one .
+Bro004.B.dialogueact994	2622.32	2623.53	B	Professor	s^cs	+1	2	Might wanna try it both ways .
+5	Bro004.s.26	As yet unsure how to combine the data however.
+Bro004.B.dialogueact970	2590.72	2599.49	B	Professor	qr^d^rt	+1	2	And then uh , just to remind me , all of that goes {pause} into {disfmarker} uh , that all of that is transformed by uh , uh , K - KL or something , or {disfmarker} ?
+Bro004.D.dialogueact974	2601.9	2604.38	D	PhD	s	+1	2	one single KL to transform everything
+Bro004.B.dialogueact988	2615.15	2616.78	B	Professor	s^bs.%--	+1	2	So there 's a question of whether you would {disfmarker}
+Bro004.B.dialogueact992	2619.43	2621.39	B	Professor	s	+1	2	Whether you would transform together or just one .
+Bro004.B.dialogueact994	2622.32	2623.53	B	Professor	s^cs	+1	2	Might wanna try it both ways .

@@ -1,0 +1,20 @@
+2	Bed008.s.23	A simulator of the set of influence links forming the belief-net was created and put up for discussion.
+Bed008.B.dialogueact29	350.819	357.819	B	Professor	s	+1	3	one of which is just lay out the influence structure of what we think influences what
+Bed008.B.dialogueact154	653.536	663.99	B	Professor	s	+1	1	this is actually a GUI to a simulator that will if we tell it all the right things we 'll wind up with a functioning belief - net at the other end .
+1	Bed008.s.24	Different sections of the analysis , such as the user model , the ontology and the discourse are represented as a layer of nodes each with its own EVA probabilities.
+Bed008.B.dialogueact303	1040.32	1050.94	B	Professor	fh|s^e	+1	2	uh which were the endpoint decision as seen from the uh user model as seen from the ontology and as seen from the discourse .
+1	Bed008.s.25	They form endpoints to which other nodes like Go-there , User_Budget , User_Thrift and Prosody feed into.
+Bed008.B.dialogueact302	1035.6	1039.01	B	Professor	s	+1	2	the way we had been designing this , there were three intermediate nodes
+1	Bed008.s.26	The second presentation concerned the set of computational rules that are to be used with the net.
+Bed008.B.dialogueact34	375.094	387.203	B	Professor	s^cs	+1	1	so but du we should sort of have all of the uh basic design of what influences what done before we decide exactly how to compute it .
+1	Bed008.s.27	The simple way to decide on the final output is the majority vote ( which E , V or A form the majority of the parent nodes' outputs ).
+Bed008.D.dialogueact1297	3640.17	3649.95	D	Grad	s	+1	1	So what uh I guess , what Jerry suggested earlier was basically that we , you know view these guys as voting
+1	Bed008.s.28	This assumes that all inputs are of equal importance.
+Bed008.B.dialogueact1325	3705.14	3710.6	B	Professor	s^bu	+1	1	S so this assumes symmetry and equal weights and all this sort of things , which may or may not be a good assumption ,
+1	Bed008.s.29	Alternatively , each input can be weighted in a fixed way.
+Bed008.D.dialogueact1371	3818.92	3823.97	D	Grad	s	+1	1	So the next possibility is that um we 've given just a single weight to each expert ,
+3	Bed008.s.30	A third option is to create a hidden variable that makes the decision of which of the inputs is more trusted in a particular situation.
+Bed008.D.dialogueact1373	3824.2	3832.32	D	Grad	s	+1	1	whereas it might be the case that um in certain situations one of the experts is more uh reliable and in certain situations the other expert is more reliable .
+Bed008.D.dialogueact1380	3854.29	3855.16	D	Grad	s	+1	2	This is a hidden variable .
+Bed008.D.dialogueact1382	3863.54	3867.99	D	Grad	s	+1	1	and what it does is it decides which of the experts is to be trusted in this particular situation .
+0	Bed008.s.31	The same variable can potentially also change the weighting of each input.

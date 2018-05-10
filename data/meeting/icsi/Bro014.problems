@@ -1,0 +1,44 @@
+3	Bro014.s.6	There was a conference call for the Aurora Project , but no one from ICSI was involved.
+Bro014.A.dialogueact211	439.39	441.68	A	PhD	s^rt	+1	2	There was a conference call this Tuesday .
+Bro014.A.dialogueact213	445.838	449.788	A	PhD	s^no	+1	2	I don't know yet the {disfmarker} {vocalsound} what happened {vocalsound} Tuesday ,
+Bro014.A.dialogueact214	449.788	456.646	A	PhD	s	+1	3	but {vocalsound} the points that they were supposed to discuss is still , {vocalsound} uh , things like {vocalsound} the weights ,
+33	Bro014.s.7	Not only are the group unsure what if anything was decided , but project changes are being considered including changing the baseline and improvement weighting , though everyone has their own opinion on these matters.
+Bro014.B.dialogueact222	464.68	468.85	B	Professor	qw^rt	+1	1	Do you know who was {disfmarker} who was {disfmarker} since we weren't in on it , uh , do you know who was in from OGI ?
+Bro014.A.dialogueact214	449.788	456.646	A	PhD	s	+1	3	but {vocalsound} the points that they were supposed to discuss is still , {vocalsound} uh , things like {vocalsound} the weights ,
+Bro014.A.dialogueact225	471.66	472.13	A	PhD	s^no	+1	1	I have no idea .
+Bro014.A.dialogueact234	478.802	487.045	A	PhD	s	+1	1	So the points were the {disfmarker} the weights {disfmarker} how to weight the different error rates {vocalsound} that are obtained from different language and {disfmarker} and conditions .
+Bro014.A.dialogueact236	489.738	492.128	A	PhD	s	+1	1	it 's not clear that they will keep the same kind of weighting .
+Bro014.A.dialogueact239	495.751	499.041	A	PhD	s.%--	+1	1	Some people are arguing that it would be better to have weights on
+Bro014.A.dialogueact241	500.692	504.232	A	PhD	s	+1	1	well , to {disfmarker} to combine error rates {pause} before computing improvement .
+Bro014.A.dialogueact256	542.565	547.017	A	PhD	s.%--	+1	1	And so , perhaps they will change the weights to {disfmarker}
+Bro014.B.dialogueact263	557.923	560.643	B	Professor	s	+1	1	Well , I mean , the fact that it 's inconsistent is an obvious mistake .
+Bro014.B.dialogueact283	589.049	596.689	B	Professor	qr	+1	1	But the question is , do you average the relative improvements {pause} or do you average the error rates and take the relative improvement maybe of that ?
+Bro014.B.dialogueact286	597.357	600.667	B	Professor	s	+1	1	And the thing is it 's not just a pure average because there are these weightings .
+Bro014.B.dialogueact307	632.789	636.254	B	Professor	s.%--	+1	1	It 's just when you {disfmarker} when you get all done , I think that they pro
+Bro014.B.dialogueact310	637.404	644.235	B	Professor	s	+1	1	but I think they started off this process with the notion that {vocalsound} you should be {pause} significantly better than the previous standard .
+Bro014.B.dialogueact313	646.2	648.04	B	Professor	s	+1	1	so they said " how much is significantly better ?
+Bro014.B.dialogueact315	648.5	653.636	B	Professor	s	+1	1	And {disfmarker} and so they said " well , {vocalsound} you know , you should have half the errors , " or something , " that you had before " .
+Bro014.B.dialogueact323	657.332	658.372	B	Professor	s.%--	+1	1	But it does seem like
+Bro014.B.dialogueact324	659.01	661.66	B	Professor	s^r	+1	1	i i it does seem like it 's more logical to combine them first
+Bro014.A.dialogueact332	667.744	670.384	A	PhD	s	+1	1	But there is this {disfmarker} this {disfmarker} is this still this problem of weights .
+Bro014.A.dialogueact333	670.384	674.774	A	PhD	s^rt	+1	1	When {disfmarker} when you combine error rate it tends to {pause} give more importance to the difficult cases ,
+Bro014.A.dialogueact337	681.116	691.062	A	PhD	s^e	+1	1	Some people think that {vocalsound} it 's more important to look at {disfmarker} {vocalsound} to have ten percent imp relative improvement on {pause} well - matched case than to have fifty percent on the m mismatched ,
+Bro014.A.dialogueact338	691.452	695.911	A	PhD	s^e	+1	1	and other people think that it 's more important to improve a lot on the mismatch
+Bro014.C.dialogueact340	696.8	701.08	C	PhD	s	+1	1	It sounds like they don't really have a good idea about what the final application is gonna be .
+Bro014.B.dialogueact366	759.434	763.504	B	Professor	s	+1	1	I mean , they don they {disfmarker} they don't {disfmarker} they don't really {pause} know , I think .
+Bro014.B.dialogueact401	812.65	823.235	B	Professor	s	+1	1	So the argument for that being the {disfmarker} the {disfmarker} the more important thing , {vocalsound} is that you 're gonna try and do that , {vocalsound} but you wanna see how badly it deviates from that when {disfmarker} when {disfmarker} when the , uh {disfmarker} it 's a little different .
+Bro014.B.dialogueact413	834.249	837.789	B	Professor	s	+1	1	The opposite argument is you 're never really gonna have a good sample of all these different things .
+Bro014.B.dialogueact500	1052.01	1058.31	B	Professor	s	+1	1	I gather that in these meetings it 's {disfmarker} it 's really tricky to make anything {vocalsound} ac {vocalsound} make any {comment} policy change
+Bro014.B.dialogueact501	1058.31	1062.57	B	Professor	s^df	+1	1	because {vocalsound} {vocalsound} everybody has {disfmarker} has , uh , their own opinion
+Bro014.A.dialogueact510	1069.98	1073.81	A	PhD	s	+1	1	but there is probably a {disfmarker} a big change that will {vocalsound} be made
+Bro014.A.dialogueact511	1073.81	1077.9	A	PhD	s	+1	1	is that the {disfmarker} the baseline {disfmarker} th they want to have a new baseline , perhaps ,
+Bro014.A.dialogueact514	1083.43	1092.86	A	PhD	s	+1	1	And apparently , {vocalsound} uh , some people are pushing to still keep this fifty percent number .
+Bro014.A.dialogueact515	1092.86	1097.37	A	PhD	s	+1	1	So they want {vocalsound} to have at least fifty percent improvement on the baseline ,
+Bro014.B.dialogueact530	1126.42	1127.38	B	Professor	qw^rt	+1	1	So whose VAD
+Bro014.A.dialogueact532	1128.94	1130.29	A	PhD	h|s	+1	1	Uh , they didn't decide yet .
+5	Bro014.s.8	The group needs more female voices in the Meeting Recorder data , though fn002 does not consider herself very suitable.
+Bro014.B.dialogueact1468	2881.82	2883.64	B	Professor	s^tc	+1	1	and {pause} he 's been doing all the talking
+Bro014.B.dialogueact1471	2886.61	2887.84	B	Professor	s	+1	1	This is {disfmarker} this by the way a bad thing .
+Bro014.B.dialogueact1472	2887.84	2890.98	B	Professor	s^df	+1	1	We 're trying to get , um , m more female voices in this record as well .
+Bro014.B.dialogueact1474	2892.41	2894.85	B	Professor	s^co	+1	1	Make sur make sure Carmen {vocalsound} talks as well .
+Bro014.F.dialogueact1480	2903.67	2904.07	F	PhD	s^no	+1	1	I don't know .

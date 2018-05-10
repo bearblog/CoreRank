@@ -1,0 +1,7 @@
+Although the data collection test went well and it was decided to hire the "wizard" , there are minor amendments in the procedure to be carried out ( shortenting the preparatory reading , numbering tasks etc ).
+A presentation of the data collection design should be included in the forthcoming meeting with other research groups , along with some account of the system design and the use of belief-nets.
+The structure of the latter was a major issue during the meeting.
+Their input vector is to be provided by information extracted from the various modules of the system , such as the ontology and discourse history , using standard rule-based methods.
+The output action essentially provides additional semantic parameters for the X-schema , and , in turn , may trigger the collection of more features from the data.
+The feature extraction could be carried out by a software tool checking object ( feature ) trees and filling them with appropriate values.
+For this concept to be put to work , further refinement of the belief-net variables is necessary , with particular attention on the combinatorics involved.

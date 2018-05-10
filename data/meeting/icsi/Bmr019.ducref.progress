@@ -1,0 +1,11 @@
+Good recognition performance was achieved with the lapel microphones.
+The recognizer performed well on time-aligned segments labelled as 'non-overlap' ( i.e . one person talking ) , while segments labelled as 'overlap' ( i.e . multiple speakers talking at the same time ) yielded poor results.
+Future recognition efforts will include looking at reverberation.
+Forced alignment improvements were gained by examining the types of errors generated and making the necessary adjustments.
+More accurate alignments were achieved by significantly increasing the pruning value.
+Future alignment efforts will include cloning the reject model , and adapting it to both the foreground and background speaker.
+Members of the group will also compare Meeting Recorder data with other corpora ( e.g . Switchboard ) to determine whether speaker overlap is a feature that is more specific to meetings versus other modes of spoken interaction.
+A cursory analysis of background speech revealed that backchannels frequently occurred after a question was asked.
+Backchannels also featured a high proportion of 'yeahs' and a substantially fewer 'uh-huhs'.
+Several group members are preparing Eurospeech submissions.
+Speakers fe016 and mn017 are preparing a paper about the 'spurt' format , wherein spurts from individual channels---i.e . continuous speech regions delineated by pauses---will be extracted , merged with alignments from different channels , and time-aligned.

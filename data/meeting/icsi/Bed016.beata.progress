@@ -1,0 +1,11 @@
+0	Bed016.s.11	Speaker mn015 had submitted a preliminary version of his thesis proposal to other members of the group.
+2	Bed016.s.12	He is scheduled to present his proposal to various research centres in Europe.
+Bed016.C.dialogueact209	398.65	404.668	C	Grad	s	+1	0	That 's when I 'm meeting with Wolfgang Wahlster to sell him this idea .
+Bed016.C.dialogueact213	413.73	424.24	C	Grad	s^rt	+1	2	Then I 'm also going to present a little talk at EML , about what we have done here
+6	Bed016.s.13	He had already implemented a tablet-based parser and a generational outputter.
+Bed016.F.dialogueact237	506.4	507.35	F	Grad	s	+1	1	Oh , you 've got the parser done .
+Bed016.C.dialogueact239	509.45	512.05	C	Grad	s	-1	0	That 's the {disfmarker} not the construction parser .
+Bed016.C.dialogueact241	512.13	515.59	C	Grad	s^e^rt	-1	0	That 's the , uh , tablet - based parser ,
+Bed016.A.dialogueact242	513.33	513.93	A	Grad	s^2	-1	0	Easy parser .
+Bed016.C.dialogueact245	517.44	518.89	C	Grad	s	+1	1	the generation outputter .
+Bed016.C.dialogueact248	520.19	520.75	C	Grad	s^aap	-1	0	That 's done .

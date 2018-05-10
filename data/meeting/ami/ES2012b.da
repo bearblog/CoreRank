@@ -1,0 +1,819 @@
+ES2012b.B.dialog-act.vkaraisk.1	37.296	38.864	B	ID	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.1	44.37	44.63	A	PM	stl	-1	0	Okay ,
+ES2012b.A.dialog-act.vkaraisk.2	44.63	48.62	A	PM	be.pos	+1	1	welcome to the second meeting of this uh design group .
+ES2012b.A.dialog-act.vkaraisk.3	49.32	59.24	A	PM	off	+1	1	Um {vocalsound} I'll briefly go through the uh notes of the of the last meeting
+ES2012b.A.dialog-act.vkaraisk.4	64.11	67.16	A	PM	inf	-1	0	uh just done in in note form
+ES2012b.A.dialog-act.vkaraisk.5	67.16	69.82	A	PM	inf	-1	0	and I haven't attributed anything to individuals ,
+ES2012b.A.dialog-act.vkaraisk.6	69.82	73.46	A	PM	inf	-1	0	because we're working strictly as a team here
+ES2012b.A.dialog-act.vkaraisk.7	73.46	77.27	A	PM	inf	-1	0	and uh n nobody's working equally ,
+ES2012b.C.dialog-act.vkaraisk.1	75.73	75.97	C	UI	be.pos	-1	0	Sorry .
+ES2012b.A.dialog-act.vkaraisk.8	77.27	81.19	A	PM	stl	-1	0	so uh . Um
+ES2012b.A.dialog-act.vkaraisk.9	81.19	88.03	A	PM	inf	+1	1	we we s we saw that the the problems with existing remote controls were the uh b a boring shape and boring colour .
+ES2012b.A.dialog-act.vkaraisk.10	89.32	98.04	A	PM	inf	+1	1	Um and and we s we saw that the um what we needed to do was to to make sure the device um controls several items ,
+ES2012b.A.dialog-act.vkaraisk.11	98.04	99.14	A	PM	inf	+1	1	that switching was easy ,
+ES2012b.A.dialog-act.vkaraisk.12	100.07	104.82	A	PM	inf	+1	1	that you shouldn't need to point the thing at uh anything in particular ,
+ES2012b.A.dialog-act.vkaraisk.13	104.82	110.3	A	PM	inf	+1	1	um that it need to be contoured to make it interesting ,
+ES2012b.A.dialog-act.vkaraisk.14	110.3	113.67	A	PM	inf	+1	1	that the keys might be concave ,
+ES2012b.A.dialog-act.vkaraisk.15	113.67	118.18	A	PM	inf	-1	0	simply because that hasn't been done before that we know of .
+ES2012b.A.dialog-act.vkaraisk.16	118.18	120.5	A	PM	inf	+1	1	Um should have interchangeable fascias
+ES2012b.A.dialog-act.vkaraisk.17	120.5	122.41	A	PM	inf	-1	0	so people can personalise it ,
+ES2012b.A.dialog-act.vkaraisk.18	122.41	123.63	A	PM	inf	+1	1	um illuminated
+ES2012b.A.dialog-act.vkaraisk.19	123.63	125.97	A	PM	inf	-1	0	so that people can see it in dark rooms .
+ES2012b.A.dialog-act.vkaraisk.20	125.97	131.94	A	PM	inf	+1	1	Um and that people might want it as as {disfmarker} in addition to their existing remote controls .
+ES2012b.A.dialog-act.vkaraisk.21	131.94	140.6	A	PM	inf	-1	0	Um {vocalsound} and that it sh it should just always work , whenever you uh um mm uh use it .
+ES2012b.A.dialog-act.vkaraisk.22	140.6	142.32	A	PM	inf	+1	1	And that it shouldn't be too small ,
+ES2012b.A.dialog-act.vkaraisk.23	142.32	145.97	A	PM	inf	+1	1	mm that it it gets lost . Um .
+ES2012b.A.dialog-act.vkaraisk.24	148.256	158.86	A	PM	stl	-1	0	{gap} Now uh uh
+ES2012b.A.dialog-act.vkaraisk.25	158.86	162.34	A	PM	off	+1	1	I'll shortly ask for for three three presentations .
+ES2012b.A.dialog-act.vkaraisk.26	162.34	168.52	A	PM	off	+1	1	Uh before I do that , however , I will go through some new project requirements
+ES2012b.A.dialog-act.vkaraisk.27	168.52	171.77	A	PM	inf	+1	1	that um {disfmarker} the the management have placed on us
+ES2012b.A.dialog-act.vkaraisk.28	171.77	179.0	A	PM	ass	-1	0	and uh will be challenging in terms of what we discussed at the first meeting .
+ES2012b.A.dialog-act.vkaraisk.29	179.0	185.86	A	PM	inf	+1	1	Um the uh the ma the management has had it's own thoughts on this
+ES2012b.A.dialog-act.vkaraisk.30	185.86	191.49	A	PM	inf	+1	1	and uh the they don't necessarily agree with with what we uh we thought .
+ES2012b.A.dialog-act.vkaraisk.31	191.49	193.56	A	PM	fra	-1	0	Um and and then we'll {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.32	193.56	200.64	A	PM	sug	-1	0	as a result of that we will then talk through the the functions that we see the the device um actually b carrying out ,
+ES2012b.A.dialog-act.vkaraisk.33	200.64	204.44	A	PM	inf	-1	0	and we have uh forty minutes to do this in
+ES2012b.A.dialog-act.vkaraisk.34	204.44	205.056	A	PM	fra	-1	0	and I uh {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.35	212.02	219.29	A	PM	stl	-1	0	Anyway . Okay . Now ,
+ES2012b.A.dialog-act.vkaraisk.36	219.29	233.89	A	PM	inf	+1	2	the n the new requirements are um the the management team see that um teletext is no longer of any importance given the uh the rise of the internet .
+ES2012b.A.dialog-act.vkaraisk.37	233.89	237.8	A	PM	inf	+1	2	Um and and they want it only to cover televisions .
+ES2012b.A.dialog-act.vkaraisk.38	238.89	240.08	A	PM	stl	-1	0	Um now ,
+ES2012b.A.dialog-act.vkaraisk.39	240.08	243.11	A	PM	ass	+1	1	what is not q quite clear from their directive is
+ES2012b.A.dialog-act.vkaraisk.40	243.11	247.08	A	PM	el.inf	+1	1	whether they mean th they don't want it to cover teletext
+ES2012b.A.dialog-act.vkaraisk.41	247.08	256.03	A	PM	inf	+1	1	or whether they don't want it to cover , you know , videos , D_V_D_s , um satellite boxes ,
+ES2012b.A.dialog-act.vkaraisk.42	256.03	262.2	A	PM	inf	+1	1	which uh {disfmarker} I mean we saw as being fundamental to the uh to the exercise .
+ES2012b.A.dialog-act.vkaraisk.43	262.2	266.95	A	PM	inf	+1	1	The um the actual wording of the directive is that it should cover television only .
+ES2012b.A.dialog-act.vkaraisk.44	267.69	275.85	A	PM	sug	-1	0	Um and on that basis um I I think we we need to bear that in mind ,
+ES2012b.A.dialog-act.vkaraisk.45	275.85	288.48	A	PM	inf	-1	0	um but possibly uh keep at the backs of our minds that the reality that people even when they uh no longer {disfmarker} they don't look at teletext anymore , they certainly do look at other things .
+ES2012b.A.dialog-act.vkaraisk.46	288.48	295.49	A	PM	inf	+1	2	Um {vocalsound} the device has to incorporate the company logo and colours .
+ES2012b.A.dialog-act.vkaraisk.47	295.49	303.46	A	PM	inf	+1	1	Um the the logo uh being at b the bottom of the screen there , the the the two R_s in grey against uh a yellow background .
+ES2012b.A.dialog-act.vkaraisk.48	304.25	305.13	A	PM	stl	-1	0	Um now
+ES2012b.A.dialog-act.vkaraisk.49	305.13	312.74	A	PM	sug	+1	1	this doesn't {vocalsound} necessarily mean that we have to give up some of our ideas about making it attractive to the t to the market .
+ES2012b.A.dialog-act.vkaraisk.50	312.74	317.92	A	PM	inf	-1	0	But uh do do introduce some some constraints as to how we might do that .
+ES2012b.A.dialog-act.vkaraisk.51	317.92	320.5	A	PM	sug	-1	0	Um it also has to be simple ,
+ES2012b.A.dialog-act.vkaraisk.52	320.5	323.46	A	PM	inf	-1	0	which to some extent goes along w with the first one ,
+ES2012b.A.dialog-act.vkaraisk.53	323.46	325.64	A	PM	inf	-1	0	and that {disfmarker} we've already said that it must be simple
+ES2012b.A.dialog-act.vkaraisk.54	325.64	327.99	A	PM	inf	-1	0	'cause that's what people want anyway .
+ES2012b.A.dialog-act.vkaraisk.55	327.99	333.71	A	PM	inf	+1	2	Um but they also want it to be simple to get it to the market quickly ,
+ES2012b.A.dialog-act.vkaraisk.56	333.71	339.27	A	PM	inf	-1	0	which um mm {vocalsound} uh is is is their choice ,
+ES2012b.A.dialog-act.vkaraisk.57	339.27	346.11	A	PM	sug	+1	1	but uh um we we need to talk that through .
+ES2012b.A.dialog-act.vkaraisk.58	346.11	352.45	A	PM	stl	-1	0	Um okay , so uh
+ES2012b.A.dialog-act.vkaraisk.59	357.14	359.54	A	PM	off	-1	0	after the meeting it'll be summarised
+ES2012b.A.dialog-act.vkaraisk.60	359.54	359.88	A	PM	off	-1	0	and uh
+ES2012b.B.dialog-act.vkaraisk.2	360.768	361.676	B	ID	fra	-1	0	{vocalsound}
+ES2012b.C.dialog-act.vkaraisk.2	361.096	361.99	C	UI	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.61	361.63	365.77	A	PM	off	-1	0	um notes sent out and uh etcetera .
+ES2012b.A.dialog-act.vkaraisk.62	365.77	366.95	A	PM	stl	-1	0	Okay , so {vocalsound}
+ES2012b.A.dialog-act.vkaraisk.63	366.95	372.29	A	PM	inf	-1	0	we'll first of all mm have individual reports from everybody .
+ES2012b.A.dialog-act.vkaraisk.64	372.29	375.44	A	PM	fra	-1	0	Um again I {vocalsound} {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.65	375.44	378.26	A	PM	inf	-1	0	there is no order of precedence here
+ES2012b.A.dialog-act.vkaraisk.67	378.26	384.94	A	PM	el.sug	-1	0	um so I I I'll leave it up to you to {disfmarker} who who who thinks they would like to go go first ?
+ES2012b.D.dialog-act.vkaraisk.1	388.13	390.386	D	ME	off	-1	0	Uh I don't mind . {gap}
+ES2012b.A.dialog-act.vkaraisk.68	389.67	389.74	A	PM	fra	-1	0	P
+ES2012b.A.dialog-act.vkaraisk.69	389.74	390.52	A	PM	ass	-1	0	fine .
+ES2012b.D.dialog-act.vkaraisk.2	392.76	394.06	D	ME	el.ass	-1	0	Uh can I steal the cable ?
+ES2012b.A.dialog-act.vkaraisk.70	394.07	394.48	A	PM	be.pos	-1	0	Oh sorry ,
+ES2012b.A.dialog-act.vkaraisk.71	394.48	395.08	A	PM	ass	-1	0	you can indeed .
+ES2012b.D.dialog-act.vkaraisk.3	399.66	400.05	D	ME	be.pos	-1	0	Cheers .
+ES2012b.A.dialog-act.vkaraisk.72	401.499	424.034	A	PM	fra	-1	0	{vocalsound} {vocalsound} {vocalsound}
+ES2012b.D.dialog-act.vkaraisk.4	440.769	442.47	D	ME	fra	-1	0	{vocalsound} I got a {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.5	442.47	443.61	D	ME	el.inf	-1	0	how do I start there ?
+ES2012b.A.dialog-act.vkaraisk.73	444.07	444.37	A	PM	stl	-1	0	Oh ,
+ES2012b.A.dialog-act.vkaraisk.74	444.37	449.54	A	PM	sug	-1	0	if you click on the um uh the one that that looks like a projection screen ,
+ES2012b.A.dialog-act.vkaraisk.75	449.54	449.63	A	PM	ass	-1	0	no
+ES2012b.A.dialog-act.vkaraisk.76	449.63	451.19	A	PM	sug	-1	0	the one to the right of that .
+ES2012b.A.dialog-act.vkaraisk.77	451.19	451.44	A	PM	inf	-1	0	That one .
+ES2012b.D.dialog-act.vkaraisk.6	450.78	452.82	D	ME	el.inf	-1	0	That one .
+ES2012b.D.dialog-act.vkaraisk.7	452.82	454.12	D	ME	be.pos	-1	0	Cool .
+ES2012b.D.dialog-act.vkaraisk.8	454.12	454.27	D	ME	stl	-1	0	Well
+ES2012b.D.dialog-act.vkaraisk.9	454.27	462.18	D	ME	inf	+1	1	these are functionality requirements from the {disfmarker} our our guys down in the the research lab .
+ES2012b.D.dialog-act.vkaraisk.10	462.18	462.74	D	ME	inf	+1	1	Took hundred people
+ES2012b.D.dialog-act.vkaraisk.11	462.74	468.62	D	ME	inf	+1	1	and covered all the aspects of what um is needed by people and what they want to see .
+ES2012b.D.dialog-act.vkaraisk.14	471.42	485.73	D	ME	inf	+1	1	Um {vocalsound} everything kinda from functionality and how individual functions are {disfmarker} how mu how how often they're used and how much their necessary and stuff . And general opinions about current current remotes .
+ES2012b.D.dialog-act.vkaraisk.15	485.73	492.23	D	ME	inf	+1	1	See that , as we kinda noticed , seventy five percent of people find their remote controls ugly .
+ES2012b.D.dialog-act.vkaraisk.16	493.88	500.98	D	ME	sug	-1	0	So some kind of a new style should be incorporated that's less ugly {vocalsound} .
+ES2012b.D.dialog-act.vkaraisk.17	500.98	507.61	D	ME	inf	+1	1	Uh along with um looking less ugly , if it looks better , eighty percent of people said they'd spend more money on it .
+ES2012b.D.dialog-act.vkaraisk.18	511.3	512.76	D	ME	ass	-1	0	Which is a a plus for us ,
+ES2012b.D.dialog-act.vkaraisk.19	512.76	519.75	D	ME	inf	-1	0	if we can make it look better , it'd be uh more cost effective and we can put the price up .
+ES2012b.D.dialog-act.vkaraisk.20	522.94	526.01	D	ME	inf	+1	1	Current remote controls do not match the operating behaviour of the user .
+ES2012b.D.dialog-act.vkaraisk.21	526.01	526.6	D	ME	fra	-1	0	I can empl
+ES2012b.D.dialog-act.vkaraisk.22	526.6	536.5	D	ME	inf	+1	1	I kinda take that to mean as um {vocalsound} they they don't uh {disfmarker} they , yeah , they only use {disfmarker} they only work for the television
+ES2012b.D.dialog-act.vkaraisk.23	536.5	536.99	D	ME	fra	-1	0	or
+ES2012b.D.dialog-act.vkaraisk.24	536.99	537.8	D	ME	stl	-1	0	yeah like
+ES2012b.D.dialog-act.vkaraisk.25	537.8	545.51	D	ME	inf	+1	1	as in in my flat I've got six remote controls for a stereo system , a digital box , a D_V_D_ player , a video player and T_V_ .
+ES2012b.D.dialog-act.vkaraisk.26	545.51	546.04	D	ME	fra	-1	0	If it was
+ES2012b.D.dialog-act.vkaraisk.27	546.04	550.69	D	ME	inf	-1	0	uh {disfmarker} I mean th my behaviour is to use multiple things at the same time
+ES2012b.D.dialog-act.vkaraisk.28	550.69	556.928	D	ME	ass	-1	0	and multiple remotes aren't really matched well to my behaviour . {vocalsound}
+ES2012b.D.dialog-act.vkaraisk.29	558.14	562.61	D	ME	inf	+1	1	Uh again , seventy five percent is {disfmarker} seventy five percent of users say they zap a lot .
+ES2012b.D.dialog-act.vkaraisk.30	562.61	565.12	D	ME	inf	-1	0	I took to mean that they just {disfmarker} they use it a lot ,
+ES2012b.D.dialog-act.vkaraisk.31	565.12	572.33	D	ME	inf	-1	0	they use it regularly rather than standing up and manually change channels or volume {gap} .
+ES2012b.D.dialog-act.vkaraisk.32	573.68	577.09	D	ME	stl	-1	0	{vocalsound} And uh yeah , uh
+ES2012b.D.dialog-act.vkaraisk.35	577.09	578.01	D	ME	inf	-1	0	I think the big issue is
+ES2012b.D.dialog-act.vkaraisk.33	578.01	582.13	D	ME	inf	+1	1	fifty percent users only use ten percent of the buttons ,
+ES2012b.D.dialog-act.vkaraisk.36	582.13	584.77	D	ME	fra	-1	0	'cause uh wh if we got a remote that like {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.37	584.77	584.93	D	ME	stl	-1	0	well
+ES2012b.D.dialog-act.vkaraisk.38	584.93	587.52	D	ME	inf	+1	1	we'll have some buttons taken off by the lack of teletext ,
+ES2012b.D.dialog-act.vkaraisk.39	587.52	596.67	D	ME	inf	+1	1	but uh oh and we're going to see uh on the {disfmarker} uh that some of the functions like audio settings aren't h hardly ever used
+ES2012b.D.dialog-act.vkaraisk.40	596.67	597.58	D	ME	fra	-1	0	and used very {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.41	597.58	600.0	D	ME	inf	-1	0	aren't considered relevant by the user .
+ES2012b.D.dialog-act.vkaraisk.42	600.0	602.22	D	ME	sug	+1	1	So I think maybe fewer buttons ,
+ES2012b.D.dialog-act.vkaraisk.43	602.22	604.03	D	ME	ass	+1	1	which also make the design look sleeker ,
+ES2012b.D.dialog-act.vkaraisk.44	604.03	604.44	D	ME	ass	-1	0	I dunno .
+ES2012b.D.dialog-act.vkaraisk.45	606.55	611.65	D	ME	stl	-1	0	Uh um yeah and uh
+ES2012b.D.dialog-act.vkaraisk.46	611.65	613.91	D	ME	inf	+1	1	frustrations of like people losing remote control .
+ES2012b.A.dialog-act.vkaraisk.78	614.05	614.36	A	PM	bck	-1	0	Mm .
+ES2012b.D.dialog-act.vkaraisk.47	613.91	614.06	D	ME	ass	-1	0	I dunno
+ES2012b.D.dialog-act.vkaraisk.48	614.06	616.72	D	ME	sug	+1	1	maybe some kind of system of you press a button on the T_V_
+ES2012b.D.dialog-act.vkaraisk.49	616.72	618.16	D	ME	fra	-1	0	or maybe that's b
+ES2012b.D.dialog-act.vkaraisk.50	618.16	622.54	D	ME	sug	+1	1	it would have to incorporate {gap} , but like some kind of system where you can f use something else to find the remote control .
+ES2012b.D.dialog-act.vkaraisk.51	623.64	625.09	D	ME	sug	+1	1	Maybe like it'll beep or something .
+ES2012b.D.dialog-act.vkaraisk.52	627.15	630.01	D	ME	stl	-1	0	And um , yep ,
+ES2012b.D.dialog-act.vkaraisk.53	630.01	634.08	D	ME	fra	+1	1	the uh time taken to learn new remote controls is {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.54	635.24	639.6	D	ME	sug	-1	0	Uh don't want to make it too complicated , easy to use for uh new {disfmarker} like first time users and stuff .
+ES2012b.D.dialog-act.vkaraisk.55	641.12	644.28	D	ME	inf	+1	1	And uh repetitive strain injury ,
+ES2012b.D.dialog-act.vkaraisk.56	644.28	645.7	D	ME	sug	+1	1	I suppose we should make it more comfortable
+ES2012b.D.dialog-act.vkaraisk.57	645.7	650.5	D	ME	sug	-1	0	and make ma possibly even use {disfmarker} have to make it , yeah , fewer buttons ,
+ES2012b.D.dialog-act.vkaraisk.58	650.5	653.79	D	ME	ass	+1	1	like I was saying about the whole mice {disfmarker} the mouse idea of it feels more comfortable .
+ES2012b.A.dialog-act.vkaraisk.79	654.21	654.38	A	PM	bck	-1	0	Mm .
+ES2012b.D.dialog-act.vkaraisk.59	653.79	655.9	D	ME	sug	+1	1	Maybe don't even have to hold it as such .
+ES2012b.A.dialog-act.vkaraisk.80	656.62	656.86	A	PM	oth	-1	0	Gosh ,
+ES2012b.A.dialog-act.vkaraisk.81	656.86	661.36	A	PM	be.pos	-1	0	must be some telly addicts out there if they get R_S_I_ from their television remote , is all I can say .
+ES2012b.B.dialog-act.vkaraisk.3	659.526	662.036	B	ID	fra	-1	0	{vocalsound}
+ES2012b.D.dialog-act.vkaraisk.60	659.488	662.208	D	ME	fra	-1	0	{vocalsound}
+ES2012b.C.dialog-act.vkaraisk.3	660.112	663.424	C	UI	fra	-1	0	{vocalsound}
+ES2012b.D.dialog-act.vkaraisk.61	663.71	665.44	D	ME	stl	-1	0	But uh yeah .
+ES2012b.D.dialog-act.vkaraisk.62	665.44	669.38	D	ME	inf	+1	1	It also asked um if we would {disfmarker} if people would pay more for speech recognition
+ES2012b.A.dialog-act.vkaraisk.82	668.036	669.627	A	PM	fra	-1	0	{vocalsound} {gap}
+ES2012b.D.dialog-act.vkaraisk.63	669.38	671.07	D	ME	inf	+1	1	and younger people say they would .
+ES2012b.D.dialog-act.vkaraisk.64	674.28	679.84	D	ME	inf	+1	1	And uh there was another section on our {disfmarker} on the report for uh L_C_D_ displays ,
+ES2012b.D.dialog-act.vkaraisk.65	679.84	681.58	D	ME	inf	+1	1	but the data wasn't there ,
+ES2012b.D.dialog-act.vkaraisk.66	681.58	684.91	D	ME	inf	-1	0	so . I don't actually know what the results for that were ,
+ES2012b.A.dialog-act.vkaraisk.83	682.1	682.7	A	PM	und	-1	0	Mm . Right .
+ES2012b.A.dialog-act.vkaraisk.84	684.89	685.15	A	PM	bck	-1	0	Mm .
+ES2012b.D.dialog-act.vkaraisk.67	684.91	686.04	D	ME	fra	-1	0	so . {vocalsound}
+ES2012b.D.dialog-act.vkaraisk.68	686.04	687.37	D	ME	inf	-1	0	May be incrementally emitting ,
+ES2012b.D.dialog-act.vkaraisk.69	687.37	687.85	D	ME	ass	-1	0	but yeah .
+ES2012b.A.dialog-act.vkaraisk.85	687.94	688.39	A	PM	stl	-1	0	Yeah ,
+ES2012b.A.dialog-act.vkaraisk.86	688.39	695.87	A	PM	inf	+1	1	I must say that um the uh {disfmarker} I c can't remember what {vocalsound} um f you know phone service I was using the other day ,
+ES2012b.A.dialog-act.vkaraisk.87	695.87	697.65	A	PM	inf	+1	1	but that had sorta speech recognition
+ES2012b.A.dialog-act.vkaraisk.88	697.65	699.91	A	PM	ass	+1	1	which worked uh remarkably well ,
+ES2012b.A.dialog-act.vkaraisk.89	699.91	703.42	A	PM	sug	-1	0	so that is indeed a uh um
+ES2012b.A.dialog-act.vkaraisk.90	704.5	704.95	A	PM	sug	-1	0	a thought
+ES2012b.D.dialog-act.vkaraisk.70	704.42	709.927	D	ME	inf	+1	1	And uh {vocalsound} it would cut out the R_S_I_ as well if you {disfmarker} {vocalsound}
+ES2012b.A.dialog-act.vkaraisk.91	704.95	709.05	A	PM	ass	-1	0	and it it cuts out uh {disfmarker} I was was gonna say , you can't get a lot of R_S_I_ ,
+ES2012b.B.dialog-act.vkaraisk.4	708.358	709.799	B	ID	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.92	709.05	710.93	A	PM	be.pos	-1	0	j just get jaw ache .
+ES2012b.A.dialog-act.vkaraisk.93	710.93	711.2	A	PM	stl	-1	0	Okay ,
+ES2012b.A.dialog-act.vkaraisk.94	711.2	711.44	A	PM	be.pos	-1	0	sorry .
+ES2012b.A.dialog-act.vkaraisk.95	712.276	713.292	A	PM	fra	-1	0	{vocalsound}
+ES2012b.D.dialog-act.vkaraisk.71	712.2	715.44	D	ME	stl	-1	0	Yeah , um {disfmarker} oh yeah , so
+ES2012b.D.dialog-act.vkaraisk.72	715.44	718.42	D	ME	sug	+1	1	possibly the speech recognition is possibly something could add into the design .
+ES2012b.D.dialog-act.vkaraisk.73	718.42	718.87	D	ME	stl	-1	0	Oh ,
+ES2012b.D.dialog-act.vkaraisk.74	718.87	719.58	D	ME	off	+1	1	I've got some other things
+ES2012b.D.dialog-act.vkaraisk.75	719.58	721.47	D	ME	inf	+1	1	I couldn't fit onto this presentation .
+ES2012b.D.dialog-act.vkaraisk.76	724.13	728.51	D	ME	el.inf	-1	0	Um . You see this okay ?
+ES2012b.D.dialog-act.vkaraisk.77	728.51	729.12	D	ME	fra	-1	0	Almost {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.78	729.12	729.7	D	ME	inf	-1	0	no ?
+ES2012b.D.dialog-act.vkaraisk.79	729.7	729.93	D	ME	fra	-1	0	It's {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.80	729.93	730.14	D	ME	be.pos	-1	0	sorry
+ES2012b.D.dialog-act.vkaraisk.81	730.14	730.53	D	ME	be.neg	-1	0	it's a bit {gap} .
+ES2012b.D.dialog-act.vkaraisk.82	730.53	731.84	D	ME	off	-1	0	I'll read out to you .
+ES2012b.D.dialog-act.vkaraisk.83	731.84	739.61	D	ME	inf	+1	1	Uh functionality , uh like people's opinions on functionality , the relevance to the remote and how often they're used .
+ES2012b.D.dialog-act.vkaraisk.84	739.61	740.44	D	ME	stl	-1	0	So um
+ES2012b.D.dialog-act.vkaraisk.85	741.92	747.2	D	ME	inf	+1	1	like the power . Using the using the d swi the power switch to switch on T_V_ is a high relevance of nine ,
+ES2012b.D.dialog-act.vkaraisk.86	747.2	749.91	D	ME	inf	+1	1	but it's not frequently used .
+ES2012b.D.dialog-act.vkaraisk.87	749.91	750.46	D	ME	el.und	-1	0	You see what I mean ?
+ES2012b.A.dialog-act.vkaraisk.96	750.72	751.807	A	PM	und	-1	0	Yeah . {vocalsound}
+ES2012b.D.dialog-act.vkaraisk.88	750.46	753.03	D	ME	inf	+1	1	Whereas channel selection , which is very high relevance
+ES2012b.A.dialog-act.vkaraisk.97	752.87	753.22	A	PM	bck	-1	0	Mm-hmm .
+ES2012b.D.dialog-act.vkaraisk.89	753.03	754.94	D	ME	inf	+1	1	is used the most .
+ES2012b.D.dialog-act.vkaraisk.90	754.94	755.05	D	ME	stl	-1	0	So
+ES2012b.D.dialog-act.vkaraisk.92	755.05	758.85	D	ME	fra	-1	0	m we can maybe even start to cut down on {disfmarker} or
+ES2012b.D.dialog-act.vkaraisk.93	758.85	765.09	D	ME	sug	+1	1	I was possibly even thinking of a design that maybe some of the buttons are hidden from everyday use .
+ES2012b.D.dialog-act.vkaraisk.94	765.09	772.01	D	ME	sug	+1	1	Maybe like uh a folding ledge or something . So that we can maybe go into the channel settings and the audio settings ,
+ES2012b.B.dialog-act.vkaraisk.5	768.48	768.79	B	ID	bck	-1	0	Mm .
+ES2012b.D.dialog-act.vkaraisk.95	772.01	773.51	D	ME	inf	-1	0	which are low relevance
+ES2012b.A.dialog-act.vkaraisk.98	773.4	782.816	A	PM	stl	-1	0	{vocalsound} Mm-hmm . I mean {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.96	773.51	775.3	D	ME	inf	-1	0	and rarely used .
+ES2012b.D.dialog-act.vkaraisk.97	775.3	780.352	D	ME	sug	+1	1	And keep the v volume selection and channel selection very easily {disfmarker}
+ES2012b.C.dialog-act.vkaraisk.4	781.7	782.74	C	UI	fra	-1	0	It could be {disfmarker}
+ES2012b.C.dialog-act.vkaraisk.5	782.74	782.94	C	UI	be.pos	-1	0	oh
+ES2012b.C.dialog-act.vkaraisk.6	782.94	788.18	C	UI	sug	+1	1	uh I was just gonna say uh maybe like the flip phones that they use ?
+ES2012b.B.dialog-act.vkaraisk.6	788.52	788.8	B	ID	bck	-1	0	Mm .
+ES2012b.C.dialog-act.vkaraisk.7	788.18	789.76	C	UI	el.inf	-1	0	Have you seen the new mo mobile phones
+ES2012b.A.dialog-act.vkaraisk.99	789.091	790.14	A	PM	bck	-1	0	{vocalsound} Yeah .
+ES2012b.C.dialog-act.vkaraisk.8	789.76	790.44	C	UI	inf	-1	0	that flip out
+ES2012b.C.dialog-act.vkaraisk.9	790.44	793.66	C	UI	inf	-1	0	and they have the like texting , and then the numbers on one side ,
+ES2012b.D.dialog-act.vkaraisk.98	791.2	792.13	D	ME	und	-1	0	Oh yeah .
+ES2012b.C.dialog-act.vkaraisk.11	793.66	793.9	C	UI	stl	-1	0	so
+ES2012b.A.dialog-act.vkaraisk.100	794.36	794.63	A	PM	bck	-1	0	Mm .
+ES2012b.C.dialog-act.vkaraisk.10	793.9	797.09	C	UI	sug	+1	1	you could have the most {vocalsound} used buttons on top
+ES2012b.C.dialog-act.vkaraisk.12	797.09	800.8	C	UI	sug	-1	0	and flip it out or something .
+ES2012b.A.dialog-act.vkaraisk.101	798.12	798.53	A	PM	bck	-1	0	Hmm , hmm .
+ES2012b.B.dialog-act.vkaraisk.7	798.24	798.38	B	ID	bck	-1	0	Mm .
+ES2012b.D.dialog-act.vkaraisk.99	798.53	798.78	D	ME	ass	-1	0	Yeah ,
+ES2012b.D.dialog-act.vkaraisk.100	798.78	800.14	D	ME	inf	+1	1	like the one that like slides back
+ES2012b.A.dialog-act.vkaraisk.102	799.89	803.69	A	PM	el.ass	-1	0	Uh . Should we actually bite the bullet here ?
+ES2012b.D.dialog-act.vkaraisk.101	800.14	801.73	D	ME	inf	+1	1	and the buttons are concealed underneath .
+ES2012b.C.dialog-act.vkaraisk.13	800.8	801.29	C	UI	ass	-1	0	Yeah .
+ES2012b.B.dialog-act.vkaraisk.8	801.52	801.75	B	ID	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.103	803.69	812.14	A	PM	sug	+1	1	If people really don't use those buttons to any extent at all um {vocalsound} remove them altogether .
+ES2012b.D.dialog-act.vkaraisk.102	809.24	811.09	D	ME	sug	-1	0	Just remove them completely ?
+ES2012b.A.dialog-act.vkaraisk.104	812.14	817.472	A	PM	fra	-1	0	We we could actually have we could actually have a remote control with um {disfmarker}
+ES2012b.C.dialog-act.vkaraisk.14	811.7	813.712	C	UI	fra	-1	0	That might be the {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.105	821.9	827.1	A	PM	el.ass	+1	2	I wonder whether we could get the remote control with no buttons at all if we went for voice recognition ,
+ES2012b.A.dialog-act.vkaraisk.106	827.1	829.008	A	PM	fra	-1	0	given that um the {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.107	830.768	832.14	A	PM	stl	-1	0	{vocalsound} Um now
+ES2012b.A.dialog-act.vkaraisk.108	832.14	834.83	A	PM	fra	-1	0	the the age structure we were looking at {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.109	834.83	838.32	A	PM	inf	-1	0	um I mean w we had usage by age structure ,
+ES2012b.A.dialog-act.vkaraisk.110	838.32	845.53	A	PM	inf	+1	1	what we didn't have was what proportion of people using remotes were in those particular age groups .
+ES2012b.A.dialog-act.vkaraisk.111	845.53	846.34	A	PM	stl	-1	0	Now
+ES2012b.A.dialog-act.vkaraisk.112	846.34	849.104	A	PM	el.inf	-1	0	do we know whether they {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.103	845.96	847.04	D	ME	bck	-1	0	Uh yeah .
+ES2012b.A.dialog-act.vkaraisk.113	850.08	862.51	A	PM	el.inf	+1	1	Forty {disfmarker} no sorry {disfmarker} for forty five to fifty five age group , uh to put myself right in the middle of it , um u use remote controls to a great extent .
+ES2012b.D.dialog-act.vkaraisk.104	850.728	852.044	D	ME	fra	-1	0	{vocalsound}
+ES2012b.B.dialog-act.vkaraisk.9	855.8	856.304	B	ID	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.114	862.51	863.152	A	PM	fra	-1	0	Yes we {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.105	863.11	863.46	D	ME	inf	-1	0	Um no
+ES2012b.D.dialog-act.vkaraisk.106	863.46	866.32	D	ME	inf	-1	0	this is for {disfmarker} pay more for speech recognition .
+ES2012b.A.dialog-act.vkaraisk.115	864.34	867.36	A	PM	und	-1	0	That would 've speech recogn right .
+ES2012b.A.dialog-act.vkaraisk.116	867.36	867.71	A	PM	stl	-1	0	So ,
+ES2012b.A.dialog-act.vkaraisk.117	867.71	869.05	A	PM	fra	-1	0	we're looking at {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.118	869.05	869.56	A	PM	stl	-1	0	um well
+ES2012b.A.dialog-act.vkaraisk.119	869.56	873.95	A	PM	inf	+1	1	again , we don't know the relative proportion {disfmarker} the relative numbers in the age groups .
+ES2012b.D.dialog-act.vkaraisk.107	875.24	875.74	D	ME	ass	-1	0	Yeah , that's true .
+ES2012b.A.dialog-act.vkaraisk.120	876.1	887.84	A	PM	ass	+1	1	If we wanted something different , truly different , then the buttonless remote control w would be it .
+ES2012b.B.dialog-act.vkaraisk.10	883.88	884.08	B	ID	fra	-1	0	P
+ES2012b.B.dialog-act.vkaraisk.11	886.78	886.92	B	ID	stl	-1	0	Well
+ES2012b.B.dialog-act.vkaraisk.12	886.92	892.1	B	ID	ass	+1	2	the only problem I can think of with that is if you've got a lot of people that don't wanna be bothered learning how to use new rem remote controls .
+ES2012b.B.dialog-act.vkaraisk.13	892.1	897.11	B	ID	inf	-1	0	If you just kind of take away everything that they're used to knowing , that's gonna be quite a change .
+ES2012b.A.dialog-act.vkaraisk.121	896.8	900.4	A	PM	fra	+1	1	But if you just lift it up and say , channel one or B_B_C_ {disfmarker}
+ES2012b.B.dialog-act.vkaraisk.14	897.11	897.722	B	ID	fra	-1	0	It might {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.108	899.36	903.61	D	ME	sug	-1	0	Or even {disfmarker} I mean you could even just have it left on .
+ES2012b.C.dialog-act.vkaraisk.15	903.7	904.06	C	UI	fra	-1	0	Maybe i
+ES2012b.D.dialog-act.vkaraisk.109	903.61	905.71	D	ME	sug	+1	1	You could just put it down once on top your T_V_
+ES2012b.D.dialog-act.vkaraisk.110	905.71	906.464	D	ME	sug	-1	0	and never have to {disfmarker}
+ES2012b.C.dialog-act.vkaraisk.16	906.66	906.85	C	UI	ass	-1	0	Yeah ,
+ES2012b.C.dialog-act.vkaraisk.17	906.85	909.82	C	UI	inf	-1	0	have a big kind of like the satellite box or the cable box
+ES2012b.A.dialog-act.vkaraisk.122	907.682	908.34	A	PM	fra	-1	0	{vocalsound}
+ES2012b.C.dialog-act.vkaraisk.18	909.82	911.95	C	UI	sug	-1	0	and have it just go on the T_V_
+ES2012b.C.dialog-act.vkaraisk.19	911.95	914.08	C	UI	ass	+1	1	and then it doesn't matter where in the room you are ,
+ES2012b.B.dialog-act.vkaraisk.15	914.49	914.75	B	ID	bck	-1	0	Mm .
+ES2012b.C.dialog-act.vkaraisk.20	914.08	915.06	C	UI	inf	-1	0	you won't lose it .
+ES2012b.D.dialog-act.vkaraisk.111	914.28	914.78	D	ME	ass	-1	0	Yeah .
+ES2012b.A.dialog-act.vkaraisk.123	915.63	915.82	A	PM	fra	-1	0	It c
+ES2012b.A.dialog-act.vkaraisk.124	915.82	916.08	A	PM	stl	-1	0	well
+ES2012b.A.dialog-act.vkaraisk.125	916.08	916.16	A	PM	fra	-1	0	it {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.126	916.16	921.21	A	PM	ass	+1	2	I can I can see technical problems with that in terms of the , you know , the sound from the television ,
+ES2012b.B.dialog-act.vkaraisk.16	918.46	918.78	B	ID	ass	-1	0	Mm .
+ES2012b.C.dialog-act.vkaraisk.21	919.46	920.21	C	UI	ass	-1	0	No .
+ES2012b.A.dialog-act.vkaraisk.127	921.21	931.51	A	PM	inf	+1	2	because if somebody actually on the television says uh uh , you know , I_T_V_ and you're watching B_B_C_ then then it might um change itself ,
+ES2012b.D.dialog-act.vkaraisk.112	922.384	924.928	D	ME	inf	-1	0	{vocalsound} B_B_C_ one . {vocalsound}
+ES2012b.B.dialog-act.vkaraisk.17	923.0	925.963	B	ID	und	-1	0	Yeah . {vocalsound}
+ES2012b.C.dialog-act.vkaraisk.22	923.355	926.576	C	UI	und	-1	0	{vocalsound} Oh . {vocalsound}
+ES2012b.B.dialog-act.vkaraisk.18	928.46	928.76	B	ID	bck	-1	0	Yeah .
+ES2012b.D.dialog-act.vkaraisk.113	929.04	930.085	D	ME	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.129	931.51	935.17	A	PM	sug	+1	2	so it probably needs to be um {disfmarker} possibly actually need a button on it
+ES2012b.C.dialog-act.vkaraisk.23	932.85	933.49	C	UI	ass	-1	0	Yeah , that's true .
+ES2012b.A.dialog-act.vkaraisk.130	936.19	937.76	A	PM	sug	-1	0	just to activate it .
+ES2012b.D.dialog-act.vkaraisk.114	936.21	936.64	D	ME	ass	-1	0	Oh yeah .
+ES2012b.A.dialog-act.vkaraisk.131	937.76	943.63	A	PM	sug	+1	2	Or or something just to identify that you've lifted it up and it's use .
+ES2012b.A.dialog-act.vkaraisk.132	943.63	949.78	A	PM	fra	-1	0	And and then just say , oh I don't know , a thought and and then {disfmarker}
+ES2012b.C.dialog-act.vkaraisk.24	944.27	944.6	C	UI	bck	-1	0	Yeah .
+ES2012b.A.dialog-act.vkaraisk.133	949.78	952.98	A	PM	ass	-1	0	uh I mean that that would certainly be uh truly different .
+ES2012b.A.dialog-act.vkaraisk.134	954.592	960.07	A	PM	inf	-1	0	{vocalsound} Um 'cause uh you know audio settings , nought point eight percent .
+ES2012b.A.dialog-act.vkaraisk.135	960.07	960.95	A	PM	el.inf	-1	0	I mean if they weren't there ,
+ES2012b.A.dialog-act.vkaraisk.136	963.138	964.43	A	PM	el.inf	-1	0	{vocalsound} would people miss them ?
+ES2012b.D.dialog-act.vkaraisk.115	962.99	963.87	D	ME	bck	-1	0	Mm-mm .
+ES2012b.B.dialog-act.vkaraisk.19	965.02	968.48	B	ID	sug	-1	0	But look at the importance of them . The volume settings .
+ES2012b.A.dialog-act.vkaraisk.137	969.636	970.408	A	PM	fra	-1	0	{vocalsound}
+ES2012b.D.dialog-act.vkaraisk.116	970.29	971.46	D	ME	inf	-1	0	Relevance of two out of ten ,
+ES2012b.A.dialog-act.vkaraisk.138	971.76	972.76	A	PM	fra	-1	0	Vol volume ,
+ES2012b.D.dialog-act.vkaraisk.117	971.46	971.73	D	ME	ass	-1	0	yeah .
+ES2012b.B.dialog-act.vkaraisk.20	972.03	972.45	B	ID	ass	-1	0	Yeah .
+ES2012b.A.dialog-act.vkaraisk.139	972.76	974.26	A	PM	stl	-1	0	yes um
+ES2012b.B.dialog-act.vkaraisk.21	973.49	974.56	B	ID	inf	-1	0	They're not used often
+ES2012b.A.dialog-act.vkaraisk.140	974.26	976.07	A	PM	fra	-1	0	th {vocalsound}
+ES2012b.B.dialog-act.vkaraisk.22	974.56	977.14	B	ID	inf	-1	0	but they are quite important when they're used .
+ES2012b.A.dialog-act.vkaraisk.141	976.07	979.44	A	PM	sug	+1	1	w we need to s identify things that {vocalsound} people actually need
+ES2012b.B.dialog-act.vkaraisk.23	977.14	977.44	B	ID	el.ass	-1	0	Yeah .
+ES2012b.A.dialog-act.vkaraisk.142	979.44	982.38	A	PM	inf	+1	1	and and it's a function of frequency and relevance .
+ES2012b.A.dialog-act.vkaraisk.143	982.38	986.98	A	PM	sug	-1	0	And um I would say ignoring ig ignoring power for the moment ,
+ES2012b.A.dialog-act.vkaraisk.144	986.98	990.09	A	PM	fra	-1	0	um the channel and volume
+ES2012b.B.dialog-act.vkaraisk.24	989.53	989.92	B	ID	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.145	990.09	993.75	A	PM	inf	-1	0	and th w w given given that we've been told to ignore teletext .
+ES2012b.A.dialog-act.vkaraisk.146	993.75	996.28	A	PM	inf	-1	0	Uh channel and volume are the only ones that
+ES2012b.D.dialog-act.vkaraisk.118	993.43	993.71	D	ME	bck	-1	0	Yeah .
+ES2012b.A.dialog-act.vkaraisk.147	997.422	999.82	A	PM	inf	-1	0	{vocalsound} uh would appear to be essential .
+ES2012b.D.dialog-act.vkaraisk.119	997.96	998.57	D	ME	inf	-1	0	Stand out .
+ES2012b.A.dialog-act.vkaraisk.148	1001.41	1004.13	A	PM	stl	-1	0	Um . So
+ES2012b.A.dialog-act.vkaraisk.149	1004.3	1008.29	A	PM	sug	+1	1	{disfmarker} if we can design something that that looks interesting ,
+ES2012b.A.dialog-act.vkaraisk.150	1009.66	1009.84	A	PM	stl	-1	0	know ,
+ES2012b.A.dialog-act.vkaraisk.151	1009.84	1011.59	A	PM	sug	-1	0	or looks different ,
+ES2012b.A.dialog-act.vkaraisk.152	1011.59	1016.85	A	PM	sug	+1	1	um incorporates the the logo and and the colours
+ES2012b.A.dialog-act.vkaraisk.153	1016.85	1024.1	A	PM	sug	+1	1	and um we can still have our interchangeable fascias even if it's {gap} the yellow and grey , um
+ES2012b.A.dialog-act.vkaraisk.154	1025.41	1027.15	A	PM	ass	-1	0	and uh I dunno ,
+ES2012b.A.dialog-act.vkaraisk.155	1027.15	1030.04	A	PM	sug	+1	1	buttons or or buttons as an option .
+ES2012b.D.dialog-act.vkaraisk.120	1030.52	1031.52	D	ME	inf	-1	0	Uh I just had a thought actually ,
+ES2012b.D.dialog-act.vkaraisk.121	1031.52	1032.43	D	ME	be.pos	-1	0	sorry to interrupt .
+ES2012b.A.dialog-act.vkaraisk.156	1032.26	1033.42	A	PM	be.pos	-1	0	Do , please .
+ES2012b.D.dialog-act.vkaraisk.122	1032.43	1043.46	D	ME	inf	+1	2	Uh you were saying about um it could {disfmarker} technical problems of like uh someone on the television saying a channel number and it changed {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.157	1041.94	1042.42	A	PM	bck	-1	0	Mm-hmm .
+ES2012b.D.dialog-act.vkaraisk.123	1043.46	1045.05	D	ME	sug	+1	2	we could maybe have like an activation
+ES2012b.D.dialog-act.vkaraisk.124	1046.42	1046.76	D	ME	sug	-1	0	word .
+ES2012b.A.dialog-act.vkaraisk.158	1048.9	1050.3	A	PM	ass	-1	0	You cer certainly could .
+ES2012b.D.dialog-act.vkaraisk.125	1048.5	1050.42	D	ME	inf	-1	0	'Cause I've seen I've seen this used on computers before ,
+ES2012b.D.dialog-act.vkaraisk.126	1050.42	1052.29	D	ME	sug	-1	0	where you just {disfmarker} you address the remote ,
+ES2012b.A.dialog-act.vkaraisk.159	1052.075	1056.37	A	PM	fra	-1	0	{vocalsound} Depe uh i depends whether um {disfmarker}
+ES2012b.B.dialog-act.vkaraisk.25	1051.93	1052.24	B	ID	bck	-1	0	Mm .
+ES2012b.D.dialog-act.vkaraisk.127	1052.29	1053.49	D	ME	inf	-1	0	you address the computer ,
+ES2012b.D.dialog-act.vkaraisk.128	1053.49	1055.3	D	ME	sug	-1	0	and then give it a command .
+ES2012b.A.dialog-act.vkaraisk.160	1056.37	1065.49	A	PM	ass	+1	1	if we want to make this so simple that anybody can walk into the room and lift it up and say
+ES2012b.D.dialog-act.vkaraisk.129	1065.76	1068.45	D	ME	und	-1	0	Oh I see . Oh yeah , I see .
+ES2012b.A.dialog-act.vkaraisk.161	1067.3	1068.9	A	PM	ass	-1	0	B_B_C_ one .
+ES2012b.A.dialog-act.vkaraisk.162	1068.9	1070.19	A	PM	stl	-1	0	Um okay ,
+ES2012b.A.dialog-act.vkaraisk.163	1070.19	1073.41	A	PM	sug	-1	0	I mean you could print {disfmarker} actually print it on the uh
+ES2012b.D.dialog-act.vkaraisk.130	1073.568	1075.13	D	ME	ass	-1	0	{vocalsound} Mm-hmm , yeah .
+ES2012b.A.dialog-act.vkaraisk.164	1074.91	1077.5	A	PM	sug	-1	0	device itself . Um .
+ES2012b.D.dialog-act.vkaraisk.131	1077.24	1081.27	D	ME	inf	+1	1	I mean I'm just thinking of the point of view of peop you could still like lose this remote .
+ES2012b.A.dialog-act.vkaraisk.165	1081.4	1081.75	A	PM	fra	-1	0	S
+ES2012b.A.dialog-act.vkaraisk.166	1081.75	1085.4	A	PM	ass	-1	0	th this I th {vocalsound} that's always gonna be a problem I think .
+ES2012b.B.dialog-act.vkaraisk.26	1083.651	1084.521	B	ID	fra	-1	0	{vocalsound}
+ES2012b.D.dialog-act.vkaraisk.132	1084.67	1085.36	D	ME	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.167	1085.4	1087.63	A	PM	fra	-1	0	Um and I I I s
+ES2012b.A.dialog-act.vkaraisk.168	1087.63	1087.86	A	PM	stl	-1	0	so
+ES2012b.A.dialog-act.vkaraisk.169	1087.86	1089.168	A	PM	inf	-1	0	I suppose one um {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.170	1093.46	1097.76	A	PM	inf	-1	0	could make it so desirable that if people lose it they immediately go out and buy another one .
+ES2012b.B.dialog-act.vkaraisk.27	1096.709	1098.827	B	ID	fra	-1	0	{vocalsound}
+ES2012b.C.dialog-act.vkaraisk.25	1097.2	1098.183	C	UI	fra	-1	0	{vocalsound}
+ES2012b.D.dialog-act.vkaraisk.133	1096.736	1098.4	D	ME	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.171	1097.76	1098.26	A	PM	stl	-1	0	Anyway ,
+ES2012b.A.dialog-act.vkaraisk.172	1098.26	1098.96	A	PM	be.pos	-1	0	sorry ,
+ES2012b.A.dialog-act.vkaraisk.173	1098.96	1099.53	A	PM	sug	-1	0	carry on .
+ES2012b.A.dialog-act.vkaraisk.174	1099.53	1101.12	A	PM	el.ass	+1	1	Do you want to just carry on with {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.134	1101.2	1101.32	D	ME	stl	-1	0	Oh
+ES2012b.D.dialog-act.vkaraisk.135	1101.32	1101.64	D	ME	ass	-1	0	no
+ES2012b.A.dialog-act.vkaraisk.175	1102.03	1102.26	A	PM	fra	-1	0	or {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.136	1101.64	1102.68	D	ME	inf	-1	0	I I interrupted you ,
+ES2012b.A.dialog-act.vkaraisk.176	1102.26	1103.15	A	PM	ass	-1	0	no no , no
+ES2012b.A.dialog-act.vkaraisk.177	1103.15	1107.001	A	PM	inf	-1	0	uh b I was in the middle of in the middle of your report there . {vocalsound}
+ES2012b.D.dialog-act.vkaraisk.137	1102.68	1102.89	D	ME	be.pos	-1	0	sorry {vocalsound} .
+ES2012b.D.dialog-act.vkaraisk.138	1104.97	1105.06	D	ME	und	-1	0	Oh
+ES2012b.D.dialog-act.vkaraisk.139	1105.06	1105.51	D	ME	ass	-1	0	okay .
+ES2012b.D.dialog-act.vkaraisk.140	1107.15	1107.97	D	ME	stl	-1	0	Um well ,
+ES2012b.D.dialog-act.vkaraisk.141	1107.97	1108.96	D	ME	inf	+1	1	I was just kinda wrapping up there .
+ES2012b.D.dialog-act.vkaraisk.142	1108.96	1109.14	D	ME	stl	-1	0	Yeah ,
+ES2012b.A.dialog-act.vkaraisk.178	1109.51	1111.344	A	PM	bck	-1	0	Mm okay . {vocalsound}
+ES2012b.D.dialog-act.vkaraisk.143	1109.14	1113.39	D	ME	inf	-1	0	I was thinking um , yeah , maybe such things are relevant .
+ES2012b.D.dialog-act.vkaraisk.144	1113.39	1115.72	D	ME	fra	-1	0	We could make things much more f I think the the
+ES2012b.D.dialog-act.vkaraisk.145	1115.72	1119.6	D	ME	inf	+1	1	eighty percent of people would spend more on uh a remote uh that looks better ,
+ES2012b.D.dialog-act.vkaraisk.146	1120.92	1124.43	D	ME	fra	-1	0	combined with uh decrease the {disfmarker} or
+ES2012b.D.dialog-act.vkaraisk.147	1124.43	1126.65	D	ME	sug	+1	1	take out the limited functio functions
+ES2012b.D.dialog-act.vkaraisk.148	1126.65	1129.42	D	ME	inf	-1	0	that we don't really use much .
+ES2012b.D.dialog-act.vkaraisk.149	1129.42	1130.66	D	ME	ass	-1	0	{gap} alright take out teletext ,
+ES2012b.D.dialog-act.vkaraisk.152	1130.66	1139.81	D	ME	inf	+1	1	but as for channel settings and stuff it might it might um turn people somewhe peop some people that want the whole functionality away .
+ES2012b.D.dialog-act.vkaraisk.153	1139.81	1147.3	D	ME	inf	-1	0	But , since {disfmarker} if we're marketing a more kind of fashionable approach then it'd {disfmarker} it would be fashion and fashion over practicality .
+ES2012b.A.dialog-act.vkaraisk.179	1143.0	1143.29	A	PM	bck	-1	0	Mm-hmm .
+ES2012b.A.dialog-act.vkaraisk.180	1149.03	1157.55	A	PM	sug	+1	2	S s we could {disfmarker} we could make it dual function {gap} voice recognition and {gap} still have buttons on it um
+ES2012b.D.dialog-act.vkaraisk.154	1154.288	1155.07	D	ME	ass	-1	0	{vocalsound} Oh , we could , yeah .
+ES2012b.D.dialog-act.vkaraisk.155	1156.89	1157.02	D	ME	fra	-1	0	We c
+ES2012b.D.dialog-act.vkaraisk.156	1157.02	1157.26	D	ME	stl	-1	0	yeah ,
+ES2012b.A.dialog-act.vkaraisk.181	1157.55	1158.149	A	PM	fra	-1	0	'cause we're {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.157	1157.26	1160.31	D	ME	sug	-1	0	we could even have it as like a {disfmarker} yeah the buttons control this
+ES2012b.D.dialog-act.vkaraisk.158	1160.31	1163.5	D	ME	sug	-1	0	and the voice functions control the f things that you would do all the time ,
+ES2012b.D.dialog-act.vkaraisk.159	1163.5	1163.87	D	ME	fra	-1	0	so .
+ES2012b.A.dialog-act.vkaraisk.182	1164.224	1167.39	A	PM	ass	-1	0	{vocalsound} Certainly could . Yeah , yeah .
+ES2012b.B.dialog-act.vkaraisk.28	1166.39	1166.5	B	ID	bck	-1	0	Mm .
+ES2012b.D.dialog-act.vkaraisk.160	1166.11	1166.72	D	ME	stl	-1	0	So uh yeah ,
+ES2012b.D.dialog-act.vkaraisk.161	1166.72	1172.112	D	ME	fra	-1	0	if we could uh {disfmarker} power on and channel selection and and volume selection , wouldn't have to really {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.183	1170.06	1175.66	A	PM	ass	-1	0	{gap} The {disfmarker} I mean the the advantage of doing away the buttons altogether is it makes the thing cheaper .
+ES2012b.D.dialog-act.vkaraisk.162	1176.67	1177.01	D	ME	ass	-1	0	Yeah
+ES2012b.D.dialog-act.vkaraisk.163	1177.01	1178.75	D	ME	ass	-1	0	and probably it would look better as well .
+ES2012b.A.dialog-act.vkaraisk.184	1178.72	1178.8	A	PM	stl	-1	0	No ,
+ES2012b.A.dialog-act.vkaraisk.185	1178.8	1184.18	A	PM	inf	-1	0	it cou certainly opens up the possibility for making it uh , you know , visually very distinctive .
+ES2012b.D.dialog-act.vkaraisk.164	1184.3	1186.01	D	ME	bck	-1	0	Yeah . yeah .
+ES2012b.A.dialog-act.vkaraisk.186	1185.53	1189.69	A	PM	sug	-1	0	Um 'cause you know , it does not have to be a oblong box .
+ES2012b.B.dialog-act.vkaraisk.29	1190.17	1190.43	B	ID	bck	-1	0	Mm .
+ES2012b.D.dialog-act.vkaraisk.165	1191.46	1193.52	D	ME	sug	-1	0	Lined with numbered buttons and {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.187	1192.79	1193.29	A	PM	ass	-1	0	Mm , yeah .
+ES2012b.A.dialog-act.vkaraisk.188	1194.98	1195.72	A	PM	stl	-1	0	Okay ,
+ES2012b.A.dialog-act.vkaraisk.189	1195.72	1196.6	A	PM	fra	-1	0	who {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.190	1196.6	1196.81	A	PM	be.pos	-1	0	sorry ,
+ES2012b.A.dialog-act.vkaraisk.191	1196.81	1197.82	A	PM	el.inf	-1	0	have you have you finished there Andy ?
+ES2012b.D.dialog-act.vkaraisk.166	1197.32	1198.54	D	ME	inf	-1	0	Uh yeah , yeah , that's everything .
+ES2012b.A.dialog-act.vkaraisk.192	1197.82	1198.39	A	PM	und	-1	0	Yep , yep .
+ES2012b.A.dialog-act.vkaraisk.193	1198.93	1205.66	A	PM	inf	-1	0	Um {vocalsound} given that we've already had a extensive discussion uh {disfmarker} {vocalsound} .
+ES2012b.B.dialog-act.vkaraisk.30	1201.345	1202.443	B	ID	fra	-1	0	{vocalsound}
+ES2012b.C.dialog-act.vkaraisk.26	1202.288	1204.384	C	UI	fra	-1	0	{vocalsound}
+ES2012b.D.dialog-act.vkaraisk.167	1205.43	1205.879	D	ME	fra	-1	0	{vocalsound}
+ES2012b.C.dialog-act.vkaraisk.27	1207.22	1207.98	C	UI	stl	-1	0	Okay well ,
+ES2012b.C.dialog-act.vkaraisk.28	1207.98	1209.53	C	UI	off	-1	0	I can do mine .
+ES2012b.B.dialog-act.vkaraisk.31	1208.88	1209.02	B	ID	bck	-1	0	Hmm .
+ES2012b.D.dialog-act.vkaraisk.168	1210.94	1211.52	D	ME	el.inf	-1	0	Do you want the cable ?
+ES2012b.C.dialog-act.vkaraisk.29	1211.7	1212.49	C	UI	inf	-1	0	Yeah ,
+ES2012b.C.dialog-act.vkaraisk.30	1212.49	1216.72	C	UI	off	-1	0	let's see if I can make this work . Um .
+ES2012b.B.dialog-act.vkaraisk.32	1236.6	1236.66	B	ID	stl	-1	0	Oh ,
+ES2012b.B.dialog-act.vkaraisk.33	1236.66	1238.68	B	ID	sug	-1	0	you have to hit like function and F_ something .
+ES2012b.C.dialog-act.vkaraisk.31	1238.73	1239.68	C	UI	und	-1	0	Oh .
+ES2012b.D.dialog-act.vkaraisk.169	1239.08	1239.72	D	ME	sug	-1	0	F_ eight .
+ES2012b.B.dialog-act.vkaraisk.34	1239.76	1241.03	B	ID	bck	-1	0	F_ eight .
+ES2012b.C.dialog-act.vkaraisk.32	1246.02	1246.736	C	UI	fra	-1	0	Is it doing {disfmarker}
+ES2012b.B.dialog-act.vkaraisk.35	1249.472	1250.35	B	ID	inf	-1	0	{vocalsound} Dunno .
+ES2012b.D.dialog-act.vkaraisk.170	1250.63	1252.21	D	ME	sug	-1	0	Uh , give it about twenty seconds , or so .
+ES2012b.C.dialog-act.vkaraisk.33	1252.56	1252.92	C	UI	ass	-1	0	Okay .
+ES2012b.A.dialog-act.vkaraisk.194	1254.01	1254.3	A	PM	stl	-1	0	Ah ,
+ES2012b.A.dialog-act.vkaraisk.195	1254.3	1255.398	A	PM	inf	-1	0	there we go . {vocalsound}
+ES2012b.B.dialog-act.vkaraisk.36	1254.19	1254.45	B	ID	ass	-1	0	Oh yeah ,
+ES2012b.B.dialog-act.vkaraisk.37	1254.45	1254.94	B	ID	inf	-1	0	it's going .
+ES2012b.C.dialog-act.vkaraisk.34	1254.26	1254.65	C	UI	ass	-1	0	Oh okay .
+ES2012b.C.dialog-act.vkaraisk.35	1261.632	1263.04	C	UI	stl	-1	0	{vocalsound} Okay , so
+ES2012b.C.dialog-act.vkaraisk.36	1263.04	1266.34	C	UI	inf	+1	1	this is just about the technical functions .
+ES2012b.A.dialog-act.vkaraisk.196	1265.02	1265.45	A	PM	bck	-1	0	Alright .
+ES2012b.C.dialog-act.vkaraisk.37	1266.34	1267.06	C	UI	stl	-1	0	So
+ES2012b.C.dialog-act.vkaraisk.38	1267.06	1270.89	C	UI	inf	+1	1	the method , I looked online for examples of other similar products
+ES2012b.C.dialog-act.vkaraisk.39	1270.89	1275.28	C	UI	inf	+1	1	and then just kind of was trying to brainstorm some possible design ideas
+ES2012b.C.dialog-act.vkaraisk.40	1275.28	1283.13	C	UI	inf	-1	0	and um identify what the necessary things are , what people are {disfmarker} what you really wanna have a remote control do .
+ES2012b.C.dialog-act.vkaraisk.41	1283.13	1286.09	C	UI	inf	+1	1	Um and then there are two different kinds that I found .
+ES2012b.C.dialog-act.vkaraisk.42	1286.09	1289.17	C	UI	inf	+1	1	There's a user centred one and an engineering centred one
+ES2012b.C.dialog-act.vkaraisk.43	1289.17	1290.47	C	UI	inf	-1	0	which I will have pictures of
+ES2012b.C.dialog-act.vkaraisk.44	1290.47	1293.84	C	UI	sug	-1	0	and then we kinda have to decide which one this should be .
+ES2012b.A.dialog-act.vkaraisk.197	1290.98	1291.3	A	PM	bck	-1	0	Mm-hmm .
+ES2012b.C.dialog-act.vkaraisk.45	1295.469	1296.6	C	UI	stl	-1	0	{vocalsound} So
+ES2012b.C.dialog-act.vkaraisk.46	1296.6	1300.0	C	UI	inf	+1	1	these are the two different ones .
+ES2012b.C.dialog-act.vkaraisk.47	1300.0	1302.66	C	UI	inf	+1	1	This one um {disfmarker} this is the user centred ,
+ES2012b.C.dialog-act.vkaraisk.48	1302.66	1307.49	C	UI	inf	+1	1	it has uh quite a few mm uh um fewer buttons
+ES2012b.D.dialog-act.vkaraisk.171	1302.476	1303.424	D	ME	fra	-1	0	{vocalsound}
+ES2012b.C.dialog-act.vkaraisk.49	1307.49	1310.87	C	UI	inf	+1	1	and then this is the engineering centred ,
+ES2012b.C.dialog-act.vkaraisk.50	1310.87	1312.46	C	UI	inf	+1	1	which has a lot more buttons ,
+ES2012b.A.dialog-act.vkaraisk.198	1312.17	1312.64	A	PM	bck	-1	0	Mm-hmm .
+ES2012b.C.dialog-act.vkaraisk.51	1312.46	1317.01	C	UI	inf	-1	0	and probably this is one that people complain about , about having too many buttons
+ES2012b.C.dialog-act.vkaraisk.52	1317.01	1319.28	C	UI	inf	-1	0	that you don't use .
+ES2012b.C.dialog-act.vkaraisk.53	1319.28	1321.41	C	UI	stl	-1	0	So basically ,
+ES2012b.C.dialog-act.vkaraisk.54	1321.41	1326.09	C	UI	inf	+1	1	what a remote control is is you {disfmarker} it's to send messages to the television set ,
+ES2012b.C.dialog-act.vkaraisk.55	1326.09	1326.59	C	UI	stl	-1	0	you know ,
+ES2012b.C.dialog-act.vkaraisk.56	1326.59	1331.25	C	UI	inf	+1	1	turn on , off , switch the channels and the volume and things such as that .
+ES2012b.C.dialog-act.vkaraisk.57	1331.25	1334.2	C	UI	inf	+1	1	And so for this product it's gonna be television only ,
+ES2012b.C.dialog-act.vkaraisk.58	1334.2	1337.82	C	UI	inf	+1	1	and then it has to have the uh logos
+ES2012b.C.dialog-act.vkaraisk.59	1338.92	1341.47	C	UI	inf	-1	0	for the company and the colours .
+ES2012b.C.dialog-act.vkaraisk.60	1341.47	1342.19	C	UI	stl	-1	0	And so ,
+ES2012b.C.dialog-act.vkaraisk.61	1342.19	1345.82	C	UI	ass	+1	1	for my personal preferences , I think this one is easier to use
+ES2012b.C.dialog-act.vkaraisk.62	1345.82	1348.32	C	UI	ass	+1	2	and has quite a {disfmarker} you know , fewer buttons .
+ES2012b.C.dialog-act.vkaraisk.63	1348.32	1353.27	C	UI	inf	+1	1	Um we want something that sends messages easily to the television
+ES2012b.C.dialog-act.vkaraisk.64	1353.27	1356.91	C	UI	inf	-1	0	and I was kind of wondering about this example that they have .
+ES2012b.C.dialog-act.vkaraisk.65	1356.91	1358.66	C	UI	inf	-1	0	It looks kind of narrow at the top ,
+ES2012b.C.dialog-act.vkaraisk.66	1358.66	1362.2	C	UI	sug	+1	1	and I was thinking maybe if it were wider at the top ,
+ES2012b.A.dialog-act.vkaraisk.199	1361.2	1362.13	A	PM	bck	-1	0	Mm , yeah .
+ES2012b.C.dialog-act.vkaraisk.67	1362.2	1363.46	C	UI	ass	+1	1	then that would be easier .
+ES2012b.C.dialog-act.vkaraisk.68	1364.25	1366.16	C	UI	stl	-1	0	Um {vocalsound} and so
+ES2012b.C.dialog-act.vkaraisk.69	1366.16	1368.58	C	UI	sug	-1	0	we have to decide what's gonna make our product different .
+ES2012b.C.dialog-act.vkaraisk.70	1368.58	1369.61	C	UI	fra	-1	0	E
+ES2012b.C.dialog-act.vkaraisk.71	1369.61	1371.76	C	UI	sug	+1	1	the unique style , maybe have it light up
+ES2012b.C.dialog-act.vkaraisk.72	1371.76	1373.52	C	UI	inf	-1	0	so it's visible in the dark ,
+ES2012b.C.dialog-act.vkaraisk.73	1373.52	1375.68	C	UI	sug	+1	2	um the changeable face-plates ,
+ES2012b.C.dialog-act.vkaraisk.74	1375.68	1378.02	C	UI	fra	-1	0	and the lighting up and visible I was {disfmarker}
+ES2012b.C.dialog-act.vkaraisk.75	1378.02	1379.97	C	UI	inf	+1	1	when we were talking about havi losing it ,
+ES2012b.C.dialog-act.vkaraisk.76	1379.97	1386.28	C	UI	sug	+1	1	maybe to have a button on the television that you press and it {disfmarker} maybe if it makes a noise or lights up or something like that ,
+ES2012b.C.dialog-act.vkaraisk.77	1386.28	1391.45	C	UI	ass	-1	0	so it's easier to find if someone has hidden under the couch or something like that .
+ES2012b.C.dialog-act.vkaraisk.78	1393.56	1393.71	C	UI	stl	-1	0	So
+ES2012b.C.dialog-act.vkaraisk.79	1393.71	1397.47	C	UI	inf	-1	0	that's my presentation . Yeah .
+ES2012b.A.dialog-act.vkaraisk.200	1397.36	1398.21	A	PM	stl	-1	0	Okay ,
+ES2012b.A.dialog-act.vkaraisk.201	1398.21	1402.27	A	PM	fra	-1	0	can I um {disfmarker} I'm actually gonna use the um {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.202	1402.27	1404.24	A	PM	ass	-1	0	it's gonna cause great technical problems over here .
+ES2012b.A.dialog-act.vkaraisk.203	1404.24	1405.712	A	PM	off	-1	0	I'm actually gonna use the {disfmarker}
+ES2012b.C.dialog-act.vkaraisk.81	1414.93	1415.03	C	UI	fra	-1	0	F
+ES2012b.C.dialog-act.vkaraisk.82	1415.03	1418.5	C	UI	inf	-1	0	they probably clip to you .
+ES2012b.B.dialog-act.vkaraisk.38	1416.8	1417.12	B	ID	und	-1	0	Oh yeah ,
+ES2012b.B.dialog-act.vkaraisk.39	1417.12	1418.14	B	ID	inf	-1	0	they might be movable .
+ES2012b.D.dialog-act.vkaraisk.172	1417.3	1417.84	D	ME	ass	-1	0	Yeah .
+ES2012b.B.dialog-act.vkaraisk.40	1418.14	1418.52	B	ID	stl	-1	0	Oh yeah ,
+ES2012b.B.dialog-act.vkaraisk.41	1418.52	1418.85	B	ID	fra	-1	0	they're all {disfmarker}
+ES2012b.B.dialog-act.vkaraisk.42	1418.85	1420.16	B	ID	inf	-1	0	they're not connected to anything on the table ,
+ES2012b.B.dialog-act.vkaraisk.43	1420.16	1420.83	B	ID	inf	-1	0	you just leave 'em on
+ES2012b.B.dialog-act.vkaraisk.44	1420.83	1421.47	B	ID	inf	-1	0	and walk around with 'em .
+ES2012b.B.dialog-act.vkaraisk.45	1423.683	1425.233	B	ID	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.204	1444.1	1444.25	A	PM	stl	-1	0	Yes ,
+ES2012b.A.dialog-act.vkaraisk.205	1444.25	1446.72	A	PM	fra	+1	1	rather than the uh the the traditional {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.206	1446.72	1450.18	A	PM	off	-1	0	in fact , um I won't even go that far .
+ES2012b.A.dialog-act.vkaraisk.207	1450.18	1455.96	A	PM	sug	+1	1	Um something like this shape ,
+ES2012b.A.dialog-act.vkaraisk.208	1455.96	1456.17	A	PM	stl	-1	0	you know ,
+ES2012b.A.dialog-act.vkaraisk.209	1456.17	1459.94	A	PM	sug	+1	1	sort of something that you can {disfmarker} that's sort of a more vertical shape ,
+ES2012b.A.dialog-act.vkaraisk.210	1459.94	1463.39	A	PM	sug	-1	0	um that you you sort of hold in your hand ,
+ES2012b.A.dialog-act.vkaraisk.211	1463.39	1464.18	A	PM	stl	-1	0	um , well
+ES2012b.A.dialog-act.vkaraisk.212	1464.18	1464.78	A	PM	inf	-1	0	I'm trying to think
+ES2012b.A.dialog-act.vkaraisk.213	1465.9	1470.43	A	PM	sug	+1	1	uh uh uh l uh l such as {disfmarker} I mean um something you hold up like that ,
+ES2012b.A.dialog-act.vkaraisk.214	1470.43	1472.39	A	PM	sug	+1	0	possibly with a couple of buttons like that ,
+ES2012b.A.dialog-act.vkaraisk.215	1472.39	1477.25	A	PM	sug	-1	0	but with the the entire top with the , you know , the uh the infrared or whatever source .
+ES2012b.B.dialog-act.vkaraisk.46	1472.61	1472.88	B	ID	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.216	1478.1	1482.15	A	PM	sug	-1	0	Uh so that you know , it's flying off in all directions ,
+ES2012b.B.dialog-act.vkaraisk.47	1480.96	1481.27	B	ID	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.217	1482.15	1484.95	A	PM	fra	-1	0	so that uh um uh {vocalsound}
+ES2012b.A.dialog-act.vkaraisk.218	1484.95	1488.78	A	PM	sug	+1	0	again the {disfmarker} n need to look at the the the technicalities of um
+ES2012b.A.dialog-act.vkaraisk.219	1492.48	1511.16	A	PM	sug	-1	0	actually achieving that in terms of whether the , you know , the power requirements of the uh {disfmarker} such a source , um you know , compromise the {disfmarker} our our need for uh you know , it it being um mm permanently uh you know , available .
+ES2012b.B.dialog-act.vkaraisk.48	1492.079	1493.181	B	ID	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.220	1511.16	1514.72	A	PM	fra	-1	0	Uh whether whether different technology {disfmarker} um
+ES2012b.A.dialog-act.vkaraisk.221	1514.72	1518.42	A	PM	inf	-1	0	I mean th all all these remotes are presumably infrared ,
+ES2012b.A.dialog-act.vkaraisk.222	1518.42	1520.63	A	PM	inf	-1	0	and like they have been for a long time .
+ES2012b.A.dialog-act.vkaraisk.223	1520.63	1529.14	A	PM	sug	-1	0	Uh we we possibly need to be looking at at at something different , um you know , short range , not like the old uh radio remote controls
+ES2012b.A.dialog-act.vkaraisk.225	1529.14	1533.43	A	PM	inf	-1	0	where you'd change next door's telly when you change yours . Um
+ES2012b.B.dialog-act.vkaraisk.49	1530.816	1532.601	B	ID	fra	-1	0	{vocalsound}
+ES2012b.C.dialog-act.vkaraisk.83	1530.722	1532.22	C	UI	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.226	1535.62	1538.16	A	PM	fra	-1	0	but uh uh I think basically i if we're going for {disfmarker} i
+ES2012b.A.dialog-act.vkaraisk.227	1538.16	1548.83	A	PM	sug	+1	1	if minimum number of buttons is our priority , then we should , as I say , r know , really bite the bullets and and reduce the buttons to absolute minimum ,
+ES2012b.A.dialog-act.vkaraisk.228	1548.83	1549.0	A	PM	stl	-1	0	you know ,
+ES2012b.A.dialog-act.vkaraisk.229	1549.0	1555.15	A	PM	sug	+1	1	possibly with backup channel and volume buttons and on off . Um and nothing else .
+ES2012b.A.dialog-act.vkaraisk.230	1555.952	1561.87	A	PM	sug	-1	0	{vocalsound} Um so that it can al it could uh almost end up like that ,
+ES2012b.A.dialog-act.vkaraisk.231	1561.87	1564.94	A	PM	ass	-1	0	but again , except that um {disfmarker} you know the risk of losing it .
+ES2012b.A.dialog-act.vkaraisk.232	1564.94	1567.25	A	PM	stl	-1	0	Um anyway okay um so
+ES2012b.A.dialog-act.vkaraisk.233	1567.25	1571.32	A	PM	sug	-1	0	Kate , wh what are your uh your thoughts on this ?
+ES2012b.B.dialog-act.vkaraisk.50	1567.74	1569.52	B	ID	ass	-1	0	Yes , mm . {gap}
+ES2012b.C.dialog-act.vkaraisk.84	1568.95	1569.63	C	UI	oth	-1	0	Oh .
+ES2012b.B.dialog-act.vkaraisk.51	1572.6	1573.88	B	ID	el.inf	-1	0	Which one does this plug into ?
+ES2012b.C.dialog-act.vkaraisk.85	1574.01	1577.24	C	UI	inf	-1	0	Hmm I think it's all there .
+ES2012b.B.dialog-act.vkaraisk.52	1577.13	1577.57	B	ID	oth	-1	0	That one .
+ES2012b.C.dialog-act.vkaraisk.86	1579.85	1580.27	C	UI	fra	-1	0	H
+ES2012b.B.dialog-act.vkaraisk.53	1605.49	1606.55	B	ID	fra	-1	0	I can't {disfmarker} did you {gap} {disfmarker}
+ES2012b.B.dialog-act.vkaraisk.54	1606.55	1607.6	B	ID	el.inf	-1	0	could you see it on you screen
+ES2012b.B.dialog-act.vkaraisk.55	1607.6	1607.994	B	ID	fra	-1	0	when it {disfmarker}
+ES2012b.C.dialog-act.vkaraisk.87	1607.9	1611.22	C	UI	inf	-1	0	Oh yeah .
+ES2012b.B.dialog-act.vkaraisk.56	1608.816	1614.51	B	ID	ass	-1	0	{vocalsound} That's not cool . {vocalsound}
+ES2012b.C.dialog-act.vkaraisk.88	1611.22	1614.12	C	UI	ass	-1	0	That's kind of strange .
+ES2012b.B.dialog-act.vkaraisk.57	1614.51	1614.94	B	ID	oth	-1	0	Oh well .
+ES2012b.B.dialog-act.vkaraisk.58	1614.94	1617.75	B	ID	stl	-1	0	Anyways . Um alright , yeah , so um
+ES2012b.B.dialog-act.vkaraisk.59	1617.75	1620.81	B	ID	off	+1	1	I'll just do my presentation on the working design uh .
+ES2012b.B.dialog-act.vkaraisk.60	1624.896	1626.34	B	ID	oth	-1	0	{vocalsound} Oh there we go .
+ES2012b.B.dialog-act.vkaraisk.61	1627.9	1628.94	B	ID	stl	-1	0	Okay um
+ES2012b.B.dialog-act.vkaraisk.62	1628.94	1633.08	B	ID	inf	-1	0	just at the m yeah the whole sort of method of how the remote control works .
+ES2012b.B.dialog-act.vkaraisk.63	1633.08	1639.26	B	ID	inf	+1	1	Uh the basic function of the remote control is to send messages to another sh system , the the T_V_ or the D_V_D_ player or whatever .
+ES2012b.D.dialog-act.vkaraisk.173	1636.566	1653.743	D	ME	fra	-1	0	{vocalsound} {vocalsound}
+ES2012b.B.dialog-act.vkaraisk.64	1639.26	1643.83	B	ID	inf	+1	1	Um and it does this uh by {disfmarker} well , you need {disfmarker} to start off you need an energy source {vocalsound}
+ES2012b.B.dialog-act.vkaraisk.65	1643.83	1647.4	B	ID	inf	+1	1	and this energy source will feed into an integrated circuit chip
+ES2012b.B.dialog-act.vkaraisk.66	1647.4	1652.24	B	ID	inf	+1	1	and the circuit chip is the part that actually composes the different messages uh within the remote
+ES2012b.B.dialog-act.vkaraisk.67	1652.24	1657.15	B	ID	inf	+1	1	um which will then be sent to the uh the television , the D_V_D_ to tell that what to do .
+ES2012b.B.dialog-act.vkaraisk.68	1657.15	1658.85	B	ID	inf	+1	1	Um and you need a user interface ,
+ES2012b.B.dialog-act.vkaraisk.69	1658.85	1661.23	B	ID	inf	+1	1	which controls the chip and thus the messages
+ES2012b.B.dialog-act.vkaraisk.70	1661.23	1670.817	B	ID	inf	+1	1	and uh the user interface is {disfmarker} that's basically just you kn the s sorta design of the actual remote which you hold in your hands and what buttons will be on it . Um {disfmarker}
+ES2012b.B.dialog-act.vkaraisk.71	1673.3	1677.44	B	ID	ass	-1	0	Oh shoot .
+ES2012b.B.dialog-act.vkaraisk.72	1677.44	1678.27	B	ID	ass	-1	0	Okay .
+ES2012b.B.dialog-act.vkaraisk.73	1678.27	1680.11	B	ID	inf	-1	0	Uh just general findings .
+ES2012b.B.dialog-act.vkaraisk.74	1680.11	1686.95	B	ID	inf	+1	1	Uh what we need uh technically speaking for the remote control is some sort of energy source , {vocalsound} uh some sort of user interface ,
+ES2012b.B.dialog-act.vkaraisk.75	1686.95	1690.78	B	ID	inf	+1	1	which I think we've mostly been talking about the user interface and the design of that .
+ES2012b.B.dialog-act.vkaraisk.76	1690.78	1697.61	B	ID	inf	+1	1	Um a circuit chip within that to uh control and send the messages and um a sender and receiver .
+ES2012b.B.dialog-act.vkaraisk.77	1702.3	1703.46	B	ID	stl	-1	0	And um {disfmarker}
+ES2012b.B.dialog-act.vkaraisk.78	1703.46	1704.93	B	ID	oth	-1	0	oops .
+ES2012b.B.dialog-act.vkaraisk.79	1704.93	1705.42	B	ID	oth	-1	0	Uh-huh .
+ES2012b.B.dialog-act.vkaraisk.80	1707.03	1710.1	B	ID	inf	+1	1	This is just sort of a little schematic diagram of what we're looking for .
+ES2012b.B.dialog-act.vkaraisk.81	1710.1	1712.37	B	ID	inf	-1	0	Uh this just kinda represents the energy source
+ES2012b.D.dialog-act.vkaraisk.174	1710.7	1710.81	D	ME	bck	-1	0	Hmm .
+ES2012b.B.dialog-act.vkaraisk.82	1712.37	1714.49	B	ID	inf	-1	0	which feeds into the circuit chip
+ES2012b.B.dialog-act.vkaraisk.83	1714.49	1717.01	B	ID	inf	-1	0	uh which maybe then we could have that feed into a switch
+ES2012b.B.dialog-act.vkaraisk.84	1717.01	1722.47	B	ID	inf	-1	0	which would send signals f to um {vocalsound} a subcomponent and on to a light bulb between {disfmarker}
+ES2012b.B.dialog-act.vkaraisk.85	1722.47	1725.75	B	ID	inf	-1	0	so it'll light up once we start {disfmarker} once you start pressing buttons .
+ES2012b.B.dialog-act.vkaraisk.86	1725.75	1729.77	B	ID	inf	-1	0	Um also send signals to the um infrared bulb ,
+ES2012b.B.dialog-act.vkaraisk.87	1729.77	1735.65	B	ID	inf	-1	0	which will be the part that actually {disfmarker} {vocalsound} what ? Sends signals to the the television .
+ES2012b.B.dialog-act.vkaraisk.88	1735.65	1737.87	B	ID	inf	-1	0	And then you've got your happy little T_V_ watcher there .
+ES2012b.C.dialog-act.vkaraisk.89	1738.256	1741.066	C	UI	fra	-1	0	{vocalsound}
+ES2012b.B.dialog-act.vkaraisk.89	1741.01	1742.05	B	ID	stl	-1	0	And so
+ES2012b.B.dialog-act.vkaraisk.90	1742.05	1743.22	B	ID	off	+1	1	my personal preferences {disfmarker}
+ES2012b.B.dialog-act.vkaraisk.91	1743.22	1746.81	B	ID	sug	+1	1	I I just think we need sorta big uh energy source that won't die out ,
+ES2012b.B.dialog-act.vkaraisk.92	1746.81	1748.79	B	ID	sug	+1	1	uh perhaps some sort of rechargeable battery
+ES2012b.B.dialog-act.vkaraisk.93	1748.79	1750.85	B	ID	sug	+1	1	or a battery dock you could place it in ,
+ES2012b.B.dialog-act.vkaraisk.94	1750.85	1751.95	B	ID	inf	-1	0	so it'd constantly be charged ,
+ES2012b.B.dialog-act.vkaraisk.95	1751.95	1757.3	B	ID	inf	+1	1	so you wouldn't have to uh be worrying about it running out of batteries and not changing channels for you .
+ES2012b.B.dialog-act.vkaraisk.96	1757.3	1759.55	B	ID	sug	-1	0	Uh a wide range uh sender-receiver ,
+ES2012b.B.dialog-act.vkaraisk.97	1759.55	1764.98	B	ID	inf	-1	0	so that you can hit the buttons from basically anywhere in the room , and the channel'll still be changed .
+ES2012b.B.dialog-act.vkaraisk.98	1764.98	1768.61	B	ID	sug	+1	1	Uh also definitely a user-friendly interface {vocalsound}
+ES2012b.B.dialog-act.vkaraisk.99	1768.61	1772.17	B	ID	inf	+1	1	um and I think we've all sort of mentioned adding a a locating device on it ,
+ES2012b.B.dialog-act.vkaraisk.100	1772.17	1780.53	B	ID	inf	-1	0	so when it does get stuck under the couch cushions , as they inevitably do , you can find them easily .
+ES2012b.B.dialog-act.vkaraisk.101	1780.53	1781.69	B	ID	inf	-1	0	And that's pretty much it .
+ES2012b.A.dialog-act.vkaraisk.234	1782.29	1782.88	A	PM	ass	-1	0	Okay .
+ES2012b.A.dialog-act.vkaraisk.235	1784.75	1789.25	A	PM	sug	-1	0	Uh it seems seems to me there are a number of fundamental decisions to make
+ES2012b.A.dialog-act.vkaraisk.236	1789.25	1791.64	A	PM	fra	-1	0	before we um {disfmarker}
+ES2012b.B.dialog-act.vkaraisk.102	1789.17	1789.928	B	ID	bck	-1	0	Mm . {gap}
+ES2012b.A.dialog-act.vkaraisk.237	1791.64	1797.46	A	PM	ass	+1	1	I think your point about the the big energy source is uh a very valid one .
+ES2012b.B.dialog-act.vkaraisk.103	1794.15	1794.33	B	ID	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.238	1797.46	1807.66	A	PM	el.inf	+1	1	Um I don't suppose we've got any statistics on the the life expectancy of uh remote controls , particularly sort of independent ones .
+ES2012b.A.dialog-act.vkaraisk.239	1807.66	1809.06	A	PM	inf	-1	0	Um given
+ES2012b.A.dialog-act.vkaraisk.240	1810.16	1815.41	A	PM	inf	+1	1	you know , the number of things you buy these days , which you know , have a a a lithium whatever battery in ,
+ES2012b.A.dialog-act.vkaraisk.241	1815.41	1818.85	A	PM	inf	-1	0	that's uh , you know never needs replacing .
+ES2012b.B.dialog-act.vkaraisk.104	1817.696	1818.432	B	ID	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.242	1818.85	1822.2	A	PM	sug	+1	2	Um perhaps we should have the the disposable remote control ,
+ES2012b.A.dialog-act.vkaraisk.243	1822.2	1825.14	A	PM	fra	-1	0	uh um you know ,
+ES2012b.A.dialog-act.vkaraisk.244	1825.14	1827.1	A	PM	fra	-1	0	one {disfmarker} some sort of typical usage .
+ES2012b.A.dialog-act.vkaraisk.245	1827.1	1827.29	A	PM	stl	-1	0	You know ,
+ES2012b.A.dialog-act.vkaraisk.246	1827.29	1828.65	A	PM	sug	+1	2	the the the battery will last
+ES2012b.A.dialog-act.vkaraisk.247	1829.64	1831.26	A	PM	sug	+1	2	know , five , ten years .
+ES2012b.A.dialog-act.vkaraisk.248	1832.34	1841.12	A	PM	inf	-1	0	By which time {disfmarker} I mean when all's said and done , the digital television {vocalsound} will be taking over in that time scale . Um
+ES2012b.B.dialog-act.vkaraisk.105	1838.39	1838.65	B	ID	bck	-1	0	Mm .
+ES2012b.D.dialog-act.vkaraisk.175	1840.04	1840.2	D	ME	bck	-1	0	Mm-hmm .
+ES2012b.A.dialog-act.vkaraisk.249	1842.05	1847.48	A	PM	sug	+1	1	uh uh p perhaps we should , know , reduce the uh , you know , the sort of moving parts even more by not even having a battery compartment
+ES2012b.A.dialog-act.vkaraisk.250	1847.48	1849.204	A	PM	fra	-1	0	and uh {disfmarker}
+ES2012b.B.dialog-act.vkaraisk.106	1848.4	1851.31	B	ID	el.inf	+1	1	Just having one that's guaranteed to last five to ten years ?
+ES2012b.A.dialog-act.vkaraisk.251	1850.88	1851.24	A	PM	inf	-1	0	Yeah ,
+ES2012b.A.dialog-act.vkaraisk.252	1851.24	1855.21	A	PM	sug	-1	0	and if if anybody manages to run it down , we'll we'll give 'em a new one .
+ES2012b.B.dialog-act.vkaraisk.107	1851.31	1852.2	B	ID	ass	-1	0	Oh , cool .
+ES2012b.B.dialog-act.vkaraisk.108	1853.12	1855.62	B	ID	ass	-1	0	{vocalsound} Yeah , fair enough .
+ES2012b.C.dialog-act.vkaraisk.90	1854.208	1854.912	C	UI	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.253	1855.21	1862.2	A	PM	fra	-1	0	Um it's , you know , it's {disfmarker} what it saves in cost and you know there there's a {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.254	1862.2	1862.5	A	PM	stl	-1	0	well ,
+ES2012b.A.dialog-act.vkaraisk.255	1862.5	1863.68	A	PM	inf	+1	1	it's actually a marketing gimmick .
+ES2012b.A.dialog-act.vkaraisk.256	1863.68	1864.63	A	PM	ass	-1	0	I mean it's hardly a gimmick ,
+ES2012b.A.dialog-act.vkaraisk.257	1864.63	1866.78	A	PM	inf	+1	1	it's uh it's totally practical .
+ES2012b.A.dialog-act.vkaraisk.258	1866.78	1869.91	A	PM	fra	+1	2	Uh so I th think you know the idea of a rechargeable one is um
+ES2012b.A.dialog-act.vkaraisk.259	1871.34	1877.6	A	PM	sug	+1	2	uh unless you're really high tech and it sort of just recharges itself if it's n by , you know , magnetic waves or whatever ,
+ES2012b.A.dialog-act.vkaraisk.260	1877.6	1879.147	A	PM	fra	-1	0	if if it {disfmarker}
+ES2012b.D.dialog-act.vkaraisk.176	1878.12	1883.84	D	ME	sug	+1	2	It could have like uh {disfmarker} know like a cordless phone in your house it s got like a base that sits there all the time .
+ES2012b.A.dialog-act.vkaraisk.261	1882.65	1883.72	A	PM	und	-1	0	Yeah . {vocalsound}
+ES2012b.B.dialog-act.vkaraisk.109	1882.79	1883.77	B	ID	bck	-1	0	Mm , mm .
+ES2012b.A.dialog-act.vkaraisk.262	1883.72	1886.61	A	PM	el.ass	-1	0	Are are people really gonna use it though ? Um .
+ES2012b.C.dialog-act.vkaraisk.91	1885.81	1886.12	C	UI	ass	-1	0	Yeah ,
+ES2012b.C.dialog-act.vkaraisk.92	1886.12	1886.97	C	UI	fra	-1	0	people are pro
+ES2012b.D.dialog-act.vkaraisk.177	1885.648	1887.05	D	ME	ass	-1	0	{vocalsound} I suppose , yeah .
+ES2012b.B.dialog-act.vkaraisk.110	1886.73	1887.33	B	ID	ass	-1	0	Mm yeah {vocalsound}
+ES2012b.C.dialog-act.vkaraisk.93	1886.97	1889.16	C	UI	inf	-1	0	I would think that people might forget {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.263	1889.64	1890.843	A	PM	fra	-1	0	I I th I think {disfmarker}
+ES2012b.C.dialog-act.vkaraisk.94	1889.16	1892.01	C	UI	inf	+1	2	I mean people forget to put their cordless phones back on there ,
+ES2012b.D.dialog-act.vkaraisk.178	1889.284	1890.194	D	ME	fra	-1	0	{gap}
+ES2012b.B.dialog-act.vkaraisk.111	1891.92	1892.16	B	ID	bck	-1	0	Mm-mm .
+ES2012b.C.dialog-act.vkaraisk.95	1892.01	1892.37	C	UI	fra	-1	0	so .
+ES2012b.A.dialog-act.vkaraisk.264	1892.52	1892.88	A	PM	ass	-1	0	Yeah ,
+ES2012b.A.dialog-act.vkaraisk.265	1892.88	1893.29	A	PM	fra	-1	0	it's
+ES2012b.D.dialog-act.vkaraisk.179	1892.759	1895.568	D	ME	ass	-1	0	{vocalsound} Yeah . {vocalsound}
+ES2012b.A.dialog-act.vkaraisk.266	1893.29	1897.22	A	PM	inf	-1	0	um {disfmarker} I mean I know that somei times my my wife goes out in the morning
+ES2012b.A.dialog-act.vkaraisk.267	1897.22	1899.54	A	PM	inf	-1	0	and says oh I should have put the phone on to charge
+ES2012b.B.dialog-act.vkaraisk.112	1898.78	1899.32	B	ID	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.268	1899.54	1904.41	A	PM	inf	-1	0	and then then she's had those for so long that if she hasn't worked that out by now . Um .
+ES2012b.B.dialog-act.vkaraisk.113	1905.03	1908.62	B	ID	inf	+1	1	'Cause I only remember to charge my cell phone uh when battery dies . {vocalsound}
+ES2012b.B.dialog-act.vkaraisk.114	1908.62	1910.08	B	ID	fra	-1	0	And that's pretty much {disfmarker}
+ES2012b.C.dialog-act.vkaraisk.96	1908.272	1909.53	C	UI	ass	-1	0	{vocalsound} Yeah .
+ES2012b.D.dialog-act.vkaraisk.180	1908.352	1909.68	D	ME	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.269	1909.57	1909.8	A	PM	fra	-1	0	When it {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.270	1909.8	1909.96	A	PM	stl	-1	0	yeah ,
+ES2012b.A.dialog-act.vkaraisk.271	1909.96	1911.85	A	PM	be.pos	-1	0	wh when it's died is a problem .
+ES2012b.B.dialog-act.vkaraisk.117	1910.08	1911.27	B	ID	ass	-1	0	yeah . Yeah ,
+ES2012b.B.dialog-act.vkaraisk.115	1911.27	1913.57	B	ID	inf	-1	0	when it turns itself off , that's when I plug it in ,
+ES2012b.A.dialog-act.vkaraisk.272	1911.85	1913.3	A	PM	bck	-1	0	Yeah , yeah ,
+ES2012b.A.dialog-act.vkaraisk.273	1913.3	1916.14	A	PM	stl	-1	0	yeah , {gap} so uh um
+ES2012b.B.dialog-act.vkaraisk.116	1913.57	1915.232	B	ID	ass	-1	0	yeah . {vocalsound}
+ES2012b.C.dialog-act.vkaraisk.97	1913.26	1914.388	C	UI	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.274	1916.14	1921.75	A	PM	el.ass	+1	2	what so wh what what do we think about the um the the permanent mm battery ?
+ES2012b.B.dialog-act.vkaraisk.118	1921.83	1923.89	B	ID	ass	-1	0	Yeah , think that's a good idea .
+ES2012b.C.dialog-act.vkaraisk.98	1923.26	1923.32	C	UI	oth	-1	0	No .
+ES2012b.D.dialog-act.vkaraisk.181	1922.97	1925.04	D	ME	ass	+1	2	Uh . That sounds pretty good , yeah .
+ES2012b.A.dialog-act.vkaraisk.275	1925.46	1925.88	A	PM	fra	-1	0	Is the
+ES2012b.A.dialog-act.vkaraisk.276	1925.88	1926.41	A	PM	stl	-1	0	uh {disfmarker} you know ,
+ES2012b.A.dialog-act.vkaraisk.277	1926.41	1931.46	A	PM	ass	-1	0	we we we are really going for the ultimate in ex uh external simplicity here .
+ES2012b.C.dialog-act.vkaraisk.99	1926.62	1926.79	C	UI	bck	-1	0	Um .
+ES2012b.B.dialog-act.vkaraisk.119	1930.01	1930.81	B	ID	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.278	1931.46	1932.79	A	PM	stl	-1	0	Um you know ,
+ES2012b.A.dialog-act.vkaraisk.279	1932.79	1934.0	A	PM	inf	-1	0	cut cost within the
+ES2012b.A.dialog-act.vkaraisk.280	1935.01	1936.04	A	PM	inf	-1	0	manufacturing
+ES2012b.A.dialog-act.vkaraisk.281	1936.04	1942.72	A	PM	inf	-1	0	and uh you know , if we have a high tech interior , then then that that sh may well be cost effective .
+ES2012b.C.dialog-act.vkaraisk.100	1943.27	1944.99	C	UI	el.inf	+1	2	Do they make batteries that last that long ?
+ES2012b.A.dialog-act.vkaraisk.282	1945.64	1945.83	A	PM	stl	-1	0	I mean
+ES2012b.A.dialog-act.vkaraisk.283	1945.83	1946.11	A	PM	fra	-1	0	th th
+ES2012b.A.dialog-act.vkaraisk.284	1946.11	1946.72	A	PM	inf	-1	0	certainly .
+ES2012b.A.dialog-act.vkaraisk.285	1946.72	1950.76	A	PM	inf	-1	0	Um I can't think of anything off the s top of my head ,
+ES2012b.B.dialog-act.vkaraisk.120	1949.844	1958.47	B	ID	inf	-1	0	{vocalsound} They usually have the little light uh {vocalsound} source ,
+ES2012b.A.dialog-act.vkaraisk.286	1950.76	1953.94	A	PM	inf	+1	2	but there are certainly things that you buy . I mean calculators for example .
+ES2012b.B.dialog-act.vkaraisk.121	1958.47	1959.56	B	ID	inf	-1	0	I dunno what the heck they're called ,
+ES2012b.C.dialog-act.vkaraisk.101	1958.58	1960.016	C	UI	ass	+1	2	Yeah , they have that little solar {disfmarker}
+ES2012b.B.dialog-act.vkaraisk.122	1959.56	1959.92	B	ID	fra	-1	0	the {disfmarker} but
+ES2012b.A.dialog-act.vkaraisk.287	1960.288	1961.79	A	PM	ass	-1	0	{vocalsound} Som well some do ,
+ES2012b.B.dialog-act.vkaraisk.123	1959.92	1960.99	B	ID	ass	-1	0	yeah , the little cells
+ES2012b.B.dialog-act.vkaraisk.124	1960.99	1961.504	B	ID	fra	-1	0	that {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.288	1961.79	1962.06	A	PM	stl	-1	0	I mean
+ES2012b.A.dialog-act.vkaraisk.289	1962.06	1962.21	A	PM	fra	-1	0	th th
+ES2012b.A.dialog-act.vkaraisk.290	1962.21	1963.36	A	PM	inf	-1	0	but there are battery ones
+ES2012b.B.dialog-act.vkaraisk.125	1962.28	1962.63	B	ID	bck	-1	0	Yeah .
+ES2012b.A.dialog-act.vkaraisk.291	1963.36	1967.21	A	PM	inf	-1	0	that um are you know , sort of permanently sealed .
+ES2012b.D.dialog-act.vkaraisk.182	1964.17	1964.4	D	ME	bck	-1	0	Mm-hmm .
+ES2012b.B.dialog-act.vkaraisk.126	1965.04	1965.87	B	ID	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.292	1967.21	1968.288	A	PM	fra	-1	0	In in fact I'd {disfmarker}
+ES2012b.C.dialog-act.vkaraisk.102	1966.79	1967.27	C	UI	bck	-1	0	Yeah .
+ES2012b.B.dialog-act.vkaraisk.127	1968.58	1970.52	B	ID	el.inf	+1	2	Most of them , don't they have sort of a combination of the two ,
+ES2012b.B.dialog-act.vkaraisk.128	1970.52	1970.68	B	ID	stl	-1	0	like
+ES2012b.B.dialog-act.vkaraisk.129	1970.68	1972.38	B	ID	inf	+1	2	when there is light , they'll work off the light ,
+ES2012b.A.dialog-act.vkaraisk.293	1972.67	1973.33	A	PM	inf	-1	0	Yeah ,
+ES2012b.B.dialog-act.vkaraisk.130	1972.38	1974.47	B	ID	inf	+1	2	and if there isn't , they'll kick into this battery ,
+ES2012b.A.dialog-act.vkaraisk.294	1973.33	1973.76	A	PM	stl	-1	0	uh uh {disfmarker}
+ES2012b.B.dialog-act.vkaraisk.131	1974.47	1976.08	B	ID	sug	+1	2	so we can maybe do something like that
+ES2012b.B.dialog-act.vkaraisk.132	1976.08	1977.51	B	ID	sug	-1	0	whereas there is a battery ,
+ES2012b.B.dialog-act.vkaraisk.133	1977.51	1979.93	B	ID	sug	-1	0	but if there's enough light , then it's using the light ,
+ES2012b.B.dialog-act.vkaraisk.134	1979.93	1982.24	B	ID	inf	-1	0	so that it's not actually draining the battery all the time ,
+ES2012b.B.dialog-act.vkaraisk.135	1982.24	1984.91	B	ID	inf	-1	0	but you will have the battery there for when you need it .
+ES2012b.C.dialog-act.vkaraisk.103	1981.93	1982.29	C	UI	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.295	1983.94	1984.87	A	PM	stl	-1	0	Yeah , I I mean
+ES2012b.A.dialog-act.vkaraisk.297	1984.87	1987.5	A	PM	sug	-1	0	th th this needs going t into the technology a bit .
+ES2012b.B.dialog-act.vkaraisk.136	1986.62	1987.4	B	ID	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.298	1987.5	1991.68	A	PM	inf	+1	1	I mean the the actual time that a remote control is actually operating
+ES2012b.B.dialog-act.vkaraisk.137	1991.64	1992.37	B	ID	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.299	1992.9	1998.36	A	PM	inf	+1	1	I would think is i is is probably , you know , no more than minutes in its entire life .
+ES2012b.A.dialog-act.vkaraisk.300	1999.81	2002.577	A	PM	stl	-1	0	Um . {gap}
+ES2012b.B.dialog-act.vkaraisk.138	1999.8	1999.89	B	ID	stl	-1	0	Oh ,
+ES2012b.B.dialog-act.vkaraisk.139	1999.89	2005.19	B	ID	ass	-1	0	it depend if it's {disfmarker} uh depends who who's using it , who's just sitting there clicking clicking clicking clicking ,
+ES2012b.C.dialog-act.vkaraisk.104	2002.72	2003.27	C	UI	ass	-1	0	Yeah ,
+ES2012b.C.dialog-act.vkaraisk.105	2003.27	2004.816	C	UI	fra	-1	0	some people are {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.301	2003.91	2010.29	A	PM	inf	-1	0	If , but I say if if people are getting R_S_I_ from it then uh then uh then then perhaps we're looking at the wrong market
+ES2012b.B.dialog-act.vkaraisk.140	2005.19	2006.31	B	ID	ass	-1	0	yeah .
+ES2012b.B.dialog-act.vkaraisk.141	2006.31	2006.92	B	ID	ass	-1	0	Yeah , {vocalsound}
+ES2012b.B.dialog-act.vkaraisk.142	2006.92	2008.688	B	ID	inf	-1	0	then they're clicking a lot , yeah . {vocalsound}
+ES2012b.C.dialog-act.vkaraisk.106	2006.85	2008.98	C	UI	bck	-1	0	Yeah . Yeah .
+ES2012b.D.dialog-act.vkaraisk.183	2006.557	2007.515	D	ME	fra	-1	0	{vocalsound}
+ES2012b.D.dialog-act.vkaraisk.184	2009.38	2010.24	D	ME	fra	-1	0	W
+ES2012b.A.dialog-act.vkaraisk.302	2010.29	2010.54	A	PM	fra	-1	0	n
+ES2012b.D.dialog-act.vkaraisk.185	2010.24	2017.81	D	ME	inf	+1	1	like like this um this uh market research thing says number of times per hour that it's used , channel selection a hundred and sixty eight
+ES2012b.C.dialog-act.vkaraisk.107	2018.352	2020.59	C	UI	und	-1	0	{vocalsound} Per hour ?
+ES2012b.A.dialog-act.vkaraisk.303	2019.06	2019.54	A	PM	und	-1	0	Right .
+ES2012b.D.dialog-act.vkaraisk.186	2018.62	2019.61	D	ME	inf	-1	0	times per hour .
+ES2012b.B.dialog-act.vkaraisk.144	2019.37	2024.99	B	ID	inf	-1	0	Yeah . {vocalsound} Yeah .
+ES2012b.D.dialog-act.vkaraisk.187	2020.794	2022.63	D	ME	inf	-1	0	{vocalsound} Yeah .
+ES2012b.C.dialog-act.vkaraisk.108	2022.1	2026.073	C	UI	ass	-1	0	Wow . {vocalsound} That's a lot . {vocalsound}
+ES2012b.A.dialog-act.vkaraisk.304	2025.11	2025.25	A	PM	stl	-1	0	Oh ,
+ES2012b.A.dialog-act.vkaraisk.305	2025.25	2028.26	A	PM	inf	-1	0	I must admit I hadn't um {disfmarker} I'd I'd missed that .
+ES2012b.A.dialog-act.vkaraisk.306	2028.26	2029.6	A	PM	ass	+1	1	That does sound excessive .
+ES2012b.C.dialog-act.vkaraisk.109	2030.651	2032.56	C	UI	fra	-1	0	{gap}
+ES2012b.D.dialog-act.vkaraisk.188	2030.58	2035.136	D	ME	inf	-1	0	But then again , if you think it {disfmarker} of the amount of , you know amount of use it's like {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.307	2035.97	2036.3	A	PM	bck	-1	0	Yeah .
+ES2012b.D.dialog-act.vkaraisk.189	2036.28	2039.11	D	ME	inf	-1	0	That's {disfmarker} it's less than a second , um .
+ES2012b.B.dialog-act.vkaraisk.145	2037.04	2038.8	B	ID	ass	-1	0	Yeah . Yeah .
+ES2012b.C.dialog-act.vkaraisk.110	2038.04	2038.61	C	UI	ass	-1	0	Yeah .
+ES2012b.A.dialog-act.vkaraisk.308	2039.8	2039.89	A	PM	stl	-1	0	Well
+ES2012b.A.dialog-act.vkaraisk.309	2039.89	2040.31	A	PM	ass	-1	0	that's right ,
+ES2012b.A.dialog-act.vkaraisk.310	2040.31	2046.53	A	PM	el.inf	-1	0	and and I I don't I don't even know whether the I don't even know whether the s the signal lasts as long as you actually keep the button pressed ,
+ES2012b.B.dialog-act.vkaraisk.146	2045.16	2045.54	B	ID	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.312	2046.53	2048.08	A	PM	el.inf	-1	0	or whether it's just a
+ES2012b.D.dialog-act.vkaraisk.190	2047.946	2049.64	D	ME	bck	-1	0	{vocalsound} Yeah .
+ES2012b.A.dialog-act.vkaraisk.311	2049.4	2052.24	A	PM	el.inf	-1	0	sorta tenth of a second , no matter how long you press it for ,
+ES2012b.A.dialog-act.vkaraisk.313	2052.24	2054.82	A	PM	inf	-1	0	I don't know I don't actually know . Um .
+ES2012b.C.dialog-act.vkaraisk.111	2054.33	2059.96	C	UI	inf	-1	0	Though I think with digital T_V_ , like I know on my cable box , you're not supposed to do that
+ES2012b.C.dialog-act.vkaraisk.112	2059.96	2062.63	C	UI	inf	-1	0	because the channel can't keep up with it if you just press it like that ,
+ES2012b.A.dialog-act.vkaraisk.314	2061.68	2061.99	A	PM	bck	-1	0	Yeah .
+ES2012b.B.dialog-act.vkaraisk.147	2061.88	2062.49	B	ID	bck	-1	0	Mm .
+ES2012b.C.dialog-act.vkaraisk.113	2062.63	2066.2	C	UI	inf	-1	0	so you're supposed to use the menu and go through the different
+ES2012b.A.dialog-act.vkaraisk.315	2064.84	2065.15	A	PM	bck	-1	0	Mm-hmm .
+ES2012b.D.dialog-act.vkaraisk.191	2064.88	2065.18	D	ME	bck	-1	0	Mm-hmm .
+ES2012b.C.dialog-act.vkaraisk.114	2067.66	2069.536	C	UI	inf	-1	0	channels that way instead of {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.316	2071.28	2071.95	A	PM	bck	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.317	2073.231	2074.188	A	PM	fra	-1	0	{gap}
+ES2012b.B.dialog-act.vkaraisk.148	2075.616	2077.12	B	ID	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.318	2077.65	2078.1	A	PM	stl	-1	0	Right , so
+ES2012b.A.dialog-act.vkaraisk.319	2078.1	2079.34	A	PM	inf	-1	0	I've got a message to say five minutes ,
+ES2012b.A.dialog-act.vkaraisk.320	2079.34	2081.13	A	PM	inf	-1	0	I dunno how long ago that appeared .
+ES2012b.A.dialog-act.vkaraisk.321	2081.13	2083.46	A	PM	fra	-1	0	Um 'cause we're we're getting
+ES2012b.C.dialog-act.vkaraisk.115	2081.45	2082.14	C	UI	ass	-1	0	Uh-oh .
+ES2012b.A.dialog-act.vkaraisk.322	2083.46	2084.98	A	PM	stl	-1	0	um {disfmarker} right , so
+ES2012b.A.dialog-act.vkaraisk.323	2084.98	2088.85	A	PM	off	-1	0	I'd {disfmarker} I need to sum up very quickly here um . {vocalsound}
+ES2012b.A.dialog-act.vkaraisk.324	2088.85	2090.45	A	PM	inf	+1	2	We're looking at extreme simplicity .
+ES2012b.A.dialog-act.vkaraisk.325	2092.23	2095.43	A	PM	inf	+1	2	We're looking at a radically different shape .
+ES2012b.A.dialog-act.vkaraisk.326	2097.22	2100.23	A	PM	inf	+1	1	Possibly no buttons at all um ,
+ES2012b.A.dialog-act.vkaraisk.327	2100.23	2110.42	A	PM	ass	+1	2	but if you can incorporate um channel change and volume buttons um in into the design , then then that's fine .
+ES2012b.A.dialog-act.vkaraisk.328	2110.42	2120.43	A	PM	ass	-1	0	Um in the {disfmarker} I mean the the role of the of the um the user interface des designer becomes b you know more important here ,
+ES2012b.A.dialog-act.vkaraisk.329	2120.43	2127.16	A	PM	inf	-1	0	because , you know , shape is no longer an a uh um a serious constraint .
+ES2012b.A.dialog-act.vkaraisk.330	2127.16	2133.07	A	PM	inf	-1	0	But we clearly only need th the main buttons , although , uh if {disfmarker} clearly only need the main functions .
+ES2012b.A.dialog-act.vkaraisk.331	2134.74	2139.59	A	PM	ass	+1	2	Um I don't see why we shouldn't go for voice recognition
+ES2012b.A.dialog-act.vkaraisk.332	2139.59	2148.62	A	PM	inf	+1	1	um and the the only buttons that I think we need are channel control , volume control and on off .
+ES2012b.A.dialog-act.vkaraisk.333	2150.8	2158.14	A	PM	inf	+1	1	Um it needs to incorporate the corporate logo , uh the the grey and yellow colour scheme
+ES2012b.A.dialog-act.vkaraisk.334	2158.14	2167.53	A	PM	ass	+1	2	and {vocalsound} there's no reason why we can't introduce um interchangeable uh covers . {vocalsound}
+ES2012b.A.dialog-act.vkaraisk.335	2167.53	2172.91	A	PM	el.ass	-1	0	Um uh d so does that accurately summarise what we've discussed ?
+ES2012b.C.dialog-act.vkaraisk.116	2174.05	2174.36	C	UI	ass	-1	0	Yeah .
+ES2012b.D.dialog-act.vkaraisk.192	2173.92	2174.23	D	ME	ass	-1	0	Yeah .
+ES2012b.B.dialog-act.vkaraisk.149	2174.55	2175.81	B	ID	ass	-1	0	Yep . Hmm .
+ES2012b.A.dialog-act.vkaraisk.336	2175.84	2176.31	A	PM	stl	-1	0	{vocalsound} Right .
+ES2012b.C.dialog-act.vkaraisk.117	2176.87	2178.976	C	UI	stl	-1	0	Um {disfmarker} {vocalsound}
+ES2012b.A.dialog-act.vkaraisk.337	2179.91	2180.641	A	PM	stl	-1	0	So uh {disfmarker}
+ES2012b.A.dialog-act.vkaraisk.338	2181.437	2188.1	A	PM	inf	+1	1	{vocalsound} Yeah . We are doing just the television .
+ES2012b.C.dialog-act.vkaraisk.118	2181.43	2181.66	C	UI	stl	-1	0	Oh
+ES2012b.C.dialog-act.vkaraisk.119	2181.66	2182.73	C	UI	off	-1	0	I just have one question .
+ES2012b.C.dialog-act.vkaraisk.120	2182.73	2182.98	C	UI	stl	-1	0	So
+ES2012b.C.dialog-act.vkaraisk.121	2182.98	2185.17	C	UI	el.inf	+1	1	are we doing just the television
+ES2012b.C.dialog-act.vkaraisk.122	2185.17	2186.67	C	UI	el.ass	-1	0	or are we doing {disfmarker}
+ES2012b.C.dialog-act.vkaraisk.123	2186.67	2188.72	C	UI	el.inf	+1	1	so not D_V_D_ players ,
+ES2012b.A.dialog-act.vkaraisk.339	2188.1	2188.39	A	PM	inf	-1	0	No .
+ES2012b.C.dialog-act.vkaraisk.124	2188.72	2188.82	C	UI	fra	-1	0	we
+ES2012b.C.dialog-act.vkaraisk.125	2188.82	2189.39	C	UI	und	-1	0	okay , okay .
+ES2012b.A.dialog-act.vkaraisk.340	2190.0	2192.68	A	PM	inf	+1	1	I think that's quite clear from the the information that we've been given ,
+ES2012b.B.dialog-act.vkaraisk.150	2191.98	2192.64	B	ID	ass	-1	0	Mm .
+ES2012b.A.dialog-act.vkaraisk.341	2192.68	2192.85	A	PM	el.ass	-1	0	no ?
+ES2012b.C.dialog-act.vkaraisk.126	2193.11	2193.9	C	UI	und	-1	0	Okay .
+ES2012b.D.dialog-act.vkaraisk.193	2194.06	2194.51	D	ME	ass	-1	0	Yeah ,
+ES2012b.D.dialog-act.vkaraisk.194	2194.51	2199.84	D	ME	inf	-1	0	like in the email of television only . In fact they're {gap} in the constraints email that I got .
+ES2012b.A.dialog-act.vkaraisk.342	2200.35	2200.82	A	PM	bck	-1	0	Right .
+ES2012b.D.dialog-act.vkaraisk.195	2201.13	2203.01	D	ME	el.inf	-1	0	Didn't you mention the teletext , just television only ?
+ES2012b.A.dialog-act.vkaraisk.343	2202.75	2203.06	A	PM	inf	-1	0	Oh yeah
+ES2012b.A.dialog-act.vkaraisk.344	2203.06	2203.27	A	PM	stl	-1	0	well
+ES2012b.A.dialog-act.vkaraisk.345	2203.27	2204.76	A	PM	inf	-1	0	th that's one I s that's one I sent you ,
+ES2012b.B.dialog-act.vkaraisk.151	2203.24	2203.52	B	ID	bck	-1	0	Mm .
+ES2012b.C.dialog-act.vkaraisk.127	2203.44	2203.81	C	UI	bck	-1	0	Yeah .
+ES2012b.A.dialog-act.vkaraisk.346	2204.76	2212.768	A	PM	inf	-1	0	which which was my interpretation of uh of the uh {disfmarker} what came down from from head office . Um {disfmarker} {vocalsound}
+ES2012b.D.dialog-act.vkaraisk.196	2205.62	2207.37	D	ME	und	-1	0	Oh okay . {vocalsound} Oh yeah .
+ES2012b.B.dialog-act.vkaraisk.152	2206.45	2207.838	B	ID	und	-1	0	Yeah . {vocalsound}
+ES2012b.C.dialog-act.vkaraisk.128	2207.75	2208.41	C	UI	und	-1	0	Oh {vocalsound} okay .
+ES2012b.B.dialog-act.vkaraisk.153	2208.62	2208.99	B	ID	und	-1	0	Okay .
+ES2012b.A.dialog-act.vkaraisk.347	2216.346	2220.26	A	PM	inf	-1	0	{vocalsound} That's {vocalsound} that that that that's their uh their view .
+ES2012b.B.dialog-act.vkaraisk.154	2218.162	2218.953	B	ID	fra	-1	0	{vocalsound}
+ES2012b.A.dialog-act.vkaraisk.348	2221.52	2222.75	A	PM	stl	-1	0	Okay , so uh
+ES2012b.A.dialog-act.vkaraisk.349	2222.75	2226.67	A	PM	sug	+1	1	we can all give some thought to that uh for for the next meeting ,
+ES2012b.A.dialog-act.vkaraisk.350	2226.67	2227.87	A	PM	be.pos	-1	0	thank you very much indeed .
+ES2012b.C.dialog-act.vkaraisk.129	2226.93	2227.16	C	UI	ass	-1	0	Okay .
+ES2012b.B.dialog-act.vkaraisk.155	2228.01	2228.25	B	ID	be.pos	-1	0	Cool .
+ES2012b.C.dialog-act.vkaraisk.130	2235.926	2237.06	C	UI	fra	-1	0	{vocalsound}

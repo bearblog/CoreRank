@@ -1,0 +1,48 @@
+1	TS3012b.vkaraisk.s.1	Customers are willing to pay more for fancier looking remotes.
+TS3012b.D.dialog-act.vkaraisk.37	174.22	179.05	D	ME	inf	+1	1	they want to spend money for a better system , for better remote control ,
+3	TS3012b.vkaraisk.s.2	They like innovative technology like speech recognition and LCD screens.
+TS3012b.D.dialog-act.vkaraisk.67	273.35	278.03	D	ME	inf	+1	1	And another thing uh they want was uh speech recognition
+TS3012b.D.dialog-act.vkaraisk.69	287.33	290.53	D	ME	sug	+1	2	And they want maybe an uh L_C_D_ screen
+TS3012b.D.dialog-act.vkaraisk.252	2003.43	2009.29	D	ME	inf	+1	2	Um they want to pay for an L_C_D_ screen and speech recognition .
+1	TS3012b.vkaraisk.s.3	It also transpires that remotes are easy to lose.
+TS3012b.D.dialog-act.vkaraisk.65	257.77	267.34	D	ME	inf	+1	1	that was {gap} in the test , the the most people uh f find it uh irritating uh when they cannot find a rem their remote control ,
+2	TS3012b.vkaraisk.s.4	Everyone agreed that they need to incorporate a locating mechanism in their design , and that changeable covers could make appealing-looking remotes.
+TS3012b.D.dialog-act.vkaraisk.66	267.34	273.35	D	ME	sug	+1	2	so uh I think it's a bee beep to sound it and uh you can find it .
+TS3012b.A.dialog-act.vkaraisk.111	547.87	555.14	A	PM	ass	+1	2	So we agree on the the part that we need to get something on the on the remote to find it somewhere
+1	TS3012b.vkaraisk.s.5	The need for clarity of button functions was mentioned.
+TS3012b.B.dialog-act.vkaraisk.39	445.6	449.3	B	UI	inf	+1	1	There are many buttons on a remote control which are not clear .
+1	TS3012b.vkaraisk.s.6	On the other hand , materials should be more durable.
+TS3012b.A.dialog-act.vkaraisk.240	1032.59	1036.97	A	PM	sug	+1	2	you should you should look into the in into the materials that are real durable .
+3	TS3012b.vkaraisk.s.7	The function of the remote is relatively simple: by pressing a button a current is passed to the chip , and defines what signal is to be sent to the receiver (the TV) via infrared.
+TS3012b.C.dialog-act.vkaraisk.43	686.75	695.08	C	ID	inf	+1	1	The switch uh uh {vocalsound} uh if you p press it then some electrical charge goes into the processor , that thinks over a Morse code ,
+TS3012b.C.dialog-act.vkaraisk.46	698.1	701.14	C	ID	inf	+1	1	then uh the signal is sent to two uh light bulbs .
+TS3012b.C.dialog-act.vkaraisk.47	701.14	702.23	C	ID	inf	+1	1	You have infrared
+4	TS3012b.vkaraisk.s.8	There are some new requirements: the target group will be people below 40 , the device will have to be for TV only , they should ignore the teletext function , and , also , the remote should be recognisable as a Real Reaction product.
+TS3012b.A.dialog-act.vkaraisk.135	760.53	764.2	A	PM	inf	+1	1	Like you said uh teletext is not not very popular anymore
+TS3012b.A.dialog-act.vkaraisk.147	790.432	794.84	A	PM	inf	+1	2	{vocalsound} This is a new product and with this new product we want to appeal to younger people ,
+TS3012b.A.dialog-act.vkaraisk.149	795.57	797.78	A	PM	inf	+1	2	um the younger people were defined under forty .
+TS3012b.A.dialog-act.vkaraisk.157	819.03	823.91	A	PM	inf	+1	2	{disfmarker} And one thing that should be important is that the corporate l colour and slogan are recognisable ,
+17	TS3012b.vkaraisk.s.9	They drew some of their ideas , and discussed the positioning of the buttons and the LCD.
+TS3012b.A.dialog-act.vkaraisk.366	1384.54	1387.73	A	PM	sug	+1	1	we could do some i do some work now on on the design for example .
+TS3012b.A.dialog-act.vkaraisk.374	1405.31	1410.68	A	PM	sug	+1	2	I think that the {vocalsound} the buttons should be {disfmarker} the channel buttons should be {vocalsound} uh on their own .
+TS3012b.B.dialog-act.vkaraisk.130	1426.43	1431.9	B	UI	fra	+1	2	and since you're holding it like this , I suggest you put the channel up channel down and volume {disfmarker}
+TS3012b.A.dialog-act.vkaraisk.384	1428.79	1430.106	A	PM	inf	+1	2	Think it's like this . {vocalsound}
+TS3012b.B.dialog-act.vkaraisk.139	1454.07	1457.51	B	UI	sug	+1	2	Uh maybe the menu button can go i in the middle .
+TS3012b.A.dialog-act.vkaraisk.393	1456.09	1456.81	A	PM	ass	+1	2	Yeah , in the middle .
+TS3012b.B.dialog-act.vkaraisk.144	1494.79	1497.69	B	UI	el.ass	+1	2	uh the power button somewhere over here ?
+TS3012b.A.dialog-act.vkaraisk.425	1540.72	1542.45	A	PM	sug	+1	2	I think it should be at the bottom somewhere .
+TS3012b.A.dialog-act.vkaraisk.423	1539.49	1539.89	A	PM	und	+1	2	Mute .
+TS3012b.D.dialog-act.vkaraisk.183	1561.911	1567.61	D	ME	sug	+1	2	{vocalsound} Around uh not uh not at top at the {disfmarker} around the volume selection .
+TS3012b.B.dialog-act.vkaraisk.180	1870.6	1873.59	B	UI	el.sug	+1	2	Where would we want the uh teletext button ?
+TS3012b.B.dialog-act.vkaraisk.182	1876.98	1878.51	B	UI	el.ass	+1	2	Do we put it somewhere over here ?
+TS3012b.B.dialog-act.vkaraisk.222	2262.63	2265.88	B	UI	el.ass	+1	2	Do we put the volume control and the channel control here ,
+TS3012b.D.dialog-act.vkaraisk.291	2269.16	2269.84	D	ME	ass	+1	2	In the middle .
+TS3012b.A.dialog-act.vkaraisk.674	2271.73	2275.06	A	PM	sug	+1	2	Maybe in a circle for example , like we {disfmarker} like in this example .
+TS3012b.B.dialog-act.vkaraisk.226	2280.31	2283.78	B	UI	el.ass	+1	2	but we do agree that we {vocalsound} keep this at the centre ,
+TS3012b.A.dialog-act.vkaraisk.679	2285.81	2288.02	A	PM	ass	+1	2	I think the channel button should be in the centre .
+1	TS3012b.vkaraisk.s.10	The most used buttons are going to be placed on top.
+TS3012b.A.dialog-act.vkaraisk.547	1891.42	1894.73	A	PM	sug	+1	3	just keep in mind that the important buttons should be on top and either big ,
+2	TS3012b.vkaraisk.s.11	It might be possible to use a charger for the remote.
+TS3012b.C.dialog-act.vkaraisk.170	1601.6	1605.92	C	ID	el.ass	+1	2	Shall we uh also look if it's possible to make a rechargeable remote ?
+TS3012b.A.dialog-act.vkaraisk.467	1668.33	1675.02	A	PM	sug	+1	1	to have uh like sort of a {disfmarker} maybe a base station that you put on the T_V_ . Could be flat , you could insert your uh remote into it .
+0	TS3012b.vkaraisk.s.12	The concept of the design will be finalised in the next meeting.

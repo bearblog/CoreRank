@@ -1,0 +1,84 @@
+0	Bro028.s.1	ICSI's Meeting Recorder Group met to discuss their progress in various aspects of the Aurora Project , but also to hear more about other developments relevant to the group.
+3	Bro028.s.2	On the Aurora Project , there were reports on a project conference call , the status of the tandem neural networks , and progress with the Mississippi State recognizer.
+Bro028.D.dialogueact22	52.48	54.86	D	PhD	fg|s^rt	+1	1	Yeah . So there was this conference call this morning ,
+Bro028.D.dialogueact24	56.833	59.873	D	PhD	s	+1	1	and the only topic on the agenda was just to discuss
+Bro028.D.dialogueact25	60.455	64.946	D	PhD	s^rt	+1	1	a and to come at {disfmarker} uh , to get a decision about this latency problem .
+17	Bro028.s.3	The latency limit has been set , and the group's system is performing very well , but is a little over.
+Bro028.D.dialogueact31	74.132	77.602	D	PhD	s	+1	2	Uh , yeah . There were like two hours of {pause} discussions ,
+Bro028.D.dialogueact32	78.69	82.264	D	PhD	s	+1	2	and then suddenly , {vocalsound} uh , people were tired , I guess ,
+Bro028.D.dialogueact33	82.264	84.698	D	PhD	s	+1	2	and they decided on {nonvocalsound} a number ,
+Bro028.D.dialogueact34	85.578	86.488	D	PhD	s^e^rt	+1	2	two hundred and twenty ,
+Bro028.D.dialogueact36	89.003	90.613	D	PhD	s^e	+1	2	included e including everything .
+Bro028.D.dialogueact40	100.42	104.51	D	PhD	s	+1	2	So , currently d uh , we have system that has two hundred and thirty .
+Bro028.B.dialogueact47	111.125	112.975	B	Professor	s^bu	+1	2	we have to reduce it by ten milliseconds somehow .
+Bro028.D.dialogueact50	114.32	115.75	D	PhD	s^ba	+1	2	That 's not a problem , I {disfmarker} I guess .
+Bro028.B.dialogueact53	118.659	122.397	B	Professor	s^bu	+1	2	W It 's {disfmarker} it 's p d primary {disfmarker} primarily determined by the VAD at this point ,
+Bro028.B.dialogueact57	123.654	125.604	B	Professor	s^cs	+1	2	S so we can make the VAD a little shorter .
+Bro028.B.dialogueact61	126.397	129.717	B	Professor	s^cs	+1	2	Yeah . We probably should do that pretty soon so that we don't get used to it being a certain way .
+Bro028.D.dialogueact75	148.116	151.576	D	PhD	fg|s^rt^t^tc	+1	3	Uh , yeah . So , the second thing is the system that we have currently .
+Bro028.D.dialogueact76	152.77	157.125	D	PhD	s	+1	3	Oh , yes . We have , like , a system that gives sixty - two percent improvement ,
+Bro028.D.dialogueact77	157.125	161.23	D	PhD	s.%--	+1	3	but {vocalsound} if you want to stick to the {disfmarker} {vocalsound} this latency {disfmarker}
+Bro028.D.dialogueact78	161.777	163.407	D	PhD	s	+1	3	Well , it has a latency of two thirty ,
+Bro028.D.dialogueact79	163.407	171.685	D	PhD	s^bd	+1	3	but {vocalsound} if you want also to stick to the number {vocalsound} of features that {disfmarker} limit it to sixty , {vocalsound} then we go a little bit down
+Bro028.D.dialogueact80	171.685	173.375	D	PhD	s^df	+1	3	but it 's still sixty - one percent .
+30	Bro028.s.4	On the larger vocabulary task , there are still a few issues to resolve before work can really get started.
+Bro028.B.dialogueact497	1176.05	1185.15	B	Professor	s^cs^rt^t^tc	+1	2	Um , while we 're still on Aurora stuff {pause} maybe you can talk a little about the status with the , uh , {vocalsound} Wall Street Journal {vocalsound} things for it .
+Bro028.A.dialogueact498	1185.49	1191.01	A	PhD	s	+1	2	So I 've , um , downloaded , uh , a couple of things from Mississippi State .
+Bro028.A.dialogueact504	1203.62	1209.23	A	PhD	s	+1	1	They wrote some scripts that sort of make it easy to run {vocalsound} the system on the Wall Street Journal , uh , data .
+Bro028.A.dialogueact505	1209.98	1212.14	A	PhD	fh|s	+1	1	Um , so I haven't run the scripts yet .
+Bro028.A.dialogueact506	1212.57	1215.08	A	PhD	s	+1	1	Uh , I 'm waiting {disfmarker} there was one problem with part of it
+Bro028.A.dialogueact507	1215.08	1217.12	A	PhD	s	+1	1	and I wrote a note to Joe asking him about it .
+Bro028.A.dialogueact508	1217.61	1218.72	A	PhD	s	+1	1	So I 'm waiting to hear from him .
+Bro028.A.dialogueact576	1355.15	1360.72	A	PhD	s	+1	1	they 're {disfmarker} I I 'm still waiting for them to {pause} release the , um , {vocalsound} multi - CPU version of their scripts ,
+Bro028.A.dialogueact577	1360.72	1364.41	A	PhD	s^df	+1	1	cuz right now their script only handles processing on a single CPU ,
+Bro028.A.dialogueact578	1364.86	1367.38	A	PhD	s	+1	1	which will take a really long time to run .
+Bro028.A.dialogueact588	1378.87	1381.14	A	PhD	s	+1	1	So , as soon as they get that , then I 'll {disfmarker} I 'll grab those too
+Bro028.B.dialogueact590	1381.62	1382.63	B	Professor	fg|s^df	+1	1	Yeah . Cuz we have to get started ,
+Bro028.A.dialogueact593	1383.59	1386.54	A	PhD	fg|s	+1	1	Yeah . I 'll go ahead and try to run it though with just the single CPU one ,
+Bro028.A.dialogueact595	1386.54	1393.17	A	PhD	s	+1	1	and {disfmarker} I {disfmarker} they {disfmarker} they , {vocalsound} um , released like a smaller data set that you can use that only takes like sixteen hours to train and stuff .
+Bro028.A.dialogueact596	1393.17	1397.95	A	PhD	s	+1	1	So I can {disfmarker} I can run it on that just to make sure that the {disfmarker} {vocalsound} the thing works and everything .
+Bro028.B.dialogueact668	1563.92	1572.63	B	Professor	s.%--	+1	1	So it could be {disfmarker} I mean , Chuck and I had actually talked about this a couple times , and {disfmarker} and {disfmarker} over some lunches , I think , {vocalsound} that , um , {vocalsound} one thing that we might wanna do {disfmarker}
+Bro028.B.dialogueact669	1572.76	1575.13	B	Professor	qh	+1	1	The - there 's this question about , you know , what do you wanna scale ?
+Bro028.B.dialogueact670	1575.21	1578.91	B	Professor	s	+1	1	Suppose y you can't adjust {vocalsound} these word insertion penalties and so forth ,
+Bro028.B.dialogueact671	1578.91	1580.93	B	Professor	s	+1	1	so you have to do everything at the level of the features .
+Bro028.B.dialogueact673	1582.52	1586.62	B	Professor	s	+1	1	And , uh , one thing I had suggested at an earlier time was maybe some sort of scaling ,
+Bro028.B.dialogueact674	1586.62	1592.16	B	Professor	s	+1	1	some sort of root or {disfmarker} or something of the , um , {vocalsound} uh , features .
+Bro028.B.dialogueact676	1594.37	1595.66	B	Professor	s	+1	1	it occurred to me later ,
+Bro028.B.dialogueact677	1596.07	1601.94	B	Professor	s^df.%-	+1	1	because what you really want to do is scale the , uh , @ @ {comment} the range of the likelihoods rather than {disfmarker}
+Bro028.B.dialogueact709	1690.62	1694.76	B	Professor	s	+1	1	But , {pause} I mean , I guess we still haven't had a {disfmarker} {vocalsound} a ruling back on this .
+Bro028.B.dialogueact710	1694.76	1699.81	B	Professor	s	+1	1	And we may end up being in a situation where we just you know really can't change the {vocalsound} word insertion penalty .
+Bro028.B.dialogueact711	1699.81	1702.71	B	Professor	s^cs.%--	+1	1	But the other thing we could do {vocalsound} is {disfmarker} also we could {disfmarker}
+Bro028.B.dialogueact712	1702.87	1706.26	B	Professor	s^bd^df	+1	1	I mean , this {disfmarker} this may not help us , {vocalsound} uh , in the evaluation
+Bro028.B.dialogueact713	1706.26	1708.08	B	Professor	s	+1	1	but it might help us in our understanding at least .
+Bro028.B.dialogueact714	1708.08	1711.77	B	Professor	s	+1	1	We might , {vocalsound} just run it with different insper insertion penalties ,
+Bro028.B.dialogueact715	1712.27	1720.76	B	Professor	s:s	+1	1	and show that , uh , " well , OK , not changing it , {vocalsound} playing the rules the way you wanted , we did this . But in fact if we did that , it made a {disfmarker} {pause} a big difference . "
+29	Bro028.s.5	The group heard of the plan of one of it's member's work into intermediate classifiers , and also of how a visiting research student's work into auditory models can be applied to their work.
+Bro028.C.dialogueact939	2224.35	2229.1	C	Grad	s	+1	1	So Michael Kleinschmidt , who 's a PHD student from Germany , {vocalsound} showed up this week .
+Bro028.C.dialogueact940	2229.1	2230.57	C	Grad	s	+1	1	He 'll be here for about six months .
+Bro028.C.dialogueact941	2230.57	2237.43	C	Grad	s	+1	1	And he 's done some work using {vocalsound} an auditory model {pause} of , um , {vocalsound} human hearing ,
+Bro028.C.dialogueact942	2238.0	2242.71	C	Grad	s	+1	1	and {pause} using that f uh , to generate speech recognition features .
+Bro028.C.dialogueact943	2243.52	2256.16	C	Grad	s	+1	1	And {pause} he did {vocalsound} work back in Germany {vocalsound} with , um , a toy recognition system {vocalsound} using , um , isolated {vocalsound} digit recognition {vocalsound} as the task .
+Bro028.C.dialogueact948	2270.07	2275.51	C	Grad	s	+1	1	he w he 's coming here to u u use it on a {vocalsound} uh , a real speech recognition system .
+Bro028.C.dialogueact975	2397.19	2406.35	C	Grad	s	+1	1	Th - this is {disfmarker} because it 's , um {disfmarker} there are these different parameters for the shape of these {vocalsound} basis functions , {vocalsound} um {disfmarker} {vocalsound} there are a lot of different possible basis functions .
+Bro028.C.dialogueact976	2406.35	2414.35	C	Grad	s	+1	1	And so he {disfmarker} {vocalsound} he actually does {vocalsound} an optimization procedure to choose an {disfmarker} {vocalsound} an optimal set of basis functions out of all the possible ones .
+Bro028.C.dialogueact981	2419.02	2423.52	C	Grad	s	+1	1	is , {comment} {vocalsound} um , {vocalsound} he starts with {disfmarker} he has a set of M of them .
+Bro028.C.dialogueact984	2428.95	2433.6	C	Grad	s^rt	+1	1	I mean , he t he tries , um , {vocalsound} using {pause} just M minus one of them .
+Bro028.C.dialogueact985	2433.94	2437.86	C	Grad	s	+1	1	So there are M possible subsets of this {vocalsound} length - M vector .
+Bro028.C.dialogueact986	2438.09	2442.24	C	Grad	s	+1	1	He tries classifying , using each of the M {vocalsound} possible sub - vectors .
+Bro028.C.dialogueact988	2442.68	2457.06	C	Grad	s	+1	1	Whichever sub - vector , {vocalsound} um , works the {disfmarker} the best , I guess , he says {disfmarker} {vocalsound} the {disfmarker} the fe feature that didn't use was the most useless feature ,
+Bro028.C.dialogueact992	2457.6	2458.73	C	Grad	s	+1	1	so we 'll throw it out
+Bro028.C.dialogueact993	2458.73	2464.25	C	Grad	s	+1	1	and we 're gonna randomly select another feature {pause} from the set of possible basis functions .
+Bro028.B.dialogueact1070	2684.38	2686.57	B	Professor	s	+1	1	So I th I think it 's {disfmarker} it 's {disfmarker} I think it 's kinda neat stuff .
+Bro028.B.dialogueact1072	2689.06	2694.12	B	Professor	s	+1	1	the thing that I wanted to {disfmarker} to add to it also was to have us use this in a multi - stream way .
+Bro028.B.dialogueact1075	2698.67	2708.56	B	Professor	s	+1	1	so {disfmarker} so that , um , {vocalsound} when you come up with these different things , {vocalsound} and these different functions , {vocalsound} you don't necessarily just put them all into one huge vector ,
+Bro028.B.dialogueact1076	2709.39	2715.13	B	Professor	s	+1	1	but perhaps {vocalsound} you {vocalsound} have some of them in one stream and some of them in another stream , and so forth .
+Bro028.E.dialogueact1158	2970.16	2973.67	E	Grad	s	+1	1	Well , that sort of segues into {pause} what {disfmarker} what I 'm doing .
+Bro028.E.dialogueact1160	2974.15	2981.22	E	Grad	fh|s	+1	1	Um , {vocalsound} so , uh , the big picture is k um , {vocalsound} come up with a set of , {vocalsound} uh , intermediate categories ,
+Bro028.E.dialogueact1161	2981.22	2984.17	E	Grad	s	+1	1	then build intermediate category classifiers , then do recognition ,
+Bro028.E.dialogueact1163	2987.64	2995.16	E	Grad	s	+1	1	Um , so right now I 'm in {disfmarker} in the phase where {vocalsound} I 'm looking at {disfmarker} at , um , deciding on a initial set of intermediate categories .
+Bro028.E.dialogueact1164	2995.28	3009.47	E	Grad	s	+1	1	And {vocalsound} I 'm looking {vocalsound} for data data - driven {pause} methods that can help me find , {vocalsound} um , a set of intermediate categories {vocalsound} of speech that , uh , will help me to discriminate {pause} later down the line .
+Bro028.E.dialogueact1165	3010.11	3015.49	E	Grad	s	+1	1	And one of the ideas , {vocalsound} um , that was to take a {disfmarker} take a neural net {disfmarker}
+Bro028.E.dialogueact1166	3016.53	3022.55	E	Grad	s^e	+1	1	train {disfmarker} train an ordinary neural net {vocalsound} to {disfmarker} {vocalsound} uh , to learn the posterior probabilities of phones .
+Bro028.E.dialogueact1191	3140.26	3157.21	E	Grad	s	+1	1	Um , {vocalsound} the other one {pause} was , {vocalsound} um , to , {vocalsound} uh , come up with a {disfmarker} a {disfmarker} a model {disfmarker} {comment} um , a graphical model , {vocalsound} that treats {pause} the intermediate categories {vocalsound} as hidden {disfmarker} hidden variables , latent variables , that we don't know anything about ,
+Bro028.E.dialogueact1192	3157.61	3170.73	E	Grad	s	+1	1	but that through , {vocalsound} um , s statistical training and the EM algorithm , {vocalsound} um , at the end of the day , {vocalsound} we have , um {disfmarker} we have learned something about these {disfmarker} these latent , um {disfmarker} latent variables
+Bro028.E.dialogueact1193	3170.74	3174.13	E	Grad	s^e	+1	1	which happen to correspond to {vocalsound} intermediate categories .

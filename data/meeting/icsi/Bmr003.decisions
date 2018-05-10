@@ -1,0 +1,34 @@
+5	Bmr003.s.7	The group will obtain a copy of the Corpus of Spoken American English ( CSAE ) from the LDC to compare the methods and conventions used by UC Santa Barbara with those being considered for the Meeting Recorder project.
+Bmr003.C.dialogueact454	903.88	905.6	C	PhD	s^df	+1	1	cuz they 're distributing it through the LDC .
+Bmr003.C.dialogueact469	930.44	933.18	C	PhD	s^cs	+1	1	Maybe we should {disfmarker} maybe we should get a copy of it just to see what they did
+Bmr003.C.dialogueact472	933.37	935.16	C	PhD	s^cs	+1	1	so {disfmarker} so that we can {disfmarker} we can compare .
+Bmr003.E.dialogueact480	942.84	943.76	E	Postdoc	s	+1	1	CSAE .
+Bmr003.E.dialogueact481	943.76	945.66	E	Postdoc	s^df	+1	1	Corpus of Spoken American English .
+3	Bmr003.s.8	Speakers fe008 and me011 will experiment with pre-segmentation procedures in hopes of facilitating the transcription process.
+Bmr003.E.dialogueact694	1346.49	1354.56	E	Postdoc	s	+1	1	so I mean , I 've been sort of playing with , uh , different ways of mar cuz I 'm thinking , you know , I mean , if you could get optimal instructions you could cut back on the number of hours it would take .
+Bmr003.E.dialogueact906	1659.45	1666.79	E	Postdoc	s^cs	+1	1	So I think though it 's a good proposal to be used on a new {disfmarker} a new batch of text that I haven't yet done yet in the same meeting . Could use it on the next segment of the text .
+Bmr003.A.dialogueact927	1691.21	1696.02	A	Grad	s	+1	1	I could generate the segmentation and {disfmarker} and you could do the words , and time yourself on it .
+2	Bmr003.s.9	Speaker fe008 will perform the transcription for one meeting ( 40-60 minutes of data ) as a pilot project.
+Bmr003.A.dialogueact577	1158.98	1162.9	A	Grad	s^df	+1	1	So what we wanted to do was have Jane do basically one meeting 's worth ,
+Bmr003.A.dialogueact579	1163.42	1164.75	A	Grad	s^e	+1	1	you know , forty minutes to an hour ,
+2	Bmr003.s.10	A tentative decision was made to put speaker fe008 in charge of the in-house transcription effort.
+Bmr003.A.dialogueact1225	2166.06	2166.88	A	Grad	s	+1	1	I hope it 's Jane .
+Bmr003.E.dialogueact1272	2215.37	2221.37	E	Postdoc	s^bk|s	+1	1	Yeah , no , that {disfmarker} I {disfmarker} I would be interested in that {disfmarker} in becoming involved in the project in some aspect like that {disfmarker}
+8	Bmr003.s.11	Modifications to the Transcriber source code , e.g . adjusting the delay between the audio play function and the inputting of time boundaries , may be undertaken by the BMR group.
+Bmr003.A.dialogueact780	1495.11	1496.44	A	Grad	s	+1	1	We could program that pretty easily ,
+Bmr003.D.dialogueact769	1480.86	1482.54	D	Undergrad	qy	+1	1	Are {disfmarker} are those d delays adjustable ?
+Bmr003.E.dialogueact833	1564.9	1570.81	E	Postdoc	qy^rt	+1	1	Could you get it so that with {disfmarker} so it would {disfmarker} it would detect volume on a channel and insert a marker ?
+Bmr003.B.dialogueact836	1571.39	1571.61	B	PhD	s^aa	+1	1	Sure .
+Bmr003.A.dialogueact1367	2369.31	2377.45	A	Grad	s	+1	1	So if we want {disfmarker} if we did {disfmarker} if we did something like programmed in a delay , which actually I think is a great idea , um , I 'm sure they would want that incorporated back in .
+Bmr003.A.dialogueact1363	2365.94	2366.81	A	Grad	s:s^am	+1	1	and I said , well , maybe .
+Bmr003.A.dialogueact1362	2362.13	2365.94	A	Grad	s	+1	1	And they have {disfmarker} they 've actually asked if we are willing to do any development
+Bmr003.A.dialogueact1784	3126.38	3131.42	A	Grad	fg|qy^tc	+1	1	Well , so anyway , are we interested then in writing tools to try to generate any of this stuff automatically ?
+3	Bmr003.s.12	An initiative for creating an internal BMR project website was discussed , along with ideas for providing web access to external organizations , such as the University of Washington.
+Bmr003.C.dialogueact1825	3172.94	3178.58	C	PhD	s^cs	+1	2	Maybe we should s consider also , um , starting to build up a web site around all of these things .
+Bmr003.C.dialogueact1972	3365.76	3366.91	C	PhD	s	+1	1	I think mostly internal .
+Bmr003.E.dialogueact1985	3375.59	3378.04	E	Postdoc	s^cs	+1	1	We could do an HT access which would accommodate those things .
+1	Bmr003.s.13	A cabinet will be built to house wires and other electronic equipment used in the recording setup.
+Bmr003.D.dialogueact2274	3756.88	3757.93	D	Undergrad	s	+1	1	Well I can build a cabinet .
+2	Bmr003.s.14	A laptop and wireless modem will be avaiable to participants for monitoring the recording progress.
+Bmr003.D.dialogueact2356	3875.86	3878.78	D	Undergrad	s^e	+1	1	Which is to say just laptop with a wireless .
+Bmr003.D.dialogueact2502	4065.83	4069.95	D	Undergrad	s	+1	1	So we certainly could use that as {disfmarker} as a constant reminder of what the VU meters are doing .

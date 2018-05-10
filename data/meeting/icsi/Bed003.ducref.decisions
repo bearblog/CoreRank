@@ -1,0 +1,8 @@
+It is necessary for the belief-net to have at least one layer of nodes between the features and the final output.
+This makes the structure more flexible in terms of coding feature-layer probabilities.
+Another technique to systematise the work is the thematic clustering of the features , each cluster forming a Bayes-net of each own: for example features like "admission fee" and "opening hours" can feed into an intermediate "entrance" node connecting to the main middle layer.
+The next stage is to refine the set of feature nodes and identify possible clusters.
+Although , in theory , traditional AI plan recognition techniques could also be helpful for inferring intentions , the schemas involved are too elaborate for this task.
+Further work also includes discussing the possible advantages of Bayes-net packages , other than JavaBayes , with experts at ICSI.
+If they continue using JavaBayes , a script to help with the inputting of probabilities in the nodes is needed , as the in-built method is cumbersome.
+Finally , it was decided that at least some of the experiments designed for the new data collection initiative will factor in the intentions studied in the current task.

@@ -1,0 +1,8 @@
+Efforts are in progress to mark where regions of speaker overlap occur in meeting transcripts and note the number of speakers involved.
+Such information is currently being encoded within relatively loose time boundaries.
+A large number of overlapping speech regions were identified throughout one recorded meeting , wherein overlaps were found to occur in bursts , rather than being evenly distributed throughout the meeting.
+A cursory analysis was done on regions of overlap involving two speakers to determine whether speakers are more likely to be overlapped with or to cause overlap with other speakers.
+Attempts were also made to classify types of speaker overlap---e.g . backchannels , answering questions as they are being asked , and responding in unison---with future work focussed on subcategorizing types of backchannels.
+Speaker fe016 is interested in the contribution of multiple speakers in an interaction to the amount and types of overlap observed , and comparing this to findings from the Switchboard corpus.
+Future work includes generating predictive models of overlap , and the tentative erection of visual barriers during meeting recordings.
+Speaker me011 described his attempts to automatically identify speakers via the close-talking microphone channels using thresholding and filtering methods and an existing speaker-change detection algorithm.

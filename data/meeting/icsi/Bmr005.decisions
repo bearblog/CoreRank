@@ -1,0 +1,14 @@
+1	Bmr005.s.3	The group will resume its discussion of speaker anonymization in a subsequent meeting.
+Bmr005.B.dialogueact286	1081.81	1083.14	B	Postdoc	fh|s^co^tc	+1	1	So , we need to talk about this later .
+3	Bmr005.s.4	To save time , speaker mn005 will only mark the sample of transcribed data for regions of overlapping speech , as opposed to marking all acoustic events.
+Bmr005.D.dialogueact706	2146.01	2148.34	D	PhD	s.%-	+1	2	On - only to mark {disfmarker} only to mark overlapping zone , but {disfmarker}
+Bmr005.E.dialogueact713	2159.53	2160.85	E	Professor	s^ba	+1	1	Then I think it 's a good idea .
+Bmr005.E.dialogueact859	2477.22	2486.23	E	Professor	s^cs	+1	2	but I mean we {disfmarker} {comment} if uh {disfmarker} if he could speed up what he was doing by just getting the speaker overlaps so that we had it , say , for forty - five minutes , then at least we 'd have three hundred examples of it .
+1	Bmr005.s.5	The digits extraction task will be delegated to whomever is working on acoustics for the Meeting Recorder project.
+Bmr005.E.dialogueact1033	2842.48	2848.38	E	Professor	fh|s	+1	1	Yeah , whoever we have working on the acoustics for the Meeting Recorder are gonna start with that .
+1	Bmr005.s.6	The group will inquire with other ICSI researchers and colleagues at the University of Washington about collecting additional meeting data.
+Bmr005.C.dialogueact1400	4021.45	4029.3	C	PhD	s	+1	2	if anyone knows of one more m or two more wee meetings per week that happen at ICSI , um that we could record , I think it would be worth it .
+3	Bmr005.s.7	Echo cancellation experiments will be performed on Meeting Recorder digits data.
+Bmr005.E.dialogueact1046	2867.74	2877.22	E	Professor	s^cs	+1	1	I mean , one of the things I wanted to do , uh , that I I talked to {disfmarker} to Don about , is one of the possible things he could do or m also , we could have someone else do it , is to do block echo cancellation ,
+Bmr005.E.dialogueact1062	2934.95	2945.09	E	Professor	fh|s^cs	+1	1	So that 's something I 'd like somebody to do at some point , just take these digits , take the far - field mike signal , and the close uh mike signal , and apply really good echo cancellation .
+Bmr005.E.dialogueact1116	3158.86	3162.93	E	Professor	s	+1	1	somebody look {disfmarker} And {disfmarker} and the digits would be a reasonable thing to do that with .

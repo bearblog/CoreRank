@@ -1,0 +1,28 @@
+3	Bed004.s.8	Instructions to the test subject were not clear enough , as she did not follow them precisely.
+Bed004.D.dialogueact150	907.5	919.266	D	Grad	fh|s	+1	0	Um , that was already anticipated by some people suggested that if we just have bullets here , they 're gonna not {disfmarker} they 're {disfmarker} subjects are probably not gonna {disfmarker} going to follow the order .
+Bed004.D.dialogueact151	920.066	921.516	D	Grad	s	-1	0	And uh she did not .
+Bed004.D.dialogueact155	923.196	925.316	D	Grad	s^rt	+1	0	She {disfmarker} she jumped around quite a bit .
+3	Bed004.s.9	It might be difficult to find subjects that can cope with the reading task.
+Bed004.D.dialogueact262	1209.18	1211.73	D	Grad	s^ng	-1	0	However , we may run into a problem with a reading task there .
+Bed004.B.dialogueact268	1228.57	1234.48	B	Professor	fh|s^e	+1	0	but um you have to be comfortable reading relatively complicated stuff .
+Bed004.B.dialogueact269	1234.48	1237.28	B	Professor	fh|s	-1	0	And {disfmarker} and there 'll probably be self - selection to some extent .
+2	Bed004.s.10	What kind of information should be used by the system?
+Bed004.B.dialogueact379	1580.11	1584.12	B	Professor	s	-1	0	Alright , so I understand what 's {disfmarker} what you got .
+Bed004.B.dialogueact380	1584.96	1591.14	B	Professor	s^no	-1	0	I don't yet understand {pause} how you would use it .
+2	Bed004.s.11	How should this information be derived from the user query , the dialogue context and the ontology?
+Bed004.B.dialogueact456	1785.71	1796.37	B	Professor	s	+1	0	And then the question would be if {disfmarker} if those are the things that you care about , uh can you make a relatively compact way of getting from the various inputs to the things you care about .
+Bed004.B.dialogueact459	1801.58	1812.24	B	Professor	s	-1	0	given that we 're not gonna screw with the technology and just always use uh sort of orthodox Bayes - nets , then we have a knowledge engineering little problem of how do we do that .
+0	Bed004.s.12	How should it be encoded?
+1	Bed004.s.13	The system can only deal with a limited amount of input.
+Bed004.D.dialogueact510	2043.14	2058.92	D	Grad	fh|s	-1	0	And um this is about as much as we can do if we don't w if we want to avoid uh uh a huge combinatorial explosion where we specify " OK , if it 's this and this but that is not the case " , and so forth , it just gets really really messy .
+1	Bed004.s.14	Can cognitive linguistics be used to get powerful generalisations?
+Bed004.B.dialogueact774	2866.74	2874.92	B	Professor	s	-1	0	see what 's the really interesting question is can you use uh deep uh cognitive linguistics to {pause} get powerful generalizations .
+8	Bed004.s.15	How can a parser make use of spatial adverbs?
+Bed004.B.dialogueact820	3004.97	3017.45	B	Professor	fh|s	-1	0	And pushing it one step further , when you get to construction grammar and stuff , what you 'd like to be able to do is say you have this parser which is much fancier than the parser that comes with uh SmartKom ,
+Bed004.B.dialogueact822	3025.48	3029.42	B	Professor	s	-1	0	you know , the actual what people wanna do or what they 're referring to and stuff ,
+Bed004.B.dialogueact823	3029.68	3042.47	B	Professor	s	-1	0	in independent of whether it {disfmarker} about {disfmarker} what is this or where is it or something , that you could tell from the construction , you could pull out deep semantic information which you 're gonna use in a general way .
+Bed004.B.dialogueact832	3066.53	3074.37	B	Professor	s	-1	0	So just from this local construction you know that you 're gonna hafta treat it as a container you might as well go off and get that information .
+Bed004.D.dialogueact845	3110.41	3115.17	D	Grad	s	-1	0	It 's unfortunate also that English has sort of got rid of most of its spatial adverbs
+Bed004.D.dialogueact846	3115.64	3120.2	D	Grad	s^df	-1	0	because they 're really fancy then , in {disfmarker} in {disfmarker} for these kinds of analysis .
+Bed004.D.dialogueact851	3126.45	3131.52	D	Grad	s	-1	0	Parsers can pick those up but {disfmarker} but the {disfmarker} with the spatial adverbs , they have a tough time .
+Bed004.D.dialogueact852	3131.72	3135.07	D	Grad	s	-1	0	Because the {disfmarker} mean the semantics are very complex in that .

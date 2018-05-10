@@ -1,0 +1,20 @@
+3	Bmr010.s.5	In the interest of time , it was decided that the group should continue using the existing Transcriber tool and perform a forced alignment on the close-talking microphones that will , it is hoped , help to recover some of the time information indicating where different speaker overlaps occurred in the signal.
+Bmr010.A.dialogueact322	659.925	666.275	A	Grad	s	+1	2	What our decision was is that {pause} we 'll go ahead with what we have with a not very fine time scale on the overlaps .
+Bmr010.F.dialogueact331	678.517	686.989	F	Postdoc	s^cs	+1	2	then {nonvocalsound} when they 're encoding the overlaps {nonvocalsound} it would be nice for them to be able to specify when {disfmarker} you know , the start points and end points of overlaps .
+Bmr010.A.dialogueact552	1079.74	1090.38	A	Grad	s	+1	1	And I hope that if we do a forced alignment with the close - talking mike , that will be enough to recover at least some of the time the time information of when the overlap occurred .
+2	Bmr010.s.6	A meeting will be arranged with NIST to decide on a common standard and format for doing transcriptions.
+Bmr010.A.dialogueact440	867.02	868.39	A	Grad	fg|s	+1	1	Oh , we should definitely get with them then ,
+Bmr010.A.dialogueact442	870.51	871.49	A	Grad	s	+1	1	agree upon a format .
+2	Bmr010.s.7	One or two meetings will be assigned to multiple transcribers to check for inter-annotator agreement.
+Bmr010.A.dialogueact1140	2120.16	2125.41	A	Grad	s^cs^rt	+1	1	I think it would also be interesting to have , uh , a couple of the meetings have more than one transcriber do ,
+Bmr010.A.dialogueact1142	2126.01	2128.16	A	Grad	s^df	+1	1	cuz I 'm curious about inter - annotator agreement .
+3	Bmr010.s.8	To cut down on audible breaths during recordings , the group will institute some level of standards for microphone wear and use.
+Bmr010.G.dialogueact678	1285.06	1296.19	G	Professor	s	+1	2	But I {disfmarker} I think that it {disfmarker} it doesn't hurt , uh , the naturalness of the situation to try to have people {pause} wear the microphones properly , if possible ,
+Bmr010.B.dialogueact706	1352.65	1357.86	B	PhD	s	+1	2	So , anything to reduce breathing is {disfmarker} is {disfmarker} is a good thing .
+Bmr010.A.dialogueact711	1363.56	1368.57	A	Grad	s	+1	2	So you want it enough to the side so that when you exhale through your nose , it doesn't {disfmarker} the wind doesn't hit the mike .
+5	Bmr010.s.9	Speaker mn005 will feed his hand-segmented data into the speech segmenter developed by Javier to train it to identify different types of speech ( i.e . that of single versus multiple speakers ) , as well as focussing on pitch- and harmonicity-related features for identifying overlapping speech.
+Bmr010.G.dialogueact1305	2461.96	2469.34	G	Professor	s	+1	2	But , I mean , the other things that we talked about is , uh , {vocalsound} pitch - related things and harmonicity - related things ,
+Bmr010.D.dialogueact1353	2577.45	2588.53	D	PhD	s	+1	2	And I hope the {disfmarker} the next week I will have , eh , some results and we {disfmarker} we will show {disfmarker} we will see , eh , the {disfmarker} the parameter {disfmarker} the pitch , {vocalsound} eh , tracking in {disfmarker} with the program .
+Bmr010.D.dialogueact1537	2890.18	2894.98	D	PhD	qw	+1	1	But , eh , what did you think about the possibility of using the Javier software ?
+Bmr010.A.dialogueact1568	2989.76	2996.1	A	Grad	fg|s^cs	+1	1	Right . So if we {disfmarker} if we fed the hand - segmentation to Javier 's and it doesn't work , then we know something 's wrong .
+Bmr010.A.dialogueact1574	2997.41	2998.91	A	Grad	s^na	+1	1	Yeah . I think that 's probably worthwhile doing .

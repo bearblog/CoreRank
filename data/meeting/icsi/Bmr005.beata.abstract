@@ -1,0 +1,124 @@
+9	Bmr005.s.1	In the first part of the Berkeley Meeting Recorder group meeting members discuss a potential collaboration with an external researcher on inference structures in dialogue.
+Bmr005.E.dialogueact59	501.93	506.56	E	Professor	s	+1	2	but anyway some {disfmarker} some potential collaboration there about {disfmarker} about the {disfmarker} about the {disfmarker} working with these data .
+Bmr005.B.dialogueact75	532.98	542.069	B	Postdoc	fh|s	+1	2	Um , so , uh , he was interested in the question of {disfmarker} you know , relating to his {disfmarker} to the research he presented recently , um of inference structures ,
+Bmr005.E.dialogueact104	675.578	680.188	E	Professor	fh|s	+1	2	so um we were trying to think of ways that his interests could interact with ours
+Bmr005.B.dialogueact131	755.051	756.921	B	Postdoc	s^e	+1	2	He 's interested in these {disfmarker} these knowledge structures ,
+Bmr005.B.dialogueact133	756.921	759.161	B	Postdoc	s^e	+1	2	inferences that you draw {pause} i from {disfmarker}
+Bmr005.B.dialogueact76	542.069	552.751	B	Postdoc	fh|s^e	+1	0	and uh , the need to build in , um , this {disfmarker} this sort of uh mechanism for understanding of language .
+Bmr005.E.dialogueact106	680.388	700.788	E	Professor	fh|s^cs.x	+1	1	and um uh I thought that if we were going to project into the future when we had a lot of data , uh and um such things might be useful for that in or before we invested too much uh effort into that he should uh , with Jane 's help , look into some of the data that we 're {disfmarker} already have
+Bmr005.E.dialogueact113	714.104	724.194	E	Professor	fh|s	+1	0	And {disfmarker} and uh I got the impression from your mail that in fact there was enough things like this just in the little sample that {disfmarker} that you looked at that {disfmarker} that it 's plausible at least .
+Bmr005.E.dialogueact135	760.735	767.295	E	Professor	s^df	+1	0	but we were in fact looking to see if there {disfmarker} is there {disfmarker} is there something in common between our interest in meetings and his interest in {disfmarker} in {disfmarker} in this stuff .
+59	Bmr005.s.2	In the second part , speaker mn005 presents his work on detecting overlap of acoustic events , the implications of which are discussed by the group.
+Bmr005.E.dialogueact975	2717.19	2722.73	E	Professor	s^rt	+1	2	but there 's at least one meeting recorded of uh the uh uh natural language guys .
+Bmr005.E.dialogueact984	2736.85	2738.11	E	Professor	s	+1	2	and we 're recording those ,
+Bmr005.E.dialogueact41	419.187	438.83	E	Professor	fh|s	+1	2	Um , so um the one th one thing I know that we have on that is uh we had talked a {disfmarker} a couple weeks before um uh about the uh {disfmarker} the stuff you were doing with {disfmarker} with uh um uh l l attempting to locate events ,
+Bmr005.E.dialogueact43	441.43	447.5	E	Professor	s:s	+1	0	but I think , you know , what we had meant by " events " I guess was uh points of overlap between speakers .
+Bmr005.E.dialogueact316	1120.04	1124.22	E	Professor	fg|s^tc	+1	0	Um , I {disfmarker} I would like to move it into {disfmarker} into uh what Jose uh has been doing
+Bmr005.D.dialogueact324	1131.94	1137.32	D	PhD	s^tc	+1	0	I {disfmarker} I remind that me {disfmarker} my first objective eh , in the project is to {disfmarker} to study difference parameters
+Bmr005.D.dialogueact325	1137.32	1144.35	D	PhD	s^df	+1	2	to {disfmarker} to find a {disfmarker} a good solution to detect eh , the overlapping zone in eh speech recorded .
+Bmr005.D.dialogueact329	1170.38	1175.09	D	PhD	s	+1	0	and I {disfmarker} I have found eh , eh one thousand acoustic events ,
+Bmr005.D.dialogueact330	1175.63	1186.09	D	PhD	fh|s	+1	0	eh besides the overlapping zones , eh I {disfmarker} I {disfmarker} I mean the eh breaths eh aspiration eh , eh , talk eh , eh , clap ,
+Bmr005.D.dialogueact338	1202.76	1213.0	D	PhD	s^df^rt	-1	0	but I prefer because eh I would like to {disfmarker} to study if eh , I {disfmarker} I will find eh , eh , a good eh parameters eh to detect overlapping
+Bmr005.D.dialogueact339	1213.22	1221.09	D	PhD	s^cs	-1	0	I would like to {disfmarker} to {disfmarker} to test these parameters eh with the {disfmarker} another eh , eh acoustic events ,
+Bmr005.D.dialogueact340	1221.47	1240.69	D	PhD	s^df.x	-1	0	to nnn {disfmarker} {vocalsound} to eh {disfmarker} to find what is the ehm {disfmarker} the false {disfmarker} eh , the false eh hypothesis eh , nnn , which eh are produced when we use the {disfmarker} the ehm {disfmarker} this eh parameter {disfmarker} eh I mean pitch eh , eh , difference eh , feature {disfmarker}
+Bmr005.E.dialogueact361	1274.64	1277.6	E	Professor	qw	+1	0	How many overlaps were there uh in it ?
+Bmr005.D.dialogueact364	1286.61	1290.84	D	PhD	h|s	+1	1	Eh almost eh three hundred eh in one session
+Bmr005.E.dialogueact402	1376.06	1383.93	E	Professor	fh|s	+1	0	So then , in the region between {disfmarker} since there {disfmarker} there is some continuous region , in between regions where there is only one person speaking .
+Bmr005.E.dialogueact405	1383.93	1386.75	E	Professor	s^bu	+1	0	And one contiguous region like that you 're calling an event .
+Bmr005.D.dialogueact410	1393.37	1397.51	D	PhD	s	+1	0	I consider the {disfmarker} the , nnn {disfmarker} the nnn , nnn {disfmarker} eh , the entirety
+Bmr005.D.dialogueact411	1397.51	1401.86	D	PhD	s^df	+1	0	eh , eh , all {disfmarker} all the time there were {disfmarker} the voice has overlapped .
+Bmr005.D.dialogueact414	1403.99	1408.63	D	PhD	s	+1	0	But eh I {disfmarker} I don't distinguish between the {disfmarker} the numbers of eh speaker .
+Bmr005.D.dialogueact457	1492.01	1495.63	D	PhD	s	+1	0	I {disfmarker} I con I consider {disfmarker} I consider acoustic events eh , the silent too .
+Bmr005.E.dialogueact440	1475.12	1480.18	E	Professor	s^bu	-1	0	So again , that 's {disfmarker} that 's three {disfmarker} three hundred in forty - five minutes that are {disfmarker} that are speakers , just speakers .
+Bmr005.D.dialogueact484	1546.03	1572.84	D	PhD	fh|s	-1	0	um , for example , eh if eh we use the ehm {disfmarker} the mixed file , to {disfmarker} to transcribe , the {disfmarker} the events and the words , I {disfmarker} I saw that eh the eh speech signal , collected by the eh this kind of mike {disfmarker} eh of this kind of mike , eh are different from the eh mixed signal eh , we eh {disfmarker} collected by headphone .
+Bmr005.D.dialogueact492	1583.1	1597.29	D	PhD	s	-1	0	but eh the {disfmarker} the problem is eh , eh we eh detected eh difference events in the speech file eh collected by {disfmarker} by that mike uh qui compared with the mixed file .
+Bmr005.D.dialogueact498	1623.36	1640.08	D	PhD	s	-1	0	its possible to evaluate eh , eh {disfmarker} or to consider eh acoustic events that {disfmarker} which you marked eh in the mixed file , but eh they don't appear in the eh speech signal eh collected by the {disfmarker} by the mike .
+Bmr005.E.dialogueact522	1721.25	1728.74	E	Professor	fh|s^cs	-1	0	So yeah , it 's clear that if you wanna study {disfmarker} if you wanna find all the places where there were overlap , it 's probably better to use a distant mike .
+Bmr005.E.dialogueact524	1728.74	1734.97	E	Professor	s^cs	-1	0	On the other hand , there 's other phenomena that are going on at the same time for which it might be useful to look at the close - talking mikes ,
+Bmr005.D.dialogueact567	1828.45	1834.58	D	PhD	s	-1	0	it 's probably in {disfmarker} in that eh {disfmarker} in {disfmarker} in those files you {disfmarker} you can not find {disfmarker} you can not process
+Bmr005.D.dialogueact568	1834.58	1837.01	D	PhD	s^df	-1	0	because eh it 's confused with {disfmarker} with noise .
+Bmr005.D.dialogueact573	1842.88	1847.66	D	PhD	s^cs	+1	1	But eh my idea is to {disfmarker} to process only {pause} nnn , this eh {disfmarker} nnn , this kind of s of eh speech .
+Bmr005.D.dialogueact574	1848.04	1849.33	D	PhD	s^df	-1	0	Because I think it 's more realistic .
+Bmr005.E.dialogueact578	1854.87	1866.18	E	Professor	s.x	+1	0	Well , it 'd be hard , but on the other hand as you point out , if your {disfmarker} if i if {disfmarker} if your concern is to get uh the overlapping people {disfmarker} people 's speech , you will {disfmarker} you will get that somewhat better .
+Bmr005.D.dialogueact594	1896.79	1919.72	D	PhD	s^rt	+1	0	But eh the transcription {disfmarker} eh for example , I {disfmarker} I don't {disfmarker} I {disfmarker} I 'm not interested in the {disfmarker} in the {disfmarker} in the words , transcription words , eh transcribed eh eh in {disfmarker} eh follow in the {disfmarker} {vocalsound} in the {disfmarker} in the speech file , but eh eh Jane eh for example eh put a mark eh at the beginning eh of each eh talker ,
+Bmr005.D.dialogueact596	1921.93	1932.04	D	PhD	fh|s	+1	0	um eh she {disfmarker} she nnn includes information about the zone where eh there are eh {disfmarker} there is an overlapping zone .
+Bmr005.D.dialogueact598	1932.51	1943.87	D	PhD	s.%-	+1	0	But eh there isn't any {disfmarker} any mark , time {disfmarker} temporal mark , to {disfmarker} to c eh {disfmarker} to mmm {vocalsound} {disfmarker} e - heh , to label {comment} the beginning and the end of the {disfmarker} of the
+Bmr005.E.dialogueact603	1949.97	1956.97	E	Professor	s^bs	-1	0	So the twelve {disfmarker} you {disfmarker} you {disfmarker} it took you twelve hours {disfmarker} of course this included maybe some {disfmarker} some time where you were learning about what {disfmarker} what you wanted to do ,
+Bmr005.E.dialogueact604	1956.97	1961.07	E	Professor	s^bs.%-	-1	0	but {disfmarker} but uh , it took you something like twelve hours to mark the forty - five minutes , your
+Bmr005.G.dialogueact605	1960.84	1961.41	G	Grad	s^bc	-1	0	Twelve minutes .
+Bmr005.D.dialogueact619	1973.3	1981.45	D	PhD	s.%-	-1	0	Tw - twelve hours of work to {disfmarker} {vocalsound} to segment eh and label eh twelve minutes from a session of part {disfmarker} of f
+Bmr005.D.dialogueact625	1987.97	1995.06	D	PhD	s^ng	+1	1	I {disfmarker} I consider all the {disfmarker} all the session because eh I {disfmarker} I count the nnn {disfmarker} the nnn {disfmarker} the overlappings marked by {disfmarker} by Jane ,
+Bmr005.E.dialogueact630	1999.94	2001.72	E	Professor	s^bu	+1	1	So it 's three hundred in forty - five minutes ,
+Bmr005.E.dialogueact631	2001.72	2011.09	E	Professor	s	+1	2	but you have {disfmarker} you have time uh , uh marked {disfmarker} twelve minute {disfmarker} the {disfmarker} the {disfmarker} the um overlaps in twelve minutes of it .
+Bmr005.G.dialogueact634	2012.38	2014.05	G	Grad	s^nd	-1	0	Well , not just the overlaps , everything .
+Bmr005.B.dialogueact665	2072.98	2077.5	B	Postdoc	s	+1	0	And {disfmarker} and sometimes , you know , it was like you could have an overlap where someone said something in the middle ,
+Bmr005.B.dialogueact666	2077.5	2085.29	B	Postdoc	s	+1	0	but , yeah , w it just wasn't important for our purposes to have it that {disfmarker} i disrupt that unit in order to have , you know , a the words in the order in which they were spoken ,
+Bmr005.B.dialogueact668	2085.29	2087.47	B	Postdoc	s	+1	0	it would have {disfmarker} it would have been hard with the interface that we have .
+Bmr005.C.dialogueact739	2217.85	2223.32	C	PhD	qw.%-	+1	0	Now , why do you need to mark speaker overlap by hand if you can infer it from the relative energy in the {disfmarker}
+Bmr005.E.dialogueact746	2230.03	2236.27	E	Professor	s^bs	+1	1	So the idea was that what he was going to be doing was experimenting with different measures
+Bmr005.E.dialogueact747	2236.62	2242.12	E	Professor	s^e.%--	+1	1	such as the increase in energy , such as the energy in the LPC residuals , such as {disfmarker}
+Bmr005.E.dialogueact755	2256.32	2264.02	E	Professor	s	-1	0	But when you start going past that and trying to do better , it 's not obvious what combination of features is gonna give you the {disfmarker} you know , the right detector .
+Bmr005.E.dialogueact756	2264.02	2266.0	E	Professor	s	+1	0	So the idea is to have some ground truth first .
+Bmr005.E.dialogueact757	2266.56	2271.61	E	Professor	s	+1	1	And so the i the idea of the manual marking was to say " OK this , i you know , it 's {disfmarker} it 's really here " .
+Bmr005.E.dialogueact770	2286.93	2290.81	E	Professor	s^bs^rt	+1	0	the idea was , i we i i we thought it would be useful for him to look at the data anyway ,
+Bmr005.E.dialogueact771	2291.65	2294.4	E	Professor	s	+1	0	and {disfmarker} and then whatever he could mark would be helpful ,
+Bmr005.E.dialogueact776	2302.07	2308.69	E	Professor	qrr	-1	0	or do you bootstrap from some human being looking at it and then {disfmarker} then do your simple measurements , uh from the close - talking mike .
+Bmr005.E.dialogueact775	2297.28	2301.65	E	Professor	qy	-1	0	You know , do you bootstrap from a simple measurement which is right most of the time and then you g do better ,
+Bmr005.E.dialogueact774	2295.65	2297.28	E	Professor	s	-1	0	it 's a question of what you bootstrap from .
+Bmr005.B.dialogueact905	2575.65	2585.8	B	Postdoc	s	-1	0	So {disfmarker} so in the tw twelve minutes , um , if we took three hundred and divided it by four , which is about the length of twelve minutes , i Um , I 'd expect like there should be seventy - five overlaps .
+Bmr005.B.dialogueact907	2585.91	2590.38	B	Postdoc	qr.%-	-1	0	Did you find uh more than seventy - five overlaps in that period , or {disfmarker} ?
+Bmr005.G.dialogueact921	2617.25	2622.38	G	Grad	s	-1	0	I b I bet they 're more , because the beginning of the meeting had a lot more overlaps than {disfmarker} than sort of the middle .
+53	Bmr005.s.3	Finally , the members discuss the current data status and plans for further data collection as well as techniques to improve speech recognition , such as speaker adaptation and echo cancellation.
+Bmr005.C.dialogueact940	2651.02	2656.89	C	PhD	qw^rt	+1	1	like very straightforward question is where we are on the amount of data and the amount of transcribed data ,
+Bmr005.E.dialogueact945	2664.14	2670.03	E	Professor	fg|s	+1	1	Right so there 's this {disfmarker} this {disfmarker} There 's this forty - five minute piece that Jane transcribed .
+Bmr005.A.dialogueact965	2702.76	2705.34	A	PhD	qw^rt	+1	0	H how many total have we recorded now , altogether ?
+Bmr005.E.dialogueact966	2705.55	2707.68	E	Professor	s	+1	1	We 're saying about {pause} twelve hours .
+Bmr005.G.dialogueact967	2706.04	2708.32	G	Grad	s	+1	1	About twelve {pause} by now . Twelve or thirteen .
+Bmr005.E.dialogueact975	2717.19	2722.73	E	Professor	s^rt	+1	2	but there 's at least one meeting recorded of uh the uh uh natural language guys .
+Bmr005.E.dialogueact983	2729.43	2736.5	E	Professor	fh|s^rt	+1	2	uh , we 've started having a morning meeting , today uh i starting a w a week or two ago , on the uh front - end issues ,
+Bmr005.E.dialogueact984	2736.85	2738.11	E	Professor	s	+1	2	and we 're recording those ,
+Bmr005.E.dialogueact985	2738.75	2744.29	E	Professor	fh|s	+1	2	uh there 's a network services and applications group here who 's agreed to have their meetings recorded ,
+Bmr005.E.dialogueact996	2774.95	2779.47	E	Professor	s	+1	0	i if we 're {disfmarker} if we collect fifty or sixty hours , the meeting meetings it will probably be , you know , twenty or thirty percent of it ,
+Bmr005.C.dialogueact999	2782.07	2784.5	C	PhD	s^bs	+1	0	So there 's probably {disfmarker} there 's three to four a week ,
+Bmr005.C.dialogueact1003	2787.78	2789.8	C	PhD	s^bu	+1	0	And they 're each about an hour or something .
+Bmr005.G.dialogueact1042	2861.23	2863.61	G	Grad	s	+1	0	I {disfmarker} I would really like someone to do adaptation .
+Bmr005.E.dialogueact1046	2867.74	2877.22	E	Professor	s^cs	+1	1	I mean , one of the things I wanted to do , uh , that I I talked to {disfmarker} to Don about , is one of the possible things he could do or m also , we could have someone else do it , is to do block echo cancellation ,
+Bmr005.E.dialogueact1049	2877.76	2881.78	E	Professor	s^df	-1	0	to try to get rid of some of the effects of the {disfmarker} the {disfmarker} the far - field effects .
+Bmr005.E.dialogueact1051	2882.31	2889.12	E	Professor	fh|s	-1	0	Um , I mean we have {disfmarker} the party line has been that echo cancellation is not the right way to handle the situation
+Bmr005.E.dialogueact1052	2889.12	2890.55	E	Professor	s^df	-1	0	because people move around ,
+Bmr005.E.dialogueact1053	2891.37	2902.16	E	Professor	fh|s	-1	0	and uh , if {disfmarker} if it 's {disfmarker} if it 's uh not a simple echo , like a cross - talk kind of echo , but it 's actually room acoustics , it 's {disfmarker} it 's {disfmarker} it 's {disfmarker} you can't really do inversion ,
+Bmr005.E.dialogueact1055	2902.16	2909.4	E	Professor	s	-1	0	and even echo cancellation is going to uh be something {disfmarker} It may {disfmarker} you {disfmarker} Someone may be moving enough that you are not able to adapt quickly
+Bmr005.E.dialogueact1056	2909.39	2919.38	E	Professor	s	+1	0	and so the tack that we 've taken is more " lets come up with feature approaches and multi - stream approaches and so forth , that will be robust to it for the recognizer and not try to create a clean signal " .
+Bmr005.E.dialogueact1058	2920.11	2921.18	E	Professor	fh|s	+1	0	Uh , that 's the party line .
+Bmr005.E.dialogueact1062	2934.95	2945.09	E	Professor	fh|s^cs	+1	1	So that 's something I 'd like somebody to do at some point , just take these digits , take the far - field mike signal , and the close uh mike signal , and apply really good echo cancellation .
+Bmr005.E.dialogueact1070	2969.16	2974.01	E	Professor	qw.%--	-1	0	Uh , what 's the difference in {disfmarker} If you were trying to construct a linear filter , that would
+Bmr005.E.dialogueact1074	2976.73	2985.53	E	Professor	s^e	+1	0	that would subtract off {comment} the um uh parts of the signal that were the aspects of the signal that were different between the close - talk and the distant .
+Bmr005.E.dialogueact1077	2999.3	3006.4	E	Professor	fh|s	+1	0	Yeah , so you 're trying to {disfmarker} So you 'd {disfmarker} There 's a {disfmarker} a distance between the close and the distant mikes so there 's a time delay there ,
+Bmr005.E.dialogueact1092	3060.96	3068.86	E	Professor	s	-1	0	So now , if you um try to r you {disfmarker} To completely remove the effect of that is sort of impractical for a number of technical reasons ,
+Bmr005.E.dialogueact1094	3070.31	3073.63	E	Professor	s	+1	0	not to try to completely remove it , that is , invert the {disfmarker} the room response ,
+Bmr005.E.dialogueact1095	3073.63	3077.89	E	Professor	s	+1	0	but just to try to uh uh eliminate some of the {disfmarker} the effect of some of the echos .
+Bmr005.E.dialogueact1106	3116.93	3120.88	E	Professor	fg|s	+1	0	So , echo cancelling is {disfmarker} is , you know , commonly done in telephony ,
+Bmr005.E.dialogueact1107	3121.16	3129.38	E	Professor	fh|s	+1	0	and {disfmarker} and {disfmarker} and it 's sort of the obvious thing to do in this situation if you {disfmarker} if , you know , you 're gonna be talking some distance from a mike .
+Bmr005.E.dialogueact1113	3147.88	3151.3	E	Professor	s^aa|s	-1	0	Right . So it 's taking samples , it 's doing adaptation , it 's adjusting weights ,
+Bmr005.E.dialogueact1114	3151.3	3152.38	E	Professor	s	-1	0	and then it 's getting the sum .
+Bmr005.E.dialogueact1115	3153.4	3158.86	E	Professor	fh|s.x	-1	0	So um , uh anyway that 's {disfmarker} that 's kind of a reasonable thing that I 'd like to have somebody try {disfmarker}
+Bmr005.E.dialogueact1116	3158.86	3162.93	E	Professor	s	+1	1	somebody look {disfmarker} And {disfmarker} and the digits would be a reasonable thing to do that with .
+Bmr005.E.dialogueact1124	3183.67	3188.88	E	Professor	s:s	-1	0	Which is what I was calling the " party line " , which is that uh doing that sort of thing is not really what we want .
+Bmr005.E.dialogueact1125	3189.02	3194.27	E	Professor	s	-1	0	We want something more flexible , uh i i where people might change their position ,
+Bmr005.E.dialogueact1162	3368.01	3371.98	E	Professor	s	+1	1	We have {disfmarker} we have an hour uh that {disfmarker} that is transcribed ,
+Bmr005.E.dialogueact1163	3371.98	3375.69	E	Professor	s	+1	1	we have {disfmarker} we have twelve hours that 's recorded but not transcribed ,
+Bmr005.E.dialogueact1164	3376.21	3382.73	E	Professor	s	-1	0	and at the rate we 're going , uh by the end of the semester we 'll have , I don't know , forty or fifty or something , if we {disfmarker} if this really
+Bmr005.E.dialogueact1174	3395.52	3400.14	E	Professor	s^rt	-1	0	Eight weeks times three hours is twenty - four , so that 's {disfmarker} Yeah , so like thirty {disfmarker} thirty hours ?
+Bmr005.E.dialogueact1186	3445.61	3448.08	E	Professor	s^arp	-1	0	But I don't think we 're gonna stop at the end of this semester .
+Bmr005.E.dialogueact1189	3448.55	3454.91	E	Professor	s	+1	1	So , I th I think that if we are able to keep that up for a few months , we are gonna have more like a hundred hours .
+Bmr005.C.dialogueact1197	3473.86	3477.16	C	PhD	s	-1	0	um I 'm talking more about strong differences of opinion meetings ,
+Bmr005.E.dialogueact1210	3491.9	3509.47	E	Professor	s	+1	1	Yeah . So {disfmarker} Yeah . So I {disfmarker} I {disfmarker} uh , I {disfmarker} I 'd mentioned to Adam , and {disfmarker} that was another thing I was gonna talk {disfmarker} uh , mention to them before {disfmarker} {comment} that uh there 's uh {disfmarker} It {disfmarker} it oc it occurred to me that we might be able to get some additional data by talking to uh acquaintances in local broadcast media .
+Bmr005.E.dialogueact1227	3571.79	3584.21	E	Professor	s	+1	1	the other thing that occurred to me after we had that discussion , in fact , is that it 's even possible , since of course , many radio shows are not live , {comment} uh that we could invite them to have like some of their {disfmarker} {comment} record some of their shows here .
+Bmr005.E.dialogueact1282	3741.55	3757.31	E	Professor	s	+1	0	but I think as far as the collection , it doesn't seem to me l like , uh , unreasonable to say that uh in January , you know , ro roughly uh {disfmarker} which is roughly three months from now , we should have at least something like , you know , twenty - five , thirty hours .
+Bmr005.C.dialogueact1313	3842.56	3849.15	C	PhD	s	+1	0	but there 's {disfmarker} there are research questions you can answer without the transcriptions , or at least that you can start to answer .
+Bmr005.B.dialogueact1315	3849.04	3850.56	B	Postdoc	s^cs	-1	0	It seems like you could hold some meetings .
+Bmr005.C.dialogueact1400	4021.45	4029.3	C	PhD	s	+1	2	if anyone knows of one more m or two more wee meetings per week that happen at ICSI , um that we could record , I think it would be worth it .
+Bmr005.E.dialogueact1401	4029.23	4039.09	E	Professor	fg|s^co	+1	0	Yeah . Well , we should also check with Mari again , because they {disfmarker} because they were really intending , you know , maybe just didn't happen , but they were really intending to be duplicating this in some level .
+Bmr005.B.dialogueact1430	4133.71	4137.14	B	Postdoc	s	-1	0	it 's like you don't want meetings that are too large , but you don't want meetings that are too small .
+Bmr005.B.dialogueact1431	4137.45	4144.24	B	Postdoc	s^cs	-1	0	And um {disfmarker} a and it just seems like maybe we could exploit the subj human subject p p pool , in the positive sense of the word .
+Bmr005.G.dialogueact1447	4177.47	4180.3	G	Grad	s	+1	1	So , I think it 's gonna be a problem to get people regularly .

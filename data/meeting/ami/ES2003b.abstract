@@ -1,0 +1,170 @@
+11	ES2003b.rdhillon.s.1	The project manager recapped the events of the previous meeting and briefed the team on some new requirements the team must follow when designing the remote.
+ES2003b.B.dialog-act.vkaraisk.16	56.81	59.46	B	PM	sug	+1	1	we'll start with the minutes of the last meeting .
+ES2003b.B.dialog-act.vkaraisk.19	62.89	78.62	B	PM	inf	+1	1	discussed the possibility of a macro facility , interac interacting the T_V_ a bit more , um mentioning of bar-code , joystick for user manipulation , um and ergonomics of the remote control as well .
+ES2003b.B.dialog-act.vkaraisk.22	78.62	83.14	B	PM	inf	+1	1	Um it's come to my attention the following .
+ES2003b.B.dialog-act.vkaraisk.23	83.14	87.88	B	PM	inf	+1	2	Teletext has become outdated due to the populat popularity of the internet .
+ES2003b.B.dialog-act.vkaraisk.24	87.88	97.04	B	PM	inf	+1	2	Remote control should only be used for the T_V_ . Um due for uh time to market and possibly also cost issues .
+ES2003b.B.dialog-act.vkaraisk.25	97.04	100.58	B	PM	inf	+1	2	Um also key is the corporate image should stay recognisable ,
+ES2003b.B.dialog-act.vkaraisk.26	100.58	107.12	B	PM	inf	+1	2	um f uh your colour and slogan of course is down at the bottom there .
+ES2003b.B.dialog-act.vkaraisk.28	110.03	122.0	B	PM	inf	+1	1	Just to say quickly uh I would have thought that only being used for a television the macro facility may now not be required .
+ES2003b.B.dialog-act.vkaraisk.31	126.19	130.85	B	PM	sug	+1	1	to the point in my opinion anyway that it might not be worth pursuing .
+ES2003b.B.dialog-act.vkaraisk.32	130.85	135.12	B	PM	sug	+1	1	Um if anybody disagrees we can uh definitely say so .
+ES2003b.B.dialog-act.vkaraisk.34	139.98	144.53	B	PM	sug	+1	1	Um I'd like to if possible hear from our Marketing Expert first ,
+21	ES2003b.rdhillon.s.2	The marketing expert presented research on consumer preferences and user requirements for remotes.
+ES2003b.C.dialog-act.vkaraisk.24	188.93	192.273	C	ME	inf	+1	1	Functional requirement by me Ebenezer . {vocalsound}
+ES2003b.C.dialog-act.vkaraisk.26	195.85	197.4	C	ME	inf	+1	1	we did some research ,
+ES2003b.C.dialog-act.vkaraisk.27	197.4	201.71	C	ME	inf	+1	1	we asked one hundred people their opinions on remote controls .
+ES2003b.C.dialog-act.vkaraisk.28	201.71	204.62	C	ME	inf	+1	1	We asked some uh open ended questions ,
+ES2003b.C.dialog-act.vkaraisk.31	209.73	211.62	C	ME	inf	+1	1	and we asked some very specific questions ,
+ES2003b.C.dialog-act.vkaraisk.33	213.81	216.83	C	ME	inf	+1	1	Please bear in mind this is only a hundred people ,
+ES2003b.C.dialog-act.vkaraisk.34	216.83	227.39	C	ME	inf	+1	1	so even when the groups are divided into fifteen to twenty five , twenty five to thirty five , there's only maybe ten people {vocalsound} fifteen people in each group .
+ES2003b.C.dialog-act.vkaraisk.38	230.48	232.13	C	ME	inf	+1	1	some the bad stuff we got ,
+ES2003b.C.dialog-act.vkaraisk.39	232.13	234.41	C	ME	inf	+1	1	remotes are often lost .
+ES2003b.C.dialog-act.vkaraisk.42	243.65	245.44	C	ME	inf	+1	1	{vocalsound} Most buttons are not used any more ,
+ES2003b.C.dialog-act.vkaraisk.43	245.44	248.23	C	ME	inf	+1	1	like you said , teletext is outdated now .
+ES2003b.C.dialog-act.vkaraisk.49	261.19	263.66	C	ME	inf	+1	1	there's just a lot of stuff that no one really uses .
+ES2003b.C.dialog-act.vkaraisk.51	266.88	269.35	C	ME	inf	+1	1	Takes too long to master the remote control .
+ES2003b.C.dialog-act.vkaraisk.52	269.35	271.59	C	ME	inf	+1	1	I've seen some remote controls that are big ,
+ES2003b.C.dialog-act.vkaraisk.53	271.59	273.2	C	ME	inf	+1	1	they have a lot of buttons ,
+ES2003b.C.dialog-act.vkaraisk.54	273.2	276.37	C	ME	inf	+1	1	you have to hold down more than one key at one time to do something ,
+ES2003b.C.dialog-act.vkaraisk.58	284.15	286.58	C	ME	inf	+1	1	Some of the good stuff we got .
+ES2003b.C.dialog-act.vkaraisk.59	286.58	294.26	C	ME	inf	+1	1	Between the age of uh fifteen and twenty five , most people would be willing to pay extra for voice recognition software .
+ES2003b.C.dialog-act.vkaraisk.63	299.45	302.76	C	ME	inf	+1	1	um most people want remote controls to be pretty ,
+ES2003b.C.dialog-act.vkaraisk.64	302.76	305.15	C	ME	inf	+1	1	they want it to be fancy ,
+ES2003b.C.dialog-act.vkaraisk.65	305.15	306.77	C	ME	inf	+1	1	th they they want it to be different ,
+26	ES2003b.rdhillon.s.3	The marketing expert also presented information regarding voice recognition and what demographic finds the feature appealing.
+ES2003b.C.dialog-act.vkaraisk.68	315.03	316.3	C	ME	off	+1	1	Finally , my opinion .
+ES2003b.C.dialog-act.vkaraisk.69	318.31	320.89	C	ME	ass	+1	2	The voice recognition thing is cool .
+ES2003b.C.dialog-act.vkaraisk.70	320.89	325.48	C	ME	inf	+1	2	And uh voice recognition , the software , open source software exist already .
+ES2003b.C.dialog-act.vkaraisk.71	325.48	330.6	C	ME	inf	+1	2	It's a bit sketchy at some times , uh , you're not gonna get good always accurate results ,
+ES2003b.C.dialog-act.vkaraisk.72	330.6	333.34	C	ME	fra	+1	2	but for a very fixed number of words ,
+ES2003b.C.dialog-act.vkaraisk.75	333.97	336.27	C	ME	el.inf	+1	1	how many different words can you have for a remote control ,
+ES2003b.C.dialog-act.vkaraisk.76	336.27	340.35	C	ME	inf	+1	1	up , down , left , right , channel five , channel seven ,
+ES2003b.C.dialog-act.vkaraisk.80	342.3	345.55	C	ME	inf	+1	2	For a fixed vocabulary it works quite well .
+ES2003b.C.dialog-act.vkaraisk.81	345.55	347.46	C	ME	inf	+1	2	I'm pretty sure people would buy it .
+ES2003b.C.dialog-act.vkaraisk.84	353.61	357.17	C	ME	inf	+1	2	I mean most people use a remote control for switching to channels ,
+ES2003b.C.dialog-act.vkaraisk.88	364.47	372.58	C	ME	inf	+1	2	So if you have to say up , up , up , up , if you have to do that all the time , then people might get a bit fed up with that
+ES2003b.C.dialog-act.vkaraisk.90	374.384	380.23	C	ME	inf	+1	2	{vocalsound} However , {vocalsound} oh , because the voice recognition software exists already ,
+ES2003b.C.dialog-act.vkaraisk.91	380.23	383.39	C	ME	inf	+1	2	there's no need to spend money on research and development ,
+ES2003b.C.dialog-act.vkaraisk.92	383.39	388.5	C	ME	inf	+1	2	but this does mean the need for microphones in the in the remote control ,
+ES2003b.C.dialog-act.vkaraisk.93	388.5	391.17	C	ME	inf	+1	2	which is an unusual feature in my opinion .
+ES2003b.C.dialog-act.vkaraisk.94	391.17	397.64	C	ME	sug	+1	2	But if we do have the voice recognition thing , there's a lot of stuff that you can uh get rid of .
+ES2003b.C.dialog-act.vkaraisk.96	398.35	399.0	C	ME	inf	+1	2	there're two options .
+ES2003b.C.dialog-act.vkaraisk.97	399.0	401.18	C	ME	sug	+1	2	Either you have voice recognition by itself ,
+ES2003b.C.dialog-act.vkaraisk.98	401.18	406.89	C	ME	ass	+1	2	which I think is a bit impractical for like night time if you wanna be watching television and you wanna be quiet ,
+ES2003b.C.dialog-act.vkaraisk.99	406.89	414.18	C	ME	ass	+1	2	or I don't know you have a visitor coming round and the remote's only trained for you , it's a bit impractical to have just voice recognition by itself .
+ES2003b.C.dialog-act.vkaraisk.100	414.18	418.02	C	ME	sug	+1	2	So you can have voice recognition and a regular remote .
+ES2003b.C.dialog-act.vkaraisk.101	418.02	424.61	C	ME	inf	+1	2	But imagine you got rid of the regular remote part , then you can design the remote to look any way you want it to look ,
+ES2003b.C.dialog-act.vkaraisk.122	457.02	460.97	C	ME	el.ass	+1	2	but is it practical to have a voice recognition system in a remote control ,
+ES2003b.C.dialog-act.vkaraisk.124	462.81	470.03	C	ME	el.inf	+1	2	Um , will people will people be willing to wait for the the period that it'll take to train the remote ,
+ES2003b.C.dialog-act.vkaraisk.134	497.57	500.85	C	ME	inf	+1	2	{vocalsound} I think a lot of young people will buy the remote control , if they have the money ,
+ES2003b.C.dialog-act.vkaraisk.137	503.41	504.95	C	ME	el.inf	+1	2	but would they return it after a while
+22	ES2003b.rdhillon.s.4	The user interface designer described the technical functions of a remote and stressed the need for a user focused design.
+ES2003b.A.dialog-act.vkaraisk.8	557.62	562.51	A	UI	inf	+1	1	this is a {vocalsound} brief run through of the um of the technical functions of the remote .
+ES2003b.A.dialog-act.vkaraisk.10	564.04	566.5	A	UI	ass	+1	1	the presentation is uh already slightly obsolete
+ES2003b.A.dialog-act.vkaraisk.11	566.5	572.84	A	UI	inf	+1	1	because I {vocalsound} had in mind something that would uh be i be aimed at controlling multiple devices
+ES2003b.A.dialog-act.vkaraisk.15	577.98	588.18	A	UI	inf	+1	1	I've looked at {vocalsound} looked at a num {vocalsound} uh couple of other uh remote control models just for an idea of basic design principles . Um
+ES2003b.A.dialog-act.vkaraisk.18	599.12	607.11	A	UI	inf	+1	1	{vocalsound} Um um basically the job of the device is to send commands to an appliance , in this case the television set .
+ES2003b.A.dialog-act.vkaraisk.20	610.55	616.51	A	UI	inf	+1	1	Um and there's two main trends in th in the sort of design practice .
+ES2003b.A.dialog-act.vkaraisk.22	616.51	625.27	A	UI	inf	+1	1	On the one hand {disfmarker} and this uh this particularly relates to its sort of earliest models where with you know i so so many buttons on it
+ES2003b.A.dialog-act.vkaraisk.24	627.48	634.83	A	UI	inf	+1	1	Um giving you every possible function that the that the device has , the remote control controls .
+ES2003b.A.dialog-act.vkaraisk.26	637.96	642.42	A	UI	ass	+1	1	it creates a rather user unfriendly interface .
+ES2003b.A.dialog-act.vkaraisk.27	642.42	644.83	A	UI	inf	+1	1	And on the other hand there's a user focused approach
+ES2003b.A.dialog-act.vkaraisk.28	644.83	650.48	A	UI	inf	+1	1	that pares things down to just what {vocalsound} what is most likely to get used . Um {vocalsound}
+ES2003b.A.dialog-act.vkaraisk.30	654.04	657.45	A	UI	inf	+1	1	and of course there is a certain amount of sort of loss of function here obviously ,
+ES2003b.A.dialog-act.vkaraisk.33	661.03	664.36	A	UI	inf	+1	1	And so you go for something that's fairly intuitive to use ,
+ES2003b.A.dialog-act.vkaraisk.35	690.26	694.3	A	UI	sug	+1	1	My own view is that we should definitely be going for a user focused design .
+ES2003b.A.dialog-act.vkaraisk.36	694.3	706.24	A	UI	ass	+1	1	Um but uh the pro {vocalsound} I think the problem with a lot of the sort of user focused designs that are about is that they sort of make assumptions in advance
+ES2003b.A.dialog-act.vkaraisk.37	706.24	713.98	A	UI	inf	+1	1	about what uh what a given user's going to uh want mo want to do from {vocalsound} want it to do most .
+ES2003b.A.dialog-act.vkaraisk.39	715.61	720.99	A	UI	sug	+1	1	something that's uh {vocalsound} something that is more programmable ,
+ES2003b.A.dialog-act.vkaraisk.40	720.99	725.39	A	UI	sug	+1	1	that uh perh perhaps has the full range of functions available to it
+ES2003b.A.dialog-act.vkaraisk.41	725.39	729.58	A	UI	sug	+1	1	but you can then specify yourself what you're most likely to want .
+ES2003b.A.dialog-act.vkaraisk.43	736.52	744.15	A	UI	ass	+1	1	um I liked Ebenezer's idea of including a joystick in that and uh possibly a sort of fairly minimal number of sort of function buttons ,
+ES2003b.A.dialog-act.vkaraisk.46	745.49	748.13	A	UI	sug	+1	1	you then have some sort of basic display on it
+ES2003b.A.dialog-act.vkaraisk.47	748.13	765.65	A	UI	sug	+1	1	so that if you're um sort of cha changing from different modes for the device it'll tell you just exactly what uh you know each direction of the uh of the um joystick's {vocalsound} going to do or wha or what each function button's going to do .
+15	ES2003b.rdhillon.s.5	The industrial designer discussed the interior workings of a remote.
+ES2003b.D.dialog-act.vkaraisk.21	887.48	889.5	D	ID	inf	+1	1	I'm responsible for working design ,
+ES2003b.D.dialog-act.vkaraisk.22	889.5	896.0	D	ID	inf	+1	1	uh , this is basically the inside going on of the the uh remote control .
+ES2003b.D.dialog-act.vkaraisk.23	896.0	897.86	D	ID	inf	+1	1	So we have the energy source ,
+ES2003b.D.dialog-act.vkaraisk.24	897.86	899.04	D	ID	inf	+1	1	we have the user interface ,
+ES2003b.D.dialog-act.vkaraisk.26	900.7	903.89	D	ID	inf	+1	1	Uh the sender will push the button ,
+ES2003b.D.dialog-act.vkaraisk.27	903.89	905.82	D	ID	inf	+1	1	the chip will respond ,
+ES2003b.D.dialog-act.vkaraisk.32	918.67	921.53	D	ID	el.ass	+1	1	Do we need uh many buttons ,
+ES2003b.D.dialog-act.vkaraisk.33	921.53	923.22	D	ID	el.ass	+1	1	or do we need l many light bulbs
+ES2003b.D.dialog-act.vkaraisk.37	936.85	940.12	D	ID	inf	+1	1	Um , the joystick is another thing ,
+ES2003b.D.dialog-act.vkaraisk.38	940.12	945.64	D	ID	inf	+1	1	if we were gonna add that , um , there'd be more components to deal with that .
+ES2003b.D.dialog-act.vkaraisk.53	988.43	991.92	D	ID	inf	+1	1	you have the energy source obviously connected to the chip ,
+ES2003b.D.dialog-act.vkaraisk.55	995.08	996.38	D	ID	inf	+1	1	You have the switch turn it on ,
+ES2003b.D.dialog-act.vkaraisk.56	996.38	1000.68	D	ID	inf	+1	1	infrared bulb , uh will contact the T_V_
+ES2003b.D.dialog-act.vkaraisk.59	1007.94	1013.38	D	ID	el.ass	+1	1	do we need on the control uh different buttons to decide , or different light bulbs ,
+ES2003b.D.dialog-act.vkaraisk.61	1015.09	1017.56	D	ID	ass	+1	1	Um , I dunno what we should decide on that .
+39	ES2003b.rdhillon.s.6	The team then discussed the option to include voice recognition , LCD , and a feature to locate a misplaced remote.
+ES2003b.B.dialog-act.vkaraisk.96	1051.14	1057.06	B	PM	inf	+1	2	I hear what the Marketing Expert's saying about {vocalsound} um voice activated control .
+ES2003b.B.dialog-act.vkaraisk.97	1057.06	1060.67	B	PM	ass	+1	2	However I've got a couple of worries about that . {vocalsound}
+ES2003b.B.dialog-act.vkaraisk.98	1060.67	1070.28	B	PM	ass	+1	2	The power required , um and the ability to the cost , it seems like for uh an embedded system , this could cause us issues .
+ES2003b.B.dialog-act.vkaraisk.103	1087.92	1092.61	B	PM	ass	+1	2	Um voice activation could be an interesting idea
+ES2003b.B.dialog-act.vkaraisk.104	1092.61	1101.8	B	PM	ass	+1	2	but I think that our Ind Industrial Designer would probably upon some research say that it's maybe not feasible .
+ES2003b.B.dialog-act.vkaraisk.106	1104.55	1110.43	B	PM	inf	+1	1	however the idea of a joystick and then maybe an L_C_D_ which has been kind of put forward so far ,
+ES2003b.B.dialog-act.vkaraisk.109	1115.13	1122.46	B	PM	inf	+1	2	but if you can control almost all of the functionality from the display , I don't know how much power an L_C_D_ would take ,
+ES2003b.B.dialog-act.vkaraisk.112	1129.08	1138.38	B	PM	sug	+1	2	literally um if you can imagine the display maybe slightly larger than um those on a {vocalsound} a mobile phone ,
+ES2003b.B.dialog-act.vkaraisk.113	1138.38	1140.91	B	PM	sug	+1	2	something where you can read an an um fair amount of information ,
+ES2003b.B.dialog-act.vkaraisk.114	1140.91	1143.1	B	PM	sug	+1	2	traverse maybe quite a few menus ,
+ES2003b.B.dialog-act.vkaraisk.119	1155.84	1163.2	B	PM	sug	+1	1	Um and then we could have like say the common buttons as you say , volume control , changing channels {disfmarker}
+ES2003b.A.dialog-act.vkaraisk.60	1163.312	1172.08	A	UI	sug	+1	2	{gap} I I was thinking that the remote {vocalsound} the um {vocalsound} sort of default functions for the joystick would be up and down for uh volume , left and right for channels .
+ES2003b.D.dialog-act.vkaraisk.68	1173.47	1175.18	D	ID	el.ass	+1	2	Do you think that people will get mixed up ,
+ES2003b.D.dialog-act.vkaraisk.71	1175.98	1177.64	D	ID	inf	+1	2	they'll be looking at this screen and that screen
+ES2003b.A.dialog-act.vkaraisk.61	1183.07	1188.51	A	UI	ass	+1	2	Um I think probably for the first couple of hours of using it
+ES2003b.A.dialog-act.vkaraisk.66	1211.81	1214.67	A	UI	sug	+1	1	but we should probably try to stick to black and white .
+ES2003b.A.dialog-act.vkaraisk.67	1214.67	1217.54	A	UI	inf	+1	1	Si si simply to keep m keep the unit cost down .
+ES2003b.B.dialog-act.vkaraisk.134	1295.21	1303.37	B	PM	sug	+1	3	I imagine as well that the actual L_C_D_ and maybe to a certain extent the joystick as well would be for the additional functionality .
+ES2003b.B.dialog-act.vkaraisk.137	1314.68	1321.21	B	PM	sug	+1	1	Um and you can still have the main buttons that allow the people to turn the machine on and off , d up and down ,
+ES2003b.B.dialog-act.vkaraisk.140	1322.28	1326.3	B	PM	sug	+1	2	maybe we have the fol um the joystick as a separate one for the other functions then ,
+ES2003b.B.dialog-act.vkaraisk.141	1326.3	1333.13	B	PM	sug	+1	1	that there's just a a small number of as you were saying uh buttons that have already been defined .
+ES2003b.B.dialog-act.vkaraisk.143	1333.53	1338.53	B	PM	sug	+1	1	we go for the nice standard um up and down for and volume control .
+ES2003b.A.dialog-act.vkaraisk.84	1386.58	1392.13	A	UI	sug	+1	2	if you i if you wanted to access further functions i {vocalsound} you you then get to sort of menu navigation .
+ES2003b.A.dialog-act.vkaraisk.85	1392.13	1406.75	A	UI	inf	+1	2	I mean with things like ch with things like tuning and channels um you know adjusting brightn uh brightness and {vocalsound} fiddly things that no one really bothers with , most T_V_s these days actually have menus anyway
+ES2003b.B.dialog-act.vkaraisk.181	1573.03	1576.87	B	PM	inf	+1	1	something else that you brought up was uh the ability to lose a remote ,
+ES2003b.B.dialog-act.vkaraisk.184	1584.0	1586.6	B	PM	el.inf	+1	1	but have any of you ever seen those odd little key rings
+ES2003b.B.dialog-act.vkaraisk.186	1586.6	1590.22	B	PM	inf	+1	1	where if you whistle , it will beep and you {disfmarker} tell you where it is .
+ES2003b.C.dialog-act.vkaraisk.196	1590.23	1591.18	C	ME	inf	+1	1	I had one of those ,
+ES2003b.C.dialog-act.vkaraisk.198	1594.09	1597.31	C	ME	inf	+1	1	because it it went off all the time accidentally .
+ES2003b.B.dialog-act.vkaraisk.188	1597.64	1600.74	B	PM	sug	+1	2	the other option of course is that um the
+ES2003b.C.dialog-act.vkaraisk.199	1599.46	1600.962	C	ME	sug	+1	2	The clapping one . {vocalsound}
+ES2003b.B.dialog-act.vkaraisk.191	1605.97	1611.54	B	PM	fra	+1	2	Um digital telephones , uh for example , one unit has {disfmarker}
+ES2003b.B.dialog-act.vkaraisk.193	1613.1	1614.15	B	PM	inf	+1	2	somewhere where there's a button ,
+ES2003b.B.dialog-act.vkaraisk.192	1611.54	1613.1	B	PM	inf	+1	2	of course you have to have that base unit ,
+ES2003b.B.dialog-act.vkaraisk.194	1614.15	1617.59	B	PM	sug	+1	2	but maybe it's a button that you attach to the T_V_ .
+ES2003b.B.dialog-act.vkaraisk.195	1617.59	1623.65	B	PM	sug	+1	2	Something which you when you press that , it would beep to give its location away , on the remote unit .
+ES2003b.B.dialog-act.vkaraisk.198	1632.71	1640.0	B	PM	sug	+1	2	again say what , it would be a small transmitter , um watch battery type scenario I would say ,
+ES2003b.B.dialog-act.vkaraisk.200	1649.02	1652.76	B	PM	sug	+1	1	that might be something that we could look into .
+ES2003b.B.dialog-act.vkaraisk.205	1655.51	1658.17	B	PM	ass	+1	1	that could be something that separates us a bit from the market as well .
+8	ES2003b.rdhillon.s.7	The team briefly discussed who they were aiming their product to along with the idea of marketing their product to television manufacturers.
+ES2003b.C.dialog-act.vkaraisk.166	1250.5	1253.99	C	ME	inf	+1	1	but I think we don't have a specific audience ,
+ES2003b.C.dialog-act.vkaraisk.168	1254.66	1256.21	C	ME	el.sug	+1	1	like what is our target audience ,
+ES2003b.B.dialog-act.vkaraisk.129	1268.224	1273.34	B	PM	sug	+1	1	{vocalsound} I think it could probably be aimed at most people who've used a mobile .
+ES2003b.B.dialog-act.vkaraisk.131	1277.58	1288.23	B	PM	inf	+1	1	Um , if we are if we were to follow that avenue , we might be s you know um we're kind of almost relying on their experience with a mobile phone I suppose .
+ES2003b.A.dialog-act.vkaraisk.104	1520.112	1525.83	A	UI	sug	+1	1	{vocalsound} Um maybe then our market should be T_V_ manufacturers , rather than the public .
+ES2003b.B.dialog-act.vkaraisk.174	1534.03	1536.91	B	PM	ass	+1	1	However I don't know exactly where we'll be going with that ,
+ES2003b.C.dialog-act.vkaraisk.189	1543.72	1554.27	C	ME	inf	+1	1	It's just , the way I figure it , twelve point five Euros per unit , we have to sell at least like three million or something like that ,
+ES2003b.A.dialog-act.vkaraisk.133	1988.86	1998.51	A	UI	sug	+1	1	Um , if we do end up trying to market this to television manufacturers then the um then the transmitter could actually be built into the television .
+20	ES2003b.rdhillon.s.8	The team also decided on some features to include in their product.
+ES2003b.B.dialog-act.vkaraisk.215	1683.75	1689.39	B	PM	el.ass	+1	2	do we go for a small joystick that would operate say changing channels , up and down ,
+ES2003b.B.dialog-act.vkaraisk.208	1664.53	1668.65	B	PM	sug	+1	1	Um we have to decide exactly what we're going to do with the remote .
+ES2003b.B.dialog-act.vkaraisk.216	1689.39	1694.41	B	PM	el.ass	+1	2	and then , what , another button that would say that it's now being used to manoeuvre round the L_C_D_ .
+ES2003b.D.dialog-act.vkaraisk.77	1699.28	1701.77	D	ID	el.sug	+1	2	Should volume be important in the joystick , do you think ?
+ES2003b.B.dialog-act.vkaraisk.217	1702.02	1704.82	B	PM	sug	+1	2	We could use say the left and right for changing channels
+ES2003b.B.dialog-act.vkaraisk.228	1738.7	1745.62	B	PM	sug	+1	4	we could maybe even go as far as saying power button , small joystick , L_C_D_ ,
+ES2003b.B.dialog-act.vkaraisk.231	1751.24	1754.92	B	PM	sug	+1	3	and with the possibility of pushing down on the joystick to say okay ?
+ES2003b.A.dialog-act.vkaraisk.116	1763.56	1773.43	A	UI	ass	+1	1	Actually I would say maybe two two function buttons , the {disfmarker} y we're now using the menus button and um and an og and an okay button .
+ES2003b.A.dialog-act.vkaraisk.117	1773.43	1786.37	A	UI	inf	+1	2	I mean certainly something I've found with the joystick on mo the joysticks on mobile phones is that a lot of the time th the device mistakes you trying to move it in one direction or the other for pushing down for okay .
+ES2003b.A.dialog-act.vkaraisk.120	1790.976	1799.84	A	UI	inf	+1	1	{vocalsound} The o the o the other dis design constraint I think we should bear in mind is that people are you know very much used to using a remote control one handedly ,
+ES2003b.B.dialog-act.vkaraisk.239	1815.62	1821.43	B	PM	el.ass	+1	2	Do we incorporate the idea of trying to f locate the remote control again via a beeping noise ?
+ES2003b.D.dialog-act.vkaraisk.80	1822.04	1822.89	D	ID	ass	+1	2	Yeah , think so .
+ES2003b.B.dialog-act.vkaraisk.242	1833.49	1838.71	B	PM	inf	+1	2	So that would require a um transmitter maybe attached to the T_V_ ,
+ES2003b.B.dialog-act.vkaraisk.244	1840.9	1846.89	B	PM	inf	+1	2	and {vocalsound} what , a basically a small microphone um on the actual unit ,
+ES2003b.D.dialog-act.vkaraisk.81	1847.75	1848.63	D	ID	sug	+1	2	Light bulb as well ,
+ES2003b.A.dialog-act.vkaraisk.124	1849.95	1850.91	A	UI	ass	+1	2	a small speaker you mean .
+ES2003b.B.dialog-act.vkaraisk.254	1864.85	1870.32	B	PM	ass	+1	2	th e the true fact , considering the cost of an L_E_D_ , we could just incorporate it anyway .
+ES2003b.B.dialog-act.vkaraisk.258	1885.44	1888.09	B	PM	sug	+1	1	you could go for quite an interesting design .
+ES2003b.B.dialog-act.vkaraisk.264	1898.13	1901.14	B	PM	inf	+1	1	something that can make it stand out slightly .
+ES2003b.D.dialog-act.vkaraisk.92	1975.92	1980.76	D	ID	el.ass	+1	1	I should just look at um the speaker , {gap} the speaker and an L_E_D_ .

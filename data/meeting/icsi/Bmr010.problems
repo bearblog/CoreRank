@@ -1,0 +1,9 @@
+2	Bmr010.s.10	There is no channel identifier to help in encoding speaker overlaps.
+Bmr010.F.dialogueact501	980.892	985.704	F	Postdoc	s	+1	1	Cuz there is one thing that we don't have right now and that is the automatic , um , channel identifier .
+Bmr010.F.dialogueact503	986.249	989.729	F	Postdoc	s^rt	+1	1	That {disfmarker} that , you know , that would g help in terms of encoding of overlaps .
+1	Bmr010.s.11	Speech uttered while laughing is problematic for ASR.
+Bmr010.B.dialogueact860	1606.39	1611.39	B	PhD	s	+1	1	Well , the thing that you {disfmarker} is hard to deal with is whe {vocalsound} when they speak while laughing .
+3	Bmr010.s.12	So far , speaker mn005's attempts to detect speaker overlap have been unsuccessful , as it has not been possible to normalize energy as a reliable indicator of overlap.
+Bmr010.G.dialogueact1277	2418.26	2421.03	G	Professor	s	+1	1	But the bottom line is it 's still not , uh , separating out very well .
+Bmr010.G.dialogueact1488	2794.67	2798.81	G	Professor	s.%--	+1	2	So far , um , uh , Jose has {disfmarker} has been {disfmarker}
+Bmr010.G.dialogueact1514	2842.25	2847.56	G	Professor	s	+1	1	and {disfmarker} and so far at least has not come up with {vocalsound} any combination that really gave you an indicator .

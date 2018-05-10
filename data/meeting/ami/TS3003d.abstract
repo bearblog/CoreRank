@@ -1,0 +1,148 @@
+3	TS3003d.vkaraisk.s.1	In the detailed design meeting the team created a prototype.
+TS3003d.A.dialog-act.vkaraisk.13	58.01	62.36	A	PM	inf	+1	1	In this meeting we will discuss our final design .
+TS3003d.A.dialog-act.vkaraisk.34	143.14	150.59	A	PM	sug	+1	1	But first um we will do the {disfmarker} this is prototype presentation .
+TS3003d.C.dialog-act.vkaraisk.6	158.21	163.18	C	ID	inf	+1	2	this is what me and Richard came up with .
+32	TS3003d.vkaraisk.s.2	Along with buttons for numbers , channel selector , volume , mute , on-off , teletext , and subtitles , the prototype included an LCD screen and a help button for functional information.
+TS3003d.C.dialog-act.vkaraisk.6	158.21	163.18	C	ID	inf	+1	2	this is what me and Richard came up with .
+TS3003d.C.dialog-act.vkaraisk.7	163.18	166.3	C	ID	inf	+1	1	The default spot for the on-off button .
+TS3003d.C.dialog-act.vkaraisk.8	166.3	169.14	C	ID	inf	+1	1	The mute button just below that .
+TS3003d.C.dialog-act.vkaraisk.9	169.14	171.43	C	ID	inf	+1	1	Then there's the volume and channel selectors .
+TS3003d.C.dialog-act.vkaraisk.10	172.79	176.51	C	ID	inf	+1	1	Simple plus-minus button .
+TS3003d.C.dialog-act.vkaraisk.11	176.51	178.32	C	ID	inf	+1	1	Uh we thought of a help button .
+TS3003d.C.dialog-act.vkaraisk.12	178.32	184.59	C	ID	inf	+1	1	If you hold it and you press another button , uh the help goes to the L_C_D_ screen .
+TS3003d.C.dialog-act.vkaraisk.13	185.33	195.47	C	ID	inf	+1	1	Then there's the zero to {disfmarker} one to zero buttons . A button for teletext . A button for the subtitles . And the company logo .
+TS3003d.C.dialog-act.vkaraisk.14	196.65	201.08	C	ID	inf	+1	1	So it's rather simple prototype .
+TS3003d.D.dialog-act.vkaraisk.7	207.34	213.37	D	ME	el.inf	+1	1	Um , {vocalsound} is this the moment where we ask or can ask questions about the functionality ?
+TS3003d.D.dialog-act.vkaraisk.8	216.29	225.26	D	ME	inf	+1	1	Um , when you're in teletext there usually are buttons where you just you just press it and you g go to the next teletext page .
+TS3003d.B.dialog-act.vkaraisk.5	226.94	234.45	B	UI	inf	+1	1	Uh , that's just uh the normal uh as th as the normal uh remote controls uh {disfmarker}
+TS3003d.B.dialog-act.vkaraisk.8	236.88	244.92	B	UI	inf	+1	1	you um came in uh page uh one hundred . Now you can use the normal uh one to zero buttons .
+TS3003d.B.dialog-act.vkaraisk.10	245.27	261.68	B	UI	inf	+1	1	But you can also uh use the um button th for uh changing the the channel . S so uh the shifting uh button . Uh for uh yeah shif shifting up in uh on t on t uh teletext , and shifting uh down . So {disfmarker}
+TS3003d.A.dialog-act.vkaraisk.39	273.32	283.65	A	PM	inf	+1	1	I thought in a few meetings earlier we uh uh tried to keep it uh simple . Uh just a few buttons and large buttons .
+TS3003d.A.dialog-act.vkaraisk.40	283.65	289.15	A	PM	ass	+1	1	But uh I think these are altogether quite a quite a few buttons .
+TS3003d.A.dialog-act.vkaraisk.41	291.07	295.59	A	PM	el.inf	+1	1	So I'm wondering if we if we neely {disfmarker} really need all of those buttons .
+TS3003d.C.dialog-act.vkaraisk.18	297.38	303.12	C	ID	inf	+1	1	I think if you look at most controls , they've got more buttons than this .
+TS3003d.C.dialog-act.vkaraisk.20	304.29	306.51	C	ID	inf	+1	1	the on-off button , it's it's a necessity .
+TS3003d.C.dialog-act.vkaraisk.22	308.28	313.05	C	ID	inf	+1	1	The volume and channel buttons , you need you obviously need those those .
+TS3003d.C.dialog-act.vkaraisk.23	314.35	320.14	C	ID	sug	+1	1	The mute button could be replaced uh by pressing the volume-down button twice .
+TS3003d.C.dialog-act.vkaraisk.25	322.96	326.81	C	ID	inf	+1	1	I think the help button really is necessary
+TS3003d.C.dialog-act.vkaraisk.26	326.81	331.98	C	ID	inf	+1	1	because there's no other way to know when someone wants to know what a button does .
+TS3003d.B.dialog-act.vkaraisk.17	334.76	339.68	B	UI	sug	+1	1	Uh , or you can build in uh when you press uh one button uh uh {disfmarker}
+TS3003d.C.dialog-act.vkaraisk.28	357.26	361.07	C	ID	inf	+1	1	you can't leave out the number buttons I guess .
+TS3003d.A.dialog-act.vkaraisk.51	362.78	365.67	A	PM	inf	+1	1	Uh teletext and subtitles are yeah necessary .
+TS3003d.C.dialog-act.vkaraisk.30	365.81	367.75	C	ID	inf	+1	1	So it's rather basic already .
+TS3003d.A.dialog-act.vkaraisk.56	384.53	386.6	A	PM	inf	+1	1	Just n normal plain buttons .
+TS3003d.C.dialog-act.vkaraisk.35	387.07	398.17	C	ID	inf	+1	1	But they're supposed to be equal sized , round , with a with a little logo on it for the for the volume , the the triangle and stuff .
+TS3003d.C.dialog-act.vkaraisk.38	414.76	421.6	C	ID	inf	+1	1	and for the materials we've just chosen for rubber buttons . With a a different colour than the case .
+TS3003d.A.dialog-act.vkaraisk.203	1122.75	1124.45	A	PM	inf	+1	2	And we can keep our L_C_D_ screen ,
+TS3003d.A.dialog-act.vkaraisk.204	1124.45	1130.97	A	PM	inf	+1	2	which can provide extra information . How to use the scroll wheel . How to use the other bu buttons as subtitles .
+20	TS3003d.vkaraisk.s.3	One rechargable battery , single-curve form and plastic case , brought the total cost to 17 Euros.
+TS3003d.A.dialog-act.vkaraisk.65	432.38	435.83	A	PM	off	+1	1	I will move on to the finance part ,
+TS3003d.A.dialog-act.vkaraisk.67	441.03	451.84	A	PM	ass	+1	1	And I can tell you that we're going to have a pretty hard time producing this for twelve and a half Euros .
+TS3003d.A.dialog-act.vkaraisk.69	455.4	456.9	A	PM	inf	+1	1	I don't know if I've filled in correctly ,
+TS3003d.A.dialog-act.vkaraisk.70	456.9	460.93	A	PM	sug	+1	1	so just correct me if you see uh something wrong .
+TS3003d.A.dialog-act.vkaraisk.71	460.93	462.75	A	PM	inf	+1	1	I counted two batteries .
+TS3003d.A.dialog-act.vkaraisk.72	462.75	464.49	A	PM	sug	+1	1	But maybe we can also use one .
+TS3003d.D.dialog-act.vkaraisk.17	465.13	466.24	D	ME	inf	+1	1	Since it rechargeable .
+TS3003d.A.dialog-act.vkaraisk.76	472.8	475.69	A	PM	inf	+1	1	That's two Euros off . {vocalsound}
+TS3003d.A.dialog-act.vkaraisk.77	475.69	477.71	A	PM	inf	+1	1	We need the advanced chip .
+TS3003d.A.dialog-act.vkaraisk.79	484.45	486.74	A	PM	inf	+1	1	{vocalsound} Here we have the single curves .
+TS3003d.A.dialog-act.vkaraisk.80	486.74	494.16	A	PM	inf	+1	1	Uh we can see that the difference between uncurved and the single curved is one Euro . Um ,
+TS3003d.A.dialog-act.vkaraisk.82	496.18	506.3	A	PM	ass	+1	1	but I think the single curved is good for design , and also for the display to have a prominent place on the remote control .
+TS3003d.A.dialog-act.vkaraisk.84	508.94	512.07	A	PM	inf	+1	1	Then we have the case material supplements .
+TS3003d.A.dialog-act.vkaraisk.85	512.07	512.88	A	PM	inf	+1	1	It's plastic .
+TS3003d.A.dialog-act.vkaraisk.86	512.88	515.51	A	PM	inf	+1	1	It's the cheapest one we need .
+TS3003d.A.dialog-act.vkaraisk.88	518.93	522.53	A	PM	inf	+1	1	But then the biggest costs are the buttons .
+TS3003d.A.dialog-act.vkaraisk.89	523.09	531.24	A	PM	sug	+1	1	So maybe we really should try to discard some buttons to uh keep our costs low .
+TS3003d.A.dialog-act.vkaraisk.92	542.25	544.98	A	PM	sug	+1	1	Let's fir first count the buttons we have now .
+TS3003d.B.dialog-act.vkaraisk.50	556.47	560.74	B	UI	inf	+1	1	Uh seventeen . Uh with the help button .
+TS3003d.A.dialog-act.vkaraisk.102	565.77	578.37	A	PM	sug	+1	3	I think we can uh discard the help and the mute button uh by pressing down volume long , or pressing down a a number long .
+7	TS3003d.vkaraisk.s.4	To reduce this cost , it was decided to replace most buttons with a scrollwheel.
+TS3003d.A.dialog-act.vkaraisk.162	909.76	912.9	A	PM	sug	+1	2	Or we can leave out the ten buttons
+TS3003d.A.dialog-act.vkaraisk.163	912.9	916.06	A	PM	sug	+1	2	and take one scroll wheel for the programme numbers .
+TS3003d.A.dialog-act.vkaraisk.171	954.16	958.56	A	PM	sug	+1	2	If you scroll you will see the numbers on the L_C_D_ display .
+TS3003d.A.dialog-act.vkaraisk.172	958.56	960.61	A	PM	sug	+1	1	Until you've got the right number , then you push it .
+TS3003d.D.dialog-act.vkaraisk.50	961.46	968.36	D	ME	inf	+1	1	That would bring up the price of the scroll-wheel also . Integrated scroll-wheel push-button .
+TS3003d.A.dialog-act.vkaraisk.175	968.32	972.89	A	PM	sug	+1	1	but then you you can push uh some other button as well .
+TS3003d.A.dialog-act.vkaraisk.177	976.69	982.88	A	PM	ass	+1	1	Yeah . That's right . So if you scroll to a number and then you wait a half second , then it g turns to that channel .
+10	TS3003d.vkaraisk.s.5	The remaining buttons were one for channel selection , one for volume (both assisted by the scrollwheel) , teletext , on-off and the help button.
+TS3003d.A.dialog-act.vkaraisk.102	565.77	578.37	A	PM	sug	+1	3	I think we can uh discard the help and the mute button uh by pressing down volume long , or pressing down a a number long .
+TS3003d.D.dialog-act.vkaraisk.24	589.28	593.96	D	ME	inf	+1	1	Uh , d I assume you'd count the volume and channel thingies for two buttons each ,
+TS3003d.A.dialog-act.vkaraisk.194	1044.56	1047.8	A	PM	el.ass	+1	2	can't we integrate the teletext and the subtitles in one button ?
+TS3003d.C.dialog-act.vkaraisk.74	1048.45	1049.57	C	ID	ass	+1	1	I think so . Yeah .
+TS3003d.D.dialog-act.vkaraisk.68	1096.36	1100.54	D	ME	inf	+1	2	With only five buttons on it . And a scroll-wheel .
+TS3003d.D.dialog-act.vkaraisk.67	1085.36	1093.49	D	ME	inf	+1	2	Holding a remote with {vocalsound} which they expect to have like ten buttons for the numbers one to zero .
+TS3003d.C.dialog-act.vkaraisk.80	1231.25	1238.2	C	ID	sug	+1	1	And just um {disfmarker} If you press the volume button you can control the volume with the scroll-wheel .
+TS3003d.A.dialog-act.vkaraisk.218	1259.8	1275.4	A	PM	inf	+1	2	So we make one for the volume , one for the channel . Plus scroll .
+TS3003d.A.dialog-act.vkaraisk.219	1279.31	1282.46	A	PM	inf	+1	1	we can leave the teletext in if we want .
+TS3003d.A.dialog-act.vkaraisk.229	1311.41	1315.99	A	PM	inf	+1	1	So we can decrease this one to four buttons .
+3	TS3003d.vkaraisk.s.6	A suggestion to target the product to a younger or perhaps more general group was met with approval.
+TS3003d.D.dialog-act.vkaraisk.217	2374.15	2382.45	D	ME	inf	+1	2	if we're n gonna make a scroll-button anyway it'd be more for the younger people than for the older people .
+TS3003d.D.dialog-act.vkaraisk.218	2382.45	2384.05	D	ME	sug	+1	2	So maybe we should just re-focus .
+TS3003d.A.dialog-act.vkaraisk.433	2385.17	2387.89	A	PM	el.inf	+1	2	Just put it on the market for everybody .
+4	TS3003d.vkaraisk.s.7	All these components were re-arranged in a revised prototype.
+TS3003d.A.dialog-act.vkaraisk.102	565.77	578.37	A	PM	sug	+1	3	I think we can uh discard the help and the mute button uh by pressing down volume long , or pressing down a a number long .
+TS3003d.D.dialog-act.vkaraisk.30	625.25	628.91	D	ME	sug	+1	1	I was thinking , maybe you could just integrate three of those numbers to one button .
+TS3003d.A.dialog-act.vkaraisk.162	909.76	912.9	A	PM	sug	+1	2	Or we can leave out the ten buttons
+TS3003d.A.dialog-act.vkaraisk.163	912.9	916.06	A	PM	sug	+1	2	and take one scroll wheel for the programme numbers .
+41	TS3003d.vkaraisk.s.8	It was evaluated on a scale from 1 to 7 on the basis of the following criteria: fancy design (6) , technological innovation (4) , functionality (7) , consideration of the target group (3).
+TS3003d.D.dialog-act.vkaraisk.104	1603.47	1608.65	D	ME	inf	+1	1	I did some literature study study , and analysis of the requirements we set up earlier .
+TS3003d.D.dialog-act.vkaraisk.105	1609.7	1612.23	D	ME	inf	+1	1	Translated it into criteria ,
+TS3003d.D.dialog-act.vkaraisk.107	1613.47	1617.56	D	ME	inf	+1	1	Um , is the remote fancy ? The shape , look and feel .
+TS3003d.D.dialog-act.vkaraisk.108	1617.56	1621.37	D	ME	inf	+1	1	Innovative ? What new functions are there ?
+TS3003d.D.dialog-act.vkaraisk.109	1621.37	1622.32	D	ME	inf	+1	1	Uh , easy to use ?
+TS3003d.D.dialog-act.vkaraisk.110	1623.6	1627.41	D	ME	inf	+1	1	Uh , learnability is a very important factor here .
+TS3003d.D.dialog-act.vkaraisk.111	1627.41	1629.52	D	ME	inf	+1	1	Uh , is it functional ?
+TS3003d.D.dialog-act.vkaraisk.114	1637.4	1638.25	D	ME	inf	+1	1	And the cost .
+TS3003d.D.dialog-act.vkaraisk.115	1640.8	1646.17	D	ME	inf	+1	1	The target group . Is the remote really for the group we're making it for ?
+TS3003d.D.dialog-act.vkaraisk.121	1667.61	1670.46	D	ME	ass	+1	1	I have to say this was a little hard ,
+TS3003d.D.dialog-act.vkaraisk.122	1670.46	1674.25	D	ME	inf	+1	1	because the minutes of our last meeting were not here .
+TS3003d.A.dialog-act.vkaraisk.302	1674.56	1679.47	A	PM	inf	+1	1	that's because my pen failed to upload his data .
+TS3003d.D.dialog-act.vkaraisk.126	1687.14	1690.01	D	ME	el.ass	+1	1	Is the design fancy , on a scale of one to seven ?
+TS3003d.D.dialog-act.vkaraisk.127	1694.52	1696.35	D	ME	el.inf	+1	1	We all go for six ?
+TS3003d.D.dialog-act.vkaraisk.129	1701.05	1703.92	D	ME	el.ass	+1	1	Um , is the design innovative ?
+TS3003d.D.dialog-act.vkaraisk.130	1705.1	1705.58	D	ME	ass	+1	1	I think so ,
+TS3003d.D.dialog-act.vkaraisk.132	1711.02	1711.41	D	ME	und	+1	1	Seven ?
+TS3003d.D.dialog-act.vkaraisk.134	1720.3	1721.81	D	ME	el.ass	+1	1	Is the design easy to use ?
+TS3003d.B.dialog-act.vkaraisk.146	1722.42	1723.54	B	UI	ass	+1	1	Mm . Not really .
+TS3003d.A.dialog-act.vkaraisk.318	1730.37	1735.28	A	PM	ass	+1	1	I would say four . Four or five between . Between four or five .
+TS3003d.A.dialog-act.vkaraisk.320	1741.39	1742.36	A	PM	el.ass	+1	1	Is it functional ?
+TS3003d.A.dialog-act.vkaraisk.321	1747.81	1748.47	A	PM	inf	+1	1	Yes .
+TS3003d.D.dialog-act.vkaraisk.142	1749.43	1751.51	D	ME	el.inf	+1	1	Do we have too many functions ?
+TS3003d.C.dialog-act.vkaraisk.108	1750.88	1751.31	C	ID	inf	+1	1	No .
+TS3003d.A.dialog-act.vkaraisk.323	1752.87	1754.1	A	PM	ass	+1	1	Think it's uh seven .
+TS3003d.D.dialog-act.vkaraisk.147	1758.66	1773.01	D	ME	el.inf	+1	1	and do we um take care of the biggest frustrations of the remote control ? Like it getting lost and {disfmarker} R_S_I_ influences ?
+TS3003d.C.dialog-act.vkaraisk.109	1769.88	1771.47	C	ID	inf	+1	1	Mm , we haven't thought of that one .
+TS3003d.D.dialog-act.vkaraisk.148	1773.01	1773.51	D	ME	inf	+1	1	Think we do .
+TS3003d.D.dialog-act.vkaraisk.149	1785.13	1787.7	D	ME	el.inf	+1	1	Are the production costs within the preset limits ?
+TS3003d.D.dialog-act.vkaraisk.151	1787.91	1788.49	D	ME	inf	+1	1	they are now .
+TS3003d.D.dialog-act.vkaraisk.152	1794.99	1796.98	D	ME	el.ass	+1	1	Does the design fit the group of focus ?
+TS3003d.C.dialog-act.vkaraisk.112	1798.51	1800.14	C	ID	ass	+1	1	I think that's a three .
+TS3003d.A.dialog-act.vkaraisk.329	1801.2	1806.79	A	PM	ass	+1	1	I think with our new radio button , I think it's uh I think it's better .
+TS3003d.C.dialog-act.vkaraisk.113	1809.175	1815.85	C	ID	ass	+1	1	{vocalsound} I still {disfmarker} I think it's too m too fancy . Too too flashy .
+TS3003d.A.dialog-act.vkaraisk.332	1823.91	1824.95	A	PM	ass	+1	1	I would give it a four .
+TS3003d.D.dialog-act.vkaraisk.159	1830.36	1831.72	D	ME	ass	+1	1	I think I'd go for two .
+TS3003d.D.dialog-act.vkaraisk.163	1846.46	1847.38	D	ME	inf	+1	1	we have the logo there .
+TS3003d.D.dialog-act.vkaraisk.175	1893.35	1898.07	D	ME	el.inf	+1	1	These are seven factors times seven is forty something . Two ?
+TS3003d.D.dialog-act.vkaraisk.180	1916.35	1918.34	D	ME	inf	+1	1	Forty one out of forty nine .
+TS3003d.A.dialog-act.vkaraisk.347	1919.69	1927.23	A	PM	inf	+1	1	That's {disfmarker} Around eighty percent .
+TS3003d.A.dialog-act.vkaraisk.350	1942.99	1945.31	A	PM	ass	+1	1	I think that's a pretty nice score .
+4	TS3003d.vkaraisk.s.9	The remote was also recognisable as a fashionable Real Reaction product.
+TS3003d.D.dialog-act.vkaraisk.161	1843.52	1846.32	D	ME	el.inf	+1	1	Is the company company recognisable ?
+TS3003d.A.dialog-act.vkaraisk.335	1845.83	1847.37	A	PM	inf	+1	1	Yes it is .
+TS3003d.A.dialog-act.vkaraisk.337	1852.46	1858.2	A	PM	inf	+1	1	And they wanna put fashion in their products . Uh in the slogan of the company .
+TS3003d.A.dialog-act.vkaraisk.338	1858.2	1862.5	A	PM	inf	+1	1	And we have the removable front cases .
+5	TS3003d.vkaraisk.s.10	The project process was deemed well-structured , although everyone thought it would have been better had they known the component prices at an earlier stage.
+TS3003d.A.dialog-act.vkaraisk.354	1968.33	1970.91	A	PM	inf	+1	1	that brings us to the project evaluation .
+TS3003d.A.dialog-act.vkaraisk.358	1979.69	1983.84	A	PM	el.ass	+1	1	Did we move through the right phases , you think ? {vocalsound} Along the process ?
+TS3003d.D.dialog-act.vkaraisk.186	1986.76	1994.42	D	ME	ass	+1	1	Think we should have a should have had the finance thingy a lot earlier . In the design phase .
+TS3003d.A.dialog-act.vkaraisk.360	1995.22	1997.92	A	PM	el.inf	+1	1	So lack of information about prices .
+TS3003d.C.dialog-act.vkaraisk.121	2081.14	2082.76	C	ID	inf	+1	1	The tasks are very structured ,
+8	TS3003d.vkaraisk.s.11	Teamword and leadership were good , but room for creativity impeded by budget constraints.
+TS3003d.A.dialog-act.vkaraisk.364	2013.27	2014.62	A	PM	el.inf	+1	1	Was there room for creativity ?
+TS3003d.D.dialog-act.vkaraisk.189	2017.63	2019.417	D	ME	inf	+1	1	Not too much . {vocalsound} No . {vocalsound}
+TS3003d.A.dialog-act.vkaraisk.366	2019.97	2021.85	A	PM	inf	+1	1	It's because of the finance sheet . Yeah .
+TS3003d.C.dialog-act.vkaraisk.118	2021.82	2024.347	C	ID	ass	+1	1	Yeah , there w there was enough room , but the finance uh {disfmarker}
+TS3003d.D.dialog-act.vkaraisk.192	2029.86	2034.2	D	ME	ass	+1	1	And I would've liked to go for the younger users also .
+TS3003d.D.dialog-act.vkaraisk.193	2036.38	2040.98	D	ME	sug	+1	1	And just to be able to access internet and get something of your own .
+TS3003d.A.dialog-act.vkaraisk.371	2056.64	2064.61	A	PM	el.inf	+1	1	Was it clear what everybody had to do uh according to their roles and functions ? Yeah ?
+TS3003d.A.dialog-act.vkaraisk.372	2066.54	2072.81	A	PM	el.ass	+1	1	Teamwork ? Did it work out ? Working together ? Also , you {disfmarker} two of you with the uh last phase ?

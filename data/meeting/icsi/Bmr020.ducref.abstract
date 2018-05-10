@@ -1,0 +1,10 @@
+The main topics of the agenda were a paper submitted to Eurospeech and the organising of the recording transcriptions to be done by IBM.
+The results presented in the former show a significant percentage of overlapping speech even without counting in backchanneling.
+Additionally , the high error rate in the recognition of such overlapping speech by the SRI recogniser was minimised simply by changing the scoring method used.
+Finally , a strong correlation between pauses and interruptions was confirmed.
+All these measurements were based on the sample of available transcripts.
+Other features , like prosody , will be studied in the near future.
+An FTP directory containing such experimental data is being set up for the benefit of other researchers.
+Regarding the transcriptions to be carried out by IBM , the discussion mainly concerned the format of the recordings that should be sent to them.
+Suggestions included sending only the channels with the dominant speakers for transcription , but it was finally agreed on sending the original files with minimal modifications , as there will be extensive in-house post-processing.
+Within this discussion , the rationale behind the coding of the time bins according to the flow of discourse was also explained.

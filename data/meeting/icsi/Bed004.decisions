@@ -1,0 +1,22 @@
+2	Bed004.s.11	Although the data collection test went well and it was decided to hire the "wizard" , there are minor amendments in the procedure to be carried out ( shortenting the preparatory reading , numbering tasks etc ).
+Bed004.B.dialogueact157	925.15	927.29	B	Professor	s^bu.%--	+1	2	S so if you just number them " one " , " two " , " three " it 's
+Bed004.D.dialogueact175	986.06	991.27	D	Grad	s^cs^rt	+1	2	And uh my suggestion is of course we {disfmarker} we keep the wizard , because I think she did a wonderful job ,
+3	Bed004.s.12	A presentation of the data collection design should be included in the forthcoming meeting with other research groups , along with some account of the system design and the use of belief-nets.
+Bed004.B.dialogueact276	1253.19	1258.64	B	Professor	s	+1	1	my idea on that was {pause} uh , partly we 'll talk about system stuff for the computer scientists ,
+Bed004.B.dialogueact277	1258.64	1271.51	B	Professor	s	+1	1	but partly I did want it to get the linguists involved in some of this issue about what the task is and all {disfmarker} um you know , what the dialogue is , and what 's going on linguistically ,
+Bed004.B.dialogueact289	1299.23	1306.14	B	Professor	s	+1	1	You just uh do " this is what we did , and here 's the {pause} thing , and here 's s some of the dialogue and {disfmarker} and so forth . "
+0	Bed004.s.13	The structure of the latter was a major issue during the meeting.
+5	Bed004.s.14	Their input vector is to be provided by information extracted from the various modules of the system , such as the ontology and discourse history , using standard rule-based methods.
+Bed004.D.dialogueact688	2563.22	2565.97	D	Grad	s	+1	1	So the belief - net takes as input , a vector ,
+Bed004.D.dialogueact695	2584.0	2587.02	D	Grad	s	+1	1	and then we want to look up some more stuff in the ontology
+Bed004.D.dialogueact699	2593.16	2599.22	D	Grad	s	+1	1	but also we definitely want to look up in the dialogue history um some s some stuff .
+Bed004.B.dialogueact716	2648.69	2656.4	B	Professor	s	+1	1	There will be rules , but they aren't rules that come to final decisions , they 're rules that gather information for a decision process .
+Bed004.B.dialogueact726	2695.85	2705.79	B	Professor	s.%-	+1	1	My guess is it 'll be the same basic agent that um can go off and get information , run it through a {disfmarker} a c this belief - net that {disfmarker}
+2	Bed004.s.15	The output action essentially provides additional semantic parameters for the X-schema , and , in turn , may trigger the collection of more features from the data.
+Bed004.B.dialogueact596	2289.91	2293.45	B	Professor	s	+1	1	and you wanted to specialize it to these three ones , then you would have to supply the parameters .
+Bed004.B.dialogueact732	2719.71	2723.65	B	Professor	fh|s	+1	1	and that may actually involve getting more information .
+3	Bed004.s.16	The feature extraction could be carried out by a software tool checking object ( feature ) trees and filling them with appropriate values.
+Bed004.D.dialogueact746	2764.29	2772.72	D	Grad	s^cc	+1	1	I think we {disfmarker} I {disfmarker} I can come up with a {disfmarker} a code for a module that we call the " cognitive dispatcher " , which does nothing ,
+Bed004.D.dialogueact748	2772.72	2777.96	D	Grad	s	+1	1	but it looks of complect object trees and decides how {disfmarker} are there parts missing that need to be filled out ,
+Bed004.D.dialogueact750	2782.56	2788.72	D	Grad	s	+1	1	and then collect uh sub - objects and then recombine them and put them together .
+0	Bed004.s.17	For this concept to be put to work , further refinement of the belief-net variables is necessary , with particular attention on the combinatorics involved.

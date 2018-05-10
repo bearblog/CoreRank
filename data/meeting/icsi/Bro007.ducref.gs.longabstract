@@ -1,0 +1,14 @@
+The ICSI Meeting Recorder Group at Berkeley are approaching an important milestone on their project.
+They discussed most recent results , finalized plans to continue and discussed the work required and timing needed for completion of this stage of the project.
+Mn007 and fn002 Need to find a way of combining result figures into one easily comparable way of judging performance.
+They were also asked to mail round numbers detailing the size of their test-sets , so that group members can assess the seriousness of figures such as word error rates.
+There are now just 4 architectures that will be carried forward for testing.
+Though the final system is not due to be fixed , until Tuesday , writing it up must begin sooner.
+Anything written must go through me013 for editing.
+Discussion on future work once this stage is out of the way will be held at the next meeting.
+While using a second silence detection system it was found that while providing some improvement , it added too great a delay on the server side of the system.
+The experiment team have been narrowing down their experiments , coming close to fixing their system.
+Partner OGI have been using a weighting scheme , but the ICSI group do not yet have all the parts to run a similar system.
+They have been able to come close to the OGI results , but since OGI have changed something they do differ , though for the better.
+So far , testing on Italian is the worst performing condition.
+With regards to the digits the group have been recording during meetings , the collection of data is growing , and will soon be a workable size.

@@ -1,0 +1,782 @@
+TS3010c.A.dialog-act.dharshi.1	47.5	50.11	A	PM	stl	-1	0	Okay .
+TS3010c.A.dialog-act.dharshi.2	50.11	54.11	A	PM	sug	-1	0	{vocalsound} Well , let's start .
+TS3010c.A.dialog-act.dharshi.5	54.11	57.15	A	PM	oth	-1	0	What are we doing ?
+TS3010c.A.dialog-act.dharshi.3	57.15	57.44	A	PM	oth	-1	0	Oops .
+TS3010c.A.dialog-act.dharshi.4	59.824	61.2	A	PM	fra	-1	0	{vocalsound}
+TS3010c.B.dialog-act.dharshi.1	60.4	60.68	B	UI	bck	-1	0	Hmm .
+TS3010c.C.dialog-act.dharshi.1	60.8	61.75	C	ID	oth	-1	0	Ah , pinball .
+TS3010c.A.dialog-act.dharshi.6	62.208	67.52	A	PM	be.pos	-1	0	{vocalsound} Okay . Okay . Not doing .
+TS3010c.C.dialog-act.dharshi.2	62.652	64.329	C	ID	fra	-1	0	{vocalsound}
+TS3010c.B.dialog-act.dharshi.2	63.663	64.79	B	UI	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.3	65.888	66.656	C	ID	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.2	66.86	69.93	D	ME	oth	-1	0	Mm . Ah . Hey . {vocalsound} Ah .
+TS3010c.A.dialog-act.dharshi.7	67.52	68.081	A	PM	fra	-1	0	Uh {disfmarker}
+TS3010c.B.dialog-act.dharshi.4	67.85	68.04	B	UI	oth	-1	0	Oh .
+TS3010c.D.dialog-act.dharshi.3	69.93	75.424	D	ME	inf	-1	0	Now I have my screen back too . {vocalsound}
+TS3010c.A.dialog-act.dharshi.8	72.64	73.2	A	PM	ass	-1	0	Very good .
+TS3010c.C.dialog-act.dharshi.4	73.888	74.4	C	ID	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.9	76.128	80.65	A	PM	stl	-1	0	{vocalsound} Okay .
+TS3010c.C.dialog-act.dharshi.5	78.064	79.728	C	ID	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.4	80.05	80.29	D	ME	bck	-1	0	Yeah .
+TS3010c.A.dialog-act.dharshi.10	80.65	81.96	A	PM	inf	-1	0	{vocalsound} {gap} we have presentations .
+TS3010c.A.dialog-act.dharshi.11	81.96	86.13	A	PM	sug	-1	0	So first , it's your turn .
+TS3010c.C.dialog-act.dharshi.6	83.028	83.587	C	ID	fra	-1	0	{gap}
+TS3010c.B.dialog-act.dharshi.6	85.32	86.71	B	UI	be.pos	-1	0	Mine . Oh , great .
+TS3010c.A.dialog-act.dharshi.12	86.13	90.941	A	PM	be.pos	-1	0	{vocalsound} Yeah . Isn't it amazing . {vocalsound}
+TS3010c.C.dialog-act.dharshi.8	86.64	90.16	C	ID	fra	-1	0	Huh . {vocalsound}
+TS3010c.D.dialog-act.dharshi.5	88.864	90.82	D	ME	ass	-1	0	{vocalsound} Yeah .
+TS3010c.D.dialog-act.dharshi.6	92.5	93.61	D	ME	ass	-1	0	Very interesting .
+TS3010c.B.dialog-act.dharshi.7	95.14	96.48	B	UI	stl	-1	0	Uh {disfmarker}
+TS3010c.D.dialog-act.dharshi.1	100.029	100.364	D	ME	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.7	101.792	102.624	C	ID	fra	-1	0	{vocalsound}
+TS3010c.B.dialog-act.dharshi.3	103.426	103.687	B	UI	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.13	111.46	115.08	A	PM	oth	-1	0	Industrial Designer .
+TS3010c.A.dialog-act.dharshi.14	115.08	116.72	A	PM	oth	-1	0	Interface concept .
+TS3010c.B.dialog-act.dharshi.8	116.541	118.4	B	UI	stl	-1	0	{vocalsound} Yes , well uh
+TS3010c.B.dialog-act.dharshi.9	118.4	121.7	B	UI	off	+1	1	let's uh talk about the interface uh concept .
+TS3010c.B.dialog-act.dharshi.10	124.04	129.02	B	UI	off	+1	1	Uh , first I'll uh I'll uh discuss the buttons we just chose ,
+TS3010c.B.dialog-act.dharshi.11	129.02	131.55	B	UI	off	+1	1	uh show you some samples , uh
+TS3010c.B.dialog-act.dharshi.12	132.84	135.49	B	UI	off	+1	1	uh discuss some colours and design maybe , already .
+TS3010c.B.dialog-act.dharshi.13	135.49	137.23	B	UI	off	+1	1	And uh my personal preferences .
+TS3010c.B.dialog-act.dharshi.14	138.72	142.65	B	UI	inf	+1	1	{vocalsound} Well we chose the power button to switch the television on and off .
+TS3010c.B.dialog-act.dharshi.15	142.65	142.94	B	UI	stl	-1	0	The bu uh
+TS3010c.B.dialog-act.dharshi.16	142.94	147.63	B	UI	inf	+1	1	the mute button to switch the volume on and o on and off .
+TS3010c.B.dialog-act.dharshi.17	147.63	149.91	B	UI	inf	+1	1	The channels buttons , one to nine ,
+TS3010c.B.dialog-act.dharshi.18	149.91	151.08	B	UI	stl	-1	0	and uh off uh uh
+TS3010c.B.dialog-act.dharshi.19	151.08	151.73	B	UI	inf	+1	1	zero to nine ,
+TS3010c.B.dialog-act.dharshi.20	151.73	156.71	B	UI	inf	+1	1	and the uh button to choose uh higher channels than nine .
+TS3010c.B.dialog-act.dharshi.21	157.38	159.51	B	UI	inf	+1	1	Uh the volume and channel quadrants ,
+TS3010c.B.dialog-act.dharshi.22	159.51	165.05	B	UI	inf	+1	1	uh left and right , up and down arrows , to uh do the volume and channel .
+TS3010c.B.dialog-act.dharshi.23	165.05	169.47	B	UI	inf	+1	1	And the menu menu button to man manipulate the L_C_D_ uh display .
+TS3010c.B.dialog-act.dharshi.24	170.88	178.25	B	UI	inf	+1	1	Um , I found some uh interesting uh uh samples . Examples .
+TS3010c.C.dialog-act.dharshi.9	173.525	174.196	C	ID	fra	-1	0	{vocalsound}
+TS3010c.B.dialog-act.dharshi.25	178.25	185.152	B	UI	inf	+1	1	Um , well uh what's pretty standard is uh that it's {disfmarker} that they're all pretty uh uh high uh {disfmarker}
+TS3010c.D.dialog-act.dharshi.7	185.85	186.89	D	ME	inf	+1	1	Large .
+TS3010c.B.dialog-act.dharshi.26	186.73	187.36	B	UI	ass	-1	0	Yeah . Yeah .
+TS3010c.B.dialog-act.dharshi.27	187.36	192.06	B	UI	inf	+1	1	Large and and and pretty thin and uh and long .
+TS3010c.D.dialog-act.dharshi.8	186.89	188.83	D	ME	inf	+1	1	A lot {disfmarker} a lot of buttons buttons .
+TS3010c.B.dialog-act.dharshi.28	192.06	195.81	B	UI	inf	+1	1	Um , power buttons are mostly at the top
+TS3010c.B.dialog-act.dharshi.29	197.94	199.09	B	UI	inf	+1	1	uh left or right .
+TS3010c.B.dialog-act.dharshi.30	201.25	206.14	B	UI	inf	-1	0	Um , well we see the the the same uh arrows .
+TS3010c.B.dialog-act.dharshi.31	206.14	208.53	B	UI	inf	-1	0	Like there .
+TS3010c.B.dialog-act.dharshi.32	208.53	209.456	B	UI	stl	-1	0	And uh {disfmarker}
+TS3010c.B.dialog-act.dharshi.33	211.17	213.17	B	UI	inf	+1	1	Yeah , well arrow b buttons can be blue .
+TS3010c.B.dialog-act.dharshi.34	214.76	219.41	B	UI	inf	+1	1	And what's interesting is the the the icons on the buttons .
+TS3010c.B.dialog-act.dharshi.35	219.41	221.54	B	UI	inf	+1	1	Some buttons have icons like the play and stop ,
+TS3010c.B.dialog-act.dharshi.36	221.54	222.55	B	UI	inf	+1	1	but we don't use that .
+TS3010c.B.dialog-act.dharshi.37	222.55	226.93	B	UI	inf	+1	1	But uh , these we we have to choose the right icons , or or letters .
+TS3010c.B.dialog-act.dharshi.38	226.93	231.09	B	UI	inf	+1	1	Uh this is the V_ for volume , but they're both uh a V_ .
+TS3010c.A.dialog-act.dharshi.15	230.067	230.626	A	PM	fra	-1	0	{vocalsound}
+TS3010c.B.dialog-act.dharshi.39	231.09	235.66	B	UI	inf	+1	1	So it's it's not really very uh clear what's the function of that .
+TS3010c.D.dialog-act.dharshi.9	236.09	236.4	D	ME	ass	-1	0	Yeah .
+TS3010c.B.dialog-act.dharshi.40	237.16	238.0	B	UI	stl	-1	0	Um {disfmarker}
+TS3010c.B.dialog-act.dharshi.41	239.67	240.66	B	UI	fra	-1	0	Yeah . So , that's {disfmarker}
+TS3010c.A.dialog-act.dharshi.16	240.896	243.05	A	PM	sug	-1	0	{vocalsound} Can you go back one page ?
+TS3010c.A.dialog-act.dharshi.17	244.77	248.86	A	PM	el.inf	+1	1	For the uh menu , what do we use for that ?
+TS3010c.A.dialog-act.dharshi.18	251.24	253.3	A	PM	inf	+1	1	We don't have buttons for the menu .
+TS3010c.B.dialog-act.dharshi.42	250.9	251.91	B	UI	stl	-1	0	Uh , well {disfmarker}
+TS3010c.A.dialog-act.dharshi.19	253.3	256.71	A	PM	inf	+1	1	Or we may have to use channel of the volume and channel {gap} .
+TS3010c.B.dialog-act.dharshi.43	258.05	258.74	B	UI	ass	-1	0	Yeah .
+TS3010c.B.dialog-act.dharshi.44	258.74	261.22	B	UI	inf	+1	1	I thought that was our uh idea .
+TS3010c.A.dialog-act.dharshi.20	260.35	261.49	A	PM	ass	-1	0	Okay .
+TS3010c.A.dialog-act.dharshi.21	261.49	262.496	A	PM	fra	-1	0	But {gap} uh {disfmarker}
+TS3010c.B.dialog-act.dharshi.45	261.22	262.992	B	UI	fra	-1	0	So , uh how {disfmarker}
+TS3010c.A.dialog-act.dharshi.22	264.11	265.745	A	PM	inf	-1	0	You have to put it on the {disfmarker}
+TS3010c.B.dialog-act.dharshi.46	266.74	268.32	B	UI	inf	-1	0	Like this .
+TS3010c.A.dialog-act.dharshi.23	267.71	267.96	A	PM	ass	-1	0	Yeah .
+TS3010c.B.dialog-act.dharshi.47	268.32	269.39	B	UI	inf	-1	0	Or or this .
+TS3010c.B.dialog-act.dharshi.48	271.06	272.57	B	UI	ass	+1	1	And that the menu button is okay .
+TS3010c.A.dialog-act.dharshi.24	272.97	275.6	A	PM	ass	+1	1	Yeah but , has to be clear that you can use the arrows .
+TS3010c.B.dialog-act.dharshi.49	275.68	277.05	B	UI	ass	-1	0	{vocalsound} Yeah , okay .
+TS3010c.D.dialog-act.dharshi.10	276.45	276.85	D	ME	bck	-1	0	Yes .
+TS3010c.B.dialog-act.dharshi.50	277.05	278.176	B	UI	el.inf	-1	0	Uh , so the {disfmarker}
+TS3010c.B.dialog-act.dharshi.51	279.78	282.43	B	UI	el.inf	+1	1	The icons on the arrows , as well , you mean .
+TS3010c.A.dialog-act.dharshi.28	281.94	283.61	A	PM	inf	-1	0	Mm-hmm . Yes . The second one .
+TS3010c.B.dialog-act.dharshi.52	284.12	284.52	B	UI	ass	-1	0	Yeah .
+TS3010c.B.dialog-act.dharshi.53	287.08	289.312	B	UI	inf	-1	0	Uh , well that's something to uh think about . {vocalsound}
+TS3010c.A.dialog-act.dharshi.29	289.27	289.66	A	PM	ass	-1	0	Okay .
+TS3010c.C.dialog-act.dharshi.10	289.76	292.08	C	ID	inf	-1	0	Uh , maybe I'll have something in my uh presentation .
+TS3010c.C.dialog-act.dharshi.11	292.08	294.02	C	ID	inf	-1	0	And you will see it .
+TS3010c.B.dialog-act.dharshi.54	293.05	293.48	B	UI	bck	-1	0	Okay .
+TS3010c.D.dialog-act.dharshi.11	293.4	295.589	D	ME	bck	-1	0	Okay . {vocalsound}
+TS3010c.B.dialog-act.dharshi.55	296.9	302.77	B	UI	inf	+1	1	Um , well I don't I don't know if we have to discuss this already , or in the next uh meeting .
+TS3010c.C.dialog-act.dharshi.12	298.908	299.281	C	ID	fra	-1	0	{vocalsound}
+TS3010c.B.dialog-act.dharshi.56	302.77	318.4	B	UI	sug	+1	1	But uh , as we have to uh to to design the the case and the whole uh remote control in our uh our our corporate uh company uh uh colours and the logo , I would uh recommend a yellow case .
+TS3010c.B.dialog-act.dharshi.57	318.86	320.64	B	UI	sug	+1	1	Uh , round edges .
+TS3010c.B.dialog-act.dharshi.58	320.64	322.65	B	UI	sug	+1	1	The logo at the bottom .
+TS3010c.B.dialog-act.dharshi.59	322.65	327.44	B	UI	sug	+1	1	And uh , well maybe each each uh set of buttons uh has uh has his own colour .
+TS3010c.B.dialog-act.dharshi.60	327.44	328.76	B	UI	inf	-1	0	So , it's good .
+TS3010c.B.dialog-act.dharshi.61	328.76	329.91	B	UI	inf	+1	1	Uh , recognisable .
+TS3010c.B.dialog-act.dharshi.62	329.91	331.19	B	UI	ass	-1	0	K so , I think .
+TS3010c.A.dialog-act.dharshi.30	331.792	334.16	A	PM	ass	+1	1	{vocalsound} Not too much colours .
+TS3010c.B.dialog-act.dharshi.63	334.86	335.94	B	UI	ass	+1	1	Uh , no . Not too much .
+TS3010c.A.dialog-act.dharshi.31	336.28	337.54	A	PM	ass	-1	0	No , it's not flower power .
+TS3010c.B.dialog-act.dharshi.64	335.94	337.59	B	UI	stl	-1	0	But uh {disfmarker}
+TS3010c.B.dialog-act.dharshi.65	337.59	338.1	B	UI	ass	-1	0	No , no , no .
+TS3010c.B.dialog-act.dharshi.66	338.1	339.79	B	UI	inf	+1	1	But this has to be has to be trendy
+TS3010c.B.dialog-act.dharshi.67	339.79	342.064	B	UI	fra	-1	0	and uh {disfmarker} and {gap} {disfmarker} {vocalsound}
+TS3010c.A.dialog-act.dharshi.32	340.31	340.91	A	PM	ass	-1	0	S okay .
+TS3010c.B.dialog-act.dharshi.68	345.15	354.76	B	UI	sug	+1	1	Uh , yeah so good uh good icons on the buttons , and uh and big buttons is my uh personal uh opinion .
+TS3010c.A.dialog-act.dharshi.33	356.79	357.21	A	PM	ass	-1	0	Okay .
+TS3010c.B.dialog-act.dharshi.69	357.99	358.55	B	UI	inf	-1	0	That was that .
+TS3010c.A.dialog-act.dharshi.34	358.93	359.34	A	PM	be.pos	-1	0	Thank you .
+TS3010c.A.dialog-act.dharshi.35	361.09	362.5	A	PM	sug	-1	0	So , you're next .
+TS3010c.C.dialog-act.dharshi.13	362.78	364.11	C	ID	off	-1	0	I'm next , okay .
+TS3010c.C.dialog-act.dharshi.14	367.601	369.041	C	ID	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.15	383.36	384.95	C	ID	oth	-1	0	Yes . No .
+TS3010c.C.dialog-act.dharshi.16	384.95	385.91	C	ID	oth	-1	0	Here we go .
+TS3010c.D.dialog-act.dharshi.12	387.422	387.795	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.36	388.192	389.568	A	PM	fra	-1	0	{vocalsound} {vocalsound}
+TS3010c.C.dialog-act.dharshi.17	388.55	393.37	C	ID	off	+1	1	Uh , at first we will uh I will f uh say something about what younger people want ,
+TS3010c.D.dialog-act.dharshi.13	388.913	389.32	D	ME	bck	-1	0	{gap} Okay .
+TS3010c.A.dialog-act.dharshi.37	391.425	391.984	A	PM	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.14	391.07	391.29	D	ME	bck	-1	0	Mm-hmm .
+TS3010c.C.dialog-act.dharshi.18	393.37	399.5	C	ID	inf	+1	1	our uh group w uh w uh we want to uh sell our remote controls to .
+TS3010c.C.dialog-act.dharshi.19	399.5	406.9	C	ID	off	+1	1	And then , I'll discuss what my opinion is about the costs , about uh what battery is in it , what kind of buttons also .
+TS3010c.C.dialog-act.dharshi.21	408.58	415.04	C	ID	inf	+1	1	First uh , the younger people , they want like soft mat uh materials and primary colours .
+TS3010c.C.dialog-act.dharshi.22	415.04	417.58	C	ID	inf	+1	1	Like , totally yellow , totally red .
+TS3010c.C.dialog-act.dharshi.23	417.58	420.76	C	ID	inf	-1	0	Uh , so it's visible .
+TS3010c.C.dialog-act.dharshi.24	420.76	422.95	C	ID	inf	+1	1	Uh , the shapes are curved and round ,
+TS3010c.C.dialog-act.dharshi.25	422.95	424.29	C	ID	inf	-1	0	like uh you also said .
+TS3010c.C.dialog-act.dharshi.26	425.39	432.66	C	ID	sug	+1	1	Maybe it's nice to uh get a remote control not like all the other ones , straight and uh flat and long .
+TS3010c.C.dialog-act.dharshi.27	432.66	438.08	C	ID	sug	+1	1	But to give him the shape of your hand , so you {disfmarker} it's easier to use or something like that .
+TS3010c.C.dialog-act.dharshi.29	438.08	440.97	C	ID	inf	-1	0	But that's just an idea .
+TS3010c.C.dialog-act.dharshi.30	440.97	450.48	C	ID	off	-1	0	And then , I'll have to discuss about the costs uh of all the things for the remote control .
+TS3010c.C.dialog-act.dharshi.31	450.48	452.97	C	ID	inf	+1	1	The battery , there are few options .
+TS3010c.C.dialog-act.dharshi.32	452.97	457.23	C	ID	sug	+1	2	Uh , I think the best option is to use uh the basic battery .
+TS3010c.C.dialog-act.dharshi.33	457.23	460.9	C	ID	inf	-1	0	So , everybody can buy it uh at the at the supermarket .
+TS3010c.C.dialog-act.dharshi.34	461.78	467.38	C	ID	sug	-1	0	Or use uh a k uh kinetic battery like uh within a watch .
+TS3010c.C.dialog-act.dharshi.35	467.38	471.74	C	ID	inf	-1	0	When you uh shake it a few times , it it's loaded .
+TS3010c.C.dialog-act.dharshi.36	471.74	476.74	C	ID	sug	+1	1	Uh , the the form of the remote control , I think it's also nice {gap} have it curved .
+TS3010c.C.dialog-act.dharshi.37	477.41	480.5	C	ID	sug	+1	1	And maybe like it's hand-shaped .
+TS3010c.C.dialog-act.dharshi.38	480.5	485.67	C	ID	inf	-1	0	Uh , so uh you take it here in your hand and here are the buttons .
+TS3010c.C.dialog-act.dharshi.39	485.67	489.12	C	ID	sug	+1	1	Uh material , you use plastic . Hard plastic
+TS3010c.C.dialog-act.dharshi.40	489.12	494.27	C	ID	inf	-1	0	uh because uh {gap} it won't have to burst uh like in the {disfmarker} in one time .
+TS3010c.C.dialog-act.dharshi.41	494.27	495.08	C	ID	sug	+1	1	And also rubber
+TS3010c.C.dialog-act.dharshi.43	495.08	496.74	C	ID	inf	-1	0	because the younger people like that ,
+TS3010c.C.dialog-act.dharshi.44	496.74	498.91	C	ID	inf	-1	0	what we see in the research .
+TS3010c.C.dialog-act.dharshi.45	499.83	501.05	C	ID	inf	+1	1	Uh the push-buttons .
+TS3010c.C.dialog-act.dharshi.46	501.05	503.41	C	ID	inf	+1	1	We have one new thing uh discovered .
+TS3010c.C.dialog-act.dharshi.47	503.41	507.32	C	ID	inf	+1	1	It's a scroll push uh thing like a mouse .
+TS3010c.C.dialog-act.dharshi.48	507.32	511.87	C	ID	inf	+1	1	Maybe it's uh easy to use uh for the channels .
+TS3010c.C.dialog-act.dharshi.49	511.87	515.32	C	ID	inf	+1	1	When you want to go m move up , you just scroll up
+TS3010c.C.dialog-act.dharshi.50	515.32	520.29	C	ID	inf	+1	1	and click on the button , if you wanna see the next , uh if you wanna see that channel .
+TS3010c.C.dialog-act.dharshi.51	520.92	526.0	C	ID	inf	-1	0	And also for the mouse , uh for the volume , it's also uh easy to use .
+TS3010c.C.dialog-act.dharshi.52	526.0	529.28	C	ID	inf	-1	0	Just scroll a bit up , scroll a bit down .
+TS3010c.C.dialog-act.dharshi.53	529.28	534.2	C	ID	inf	-1	0	And that's also easy just w when you have a thing like this , and you get it here .
+TS3010c.C.dialog-act.dharshi.54	534.2	535.7	C	ID	inf	+1	1	You can do it with your thumb .
+TS3010c.C.dialog-act.dharshi.55	536.32	538.98	C	ID	inf	+1	1	And with your l left hand you can uh push the buttons
+TS3010c.D.dialog-act.dharshi.15	536.58	536.88	D	ME	bck	-1	0	Hmm .
+TS3010c.C.dialog-act.dharshi.56	538.98	542.26	C	ID	inf	-1	0	uh if you {gap} push uh channel one , you can see channel one .
+TS3010c.C.dialog-act.dharshi.57	543.32	551.4	C	ID	inf	+1	1	The electrics um with a scroll push uh button , we must use regular uh chips .
+TS3010c.C.dialog-act.dharshi.58	551.4	553.18	C	ID	inf	+1	1	There are also uh simple chips .
+TS3010c.C.dialog-act.dharshi.59	553.18	555.82	C	ID	inf	+1	1	They are uh cheaper .
+TS3010c.C.dialog-act.dharshi.60	555.82	561.83	C	ID	inf	+1	1	Um , but then we have just a basic uh uh remote control ,
+TS3010c.C.dialog-act.dharshi.61	561.83	566.53	C	ID	inf	-1	0	and I think there are a lot of those uh things , and people won't buy it any more .
+TS3010c.C.dialog-act.dharshi.62	566.53	567.72	C	ID	inf	-1	0	They have seen enough of it .
+TS3010c.C.dialog-act.dharshi.63	568.71	572.21	C	ID	inf	+1	1	And you have also advanced um chips .
+TS3010c.C.dialog-act.dharshi.64	572.21	575.0	C	ID	inf	+1	1	But that's with the L_C_D_ uh screen .
+TS3010c.C.dialog-act.dharshi.65	575.0	578.43	C	ID	inf	-1	0	And the costs will increase a lot more .
+TS3010c.C.dialog-act.dharshi.66	578.43	582.72	C	ID	inf	+1	1	And I think our budget is too low to use and an L_C_D_ ,
+TS3010c.C.dialog-act.dharshi.67	582.72	585.7	C	ID	inf	-1	0	and the chip who is more expensive .
+TS3010c.C.dialog-act.dharshi.68	586.9	599.5	C	ID	sug	+1	1	And maybe it's also then uh thoughtful if we u uh use uh as um different kind of uh shapes for the {disfmarker} for remote control ,
+TS3010c.C.dialog-act.dharshi.69	599.5	602.09	C	ID	sug	+1	1	that we then use the primary colours .
+TS3010c.C.dialog-act.dharshi.70	602.09	607.02	C	ID	sug	-1	0	Like , you get a yellow uh remote control , red one , blue one , et cetera .
+TS3010c.C.dialog-act.dharshi.71	608.6	611.17	C	ID	el.und	-1	0	You have any more questions about this ?
+TS3010c.C.dialog-act.dharshi.72	613.44	617.61	C	ID	sug	-1	0	I think the main thing is we look at the costs .
+TS3010c.D.dialog-act.dharshi.16	614.02	614.17	D	ME	bck	-1	0	Yep .
+TS3010c.A.dialog-act.dharshi.38	616.57	616.93	A	PM	bck	-1	0	Hmm .
+TS3010c.C.dialog-act.dharshi.73	617.61	618.86	C	ID	sug	-1	0	And not too basic ,
+TS3010c.C.dialog-act.dharshi.74	618.86	622.28	C	ID	sug	-1	0	not a basic remote control , who everybody already has .
+TS3010c.D.dialog-act.dharshi.17	619.46	619.8	D	ME	bck	-1	0	Yeah .
+TS3010c.D.dialog-act.dharshi.18	621.2	622.68	D	ME	stl	-1	0	But , thi i uh {disfmarker}
+TS3010c.D.dialog-act.dharshi.19	622.68	625.54	D	ME	el.inf	+1	1	This is with an L_C_D_ ? No ,
+TS3010c.C.dialog-act.dharshi.75	624.91	626.68	C	ID	inf	+1	1	Not with an L_C_D_ .
+TS3010c.D.dialog-act.dharshi.20	625.54	625.99	D	ME	und	-1	0	not .
+TS3010c.A.dialog-act.dharshi.39	626.26	627.2	A	PM	el.inf	-1	0	No , isn't .
+TS3010c.C.dialog-act.dharshi.76	626.68	627.01	C	ID	inf	-1	0	No .
+TS3010c.A.dialog-act.dharshi.40	627.2	631.78	A	PM	ass	+1	2	But the L_C_D_ is easy when you use the scroll uh buttons .
+TS3010c.A.dialog-act.dharshi.41	633.1	636.08	A	PM	inf	-1	0	Then you can scroll , you see what number , and then you push .
+TS3010c.C.dialog-act.dharshi.77	635.13	635.35	C	ID	bck	-1	0	Yeah .
+TS3010c.C.dialog-act.dharshi.78	636.72	640.14	C	ID	ass	-1	0	But then , what I say , the costs will uh get a lot higher .
+TS3010c.A.dialog-act.dharshi.42	641.03	644.95	A	PM	ass	+1	1	But then it's not easy to use scroll uh wheel .
+TS3010c.A.dialog-act.dharshi.43	646.1	647.136	A	PM	fra	-1	0	If you don't {disfmarker}
+TS3010c.C.dialog-act.dharshi.79	645.7	648.05	C	ID	inf	-1	0	Th then you'll see it on the television .
+TS3010c.A.dialog-act.dharshi.44	648.77	652.37	A	PM	inf	-1	0	Hmm , yes . But then . Yeah , then you go one down one up .
+TS3010c.A.dialog-act.dharshi.45	653.79	654.41	A	PM	inf	-1	0	When you scroll .
+TS3010c.C.dialog-act.dharshi.81	654.2	663.52	C	ID	inf	+1	2	but l when you see a menu uh on the television , it's like you see uh one to twenty , you go uh uh s scroll up , and push number tw twenty .
+TS3010c.C.dialog-act.dharshi.84	653.79	654.2	C	ID	ass	-1	0	Yeah
+TS3010c.A.dialog-act.dharshi.46	661.25	666.31	A	PM	inf	+1	2	but like we said before , it has to be used on every television .
+TS3010c.A.dialog-act.dharshi.53	661.11	661.25	A	PM	ass	-1	0	Yeah
+TS3010c.A.dialog-act.dharshi.47	666.31	670.596	A	PM	fra	-1	0	So you may not be uh {disfmarker}
+TS3010c.C.dialog-act.dharshi.80	670.215	670.985	C	ID	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.48	672.91	673.93	A	PM	oth	-1	0	No .
+TS3010c.A.dialog-act.dharshi.49	673.93	677.54	A	PM	inf	-1	0	The television must do that .
+TS3010c.A.dialog-act.dharshi.50	677.54	678.075	A	PM	fra	-1	0	So {disfmarker}
+TS3010c.C.dialog-act.dharshi.82	677.43	678.39	C	ID	bck	-1	0	Mm-hmm .
+TS3010c.C.dialog-act.dharshi.83	678.39	685.15	C	ID	inf	+1	2	Yeah , I think the younger people will have newer televisions , which can provide our uh remote control .
+TS3010c.A.dialog-act.dharshi.51	684.4	684.66	A	PM	ass	-1	0	Yeah
+TS3010c.A.dialog-act.dharshi.52	684.66	688.14	A	PM	inf	-1	0	but young people have to have all their uh room .
+TS3010c.A.dialog-act.dharshi.54	689.72	693.1	A	PM	inf	-1	0	And mostly they are smaller .
+TS3010c.A.dialog-act.dharshi.55	693.1	693.52	A	PM	fra	-1	0	So {disfmarker}
+TS3010c.C.dialog-act.dharshi.85	692.77	693.21	C	ID	ass	-1	0	Yes .
+TS3010c.C.dialog-act.dharshi.86	694.74	697.68	C	ID	ass	-1	0	But that won't be a problem . I think .
+TS3010c.A.dialog-act.dharshi.56	697.67	701.09	A	PM	inf	-1	0	Most the times that are not advanced televisions .
+TS3010c.C.dialog-act.dharshi.87	702.65	702.79	C	ID	ass	-1	0	No ,
+TS3010c.C.dialog-act.dharshi.88	702.79	706.22	C	ID	inf	+1	1	but then we'll get to the regular uh remote controls .
+TS3010c.D.dialog-act.dharshi.21	702.724	703.581	D	ME	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.89	706.22	710.76	C	ID	inf	+1	1	And I think , what I said , everybody has them uh has them already .
+TS3010c.C.dialog-act.dharshi.90	710.76	714.91	C	ID	inf	-1	0	And they go to a uh supermarket and buy them uh for two Euros .
+TS3010c.C.dialog-act.dharshi.91	714.91	719.22	C	ID	inf	-1	0	Uh , and ge and get the most cheapest uh thing .
+TS3010c.C.dialog-act.dharshi.92	719.22	725.07	C	ID	sug	+1	2	And I think we must look further to uh to devel d develop something news .
+TS3010c.A.dialog-act.dharshi.57	725.96	726.32	A	PM	ass	-1	0	Okay .
+TS3010c.D.dialog-act.dharshi.22	726.47	733.08	D	ME	el.inf	+1	2	Uh , can you give an indication in b uh in the cost difference between uh the chip with L_C_D_ or without ?
+TS3010c.C.dialog-act.dharshi.94	733.76	737.44	C	ID	inf	+1	2	{vocalsound} I got it on my screen and it was uh higher .
+TS3010c.C.dialog-act.dharshi.95	737.44	739.697	C	ID	inf	+1	2	But I don't know uh how much higher . {vocalsound}
+TS3010c.D.dialog-act.dharshi.23	739.53	739.88	D	ME	stl	-1	0	'Cause it {disfmarker}
+TS3010c.A.dialog-act.dharshi.58	740.03	740.9	A	PM	ass	-1	0	That's important .
+TS3010c.D.dialog-act.dharshi.24	739.88	742.98	D	ME	ass	+1	2	I think if we have an L_C_D_ , it will also sell a lot better .
+TS3010c.C.dialog-act.dharshi.96	743.59	744.06	C	ID	ass	-1	0	That's true .
+TS3010c.D.dialog-act.dharshi.25	744.84	748.112	D	ME	ass	+1	2	And that might uh bring back the costs uh {disfmarker}
+TS3010c.C.dialog-act.dharshi.97	748.52	749.33	C	ID	stl	-1	0	But then we'll {disfmarker}
+TS3010c.C.dialog-act.dharshi.98	749.33	759.89	C	ID	sug	+1	1	I think we must discuss who {disfmarker} uh what will be better . If we have a better shape of the um remote control , or better options on it .
+TS3010c.C.dialog-act.dharshi.100	759.89	766.2	C	ID	el.ass	+1	1	With a scroll menu , a w scroll thing , and a L_C_D_ . And then a flat um remote control .
+TS3010c.C.dialog-act.dharshi.101	766.2	770.83	C	ID	el.ass	+1	1	Or , a more hand-shaped remote control , with scroll , without L_C_D_ .
+TS3010c.A.dialog-act.dharshi.60	773.88	774.19	A	PM	bck	-1	0	Yeah .
+TS3010c.A.dialog-act.dharshi.61	775.38	783.17	A	PM	sug	+1	3	Maybe you can look how how much it is for the L_C_D_ .
+TS3010c.C.dialog-act.dharshi.102	780.51	784.561	C	ID	off	-1	0	I can uh look on my uh {disfmarker} {vocalsound}
+TS3010c.A.dialog-act.dharshi.62	783.17	785.12	A	PM	ass	-1	0	{vocalsound} It's very important .
+TS3010c.C.dialog-act.dharshi.99	786.496	788.144	C	ID	fra	-1	0	{gap}
+TS3010c.C.dialog-act.dharshi.103	791.88	792.816	C	ID	stl	-1	0	Uh {disfmarker}
+TS3010c.C.dialog-act.dharshi.104	795.24	798.58	C	ID	inf	+1	1	Note that the push-button requires a simple chip chip .
+TS3010c.C.dialog-act.dharshi.105	798.58	804.45	C	ID	inf	+1	1	A scroll wheel requires minimally a regular chip , which is a higher price range .
+TS3010c.C.dialog-act.dharshi.106	804.45	811.08	C	ID	inf	+1	3	The display requires a advanced chip , which is which in turn is more expensive than the regular chip .
+TS3010c.A.dialog-act.dharshi.63	811.46	812.66	A	PM	ass	-1	0	Yeah , more expensive .
+TS3010c.A.dialog-act.dharshi.64	812.66	813.43	A	PM	el.inf	-1	0	But how much ?
+TS3010c.B.dialog-act.dharshi.70	814.647	815.685	B	UI	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.107	814.88	816.48	C	ID	inf	-1	0	Doesn't say . {vocalsound}
+TS3010c.A.dialog-act.dharshi.59	815.461	815.722	A	PM	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.65	816.47	816.6	A	PM	oth	-1	0	Oh .
+TS3010c.B.dialog-act.dharshi.71	816.88	817.21	B	UI	oth	-1	0	Hmm .
+TS3010c.D.dialog-act.dharshi.26	816.82	817.09	D	ME	oth	-1	0	Huh .
+TS3010c.A.dialog-act.dharshi.66	819.35	819.76	A	PM	ass	-1	0	Okay .
+TS3010c.C.dialog-act.dharshi.108	823.15	826.39	C	ID	inf	-1	0	That's from my manufacturing division .
+TS3010c.A.dialog-act.dharshi.67	826.9	830.03	A	PM	ass	-1	0	Okay .
+TS3010c.C.dialog-act.dharshi.109	827.671	829.422	C	ID	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.27	827.61	828.346	D	ME	bck	-1	0	'Kay . {vocalsound}
+TS3010c.A.dialog-act.dharshi.68	830.03	831.92	A	PM	be.pos	-1	0	{vocalsound} Well , thank you .
+TS3010c.C.dialog-act.dharshi.111	831.41	831.86	C	ID	inf	-1	0	Yes ?
+TS3010c.D.dialog-act.dharshi.28	831.02	831.5	D	ME	el.inf	-1	0	My turn ?
+TS3010c.A.dialog-act.dharshi.69	831.92	832.94	A	PM	inf	-1	0	Next .
+TS3010c.C.dialog-act.dharshi.110	834.789	835.199	C	ID	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.29	837.406	841.39	D	ME	stl	-1	0	{vocalsound} Mm . So {disfmarker}
+TS3010c.D.dialog-act.dharshi.30	845.1	845.92	D	ME	stl	-1	0	So {disfmarker}
+TS3010c.D.dialog-act.dharshi.31	849.4	850.31	D	ME	stl	-1	0	Yeah .
+TS3010c.D.dialog-act.dharshi.32	850.31	853.22	D	ME	inf	+1	1	So , my uh presentation is about trend-watching .
+TS3010c.D.dialog-act.dharshi.33	853.22	856.05	D	ME	inf	-1	0	Uh , I did some trend-watching .
+TS3010c.D.dialog-act.dharshi.34	856.05	861.68	D	ME	inf	-1	0	It's very important to uh keep up with latest trends . {vocalsound} 'Cause if you don't , you won't sell .
+TS3010c.D.dialog-act.dharshi.35	863.02	864.21	D	ME	inf	-1	0	So , well how we did do that ?
+TS3010c.D.dialog-act.dharshi.36	864.21	868.72	D	ME	inf	+1	1	Uh , well we made an investigation of the market , by Trendwatchers .
+TS3010c.D.dialog-act.dharshi.37	868.72	873.14	D	ME	inf	+1	1	They uh watch in uh cities like uh Paris and Milan .
+TS3010c.D.dialog-act.dharshi.38	873.14	876.67	D	ME	inf	-1	0	Of course , well known for their uh trend {disfmarker} uh trends .
+TS3010c.D.dialog-act.dharshi.39	878.34	880.05	D	ME	inf	-1	0	And well , uh what did you find ?
+TS3010c.D.dialog-act.dharshi.40	880.05	883.04	D	ME	inf	+1	1	Uh , we have two groups , young and trendy , and the old and rich .
+TS3010c.D.dialog-act.dharshi.41	883.04	897.4	D	ME	inf	+1	1	Well th and the young and trendy , they uh they starting to like uh fruit and vegetables uh as a theme for n uh clothes , shoes , and also uh products .
+TS3010c.D.dialog-act.dharshi.43	898.26	903.71	D	ME	inf	+1	1	And um , material ? That should feel {disfmarker} have uh a spongy feeling .
+TS3010c.D.dialog-act.dharshi.44	903.71	907.15	D	ME	inf	-1	0	And to get a feeling for what it is , uh here is an image of it .
+TS3010c.D.dialog-act.dharshi.45	909.97	911.34	D	ME	inf	+1	1	Then the old and rich .
+TS3010c.D.dialog-act.dharshi.46	911.34	915.83	D	ME	inf	+1	1	They like uh dark colours , and simple , recognisable shapes .
+TS3010c.C.dialog-act.dharshi.112	912.118	912.826	C	ID	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.47	915.83	920.57	D	ME	inf	-1	0	And um , they also like uh familiar material , uh especially wood .
+TS3010c.D.dialog-act.dharshi.48	920.57	921.49	D	ME	inf	-1	0	Now , another picture .
+TS3010c.B.dialog-act.dharshi.72	922.416	925.056	B	UI	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.49	922.8	923.78	D	ME	inf	-1	0	To get a feeling for this .
+TS3010c.D.dialog-act.dharshi.51	925.67	929.17	D	ME	inf	+1	1	Well , uh then already come to my personal preferences .
+TS3010c.D.dialog-act.dharshi.52	929.17	930.98	D	ME	inf	+1	1	We uh aim at the younger market .
+TS3010c.D.dialog-act.dharshi.53	930.98	935.14	D	ME	sug	-1	0	So , we should also be uh look at their uh trends .
+TS3010c.D.dialog-act.dharshi.54	935.14	938.12	D	ME	inf	+1	1	However , with trends it's always if there's {disfmarker} it's now .
+TS3010c.D.dialog-act.dharshi.55	938.12	942.5	D	ME	inf	+1	1	It it it might last one year , and next year it be {disfmarker} uh can be totally different .
+TS3010c.D.dialog-act.dharshi.56	943.16	946.79	D	ME	ass	-1	0	And I think we want to sell our product for longer than one year .
+TS3010c.D.dialog-act.dharshi.57	946.79	950.79	D	ME	sug	-1	0	So , we m must not just only look at what the trend is now ,
+TS3010c.D.dialog-act.dharshi.58	950.79	953.25	D	ME	inf	-1	0	as it might be totally different next year .
+TS3010c.D.dialog-act.dharshi.59	953.25	954.78	D	ME	inf	-1	0	So , that's uh one thing to keep in mind .
+TS3010c.C.dialog-act.dharshi.113	955.2	960.24	C	ID	sug	-1	0	Changing covers . {vocalsound}
+TS3010c.B.dialog-act.dharshi.73	958.064	959.12	B	UI	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.50	957.68	959.175	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.70	958.88	960.672	A	PM	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.60	959.94	960.13	D	ME	bck	-1	0	Yeah .
+TS3010c.D.dialog-act.dharshi.61	965.48	966.11	D	ME	el.und	-1	0	Any questions ?
+TS3010c.C.dialog-act.dharshi.114	966.86	967.04	C	ID	inf	-1	0	Nope .
+TS3010c.A.dialog-act.dharshi.71	967.69	969.16	A	PM	inf	-1	0	No . It's clear .
+TS3010c.B.dialog-act.dharshi.74	967.53	967.7	B	UI	inf	-1	0	No .
+TS3010c.A.dialog-act.dharshi.72	974.06	977.02	A	PM	fra	-1	0	So now , it's uh {disfmarker} {vocalsound}
+TS3010c.A.dialog-act.dharshi.73	977.02	980.67	A	PM	oth	-1	0	Ah , let's see .
+TS3010c.A.dialog-act.dharshi.74	988.43	991.55	A	PM	stl	-1	0	Now , w we have to decide
+TS3010c.A.dialog-act.dharshi.75	993.292	993.665	A	PM	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.76	1000.61	1003.66	A	PM	sug	+1	1	Well , we have to decide on the concept .
+TS3010c.A.dialog-act.dharshi.77	1003.66	1012.5	A	PM	sug	-1	0	So , we have to look at {disfmarker} 'S next . Components and user interface concept .
+TS3010c.A.dialog-act.dharshi.78	1012.5	1013.072	A	PM	stl	-1	0	So {disfmarker}
+TS3010c.A.dialog-act.dharshi.79	1015.81	1018.8	A	PM	sug	-1	0	Now , we have to make some concept .
+TS3010c.A.dialog-act.dharshi.80	1018.8	1021.61	A	PM	sug	+1	1	Maybe one of you can paint it on the board .
+TS3010c.A.dialog-act.dharshi.81	1023.8	1025.97	A	PM	inf	-1	0	First , uh user interface .
+TS3010c.C.dialog-act.dharshi.115	1028.34	1030.1	C	ID	stl	-1	0	Uh , uh-uh .
+TS3010c.C.dialog-act.dharshi.116	1031.38	1033.376	C	ID	el.inf	-1	0	How w how we how we make it ? Uh {disfmarker}
+TS3010c.A.dialog-act.dharshi.83	1033.28	1037.85	A	PM	fra	-1	0	Yes , a concept on uh {disfmarker} {vocalsound}
+TS3010c.C.dialog-act.dharshi.117	1035.232	1035.744	C	ID	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.62	1035.452	1036.496	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.84	1037.85	1038.513	A	PM	fra	-1	0	Just {disfmarker}
+TS3010c.C.dialog-act.dharshi.118	1037.68	1041.777	C	ID	sug	-1	0	Shouldn't we first discuss about like what w we all {disfmarker}
+TS3010c.D.dialog-act.dharshi.63	1038.37	1038.69	D	ME	bck	-1	0	Yeah .
+TS3010c.A.dialog-act.dharshi.85	1039.091	1039.799	A	PM	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.86	1040.63	1040.75	A	PM	ass	-1	0	Yeah ,
+TS3010c.A.dialog-act.dharshi.87	1040.75	1043.6	A	PM	sug	-1	0	but maybe we can paint it . Uh , what do we want ?
+TS3010c.C.dialog-act.dharshi.119	1044.48	1047.1	C	ID	ass	-1	0	Yeah , but if I paint with {disfmarker}
+TS3010c.A.dialog-act.dharshi.88	1046.94	1050.45	A	PM	off	-1	0	I'll paint . Okay .
+TS3010c.C.dialog-act.dharshi.120	1047.5	1050.192	C	ID	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.64	1049.12	1050.064	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.89	1050.45	1051.76	A	PM	stl	-1	0	Well {disfmarker}
+TS3010c.D.dialog-act.dharshi.65	1051.96	1052.37	D	ME	bck	-1	0	Mm .
+TS3010c.A.dialog-act.dharshi.90	1057.77	1058.8	A	PM	sug	-1	0	Something like this ? Or {disfmarker}
+TS3010c.A.dialog-act.dharshi.91	1060.77	1063.21	A	PM	el.sug	-1	0	Shapes or {disfmarker} What do we need ?
+TS3010c.B.dialog-act.dharshi.75	1060.55	1061.36	B	UI	ass	-1	0	Mm , yes .
+TS3010c.B.dialog-act.dharshi.76	1067.43	1067.63	B	UI	und	-1	0	What ?
+TS3010c.D.dialog-act.dharshi.66	1067.09	1068.89	D	ME	sug	+1	1	Can make several uh concepts .
+TS3010c.A.dialog-act.dharshi.92	1069.84	1070.5	A	PM	ass	-1	0	Yes , okay .
+TS3010c.D.dialog-act.dharshi.67	1070.46	1074.81	D	ME	sug	+1	1	We have this , and we had the idea of an um a more uh uh uh like sh in the shape of your hand .
+TS3010c.A.dialog-act.dharshi.93	1075.94	1076.28	A	PM	ass	-1	0	Okay .
+TS3010c.C.dialog-act.dharshi.121	1076.04	1077.174	C	ID	el.inf	-1	0	More like something {disfmarker}
+TS3010c.D.dialog-act.dharshi.68	1076.87	1079.617	D	ME	inf	-1	0	Yeah I I I uh {disfmarker} yes . {vocalsound}
+TS3010c.B.dialog-act.dharshi.77	1078.116	1078.832	B	UI	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.122	1078.69	1079.15	C	ID	stl	-1	0	M like {disfmarker}
+TS3010c.C.dialog-act.dharshi.123	1079.15	1080.89	C	ID	inf	-1	0	Yeah I can't dr I can't draw it .
+TS3010c.A.dialog-act.dharshi.94	1080.97	1081.8	A	PM	sug	-1	0	And you have to .
+TS3010c.C.dialog-act.dharshi.124	1080.89	1082.34	C	ID	stl	-1	0	Uh {disfmarker} {vocalsound}
+TS3010c.D.dialog-act.dharshi.69	1080.623	1086.716	D	ME	fra	-1	0	{vocalsound}
+TS3010c.B.dialog-act.dharshi.78	1082.184	1085.49	B	UI	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.125	1082.34	1084.24	C	ID	be.pos	-1	0	I have to .
+TS3010c.A.dialog-act.dharshi.95	1083.69	1084.28	A	PM	ass	-1	0	Yeah .
+TS3010c.C.dialog-act.dharshi.126	1084.24	1086.74	C	ID	ass	-1	0	I'm not a designer .
+TS3010c.C.dialog-act.dharshi.127	1086.74	1088.08	C	ID	inf	-1	0	It's more {gap} three D_ .
+TS3010c.C.dialog-act.dharshi.128	1088.08	1091.31	C	ID	inf	-1	0	Like , um when you have
+TS3010c.C.dialog-act.dharshi.129	1093.84	1096.69	C	ID	inf	-1	0	a part here .
+TS3010c.C.dialog-act.dharshi.130	1096.69	1099.09	C	ID	inf	+1	1	This is the remote control .
+TS3010c.C.dialog-act.dharshi.131	1099.09	1104.26	C	ID	inf	+1	1	And then you have something like th this under it .
+TS3010c.C.dialog-act.dharshi.132	1104.26	1108.72	C	ID	inf	-1	0	So , it's easier to get it like this .
+TS3010c.B.dialog-act.dharshi.79	1105.47	1105.78	B	UI	bck	-1	0	Mm .
+TS3010c.A.dialog-act.dharshi.96	1107.072	1109.737	A	PM	fra	-1	0	{vocalsound} {gap}
+TS3010c.B.dialog-act.dharshi.80	1107.001	1107.85	B	UI	bck	-1	0	{vocalsound} Yeah .
+TS3010c.C.dialog-act.dharshi.133	1108.72	1111.323	C	ID	inf	-1	0	{vocalsound} {vocalsound} It's like a gun . {vocalsound}
+TS3010c.D.dialog-act.dharshi.70	1108.23	1108.64	D	ME	bck	-1	0	Yeah .
+TS3010c.B.dialog-act.dharshi.81	1109.847	1110.75	B	UI	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.71	1109.7	1111.61	D	ME	fra	-1	0	A g {vocalsound}
+TS3010c.A.dialog-act.dharshi.97	1110.9	1112.11	A	PM	el.inf	+1	1	So , it has to be soft ?
+TS3010c.D.dialog-act.dharshi.72	1111.61	1112.56	D	ME	bck	-1	0	Mm . {gap} .
+TS3010c.C.dialog-act.dharshi.134	1112.54	1113.62	C	ID	inf	+1	1	And it has to be soft , yeah .
+TS3010c.A.dialog-act.dharshi.98	1113.95	1114.4	A	PM	ass	-1	0	Okay .
+TS3010c.A.dialog-act.dharshi.99	1115.88	1117.19	A	PM	el.inf	-1	0	And uh , the buttons ?
+TS3010c.C.dialog-act.dharshi.135	1115.52	1118.64	C	ID	fra	-1	0	So , you can squeeze in it and {disfmarker}
+TS3010c.C.dialog-act.dharshi.136	1118.64	1120.1	C	ID	und	-1	0	Sorry ?
+TS3010c.A.dialog-act.dharshi.100	1119.16	1119.73	A	PM	inf	-1	0	Buttons .
+TS3010c.C.dialog-act.dharshi.137	1120.1	1122.47	C	ID	inf	+1	1	Buttons on top of it .
+TS3010c.C.dialog-act.dharshi.138	1122.47	1123.07	C	ID	inf	-1	0	And here .
+TS3010c.C.dialog-act.dharshi.139	1124.21	1126.79	C	ID	inf	+1	1	The scrolling . You can do it with your thumb .
+TS3010c.A.dialog-act.dharshi.101	1127.424	1134.09	A	PM	fra	-1	0	{vocalsound} No , it won't .
+TS3010c.C.dialog-act.dharshi.140	1128.048	1131.329	C	ID	fra	-1	0	{vocalsound}
+TS3010c.B.dialog-act.dharshi.82	1128.98	1133.03	B	UI	el.sug	-1	0	But but i that's the only scroll uh button on it then ?
+TS3010c.C.dialog-act.dharshi.141	1133.23	1136.2	C	ID	sug	+1	1	But now we use one scroll button and the other one is here .
+TS3010c.C.dialog-act.dharshi.142	1136.2	1140.44	C	ID	sug	-1	0	One till uh uh zero till nine .
+TS3010c.B.dialog-act.dharshi.83	1139.96	1140.28	B	UI	ass	-1	0	Yeah , okay .
+TS3010c.A.dialog-act.dharshi.102	1139.96	1142.89	A	PM	sug	-1	0	But , well there one for the sound and one for the channels .
+TS3010c.B.dialog-act.dharshi.84	1140.28	1141.227	B	UI	fra	-1	0	But but how {disfmarker}
+TS3010c.C.dialog-act.dharshi.143	1140.44	1140.96	C	ID	fra	-1	0	And the b
+TS3010c.D.dialog-act.dharshi.73	1140.4	1140.73	D	ME	bck	-1	0	Yeah .
+TS3010c.C.dialog-act.dharshi.144	1141.71	1141.934	C	ID	fra	-1	0	{vocalsound}
+TS3010c.B.dialog-act.dharshi.86	1142.63	1143.45	B	UI	ass	-1	0	Yeah .
+TS3010c.B.dialog-act.dharshi.85	1143.45	1143.838	B	UI	fra	-1	0	How {disfmarker}
+TS3010c.C.dialog-act.dharshi.145	1143.39	1144.93	C	ID	el.ass	-1	0	Yeah ?
+TS3010c.C.dialog-act.dharshi.146	1144.93	1146.06	C	ID	sug	-1	0	Or two buttons .
+TS3010c.B.dialog-act.dharshi.87	1146.13	1146.57	B	UI	ass	-1	0	Okay .
+TS3010c.A.dialog-act.dharshi.103	1146.72	1148.71	A	PM	ass	-1	0	Uh , two scroll uh wheels .
+TS3010c.D.dialog-act.dharshi.75	1146.52	1148.304	D	ME	fra	-1	0	And i if we go to uh {disfmarker} {vocalsound}
+TS3010c.C.dialog-act.dharshi.147	1148.34	1148.65	C	ID	stl	-1	0	If uh {disfmarker}
+TS3010c.C.dialog-act.dharshi.148	1148.65	1149.38	C	ID	stl	-1	0	'Kay c If we do {disfmarker}
+TS3010c.C.dialog-act.dharshi.149	1149.38	1153.2	C	ID	inf	-1	0	If we use one , then we'll have just a switch on it ,
+TS3010c.C.dialog-act.dharshi.150	1153.2	1154.46	C	ID	inf	-1	0	and you'll just switch it ,
+TS3010c.C.dialog-act.dharshi.151	1154.46	1157.1	C	ID	inf	-1	0	and now it's the sound to switch back
+TS3010c.B.dialog-act.dharshi.88	1155.66	1156.05	B	UI	bck	-1	0	Mm .
+TS3010c.D.dialog-act.dharshi.74	1155.545	1155.992	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.104	1156.52	1157.77	A	PM	ass	-1	0	That's th that's more difficult .
+TS3010c.D.dialog-act.dharshi.77	1158.34	1160.43	D	ME	fra	-1	0	But if we have uh a me Yeah .
+TS3010c.A.dialog-act.dharshi.105	1158.84	1159.917	A	PM	fra	-1	0	It's better in {disfmarker}
+TS3010c.D.dialog-act.dharshi.76	1160.43	1163.75	D	ME	el.inf	+1	1	If we have a menu , uh how do we uh choose other options ?
+TS3010c.C.dialog-act.dharshi.152	1164.93	1166.38	C	ID	inf	+1	1	with the menu uh button .
+TS3010c.C.dialog-act.dharshi.153	1166.38	1169.26	C	ID	inf	+1	1	And then you also can scroll uh scroll in it .
+TS3010c.C.dialog-act.dharshi.154	1169.26	1176.16	C	ID	inf	-1	0	Just not like all the other ones , with uh this thing , and uh here an arrow , here an arrow , here an arrow , here an arrow .
+TS3010c.D.dialog-act.dharshi.78	1169.99	1170.19	D	ME	bck	-1	0	Yeah .
+TS3010c.C.dialog-act.dharshi.155	1176.16	1180.09	C	ID	inf	-1	0	Because uh , from h hundred uh {gap} remote controls , ninety nine have it .
+TS3010c.A.dialog-act.dharshi.106	1180.58	1183.05	A	PM	inf	+1	2	But if we don't have a L_C_D_ we don't have a menu .
+TS3010c.B.dialog-act.dharshi.89	1180.61	1180.81	B	UI	bck	-1	0	Yeah .
+TS3010c.C.dialog-act.dharshi.156	1185.16	1187.31	C	ID	inf	+1	2	Uh , then we have it on the T_V_ , the menu .
+TS3010c.D.dialog-act.dharshi.79	1185.41	1185.65	D	ME	bck	-1	0	Uh-uh .
+TS3010c.A.dialog-act.dharshi.107	1188.1	1194.91	A	PM	el.inf	+1	2	Yeah , but {vocalsound} again maybe th How do we know the T_V_ can handle it ?
+TS3010c.C.dialog-act.dharshi.157	1189.04	1191.024	C	ID	fra	-1	0	{vocalsound}
+TS3010c.B.dialog-act.dharshi.90	1189.928	1190.899	B	UI	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.108	1194.91	1196.44	A	PM	inf	-1	0	You don't know .
+TS3010c.A.dialog-act.dharshi.109	1196.44	1197.54	A	PM	inf	-1	0	So , there's no menu .
+TS3010c.C.dialog-act.dharshi.158	1196.72	1197.37	C	ID	ass	-1	0	I don't know .
+TS3010c.C.dialog-act.dharshi.159	1198.88	1203.008	C	ID	inf	-1	0	It's like some sort of uh teletext option , but we don't have teletext . {vocalsound}
+TS3010c.A.dialog-act.dharshi.110	1202.95	1203.97	A	PM	ass	-1	0	No .
+TS3010c.A.dialog-act.dharshi.111	1203.97	1204.88	A	PM	ass	-1	0	So you can't use it .
+TS3010c.C.dialog-act.dharshi.160	1206.69	1212.45	C	ID	inf	+1	2	And if we put an L_C_D_ thing on it , then the costs will uh be much higher .
+TS3010c.A.dialog-act.dharshi.112	1213.05	1213.48	A	PM	ass	-1	0	Okay ,
+TS3010c.A.dialog-act.dharshi.113	1213.48	1214.6	A	PM	sug	+1	1	we make two concepts .
+TS3010c.A.dialog-act.dharshi.114	1214.6	1216.91	A	PM	sug	+1	1	One with L_C_D_ . One without L_C_D_ .
+TS3010c.C.dialog-act.dharshi.161	1217.4	1217.61	C	ID	ass	-1	0	'Kay .
+TS3010c.C.dialog-act.dharshi.162	1219.33	1222.11	C	ID	el.ass	-1	0	But you all like this kind of thing .
+TS3010c.C.dialog-act.dharshi.163	1222.11	1222.778	C	ID	fra	-1	0	Uh {disfmarker}
+TS3010c.A.dialog-act.dharshi.115	1223.38	1224.75	A	PM	ass	-1	0	Good concept .
+TS3010c.A.dialog-act.dharshi.116	1224.75	1225.152	A	PM	fra	-1	0	But {disfmarker}
+TS3010c.C.dialog-act.dharshi.164	1226.91	1227.9	C	ID	inf	-1	0	With the scroll button .
+TS3010c.A.dialog-act.dharshi.117	1227.51	1228.15	A	PM	ass	-1	0	That's one .
+TS3010c.C.dialog-act.dharshi.165	1227.9	1231.66	C	ID	sug	+1	1	And and this one has to be soft .
+TS3010c.D.dialog-act.dharshi.80	1229.39	1229.56	D	ME	bck	-1	0	Uh-uh .
+TS3010c.C.dialog-act.dharshi.166	1231.66	1233.51	C	ID	sug	+1	1	And this has to be harder ,
+TS3010c.C.dialog-act.dharshi.167	1233.51	1237.08	C	ID	inf	-1	0	because when it falls , it mu mu must not burst .
+TS3010c.C.dialog-act.dharshi.168	1237.08	1239.66	C	ID	sug	+1	1	Or some kind of rubber around it .
+TS3010c.B.dialog-act.dharshi.91	1240.61	1240.9	B	UI	bck	-1	0	Mm-hmm .
+TS3010c.A.dialog-act.dharshi.118	1246.16	1246.56	A	PM	ass	-1	0	It's one .
+TS3010c.A.dialog-act.dharshi.119	1247.79	1249.17	A	PM	el.sug	-1	0	Two . Number two .
+TS3010c.B.dialog-act.dharshi.92	1249.27	1253.24	B	UI	sug	+1	2	And you can and you can uh make the the power button as a trigger .
+TS3010c.A.dialog-act.dharshi.120	1253.104	1256.084	A	PM	fra	-1	0	{vocalsound}
+TS3010c.B.dialog-act.dharshi.93	1253.24	1253.952	B	UI	fra	-1	0	Like uh {disfmarker} {vocalsound}
+TS3010c.C.dialog-act.dharshi.169	1253.072	1254.79	C	ID	ass	-1	0	{vocalsound} Yeah . Yeah .
+TS3010c.B.dialog-act.dharshi.94	1253.952	1255.36	B	UI	fra	-1	0	{vocalsound} {gap}
+TS3010c.C.dialog-act.dharshi.170	1254.79	1256.05	C	ID	ass	-1	0	{vocalsound} Ah that's nice .
+TS3010c.B.dialog-act.dharshi.95	1255.36	1257.004	B	UI	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.171	1256.05	1263.328	C	ID	ass	-1	0	{vocalsound} Here . Trigger . {vocalsound}
+TS3010c.D.dialog-act.dharshi.81	1255.872	1263.777	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.121	1258.84	1259.84	A	PM	ass	-1	0	No .
+TS3010c.A.dialog-act.dharshi.122	1259.84	1262.35	A	PM	ass	-1	0	{vocalsound} But when you handle it , you put it on and off .
+TS3010c.B.dialog-act.dharshi.96	1259.8	1261.476	B	UI	fra	-1	0	Just to uh {disfmarker} {vocalsound}
+TS3010c.A.dialog-act.dharshi.123	1263.46	1265.48	A	PM	ass	+1	2	It's not good to use .
+TS3010c.C.dialog-act.dharshi.172	1266.288	1269.088	C	ID	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.124	1266.838	1271.41	A	PM	be.pos	-1	0	{vocalsound} Yeah , but {vocalsound} I'll zap .
+TS3010c.B.dialog-act.dharshi.97	1266.9	1268.92	B	UI	fra	-1	0	Oh , like a {vocalsound} {gap}
+TS3010c.D.dialog-act.dharshi.82	1268.51	1274.008	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.125	1271.41	1273.264	A	PM	be.pos	-1	0	{vocalsound} Fuck . Out . {vocalsound}
+TS3010c.B.dialog-act.dharshi.98	1270.944	1272.78	B	UI	bck	-1	0	{vocalsound} Yeah .
+TS3010c.C.dialog-act.dharshi.173	1271.68	1273.072	C	ID	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.126	1274.66	1277.76	A	PM	ass	-1	0	No , it's not good .
+TS3010c.D.dialog-act.dharshi.83	1277.14	1277.43	D	ME	ass	-1	0	Yeah .
+TS3010c.A.dialog-act.dharshi.127	1277.76	1279.75	A	PM	el.sug	-1	0	{vocalsound} Now , second concept .
+TS3010c.A.dialog-act.dharshi.128	1279.75	1281.85	A	PM	sug	-1	0	One with L_C_D_ , one without L_C_D_ .
+TS3010c.A.dialog-act.dharshi.129	1283.52	1284.08	A	PM	stl	-1	0	Then uh {disfmarker}
+TS3010c.A.dialog-act.dharshi.130	1286.4	1288.167	A	PM	sug	-1	0	Paint it . {vocalsound}
+TS3010c.B.dialog-act.dharshi.99	1286.272	1286.751	B	UI	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.174	1287.45	1288.61	C	ID	und	-1	0	Paint it ?
+TS3010c.D.dialog-act.dharshi.84	1286.976	1290.192	D	ME	fra	-1	0	{vocalsound}
+TS3010c.B.dialog-act.dharshi.100	1287.981	1289.136	B	UI	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.175	1288.61	1290.83	C	ID	el.sug	-1	0	With the scroll thing on , like this ?
+TS3010c.A.dialog-act.dharshi.131	1290.17	1294.07	A	PM	sug	+1	1	One with two scroll buttons and one with without .
+TS3010c.A.dialog-act.dharshi.132	1294.07	1294.3	A	PM	ass	-1	0	Yeah .
+TS3010c.A.dialog-act.dharshi.133	1295.78	1299.1	A	PM	sug	+1	1	Uh , one with a with a menu , and one without a menu .
+TS3010c.C.dialog-act.dharshi.176	1296.07	1296.41	C	ID	fra	-1	0	So ?
+TS3010c.A.dialog-act.dharshi.134	1299.1	1301.87	A	PM	sug	+1	1	And the one with with a menu has an L_C_D_ .
+TS3010c.C.dialog-act.dharshi.177	1300.898	1306.096	C	ID	sug	-1	0	{vocalsound} Draw it . {vocalsound}
+TS3010c.A.dialog-act.dharshi.135	1302.784	1306.02	A	PM	be.pos	-1	0	{vocalsound} Unbelievable .
+TS3010c.D.dialog-act.dharshi.85	1302.384	1308.626	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.136	1306.02	1309.56	A	PM	be.pos	-1	0	Do I have to do everything .
+TS3010c.A.dialog-act.dharshi.137	1309.56	1311.72	A	PM	oth	-1	0	Blank .
+TS3010c.A.dialog-act.dharshi.138	1311.72	1316.88	A	PM	fra	-1	0	You have {disfmarker} {vocalsound}
+TS3010c.A.dialog-act.dharshi.139	1381.94	1382.76	A	PM	ass	-1	0	Not so difficult .
+TS3010c.D.dialog-act.dharshi.86	1383.44	1385.22	D	ME	bck	-1	0	{vocalsound} Yeah .
+TS3010c.B.dialog-act.dharshi.101	1384.99	1387.232	B	UI	el.inf	-1	0	But if you put {disfmarker} push the the menu button {disfmarker}
+TS3010c.A.dialog-act.dharshi.140	1388.08	1389.74	A	PM	inf	-1	0	Uh , that's the menu .
+TS3010c.A.dialog-act.dharshi.141	1389.74	1391.03	A	PM	inf	-1	0	There for the L_C_D_ screen .
+TS3010c.B.dialog-act.dharshi.102	1389.33	1390.406	B	UI	fra	-1	0	Yeah , wh what {disfmarker}
+TS3010c.B.dialog-act.dharshi.103	1391.54	1395.76	B	UI	ass	+1	1	Yes , but you don't know which of the scroll buttons you have to choose .
+TS3010c.A.dialog-act.dharshi.142	1396.74	1397.424	A	PM	fra	-1	0	You have to {disfmarker}
+TS3010c.A.dialog-act.dharshi.143	1398.45	1398.95	A	PM	el.inf	-1	0	For the menu .
+TS3010c.B.dialog-act.dharshi.104	1399.09	1399.44	B	UI	inf	-1	0	Yeah .
+TS3010c.A.dialog-act.dharshi.144	1402.26	1404.2	A	PM	stl	-1	0	Mm-hmm .
+TS3010c.A.dialog-act.dharshi.145	1404.2	1408.65	A	PM	inf	-1	0	One that way .
+TS3010c.A.dialog-act.dharshi.146	1408.65	1411.83	A	PM	inf	-1	0	And one that way .
+TS3010c.A.dialog-act.dharshi.147	1415.22	1415.552	A	PM	stl	-1	0	So {disfmarker}
+TS3010c.A.dialog-act.dharshi.148	1418.48	1421.32	A	PM	inf	+1	1	Then it depends on the cost .
+TS3010c.A.dialog-act.dharshi.149	1421.32	1422.85	A	PM	inf	-1	0	S On and off .
+TS3010c.D.dialog-act.dharshi.87	1423.36	1423.936	D	ME	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.178	1423.92	1425.67	C	ID	el.ass	-1	0	But is it easy to use ?
+TS3010c.C.dialog-act.dharshi.179	1425.67	1427.32	C	ID	ass	-1	0	When you have it on your left side ,
+TS3010c.C.dialog-act.dharshi.180	1427.32	1427.744	C	ID	fra	-1	0	and {disfmarker}
+TS3010c.A.dialog-act.dharshi.150	1428.11	1430.07	A	PM	ass	-1	0	When it's not too big .
+TS3010c.A.dialog-act.dharshi.151	1430.07	1431.46	A	PM	ass	-1	0	Just like a a phone .
+TS3010c.B.dialog-act.dharshi.105	1432.96	1433.27	B	UI	bck	-1	0	Mm-hmm .
+TS3010c.D.dialog-act.dharshi.88	1435.14	1439.64	D	ME	sug	+1	1	M uh yeah , maybe it's better if the uh scroll-wheels are um
+TS3010c.C.dialog-act.dharshi.181	1438.82	1440.51	C	ID	sug	-1	0	Separate , more separate , h yeah .
+TS3010c.D.dialog-act.dharshi.89	1439.64	1440.89	D	ME	ass	+1	1	more separate , yeah .
+TS3010c.A.dialog-act.dharshi.152	1440.87	1441.38	A	PM	ass	-1	0	Yes , okay .
+TS3010c.D.dialog-act.dharshi.90	1440.89	1443.216	D	ME	sug	+1	1	Like , you have the menu button in between uh {disfmarker}
+TS3010c.C.dialog-act.dharshi.182	1443.16	1443.58	C	ID	ass	-1	0	Yeah .
+TS3010c.C.dialog-act.dharshi.183	1443.58	1446.74	C	ID	sug	-1	0	On the left a scroll button , and on the right a scroll button .
+TS3010c.C.dialog-act.dharshi.184	1453.81	1455.7	C	ID	el.ass	-1	0	But would it be easy to use then ?
+TS3010c.C.dialog-act.dharshi.186	1455.7	1459.564	C	ID	fra	-1	0	If it's like {disfmarker} {vocalsound} you have a big uh {disfmarker}
+TS3010c.A.dialog-act.dharshi.153	1491.92	1492.392	A	PM	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.185	1492.688	1494.37	C	ID	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.154	1493.78	1494.36	A	PM	ass	-1	0	Very good .
+TS3010c.A.dialog-act.dharshi.155	1497.51	1498.24	A	PM	el.ass	-1	0	Is it better ?
+TS3010c.A.dialog-act.dharshi.156	1500.28	1504.17	A	PM	inf	+1	1	When you uh {gap} the menu , you have to go there there there there .
+TS3010c.C.dialog-act.dharshi.187	1506.93	1510.33	C	ID	ass	+1	1	I also think this concept is not what the young people were looking for .
+TS3010c.D.dialog-act.dharshi.91	1507.55	1507.84	D	ME	bck	-1	0	Yeah .
+TS3010c.C.dialog-act.dharshi.188	1510.33	1512.3	C	ID	inf	-1	0	They were like round curves ,
+TS3010c.C.dialog-act.dharshi.189	1512.3	1515.016	C	ID	fra	-1	0	uh different uh {disfmarker}
+TS3010c.A.dialog-act.dharshi.157	1514.48	1516.93	A	PM	ass	-1	0	Yeah , okay . That's that's the outside .
+TS3010c.A.dialog-act.dharshi.158	1516.93	1518.02	A	PM	stl	-1	0	But now the {disfmarker}
+TS3010c.C.dialog-act.dharshi.190	1516.46	1517.6	C	ID	ass	-1	0	Okay , okay , okay .
+TS3010c.A.dialog-act.dharshi.159	1518.02	1518.84	A	PM	sug	-1	0	First the buttons .
+TS3010c.C.dialog-act.dharshi.191	1519.03	1519.34	C	ID	ass	-1	0	Mm-hmm .
+TS3010c.D.dialog-act.dharshi.92	1525.51	1528.8	D	ME	inf	-1	0	Think we have we have now two buttons missing .
+TS3010c.D.dialog-act.dharshi.93	1528.8	1529.904	D	ME	stl	-1	0	The uh um {disfmarker}
+TS3010c.D.dialog-act.dharshi.94	1531.43	1532.19	D	ME	inf	-1	0	The mute button .
+TS3010c.A.dialog-act.dharshi.160	1533.59	1533.88	A	PM	und	-1	0	Sorry ?
+TS3010c.D.dialog-act.dharshi.95	1534.21	1535.15	D	ME	inf	+1	1	We have two buttons missing .
+TS3010c.D.dialog-act.dharshi.96	1535.15	1535.98	D	ME	inf	+1	1	The mute button .
+TS3010c.D.dialog-act.dharshi.97	1535.98	1540.2	D	ME	inf	-1	0	And um , the {disfmarker} to to uh {disfmarker} have to uh {disfmarker} numbers
+TS3010c.A.dialog-act.dharshi.161	1542.22	1543.65	A	PM	ass	+1	1	Mute . And the other .
+TS3010c.B.dialog-act.dharshi.106	1545.008	1547.009	B	UI	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.192	1544.512	1546.515	C	ID	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.98	1545.162	1549.02	D	ME	ass	-1	0	{vocalsound} Okay .
+TS3010c.A.dialog-act.dharshi.162	1546.464	1548.6	A	PM	ass	-1	0	{vocalsound} Yeah . Not so difficult .
+TS3010c.D.dialog-act.dharshi.99	1549.02	1549.744	D	ME	fra	-1	0	{vocalsound} But , uh {disfmarker}
+TS3010c.C.dialog-act.dharshi.193	1552.16	1556.29	C	ID	ass	+1	2	Personally , I think two scroll buttons uh aren't easy to handle .
+TS3010c.A.dialog-act.dharshi.163	1558.38	1559.91	A	PM	el.sug	+1	1	But how do you wanna solve it ?
+TS3010c.C.dialog-act.dharshi.194	1560.7	1561.59	C	ID	sug	+1	1	With the switch button .
+TS3010c.A.dialog-act.dharshi.164	1563.84	1565.58	A	PM	ass	+1	1	Yeah but on the menu that's not uh easy .
+TS3010c.C.dialog-act.dharshi.195	1566.72	1566.93	C	ID	ass	-1	0	No
+TS3010c.A.dialog-act.dharshi.165	1566.72	1570.27	A	PM	inf	-1	0	Then you go down , you switch , you go into the right , you switch , you go down .
+TS3010c.C.dialog-act.dharshi.196	1566.93	1567.555	C	ID	fra	-1	0	like uh {disfmarker}
+TS3010c.C.dialog-act.dharshi.197	1571.02	1572.58	C	ID	und	-1	0	Oh , you mean like that .
+TS3010c.A.dialog-act.dharshi.166	1572.37	1572.6	A	PM	ass	-1	0	Yeah .
+TS3010c.C.dialog-act.dharshi.198	1572.58	1575.52	C	ID	sug	+1	2	Uh , then you can also have like uh th um {disfmarker}
+TS3010c.A.dialog-act.dharshi.167	1576.15	1576.81	A	PM	sug	-1	0	A joystick .
+TS3010c.C.dialog-act.dharshi.199	1577.07	1578.35	C	ID	ass	+1	2	Yeah , and joystick , I think .
+TS3010c.A.dialog-act.dharshi.168	1579.42	1580.32	A	PM	ass	-1	0	Yeah .
+TS3010c.A.dialog-act.dharshi.169	1580.32	1581.296	A	PM	stl	-1	0	But is it uh {disfmarker}
+TS3010c.A.dialog-act.dharshi.170	1582.71	1585.39	A	PM	el.inf	+1	2	Does that break , a joystick ?
+TS3010c.A.dialog-act.dharshi.171	1585.39	1587.04	A	PM	sug	+1	2	Or a small one just like in a laptop .
+TS3010c.C.dialog-act.dharshi.200	1587.66	1590.06	C	ID	ass	-1	0	Yeah like in a laptop , s uh s some sort of thing .
+TS3010c.C.dialog-act.dharshi.201	1590.06	1591.83	C	ID	sug	-1	0	A little bit bigger ,
+TS3010c.C.dialog-act.dharshi.202	1591.83	1593.32	C	ID	fra	-1	0	with easier thi
+TS3010c.A.dialog-act.dharshi.172	1592.58	1593.59	A	PM	ass	-1	0	Mean , it's better .
+TS3010c.A.dialog-act.dharshi.173	1593.59	1597.344	A	PM	el.inf	+1	2	But how expensive it is ? {vocalsound}
+TS3010c.C.dialog-act.dharshi.203	1597.9	1599.04	C	ID	inf	-1	0	I don't know .
+TS3010c.A.dialog-act.dharshi.174	1599.126	1603.664	A	PM	be.pos	-1	0	{vocalsound} Oh . Why do I pay you for ? {vocalsound}
+TS3010c.D.dialog-act.dharshi.100	1599.088	1601.583	D	ME	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.204	1602.064	1604.128	C	ID	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.175	1604.9	1609.568	A	PM	stl	-1	0	Um , well {vocalsound} um {disfmarker}
+TS3010c.A.dialog-act.dharshi.176	1612.248	1615.785	A	PM	el.sug	-1	0	{vocalsound} Better ideas . {vocalsound}
+TS3010c.D.dialog-act.dharshi.101	1619.23	1619.56	D	ME	bck	-1	0	Okay .
+TS3010c.C.dialog-act.dharshi.205	1620.1	1622.15	C	ID	sug	-1	0	Or no scroll uh things .
+TS3010c.C.dialog-act.dharshi.206	1622.15	1624.9	C	ID	sug	-1	0	Just a shape .
+TS3010c.C.dialog-act.dharshi.207	1624.9	1626.72	C	ID	stl	-1	0	And {disfmarker}
+TS3010c.C.dialog-act.dharshi.208	1626.72	1628.08	C	ID	ass	-1	0	{gap} No , no . It won't work .
+TS3010c.A.dialog-act.dharshi.177	1627.4	1630.25	A	PM	ass	+1	2	For the young peoples I think scroll button's good .
+TS3010c.C.dialog-act.dharshi.209	1629.41	1630.82	C	ID	ass	-1	0	Yeah . Uh-huh .
+TS3010c.A.dialog-act.dharshi.178	1634.91	1635.425	A	PM	stl	-1	0	So {disfmarker}
+TS3010c.A.dialog-act.dharshi.179	1636.44	1637.6	A	PM	sug	-1	0	Think we have to keep them .
+TS3010c.C.dialog-act.dharshi.210	1641.89	1643.91	C	ID	sug	-1	0	Or a remote control more like joystick .
+TS3010c.A.dialog-act.dharshi.180	1645.49	1646.31	A	PM	fra	-1	0	Yeah , but is it {disfmarker}
+TS3010c.A.dialog-act.dharshi.181	1646.31	1649.19	A	PM	ass	+1	2	That's not expensive than uh {disfmarker} Joystick is better .
+TS3010c.A.dialog-act.dharshi.182	1650.39	1650.97	A	PM	sug	-1	0	A small one .
+TS3010c.C.dialog-act.dharshi.211	1651.53	1654.1	C	ID	ass	-1	0	A small one like this , like a Nintendo uh k
+TS3010c.A.dialog-act.dharshi.184	1654.58	1654.83	A	PM	ass	-1	0	No
+TS3010c.A.dialog-act.dharshi.185	1654.83	1655.9	A	PM	sug	-1	0	just like in a
+TS3010c.C.dialog-act.dharshi.214	1656.18	1657.08	C	ID	sug	-1	0	Playstation thing .
+TS3010c.A.dialog-act.dharshi.186	1657.32	1658.66	A	PM	sug	-1	0	a laptop .
+TS3010c.A.dialog-act.dharshi.187	1658.66	1659.64	A	PM	sug	-1	0	Small , round .
+TS3010c.D.dialog-act.dharshi.102	1661.312	1662.022	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.188	1662.12	1665.25	A	PM	inf	-1	0	Then it's not so big .
+TS3010c.C.dialog-act.dharshi.215	1665.78	1666.27	C	ID	ass	-1	0	No , no , no .
+TS3010c.C.dialog-act.dharshi.216	1666.27	1669.91	C	ID	inf	+1	1	I mean the the shape of the remote control .
+TS3010c.A.dialog-act.dharshi.189	1668.53	1670.09	A	PM	fra	-1	0	Oh the sh
+TS3010c.A.dialog-act.dharshi.190	1670.09	1670.31	A	PM	ass	-1	0	Yeah ,
+TS3010c.A.dialog-act.dharshi.191	1670.31	1672.18	A	PM	ass	-1	0	but then you can {disfmarker}
+TS3010c.C.dialog-act.dharshi.217	1669.91	1671.15	C	ID	inf	+1	1	Just like a Playstation thing .
+TS3010c.C.dialog-act.dharshi.218	1674.45	1674.73	C	ID	ass	-1	0	Yeah .
+TS3010c.A.dialog-act.dharshi.192	1678.79	1679.22	A	PM	stl	-1	0	So {disfmarker}
+TS3010c.A.dialog-act.dharshi.193	1680.87	1687.01	A	PM	ass	+1	2	Maybe , if it's possible , {vocalsound} it's not too expensive , I think a joystick is better .
+TS3010c.D.dialog-act.dharshi.103	1680.745	1681.408	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.194	1687.01	1687.57	A	PM	ass	-1	0	A small one .
+TS3010c.A.dialog-act.dharshi.195	1688.72	1692.7	A	PM	sug	-1	0	So , please look at it .
+TS3010c.C.dialog-act.dharshi.219	1690.781	1691.266	C	ID	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.220	1692.73	1693.48	C	ID	ass	-1	0	No , that's okay ,
+TS3010c.C.dialog-act.dharshi.221	1693.48	1693.878	C	ID	fra	-1	0	I got {disfmarker}
+TS3010c.D.dialog-act.dharshi.104	1712.27	1715.86	D	ME	el.inf	+1	1	And on the L_C_D_ , how much it costs ?
+TS3010c.D.dialog-act.dharshi.105	1715.86	1717.25	D	ME	el.inf	-1	0	Uh , it costs extra ?
+TS3010c.C.dialog-act.dharshi.222	1719.5	1720.78	C	ID	stl	-1	0	Uh {disfmarker} {vocalsound}
+TS3010c.C.dialog-act.dharshi.223	1720.78	1725.08	C	ID	inf	+1	1	they're not uh in details .
+TS3010c.A.dialog-act.dharshi.196	1724.398	1724.697	A	PM	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.224	1725.08	1730.246	C	ID	inf	+1	1	It's more expensive or less expensive , huh ? {vocalsound}
+TS3010c.A.dialog-act.dharshi.197	1727.11	1728.65	A	PM	ass	-1	0	Yeah we {disfmarker} I think you get it .
+TS3010c.A.dialog-act.dharshi.198	1734.7	1739.91	A	PM	sug	+1	1	So , after this meeting you have half an hour to uh fix it .
+TS3010c.B.dialog-act.dharshi.107	1740.56	1741.754	B	UI	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.225	1740.336	1743.6	C	ID	off	-1	0	{vocalsound} {gap} Then I have to come with it .
+TS3010c.D.dialog-act.dharshi.106	1741.083	1742.464	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.199	1744.51	1744.85	A	PM	ass	-1	0	Yes .
+TS3010c.C.dialog-act.dharshi.226	1744.79	1745.89	C	ID	inf	-1	0	I got my personal costs .
+TS3010c.C.dialog-act.dharshi.227	1745.89	1747.61	C	ID	inf	-1	0	I I don't I don't know the costs .
+TS3010c.A.dialog-act.dharshi.200	1749.0	1752.0	A	PM	be.pos	-1	0	Your problem . Not mine .
+TS3010c.C.dialog-act.dharshi.228	1749.76	1752.051	C	ID	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.107	1750.663	1751.11	D	ME	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.229	1755.63	1757.14	C	ID	be.pos	-1	0	Then I'll uh make something up .
+TS3010c.A.dialog-act.dharshi.201	1757.79	1759.06	A	PM	stl	-1	0	Okay .
+TS3010c.A.dialog-act.dharshi.202	1759.06	1761.86	A	PM	el.sug	-1	0	So , do we have other concepts ?
+TS3010c.A.dialog-act.dharshi.203	1765.4	1769.95	A	PM	sug	+1	2	Then for the components , we use a normal battery .
+TS3010c.A.dialog-act.dharshi.204	1772.72	1775.29	A	PM	inf	+1	2	Then it's {disfmarker} Ch cheapest way , I think .
+TS3010c.B.dialog-act.dharshi.108	1772.71	1774.34	B	UI	ass	-1	0	Mm , yeah .
+TS3010c.C.dialog-act.dharshi.230	1774.64	1777.5	C	ID	sug	-1	0	Yeah , or the or the kinetic uh with normal battery .
+TS3010c.A.dialog-act.dharshi.205	1777.08	1777.96	A	PM	ass	-1	0	No , no kinetic .
+TS3010c.A.dialog-act.dharshi.206	1777.96	1780.76	A	PM	inf	+1	1	Kinetic is uh ch makes it more expensive .
+TS3010c.C.dialog-act.dharshi.231	1777.5	1779.76	C	ID	fra	-1	0	Yeah , I think it's uh , yeah ,
+TS3010c.C.dialog-act.dharshi.232	1779.76	1780.65	C	ID	ass	-1	0	more expensive . Yeah .
+TS3010c.A.dialog-act.dharshi.207	1780.76	1782.44	A	PM	sug	-1	0	So we use a normal battery .
+TS3010c.B.dialog-act.dharshi.109	1780.767	1781.438	B	UI	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.108	1780.82	1780.99	D	ME	bck	-1	0	Yeah .
+TS3010c.B.dialog-act.dharshi.110	1783.03	1783.49	B	UI	ass	-1	0	Yeah .
+TS3010c.C.dialog-act.dharshi.233	1783.19	1783.51	C	ID	ass	-1	0	Okay .
+TS3010c.D.dialog-act.dharshi.109	1783.24	1783.56	D	ME	ass	-1	0	Yes .
+TS3010c.A.dialog-act.dharshi.208	1795.09	1797.67	A	PM	inf	+1	1	Chip . Depends on the L_C_D_ .
+TS3010c.C.dialog-act.dharshi.234	1797.92	1799.21	C	ID	inf	-1	0	Depends on the scroll .
+TS3010c.A.dialog-act.dharshi.209	1800.29	1801.01	A	PM	ass	-1	0	Scroll .
+TS3010c.C.dialog-act.dharshi.235	1800.88	1804.6	C	ID	inf	+1	1	If we use a scroll , then we have the uh regular chip .
+TS3010c.C.dialog-act.dharshi.236	1804.6	1807.81	C	ID	inf	+1	1	If we don't use a scroll , then we can use the simple chip .
+TS3010c.A.dialog-act.dharshi.210	1807.91	1808.53	A	PM	ass	-1	0	Yeah .
+TS3010c.C.dialog-act.dharshi.237	1807.81	1808.756	C	ID	fra	-1	0	And that's {disfmarker}
+TS3010c.A.dialog-act.dharshi.211	1808.53	1810.81	A	PM	el.inf	+1	1	And uh , we {disfmarker} If you use the L_C_D_ , we have to
+TS3010c.C.dialog-act.dharshi.238	1810.82	1812.79	C	ID	inf	+1	1	Uh the most expensive .
+TS3010c.A.dialog-act.dharshi.212	1812.5	1813.76	A	PM	ass	-1	0	Yes , okay .
+TS3010c.C.dialog-act.dharshi.239	1812.79	1813.02	C	ID	ass	-1	0	Yeah .
+TS3010c.A.dialog-act.dharshi.213	1813.76	1817.2	A	PM	inf	-1	0	So , depends on the L_C_D_ and the scroll .
+TS3010c.C.dialog-act.dharshi.240	1815.67	1816.57	C	ID	fra	-1	0	If we {disfmarker}
+TS3010c.C.dialog-act.dharshi.241	1816.57	1817.26	C	ID	ass	-1	0	Yeah .
+TS3010c.A.dialog-act.dharshi.214	1817.2	1817.74	A	PM	ass	-1	0	Okay .
+TS3010c.C.dialog-act.dharshi.242	1817.26	1817.88	C	ID	fra	-1	0	If we {disfmarker}
+TS3010c.C.dialog-act.dharshi.243	1817.88	1818.83	C	ID	oth	-1	0	No okay scroll-wheel .
+TS3010c.C.dialog-act.dharshi.244	1818.83	1819.79	C	ID	inf	-1	0	So , I have this .
+TS3010c.C.dialog-act.dharshi.245	1819.79	1825.62	C	ID	inf	-1	0	So , it will be uh the advanced chip , or the uh regu uh or the regular chip .
+TS3010c.A.dialog-act.dharshi.215	1826.84	1828.39	A	PM	ass	-1	0	Okay .
+TS3010c.A.dialog-act.dharshi.216	1828.39	1837.52	A	PM	inf	+1	1	So , uh the shapes of the design depends on the L_C_D_
+TS3010c.A.dialog-act.dharshi.217	1837.52	1838.54	A	PM	fra	-1	0	and {disfmarker}
+TS3010c.A.dialog-act.dharshi.218	1838.54	1840.98	A	PM	sug	-1	0	But , it has to be small .
+TS3010c.A.dialog-act.dharshi.219	1843.25	1843.7	A	PM	ass	-1	0	I think .
+TS3010c.C.dialog-act.dharshi.246	1844.17	1847.23	C	ID	sug	+1	1	Or shall we just put it on the pistol thing ?
+TS3010c.C.dialog-act.dharshi.247	1847.23	1849.25	C	ID	sug	-1	0	And then just put also on L_C_D_ on it ?
+TS3010c.A.dialog-act.dharshi.221	1849.93	1852.85	A	PM	ass	+1	1	If you have pistol , it {disfmarker} L_C_D_'s not easy .
+TS3010c.A.dialog-act.dharshi.220	1854.86	1858.08	A	PM	fra	-1	0	Y y {vocalsound} Yeah but {disfmarker}
+TS3010c.C.dialog-act.dharshi.248	1855.38	1856.21	C	ID	inf	-1	0	Just use your thumb .
+TS3010c.A.dialog-act.dharshi.222	1859.77	1860.96	A	PM	ass	-1	0	If you use a phone .
+TS3010c.C.dialog-act.dharshi.249	1860.51	1861.17	C	ID	fra	-1	0	If you {disfmarker}
+TS3010c.C.dialog-act.dharshi.250	1861.17	1862.88	C	ID	ass	-1	0	Yeah . I use my thumb .
+TS3010c.A.dialog-act.dharshi.223	1861.995	1865.21	A	PM	stl	-1	0	{gap} k Yeah , but but then you have it .
+TS3010c.A.dialog-act.dharshi.224	1865.21	1868.03	A	PM	inf	-1	0	Like , th if you have pistol , you have it so .
+TS3010c.A.dialog-act.dharshi.225	1868.03	1869.024	A	PM	stl	-1	0	And the screen is {disfmarker}
+TS3010c.C.dialog-act.dharshi.251	1867.94	1868.21	C	ID	bck	-1	0	Yeah .
+TS3010c.A.dialog-act.dharshi.226	1869.82	1873.65	A	PM	inf	-1	0	Well , then you have to keep it this way to look at the screen .
+TS3010c.C.dialog-act.dharshi.252	1869.89	1871.264	C	ID	fra	-1	0	If you have a joystick on {disfmarker}
+TS3010c.C.dialog-act.dharshi.253	1873.86	1873.98	C	ID	ass	-1	0	No ,
+TS3010c.C.dialog-act.dharshi.254	1873.98	1879.91	C	ID	inf	+1	1	if you have like uh an uh uh a ni a uh Playstation uh game controller .
+TS3010c.D.dialog-act.dharshi.110	1876.363	1876.997	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.227	1879.28	1879.58	A	PM	bck	-1	0	Yeah .
+TS3010c.C.dialog-act.dharshi.256	1879.91	1881.91	C	ID	inf	-1	0	And you move up , f forward , down , left .
+TS3010c.C.dialog-act.dharshi.257	1881.91	1885.41	C	ID	inf	-1	0	Then you have uh just , yeah , a little bit curved .
+TS3010c.C.dialog-act.dharshi.258	1885.41	1888.11	C	ID	inf	-1	0	It's not just uh {vocalsound} straight .
+TS3010c.A.dialog-act.dharshi.228	1887.53	1888.61	A	PM	ass	-1	0	No . No , no .
+TS3010c.D.dialog-act.dharshi.111	1887.655	1888.475	D	ME	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.255	1888.933	1889.306	C	ID	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.259	1890.03	1891.23	C	ID	inf	-1	0	That's how we use it .
+TS3010c.C.dialog-act.dharshi.260	1891.23	1893.7	C	ID	inf	-1	0	That's why they make joysticks like that , I think .
+TS3010c.D.dialog-act.dharshi.112	1890.9	1891.297	D	ME	fra	-1	0	Uh {disfmarker}
+TS3010c.A.dialog-act.dharshi.229	1895.33	1897.01	A	PM	inf	-1	0	Yeah , but then you look forward .
+TS3010c.D.dialog-act.dharshi.113	1895.63	1896.547	D	ME	fra	-1	0	Uh , yeah , but {disfmarker}
+TS3010c.A.dialog-act.dharshi.230	1897.01	1897.79	A	PM	inf	-1	0	And then you can y
+TS3010c.D.dialog-act.dharshi.114	1897.57	1897.69	D	ME	bck	-1	0	Yeah .
+TS3010c.C.dialog-act.dharshi.261	1899.46	1899.7	C	ID	el.inf	-1	0	Yeah ?
+TS3010c.A.dialog-act.dharshi.231	1900.78	1903.42	A	PM	inf	-1	0	N well , if you have to look at it .
+TS3010c.D.dialog-act.dharshi.115	1901.93	1902.286	D	ME	fra	-1	0	If you {disfmarker}
+TS3010c.C.dialog-act.dharshi.262	1905.11	1906.19	C	ID	inf	-1	0	'Kay . Here's our designer .
+TS3010c.D.dialog-act.dharshi.116	1907.73	1912.45	D	ME	inf	-1	0	If we have uh then something standing here , with the L_C_D_ .
+TS3010c.C.dialog-act.dharshi.263	1914.71	1914.93	C	ID	ass	-1	0	Yeah .
+TS3010c.A.dialog-act.dharshi.232	1916.66	1918.34	A	PM	inf	-1	0	Then it goes like this .
+TS3010c.C.dialog-act.dharshi.264	1922.17	1922.73	C	ID	ass	-1	0	Yeah , why not .
+TS3010c.A.dialog-act.dharshi.233	1922.98	1925.244	A	PM	fra	-1	0	If th n well {disfmarker} {vocalsound}
+TS3010c.C.dialog-act.dharshi.265	1926.39	1928.24	C	ID	inf	-1	0	It's for the younger people .
+TS3010c.A.dialog-act.dharshi.234	1927.69	1930.1	A	PM	ass	-1	0	Yes , of course .
+TS3010c.C.dialog-act.dharshi.266	1928.24	1929.94	C	ID	inf	-1	0	It's something new . {vocalsound}
+TS3010c.A.dialog-act.dharshi.235	1930.1	1930.99	A	PM	ass	-1	0	That's good good .
+TS3010c.B.dialog-act.dharshi.111	1930.05	1931.1	B	UI	fra	-1	0	It's uh {disfmarker}
+TS3010c.A.dialog-act.dharshi.236	1930.99	1932.38	A	PM	stl	-1	0	But the {disfmarker} um ,
+TS3010c.A.dialog-act.dharshi.237	1932.38	1933.52	A	PM	inf	-1	0	it may not break .
+TS3010c.C.dialog-act.dharshi.267	1935.37	1937.8	C	ID	sug	+1	2	Now we put uh rubber around it .
+TS3010c.A.dialog-act.dharshi.238	1938.14	1940.32	A	PM	ass	-1	0	Okay . If that's possible .
+TS3010c.D.dialog-act.dharshi.117	1939.95	1941.1	D	ME	ass	-1	0	Um , Yeah .
+TS3010c.C.dialog-act.dharshi.268	1940.56	1945.19	C	ID	sug	+1	2	Hard plastic , uh the shape , and around it hard uh around it rubber .
+TS3010c.C.dialog-act.dharshi.269	1945.19	1947.65	C	ID	sug	-1	0	And the uh the hand shape is also rubber .
+TS3010c.D.dialog-act.dharshi.118	1948.262	1948.821	D	ME	fra	-1	0	{gap}
+TS3010c.A.dialog-act.dharshi.239	1949.02	1949.43	A	PM	ass	-1	0	Okay .
+TS3010c.B.dialog-act.dharshi.112	1950.12	1953.39	B	UI	sug	-1	0	Or you can uh turn it inside .
+TS3010c.D.dialog-act.dharshi.119	1950.069	1951.27	D	ME	fra	-1	0	{gap} I can't see the {gap} .
+TS3010c.D.dialog-act.dharshi.120	1954.25	1955.86	D	ME	stl	-1	0	But , uh the easy of {disfmarker} {vocalsound}
+TS3010c.B.dialog-act.dharshi.113	1954.97	1955.694	B	UI	fra	-1	0	But that's {disfmarker}
+TS3010c.D.dialog-act.dharshi.121	1955.86	1959.8	D	ME	inf	-1	0	uh , th the ease of use wasn't uh the most important uh aspect of it .
+TS3010c.C.dialog-act.dharshi.270	1961.34	1961.54	C	ID	bck	-1	0	Huh .
+TS3010c.B.dialog-act.dharshi.114	1961.88	1962.75	B	UI	ass	-1	0	No , that's true .
+TS3010c.D.dialog-act.dharshi.123	1963.56	1965.21	D	ME	inf	-1	0	Uh , for us it's about to sell it .
+TS3010c.D.dialog-act.dharshi.124	1965.21	1965.392	D	ME	fra	-1	0	Uh {disfmarker}
+TS3010c.A.dialog-act.dharshi.240	1966.24	1968.19	A	PM	ass	-1	0	{vocalsound} Yeah of course .
+TS3010c.C.dialog-act.dharshi.271	1966.89	1967.76	C	ID	inf	-1	0	This is something new .
+TS3010c.D.dialog-act.dharshi.125	1966.923	1968.128	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.241	1968.19	1968.59	A	PM	ass	-1	0	Okay .
+TS3010c.A.dialog-act.dharshi.242	1970.76	1973.57	A	PM	inf	+1	1	Then this is the design .
+TS3010c.A.dialog-act.dharshi.243	1973.57	1976.01	A	PM	inf	+1	1	And the buttons are on the next page .
+TS3010c.A.dialog-act.dharshi.244	1976.01	1978.68	A	PM	inf	+1	2	So , depends on the cost .
+TS3010c.A.dialog-act.dharshi.246	1978.68	1981.52	A	PM	stl	-1	0	So ,
+TS3010c.C.dialog-act.dharshi.272	1979.78	1983.264	C	ID	ass	-1	0	Costs are okay . {vocalsound}
+TS3010c.A.dialog-act.dharshi.245	1981.52	1984.25	A	PM	inf	-1	0	{vocalsound} um we have one minute .
+TS3010c.B.dialog-act.dharshi.115	1981.697	1983.067	B	UI	fra	-1	0	{vocalsound} {gap} .
+TS3010c.D.dialog-act.dharshi.126	1982.096	1983.095	D	ME	fra	-1	0	{vocalsound}
+TS3010c.D.dialog-act.dharshi.127	1985.33	1985.55	D	ME	el.inf	-1	0	One .
+TS3010c.A.dialog-act.dharshi.247	1986.32	1986.85	A	PM	inf	-1	0	I think .
+TS3010c.A.dialog-act.dharshi.248	1986.85	1987.81	A	PM	el.inf	-1	0	No .
+TS3010c.D.dialog-act.dharshi.129	1986.53	1986.9	D	ME	ass	-1	0	No .
+TS3010c.D.dialog-act.dharshi.130	1986.9	1988.22	D	ME	inf	-1	0	You have more .
+TS3010c.A.dialog-act.dharshi.249	1987.81	1988.71	A	PM	el.inf	-1	0	More . Seven .
+TS3010c.D.dialog-act.dharshi.131	1988.22	1989.03	D	ME	inf	-1	0	You have still ten .
+TS3010c.A.dialog-act.dharshi.250	1991.31	1993.84	A	PM	inf	+1	0	Next meeting . Thirty minutes .
+TS3010c.A.dialog-act.dharshi.251	1993.84	1995.22	A	PM	sug	-1	0	So hurry up .
+TS3010c.C.dialog-act.dharshi.273	1997.46	1998.74	C	ID	inf	-1	0	Oh , that's us together .
+TS3010c.A.dialog-act.dharshi.252	1998.88	2001.92	A	PM	sug	+1	1	You two stay here . {vocalsound}
+TS3010c.D.dialog-act.dharshi.132	2000.512	2001.664	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.253	2001.92	2002.48	A	PM	sug	-1	0	Paint it .
+TS3010c.B.dialog-act.dharshi.116	2003.05	2003.44	B	UI	ass	-1	0	Okay .
+TS3010c.A.dialog-act.dharshi.254	2003.8	2004.42	A	PM	inf	-1	0	Now you have to .
+TS3010c.B.dialog-act.dharshi.117	2005.04	2006.944	B	UI	fra	-1	0	{vocalsound}
+TS3010c.C.dialog-act.dharshi.274	2004.8	2007.568	C	ID	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.255	2005.59	2006.247	A	PM	stl	-1	0	So {disfmarker}
+TS3010c.D.dialog-act.dharshi.133	2005.376	2008.736	D	ME	fra	-1	0	{vocalsound}
+TS3010c.A.dialog-act.dharshi.256	2008.68	2010.63	A	PM	ass	-1	0	I think it's clear .
+TS3010c.A.dialog-act.dharshi.257	2010.63	2012.53	A	PM	sug	+1	0	Check your mail .
+TS3010c.A.dialog-act.dharshi.258	2012.53	2013.144	A	PM	stl	-1	0	So {disfmarker}
+TS3010c.D.dialog-act.dharshi.134	2013.81	2014.04	D	ME	ass	-1	0	Yeah .
+TS3010c.C.dialog-act.dharshi.275	2014.41	2014.82	C	ID	ass	-1	0	Yes .
+TS3010c.A.dialog-act.dharshi.259	2014.93	2019.81	A	PM	inf	+1	1	It has to be ready in the next meeting .
+TS3010c.A.dialog-act.dharshi.260	2019.81	2021.536	A	PM	stl	-1	0	So {disfmarker} {vocalsound}
+TS3010c.B.dialog-act.dharshi.118	2020.32	2020.73	B	UI	oth	-1	0	Cookie .
+TS3010c.D.dialog-act.dharshi.135	2019.87	2020.02	D	ME	und	-1	0	What ?
+TS3010c.D.dialog-act.dharshi.136	2021.5	2021.86	D	ME	ass	-1	0	Okay .
+TS3010c.A.dialog-act.dharshi.261	2024.87	2029.4	A	PM	inf	+1	0	Next meeting is called the detailed design .
+TS3010c.A.dialog-act.dharshi.264	2029.4	2029.984	A	PM	stl	-1	0	So {disfmarker}
+TS3010c.A.dialog-act.dharshi.262	2031.59	2033.27	A	PM	inf	-1	0	Everyth everything has to be ready .
+TS3010c.A.dialog-act.dharshi.263	2036.86	2039.528	A	PM	be.pos	-1	0	Thanks for your attention . {vocalsound} {vocalsound}
+TS3010c.D.dialog-act.dharshi.138	2036.39	2036.69	D	ME	ass	-1	0	Okay .
+TS3010c.C.dialog-act.dharshi.277	2038.37	2038.7	C	ID	ass	-1	0	'Kay .
+TS3010c.D.dialog-act.dharshi.137	2048.97	2050.41	D	ME	be.pos	-1	0	See you at the next meeting .
+TS3010c.C.dialog-act.dharshi.276	2050.79	2051.51	C	ID	be.pos	-1	0	Bye bye .

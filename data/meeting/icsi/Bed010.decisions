@@ -1,0 +1,31 @@
+2	Bed010.s.15	The final english SmartKom demo will be presented to the whole institute once the system is de-bugged and stabilised.
+Bed010.C.dialogueact229	653.28	657.2	C	Professor	qy^d^rt	+1	1	So , c sh we could set that up as actually an institute wide thing ?
+Bed010.E.dialogueact237	675.82	682.5	E	Grad	s^aap.%--	+1	2	Well d we {disfmarker} we do wanna have all the bugs out b where you have to sort of pipe in extra XML messages from left and right before you 're {disfmarker}
+6	Bed010.s.16	After the demo , the focus of research can switch towards purely scientific goals , including issues on ontology , deep semantic constructions , execution engines etc.
+Bed010.C.dialogueact198	607.65	611.01	C	Professor	s^cc	+1	1	So I 'd like to , for the summer turn into science mode .
+Bed010.C.dialogueact256	714.182	721.67	C	Professor	s	+1	2	But , more focused on uh an idealized version than just getting the demo out .
+Bed010.C.dialogueact249	705.63	707.79	C	Professor	fh|s	+1	1	Uh . I mean there are a lot of issues ,
+Bed010.C.dialogueact250	707.79	709.39	C	Professor	s:qw	+1	1	what 's the ontology look like ,
+Bed010.C.dialogueact252	709.39	710.79	C	Professor	s:qw	+1	1	you know what do the constructions look like ,
+Bed010.C.dialogueact253	710.79	712.31	C	Professor	s:qw	+1	1	what 's the execution engine look like ,
+2	Bed010.s.17	Moreover , a new system will be designed for the project and at least some parts of it should be built.
+Bed010.C.dialogueact824	2344.98	2349.09	C	Professor	s:s	+1	2	So " OK , we 're not using their system . That means we need our system . "
+Bed010.C.dialogueact829	2350.9	2362.23	C	Professor	fh|s^cc	+1	1	And so , uh , in addition to the business about just getting the linguistics right , and the formalism and stuff , we 're actually gonna build something
+2	Bed010.s.18	Similarly , the construction analyser should be a single , general tool working for both the tourist domain and child language modelling.
+Bed010.C.dialogueact841	2436.18	2444.37	C	Professor	s^df	+1	1	cuz we 're {disfmarker} we 're not only going {disfmarker} The plan is not only to lay out this thing , but to actually uh build some of it .
+Bed010.C.dialogueact845	2487.8	2503.69	C	Professor	s	+1	1	It looks like we 're now in a position that the construction analyzer that we want for this applied project can be the same as the construction analyzer that Nancy needs for the child language modeling .
+2	Bed010.s.19	The focus for the next meeting will be on the belief-net , of which a working demo should be complete in the next few weeks.
+Bed010.C.dialogueact310	1030.59	1043.25	C	Professor	s^co	+1	1	And one of the things we need to do is the um , and this I think is relatively tight {disfmarker} tightly constrained , is to finish up this belief - net stuff .
+Bed010.C.dialogueact981	2803.48	2827.99	C	Professor	fh|s^t	+1	2	so , I think as far as this group goes , um , it 's certainly worth continuing for the next few weeks to get closure on the uh belief - net and the ideas that are involved in that , and what are th what are the concepts .
+2	Bed010.s.20	Since there are not enough data , its connections and weights will have to be designed.
+Bed010.C.dialogueact448	1399.34	1406.13	C	Professor	fh|s^co	+1	2	So uh what we 're gonna do initially is {disfmarker} is do design , and , i if you will , guess .
+Bed010.C.dialogueact459	1432.36	1439.32	C	Professor	s^cs	+1	2	but for the limited amount of stuff we have for this particular exercise I think we 'll just design it .
+0	Bed010.s.21	Although JavaBayes has been the tool of choice until now , the possibility that Hugin could be a better option should be investigated.
+4	Bed010.s.22	In order to promote the collaboration with EML , the group-ware server there will be updated with all progress being made in the two sites.
+Bed010.E.dialogueact294	839.726	846.322	E	Grad	fh|s	+1	1	And um , part of my responsibility is uh to use our internal " group - ware " server at EML ,
+Bed010.E.dialogueact296	848.792	855.482	E	Grad	s	+1	1	so that whatever we discuss in terms of parsing and {disfmarker} and generating and constructions w we {disfmarker} we sort of uh put it in there
+Bed010.E.dialogueact297	855.482	856.982	E	Grad	s	+1	1	and they put what they do in there
+Bed010.E.dialogueact298	857.494	863.691	E	Grad	s.x	+1	1	and maybe we can even um , get some overlap , get some synergy out of that .
+2	Bed010.s.23	A talk on some of the issues will also be organised to take place at DFKI.
+Bed010.C.dialogueact1029	2966.2	2975.23	C	Professor	s^cs.%--	+1	1	and so anyway we c uh {disfmarker} We can m undoubtedly get Ami uh to give a talk at uh EML or something like that . While he 's in {disfmarker} in uh {disfmarker}
+Bed010.C.dialogueact1033	2980.14	2983.73	C	Professor	s.%--	+1	1	A lot of interest . Actually , either place , DFKI or uh {disfmarker}

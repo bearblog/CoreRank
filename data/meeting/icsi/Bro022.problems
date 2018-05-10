@@ -1,0 +1,39 @@
+15	Bro022.s.6	A couple of issues have arisen that need to be looked into further such as DC-offset and effects of PZM signals.
+Bro022.E.dialogueact275	686.583	695.893	E	Grad	s	+1	1	O o one thing , um , I noticed is that , um , the mean subtraction seems to make the PZM signals louder after they 've been re - synthesized .
+Bro022.E.dialogueact276	696.473	703.163	E	Grad	qy^rt	+1	1	So I was wondering , is it possible that one reason it helped with the Aurora baseline system is {pause} just as a kind of gain control ?
+Bro022.E.dialogueact277	703.523	706.903	E	Grad	s^df	+1	1	Cuz some of the PZM signals sound pretty quiet if you don't amplify them .
+Bro022.C.dialogueact279	710.411	714.251	C	PhD	s^no	+1	1	I don't see why {disfmarker} why your signal is louder after processing ,
+Bro022.B.dialogueact283	717.992	720.912	B	Professor	s	+1	1	I don't think just multiplying the signal by two would have any effect .
+Bro022.B.dialogueact288	723.09	729.34	B	Professor	s	+1	1	I mean , I think if you really have louder signals , what you mean is that you have {pause} better signal - to - noise ratio .
+Bro022.C.dialogueact425	1011.49	1019.55	C	PhD	s	+1	1	I think , maybe {disfmarker} I didn't look , but one thing that makes a difference is this DC offset compensation .
+Bro022.C.dialogueact426	1019.71	1025.67	C	PhD	qy	+1	1	Uh , eh {disfmarker} Do y did you have a look at {disfmarker} at the meet uh , meeting digits , if they have a DC component ,
+Bro022.G.dialogueact433	1032.78	1034.75	G	PhD	fg|s	+1	1	No . The DC component could be negligible .
+Bro022.G.dialogueact435	1038.32	1043.13	G	PhD	s^df	+1	1	I mean , any {disfmarker} all of the mikes have the DC removal {disfmarker} some capacitor sitting right in {pause} that bias it .
+Bro022.B.dialogueact448	1060.5	1062.63	B	Professor	s^bk|s^na	+1	1	Yeah . The microphone isn't gonna pass any DC .
+Bro022.B.dialogueact454	1065.04	1069.16	B	Professor	s	+1	1	Actually , there are {pause} instrumentation mikes that {disfmarker} that do pass {disfmarker} go down to DC .
+Bro022.B.dialogueact458	1070.79	1071.82	B	Professor	s^ar|s	+1	1	no , it 's the electronics .
+Bro022.B.dialogueact461	1073.71	1075.37	B	Professor	s	+1	1	then there 's amplification afterwards .
+Bro022.B.dialogueact474	1094.86	1096.22	B	Professor	s	+1	1	You can have DC offset in the data .
+9	Bro022.s.7	Speaker Fn002 is worried about running VTS in the cepstral domain , because it requires a lot of work , and it is not clear that it will be much better than running it in the Mel domain.
+Bro022.D.dialogueact1153	2699.99	2708.23	D	PhD	s	+1	2	Well , we s decide to m to {disfmarker} to obtain the new expression if we work in the cepstral domain .
+Bro022.D.dialogueact1157	2712.71	2716.18	D	PhD	s^no	+1	2	but {vocalsound} I 'm not sure if that will be usefu useful .
+Bro022.D.dialogueact1160	2719.28	2721.46	D	PhD	s	+1	2	It 's quite a lot {disfmarker} It 's a lot of work .
+Bro022.D.dialogueact1164	2725.03	2732.01	D	PhD	s.%--	+1	2	And I want to know if {disfmarker} if we have some {pause} feeling that {pause} the result {disfmarker}
+Bro022.D.dialogueact1167	2734.26	2747.4	D	PhD	s^no	+1	2	I don't have any feeling if this will work better than apply VTS aft in cepstral domain will work better than apply in m mel {disfmarker} in filter bank domain .
+Bro022.D.dialogueact1169	2748.92	2751.11	D	PhD	s^no	+1	2	I don't {disfmarker} I don't know absolutely nothing .
+Bro022.B.dialogueact1171	2752.6	2755.19	B	Professor	s^bk|s	+1	2	Yeah . Well , you 're {disfmarker} I think you 're the first one here to work with VTS ,
+Bro022.B.dialogueact1173	2756.38	2758.58	B	Professor	s^cs	+1	2	uh , maybe we could call someone else up who has ,
+Bro022.B.dialogueact1177	2761.58	2763.17	B	Professor	s^no	+1	2	I don't {disfmarker} I don't have a good feeling for it .
+12	Bro022.s.8	Similarly , since at the next stage of the project data will have marked boundaries , it is not clear that voice-activity detection is worth pursuing.
+Bro022.C.dialogueact754	1630.91	1634.67	C	PhD	s^tc.%--	+1	3	Uh , the next thing is this {disfmarker} this VAD problem that ,
+Bro022.C.dialogueact757	1642.22	1646.2	C	PhD	s	+1	2	So , I 'm just talking about the {disfmarker} the curves that I {disfmarker} I sent {disfmarker} {vocalsound} I sent you {disfmarker}
+Bro022.C.dialogueact758	1646.2	1660.08	C	PhD	s^e	+1	2	so , whi that shows that {vocalsound} when the SNR decrease , {vocalsound} uh , the current {pause} VAD approach doesn't drop much frames {pause} for some particular noises ,
+Bro022.C.dialogueact759	1660.96	1666.23	C	PhD	s^e	+1	2	uh , which might be then noises that are closer to speech , uh , acoustically .
+Bro022.B.dialogueact760	1665.1	1666.97	B	Professor	s	+1	1	I i Just to clarify something for me .
+Bro022.B.dialogueact763	1667.59	1672.21	B	Professor	s	+1	1	They were supp Supposedly , in the next evaluation , they 're going to be supplying us with boundaries .
+Bro022.B.dialogueact764	1672.21	1673.36	B	Professor	qy^rt	+1	1	So does any of this matter ?
+Bro022.C.dialogueact769	1678.73	1688.36	C	PhD	s	+1	1	First of all , the boundaries might be , uh {disfmarker} like we would have t two hundred milliseconds or {disfmarker} before and after speech .
+Bro022.C.dialogueact771	1690.52	1695.22	C	PhD	s	+1	1	So removing more than that might still make {pause} a difference {pause} in the results .
+Bro022.B.dialogueact773	1695.68	1698.31	B	Professor	qy^rt	+1	1	Do we {disfmarker} ? I mean , is there some reason that we think that 's the case ?
+Bro022.C.dialogueact774	1700.44	1700.7	C	PhD	s^ar	+1	1	No .
+Bro022.B.dialogueact782	1713.48	1718.29	B	Professor	s	+1	1	But maybe we 'll get some insight on that when {disfmarker} when , uh , the gang gets back from Crete .

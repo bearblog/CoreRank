@@ -1,0 +1,145 @@
+3	TS3004d.dharshi.s.1	The project manager presented the agenda and the minutes from the previous meeting.
+TS3004d.A.dialog-act.dharshi.10	64.6	69.04	A	PM	inf	+1	1	So these are the um last notes we I made .
+TS3004d.A.dialog-act.dharshi.6	43.86	47.13	A	PM	inf	+1	1	F You're going to show your pr prototype presentation after me .
+TS3004d.A.dialog-act.dharshi.11	69.04	73.37	A	PM	sug	+1	1	If anything doesn't look right , just say it to me then .
+9	TS3004d.dharshi.s.2	The group discussed speech recognition  , whether the remote should slide open or fold open , and what type of chip they should use.
+TS3004d.B.dialog-act.dharshi.4	78.53	80.9	B	UI	el.sug	+1	1	Are we doing the the speech recognition ?
+TS3004d.A.dialog-act.dharshi.13	85.96	89.16	A	PM	ass	+1	1	Okay , but it's still possible uh uh financially .
+TS3004d.B.dialog-act.dharshi.6	90.71	92.62	B	UI	sug	+1	1	Okay yeah . Well then then we're gonna put it in .
+TS3004d.C.dialog-act.dharshi.5	97.92	101.7	C	ID	el.sug	+1	1	Or are we making a slide open , like underneath ?
+TS3004d.A.dialog-act.dharshi.16	104.35	107.88	A	PM	ass	+1	1	Slide open is uh quite usable for remote controls .
+TS3004d.B.dialog-act.dharshi.9	111.444	113.83	B	UI	ass	+1	1	{vocalsound} It's may maybe uh a bit stronger as well .
+TS3004d.B.dialog-act.dharshi.13	130.54	132.19	B	UI	inf	+1	1	Yeah , we're gonna use the advanced chip then .
+TS3004d.A.dialog-act.dharshi.29	140.74	143.938	A	PM	inf	+1	1	No , you have a different chip for speech recognition . So {disfmarker}
+TS3004d.A.dialog-act.dharshi.30	145.04	147.43	A	PM	inf	+1	1	So I already calculated that and it's still in the budget .
+22	TS3004d.dharshi.s.3	The designers presented the prototype , which resembles an ipod in appearance , and is made of transparent coloured plastic.
+TS3004d.C.dialog-act.dharshi.18	171.31	177.21	C	ID	inf	+1	1	Yeah , we just made a Word file with the basic elements .
+TS3004d.C.dialog-act.dharshi.21	190.82	194.43	C	ID	inf	+1	1	Simply a square with uh round corners .
+TS3004d.C.dialog-act.dharshi.23	196.89	198.79	C	ID	sug	+1	2	{vocalsound} Uh the material should be hard plastic .
+TS3004d.C.dialog-act.dharshi.24	199.88	203.52	C	ID	sug	+1	3	Uh colour changeable , and also transparent .
+TS3004d.C.dialog-act.dharshi.29	216.61	218.89	C	ID	inf	+1	1	The functions are just basic .
+TS3004d.C.dialog-act.dharshi.31	221.67	225.66	C	ID	inf	+1	1	Mute function , on-off function , text functions .
+TS3004d.C.dialog-act.dharshi.35	232.62	234.12	C	ID	inf	+1	1	And the logo is over here , and the mic .
+TS3004d.A.dialog-act.dharshi.36	246.1	249.01	A	PM	el.inf	+1	2	So how many functions do you need for for uh the microphone ?
+TS3004d.A.dialog-act.dharshi.37	250.91	252.09	A	PM	ass	+1	2	Yeah , speech recognition .
+TS3004d.B.dialog-act.dharshi.21	252.4	261.73	B	UI	inf	+1	2	Um I didn't have a specification of that . But um I can imagine that you have to input your voice or something .
+TS3004d.A.dialog-act.dharshi.39	252.66	254.62	A	PM	el.inf	+1	2	Only one button to say it's on or off .
+TS3004d.B.dialog-act.dharshi.23	265.81	269.94	B	UI	ass	+1	2	Yes , you need options to configure it , and after that you don't need 'em anymore .
+TS3004d.C.dialog-act.dharshi.42	276.24	280.4	C	ID	inf	+1	2	Well we haven't had time to design that , the slide pad .
+TS3004d.B.dialog-act.dharshi.31	289.99	293.32	B	UI	inf	+1	2	I can imagine you need at least four buttons or something . So {disfmarker}
+TS3004d.B.dialog-act.dharshi.38	311.09	319.26	B	UI	inf	+1	2	Um on-off buttons , text buttons , mute buttons are together and at a place they easily are , easy to find .
+TS3004d.B.dialog-act.dharshi.39	320.49	324.7	B	UI	inf	+1	2	Um the on-off button is a bit bigger , uh so it stands out .
+TS3004d.B.dialog-act.dharshi.42	332.92	337.89	B	UI	inf	+1	3	It's {vocalsound} basically the be standard place for scrollwheel , as far as I know .
+TS3004d.B.dialog-act.dharshi.48	359.61	360.96	B	UI	inf	+1	3	It's uh twelve buttons .
+TS3004d.B.dialog-act.dharshi.53	375.99	381.92	B	UI	inf	+1	1	F the form well , we've taken that from the iPod , other popular technical device .
+TS3004d.B.dialog-act.dharshi.59	400.68	407.61	B	UI	inf	+1	1	Um we'll use hard plastic . Since that allows us to use uh two D_ buttons , uh non-rubber buttons .
+TS3004d.B.dialog-act.dharshi.62	415.82	422.12	B	UI	inf	+1	2	We have decided uh {vocalsound} in the the channel buttons , there's a little uh colour around it .
+TS3004d.B.dialog-act.dharshi.63	423.4	427.64	B	UI	inf	+1	2	And also in the num-pads , there's also colour {gap} light behind it .
+1	TS3004d.dharshi.s.4	The colours will be changeable.
+TS3004d.C.dialog-act.dharshi.24	199.88	203.52	C	ID	sug	+1	3	Uh colour changeable , and also transparent .
+4	TS3004d.dharshi.s.5	The remote has both buttons and a scroll wheel.
+TS3004d.B.dialog-act.dharshi.38	311.09	319.26	B	UI	inf	+1	2	Um on-off buttons , text buttons , mute buttons are together and at a place they easily are , easy to find .
+TS3004d.B.dialog-act.dharshi.39	320.49	324.7	B	UI	inf	+1	2	Um the on-off button is a bit bigger , uh so it stands out .
+TS3004d.B.dialog-act.dharshi.42	332.92	337.89	B	UI	inf	+1	3	It's {vocalsound} basically the be standard place for scrollwheel , as far as I know .
+TS3004d.B.dialog-act.dharshi.48	359.61	360.96	B	UI	inf	+1	3	It's uh twelve buttons .
+2	TS3004d.dharshi.s.6	The number buttons have a back-light.
+TS3004d.B.dialog-act.dharshi.62	415.82	422.12	B	UI	inf	+1	2	We have decided uh {vocalsound} in the the channel buttons , there's a little uh colour around it .
+TS3004d.B.dialog-act.dharshi.63	423.4	427.64	B	UI	inf	+1	2	And also in the num-pads , there's also colour {gap} light behind it .
+16	TS3004d.dharshi.s.7	The group discussed adding extra buttons/functions.
+TS3004d.C.dialog-act.dharshi.57	459.71	461.944	C	ID	sug	+1	1	Okay , maybe we use this button for the {disfmarker}
+TS3004d.D.dialog-act.dharshi.16	446.6	452.48	D	ME	inf	+1	1	Okay , there is one uh function I use uh daily , and it's not on the basic functions .
+TS3004d.D.dialog-act.dharshi.17	452.48	457.15	D	ME	inf	+1	1	It's uh to switch to uh uh your Scart .
+TS3004d.A.dialog-act.dharshi.52	469.28	474.488	A	PM	sug	+1	1	Just just draw a second level one and say all options that are still left or something . {vocalsound}
+TS3004d.B.dialog-act.dharshi.92	537.3	540.88	B	UI	inf	+1	1	Right , the video channel , Play Station , etcetera . That's used pretty often .
+TS3004d.C.dialog-act.dharshi.70	563.64	566.0	C	ID	inf	+1	2	So here are multiple speech buttons ,
+TS3004d.C.dialog-act.dharshi.71	566.0	566.96	C	ID	inf	+1	2	I don't know how many .
+TS3004d.B.dialog-act.dharshi.102	575.52	577.37	B	UI	inf	+1	1	Uh menu buttons with arrows .
+TS3004d.D.dialog-act.dharshi.34	609.48	612.32	D	ME	sug	+1	1	Maybe one button to switch the colour of your uh LEDs ?
+TS3004d.D.dialog-act.dharshi.40	634.79	637.19	D	ME	inf	+1	1	Colour buttons .
+TS3004d.B.dialog-act.dharshi.113	660.06	665.05	B	UI	sug	+1	1	Yeah , maybe some uh some text next to the scroll wheel , that it is volume .
+TS3004d.D.dialog-act.dharshi.49	675.15	677.15	D	ME	inf	+1	1	There's one text button I prefer .
+TS3004d.D.dialog-act.dharshi.50	677.15	688.29	D	ME	inf	+1	1	That's the one uh that you use if you search for a page , uh like seven hundred , uh and it's counting from one hundred to two hundred , you will switch to your television and back to text .
+TS3004d.D.dialog-act.dharshi.58	723.18	732.63	D	ME	inf	+1	1	If you if you turn teletext on , you you set the seven hundred , and you turn it off , then the next time you turn it on , it still stays on seven hundred ?
+TS3004d.A.dialog-act.dharshi.85	734.92	737.176	A	PM	ass	+1	1	That's a functionality for the television . {vocalsound}
+TS3004d.C.dialog-act.dharshi.99	744.62	753.84	C	ID	inf	+1	1	uh the remote can send like the the code for seven hundred , page seven hundred to the television . Th th th if you switch it on .
+38	TS3004d.dharshi.s.8	The prototype was evaluated and received an average overall score of 1.8.
+TS3004d.D.dialog-act.dharshi.76	855.12	860.88	D	ME	inf	+1	1	Yeah , I made some criteria uh , so we can uh ev evaluate our model .
+TS3004d.D.dialog-act.dharshi.96	933.11	936.15	D	ME	sug	+1	1	and we have to test the criteria from one to zero .
+TS3004d.D.dialog-act.dharshi.97	936.15	943.23	D	ME	sug	+1	1	We sh we we we can give it uh a number , and then we can give ourself an average for our
+TS3004d.D.dialog-act.dharshi.101	951.73	956.89	D	ME	sug	+1	1	And um {vocalsound} we have to discuss about {vocalsound} , if we give it a one or a seven .
+TS3004d.B.dialog-act.dharshi.140	980.66	986.48	B	UI	ass	+1	1	If it's really uh , if you can if you can get the iPod look , then it's beautiful , I think .
+TS3004d.D.dialog-act.dharshi.109	993.18	996.41	D	ME	el.sug	+1	1	The basic colours are black or green or yellow ?
+TS3004d.B.dialog-act.dharshi.144	1000.36	1002.16	B	UI	sug	+1	1	Maybe um company colours ?
+TS3004d.B.dialog-act.dharshi.146	1005.07	1006.17	B	UI	sug	+1	1	A bit a bit of yellow .
+TS3004d.B.dialog-act.dharshi.151	1032.77	1034.73	B	UI	ass	+1	1	Yeah , grey . Just dark grey I think .
+TS3004d.D.dialog-act.dharshi.119	1048.41	1051.65	D	ME	ass	+1	1	Changeable fronts , so ev for everyone for everyone it's something beautiful .
+TS3004d.A.dialog-act.dharshi.132	1065.32	1069.128	A	PM	sug	+1	1	Okay , just give it a two . {vocalsound}
+TS3004d.D.dialog-act.dharshi.122	1069.93	1071.88	D	ME	inf	+1	1	The fancy look-and-feel .
+TS3004d.D.dialog-act.dharshi.125	1078.57	1082.77	D	ME	ass	+1	1	And we can change the colours , so that's uh really fancy I think .
+TS3004d.D.dialog-act.dharshi.129	1104.29	1108.76	D	ME	ass	+1	1	It's pretty cool . If you slide it open , {vocalsound} it lights up .
+TS3004d.C.dialog-act.dharshi.130	1134.55	1139.79	C	ID	sug	+1	1	And th and the the normal backlights also not the buttons , but behind the buttons .
+TS3004d.D.dialog-act.dharshi.138	1159.44	1160.16	D	ME	inf	+1	1	I think it's one .
+TS3004d.D.dialog-act.dharshi.140	1164.39	1166.4	D	ME	el.ass	+1	1	{vocalsound} Learnable ? Easy to use ?
+TS3004d.A.dialog-act.dharshi.149	1170.04	1174.31	A	PM	ass	+1	1	Uh {vocalsound} it's it's very easy to use , but uh the second layer is not easy to use .
+TS3004d.C.dialog-act.dharshi.134	1176.89	1180.1	C	ID	ass	+1	1	And you on don't have to pay attention to that second layer .
+TS3004d.D.dialog-act.dharshi.147	1189.37	1197.91	D	ME	ass	+1	1	Because because I think I think the scroll wheel , uh it's very handy , but the first time you get this thing in your hands , it's not to use the scroll wheel .
+TS3004d.B.dialog-act.dharshi.188	1276.27	1276.79	B	UI	ass	+1	1	Then a two .
+TS3004d.D.dialog-act.dharshi.162	1280.47	1283.64	D	ME	el.ass	+1	1	New features . Techno technological innovative ?
+TS3004d.B.dialog-act.dharshi.189	1285.88	1289.59	B	UI	ass	+1	1	And the scrollwheel , backlights , slide .
+TS3004d.D.dialog-act.dharshi.163	1284.732	1286.9	D	ME	ass	+1	1	{vocalsound} The speech function is new .
+TS3004d.D.dialog-act.dharshi.165	1287.64	1290.54	D	ME	ass	+1	1	and the slide . Uh I think the slide is pretty new .
+TS3004d.B.dialog-act.dharshi.197	1324.68	1326.78	B	UI	ass	+1	1	But then we also have the the home station .
+TS3004d.B.dialog-act.dharshi.198	1326.78	1328.77	B	UI	inf	+1	1	We are forgetting about that now , but {disfmarker}
+TS3004d.C.dialog-act.dharshi.147	1332.44	1334.6	C	ID	inf	+1	1	Yeah , we didn't draw that too , but {disfmarker}
+TS3004d.A.dialog-act.dharshi.201	1379.54	1383.41	A	PM	el.ass	+1	1	Okay . And new features , so we give it a two or also again a one ?
+TS3004d.A.dialog-act.dharshi.204	1389.29	1390.59	A	PM	ass	+1	1	No , just so it's still a two .
+TS3004d.D.dialog-act.dharshi.188	1404.22	1409.77	D	ME	el.ass	+1	1	Yeah , but did we reach , um {vocalsound} with our uh style , the targeted audience ?
+TS3004d.A.dialog-act.dharshi.213	1411.3	1416.34	A	PM	ass	+1	1	You get the fancy things for younger people . And you get the the aesthetic things for older people .
+TS3004d.D.dialog-act.dharshi.195	1443.07	1445.53	D	ME	ass	+1	1	But we didn't follow the latest trends .
+TS3004d.C.dialog-act.dharshi.163	1449.42	1451.82	C	ID	sug	+1	1	Yeah , you could make a a front
+TS3004d.C.dialog-act.dharshi.165	1464.56	1467.51	C	ID	sug	+1	1	Like a a f banana kind of front .
+TS3004d.D.dialog-act.dharshi.200	1471.77	1473.6	D	ME	sug	+1	1	So we give ourself a three or something .
+TS3004d.A.dialog-act.dharshi.220	1487.12	1488.9	A	PM	inf	+1	1	Yeah , it is one point eight three .
+TS3004d.D.dialog-act.dharshi.205	1493.64	1495.74	D	ME	ass	+1	1	A perfect score . {vocalsound}
+8	TS3004d.dharshi.s.9	The project manager went through the finances , and the total cost came to 12.3 euros , although this did not include the cost of the recharger , which was not on the price list.
+TS3004d.A.dialog-act.dharshi.228	1554.04	1557.54	A	PM	sug	+1	1	Okay , let's have a look at this one here , the production cost of it .
+TS3004d.A.dialog-act.dharshi.231	1561.41	1567.23	A	PM	inf	+1	1	Yeah , there are some that they didn't mention , because recharge is not on the list .
+TS3004d.A.dialog-act.dharshi.233	1569.07	1574.488	A	PM	inf	+1	1	So I think we are pretty much in the right direction , because it's twelve point three Euros . {vocalsound}
+TS3004d.C.dialog-act.dharshi.179	1587.38	1591.432	C	ID	el.inf	+1	1	But but is it inc Does it include a a homestation or {disfmarker}
+TS3004d.C.dialog-act.dharshi.180	1593.26	1597.933	C	ID	el.inf	+1	1	Can we make that for uh h twenty cents ? {vocalsound}
+TS3004d.A.dialog-act.dharshi.241	1597.91	1604.84	A	PM	el.inf	+1	1	The b the button supplements , I didn't I d I was wondering if this special colour maybe was {disfmarker}
+TS3004d.A.dialog-act.dharshi.251	1627.51	1629.5	A	PM	inf	+1	1	{vocalsound} But this is expensive , the sample speaker .
+TS3004d.B.dialog-act.dharshi.229	1637.46	1641.66	B	UI	el.inf	+1	1	Is that uh included ? In the twelve Euro or
+32	TS3004d.dharshi.s.10	The group evaluated the project process , and were generally pleased with their creativity and teamwork , but were unsatisfied with the equipment.
+TS3004d.A.dialog-act.dharshi.258	1659.7	1666.31	A	PM	sug	+1	1	So we can do the project evalu evaluation now for uh for everything together .
+TS3004d.A.dialog-act.dharshi.261	1680.59	1682.21	A	PM	el.ass	+1	1	Was there room for creativity ?
+TS3004d.B.dialog-act.dharshi.233	1700.2	1702.1	B	UI	ass	+1	1	Mm uh i Yeah , I think so .
+TS3004d.C.dialog-act.dharshi.189	1706.2	1714.57	C	ID	ass	+1	1	Yeah m If we got a high mark for um uh innovativeness or innovativity
+TS3004d.B.dialog-act.dharshi.235	1716.68	1719.4	B	UI	ass	+1	1	I think we uh discussed a lot of things about it . So {disfmarker}
+TS3004d.A.dialog-act.dharshi.265	1737.11	1739.273	A	PM	inf	+1	1	Okay , so the leadership {disfmarker}
+TS3004d.C.dialog-act.dharshi.196	1752.168	1755.51	C	ID	ass	+1	1	{vocalsound} Just normal discussion , I think . Not
+TS3004d.C.dialog-act.dharshi.197	1757.67	1759.05	C	ID	ass	+1	1	one leader or something .
+TS3004d.A.dialog-act.dharshi.273	1776.38	1777.31	A	PM	inf	+1	1	Uh team work
+TS3004d.A.dialog-act.dharshi.275	1778.61	1781.45	A	PM	ass	+1	1	the third meeting I think that one was pretty hard .
+TS3004d.A.dialog-act.dharshi.276	1781.45	1787.5	A	PM	ass	+1	1	We were not all {disfmarker} We were not um agree with every not agree with {gap} .
+TS3004d.B.dialog-act.dharshi.240	1792.26	1795.98	B	UI	ass	+1	2	Uh I think we {vocalsound} we got wrong information at the wrong time .
+TS3004d.B.dialog-act.dharshi.241	1795.98	1798.71	B	UI	ass	+1	2	I think that was the m biggest problem .
+TS3004d.B.dialog-act.dharshi.242	1798.71	1800.12	B	UI	ass	+1	2	Like uh the prices .
+TS3004d.B.dialog-act.dharshi.243	1800.12	1806.67	B	UI	ass	+1	2	If we knew that before , we could have uh had discussion really uh s really quicker .
+TS3004d.A.dialog-act.dharshi.280	1825.62	1826.82	A	PM	el.ass	+1	1	But the teamwork was okay .
+TS3004d.D.dialog-act.dharshi.235	1827.13	1830.32	D	ME	ass	+1	1	Yeah , uh everybody could speak their uh opinion .
+TS3004d.B.dialog-act.dharshi.247	1831.8	1834.89	B	UI	ass	+1	1	I think uh everyone listen to each other .
+TS3004d.A.dialog-act.dharshi.284	1845.51	1847.73	A	PM	ass	+1	1	The smart board is okay .
+TS3004d.A.dialog-act.dharshi.285	1847.73	1848.82	A	PM	ass	+1	2	Digital pen is horrible .
+TS3004d.A.dialog-act.dharshi.287	1849.65	1855.83	A	PM	ass	+1	2	But if you want to download it to your computer , it's doesn't work .
+TS3004d.B.dialog-act.dharshi.251	1856.07	1863.55	B	UI	ass	+1	2	Well uh smart board would be very uh nice to work with , if it worked really well .
+TS3004d.C.dialog-act.dharshi.207	1863.35	1866.83	C	ID	ass	+1	2	Yeah , i if if it would be faster , it would be great .
+TS3004d.D.dialog-act.dharshi.239	1863.9	1868.01	D	ME	ass	+1	2	Yeah , the drawings are are hard to make , I think .
+TS3004d.C.dialog-act.dharshi.211	1899.81	1903.9	C	ID	ass	+1	2	Just old fashioned kinda blackboard style .
+TS3004d.C.dialog-act.dharshi.212	1903.9	1907.33	C	ID	ass	+1	2	But you might as well do it in normal computer style .
+TS3004d.B.dialog-act.dharshi.264	1939.11	1940.08	B	UI	oth	+1	1	New ideas found .
+TS3004d.A.dialog-act.dharshi.304	1945.9	1947.57	A	PM	inf	+1	1	I don't know what it mean .
+TS3004d.D.dialog-act.dharshi.248	1951.8	1959.0	D	ME	el.inf	+1	1	To gather , or to uh work together , uh or new ideas for {disfmarker}
+TS3004d.C.dialog-act.dharshi.221	1977.52	1986.488	C	ID	ass	+1	1	Yeah , but still , you couldn't make a fancy a f you couldn't make a a prototype out of this . Because we don't have any sizes and {disfmarker}
+TS3004d.C.dialog-act.dharshi.222	1988.64	1992.95	C	ID	ass	+1	1	Yeah , but it {disfmarker} You can't possibly do that in such a short time , I think .
+TS3004d.B.dialog-act.dharshi.270	1998.88	2001.13	B	UI	ass	+1	1	Yeah , this this is just the idea phase ,

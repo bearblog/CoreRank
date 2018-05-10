@@ -1,0 +1,12 @@
+Several transcribers have now been hired , and double-checking is almost finished.
+Information retrieval will progress using uncorrected transcripts.
+In parallel to the transcription , the first five EDU meetings are chunked and ready to go to IBM , once the IBM transcript is checked and satisfactory.
+For the DARPA demo:
+Tools have been written to convert everything into the correct file formats , an now the THISTL back-end querying and indexing tool is now working on the command line.
+Work is also underway to improve the front-end THISTL interface.
+The demo of Transcriber interface was discussed , and may include graphical illustration of prosodic features indicating sentence or turn boundaries.
+Work is continuing to create tools for handling XML data , which extract data from the XML key files.
+Tools will also be provided to ensure that appropriate meeting information is present , and that microphones and recording is working.
+The ChannelTrans interface is now working on Windows machines.
+More wireless microphones have been ordered , and the room is to be re-wired as suggested by Jane , using the wireless close-talking microphones first , and then the far-field microphones.
+Analysis of the recognition runs to identify features and their characteristics is on-going.

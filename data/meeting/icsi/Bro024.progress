@@ -1,0 +1,45 @@
+14	Bro024.s.7	Speaker me026 has been working on mean subtraction , his most recent results are suspiciously poor , and he is attempting to integrate the method into the SmartKom system.
+Bro024.F.dialogueact29	52.361	52.951	F	PhD	qw^co	+1	1	Why don't you go ahead , Dave ?
+Bro024.C.dialogueact32	54.79	66.021	C	Grad	fh|s	+1	2	so , yeah , the {disfmarker} this past week I 've been main mainly occupied with , um , getting some results , u from the SRI system trained on this short Hub - five training set for the mean subtraction method .
+Bro024.C.dialogueact34	68.83	70.43	C	Grad	s	+1	1	I ran some tests last night .
+Bro024.C.dialogueact37	72.144	73.554	C	Grad	s	+1	1	the results are suspicious .
+Bro024.C.dialogueact38	73.554	81.295	C	Grad	fh|s^df	+1	1	Um , it 's , um , {vocalsound} cuz they 're {disfmarker} the baseline results are worse than , um , Andreas {disfmarker} than results Andreas got previously .
+Bro024.C.dialogueact47	96.906	105.352	C	Grad	s	+1	1	ap ap apart from that , I guess the {disfmarker} the main thing I have t ta I have to talk is , um , where I 'm planning to go over the next week .
+Bro024.C.dialogueact49	106.293	110.553	C	Grad	s	+1	1	So I 've been working on integrating this mean subtraction approach into the SmartKom system .
+Bro024.C.dialogueact50	111.318	119.428	C	Grad	s	+1	1	And there 's this question of , well , so , um , in my tests before with HTK I found it worked {disfmarker} it worked the best with about twelve seconds of data used to estimate the mean ,
+Bro024.C.dialogueact51	119.428	122.901	C	Grad	s^rt	+1	1	but , we 'll often have less {comment} in the SmartKom system .
+Bro024.C.dialogueact53	124.542	129.132	C	Grad	s	+1	1	So I think we 'll use as much data as we have {pause} at a particular time ,
+Bro024.C.dialogueact54	129.132	135.792	C	Grad	s	+1	1	and we 'll {disfmarker} {vocalsound} we 'll concatenate utterances together , um , to get as much data as we possibly can from the user .
+Bro024.C.dialogueact55	135.882	142.072	C	Grad	fh|s	+1	1	But , {vocalsound} um , {vocalsound} there 's a question of how to set up the models . So um , we could train the models .
+Bro024.C.dialogueact56	142.072	150.204	C	Grad	s	+1	1	If we think twelve seconds is ideal we could train the models using twelve seconds to calculate the mean , to mean subtract the training data .
+Bro024.C.dialogueact57	150.204	154.549	C	Grad	s	+1	1	Or we could , um , use some other amount .
+6	Bro024.s.8	Speaker mn052 has been looking at noise estimation , because he was getting better results with one data set than another.
+Bro024.F.dialogueact473	1330.91	1331.68	F	PhD	qy^co^rt	+1	1	Do you wanna go , Sunil ?
+Bro024.B.dialogueact480	1339.44	1343.92	B	PhD	s	+1	2	so the last week , uh , I showed some results with only SpeechDat - Car
+Bro024.B.dialogueact481	1343.92	1345.56	B	PhD	s^e	+1	1	which was like some fifty - six percent .
+Bro024.B.dialogueact484	1349.16	1352.51	B	PhD	s	+1	1	I mean , I wasn't getting that r results on the TI - digit .
+Bro024.B.dialogueact485	1352.51	1355.41	B	PhD	s	+1	2	So I was like looking into " why , what is wrong with the TI - digits ? " .
+Bro024.B.dialogueact487	1356.69	1363.06	B	PhD	s	+1	2	And I found that , the noise estimation is a reason for the TI - digits to perform worse than the baseline .
+8	Bro024.s.9	Speaker mn007 has been looking at VAD performance , and getting some good results , though nothing that hasn't been produced before.
+Bro024.F.dialogueact1096	2618.82	2620.2	F	PhD	fh|qy^co^rt	+1	1	Uh , did you wanna go next , Stephane ?
+Bro024.E.dialogueact1097	2620.56	2621.43	E	PhD	s^na	+1	1	I can go next .
+Bro024.E.dialogueact1136	2676.76	2687.18	E	PhD	s^bk|s^rt^tc	+1	2	yeah , there are two figures showing actually the , mmm , um , performance of the current VAD .
+Bro024.E.dialogueact1137	2688.01	2690.87	E	PhD	s	+1	1	So it 's a n neural network based on PLP parameters ,
+Bro024.E.dialogueact1138	2691.89	2693.89	E	PhD	s^e	+1	1	uh , which estimate silence probabilities ,
+Bro024.E.dialogueact1139	2694.04	2698.6	E	PhD	s	+1	1	and then I just put a median filtering on this
+Bro024.E.dialogueact1140	2699.35	2701.76	E	PhD	s^e|qy^d^g^rt	+1	1	to smooth the probabilities , right ?
+Bro024.G.dialogueact1735	3933.53	3940.84	G	Professor	s^tc	+1	1	s So to summarize the performance of these , SpeechDat - Car results is similar than {disfmarker} than yours so to say .
+5	Bro024.s.10	Speaker fn002 has been running VTS experiments , but her results aren't particularly impressive.
+Bro024.F.dialogueact1794	4029.49	4029.77	F	PhD	qy^d^tc	+1	1	Carmen ?
+Bro024.H.dialogueact1796	4030.56	4037.89	H	PhD	h|s	+1	2	Well , I only say that the {disfmarker} this is , a summary of the {disfmarker} of all the VTS experiments
+Bro024.H.dialogueact1797	4038.53	4045.63	H	PhD	s	+1	1	and say that the result in the last {comment} um , for Italian {disfmarker} the last experiment for Italian , {vocalsound} are bad .
+Bro024.H.dialogueact1805	4059.05	4064.46	H	PhD	s	+1	1	If we put everything , we improve a lot u the spectral use of the VTS
+Bro024.H.dialogueact1806	4064.74	4074.72	H	PhD	s	+1	1	but the final result {vocalsound} are not still mmm , good {vocalsound} like the Wiener filter for example .
+7	Bro024.s.11	Speaker me006 has been working on the proposal for his thesis and outlined his idea.
+Bro024.F.dialogueact419	1158.73	1159.33	F	PhD	qy^co^rt^tc	+1	1	Do you wanna go , Barry ?
+Bro024.A.dialogueact422	1160.74	1169.96	A	Grad	fh|s^rt	+1	1	Um , so for the past , {vocalsound} uh , week an or two , I 've been just writing my , uh , formal thesis proposal .
+Bro024.A.dialogueact423	1170.5	1175.16	A	Grad	fh|s	+1	1	Um , so I 'm taking {vocalsound} this qualifier exam that 's coming up in two weeks .
+Bro024.A.dialogueact424	1175.5	1179.94	A	Grad	s	+1	1	And I {disfmarker} I finish writing a proposal and submit it to the committee .
+Bro024.A.dialogueact431	1191.37	1209.45	A	Grad	s	+1	1	so briefly , {vocalsound} I 'm proposing to do a n a new p approach to speech recognition using um , a combination of , uh , multi - band ideas and ideas , um , {vocalsound} {vocalsound} {comment} about the uh , acoustic phonec phonetic approach to speech recognition .
+Bro024.A.dialogueact432	1209.88	1231.5	A	Grad	fh|s	+1	1	Um , so I will be using {vocalsound} these graphical models that {disfmarker} um , that implement the multi - band approach {vocalsound} to recognize a set of intermediate categories that might involve , uh , things like phonetic features {vocalsound} or other {disfmarker} other f feature things that are more closely related to the acoustic signal itself .
+Bro024.A.dialogueact433	1232.12	1247.61	A	Grad	fh|s^df	+1	1	Um , and the hope in all of this is that by going multi - band and by going into these , {vocalsound} um intermediate classifications , {vocalsound} that we can get a system that 's more robust to {disfmarker} to unseen noises , and situations like that .

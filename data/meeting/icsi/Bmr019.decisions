@@ -1,0 +1,20 @@
+2	Bmr019.s.6	For comparing Meeting Recorder digits results , it was decided that the Aurora HTK-based system should be tested on data from the TI digits corpus.
+Bmr019.B.dialogueact184	357.375	361.105	B	Professor	s^bk|s^cs^ng	+1	1	Yeah , bu although I 'd be {disfmarker} I think it 'd be interesting to just take this exact actual system
+Bmr019.B.dialogueact188	362.475	363.785	B	Professor	s^cs^e	+1	1	and try it out on TI - digits .
+2	Bmr019.s.7	The script for extracting speaker ID information will require modifications to obtain a more accurate estimation of the amount of data recorded per speaker.
+Bmr019.F.dialogueact307	607.467	619.074	F	PhD	s^cs	+1	1	So , we might have to modify that script to recognize the , um , speakers , {vocalsound} um , in the {disfmarker} in the , uh , um , {vocalsound} TI - digits {pause} database .
+Bmr019.E.dialogueact315	633.64	637.91	E	Grad	s^df	+1	1	because we may have to do an extract to get the {pause} amount of data per speaker about right .
+4	Bmr019.s.8	Subsequent recognition experiments will look at large vocabulary speech from a far-field microphone ( as performed in Switchboard evaluations ).
+Bmr019.B.dialogueact470	890.822	903.549	B	Professor	fg|s	+1	1	Yeah . I {disfmarker} I know what I was thinking was that maybe , uh , i i we could actually t t try at least looking at , uh , some of the {disfmarker} the large vocabulary speech from a far microphone ,
+Bmr019.B.dialogueact483	928.346	934.941	B	Professor	s^cs^df.%-	+1	1	But I 'm saying if you do the same kind of limited thing {vocalsound} as people have done in Switchboard evaluations or as {disfmarker} a
+Bmr019.E.dialogueact489	941.69	945.27	E	Grad	s^bu	+1	1	Could we do exactly the same thing that we 're doing now , but do it with a far - field mike ?
+Bmr019.E.dialogueact493	947.86	949.81	E	Grad	s	+1	1	but you use the acoustics from the far - field mike .
+3	Bmr019.s.9	Hand-marked , word-level alignments are needed to reveal speaker boundaries and tune the parameters of the model.
+Bmr019.F.dialogueact781	1683.66	1688.42	F	PhD	s^cs	+1	1	So , {vocalsound} we would need a hand - marked , um , {vocalsound} word - level alignments
+Bmr019.F.dialogueact782	1688.48	1692.78	F	PhD	s^cs^e	+1	1	or at least sort of the boundaries of the speech betw you know , between the speakers .
+Bmr019.F.dialogueact784	1695.61	1701.33	F	PhD	s	+1	1	and tune the parameters of the {disfmarker} of the model , uh , to op to get the best {pause} performance .
+4	Bmr019.s.10	Modifications to the Transcriber tool are required for allowing transcribers to simultaneously view the signal in XWaves and see where words are located in time.
+Bmr019.A.dialogueact847	1820.8	1824.96	A	PhD	s	+1	1	You know , interface - wise if you 're looking at speech , you wanna be able to know really where the words are .
+Bmr019.A.dialogueact851	1829.19	1834.58	A	PhD	s^cs	+1	1	um , and see if you can in maybe incorporate it into the Transcriber tool some way ,
+Bmr019.A.dialogueact877	1870.28	1877.51	A	PhD	fg|s	+1	1	Yeah , it wou the advantage would just be that when you brought up a bin you would be able {disfmarker} if you were zoomed in enough in Transcriber to see all the words ,
+Bmr019.A.dialogueact879	1877.51	1880.53	A	PhD	s	+1	1	you would be able to , like , have the words sort of located in time ,

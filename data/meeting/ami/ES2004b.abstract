@@ -1,0 +1,140 @@
+7	ES2004b.JacquelinePalmer.s.1	The Industrial Designer gave his presentation on the basic functions of the remote.
+ES2004b.C.dialog-act.s9553330.13	212.5	214.59	C	ID	inf	+1	1	Okay this is uh the working design ,
+ES2004b.C.dialog-act.s9553330.16	225.01	228.85	C	ID	inf	+1	1	What {disfmarker} the first thing {disfmarker} question I asked was what are we trying to design ?
+ES2004b.C.dialog-act.s9553330.17	228.85	233.58	C	ID	inf	+1	1	Well , a device which basically just sends the signal to the T_V_ to change its state ,
+ES2004b.C.dialog-act.s9553330.18	233.58	246.92	C	ID	inf	+1	1	whether that be the power , or the channel um or the volume , everything is just um some sort of signal to change the state of the T_V_ or other appliance that it's sending the signal to .
+ES2004b.C.dialog-act.s9553330.19	249.03	253.18	C	ID	inf	+1	1	Um , so I decided I'd have a look at what th other people have designed
+ES2004b.C.dialog-act.s9553330.20	253.18	257.38	C	ID	inf	+1	1	and try and take some inspiration from that .
+ES2004b.C.dialog-act.s9553330.21	257.38	265.15	C	ID	inf	+1	1	But uh although we will want to be taking ideas from other people , we wanna make sure that our design stands out
+22	ES2004b.JacquelinePalmer.s.2	He presented the basic components that remotes share and suggested that smaller batteries be considered in the product design.
+ES2004b.C.dialog-act.s9553330.25	280.55	288.35	C	ID	inf	+1	1	Um and uh {vocalsound} I found out that most uh controls use some form of infrared to send signals to the T_V_
+ES2004b.C.dialog-act.s9553330.26	288.35	295.43	C	ID	inf	+1	1	presumably because of the cost issue of uh something like uh the same thing that computers use , wireless
+ES2004b.C.dialog-act.s9553330.28	298.52	302.49	C	ID	inf	+1	1	Um , most of them are powered by some form of battery .
+ES2004b.C.dialog-act.s9553330.29	302.49	307.59	C	ID	sug	+1	1	Now our one , I'm I'm not sure whether we want to look at the size issue
+ES2004b.C.dialog-act.s9553330.30	307.59	311.31	C	ID	inf	+1	1	because most of them are powered by triple A_ batteries
+ES2004b.C.dialog-act.s9553330.31	311.31	312.97	C	ID	inf	+1	1	but those can be quite bulky
+ES2004b.C.dialog-act.s9553330.32	312.97	321.73	C	ID	sug	+1	1	so I d I didn't know if you wanted to look at something else um so we could shrink down the size of the control .
+ES2004b.D.dialog-act.s9553330.12	323.02	326.75	D	ME	el.inf	+1	1	You're saying the triple A_ batteries are small or the {gap} surrounding it ?
+ES2004b.C.dialog-act.s9553330.35	326.17	330.5	C	ID	inf	+1	1	if you if you look at if you look at most remote controls they're quite they're quite chunky
+ES2004b.C.dialog-act.s9553330.36	330.5	332.53	C	ID	inf	+1	1	and that's because of the size of the batteries ,
+ES2004b.D.dialog-act.s9553330.15	336.46	338.76	D	ME	el.inf	+1	1	the triple A_s are the smallest you can get are they not , right ?
+ES2004b.C.dialog-act.s9553330.40	338.36	341.66	C	ID	inf	+1	1	well you can you can get the sort of circular round ones
+ES2004b.C.dialog-act.s9553330.44	354.61	357.12	C	ID	inf	+1	1	Um , now the ones at the moment are small
+ES2004b.C.dialog-act.s9553330.45	357.12	360.32	C	ID	sug	+1	1	but I was just wondering if we could look at something a bit smaller .
+ES2004b.C.dialog-act.s9553330.49	375.11	383.67	C	ID	inf	+1	1	and then you obviously need something to decode the information that you're putting in from from the controller
+ES2004b.C.dialog-act.s9553330.50	392.12	395.03	C	ID	inf	+1	1	Now these have a wireless range of up to about five metres
+ES2004b.C.dialog-act.s9553330.60	433.07	441.8	C	ID	inf	+1	1	we've just got the the power going to the infrared bulb with the chip and the {vocalsound} uh U_I_ interface um
+ES2004b.C.dialog-act.s9553330.61	443.35	453.51	C	ID	inf	+1	1	which would basically , when you when you pressed anything it would {disfmarker} the chip would convert it into some form of I_R_ data which could be decoded by the T_V_ receiver ,
+ES2004b.C.dialog-act.s9553330.62	453.51	464.89	C	ID	inf	+1	1	which obviously means that we're gonna have to conform to {vocalsound} whatever um whatever form of communication that the T_V_s are already using
+ES2004b.C.dialog-act.s9553330.66	479.97	485.24	C	ID	inf	+1	1	so all the components that I've put forward are uh low in cost
+ES2004b.C.dialog-act.s9553330.68	487.72	495.34	C	ID	inf	+1	1	Um it should should be different enough um from the alternative products to get a good consumer base ,
+ES2004b.C.dialog-act.s9553330.71	499.7	512.25	C	ID	sug	+1	1	because they're small they're also easy to lose so if we could look into some way of {disfmarker} d dunno some anti-going down the side of the sofa {vocalsound} thing that you could have ,
+16	ES2004b.JacquelinePalmer.s.3	The User Interface Designer presented his ideas for making the remote easy-to-use; he discussed using a simple design and hiding complicated features from the main interface.
+ES2004b.A.dialog-act.s9553330.19	614.77	620.48	A	UI	inf	+1	1	Yeah . Actually mm some of my points might overlap with what William's just mention ,
+ES2004b.A.dialog-act.s9553330.20	620.48	627.94	A	UI	inf	+1	1	but basically my method was like uh whatever brainstorming we did in the last meeting , just a couple of valuable points and started developing on that
+ES2004b.A.dialog-act.s9553330.21	627.94	635.04	A	UI	inf	+1	1	and there might be some missing loops in this thing which I think we'll uh take a feedback from the marketing
+ES2004b.A.dialog-act.s9553330.26	649.19	655.7	A	UI	inf	+1	1	And to summarise I I would say it's {disfmarker} it should be user-friendly by being easy to use , rather than having a lot of complex button
+ES2004b.A.dialog-act.s9553330.27	655.7	659.16	A	UI	inf	+1	1	because you can have an engineering {gap} maybe having hundred buttons
+ES2004b.A.dialog-act.s9553330.28	659.16	666.22	A	UI	inf	+1	1	and maybe having uh a remote control which has the main features like volume control or channel ch changing the channel or whatever .
+ES2004b.A.dialog-act.s9553330.31	674.62	677.5	A	UI	sug	+1	1	So what the concept is to have a flip-top model . The
+ES2004b.A.dialog-act.s9553330.32	677.5	682.15	A	UI	sug	+1	1	main functions such as which are like often used will be on the top
+ES2004b.A.dialog-act.s9553330.33	682.15	693.51	A	UI	sug	+1	1	and the complex functions which say you {disfmarker} you can say like the y young generation or trendy generation want to pr say programme their favourite channels or whatever , can be put in the middle part of the f flip-top .
+ES2004b.A.dialog-act.s9553330.35	699.02	703.48	A	UI	sug	+1	1	and we can punch in new f features such as uh {disfmarker} added features such as shock proof body
+ES2004b.A.dialog-act.s9553330.38	712.34	721.08	A	UI	inf	+1	1	because there are times like uh people have used a remote control for say a year or something and they they are not used maybe thirty to forty percent of the buttons
+ES2004b.A.dialog-act.s9553330.41	730.59	734.33	A	UI	sug	+1	1	so we we can maybe go for an economies of a higher production
+ES2004b.A.dialog-act.s9553330.45	739.92	743.78	A	UI	inf	+1	1	so we can give in {disfmarker} add in more features and make it less costly .
+ES2004b.A.dialog-act.s9553330.47	748.81	756.15	A	UI	inf	+1	1	if you ask me personally , I would make uh flip-top with a trendy uh uh design
+ES2004b.A.dialog-act.s9553330.49	761.81	767.62	A	UI	inf	+1	1	because they are times when the buttons tend to be a bit hard after uh continuous use {disfmarker} usage and all that .
+ES2004b.A.dialog-act.s9553330.48	756.15	761.81	A	UI	sug	+1	1	and s maybe we we should look at also like the buttons whe whether they are like soft or little hard
+25	ES2004b.JacquelinePalmer.s.4	The Marketing Expert presented the findings from a lab study on user requirements for a remote control device , and discussed users' demand for a simple interface and advanced technology.
+ES2004b.D.dialog-act.s9553330.42	848.52	852.34	D	ME	inf	+1	1	I'm going to look at the functional requirements from the marketing point of view
+ES2004b.D.dialog-act.s9553330.45	859.84	863.26	D	ME	inf	+1	1	we used our our usability lab , the company's usability lab ,
+ES2004b.D.dialog-act.s9553330.46	863.26	866.7	D	ME	inf	+1	1	we did our usual selection methods to get a cross-section of the general public ,
+ES2004b.D.dialog-act.s9553330.48	867.4	869.68	D	ME	inf	+1	1	all age groups from fifteen upwards
+ES2004b.D.dialog-act.s9553330.49	869.68	872.19	D	ME	inf	+1	1	and um we observed them in the lab ,
+ES2004b.D.dialog-act.s9553330.52	876.331	879.3	D	ME	inf	+1	1	{vocalsound} Our findings , lots of findings ,
+ES2004b.D.dialog-act.s9553330.53	879.3	880.97	D	ME	inf	+1	1	I've just summarised some of them here .
+ES2004b.D.dialog-act.s9553330.54	880.97	888.14	D	ME	inf	+1	1	The overall thing which I've I've got at the top there in italics is that users dislike the look and feel of current remote controls ,
+ES2004b.D.dialog-act.s9553330.56	890.76	895.59	D	ME	inf	+1	1	Um , we found that seventy five percent of users find most remote controls ugly .
+ES2004b.D.dialog-act.s9553330.57	896.95	901.5	D	ME	inf	+1	1	Eighty percent would spend more money when a remote control would look fancy ,
+ES2004b.D.dialog-act.s9553330.59	903.32	912.2	D	ME	inf	+1	1	but um that's quite a high proportion of our our , you know , international target group are prepared to spend more money for something that's a bit nicer looking .
+ES2004b.D.dialog-act.s9553330.60	912.2	917.9	D	ME	inf	+1	1	Um , current remote controls do not match well with the operating behaviour of the user overall .
+ES2004b.D.dialog-act.s9553330.61	917.9	922.15	D	ME	inf	+1	1	For example , you can see below there , seventy five percent of users zap a lot ,
+ES2004b.D.dialog-act.s9553330.64	927.927	932.37	D	ME	inf	+1	1	{vocalsound} Um , fifty percent of users only use ten percent of the buttons ,
+ES2004b.D.dialog-act.s9553330.66	934.54	943.05	D	ME	sug	+1	1	Um and possibly we can also cut back on cost if we don't have so many functions actually on the remote control . Um
+ES2004b.D.dialog-act.s9553330.67	946.9	955.91	D	ME	inf	+1	1	the biggest frustrations that people found with regard to personal preferences were um something that you you mentioned earlier , uh remote controls are often lost in the room ,
+ES2004b.D.dialog-act.s9553330.69	959.03	962.72	D	ME	inf	+1	1	fifty percent were were particularly frustrated by that .
+ES2004b.D.dialog-act.s9553330.70	962.72	967.49	D	ME	inf	+1	1	Uh thirty four percent of people take {disfmarker} said they take too much time to learn to use
+ES2004b.D.dialog-act.s9553330.73	976.07	983.56	D	ME	inf	+1	1	Um , um slightly more than a quarter of people said it was bad for uh repetitive strain injury .
+ES2004b.D.dialog-act.s9553330.75	988.96	996.89	D	ME	inf	+1	1	Um the vast majority of the thirty five and under age group would like um a liquid crystal display and speech recognition ,
+ES2004b.D.dialog-act.s9553330.76	996.89	1004.31	D	ME	inf	+1	1	again that was to aid I think in uh {disfmarker} when they've lost the actual remote control , some kind of speech recognition .
+ES2004b.D.dialog-act.s9553330.77	1004.31	1014.96	D	ME	sug	+1	1	Something we didn't put to them , but which I'm thinking of now is um even if perhaps the lost control can give off a bleep every now and again til you find it or a flashing light , possibly .
+ES2004b.D.dialog-act.s9553330.79	1018.2	1023.48	D	ME	inf	+1	1	So thirty fives and unders who would like those two features , that kind of evens out thirty five to forty five
+ES2004b.D.dialog-act.s9553330.80	1023.48	1025.19	D	ME	inf	+1	1	and in the older age group it kind of reverses ,
+ES2004b.D.dialog-act.s9553330.84	1031.67	1035.09	D	ME	off	+1	1	if there's any more information I can email you extra details ,
+13	ES2004b.JacquelinePalmer.s.5	The Project Manager presented the new requirements that the remote not include a teletext function , that it be used only to control television , and that it include the company image in its design.
+ES2004b.B.dialog-act.s9553330.56	1041.72	1044.86	B	PM	inf	+1	1	we have new project requirements , um
+ES2004b.B.dialog-act.s9553330.57	1051.11	1054.55	B	PM	inf	+1	1	we're not going to be using teletext ,
+ES2004b.B.dialog-act.s9553330.59	1062.4	1064.71	B	PM	inf	+1	1	our control is only going to be for T_V_ ,
+ES2004b.B.dialog-act.s9553330.60	1064.71	1068.56	B	PM	inf	+1	1	it's not going to be a combined control ,
+ES2004b.B.dialog-act.s9553330.67	1086.3	1091.8	B	PM	sug	+1	1	I think maybe Sky things like that might be incorporated into it , but
+ES2004b.B.dialog-act.s9553330.68	1094.192	1095.5	B	PM	el.ass	+1	1	{vocalsound} I don't know , what do you think ?
+ES2004b.D.dialog-act.s9553330.89	1097.68	1099.31	D	ME	el.inf	+1	1	Would that imply video use ?
+ES2004b.B.dialog-act.s9553330.70	1097.81	1102.13	B	PM	inf	+1	1	But I mean , general T_V_ controls do do video as well .
+ES2004b.B.dialog-act.s9553330.73	1122.45	1127.0	B	PM	inf	+1	1	I think we assume that it's still got play and stop functions and {vocalsound} programming .
+ES2004b.C.dialog-act.s9553330.100	1155.83	1164.91	C	ID	inf	+1	2	Ju um just as an idea on the uh speech recognition thing that pr it'd probably be quite expensive to incorporate an entire speech recognition thing
+ES2004b.B.dialog-act.s9553330.88	1238.0	1247.66	B	PM	inf	+1	1	Um {vocalsound} the third thing was that we have to make sure the corporate image is very much incorporated into the handset .
+ES2004b.B.dialog-act.s9553330.89	1247.66	1250.97	B	PM	inf	+1	1	Um so we want logo ,
+ES2004b.B.dialog-act.s9553330.90	1250.97	1256.24	B	PM	inf	+1	1	we want um fashionable , trendy ,
+5	ES2004b.JacquelinePalmer.s.6	The group narrowed down their target marketing group to the youth market.
+ES2004b.D.dialog-act.s9553330.112	1267.81	1271.42	D	ME	inf	+1	1	further market research will be needed to kind of focus on what that is ,
+ES2004b.D.dialog-act.s9553330.113	1271.42	1274.7	D	ME	inf	+1	1	it's gonna be different for a fifteen year old th for somebody who's sixty
+ES2004b.D.dialog-act.s9553330.114	1274.7	1277.82	D	ME	inf	+1	1	and also across the world if we're aiming at the international market .
+ES2004b.B.dialog-act.s9553330.109	1360.78	1362.45	B	PM	inf	+1	2	I'm thinking kind of Japan ,
+ES2004b.B.dialog-act.s9553330.110	1362.45	1368.67	B	PM	inf	+1	2	I'm thinking uh young , um office people ,
+19	ES2004b.JacquelinePalmer.s.7	They discussed the functions the remote will have , including Video Plus capability and rechargeable batteries.
+ES2004b.B.dialog-act.s9553330.135	1604.71	1609.42	B	PM	inf	+1	1	Okay , so the remote control functions .
+ES2004b.B.dialog-act.s9553330.136	1609.42	1612.95	B	PM	inf	+1	1	Um we've got the T_V_ ,
+ES2004b.B.dialog-act.s9553330.137	1612.95	1614.54	B	PM	inf	+1	1	we've got the video ,
+ES2004b.B.dialog-act.s9553330.138	1614.54	1623.2	B	PM	el.inf	+1	1	now there's um I can't remember what it's called , the little code at the end of programme details ,
+ES2004b.C.dialog-act.s9553330.151	1622.4	1623.51	C	ID	inf	+1	2	Video plus .
+ES2004b.B.dialog-act.s9553330.140	1625.8	1632.46	B	PM	sug	+1	1	We could use that as an alternative to programming in times , things like that ,
+ES2004b.C.dialog-act.s9553330.156	1658.94	1662.37	C	ID	inf	+1	1	And you wouldn't you wouldn't need uh a whole host of extra buttons for that ,
+ES2004b.D.dialog-act.s9553330.159	1666.49	1667.76	D	ME	inf	+1	1	I've not come across that function
+ES2004b.B.dialog-act.s9553330.157	1670.73	1678.09	B	PM	inf	+1	1	if you look in the newspaper , T_V_ guide or any T_V_ guide there's a five , six digit number afterwards
+ES2004b.B.dialog-act.s9553330.188	1864.78	1869.57	B	PM	inf	+1	1	I'm not sure if we need a design um decision now ,
+ES2004b.B.dialog-act.s9553330.186	1861.23	1863.46	B	PM	el.inf	+1	1	Um , what other functions ?
+ES2004b.B.dialog-act.s9553330.191	1875.09	1877.14	B	PM	inf	+1	1	oh batteries , that's what I was thinking about .
+ES2004b.B.dialog-act.s9553330.192	1877.14	1879.22	B	PM	el.inf	+1	1	Mobile phone batteries , what kinda battery is that ?
+ES2004b.B.dialog-act.s9553330.195	1894.4	1901.69	B	PM	inf	+1	1	th the thing that you get with mobile house phones , you sit it in its charger when you're not using it or t at night or something ,
+ES2004b.B.dialog-act.s9553330.198	1906.74	1910.03	B	PM	inf	+1	1	Um , something like that should reduce the size of it .
+ES2004b.C.dialog-act.s9553330.199	1910.09	1917.344	C	ID	sug	+1	1	yeah if you if you had if you had one of those {disfmarker} uh just coming back to your other point about pressing the button and setting off the bleeper in the room that could uh {disfmarker}
+ES2004b.A.dialog-act.s9553330.106	1922.53	1926.16	A	UI	el.inf	+1	2	So are we talking of a concept of a rechargeable something on the remote ?
+ES2004b.B.dialog-act.s9553330.204	1927.73	1929.46	B	PM	inf	+1	2	Rechargeable with a docking station .
+ES2004b.B.dialog-act.s9553330.251	2261.99	2268.45	B	PM	inf	+1	1	And we've talked about um there being an alarm or something , a beeping for being lost , um .
+12	ES2004b.JacquelinePalmer.s.8	A customer service plan was suggested to make the remote seem more user-friendly , but it was decided that helpful manuals were more within the budget.
+ES2004b.D.dialog-act.s9553330.173	1728.08	1739.63	D	ME	inf	+1	1	but just discussing the different age groups and targeting the different age groups it occurs to me , {gap} to produce our own mobile phones , that that's kind of what led us on to comparing T_V_ remote controls with with their design features ,
+ES2004b.D.dialog-act.s9553330.174	1739.63	1747.4	D	ME	inf	+1	1	um , chain companies like Carphone Warehouse , you can pop in anytime with a phone that you bought for them w if you've got any problems with it and they'll fix it ,
+ES2004b.D.dialog-act.s9553330.176	1750.78	1757.4	D	ME	sug	+1	1	Is it worthwhile with with our retail outlets having a a similar um kind of service
+ES2004b.D.dialog-act.s9553330.177	1757.4	1769.14	D	ME	sug	+1	1	so that if older users were deterred from buying this , if they know they can just pop into one of our high street outlets , th you know , which button is it I press for this ? Th as free as a free aspect of our service , would that not make it more attractive to them ?
+ES2004b.C.dialog-act.s9553330.173	1770.63	1774.59	C	ID	inf	+1	1	But the only problem is that with a mobile phone you signed for a contract
+ES2004b.C.dialog-act.s9553330.176	1789.73	1794.512	C	ID	ass	+1	1	but I I'm not sure how much the cost would be of having {disfmarker}
+ES2004b.C.dialog-act.s9553330.180	1816.39	1820.14	C	ID	inf	+1	1	I mean instru instruction books I feel c I reckon can cover that .
+ES2004b.B.dialog-act.s9553330.173	1818.27	1819.72	B	PM	ass	+1	1	Instruction manuals .
+ES2004b.B.dialog-act.s9553330.175	1823.07	1829.09	B	PM	inf	+1	1	there will be a customer service number thing that you can phone up and speak to
+ES2004b.A.dialog-act.s9553330.101	1837.64	1840.36	A	UI	inf	+1	1	{disfmarker} for a phone maybe he might walk down the street ,
+ES2004b.A.dialog-act.s9553330.102	1840.36	1843.27	A	UI	inf	+1	2	but for a remote he will just refer to the manual and all that .
+ES2004b.B.dialog-act.s9553330.180	1844.69	1849.39	B	PM	inf	+1	2	But we should focus on making the manual as user-friendly as possible
+12	ES2004b.JacquelinePalmer.s.9	The group then discussed the shell-like shape of the remote and including several different casing options to buyers.
+ES2004b.B.dialog-act.s9553330.209	1942.91	1947.7	B	PM	inf	+1	1	Um , th the shape you got trendy .
+ES2004b.D.dialog-act.s9553330.202	1963.22	1966.08	D	ME	inf	+1	1	I mean so many remote controls look absolutely identical ,
+ES2004b.A.dialog-act.s9553330.111	1982.82	1988.46	A	UI	inf	+1	1	What I was thinking of a design which Nokia h uh came up with almost six or seven years back .
+ES2004b.A.dialog-act.s9553330.115	1995.85	1999.46	A	UI	inf	+1	1	so they came up with something like this , curled up , so here ,
+ES2004b.A.dialog-act.s9553330.117	2002.18	2005.88	A	UI	inf	+1	1	so it's like uh you can say a banana shape kind of thing , curled up like a boat .
+ES2004b.A.dialog-act.s9553330.123	2024.82	2027.46	A	UI	inf	+1	1	I wouldn't say exactly semi-circular but yeah smooth .
+ES2004b.B.dialog-act.s9553330.222	2040.79	2053.94	B	PM	sug	+1	2	I mean for example , if it was a C_ or something like that , you could have it in a vague C_ shape that opens up kind of like a shell , or something ,
+ES2004b.D.dialog-act.s9553330.224	2112.99	2116.7	D	ME	inf	+1	1	you know even though we're using plastic , you can still {disfmarker} I mean think of the designs you can get in plastic ,
+ES2004b.B.dialog-act.s9553330.227	2127.7	2131.0	B	PM	sug	+1	2	You could have different kind of casings .
+ES2004b.B.dialog-act.s9553330.228	2131.0	2138.671	B	PM	sug	+1	2	So you could have like psychedelic ones for younger people and sleek ones and {disfmarker}
+ES2004b.D.dialog-act.s9553330.232	2143.15	2148.09	D	ME	sug	+1	1	and people might want to put it on their mantelpiece or whatever as a ki if it looks attractive enough as a kind of ornament
+ES2004b.A.dialog-act.s9553330.133	2154.55	2157.07	A	UI	sug	+1	1	Yeah maybe we could come at some say five , six des designs

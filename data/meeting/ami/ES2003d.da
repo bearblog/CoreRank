@@ -1,0 +1,961 @@
+ES2003d.B.dialog-act.vkaraisk.1	0.04	3.11	B	PM	sug	-1	0	That should hopefully do the trick , um .
+ES2003d.B.dialog-act.vkaraisk.2	16.99	17.43	B	PM	stl	-1	0	'Kay .
+ES2003d.B.dialog-act.vkaraisk.3	17.43	20.27	B	PM	be.pos	-1	0	Sorry about the small delay .
+ES2003d.B.dialog-act.vkaraisk.4	20.27	24.44	B	PM	inf	-1	0	Falling a little bit behind schedule .
+ES2003d.B.dialog-act.vkaraisk.5	24.44	29.25	B	PM	inf	-1	0	And that's uh fifteen twenty five .
+ES2003d.B.dialog-act.vkaraisk.6	34.24	35.64	B	PM	stl	-1	0	Okay . So
+ES2003d.B.dialog-act.vkaraisk.7	35.64	41.21	B	PM	off	+1	1	just to try and roughly go over what we agreed in the last one , um
+ES2003d.B.dialog-act.vkaraisk.9	43.28	47.08	B	PM	el.inf	-1	0	we're gonna go for something uh uh how was it ?
+ES2003d.B.dialog-act.vkaraisk.10	47.08	49.23	B	PM	inf	-1	0	Uh The new black , I believe .
+ES2003d.C.dialog-act.vkaraisk.1	48.592	49.312	C	ME	fra	-1	0	{gap} .
+ES2003d.B.dialog-act.vkaraisk.11	49.23	51.28	B	PM	inf	+1	1	Um something that looks good
+ES2003d.B.dialog-act.vkaraisk.12	51.28	54.58	B	PM	inf	+1	1	'cause that seems to be in preference to actual functionality in the end ,
+ES2003d.B.dialog-act.vkaraisk.13	54.58	58.39	B	PM	inf	-1	0	though we should never avoid functionality , of course .
+ES2003d.B.dialog-act.vkaraisk.14	58.39	61.07	B	PM	inf	+1	1	Uh many of our components are gonna be standard , off the shelf ,
+ES2003d.B.dialog-act.vkaraisk.15	61.07	64.46	B	PM	inf	+1	1	but it seemed like we were gonna require at least an advanced chip
+ES2003d.B.dialog-act.vkaraisk.16	64.46	69.33	B	PM	inf	+1	1	and we were still very much for the idea of using an L_C_D_ display .
+ES2003d.B.dialog-act.vkaraisk.17	69.33	73.3	B	PM	inf	+1	1	Um other things were we were hoping to use rubber ,
+ES2003d.B.dialog-act.vkaraisk.18	73.3	75.72	B	PM	inf	+1	1	most likely gonna be double curved , etcetera .
+ES2003d.B.dialog-act.vkaraisk.19	77.66	80.86	B	PM	stl	-1	0	Okay . So um
+ES2003d.B.dialog-act.vkaraisk.20	80.86	84.5	B	PM	sug	+1	1	due to your hard work , we might as well let the uh two designers go first ,
+ES2003d.B.dialog-act.vkaraisk.21	84.5	87.21	B	PM	sug	+1	1	and uh show us the prototype .
+ES2003d.A.dialog-act.vkaraisk.1	87.07	87.72	A	UI	stl	-1	0	Okay ,
+ES2003d.A.dialog-act.vkaraisk.2	87.72	88.48	A	UI	fra	-1	0	it's a {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.22	89.22	91.65	B	PM	sug	+1	1	Quite how the best way to do this is , I'm not sure ,
+ES2003d.D.dialog-act.vkaraisk.1	89.252	90.259	D	ID	fra	-1	0	{vocalsound}
+ES2003d.A.dialog-act.vkaraisk.3	90.656	94.28	A	UI	sug	+1	1	{gap} I think if we both step up
+ES2003d.B.dialog-act.vkaraisk.23	91.65	92.416	B	PM	fra	-1	0	but {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.4	94.28	97.84	A	UI	sug	+1	1	and uh outline our ideas .
+ES2003d.A.dialog-act.vkaraisk.5	98.94	100.34	A	UI	stl	-1	0	Okay . Now
+ES2003d.A.dialog-act.vkaraisk.6	101.91	107.66	A	UI	inf	+1	1	do {disfmarker} uh doing the prototype gave us a bit more insight into the ergonomics of the design .
+ES2003d.A.dialog-act.vkaraisk.7	107.66	122.26	A	UI	inf	+1	1	Um for one thing , it turned out that the only point at which it needs to be articulated for handedness is um is h i is down here for the uh L_E_D_ .
+ES2003d.A.dialog-act.vkaraisk.8	122.26	133.37	A	UI	ass	+1	1	As it turned out , the whole thing transfers from the right to left hand fairly well from the point of view of operating the uh function buttons and joystick ,
+ES2003d.A.dialog-act.vkaraisk.9	133.37	140.24	A	UI	sug	-1	0	though it might be an idea to be able to a adjust the positions for the base of the joystick just a little bit
+ES2003d.A.dialog-act.vkaraisk.10	140.24	140.864	A	UI	fra	-1	0	for uh {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.24	140.65	141.0	B	PM	bck	-1	0	Okay .
+ES2003d.A.dialog-act.vkaraisk.11	142.031	144.5	A	UI	inf	-1	0	{gap} ju just a thought .
+ES2003d.A.dialog-act.vkaraisk.12	144.5	148.43	A	UI	sug	+1	1	You could simply have a slightly ovoid shaped joystick
+ES2003d.A.dialog-act.vkaraisk.13	148.43	151.63	A	UI	sug	+1	1	that could then just be turn uh twisted round ,
+ES2003d.A.dialog-act.vkaraisk.14	151.63	158.5	A	UI	sug	-1	0	so that the uh sticky uh so that the bit that sticks out a bit more is on one side or the other .
+ES2003d.A.dialog-act.vkaraisk.15	158.5	167.04	A	UI	ass	+1	1	But as you as you see with the uh {vocalsound} with holding it in the left hand , the L_ uh the L_C_D_ is nowhere useful ,
+ES2003d.A.dialog-act.vkaraisk.16	167.04	172.87	A	UI	sug	+1	1	so that would need to be articulated uh if we're going to retain {gap} ergonomic design .
+ES2003d.A.dialog-act.vkaraisk.17	174.1	176.28	A	UI	stl	-1	0	Um now
+ES2003d.A.dialog-act.vkaraisk.18	176.28	180.25	A	UI	inf	+1	1	I I got your note about uh keeping the cost down .
+ES2003d.B.dialog-act.vkaraisk.25	180.46	181.79	B	PM	ass	-1	0	I'm afraid yeah .
+ES2003d.A.dialog-act.vkaraisk.19	181.26	181.81	A	UI	stl	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.26	181.79	182.79	B	PM	sug	-1	0	We'll go into that a bit more ,
+ES2003d.A.dialog-act.vkaraisk.20	183.264	194.46	A	UI	sug	+1	2	{gap} this design could be done with um with uh plastic casing .
+ES2003d.B.dialog-act.vkaraisk.27	182.79	183.8	B	PM	sug	-1	0	but please go on .
+ES2003d.A.dialog-act.vkaraisk.21	194.46	200.71	A	UI	sug	+1	1	Though I would recommend around the grip part here in the middle , having maybe just a rubber grip over that
+ES2003d.A.dialog-act.vkaraisk.22	200.71	205.95	A	UI	inf	+1	1	which would allow for a slightly more sort of bio-morphic form , and a bit more ergonomic as well .
+ES2003d.A.dialog-act.vkaraisk.23	205.95	218.34	A	UI	sug	+1	2	As for the um as for the single curve , um well this edge and this edge , like I say it would be nice to have some curvature to it ,
+ES2003d.A.dialog-act.vkaraisk.24	218.34	219.51	A	UI	ass	-1	0	but it's not absolutely necessary .
+ES2003d.A.dialog-act.vkaraisk.25	219.51	222.67	A	UI	sug	+1	1	Really the curve that's most needed is the underside
+ES2003d.A.dialog-act.vkaraisk.26	222.67	228.51	A	UI	inf	-1	0	so that the jo so that the joystick rests over the the edge of the hand like this .
+ES2003d.A.dialog-act.vkaraisk.27	229.65	240.76	A	UI	inf	+1	1	Um and you have the uh transmitter here and a wee speaker for the uh for the uh for the uh fi uh for the remote control finder .
+ES2003d.A.dialog-act.vkaraisk.28	241.85	242.17	A	UI	stl	-1	0	So .
+ES2003d.B.dialog-act.vkaraisk.28	241.376	242.372	B	PM	fra	-1	0	{vocalsound}
+ES2003d.A.dialog-act.vkaraisk.29	244.36	245.55	A	UI	el.inf	-1	0	Any further comments ?
+ES2003d.D.dialog-act.vkaraisk.2	245.79	248.92	D	ID	sug	+1	1	Um obviously it's gonna be bulkier than how it looks ,
+ES2003d.D.dialog-act.vkaraisk.3	248.92	251.84	D	ID	sug	+1	2	because it's gonna be flat on one side ,
+ES2003d.D.dialog-act.vkaraisk.4	251.84	253.91	D	ID	inf	-1	0	so the L_C_D_ will be s sticking down like this ,
+ES2003d.D.dialog-act.vkaraisk.5	253.91	255.97	D	ID	el.ass	-1	0	won't it ?
+ES2003d.A.dialog-act.vkaraisk.30	254.84	256.41	A	UI	ass	-1	0	Mm-hmm . Yeah .
+ES2003d.D.dialog-act.vkaraisk.6	255.97	257.45	D	ID	inf	-1	0	'Cause it {disfmarker} you can't get it curved .
+ES2003d.A.dialog-act.vkaraisk.31	258.66	259.09	A	UI	stl	-1	0	Yeah , I mean
+ES2003d.A.dialog-act.vkaraisk.32	259.09	259.88	A	UI	fra	-1	0	the
+ES2003d.D.dialog-act.vkaraisk.7	258.64	260.41	D	ID	inf	-1	0	Uh because of costs .
+ES2003d.A.dialog-act.vkaraisk.33	259.88	260.99	A	UI	bck	-1	0	uh {disfmarker} Yeah .
+ES2003d.D.dialog-act.vkaraisk.8	260.41	261.52	D	ID	inf	+1	1	And it's plastic as well ,
+ES2003d.D.dialog-act.vkaraisk.9	261.52	264.38	D	ID	ass	+1	1	so it won't be as comfortable on the hand .
+ES2003d.A.dialog-act.vkaraisk.34	264.93	265.21	A	UI	stl	-1	0	Yeah .
+ES2003d.A.dialog-act.vkaraisk.35	265.21	272.18	A	UI	inf	-1	0	I mean with the with the rubber design it could i you know it could pretty much mould very much to the to the user's hand .
+ES2003d.B.dialog-act.vkaraisk.29	264.82	265.24	B	PM	bck	-1	0	Mm .
+ES2003d.A.dialog-act.vkaraisk.37	272.18	273.25	A	UI	ass	-1	0	One nice wee feature
+ES2003d.A.dialog-act.vkaraisk.36	273.25	285.08	A	UI	sug	+1	1	if we could if we could still do the rubber , I though of was to have {gap} the uh rubber extend beyond the end of the uh {vocalsound} of the rigid substructure .
+ES2003d.A.dialog-act.vkaraisk.38	285.08	286.18	A	UI	sug	+1	1	So it has a wee sort of tail
+ES2003d.A.dialog-act.vkaraisk.39	286.18	287.56	A	UI	sug	+1	1	that you just drape over your wrist
+ES2003d.A.dialog-act.vkaraisk.40	287.56	289.01	A	UI	ass	-1	0	so it stays in position nicely .
+ES2003d.B.dialog-act.vkaraisk.30	288.981	290.51	B	PM	fra	-1	0	{vocalsound}
+ES2003d.A.dialog-act.vkaraisk.41	290.31	293.37	A	UI	ass	-1	0	Mm . Lovely . Um .
+ES2003d.D.dialog-act.vkaraisk.10	295.23	296.767	D	ID	ass	-1	0	Yeah , {gap} . {vocalsound}
+ES2003d.B.dialog-act.vkaraisk.31	298.06	298.27	B	PM	stl	-1	0	Okay ,
+ES2003d.B.dialog-act.vkaraisk.32	298.27	301.17	B	PM	ass	-1	0	yeah . Great . Um .
+ES2003d.C.dialog-act.vkaraisk.2	299.4	299.97	C	ME	bck	-1	0	Right .
+ES2003d.C.dialog-act.vkaraisk.3	301.16	301.41	C	ME	stl	-1	0	Yeah
+ES2003d.C.dialog-act.vkaraisk.4	301.41	302.31	C	ME	fra	-1	0	I've got a {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.5	302.31	304.94	C	ME	sug	-1	0	if you load up my evaluation document .
+ES2003d.B.dialog-act.vkaraisk.33	304.2	306.68	B	PM	ass	-1	0	Yeah , okay {gap} .
+ES2003d.A.dialog-act.vkaraisk.42	305.27	305.62	A	UI	oth	-1	0	Okay .
+ES2003d.B.dialog-act.vkaraisk.34	306.68	307.7	B	PM	ass	-1	0	Excellent work .
+ES2003d.C.dialog-act.vkaraisk.6	308.07	308.23	C	ME	stl	-1	0	Mm .
+ES2003d.B.dialog-act.vkaraisk.35	312.88	314.47	B	PM	stl	-1	0	Um .
+ES2003d.C.dialog-act.vkaraisk.7	322.12	328.336	C	ME	inf	-1	0	Uh evaluation . {vocalsound}
+ES2003d.C.dialog-act.vkaraisk.8	329.94	336.2	C	ME	inf	+1	1	Basic point uh have a list of criteria that we need to rate the prototype by .
+ES2003d.C.dialog-act.vkaraisk.9	336.2	338.13	C	ME	fra	-1	0	{vocalsound} Um then we will {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.10	338.13	343.84	C	ME	inf	+1	1	it's a seven s um seven seven step kinda evaluation process .
+ES2003d.C.dialog-act.vkaraisk.11	343.84	346.21	C	ME	stl	-1	0	So um
+ES2003d.C.dialog-act.vkaraisk.12	346.21	346.85	C	ME	ass	-1	0	not seven steps ,
+ES2003d.C.dialog-act.vkaraisk.13	346.85	348.24	C	ME	inf	+1	1	seven scale .
+ES2003d.C.dialog-act.vkaraisk.14	348.24	348.5	C	ME	stl	-1	0	So
+ES2003d.C.dialog-act.vkaraisk.15	348.5	351.55	C	ME	inf	+1	1	after we've finished doing all the ratings for each criteria ,
+ES2003d.C.dialog-act.vkaraisk.16	351.55	352.5	C	ME	inf	+1	1	we average that
+ES2003d.C.dialog-act.vkaraisk.17	352.5	358.19	C	ME	inf	-1	0	and that will give us some type of uh confidence in our prototype .
+ES2003d.C.dialog-act.vkaraisk.18	358.19	372.85	C	ME	inf	+1	1	And uh the criteria {gap} based on Real Reactions' kinda goals and policies , marketing strategies , and also those I put together from the user requirements phase .
+ES2003d.C.dialog-act.vkaraisk.19	372.85	374.1	C	ME	stl	-1	0	'Kay . Um
+ES2003d.C.dialog-act.vkaraisk.20	374.1	375.55	C	ME	sug	-1	0	if you flip the {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.21	378.693	379.61	C	ME	stl	-1	0	{vocalsound} So ,
+ES2003d.C.dialog-act.vkaraisk.22	379.61	382.67	C	ME	inf	+1	1	those are the criteria .
+ES2003d.C.dialog-act.vkaraisk.23	382.67	385.69	C	ME	ass	+1	1	And uh perhaps I could have put 'em a bit better ,
+ES2003d.C.dialog-act.vkaraisk.24	385.69	388.74	C	ME	sug	+1	1	but you notice a few things that we've totally abandoned ,
+ES2003d.C.dialog-act.vkaraisk.25	388.74	396.81	C	ME	inf	+1	1	which means {vocalsound} that uh the product will score very badly on some of those points .
+ES2003d.B.dialog-act.vkaraisk.36	395.184	396.88	B	PM	fra	-1	0	{vocalsound}
+ES2003d.C.dialog-act.vkaraisk.26	396.81	397.97	C	ME	ass	-1	0	{vocalsound} Put it mildly .
+ES2003d.C.dialog-act.vkaraisk.27	397.97	398.14	C	ME	stl	-1	0	So
+ES2003d.C.dialog-act.vkaraisk.28	398.14	400.87	C	ME	inf	-1	0	we have um true ?
+ES2003d.C.dialog-act.vkaraisk.29	402.42	415.07	C	ME	inf	-1	0	One , t Seven , eight , oh . Fourth .
+ES2003d.C.dialog-act.vkaraisk.30	415.07	415.96	C	ME	stl	-1	0	Okay , so
+ES2003d.C.dialog-act.vkaraisk.31	415.96	417.72	C	ME	inf	+1	1	we have to go through each point .
+ES2003d.C.dialog-act.vkaraisk.32	417.72	419.65	C	ME	sug	-1	0	If we imagine it's actually straight ,
+ES2003d.C.dialog-act.vkaraisk.33	419.65	421.78	C	ME	inf	+1	1	and just give it a a score .
+ES2003d.C.dialog-act.vkaraisk.34	421.78	423.51	C	ME	stl	-1	0	So um
+ES2003d.C.dialog-act.vkaraisk.35	423.51	425.92	C	ME	fra	-1	0	how well would you say the prototype is
+ES2003d.C.dialog-act.vkaraisk.36	425.92	433.83	C	ME	el.ass	+1	1	uh how well have we realised the dream of being able to stop remotes from from being lost , or to be able to find them once they are lost .
+ES2003d.C.dialog-act.vkaraisk.37	433.83	438.269	C	ME	el.inf	+1	1	I mean , uh is the homing thing still {disfmarker} the locator , is that still {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.43	437.83	439.44	A	UI	inf	+1	1	Yeah , that's still part of the design .
+ES2003d.C.dialog-act.vkaraisk.38	439.6	439.97	C	ME	und	-1	0	Sure .
+ES2003d.C.dialog-act.vkaraisk.39	439.97	441.3	C	ME	el.inf	-1	0	And Adam , we can keep that in ?
+ES2003d.B.dialog-act.vkaraisk.37	441.76	442.97	B	PM	inf	-1	0	Yeah , I believe so .
+ES2003d.B.dialog-act.vkaraisk.38	442.97	443.28	B	PM	stl	-1	0	So
+ES2003d.B.dialog-act.vkaraisk.39	443.28	446.71	B	PM	inf	+1	1	I mean I don't think anybody could actually stop a remote being lost ,
+ES2003d.C.dialog-act.vkaraisk.40	443.08	443.39	C	ME	bck	-1	0	Okay .
+ES2003d.B.dialog-act.vkaraisk.40	446.71	450.09	B	PM	inf	-1	0	'cause that would mean doing something about the human element ,
+ES2003d.C.dialog-act.vkaraisk.41	448.992	449.94	C	ME	ass	-1	0	{vocalsound} Sure .
+ES2003d.B.dialog-act.vkaraisk.41	450.09	455.14	B	PM	inf	-1	0	but I'd like to think that we've done something about finding the damn thing once we have .
+ES2003d.C.dialog-act.vkaraisk.42	451.23	451.53	C	ME	fra	-1	0	T
+ES2003d.A.dialog-act.vkaraisk.44	453.73	453.9	A	UI	bck	-1	0	Mm .
+ES2003d.A.dialog-act.vkaraisk.45	455.47	457.32	A	UI	ass	+1	1	Mm . And making it a bright colour helps
+ES2003d.C.dialog-act.vkaraisk.43	455.27	455.88	C	ME	bck	-1	0	Sure .
+ES2003d.A.dialog-act.vkaraisk.46	457.32	457.57	A	UI	fra	-1	0	with the {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.47	457.57	459.66	A	UI	sug	-1	0	personally I would have gone for purple {gap} .
+ES2003d.A.dialog-act.vkaraisk.49	460.212	461.105	A	UI	fra	-1	0	{vocalsound}
+ES2003d.B.dialog-act.vkaraisk.42	460.192	460.8	B	PM	fra	-1	0	{vocalsound}
+ES2003d.C.dialog-act.vkaraisk.44	459.76	461.37	C	ME	und	-1	0	Mm . Bright colour .
+ES2003d.C.dialog-act.vkaraisk.45	461.37	461.49	C	ME	stl	-1	0	So
+ES2003d.C.dialog-act.vkaraisk.46	461.49	462.5	C	ME	inf	+1	1	we still have that noise thing ,
+ES2003d.C.dialog-act.vkaraisk.47	462.5	463.71	C	ME	el.ass	-1	0	yeah ?
+ES2003d.A.dialog-act.vkaraisk.48	463.21	463.64	A	UI	ass	-1	0	Mm-hmm .
+ES2003d.C.dialog-act.vkaraisk.48	463.71	464.01	C	ME	fra	-1	0	Os
+ES2003d.C.dialog-act.vkaraisk.49	464.01	469.67	C	ME	el.ass	+1	1	on a scale of one to seven , how would you guys rate it for finding {gap} finding it once it's lost ?
+ES2003d.A.dialog-act.vkaraisk.50	471.74	472.82	A	UI	ass	+1	1	I'd say number one .
+ES2003d.C.dialog-act.vkaraisk.50	473.16	474.28	C	ME	und	-1	0	Number one ?
+ES2003d.D.dialog-act.vkaraisk.11	473.2	475.765	D	ID	ass	-1	0	One . Yeah . {vocalsound}
+ES2003d.C.dialog-act.vkaraisk.51	474.28	474.78	C	ME	und	-1	0	Okay .
+ES2003d.C.dialog-act.vkaraisk.52	474.78	478.55	C	ME	inf	-1	0	Number number one for the first criteria .
+ES2003d.A.dialog-act.vkaraisk.51	478.31	486.57	A	UI	fra	-1	0	I think w if it was just the sounder then th {gap} I mean something I've found with uh w w
+ES2003d.A.dialog-act.vkaraisk.52	486.57	491.99	A	UI	inf	-1	0	with say tr trying to find uh a cordless phone or a m mobile , you can hear it ,
+ES2003d.A.dialog-act.vkaraisk.53	491.99	495.07	A	UI	inf	-1	0	but you can't quite pin it dow pin down where it is .
+ES2003d.C.dialog-act.vkaraisk.53	495.0	495.36	C	ME	ass	-1	0	Yeah
+ES2003d.C.dialog-act.vkaraisk.54	495.36	497.84	C	ME	inf	-1	0	you can tell what room the mobile is {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.54	498.05	498.33	A	UI	fra	-1	0	Bu
+ES2003d.D.dialog-act.vkaraisk.12	497.78	507.51	D	ID	el.sug	-1	0	What about {disfmarker} what if the the volume on the T_V_'s turned up massively and uh you just wanna turn down the volume {gap} can't find remote .
+ES2003d.D.dialog-act.vkaraisk.13	508.76	512.41	D	ID	sug	-1	0	Suppose you have to go to the T_V_ and do it manually . Mm .
+ES2003d.C.dialog-act.vkaraisk.55	510.77	511.25	C	ME	ass	-1	0	Yeah .
+ES2003d.A.dialog-act.vkaraisk.55	511.38	511.84	A	UI	ass	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.43	512.25	514.08	B	PM	ass	-1	0	Mm . Um
+ES2003d.C.dialog-act.vkaraisk.56	512.9	513.24	C	ME	oth	-1	0	Yeah .
+ES2003d.D.dialog-act.vkaraisk.14	513.66	515.79	D	ID	inf	-1	0	Like y you wouldn't hear the speaker {gap} .
+ES2003d.C.dialog-act.vkaraisk.57	515.78	516.03	C	ME	bck	-1	0	Mm-hmm .
+ES2003d.B.dialog-act.vkaraisk.44	516.29	521.8	B	PM	fra	+1	1	just before we go through all of the steps here , um well what we'll do is
+ES2003d.C.dialog-act.vkaraisk.58	518.67	519.36	C	ME	el.inf	-1	0	You wanna say something ?
+ES2003d.B.dialog-act.vkaraisk.45	524.09	526.92	B	PM	sug	+1	1	um if we can look at the criteria you're gonna evaluate ,
+ES2003d.B.dialog-act.vkaraisk.46	526.92	528.75	B	PM	sug	+1	1	and then we'll come back to the product evaluation
+ES2003d.B.dialog-act.vkaraisk.47	528.75	530.89	B	PM	el.ass	-1	0	if that's alright .
+ES2003d.C.dialog-act.vkaraisk.59	530.29	530.73	C	ME	ass	-1	0	That's fine .
+ES2003d.B.dialog-act.vkaraisk.48	530.89	531.648	B	PM	el.ass	-1	0	Yeah , is that {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.60	531.94	532.91	C	ME	ass	-1	0	Oh that's that's fine .
+ES2003d.B.dialog-act.vkaraisk.49	533.43	534.18	B	PM	stl	-1	0	Um so
+ES2003d.B.dialog-act.vkaraisk.50	534.18	544.89	B	PM	el.inf	+1	0	is there anything here that you that you wanted to cover as in the criteria that you've covered ?
+ES2003d.B.dialog-act.vkaraisk.51	544.89	546.93	B	PM	sug	+1	1	And then we'll come back pretty much promptly to this .
+ES2003d.C.dialog-act.vkaraisk.61	546.9	548.608	C	ME	und	-1	0	What do you mean cr is there anything I wanna {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.52	548.23	551.01	B	PM	el.inf	-1	0	I is there any of these criteria that need any explaining ?
+ES2003d.B.dialog-act.vkaraisk.53	551.01	554.91	B	PM	el.inf	-1	0	Or is there anything that yous thought tha really would stand out compared to the others ?
+ES2003d.C.dialog-act.vkaraisk.62	555.15	557.405	C	ME	inf	-1	0	Um , a few . {vocalsound}
+ES2003d.C.dialog-act.vkaraisk.63	558.88	560.99	C	ME	inf	+1	1	Something I neglected from my initial research
+ES2003d.C.dialog-act.vkaraisk.64	560.99	571.47	C	ME	inf	+1	1	is that Real Reactions has a a goal strategy that all of the products be inspired by material fashion , and clothing fashion .
+ES2003d.C.dialog-act.vkaraisk.65	571.47	577.83	C	ME	inf	+1	1	That is why fruit and veg being popular in the home and in clothing was important
+ES2003d.C.dialog-act.vkaraisk.66	577.83	583.33	C	ME	inf	-1	0	and they want all their products to be somehow inspired by current trends in fashion .
+ES2003d.C.dialog-act.vkaraisk.67	583.33	585.2	C	ME	inf	-1	0	So they say we put the fashion in electronics ,
+ES2003d.C.dialog-act.vkaraisk.68	585.2	585.34	C	ME	stl	-1	0	well
+ES2003d.C.dialog-act.vkaraisk.69	585.34	588.25	C	ME	inf	-1	0	they really mean it they they're very big on fashion ,
+ES2003d.B.dialog-act.vkaraisk.54	588.67	589.13	B	PM	und	-1	0	Okay .
+ES2003d.C.dialog-act.vkaraisk.70	588.25	588.63	C	ME	fra	-1	0	so .
+ES2003d.C.dialog-act.vkaraisk.71	590.28	592.88	C	ME	inf	-1	0	That's this bit right here .
+ES2003d.C.dialog-act.vkaraisk.72	592.88	599.94	C	ME	inf	+1	1	And uh this bit is this one easy to use for visitors or for anybody ?
+ES2003d.C.dialog-act.vkaraisk.73	599.94	602.73	C	ME	inf	+1	1	I guess it's just the same as saying easy to use interface ,
+ES2003d.C.dialog-act.vkaraisk.74	602.73	605.15	C	ME	inf	-1	0	so it's kinda condensed into one .
+ES2003d.C.dialog-act.vkaraisk.75	605.15	606.36	C	ME	inf	+1	1	And we can come back to it , you said .
+ES2003d.B.dialog-act.vkaraisk.55	606.55	607.58	B	PM	bck	-1	0	Okay .
+ES2003d.C.dialog-act.vkaraisk.76	606.36	606.53	C	ME	fra	-1	0	So .
+ES2003d.B.dialog-act.vkaraisk.56	607.58	607.82	B	PM	stl	-1	0	No
+ES2003d.B.dialog-act.vkaraisk.57	607.82	610.06	B	PM	sug	-1	0	and which we will do very very shortly .
+ES2003d.B.dialog-act.vkaraisk.58	612.99	619.82	B	PM	stl	-1	0	Um . Okay .
+ES2003d.B.dialog-act.vkaraisk.59	619.82	620.84	B	PM	inf	+1	2	Slight problem we had
+ES2003d.B.dialog-act.vkaraisk.60	620.84	628.1	B	PM	inf	+1	3	was that we have an amazing four Euros over budget for what we were hoping to do .
+ES2003d.B.dialog-act.vkaraisk.61	628.1	632.26	B	PM	inf	+1	2	Um most of it stems from the use of the L_C_D_
+ES2003d.B.dialog-act.vkaraisk.62	632.26	636.54	B	PM	inf	+1	3	which I think in the end accounted for about half of our expenditure
+ES2003d.B.dialog-act.vkaraisk.63	636.54	639.25	B	PM	inf	-1	0	because of course we required a chip as well .
+ES2003d.B.dialog-act.vkaraisk.64	639.25	645.08	B	PM	inf	+1	3	Um the only way to get this down was either to ditch the a L_C_D_ ,
+ES2003d.B.dialog-act.vkaraisk.65	645.08	648.68	B	PM	inf	+1	3	at which point we've removed a large part of how we were gonna interface , {gap}
+ES2003d.B.dialog-act.vkaraisk.66	648.68	650.21	B	PM	inf	-1	0	require more buttons , etcetera .
+ES2003d.B.dialog-act.vkaraisk.67	652.08	660.52	B	PM	inf	+1	2	Or what we did was that we um we as in I as I was quickly going over it was altering the actual structure .
+ES2003d.B.dialog-act.vkaraisk.68	660.52	669.56	B	PM	inf	+1	3	Um changing it to plastic and a solid unit with a single curve design would allow us to come back into the um proposed costs
+ES2003d.B.dialog-act.vkaraisk.69	669.56	670.92	B	PM	inf	-1	0	and we're just scraping it in ,
+ES2003d.B.dialog-act.vkaraisk.70	670.92	673.89	B	PM	inf	+1	2	we've got point two of a Euro left over there .
+ES2003d.B.dialog-act.vkaraisk.71	673.89	676.48	B	PM	inf	-1	0	So we're just managing it really .
+ES2003d.B.dialog-act.vkaraisk.72	676.48	681.11	B	PM	inf	+1	2	Even then as well , um there was no criteria technically defined for a joystick
+ES2003d.B.dialog-act.vkaraisk.73	681.11	683.46	B	PM	inf	+1	2	so I've used what I think's appropriate .
+ES2003d.B.dialog-act.vkaraisk.74	683.46	687.12	B	PM	oth	-1	0	With any luck that won't mean that we've incurred more cost than we can actually afford to .
+ES2003d.B.dialog-act.vkaraisk.75	689.82	693.83	B	PM	inf	+1	2	It blows a lot of our really good ideas kind of slightly to one side ,
+ES2003d.B.dialog-act.vkaraisk.76	693.83	699.4	B	PM	inf	+1	2	for example the possibility of having a U_S_B_ connection is definitely not viable now . Um .
+ES2003d.C.dialog-act.vkaraisk.77	700.45	701.37	C	ME	el.inf	-1	0	Different languages ?
+ES2003d.B.dialog-act.vkaraisk.77	702.23	703.51	B	PM	inf	-1	0	That should still be viable .
+ES2003d.B.dialog-act.vkaraisk.78	703.51	704.59	B	PM	inf	+1	1	We've got an advanced chip ,
+ES2003d.B.dialog-act.vkaraisk.79	704.59	705.95	B	PM	inf	+1	3	we've got the use of the L_C_D_ .
+ES2003d.B.dialog-act.vkaraisk.80	705.95	711.79	B	PM	inf	-1	0	So being able to communicate in multiple languages is still very much a possibility .
+ES2003d.C.dialog-act.vkaraisk.78	706.77	711.425	C	ME	bck	-1	0	Yeah . {vocalsound}
+ES2003d.B.dialog-act.vkaraisk.81	711.79	717.52	B	PM	el.sug	-1	0	Um but what's something we need to decide on is how we're gonna go from here .
+ES2003d.B.dialog-act.vkaraisk.82	717.52	719.21	B	PM	sug	-1	0	{vocalsound} We do need to try and come up with an idea
+ES2003d.B.dialog-act.vkaraisk.83	719.21	723.33	B	PM	sug	-1	0	which could be continued with other people if need be . Um .
+ES2003d.B.dialog-act.vkaraisk.84	725.19	725.58	B	PM	fra	-1	0	We can
+ES2003d.B.dialog-act.vkaraisk.85	725.58	727.11	B	PM	off	-1	0	I can bring the excel up sheet up
+ES2003d.B.dialog-act.vkaraisk.86	727.11	729.96	B	PM	off	-1	0	and uh show you if you wish um .
+ES2003d.B.dialog-act.vkaraisk.87	729.96	732.13	B	PM	ass	+1	2	I really think as m much as it pains me
+ES2003d.B.dialog-act.vkaraisk.88	732.13	735.9	B	PM	sug	+1	3	is that we might have to go with plastic and some kind of solid design ,
+ES2003d.B.dialog-act.vkaraisk.89	735.9	741.03	B	PM	inf	+1	1	possibly meaning that the L_C_D_ wouldn't be in this perfect place .
+ES2003d.B.dialog-act.vkaraisk.90	741.03	746.24	B	PM	inf	-1	0	It might be s stuck like slightly between what would be good for left handed and what would be good for a right handed person .
+ES2003d.A.dialog-act.vkaraisk.56	747.22	751.69	A	UI	sug	+1	1	Mm-hmm I suppose o one thing that could be done is h {vocalsound} is have it um circular
+ES2003d.A.dialog-act.vkaraisk.57	751.69	758.99	A	UI	sug	-1	0	and have it s {vocalsound} so that the uh the pink {gap} actually goes a bit over the pinkie finger . Mm .
+ES2003d.B.dialog-act.vkaraisk.91	757.49	757.92	B	PM	ass	-1	0	Okay .
+ES2003d.C.dialog-act.vkaraisk.79	758.48	758.76	C	ME	bck	-1	0	Mm .
+ES2003d.A.dialog-act.vkaraisk.58	758.99	760.16	A	UI	fra	-1	0	So that uh th
+ES2003d.B.dialog-act.vkaraisk.92	760.76	764.24	B	PM	inf	-1	0	It very much is about making concessions , unfortunately . Um .
+ES2003d.A.dialog-act.vkaraisk.59	764.21	765.12	A	UI	ass	-1	0	Mm .
+ES2003d.C.dialog-act.vkaraisk.80	765.41	769.12	C	ME	el.inf	+1	1	Do you have any data on how much um different prints cost ?
+ES2003d.C.dialog-act.vkaraisk.81	769.12	772.83	C	ME	el.inf	+1	1	I mean can you get the entire thing printed with a design um ?
+ES2003d.B.dialog-act.vkaraisk.93	774.05	777.63	B	PM	el.inf	-1	0	Um b b b da is {disfmarker} you mean on the plastic , or ?
+ES2003d.C.dialog-act.vkaraisk.82	776.4	777.2	C	ME	fra	-1	0	{gap} .
+ES2003d.B.dialog-act.vkaraisk.94	777.63	779.42	B	PM	sug	-1	0	Let's have a look .
+ES2003d.B.dialog-act.vkaraisk.95	779.42	783.38	B	PM	inf	+1	1	You now have as much information as I do . {vocalsound} Um .
+ES2003d.C.dialog-act.vkaraisk.83	781.72	782.22	C	ME	bck	-1	0	Yeah , yeah .
+ES2003d.B.dialog-act.vkaraisk.96	785.19	785.37	B	PM	stl	-1	0	So
+ES2003d.B.dialog-act.vkaraisk.97	785.37	790.75	B	PM	inf	-1	0	as you can see here , for example , the battery really not very little choice in that one .
+ES2003d.B.dialog-act.vkaraisk.98	790.75	793.05	B	PM	inf	-1	0	We've gone for one of the cheaper options as well .
+ES2003d.B.dialog-act.vkaraisk.99	793.05	796.29	B	PM	inf	-1	0	Unfortunately we require the advanced chip if we're gonna do what we're needing to .
+ES2003d.B.dialog-act.vkaraisk.100	797.65	799.01	B	PM	inf	+1	2	I've said single curved .
+ES2003d.B.dialog-act.vkaraisk.101	799.01	802.73	B	PM	inf	+1	2	We really do need it to be that way for the ergonomics of it .
+ES2003d.B.dialog-act.vkaraisk.102	802.73	805.19	B	PM	inf	+1	3	Um plastic for some reason incurs no cost ,
+ES2003d.B.dialog-act.vkaraisk.103	805.19	806.95	B	PM	inf	-1	0	which I've had to very much make advantage of ,
+ES2003d.B.dialog-act.vkaraisk.104	806.95	811.45	B	PM	inf	-1	0	despite the fact that rubber's only got a value of two Euros per unit .
+ES2003d.B.dialog-act.vkaraisk.105	811.45	815.01	B	PM	ass	-1	0	Problem comes here as you can see in the interface . Um
+ES2003d.B.dialog-act.vkaraisk.106	816.92	823.06	B	PM	sug	+1	2	if I've read this thing correctly , then we can save point five of a Euro here in that it's not per push button .
+ES2003d.B.dialog-act.vkaraisk.107	823.06	824.01	B	PM	ass	-1	0	That might make sense ,
+ES2003d.B.dialog-act.vkaraisk.108	824.01	828.65	B	PM	inf	-1	0	because then a numeric keypad would come in at um what , four point five Euros ,
+ES2003d.B.dialog-act.vkaraisk.109	828.65	829.71	B	PM	ass	-1	0	which is an awful lot ,
+ES2003d.B.dialog-act.vkaraisk.110	829.71	831.84	B	PM	ass	-1	0	so that could well be wrong .
+ES2003d.B.dialog-act.vkaraisk.111	831.84	838.2	B	PM	sug	-1	0	Even if we save point five there , it would just mean that we're most likely placing it in actually just gaining a colour for the unit ,
+ES2003d.B.dialog-act.vkaraisk.112	838.2	840.27	B	PM	inf	-1	0	which has had to be put to one side .
+ES2003d.B.dialog-act.vkaraisk.113	840.27	849.01	B	PM	fra	+1	1	As you can see , the use of an L_C_ display um advanced chip and what would determine the scroll wheel here as well
+ES2003d.B.dialog-act.vkaraisk.114	849.01	854.97	B	PM	inf	+1	0	because it's an integrated scroll scroll wheel push button that wasn't quite what I think they had in mind with a joystick .
+ES2003d.C.dialog-act.vkaraisk.84	855.37	859.91	C	ME	el.inf	-1	0	Why would why would that be more expensive than an individual push button and scroll wheel together ?
+ES2003d.C.dialog-act.vkaraisk.85	861.16	862.79	C	ME	inf	-1	0	That's quite significantly expensive .
+ES2003d.B.dialog-act.vkaraisk.115	864.55	865.78	B	PM	fra	-1	0	I {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.116	865.78	869.63	B	PM	sug	-1	0	that's something you'll have to take up with the bean counters . Um
+ES2003d.C.dialog-act.vkaraisk.86	866.023	868.393	C	ME	fra	-1	0	{gap} .
+ES2003d.D.dialog-act.vkaraisk.15	865.936	869.304	D	ID	fra	-1	0	{vocalsound}
+ES2003d.A.dialog-act.vkaraisk.60	869.83	871.02	A	UI	stl	-1	0	Mm . {gap} yeah .
+ES2003d.B.dialog-act.vkaraisk.117	871.2	875.03	B	PM	inf	-1	0	as you can see I mean that's taken up well over half of the price .
+ES2003d.C.dialog-act.vkaraisk.87	874.16	874.52	C	ME	bck	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.118	875.03	876.58	B	PM	stl	-1	0	So um
+ES2003d.B.dialog-act.vkaraisk.119	876.58	879.06	B	PM	el.sug	+1	1	I'm very much open to suggestions of where we go ,
+ES2003d.B.dialog-act.vkaraisk.120	879.06	890.3	B	PM	inf	-1	0	but because we need to shed what was four Euros off of the um the price of for what we really desired ,
+ES2003d.B.dialog-act.vkaraisk.121	890.3	892.72	B	PM	inf	+1	2	this one comes in under price as you can see ,
+ES2003d.B.dialog-act.vkaraisk.122	892.72	899.42	B	PM	inf	+1	1	but this was the one that sacrificed the material for the case and for the actual case design .
+ES2003d.C.dialog-act.vkaraisk.88	899.62	901.46	C	ME	inf	-1	0	We don't even have uh speakers here .
+ES2003d.C.dialog-act.vkaraisk.89	901.46	902.15	C	ME	fra	-1	0	The {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.90	902.15	902.38	C	ME	stl	-1	0	like uh
+ES2003d.C.dialog-act.vkaraisk.91	902.38	902.72	C	ME	fra	-1	0	we
+ES2003d.C.dialog-act.vkaraisk.92	902.72	907.06	C	ME	el.inf	+1	2	uh {disfmarker} what about speakers and transmitters and stuff like that ? Have we factored that in ?
+ES2003d.D.dialog-act.vkaraisk.16	907.05	907.49	D	ID	bck	-1	0	Mm .
+ES2003d.B.dialog-act.vkaraisk.123	908.73	912.275	B	PM	inf	+1	2	Uh no , we haven't , not {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.93	910.81	917.67	C	ME	inf	+1	1	Transmitter , receiver , speakers . Plus the extra device itself that's gonna be on a T_V_ .
+ES2003d.D.dialog-act.vkaraisk.17	911.4	913.675	D	ID	fra	-1	0	{vocalsound}
+ES2003d.C.dialog-act.vkaraisk.94	917.67	919.04	C	ME	el.sug	-1	0	Is that gonna be a button , or {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.124	919.73	922.7	B	PM	sug	-1	0	That'll {gap} it literally would just be a button .
+ES2003d.C.dialog-act.vkaraisk.95	921.62	921.99	C	ME	bck	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.125	922.7	923.888	B	PM	fra	-1	0	We might have to {disfmarker}
+ES2003d.D.dialog-act.vkaraisk.18	922.65	924.88	D	ID	inf	+1	2	That's too expensive {gap}
+ES2003d.D.dialog-act.vkaraisk.19	924.88	925.28	D	ID	el.ass	-1	0	isn't it ?
+ES2003d.B.dialog-act.vkaraisk.126	926.21	927.504	B	PM	fra	-1	0	It looks like almost nothing {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.127	929.46	930.66	B	PM	stl	-1	0	Mm . Oh
+ES2003d.B.dialog-act.vkaraisk.128	930.66	931.17	B	PM	ass	-1	0	good call ,
+ES2003d.B.dialog-act.vkaraisk.129	931.17	931.73	B	PM	inf	-1	0	I missed that .
+ES2003d.C.dialog-act.vkaraisk.96	932.66	933.92	C	ME	inf	-1	0	I I mean it's not on here ,
+ES2003d.C.dialog-act.vkaraisk.97	933.92	935.29	C	ME	fra	-1	0	but um .
+ES2003d.B.dialog-act.vkaraisk.130	934.763	937.32	B	PM	ass	-1	0	{gap} that's a very valid point .
+ES2003d.C.dialog-act.vkaraisk.98	938.37	938.88	C	ME	fra	-1	0	Did they s
+ES2003d.C.dialog-act.vkaraisk.99	938.88	943.23	C	ME	el.inf	-1	0	do we have to use an advanced chip for the L_C_D_ ?
+ES2003d.D.dialog-act.vkaraisk.20	942.2	942.62	D	ID	inf	-1	0	Yeah .
+ES2003d.C.dialog-act.vkaraisk.100	943.23	943.95	C	ME	und	-1	0	Okay .
+ES2003d.C.dialog-act.vkaraisk.101	943.95	944.12	C	ME	stl	-1	0	Well
+ES2003d.C.dialog-act.vkaraisk.102	944.12	946.0	C	ME	fra	-1	0	that's {disfmarker} yeah .
+ES2003d.B.dialog-act.vkaraisk.131	945.63	948.608	B	PM	fra	-1	0	So if we're gonna go with the L_C_ display , then that's {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.103	949.67	951.52	C	ME	el.inf	-1	0	What's a hand dyna dynamo ?
+ES2003d.C.dialog-act.vkaraisk.104	951.52	952.45	C	ME	el.inf	-1	0	You have to wind it up ?
+ES2003d.B.dialog-act.vkaraisk.132	952.93	954.07	B	PM	inf	-1	0	I believe so , yeah .
+ES2003d.C.dialog-act.vkaraisk.105	953.988	957.444	C	ME	fra	-1	0	{vocalsound}
+ES2003d.D.dialog-act.vkaraisk.21	954.016	956.162	D	ID	fra	-1	0	{vocalsound}
+ES2003d.B.dialog-act.vkaraisk.133	956.2	961.58	B	PM	ass	-1	0	That would probably not be in keeping with the um the fashion statement and such ,
+ES2003d.C.dialog-act.vkaraisk.106	958.848	961.96	C	ME	ass	-1	0	{vocalsound} Technology . Yeah .
+ES2003d.D.dialog-act.vkaraisk.22	960.08	960.71	D	ID	ass	-1	0	Fashion .
+ES2003d.B.dialog-act.vkaraisk.134	961.58	962.01	B	PM	ass	-1	0	yeah .
+ES2003d.C.dialog-act.vkaraisk.107	963.92	964.2	C	ME	bck	-1	0	Okay .
+ES2003d.D.dialog-act.vkaraisk.23	963.97	964.42	D	ID	stl	-1	0	So basically
+ES2003d.D.dialog-act.vkaraisk.24	964.42	968.71	D	ID	inf	-1	0	the only new thing is the L_C_D_ on the remote now .
+ES2003d.B.dialog-act.vkaraisk.135	967.8	969.27	B	PM	inf	-1	0	Being manipulated by the joystick ,
+ES2003d.B.dialog-act.vkaraisk.136	969.27	969.76	B	PM	unset	-1	0	yeah .
+ES2003d.D.dialog-act.vkaraisk.25	969.84	970.61	D	ID	und	-1	0	Oh , and joystick ,
+ES2003d.D.dialog-act.vkaraisk.26	970.61	970.77	D	ID	ass	-1	0	yeah .
+ES2003d.B.dialog-act.vkaraisk.137	971.71	977.48	B	PM	inf	-1	0	Which I'm defining as scroll wheel . Um .
+ES2003d.C.dialog-act.vkaraisk.108	978.12	980.18	C	ME	inf	-1	0	And we couldn't replace the joystick ,
+ES2003d.C.dialog-act.vkaraisk.109	980.18	980.51	C	ME	el.ass	-1	0	right ?
+ES2003d.C.dialog-act.vkaraisk.110	980.51	983.71	C	ME	inf	-1	0	Because we would need four extra buttons to replace it , up down left and right ,
+ES2003d.C.dialog-act.vkaraisk.111	983.71	984.89	C	ME	inf	-1	0	and that would be more expensive
+ES2003d.C.dialog-act.vkaraisk.112	984.89	985.95	C	ME	fra	-1	0	than a {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.113	985.95	988.89	C	ME	el.inf	-1	0	but is a scroll wheel not just back and forward ?
+ES2003d.A.dialog-act.vkaraisk.61	986.78	987.25	A	UI	bck	-1	0	Mm .
+ES2003d.B.dialog-act.vkaraisk.138	989.49	989.97	B	PM	inf	-1	0	Yeah
+ES2003d.B.dialog-act.vkaraisk.139	989.97	992.92	B	PM	inf	-1	0	it's just because there was no actual definition for what a joystick might be ,
+ES2003d.B.dialog-act.vkaraisk.140	992.92	997.74	B	PM	inf	-1	0	that that's what I've labelled it for the purposes of this evaluation .
+ES2003d.D.dialog-act.vkaraisk.27	995.54	995.888	D	ID	stl	-1	0	So {disfmarker}
+ES2003d.D.dialog-act.vkaraisk.28	998.47	1001.15	D	ID	ass	-1	0	The L_C_D_ basically is the big selling point of
+ES2003d.B.dialog-act.vkaraisk.141	1001.46	1004.9	B	PM	sug	+1	3	If we remove the L_C_ display , we could save ourselves
+ES2003d.D.dialog-act.vkaraisk.29	1002.62	1003.47	D	ID	ass	-1	0	the remote .
+ES2003d.B.dialog-act.vkaraisk.142	1006.96	1008.29	B	PM	sug	-1	0	a fair amount .
+ES2003d.B.dialog-act.vkaraisk.143	1009.57	1010.256	B	PM	fra	-1	0	Which you could {vocalsound} {disfmarker}
+ES2003d.D.dialog-act.vkaraisk.30	1009.86	1011.48	D	ID	ass	-1	0	But that's what makes it uh original though ,
+ES2003d.A.dialog-act.vkaraisk.62	1011.54	1017.48	A	UI	ass	+1	2	Mm . I think {gap} if we remove the the L_C_ display then there was absolutely no point to any of these meetings
+ES2003d.C.dialog-act.vkaraisk.114	1011.86	1019.024	C	ME	ass	-1	0	Yeah . {vocalsound}
+ES2003d.D.dialog-act.vkaraisk.31	1011.48	1012.18	D	ID	el.ass	-1	0	isn't it ?
+ES2003d.A.dialog-act.vkaraisk.63	1017.48	1022.62	A	UI	sug	-1	0	and we just {gap} we could just put our branding on any other remote control .
+ES2003d.C.dialog-act.vkaraisk.115	1022.4	1023.64	C	ME	ass	-1	0	Yeah . Yeah .
+ES2003d.C.dialog-act.vkaraisk.116	1023.64	1025.1	C	ME	stl	-1	0	Um . Uh
+ES2003d.C.dialog-act.vkaraisk.117	1025.1	1025.39	C	ME	fra	-1	0	k
+ES2003d.B.dialog-act.vkaraisk.145	1027.2	1028.09	B	PM	ass	-1	0	It's a shame .
+ES2003d.B.dialog-act.vkaraisk.144	1028.09	1029.152	B	PM	fra	-1	0	We should possibly have {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.146	1031.27	1037.57	B	PM	sug	+1	1	If we could've increased the price we could've manufactured that and we could've got something far closer to what we were hoping to .
+ES2003d.C.dialog-act.vkaraisk.119	1036.47	1039.87	C	ME	fra	-1	0	Does this does this bear in mind that {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.118	1039.87	1041.13	C	ME	ass	-1	0	I mean it's a bit ridiculous
+ES2003d.C.dialog-act.vkaraisk.120	1041.13	1050.18	C	ME	inf	-1	0	that they're gonna charge us what is it , like this much money for three million if we're gonna buy three million components ,
+ES2003d.B.dialog-act.vkaraisk.147	1050.59	1053.3	B	PM	sug	-1	0	Again , you'll have to argue with the accountants on that one .
+ES2003d.C.dialog-act.vkaraisk.121	1050.18	1050.52	C	ME	el.und	-1	0	you know .
+ES2003d.B.dialog-act.vkaraisk.148	1053.3	1058.19	B	PM	sug	+1	1	Um but for the purposes of this meeting , I'm {disfmarker} we're gonna have to stick with these figures .
+ES2003d.C.dialog-act.vkaraisk.122	1052.87	1053.01	C	ME	bck	-1	0	Mm .
+ES2003d.C.dialog-act.vkaraisk.123	1059.07	1059.59	C	ME	ass	-1	0	'Kay .
+ES2003d.B.dialog-act.vkaraisk.149	1061.09	1061.56	B	PM	stl	-1	0	So ,
+ES2003d.B.dialog-act.vkaraisk.150	1062.9	1066.57	B	PM	sug	+1	3	I would say that it would seem like the general opinion is we're gonna keep the L_C_ display
+ES2003d.B.dialog-act.vkaraisk.151	1066.57	1068.78	B	PM	inf	-1	0	'cause it's about what really separates us , {vocalsound}
+ES2003d.B.dialog-act.vkaraisk.152	1068.78	1072.16	B	PM	inf	-1	0	despite the cost it's gonna incur . Um
+ES2003d.C.dialog-act.vkaraisk.124	1068.69	1069.26	C	ME	ass	-1	0	I think so .
+ES2003d.B.dialog-act.vkaraisk.153	1074.12	1083.46	B	PM	el.ass	+1	1	are people maybe not happy with , but are willing to go ahead with this in going for a plastic solid case , to keep the L_C_D_ ?
+ES2003d.A.dialog-act.vkaraisk.64	1084.38	1087.95	A	UI	stl	-1	0	Mm-hmm . Um yeah {gap} I mean
+ES2003d.A.dialog-act.vkaraisk.65	1087.95	1088.25	A	UI	off	-1	0	one thing ,
+ES2003d.A.dialog-act.vkaraisk.66	1088.25	1094.4	A	UI	el.inf	+1	2	I mean ho uh how much extra would it be to to keep I mean {vocalsound} keep the um the articulation ?
+ES2003d.B.dialog-act.vkaraisk.154	1095.29	1096.39	B	PM	inf	-1	0	It's hard to tell .
+ES2003d.B.dialog-act.vkaraisk.155	1096.39	1102.21	B	PM	inf	+1	3	Um I would say that you're at least gonna take double curved ,
+ES2003d.A.dialog-act.vkaraisk.67	1097.9	1099.32	A	UI	inf	-1	0	This is what I'm wondering .
+ES2003d.B.dialog-act.vkaraisk.156	1102.21	1105.56	B	PM	inf	-1	0	and even then I'm not quite sure if that's incorporating the idea of articulation .
+ES2003d.A.dialog-act.vkaraisk.68	1106.02	1106.16	A	UI	stl	-1	0	Oh
+ES2003d.C.dialog-act.vkaraisk.125	1105.65	1106.03	C	ME	bck	-1	0	Yeah .
+ES2003d.A.dialog-act.vkaraisk.69	1106.16	1111.64	A	UI	ass	-1	0	no , I think I I it d that it needn't require it to be double curved .
+ES2003d.D.dialog-act.vkaraisk.32	1110.68	1111.15	D	ID	fra	-1	0	It can be s
+ES2003d.D.dialog-act.vkaraisk.33	1111.15	1111.4	D	ID	ass	-1	0	yeah ,
+ES2003d.D.dialog-act.vkaraisk.34	1111.4	1112.72	D	ID	sug	+1	3	it can still be single curved ,
+ES2003d.A.dialog-act.vkaraisk.70	1112.98	1121.07	A	UI	sug	-1	0	It's uh it's just {vocalsound} it's just {vocalsound} it's just that the case would come in t {vocalsound} would be made in two parts and then joined together with an articulation .
+ES2003d.D.dialog-act.vkaraisk.35	1112.72	1112.944	D	ID	fra	-1	0	but {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.157	1113.76	1115.49	B	PM	el.inf	-1	0	Single curved with articulation ?
+ES2003d.D.dialog-act.vkaraisk.36	1113.58	1114.57	D	ID	fra	-1	0	You just {gap} .
+ES2003d.C.dialog-act.vkaraisk.126	1121.42	1126.68	C	ME	sug	+1	2	Could we could we not get rid of the curvy the curvous the curvaceousness
+ES2003d.C.dialog-act.vkaraisk.127	1126.68	1130.91	C	ME	sug	+1	1	and focus on the menu being the best interface ?
+ES2003d.C.dialog-act.vkaraisk.128	1130.91	1131.4	C	ME	fra	-1	0	'Cause like we {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.129	1131.4	1133.56	C	ME	el.inf	-1	0	do we have re restrictions on software ?
+ES2003d.D.dialog-act.vkaraisk.37	1133.28	1135.12	D	ID	inf	-1	0	That's what we need for the joystick I think though .
+ES2003d.A.dialog-act.vkaraisk.71	1135.91	1137.07	A	UI	stl	-1	0	Mm . Yeah , I mean
+ES2003d.C.dialog-act.vkaraisk.130	1135.51	1135.72	C	ME	und	-1	0	Oh
+ES2003d.C.dialog-act.vkaraisk.131	1135.72	1137.059	C	ME	fra	-1	0	but there has to be {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.72	1137.07	1138.72	A	UI	fra	-1	0	and {vocalsound} I mean the uh
+ES2003d.A.dialog-act.vkaraisk.73	1138.72	1143.43	A	UI	sug	-1	0	I mean if you look uh if you look closer at the uh at the prototype here ,
+ES2003d.A.dialog-act.vkaraisk.74	1143.43	1148.23	A	UI	inf	-1	0	the lines here along the grip are actually quite straight .
+ES2003d.A.dialog-act.vkaraisk.75	1148.23	1149.35	A	UI	stl	-1	0	Um I mean {gap}
+ES2003d.A.dialog-act.vkaraisk.76	1149.35	1149.49	A	UI	ass	-1	0	yeah ,
+ES2003d.B.dialog-act.vkaraisk.158	1148.93	1151.55	B	PM	inf	-1	0	{vocalsound} But the curves all o over {gap} hand ,
+ES2003d.A.dialog-act.vkaraisk.77	1149.49	1155.4	A	UI	inf	-1	0	on the {gap} on the L_C_D_ I mean although we've done it with a curve it
+ES2003d.B.dialog-act.vkaraisk.159	1151.55	1151.88	B	PM	el.ass	-1	0	is it ?
+ES2003d.A.dialog-act.vkaraisk.78	1155.4	1159.63	A	UI	sug	-1	0	could just as easily be done um without curves .
+ES2003d.A.dialog-act.vkaraisk.79	1159.63	1162.48	A	UI	sug	-1	0	The curve that's really needed is up here ,
+ES2003d.C.dialog-act.vkaraisk.132	1161.824	1162.8	C	ME	ass	-1	0	{gap} joystick .
+ES2003d.A.dialog-act.vkaraisk.80	1162.48	1166.46	A	UI	inf	-1	0	to put uh to keep the joystick in a good ergonomic position for it
+ES2003d.A.dialog-act.vkaraisk.81	1166.46	1169.21	A	UI	inf	-1	0	to have it rest on the top of the hand .
+ES2003d.C.dialog-act.vkaraisk.133	1169.56	1171.32	C	ME	und	-1	0	Okay . Sure .
+ES2003d.C.dialog-act.vkaraisk.135	1171.32	1171.69	C	ME	stl	-1	0	Okay ,
+ES2003d.C.dialog-act.vkaraisk.136	1171.69	1172.19	C	ME	be.neg	-1	0	my bad .
+ES2003d.B.dialog-act.vkaraisk.160	1174.06	1176.57	B	PM	inf	-1	0	We wouldn't actually save a lot by reducing it anyway ,
+ES2003d.B.dialog-act.vkaraisk.161	1176.57	1184.21	B	PM	sug	+1	3	so I mean for the purposes of this meeting maybe we can state that single curve still allows articulation .
+ES2003d.A.dialog-act.vkaraisk.82	1183.31	1183.63	A	UI	ass	-1	0	Mm .
+ES2003d.B.dialog-act.vkaraisk.162	1184.21	1189.67	B	PM	ass	-1	0	Um unless we hear otherwise we could go ahead with that proposal .
+ES2003d.C.dialog-act.vkaraisk.137	1190.42	1190.85	C	ME	stl	-1	0	So
+ES2003d.C.dialog-act.vkaraisk.138	1190.85	1195.95	C	ME	ass	-1	0	I think the product is not gonna perform so well for my criteria .
+ES2003d.B.dialog-act.vkaraisk.163	1196.9	1198.59	B	PM	sug	-1	0	Which is what we can get onto now .
+ES2003d.B.dialog-act.vkaraisk.164	1198.59	1201.89	B	PM	fra	-1	0	As long as {disfmarker} so are we gonna say {disfmarker} {gap} w
+ES2003d.B.dialog-act.vkaraisk.165	1201.89	1203.76	B	PM	sug	-1	0	we have to keep an eye on the time as well ,
+ES2003d.B.dialog-act.vkaraisk.166	1203.76	1208.788	B	PM	sug	-1	0	but we're gonna say um single curved design {vocalsound} {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.139	1206.05	1206.24	C	ME	stl	-1	0	Oh ,
+ES2003d.C.dialog-act.vkaraisk.140	1206.24	1206.74	C	ME	sug	-1	0	wait a minute .
+ES2003d.C.dialog-act.vkaraisk.141	1208.02	1211.66	C	ME	el.inf	+1	1	Sample speaker ? What is a sample speaker ?
+ES2003d.C.dialog-act.vkaraisk.142	1211.66	1213.63	C	ME	el.inf	-1	0	Is that somewhat similar to what we want ?
+ES2003d.B.dialog-act.vkaraisk.167	1214.11	1214.89	B	PM	inf	-1	0	It could well be ,
+ES2003d.A.dialog-act.vkaraisk.83	1214.72	1215.52	A	UI	inf	-1	0	Mm no
+ES2003d.B.dialog-act.vkaraisk.168	1214.89	1216.098	B	PM	fra	-1	0	but at a cost of {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.84	1215.52	1219.54	A	UI	inf	+1	1	that's that voice response thing that we got the email about .
+ES2003d.D.dialog-act.vkaraisk.38	1216.98	1217.65	D	ID	inf	-1	0	Costs four .
+ES2003d.C.dialog-act.vkaraisk.143	1218.47	1218.71	C	ME	bck	-1	0	Yeah .
+ES2003d.A.dialog-act.vkaraisk.85	1219.54	1221.29	A	UI	ass	+1	1	But I thought it was just completely pointless .
+ES2003d.C.dialog-act.vkaraisk.145	1221.92	1223.4	C	ME	und	-1	0	You got a email about voice response ?
+ES2003d.A.dialog-act.vkaraisk.86	1223.87	1224.56	A	UI	inf	-1	0	Yeah .
+ES2003d.C.dialog-act.vkaraisk.146	1224.65	1225.28	C	ME	inf	-1	0	I did not ,
+ES2003d.A.dialog-act.vkaraisk.87	1225.61	1226.25	A	UI	und	-1	0	Alright .
+ES2003d.C.dialog-act.vkaraisk.147	1225.28	1225.52	C	ME	fra	-1	0	so .
+ES2003d.A.dialog-act.vkaraisk.88	1226.25	1229.85	A	UI	inf	+1	1	B i basically it was {gap} saying that our labs had come up with a chip
+ES2003d.A.dialog-act.vkaraisk.89	1229.85	1232.76	A	UI	inf	-1	0	that you could , you know , say hello to ,
+ES2003d.A.dialog-act.vkaraisk.90	1232.76	1237.903	A	UI	inf	+1	1	and it would say hello back in a friendly female voice {gap} . {vocalsound}
+ES2003d.B.dialog-act.vkaraisk.169	1236.78	1237.03	B	PM	und	-1	0	Okay ,
+ES2003d.B.dialog-act.vkaraisk.170	1237.03	1237.22	B	PM	ass	-1	0	yeah
+ES2003d.B.dialog-act.vkaraisk.171	1237.22	1238.44	B	PM	sug	-1	0	we'll definitely won't go with that one .
+ES2003d.C.dialog-act.vkaraisk.148	1239.06	1241.18	C	ME	und	-1	0	We won't go with that one , did you say ?
+ES2003d.B.dialog-act.vkaraisk.172	1241.43	1241.53	B	PM	inf	-1	0	Yeah ,
+ES2003d.B.dialog-act.vkaraisk.173	1241.53	1243.1	B	PM	inf	-1	0	that's voice recognition , so .
+ES2003d.C.dialog-act.vkaraisk.149	1241.18	1242.257	C	ME	fra	-1	0	I mean I {disfmarker} we {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.150	1243.22	1244.57	C	ME	und	-1	0	Okay , okay .
+ES2003d.B.dialog-act.vkaraisk.174	1246.29	1249.54	B	PM	stl	-1	0	Um . So , okay yeah ,
+ES2003d.B.dialog-act.vkaraisk.175	1249.54	1250.88	B	PM	sug	-1	0	battery definitely , {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.151	1250.86	1251.03	C	ME	stl	-1	0	So
+ES2003d.C.dialog-act.vkaraisk.152	1251.03	1254.85	C	ME	sug	+1	1	it looks like we're gonna get rid of the whole loca {vocalsound} locator thing .
+ES2003d.B.dialog-act.vkaraisk.176	1254.96	1262.84	B	PM	ass	-1	0	It looks like it unless we can manage to put it in under point two Euros , um .
+ES2003d.D.dialog-act.vkaraisk.39	1254.98	1255.24	D	ID	ass	-1	0	Yeah .
+ES2003d.C.dialog-act.vkaraisk.153	1259.888	1264.29	C	ME	und	-1	0	{vocalsound} Okay . {vocalsound} Okay .
+ES2003d.A.dialog-act.vkaraisk.91	1264.81	1265.12	A	UI	bck	-1	0	Mm-hmm .
+ES2003d.B.dialog-act.vkaraisk.177	1264.42	1265.36	B	PM	fra	-1	0	Maybe even slight
+ES2003d.B.dialog-act.vkaraisk.178	1265.36	1265.76	B	PM	stl	-1	0	well
+ES2003d.B.dialog-act.vkaraisk.179	1265.76	1268.9	B	PM	ass	-1	0	oh yeah , pretty much point two Euros , I'd say .
+ES2003d.B.dialog-act.vkaraisk.180	1268.9	1270.8	B	PM	sug	-1	0	So we'll leave that one for now .
+ES2003d.B.dialog-act.vkaraisk.181	1270.8	1271.264	B	PM	fra	-1	0	{gap} we'll just have {disfmarker}
+ES2003d.D.dialog-act.vkaraisk.40	1270.85	1273.11	D	ID	el.ass	-1	0	Are we going for a special colour at all ?
+ES2003d.B.dialog-act.vkaraisk.182	1273.77	1275.93	B	PM	fra	-1	0	It's uh a case of um
+ES2003d.B.dialog-act.vkaraisk.183	1277.01	1279.52	B	PM	ass	-1	0	I'm uh slightly unsure .
+ES2003d.B.dialog-act.vkaraisk.184	1279.52	1282.84	B	PM	ass	+1	1	One {disfmarker} point five of a Euro for one push button doesn't sound quite right .
+ES2003d.B.dialog-act.vkaraisk.185	1282.84	1289.14	B	PM	inf	-1	0	So maybe it's a case of a push button is maybe one or more . Um .
+ES2003d.A.dialog-act.vkaraisk.92	1288.51	1289.19	A	UI	ass	-1	0	Mm .
+ES2003d.D.dialog-act.vkaraisk.41	1289.48	1289.98	D	ID	stl	-1	0	Well
+ES2003d.B.dialog-act.vkaraisk.186	1290.28	1291.088	B	PM	fra	-1	0	At which point if {disfmarker}
+ES2003d.D.dialog-act.vkaraisk.42	1289.98	1291.5	D	ID	fra	-1	0	I was {gap} for a case .
+ES2003d.D.dialog-act.vkaraisk.43	1293.51	1295.49	D	ID	el.inf	-1	0	Or had you already incorporated that ?
+ES2003d.C.dialog-act.vkaraisk.154	1295.66	1297.34	C	ME	und	-1	0	Oh , special colour for the case .
+ES2003d.B.dialog-act.vkaraisk.187	1297.96	1298.15	B	PM	stl	-1	0	Well
+ES2003d.B.dialog-act.vkaraisk.188	1298.15	1299.32	B	PM	inf	-1	0	you got point five there .
+ES2003d.B.dialog-act.vkaraisk.189	1299.32	1302.47	B	PM	inf	-1	0	It's literally a case of whether or not this is correct .
+ES2003d.B.dialog-act.vkaraisk.190	1302.47	1303.8	B	PM	fra	-1	0	I'm not quite sure if they're {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.191	1303.8	1307.03	B	PM	inf	-1	0	I don't think they mean point five Euros per button .
+ES2003d.A.dialog-act.vkaraisk.93	1307.19	1307.93	A	UI	stl	-1	0	Okay , well
+ES2003d.C.dialog-act.vkaraisk.155	1307.18	1307.43	C	ME	bck	-1	0	Mm-hmm .
+ES2003d.A.dialog-act.vkaraisk.94	1307.93	1310.89	A	UI	sug	+1	2	l let's say that and then we can have our special coloured case
+ES2003d.B.dialog-act.vkaraisk.192	1308.57	1308.88	B	PM	stl	-1	0	So
+ES2003d.A.dialog-act.vkaraisk.95	1310.89	1315.22	A	UI	inf	-1	0	and then we at least have {disfmarker} make it a little harder to lose .
+ES2003d.B.dialog-act.vkaraisk.193	1314.59	1315.04	B	PM	ass	-1	0	There we go .
+ES2003d.A.dialog-act.vkaraisk.96	1315.22	1317.85	A	UI	ass	-1	0	Because most m most remotes are a fairly dingy colour
+ES2003d.A.dialog-act.vkaraisk.97	1317.85	1321.84	A	UI	inf	-1	0	that gets camouflaged under any pile of crap in a living room .
+ES2003d.C.dialog-act.vkaraisk.156	1321.16	1322.44	C	ME	el.inf	-1	0	W what's the default colour ?
+ES2003d.C.dialog-act.vkaraisk.157	1322.44	1323.14	C	ME	el.inf	-1	0	White or black ?
+ES2003d.B.dialog-act.vkaraisk.194	1324.48	1326.14	B	PM	inf	-1	0	Black's probably the normal colour you'd say ,
+ES2003d.A.dialog-act.vkaraisk.98	1326.14	1326.88	A	UI	inf	-1	0	Or grey .
+ES2003d.B.dialog-act.vkaraisk.195	1326.14	1327.98	B	PM	ass	-1	0	yeah .
+ES2003d.C.dialog-act.vkaraisk.158	1326.72	1327.02	C	ME	bck	-1	0	Right .
+ES2003d.B.dialog-act.vkaraisk.196	1327.98	1329.79	B	PM	ass	+1	1	I quite like that colour that you're fetching there ,
+ES2003d.A.dialog-act.vkaraisk.99	1328.58	1332.965	A	UI	inf	+1	1	Yellow . {vocalsound}
+ES2003d.B.dialog-act.vkaraisk.199	1329.79	1332.56	B	PM	fra	-1	0	it's uh definitely for
+ES2003d.B.dialog-act.vkaraisk.197	1332.56	1336.29	B	PM	sug	+1	1	make it glow in the dark even better .
+ES2003d.C.dialog-act.vkaraisk.159	1334.34	1334.54	C	ME	bck	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.198	1336.29	1337.15	B	PM	fra	-1	0	{vocalsound} So
+ES2003d.B.dialog-act.vkaraisk.200	1338.55	1339.49	B	PM	el.ass	-1	0	will we go with that then ?
+ES2003d.A.dialog-act.vkaraisk.100	1341.33	1341.97	A	UI	ass	-1	0	Okay .
+ES2003d.B.dialog-act.vkaraisk.201	1342.4	1344.59	B	PM	fra	-1	0	It's not and we can see {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.160	1342.16	1342.37	C	ME	ass	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.202	1344.59	1347.12	B	PM	sug	+1	1	we'll come back to uh your evaluation
+ES2003d.C.dialog-act.vkaraisk.161	1344.112	1345.5	C	ME	ass	-1	0	{vocalsound} Sure .
+ES2003d.B.dialog-act.vkaraisk.203	1347.12	1348.96	B	PM	be.neg	-1	0	which you're probably now going to pan us
+ES2003d.B.dialog-act.vkaraisk.204	1348.96	1349.71	B	PM	oth	-1	0	but there we go .
+ES2003d.C.dialog-act.vkaraisk.162	1349.01	1351.94	C	ME	ass	-1	0	Okay . Okay .
+ES2003d.D.dialog-act.vkaraisk.44	1350.176	1351.248	D	ID	fra	-1	0	{vocalsound}
+ES2003d.C.dialog-act.vkaraisk.163	1351.94	1354.016	C	ME	stl	-1	0	So uh {vocalsound}
+ES2003d.B.dialog-act.vkaraisk.205	1353.81	1357.8	B	PM	sug	+1	1	Just to give you an idea , um you want to go maybe a bit quickly as well ,
+ES2003d.B.dialog-act.vkaraisk.206	1357.8	1358.67	B	PM	inf	-1	0	I'm not sure how much time .
+ES2003d.B.dialog-act.vkaraisk.207	1358.67	1361.1	B	PM	inf	-1	0	We've not hit the five minute mark warning yet ,
+ES2003d.C.dialog-act.vkaraisk.164	1360.48	1361.52	C	ME	ass	-1	0	Right okay . Okay .
+ES2003d.B.dialog-act.vkaraisk.208	1361.1	1361.23	B	PM	fra	-1	0	but .
+ES2003d.D.dialog-act.vkaraisk.45	1361.82	1363.605	D	ID	inf	-1	0	Think it's ten minutes left . {vocalsound}
+ES2003d.B.dialog-act.vkaraisk.209	1363.51	1363.71	B	PM	und	-1	0	Ten .
+ES2003d.C.dialog-act.vkaraisk.165	1363.92	1364.51	C	ME	stl	-1	0	'Kay .
+ES2003d.C.dialog-act.vkaraisk.166	1364.51	1367.96	C	ME	el.ass	+1	1	Ability to stop remotes from being lost or to find them once they are lost .
+ES2003d.C.dialog-act.vkaraisk.167	1369.38	1371.63	C	ME	stl	-1	0	Um . Okay .
+ES2003d.D.dialog-act.vkaraisk.46	1370.49	1371.31	D	ID	inf	-1	0	Special colour .
+ES2003d.C.dialog-act.vkaraisk.168	1371.63	1372.34	C	ME	und	-1	0	Special colour .
+ES2003d.B.dialog-act.vkaraisk.210	1372.87	1376.15	B	PM	ass	-1	0	Mm mm four ?
+ES2003d.C.dialog-act.vkaraisk.169	1373.7	1376.33	C	ME	und	-1	0	Uh uh four .
+ES2003d.B.dialog-act.vkaraisk.211	1376.15	1377.71	B	PM	ass	-1	0	Three ? Mm .
+ES2003d.A.dialog-act.vkaraisk.101	1377.97	1380.53	A	UI	ass	+1	1	Three . I think we can do three .
+ES2003d.C.dialog-act.vkaraisk.170	1377.65	1379.55	C	ME	ass	-1	0	Three if we're being generous , I feel .
+ES2003d.B.dialog-act.vkaraisk.212	1379.28	1379.664	B	PM	fra	-1	0	{vocalsound}
+ES2003d.A.dialog-act.vkaraisk.102	1380.873	1384.37	A	UI	inf	-1	0	{vocalsound} Th the special colour doesn't {disfmarker} would I think make a difference .
+ES2003d.C.dialog-act.vkaraisk.171	1380.92	1382.24	C	ME	ass	-1	0	Think we're being generous here with three .
+ES2003d.D.dialog-act.vkaraisk.47	1380.5	1380.91	D	ID	ass	-1	0	Three .
+ES2003d.A.dialog-act.vkaraisk.103	1384.37	1385.35	A	UI	inf	-1	0	It makes it stand out
+ES2003d.A.dialog-act.vkaraisk.104	1385.35	1386.04	A	UI	fra	-1	0	from {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.105	1386.04	1386.23	A	UI	stl	-1	0	you know
+ES2003d.A.dialog-act.vkaraisk.106	1386.23	1390.95	A	UI	inf	-1	0	it's lost in a big pile of crap , it stands out from the rest of the crap . {vocalsound}
+ES2003d.C.dialog-act.vkaraisk.172	1386.36	1386.55	C	ME	bck	-1	0	Mm .
+ES2003d.C.dialog-act.vkaraisk.173	1389.61	1392.02	C	ME	ass	-1	0	Yeah . {vocalsound} Okay .
+ES2003d.B.dialog-act.vkaraisk.213	1390.84	1391.25	B	PM	bck	-1	0	Okay .
+ES2003d.C.dialog-act.vkaraisk.174	1392.02	1393.73	C	ME	el.ass	+1	1	Reduce the number of unused buttons .
+ES2003d.C.dialog-act.vkaraisk.175	1393.73	1394.93	C	ME	inf	-1	0	We're down to t two buttons ,
+ES2003d.C.dialog-act.vkaraisk.176	1394.93	1395.2	C	ME	el.ass	-1	0	is it ?
+ES2003d.A.dialog-act.vkaraisk.107	1395.64	1397.09	A	UI	ass	-1	0	Two buttons and a joystick .
+ES2003d.B.dialog-act.vkaraisk.214	1395.62	1396.43	B	PM	ass	-1	0	Two buttons .
+ES2003d.C.dialog-act.vkaraisk.177	1396.91	1397.16	C	ME	stl	-1	0	Okay ,
+ES2003d.C.dialog-act.vkaraisk.178	1397.16	1397.97	C	ME	ass	-1	0	so that's a one .
+ES2003d.C.dialog-act.vkaraisk.179	1397.97	1398.24	C	ME	stl	-1	0	You know ,
+ES2003d.A.dialog-act.vkaraisk.108	1398.6	1399.13	A	UI	ass	-1	0	Totally .
+ES2003d.C.dialog-act.vkaraisk.180	1398.24	1399.056	C	ME	fra	-1	0	where that's {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.215	1398.94	1399.73	B	PM	ass	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.216	1399.73	1401.82	B	PM	ass	+1	1	I'd say we're doing well there .
+ES2003d.C.dialog-act.vkaraisk.181	1401.0	1401.29	C	ME	stl	-1	0	Okay ,
+ES2003d.C.dialog-act.vkaraisk.182	1401.29	1402.78	C	ME	ass	-1	0	that was good .
+ES2003d.C.dialog-act.vkaraisk.183	1402.78	1406.3	C	ME	el.ass	+1	1	Easy to use interface , buttons menu , menus {gap}
+ES2003d.B.dialog-act.vkaraisk.217	1406.784	1415.39	B	PM	bck	-1	0	{vocalsound} {vocalsound} Mm-hmm .
+ES2003d.C.dialog-act.vkaraisk.184	1406.3	1406.7	C	ME	fra	-1	0	that's
+ES2003d.C.dialog-act.vkaraisk.185	1406.7	1406.82	C	ME	stl	-1	0	yeah
+ES2003d.C.dialog-act.vkaraisk.186	1406.82	1408.98	C	ME	ass	-1	0	that's good . {vocalsound}
+ES2003d.C.dialog-act.vkaraisk.187	1408.98	1409.2	C	ME	stl	-1	0	'Kay
+ES2003d.C.dialog-act.vkaraisk.188	1409.2	1409.56	C	ME	fra	-1	0	that's {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.189	1409.56	1410.97	C	ME	ass	+1	1	we're not doing so badly .
+ES2003d.C.dialog-act.vkaraisk.190	1410.97	1413.67	C	ME	fra	+1	1	Um {vocalsound} easy to use {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.191	1413.67	1414.13	C	ME	stl	-1	0	oh okay ,
+ES2003d.C.dialog-act.vkaraisk.192	1414.13	1415.52	C	ME	sug	+1	1	let's forget that one .
+ES2003d.C.dialog-act.vkaraisk.193	1415.52	1417.242	C	ME	el.ass	+1	1	Fancy looking . {vocalsound}
+ES2003d.B.dialog-act.vkaraisk.218	1418.096	1419.728	B	PM	fra	-1	0	{vocalsound} As he models the {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.109	1418.77	1420.94	A	UI	ass	+1	1	It doesn't get much fancier .
+ES2003d.C.dialog-act.vkaraisk.194	1420.37	1420.91	C	ME	ass	-1	0	Sure .
+ES2003d.C.dialog-act.vkaraisk.195	1420.91	1424.32	C	ME	inf	-1	0	And we could do whatever we like with the L_ L_C_D_ .
+ES2003d.C.dialog-act.vkaraisk.197	1424.32	1424.5	C	ME	ass	-1	0	Yeah
+ES2003d.C.dialog-act.vkaraisk.196	1424.5	1427.24	C	ME	sug	-1	0	let's just assume it's a good L_C_D_ display .
+ES2003d.B.dialog-act.vkaraisk.219	1426.558	1431.122	B	PM	fra	-1	0	{vocalsound}
+ES2003d.C.dialog-act.vkaraisk.198	1427.24	1428.85	C	ME	be.pos	-1	0	Maybe I was panicking for no reason .
+ES2003d.D.dialog-act.vkaraisk.48	1428.4	1430.58	D	ID	el.inf	-1	0	Are we going one on {gap} ?
+ES2003d.C.dialog-act.vkaraisk.199	1430.192	1436.7	C	ME	ass	-1	0	{vocalsound} Yeah ,
+ES2003d.D.dialog-act.vkaraisk.49	1430.58	1431.67	D	ID	ass	-1	0	I'd say we go two ,
+ES2003d.D.dialog-act.vkaraisk.50	1431.67	1435.05	D	ID	inf	-1	0	'cause like f the fanciest would be the double curved .
+ES2003d.A.dialog-act.vkaraisk.110	1436.47	1436.91	A	UI	stl	-1	0	Mm .
+ES2003d.B.dialog-act.vkaraisk.220	1436.3	1436.803	B	PM	fra	-1	0	I'd {disfmarker}
+ES2003d.D.dialog-act.vkaraisk.51	1436.13	1436.66	D	ID	el.ass	-1	0	Wouldn't it ?
+ES2003d.C.dialog-act.vkaraisk.200	1436.7	1436.87	C	ME	fra	-1	0	w
+ES2003d.C.dialog-act.vkaraisk.201	1436.87	1437.75	C	ME	fra	-1	0	maybe you'd be a bit too {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.221	1437.6	1438.96	B	PM	bck	-1	0	Yeah . {vocalsound}
+ES2003d.C.dialog-act.vkaraisk.202	1437.75	1440.11	C	ME	ass	-1	0	yeah . There we go . Yeah ,
+ES2003d.D.dialog-act.vkaraisk.52	1437.88	1441.67	D	ID	ass	-1	0	With the articulators . With bells on it .
+ES2003d.C.dialog-act.vkaraisk.203	1440.11	1440.46	C	ME	fra	-1	0	that's m
+ES2003d.C.dialog-act.vkaraisk.204	1441.99	1446.89	C	ME	ass	-1	0	that's that's better too . More accurate numbers .
+ES2003d.C.dialog-act.vkaraisk.205	1446.89	1449.85	C	ME	el.ass	+1	1	Technologically innovative .
+ES2003d.C.dialog-act.vkaraisk.206	1449.85	1450.33	C	ME	stl	-1	0	Well ,
+ES2003d.C.dialog-act.vkaraisk.207	1450.33	1452.36	C	ME	sug	+1	1	we're getting rid of the locator thing
+ES2003d.B.dialog-act.vkaraisk.222	1452.52	1453.45	B	PM	ass	-1	0	Which is a shame .
+ES2003d.C.dialog-act.vkaraisk.208	1452.36	1454.2	C	ME	fra	-1	0	which which
+ES2003d.A.dialog-act.vkaraisk.111	1454.32	1458.97	A	UI	ass	+1	1	Mm . I'd give it a three for this {disfmarker} for that .
+ES2003d.C.dialog-act.vkaraisk.209	1454.2	1456.273	C	ME	ass	-1	0	yeah {vocalsound} {disfmarker}
+ES2003d.D.dialog-act.vkaraisk.53	1455.7	1457.12	D	ID	inf	-1	0	No need for teletext .
+ES2003d.C.dialog-act.vkaraisk.210	1458.208	1458.896	C	ME	fra	-1	0	{gap} .
+ES2003d.A.dialog-act.vkaraisk.112	1458.97	1460.01	A	UI	inf	-1	0	Yeah .
+ES2003d.A.dialog-act.vkaraisk.113	1460.01	1467.65	A	UI	inf	+1	1	I mean the menus thing is something you don't normally see on um on a remote ,
+ES2003d.C.dialog-act.vkaraisk.211	1460.09	1460.32	C	ME	bck	-1	0	'Kay .
+ES2003d.A.dialog-act.vkaraisk.114	1467.65	1471.8	A	UI	inf	-1	0	but {vocalsound} you see it in a lot of other places .
+ES2003d.C.dialog-act.vkaraisk.212	1472.2	1472.94	C	ME	ass	-1	0	Yeah ,
+ES2003d.C.dialog-act.vkaraisk.213	1472.94	1474.25	C	ME	inf	-1	0	mobile phones .
+ES2003d.B.dialog-act.vkaraisk.223	1474.09	1474.83	B	PM	bck	-1	0	Mm .
+ES2003d.C.dialog-act.vkaraisk.214	1474.25	1479.05	C	ME	inf	-1	0	And y what you're doing is moving the menu from the television to the remote control ,
+ES2003d.C.dialog-act.vkaraisk.215	1479.05	1479.488	C	ME	fra	-1	0	so it's {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.115	1479.86	1480.42	A	UI	bck	-1	0	Mm-hmm .
+ES2003d.C.dialog-act.vkaraisk.216	1480.61	1481.66	C	ME	el.inf	-1	0	You say three ?
+ES2003d.C.dialog-act.vkaraisk.217	1481.66	1483.35	C	ME	ass	-1	0	I might go as far as two on that .
+ES2003d.C.dialog-act.vkaraisk.218	1483.35	1483.83	C	ME	oth	-1	0	Three .
+ES2003d.A.dialog-act.vkaraisk.116	1484.61	1485.62	A	UI	ass	-1	0	I'd give it a three .
+ES2003d.B.dialog-act.vkaraisk.224	1484.85	1487.31	B	PM	ass	-1	0	I'd be tempted with three , yeah .
+ES2003d.C.dialog-act.vkaraisk.219	1486.49	1487.05	C	ME	und	-1	0	Three .
+ES2003d.C.dialog-act.vkaraisk.220	1487.05	1487.31	C	ME	ass	-1	0	Okay .
+ES2003d.B.dialog-act.vkaraisk.225	1489.97	1491.81	B	PM	ass	-1	0	We'll get panned on the next one , anyway .
+ES2003d.C.dialog-act.vkaraisk.221	1489.87	1490.53	C	ME	stl	-1	0	Okay .
+ES2003d.C.dialog-act.vkaraisk.222	1492.19	1494.78	C	ME	el.ass	+1	1	Materials that people find pleasing .
+ES2003d.D.dialog-act.vkaraisk.54	1491.984	1493.928	D	ID	fra	-1	0	{vocalsound}
+ES2003d.B.dialog-act.vkaraisk.226	1494.82	1495.22	B	PM	stl	-1	0	Yeah ,
+ES2003d.B.dialog-act.vkaraisk.227	1495.22	1495.4	B	PM	fra	-1	0	w
+ES2003d.C.dialog-act.vkaraisk.223	1494.78	1497.67	C	ME	inf	+1	1	Sponginess is what they really would have wanted , apparently .
+ES2003d.B.dialog-act.vkaraisk.228	1497.33	1498.44	B	PM	ass	-1	0	It is , yeah .
+ES2003d.B.dialog-act.vkaraisk.229	1498.44	1499.83	B	PM	be.pos	-1	0	Don't blame them .
+ES2003d.C.dialog-act.vkaraisk.224	1498.952	1499.92	C	ME	bck	-1	0	{vocalsound}
+ES2003d.B.dialog-act.vkaraisk.230	1499.83	1507.29	B	PM	inf	-1	0	Um because of the way that we've minimalised the number of buttons and such .
+ES2003d.C.dialog-act.vkaraisk.225	1505.56	1505.78	C	ME	bck	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.231	1507.29	1508.94	B	PM	ass	+1	1	Plastic , it sucks .
+ES2003d.B.dialog-act.vkaraisk.232	1508.94	1512.67	B	PM	ass	-1	0	But it's no worse than any of the other pl remote controls we have .
+ES2003d.C.dialog-act.vkaraisk.226	1512.31	1512.99	C	ME	ass	-1	0	That's true .
+ES2003d.C.dialog-act.vkaraisk.227	1512.99	1514.23	C	ME	ass	-1	0	It's not a step backwards .
+ES2003d.D.dialog-act.vkaraisk.55	1514.4	1516.68	D	ID	ass	-1	0	{gap} five ?
+ES2003d.A.dialog-act.vkaraisk.118	1515.66	1519.4	A	UI	ass	+1	1	Mm-hmm . I'd s I I'd give it a six , to be honest .
+ES2003d.D.dialog-act.vkaraisk.56	1516.68	1517.21	D	ID	ass	-1	0	Six ?
+ES2003d.B.dialog-act.vkaraisk.233	1518.944	1527.504	B	PM	fra	-1	0	{vocalsound} {vocalsound} {vocalsound}
+ES2003d.C.dialog-act.vkaraisk.228	1518.768	1524.22	C	ME	ass	-1	0	{vocalsound} Yeah , okay let's give it a six .
+ES2003d.D.dialog-act.vkaraisk.57	1518.39	1519.04	D	ID	ass	-1	0	Six , {gap} .
+ES2003d.C.dialog-act.vkaraisk.229	1524.22	1524.75	C	ME	stl	-1	0	{vocalsound} Okay ,
+ES2003d.C.dialog-act.vkaraisk.230	1524.75	1527.66	C	ME	ass	+1	1	that's totally thrown everything off balance .
+ES2003d.C.dialog-act.vkaraisk.231	1527.66	1530.48	C	ME	el.ass	+1	1	Inspired by the latest interior and clothing fashion .
+ES2003d.C.dialog-act.vkaraisk.232	1530.48	1531.72	C	ME	fra	-1	0	W we could .
+ES2003d.C.dialog-act.vkaraisk.233	1531.72	1533.28	C	ME	el.sug	-1	0	What colour were we gonna make it ?
+ES2003d.D.dialog-act.vkaraisk.58	1532.74	1534.736	D	ID	sug	-1	0	Put a leopard print on it . {vocalsound}
+ES2003d.A.dialog-act.vkaraisk.119	1533.86	1534.13	A	UI	stl	-1	0	Well
+ES2003d.A.dialog-act.vkaraisk.120	1534.13	1538.54	A	UI	sug	+1	1	I I I would sa I would say give a s give a selection of colours .
+ES2003d.C.dialog-act.vkaraisk.234	1534.448	1539.9	C	ME	und	-1	0	{vocalsound} I know ,
+ES2003d.A.dialog-act.vkaraisk.121	1538.54	1541.56	A	UI	inf	+1	1	Um we went with yellow we went with yellow for the prototype
+ES2003d.C.dialog-act.vkaraisk.235	1539.9	1540.481	C	ME	fra	-1	0	but {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.122	1541.56	1543.01	A	UI	inf	-1	0	'cause we had yellow .
+ES2003d.A.dialog-act.vkaraisk.123	1543.01	1545.65	A	UI	sug	-1	0	If I were buying one , I'd go for purple .
+ES2003d.A.dialog-act.vkaraisk.124	1545.65	1546.56	A	UI	sug	+1	1	Leopard print would be cool .
+ES2003d.C.dialog-act.vkaraisk.236	1546.87	1551.616	C	ME	inf	+1	1	But um by this I think it's more a case of fruit and veg , {disfmarker}
+ES2003d.D.dialog-act.vkaraisk.59	1550.42	1550.65	D	ID	stl	-1	0	Yeah
+ES2003d.D.dialog-act.vkaraisk.60	1550.65	1551.06	D	ID	fra	-1	0	we gotta {gap} .
+ES2003d.D.dialog-act.vkaraisk.61	1551.06	1557.97	D	ID	inf	-1	0	I'd say the colour of the border there world {disfmarker} you'd find that , {gap} that's that'd stand out .
+ES2003d.C.dialog-act.vkaraisk.237	1552.273	1552.97	C	ME	bck	-1	0	{vocalsound} Yeah .
+ES2003d.B.dialog-act.vkaraisk.234	1558.53	1558.98	B	PM	sug	-1	0	Like yellow ,
+ES2003d.B.dialog-act.vkaraisk.235	1558.98	1559.23	B	PM	ass	-1	0	yeah .
+ES2003d.B.dialog-act.vkaraisk.236	1559.23	1563.05	B	PM	inf	+1	1	It would also help keep the the product placement
+ES2003d.B.dialog-act.vkaraisk.237	1563.05	1563.53	B	PM	fra	-1	0	s
+ES2003d.D.dialog-act.vkaraisk.62	1562.96	1564.63	D	ID	inf	-1	0	Logo , brand .
+ES2003d.B.dialog-act.vkaraisk.238	1563.53	1565.83	B	PM	ass	-1	0	yeah .
+ES2003d.C.dialog-act.vkaraisk.238	1564.14	1564.4	C	ME	bck	-1	0	Mm .
+ES2003d.B.dialog-act.vkaraisk.239	1565.83	1568.4	B	PM	el.inf	-1	0	Is it inspired by {gap} clothing fashion ?
+ES2003d.C.dialog-act.vkaraisk.239	1565.77	1570.87	C	ME	inf	-1	0	But {disfmarker} Th th they're referring to the fruit and veg thing .
+ES2003d.D.dialog-act.vkaraisk.63	1565.71	1566.38	D	ID	bck	-1	0	Mm 'kay .
+ES2003d.B.dialog-act.vkaraisk.240	1573.71	1577.93	B	PM	stl	-1	0	{vocalsound} Yes .
+ES2003d.C.dialog-act.vkaraisk.240	1573.69	1576.02	C	ME	el.inf	+1	1	Is this like a banana type colour ?
+ES2003d.C.dialog-act.vkaraisk.241	1576.02	1577.34	C	ME	el.ass	-1	0	Could we stretch {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.242	1577.34	1577.79	C	ME	ass	-1	0	no still ,
+ES2003d.C.dialog-act.vkaraisk.243	1577.79	1579.392	C	ME	inf	+1	1	it's not shaped like a banana is {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.125	1580.02	1581.52	A	UI	fra	-1	0	That's kinda {disfmarker} {gap} i
+ES2003d.B.dialog-act.vkaraisk.241	1579.7	1581.37	B	PM	fra	-1	0	It's kind o it
+ES2003d.A.dialog-act.vkaraisk.126	1581.52	1583.18	A	UI	inf	-1	0	it won't be when it's been
+ES2003d.B.dialog-act.vkaraisk.242	1581.37	1584.192	B	PM	ass	-1	0	probably {disfmarker} {vocalsound}
+ES2003d.C.dialog-act.vkaraisk.244	1584.18	1584.38	C	ME	stl	-1	0	Oh
+ES2003d.C.dialog-act.vkaraisk.245	1584.38	1586.16	C	ME	el.inf	-1	0	is that 'cause it's flat ?
+ES2003d.A.dialog-act.vkaraisk.127	1585.06	1585.9	A	UI	inf	-1	0	budgeted .
+ES2003d.C.dialog-act.vkaraisk.246	1586.16	1588.74	C	ME	el.inf	-1	0	What is {disfmarker} what fruit or veg is flat ?
+ES2003d.A.dialog-act.vkaraisk.128	1589.72	1596.01	A	UI	inf	+1	1	I I think s I I think this isn't {disfmarker} not particularly fruit and veggie . Um .
+ES2003d.C.dialog-act.vkaraisk.247	1594.94	1596.14	C	ME	ass	-1	0	Yeah .
+ES2003d.C.dialog-act.vkaraisk.248	1596.14	1603.712	C	ME	ass	-1	0	Or we might have to suffer badly for this one as well . {vocalsound}
+ES2003d.D.dialog-act.vkaraisk.64	1597.81	1598.95	D	ID	inf	-1	0	Yellow courgette .
+ES2003d.A.dialog-act.vkaraisk.129	1600.232	1602.021	A	UI	fra	-1	0	{vocalsound}
+ES2003d.B.dialog-act.vkaraisk.243	1600.096	1603.04	B	PM	stl	-1	0	{vocalsound} Well
+ES2003d.D.dialog-act.vkaraisk.65	1600.473	1602.096	D	ID	fra	-1	0	{vocalsound}
+ES2003d.B.dialog-act.vkaraisk.244	1603.04	1607.92	B	PM	ass	+1	1	I mean it's probably more fruit and veg than most other things out there bar fruit and veg ,
+ES2003d.B.dialog-act.vkaraisk.245	1607.92	1609.82	B	PM	el.ass	-1	0	so , {vocalsound} what , four ?
+ES2003d.C.dialog-act.vkaraisk.249	1610.07	1611.14	C	ME	und	-1	0	Four ?
+ES2003d.C.dialog-act.vkaraisk.250	1611.14	1613.34	C	ME	ass	-1	0	Oh that's it's very ambitious ,
+ES2003d.B.dialog-act.vkaraisk.246	1611.99	1613.18	B	PM	el.inf	-1	0	Is that being too generous ?
+ES2003d.A.dialog-act.vkaraisk.130	1613.22	1626.76	A	UI	inf	+1	1	Mm . I'd {vocalsound} I'd I don't think fruit and veg is the sole criterion . {vocalsound} Is the sole criterion for being um fashion {gap} fashionable or inspired by current fashions .
+ES2003d.C.dialog-act.vkaraisk.251	1613.34	1614.05	C	ME	inf	-1	0	yeah , um .
+ES2003d.B.dialog-act.vkaraisk.247	1618.61	1619.39	B	PM	fra	-1	0	Oh dear , {gap} .
+ES2003d.C.dialog-act.vkaraisk.252	1619.05	1619.3	C	ME	bck	-1	0	Sure .
+ES2003d.C.dialog-act.vkaraisk.253	1622.8	1623.5	C	ME	fra	-1	0	Inspired by {gap} .
+ES2003d.A.dialog-act.vkaraisk.131	1626.76	1631.65	A	UI	ass	-1	0	Um I'd g I'd rate I'd rate this fairly highly from that point of view actually .
+ES2003d.D.dialog-act.vkaraisk.66	1631.72	1632.17	D	ID	stl	-1	0	Well
+ES2003d.D.dialog-act.vkaraisk.67	1632.17	1635.3	D	ID	inf	-1	0	this this what we're gonna t this is their motto , like .
+ES2003d.C.dialog-act.vkaraisk.254	1634.73	1635.13	C	ME	ass	-1	0	Yeah .
+ES2003d.D.dialog-act.vkaraisk.68	1635.3	1636.59	D	ID	ass	-1	0	And we're we're not doing well on it .
+ES2003d.C.dialog-act.vkaraisk.255	1636.62	1637.74	C	ME	inf	-1	0	This is their strategy .
+ES2003d.C.dialog-act.vkaraisk.256	1638.79	1641.59	C	ME	sug	-1	0	I m imagine we actually had some money invested in this
+ES2003d.C.dialog-act.vkaraisk.257	1641.59	1645.56	C	ME	inf	-1	0	and the amount that we invest is gonna be proportional to the marks .
+ES2003d.C.dialog-act.vkaraisk.258	1645.56	1650.86	C	ME	sug	-1	0	Might {disfmarker} we might wanna be a bit more skepible sceptical about this one .
+ES2003d.B.dialog-act.vkaraisk.248	1653.52	1654.64	B	PM	el.ass	-1	0	What would you think yourself ?
+ES2003d.C.dialog-act.vkaraisk.259	1654.84	1656.47	C	ME	fra	-1	0	I would say {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.260	1656.47	1662.87	C	ME	ass	-1	0	I mean it's it's not at all , right ? {vocalsound} In any way or shape or form .
+ES2003d.B.dialog-act.vkaraisk.249	1658.512	1663.21	B	PM	stl	-1	0	{vocalsound} Well ,
+ES2003d.B.dialog-act.vkaraisk.250	1663.21	1664.36	B	PM	inf	-1	0	it's kind of curved
+ES2003d.C.dialog-act.vkaraisk.262	1662.87	1663.39	C	ME	fra	-1	0	We didn't m
+ES2003d.B.dialog-act.vkaraisk.251	1664.36	1665.84	B	PM	sug	+1	2	and we can make it yellow ,
+ES2003d.B.dialog-act.vkaraisk.252	1665.84	1668.01	B	PM	ass	+1	1	and that's pretty much banana like .
+ES2003d.C.dialog-act.vkaraisk.263	1667.97	1671.77	C	ME	ass	-1	0	Okay , the the yellow banana like thing is I think is okay .
+ES2003d.B.dialog-act.vkaraisk.253	1671.52	1671.88	B	PM	fra	-1	0	Si
+ES2003d.B.dialog-act.vkaraisk.254	1671.88	1672.85	B	PM	inf	-1	0	it's got a curve to it .
+ES2003d.C.dialog-act.vkaraisk.264	1673.67	1674.07	C	ME	stl	-1	0	Right
+ES2003d.C.dialog-act.vkaraisk.266	1674.07	1674.48	C	ME	ass	-1	0	five .
+ES2003d.C.dialog-act.vkaraisk.267	1674.48	1676.19	C	ME	el.ass	-1	0	Is that {vocalsound} sound reasonable ?
+ES2003d.B.dialog-act.vkaraisk.255	1677.63	1677.93	B	PM	fra	-1	0	Am I {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.256	1677.93	1680.56	B	PM	el.ass	-1	0	do you think I'm stretching the uh the use of the banana ?
+ES2003d.D.dialog-act.vkaraisk.69	1677.85	1678.88	D	ID	ass	+1	1	Yeah , I'll go with five .
+ES2003d.C.dialog-act.vkaraisk.268	1679.12	1679.53	C	ME	und	-1	0	Five .
+ES2003d.C.dialog-act.vkaraisk.269	1680.568	1681.62	C	ME	ass	-1	0	{vocalsound} Yeah .
+ES2003d.C.dialog-act.vkaraisk.270	1686.73	1687.27	C	ME	stl	-1	0	'Kay , so
+ES2003d.C.dialog-act.vkaraisk.271	1687.27	1690.52	C	ME	oth	+1	1	we have one , two , three , four , five , six , seven .
+ES2003d.C.dialog-act.vkaraisk.272	1693.73	1698.03	C	ME	oth	+1	1	So five , seven , ten , sixteen , twenty one .
+ES2003d.C.dialog-act.vkaraisk.273	1699.66	1701.68	C	ME	inf	+1	1	Which gives us an average of three .
+ES2003d.C.dialog-act.vkaraisk.274	1703.44	1704.58	C	ME	fra	-1	0	It's {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.275	1704.58	1706.61	C	ME	stl	-1	0	well
+ES2003d.C.dialog-act.vkaraisk.276	1706.61	1707.71	C	ME	inf	-1	0	this would be in the middle .
+ES2003d.C.dialog-act.vkaraisk.277	1707.71	1709.22	C	ME	fra	-1	0	So we
+ES2003d.C.dialog-act.vkaraisk.278	1709.22	1710.84	C	ME	ass	+1	1	it's it's not bad .
+ES2003d.C.dialog-act.vkaraisk.279	1710.84	1712.06	C	ME	ass	-1	0	It's in the good section .
+ES2003d.B.dialog-act.vkaraisk.257	1712.76	1713.56	B	PM	ass	-1	0	It's not bad
+ES2003d.B.dialog-act.vkaraisk.258	1713.56	1716.48	B	PM	fra	-1	0	and considering the {vocalsound} {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.259	1716.48	1719.73	B	PM	be.neg	-1	0	don't pick the pen . Um .
+ES2003d.C.dialog-act.vkaraisk.280	1716.848	1718.3	C	ME	oth	-1	0	{vocalsound} Oops .
+ES2003d.C.dialog-act.vkaraisk.281	1718.3	1721.56	C	ME	be.pos	-1	0	Sorry . {vocalsound} I'm I'm sorry .
+ES2003d.D.dialog-act.vkaraisk.70	1719.824	1722.208	D	ID	fra	-1	0	{vocalsound}
+ES2003d.B.dialog-act.vkaraisk.260	1723.16	1723.8	B	PM	fra	-1	0	Y
+ES2003d.B.dialog-act.vkaraisk.261	1723.8	1726.84	B	PM	be.neg	-1	0	oh and you've knocked batteries out .
+ES2003d.C.dialog-act.vkaraisk.282	1725.088	1730.176	C	ME	fra	-1	0	{vocalsound}
+ES2003d.B.dialog-act.vkaraisk.262	1726.84	1727.78	B	PM	stl	-1	0	{vocalsound} Um right okay
+ES2003d.B.dialog-act.vkaraisk.263	1727.78	1730.55	B	PM	fra	-1	0	it's {disfmarker} {vocalsound}
+ES2003d.D.dialog-act.vkaraisk.71	1727.39	1730.592	D	ID	ass	-1	0	'S bad design , that thing . {vocalsound}
+ES2003d.B.dialog-act.vkaraisk.264	1730.55	1739.08	B	PM	ass	+1	1	considering the price we had to get this in , to have a positive {disfmarker} you know , even based on the four of us being heavily biased , um
+ES2003d.C.dialog-act.vkaraisk.283	1732.77	1733.11	C	ME	bck	-1	0	Mm-hmm .
+ES2003d.C.dialog-act.vkaraisk.284	1739.87	1740.22	C	ME	bck	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.265	1740.704	1752.33	B	PM	ass	-1	0	{vocalsound} it was gonna be quite hard to get anything standing out I'd say possibly , based on um the the cost features .
+ES2003d.A.dialog-act.vkaraisk.132	1754.38	1754.82	A	UI	ass	-1	0	Mm .
+ES2003d.D.dialog-act.vkaraisk.72	1754.0	1755.16	D	ID	ass	-1	0	Mm , yeah .
+ES2003d.C.dialog-act.vkaraisk.285	1754.79	1761.78	C	ME	inf	-1	0	Even if we were to increase this entire thing by by seven , we were to go down a grade to to four ,
+ES2003d.C.dialog-act.vkaraisk.286	1761.78	1765.23	C	ME	fra	-1	0	we would have to do {disfmarker} I mean we didn't
+ES2003d.C.dialog-act.vkaraisk.287	1765.23	1769.71	C	ME	inf	-1	0	we weren't that kinda optimistic too optim overly optimistic .
+ES2003d.C.dialog-act.vkaraisk.288	1769.71	1770.19	C	ME	stl	-1	0	You know like
+ES2003d.C.dialog-act.vkaraisk.289	1770.19	1771.68	C	ME	fra	-1	0	we didn't we didn't add
+ES2003d.C.dialog-act.vkaraisk.290	1771.68	1773.98	C	ME	inf	-1	0	we didn't subtract a whole seven points from these things ,
+ES2003d.C.dialog-act.vkaraisk.291	1773.98	1776.72	C	ME	ass	-1	0	so I think we're definitely on the good bit .
+ES2003d.A.dialog-act.vkaraisk.133	1776.72	1778.098	A	UI	fra	-1	0	{vocalsound}
+ES2003d.C.dialog-act.vkaraisk.292	1776.72	1783.33	C	ME	inf	-1	0	Even if we gave this one seven and this one seven , that's still only three extra points over seven .
+ES2003d.C.dialog-act.vkaraisk.293	1783.33	1783.65	C	ME	stl	-1	0	You know ,
+ES2003d.C.dialog-act.vkaraisk.294	1783.65	1784.86	C	ME	fra	-1	0	it's {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.295	1784.86	1785.08	C	ME	stl	-1	0	yeah ,
+ES2003d.A.dialog-act.vkaraisk.134	1784.86	1801.8	A	UI	inf	-1	0	Mm . Personally , I think given that the product um only replaces a single remote control
+ES2003d.C.dialog-act.vkaraisk.296	1785.08	1785.7	C	ME	fra	-1	0	we did it w
+ES2003d.C.dialog-act.vkaraisk.297	1785.7	1787.1	C	ME	ass	-1	0	it was okay . It was good .
+ES2003d.A.dialog-act.vkaraisk.136	1801.8	1803.18	A	UI	inf	-1	0	that you've already got ,
+ES2003d.A.dialog-act.vkaraisk.135	1805.12	1809.5	A	UI	el.inf	+1	1	are people really gonna shell out twenty five Euros for something that's only marginally good ?
+ES2003d.D.dialog-act.vkaraisk.73	1812.54	1813.42	D	ID	stl	-1	0	Well ,
+ES2003d.D.dialog-act.vkaraisk.74	1813.42	1817.28	D	ID	inf	-1	0	it depends who your {disfmarker} who's {disfmarker} what the target people are ,
+ES2003d.D.dialog-act.vkaraisk.75	1817.28	1823.44	D	ID	inf	-1	0	like you'd say maybe the fashion conscious
+ES2003d.B.dialog-act.vkaraisk.266	1824.2	1825.978	B	PM	fra	-1	0	Maybe it's been targeted {disfmarker}
+ES2003d.D.dialog-act.vkaraisk.76	1824.58	1826.33	D	ID	inf	-1	0	women would be going , oh look at that ,
+ES2003d.D.dialog-act.vkaraisk.77	1826.33	1826.8	D	ID	inf	-1	0	's cool ,
+ES2003d.D.dialog-act.vkaraisk.78	1826.8	1828.45	D	ID	fra	-1	0	it looks like a {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.298	1828.04	1828.3	C	ME	bck	-1	0	Mm-hmm .
+ES2003d.D.dialog-act.vkaraisk.79	1828.45	1828.77	D	ID	inf	-1	0	it's
+ES2003d.D.dialog-act.vkaraisk.80	1829.71	1830.25	D	ID	inf	-1	0	yellow ,
+ES2003d.D.dialog-act.vkaraisk.81	1830.25	1830.92	D	ID	inf	-1	0	looks like a banana ,
+ES2003d.D.dialog-act.vkaraisk.82	1830.92	1831.3	D	ID	inf	-1	0	it's cool
+ES2003d.D.dialog-act.vkaraisk.83	1831.3	1832.73	D	ID	inf	-1	0	it's gotta {disfmarker} look good in the sitting room .
+ES2003d.B.dialog-act.vkaraisk.267	1834.64	1836.53	B	PM	be.pos	-1	0	Hide it in the fruit basket .
+ES2003d.D.dialog-act.vkaraisk.84	1835.06	1836.53	D	ID	fra	-1	0	Rather than the L_C_D_
+ES2003d.D.dialog-act.vkaraisk.85	1836.53	1844.75	D	ID	inf	-1	0	whereas uh more technical like like more uh people in with the latest technology {gap} it's good ,
+ES2003d.D.dialog-act.vkaraisk.86	1844.75	1845.83	D	ID	inf	-1	0	it's got an L_C_D_ screen
+ES2003d.D.dialog-act.vkaraisk.87	1845.83	1849.02	D	ID	inf	-1	0	's only got two buttons and a joystick .
+ES2003d.D.dialog-act.vkaraisk.88	1850.07	1850.62	D	ID	stl	-1	0	So ,
+ES2003d.D.dialog-act.vkaraisk.89	1852.34	1855.66	D	ID	el.inf	+1	0	which which kind of people would be more likely to buy it ?
+ES2003d.B.dialog-act.vkaraisk.268	1857.76	1859.27	B	PM	inf	+1	0	Probably the people technologically .
+ES2003d.B.dialog-act.vkaraisk.269	1859.27	1861.05	B	PM	inf	-1	0	They're usually the ones that buy pointless stuff .
+ES2003d.A.dialog-act.vkaraisk.137	1860.827	1862.592	A	UI	fra	-1	0	{vocalsound}
+ES2003d.C.dialog-act.vkaraisk.299	1861.17	1862.55	C	ME	ass	-1	0	I think so .
+ES2003d.D.dialog-act.vkaraisk.90	1861.081	1862.615	D	ID	fra	-1	0	{vocalsound}
+ES2003d.C.dialog-act.vkaraisk.300	1862.55	1867.12	C	ME	inf	-1	0	I mean my mum still has not learnt how to use text messaging on her phone ,
+ES2003d.C.dialog-act.vkaraisk.301	1867.12	1868.36	C	ME	inf	-1	0	and she's had it for a long time ,
+ES2003d.C.dialog-act.vkaraisk.302	1868.36	1868.97	C	ME	el.und	-1	0	you know .
+ES2003d.C.dialog-act.vkaraisk.303	1868.97	1871.3	C	ME	inf	-1	0	She uses it to make phone calls and that's it .
+ES2003d.D.dialog-act.vkaraisk.91	1871.584	1872.697	D	ID	fra	-1	0	{gap} .
+ES2003d.C.dialog-act.vkaraisk.304	1872.92	1874.27	C	ME	stl	-1	0	Yeah . So
+ES2003d.C.dialog-act.vkaraisk.305	1874.27	1882.58	C	ME	inf	+1	0	I think if sh if my mum saw a remote control like this with only two buttons and a joystick , I mean that'll probably be the first one she decides not to buy ,
+ES2003d.C.dialog-act.vkaraisk.306	1882.58	1883.54	C	ME	el.und	-1	0	you know .
+ES2003d.B.dialog-act.vkaraisk.270	1883.31	1883.89	B	PM	bck	-1	0	Mm-hmm .
+ES2003d.C.dialog-act.vkaraisk.307	1883.54	1885.2	C	ME	inf	-1	0	She'd be like is this a remote control ,
+ES2003d.C.dialog-act.vkaraisk.308	1885.2	1885.55	C	ME	fra	-1	0	I don't {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.309	1885.55	1887.96	C	ME	inf	-1	0	how do you use it , and stuff like that .
+ES2003d.C.dialog-act.vkaraisk.310	1887.96	1893.06	C	ME	inf	-1	0	So even if it is really user friendly to us , but we're used to using menus all the time .
+ES2003d.A.dialog-act.vkaraisk.138	1894.0	1899.2	A	UI	inf	-1	0	Mm-hmm . I s {vocalsound} I suppose one thing is that b because it's technically innovative ,
+ES2003d.A.dialog-act.vkaraisk.139	1899.99	1907.66	A	UI	inf	-1	0	um for someone who's sort of technophobic , the fact that it simply looks unfamiliar would be daunting .
+ES2003d.C.dialog-act.vkaraisk.311	1906.56	1909.27	C	ME	ass	-1	0	Yeah . Yeah .
+ES2003d.A.dialog-act.vkaraisk.140	1909.41	1909.77	A	UI	stl	-1	0	Um .
+ES2003d.C.dialog-act.vkaraisk.312	1909.27	1913.97	C	ME	ass	+1	0	I think it's totally uh radical to have a remote control with no no numbered buttons ,
+ES2003d.D.dialog-act.vkaraisk.92	1912.62	1913.08	D	ID	ass	-1	0	Yeah .
+ES2003d.C.dialog-act.vkaraisk.313	1913.97	1914.17	C	ME	ass	-1	0	yeah .
+ES2003d.D.dialog-act.vkaraisk.93	1914.31	1914.45	D	ID	bck	-1	0	Yeah .
+ES2003d.C.dialog-act.vkaraisk.314	1916.18	1917.64	C	ME	ass	-1	0	But like radical good , maybe .
+ES2003d.B.dialog-act.vkaraisk.271	1918.85	1920.57	B	PM	stl	-1	0	Okay . Um
+ES2003d.B.dialog-act.vkaraisk.272	1920.57	1921.81	B	PM	el.inf	-1	0	don't know how lo much longer we've got .
+ES2003d.B.dialog-act.vkaraisk.273	1921.81	1923.78	B	PM	inf	-1	0	At least five minutes I think .
+ES2003d.B.dialog-act.vkaraisk.274	1923.78	1929.05	B	PM	sug	+1	1	Um quickly we'll pop onto project evaluation . Um .
+ES2003d.B.dialog-act.vkaraisk.275	1930.74	1931.98	B	PM	stl	-1	0	So ,
+ES2003d.B.dialog-act.vkaraisk.276	1934.64	1938.49	B	PM	inf	+1	1	we've got these uh four criteria here for uh satisfaction .
+ES2003d.B.dialog-act.vkaraisk.277	1940.05	1946.45	B	PM	el.ass	+1	1	Does anybody want to um um do you have any opinions on any of them ?
+ES2003d.B.dialog-act.vkaraisk.278	1946.45	1950.53	B	PM	sug	-1	0	For example um {disfmarker} we'll work backwards I suppose .
+ES2003d.B.dialog-act.vkaraisk.279	1950.53	1956.79	B	PM	el.ass	-1	0	The ability to work on this project using the technology we've been presented with .
+ES2003d.B.dialog-act.vkaraisk.280	1956.79	1963.0	B	PM	el.inf	+1	1	Um {gap} people made good use of the uh pen and paper ?
+ES2003d.A.dialog-act.vkaraisk.141	1964.5	1964.92	A	UI	inf	-1	0	Yeah ,
+ES2003d.B.dialog-act.vkaraisk.281	1964.39	1966.416	B	PM	fra	-1	0	I would say {gap} {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.142	1964.92	1966.27	A	UI	inf	-1	0	got notes and doodles .
+ES2003d.C.dialog-act.vkaraisk.315	1964.425	1968.6	C	ME	inf	-1	0	{vocalsound} Wrote nearly a page ,
+ES2003d.D.dialog-act.vkaraisk.94	1965.57	1965.73	D	ID	bck	-1	0	Yeah .
+ES2003d.C.dialog-act.vkaraisk.316	1968.6	1970.08	C	ME	fra	-1	0	but not {gap} .
+ES2003d.B.dialog-act.vkaraisk.282	1971.03	1975.54	B	PM	el.inf	+1	1	I'm not quite sure what the advantage for us using a digital pen might be .
+ES2003d.A.dialog-act.vkaraisk.143	1976.24	1976.33	A	UI	stl	-1	0	Well
+ES2003d.A.dialog-act.vkaraisk.144	1976.33	1979.1	A	UI	inf	+1	1	I think this is a {disfmarker} I think the digital pen's mostly for the benefit of the uh
+ES2003d.C.dialog-act.vkaraisk.317	1975.94	1977.06	C	ME	inf	-1	0	I think tracking .
+ES2003d.A.dialog-act.vkaraisk.145	1980.6	1982.31	A	UI	inf	+1	1	of the researchers studying this .
+ES2003d.A.dialog-act.vkaraisk.146	1982.31	1984.93	A	UI	inf	-1	0	It's all p goes into their corpus .
+ES2003d.B.dialog-act.vkaraisk.283	1984.93	1985.699	B	PM	fra	-1	0	It must {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.147	1984.93	1988.14	A	UI	sug	+1	1	Though it would have been nice to be able to transfer the um
+ES2003d.A.dialog-act.vkaraisk.148	1989.45	1994.32	A	UI	sug	+1	1	transfer our n our paper notes onto the uh computer ourselves .
+ES2003d.C.dialog-act.vkaraisk.318	1994.58	1995.94	C	ME	ass	-1	0	Yeah , that woulda been pretty good .
+ES2003d.B.dialog-act.vkaraisk.284	1996.08	2001.85	B	PM	inf	-1	0	It does seem like the paper's still a heavy consideration for taking notes .
+ES2003d.B.dialog-act.vkaraisk.285	2001.85	2003.73	B	PM	inf	-1	0	So maybe this is literally just a way around it .
+ES2003d.B.dialog-act.vkaraisk.286	2003.73	2005.77	B	PM	ass	-1	0	Um I dunno .
+ES2003d.B.dialog-act.vkaraisk.287	2007.66	2011.46	B	PM	el.ass	+1	1	How are people satisfied with the teamwork we've managed to display today ?
+ES2003d.A.dialog-act.vkaraisk.149	2013.078	2014.116	A	UI	fra	-1	0	{gap} .
+ES2003d.C.dialog-act.vkaraisk.319	2013.18	2013.4	C	ME	fra	-1	0	I'd {disfmarker}
+ES2003d.D.dialog-act.vkaraisk.95	2012.83	2013.02	D	ID	ass	+1	1	Good .
+ES2003d.C.dialog-act.vkaraisk.320	2013.4	2014.0	C	ME	ass	+1	1	yeah I liked it ,
+ES2003d.C.dialog-act.vkaraisk.321	2014.0	2014.22	C	ME	ass	-1	0	yeah .
+ES2003d.B.dialog-act.vkaraisk.288	2018.87	2024.07	B	PM	el.ass	+1	1	Leadership . As much as can be leadered in this uh thing .
+ES2003d.D.dialog-act.vkaraisk.96	2023.56	2023.87	D	ID	ass	+1	1	Very good .
+ES2003d.C.dialog-act.vkaraisk.322	2024.3	2024.61	C	ME	fra	-1	0	I li
+ES2003d.C.dialog-act.vkaraisk.323	2024.61	2025.31	C	ME	ass	-1	0	yeah ,
+ES2003d.C.dialog-act.vkaraisk.324	2025.31	2025.86	C	ME	ass	-1	0	top marks .
+ES2003d.B.dialog-act.vkaraisk.289	2027.02	2030.8	B	PM	el.ass	+1	1	Um last one we've got is room for creativity .
+ES2003d.C.dialog-act.vkaraisk.325	2030.456	2037.06	C	ME	stl	-1	0	{vocalsound} Well {vocalsound}
+ES2003d.A.dialog-act.vkaraisk.150	2031.05	2036.09	A	UI	ass	+1	1	{vocalsound} Unti uh uh until uh until accounts came along ,
+ES2003d.B.dialog-act.vkaraisk.290	2030.8	2032.33	B	PM	stl	-1	0	Now ,
+ES2003d.B.dialog-act.vkaraisk.291	2032.33	2033.232	B	PM	fra	-1	0	I think we got {disfmarker}
+ES2003d.A.dialog-act.vkaraisk.151	2036.09	2037.05	A	UI	ass	-1	0	{gap} squish .
+ES2003d.D.dialog-act.vkaraisk.97	2036.24	2039.03	D	ID	be.neg	+1	1	We're burs bursting with creativity .
+ES2003d.C.dialog-act.vkaraisk.326	2037.06	2039.4	C	ME	stl	-1	0	yeah . {vocalsound}
+ES2003d.B.dialog-act.vkaraisk.292	2038.24	2045.7	B	PM	ass	-1	0	{vocalsound} Yeah
+ES2003d.C.dialog-act.vkaraisk.327	2039.4	2042.11	C	ME	inf	+1	1	We we're not lacking in ideas ,
+ES2003d.C.dialog-act.vkaraisk.328	2042.11	2042.42	C	ME	stl	-1	0	you know
+ES2003d.C.dialog-act.vkaraisk.329	2042.42	2043.04	C	ME	fra	-1	0	it's {disfmarker}
+ES2003d.C.dialog-act.vkaraisk.330	2043.04	2044.14	C	ME	ass	-1	0	that was not the problem .
+ES2003d.B.dialog-act.vkaraisk.293	2045.7	2051.72	B	PM	fra	+1	1	I think of {disfmarker} in the end , ideas that can be used {gap} sadly {gap} .
+ES2003d.B.dialog-act.vkaraisk.294	2051.72	2057.02	B	PM	inf	+1	1	Not so much that we weren't full of ideas , but of ones that are gonna allow us to actually build the thing .
+ES2003d.B.dialog-act.vkaraisk.295	2057.02	2058.55	B	PM	ass	-1	0	It's a bit of a pity .
+ES2003d.C.dialog-act.vkaraisk.331	2056.75	2057.05	C	ME	bck	-1	0	Mm-hmm .
+ES2003d.B.dialog-act.vkaraisk.296	2058.55	2061.48	B	PM	ass	-1	0	Um I would have to agree on that .
+ES2003d.B.dialog-act.vkaraisk.297	2061.48	2062.85	B	PM	ass	+1	1	I think we needed a larger budget .
+ES2003d.C.dialog-act.vkaraisk.332	2063.46	2063.72	C	ME	ass	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.298	2064.1	2072.67	B	PM	sug	-1	0	If you're going to aim your a um product maybe at the technological kind of sector , then you can afford to maybe jack the price up slightly from what it is .
+ES2003d.A.dialog-act.vkaraisk.152	2072.75	2073.19	A	UI	bck	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.299	2072.67	2075.264	B	PM	inf	-1	0	Because they will pay outrageous cash to {gap}
+ES2003d.A.dialog-act.vkaraisk.153	2075.97	2091.34	A	UI	inf	+1	1	Mm . I mean I th {vocalsound} I mean I think to r retaining the s the more sort of bio-morphic form in the articulation would gain more in s uh would gain more profit in sales than it would lose in uh
+ES2003d.B.dialog-act.vkaraisk.301	2076.35	2077.21	B	PM	inf	-1	0	first on the market .
+ES2003d.A.dialog-act.vkaraisk.154	2092.76	2094.08	A	UI	inf	-1	0	in added expense .
+ES2003d.B.dialog-act.vkaraisk.302	2094.79	2095.41	B	PM	bck	-1	0	Mm .
+ES2003d.D.dialog-act.vkaraisk.98	2096.37	2102.56	D	ID	inf	-1	0	And the price was like {disfmarker} it was twice the w assembly cost .
+ES2003d.D.dialog-act.vkaraisk.99	2102.56	2105.75	D	ID	el.inf	-1	0	And would it have to be twice that ?
+ES2003d.D.dialog-act.vkaraisk.100	2105.75	2110.96	D	ID	sug	-1	0	It could be like coulda had the assembly {gap} like maybe fifteen Euro .
+ES2003d.B.dialog-act.vkaraisk.303	2112.14	2112.943	B	PM	fra	-1	0	It could even {disfmarker}
+ES2003d.D.dialog-act.vkaraisk.101	2112.2	2113.55	D	ID	sug	-1	0	We'll still settle for twenty five {vocalsound} .
+ES2003d.B.dialog-act.vkaraisk.304	2115.25	2116.78	B	PM	ass	-1	0	That's true , yeah .
+ES2003d.D.dialog-act.vkaraisk.102	2115.31	2123.216	D	ID	ass	-1	0	Maybe . {vocalsound}
+ES2003d.B.dialog-act.vkaraisk.305	2116.78	2126.72	B	PM	sug	-1	0	Um I suppose these are all that will have to be taken up with a at a different group at I guess . As to a {gap} the costs involved .
+ES2003d.B.dialog-act.vkaraisk.306	2128.5	2132.76	B	PM	inf	-1	0	But I mean we've got a a prototype .
+ES2003d.A.dialog-act.vkaraisk.155	2133.87	2134.71	A	UI	ass	-1	0	Such as it is .
+ES2003d.B.dialog-act.vkaraisk.307	2134.722	2137.24	B	PM	stl	-1	0	{vocalsound} So
+ES2003d.B.dialog-act.vkaraisk.308	2137.24	2137.55	B	PM	ass	-1	0	I dunno ,
+ES2003d.B.dialog-act.vkaraisk.309	2137.55	2144.35	B	PM	ass	+1	1	I I think it's gone okay today , considering the information that we've had at our disposal , and um such .
+ES2003d.C.dialog-act.vkaraisk.333	2143.84	2150.68	C	ME	sug	+1	1	Maybe the counts wou woulda been better if we had a list or more {disfmarker} Yeah , to begin with .
+ES2003d.D.dialog-act.vkaraisk.103	2149.89	2150.8	D	ID	ass	-1	0	In the beginning , yeah .
+ES2003d.C.dialog-act.vkaraisk.334	2150.68	2151.05	C	ME	ass	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.311	2152.21	2152.99	B	PM	fra	-1	0	Probably would have {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.312	2152.99	2156.32	B	PM	inf	-1	0	mean we could have come up with a lot more solid design in the end ,
+ES2003d.C.dialog-act.vkaraisk.335	2155.22	2155.46	C	ME	ass	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.313	2156.32	2157.56	B	PM	ass	-1	0	I would have to agree .
+ES2003d.B.dialog-act.vkaraisk.314	2157.56	2167.6	B	PM	ass	+1	1	It is very much a pity to um get so far into the stage and then find out that maybe some of your ideas are just a bit too expensive .
+ES2003d.B.dialog-act.vkaraisk.315	2167.6	2171.43	B	PM	inf	-1	0	Always hard to tell until you know the costs . Um .
+ES2003d.B.dialog-act.vkaraisk.316	2175.58	2178.07	B	PM	stl	-1	0	Okay .
+ES2003d.B.dialog-act.vkaraisk.317	2178.07	2179.65	B	PM	el.inf	-1	0	Are the costs within budget ?
+ES2003d.B.dialog-act.vkaraisk.318	2179.65	2180.73	B	PM	stl	-1	0	Well ,
+ES2003d.D.dialog-act.vkaraisk.104	2179.28	2180.224	D	ID	fra	-1	0	{vocalsound}
+ES2003d.B.dialog-act.vkaraisk.319	2180.73	2181.24	B	PM	inf	-1	0	they are now
+ES2003d.B.dialog-act.vkaraisk.320	2181.24	2185.56	B	PM	ass	-1	0	that we have our slightly less than capable product .
+ES2003d.C.dialog-act.vkaraisk.336	2184.58	2184.86	C	ME	bck	-1	0	Okay .
+ES2003d.B.dialog-act.vkaraisk.321	2185.56	2186.71	B	PM	inf	-1	0	We've evaluated it ,
+ES2003d.B.dialog-act.vkaraisk.322	2186.71	2189.1	B	PM	inf	-1	0	and we can say that we came out with a value of three .
+ES2003d.C.dialog-act.vkaraisk.337	2190.07	2190.31	C	ME	bck	-1	0	Yeah .
+ES2003d.A.dialog-act.vkaraisk.156	2192.0	2193.55	A	UI	fra	-1	0	Actually I want th
+ES2003d.A.dialog-act.vkaraisk.157	2193.55	2195.02	A	UI	off	-1	0	one thing I would say {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.323	2193.223	2193.836	B	PM	fra	-1	0	{vocalsound}
+ES2003d.A.dialog-act.vkaraisk.158	2195.02	2206.1	A	UI	sug	+1	0	I mean something that could perhaps be part of the product mm the um m product testing market research process would be to uh produce mock-ups of both versions
+ES2003d.A.dialog-act.vkaraisk.159	2206.1	2211.19	A	UI	sug	+1	0	and see just how much of a difference the over {gap} going over-budget
+ES2003d.A.dialog-act.vkaraisk.160	2212.32	2213.98	A	UI	sug	+1	0	um m would make to sales .
+ES2003d.B.dialog-act.vkaraisk.324	2215.04	2215.73	B	PM	fra	-1	0	It's {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.325	2215.73	2216.04	B	PM	ass	-1	0	yeah ?
+ES2003d.C.dialog-act.vkaraisk.338	2216.09	2218.54	C	ME	fra	-1	0	And like response from consumers {gap} .
+ES2003d.A.dialog-act.vkaraisk.161	2218.53	2221.74	A	UI	sug	-1	0	And we could even you know , market two versions .
+ES2003d.B.dialog-act.vkaraisk.326	2222.416	2224.174	B	PM	fra	-1	0	{vocalsound}
+ES2003d.C.dialog-act.vkaraisk.339	2222.553	2223.748	C	ME	fra	-1	0	{vocalsound}
+ES2003d.A.dialog-act.vkaraisk.162	2225.49	2229.689	A	UI	sug	-1	0	Wee cheapie version with the nice bio-morphic rubber . {vocalsound}
+ES2003d.B.dialog-act.vkaraisk.327	2231.7	2234.89	B	PM	be.pos	-1	0	And then the final one where you get to call it Hal .
+ES2003d.A.dialog-act.vkaraisk.163	2235.01	2235.72	A	UI	ass	-1	0	Yes .
+ES2003d.B.dialog-act.vkaraisk.328	2234.89	2237.58	B	PM	sug	-1	0	But we'll go into that later .
+ES2003d.C.dialog-act.vkaraisk.340	2234.437	2236.52	C	ME	bck	-1	0	{vocalsound} Sure .
+ES2003d.B.dialog-act.vkaraisk.329	2237.58	2239.63	B	PM	stl	-1	0	Right um
+ES2003d.C.dialog-act.vkaraisk.341	2237.486	2238.131	C	ME	fra	-1	0	{vocalsound}
+ES2003d.B.dialog-act.vkaraisk.330	2239.63	2244.608	B	PM	el.inf	+1	1	is there anything else that anybody would like to to add , um {gap}
+ES2003d.B.dialog-act.vkaraisk.331	2245.75	2247.54	B	PM	el.inf	-1	0	anything they think that's not been covered ,
+ES2003d.B.dialog-act.vkaraisk.332	2247.54	2253.52	B	PM	off	+1	1	before I quickly write up a final report .
+ES2003d.B.dialog-act.vkaraisk.333	2254.82	2256.34	B	PM	ass	-1	0	Um I dunno ,
+ES2003d.B.dialog-act.vkaraisk.334	2256.34	2257.89	B	PM	inf	-1	0	I mean we've got a product .
+ES2003d.B.dialog-act.vkaraisk.335	2257.89	2260.21	B	PM	ass	-1	0	We maybe aren't as happy with it as we'd like to be ,
+ES2003d.B.dialog-act.vkaraisk.336	2260.21	2263.54	B	PM	inf	+1	1	but we've got something
+ES2003d.B.dialog-act.vkaraisk.337	2263.54	2266.11	B	PM	inf	+1	1	we think we can maybe stick onto the the market and sell .
+ES2003d.B.dialog-act.vkaraisk.338	2268.45	2275.56	B	PM	inf	-1	0	And of course something we have been avoiding talking about 'cause of we've no information is selling them directly to the manufacturers .
+ES2003d.B.dialog-act.vkaraisk.339	2275.56	2276.41	B	PM	inf	-1	0	There is a huge market .
+ES2003d.C.dialog-act.vkaraisk.342	2275.32	2275.56	C	ME	bck	-1	0	Yeah .
+ES2003d.B.dialog-act.vkaraisk.340	2276.41	2277.69	B	PM	inf	-1	0	I mean we've briefly touched on it
+ES2003d.B.dialog-act.vkaraisk.341	2277.69	2278.58	B	PM	inf	-1	0	but we've no more knowledge
+ES2003d.B.dialog-act.vkaraisk.342	2278.58	2280.04	B	PM	inf	-1	0	then there's little we can say on that .
+ES2003d.C.dialog-act.vkaraisk.343	2280.28	2280.49	C	ME	bck	-1	0	Yeah .
+ES2003d.A.dialog-act.vkaraisk.164	2281.75	2281.95	A	UI	bck	-1	0	Mm .
+ES2003d.B.dialog-act.vkaraisk.343	2286.78	2291.67	B	PM	stl	-1	0	Yeah . So um
+ES2003d.B.dialog-act.vkaraisk.344	2291.67	2298.69	B	PM	sug	+1	0	unless anybody's got anything they'd like to add , we can maybe round this up slightly earlier than we'd need to
+ES2003d.B.dialog-act.vkaraisk.345	2298.69	2302.13	B	PM	sug	+1	0	and then we can finish up the writing and such .
+ES2003d.A.dialog-act.vkaraisk.165	2300.47	2301.59	A	UI	off	-1	0	And I can get my bus .
+ES2003d.A.dialog-act.vkaraisk.166	2304.4	2304.77	A	UI	ass	-1	0	Okay .
+ES2003d.B.dialog-act.vkaraisk.346	2303.99	2304.31	B	PM	el.ass	-1	0	Yeah ?
+ES2003d.C.dialog-act.vkaraisk.344	2304.42	2307.536	C	ME	ass	-1	0	Yeah . Okay , let's {disfmarker}
+ES2003d.B.dialog-act.vkaraisk.347	2309.0	2311.3	B	PM	be.pos	-1	0	Uh thank you for your participation .
+ES2003d.C.dialog-act.vkaraisk.345	2310.79	2311.12	C	ME	be.pos	-1	0	Thank you .
+ES2003d.A.dialog-act.vkaraisk.167	2311.64	2312.09	A	UI	be.pos	-1	0	Thank you .
+ES2003d.C.dialog-act.vkaraisk.346	2313.056	2324.66	C	ME	ass	+1	1	{vocalsound} I was actually kind of upset you know at the budget , and that we had to cut a lot of stuff .
+ES2003d.C.dialog-act.vkaraisk.347	2324.66	2327.81	C	ME	inf	-1	0	It's like man , we we can't have the locator thing .
+ES2003d.C.dialog-act.vkaraisk.348	2328.95	2329.89	C	ME	fra	-1	0	And s
+ES2003d.C.dialog-act.vkaraisk.349	2329.89	2331.0	C	ME	ass	-1	0	yeah that's just bad .
+ES2003d.C.dialog-act.vkaraisk.350	2333.54	2337.7	C	ME	el.inf	-1	0	Do you think maybe {gap} the prices were were made ?
+ES2003d.B.dialog-act.vkaraisk.348	2341.22	2342.32	B	PM	sug	-1	0	That {gap} a question we can ask {gap} . {vocalsound}

@@ -1,0 +1,6 @@
+The digit recognition system is still not working well enough , they must get better results if they want to publish and be noticed.
+They have not really made many improvements , which may be due to their comparatively small training set , or the conditions the data is recorded under.
+The new VAD is quite a large network , and adds a delay to the process.
+This caused OGI to drop it , though speaker mn007 is assuming that a smaller and equally effective system can be developed.
+The alternative is to get yet another VAD form somewhere else , though it's not clear if they will even be required in the final system.
+There are some problems with the voiced/unvoiced feature detection , because some pitches are slipping through the filtering.

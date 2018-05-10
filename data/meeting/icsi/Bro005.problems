@@ -1,0 +1,82 @@
+22	Bro005.s.9	It is unclear if the English TIMIT database is providing the best results because English is the best language or TIMIT is the most accurately labelled dataset because it was hand labelled.
+Bro005.D.dialogueact376	957.74	963.5	D	Professor	s	+1	2	So , it it 's still {disfmarker} it hurts you {disfmarker} seems to hurt you a fair amount to add in this French and Spanish .
+Bro005.D.dialogueact379	966.21	967.08	D	Professor	s	+1	2	I wonder why
+Bro005.C.dialogueact381	970.314	972.824	C	Grad	s	+1	2	Well Stephane was saying that they weren't hand - labeled ,
+Bro005.C.dialogueact385	974.088	976.098	C	Grad	s	+1	2	the French and the Spanish .
+Bro005.A.dialogueact669	1777.93	1781.72	A	PhD	fg|s	+1	1	yeah ! {comment} As we mentioned , TIMIT is the only that 's hand - labeled ,
+Bro005.A.dialogueact670	1782.3	1784.75	A	PhD	s	+1	1	and perhaps this is what makes the difference .
+Bro005.A.dialogueact672	1788.58	1790.21	A	PhD	s	+1	1	Yeah , the other are just Viterbi - aligned .
+Bro005.A.dialogueact810	2114.25	2116.77	A	PhD	s	+1	3	Well , the TIMIT network is still the best
+Bro005.A.dialogueact812	2119.33	2121.04	A	PhD	s^df	+1	2	the fact that it 's {disfmarker} it 's hand - labeled .
+Bro005.A.dialogueact842	2209.69	2213.79	A	PhD	s^df^rt	+1	2	But you have two {disfmarker} two effects , the effect of changing language
+Bro005.A.dialogueact843	2213.79	2218.57	A	PhD	s^df	+1	2	and the effect of training on something that 's {pause} Viterbi - aligned instead of hand {disfmarker} hand - labeled .
+Bro005.D.dialogueact847	2227.01	2228.2	D	Professor	qy^rt	+1	2	Do you think the alignments are bad ?
+Bro005.D.dialogueact848	2228.85	2230.39	D	Professor	qy	+1	2	I mean , have you looked at the alignments at all ?
+Bro005.D.dialogueact849	2230.39	2231.64	D	Professor	s	+1	2	What the Viterbi alignment 's doing ?
+Bro005.D.dialogueact854	2241.85	2243.16	D	Professor	s^cs	+1	2	Might be interesting to look at it .
+Bro005.A.dialogueact860	2259.99	2266.61	A	PhD	s^am|s^ng	+1	2	Yeah . But {disfmarker} Yeah . But , perhaps it 's not really the {disfmarker} the alignment that 's bad
+Bro005.A.dialogueact861	2266.61	2271.32	A	PhD	s^cs	+1	2	but the {disfmarker} just the ph phoneme string that 's used for the alignment
+Bro005.D.dialogueact866	2273.51	2275.02	D	Professor	s^bs	+1	2	The pronunciation models and so forth
+Bro005.A.dialogueact877	2296.13	2300.37	A	PhD	s	+1	2	there {disfmarker} there might be errors just in the {disfmarker} in {disfmarker} in the ph string of phonemes .
+Bro005.A.dialogueact880	2306.88	2308.78	A	PhD	fh|s	+1	2	Yeah , so this is not really the Viterbi alignment ,
+Bro005.A.dialogueact914	2380.61	2383.36	A	PhD	s	+1	2	We can , we can tell which training set gives the best result ,
+Bro005.A.dialogueact915	2383.95	2386.29	A	PhD	s^df	+1	2	but {vocalsound} we don't know exactly why .
+46	Bro005.s.10	The results table was very large and difficult to follow; it was unclear which of the numbers were error or accuracy rate , and straight rates or percentages of the baseline.
+Bro005.A.dialogueact14	42.097	43.207	A	PhD	z	+1	2	Yeah , I 'm sorry for the table ,
+Bro005.A.dialogueact15	43.207	47.707	A	PhD	z	+1	2	but as it grows in size , uh , it .
+Bro005.D.dialogueact16	48.421	50.801	D	Professor	z	+1	2	Uh , so for th the last column we use our imagination .
+Bro005.D.dialogueact59	156.701	163.801	D	Professor	s^bu	+1	3	a And again all of these numbers are with a hundred percent being , uh , the baseline performance ,
+Bro005.A.dialogueact58	154.556	156.056	A	PhD	s	+1	3	and eighty - nine with the delta .
+Bro005.A.dialogueact57	145.806	154.556	A	PhD	s^rt	+1	3	uh {pause} when we use the large training set using French , Spanish , and English , you have one hundred and six without delta
+Bro005.A.dialogueact60	161.346	161.696	A	PhD	s^aa	+1	1	Yeah ,
+Bro005.A.dialogueact78	209.758	210.858	A	PhD	s^rt	+1	3	so , it 's multi - English ,
+Bro005.A.dialogueact79	210.858	212.658	A	PhD	s	+1	3	we have a ninety - one number ,
+Bro005.A.dialogueact81	213.556	216.956	A	PhD	s	+1	3	and training with other languages is a little bit worse .
+Bro005.A.dialogueact90	231.79	236.58	A	PhD	s^rt	+1	3	If y if I take the training s the large training set , it 's {disfmarker} we have one hundred and seventy - two ,
+Bro005.A.dialogueact92	237.18	239.29	A	PhD	s	+1	3	and one hundred and four when we use delta .
+Bro005.A.dialogueact129	369.232	374.892	A	PhD	s^rt	+1	2	And this is {disfmarker} The results are on the other document .
+Bro005.A.dialogueact145	444.987	450.398	A	PhD	fg|s^e	+1	1	Yeah , we ju just to be clear , the numbers here are uh recognition accuracy .
+Bro005.B.dialogueact148	453.94	457.57	B	PhD	s	+1	1	Yes , and the baseline {disfmarker} the baseline have {disfmarker} i is eighty - two .
+Bro005.D.dialogueact149	459.08	460.25	D	Professor	s^bk^m	+1	1	Baseline is eighty - two .
+Bro005.A.dialogueact165	510.54	512.66	A	PhD	s.%--	+1	1	Yeah , eh , actually , if w we look at the table ,
+Bro005.A.dialogueact166	512.93	513.57	A	PhD	s^rt.%--	+1	1	the huge table ,
+Bro005.D.dialogueact188	577.12	584.54	D	Professor	qw	+1	2	when you said the baseline system was uh , uh eighty - two percent , that was trained on what and tested on what ?
+Bro005.D.dialogueact189	584.86	591.65	D	Professor	s	+1	2	That was , uh Italian mismatched d uh , uh , digits , uh , is the testing ,
+Bro005.D.dialogueact191	591.65	594.0	D	Professor	qy^bu^d^rt	+1	2	and the training is Italian digits ?
+Bro005.B.dialogueact192	594.216	594.566	B	PhD	s^aa^rt	+1	2	Yeah .
+Bro005.D.dialogueact193	596.05	600.55	D	Professor	s^bu	+1	2	So the " mismatch " just refers to the noise and {disfmarker} and , uh microphone and so forth ,
+Bro005.D.dialogueact211	622.547	631.843	D	Professor	fh|s	+1	1	So , um {disfmarker} So what that says is that in a matched condition , {vocalsound} we end up with a fair amount worse putting in the uh PLP .
+Bro005.D.dialogueact212	632.552	635.552	D	Professor	qy.%--	+1	1	Now w would {disfmarker} do we have a number , I suppose for the matched {disfmarker}
+Bro005.D.dialogueact213	635.612	636.872	D	Professor	s	+1	1	I {disfmarker} I don't mean matched ,
+Bro005.D.dialogueact214	636.872	640.572	D	Professor	qy^bu^d^rt	+1	1	but uh use of Italian {disfmarker} training in Italian digits for PLP only ?
+Bro005.A.dialogueact217	643.569	645.659	A	PhD	s	+1	1	so this is {disfmarker} basically this is in the table .
+Bro005.A.dialogueact218	646.62	649.24	A	PhD	fh|s^rt	+1	1	Uh {pause} so the number is fifty - two ,
+Bro005.B.dialogueact219	646.63	647.44	B	PhD	s^2	+1	1	Another table .
+Bro005.D.dialogueact221	652.99	653.69	D	Professor	s^bu^m	+1	1	Fifty - two percent .
+Bro005.A.dialogueact222	654.004	656.614	A	PhD	s.%-	+1	1	Fift - So {disfmarker} No , it 's {disfmarker} it 's the {disfmarker}
+Bro005.D.dialogueact224	655.005	656.645	D	Professor	s^bk^m|qy^bu^d^rt	+1	1	No , fifty - two percent of eighty - two ?
+Bro005.A.dialogueact225	656.854	659.421	A	PhD	s	+1	1	Of {disfmarker} of {disfmarker} of uh {pause} eighteen {disfmarker}
+Bro005.B.dialogueact226	658.88	659.34	B	PhD	s	+1	1	Eighty .
+Bro005.A.dialogueact228	659.641	660.211	A	PhD	s^r	+1	1	of eighteen .
+Bro005.A.dialogueact229	660.431	662.981	A	PhD	s	+1	1	So it 's {disfmarker} it 's error rate , basically .
+Bro005.B.dialogueact230	662.066	664.252	B	PhD	s^rt	+1	1	It 's plus six .
+Bro005.A.dialogueact231	663.721	664.511	A	PhD	s^bsc	+1	1	It 's er error rate ratio .
+Bro005.D.dialogueact234	664.594	665.664	D	Professor	s^bk|s^fe	+1	1	Oh this is accuracy !
+Bro005.B.dialogueact236	665.937	666.187	B	PhD	b	+1	1	Yeah .
+Bro005.A.dialogueact238	666.297	669.417	A	PhD	fg|s	+1	1	Uh , so we have nine {disfmarker} nine {disfmarker} let 's say ninety percent .
+Bro005.D.dialogueact280	758.48	759.26	D	Professor	s^bk|s^fa	+1	1	Oh , I 'm sorry ,
+Bro005.D.dialogueact281	759.26	760.66	D	Professor	s	+1	1	I k I keep getting confused
+Bro005.D.dialogueact282	760.66	761.85	D	Professor	s^df	+1	1	because this is accuracy .
+Bro005.A.dialogueact283	761.199	761.919	A	PhD	s^bk|s^fa	+1	1	Yeah , sorry .
+7	Bro005.s.11	There is very limited training data , over only a few conditions.
+Bro005.D.dialogueact1153	3020.08	3026.95	D	Professor	s	+1	1	Here the problem seems to be is that we don't have a hug a really huge net with a really huge amount of training data .
+Bro005.D.dialogueact1154	3027.57	3031.58	D	Professor	s	+1	1	But we have s f {pause} for this kind of task , I would think , {pause} sort of a modest amount .
+Bro005.D.dialogueact1155	3031.58	3033.17	D	Professor	s	+1	1	I mean , a million frames actually isn't that much .
+Bro005.D.dialogueact1156	3033.79	3038.85	D	Professor	s	+1	1	We have a modest amount of {disfmarker} of uh training data from a couple different conditions ,
+Bro005.D.dialogueact1157	3039.45	3048.28	D	Professor	s	+1	2	and then uh {disfmarker} in {disfmarker} yeah , that {disfmarker} and the real situation is that there 's enormous variability that we anticipate in the test set in terms of language ,
+Bro005.D.dialogueact1158	3049.11	3049.98	D	Professor	s	+1	2	and noise type
+Bro005.D.dialogueact1159	3050.64	3053.87	D	Professor	fh|s	+1	2	uh , and uh , {pause} uh , channel characteristic ,
+3	Bro005.s.12	Test and real data is likely to encompass much more variability.
+Bro005.D.dialogueact1157	3039.45	3048.28	D	Professor	s	+1	2	and then uh {disfmarker} in {disfmarker} yeah , that {disfmarker} and the real situation is that there 's enormous variability that we anticipate in the test set in terms of language ,
+Bro005.D.dialogueact1158	3049.11	3049.98	D	Professor	s	+1	2	and noise type
+Bro005.D.dialogueact1159	3050.64	3053.87	D	Professor	fh|s	+1	2	uh , and uh , {pause} uh , channel characteristic ,

@@ -1,0 +1,75 @@
+6	Bro021.s.8	This week , speaker mn007 has mostly been focusing on trying different approaches to on-line normalization , but making little impact on results.
+Bro021.F.dialogueact26	60.0	61.3	F	PhD	qy^cs^rt	+1	1	Uh , do you want to start , Stephane ?
+Bro021.C.dialogueact54	109.138	115.958	C	PhD	s	+1	2	well , I 've been working on {disfmarker} on t mainly on on - line normalization this week .
+Bro021.C.dialogueact55	116.881	122.351	C	PhD	fh|s	+1	2	Uh , I 've been trying different {disfmarker} slightly {disfmarker} slightly different approaches .
+Bro021.C.dialogueact62	153.194	155.924	C	PhD	s	+1	1	This actually don't s doesn't seem to help ,
+Bro021.C.dialogueact63	156.861	157.861	C	PhD	s	+1	1	although it doesn't hurt .
+Bro021.C.dialogueact65	158.681	163.841	C	PhD	s	+1	1	But {disfmarker} well , both {pause} on - line normalization approach seems equivalent .
+9	Bro021.s.9	He has also been playing with thresholding , effectively adding white noise to the data , but again with minimal affect.
+Bro021.C.dialogueact171	470.678	474.479	C	PhD	s^tc	+1	2	Yeah . I 've been playing a little bit with some kind of thresholding ,
+Bro021.C.dialogueact174	480.974	482.514	C	PhD	s.%--	+1	1	as a first experiment , I think I
+Bro021.C.dialogueact177	490.953	494.173	C	PhD	s^bsc^rt	+1	1	no , the maximum energy of s each utterance
+Bro021.C.dialogueact180	499.725	502.915	C	PhD	s.%--	+1	1	Then put a threshold that 's fifteen DB below {disfmarker}
+Bro021.C.dialogueact185	509.076	510.276	C	PhD	s	+1	1	Actually it was not a threshold ,
+Bro021.C.dialogueact186	510.276	511.496	C	PhD	s^df	+1	1	it was just adding noise .
+Bro021.C.dialogueact192	522.993	528.863	C	PhD	s^rt	+1	1	When we look at {disfmarker} at the , um , MFCC that result from this , they are {pause} a lot more smoother .
+Bro021.C.dialogueact200	548.915	553.915	C	PhD	s^rt	+1	1	And the result that we have in term of speech recognition , actually it 's not {disfmarker} it 's not worse ,
+Bro021.C.dialogueact201	554.345	555.335	C	PhD	s^df	+1	1	it 's not better neither ,
+11	Bro021.s.10	Also making little improvement is fn002's work with Vectorial Taylor series , as a means of dealing with noise.
+Bro021.F.dialogueact751	1861.67	1862.79	F	PhD	qo^tc	+1	2	Oh . How about you , Carmen ?
+Bro021.E.dialogueact752	1863.42	1865.7	E	PhD	s	+1	2	Mmm . I 'm working with VTS .
+Bro021.E.dialogueact754	1871.82	1874.34	E	PhD	s^e	+1	1	only with VTS and nothing more .
+Bro021.E.dialogueact755	1874.43	1875.2	E	PhD	s^e	+1	1	Not VAD ,
+Bro021.E.dialogueact756	1875.2	1876.17	E	PhD	s^e	+1	1	no LDA ,
+Bro021.E.dialogueact757	1876.17	1876.8	E	PhD	s^e	+1	1	nothing more .
+Bro021.E.dialogueact763	1881.39	1882.82	E	PhD	s	+1	1	To remove the noise too .
+Bro021.E.dialogueact780	1904.85	1912.31	E	PhD	fh|s	+1	1	And when we put the {disfmarker} m m the , em , VAD , the result is better .
+Bro021.E.dialogueact781	1912.67	1916.5	E	PhD	s	+1	1	And we put everything , the result is better ,
+Bro021.E.dialogueact782	1916.5	1920.69	E	PhD	s	+1	1	but it 's not better than the result that we have without VTS .
+Bro021.B.dialogueact785	1923.86	1930.19	B	Professor	s.%--	+1	1	So that @ @ {comment} given that you 're using the VAD also , the effect of the VTS is not {pause} so far {disfmarker}
+18	Bro021.s.11	Mn052 has been adding Wiener filtering to the aurora task , and is thinking about future work on subspace.
+Bro021.F.dialogueact667	1680.61	1681.2	F	PhD	qo^rt^tc	+1	2	How about you , Sunil ?
+Bro021.D.dialogueact668	1681.96	1687.93	D	PhD	h|s	+1	3	So , um , I 've been , uh , implementing this , uh , Wiener filtering for this Aurora task .
+Bro021.D.dialogueact670	1690.81	1695.11	D	PhD	s	+1	2	I {disfmarker} I actually thought it was {disfmarker} it was doing fine when I tested it once .
+Bro021.D.dialogueact671	1695.19	1697.48	D	PhD	s	+1	2	I it 's , like , using a small section of the code .
+Bro021.D.dialogueact673	1700.03	1703.01	D	PhD	s	+1	2	and I got , {vocalsound} like , worse results than not using it .
+Bro021.D.dialogueact675	1704.21	1706.79	D	PhD	s	+1	2	So , I 've been trying to find where the problem came from .
+Bro021.D.dialogueact676	1706.79	1709.06	D	PhD	s	+1	2	And then it looks like I have some problem in the way {disfmarker}
+Bro021.D.dialogueact677	1709.32	1711.67	D	PhD	s^df	+1	2	there is some {disfmarker} some very silly bug somewhere .
+Bro021.D.dialogueact679	1712.72	1716.05	D	PhD	s	+1	2	I {disfmarker} I mean , i uh , it actually {disfmarker} i it actually made the whole thing worse .
+Bro021.D.dialogueact681	1718.32	1720.42	D	PhD	s	+1	2	and it 's , like {disfmarker} w it 's {disfmarker} it 's very horrible .
+Bro021.D.dialogueact706	1749.59	1752.59	D	PhD	s	+1	2	I was like {disfmarker} I 'm trying to find where the m m problem came ,
+Bro021.D.dialogueact712	1759.68	1762.46	D	PhD	s	+1	1	Well , Hynek showed up one {disfmarker} suddenly on one day
+Bro021.D.dialogueact719	1768.15	1774.27	D	PhD	s	+1	1	So I was actually {disfmarker} that day I was thinking about d doing something about the Wiener filtering , and then Carlos matter of stuff .
+Bro021.D.dialogueact722	1775.65	1777.3	D	PhD	s	+1	1	And then he gave me a whole bunch of filters {disfmarker}
+Bro021.D.dialogueact723	1777.3	1780.0	D	PhD	s^e	+1	1	what Carlos used for his , uh , uh , thesis
+Bro021.D.dialogueact729	1796.44	1802.17	D	PhD	s	+1	1	So instead of designing our own new Wiener filters , I may just use one of those Carlos filters in {disfmarker} in this implementation
+Bro021.D.dialogueact739	1815.35	1820.24	D	PhD	s	+1	1	that {disfmarker} so that is the next thing . Once this {disfmarker} I {disfmarker} once I sort this pro uh , problem out maybe I 'll just go into that also .
+Bro021.D.dialogueact741	1821.92	1825.6	D	PhD	s^tc	+1	1	the {disfmarker} the other thing was about the subspace approach .
+15	Bro021.s.12	Speaker me026 has been investigating phase normalization , and the possibility of adding spectral subtraction to an existing system.
+Bro021.F.dialogueact546	1359.82	1363.0	F	PhD	fh|s^cc^tc	+1	2	So , um , {vocalsound} I guess I 'll just pass it on to Dave .
+Bro021.G.dialogueact548	1363.81	1372.79	G	Grad	s	+1	3	Well , in my lunch talk last week I {disfmarker} I said I 'd tried phase normalization and gotten garbage results using that l um , long - term mean subtraction approach .
+Bro021.G.dialogueact549	1373.37	1375.35	G	Grad	s^df	+1	2	It turned out there was a bug in my Matlab code .
+Bro021.G.dialogueact552	1378.37	1382.57	G	Grad	fh|s	+1	1	and , um , the results {vocalsound} were {disfmarker} were better .
+Bro021.G.dialogueact554	1385.15	1389.79	G	Grad	s	+1	1	But they still weren't as good as just subtracting the magnitude {disfmarker} the log magnitude means .
+Bro021.G.dialogueact555	1391.98	1399.0	G	Grad	s	+1	1	And also I 've been talking to , um , Andreas and Thilo about the , um , SmartKom language model
+Bro021.G.dialogueact556	1399.0	1404.65	G	Grad	s	+1	1	and about coming up with a good model for , um , far mike use of the SmartKom system .
+Bro021.G.dialogueact558	1405.86	1412.01	G	Grad	s^cc	+1	1	I 'm gonna be working on , um , implementing this mean subtraction approach in the {vocalsound} far - mike system {disfmarker}
+Bro021.G.dialogueact559	1412.01	1413.54	G	Grad	s^bsc	+1	1	for the SmartKom system , I mean .
+Bro021.B.dialogueact589	1484.13	1486.92	B	Professor	s	+1	1	Also , I guess we had {disfmarker} we 've had these , uh , little di discussions {disfmarker}
+Bro021.B.dialogueact593	1493.39	1497.42	B	Professor	fh|s	+1	1	So , I mean , I {disfmarker} I guess that was something I could say would be that we 've talked a little bit about
+Bro021.B.dialogueact594	1497.55	1499.48	B	Professor	s^e	+1	1	you just doing it all with complex arithmetic
+Bro021.B.dialogueact596	1501.52	1505.68	B	Professor	s	+1	1	and not {disfmarker} not , uh , doing the polar representation with magnitude and phase .
+Bro021.G.dialogueact605	1532.35	1538.07	G	Grad	s	+1	1	And so I thought at first , um , that , uh , what I should do is unwrap the phase
+Bro021.G.dialogueact607	1539.69	1547.95	G	Grad	fh|s	+1	1	Um , but I actually got worse results doing that unwrapping using the simple phase unwrapper that 's in Matlab than I did not unwrapping at all .
+6	Bro021.s.13	Speaker me006 is still planning some cheating experiments to investigate features for recognition , alongside preparing for his quals.
+Bro021.F.dialogueact472	1167.02	1167.88	F	PhD	qo^tc	+1	2	How about you , Barry ?
+Bro021.A.dialogueact473	1168.38	1172.14	A	Grad	h|s^rt	+1	2	Um , {vocalsound} still working on my {disfmarker} my quals preparation stuff .
+Bro021.A.dialogueact474	1172.53	1188.99	A	Grad	fh|s	+1	1	Um , {vocalsound} so I 'm {disfmarker} I 'm thinking about , um , starting some , {vocalsound} uh , cheating experiments to , uh , determine the , um {disfmarker} {vocalsound} the relative effectiveness of , um , some intermediate categories that I want to classify .
+Bro021.A.dialogueact475	1189.57	1198.77	A	Grad	s^e	+1	1	So , for example , um , {vocalsound} if I know where voicing occurs and everything , um , {vocalsound} I would do a phone {disfmarker} um , phone recognition experiment ,
+Bro021.A.dialogueact484	1240.97	1253.59	A	Grad	s^df	+1	1	And so this would be a useful thing , um , to know {vocalsound} in terms of , like , which {disfmarker} which , um {disfmarker} which of these categories are {disfmarker} are good for , um , speech recognition .
+Bro021.A.dialogueact487	1255.96	1261.82	A	Grad	s^cc	+1	1	I hope to get those , uh {disfmarker} those experiments done by {disfmarker} by the time quals come {disfmarker} come around in July .
+3	Bro021.s.14	also , the groups submission to the Eurospeech conference has been accepted.
+Bro021.C.dialogueact29	63.391	68.061	C	PhD	s^rt	+1	1	Well , the first thing maybe is that the p Eurospeech paper is , uh , accepted .
+Bro021.C.dialogueact33	74.772	80.892	C	PhD	s^rt	+1	1	So it 's the paper that describe basically the , um , system that were proposed for the {pause} Aurora .
+Bro021.C.dialogueact39	87.206	91.086	C	PhD	s	+1	1	So and the , fff {comment} comments seems {disfmarker} from the reviewer are good .

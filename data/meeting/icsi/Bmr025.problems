@@ -1,0 +1,46 @@
+5	Bmr025.s.17	Improving the THISL front-end user interface may be difficult if it is to run on Windows as a web server Tcl-TK may need to be used instead.
+Bmr025.H.dialogueact111	215.475	218.935	H	Grad	s.%--	+1	2	but my intention is to do a prettier user interface based either {disfmarker}
+Bmr025.H.dialogueact119	233.196	235.906	H	Grad	s	+1	3	but it does mean you need to be running a web server .
+Bmr025.H.dialogueact121	236.76	238.69	H	Grad	s	+1	3	And so it {disfmarker} it 's pretty big and complex .
+Bmr025.H.dialogueact122	239.424	241.674	H	Grad	fh|s	+1	3	Uh and it would be difficult to port to Windows
+Bmr025.H.dialogueact125	244.967	250.614	H	Grad	s	+1	3	Uh the other option is Dan did the Tcl - TK THISL GUI front - end for Broadcast News
+1	Bmr025.s.18	More information on XML transcription formats is required for the creation of the tools.
+Bmr025.H.dialogueact408	792.002	796.512	H	Grad	s^cs	+1	1	So yet again we should probably meet to talk about transcription formats in XML
+11	Bmr025.s.19	Information for key files , such as Microphone type , seating , and participant information , is not being properly recorded , and in some cases the microphones aren't working properly.
+Bmr025.G.dialogueact436	850.98	854.82	G	PhD	qy^rt	+1	3	Oh , quick question on that . Is {disfmarker} do we have the {disfmarker} {vocalsound} the seat information ?
+Bmr025.H.dialogueact439	856.7	859.54	H	Grad	s^aap.%-	+1	2	The seat information is on the Key files for the ones which
+Bmr025.G.dialogueact492	897.0	899.41	G	PhD	s	+1	1	but I just hadn't ever been putting it in the Key files .
+Bmr025.F.dialogueact495	900.53	902.49	F	PhD	s	+1	1	I never knew we were supposed to put it in the Key file .
+Bmr025.H.dialogueact502	904.648	908.728	H	Grad	s^df	+1	5	I mean this is why I wanna use a g a tool to do it rather than the plain text
+Bmr025.H.dialogueact504	908.728	911.238	H	Grad	s^df	+1	4	because with the plain text it 's very easy to skip those things .
+Bmr025.H.dialogueact528	936.67	939.96	H	Grad	s^rt	+1	5	Yeah and then the other thing also that Thilo noticed is , on the microphone ,
+Bmr025.H.dialogueact530	940.102	943.192	H	Grad	s^rt:s	+1	1	on channel zero it says hand - held mike or Crown mike ,
+Bmr025.H.dialogueact533	943.405	944.705	H	Grad	s^co	+1	1	you actually have to say which one .
+Bmr025.H.dialogueact550	959.73	967.16	H	Grad	s:s	+1	1	And then uh also in a couple of places instead of filling the participants under " participants " they were filled in under " description " .
+Bmr025.H.dialogueact558	978.808	982.835	H	Grad	s^e	+1	5	the {disfmarker} the one that shows up here , {comment} that will flash yellow if the mike isn't connected .
+4	Bmr025.s.20	However this should be rectified by the use of appropriate XML tools.
+Bmr025.H.dialogueact502	904.648	908.728	H	Grad	s^df	+1	5	I mean this is why I wanna use a g a tool to do it rather than the plain text
+Bmr025.H.dialogueact504	908.728	911.238	H	Grad	s^df	+1	4	because with the plain text it 's very easy to skip those things .
+Bmr025.H.dialogueact528	936.67	939.96	H	Grad	s^rt	+1	5	Yeah and then the other thing also that Thilo noticed is , on the microphone ,
+Bmr025.H.dialogueact558	978.808	982.835	H	Grad	s^e	+1	5	the {disfmarker} the one that shows up here , {comment} that will flash yellow if the mike isn't connected .
+13	Bmr025.s.21	The CrossPads have not been used to their full potential , which is because of a number of problems regarding their use:
+Bmr025.H.dialogueact685	1253.42	1254.72	H	Grad	s^nd	+1	2	We {disfmarker} we used them a couple times ,
+Bmr025.A.dialogueact701	1269.23	1274.61	A	Postdoc	s^ba	+1	1	And I have {disfmarker} uh so my {disfmarker} my feeling on it is that I think in principle it 's a really nice idea ,
+Bmr025.A.dialogueact702	1274.61	1279.17	A	Postdoc	s^ba	+1	1	and you have the time tags which makes it better tha than just taking ra raw notes .
+Bmr025.A.dialogueact703	1279.25	1284.2	A	Postdoc	s	+1	1	On the other hand , I {disfmarker} the down side for me was that I think the pen is really noisy .
+Bmr025.B.dialogueact717	1312.1	1315.12	B	Professor	s	+1	1	so that you can {disfmarker} you have a record of whatever it is you 've written .
+Bmr025.H.dialogueact723	1321.43	1323.94	H	Grad	s	+1	1	So i if you take notes it 's a great little device .
+Bmr025.B.dialogueact726	1326.25	1332.41	B	Professor	s	+1	1	And one of the reasons that it was brought up originally was because uh we were interested in {disfmarker} in higher - level things ,
+Bmr025.B.dialogueact728	1332.41	1336.75	B	Professor	s	+1	1	not just the , you know , microphone stuff but also summarization and so forth
+Bmr025.H.dialogueact804	1493.08	1494.89	H	Grad	s^df	+1	2	so that it 's synchronized with the time on that
+Bmr025.H.dialogueact805	1494.89	1497.99	H	Grad	s^e	+1	2	and then you have to download to an application ,
+Bmr025.H.dialogueact806	1497.99	1503.82	H	Grad	s^e	+1	2	and then you have to figure out what the data formats are and convert it over if you wanna do anything with this information .
+Bmr025.G.dialogueact763	1387.6	1388.69	G	PhD	s	+1	2	and you don't wanna take notes
+Bmr025.G.dialogueact762	1385.31	1387.6	G	PhD	qo	+1	2	Well , what if you 're sitting there and you just wanna make an X
+3	Bmr025.s.22	First , they need to be synchronised with the time of the meeting recording , and secondly , they use a non standard data format which needs converting.
+Bmr025.H.dialogueact804	1493.08	1494.89	H	Grad	s^df	+1	2	so that it 's synchronized with the time on that
+Bmr025.H.dialogueact805	1494.89	1497.99	H	Grad	s^e	+1	2	and then you have to download to an application ,
+Bmr025.H.dialogueact806	1497.99	1503.82	H	Grad	s^e	+1	2	and then you have to figure out what the data formats are and convert it over if you wanna do anything with this information .
+2	Bmr025.s.23	Additionally , some people tend not to make notes in meetings.
+Bmr025.G.dialogueact763	1387.6	1388.69	G	PhD	s	+1	2	and you don't wanna take notes
+Bmr025.G.dialogueact762	1385.31	1387.6	G	PhD	qo	+1	2	Well , what if you 're sitting there and you just wanna make an X

@@ -1,0 +1,60 @@
+3	Bro013.s.5	The digit recognition system is still not working well enough , they must get better results if they want to publish and be noticed.
+Bro013.A.dialogueact217	461.756	473.346	A	Professor	s.%--	+1	1	But to me it just {disfmarker} it just meant a practical {vocalsound} point that um if we want to {vocalsound} publish results on digits that {disfmarker} that people pay {vocalsound} attention to we probably should uh {disfmarker}
+Bro013.A.dialogueact218	473.396	480.306	A	Professor	s	+1	1	Cuz we 've had the problem before that you get {disfmarker} show some {vocalsound} nice improvement on something that 's {disfmarker} that 's uh , uh {disfmarker} it seems like too large a number ,
+Bro013.A.dialogueact220	480.536	484.536	A	Professor	fh|s	+1	1	and uh {vocalsound} uh people don't necessarily take it so seriously .
+23	Bro013.s.6	They have not really made many improvements , which may be due to their comparatively small training set , or the conditions the data is recorded under.
+Bro013.E.dialogueact75	179.6	182.34	E	PhD	s	+1	2	Our back - end is {disfmarker} is fairly simple
+Bro013.E.dialogueact76	182.34	188.883	E	PhD	s.%--	+1	2	but until now , well , the attempts to improve it or {disfmarker} have fail
+Bro013.A.dialogueact81	195.56	198.737	A	Professor	s	+1	2	I mean so to {disfmarker} {vocalsound} So there 's {disfmarker} there 's {disfmarker} there 's two things being affected .
+Bro013.A.dialogueact84	198.737	202.627	A	Professor	s	+1	2	I mean . One is that {disfmarker} that , you know , there 's something simple that 's wrong with the back - end .
+Bro013.A.dialogueact85	202.627	203.937	A	Professor	s	+1	2	We 've been playing a number of states
+Bro013.A.dialogueact87	204.507	208.947	A	Professor	fh|s	+1	2	uh I {disfmarker} I don't know if he got to the point of playing with the uh number of Gaussians yet
+Bro013.A.dialogueact91	212.04	215.01	A	Professor	s	+1	2	But , yeah , so far he hadn't gotten any big improvement ,
+Bro013.A.dialogueact93	215.01	217.74	A	Professor	s^df	+1	2	but that 's all with the same amount of data which is pretty small .
+Bro013.E.dialogueact113	248.77	253.7	E	PhD	s^cs	+1	2	perhaps it 's not related , the amount of data but the um recording conditions .
+Bro013.A.dialogueact127	279.632	290.043	A	Professor	s	+1	2	I uh but I 'm {disfmarker} I 'm almost certain that it {disfmarker} it {disfmarker} {vocalsound} I mean , that it has to do with the um amount of training data .
+Bro013.A.dialogueact129	290.783	292.993	A	Professor	s	+1	2	It {disfmarker} it 's {disfmarker} it 's orders of magnitude off .
+Bro013.A.dialogueact159	341.317	346.88	A	Professor	qy^rt	+1	2	let 's see , in the {disfmarker} in these multi - train things did we include noisy data in the training ?
+Bro013.A.dialogueact161	347.41	349.54	A	Professor	s	+1	2	I mean , that could be hurting us actually , for the clean case .
+Bro013.A.dialogueact205	441.65	443.2	A	Professor	s	+1	2	You know , I don't think there 's anything magical here .
+Bro013.A.dialogueact207	443.2	446.19	A	Professor	s^bs	+1	2	It 's , you know , we used a simple HTK system with a modest amount of data .
+Bro013.A.dialogueact208	446.19	450.84	A	Professor	s	+1	2	And this is a {disfmarker} a , you know , modern {vocalsound} uh system
+Bro013.A.dialogueact210	451.14	453.29	A	Professor	s	+1	2	uh has {disfmarker} has a lot of nice points to it .
+Bro013.A.dialogueact213	455.76	458.8	A	Professor	fh|s	+1	2	So . I mean , the HTK is an older HTK , even .
+Bro013.A.dialogueact244	551.075	554.525	A	Professor	s	+1	2	I mean , there 's {disfmarker} {vocalsound} even though it 's close - miked there 's still {disfmarker} there really is background noise .
+Bro013.A.dialogueact246	556.555	565.815	A	Professor	fh|s	+1	2	Um . And {vocalsound} uh I suspect when the TI - digits were recorded if somebody fumbled or said something wrong or something that they probably made them take it over .
+Bro013.A.dialogueact248	568.48	572.6	A	Professor	s	+1	2	It was not {disfmarker} I mean there was no attempt to have it be realistic in any {disfmarker} in any sense at all .
+Bro013.E.dialogueact254	576.88	582.11	E	PhD	s	+1	2	TI - digit is {disfmarker} it 's very , very clean and it 's like studio recording
+Bro013.E.dialogueact256	582.885	588.546	E	PhD	s	+1	2	whereas these Meeting Recorder digits sometimes you have breath noise
+5	Bro013.s.7	The new VAD is quite a large network , and adds a delay to the process.
+Bro013.E.dialogueact340	791.8	798.091	E	PhD	s	+1	1	Uh . The problem is that it 's very big and {vocalsound} {vocalsound} we still have to think how to {disfmarker} where to put it
+Bro013.E.dialogueact345	805.859	807.489	E	PhD	s.%--	+1	1	uh either some delay
+Bro013.E.dialogueact346	808.194	811.444	E	PhD	s	+1	1	and we {disfmarker} if we put it on the server side , it doesn't work ,
+Bro013.E.dialogueact347	811.444	818.205	E	PhD	s^e	+1	1	because on the server side features you already have LDA applied {vocalsound} from the f from the terminal side
+Bro013.E.dialogueact348	818.205	820.356	E	PhD	s	+1	1	and {vocalsound} so you accumulate the delay
+5	Bro013.s.8	This caused OGI to drop it , though speaker mn007 is assuming that a smaller and equally effective system can be developed.
+Bro013.A.dialogueact352	829.922	831.892	A	Professor	qw^rt	+1	1	So wha where did this good VAD come from ?
+Bro013.E.dialogueact354	832.365	834.445	E	PhD	s	+1	1	It 's um from OGI .
+Bro013.A.dialogueact357	855.25	856.4	A	Professor	qy^bu^d	+1	1	This is the one they had originally ?
+Bro013.A.dialogueact360	858.362	861.352	A	Professor	s^bk|s	+1	1	Yeah , but they had to {pause} get rid of it because of the space ,
+Bro013.E.dialogueact365	864.53	869.22	E	PhD	s	+1	1	But the abso assumption is that we will be able to make a VAD that 's small and that works fine .
+10	Bro013.s.9	The alternative is to get yet another VAD form somewhere else , though it's not clear if they will even be required in the final system.
+Bro013.A.dialogueact371	875.031	878.431	A	Professor	s^cs	+1	1	But the other thing is uh to use a different VAD entirely .
+Bro013.A.dialogueact373	882.406	887.906	A	Professor	s^no	+1	1	I {disfmarker} I don't know what the thinking was amongst the {disfmarker} the {disfmarker} the {vocalsound} the ETSI folk
+Bro013.A.dialogueact374	887.906	894.36	A	Professor	fh|s.%-	+1	1	but um if everybody agreed sure let 's use this VAD and take that out of there {disfmarker}
+Bro013.E.dialogueact377	893.854	904.829	E	PhD	s	+1	1	They just want , apparently {disfmarker} they don't want to fix the VAD because they think there is some interaction between feature extraction and {disfmarker} and VAD or frame dropping
+Bro013.E.dialogueact378	906.771	913.87	E	PhD	s	+1	1	But they still {vocalsound} want to {disfmarker} just to give some um {vocalsound} requirement for this VAD
+Bro013.E.dialogueact379	913.87	917.48	E	PhD	s	+1	1	because it 's {disfmarker} it will not be part of {disfmarker} they don't want it to be part of the standard .
+Bro013.E.dialogueact382	924.217	929.912	E	PhD	s	+1	1	So there just will be some requirements that are still not {disfmarker} uh not yet uh ready I think .
+Bro013.A.dialogueact387	936.17	940.92	A	Professor	s^ng	+1	1	but I don't think we need to be stuck on using our or OGI 's {pause} VAD .
+Bro013.A.dialogueact388	940.92	943.08	A	Professor	s^cs	+1	1	We could use somebody else 's if it 's smaller
+Bro013.A.dialogueact391	944.18	945.57	A	Professor	s^df	+1	1	You know , as long as it did the job .
+8	Bro013.s.10	There are some problems with the voiced/unvoiced feature detection , because some pitches are slipping through the filtering.
+Bro013.E.dialogueact580	1384.64	1386.19	E	PhD	s^bk|s^ng	+1	1	yeah , it 's {disfmarker} it 's another problem .
+Bro013.E.dialogueact586	1391.48	1395.58	E	PhD	s	+1	1	If you look at this um spectrum ,
+Bro013.E.dialogueact589	1398.16	1400.11	E	PhD	qy	+1	1	Is it {vocalsound} the mel - filters ?
+Bro013.E.dialogueact596	1406.4	1409.12	E	PhD	s.%--	+1	1	and what we clearly see is that in some cases ,
+Bro013.E.dialogueact598	1411.3	1415.65	E	PhD	s.%--	+1	1	and the {disfmarker} the harmonics are resolved by the f
+Bro013.E.dialogueact599	1415.65	1418.85	E	PhD	fh|s	+1	1	Well , there are still appear after mel - filtering ,
+Bro013.E.dialogueact601	1420.2	1431.03	E	PhD	s	+1	1	and it happens {vocalsound} for high pitched voice because the width of the lower frequency mel - filters {vocalsound} is sometimes even smaller than the pitch .
+Bro013.E.dialogueact608	1450.19	1456.14	E	PhD	s	+1	1	so we were thinking to modify the mel - spectrum to have something that {disfmarker} that 's smoother on low frequencies .

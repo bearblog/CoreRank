@@ -1,0 +1,30 @@
+8	Bro026.s.9	The group's code has been updated , and in it's frozen state , runs at the second best level in the project.
+Bro026.E.dialogueact4	35.91	40.78	E	PhD	qy^rt	+1	1	D did {disfmarker} did you guys get your code pushed together ?
+Bro026.D.dialogueact8	42.41	44.39	D	PhD	s	+1	1	It 's {disfmarker} it 's {disfmarker} it 's {disfmarker} it was updated yesterday ,
+Bro026.B.dialogueact17	49.063	49.723	B	Professor	qw	+1	1	What was the update ?
+Bro026.A.dialogueact20	52.61	55.05	A	PhD	s	+1	1	So there is th then {disfmarker} the {disfmarker} all the new features that go in .
+Bro026.A.dialogueact21	56.564	62.718	A	PhD	s	+1	1	The , um , noise suppression , the re - synthesis of speech after suppression .
+Bro026.E.dialogueact295	841.07	847.57	E	PhD	qw	+1	1	So if you took the system the way it is now , the way it 's fro you 're gonna freeze it , and it ran it on the last evaluation , where it would it be ?
+Bro026.E.dialogueact298	849.19	850.17	E	PhD	s^e	+1	1	In terms of ranking ?
+Bro026.A.dialogueact300	850.77	851.84	A	PhD	s	+1	1	Ri - right now it 's second .
+12	Bro026.s.10	The CVS allowing access to the code is up and running , but now one at OGI is actually working on it yet.
+Bro026.E.dialogueact22	64.02	67.3	E	PhD	qy^rt	+1	1	Is the , um {disfmarker} the CVS mechanism working {pause} well ?
+Bro026.A.dialogueact24	64.832	64.992	A	PhD	b	+1	1	Yeah .
+Bro026.E.dialogueact25	68.42	72.43	E	PhD	qy^rt	+1	1	Are {disfmarker} are people , uh , up at OGI grabbing code uh , via that ?
+Bro026.A.dialogueact28	74.075	75.165	A	PhD	s^m^ng^rt	+1	1	I don't know if they use it ,
+Bro026.D.dialogueact31	75.57	79.63	D	PhD	fg|s	+1	1	Yeah , I I don't think anybody up there is like {pause} working on it right now .
+Bro026.D.dialogueact37	85.375	87.385	D	PhD	s	+1	1	So right now nobody 's working on Aurora there .
+Bro026.B.dialogueact40	88.24	89.56	B	Professor	s	+1	1	Yeah . They 're working on a different task .
+Bro026.E.dialogueact50	110.89	116.87	E	PhD	qy^rt	+1	1	So has {disfmarker} Has anybody tried remotely accessing the CVS using , uh , uh , SSH ?
+Bro026.A.dialogueact63	126.427	131.777	A	PhD	s	+1	1	Actually I {disfmarker} I tried wh while {disfmarker} when I installed the {pause} repository , I tried from Belgium .
+Bro026.A.dialogueact64	132.077	135.02	A	PhD	s	+1	1	I logged in there and I tried {pause} to import {disfmarker}
+Bro026.E.dialogueact66	134.37	134.95	E	PhD	qy^d^rt	+1	1	It worked good ?
+Bro026.A.dialogueact67	135.02	135.58	A	PhD	s^aa	+1	1	Yeah , it works .
+7	Bro026.s.11	Speaker me006 has been reading literature on data clustering , with particular attention to a previous work , and is contemplating how to generalise it.
+Bro026.B.dialogueact838	2197.43	2198.28	B	Professor	qy^d^rt	+1	2	Got anything to tell us ?
+Bro026.C.dialogueact840	2200.88	2206.17	C	Grad	s^na	+1	2	Well , I 've been reading some literature about clustering of data .
+Bro026.C.dialogueact842	2210.42	2218.12	C	Grad	fh|s	+1	2	OK , so we 're talking about discovering intermediate categories to , um {disfmarker} to classify .
+Bro026.C.dialogueact843	2218.59	2224.34	C	Grad	fh|s	+1	2	And , uh , I was looking at some of the work that , uh , Sangita was doing on these TRAPS things .
+Bro026.C.dialogueact844	2224.34	2234.07	C	Grad	s	+1	2	So she has , um {disfmarker} she has temporal patterns for , um , a certain set of phonemes , from {disfmarker} from TIMIT ,
+Bro026.C.dialogueact866	2338.83	2344.65	C	Grad	fh|s	+1	2	Um , and , um , I was thinking about ways to {disfmarker} to generalize this
+Bro026.C.dialogueact867	2344.65	2350.81	C	Grad	s^df^rt	+1	2	because w you 're {disfmarker} it 's sort of like a {disfmarker} it 's not a completely automatic way of clustering ,

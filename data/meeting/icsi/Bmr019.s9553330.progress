@@ -1,0 +1,23 @@
+5	Bmr019.s.9	It has been found that lowering the pruning level actually improves performance on the meeting recognition.
+Bmr019.A.dialogueact680	1414.68	1418.75	A	PhD	s	-1	0	And then also , ca the pruning , of course , was too {disfmarker} too severe .
+Bmr019.F.dialogueact682	1419.72	1422.54	F	PhD	s	-1	0	The pruning was the same value that we used for recognition .
+Bmr019.F.dialogueact683	1423.25	1429.91	F	PhD	s	-1	0	And we had lowered that {disfmarker} we had used tighter pruning after Liz ran some experiments showing that , you know , it runs slower
+Bmr019.F.dialogueact684	1429.91	1432.09	F	PhD	s.%-	-1	0	and there 's no real difference in {disfmarker}
+Bmr019.F.dialogueact689	1435.01	1438.64	F	PhD	s	+1	0	So for free recognition , this {disfmarker} the lower pruning value is better .
+16	Bmr019.s.10	It appears that most backchannels are created by someone who has asked a question while it is being answered.
+Bmr019.C.dialogueact985	2050.88	2056.68	C	Postdoc	s	+1	0	The other thing that was w interesting to me was that I picked up a lot of , um , backchannels which were hidden in the mixed signal ,
+Bmr019.C.dialogueact986	2056.68	2058.37	C	Postdoc	s	-1	0	which , you know , I mean , you c not {disfmarker} not too surprising .
+Bmr019.C.dialogueact988	2058.69	2059.73	C	Postdoc	s.%--	-1	0	But the other thing that {disfmarker}
+Bmr019.C.dialogueact990	2061.3	2066.45	C	Postdoc	s	-1	0	but I thou I wanted to raise this when you were {disfmarker} uh , with respect to also a strategy which might help with the alignments potentially ,
+Bmr019.C.dialogueact992	2067.79	2079.62	C	Postdoc	s	+1	1	When I was looking at these backchannels , they were turning up usually {disfmarker} {vocalsound} very often in {disfmarker} w well , I won't say " usually " {disfmarker} but anyway , very often , I picked them up in a channel {vocalsound} w which was the person who had asked a question .
+Bmr019.C.dialogueact993	2080.0	2082.94	C	Postdoc	s:qy	-1	0	S so , like , someone says " an and have you done the so - and - so ? "
+Bmr019.C.dialogueact994	2083.46	2084.76	C	Postdoc	s	-1	0	And then there would be backchannels ,
+Bmr019.C.dialogueact995	2084.76	2086.32	C	Postdoc	s	-1	0	but it would be the person who asked the question .
+Bmr019.C.dialogueact996	2086.32	2088.28	C	Postdoc	s	-1	0	Other people weren't really doing much backchannelling .
+Bmr019.C.dialogueact997	2088.74	2090.73	C	Postdoc	s:s	-1	0	And , you know , sometimes you have the {disfmarker} Yeah , uh - huh .
+Bmr019.C.dialogueact1001	2092.3	2097.23	C	Postdoc	s^df	-1	0	but {disfmarker} but it does seem more natural to give a backchannel when {disfmarker} when you 're somehow involved in the topic ,
+Bmr019.C.dialogueact1003	2097.23	2100.49	C	Postdoc	s	-1	0	and the most natural way is for you to have initiated the topic by asking a question .
+Bmr019.F.dialogueact1008	2101.31	2107.1	F	PhD	s^ar|s	-1	0	No . I think it 's {disfmarker} actually I think what 's going on is backchannelling is something that happens in two - party conversations .
+Bmr019.F.dialogueact1010	2107.1	2111.35	F	PhD	s^e	-1	0	And if you ask someone a question , you essentially initiating a little two - party conversation .
+Bmr019.F.dialogueact1015	2114.39	2117.29	F	PhD	s^df	-1	0	because the person is addressing you directly and not everybody .
+Bmr019.C.dialogueact1025	2120.72	2130.63	C	Postdoc	s.%-	-1	0	But in addition , you know , if someone has done this analysis himself and isn't involved in the dyad , but they might also give backchannels to verify what {disfmarker} what the answer is that this {disfmarker} that the {disfmarker} the answerer 's given {disfmarker}

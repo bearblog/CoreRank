@@ -1,0 +1,9 @@
+Digits training needs to be performed on a larger data set.
+A significant loss in recognition resulted from not having included the type of phone-loop adaptation found in the SRI system.
+Recognition performance was worse for digits recorded in closed microphone conditions versus those recorded in a studio ( e.g . TI-digits ).
+A mismatch between the manner in which data were collected and the models used for doing recognition---e.g . bandwidth parameterization and the use of near- versus far-field microphones---was identified.
+Too little data per speaker can have a negative effect on VTL estimation.
+The PZM channel selected for obtaining digits data was too far away from most of the speakers.
+Current speech alignment techniques assume that foreground speech must be continuous and , barring some isolated words and backchannels , can not cope with overlapping background speech.
+Performing adaptations on both the foreground and background speaker produced a new variety of misalignments , a problem resulting , in part , from the fact that background speakers often match better to foreground conditionss.
+Transcribers occasionally misidentified speakers and omitted backchannels that were more hidden in the mixed signal.

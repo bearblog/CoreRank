@@ -1,0 +1,46 @@
+3	TS3009c.vkaraisk.s.1	For the conceptual design , the marketing expert talked about the public's preference for looks and texture over technological innovation; however , they both seem to be more important than ease of use.
+TS3009c.D.dialog-act.s9553330.14	150.81	156.65	D	ME	inf	+1	1	It's very important that uh the control is fancy looking and good uh feeling .
+TS3009c.D.dialog-act.s9553330.24	188.8	196.32	D	ME	inf	+1	1	{vocalsound} Um , technological technological innovations , that's uh regarded very highly too .
+TS3009c.D.dialog-act.s9553330.29	212.47	214.42	D	ME	inf	+1	1	{vocalsound} Uh the last point is easy to use .
+3	TS3009c.vkaraisk.s.2	The current fashion among younger people favours bright colours and fruit and vegetable themes: pertinent exchangeable fronts can express such trends on the remote.
+TS3009c.D.dialog-act.s9553330.45	270.69	273.51	D	ME	inf	+1	1	So it must be very bright , very colourful .
+TS3009c.D.dialog-act.s9553330.50	285.38	287.67	D	ME	inf	+1	1	Fruit and vegetables are cool .
+TS3009c.A.dialog-act.s9553330.51	320.34	324.59	A	PM	inf	+1	2	Well the the handy thing about our fronts is that we can follow these trends e ev every year .
+2	TS3009c.vkaraisk.s.3	Materials also need to be strong: the marketing expert suggested an iron-plate or titanium front.
+TS3009c.D.dialog-act.s9553330.54	302.66	307.07	D	ME	inf	+1	1	Uh furthermore uh material , that's your part , should be very strong .
+TS3009c.D.dialog-act.s9553330.55	307.07	311.96	D	ME	sug	+1	1	I was thinking of something like uh {vocalsound} well uh iron plate over it ,
+7	TS3009c.vkaraisk.s.4	The industrial designer suggested they use rubber push buttons (and no scroll wheel) , simple battery (instead of solar cells or kinetic dynamo) , and advanced chip.
+TS3009c.C.dialog-act.s9553330.51	428.84	429.94	C	ID	inf	+1	2	Uh the buttons of course rubber ,
+TS3009c.C.dialog-act.s9553330.118	661.4	664.46	C	ID	sug	+1	1	uh I uh suggest uh the basic battery .
+TS3009c.C.dialog-act.s9553330.120	668.13	670.94	C	ID	inf	+1	1	But solar energy is not very practical inside a house ,
+TS3009c.C.dialog-act.s9553330.122	672.96	679.33	C	ID	ass	+1	1	And uh kinetic and and and dynamos are are not very practical , I think , for uh for a simple remote ,
+TS3009c.C.dialog-act.s9553330.136	732.94	736.13	C	ID	inf	+1	1	Um f as uh for the buttons , simple push buttons .
+TS3009c.C.dialog-act.s9553330.137	736.13	742.08	C	ID	sug	+1	1	No uh otherwi uh no um difficult scroll things or some uh things like that ,
+TS3009c.C.dialog-act.s9553330.142	757.63	762.26	C	ID	inf	+1	2	so we uh we do have to consider uh of we have to use a more advanced chip ,
+3	TS3009c.vkaraisk.s.5	Speech recognition can be implemented , but it does not link speech commands to remote control actions.
+TS3009c.B.dialog-act.s9553330.39	835.82	838.32	B	UI	inf	+1	2	Um it's not really speech recognition ,
+TS3009c.B.dialog-act.s9553330.41	846.72	856.41	B	UI	inf	+1	2	and then once you uh talk to the remote , then um he will a answer with the the prerecorded message that you left .
+TS3009c.B.dialog-act.s9553330.43	867.4	870.07	B	UI	inf	+1	2	No it doesn't does not do anything .
+2	TS3009c.vkaraisk.s.6	He also advised that the users within the target group prefer primary colours , soft textures and curved shapes.
+TS3009c.C.dialog-act.s9553330.67	483.41	488.24	C	ID	inf	+1	1	Uh they like soft materials uh with primary colours .
+TS3009c.C.dialog-act.s9553330.72	503.84	506.11	C	ID	inf	+1	1	And also they like curved round shapes .
+1	TS3009c.vkaraisk.s.7	The team drew a provisional prototype.
+TS3009c.C.dialog-act.s9553330.156	944.6	945.56	C	ID	sug	+1	1	Can you draw it now ?
+4	TS3009c.vkaraisk.s.8	They placed the LCD below the buttons.
+TS3009c.C.dialog-act.s9553330.165	1033.27	1035.39	C	ID	el.inf	+1	2	And then below is the L_C_D_ screen ?
+TS3009c.C.dialog-act.s9553330.164	1026.5	1028.87	C	ID	el.inf	+1	2	Those are the the cha the channel buttons of course ?
+TS3009c.D.dialog-act.s9553330.145	1184.18	1187.15	D	ME	ass	+1	2	Yeah , fine . {vocalsound}
+TS3009c.B.dialog-act.s9553330.104	1175.63	1184.37	B	UI	ass	+1	2	And oh I think as you can see so , the L_C_D_ screen does look better uh at the lower end , or at the bottom .
+3	TS3009c.vkaraisk.s.9	If it is implemented , a recording button , microphone and speaker need to be included in the design.
+TS3009c.D.dialog-act.s9553330.139	1113.16	1118.97	D	ME	inf	+1	1	But we need a we need a a recording recording button for the speech uh part .
+TS3009c.B.dialog-act.s9553330.90	1119.61	1122.3	B	UI	sug	+1	1	if we decide to uh to implement that , maybe we should .
+TS3009c.B.dialog-act.s9553330.97	1141.84	1146.38	B	UI	inf	+1	1	Well the speaker and the microphone , I think , are the same uh little hole thingy .
+5	TS3009c.vkaraisk.s.10	Finally , they decided to have a titanium case with plastic front and the company logo and slogan engraved.
+TS3009c.C.dialog-act.s9553330.206	1395.7	1397.44	C	ID	inf	+1	2	Well a case ? Uh that's me .
+TS3009c.C.dialog-act.s9553330.214	1424.551	1432.06	C	ID	sug	+1	2	{vocalsound} Yeah but the non-removable elements of the of the remote , so not the front , could be titanium ,
+TS3009c.C.dialog-act.s9553330.216	1433.89	1435.55	C	ID	sug	+1	2	And then the front is made of plastic .
+TS3009c.A.dialog-act.s9553330.217	1499.75	1501.82	A	PM	inf	+1	2	Titanium back , plastic front .
+TS3009c.A.dialog-act.s9553330.218	1501.82	1503.08	A	PM	ass	+1	2	Okay .
+2	TS3009c.vkaraisk.s.11	Packages with a variety of changeable fronts will be launched.
+TS3009c.D.dialog-act.s9553330.207	1656.91	1660.44	D	ME	sug	+1	2	I think we can launch a couple of packages .
+TS3009c.A.dialog-act.s9553330.257	1691.89	1693.68	A	PM	inf	+1	2	Launch different lines at once .

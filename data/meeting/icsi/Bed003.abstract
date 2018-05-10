@@ -1,0 +1,37 @@
+1	Bed003.s.1	The group discussed the first version of the Bayes-net used to work out a user's intentions when asking for directions from a navigation device.
+Bed003.B.dialogueact254	493.894	498.054	B	Grad	s	+1	2	Um right now it 's still kind of {pause} in a toy {pause} version of it ,
+1	Bed003.s.2	Three intentions were identified: Vista ( to view ) , Enter ( to visit ) and Tango ( to approach ).
+Bed003.B.dialogueact265	522.68	526.55	B	Grad	s.%--	+1	1	The probability {disfmarker} whether the probability of a Vista , Tango , or Enter .
+6	Bed003.s.3	The structure of the belief-net comprises , firstly , a feature layer , which includes linguistic , discourse and world knowledge information that can be gleaned from the data.
+Bed003.B.dialogueact91	201.38	203.96	B	Grad	s	+1	2	So then the features we decided {disfmarker} or we decided we were {disfmarker} talked about ,
+Bed003.B.dialogueact94	207.9	211.88	B	Grad	s	+1	1	You know . We had a list of things like " to go " and " to visit " and what not .
+Bed003.B.dialogueact93	204.96	207.77	B	Grad	s	+1	2	Uh the {disfmarker} the prosody , the discourse , {pause} verb choice .
+Bed003.D.dialogueact345	646.906	652.146	D	Grad	s^bu	+1	3	So there are certain cues that are very strong {pause} either lexical or topic - based um , concept cues
+Bed003.D.dialogueact350	660.26	664.194	D	Grad	s^bu	+1	2	and some of them are sort of {vocalsound} either world knowledge or situational {pause} things .
+Bed003.A.dialogueact1217	2060.15	2070.9	A	Grad	s^rt	+1	3	is that maybe we ob we could observe a couple of um discourse phenomena such as the admission fee ,
+2	Bed003.s.4	It is possible for these variables to form thematic clusters(  eg "entrance" , "type of object" , "verb" ) , each one with a separate middle layer.
+Bed003.A.dialogueact1223	2085.36	2093.3	A	Grad	s	+1	2	So maybe this could be sort of a separate region of the net , {pause} which has two {disfmarker} {pause} has it 's own middle layer .
+Bed003.A.dialogueact1270	2207.8	2215.15	A	Grad	s	+1	3	They ra may have there own hidden layer {pause} that points to some of {pause} the {disfmarker} the real hidden layer , um or the general hidden layer .
+5	Bed003.s.5	These feed , in turn , into the main middle layer , that defines more general hidden variables , such as the tourist/business status of the user.
+Bed003.B.dialogueact235	434.077	444.434	B	Grad	s	+1	2	but the middle thing , we were thinking along the lines of maybe trying to figure out , like , the concept of whether they 're a tourist {pause} or {pause} whether they 're running an errand or something like that
+Bed003.B.dialogueact241	454.76	462.985	B	Grad	s	+1	2	So then the hidden variables {disfmarker} hair variables we came up with were whether someone was on a tour , running an errand , or whether they were in a hurry ,
+Bed003.C.dialogueact308	588.3	592.89	C	Grad	s	+1	2	but the other ones , the final destination , the whether they 're doing business , whether they 're in a hurry , and whether they 're tourists ,
+Bed003.A.dialogueact1270	2207.8	2215.15	A	Grad	s	+1	3	They ra may have there own hidden layer {pause} that points to some of {pause} the {disfmarker} the real hidden layer , um or the general hidden layer .
+Bed003.A.dialogueact1573	2906.96	2911.83	A	Grad	s	+1	1	And then these should then connect somehow to the more plan - based deep space
+3	Bed003.s.6	The feature layer can end up being cue-based , while the middle layers task-based.
+Bed003.D.dialogueact345	646.906	652.146	D	Grad	s^bu	+1	3	So there are certain cues that are very strong {pause} either lexical or topic - based um , concept cues
+Bed003.A.dialogueact1545	2847.08	2855.43	A	Grad	fh|s	+1	1	so {vocalsound} maybe what {disfmarker} what {disfmarker} what happened {disfmarker} what might happen is that we do get this sort of task - based middle layer ,
+Bed003.D.dialogueact1535	2815.18	2817.83	D	Grad	s^rt	+1	1	entering or som you know like they might be more task - based .
+1	Bed003.s.7	The latter determine the final probability of each intention in the output layer.
+Bed003.B.dialogueact264	517.75	522.63	B	Grad	s	+1	1	So . The mode {pause} basically has three different {pause} outputs .
+4	Bed003.s.8	This first model of the belief-net was built in JavaBayes , since it is a free package , has a graphical interface , and it can take XML files as input.
+Bed003.C.dialogueact965	1699.86	1702.2	C	Grad	s.%--	+1	1	it 's cra has a GUI and it 's uh {disfmarker}
+Bed003.C.dialogueact982	1714.34	1715.72	C	Grad	fh|s	+1	1	But uh {disfmarker} it 's free .
+Bed003.B.dialogueact991	1725.64	1726.65	B	Grad	s	+1	1	But actually it had an interface .
+Bed003.B.dialogueact1139	1904.47	1907.6	B	Grad	s	+1	1	and he 's updated it for an XML version of I guess Bayes - nets .
+2	Bed003.s.9	At this stage , all the actual probabilities are ad-hoc and hand-coded.
+Bed003.C.dialogueact645	1087.52	1089.31	C	Grad	s	+1	2	Like , {pause} we totally hand - tuned the probabilities ,
+Bed003.C.dialogueact1578	2915.68	2917.26	C	Grad	s	+1	2	The probabilities and all are completely ad - hoc .
+2	Bed003.s.10	However , there has been progress in the design and organisation of experiments , that will eventually provide data more useful and appropriate for this task.
+Bed003.A.dialogueact1752	3273.87	3280.98	A	Grad	s	+1	2	But um {disfmarker} in terms of specifying the scenario , {vocalsound} um {disfmarker} uh {disfmarker} uh {disfmarker} we 've gotten a little further
+Bed003.A.dialogueact1779	3361.25	3369.53	A	Grad	s	+1	1	So we wanted just to collect data , to get {disfmarker} that {disfmarker} that {disfmarker} that {pause} elicits more , uh , that elicits richer language .

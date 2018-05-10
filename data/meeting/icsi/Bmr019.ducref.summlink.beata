@@ -1,0 +1,95 @@
+and we sort them by time .
+which essentially has {disfmarker} it 's just a linear sequence of words with the begin times for every word and the duration .
+this , you know , very limited training HTK system .
+I just remember you saying you got them to be cheap on purpose .
+So , I guess , we 'll try to write this Eurospeech paper .
+which is a um , I think was both a {disfmarker} a pruning {pause} problem
+And then there 's a {disfmarker} then there 's a process where you now determine the spurts .
+Uh , but the other is that , um , the digits {vocalsound} recorded here in this room with these close mikes , i uh , are actually a lot harder than the {pause} studio - recording TI - digits .
+and we will {disfmarker} Yes , we 're gonna try .
+And then there was a very small {disfmarker} like point one percent on the natives {disfmarker} uh , win from doing , um , you know , adaptation to {pause} the recognition hypotheses .
+Two items , which was , uh , digits and possibly stuff on {disfmarker} on , uh , forced alignment ,
+They 're {disfmarker} they 're intended to be omni - directional .
+and the variances added another {disfmarker} or subtracted another point one percent .
+And th it 's {disfmarker} and because you don't know how people are gonna put them on , you know .
+question marks ,
+Um , but it turned out for {disfmarker} for {disfmarker} to get accurate alignments it was really important to open up the pruning significantly .
+So they are {disfmarker} they 're not the PZM three hundred dollar type .
+Um {pause} because otherwise it would sort of do greedy alignment , um , in regions where there was no real speech yet from the foreground speaker .
+but there was {disfmarker} {nonvocalsound} there was a significant , um , loss or win {comment} from adaptation {disfmarker} with {disfmarker} with adaptation .
+And then also , ca the pruning , of course , was too {disfmarker} too severe .
+Point six , I believe , is what you get with both , uh , means and variance adaptation .
+but were {disfmarker} were you intending to do a Eurospeech submission ,
+And {pause} I tried both means adaptation and means and variances ,
+And another might be that , uh , I 'd {disfmarker} I would presume that in the studio , uh , uh , situation recording read speech that if somebody
+I bet it would do even slightly better .
+I mean , cuz we were getting sub one percent {vocalsound} numbers on TI - digits also with the tandem thing .
+Like , it gives you some weird alignments ,
+We probably want to adapt at least the foreground speaker .
+that was the phone - loop adaptation .
+So for free recognition , this {disfmarker} the lower pruning value is better .
+The lapel is typically worse on the {disfmarker} on clothes rustling ,
+And we had lowered that {disfmarker} we had used tighter pruning after Liz ran some experiments showing that , you know , it runs slower
+OK . So the s the {disfmarker} the next thing we had on the agenda was something about alignments ?
+Probably the fact that it picks up other people 's speakers {disfmarker} other people 's talking is an indication of that it {disfmarker} the fact it is a good microphone .
+Cheap in terms of their quality .
+I could {disfmarker} and they are using a system that 's , um {disfmarker} you know , h is actually trained on digits ,
+Maybe it 's the Bell Gram .
+I think , you know , one reason for that , uh , might be that there 's still {disfmarker} even though it 's close - talking , there still is some noise and some room acoustics .
+Other people weren't really doing much backchannelling .
+That is {disfmarker} Actually , no , you do that before you merge the various channels .
+Yeah . Well , we 're still , like , writing the scripts for doing the research ,
+And then we merge all the alignments from the various channels
+but it would be the person who asked the question .
+and that 's actually a little bit of a f funky model .
+D do the lapel mikes have any directionality to them ?
+and I could ask them what they get {pause} on TI - digits .
+The pruning was the same value that we used for recognition .
+One is , yeah , the SRI system is a lot better than the HTK {disfmarker}
+uh , I mean , there the point of interest to the group was primarily that , um , {vocalsound} the , uh {disfmarker} the system that we had that was based on H T K , that 's used by , you know , {pause} all the participants in Aurora , {vocalsound} was so much worse {vocalsound} than the {disfmarker} than the S R
+And then {vocalsound} you extract the individual channels again ,
+uh , this {disfmarker} this is just {disfmarker} maybe someone has s some {disfmarker} some ideas about how to do it better ,
+and {disfmarker} and {disfmarker} W we {disfmarker} we were able to get some definite improvement on the forced alignments by looking at them first and then realizing the kinds of errors {pause} that were occurring
+did something a little funny or n pronounced something a little funny or made a little {disfmarker} that they didn't include it ,
+but {disfmarker} but it does seem more natural to give a backchannel when {disfmarker} when you 're somehow involved in the topic ,
+And the interesting thing is that even though , {vocalsound} yes , it 's a digits task and that 's a relatively small number of words and there 's a bunch of digits that you train on , {vocalsound} it 's just not as good as having a {disfmarker} a l very large amount of data and training up a {disfmarker} a {disfmarker} a nice good big {vocalsound} HMM .
+So there was a significant loss from not doing the adaptation .
+you identify the beginnings and ends of these spurts ,
+And is there {disfmarker} is there enough data or a comparable {disfmarker} comparable amount of data to {disfmarker} to what we have in our recordings here ?
+A {disfmarker} a {disfmarker} a couple percent or some
+So does {disfmarker} so th so does {disfmarker} does , um , {vocalsound} the TI - digits database have speakers that are known ?
+and you put another set of tags in there to keep those straight .
+Or the cross - talk .
+I 'm {disfmarker} I looked through a bunch of the digits t corp corpora ,
+Well , it 's {disfmarker} Yeah , sort of the bre the breath noises and the mouth clicks and so forth like that , the lapel 's gonna be better on .
+OK . Then we have a messy alignment process where we actually insert into the sequence of words the , uh , tags
+I mean that it was basically {disfmarker} the only thing that was even slightly surprising was that the lapel did so well .
+Bell Digits .
+but this time you know where the other people start and end talking {disfmarker}
+But , I mean , the thing is people use those little mikes for everything
+And , yeah , the adaptation would get {vocalsound} th some of that .
+And then you merge everything in terms of , you know , linearizing the sequence based on the time marks .
+When I was looking at these backchannels , they were turning up usually {disfmarker} {vocalsound} very often in {disfmarker} w well , I won't say " usually " {disfmarker} but anyway , very often , I picked them up in a channel {vocalsound} w which was the person who had asked a question .
+But , I guess Andreas tried adapting both the foreground and a background generic speaker ,
+The lapel mike is a very high - quality microphone .
+but we {disfmarker} So we 're taking these , uh , alignments from the individual channels .
+Yeah . Most of TI - digits is connected digits , I think .
+And as Morgan pointed out , that there are actually some advantages to it in terms of breath noises and clothes rustling {pause} if no one else is talking .
+So you sort of {disfmarker} at that point , you discretize things into just having overlap or no overlap .
+from each alignment we 're producing , uh , one of these CTM files ,
+which is that , you know , so th there are lots of channels where you don't have these backchannels , w when a question has been asked
+Yeah , bu although I 'd be {disfmarker} I think it 'd be interesting to just take this exact actual system
+um , but h h otherwise uses the same , you know , decoder , the same , uh , training methods , and so forth ,
+just because often the background speakers match better to the foreground than the foreground speaker .
+Hav - Have you ever t {vocalsound} Have you ever tried this exact same recognizer out on the actual TI - digits test set ?
+The {disfmarker} I mean , we had a Bellcore corpus that we were using .
+Th - we wanted them to be {disfmarker} to be typical of what would be in a PDA .
+so that these numbers were comparable
+So , you {disfmarker} you basically have everything sort of lined up and in a form where you can look at the individual speakers and how their speech relates to the other speakers ' speech .
+Um , also you had the adaptation in the SRI system , which we didn't have in this .
+The other thing is , isn't TI - digits isolated digits ?
+um , {vocalsound} various other things .
+The other thing that was w interesting to me was that I picked up a lot of , um , backchannels which were hidden in the mixed signal ,
+some of the errors occurring very frequently are just things like the first word being moved to as early as possible in the recognition ,
+for , like , where {disfmarker} where sentence {disfmarker} ends of sentence ,
+Um , so there 's a little bit of correction but it 's definitely not as clean as TI - digits .

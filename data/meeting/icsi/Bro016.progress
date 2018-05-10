@@ -1,0 +1,105 @@
+27	Bro016.s.11	Speaker me018 has done a little initial research into the next area he is to look at , adjusting the scaling and the insertion penalties.
+Bro016.E.dialogueact31	63.933	66.835	E	Professor	qw.%--	+1	2	What 's your projection on {disfmarker} ?
+Bro016.E.dialogueact33	70.543	76.394	E	Professor	s^cs	+1	1	Cuz the one thing {disfmarker} the one thing that seems to me we really should try , if you hadn't tried it before , because it hadn't occurred to me {disfmarker}
+Bro016.E.dialogueact35	78.727	85.967	E	Professor	s^cs	+1	1	is , um , adjusting the , uh , sca the scaling and , uh , insertion penalty sorta stuff .
+Bro016.F.dialogueact36	86.41	88.38	F	PhD	s	+1	1	I did play with that , actually , a little bit .
+Bro016.F.dialogueact37	88.94	94.88	F	PhD	s	+1	2	Um . What happens is , uh , {vocalsound} when you get to the noisy stuff , you start getting lots of insertions .
+Bro016.F.dialogueact40	97.159	102.389	F	PhD	s	+1	2	so I 've tried playing around a little bit with , um , the insertion penalties and things like that .
+Bro016.F.dialogueact43	103.844	106.114	F	PhD	s	+1	2	I mean , it {disfmarker} it didn't make a whole lot of difference .
+Bro016.F.dialogueact44	106.114	109.074	F	PhD	s^e	+1	2	Like for the well - matched case , it seemed like it was pretty good .
+Bro016.F.dialogueact45	109.745	112.305	F	PhD	fh|s^cc	+1	2	Um . {vocalsound} I could do more playing with that , though .
+Bro016.F.dialogueact151	410.076	416.596	F	PhD	s	+1	1	I wonder if there 's anything that we could do {vocalsound} to the front - end that would affect the insertion {disfmarker}
+Bro016.E.dialogueact157	424.216	431.665	E	Professor	s	+1	1	part of what 's going on , um , is the , uh , the range of values .
+Bro016.E.dialogueact158	433.088	440.978	E	Professor	s	+1	1	So , if you have something that has a much smaller range or a much larger range , and taking the appropriate root .
+Bro016.E.dialogueact162	442.804	450.163	E	Professor	s^cs	+1	1	If something is kind of like the equivalent of a bunch of probabilities multiplied together , you can take a root of some sort .
+Bro016.E.dialogueact170	461.333	467.503	E	Professor	s^df	+1	1	because it changes the scale of the numbers {disfmarker} of the differences between different candidates from the acoustic model
+Bro016.E.dialogueact173	468.043	470.183	E	Professor	s^e	+1	1	as opposed to what 's coming from the language model .
+Bro016.F.dialogueact176	469.242	474.331	F	PhD	s	+1	1	So , in effect , that 's changing the value of your insertion penalty .
+Bro016.E.dialogueact178	474.471	480.801	E	Professor	s^df	+1	1	I mean , it 's more directly like the {disfmarker} the language scaling or the , uh {disfmarker} the model scaling or acoustic scaling ,
+Bro016.F.dialogueact185	488.85	495.487	F	PhD	s^bu	+1	1	So if we know what the insertion penalty is , then we can get an idea about what range our number should be in ,
+Bro016.E.dialogueact249	606.788	617.783	E	Professor	s	+1	1	If you 're operating in the wrong range {disfmarker} I mean , that 's why just in general , if you {vocalsound} change what these {disfmarker} these penalties and scaling factors are , you reach some point that 's a {disfmarker} that 's a minimum .
+Bro016.E.dialogueact253	622.571	625.351	E	Professor	s	+1	1	We do have to do well over a range of different conditions ,
+Bro016.E.dialogueact254	625.351	627.111	E	Professor	s^e	+1	1	some of which are noisier than others .
+Bro016.E.dialogueact256	628.306	632.666	E	Professor	fh|s^cs.%--	+1	1	But , um , I think we may get a better handle on that if we {disfmarker} if we see {disfmarker}
+Bro016.E.dialogueact258	635.235	646.811	E	Professor	s.%--	+1	1	it 's if we actually could pick a {disfmarker} a {disfmarker} a more stable value for the range of these features , it , um , uh , could {disfmarker}
+Bro016.E.dialogueact260	650.513	664.073	E	Professor	s	+1	1	Even though it 's {disfmarker} it 's {disfmarker} it 's true that in a real situation you can in fact adjust the {disfmarker} these {disfmarker} these scaling factors in the back - end , and it 's ar artificial here that we 're not adjusting those , you certainly don't wanna be adjusting those all the time .
+Bro016.E.dialogueact262	664.113	666.883	E	Professor	s	+1	1	And if you have a nice front - end that 's in roughly the right range {disfmarker}
+Bro016.E.dialogueact263	667.303	676.023	E	Professor	s	+1	1	I remember after we got our stuff more or less together in the previous systems we built , that we tended to set those scaling factors at kind of a standard level ,
+Bro016.E.dialogueact264	676.023	677.933	E	Professor	s	+1	1	and we would rarely adjust them again ,
+8	Bro016.s.12	Playing with the latter made little difference , though was coming from a different feature set.
+Bro016.F.dialogueact37	88.94	94.88	F	PhD	s	+1	2	Um . What happens is , uh , {vocalsound} when you get to the noisy stuff , you start getting lots of insertions .
+Bro016.F.dialogueact40	97.159	102.389	F	PhD	s	+1	2	so I 've tried playing around a little bit with , um , the insertion penalties and things like that .
+Bro016.F.dialogueact43	103.844	106.114	F	PhD	s	+1	2	I mean , it {disfmarker} it didn't make a whole lot of difference .
+Bro016.F.dialogueact44	106.114	109.074	F	PhD	s^e	+1	2	Like for the well - matched case , it seemed like it was pretty good .
+Bro016.F.dialogueact45	109.745	112.305	F	PhD	fh|s^cc	+1	2	Um . {vocalsound} I could do more playing with that , though .
+Bro016.E.dialogueact48	114.116	116.096	E	Professor	s^bu	+1	1	But you were looking at mel cepstrum .
+Bro016.F.dialogueact51	119.06	121.88	F	PhD	s^bu	+1	1	Oh , you 're talking about for th {vocalsound} for our features .
+Bro016.E.dialogueact53	122.403	130.003	E	Professor	s	+1	1	So , I mean , i it it 's not the direction that you were working with that we were saying what 's the {disfmarker} uh , what 's the best you can do with {disfmarker} with mel cepstrum .
+15	Bro016.s.13	Speakers mn007 and fn002 have been working on their report , logically writing up everything they have done so far.
+Bro016.E.dialogueact334	851.06	853.61	E	Professor	qw^j	+1	2	What 's old with you that has developed over the last week or two ?
+Bro016.B.dialogueact336	862.577	864.827	B	PhD	s	+1	2	Well , so we 've been mainly working on the report
+Bro016.B.dialogueact340	867.99	871.817	B	PhD	s^rt	+1	1	On the report {pause} of the work that was already done .
+Bro016.E.dialogueact375	947.599	950.069	E	Professor	qw^rt	+1	2	So , what {disfmarker} wha {vocalsound} wh wha what what 's going on ?
+Bro016.C.dialogueact376	950.86	953.08	C	PhD	s	+1	2	Well , we work in the report , too ,
+Bro016.C.dialogueact377	953.08	954.69	C	PhD	s^df	+1	1	because we have a lot of result ,
+Bro016.C.dialogueact379	954.69	956.0	C	PhD	s^df	+1	1	they are very dispersed ,
+Bro016.C.dialogueact380	956.0	962.369	C	PhD	s^df	+1	1	and was necessary to {disfmarker} to look in all the directory to {disfmarker} to {disfmarker} to give some more structure .
+Bro016.E.dialogueact384	964.351	973.31	E	Professor	s^bs	+1	1	I if I can summarize , basically what 's going on is that you 're going over a lot of material that you have generated in furious fashion ,
+Bro016.E.dialogueact385	973.31	975.6	E	Professor	s^bs	+1	1	f generating many results and doing many experiments
+Bro016.E.dialogueact386	975.6	981.582	E	Professor	s^bs	+1	1	and trying to pull it together into some coherent form to be able to see wha see what happens .
+Bro016.B.dialogueact389	980.921	984.411	B	PhD	s^nd	+1	2	y yeah . Basically we we 've stopped , uh , experimenting ,
+Bro016.B.dialogueact391	984.411	987.431	B	PhD	s	+1	1	I mean . We 're just writing some kind of technical report .
+Bro016.C.dialogueact398	994.6	995.36	C	PhD	s^m^na	+1	1	For ICSI .
+Bro016.C.dialogueact402	997.05	999.91	C	PhD	s^df	+1	1	Just summary of the experiment and the conclusion
+38	Bro016.s.14	Mn007 has also been working with a new dataset , preparing it for use as a more realistic source of noise , though it is not clear if this is allowed.
+Bro016.B.dialogueact462	1119.57	1123.47	B	PhD	s	+1	1	We have , yeah , extracted actually the noises from {pause} the SpeechDat - Car .
+Bro016.B.dialogueact464	1125.92	1130.6	B	PhD	s	+1	1	we can train neural network with speech and these noises .
+Bro016.B.dialogueact466	1134.35	1136.91	B	PhD	s	+1	1	It 's difficult to say what it will give ,
+Bro016.B.dialogueact470	1156.31	1158.22	B	PhD	s^cs	+1	1	I think this is something we have to try anyway .
+Bro016.B.dialogueact472	1159.14	1162.37	B	PhD	s^e	+1	1	adding the noises from {disfmarker} from the SpeechDat - Car .
+Bro016.E.dialogueact476	1171.35	1172.04	E	Professor	qy^d^rt	+1	2	that 's permitted ?
+Bro016.B.dialogueact479	1180.07	1181.46	B	PhD	s^na	+1	2	OGI does {disfmarker} did that .
+Bro016.B.dialogueact478	1179.27	1179.48	B	PhD	fh	+1	2	Well ,
+Bro016.B.dialogueact481	1185.46	1190.78	B	PhD	s^bu^e	+1	2	At some point they did that for {disfmarker} for the voice activity detector .
+Bro016.E.dialogueact494	1219.87	1224.85	E	Professor	s^bsc^rt	+1	2	Italian and the Finnish and the English ? {disfmarker} were development data
+Bro016.E.dialogueact492	1211.5	1219.05	E	Professor	s.%--	+1	2	The rules as I understand it , is that in principle the Italian and the Spanish and the English {disfmarker}
+Bro016.B.dialogueact496	1225.4	1226.29	B	PhD	s	+1	2	And Spanish , yeah .
+Bro016.E.dialogueact497	1225.53	1226.99	E	Professor	s^e	+1	2	on which you could adjust things .
+Bro016.E.dialogueact500	1232.61	1236.4	E	Professor	s	+1	2	And then when they finally actually evaluated things they used everything .
+Bro016.E.dialogueact498	1227.9	1231.75	E	Professor	s	+1	2	And the {disfmarker} and the German and Danish were the evaluation data .
+Bro016.E.dialogueact511	1254.07	1264.97	E	Professor	s	+1	2	it {disfmarker} it doesn't appear that there 's strong evidence that even though things were somewhat tuned on those three or four languages , that {disfmarker} that going to a different language really hurt you .
+Bro016.E.dialogueact512	1264.97	1266.93	E	Professor	s	+1	2	And the noises were not exactly the same .
+Bro016.E.dialogueact516	1271.44	1273.62	E	Professor	s	+1	2	I mean they were different drives .
+Bro016.B.dialogueact517	1272.75	1273.64	B	PhD	s^2	+1	2	Different cars .
+Bro016.E.dialogueact523	1278.62	1281.45	E	Professor	s^e.%--	+1	2	It 's tuned more than , you know , a {disfmarker} a {disfmarker} a {disfmarker} a {disfmarker}
+Bro016.E.dialogueact525	1282.03	1286.31	E	Professor	s	+1	2	You 'd really like to have something that needed no particular noise at all ,
+Bro016.E.dialogueact528	1290.27	1292.6	E	Professor	s	+1	2	But that 's not really what this contest is .
+Bro016.E.dialogueact533	1297.03	1300.95	E	Professor	s	+1	3	That 's something I 'd like to understand before we actually use something from it ,
+Bro016.F.dialogueact535	1301.59	1308.95	F	PhD	s	+1	2	it 's probably something that , mmm , the {disfmarker} you know , the , uh , experiment designers didn't really think about ,
+Bro016.F.dialogueact536	1308.95	1319.73	F	PhD	s^df	+1	2	because I think most people aren't doing trained systems , or , you know , uh , systems that are like ours , where you actually use the data to build models .
+Bro016.F.dialogueact537	1319.73	1322.04	F	PhD	s^df	+1	2	I mean , they just {pause} doing signal - processing .
+Bro016.E.dialogueact541	1322.97	1325.58	E	Professor	s^arp	+1	2	except that , uh , that 's what we used in Aurora one ,
+Bro016.E.dialogueact542	1326.16	1329.14	E	Professor	s	+1	2	and then they designed the things for Aurora - two knowing that we were doing that .
+Bro016.F.dialogueact546	1331.46	1332.8	F	PhD	s^bu	+1	2	And they didn't forbid us {disfmarker}
+Bro016.F.dialogueact548	1333.13	1335.38	F	PhD	qy^bu^d^e^rt	+1	2	to build models on the data ?
+Bro016.E.dialogueact549	1335.47	1335.81	E	Professor	s^aa	+1	2	No .
+Bro016.E.dialogueact550	1336.23	1337.64	E	Professor	s.%--	+1	2	But , I think {disfmarker} I think that it {disfmarker} it {disfmarker}
+Bro016.E.dialogueact551	1338.23	1349.73	E	Professor	s	+1	2	it probably would be the case that if , say , we trained on Italian , uh , data and then , uh , we tested on Danish data and it did terribly , uh , that {disfmarker} that it would look bad .
+Bro016.E.dialogueact552	1349.73	1351.25	E	Professor	s	+1	2	And I think someone would notice
+Bro016.E.dialogueact563	1372.56	1373.7	E	Professor	s	+1	4	Maybe {disfmarker} that 's maybe a topic {disfmarker}
+Bro016.E.dialogueact564	1374.16	1375.82	E	Professor	s^e	+1	4	Especially if you talk with him when I 'm not here ,
+Bro016.E.dialogueact565	1375.82	1377.75	E	Professor	s^co	+1	4	that 's a topic you should discuss with Hynek
+Bro016.E.dialogueact566	1377.8	1379.61	E	Professor	s^df	+1	4	to , you know , double check it 's OK .
+12	Bro016.s.15	Speaker me006 has continued to look at phonetic events , and has come up with a plan for his future work.
+Bro016.E.dialogueact1012	2305.23	2306.93	E	Professor	qy^cs	+1	2	do you wanna {pause} say something about your stuff here ?
+Bro016.A.dialogueact1016	2307.77	2314.47	A	Grad	s^rt	+1	2	I {pause} just , um , continuing looking at , uh , ph uh , phonetic events ,
+Bro016.A.dialogueact1017	2314.85	2324.42	A	Grad	s^rt	+1	1	and , uh , this Tuesday gonna be , uh , meeting with John Ohala with Chuck to talk some more about these , uh , ph um , phonetic events .
+Bro016.A.dialogueact1018	2325.18	2329.14	A	Grad	fh|s	+1	1	Um , came up with , uh , a plan of attack ,
+Bro016.A.dialogueact1038	2351.99	2361.32	A	Grad	s^cc	+1	2	I {disfmarker} I was thinking getting {disfmarker} getting us a set of acoustic events to {disfmarker} um , to be able to distinguish between , uh , phones and words and stuff .
+Bro016.A.dialogueact1041	2363.0	2372.83	A	Grad	s	+1	1	we would figure out a set of these events that can be , you know , um , hand - labeled or {disfmarker} or derived , uh , from h the hand - labeled phone targets .
+Bro016.A.dialogueact1042	2372.83	2379.42	A	Grad	fh|s^cs	+1	1	Um , we could take these events and , um , {vocalsound} do some cheating experiments ,
+Bro016.D.dialogueact1046	2392.81	2394.45	D	Grad	qy	+1	2	Can you give an example of an event ?
+Bro016.A.dialogueact1043	2379.88	2391.23	A	Grad	fh|s^e	+1	1	um , where we feed , um , these events into {pause} an SRI system , um , eh , and evaluate its performance on a Switchboard task .
+Bro016.A.dialogueact1051	2401.47	2407.34	A	Grad	s	+1	2	So , he In this paper , um , it 's talking about phoneme recognition using acoustic events .
+Bro016.A.dialogueact1052	2407.67	2412.66	A	Grad	s^e^rt	+1	2	So , things like frication or , uh , nasality .
+Bro016.A.dialogueact1055	2414.29	2421.72	A	Grad	s	+1	1	this is a paper by Hubener and Cardson {pause} Benson {disfmarker} Bernds - Berndsen .

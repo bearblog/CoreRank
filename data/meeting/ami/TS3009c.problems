@@ -1,0 +1,23 @@
+1	TS3009c.vkaraisk.s.25	The team found a possible conflict between the need for strong materials and the customers' preference for soft textures.
+TS3009c.C.dialog-act.s9553330.68	488.57	495.32	C	ID	inf	+1	1	Soft materials is of course uh agai again a bit a contradiction with uh our uh material choice of what you said ,
+3	TS3009c.vkaraisk.s.26	Plastic may be strong , but it does not necessarily look it.
+TS3009c.C.dialog-act.s9553330.43	416.1	418.86	C	ID	inf	+1	1	Y Hard plastic i is of course uh pretty pretty tough ,
+TS3009c.C.dialog-act.s9553330.44	418.86	422.944	C	ID	inf	+1	1	but it doesn't have a really really tough look . So {disfmarker}
+TS3009c.D.dialog-act.s9553330.174	1441.33	1443.878	D	ME	ass	+1	1	But the feel of plastic isn't strong . {vocalsound}
+3	TS3009c.vkaraisk.s.27	The version of speech recognition discussed does not link voice commands to actual device actions.
+TS3009c.B.dialog-act.s9553330.41	846.72	856.41	B	UI	inf	+1	2	and then once you uh talk to the remote , then um he will a answer with the the prerecorded message that you left .
+TS3009c.B.dialog-act.s9553330.39	835.82	838.32	B	UI	inf	+1	2	Um it's not really speech recognition ,
+TS3009c.B.dialog-act.s9553330.43	867.4	870.07	B	UI	inf	+1	2	No it doesn't does not do anything .
+3	TS3009c.vkaraisk.s.28	Changing the front colours may make the front clash with the titanium , but it was also thought neutral enough for it not to matter.
+TS3009c.D.dialog-act.s9553330.195	1529.17	1533.84	D	ME	inf	+1	1	When you want an other colour on the front , it doesn't match .
+TS3009c.C.dialog-act.s9553330.247	1547.39	1550.72	C	ID	inf	+1	1	and it doesn't really matter if we have a purple front on it or a orange front .
+TS3009c.C.dialog-act.s9553330.244	1545.13	1547.39	C	ID	inf	+1	1	but you know b Titanium is very basic colour ,
+8	TS3009c.vkaraisk.s.29	They wondered whether to use both the logo and the slogan on the device and where it would be best for them to be placed.
+TS3009c.C.dialog-act.s9553330.304	1970.58	1977.77	C	ID	sug	+1	1	Well yeah . Um I think um {vocalsound} a logo , our company logo , and the slogan should be or could be {disfmarker}
+TS3009c.B.dialog-act.s9553330.223	1980.66	1982.42	B	UI	inf	+1	1	Uh I I'd say only the logo .
+TS3009c.C.dialog-act.s9553330.308	1985.6	1987.41	C	ID	inf	+1	1	Well , our slogan is not very long .
+TS3009c.C.dialog-act.s9553330.312	1999.01	2000.06	C	ID	sug	+1	2	But you can put it on the back ,
+TS3009c.B.dialog-act.s9553330.226	2003.36	2005.93	B	UI	sug	+1	2	Ah the logo should be on the top I think .
+TS3009c.B.dialog-act.s9553330.228	2010.16	2011.53	B	UI	ass	+1	2	Right corner , yes .
+TS3009c.A.dialog-act.s9553330.341	2076.94	2087.86	A	PM	oth	+1	2	Yes , slogan from company on the back with logo
+TS3009c.A.dialog-act.s9553330.342	2087.86	2095.16	A	PM	oth	+1	2	and logo also on the front

@@ -1,0 +1,15 @@
+2	Bro018.s.6	Speaker fn002 will work on a project for France Telecom.
+Bro018.D.dialogueact323	746.137	755.443	D	PhD	s^rt	+1	3	and also mmm I {disfmarker} H Hynek last week say that if I have time I can to begin to {disfmarker} to study
+Bro018.D.dialogueact324	756.247	759.567	D	PhD	s^rt.%--	+1	3	well seriously the France Telecom proposal
+4	Bro018.s.7	Speaker me006 will conduct a preliminary experiment to see if the features he plans to use are sufficient.
+Bro018.A.dialogueact457	1123.44	1139.65	A	Grad	s	+1	1	And so Morgan and I were uh discussing {vocalsound} um s uh s a form of a cheating experiment {vocalsound} where we get {disfmarker} {vocalsound} um we have uh {vocalsound} um a chosen set of features , or acoustic events ,
+Bro018.A.dialogueact458	1140.1	1146.28	A	Grad	s	+1	1	and we train up a hybrid {vocalsound} um system to do phone recognition on TIMIT .
+Bro018.A.dialogueact459	1146.99	1163.19	A	Grad	s	-1	0	So i i the idea is if we get good phone recognition results , {vocalsound} using um these set of acoustic events , {vocalsound} then {vocalsound} um that {disfmarker} that says that these acoustic events are g sufficient to cover {vocalsound} a set of phones ,
+Bro018.A.dialogueact461	1165.06	1173.5	A	Grad	qo	-1	0	Um so i it would be a {disfmarker} {vocalsound} a measure of " are we on the right track with {disfmarker} with the {disfmarker} the choices of our acoustic events " .
+4	Bro018.s.8	He will also compare the performance of support vector machines to that of recurrent neural nets on a classification task.
+Bro018.A.dialogueact548	1488.24	1496.13	A	Grad	s	-1	0	And so I 'm gonna apply that to {vocalsound} um compare it with the results by um King and Taylor who did {vocalsound} um these
+Bro018.A.dialogueact550	1497.32	1503.91	A	Grad	s	-1	0	using recurrent neural nets , they recognized {vocalsound} um {vocalsound} a set of phonological features
+Bro018.A.dialogueact552	1505.28	1509.41	A	Grad	s	-1	0	and made a mapping from the MFCC 's to these phonological features ,
+Bro018.A.dialogueact553	1509.41	1513.32	A	Grad	s	-1	0	so I 'm gonna {vocalsound} do a similar thing with {disfmarker} {vocalsound} with support vector machines
+1	Bro018.s.9	Speaker me018 will re-run his experiment on a smaller dataset for the purpose of troubleshooting.
+Bro018.E.dialogueact831	2185.17	2192.47	E	PhD	s	-1	0	So I was going through and just double - checking that kind of think first , to see if there was just some kind of obvious bug in the way that I was computing the features .

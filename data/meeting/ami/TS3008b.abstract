@@ -1,0 +1,110 @@
+3	TS3008b.dharshi.s.1	The project manager opened the meeting.
+TS3008b.A.dialog-act.dharshi.3	50.89	55.78	A	PM	inf	+1	1	Welcome at the functional design meeting , again presented by Maarten .
+TS3008b.A.dialog-act.dharshi.5	59.93	63.13	A	PM	inf	+1	1	Uh , we've got three presentations .
+TS3008b.A.dialog-act.dharshi.6	63.13	68.34	A	PM	off	+1	1	And I'm gonna show you some of the new projects requirements that were sent to me .
+4	TS3008b.dharshi.s.2	The industrial designer reported on working design , explaining how a remote control works and describing its main components.
+TS3008b.C.dialog-act.dharshi.13	142.66	148.14	C	ID	inf	+1	1	'Kay , we're going to um uh talk about working design .
+TS3008b.C.dialog-act.dharshi.16	157.05	167.44	C	ID	inf	+1	1	It's an electrical circuit which compose uh messages in the form of uh uh infrared signals to control the television .
+TS3008b.C.dialog-act.dharshi.24	196.36	203.68	C	ID	inf	+1	1	Uh , diodes , uh bat batteries and uh uh LED lights , they're needed and they're uh everywhere available .
+TS3008b.C.dialog-act.dharshi.27	211.03	220.22	C	ID	inf	+1	1	Uh , the circuit board , it's the most um important uh um part of the remote control .
+10	TS3008b.dharshi.s.3	The user interface designer talked about what functions should be included.
+TS3008b.B.dialog-act.dharshi.26	338.39	340.78	B	UI	inf	+1	1	Well , the technical functions .
+TS3008b.B.dialog-act.dharshi.29	348.8	358.52	B	UI	sug	+1	2	and I think they're {disfmarker} we have to focus uh on uh the uh one hand the expert view or the novice user .
+TS3008b.B.dialog-act.dharshi.30	359.58	363.97	B	UI	inf	+1	1	{vocalsound} th I think it's it's very much uh depending on the user requirements ,
+TS3008b.B.dialog-act.dharshi.36	403.02	414.22	B	UI	sug	+1	1	w if you want try a a a huge market , if you want to reach a huge market , uh like elderly people and {disfmarker} we have to choose for novice user .
+TS3008b.B.dialog-act.dharshi.40	433.61	437.15	B	UI	inf	+1	2	Uh well , there are l at least uh basic functions ,
+TS3008b.B.dialog-act.dharshi.41	437.15	441.31	B	UI	inf	+1	2	uh like just th the channels uh one till nine ,
+TS3008b.B.dialog-act.dharshi.42	441.31	446.38	B	UI	inf	+1	2	uh on and off switch , which must be clear with a red button or something like that .
+TS3008b.B.dialog-act.dharshi.43	446.38	454.48	B	UI	inf	+1	2	Um , most standard uh have volume , of course , and a mute function , and , of course , the next and previous channel .
+TS3008b.B.dialog-act.dharshi.48	477.21	487.08	B	UI	el.inf	+1	2	and I don't know if there uh are any um {disfmarker} uh if you put more functions , more buttons , maybe it's com becoming less trendy or something like that .
+TS3008b.B.dialog-act.dharshi.52	494.03	501.52	B	UI	ass	+1	2	Uh , I th I thought the the {disfmarker} with less buttons you can make a more trendier uh {disfmarker}
+1	TS3008b.dharshi.s.4	He suggested they should focus on either expert or novice users.
+TS3008b.B.dialog-act.dharshi.29	348.8	358.52	B	UI	sug	+1	2	and I think they're {disfmarker} we have to focus uh on uh the uh one hand the expert view or the novice user .
+5	TS3008b.dharshi.s.5	The basic functions should include an on/off switch , buttons for channels one to nine , volume , mute and buttons for next and previous channel.
+TS3008b.B.dialog-act.dharshi.40	433.61	437.15	B	UI	inf	+1	2	Uh well , there are l at least uh basic functions ,
+TS3008b.B.dialog-act.dharshi.41	437.15	441.31	B	UI	inf	+1	2	uh like just th the channels uh one till nine ,
+TS3008b.B.dialog-act.dharshi.42	441.31	446.38	B	UI	inf	+1	2	uh on and off switch , which must be clear with a red button or something like that .
+TS3008b.B.dialog-act.dharshi.43	446.38	454.48	B	UI	inf	+1	2	Um , most standard uh have volume , of course , and a mute function , and , of course , the next and previous channel .
+TS3008b.D.dialog-act.dharshi.34	574.92	580.98	D	ME	inf	+1	1	three out of four people claim m uh to find remote controls ugly .
+2	TS3008b.dharshi.s.6	He suggested that a trendy design should not have many buttons.
+TS3008b.B.dialog-act.dharshi.48	477.21	487.08	B	UI	el.inf	+1	2	and I don't know if there uh are any um {disfmarker} uh if you put more functions , more buttons , maybe it's com becoming less trendy or something like that .
+TS3008b.B.dialog-act.dharshi.52	494.03	501.52	B	UI	ass	+1	2	Uh , I th I thought the the {disfmarker} with less buttons you can make a more trendier uh {disfmarker}
+9	TS3008b.dharshi.s.7	The marketing expert reported on user requirements , including how users rated the importance of different features.
+TS3008b.D.dialog-act.dharshi.22	527.3	531.7	D	ME	inf	+1	1	Alright , I've done some research for functional requirements .
+TS3008b.D.dialog-act.dharshi.25	537.82	547.99	D	ME	inf	+1	1	there were hundred uh uh w h one hundred people , uh how do you say uh , f watched using remote controls in the usability lab
+TS3008b.D.dialog-act.dharshi.26	547.99	553.33	D	ME	inf	+1	1	and they also uh filled out a questionnaire uh with a few questions .
+TS3008b.D.dialog-act.dharshi.35	580.98	587.44	D	ME	ass	+1	2	So if we make a trendy design , we sure have seventy fi seventy five percent of the market , which you can reach .
+TS3008b.D.dialog-act.dharshi.36	588.49	598.29	D	ME	inf	+1	2	Um , three out of four users uh zaps a lot , as I uh quoted here from the uh results .
+TS3008b.D.dialog-act.dharshi.44	629.52	637.61	D	ME	inf	+1	1	Furthermore , fifty percent says uh they only use ten percent of the buttons on a remote control .
+TS3008b.D.dialog-act.dharshi.47	649.68	655.85	D	ME	inf	+1	2	Fifty percent also claims uh to have lost a remote control very often in the room .
+TS3008b.D.dialog-act.dharshi.56	702.46	720.13	D	ME	sug	+1	1	Um , all the settings , about audio settings , video settings and channel settings , which are not very often used , we could group them uh on one button and make them accessible uh in one menu button or whatever ,
+TS3008b.D.dialog-act.dharshi.66	755.23	769.68	D	ME	ass	+1	1	And a trendy look , well uh , although seventy percent of the market is uh {disfmarker} consists of elderly people uh who don't really care for trendy looks or whatever , I guess it can do no harm to make it trendy for the other thirty percent .
+3	TS3008b.dharshi.s.8	He stressed that a trendy design is important , that users zap a lot , and that remotes often get lost.
+TS3008b.D.dialog-act.dharshi.35	580.98	587.44	D	ME	ass	+1	2	So if we make a trendy design , we sure have seventy fi seventy five percent of the market , which you can reach .
+TS3008b.D.dialog-act.dharshi.36	588.49	598.29	D	ME	inf	+1	2	Um , three out of four users uh zaps a lot , as I uh quoted here from the uh results .
+TS3008b.D.dialog-act.dharshi.47	649.68	655.85	D	ME	inf	+1	2	Fifty percent also claims uh to have lost a remote control very often in the room .
+10	TS3008b.dharshi.s.9	The project manager informed the group of new requirements.
+TS3008b.A.dialog-act.dharshi.68	775.56	778.5	A	PM	off	+1	1	Well , then we {disfmarker} I'm gonna show you some of the new project requirements
+TS3008b.A.dialog-act.dharshi.74	809.08	814.16	A	PM	inf	+1	2	Well , they say tele teletext becomes outdated since the popularity of the internet .
+TS3008b.A.dialog-act.dharshi.75	814.16	819.76	A	PM	ass	+1	3	Well , I think that may be so , but well , we can't just leave the teletext button off .
+TS3008b.A.dialog-act.dharshi.77	821.77	828.04	A	PM	sug	+1	3	So the compromise we could make is just to make one teletext button , you know , like on and off ,
+TS3008b.A.dialog-act.dharshi.81	843.28	851.97	A	PM	inf	+1	2	The remote control should only be used for television . Otherwise , the project becomes more complex , which endangers the time t t ma uh the time to market .
+TS3008b.A.dialog-act.dharshi.86	867.64	871.35	A	PM	inf	+1	1	New products should reach a new market with customers that are younger than forty .
+TS3008b.D.dialog-act.dharshi.80	884.08	891.61	D	ME	inf	+1	1	It's a very small market which we will approach then if we uh want to reach customers younger than forty .
+TS3008b.A.dialog-act.dharshi.89	894.96	901.49	A	PM	ass	+1	1	Yeah , but it is {disfmarker} it's is a dif it's a fact that the th th that bigger market you're talking about , we already cover that .
+TS3008b.A.dialog-act.dharshi.98	924.37	933.58	A	PM	sug	+1	1	So maybe we can make a remote control that's primarily interesting for the younger group , but isn't that bad for an older person either .
+TS3008b.A.dialog-act.dharshi.100	937.01	941.33	A	PM	inf	+1	2	Our product's corporate colour and slogan must be implemented in the new design .
+5	TS3008b.dharshi.s.10	The remote is only for TV , should not include a teletext feature , and should feature the company colour and slogan.
+TS3008b.A.dialog-act.dharshi.74	809.08	814.16	A	PM	inf	+1	2	Well , they say tele teletext becomes outdated since the popularity of the internet .
+TS3008b.A.dialog-act.dharshi.75	814.16	819.76	A	PM	ass	+1	3	Well , I think that may be so , but well , we can't just leave the teletext button off .
+TS3008b.A.dialog-act.dharshi.77	821.77	828.04	A	PM	sug	+1	3	So the compromise we could make is just to make one teletext button , you know , like on and off ,
+TS3008b.A.dialog-act.dharshi.81	843.28	851.97	A	PM	inf	+1	2	The remote control should only be used for television . Otherwise , the project becomes more complex , which endangers the time t t ma uh the time to market .
+TS3008b.A.dialog-act.dharshi.100	937.01	941.33	A	PM	inf	+1	2	Our product's corporate colour and slogan must be implemented in the new design .
+33	TS3008b.dharshi.s.11	The group discussed what functions and features the remote should have , and whether to include DVD/VCR controls , a teletext button , stop button , changeable covers , and a base/recharger with locator function.
+TS3008b.A.dialog-act.dharshi.112	975.95	980.45	A	PM	sug	+1	1	That means we can uh well d yeah , discuss on the remote control functions .
+TS3008b.A.dialog-act.dharshi.117	995.83	1000.91	A	PM	ass	+1	2	Yeah , we we're looking for a really simple remote control with only basic T_V_ functions .
+TS3008b.A.dialog-act.dharshi.134	1089.82	1093.95	A	PM	inf	+1	2	I know that the younger people will most likely have a D_V_D_ player they want to ,
+TS3008b.A.dialog-act.dharshi.137	1104.12	1110.4	A	PM	ass	+1	2	No , yeah , th th the user requirements of the the {disfmarker} The new project requirements told us not to {disfmarker}
+TS3008b.A.dialog-act.dharshi.140	1119.49	1123.02	A	PM	sug	+1	2	But just the basic functions . Maybe like rewind and wind ,
+TS3008b.B.dialog-act.dharshi.80	1140.87	1142.38	B	UI	ass	+1	2	No , new requirements say no .
+TS3008b.A.dialog-act.dharshi.157	1196.52	1200.88	A	PM	sug	+1	2	Maybe if we just leave the D_V_D_ functional m uh {disfmarker}
+TS3008b.A.dialog-act.dharshi.167	1242.87	1245.4	A	PM	sug	+1	2	Yeah , we we'll make w this one trendy .
+TS3008b.D.dialog-act.dharshi.121	1270.46	1272.88	D	ME	sug	+1	1	I think stop function is very useful .
+TS3008b.A.dialog-act.dharshi.181	1290.27	1295.26	A	PM	ass	+1	1	Yeah , yeah , but maybe you s yeah yeah , maybe y you do , but I've never heard of it in the first place . And
+TS3008b.A.dialog-act.dharshi.197	1354.97	1357.7	A	PM	sug	+1	2	I think we should just put one teletext button on it .
+TS3008b.D.dialog-act.dharshi.127	1390.37	1394.92	D	ME	ass	+1	1	I think the plus and the minus button should be uh quite present ,
+TS3008b.A.dialog-act.dharshi.219	1444.91	1451.58	A	PM	ass	+1	1	No , okay , but we don't have to {disfmarker} uh , when we don't want to uh control other devices , I think it makes it even more simple .
+TS3008b.B.dialog-act.dharshi.121	1451.94	1456.73	B	UI	el.sug	+1	1	uh uh the batteries maybe . If you use large batteries or small batter batteries .
+TS3008b.D.dialog-act.dharshi.132	1459.96	1460.84	D	ME	sug	+1	1	I think double A_ .
+TS3008b.C.dialog-act.dharshi.70	1480.87	1484.76	C	ID	ass	+1	3	But i in a way we have to be uh uh special .
+TS3008b.A.dialog-act.dharshi.232	1488.42	1493.75	A	PM	el.sug	+1	3	Do you uh have you have you think about tha thought about that ? How we can {disfmarker} what the extra touch can be .
+TS3008b.A.dialog-act.dharshi.236	1501.91	1508.33	A	PM	sug	+1	2	Maybe it should be a remote control when you you clap you hands it makes some noise or some gadget kind of thing .
+TS3008b.A.dialog-act.dharshi.241	1526.45	1530.71	A	PM	sug	+1	2	Or maybe it w should have a big uh light that can flash or something on it ,
+TS3008b.A.dialog-act.dharshi.250	1561.8	1567.03	A	PM	sug	+1	2	so maybe with with bouncing pads so that you can just throw it on the floor or something .
+TS3008b.A.dialog-act.dharshi.259	1603.81	1610.13	A	PM	sug	+1	1	So big buttons , flashy design , and maybe some kind of gadget kind of thing .
+TS3008b.D.dialog-act.dharshi.145	1612.1	1613.69	D	ME	sug	+1	2	a swapable front or whatever .
+TS3008b.A.dialog-act.dharshi.260	1613.75	1621.66	A	PM	ass	+1	2	Yeah , or just different colours would be uh {disfmarker} I don't know if people also wanna spend more money on fronts for their uh remote control .
+TS3008b.D.dialog-act.dharshi.157	1676.45	1684.95	D	ME	sug	+1	2	{vocalsound} I in in the base we could like make uh a button , and if you push it , the remote control itself s makes noise .
+TS3008b.A.dialog-act.dharshi.275	1655.88	1660.53	A	PM	sug	+1	2	Yeah , you have to put it on its {disfmarker} So it's like a vase or uh something you put on a table .
+TS3008b.D.dialog-act.dharshi.156	1669.96	1676.45	D	ME	ass	+1	3	If you do that , but I don't know if that's possible within the production cost of twelve and a half Euros .
+TS3008b.A.dialog-act.dharshi.285	1710.0	1714.857	A	PM	sug	+1	2	And then also you don't even need batteries , because you can make it uh chargeable . {vocalsound}
+TS3008b.A.dialog-act.dharshi.288	1725.12	1737.66	A	PM	ass	+1	3	but when you {disfmarker} you can imagine that when you spend twenty five Euros on a remote control and it's a basic remote control , then the then the money {disfmarker} there must be money to spend on that kind of st you know , {gap} rechargeable units .
+TS3008b.A.dialog-act.dharshi.296	1775.56	1780.41	A	PM	sug	+1	4	Well , maybe yeah , you could {disfmarker} when that's {disfmarker} when it's too costly , you could probably skip the recharger ,
+TS3008b.D.dialog-act.dharshi.172	1802.18	1805.09	D	ME	ass	+1	2	On the other hand , if you don't do it , we can also make a nice bay .
+TS3008b.D.dialog-act.dharshi.173	1805.09	1809.76	D	ME	ass	+1	2	I mean , it looks trendy and still {vocalsound} still put a bleep function in it ,
+TS3008b.A.dialog-act.dharshi.324	1871.36	1876.74	A	PM	sug	+1	2	well , we will see what's possible concerning the the costs , and if it's possible we'll do that .
+TS3008b.A.dialog-act.dharshi.331	1895.27	1903.29	A	PM	ass	+1	2	And and what people just think about , well , I'll never have to buy any r batteries again , so y b because it's very annoying when your battery is empty .
+13	TS3008b.dharshi.s.12	The group also discussed making the remote a rounded , ergonomic shape , and using flashing lights to help locate it when lost.
+TS3008b.D.dialog-act.dharshi.201	2078.41	2084.47	D	ME	el.sug	+1	1	Has anyone got um {vocalsound} a little bit detailed ideas about the shape ?
+TS3008b.C.dialog-act.dharshi.86	2085.13	2086.31	C	ID	sug	+1	1	Maybe like this pen .
+TS3008b.C.dialog-act.dharshi.87	2096.33	2098.13	C	ID	ass	+1	1	It has to feel nice in your hand .
+TS3008b.A.dialog-act.dharshi.384	2112.09	2115.52	A	PM	sug	+1	1	you should like make Alessi or something design it .
+TS3008b.D.dialog-act.dharshi.208	2119.27	2122.77	D	ME	ass	+1	1	Yeah , but {vocalsound} twelve and a half Euros ? Uh {disfmarker} {vocalsound}
+TS3008b.A.dialog-act.dharshi.396	2147.67	2151.05	A	PM	sug	+1	1	I think it uh has to be a r {gap} it has to have round forms or something .
+TS3008b.D.dialog-act.dharshi.211	2155.69	2157.8	D	ME	ass	+1	1	Something like that is very ergonomic .
+TS3008b.A.dialog-act.dharshi.398	2157.88	2162.58	A	PM	sug	+1	1	And on th and then uh s a base unit underneath it . It's also round .
+TS3008b.A.dialog-act.dharshi.401	2167.8	2171.79	A	PM	sug	+1	1	Maybe uh , I don't know , some some lights , a big but well .
+TS3008b.D.dialog-act.dharshi.219	2197.2	2202.048	D	ME	sug	+1	1	Maybe lights also around the volume and the p the plus minus programme buttons . {gap} {disfmarker}
+TS3008b.A.dialog-act.dharshi.411	2204.1	2210.82	A	PM	inf	+1	1	but I also meant the the blinking li w you know , the ones that also blink when you try to uh uh locate your remote .
+TS3008b.A.dialog-act.dharshi.417	2234.16	2238.95	A	PM	sug	+1	1	{gap} maybe put something on top of it {vocalsound} or , you know , like that's {disfmarker} looks funny .
+TS3008b.D.dialog-act.dharshi.226	2241.61	2244.45	D	ME	ass	+1	1	I think I think that'll be too big tha too big then .

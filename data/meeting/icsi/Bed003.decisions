@@ -1,0 +1,28 @@
+4	Bed003.s.11	It is necessary for the belief-net to have at least one layer of nodes between the features and the final output.
+Bed003.B.dialogueact224	407.897	409.487	B	Grad	s	+1	1	So then our next idea was to add a middle layer ,
+Bed003.B.dialogueact370	706.58	712.21	B	Grad	s	+1	1	Uh {disfmarker} we kept um {disfmarker} things from directly affecting the mode {pause} beyond the concept ,
+Bed003.B.dialogueact378	721.584	727.838	B	Grad	s	+1	1	But we just decided to keep all the things we extracted {pause} to point at the middle and then {pause} down .
+Bed003.B.dialogueact1285	2245.11	2250.82	B	Grad	s	+1	1	I guess , the fact that the {disfmarker} there 's a complete separation between the {pause} observed features and in the output .
+0	Bed003.s.12	This makes the structure more flexible in terms of coding feature-layer probabilities.
+4	Bed003.s.13	Another technique to systematise the work is the thematic clustering of the features , each cluster forming a Bayes-net of each own: for example features like "admission fee" and "opening hours" can feed into an intermediate "entrance" node connecting to the main middle layer.
+Bed003.A.dialogueact1217	2060.15	2070.9	A	Grad	s^rt	+1	3	is that maybe we ob we could observe a couple of um discourse phenomena such as the admission fee ,
+Bed003.A.dialogueact1223	2085.36	2093.3	A	Grad	s	+1	2	So maybe this could be sort of a separate region of the net , {pause} which has two {disfmarker} {pause} has it 's own middle layer .
+Bed003.B.dialogueact1237	2128.84	2134.02	B	Grad	s	+1	1	That would all f funnel into one node that would {pause} constitute entrance requirements or something like that .
+Bed003.A.dialogueact1270	2207.8	2215.15	A	Grad	s	+1	3	They ra may have there own hidden layer {pause} that points to some of {pause} the {disfmarker} the real hidden layer , um or the general hidden layer .
+3	Bed003.s.14	The next stage is to refine the set of feature nodes and identify possible clusters.
+Bed003.A.dialogueact1553	2864.77	2879.18	A	Grad	s^cs	+1	1	So , um I suggest w to {disfmarker} for {disfmarker} to proceed with this in {disfmarker} in the sense that {pause} maybe throughout this week the three of us will {disfmarker} will talk some more about maybe segmenting off different regions ,
+Bed003.A.dialogueact1569	2898.31	2900.05	A	Grad	s^cs	+1	1	Identify {pause} four regions ,
+Bed003.A.dialogueact1570	2900.05	2901.89	A	Grad	s^rt	+1	1	maybe make up some features for each region
+3	Bed003.s.15	Although , in theory , traditional AI plan recognition techniques could also be helpful for inferring intentions , the schemas involved are too elaborate for this task.
+Bed003.D.dialogueact1405	2570.88	2579.75	D	Grad	s	+1	1	So one thing that might be helpful which is implicit in the {pause} use of " admission fee discussion " as a cue for entry , {vocalsound} {pause} is thinking about the plans that various people might have .
+Bed003.D.dialogueact1411	2601.8	2610.01	D	Grad	s	+1	1	They 're {disfmarker} in {disfmarker} in non in sort of more traditional AI kinds of plan recognition things you sort of have {vocalsound} {pause} you know , some idea at each turn of agent doing something ,
+Bed003.A.dialogueact1421	2626.83	2629.19	A	Grad	s	+1	1	I mean there are some {disfmarker} some of them are extremely elaborate ,
+1	Bed003.s.16	Further work also includes discussing the possible advantages of Bayes-net packages , other than JavaBayes , with experts at ICSI.
+Bed003.C.dialogueact1604	2962.97	2969.2	C	Grad	fg|s^cs	+1	1	Yeah , another thing to do , um , is also to , um {disfmarker} I guess to ask around people about other Bayes - net packages .
+3	Bed003.s.17	If they continue using JavaBayes , a script to help with the inputting of probabilities in the nodes is needed , as the in-built method is cumbersome.
+Bed003.C.dialogueact1092	1847.56	1850.69	C	Grad	s^cs^rt	+1	1	we can maybe write an interface th for uh entering probability distributions easily ,
+Bed003.C.dialogueact1093	1851.73	1852.92	C	Grad	s^e	+1	1	something like {disfmarker} like a little script .
+Bed003.C.dialogueact1126	1885.52	1888.22	C	Grad	s^cs.%--	+1	1	I think it might {disfmarker} it might be simpler to just {pause} have a script that , you know {disfmarker}
+2	Bed003.s.18	Finally , it was decided that at least some of the experiments designed for the new data collection initiative will factor in the intentions studied in the current task.
+Bed003.D.dialogueact1762	3317.23	3321.38	D	Grad	s^bu	+1	1	Like we wanna {disfmarker} we wanna be able to collect {vocalsound} as much of the variables that are needed for that ,
+Bed003.A.dialogueact1801	3436.23	3441.96	A	Grad	s^cs.%--	+1	1	So now I think we should maybe have at least one navigational task with {disfmarker} with sort of explicit {disfmarker} uh

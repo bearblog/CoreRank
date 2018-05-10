@@ -1,0 +1,28 @@
+The Berkeley Meeting Recorder group discussed recognition results generated for 20 minutes of close-talking microphone data.
+Recognition performance was very good , indicating promising results for forced alignment procedures and the ability to analyze other important signal information , e.g . prosody and overlapping speech.
+It was decided that close-talking data should be downsampled and fed to the SRI recognizer to compare recognition performance , and that data from the far-field microphones should be tested on the recognizer as soon as possible.
+The group also discussed recording setup and equipment issues.
+A decision was made to purchase an additional head-mounted crown microphone.
+A tentative decision was also made to integrate the use of a hand-held wireless microphone to help compensate for the lack of available close-talking microphones.
+The collection of Meeting Recorder data is ongoing , and will include meetings by the Berkeley Even Deeper Understanding research group and , possibly , an organized discussion by members of the transcriber pool.
+Following close-talking microphone recognition procedures , it was decided that data from the far-field microphones ( or PZMs ) should be tested on the recognizer as soon as possible.
+Speaker mn017 will compare close-talking microphone recognition results with those obtained for downsampled data.
+The SRI recognizer will be set up at ICSI to enable researchers to run their own variants.
+The group decided to purchase one additional head-mounted crown microphone.
+A tentative decision was also made to acquire a hand-held wireless microphone to pass around to additional meeting participants should the installation of more close-talking microphones prove too difficult.
+The suggestion of incorporating the use of cross pads during meeting recordings received favorable comments from participants.
+It was also tentatively decided to elicit meeting data from members of the transcriber pool discussing the Meeting Recorder corpus.
+During recognition procedures , a fixable acoustic glitch was discovered that causes speech channels to become slightly asynchronized.
+Poorer recognition performance was yielded for speech recorded via the use of lapel microphones.
+Recognition errors were largely due to misrecogniton of the plural -s and out-of-vocabulary items.
+The current recording setup is limited in that not all BMR meeting participants have their own close-talking microphone.
+A 'no-frills' recognizer , trained on Switchboard acoustic models and both Switchboard and Broadcast News language models , was used to test data for one transcribed meeting.
+Despite a glitch affecting the synchronized output of remaining data , recognition results for the first 20 minutes were very positive.
+The recognizer was successful in making accurate gender distinctions among speakers.
+It is anticipated that subsequent forced alignment procedures will also generate good results , enabling the group to analyze other types of signal information , such as prosody and overlapping speech segments.
+Future work will involve getting assessments of forced aligned data from linguists on the accuracy of time marks.
+The collection of Meeting Recorder data is ongoing , and will include meetings by the Berkeley Even Deeper Understanding research group.
+Transcriptions are also ongoing , with nearly 10 hours of Meeting Recorder data transcribed so far.
+Future work will involve working out a system for getting subjects to approve transcriptions so that confidentiality agreements are upheld and data may be shared with other research groups.
+A visiting student from Norway is working with a member of ICSI to conduct a related project on echo cancellation for handling segments of overlapping speech.
+Finally , the group is expecting a visit from a representative of NIST.

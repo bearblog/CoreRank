@@ -1,0 +1,19 @@
+1	Bed017.s.18	An early version of the PRM of the system presented the same problem as a flat Bayes-net: the CPT's become too large.
+Bed017.D.dialogueact151	382.479	385.689	D	Grad	s^df	+1	1	and it turns out , you know , the CPT 's are really big , if I do that ,
+2	Bed017.s.19	Another PRM issue that arose and remained unclear was how the probabilities are specified ( instead of learnt ) on the actual relations between the classes.
+Bed017.D.dialogueact293	908.429	910.659	D	Grad	s^no	+1	1	but I don't remember reading how you specify
+Bed017.D.dialogueact290	904.899	908.429	D	Grad	s	+1	1	I remember them learning when , you know , you don't know the structure for sure ,
+2	Bed017.s.20	Furthermore , the lack of a PRM interpreter is an open issue.
+Bed017.F.dialogueact215	654.58	659.13	F	Professor	qy^bu^d	+1	1	the {disfmarker} You {disfmarker} you didn't look at all yet to see if there 's anybody has a implementation .
+Bed017.F.dialogueact227	688.054	692.104	F	Professor	s	+1	1	So w Anyway . So that 's a {disfmarker} a major open issue .
+2	Bed017.s.21	It is not within the remit of the project to build one from scratch , therefore , an existing implementation has to be found.
+Bed017.F.dialogueact221	664.608	668.028	F	Professor	h|s^cc	+1	2	uh , we aren't gonna build our own interpreter ,
+Bed017.F.dialogueact223	674.151	678.101	F	Professor	fh|s	+1	2	Uh , so one of the things that Eva 's gonna do over the next few weeks is see if we can track that down .
+1	Bed017.s.22	On the other hand , the discussion about the smart tutoring system being built at the International University showed the importance of finding out  which context parameters are influential in a given domain.
+Bed017.C.dialogueact436	1368.28	1376.21	C	Grad	s^cs	+1	2	Now , what I plan to do is I want to uh sort of do a uh {disfmarker} uh {pause} try to improve the quality of the search results ,
+3	Bed017.s.23	It is easy to hack up a system for a small domain , but making it scalable is much more difficult.
+Bed017.C.dialogueact443	1403.67	1412.1	C	Grad	s	+1	1	Now , the big problem that I 'm facing right now is um , it 's fairly easy to hack up a system uh quickly , that {disfmarker} that works in the small domain ,
+Bed017.C.dialogueact444	1412.1	1413.93	C	Grad	s	+1	1	but the problem is obviously the scalability .
+Bed017.C.dialogueact553	1766.72	1768.89	C	Grad	s	+1	1	cuz it 's {disfmarker} it 's very easy to whip up something quickly ,
+1	Bed017.s.24	Finally , there was a passing mention of problems encountered with the speech synthesis module of SmartKom.
+Bed017.B.dialogueact67	168.19	175.07	B	Grad	s	+1	2	As for SmartKom , I 'm {disfmarker} the last SmartKom meeting I mentioned that we have some problems with the synthesis ,

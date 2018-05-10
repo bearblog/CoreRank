@@ -1,0 +1,8 @@
+Two MLP's were trained on noisy TIMIT for voiced/unvoiced , one with 3 outputs and one with 56.
+The former used three extra inputs ( spectrum difference variance , auto-correlation function variance and R0 ) , added to the 15 of the Aurora base system.
+Its accuracy is 63% ( including noise ) , while for the latter is 56%.
+The nets only take about a day to train.
+The planning of another neural net to define the complete set of acoustic events for phone recognition is also under way.
+As to the PLP/mel cepstrum comparison for SRI , the headers of the wave files are being checked for compression inconsistencies or other data that may indicate a bug in the scripts responsible for the errors found.
+Furthermore , while discussing the RASTA code it was clarified that although there is no control on the frequency range in the FFT , this is done by the filter bank , which ignores the highest and lowest bins.
+As to digit recognition , the mean subtraction method tested with the Aurora setup resulted in reduction of error rates from 18% to 4% in TI digits , and from 41% to 8% for Meeting Recorder far-mike digits.

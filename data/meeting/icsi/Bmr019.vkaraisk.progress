@@ -1,0 +1,31 @@
+0	Bmr019.s.26	For the digit recognition task , results from different microphones were taken.
+2	Bmr019.s.27	The lapel mikes did well in this task since they capture less breath noises and there is less clothes rustling during the digit reading.
+Bmr019.E.dialogueact90	121.753	127.063	E	Grad	s	+1	1	I mean that it was basically {disfmarker} the only thing that was even slightly surprising was that the lapel did so well .
+Bmr019.E.dialogueact94	138.889	145.809	E	Grad	s	-1	0	And as Morgan pointed out , that there are actually some advantages to it in terms of breath noises and clothes rustling {pause} if no one else is talking .
+1	Bmr019.s.28	Some obvious mistakes in the reading were deleted manually.
+Bmr019.E.dialogueact213	416.27	421.09	E	Grad	s	-1	0	Whereas , I took out {pause} the ones that I noticed that were blatant {disfmarker} that were correctable .
+2	Bmr019.s.29	Adaptation ( means and variance ) improved recognition results by 0.6%.
+Bmr019.F.dialogueact166	301.306	305.046	F	PhD	s	-1	0	And {pause} I tried both means adaptation and means and variances ,
+Bmr019.F.dialogueact169	311.36	316.952	F	PhD	s	-1	0	Point six , I believe , is what you get with both , uh , means and variance adaptation .
+2	Bmr019.s.30	Similarly , work on forced alignments also gave better results , at least with the data from native speakers.
+Bmr019.A.dialogueact667	1351.96	1365.35	A	PhD	s	+1	2	and {disfmarker} and {disfmarker} W we {disfmarker} we were able to get some definite improvement on the forced alignments by looking at them first and then realizing the kinds of errors {pause} that were occurring
+Bmr019.A.dialogueact712	1508.67	1512.79	A	PhD	s	+1	0	So , I think we have a version that 's pretty good for the native speakers .
+1	Bmr019.s.31	It was enforced in the analysis that foreground speech be continuous.
+Bmr019.F.dialogueact701	1467.78	1474.79	F	PhD	s	+1	1	you know , as Liz said the {disfmarker} we f enforce the fact that , uh , the foreground speech has to be continuous .
+2	Bmr019.s.32	Moreover , noise and background speech models were made.
+Bmr019.A.dialogueact715	1517.83	1523.7	A	PhD	s	-1	0	we basically also made noise models for the different {disfmarker} sort of grouped some of the {pause} mouth noises together .
+Bmr019.A.dialogueact716	1524.44	1526.82	A	PhD	fh|s	+1	0	Um , so , and then there 's a background speech model .
+2	Bmr019.s.33	Meanwhile , two transcripts have been manually aligned at utterance level.
+Bmr019.C.dialogueact828	1784.43	1791.18	C	Postdoc	s	-1	0	and then I hand - marked it myself so that we do have , uh , the beginning and ending of individual utterances .
+Bmr019.C.dialogueact834	1795.92	1803.42	C	Postdoc	s	-1	0	And also I went back to the original one that I first transcribed and {disfmarker} and did it w uh , w uh , utterance by utterance for that particular one .
+0	Bmr019.s.34	This process has also shown that speaker identification works better when multiple channels are used.
+1	Bmr019.s.35	A further conclusion was that backchanneling seemed to come mainly from the speaker that is more directly involved with the foreground utterance.
+Bmr019.C.dialogueact1001	2092.3	2097.23	C	Postdoc	s^df	-1	0	but {disfmarker} but it does seem more natural to give a backchannel when {disfmarker} when you 're somehow involved in the topic ,
+3	Bmr019.s.36	A paper on segmentation is being submitted to Eurospeech and work on another one is being finished with the same intention.
+Bmr019.B.dialogueact1073	2215.03	2218.5	B	Professor	qy	+1	0	but were {disfmarker} were you intending to do a Eurospeech submission ,
+Bmr019.B.dialogueact1484	2915.37	2920.2	B	Professor	s	+1	1	Uh , you {disfmarker} you and , uh {disfmarker} and Dan have {disfmarker} have a paper that {disfmarker} that 's going in .
+Bmr019.B.dialogueact1487	2920.34	2923.89	B	Professor	s	+1	0	You know , that 's {disfmarker} that 's pretty solid , on the segmentation {pause} stuff .
+3	Bmr019.s.37	The aim of the latter is to identify spurts and overlapped speech and tag them uniformly throughout the individual channels.
+Bmr019.F.dialogueact1200	2418.56	2425.43	F	PhD	s	-1	0	And then there 's a {disfmarker} then there 's a process where you now determine the spurts .
+Bmr019.F.dialogueact1208	2445.45	2450.31	F	PhD	s	-1	0	And then {vocalsound} you extract the individual channels again ,
+Bmr019.F.dialogueact1212	2463.17	2468.76	F	PhD	s	+1	1	Um , and inside the words or between the words you now have begin and end {pause} tags for overlaps .

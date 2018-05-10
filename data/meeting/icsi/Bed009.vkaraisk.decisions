@@ -1,0 +1,22 @@
+2	Bed009.s.10	As the generator module is being translated to english , it was agreed that the best approach is to use the same grammar as in german , as this also produces syntactic trees.
+Bed009.B.dialogueact66	317.27	320.01	B	Grad	s^rt	-1	0	the syntactic tree that is underneath in the syntactic structure
+Bed009.B.dialogueact67	320.867	325.097	B	Grad	s^df^rt	-1	0	which is the way we decided we were gonna go because A , it 's easier in the beginning
+1	Bed009.s.11	The same approach is going to be taken for the new parser release.
+Bed009.F.dialogueact958	2685.69	2691.28	F	Professor	s^rt	-1	0	in terms of You know , w if you 're doing this for English as well as German
+2	Bed009.s.12	A single system is going to be used for german and english with possible code extensions to be written to accommodate the differences.
+Bed009.D.dialogueact967	2721.35	2725.46	D	Grad	s	+1	1	Some extensions uh have to be made . For {disfmarker} for a English version
+Bed009.F.dialogueact958	2685.69	2691.28	F	Professor	s^rt	-1	0	in terms of You know , w if you 're doing this for English as well as German
+2	Bed009.s.13	The new parser needs to be fast and robust in dealing with speech input.
+Bed009.D.dialogueact760	2279.33	2282.81	D	Grad	s^bk|s	+1	1	Yeah , uh the problem is th that it has to be very fast
+Bed009.D.dialogueact769	2300.5	2306.11	D	Grad	s	+1	1	And they also have to be very robust . cuz of um speech recognition errors
+3	Bed009.s.14	The Verbmobil and FORWISS chunk parsers can provide with a valuable paradigm.
+Bed009.F.dialogueact772	2307.22	2317.37	F	Professor	fg|s	-1	0	So , um {disfmarker} So there was a chunk parser in Verbmobil , that was one of the uh branchers .
+Bed009.B.dialogueact820	2402.24	2409.46	B	Grad	s	-1	0	From Michael Strube , I 've heard very good stuff about the chunk parser that is done by FORWISS ,
+Bed009.A.dialogueact812	2391.65	2392.59	A	PhD	s^aa|s	-1	0	Yeah I guess it 's similar .
+2	Bed009.s.15	It was also agreed that the enhanced knowledge model that is going to be produced with the use of the belief-nets will need to integrate with parallel developments in the design of dialogues.
+Bed009.A.dialogueact289	980.89	984.1	A	PhD	s^cs	-1	0	So if {disfmarker} if this is additional information that could be merged in by them .
+Bed009.F.dialogueact374	1242.21	1250.19	F	Professor	s	-1	0	And it may be that {disfmarker} that um we should early on make sure that they have the flexibility that we need .
+1	Bed009.s.16	Some of the terminology will also have to be adapted.
+Bed009.F.dialogueact555	1725.74	1732.89	F	Professor	qy	+1	0	Would there be any chance of getting the terminology changed so that the dialogue planner was called a " dialogue planner " ?
+1	Bed009.s.17	Another meeting was scheduled to take place before the departure of the german visitors , in order to discuss future objectives of SmartKom.
+Bed009.F.dialogueact122	463.501	472.491	F	Professor	s^cc	+1	1	so anyt we 'll find a time later in the week to uh get together and talk about {pause} your understanding of what SmartKom plans are .

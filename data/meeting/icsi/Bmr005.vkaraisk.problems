@@ -1,0 +1,26 @@
+3	Bmr005.s.23	It will be difficult to recruit many groups that would agree to have their meetings recorded regularly.
+Bmr005.C.dialogueact1344	3898.95	3902.96	C	PhD	s	-1	0	it 's getting the people to come in and put on the {disfmarker} and get the setup going .
+Bmr005.E.dialogueact1413	4070.4	4078.65	E	Professor	s^cs	+1	1	One of the things that I think is a little {disfmarker} a little bit of a limitation , there is a think when the people are not involved uh in our work , we probably can't do it every week .
+Bmr005.G.dialogueact1447	4177.47	4180.3	G	Grad	s	+1	1	So , I think it 's gonna be a problem to get people regularly .
+1	Bmr005.s.24	However , the use of found data is not possible , as they are not recorded in the required setup.
+Bmr005.E.dialogueact1214	3522.47	3527.77	E	Professor	s	-1	0	in a , uh , uh {disfmarker} or {disfmarker} and {disfmarker} and so it doesn't really give us the {disfmarker} the {disfmarker} the uh characteristics we want .
+1	Bmr005.s.25	The point of potential legal problems with the presence of sensitive material in the recordings or the identification of individuals was also raised.
+Bmr005.B.dialogueact258	1006.25	1011.11	B	Postdoc	s^df	-1	0	because if there 's a slanderous aspect to it , then how much to we wanna be able to have to remove ?
+1	Bmr005.s.26	The latter gave rise to difficulties that pronoun identification may pose in future analysis.
+Bmr005.F.dialogueact175	856.366	866.614	F	PhD	s^ba	+1	1	So this is {disfmarker} this is {disfmarker} this is {disfmarker} gonna be a big , big problem if you want to later do uh , you know , indexing , or speech understanding of any sort .
+1	Bmr005.s.27	There was some delay in sending the first batch of recordings for transcription due to some missing files.
+Bmr005.G.dialogueact961	2695.93	2699.84	G	Grad	s^ng	-1	0	Well , I haven't sent them yet because I was having this problem with the {pause} missing files .
+0	Bmr005.s.28	It is also hard to speculate how long it will take IBM to carry out these transcriptions.
+2	Bmr005.s.29	Furthermore , even when they are completed and sent back , they will need another pass-through for adjustment to the requirements of the project.
+Bmr005.B.dialogueact1285	3760.6	3765.44	B	Postdoc	s	-1	0	Yeah , we need to {disfmarker} I think that there 's a possibility that the transcript will need to be adjusted afterwards ,
+Bmr005.B.dialogueact1292	3773.93	3782.79	B	Postdoc	s	-1	0	And also if we wanna add things like um , well , more refined coding of overlaps , then definitely I think we should count on having an extra pass through .
+2	Bmr005.s.30	Also time-consuming would be the detailed transcription of all acoustic events , as it took twelve hours to analyze twelve recorded minutes.
+Bmr005.D.dialogueact619	1973.3	1981.45	D	PhD	s.%-	-1	0	Tw - twelve hours of work to {disfmarker} {vocalsound} to segment eh and label eh twelve minutes from a session of part {disfmarker} of f
+Bmr005.E.dialogueact686	2107.97	2111.49	E	Professor	fh|s	-1	0	Um , obviously this is very , very time - consuming , and you 're finding lots of things
+2	Bmr005.s.31	As to these acoustic events , there is significant variation in their respective numbers depending on whether the data used come from the close or the distant microphones.
+Bmr005.D.dialogueact484	1546.03	1572.84	D	PhD	fh|s	-1	0	um , for example , eh if eh we use the ehm {disfmarker} the mixed file , to {disfmarker} to transcribe , the {disfmarker} the events and the words , I {disfmarker} I saw that eh the eh speech signal , collected by the eh this kind of mike {disfmarker} eh of this kind of mike , eh are different from the eh mixed signal eh , we eh {disfmarker} collected by headphone .
+Bmr005.D.dialogueact492	1583.1	1597.29	D	PhD	s	-1	0	but eh the {disfmarker} the problem is eh , eh we eh detected eh difference events in the speech file eh collected by {disfmarker} by that mike uh qui compared with the mixed file .
+3	Bmr005.s.32	Moreover , the issue of block echo cancellation was re-opened , although its use may be problematic for this specific data.
+Bmr005.E.dialogueact1046	2867.74	2877.22	E	Professor	s^cs	+1	1	I mean , one of the things I wanted to do , uh , that I I talked to {disfmarker} to Don about , is one of the possible things he could do or m also , we could have someone else do it , is to do block echo cancellation ,
+Bmr005.E.dialogueact1051	2882.31	2889.12	E	Professor	fh|s	-1	0	Um , I mean we have {disfmarker} the party line has been that echo cancellation is not the right way to handle the situation
+Bmr005.E.dialogueact1144	3289.22	3293.08	E	Professor	s	-1	0	and we 're even pretty skeptical of echo cancellation , which isn't really inversion ,

@@ -1,0 +1,1049 @@
+ES2015c.A.dialog-act.dharshi.1	39.13	41.72	PM	A	el.inf	-1	0	Is everyone ready to start ?
+ES2015c.B.dialog-act.dharshi.1	40.48	44.132	ID	B	inf	-1	0	Yeah . {vocalsound}
+ES2015c.C.dialog-act.dharshi.1	41.05	41.44	UI	C	inf	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.1	40.558	41.6	ME	D	inf	-1	0	{vocalsound} Yes .
+ES2015c.A.dialog-act.dharshi.2	41.72	43.6	PM	A	ass	-1	0	Okay . Great .
+ES2015c.A.dialog-act.dharshi.3	43.6	50.66	PM	A	be.pos	+1	1	Well , welcome to the third meeting of conceptual design .
+ES2015c.A.dialog-act.dharshi.4	50.66	54.85	PM	A	off	-1	0	I'll just get the PowerPoint presentation up and running .
+ES2015c.A.dialog-act.dharshi.5	59.4	60.79	PM	A	stl	-1	0	Okay . Um ,
+ES2015c.A.dialog-act.dharshi.6	60.79	72.32	PM	A	inf	+1	1	on the agenda for this , um , for this particular meeting , we'll have your three presentations on what you've done since our last meeting , after we came up with um some general ideas of our design .
+ES2015c.A.dialog-act.dharshi.7	72.32	82.8	PM	A	inf	+1	1	And , um , then we have to make some key decisions on , on our remote control concept , and how we're gonna make it , what uh materials we're gonna use , and that sort of thing .
+ES2015c.B.dialog-act.dharshi.2	77.984	79.175	ID	B	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.8	82.8	85.86	PM	A	inf	+1	1	The meeting will be forty minutes long .
+ES2015c.B.dialog-act.dharshi.4	85.08	85.6	ID	B	bck	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.9	85.86	92.14	PM	A	inf	+1	1	And um we will once again have Poppy as our first presenter .
+ES2015c.B.dialog-act.dharshi.3	86.533	88.256	ID	B	fra	-1	0	{vocalsound}
+ES2015c.B.dialog-act.dharshi.5	91.44	92.13	ID	B	bck	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.10	92.14	95.41	PM	A	off	-1	0	Alright , and I will switch up PowerPoint .
+ES2015c.B.dialog-act.dharshi.6	98.25	99.33	ID	B	be.pos	-1	0	Thank you .
+ES2015c.A.dialog-act.dharshi.11	100.77	101.89	PM	A	oth	-1	0	Okay .
+ES2015c.B.dialog-act.dharshi.7	109.02	111.965	ID	B	inf	-1	0	Should be just loading . {vocalsound}
+ES2015c.B.dialog-act.dharshi.8	113.56	114.83	ID	B	stl	-1	0	Okay .
+ES2015c.B.dialog-act.dharshi.9	114.83	115.14	ID	B	oth	-1	0	Oh ,
+ES2015c.B.dialog-act.dharshi.10	115.14	116.95	ID	B	inf	-1	0	although I can't see it on my screen .
+ES2015c.B.dialog-act.dharshi.11	118.45	119.81	ID	B	oth	-1	0	That says go here .
+ES2015c.B.dialog-act.dharshi.12	122.69	123.94	ID	B	stl	-1	0	Okay .
+ES2015c.B.dialog-act.dharshi.13	123.94	134.61	ID	B	inf	-1	0	I've been doing some research into the different components that we could use , um what's available to us f to actually make the remote control .
+ES2015c.B.dialog-act.dharshi.14	134.61	138.79	ID	B	inf	+1	1	Um , first of all we have to look at how the remote control is actually made ,
+ES2015c.B.dialog-act.dharshi.15	138.79	143.27	ID	B	inf	-1	0	and what is it happens inside the casing , which is more your field .
+ES2015c.B.dialog-act.dharshi.16	143.27	151.44	ID	B	inf	+1	1	Um , thes main internal feature is a circuit board , which contains all the elec electronics and also the contacts with the power source .
+ES2015c.D.dialog-act.dharshi.2	143.276	145.31	ME	D	fra	-1	0	{vocalsound}
+ES2015c.B.dialog-act.dharshi.17	151.44	155.42	ID	B	inf	-1	0	Which is not necessarily a battery , as we're about to see .
+ES2015c.B.dialog-act.dharshi.18	155.42	164.73	ID	B	inf	+1	1	Um , there are several components of , um , the circuit board that we need to consider , where we'll be getting them from , what they'll be made of .
+ES2015c.B.dialog-act.dharshi.19	164.73	169.41	ID	B	inf	+1	1	Um , including the integrated circuit , which is also known as the chip .
+ES2015c.B.dialog-act.dharshi.20	169.41	173.75	ID	B	inf	-1	0	Which is where all the main information is uh contained .
+ES2015c.B.dialog-act.dharshi.21	173.75	180.7	ID	B	inf	-1	0	Um , diodes , transistors , resonators , resistors , and capacit capacitors all need to be considered as well .
+ES2015c.B.dialog-act.dharshi.22	180.7	183.0	ID	B	inf	-1	0	Um , and all their positioning in the circuit .
+ES2015c.A.dialog-act.dharshi.12	181.2	181.717	PM	A	stl	-1	0	Um {disfmarker}
+ES2015c.A.dialog-act.dharshi.13	183.29	188.19	PM	A	el.inf	+1	0	Are they all included , like mandatorily , or r are these different options ?
+ES2015c.B.dialog-act.dharshi.23	188.05	188.75	ID	B	stl	-1	0	Uh , these ,
+ES2015c.B.dialog-act.dharshi.24	188.75	190.2	ID	B	inf	-1	0	they're all different options ,
+ES2015c.B.dialog-act.dharshi.25	190.2	196.1	ID	B	inf	+1	1	they're all separate , apart from the chip , which we will probable decide whether we buy a simple , a regular , advanced .
+ES2015c.A.dialog-act.dharshi.14	192.51	193.47	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.26	196.1	197.73	ID	B	inf	-1	0	We can go into that later .
+ES2015c.B.dialog-act.dharshi.27	197.73	201.8	ID	B	inf	-1	0	Um , all the other things are individual components that we'd have to get in separately ,
+ES2015c.B.dialog-act.dharshi.28	201.8	208.05	ID	B	inf	-1	0	and work out the most , like , effective um circuit , including all the wires and everything like that .
+ES2015c.B.dialog-act.dharshi.29	208.05	210.79	ID	B	inf	-1	0	And the L_E_D_ of course , that's a light emitting diode .
+ES2015c.B.dialog-act.dharshi.30	210.79	211.79	ID	B	stl	-1	0	So , we could ,
+ES2015c.B.dialog-act.dharshi.31	211.79	216.56	ID	B	inf	+1	1	so we've got flex flexibility with colours and things , with that as well .
+ES2015c.A.dialog-act.dharshi.15	214.95	215.23	PM	A	bck	-1	0	Mm .
+ES2015c.B.dialog-act.dharshi.32	217.65	221.46	ID	B	inf	+1	1	Okay , there are lots of different possibilities for the energy source .
+ES2015c.B.dialog-act.dharshi.33	221.46	223.43	ID	B	inf	+1	1	We could use a basic battery ,
+ES2015c.B.dialog-act.dharshi.34	223.43	228.4	ID	B	inf	-1	0	but that brings with it , like they need to be recharged and the bulk , the size of it as well .
+ES2015c.B.dialog-act.dharshi.35	228.4	233.68	ID	B	inf	-1	0	And they're not so great to dispose of , environmentally .
+ES2015c.B.dialog-act.dharshi.36	233.68	240.37	ID	B	inf	+1	1	{vocalsound} There's a hand-powered dynamo which is a sort of thing that was used for torches fifty years ago .
+ES2015c.B.dialog-act.dharshi.37	240.37	241.5	ID	B	inf	-1	0	A bit out of date .
+ES2015c.B.dialog-act.dharshi.38	241.5	245.08	ID	B	inf	+1	1	Kinetic energy is something that's been recently developed .
+ES2015c.A.dialog-act.dharshi.16	242.63	243.017	PM	A	stl	-1	0	Um {disfmarker}
+ES2015c.A.dialog-act.dharshi.17	244.23	245.8	PM	A	el.inf	-1	0	What is a hand-powered dynamo ?
+ES2015c.B.dialog-act.dharshi.39	245.76	250.56	ID	B	inf	-1	0	Um , where you manually charge up the power .
+ES2015c.A.dialog-act.dharshi.18	250.93	252.33	PM	A	el.inf	-1	0	Just every , every once in a while ?
+ES2015c.B.dialog-act.dharshi.40	250.56	252.85	ID	B	inf	-1	0	Like you wind up something .
+ES2015c.A.dialog-act.dharshi.19	253.26	254.9	PM	A	el.inf	-1	0	Just every once in a while or constantly ?
+ES2015c.B.dialog-act.dharshi.41	252.85	253.89	ID	B	und	-1	0	Sorry ?
+ES2015c.B.dialog-act.dharshi.43	253.89	255.73	ID	B	inf	-1	0	Yeah . Every once in a while I think
+ES2015c.A.dialog-act.dharshi.20	255.83	256.15	PM	A	ass	-1	0	Alright .
+ES2015c.A.dialog-act.dharshi.21	256.15	259.85	PM	A	ass	-1	0	It'd be kind of strange to always be cranking it I think .
+ES2015c.B.dialog-act.dharshi.42	255.73	256.814	ID	B	fra	-1	0	. But it's {disfmarker}
+ES2015c.B.dialog-act.dharshi.44	258.28	258.62	ID	B	ass	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.45	258.62	260.2	ID	B	inf	-1	0	It would be like going a step back in time .
+ES2015c.C.dialog-act.dharshi.2	258.123	260.33	UI	C	bck	-1	0	{vocalsound} Yeah .
+ES2015c.B.dialog-act.dharshi.46	260.2	264.25	ID	B	inf	-1	0	I don't think it would really be with kind of cutting edge technology .
+ES2015c.A.dialog-act.dharshi.22	263.52	265.671	PM	A	ass	-1	0	No . {vocalsound}
+ES2015c.D.dialog-act.dharshi.3	263.667	265.073	ME	D	fra	-1	0	{vocalsound}
+ES2015c.B.dialog-act.dharshi.47	264.25	275.32	ID	B	inf	+1	1	Whereas kinetic energy is a new idea that's being used by some watches and other devices , where you just shake the device and it gives it power .
+ES2015c.B.dialog-act.dharshi.48	275.32	281.98	ID	B	inf	-1	0	I mean , the kinetic energy is transformed into power to make the circuit work .
+ES2015c.B.dialog-act.dharshi.49	281.98	283.88	ID	B	inf	+1	1	Um , or there's solar power ,
+ES2015c.B.dialog-act.dharshi.50	283.88	292.2	ID	B	ass	+1	1	which we've been considering inside a building , which is where it's gonna be used , might not be quite so useful .
+ES2015c.A.dialog-act.dharshi.23	290.19	290.91	PM	A	bck	-1	0	Right .
+ES2015c.B.dialog-act.dharshi.51	292.2	294.42	ID	B	ass	-1	0	But , good to look into ,
+ES2015c.B.dialog-act.dharshi.52	294.42	296.2	ID	B	ass	-1	0	renewable energy , always the way .
+ES2015c.B.dialog-act.dharshi.53	296.74	302.63	ID	B	inf	+1	1	Um , lots of considerations for the case , like what sort of shape it would be , curved or flat .
+ES2015c.B.dialog-act.dharshi.54	302.63	304.81	ID	B	inf	-1	0	That's got a lot to do with the ergonomics .
+ES2015c.B.dialog-act.dharshi.55	304.81	307.75	ID	B	inf	-1	0	Like how it's comfortable and s sits in the hand .
+ES2015c.B.dialog-act.dharshi.56	307.75	311.27	ID	B	ass	+1	1	We don't want something that's huge and you can't pick up .
+ES2015c.B.dialog-act.dharshi.57	311.27	312.34	ID	B	ass	-1	0	Or too small .
+ES2015c.B.dialog-act.dharshi.58	312.34	313.95	ID	B	ass	-1	0	Or too slidy .
+ES2015c.B.dialog-act.dharshi.59	313.95	319.7	ID	B	inf	-1	0	I know I've had a remote control before which you couldn't tell which was the front and the back ,
+ES2015c.C.dialog-act.dharshi.3	317.61	318.794	UI	C	fra	-1	0	{vocalsound}
+ES2015c.B.dialog-act.dharshi.60	319.7	327.69	ID	B	inf	-1	0	'cause it had so many buttons on , and the shape was so symmetrical that I'd be pressing like a volume button instead of the on button .
+ES2015c.D.dialog-act.dharshi.4	325.17	325.61	ME	D	bck	-1	0	Mm .
+ES2015c.B.dialog-act.dharshi.61	327.69	330.1	ID	B	inf	-1	0	Because you can't really see which way round it is .
+ES2015c.A.dialog-act.dharshi.24	330.28	331.07	PM	A	bck	-1	0	Right .
+ES2015c.B.dialog-act.dharshi.62	330.6	333.38	ID	B	inf	-1	0	Um , we also can choose what materials {disfmarker}
+ES2015c.B.dialog-act.dharshi.63	333.38	335.41	ID	B	stl	-1	0	um , the {disfmarker}
+ES2015c.B.dialog-act.dharshi.64	335.41	336.46	ID	B	inf	+1	1	we could use metal ,
+ES2015c.B.dialog-act.dharshi.66	336.46	337.46	ID	B	inf	+1	1	we could use rubber
+ES2015c.B.dialog-act.dharshi.67	337.46	342.98	ID	B	ass	+1	1	which might be more um ideal for the anti-R_S_I_ .
+ES2015c.B.dialog-act.dharshi.68	342.98	351.97	ID	B	inf	-1	0	It's like the same sort of rubber that's used in stress balls and things like that , so it's very like soft , not so stressful on your hands .
+ES2015c.A.dialog-act.dharshi.25	346.74	347.69	PM	A	bck	-1	0	Mm-hmm .
+ES2015c.B.dialog-act.dharshi.69	351.97	353.29	ID	B	inf	-1	0	{vocalsound} Wood .
+ES2015c.A.dialog-act.dharshi.26	352.673	354.079	PM	A	fra	-1	0	{vocalsound}
+ES2015c.B.dialog-act.dharshi.70	353.29	355.96	ID	B	inf	-1	0	Um , again , stepping back in time again there .
+ES2015c.C.dialog-act.dharshi.4	354.064	357.06	UI	C	fra	-1	0	{vocalsound}
+ES2015c.B.dialog-act.dharshi.71	355.96	359.69	ID	B	ass	-1	0	I don't think that's quite up to date with what we're looking for here .
+ES2015c.A.dialog-act.dharshi.27	359.32	360.05	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.72	359.69	365.4	ID	B	inf	+1	1	Um , titanium is not gonna be possible , even though it just it beyond our budget really .
+ES2015c.B.dialog-act.dharshi.73	365.4	368.14	ID	B	inf	-1	0	But , would've been maybe for future projects .
+ES2015c.B.dialog-act.dharshi.74	369.15	372.15	ID	B	inf	+1	1	Um right our choice for buttons as well .
+ES2015c.B.dialog-act.dharshi.75	372.15	373.34	ID	B	stl	-1	0	We've developed some {disfmarker}
+ES2015c.B.dialog-act.dharshi.76	373.34	375.28	ID	B	inf	-1	0	we've got some good advances in technology ,
+ES2015c.B.dialog-act.dharshi.77	375.28	383.2	ID	B	inf	+1	1	with our research team have found some uh new multiple um option scroll buttons .
+ES2015c.B.dialog-act.dharshi.78	383.2	387.58	ID	B	fra	-1	0	I think that was brought up for , um , {disfmarker}
+ES2015c.B.dialog-act.dharshi.79	387.58	393.11	ID	B	inf	+1	1	they're basically quite a flexible design , modern , you don't have to use individual buttons .
+ES2015c.B.dialog-act.dharshi.80	393.11	394.9	ID	B	inf	-1	0	You can just slide up and down .
+ES2015c.B.dialog-act.dharshi.81	394.9	399.88	ID	B	inf	-1	0	I'm sure we're all quite familiar with those on mobiles or computer laptop pads .
+ES2015c.A.dialog-act.dharshi.28	397.34	397.52	PM	A	bck	-1	0	Mm-hmm .
+ES2015c.C.dialog-act.dharshi.5	397.27	397.59	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.29	400.16	401.93	PM	A	inf	+1	1	Um one thing with the scroll buttons though .
+ES2015c.A.dialog-act.dharshi.30	401.93	402.92	PM	A	stl	-1	0	It , it {disfmarker}
+ES2015c.B.dialog-act.dharshi.82	401.984	404.384	ID	B	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.31	402.92	406.16	PM	A	inf	+1	1	we would have to have an L_C_D_ um
+ES2015c.B.dialog-act.dharshi.83	406.02	407.72	ID	B	ass	-1	0	Yeah . That's true .
+ES2015c.A.dialog-act.dharshi.32	407.09	407.64	PM	A	inf	-1	0	display ,
+ES2015c.A.dialog-act.dharshi.33	407.64	412.05	PM	A	inf	+1	1	and the glow in the dark thing might be difficult .
+ES2015c.B.dialog-act.dharshi.84	407.72	410.29	ID	B	fra	-1	0	And that would lead to an advanced {disfmarker}
+ES2015c.B.dialog-act.dharshi.85	410.29	411.04	ID	B	ass	-1	0	yeah .
+ES2015c.B.dialog-act.dharshi.86	411.04	412.03	ID	B	fra	-1	0	If we have {disfmarker}
+ES2015c.B.dialog-act.dharshi.87	412.03	412.66	ID	B	ass	-1	0	yeah .
+ES2015c.B.dialog-act.dharshi.88	412.66	417.87	ID	B	inf	-1	0	We're going on to that later with the advanc with the L_C_D_ that means we'd need a really advanced chip .
+ES2015c.A.dialog-act.dharshi.34	417.7	418.23	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.89	417.87	421.26	ID	B	inf	-1	0	And it's unlikely that that's gonna be in our budget .
+ES2015c.D.dialog-act.dharshi.5	418.83	419.24	ME	D	bck	-1	0	Mm-hmm .
+ES2015c.B.dialog-act.dharshi.90	421.26	425.89	ID	B	inf	+1	1	Um , also we've got the integrated pushbutton , which is what we're most familiar with .
+ES2015c.B.dialog-act.dharshi.91	425.89	427.28	ID	B	inf	-1	0	It's the most straightforward .
+ES2015c.B.dialog-act.dharshi.92	427.28	431.71	ID	B	inf	-1	0	But you can in like incorporate that with a scroll button as well . {gap} .
+ES2015c.B.dialog-act.dharshi.93	431.71	433.91	ID	B	inf	-1	0	Got decisions to make there .
+ES2015c.B.dialog-act.dharshi.94	433.91	435.38	ID	B	inf	-1	0	And this is what I was just saying before .
+ES2015c.B.dialog-act.dharshi.95	435.38	439.56	ID	B	inf	-1	0	Linked in the different {disfmarker} depends on what type of buttons we have and the inputs .
+ES2015c.B.dialog-act.dharshi.96	439.56	442.06	ID	B	inf	-1	0	Um simple would go with the pushbutton .
+ES2015c.B.dialog-act.dharshi.97	442.52	446.94	ID	B	inf	-1	0	Um , regular you could link with the scroll button .
+ES2015c.B.dialog-act.dharshi.98	446.94	453.71	ID	B	inf	-1	0	And the advanced we'd have to go with a L_C_D_ s display .
+ES2015c.A.dialog-act.dharshi.35	451.13	451.65	PM	A	bck	-1	0	Right .
+ES2015c.B.dialog-act.dharshi.99	453.71	455.22	ID	B	inf	+1	1	{vocalsound} My personal preferences ?
+ES2015c.B.dialog-act.dharshi.100	455.22	457.43	ID	B	sug	+1	1	I think we could go for the kinetic energy source .
+ES2015c.B.dialog-act.dharshi.101	457.43	457.73	ID	B	fra	-1	0	I don't ,
+ES2015c.B.dialog-act.dharshi.102	457.73	461.5	ID	B	inf	-1	0	I think that's quite um an advanced kind of technology .
+ES2015c.B.dialog-act.dharshi.103	461.5	465.56	ID	B	inf	+1	1	It's not been seen before , so it could be quite a , a novelty factor ,
+ES2015c.B.dialog-act.dharshi.104	465.56	466.63	ID	B	inf	-1	0	attractive as well .
+ES2015c.B.dialog-act.dharshi.105	466.63	477.13	ID	B	inf	+1	1	And also energy saving 'cause you're producing the energy , you don't need an external sort of battery supply or solar panels .
+ES2015c.B.dialog-act.dharshi.106	477.13	479.84	ID	B	inf	-1	0	You just give it a shake .
+ES2015c.A.dialog-act.dharshi.36	479.07	479.37	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.107	479.84	480.69	ID	B	ass	-1	0	{vocalsound} Sounds brilliant to me .
+ES2015c.A.dialog-act.dharshi.37	481.35	481.53	PM	A	fra	-1	0	Uh .
+ES2015c.B.dialog-act.dharshi.108	481.14	490.34	ID	B	sug	+1	1	Rubber casing I thing would probably the best , if we're going for the anti-R_S_I_ and like more choice with um aesthetics .
+ES2015c.B.dialog-act.dharshi.109	490.34	492.74	ID	B	inf	-1	0	Like it could be pretty much any colour we want .
+ES2015c.B.dialog-act.dharshi.110	492.74	496.67	ID	B	inf	-1	0	Um , and gives you , yeah , more flexibility there .
+ES2015c.B.dialog-act.dharshi.111	496.67	500.32	ID	B	sug	+1	1	And probably the regular chip as opposed to the simple ,
+ES2015c.D.dialog-act.dharshi.6	496.859	497.543	ME	D	fra	-1	0	{vocalsound}
+ES2015c.B.dialog-act.dharshi.112	500.32	504.04	ID	B	sug	-1	0	then we could possibly have the scroll and the push ,
+ES2015c.B.dialog-act.dharshi.113	504.04	507.14	ID	B	sug	-1	0	but no L_C_D_ , 'cause we probably can't afford that one .
+ES2015c.A.dialog-act.dharshi.38	507.16	508.09	PM	A	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.39	508.09	520.83	PM	A	ass	-1	0	Um , one concern with the rubber casing is that it would be rubber encapsulating all of these {vocalsound} chips and diodes and delicate technology as
+ES2015c.B.dialog-act.dharshi.114	509.8	510.51	ID	B	bck	-1	0	Mm-hmm .
+ES2015c.A.dialog-act.dharshi.40	521.96	522.92	PM	A	inf	-1	0	like as the exterior .
+ES2015c.A.dialog-act.dharshi.41	522.92	524.9	PM	A	el.inf	-1	0	This is the one thing that's protecting its innards .
+ES2015c.B.dialog-act.dharshi.115	524.95	529.39	ID	B	inf	-1	0	I think that would , uh there would be an in sort of more internal casing .
+ES2015c.B.dialog-act.dharshi.116	529.39	533.91	ID	B	inf	-1	0	And the rubber would just be the , what's in contact with the human .
+ES2015c.A.dialog-act.dharshi.42	533.54	534.2	PM	A	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.43	534.2	541.42	PM	A	ass	+1	0	Another thing is it might be more difficult {disfmarker} if it's a rubber exterior {gap} talking about putting on interchangeable plates .
+ES2015c.B.dialog-act.dharshi.117	533.91	534.2	ID	B	ass	-1	0	{vocalsound} Yeah .
+ES2015c.A.dialog-act.dharshi.44	541.42	543.35	PM	A	fra	-1	0	Um , is it {disfmarker}
+ES2015c.B.dialog-act.dharshi.118	541.1	541.84	ID	B	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.7	541.19	541.64	ME	D	bck	-1	0	Mm-hmm .
+ES2015c.A.dialog-act.dharshi.45	543.35	547.65	PM	A	inf	-1	0	I don't see how a like a rubber plate going on top it would stay there .
+ES2015c.A.dialog-act.dharshi.46	547.65	550.99	PM	A	inf	-1	0	Like if it was sort of like a clip-on plastic plate .
+ES2015c.A.dialog-act.dharshi.47	550.99	552.45	PM	A	inf	-1	0	It would work that way .
+ES2015c.B.dialog-act.dharshi.119	553.06	559.81	ID	B	sug	+1	1	Maybe if the , um , if it was just kind of a , more of a rubber coating which was on to a case .
+ES2015c.C.dialog-act.dharshi.6	553.16	553.39	UI	C	fra	-1	0	W
+ES2015c.B.dialog-act.dharshi.120	559.81	563.58	ID	B	sug	+1	1	So , it was kind of , the whole thing would be removable .
+ES2015c.C.dialog-act.dharshi.7	564.29	567.54	UI	C	el.inf	-1	0	Like plastic with rubber , kind of on top
+ES2015c.B.dialog-act.dharshi.121	565.94	566.59	ID	B	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.48	567.06	567.81	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.122	566.59	567.87	ID	B	fra	-1	0	Like {disfmarker}
+ES2015c.B.dialog-act.dharshi.123	567.87	569.42	ID	B	inf	-1	0	I can't think of what .
+ES2015c.C.dialog-act.dharshi.8	569.11	572.72	UI	C	inf	-1	0	Well , there's , there is a certain phone that has like a rubber casing ,
+ES2015c.A.dialog-act.dharshi.49	572.7	573.61	PM	A	ass	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.124	572.41	573.19	ID	B	ass	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.125	573.19	574.05	ID	B	stl	-1	0	Or like an {disfmarker}
+ES2015c.C.dialog-act.dharshi.9	572.72	574.69	UI	C	inf	-1	0	b like a Nokia it is .
+ES2015c.D.dialog-act.dharshi.8	573.19	573.48	ME	D	bck	-1	0	Mm-hmm .
+ES2015c.B.dialog-act.dharshi.126	574.05	579.23	ID	B	inf	+1	1	you can get sort of outer casing for iPods and something , that's just {disfmarker} it's protective as well .
+ES2015c.C.dialog-act.dharshi.10	574.69	576.13	UI	C	fra	-1	0	It's {disfmarker}
+ES2015c.C.dialog-act.dharshi.11	576.13	576.9	UI	C	ass	-1	0	yeah .
+ES2015c.A.dialog-act.dharshi.50	577.78	578.48	PM	A	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.9	577.84	578.82	ME	D	und	-1	0	Like the skin ?
+ES2015c.B.dialog-act.dharshi.127	579.23	580.88	ID	B	stl	-1	0	It , it stops it , I mean ,
+ES2015c.D.dialog-act.dharshi.10	578.82	579.59	ME	D	ass	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.128	580.88	587.44	ID	B	inf	-1	0	it would reduce the impact if it was dropped or something , as well , 'cause it wouldn't damage itself so easily .
+ES2015c.A.dialog-act.dharshi.51	583.4	584.06	PM	A	bck	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.12	583.407	584.645	UI	C	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.52	587.04	587.64	PM	A	ass	-1	0	Alright .
+ES2015c.A.dialog-act.dharshi.53	587.64	588.574	PM	A	fra	-1	0	So maybe the {disfmarker}
+ES2015c.B.dialog-act.dharshi.129	587.44	590.04	ID	B	sug	-1	0	I think i maybe a mixture of both there , maybe .
+ES2015c.D.dialog-act.dharshi.11	588.06	588.34	ME	D	bck	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.54	589.48	590.0	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.130	590.04	590.63	ID	B	ass	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.12	590.06	593.39	ME	D	el.inf	+1	1	So the actual remote would be hard plastic and the casings rubber .
+ES2015c.B.dialog-act.dharshi.131	592.05	592.66	ID	B	fra	-1	0	And then {disfmarker}
+ES2015c.B.dialog-act.dharshi.132	592.66	593.57	ID	B	inf	-1	0	yeah . Yeah .
+ES2015c.C.dialog-act.dharshi.13	592.84	593.33	UI	C	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.13	593.39	593.87	ME	D	ass	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.55	594.09	594.83	PM	A	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.14	593.87	595.19	ME	D	el.inf	-1	0	And the buttons obviously are rubber .
+ES2015c.B.dialog-act.dharshi.133	595.87	596.5	ID	B	inf	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.14	596.26	597.17	UI	C	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.15	596.41	596.64	ME	D	ass	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.56	596.96	597.54	PM	A	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.16	597.257	598.085	ME	D	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.57	599.68	600.24	PM	A	ass	-1	0	That sounds good .
+ES2015c.A.dialog-act.dharshi.58	600.24	601.31	PM	A	stl	-1	0	I , um ,
+ES2015c.A.dialog-act.dharshi.59	601.31	605.49	PM	A	el.inf	+1	0	is it possible to put designs onto this type of rubber ?
+ES2015c.B.dialog-act.dharshi.134	606.64	609.23	ID	B	inf	+1	0	As far as I know . It should be .
+ES2015c.A.dialog-act.dharshi.60	608.71	609.92	PM	A	ass	-1	0	Okay ,
+ES2015c.D.dialog-act.dharshi.17	609.408	610.458	ME	D	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.61	609.92	611.42	PM	A	ass	-1	0	we'll just say yeah . {vocalsound}
+ES2015c.C.dialog-act.dharshi.15	610.362	614.288	UI	C	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.62	611.42	614.24	PM	A	ass	-1	0	Yes , just why not .
+ES2015c.B.dialog-act.dharshi.135	610.96	612.0	ID	B	ass	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.136	612.0	613.484	ID	B	ass	-1	0	Yeah , yeah . {vocalsound}
+ES2015c.A.dialog-act.dharshi.63	614.24	614.49	PM	A	stl	-1	0	{vocalsound} Alright .
+ES2015c.A.dialog-act.dharshi.64	614.49	616.99	PM	A	ass	-1	0	I like the kinetic energy source idea .
+ES2015c.B.dialog-act.dharshi.137	616.28	616.9	ID	B	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.65	616.99	622.59	PM	A	inf	-1	0	Um , I don't know when people will , um , be moving a remote around a lot .
+ES2015c.B.dialog-act.dharshi.138	616.9	618.404	ID	B	fra	-1	0	I thought that was {disfmarker}
+ES2015c.A.dialog-act.dharshi.66	622.59	625.89	PM	A	ass	-1	0	But I think that it's worth it , kinetety , kinetic um
+ES2015c.C.dialog-act.dharshi.16	622.3	622.91	UI	C	fra	-1	0	Yeah , tha
+ES2015c.D.dialog-act.dharshi.18	623.07	623.42	ME	D	bck	-1	0	Mm-hmm .
+ES2015c.A.dialog-act.dharshi.67	626.96	627.57	PM	A	ass	-1	0	energy source .
+ES2015c.A.dialog-act.dharshi.68	627.57	629.52	PM	A	inf	-1	0	It could make an we could have any kind of style .
+ES2015c.B.dialog-act.dharshi.139	627.69	628.13	ID	B	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.69	629.52	630.79	PM	A	inf	-1	0	It wouldn't be as heavy or bulky ,
+ES2015c.A.dialog-act.dharshi.70	630.79	631.072	PM	A	fra	-1	0	and {disfmarker}
+ES2015c.B.dialog-act.dharshi.140	631.09	631.97	ID	B	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.71	632.69	632.93	PM	A	stl	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.72	632.93	635.15	PM	A	inf	-1	0	Just for environmental reasons .
+ES2015c.B.dialog-act.dharshi.141	635.25	635.89	ID	B	bck	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.17	635.472	636.432	UI	C	fra	-1	0	{vocalsound}
+ES2015c.D.dialog-act.dharshi.19	636.64	638.62	ME	D	ass	-1	0	I guess it's a bit scary 'cause it hasn't been done before .
+ES2015c.B.dialog-act.dharshi.143	639.03	639.6	ID	B	ass	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.20	639.96	642.39	ME	D	sug	-1	0	So it seems {disfmarker} we'd have to do more research on it .
+ES2015c.B.dialog-act.dharshi.142	642.58	645.02	ID	B	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.21	642.39	644.8	ME	D	inf	+1	0	Or I dunno if you could have a battery pack .
+ES2015c.B.dialog-act.dharshi.144	645.02	647.73	ID	B	und	+1	0	Like as a backup for something .
+ES2015c.C.dialog-act.dharshi.18	645.45	646.54	UI	C	inf	-1	0	Backup .
+ES2015c.C.dialog-act.dharshi.19	646.54	647.78	UI	C	ass	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.22	646.5	646.8	ME	D	inf	-1	0	Yeah
+ES2015c.D.dialog-act.dharshi.23	646.8	650.93	ME	D	inf	-1	0	so there's there is a one battery , because most remotes use two batteries I believe .
+ES2015c.B.dialog-act.dharshi.145	650.22	650.91	ID	B	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.73	650.8	651.45	PM	A	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.24	650.93	652.896	ME	D	inf	-1	0	So , if it was running off of one battery as a {disfmarker}
+ES2015c.C.dialog-act.dharshi.20	652.5	653.68	UI	C	ass	-1	0	That would be good yeah .
+ES2015c.B.dialog-act.dharshi.146	653.35	654.66	ID	B	ass	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.147	654.66	658.68	ID	B	ass	-1	0	Some alternative just in case something went wrong .
+ES2015c.D.dialog-act.dharshi.25	656.5	657.7	ME	D	ass	-1	0	Right .
+ES2015c.C.dialog-act.dharshi.21	660.04	661.15	UI	C	stl	-1	0	Maybe we could {disfmarker}
+ES2015c.C.dialog-act.dharshi.23	661.15	665.29	UI	C	inf	+1	0	you were saying about um solar power ma maybe not working indoors ,
+ES2015c.C.dialog-act.dharshi.24	665.29	669.21	UI	C	inf	+1	0	but a lot of calculators , yeah , have solar power .
+ES2015c.B.dialog-act.dharshi.151	666.39	667.02	ID	B	ass	-1	0	That's true .
+ES2015c.B.dialog-act.dharshi.152	667.02	668.9	ID	B	inf	-1	0	I just thought of that {gap} .
+ES2015c.A.dialog-act.dharshi.74	668.203	669.31	PM	A	fra	-1	0	{vocalsound}
+ES2015c.B.dialog-act.dharshi.153	668.9	670.52	ID	B	ass	-1	0	{vocalsound} Yeah . Yeah .
+ES2015c.C.dialog-act.dharshi.25	669.21	671.892	UI	C	sug	-1	0	So maybe that could be incorporated as {disfmarker}
+ES2015c.B.dialog-act.dharshi.148	670.52	673.19	ID	B	sug	+1	0	May maybe that could be the backup .
+ES2015c.A.dialog-act.dharshi.75	673.21	673.87	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.149	673.19	674.54	ID	B	inf	-1	0	Instead of a battery .
+ES2015c.C.dialog-act.dharshi.22	672.73	673.5	UI	C	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.150	674.54	675.93	ID	B	inf	-1	0	Like solar backup .
+ES2015c.D.dialog-act.dharshi.27	674.47	676.06	ME	D	inf	-1	0	Although it needs some light ,
+ES2015c.D.dialog-act.dharshi.28	676.06	676.95	ME	D	el.inf	-1	0	doesn't it ?
+ES2015c.B.dialog-act.dharshi.154	677.37	678.19	ID	B	inf	-1	0	Yeah . I suppose
+ES2015c.A.dialog-act.dharshi.77	677.9	680.46	PM	A	inf	-1	0	Yeah , you can watch a T_V_ in the dark then .
+ES2015c.C.dialog-act.dharshi.26	677.66	680.09	UI	C	fra	-1	0	Do , do those calculators {disfmarker}
+ES2015c.B.dialog-act.dharshi.155	678.19	679.376	ID	B	fra	-1	0	s but some {disfmarker}
+ES2015c.D.dialog-act.dharshi.29	677.98	680.46	ME	D	fra	-1	0	So , if we're doing {disfmarker}
+ES2015c.C.dialog-act.dharshi.27	680.09	681.09	UI	C	ass	-1	0	yeah .
+ES2015c.D.dialog-act.dharshi.30	680.46	680.99	ME	D	ass	-1	0	yeah .
+ES2015c.D.dialog-act.dharshi.31	680.99	681.552	ME	D	fra	-1	0	If we're {disfmarker}
+ES2015c.B.dialog-act.dharshi.156	682.03	684.4	ID	B	inf	-1	0	But thing is , it's not {disfmarker} you don't need the solar all the time .
+ES2015c.C.dialog-act.dharshi.28	682.16	683.56	UI	C	inf	-1	0	I don't know how it works .
+ES2015c.B.dialog-act.dharshi.157	684.4	685.28	ID	B	inf	-1	0	It can be stored .
+ES2015c.B.dialog-act.dharshi.158	685.28	686.26	ID	B	stl	-1	0	It can be like {disfmarker}
+ES2015c.B.dialog-act.dharshi.159	686.26	689.41	ID	B	inf	-1	0	you can have the solar energy and then it can store that energy and use it .
+ES2015c.C.dialog-act.dharshi.29	685.83	686.39	UI	C	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.32	686.45	686.97	ME	D	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.160	689.41	693.08	ID	B	inf	-1	0	It just needs to be in light for a certain amount of time per day .
+ES2015c.C.dialog-act.dharshi.30	691.52	692.37	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.78	693.31	693.85	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.161	693.08	695.37	ID	B	inf	-1	0	Like a few hours a day . {gap} .
+ES2015c.A.dialog-act.dharshi.76	694.95	697.44	PM	A	ass	+1	0	I think that might be a little impractical though .
+ES2015c.D.dialog-act.dharshi.33	696.9	697.29	ME	D	ass	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.34	697.29	699.85	ME	D	inf	-1	0	I think sometimes it's just shoved under , under a cushion ,
+ES2015c.A.dialog-act.dharshi.79	700.25	700.66	PM	A	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.35	699.85	701.58	ME	D	stl	-1	0	and {disfmarker} yeah .
+ES2015c.B.dialog-act.dharshi.162	700.48	701.16	ID	B	ass	-1	0	That's true .
+ES2015c.B.dialog-act.dharshi.163	701.16	702.144	ID	B	fra	-1	0	It could easily {disfmarker}
+ES2015c.C.dialog-act.dharshi.31	701.19	701.77	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.80	702.32	703.99	PM	A	inf	-1	0	Like people don't wanna have to worry about that .
+ES2015c.B.dialog-act.dharshi.164	703.54	704.86	ID	B	ass	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.36	703.99	704.21	ME	D	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.81	704.86	705.27	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.165	704.86	711.27	ID	B	ass	-1	0	I suppose it would be really annoying if you get to think , oh no , I forgot to charge my remote today .
+ES2015c.C.dialog-act.dharshi.32	707.344	708.736	UI	C	fra	-1	0	{vocalsound}
+ES2015c.C.dialog-act.dharshi.33	710.56	711.216	UI	C	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.82	711.34	712.07	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.166	711.27	715.08	ID	B	ass	+1	1	Like if the kinetic thing , I think what's best about that is that it's instant energy .
+ES2015c.C.dialog-act.dharshi.34	712.524	713.54	UI	C	bck	-1	0	{vocalsound} Yeah .
+ES2015c.A.dialog-act.dharshi.83	713.48	714.03	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.167	715.08	716.32	ID	B	stl	-1	0	You don't have to ,
+ES2015c.B.dialog-act.dharshi.168	716.32	718.32	ID	B	inf	-1	0	you know , you can shake it a few times , or whatever .
+ES2015c.A.dialog-act.dharshi.84	718.05	719.06	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.169	718.32	720.49	ID	B	inf	-1	0	And it works .
+ES2015c.A.dialog-act.dharshi.85	719.06	722.15	PM	A	inf	-1	0	Or just like pick it up when you're gonna use it .
+ES2015c.B.dialog-act.dharshi.170	720.49	721.53	ID	B	ass	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.171	721.53	725.81	ID	B	inf	-1	0	Instead of you don't have to like make sure it's in the right place to charge and {gap} .
+ES2015c.C.dialog-act.dharshi.36	721.06	722.55	UI	C	ass	-1	0	Yeah , I suppose .
+ES2015c.A.dialog-act.dharshi.86	724.6	724.92	PM	A	bck	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.35	725.14	725.68	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.87	726.37	727.02	PM	A	ass	-1	0	Alright . Cool .
+ES2015c.B.dialog-act.dharshi.172	726.99	728.4	ID	B	stl	-1	0	K okay .
+ES2015c.A.dialog-act.dharshi.88	728.64	730.25	PM	A	el.inf	-1	0	'S that the end of your presentation .
+ES2015c.B.dialog-act.dharshi.173	729.3	730.02	ID	B	inf	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.89	730.25	731.01	PM	A	ass	-1	0	Alright .
+ES2015c.C.dialog-act.dharshi.37	729.93	730.31	UI	C	inf	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.90	731.01	731.47	PM	A	be.pos	-1	0	Thank you .
+ES2015c.B.dialog-act.dharshi.174	736.88	737.38	ID	B	oth	-1	0	There we go .
+ES2015c.C.dialog-act.dharshi.38	737.6	738.64	UI	C	be.pos	-1	0	Thanks .
+ES2015c.C.dialog-act.dharshi.39	749.63	749.91	UI	C	oth	-1	0	Oh .
+ES2015c.C.dialog-act.dharshi.40	757.152	757.584	UI	C	fra	-1	0	{vocalsound}
+ES2015c.C.dialog-act.dharshi.41	764.48	765.59	UI	C	inf	-1	0	It's not on my screen .
+ES2015c.B.dialog-act.dharshi.175	765.552	767.93	ID	B	inf	-1	0	{gap} it wasn't on mine either .
+ES2015c.C.dialog-act.dharshi.42	765.59	767.336	UI	C	el.inf	-1	0	Why ? {vocalsound}
+ES2015c.B.dialog-act.dharshi.176	767.93	768.68	ID	B	inf	-1	0	I don't know why .
+ES2015c.B.dialog-act.dharshi.177	768.68	771.06	ID	B	inf	-1	0	I think , I just , I just used the mouse on there .
+ES2015c.C.dialog-act.dharshi.43	768.97	771.01	UI	C	und	-1	0	You don't know why ?
+ES2015c.C.dialog-act.dharshi.44	771.01	771.81	UI	C	ass	-1	0	Oh okay .
+ES2015c.C.dialog-act.dharshi.45	773.58	774.38	UI	C	el.inf	-1	0	Is it that one ?
+ES2015c.A.dialog-act.dharshi.91	774.52	774.8	PM	A	inf	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.92	774.8	776.251	PM	A	fra	-1	0	That's um {disfmarker}
+ES2015c.B.dialog-act.dharshi.178	774.83	775.53	ID	B	inf	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.46	776.55	781.9	UI	C	off	+1	1	Um , I'm just gonna go through the interface concept with yous now .
+ES2015c.C.dialog-act.dharshi.47	781.9	785.69	UI	C	off	+1	1	Uh , first of all I'll explain what a user interface is .
+ES2015c.C.dialog-act.dharshi.48	785.69	797.76	UI	C	inf	-1	0	It's the aspects of a computer system which can be seen or otherwise perceived , for example , heard or felt maybe , or {vocalsound} by the human user .
+ES2015c.C.dialog-act.dharshi.49	799.22	805.86	UI	C	inf	-1	0	And it's also the commands that the user uses to control its operation and to input data .
+ES2015c.C.dialog-act.dharshi.50	810.61	813.45	UI	C	inf	+1	1	Um , there are two types of user interfaces .
+ES2015c.C.dialog-act.dharshi.51	813.45	819.37	UI	C	inf	+1	1	There's the graphical user interface , which emphasises the use of pictures for output
+ES2015c.C.dialog-act.dharshi.52	819.37	823.75	UI	C	inf	+1	1	and a pointing device , for example a mouse for input control .
+ES2015c.C.dialog-act.dharshi.53	823.75	826.47	UI	C	inf	-1	0	So that's sort of like the scroll thing we were talking about .
+ES2015c.A.dialog-act.dharshi.93	826.78	828.02	PM	A	und	-1	0	Oh . Okay . Yeah .
+ES2015c.C.dialog-act.dharshi.54	827.62	828.68	UI	C	ass	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.55	830.31	832.34	UI	C	inf	+1	1	I'm not really sure about the pictures that {disfmarker}
+ES2015c.C.dialog-act.dharshi.56	832.34	835.03	UI	C	inf	+1	1	maybe that's on an L_C_D_ screen .
+ES2015c.B.dialog-act.dharshi.179	834.69	835.34	ID	B	bck	-1	0	Mm .
+ES2015c.C.dialog-act.dharshi.57	835.03	835.98	UI	C	inf	-1	0	Or maybe it's
+ES2015c.C.dialog-act.dharshi.58	837.19	842.393	UI	C	inf	-1	0	the the buttons or pictures or something . {vocalsound}
+ES2015c.A.dialog-act.dharshi.94	841.8	842.27	PM	A	bck	-1	0	Hmm .
+ES2015c.B.dialog-act.dharshi.180	844.81	846.17	ID	B	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.95	845.7	846.61	PM	A	ass	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.60	845.84	847.239	UI	C	fra	-1	0	Do you think it's {disfmarker}
+ES2015c.A.dialog-act.dharshi.96	846.61	848.47	PM	A	fra	-1	0	Yeah , 'cause {disfmarker}
+ES2015c.B.dialog-act.dharshi.181	846.17	848.08	ID	B	fra	-1	0	So I suppose sometime {disfmarker}
+ES2015c.A.dialog-act.dharshi.97	848.47	849.29	PM	A	be.pos	-1	0	I'm sorry ?
+ES2015c.B.dialog-act.dharshi.182	848.08	850.076	ID	B	sug	-1	0	after you . {vocalsound}
+ES2015c.C.dialog-act.dharshi.59	848.675	850.345	UI	C	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.98	849.29	854.57	PM	A	inf	+1	0	Um , because command interface requires you to type textual commands and input at a keyboard ,
+ES2015c.A.dialog-act.dharshi.100	854.57	856.67	PM	A	inf	+1	0	so the numbers are sort of like a keyboard .
+ES2015c.A.dialog-act.dharshi.99	856.67	860.91	PM	A	inf	-1	0	You're pressing the numbers for , um , for what you want .
+ES2015c.C.dialog-act.dharshi.61	856.53	857.43	UI	C	bck	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.62	857.43	858.05	UI	C	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.183	857.95	858.66	ID	B	bck	-1	0	Mm .
+ES2015c.C.dialog-act.dharshi.63	859.68	866.28	UI	C	inf	+1	1	So you must , for the graphical user you must need some kind of presentation for the graphics .
+ES2015c.B.dialog-act.dharshi.184	860.246	860.86	ID	B	fra	-1	0	{vocalsound}
+ES2015c.B.dialog-act.dharshi.185	866.57	874.61	ID	B	inf	-1	0	I s I suppose where um mm on some buttons you would have {disfmarker} like the power would be s some kind of symbol .
+ES2015c.C.dialog-act.dharshi.64	866.28	868.02	UI	C	inf	+1	0	Like an L_C_D_ screen .
+ES2015c.B.dialog-act.dharshi.186	874.61	876.83	ID	B	inf	-1	0	And if you wanted to go onto teletext or ,
+ES2015c.C.dialog-act.dharshi.65	874.45	875.19	UI	C	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.187	876.83	879.38	ID	B	inf	-1	0	I know we're not having that , but I mean a similar thing ,
+ES2015c.C.dialog-act.dharshi.66	877.96	878.4	UI	C	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.188	879.38	883.08	ID	B	inf	-1	0	you , they have {disfmarker} there's a like little picture with a screen with lines across it ,
+ES2015c.B.dialog-act.dharshi.189	883.08	887.06	ID	B	inf	-1	0	which {disfmarker} I suppose it's that sort of thing like the , the symbol on the button .
+ES2015c.C.dialog-act.dharshi.67	883.57	884.19	UI	C	bck	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.68	885.46	885.93	UI	C	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.190	887.06	894.08	ID	B	inf	+1	1	But if we're having a simplified display anyway , w that , we probably won't have to focus so much on that .
+ES2015c.A.dialog-act.dharshi.102	892.1	892.3	PM	A	ass	-1	0	Yeah ,
+ES2015c.A.dialog-act.dharshi.103	892.3	893.402	PM	A	fra	-1	0	we'll be doing {disfmarker}
+ES2015c.B.dialog-act.dharshi.191	894.08	896.27	ID	B	inf	+1	1	It'll be more the on the numbers and the volume .
+ES2015c.C.dialog-act.dharshi.69	895.13	895.84	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.104	895.65	896.29	PM	A	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.105	896.29	897.86	PM	A	ass	+1	1	It'd be more a command interface ,
+ES2015c.A.dialog-act.dharshi.106	897.86	898.772	PM	A	fra	-1	0	and then {disfmarker}
+ES2015c.B.dialog-act.dharshi.192	897.92	902.37	ID	B	sug	-1	0	I suppose we need to think of symbols for like the volume , display , and stuff like that .
+ES2015c.C.dialog-act.dharshi.70	897.54	898.56	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.108	901.24	901.92	PM	A	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.37	902.04	904.85	ME	D	el.inf	-1	0	So it's just draf graphical for the pointing aspect ?
+ES2015c.B.dialog-act.dharshi.193	906.19	907.12	ID	B	fra	-1	0	I {disfmarker}
+ES2015c.D.dialog-act.dharshi.38	905.98	908.095	ME	D	el.inf	-1	0	The infrared is like , that's considered a {disfmarker}
+ES2015c.A.dialog-act.dharshi.107	907.99	908.34	PM	A	und	-1	0	Hmm ?
+ES2015c.C.dialog-act.dharshi.71	908.69	915.15	UI	C	inf	+1	1	No I think it's to do with the actual symbols that are on the , that's on the buttons of the remote control ,
+ES2015c.C.dialog-act.dharshi.72	915.15	916.54	UI	C	fra	-1	0	and per
+ES2015c.D.dialog-act.dharshi.39	915.64	915.93	ME	D	ass	-1	0	Okay .
+ES2015c.D.dialog-act.dharshi.40	915.93	918.532	ME	D	el.inf	-1	0	So when it says pointing device that doesn't include {disfmarker}
+ES2015c.B.dialog-act.dharshi.194	916.46	917.09	ID	B	fra	-1	0	For inp
+ES2015c.C.dialog-act.dharshi.73	917.88	921.63	UI	C	inf	-1	0	Well it could be a wee scroller thing , and something could come up on the screen .
+ES2015c.A.dialog-act.dharshi.109	921.02	921.45	PM	A	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.110	921.45	923.56	PM	A	inf	-1	0	I think they're talking about L_C_D_ type things .
+ES2015c.B.dialog-act.dharshi.195	923.21	923.95	ID	B	bck	-1	0	Mm .
+ES2015c.D.dialog-act.dharshi.41	923.21	923.55	ME	D	bck	-1	0	Okay .
+ES2015c.C.dialog-act.dharshi.74	923.88	924.44	UI	C	ass	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.42	924.83	925.19	ME	D	ass	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.111	925.33	925.87	PM	A	ass	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.75	926.78	927.51	UI	C	stl	-1	0	But um
+ES2015c.C.dialog-act.dharshi.76	929.71	932.54	UI	C	sug	+1	2	I think we're gonna go with the command interface anyway ,
+ES2015c.A.dialog-act.dharshi.112	932.87	933.72	PM	A	bck	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.77	932.54	934.08	UI	C	inf	+1	2	to make it more simplistic .
+ES2015c.C.dialog-act.dharshi.78	934.08	940.99	UI	C	sug	-1	0	But the , we could incorporate some of the graphical user um points ,
+ES2015c.D.dialog-act.dharshi.43	933.76	933.96	ME	D	bck	-1	0	Mm-hmm .
+ES2015c.C.dialog-act.dharshi.79	940.99	941.9	UI	C	stl	-1	0	as in {disfmarker}
+ES2015c.C.dialog-act.dharshi.80	941.9	945.225	UI	C	inf	-1	0	just to make it m um nicer to look at maybe . {vocalsound}
+ES2015c.A.dialog-act.dharshi.113	944.84	945.32	PM	A	el.inf	-1	0	What do you mean ?
+ES2015c.C.dialog-act.dharshi.81	946.2	948.16	UI	C	stl	-1	0	Like {vocalsound}
+ES2015c.C.dialog-act.dharshi.82	948.16	949.48	UI	C	inf	-1	0	I can't think of an example ,
+ES2015c.C.dialog-act.dharshi.88	949.48	950.169	UI	C	stl	-1	0	but {disfmarker}
+ES2015c.C.dialog-act.dharshi.83	950.72	953.269	UI	C	inf	-1	0	Sort of like little pictures rather than {disfmarker}
+ES2015c.A.dialog-act.dharshi.115	953.68	954.05	PM	A	und	-1	0	Oh yeah ,
+ES2015c.A.dialog-act.dharshi.116	954.05	955.532	PM	A	fra	-1	0	like how the buttons {disfmarker}
+ES2015c.C.dialog-act.dharshi.84	954.16	955.71	UI	C	inf	-1	0	Like a little sound .
+ES2015c.C.dialog-act.dharshi.85	955.71	958.68	UI	C	inf	-1	0	Instead of saying volume , like a little speaker or something .
+ES2015c.A.dialog-act.dharshi.114	958.61	960.2	PM	A	ass	-1	0	Yeah , as a button though .
+ES2015c.C.dialog-act.dharshi.86	958.68	959.12	UI	C	ass	-1	0	Yeah ,
+ES2015c.C.dialog-act.dharshi.87	959.12	960.36	UI	C	fra	-1	0	something y
+ES2015c.D.dialog-act.dharshi.44	958.87	959.29	ME	D	bck	-1	0	Mm .
+ES2015c.A.dialog-act.dharshi.117	960.2	962.21	PM	A	inf	-1	0	So , it's a keyboard in the shape of it ,
+ES2015c.A.dialog-act.dharshi.118	962.21	963.56	PM	A	el.inf	-1	0	right ?
+ES2015c.C.dialog-act.dharshi.89	962.12	965.12	UI	C	ass	-1	0	Yeah m perha yeah . Yeah . Maybe .
+ES2015c.A.dialog-act.dharshi.119	963.56	964.71	PM	A	ass	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.120	964.71	966.7	PM	A	ass	-1	0	Yeah . I like that idea .
+ES2015c.C.dialog-act.dharshi.90	966.62	969.22	UI	C	stl	-1	0	Um , the co uh {disfmarker}
+ES2015c.C.dialog-act.dharshi.91	969.22	973.6	UI	C	inf	-1	0	we've decided that the command interface would be the most useful for a remote control .
+ES2015c.C.dialog-act.dharshi.92	973.6	979.13	UI	C	inf	-1	0	As it would be less complicated , and the controls would be more user-friendly .
+ES2015c.C.dialog-act.dharshi.93	980.33	989.73	UI	C	inf	-1	0	Um , the remote control would be cheaper to design , so that we'd have more money in the budget to , um , target the design area of the interface .
+ES2015c.C.dialog-act.dharshi.94	989.73	991.33	UI	C	inf	-1	0	You know , make it more trendy and original .
+ES2015c.C.dialog-act.dharshi.95	991.33	993.34	UI	C	inf	-1	0	We'll have more money if we keep it simple .
+ES2015c.A.dialog-act.dharshi.121	993.48	993.84	PM	A	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.122	993.84	997.11	PM	A	inf	-1	0	I'm sure i like kinetic energy would probably dip into the budget .
+ES2015c.A.dialog-act.dharshi.123	998.07	999.53	PM	A	inf	-1	0	A bit more too , yeah .
+ES2015c.B.dialog-act.dharshi.196	997.82	999.557	ID	B	ass	-1	0	Yeah . {vocalsound}
+ES2015c.C.dialog-act.dharshi.96	997.6	998.37	UI	C	ass	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.97	999.14	1003.664	UI	C	inf	-1	0	Seeing as it's quite a new technology . Um {disfmarker}
+ES2015c.C.dialog-act.dharshi.98	1004.439	1004.857	UI	C	fra	-1	0	{vocalsound}
+ES2015c.C.dialog-act.dharshi.99	1005.81	1017.35	UI	C	inf	+1	1	We , we also have to keep in mind when we're designing our , um , more user-friendly remote control , that a lot of interfaces consist of a clutter of buttons ,
+ES2015c.C.dialog-act.dharshi.101	1017.35	1019.81	UI	C	stl	-1	0	that , um ,
+ES2015c.C.dialog-act.dharshi.102	1019.81	1023.44	UI	C	inf	+1	1	that their functions , colours and forms aren't always helpful .
+ES2015c.B.dialog-act.dharshi.197	1024.09	1025.35	ID	B	ass	-1	0	Yeah . That's true .
+ES2015c.B.dialog-act.dharshi.198	1025.35	1030.25	ID	B	inf	-1	0	That's in like the buttons with all the different like colours for different choices and things .
+ES2015c.C.dialog-act.dharshi.103	1025.11	1026.16	UI	C	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.199	1030.25	1034.624	ID	B	ass	+1	1	It can be a bit , yeah , overwhelming . {vocalsound}
+ES2015c.C.dialog-act.dharshi.104	1029.88	1030.68	UI	C	bck	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.105	1033.49	1037.35	UI	C	inf	-1	0	And that all interfaces are different .
+ES2015c.C.dialog-act.dharshi.107	1037.35	1039.35	UI	C	stl	-1	0	So , um ,
+ES2015c.C.dialog-act.dharshi.108	1039.35	1041.5	UI	C	inf	-1	0	that doesn't improve the use of the produ product ,
+ES2015c.C.dialog-act.dharshi.109	1041.5	1045.79	UI	C	sug	-1	0	so we need to come up with something that's easy to understand .
+ES2015c.C.dialog-act.dharshi.110	1047.87	1053.71	UI	C	sug	-1	0	And maybe learn from the mistakes of other interfaces that can be too complicated for people to use .
+ES2015c.A.dialog-act.dharshi.124	1055.54	1055.94	PM	A	bck	-1	0	Mm-hmm .
+ES2015c.B.dialog-act.dharshi.200	1057.91	1058.76	ID	B	bck	-1	0	Yep .
+ES2015c.C.dialog-act.dharshi.111	1058.5	1060.25	UI	C	el.und	-1	0	Does anyone have any questions ?
+ES2015c.A.dialog-act.dharshi.125	1062.51	1068.41	PM	A	el.ass	-1	0	Do you think that we should keep all the buttons to one same colour , just to keep it , give it a simplistic look .
+ES2015c.C.dialog-act.dharshi.112	1069.18	1069.72	UI	C	ass	-1	0	Mm .
+ES2015c.D.dialog-act.dharshi.45	1070.55	1074.79	ME	D	ass	-1	0	I think if we go with the um design plate thing , we'll have to .
+ES2015c.D.dialog-act.dharshi.46	1074.79	1076.56	ME	D	inf	-1	0	Just because of colour clashing ,
+ES2015c.A.dialog-act.dharshi.126	1076.77	1077.6	PM	A	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.47	1076.56	1078.24	ME	D	inf	-1	0	and if we wanted to ,
+ES2015c.A.dialog-act.dharshi.127	1077.6	1078.58	PM	A	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.48	1078.24	1078.72	ME	D	stl	-1	0	so and ,
+ES2015c.D.dialog-act.dharshi.49	1078.72	1083.35	ME	D	sug	-1	0	and we might , I mean , depending on what comes out of the design , we might have to stick to just black buttons .
+ES2015c.C.dialog-act.dharshi.113	1084.14	1085.765	UI	C	fra	-1	0	But um {disfmarker}
+ES2015c.A.dialog-act.dharshi.128	1085.15	1086.73	PM	A	el.inf	+1	1	But what about the lighting up effect ?
+ES2015c.D.dialog-act.dharshi.50	1087.79	1089.759	ME	D	und	-1	0	You mean different colours for the lighting or {disfmarker}
+ES2015c.A.dialog-act.dharshi.129	1089.91	1097.44	PM	A	inf	+1	1	Um , well , um , I thought we had um decided that we would {disfmarker} if you touched one of the buttons they'd all light up .
+ES2015c.A.dialog-act.dharshi.130	1097.44	1101.22	PM	A	inf	-1	0	And so if they were black , it wouldn't be possible for them to light up .
+ES2015c.D.dialog-act.dharshi.51	1097.58	1098.02	ME	D	bck	-1	0	Mm-hmm .
+ES2015c.D.dialog-act.dharshi.52	1102.52	1103.48	ME	D	und	-1	0	Oh I see what you're saying .
+ES2015c.A.dialog-act.dharshi.131	1104.75	1106.63	PM	A	inf	-1	0	If they were white they would glow , probably .
+ES2015c.D.dialog-act.dharshi.53	1104.51	1104.89	ME	D	fra	-1	0	Well y
+ES2015c.A.dialog-act.dharshi.132	1106.63	1107.75	PM	A	inf	-1	0	If they were made out of rubber .
+ES2015c.D.dialog-act.dharshi.54	1107.42	1109.45	ME	D	und	-1	0	Oh so you're picturing the light is coming from the back .
+ES2015c.D.dialog-act.dharshi.55	1109.45	1114.36	ME	D	fra	+1	1	I kinda pictured it as kind of coming from the sides and lighting it up frontwards .
+ES2015c.B.dialog-act.dharshi.201	1114.84	1115.27	ID	B	oth	-1	0	Oh .
+ES2015c.A.dialog-act.dharshi.133	1115.41	1115.72	PM	A	oth	-1	0	Oh .
+ES2015c.D.dialog-act.dharshi.56	1115.01	1117.08	ME	D	und	-1	0	But , but I guess , you mean from the back .
+ES2015c.A.dialog-act.dharshi.134	1115.72	1117.38	PM	A	el.inf	-1	0	Where would the light come from ?
+ES2015c.D.dialog-act.dharshi.57	1117.08	1117.44	ME	D	ass	-1	0	Okay .
+ES2015c.B.dialog-act.dharshi.202	1119.01	1124.04	ID	B	inf	+1	1	I'd assume , like , an internal light , that comes through .
+ES2015c.D.dialog-act.dharshi.58	1121.66	1122.02	ME	D	bck	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.135	1122.16	1122.81	PM	A	bck	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.114	1122.31	1122.85	UI	C	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.203	1124.04	1129.38	ID	B	inf	+1	1	So there would have to , have to be some parts maybe transparent around the buttons , or something .
+ES2015c.A.dialog-act.dharshi.136	1128.08	1129.39	PM	A	bck	-1	0	Yeah ,
+ES2015c.D.dialog-act.dharshi.59	1127.79	1128.55	ME	D	bck	-1	0	Right .
+ES2015c.A.dialog-act.dharshi.137	1129.39	1132.03	PM	A	inf	+1	1	and well rubber is a more translucent product too ,
+ES2015c.B.dialog-act.dharshi.204	1130.79	1131.66	ID	B	bck	-1	0	Yeah , yeah .
+ES2015c.A.dialog-act.dharshi.138	1132.03	1134.35	PM	A	inf	+1	1	so we have that taken care of .
+ES2015c.B.dialog-act.dharshi.205	1132.75	1134.11	ID	B	fra	-1	0	It should be able to {disfmarker}
+ES2015c.D.dialog-act.dharshi.60	1132.38	1132.74	ME	D	bck	-1	0	Mm-hmm .
+ES2015c.B.dialog-act.dharshi.206	1134.11	1134.5	ID	B	bck	-1	0	mm-hmm .
+ES2015c.C.dialog-act.dharshi.115	1135.08	1148.78	UI	C	inf	-1	0	In the phone that I was thinking of as well , when you change the um covers of it , the , the little buttons that actually , you know , that contro control stuff , are behind the rubber .
+ES2015c.B.dialog-act.dharshi.207	1145.19	1146.98	ID	B	bck	-1	0	Li yeah .
+ES2015c.C.dialog-act.dharshi.116	1148.78	1152.21	UI	C	inf	-1	0	So you can change the buttons when you're changing the faces .
+ES2015c.C.dialog-act.dharshi.117	1152.21	1153.23	UI	C	el.und	-1	0	Do you know what I mean ?
+ES2015c.D.dialog-act.dharshi.61	1152.128	1152.99	ME	D	oth	-1	0	{vocalsound} Oh .
+ES2015c.A.dialog-act.dharshi.139	1153.23	1154.46	PM	A	oth	-1	0	Oh .
+ES2015c.C.dialog-act.dharshi.118	1153.23	1154.82	UI	C	inf	-1	0	'Cause it's just the wee control ,
+ES2015c.D.dialog-act.dharshi.62	1152.99	1153.24	ME	D	ass	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.63	1153.24	1154.82	ME	D	und	-1	0	They , they insert over .
+ES2015c.C.dialog-act.dharshi.119	1154.82	1156.35	UI	C	ass	-1	0	yeah ,
+ES2015c.C.dialog-act.dharshi.120	1156.35	1157.51	UI	C	inf	-1	0	thing that's behind it .
+ES2015c.D.dialog-act.dharshi.64	1156.02	1156.58	ME	D	ass	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.140	1158.9	1159.86	PM	A	bck	-1	0	Mm .
+ES2015c.C.dialog-act.dharshi.121	1158.62	1159.673	UI	C	stl	-1	0	So {disfmarker}
+ES2015c.C.dialog-act.dharshi.122	1160.13	1162.73	UI	C	inf	-1	0	I mean , we don't have to decide on one colour .
+ES2015c.C.dialog-act.dharshi.123	1162.73	1166.25	UI	C	sug	+1	1	Each face could have its own colour of buttons maybe ?
+ES2015c.B.dialog-act.dharshi.208	1166.35	1167.6	ID	B	bck	-1	0	Mm-hmm .
+ES2015c.A.dialog-act.dharshi.141	1168.57	1171.5	PM	A	inf	-1	0	Well , if they're raised up buttons .
+ES2015c.A.dialog-act.dharshi.142	1171.5	1173.29	PM	A	inf	-1	0	So that you can feel them .
+ES2015c.C.dialog-act.dharshi.124	1171.03	1171.55	UI	C	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.143	1173.29	1174.86	PM	A	inf	-1	0	We were talking about it being more
+ES2015c.A.dialog-act.dharshi.144	1177.13	1179.89	PM	A	inf	-1	0	um , a lot more tangible .
+ES2015c.D.dialog-act.dharshi.65	1178.0	1178.32	ME	D	fra	-1	0	T
+ES2015c.A.dialog-act.dharshi.145	1179.89	1182.79	PM	A	inf	-1	0	Um , it might be more difficult to do .
+ES2015c.A.dialog-act.dharshi.146	1182.79	1184.61	PM	A	inf	-1	0	If they're , if they're sticking up .
+ES2015c.C.dialog-act.dharshi.125	1182.4	1183.07	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.147	1184.61	1190.5	PM	A	inf	-1	0	If it's flat then , like o like on a cellphone or a mobile phone , it's like all very flat ,
+ES2015c.A.dialog-act.dharshi.148	1190.5	1193.424	PM	A	inf	-1	0	and you just have to sort of press down on these tiny little buttons , but {disfmarker}
+ES2015c.C.dialog-act.dharshi.126	1193.9	1194.48	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.149	1194.62	1195.62	PM	A	stl	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.209	1197.8	1198.89	ID	B	ass	-1	0	I think it would be possible .
+ES2015c.B.dialog-act.dharshi.210	1198.89	1201.27	ID	B	ass	-1	0	I don't think it would make that much difference .
+ES2015c.B.dialog-act.dharshi.211	1201.27	1204.78	ID	B	inf	-1	0	I mean , the uh the dimensions of it .
+ES2015c.B.dialog-act.dharshi.212	1204.78	1214.24	ID	B	inf	+1	1	'Cause if it's just like constructed in the same way as like the front cover of a mobile phone . You can like take off the hard cover and then there's the like say the buttons .
+ES2015c.B.dialog-act.dharshi.213	1214.24	1215.56	ID	B	inf	-1	0	And then you get to the circuit .
+ES2015c.B.dialog-act.dharshi.214	1215.56	1222.26	ID	B	inf	+1	1	I don't think it would matter that the buttons were bigger through the , the top casing .
+ES2015c.B.dialog-act.dharshi.215	1222.26	1228.2	ID	B	inf	-1	0	I'm sure you could f work it out to fit in the casing , without causing too much difficulty .
+ES2015c.A.dialog-act.dharshi.150	1225.75	1226.46	PM	A	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.151	1228.32	1229.11	PM	A	bck	-1	0	Okay .
+ES2015c.B.dialog-act.dharshi.216	1228.2	1231.696	ID	B	ass	-1	0	I'm sure that'd be fine . {vocalsound}
+ES2015c.C.dialog-act.dharshi.127	1228.34	1228.76	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.152	1229.11	1230.01	PM	A	ass	-1	0	Alright .
+ES2015c.A.dialog-act.dharshi.153	1231.52	1233.13	PM	A	ass	-1	0	If it's do-able we can do .
+ES2015c.C.dialog-act.dharshi.128	1232.173	1233.911	UI	C	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.154	1233.13	1234.8	PM	A	ass	-1	0	Yeah , sounds good to me .
+ES2015c.B.dialog-act.dharshi.217	1232.992	1233.456	ID	B	fra	-1	0	{vocalsound}
+ES2015c.C.dialog-act.dharshi.129	1234.89	1236.23	UI	C	inf	-1	0	So that's everything , then ?
+ES2015c.B.dialog-act.dharshi.218	1237.15	1237.82	ID	B	ass	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.155	1238.21	1238.44	PM	A	stl	-1	0	Alright ,
+ES2015c.A.dialog-act.dharshi.156	1238.44	1238.81	PM	A	be.pos	-1	0	thank you .
+ES2015c.D.dialog-act.dharshi.66	1242.98	1244.13	ME	D	el.inf	-1	0	Okay is that my turn then ?
+ES2015c.A.dialog-act.dharshi.157	1243.99	1247.12	PM	A	inf	-1	0	That means you're up . Yeah .
+ES2015c.C.dialog-act.dharshi.130	1244.29	1244.59	UI	C	inf	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.67	1245.85	1246.96	ME	D	ass	-1	0	Alright .
+ES2015c.D.dialog-act.dharshi.68	1249.312	1253.21	ME	D	inf	-1	0	{vocalsound} I have a shorter report for you today .
+ES2015c.D.dialog-act.dharshi.69	1253.21	1255.856	ME	D	inf	-1	0	Um , it took a while to get this , uh {disfmarker}
+ES2015c.D.dialog-act.dharshi.70	1257.06	1257.7	ME	D	stl	-1	0	Uh .
+ES2015c.B.dialog-act.dharshi.219	1263.1	1264.36	ID	B	inf	-1	0	You're not plugged in yet .
+ES2015c.D.dialog-act.dharshi.71	1264.26	1265.72	ME	D	oth	-1	0	{vocalsound} Oh .
+ES2015c.C.dialog-act.dharshi.131	1265.185	1266.073	UI	C	fra	-1	0	{vocalsound}
+ES2015c.D.dialog-act.dharshi.72	1265.72	1266.67	ME	D	ass	-1	0	That's a very good point .
+ES2015c.A.dialog-act.dharshi.158	1266.746	1268.224	PM	A	fra	-1	0	{vocalsound}
+ES2015c.C.dialog-act.dharshi.132	1266.61	1267.608	UI	C	fra	-1	0	{vocalsound}
+ES2015c.D.dialog-act.dharshi.73	1286.89	1287.8	ME	D	stl	-1	0	Okay , so um ,
+ES2015c.D.dialog-act.dharshi.74	1287.8	1290.61	ME	D	inf	+1	1	this report is about uh trend-watching .
+ES2015c.D.dialog-act.dharshi.75	1290.61	1296.81	ME	D	inf	-1	0	Um , basically so we can live up to our , our uh purpose of having a very fashionable remote control .
+ES2015c.D.dialog-act.dharshi.76	1296.81	1297.22	ME	D	be.pos	-1	0	Sorry .
+ES2015c.D.dialog-act.dharshi.77	1297.22	1298.34	ME	D	oth	-1	0	There we go .
+ES2015c.D.dialog-act.dharshi.78	1298.9	1300.23	ME	D	stl	-1	0	Um {disfmarker} {vocalsound} So ,
+ES2015c.D.dialog-act.dharshi.79	1300.23	1303.52	ME	D	inf	-1	0	just so you know , my method was mainly web web-based research this time around .
+ES2015c.D.dialog-act.dharshi.80	1303.52	1306.9	ME	D	inf	-1	0	I also spoke with fashion experts in Milan , New York and Paris .
+ES2015c.D.dialog-act.dharshi.81	1306.9	1311.41	ME	D	inf	-1	0	And I looked at the design reports from previous years , here at Real Remote .
+ES2015c.D.dialog-act.dharshi.82	1311.41	1314.43	ME	D	inf	-1	0	Um , just so c we can work off of them , see how fashions have changed .
+ES2015c.D.dialog-act.dharshi.83	1315.2	1319.3	ME	D	off	-1	0	Um , {vocalsound} so I'll list the three most important aspects that I've come across .
+ES2015c.D.dialog-act.dharshi.84	1319.3	1323.03	ME	D	inf	-1	0	Um , and they , they're each more important than the one that comes after it .
+ES2015c.D.dialog-act.dharshi.85	1323.03	1328.62	ME	D	inf	-1	0	Uh , the first one is that there should be a fancy look-and-feel , instead of the current functional look-and-feel .
+ES2015c.D.dialog-act.dharshi.86	1328.62	1331.15	ME	D	ass	-1	0	Um , this should be our priority , as we've been saying .
+ES2015c.D.dialog-act.dharshi.87	1331.46	1336.42	ME	D	inf	-1	0	The second most important aspect is that a remote sh that the remote control should be technologically innovative .
+ES2015c.D.dialog-act.dharshi.88	1336.42	1338.03	ME	D	inf	-1	0	So , I think we've done a lot of talking about that ,
+ES2015c.D.dialog-act.dharshi.89	1338.03	1341.93	ME	D	inf	-1	0	just with lighting and the buttons and the {disfmarker} face-plates .
+ES2015c.D.dialog-act.dharshi.90	1341.93	1344.41	ME	D	ass	-1	0	Um , so it looks like we'll be able to keep on track with that .
+ES2015c.D.dialog-act.dharshi.91	1344.41	1347.81	ME	D	inf	-1	0	And the third most important aspect is that the remote control should be easy to use .
+ES2015c.D.dialog-act.dharshi.92	1348.736	1350.09	ME	D	ass	-1	0	{vocalsound} So , pretty basic there .
+ES2015c.D.dialog-act.dharshi.93	1351.02	1360.336	ME	D	inf	+1	1	And the recent fashion update , uh , according to fashion-watchers in Paris and Milan , is that fruit and vegetables will be the most important theme for clothes , shoes and furniture . {vocalsound}
+ES2015c.D.dialog-act.dharshi.94	1360.73	1365.47	ME	D	inf	+1	1	Um , also , in contra uh in contrast to last year , the feel of the material is expected to be spongy .
+ES2015c.D.dialog-act.dharshi.95	1365.47	1368.81	ME	D	inf	-1	0	Again , we've already discussed that with rubber versus hard plastic buttons .
+ES2015c.D.dialog-act.dharshi.96	1369.65	1370.192	ME	D	stl	-1	0	Um {disfmarker}
+ES2015c.D.dialog-act.dharshi.97	1371.63	1374.26	ME	D	inf	-1	0	So , my personal preferences here ,
+ES2015c.D.dialog-act.dharshi.98	1375.33	1378.89	ME	D	inf	+1	2	um of course , as {disfmarker} we , we've already talked about the personal face-plates in this meeting ,
+ES2015c.D.dialog-act.dharshi.99	1378.89	1380.5	ME	D	off	+1	2	and I'd like to stick to that .
+ES2015c.D.dialog-act.dharshi.102	1380.5	1383.63	ME	D	ass	+1	2	The fruits and vegetable themes , I don't know if that's going to work for us .
+ES2015c.D.dialog-act.dharshi.103	1383.63	1386.39	ME	D	inf	-1	0	It sounds something that you'd use on kitchenware .
+ES2015c.B.dialog-act.dharshi.220	1386.53	1386.84	ID	B	bck	-1	0	Mm .
+ES2015c.D.dialog-act.dharshi.104	1386.39	1387.72	ME	D	ass	-1	0	I don't know if we wanna do it on remotes .
+ES2015c.C.dialog-act.dharshi.133	1387.712	1388.674	UI	C	fra	-1	0	{vocalsound}
+ES2015c.D.dialog-act.dharshi.105	1387.72	1389.55	ME	D	inf	-1	0	It could be one of the options .
+ES2015c.A.dialog-act.dharshi.159	1389.66	1390.0	PM	A	bck	-1	0	Mm-hmm .
+ES2015c.D.dialog-act.dharshi.106	1389.55	1391.7	ME	D	sug	-1	0	Maybe for the television that people have in their kitchen .
+ES2015c.D.dialog-act.dharshi.107	1392.71	1396.56	ME	D	inf	+1	1	Um , the temporary light-up idea , sounds like we're gonna stick to that .
+ES2015c.D.dialog-act.dharshi.108	1396.56	1400.59	ME	D	inf	-1	0	And then , uh , tying in a trendy look with user-friendliness .
+ES2015c.A.dialog-act.dharshi.165	1401.92	1402.24	PM	A	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.161	1402.24	1409.53	PM	A	ass	+1	2	Yeah , it's the fruits and vegetables is the only area that I find rather jarring .
+ES2015c.A.dialog-act.dharshi.162	1409.53	1412.08	PM	A	ass	-1	0	Everything else we can really , we can really
+ES2015c.B.dialog-act.dharshi.221	1409.84	1410.81	ID	B	ass	-1	0	It is strange .
+ES2015c.D.dialog-act.dharshi.109	1409.45	1409.82	ME	D	bck	-1	0	Mm-hmm .
+ES2015c.A.dialog-act.dharshi.163	1413.66	1416.87	PM	A	ass	-1	0	um , do , according to our plans already , given the market .
+ES2015c.A.dialog-act.dharshi.164	1416.87	1421.08	PM	A	ass	-1	0	But fruits and vegetables seems a very strange idea for a remote control .
+ES2015c.D.dialog-act.dharshi.110	1417.445	1418.157	ME	D	fra	-1	0	{vocalsound}
+ES2015c.D.dialog-act.dharshi.111	1418.894	1421.81	ME	D	ass	+1	2	{vocalsound} It's , it's a little {gap} but it , it's everywhere .
+ES2015c.B.dialog-act.dharshi.222	1420.2	1420.965	ID	B	fra	-1	0	Well {disfmarker}
+ES2015c.C.dialog-act.dharshi.134	1419.96	1420.74	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.166	1422.17	1422.6	PM	A	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.112	1421.81	1423.0	ME	D	fra	-1	0	So maybe we {disfmarker}
+ES2015c.D.dialog-act.dharshi.113	1423.0	1426.61	ME	D	inf	-1	0	I've seen a lot of purses with olives on them , you know .
+ES2015c.C.dialog-act.dharshi.135	1425.157	1426.08	UI	C	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.167	1426.66	1427.12	PM	A	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.114	1426.61	1430.816	ME	D	sug	-1	0	But I I think , I think if we stick to T_V_ based , you know , maybe T_V_ shows , or {disfmarker}
+ES2015c.A.dialog-act.dharshi.168	1431.64	1435.93	PM	A	inf	-1	0	But they still need to um fit into people's decor though .
+ES2015c.C.dialog-act.dharshi.136	1431.2	1431.67	UI	C	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.115	1431.57	1433.38	ME	D	sug	-1	0	Or colour schemes .
+ES2015c.B.dialog-act.dharshi.223	1432.6	1433.467	ID	B	fra	-1	0	We {disfmarker}
+ES2015c.B.dialog-act.dharshi.224	1435.68	1439.13	ID	B	ass	+1	1	I think we possibly could take a more abstract design .
+ES2015c.D.dialog-act.dharshi.116	1435.63	1436.7	ME	D	ass	-1	0	Right .
+ES2015c.B.dialog-act.dharshi.225	1439.13	1443.38	ID	B	sug	+1	1	Like look at the basic shapes of different fruits and vegetables .
+ES2015c.B.dialog-act.dharshi.226	1443.38	1450.12	ID	B	sug	-1	0	And then just really like strip it down to like really basic shapes .
+ES2015c.B.dialog-act.dharshi.227	1450.12	1457.02	ID	B	sug	+1	2	I mean we don't have to make something in the shape of a strawberry , but it could have the curves of a strawberry , or something .
+ES2015c.D.dialog-act.dharshi.117	1456.39	1456.82	ME	D	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.228	1457.02	1459.42	ID	B	sug	-1	0	Or a strawberry seed or a leaf .
+ES2015c.C.dialog-act.dharshi.137	1456.9	1458.53	UI	C	bck	-1	0	Yeah , yeah .
+ES2015c.D.dialog-act.dharshi.118	1456.82	1457.789	ME	D	fra	-1	0	The {disfmarker}
+ES2015c.D.dialog-act.dharshi.119	1458.47	1460.69	ME	D	ass	-1	0	The essence of strawberry . Yeah .
+ES2015c.A.dialog-act.dharshi.169	1459.78	1460.23	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.229	1459.42	1466.52	ID	B	sug	-1	0	Or just like you know really make it a quite abstract , if that's fits in more with what we're doing .
+ES2015c.B.dialog-act.dharshi.230	1466.52	1468.24	ID	B	sug	-1	0	Instead of fruits and vegetables ,
+ES2015c.C.dialog-act.dharshi.138	1466.84	1467.56	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.170	1468.5	1469.4	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.231	1468.24	1470.9	ID	B	inf	-1	0	just {disfmarker} if you look at it straightforward , it's a bit {disfmarker}
+ES2015c.B.dialog-act.dharshi.232	1470.9	1471.31	ID	B	stl	-1	0	yeah .
+ES2015c.B.dialog-act.dharshi.233	1471.31	1473.25	ID	B	ass	-1	0	It doesn't s quite fit in with the trendy {disfmarker}
+ES2015c.B.dialog-act.dharshi.234	1473.25	1476.53	ID	B	ass	-1	0	well , obviously it does , if that's the current theme .
+ES2015c.A.dialog-act.dharshi.171	1475.88	1477.616	PM	A	bck	-1	0	Yeah . {vocalsound}
+ES2015c.C.dialog-act.dharshi.139	1475.531	1477.903	UI	C	fra	-1	0	{vocalsound}
+ES2015c.D.dialog-act.dharshi.120	1475.568	1477.196	ME	D	fra	-1	0	{vocalsound}
+ES2015c.B.dialog-act.dharshi.235	1476.53	1478.87	ID	B	sug	-1	0	But {vocalsound} may maybe we could go more directly ,
+ES2015c.B.dialog-act.dharshi.236	1478.87	1479.85	ID	B	stl	-1	0	I don't know .
+ES2015c.A.dialog-act.dharshi.172	1479.67	1480.43	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.237	1479.85	1481.57	ID	B	stl	-1	0	But initially , I dunno .
+ES2015c.B.dialog-act.dharshi.238	1481.57	1485.43	ID	B	sug	-1	0	I think if we just sort of tone it down a bit .
+ES2015c.A.dialog-act.dharshi.173	1486.35	1487.24	PM	A	ass	-1	0	Tone it down . Yeah ,
+ES2015c.B.dialog-act.dharshi.239	1486.085	1489.2	ID	B	fra	-1	0	{vocalsound} Yeah and like not , not {disfmarker}
+ES2015c.D.dialog-act.dharshi.121	1486.38	1487.42	ME	D	ass	-1	0	I guess , yeah .
+ES2015c.A.dialog-act.dharshi.174	1487.24	1490.91	PM	A	sug	-1	0	like more like photos of fruit , on , on our product .
+ES2015c.C.dialog-act.dharshi.140	1487.14	1487.94	UI	C	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.240	1489.2	1489.77	ID	B	ass	-1	0	yeah .
+ES2015c.C.dialog-act.dharshi.141	1489.76	1493.065	UI	C	sug	-1	0	Or banana-shaped . {vocalsound}
+ES2015c.D.dialog-act.dharshi.122	1490.88	1492.32	ME	D	inf	-1	0	One thing I was thinking though is {disfmarker}
+ES2015c.A.dialog-act.dharshi.175	1491.904	1492.272	PM	A	fra	-1	0	{vocalsound}
+ES2015c.D.dialog-act.dharshi.123	1492.32	1495.74	ME	D	inf	+1	1	I dunno if you all remember from our kickoff meeting , we talked about our favourite animals .
+ES2015c.C.dialog-act.dharshi.142	1495.58	1497.139	UI	C	bck	-1	0	Yeah . {vocalsound}
+ES2015c.D.dialog-act.dharshi.124	1495.74	1498.3	ME	D	sug	+1	1	So maybe there could be animal-based , you know .
+ES2015c.D.dialog-act.dharshi.125	1498.3	1500.94	ME	D	inf	-1	0	Because a lot of people have a house cat . Or , or a dog .
+ES2015c.B.dialog-act.dharshi.241	1501.46	1501.81	ID	B	bck	-1	0	Mm .
+ES2015c.D.dialog-act.dharshi.126	1501.88	1504.12	ME	D	ass	-1	0	Um , that might be getting , you know , too specific ,
+ES2015c.D.dialog-act.dharshi.127	1504.12	1506.29	ME	D	sug	-1	0	and we should see what the success of the first face-plates are .
+ES2015c.D.dialog-act.dharshi.128	1506.29	1507.33	ME	D	sug	-1	0	But it's something to keep in mind .
+ES2015c.A.dialog-act.dharshi.176	1508.72	1509.02	PM	A	bck	-1	0	Mm-hmm .
+ES2015c.D.dialog-act.dharshi.129	1509.669	1511.58	ME	D	el.und	-1	0	{vocalsound} And , did you have any questions ?
+ES2015c.D.dialog-act.dharshi.130	1516.95	1517.91	ME	D	el.ass	-1	0	Pretty straightforward ?
+ES2015c.A.dialog-act.dharshi.177	1518.48	1520.672	PM	A	ass	-1	0	Yeah um {disfmarker}
+ES2015c.B.dialog-act.dharshi.242	1518.41	1519.34	ID	B	ass	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.131	1519.91	1520.2	ME	D	ass	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.178	1523.49	1523.76	PM	A	stl	-1	0	Alright ,
+ES2015c.A.dialog-act.dharshi.179	1523.76	1530.19	PM	A	sug	-1	0	given that information , we need to start making some more specific decisions .
+ES2015c.A.dialog-act.dharshi.180	1531.97	1535.83	PM	A	off	-1	0	So I'll need to um hook up the PowerPoint again .
+ES2015c.D.dialog-act.dharshi.132	1538.31	1538.69	ME	D	oth	-1	0	There you go .
+ES2015c.D.dialog-act.dharshi.133	1542.36	1544.256	ME	D	fra	-1	0	{vocalsound}
+ES2015c.D.dialog-act.dharshi.134	1551.92	1556.62	ME	D	el.inf	-1	0	Have you guys been saving your PowerPoint presentations to the {disfmarker}
+ES2015c.B.dialog-act.dharshi.244	1554.526	1556.64	ID	B	unset	-1	0	{vocalsound} I didn't for the first one .
+ES2015c.B.dialog-act.dharshi.245	1556.64	1558.51	ID	B	inf	-1	0	But I have now .
+ES2015c.D.dialog-act.dharshi.135	1556.62	1558.18	ME	D	ass	-1	0	okay .
+ES2015c.A.dialog-act.dharshi.181	1557.27	1559.09	PM	A	el.inf	-1	0	But it's still around right ?
+ES2015c.B.dialog-act.dharshi.246	1558.51	1561.87	ID	B	inf	-1	0	{vocalsound} Yeah . Uh , hopefully
+ES2015c.A.dialog-act.dharshi.182	1559.09	1559.8	PM	A	ass	-1	0	Okay .
+ES2015c.C.dialog-act.dharshi.143	1559.98	1562.02	UI	C	el.inf	-1	0	Where do you have to save it to ?
+ES2015c.B.dialog-act.dharshi.243	1561.87	1563.27	ID	B	inf	-1	0	. Project documents I think .
+ES2015c.C.dialog-act.dharshi.144	1563.56	1563.97	UI	C	ass	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.183	1577.84	1578.77	PM	A	stl	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.184	1581.08	1582.63	PM	A	inf	-1	0	I'm just trying to make this pop up now .
+ES2015c.A.dialog-act.dharshi.185	1591.61	1591.82	PM	A	stl	-1	0	Alright .
+ES2015c.A.dialog-act.dharshi.186	1591.82	1592.63	PM	A	oth	-1	0	Here we go .
+ES2015c.A.dialog-act.dharshi.187	1594.57	1599.27	PM	A	inf	-1	0	Okay so we have to uh decide now exactly what we are going to do .
+ES2015c.A.dialog-act.dharshi.188	1599.27	1600.27	PM	A	fra	-1	0	So energy , we {disfmarker}
+ES2015c.B.dialog-act.dharshi.247	1599.46	1599.94	ID	B	bck	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.189	1600.27	1601.68	PM	A	oth	-1	0	oh .
+ES2015c.A.dialog-act.dharshi.191	1603.99	1604.29	PM	A	oth	-1	0	Oh no
+ES2015c.A.dialog-act.dharshi.192	1604.29	1605.88	PM	A	inf	-1	0	I can't write it in when it's in this setting .
+ES2015c.B.dialog-act.dharshi.248	1603.95	1604.07	ID	B	bck	-1	0	'Kay .
+ES2015c.A.dialog-act.dharshi.194	1607.47	1609.886	PM	A	el.inf	-1	0	Does anyone know how to take it out of {disfmarker}
+ES2015c.A.dialog-act.dharshi.193	1610.67	1612.37	PM	A	stl	-1	0	Um ,
+ES2015c.C.dialog-act.dharshi.145	1611.55	1612.97	UI	C	inf	-1	0	Just escape I think .
+ES2015c.D.dialog-act.dharshi.136	1611.66	1612.32	ME	D	und	-1	0	The PowerPoint ?
+ES2015c.A.dialog-act.dharshi.195	1612.37	1612.86	PM	A	inf	-1	0	yeah .
+ES2015c.A.dialog-act.dharshi.196	1615.69	1616.9	PM	A	ass	-1	0	Yeah . Okay .
+ES2015c.A.dialog-act.dharshi.197	1616.9	1619.68	PM	A	oth	-1	0	Um , so back to decisions .
+ES2015c.A.dialog-act.dharshi.198	1619.68	1623.49	PM	A	el.inf	+1	2	Energy , we've decided on kinetic , right ?
+ES2015c.B.dialog-act.dharshi.249	1622.27	1624.47	ID	B	inf	-1	0	Kinetic yeah .
+ES2015c.C.dialog-act.dharshi.146	1622.62	1623.11	UI	C	inf	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.199	1623.49	1624.9	PM	A	ass	-1	0	Okay , so that's good .
+ES2015c.B.dialog-act.dharshi.250	1624.47	1625.68	ID	B	el.inf	-1	0	Are we going to have a backup ?
+ES2015c.A.dialog-act.dharshi.201	1628.43	1629.65	PM	A	oth	-1	0	Hmm .
+ES2015c.B.dialog-act.dharshi.251	1632.2	1633.658	ID	B	fra	-1	0	Or do we just {disfmarker}
+ES2015c.A.dialog-act.dharshi.200	1633.58	1636.77	PM	A	el.ass	-1	0	But would a backup really be necessary ?
+ES2015c.A.dialog-act.dharshi.202	1638.4	1641.85	PM	A	el.ass	-1	0	I mean will people just use the battery if there's no , if there's ,
+ES2015c.B.dialog-act.dharshi.252	1642.39	1647.18	ID	B	sug	-1	0	I think maybe we could just go for the kinetic energy ,
+ES2015c.A.dialog-act.dharshi.203	1642.99	1644.07	PM	A	el.ass	-1	0	if there is backup .
+ES2015c.B.dialog-act.dharshi.253	1647.18	1647.95	ID	B	inf	-1	0	and
+ES2015c.B.dialog-act.dharshi.254	1649.36	1651.07	ID	B	inf	-1	0	be bold and innovative ,
+ES2015c.C.dialog-act.dharshi.147	1649.849	1651.588	UI	C	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.204	1651.23	1651.79	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.255	1651.07	1654.09	ID	B	inf	-1	0	and hope this works , and well hope that it works .
+ES2015c.A.dialog-act.dharshi.205	1654.0	1654.82	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.257	1654.09	1654.52	ID	B	fra	-1	0	I think {disfmarker}
+ES2015c.A.dialog-act.dharshi.206	1654.82	1656.8	PM	A	el.ass	-1	0	There's like no reason why it wouldn't work , right ?
+ES2015c.B.dialog-act.dharshi.258	1654.52	1654.83	ID	B	ass	-1	0	yeah .
+ES2015c.B.dialog-act.dharshi.259	1654.83	1656.06	ID	B	fra	-1	0	I think {disfmarker}
+ES2015c.B.dialog-act.dharshi.256	1656.06	1657.24	ID	B	ass	-1	0	no .
+ES2015c.B.dialog-act.dharshi.260	1657.24	1662.83	ID	B	sug	+1	1	I , I think we should just like take uh advantage of like using this to its full potential .
+ES2015c.D.dialog-act.dharshi.137	1657.18	1657.92	ME	D	stl	-1	0	So {disfmarker}
+ES2015c.A.dialog-act.dharshi.207	1662.45	1662.74	PM	A	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.208	1662.74	1664.83	PM	A	sug	+1	1	It could even be one of our selling points .
+ES2015c.B.dialog-act.dharshi.261	1662.83	1663.44	ID	B	sug	-1	0	Go for it .
+ES2015c.B.dialog-act.dharshi.262	1664.39	1665.43	ID	B	ass	-1	0	It could be {vocalsound}
+ES2015c.C.dialog-act.dharshi.148	1664.59	1665.55	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.209	1665.49	1667.05	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.263	1665.43	1667.19	ID	B	sug	-1	0	fully kinetic energy .
+ES2015c.A.dialog-act.dharshi.210	1667.05	1667.84	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.264	1667.19	1667.58	ID	B	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.211	1667.84	1669.57	PM	A	sug	-1	0	Environmentally conscious or something .
+ES2015c.B.dialog-act.dharshi.265	1669.09	1670.28	ID	B	el.ass	-1	0	Is everyone happy with that ?
+ES2015c.D.dialog-act.dharshi.138	1669.18	1672.73	ME	D	el.inf	-1	0	So if it's not working they just have to shake it a bit and that revitalises it ?
+ES2015c.A.dialog-act.dharshi.212	1671.94	1672.22	PM	A	inf	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.266	1672.2	1673.29	ID	B	inf	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.149	1672.8	1674.465	UI	C	inf	-1	0	Hope so . {vocalsound}
+ES2015c.D.dialog-act.dharshi.139	1672.73	1673.08	ME	D	ass	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.213	1675.32	1675.51	PM	A	stl	-1	0	Alright ,
+ES2015c.A.dialog-act.dharshi.214	1675.51	1680.15	PM	A	inf	-1	0	the next um decision is chip on print .
+ES2015c.A.dialog-act.dharshi.215	1680.15	1681.81	PM	A	inf	-1	0	I don't exactly know what that means .
+ES2015c.B.dialog-act.dharshi.267	1682.04	1685.97	ID	B	inf	-1	0	Um , it was whether we went for the simple , the regular , or the advanced chip .
+ES2015c.B.dialog-act.dharshi.268	1685.97	1688.81	ID	B	inf	-1	0	And that linked in with what buttons we would gonna have ,
+ES2015c.B.dialog-act.dharshi.269	1688.81	1689.408	ID	B	stl	-1	0	so {disfmarker}
+ES2015c.A.dialog-act.dharshi.216	1689.34	1689.61	PM	A	ass	-1	0	Right ,
+ES2015c.A.dialog-act.dharshi.217	1689.61	1691.66	PM	A	el.inf	-1	0	and we were going for more simplistic style , right ?
+ES2015c.B.dialog-act.dharshi.270	1691.6	1692.82	ID	B	inf	-1	0	Yeah ,
+ES2015c.B.dialog-act.dharshi.271	1692.82	1693.46	ID	B	stl	-1	0	it was {disfmarker}
+ES2015c.C.dialog-act.dharshi.150	1692.91	1693.3	UI	C	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.272	1693.46	1695.16	ID	B	inf	-1	0	so that was without the L_C_D_ .
+ES2015c.B.dialog-act.dharshi.273	1695.16	1697.17	ID	B	inf	-1	0	So that means we're not doing the advanced .
+ES2015c.A.dialog-act.dharshi.218	1696.07	1696.9	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.274	1697.17	1701.41	ID	B	inf	-1	0	So it depends on whether we wanted the scroll buttons or just the push buttons .
+ES2015c.A.dialog-act.dharshi.219	1701.57	1703.67	PM	A	el.inf	+1	2	I think we decided on the pushbuttons , right ?
+ES2015c.B.dialog-act.dharshi.275	1703.61	1704.88	ID	B	inf	+1	1	Uh , so that's the simple .
+ES2015c.C.dialog-act.dharshi.151	1703.29	1703.59	UI	C	inf	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.152	1703.59	1704.1	UI	C	fra	-1	0	I don
+ES2015c.A.dialog-act.dharshi.220	1704.58	1705.0	PM	A	ass	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.153	1704.1	1704.52	UI	C	inf	-1	0	yeah .
+ES2015c.D.dialog-act.dharshi.140	1704.08	1704.54	ME	D	bck	-1	0	Mm-hmm .
+ES2015c.A.dialog-act.dharshi.221	1705.0	1709.21	PM	A	el.inf	+1	1	Would we need a more advanced one for uh the lighting , the interior lighting system ?
+ES2015c.B.dialog-act.dharshi.276	1710.1	1711.13	ID	B	inf	-1	0	Yeah possibly .
+ES2015c.A.dialog-act.dharshi.222	1711.36	1711.81	PM	A	bck	-1	0	Yeah ?
+ES2015c.B.dialog-act.dharshi.277	1711.13	1714.04	ID	B	inf	-1	0	So , it's probably gonna be the regular chip that we're going to need .
+ES2015c.A.dialog-act.dharshi.223	1714.43	1716.06	PM	A	bck	-1	0	Okay .
+ES2015c.B.dialog-act.dharshi.278	1714.04	1715.64	ID	B	inf	-1	0	So it's a medium .
+ES2015c.A.dialog-act.dharshi.224	1716.06	1717.82	PM	A	und	-1	0	That's called medium , or regular ?
+ES2015c.B.dialog-act.dharshi.279	1715.64	1717.51	ID	B	inf	+1	2	So regular chip .
+ES2015c.B.dialog-act.dharshi.280	1717.51	1717.91	ID	B	inf	-1	0	Regular
+ES2015c.B.dialog-act.dharshi.281	1717.91	1719.12	ID	B	be.pos	-1	0	sorry . {vocalsound}
+ES2015c.A.dialog-act.dharshi.225	1718.83	1719.61	PM	A	ass	-1	0	'Kay .
+ES2015c.B.dialog-act.dharshi.282	1720.36	1722.79	ID	B	oth	-1	0	Regular chip .
+ES2015c.D.dialog-act.dharshi.141	1721.89	1722.02	ME	D	oth	-1	0	Oh ,
+ES2015c.D.dialog-act.dharshi.142	1722.02	1723.0	ME	D	el.inf	+1	1	is regular not simple ?
+ES2015c.B.dialog-act.dharshi.283	1723.94	1724.37	ID	B	inf	-1	0	Lighting .
+ES2015c.C.dialog-act.dharshi.154	1723.46	1724.42	UI	C	inf	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.284	1724.37	1725.5	ID	B	fra	-1	0	Yeah if we {disfmarker}
+ES2015c.C.dialog-act.dharshi.155	1724.42	1726.22	UI	C	ass	-1	0	It's for the lighting , yeah .
+ES2015c.B.dialog-act.dharshi.285	1725.5	1727.64	ID	B	inf	+1	1	because of the lighting that we've decided to put in as well .
+ES2015c.D.dialog-act.dharshi.143	1727.15	1728.07	ME	D	ass	-1	0	Right right right .
+ES2015c.A.dialog-act.dharshi.226	1728.84	1729.23	PM	A	stl	-1	0	Okay ,
+ES2015c.A.dialog-act.dharshi.227	1729.23	1730.99	PM	A	inf	-1	0	and cases .
+ES2015c.A.dialog-act.dharshi.228	1730.99	1735.43	PM	A	el.inf	-1	0	Um , does this , is this dependent on shape , or what it's made of , or what ?
+ES2015c.B.dialog-act.dharshi.286	1731.44	1731.94	ID	B	fra	-1	0	So th
+ES2015c.B.dialog-act.dharshi.288	1736.13	1738.73	ID	B	inf	-1	0	I think this is just like gonna be the {disfmarker} a very outer case
+ES2015c.B.dialog-act.dharshi.287	1738.73	1740.98	ID	B	inf	-1	0	, which we will decide on rubber .
+ES2015c.C.dialog-act.dharshi.156	1741.07	1741.6	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.230	1742.06	1742.7	PM	A	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.231	1742.7	1746.14	PM	A	inf	+1	2	Well , I guess plastic and coated in rubber .
+ES2015c.B.dialog-act.dharshi.289	1744.52	1745.64	ID	B	inf	-1	0	Rubber .
+ES2015c.C.dialog-act.dharshi.157	1745.13	1746.35	UI	C	bck	-1	0	Yeah {vocalsound}
+ES2015c.B.dialog-act.dharshi.290	1745.64	1746.32	ID	B	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.229	1746.14	1748.9	PM	A	oth	-1	0	Plastic with rubber
+ES2015c.B.dialog-act.dharshi.291	1746.32	1748.09	ID	B	oth	-1	0	Plastic rubber coat .
+ES2015c.C.dialog-act.dharshi.158	1746.35	1748.1	UI	C	bck	-1	0	plastic coat .
+ES2015c.A.dialog-act.dharshi.232	1749.9	1753.29	PM	A	oth	-1	0	coating and interchangeable
+ES2015c.A.dialog-act.dharshi.233	1754.76	1755.3	PM	A	stl	-1	0	um
+ES2015c.B.dialog-act.dharshi.292	1754.73	1755.7	ID	B	el.inf	-1	0	Interchangeable , yeah .
+ES2015c.B.dialog-act.dharshi.293	1755.7	1756.85	ID	B	el.inf	-1	0	Still going for that .
+ES2015c.A.dialog-act.dharshi.234	1756.41	1759.22	PM	A	inf	+1	2	yeah , interchangeable plates .
+ES2015c.B.dialog-act.dharshi.294	1756.85	1757.19	ID	B	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.235	1759.22	1759.97	PM	A	stl	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.236	1765.47	1767.02	PM	A	inf	-1	0	User interface concept .
+ES2015c.A.dialog-act.dharshi.237	1768.18	1769.7	PM	A	sug	-1	0	This is your time to shine .
+ES2015c.C.dialog-act.dharshi.159	1769.62	1772.83	UI	C	inf	-1	0	We decided on the component .
+ES2015c.C.dialog-act.dharshi.160	1772.83	1773.95	UI	C	be.pos	-1	0	I , I I'm sorry ,
+ES2015c.C.dialog-act.dharshi.161	1773.95	1780.899	UI	C	inf	-1	0	I've lost my um {vocalsound} PowerPoint thing , so I can't remember what it's ca it's the component {disfmarker}
+ES2015c.B.dialog-act.dharshi.295	1776.84	1778.26	ID	B	und	-1	0	Your screen ?
+ES2015c.D.dialog-act.dharshi.144	1778.72	1780.53	ME	D	inf	-1	0	Think it was called command interface .
+ES2015c.B.dialog-act.dharshi.297	1780.06	1780.913	ID	B	fra	-1	0	Was it {disfmarker}
+ES2015c.A.dialog-act.dharshi.238	1780.89	1782.32	PM	A	ass	-1	0	Oh , yeah . Yeah .
+ES2015c.D.dialog-act.dharshi.145	1782.1	1783.31	ME	D	inf	-1	0	Command interface , {gap} .
+ES2015c.C.dialog-act.dharshi.162	1782.72	1783.88	UI	C	fra	-1	0	The command inter
+ES2015c.A.dialog-act.dharshi.239	1783.34	1784.59	PM	A	inf	-1	0	Command interface .
+ES2015c.B.dialog-act.dharshi.296	1784.02	1784.43	ID	B	oth	-1	0	Ouch .
+ES2015c.C.dialog-act.dharshi.163	1785.17	1787.33	UI	C	ass	-1	0	The command line interface yeah .
+ES2015c.A.dialog-act.dharshi.240	1787.35	1789.23	PM	A	und	-1	0	Did you say command line ?
+ES2015c.A.dialog-act.dharshi.241	1789.23	1789.76	PM	A	ass	-1	0	Okay .
+ES2015c.C.dialog-act.dharshi.164	1788.9	1789.93	UI	C	inf	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.242	1791.94	1793.42	PM	A	oth	-1	0	Line interface .
+ES2015c.D.dialog-act.dharshi.146	1792.716	1793.411	ME	D	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.243	1796.57	1796.95	PM	A	stl	-1	0	Alright ,
+ES2015c.A.dialog-act.dharshi.244	1796.95	1798.53	PM	A	inf	+1	1	and supplements .
+ES2015c.A.dialog-act.dharshi.245	1799.62	1800.59	PM	A	el.inf	+1	1	What's that all about ?
+ES2015c.C.dialog-act.dharshi.165	1801.02	1801.58	UI	C	stl	-1	0	Um ,
+ES2015c.C.dialog-act.dharshi.166	1802.88	1805.07	UI	C	stl	-1	0	I think that is {disfmarker}
+ES2015c.D.dialog-act.dharshi.147	1803.059	1804.391	ME	D	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.246	1803.612	1805.091	PM	A	fra	-1	0	{vocalsound}
+ES2015c.C.dialog-act.dharshi.167	1805.07	1807.36	UI	C	inf	-1	0	well we haven't really made any decisions about
+ES2015c.C.dialog-act.dharshi.168	1808.45	1814.47	UI	C	inf	+1	1	what we're gonna do about the cluster of button functions , colours and forms , in the {disfmarker} in consistent use .
+ES2015c.C.dialog-act.dharshi.169	1814.47	1818.29	UI	C	el.sug	-1	0	Like what what are ideas to combat these problems ?
+ES2015c.A.dialog-act.dharshi.247	1818.27	1819.276	PM	A	stl	-1	0	Um {disfmarker}
+ES2015c.C.dialog-act.dharshi.170	1818.29	1823.05	UI	C	inf	-1	0	You know how um different interfaces are very different ,
+ES2015c.C.dialog-act.dharshi.171	1823.05	1830.69	UI	C	inf	-1	0	and can be confusing because because of their difference , and because of the different clusters of buttons that they have .
+ES2015c.A.dialog-act.dharshi.248	1827.5	1827.86	PM	A	bck	-1	0	Mm-hmm .
+ES2015c.C.dialog-act.dharshi.172	1831.66	1834.67	UI	C	inf	+1	1	We haven't really decided what to do about that .
+ES2015c.A.dialog-act.dharshi.249	1836.37	1838.88	PM	A	el.inf	-1	0	Um , what are our choices here ?
+ES2015c.C.dialog-act.dharshi.173	1839.303	1846.9	UI	C	inf	-1	0	{vocalsound} Well it's just um w where where shall we locate the buttons .
+ES2015c.C.dialog-act.dharshi.174	1846.9	1850.06	UI	C	el.inf	-1	0	What kind of functions wi shall we have ?
+ES2015c.A.dialog-act.dharshi.250	1851.08	1857.07	PM	A	inf	-1	0	You mean like we'll have the numbers of the channels , and we'll have the channel-changer , and volume , and power ?
+ES2015c.B.dialog-act.dharshi.298	1853.94	1854.86	ID	B	inf	-1	0	The power .
+ES2015c.B.dialog-act.dharshi.299	1855.68	1856.29	ID	B	inf	-1	0	Volume .
+ES2015c.D.dialog-act.dharshi.148	1856.56	1856.81	ME	D	bck	-1	0	Mm-hmm .
+ES2015c.A.dialog-act.dharshi.251	1859.04	1859.912	PM	A	stl	-1	0	Um {disfmarker}
+ES2015c.C.dialog-act.dharshi.175	1858.82	1859.87	UI	C	fra	-1	0	So pretty {disfmarker}
+ES2015c.C.dialog-act.dharshi.176	1859.87	1863.68	UI	C	ass	+1	2	just just the basic button functions .
+ES2015c.A.dialog-act.dharshi.252	1861.77	1862.73	PM	A	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.253	1862.73	1867.16	PM	A	sug	-1	0	Like I don't know if we should go into like adjusting light levels , things like that ,
+ES2015c.A.dialog-act.dharshi.254	1867.16	1868.946	PM	A	inf	-1	0	because different televisions will have {disfmarker}
+ES2015c.B.dialog-act.dharshi.300	1868.76	1869.53	ID	B	ass	-1	0	May yeah .
+ES2015c.A.dialog-act.dharshi.255	1869.89	1871.39	PM	A	bck	-1	0	Um , yeah .
+ES2015c.B.dialog-act.dharshi.301	1869.53	1870.89	ID	B	inf	-1	0	Tone , contrast , and things .
+ES2015c.B.dialog-act.dharshi.302	1870.89	1872.704	ID	B	fra	-1	0	That's a bit {disfmarker}
+ES2015c.D.dialog-act.dharshi.149	1871.429	1876.27	ME	D	inf	-1	0	{vocalsound} That was on , um one of my presentations .
+ES2015c.D.dialog-act.dharshi.150	1876.27	1877.49	ME	D	inf	-1	0	About how often it was used .
+ES2015c.A.dialog-act.dharshi.257	1878.25	1878.53	PM	A	inf	-1	0	Yep .
+ES2015c.B.dialog-act.dharshi.303	1877.94	1879.12	ID	B	inf	-1	0	Yeah , it was minima
+ES2015c.D.dialog-act.dharshi.151	1877.49	1878.08	ME	D	el.inf	-1	0	Do you remember that ?
+ES2015c.B.dialog-act.dharshi.304	1879.12	1880.6	ID	B	fra	-1	0	well , it wasn't the l
+ES2015c.A.dialog-act.dharshi.259	1879.95	1882.02	PM	A	ass	-1	0	Yeah , it was hardly ever used really .
+ES2015c.C.dialog-act.dharshi.177	1879.47	1879.94	UI	C	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.152	1880.304	1881.6	ME	D	fra	-1	0	{vocalsound} I w
+ES2015c.D.dialog-act.dharshi.153	1882.015	1883.57	ME	D	off	-1	0	{vocalsound} Should I bring it up ?
+ES2015c.A.dialog-act.dharshi.261	1883.85	1884.56	PM	A	inf	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.262	1884.56	1886.81	PM	A	inf	-1	0	And most televisions will come with a remote .
+ES2015c.B.dialog-act.dharshi.305	1884.26	1884.51	ID	B	inf	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.306	1884.51	1886.37	ID	B	ass	-1	0	That would be good .
+ES2015c.B.dialog-act.dharshi.307	1886.37	1886.75	ID	B	ass	-1	0	Yeah ,
+ES2015c.B.dialog-act.dharshi.308	1886.75	1891.09	ID	B	inf	-1	0	and surely that would be like quite specific to the individual television ,
+ES2015c.C.dialog-act.dharshi.178	1889.5	1891.37	UI	C	ass	-1	0	Yeah , each television .
+ES2015c.A.dialog-act.dharshi.263	1890.18	1890.8	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.309	1891.09	1891.71	ID	B	stl	-1	0	so {disfmarker}
+ES2015c.A.dialog-act.dharshi.264	1894.6	1894.77	PM	A	stl	-1	0	'Kay ,
+ES2015c.A.dialog-act.dharshi.265	1894.77	1896.83	PM	A	inf	-1	0	well we know we want numbers .
+ES2015c.D.dialog-act.dharshi.154	1895.8	1897.3	ME	D	fra	-1	0	The ch t
+ES2015c.D.dialog-act.dharshi.155	1898.76	1902.35	ME	D	inf	-1	0	Screen settings was used um zero point five times an hour .
+ES2015c.D.dialog-act.dharshi.156	1902.35	1904.54	ME	D	inf	-1	0	So tw twice every {disfmarker} once every two hours .
+ES2015c.D.dialog-act.dharshi.157	1905.3	1908.7	ME	D	inf	-1	0	Um , and it was considered a one point five relevance , on a scale of ten .
+ES2015c.D.dialog-act.dharshi.158	1908.7	1911.39	ME	D	inf	-1	0	That's brightness , colour , tone , all that .
+ES2015c.B.dialog-act.dharshi.310	1910.79	1913.46	ID	B	bck	-1	0	Mm .
+ES2015c.B.dialog-act.dharshi.313	1913.46	1917.02	ID	B	inf	-1	0	I think most of that comes like on the i individual television set itself ,
+ES2015c.C.dialog-act.dharshi.179	1913.03	1916.28	UI	C	ass	-1	0	You don't change that often , yeah .
+ES2015c.B.dialog-act.dharshi.314	1917.02	1917.27	ID	B	el.inf	-1	0	doesn't it ?
+ES2015c.B.dialog-act.dharshi.312	1917.27	1923.37	ID	B	inf	-1	0	I'm sure it has its own buttons , so you don't necessarily need to have it on remote .
+ES2015c.A.dialog-act.dharshi.266	1918.21	1919.17	PM	A	inf	-1	0	Yeah , it does .
+ES2015c.D.dialog-act.dharshi.159	1918.0	1918.37	ME	D	bck	-1	0	Mm-hmm .
+ES2015c.A.dialog-act.dharshi.267	1923.49	1923.81	PM	A	ass	-1	0	Yeah ,
+ES2015c.A.dialog-act.dharshi.268	1923.81	1924.61	PM	A	inf	-1	0	and different televisions .
+ES2015c.B.dialog-act.dharshi.315	1923.837	1925.331	ID	B	fra	-1	0	{vocalsound}
+ES2015c.C.dialog-act.dharshi.180	1923.87	1924.4	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.269	1924.61	1928.1	PM	A	inf	+1	1	Like we , I don't know if we can make a remote that would be universal to all the different kinds of
+ES2015c.B.dialog-act.dharshi.316	1927.72	1928.84	ID	B	ass	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.270	1929.09	1930.15	PM	A	inf	-1	0	changes like that .
+ES2015c.B.dialog-act.dharshi.317	1928.84	1934.78	ID	B	inf	+1	2	So we're just going for power , channels , volume ,
+ES2015c.A.dialog-act.dharshi.271	1932.87	1933.69	PM	A	inf	-1	0	Volume .
+ES2015c.D.dialog-act.dharshi.160	1935.04	1936.53	ME	D	inf	-1	0	The other one was audio settings .
+ES2015c.D.dialog-act.dharshi.161	1936.53	1937.91	ME	D	inf	-1	0	Mono , stereo , pitch .
+ES2015c.D.dialog-act.dharshi.162	1937.91	1939.54	ME	D	inf	-1	0	I mean I sometimes use that .
+ES2015c.D.dialog-act.dharshi.163	1939.54	1944.17	ME	D	inf	-1	0	Some T_V_s will have the option of like living room style , movie style , um {disfmarker}
+ES2015c.C.dialog-act.dharshi.181	1942.58	1943.51	UI	C	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.164	1944.17	1944.7	ME	D	stl	-1	0	and that ,
+ES2015c.D.dialog-act.dharshi.165	1944.7	1946.63	ME	D	inf	-1	0	they say that's used zero point eight times an hour ,
+ES2015c.D.dialog-act.dharshi.166	1946.63	1948.27	ME	D	ass	-1	0	which is actually somewhat high .
+ES2015c.D.dialog-act.dharshi.167	1948.27	1951.01	ME	D	inf	-1	0	Like almost once an hour .
+ES2015c.B.dialog-act.dharshi.318	1949.0	1950.23	ID	B	bck	-1	0	Mm .
+ES2015c.A.dialog-act.dharshi.272	1950.65	1951.71	PM	A	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.168	1951.01	1952.51	ME	D	inf	-1	0	Um , relevance of two .
+ES2015c.A.dialog-act.dharshi.273	1955.81	1956.11	PM	A	oth	-1	0	Oh .
+ES2015c.A.dialog-act.dharshi.274	1956.11	1957.74	PM	A	inf	-1	0	We have five minutes to finish our meeting .
+ES2015c.C.dialog-act.dharshi.182	1956.981	1958.276	UI	C	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.275	1958.9	1959.97	PM	A	oth	-1	0	Crap .
+ES2015c.A.dialog-act.dharshi.276	1959.97	1960.85	PM	A	stl	-1	0	Okay , um ,
+ES2015c.A.dialog-act.dharshi.277	1960.85	1962.941	PM	A	sug	-1	0	let's do this fast . Um {disfmarker}
+ES2015c.B.dialog-act.dharshi.319	1960.449	1961.669	ID	B	fra	-1	0	{vocalsound}
+ES2015c.D.dialog-act.dharshi.169	1960.217	1961.475	ME	D	fra	-1	0	{vocalsound}
+ES2015c.D.dialog-act.dharshi.170	1962.66	1963.57	ME	D	inf	-1	0	Well that didn't some up on mine .
+ES2015c.A.dialog-act.dharshi.278	1963.69	1964.5	PM	A	el.ass	+1	2	Should we have audio ?
+ES2015c.A.dialog-act.dharshi.279	1966.65	1968.41	PM	A	inf	-1	0	It only comes up on mine usually .
+ES2015c.C.dialog-act.dharshi.183	1967.88	1968.21	UI	C	stl	-1	0	It w {vocalsound}
+ES2015c.C.dialog-act.dharshi.184	1968.21	1973.82	UI	C	ass	-1	0	it would seem silly if we'd {gap} having anything else , just have an audio button though .
+ES2015c.D.dialog-act.dharshi.171	1968.38	1968.51	ME	D	oth	-1	0	Oh .
+ES2015c.A.dialog-act.dharshi.280	1975.11	1975.3	PM	A	ass	-1	0	Yeah ,
+ES2015c.C.dialog-act.dharshi.185	1974.63	1975.19	UI	C	el.ass	-1	0	Do you know ?
+ES2015c.A.dialog-act.dharshi.281	1975.3	1976.83	PM	A	stl	-1	0	I don't , I {disfmarker} it's ,
+ES2015c.A.dialog-act.dharshi.285	1976.83	1981.47	PM	A	inf	+1	2	it's a problem with the international uh appeal , I think . Um , if we have audio
+ES2015c.A.dialog-act.dharshi.286	1981.47	1985.45	PM	A	inf	+1	2	because we don't know how other televisions work .
+ES2015c.A.dialog-act.dharshi.287	1985.45	1987.8	PM	A	inf	-1	0	But we know that everyone has this and it's the same .
+ES2015c.C.dialog-act.dharshi.186	1985.44	1986.193	UI	C	fra	-1	0	But we {disfmarker}
+ES2015c.B.dialog-act.dharshi.320	1989.23	1989.649	ID	B	fra	-1	0	I've {disfmarker}
+ES2015c.D.dialog-act.dharshi.172	1988.86	1989.05	ME	D	ass	-1	0	Yeah
+ES2015c.D.dialog-act.dharshi.173	1989.05	1990.31	ME	D	inf	-1	0	I guess that it affects the marketing ,
+ES2015c.D.dialog-act.dharshi.174	1990.31	1994.82	ME	D	sug	+1	2	'cause it , {vocalsound} mm it is a good sales ploy to say , aren't you annoyed with remote controls that have all these buttons .
+ES2015c.C.dialog-act.dharshi.187	1994.73	1995.42	UI	C	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.175	1994.82	1997.82	ME	D	sug	-1	0	This one has channel , volume and your channe and your power .
+ES2015c.B.dialog-act.dharshi.321	1995.77	1996.92	ID	B	ass	-1	0	Yeah , that's it .
+ES2015c.B.dialog-act.dharshi.322	1996.92	2001.44	ID	B	sug	+1	3	We can just go for , make it a selling point that it is just the basic .
+ES2015c.C.dialog-act.dharshi.188	1996.77	1998.61	UI	C	sug	-1	0	That could be a sales pitch .
+ES2015c.A.dialog-act.dharshi.288	1997.75	1998.2	PM	A	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.176	1998.79	1999.15	ME	D	bck	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.189	2000.19	2002.015	UI	C	sug	-1	0	Simple and {disfmarker}
+ES2015c.A.dialog-act.dharshi.289	2000.72	2001.18	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.323	2001.44	2001.78	ID	B	ass	-1	0	Yeah
+ES2015c.B.dialog-act.dharshi.324	2001.78	2003.22	ID	B	fra	-1	0	uh I {vocalsound} {disfmarker}
+ES2015c.D.dialog-act.dharshi.177	2002.02	2002.47	ME	D	bck	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.290	2002.6	2003.32	PM	A	bck	-1	0	Alright .
+ES2015c.B.dialog-act.dharshi.325	2003.22	2004.79	ID	B	ass	-1	0	brilliant .
+ES2015c.C.dialog-act.dharshi.190	2003.08	2003.46	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.291	2004.19	2005.33	PM	A	ass	-1	0	Good .
+ES2015c.A.dialog-act.dharshi.292	2005.33	2008.57	PM	A	inf	+1	1	And , okay , in closing , 'cause we only have five minutes .
+ES2015c.A.dialog-act.dharshi.293	2008.57	2011.58	PM	A	inf	-1	0	We'll be meeting again in thirty minutes .
+ES2015c.A.dialog-act.dharshi.294	2011.58	2017.2	PM	A	inf	+1	2	Um , you'll be working , Poppy will be working on the look-and-feel design .
+ES2015c.A.dialog-act.dharshi.295	2018.1	2018.59	PM	A	oth	-1	0	Wait a minute .
+ES2015c.A.dialog-act.dharshi.296	2018.59	2019.61	PM	A	el.inf	-1	0	Is that right ?
+ES2015c.B.dialog-act.dharshi.326	2019.54	2020.01	ID	B	inf	-1	0	Mm-hmm .
+ES2015c.A.dialog-act.dharshi.297	2020.11	2020.41	PM	A	ass	-1	0	Yep ,
+ES2015c.A.dialog-act.dharshi.298	2020.41	2024.73	PM	A	inf	+1	2	and um the user interface design , so this is where the trendy stuff comes in .
+ES2015c.A.dialog-act.dharshi.299	2024.73	2027.19	PM	A	inf	+1	2	And you'll be evaluating the product .
+ES2015c.A.dialog-act.dharshi.300	2028.4	2028.88	PM	A	stl	-1	0	Um ,
+ES2015c.A.dialog-act.dharshi.301	2030.22	2034.46	PM	A	inf	+1	2	Poppy and Tara will have to work together , using modelling clay .
+ES2015c.C.dialog-act.dharshi.191	2032.105	2032.956	UI	C	fra	-1	0	{vocalsound}
+ES2015c.C.dialog-act.dharshi.192	2034.128	2034.954	UI	C	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.302	2035.04	2040.53	PM	A	inf	+1	2	And , um , your personal coach will give you the rest of the information of what needs to happen .
+ES2015c.B.dialog-act.dharshi.327	2040.17	2043.59	ID	B	ass	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.303	2041.14	2041.56	PM	A	stl	-1	0	Alright .
+ES2015c.A.dialog-act.dharshi.304	2041.56	2043.81	PM	A	el.sug	-1	0	So , anyone else have something to say ?
+ES2015c.B.dialog-act.dharshi.328	2043.59	2050.19	ID	B	off	+1	0	Um , I just have one question about the whole fruit and vegetable aspect .
+ES2015c.A.dialog-act.dharshi.305	2045.52	2045.7	PM	A	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.306	2048.4	2049.05	PM	A	ass	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.178	2048.52	2048.84	ME	D	bck	-1	0	Mm-hmm .
+ES2015c.B.dialog-act.dharshi.329	2050.19	2051.3	ID	B	fra	-1	0	Are we {disfmarker}
+ES2015c.B.dialog-act.dharshi.330	2051.3	2058.88	ID	B	sug	+1	0	seeing as that was the most popular thing that came up out of your market research , I thi I think we should keep to that rather than moving to animals or something ,
+ES2015c.B.dialog-act.dharshi.331	2058.88	2066.91	ID	B	ass	-1	0	because even if that may not seem obvious to us , if that's what the surveys brought out , I think that we should probably go along with that .
+ES2015c.D.dialog-act.dharshi.179	2059.29	2059.62	ME	D	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.307	2059.84	2060.4	PM	A	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.308	2066.33	2067.01	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.332	2066.91	2071.49	ID	B	inf	-1	0	Um , so I suppose that'll come out in our dev design development .
+ES2015c.B.dialog-act.dharshi.333	2071.49	2074.56	ID	B	el.ass	-1	0	But you're happy to go ahead with the fruit and veg ?
+ES2015c.D.dialog-act.dharshi.180	2073.48	2076.05	ME	D	fra	-1	0	Now do you guys need {disfmarker} want an idea of how many uh {disfmarker}
+ES2015c.D.dialog-act.dharshi.181	2076.05	2077.65	ME	D	el.inf	+1	0	are you gonna come up with casing ideas ?
+ES2015c.B.dialog-act.dharshi.334	2078.03	2079.22	ID	B	inf	-1	0	Y Yeah .
+ES2015c.D.dialog-act.dharshi.182	2077.65	2079.503	ME	D	sug	+1	0	Like f five different {disfmarker}
+ES2015c.C.dialog-act.dharshi.193	2078.59	2079.16	UI	C	inf	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.309	2079.251	2082.48	PM	A	ass	-1	0	{gap} five . {gap} .
+ES2015c.C.dialog-act.dharshi.194	2079.83	2080.521	UI	C	stl	-1	0	What I {disfmarker}
+ES2015c.C.dialog-act.dharshi.195	2080.99	2082.0	UI	C	inf	-1	0	What I was thinking {disfmarker}
+ES2015c.C.dialog-act.dharshi.196	2082.0	2083.37	UI	C	el.ass	+1	0	what do yous think of this ?
+ES2015c.C.dialog-act.dharshi.197	2083.37	2090.73	UI	C	sug	+1	0	Um , having the numbers kind of like , not a bunch of grapes , but you know like purple and kind of in a triangle .
+ES2015c.D.dialog-act.dharshi.183	2090.73	2091.05	ME	D	bck	-1	0	Mm-hmm .
+ES2015c.C.dialog-act.dharshi.198	2091.28	2092.61	UI	C	sug	-1	0	Like grapes .
+ES2015c.C.dialog-act.dharshi.199	2092.61	2095.76	UI	C	ass	-1	0	Like that's kind of fruity or something .
+ES2015c.D.dialog-act.dharshi.184	2092.39	2094.3	ME	D	ass	+1	0	Yeah you can have some fun with the buttons , it's true .
+ES2015c.A.dialog-act.dharshi.310	2094.8	2095.24	PM	A	bck	-1	0	Mm-hmm .
+ES2015c.C.dialog-act.dharshi.200	2095.76	2096.595	UI	C	fra	-1	0	That's just {disfmarker}
+ES2015c.B.dialog-act.dharshi.335	2096.37	2099.507	ID	B	ass	-1	0	We can have a look at those ideas , yeah . {vocalsound}
+ES2015c.D.dialog-act.dharshi.185	2096.01	2096.48	ME	D	bck	-1	0	Yeah .
+ES2015c.C.dialog-act.dharshi.201	2097.456	2099.128	UI	C	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.311	2098.44	2098.79	PM	A	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.186	2098.52	2101.76	ME	D	sug	+1	0	I guess what you i ideally you'd kind of think of age markets as well .
+ES2015c.B.dialog-act.dharshi.336	2101.89	2102.28	ID	B	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.187	2101.76	2104.93	ME	D	inf	+1	0	So it's a something that will , you know , appeal to the fifteen to twenty five year olds .
+ES2015c.D.dialog-act.dharshi.188	2104.93	2107.92	ME	D	inf	-1	0	Something that your granny would want on her remote control .
+ES2015c.B.dialog-act.dharshi.337	2108.02	2108.33	ID	B	bck	-1	0	Yeah .
+ES2015c.D.dialog-act.dharshi.189	2107.92	2110.722	ME	D	inf	-1	0	Um , and international tastes as well , so {disfmarker}
+ES2015c.A.dialog-act.dharshi.312	2108.6	2108.93	PM	A	bck	-1	0	Yeah .
+ES2015c.B.dialog-act.dharshi.338	2111.96	2112.31	ID	B	ass	-1	0	Tricky .
+ES2015c.B.dialog-act.dharshi.339	2112.31	2115.53	ID	B	inf	-1	0	{vocalsound} A lot of things to consider . Hm .
+ES2015c.C.dialog-act.dharshi.202	2111.886	2113.696	UI	C	fra	-1	0	{vocalsound}
+ES2015c.D.dialog-act.dharshi.190	2111.388	2114.15	ME	D	ass	-1	0	{vocalsound} Not easy . {vocalsound}
+ES2015c.A.dialog-act.dharshi.313	2112.9	2113.46	PM	A	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.314	2114.85	2115.67	PM	A	fra	-1	0	Lots of {disfmarker}
+ES2015c.C.dialog-act.dharshi.205	2114.78	2115.47	UI	C	bck	-1	0	Yeah .
+ES2015c.A.dialog-act.dharshi.315	2115.67	2115.87	PM	A	ass	-1	0	yeah .
+ES2015c.A.dialog-act.dharshi.316	2117.33	2117.85	PM	A	el.ass	-1	0	Alright .
+ES2015c.B.dialog-act.dharshi.340	2117.226	2118.6	ID	B	ass	-1	0	{vocalsound} Okay .
+ES2015c.A.dialog-act.dharshi.317	2119.47	2122.34	PM	A	sug	+1	0	'Kay we'll stick to the fruit and veggie theme then .
+ES2015c.C.dialog-act.dharshi.204	2121.467	2123.571	UI	C	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.318	2122.34	2123.33	PM	A	stl	-1	0	Alright .
+ES2015c.A.dialog-act.dharshi.319	2123.33	2126.02	PM	A	inf	-1	0	And , um , we'll reconvene in thirty minutes .
+ES2015c.D.dialog-act.dharshi.192	2122.892	2123.632	ME	D	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.320	2126.02	2126.31	PM	A	stl	-1	0	'Kay .
+ES2015c.B.dialog-act.dharshi.341	2125.65	2127.07	ID	B	ass	-1	0	Okay .
+ES2015c.C.dialog-act.dharshi.206	2125.78	2126.17	UI	C	ass	-1	0	Okay .
+ES2015c.A.dialog-act.dharshi.321	2126.31	2128.76	PM	A	be.pos	-1	0	Bye .
+ES2015c.D.dialog-act.dharshi.193	2126.16	2126.68	ME	D	ass	-1	0	Okay .
+ES2015c.B.dialog-act.dharshi.342	2127.07	2127.27	ID	B	be.pos	-1	0	Thank you . {vocalsound}
+ES2015c.C.dialog-act.dharshi.203	2127.657	2129.207	UI	C	fra	-1	0	{vocalsound}
+ES2015c.D.dialog-act.dharshi.191	2127.274	2128.347	ME	D	fra	-1	0	{vocalsound}
+ES2015c.A.dialog-act.dharshi.322	2128.76	2132.84	PM	A	be.pos	-1	0	{vocalsound} I'll see you later .
+ES2015c.A.dialog-act.dharshi.324	2132.84	2134.36	PM	A	oth	-1	0	{vocalsound} Oh , what did I just do .
+ES2015c.A.dialog-act.dharshi.325	2134.36	2135.81	PM	A	ass	-1	0	Okay .

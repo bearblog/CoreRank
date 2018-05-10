@@ -1,0 +1,7 @@
+Speakers mn007 and fn002 have made further progress into the series of experiments they have been running in previous weeks; results were varied.
+The main conclusions include that training on task data is good , and the best broad training data is the English TIMIT database.
+Other results show that MSG makes little difference , adding MLP improves when trained on task data , decreases figures when not , while using delta generally improves the situation , as does on-line normalization.
+Starting work with a new broad database drawn from English , French , TIMIT , SPINE and English and Italian digits.
+mn007 has also started work on multi-band MLP trainings , with large context.
+OGI have a block diagram explaining their system , and the group are trying to fit their work into it.
+Speaker me006 has been helping prepare data , but is mainly doing work for a class he takes , looking at modelling asynchrony.

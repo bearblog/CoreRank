@@ -1,0 +1,33 @@
+1	Bmr006.s.1	The Berkeley Meeting Recorder group discussed research aims and corresponding concerns for future data collection.
+Bmr006.F.dialogueact58	170.28	180.83	F	PhD	fh|s^cs	+1	3	um , but I 'd rather try to get more regular meetings of types that we know about , and hear , then sort of a mish - mosh of a bunch of one {disfmarker} one - time {disfmarker}
+7	Bmr006.s.2	It was agreed that a substantial amount of meeting data is required from different domains , and comprising several speakers , to perform the types of discourse and acoustic analyses desired.
+Bmr006.F.dialogueact67	245.86	257.16	F	PhD	s^cs	+1	2	And in that uh , regard , I thought we definitely w will need {disfmarker} it 'd b it 'd be nice for us to have a bunch of data from a few different domains , or a few different kinds of meetings .
+Bmr006.F.dialogueact58	170.28	180.83	F	PhD	fh|s^cs	+1	3	um , but I 'd rather try to get more regular meetings of types that we know about , and hear , then sort of a mish - mosh of a bunch of one {disfmarker} one - time {disfmarker}
+Bmr006.F.dialogueact95	326.96	332.546	F	PhD	s	+1	1	but also data where we hold some parameters constant or fairly similar ,
+Bmr006.D.dialogueact102	348.28	355.71	D	Professor	fh|s^nd	+1	1	Uh , for other kinds of research , particularly the acoustic oriented research , I actually feel the opposite need .
+Bmr006.D.dialogueact107	366.083	367.563	D	Professor	s^cs^nd	+1	2	I 'd like to have many different speakers .
+Bmr006.D.dialogueact108	368.32	378.0	D	Professor	fh|s.%--	+1	2	So , um I think I would also very much like us to have a fair amount of really random scattered meetings , of somebody coming down from campus , and {disfmarker} and uh ,
+Bmr006.F.dialogueact421	1089.19	1094.41	F	PhD	s^cs	+1	2	I 'd love to get people that are not linguists or engineers , cuz these are both weird {disfmarker}
+6	Bmr006.s.3	Ongoing efforts by speaker mn005 to automatically  detect regions of speaker overlap were considered.
+Bmr006.C.dialogueact668	1544.53	1549.51	C	PhD	s	+1	2	I have , eh , {vocalsound} The result of my work during the last days .
+Bmr006.C.dialogueact679	1579.81	1587.74	C	PhD	s	+1	2	It 's a real problem , {comment} a frequently problem {comment} uh , because you have overlapping zones eh , eh , eh , all the time .
+Bmr006.C.dialogueact696	1622.65	1628.99	C	PhD	s	+1	2	but , eh , my idea is , eh , is very interesting to {disfmarker} to work {pause} in {disfmarker} in the line of , eh , automatic segmenter .
+Bmr006.C.dialogueact704	1645.98	1647.57	C	PhD	s	+1	2	No , I {disfmarker} I {disfmarker} plan to do that .
+Bmr006.C.dialogueact708	1653.13	1659.0	C	PhD	s	+1	2	Now , {vocalsound} eh , I need ehm , {vocalsound} to detect eh all the overlapping zones exactly .
+Bmr006.D.dialogueact1058	2758.02	2761.28	D	Professor	s^cs	+1	2	So the first thing is for you to {disfmarker} to build up something that will detect the overlaps .
+3	Bmr006.s.4	It was suggested that speaker mn005 focus on a small set of acoustic parameters , e.g . energy and harmonics-related features , to distinguish regions of overlap from those containing the speech of just one speaker.
+Bmr006.D.dialogueact977	2405.48	2411.19	D	Professor	s^cs	+1	2	I would take just a few features . Instead of taking all the MFCC 's , or all the PLP 's or whatever , I would just take a couple .
+Bmr006.D.dialogueact1080	2823.66	2839.77	D	Professor	fh|s	+1	2	Uh , and uh on the other hand , the LPC residual , the energy in the LPC residual , {vocalsound} will say how well , uh {vocalsound} the low - order LPC {vocalsound} model 's fitting it , which should be {vocalsound} pretty poorly for two two or more {vocalsound} people speaking at the same time , and it should be pretty well , for w for {disfmarker} for one .
+Bmr006.D.dialogueact1157	3053.89	3068.22	D	Professor	fg|s^cs^na	+1	2	Well , that {disfmarker} that {disfmarker} that 's another reason why very simple features , things like energy , and things {disfmarker} things like harmonicity , and {vocalsound} residual energy are uh , yeah are {disfmarker} are better to use than very complex ones because they 'll be more reliable .
+1	Bmr006.s.5	Disk space issues were discussed.
+Bmr006.D.dialogueact517	1221.18	1229.08	D	Professor	fh|s^t^tc	+1	1	and {vocalsound} then um , I guess another topic would be {vocalsound} where are we in the whole disk resources {pause} question
+9	Bmr006.s.6	And , finally , the problem of speaker anonymization was explored.
+Bmr006.B.dialogueact1473	3561.58	3565.41	B	Grad	fh|s^t	+1	2	Um and then also anonymity , how we want to anonymize the data .
+Bmr006.E.dialogueact1517	3665.58	3669.12	E	Postdoc	qw	+1	2	the question becomes what symbol are you gonna put in there for everybody 's name ,
+Bmr006.E.dialogueact1518	3669.46	3674.86	E	Postdoc	qr	+1	2	and whether you 're gonna put it in the text where he says " Hey Roger " or are we gonna put that person 's anonymized name in instead ?
+Bmr006.B.dialogueact1531	3710.8	3720.6	B	Grad	s^df	+1	1	Because if we made the {disfmarker} the transcript be the tag that we 're using for Roger , someone who had the transcript and the audio would then have a mapping between the anonymized name and the real name , and we wanna avoid that .
+Bmr006.E.dialogueact1540	3765.82	3770.04	E	Postdoc	qw	+1	1	Um , how important is it for a person to be identified by first name versus full name ?
+Bmr006.E.dialogueact1545	3796.93	3801.39	E	Postdoc	s	+1	1	However , taking one step further back , they 'd be identifiable anyway , even if we changed all the names .
+Bmr006.E.dialogueact1544	3785.59	3796.75	E	Postdoc	s	+1	1	On the other hand , this is a small {disfmarker} this is a small pool , and people who say things about topic X e who are researchers and well - known in the field , they 'll be identifiable and simply from the {disfmarker} from the first name .
+Bmr006.E.dialogueact1554	3818.17	3824.85	E	Postdoc	s	+1	2	Now , it would be very possible for me to take those data put them in a {disfmarker} in a study , and just change everybody 's name for the purpose of the publication .
+Bmr006.E.dialogueact1752	4244.5	4254.7	E	Postdoc	s^cs	+1	2	And within that , it may be that it 's sufficient to not uh change the {disfmarker} to not incorporate anonymization yet , but always , always in the publications we have to .

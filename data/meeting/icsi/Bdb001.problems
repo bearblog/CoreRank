@@ -1,0 +1,20 @@
+1	Bdb001.s.15	Choosing a project-specific format for the representation of the data might not be optimal for future work.
+Bdb001.A.dialogueact507	990.113	1003.47	A	PhD	s.%--	+1	1	I {disfmarker} I think if it 's conceptually close , and they already have or will have tools that everybody else will be using , I mean , {vocalsound} it would be crazy to do something s you know , separate that {disfmarker}
+3	Bdb001.s.16	On the other hand , it is not yet clear whether a more standardised , but generic technology , like that of the ATLAS project , can accommodate all the requirements of speech analysis.
+Bdb001.A.dialogueact477	933.977	937.757	A	PhD	qy^rt	+1	2	Do they already have something that 's {disfmarker} that would be useful for us in place ?
+Bdb001.C.dialogueact500	982.166	988.036	C	Grad	h|s	+1	1	Um , th what would {disfmarker} would {disfmarker} would {disfmarker} what would worry me is that maybe we might miss a little detail
+Bdb001.C.dialogueact922	1904.73	1907.55	C	Grad	s	+1	2	I mean , I have to look at it again to see whether it can really do what we want ,
+2	Bdb001.s.17	Regardless of the particular format , including all annotations ( sentences , words , phones , frames , etc ) in one file could result in unmanageable file sizes.
+Bdb001.C.dialogueact193	419.71	423.5	C	Grad	s^no	+1	1	For lower than word - level , you 're talking about so much data that I just {disfmarker} I don't know .
+Bdb001.F.dialogueact237	496.65	497.67	F	PhD	s^na	+1	1	These are big files .
+0	Bdb001.s.18	Searching , updating or simply parsing a file for a simple task can become an unwieldy process.
+2	Bdb001.s.19	Even P-files , which are only for frame-level annotation , may be too verbose for the amount of data resulting from hour-long recordings.
+Bdb001.F.dialogueact222	472.231	473.691	F	PhD	s	+1	1	I mean these are long meetings
+Bdb001.C.dialogueact272	539.447	543.763	C	Grad	s^ba	+1	1	But I think , a anything at frame - level , even P - file , is too verbose .
+1	Bdb001.s.20	The actual mapping of word-level transcriptions to frame-level representations is expected to be problematic anyway.
+Bdb001.C.dialogueact814	1589.97	1596.88	C	Grad	s^df	+1	1	No matter what format you choose , you 're gonna have the trou you 're gonna have the difficulty of relating the {disfmarker} the frame - level features {disfmarker}
+2	Bdb001.s.21	Likewise , problems will arise if , in the future , slightly different transcripts of the same data are annotated in formats that do not include time-marks.
+Bdb001.A.dialogueact1155	2351.09	2356.69	A	PhD	s	+1	1	And sometimes the word sequences even differ slightly because they were edited s at one place but not the other .
+Bdb001.A.dialogueact1164	2387.01	2392.64	A	PhD	s^ng	+1	1	But , see , if you 'd annotate dialogue acts , you don't necessarily want to {disfmarker} or topics {disfmarker} you don't really want to be dealing with time - marks .
+1	Bdb001.s.22	Trying to merge such annotations later will not be easy , because of the combination of transcription discrepancies with the loss of the underlying connection offered by the time-marks.
+Bdb001.C.dialogueact1217	2544.26	2547.02	C	Grad	s^df	+1	1	The hard part is specifying what you mean by " merge " .

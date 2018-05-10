@@ -1,0 +1,17 @@
+3	Bro019.s.6	Speaker me018 will construct an FAQ about the new computing tools and setup , and email details.
+Bro019.F.dialogueact98	194.299	195.509	F	PhD	s^cs	+1	2	And I can send an email around
+Bro019.F.dialogueact99	195.509	198.169	F	PhD	s^cs	+1	2	or , maybe I should do an FAQ on the web site about it or something .
+Bro019.C.dialogueact102	199.88	201.47	C	Professor	qw^cs	+1	2	How about an email that points to the FAQ ,
+12	Bro019.s.7	Fn002 agrees to try an alternative approach to her new feature for voicing detection.
+Bro019.C.dialogueact1200	2557.22	2558.99	C	Professor	s	+1	1	I mean we 've had these discussions before ,
+Bro019.C.dialogueact1201	2558.99	2578.8	C	Professor	s	+1	1	and {disfmarker} and one of the things that struck me was that {disfmarker} uh , about this line of thought that was particularly interesting to me was that we um {disfmarker} whenever you condense things , uh , in an irreversible way , um , you throw away some information .
+Bro019.C.dialogueact1206	2594.55	2599.51	C	Professor	s:qy	+1	1	And so the question is , uh , can we figure out if there 's something we 've thrown away that we shouldn't have .
+Bro019.C.dialogueact1209	2602.68	2609.59	C	Professor	s:s^bk	+1	1	when they were looking at the difference between the filter bank and the FFT that was going into the filter bank , I was thinking " oh , OK ,
+Bro019.C.dialogueact1210	2609.59	2610.74	C	Professor	s:s	+1	1	so they 're picking on something
+Bro019.C.dialogueact1211	2611.23	2615.79	C	Professor	s:s	+1	1	they 're looking on it to figure out noise , or voice {disfmarker} voiced property whatever . "
+Bro019.C.dialogueact1214	2621.11	2626.06	C	Professor	s:qy	+1	1	But for me sort of the interesting thing was , " well , but is there just something in that difference which is useful ? "
+Bro019.C.dialogueact1215	2626.66	2632.94	C	Professor	s^cs	+1	1	So another way of doing it , maybe , would be just to take the FFT uh , power spectrum , and feed it into a neural network ,
+Bro019.C.dialogueact1231	2655.15	2660.35	C	Professor	fh|s	+1	1	And , you know , maybe if it 's used in combination , it will get at something that we 're missing .
+Bro019.C.dialogueact1277	2797.11	2797.97	C	Professor	s^df	+1	1	It 's just a thought .
+Bro019.B.dialogueact1278	2797.41	2797.53	B	PhD	s^bk	+1	1	Yeah ,
+Bro019.B.dialogueact1279	2797.82	2799.9	B	PhD	s^cc	+1	1	I can {disfmarker} I will try to do that .

@@ -1,0 +1,6 @@
+The german SmartKom version available on the server does not work.
+The english version , although still under development , does work , however , the system is still unstable as -apart from other reasons- it was initially built to work with a touch screen.
+De-bugging and cleaning up has to take place before any new modules are added on it.
+As regards the belief-net , no connections and dependencies have been built into it.
+These will have to be guessed instead of learnt through data , as not enough data is available for such a task.
+Finally , it has been noted that the JavaBayes GUI does not satisfy all the presentation requirements for this belief-net and modifying the underlying code would be too time-consuming.

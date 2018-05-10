@@ -1,0 +1,16 @@
+2	Bed009.s.16	Efforts are in progress to complete and test the code , generate an English grammar like that used in the German system , and get the parser interface working.
+Bed009.B.dialogueact54	254.04	260.997	B	Grad	s^rt	+1	1	and just gonna say we have um again the recognizer to parser thing where we 're working on
+Bed009.B.dialogueact63	301.873	309.15	B	Grad	s^rt	+1	1	or we simply adopt the ah um more in - depth um style that is implemented in the German system
+3	Bed009.s.17	A 'wizard of Oz' style data collection experiment is in progress to model users' underlying intentions when communicating with the dialogue component of a tourist domain GPS.
+Bed009.B.dialogueact166	609.66	611.83	B	Grad	s	+1	1	well for one thing we 're also using this room to collect data .
+Bed009.B.dialogueact169	616.247	621.147	B	Grad	s.%--	+1	1	no not meeting data but sort of {disfmarker} sort ah our version of a wizard experiment such
+Bed009.B.dialogueact176	633.753	638.424	B	Grad	s	+1	1	and so it 's a {disfmarker} sort of a computer call system that gives you tourist information
+1	Bed009.s.18	Corresponding interfaces and a belief net will be incorporated into the knowledge modelling module.
+Bed009.B.dialogueact230	813.21	827.87	B	Grad	fh|s	+1	1	And um so the idea is to construct uh um suitable interfaces and a belief - net for a module that actually tries to guess what the underlying intention {pause} was .
+4	Bed009.s.19	While the current focus is on decision making , a fuller implementation of SmartKom will enable it to query the user for desired information.
+Bed009.F.dialogueact324	1095.14	1116.49	F	Professor	s	+1	1	But , uh th the current design suggests that if it seems to be an important decision and if the belief - net is equivocal so that it doesn't say that one of these is much more probable than the other , then an option is to go back and ask for the information you want .
+Bed009.F.dialogueact348	1164.11	1171.71	F	Professor	s	+1	2	We probably won't do this early on , because the current focus is more on the decision making and stuff like that .
+Bed009.F.dialogueact350	1172.14	1188.86	F	Professor	s	+1	1	But While we 're on the subject I just wanted to give you a sort of head 's up that it could be that some months from now we said " OK we 're now ready to try to close that loop " in terms of querying about some of these decisions .
+Bed009.F.dialogueact669	2025.35	2030.61	F	Professor	s:s	+1	2	and this {disfmarker} one of these planning modules comes along and says " hey , right now we need to ask a question " .
+1	Bed009.s.20	Stemming information is connected to the lexicon through the use of knowledge bases from Verbmobil.
+Bed009.D.dialogueact897	2573.31	2576.56	D	Grad	s	+1	1	We have knowledge bases from {disfmarker} from Verbmobil system we can use

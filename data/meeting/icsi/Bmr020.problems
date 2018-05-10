@@ -1,0 +1,19 @@
+2	Bmr020.s.20	There is a slight worry about the acceptance of the paper submitted to Eurospeech as the deadline was exceeded.
+Bmr020.G.dialogueact98	153.957	157.177	G	PhD	s^na	+1	1	We actually exceeded the delayed deadline by o another day ,
+Bmr020.G.dialogueact87	143.11	144.13	G	PhD	s	+1	1	I hope they accept it .
+3	Bmr020.s.21	As to the content of the paper , the overlap statistics have not been normalised against the number of participants in the conversation , although the dependency is probably going to be a weak one.
+Bmr020.G.dialogueact292	444.809	446.269	G	PhD	s	+1	1	Well , we didn't get to look at that ,
+Bmr020.D.dialogueact289	442.61	445.0	D	PhD	s	+1	1	Yeah , I just wonder if you have to normalize by the numbers of speakers or something .
+Bmr020.A.dialogueact300	451.657	453.037	A	Grad	s	+1	1	I bet there 's a weak dependence .
+1	Bmr020.s.22	Additionally , the correlation between pauses in speech and interruptions does not provide a cause-and-effect link for these phenomena.
+Bmr020.G.dialogueact546	1000.0	1001.74	G	PhD	s^ng	+1	1	There 's no statement about cause and effect .
+2	Bmr020.s.23	The preparation of files for transcription by IBM is facing some minor difficulties , as some features ( hand-coded time boundaries , multiplicity of channels etc ) may complicate the generation of beep files.
+Bmr020.D.dialogueact901	1511.61	1525.89	D	PhD	s	+1	2	Yeah , in fact after our meeting uh , this morning Thilo came in and said that {vocalsound} um , there could be {pause} other differences between {vocalsound} the uh {pause} already transcribed meeting with the beeps in it and one that has {pause} just r been run through his process .
+Bmr020.A.dialogueact937	1595.05	1596.26	A	Grad	s	+1	1	That 's because of channel overlap .
+2	Bmr020.s.24	Besides this , the automatic pre-segmentation has been deemed to be good , but there are still no specific measurements to verify this.
+Bmr020.C.dialogueact1269	2388.22	2396.92	C	Postdoc	s	+1	1	But you know , I wanted to say , his segmentation is so good , that {vocalsound} um , the part that I listened to with her yesterday {vocalsound} didn't need any adjustments of the bins .
+Bmr020.B.dialogueact1564	2819.85	2826.11	B	PhD	s^no	+1	1	I can't {comment} really {disfmarker} hhh , {comment} {pause} Tsk . {comment} I {pause} don't have really representative numbers , I think .
+1	Bmr020.s.25	The pre-segmentation tool also classifies synthesised speech used in a recording as "normal speech" and assigns a random channel to it.
+Bmr020.B.dialogueact1698	3033.18	3039.53	B	PhD	s	+1	1	And i {vocalsound} the speech - nonspeech detector just assigns randomly the speech to {disfmarker} to one of the channels ,
+1	Bmr020.s.26	The transcribers at IBM may not be able to differentiate between the two.
+Bmr020.A.dialogueact1720	3066.93	3068.93	A	Grad	s^bsc^df	+1	1	a hand - transcriber would have trouble with that .

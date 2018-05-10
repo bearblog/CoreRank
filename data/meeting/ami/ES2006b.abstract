@@ -1,0 +1,235 @@
+18	ES2006b.elana.s.1	The project manager opens the meeting by stating that they will address functional design and then going over the agenda.
+ES2006b.C.dialog-act.s9553330.3	16.94	20.74	C	PM	inf	+1	1	now we are here at the functional design meeting .
+ES2006b.C.dialog-act.s9553330.4	20.74	25.68	C	PM	inf	+1	1	Um {vocalsound} hopefully this meeting I'll be doing a little bit less talking than I did last time
+ES2006b.C.dialog-act.s9553330.5	25.68	31.03	C	PM	inf	+1	1	'cause this is when you get to show us what you've been doing individually .
+ES2006b.C.dialog-act.s9553330.6	31.03	36.23	C	PM	inf	+1	1	The agenda for the meeting , I put it in the sh shared documents folder .
+ES2006b.C.dialog-act.s9553330.18	70.89	74.72	C	PM	off	+1	1	Um {vocalsound} I'll act as secretary for this meeting
+ES2006b.C.dialog-act.s9553330.19	74.72	77.45	C	PM	off	+1	1	and just take minutes as we go through ,
+ES2006b.C.dialog-act.s9553330.21	81.73	88.55	C	PM	inf	+1	1	The main the main focus of this meeting is your presentations that you've been preparing during the time ,
+ES2006b.C.dialog-act.s9553330.23	91.78	97.58	C	PM	inf	+1	1	Um then we need to briefly discuss the new project requirements that were sent to us .
+ES2006b.C.dialog-act.s9553330.25	98.93	99.89	C	PM	inf	+1	1	at the last minute ,
+ES2006b.C.dialog-act.s9553330.30	107.37	115.16	C	PM	inf	+1	1	then we need to , by the end of the meeting come to some kind of decision on who our target group's going to be
+ES2006b.C.dialog-act.s9553330.31	115.16	118.11	C	PM	inf	+1	1	and what the functions of the remote control {disfmarker}
+ES2006b.A.dialog-act.s9553330.2	133.62	135.99	A	ID	inf	+1	1	You said uh targ target groups ,
+ES2006b.A.dialog-act.s9553330.3	135.99	136.82	A	ID	el.inf	+1	1	what does that mean ?
+ES2006b.C.dialog-act.s9553330.39	137.19	141.08	C	PM	inf	+1	1	As uh who it is that we're going to be trying to sell this thing to ,
+ES2006b.C.dialog-act.s9553330.43	143.59	148.44	C	PM	inf	+1	1	yeah , we need to have a fairly defined group that that we want to focus on
+ES2006b.C.dialog-act.s9553330.52	203.57	210.5	C	PM	sug	+1	1	Just before you start , to make it easier , would you three mind emailing me your presentations ? Once we {disfmarker}
+ES2006b.C.dialog-act.s9553330.53	210.5	213.56	C	PM	sug	+1	1	you don't have to do it now but when {disfmarker} once you go back ,
+ES2006b.C.dialog-act.s9553330.54	213.56	216.03	C	PM	inf	+1	1	just so that I don't have to scribble everything down .
+32	ES2006b.elana.s.2	The industrial designer gives his presentation , explaining how remote controls function and giving personal preference to a clear , simple design that upgrades the technology as well as incorporates the latest features in chip design.
+ES2006b.A.dialog-act.s9553330.16	218.432	233.58	A	ID	inf	+1	1	{vocalsound} So n uh with uh with regard to the {vocalsound} uh working design of this uh uh remote control uh I've identified um {vocalsound} a few basic uh components of the remote
+ES2006b.A.dialog-act.s9553330.17	233.58	245.43	A	ID	inf	+1	1	and uh {vocalsound} se uh from the design , functional design perspective um w I c we can now uh know wha what exactly the components are
+ES2006b.A.dialog-act.s9553330.21	262.14	265.68	A	ID	inf	+1	1	Um the identification of the components ,
+ES2006b.A.dialog-act.s9553330.22	265.68	278.26	A	ID	el.ass	+1	1	uh and uh since since I'm dealing only with the technical aspects , I would need feedback from the marketing person uh and {vocalsound} uh from the user interface person .
+ES2006b.A.dialog-act.s9553330.23	278.26	283.6	A	ID	inf	+1	1	Uh we'll then integrate this into the product design at a technical level
+ES2006b.A.dialog-act.s9553330.27	292.7	296.71	A	ID	inf	+1	1	these were the basic findings from today .
+ES2006b.A.dialog-act.s9553330.28	296.71	301.95	A	ID	inf	+1	1	The last three bullets have been integrated from uh the last minute uh email .
+ES2006b.A.dialog-act.s9553330.32	308.92	322.08	A	ID	inf	+1	1	as I told you the identification of how the remote control works and what are the various parts to it uh and what are the different processes um {vocalsound} and how the parts uh communicate with each other .
+ES2006b.A.dialog-act.s9553330.37	333.79	338.26	A	ID	inf	+1	1	also uh the remote control should be used only for television ,
+ES2006b.A.dialog-act.s9553330.38	338.26	342.76	A	ID	inf	+1	1	because incorporating other features um makes it more comp complex .
+ES2006b.A.dialog-act.s9553330.39	343.22	350.8	A	ID	inf	+1	1	And the reason why teletext is outdated because uh of internet and uh the availability of internet over television .
+ES2006b.A.dialog-act.s9553330.42	360.95	365.32	A	ID	inf	+1	1	also the management wants that um our design should be unique
+ES2006b.A.dialog-act.s9553330.44	366.34	377.43	A	ID	inf	+1	1	so {vocalsound} it should incorporate um colour and the slogan uh that our company um has it as its standard .
+ES2006b.A.dialog-act.s9553330.45	379.504	384.51	A	ID	inf	+1	1	{vocalsound} Okay , so he he here is a functional overview of the remote control .
+ES2006b.A.dialog-act.s9553330.47	385.86	392.83	A	ID	inf	+1	1	there's basically an energy source at the heart uh which feeds into the chip and the user interface .
+ES2006b.A.dialog-act.s9553330.48	392.83	395.96	A	ID	inf	+1	1	The user interf interface communicates with the chip ,
+ES2006b.A.dialog-act.s9553330.52	411.13	429.89	A	ID	inf	+1	1	if uh if this is our energy source and this is a cell , uh it communicates {disfmarker} uh it feeds energy into the into the chip , which basically finds out h uh how how to do everything .
+ES2006b.A.dialog-act.s9553330.53	429.89	431.72	A	ID	inf	+1	1	There is a user interface here .
+ES2006b.A.dialog-act.s9553330.54	433.136	437.12	A	ID	inf	+1	1	{vocalsound} So whe when the user presses a button , it feeds into the chip
+ES2006b.A.dialog-act.s9553330.55	437.12	439.86	A	ID	inf	+1	1	and the chip then generates a response
+ES2006b.A.dialog-act.s9553330.56	439.86	444.42	A	ID	inf	+1	1	and takes the response to an infrared terminal ,
+ES2006b.A.dialog-act.s9553330.61	460.63	469.66	A	ID	inf	+1	1	Um the there can be uh a bulb here or something to indicate whether the remote is on or communicating .
+ES2006b.A.dialog-act.s9553330.58	446.91	451.61	A	ID	inf	+1	1	so the output of the chip is an infrared bit code ,
+ES2006b.A.dialog-act.s9553330.65	476.7	484.19	A	ID	inf	+1	1	whatever new functions that we need to do , um make the chip more complicated uh and bigger , basically .
+ES2006b.A.dialog-act.s9553330.68	498.08	506.19	A	ID	inf	+1	1	i in my personal preferences um {vocalsound} I'm hoping that we can ke keep the design as simple and clear as possible .
+ES2006b.A.dialog-act.s9553330.69	506.19	511.5	A	ID	inf	+1	1	This would uh help us uh to upgrade our technology at a future point of time .
+ES2006b.A.dialog-act.s9553330.70	511.5	528.25	A	ID	sug	+1	1	And uh also if we can incorporate uh the latest features in our chip design , so that our um {vocalsound} uh remote control does not become outdated soon and it's compatible with mot most uh televisions .
+ES2006b.C.dialog-act.s9553330.58	533.43	538.82	C	PM	el.inf	+1	1	Do you have any um i idea about costs at this point ?
+ES2006b.A.dialog-act.s9553330.73	537.92	542.74	A	ID	inf	+1	1	{vocalsound} No , I don't have any idea about what each component costs .
+ES2006b.C.dialog-act.s9553330.61	547.97	550.52	C	PM	sug	+1	1	'Cause that's something to consider , I guess ,
+ES2006b.C.dialog-act.s9553330.62	550.52	557.55	C	PM	inf	+1	1	if we're if we're using more advanced technology , it might increase the price .
+ES2006b.A.dialog-act.s9553330.79	557.01	560.56	A	ID	inf	+1	1	we definitely need to operate within our constraints ,
+29	ES2006b.elana.s.3	The interface specialist gives her presentation next , addressing the main purpose of a remote control.
+ES2006b.D.dialog-act.s9553330.21	582.99	590.15	D	UI	off	+1	1	I think since since we were discussing some um design issues then I I I would like to continue {disfmarker}
+ES2006b.D.dialog-act.s9553330.48	682.04	685.53	D	UI	inf	+1	1	So I'm going to speak about technical functions design
+ES2006b.D.dialog-act.s9553330.53	708.96	715.09	D	UI	inf	+1	1	uh my method was um to look at um other {vocalsound} um remote controls ,
+ES2006b.D.dialog-act.s9553330.54	715.09	718.8	D	UI	inf	+1	1	uh so mostly just by searching on the web
+ES2006b.D.dialog-act.s9553330.56	722.48	737.05	D	UI	inf	+1	1	And then um after having got this inspiration and having compared what I found on the web um just to think about what the de what the user really needs and what um what the user might desire as additional uh functionalities .
+ES2006b.D.dialog-act.s9553330.58	746.4	755.97	D	UI	inf	+1	1	Um so the findings uh were {vocalsound} um that the main function of the remote control is is just sending messages to the television set ,
+ES2006b.D.dialog-act.s9553330.60	758.0	762.21	D	UI	inf	+1	2	And uh w some of the main functions would be switching on , switching off ,
+ES2006b.D.dialog-act.s9553330.61	762.21	765.91	D	UI	inf	+1	2	uh then the user would like to switch the channel
+ES2006b.D.dialog-act.s9553330.62	765.91	774.1	D	UI	inf	+1	2	um for example just m changing to the next channel to to flip through all all of the possible channels ,
+ES2006b.D.dialog-act.s9553330.63	774.1	781.61	D	UI	inf	+1	2	or then mm {vocalsound} uh the other possibility would be that um she might just want to choose one particular channel ,
+ES2006b.D.dialog-act.s9553330.64	781.61	783.89	D	UI	inf	+1	2	so we would need the numbers .
+ES2006b.D.dialog-act.s9553330.65	783.89	787.36	D	UI	inf	+1	2	And and also the volume is very important .
+ES2006b.D.dialog-act.s9553330.70	802.18	816.26	D	UI	inf	+1	1	Um um among the findings I found that m m most of the curr mm presently available remote controls also include other mm {vocalsound} functionalities um in their design , like operating a V_C_R_ ,
+ES2006b.D.dialog-act.s9553330.71	816.26	819.87	D	UI	inf	+1	1	but they don't seem to be able to deal with D_V_D_ players ,
+ES2006b.D.dialog-act.s9553330.73	826.49	836.43	D	UI	inf	+1	1	but according to the last minute update um actually um we do not want to have all this complicated functions added to our design .
+ES2006b.D.dialog-act.s9553330.74	836.43	846.12	D	UI	inf	+1	2	So my personal preferences would be uh to keep the mm the whole remote control small um just like the physical size .
+ES2006b.D.dialog-act.s9553330.75	846.12	847.79	D	UI	inf	+1	2	And then it must be easy to use ,
+ES2006b.D.dialog-act.s9553330.76	847.79	853.11	D	UI	inf	+1	2	so it must follow some conventions um like whereabouts you find the on off button
+ES2006b.D.dialog-act.s9553330.77	853.11	857.04	D	UI	inf	+1	2	and maybe the colour tends to be red or something .
+ES2006b.D.dialog-act.s9553330.82	871.46	875.91	D	UI	inf	+1	2	But then um other functionalities um {vocalsound} could be just {disfmarker}
+ES2006b.D.dialog-act.s9553330.83	875.91	877.72	D	UI	sug	+1	2	uh there could be a menu button
+ES2006b.D.dialog-act.s9553330.84	877.72	880.45	D	UI	sug	+1	2	and you could change things on the screen then ,
+ES2006b.D.dialog-act.s9553330.85	880.45	888.89	D	UI	sug	+1	2	um for example brightness and mm similar functions could be just um {vocalsound} done through the menu .
+ES2006b.D.dialog-act.s9553330.87	889.61	895.57	D	UI	inf	+1	1	the last question I had about whether we wanted to incorporate n uh more functionalities ,
+ES2006b.D.dialog-act.s9553330.88	895.57	898.99	D	UI	inf	+1	1	the answer was already no because of the last minute update .
+ES2006b.C.dialog-act.s9553330.98	907.02	914.58	C	PM	off	+1	1	but if we had a a decent case for {disfmarker} that we really think it's important to include video and D_V_D_ , I could get back to them and see .
+ES2006b.D.dialog-act.s9553330.92	918.33	930.55	D	UI	inf	+1	1	and also it's it's um {disfmarker} other question is uh because there are so many different {disfmarker} And there are so many different things that could possibly be included
+ES2006b.D.dialog-act.s9553330.93	930.55	937.61	D	UI	inf	+1	1	because besides video and D_V_D_ there are the mm um video C_D_s and whatever ,
+ES2006b.D.dialog-act.s9553330.94	937.61	944.46	D	UI	inf	+1	1	so it might be problematic to to choose between all these possible things .
+10	ES2006b.elana.s.4	She pinpoints the main functions of on/off , channel-switching , numbers for choosing particular channels , and volume; and also suggests adding a menu button to change settings such as brightness on the screen.
+ES2006b.D.dialog-act.s9553330.60	758.0	762.21	D	UI	inf	+1	2	And uh w some of the main functions would be switching on , switching off ,
+ES2006b.D.dialog-act.s9553330.61	762.21	765.91	D	UI	inf	+1	2	uh then the user would like to switch the channel
+ES2006b.D.dialog-act.s9553330.62	765.91	774.1	D	UI	inf	+1	2	um for example just m changing to the next channel to to flip through all all of the possible channels ,
+ES2006b.D.dialog-act.s9553330.63	774.1	781.61	D	UI	inf	+1	2	or then mm {vocalsound} uh the other possibility would be that um she might just want to choose one particular channel ,
+ES2006b.D.dialog-act.s9553330.64	781.61	783.89	D	UI	inf	+1	2	so we would need the numbers .
+ES2006b.D.dialog-act.s9553330.65	783.89	787.36	D	UI	inf	+1	2	And and also the volume is very important .
+ES2006b.D.dialog-act.s9553330.82	871.46	875.91	D	UI	inf	+1	2	But then um other functionalities um {vocalsound} could be just {disfmarker}
+ES2006b.D.dialog-act.s9553330.83	875.91	877.72	D	UI	sug	+1	2	uh there could be a menu button
+ES2006b.D.dialog-act.s9553330.84	877.72	880.45	D	UI	sug	+1	2	and you could change things on the screen then ,
+ES2006b.D.dialog-act.s9553330.85	880.45	888.89	D	UI	sug	+1	2	um for example brightness and mm similar functions could be just um {vocalsound} done through the menu .
+4	ES2006b.elana.s.5	She gives preference to a remote that is small , easy to use , and follows some conventions.
+ES2006b.D.dialog-act.s9553330.74	836.43	846.12	D	UI	inf	+1	2	So my personal preferences would be uh to keep the mm the whole remote control small um just like the physical size .
+ES2006b.D.dialog-act.s9553330.75	846.12	847.79	D	UI	inf	+1	2	And then it must be easy to use ,
+ES2006b.D.dialog-act.s9553330.76	847.79	853.11	D	UI	inf	+1	2	so it must follow some conventions um like whereabouts you find the on off button
+ES2006b.D.dialog-act.s9553330.77	853.11	857.04	D	UI	inf	+1	2	and maybe the colour tends to be red or something .
+15	ES2006b.elana.s.6	The group briefly discusses the possibility of using an LCD screen if cost allows it , since it is fancy and fashionable.
+ES2006b.A.dialog-act.s9553330.107	984.54	988.88	A	ID	sug	+1	1	and uh have some kind of a fancy user interface or something like that .
+ES2006b.D.dialog-act.s9553330.95	992.76	998.37	D	UI	ass	+1	1	Um well , I think the buttons are still mm kind of the most um easy for the user to use ,
+ES2006b.A.dialog-act.s9553330.106	981.33	984.54	A	ID	sug	+1	1	or {disfmarker} I mean in {disfmarker} we can completely do away with buttons
+ES2006b.A.dialog-act.s9553330.105	975.38	981.33	A	ID	el.sug	+1	1	so so at this stage , uh how we go about implementing those button we will not identify
+ES2006b.A.dialog-act.s9553330.102	961.44	971.11	A	ID	inf	+1	1	{vocalsound} So in the u user interface requirements uh uh uh we we have been able to identify what are the basic buttons that we do want .
+ES2006b.D.dialog-act.s9553330.96	998.37	1001.14	D	UI	el.sug	+1	1	I mean um what other options would you have ?
+ES2006b.D.dialog-act.s9553330.97	1001.14	1002.25	D	UI	sug	+1	1	A little screen or something ,
+ES2006b.D.dialog-act.s9553330.98	1002.25	1006.77	D	UI	inf	+1	1	but this would be really kind of I think a lot of learning for the user
+ES2006b.D.dialog-act.s9553330.99	1006.77	1012.1	D	UI	inf	+1	1	and and I mean the user just wants to get um get a result um quickly ,
+ES2006b.D.dialog-act.s9553330.100	1012.1	1017.91	D	UI	inf	+1	1	not to spend time in like um giving several orders um I dunno .
+ES2006b.D.dialog-act.s9553330.101	1017.91	1020.94	D	UI	sug	+1	1	I think I th I would I would think the put the buttons ,
+ES2006b.A.dialog-act.s9553330.114	1024.75	1029.38	A	ID	inf	+1	1	Uh I think the co costs will also play a big role when we come to know about them .
+ES2006b.A.dialog-act.s9553330.115	1029.38	1033.6	A	ID	sug	+1	1	So well we can probably wait until t we have more knowledge on that .
+ES2006b.A.dialog-act.s9553330.116	1033.6	1037.96	A	ID	sug	+1	1	Uh i if the if the costs allow , we can have like an L_C_D_ display
+ES2006b.A.dialog-act.s9553330.118	1039.48	1043.21	A	ID	inf	+1	1	because we do want something fancy and fashionable as well .
+48	ES2006b.elana.s.7	The marketing expert presents , giving statistical information from a survey of 100 subjects.
+ES2006b.B.dialog-act.s9553330.15	1124.71	1136.3	B	ME	inf	+1	1	So what I have , wh where I've got my information from is a survey where the usability lab um observed remote control use with um a hundred subjects
+ES2006b.B.dialog-act.s9553330.16	1136.3	1139.52	B	ME	inf	+1	1	and then they gave them a questionnaire .
+ES2006b.B.dialog-act.s9553330.24	1160.56	1165.63	B	ME	inf	+1	1	What they found is that people don't like how current remote controls are ,
+ES2006b.B.dialog-act.s9553330.26	1170.39	1174.86	B	ME	inf	+1	1	Um seventy five percent of users find most remote controls ugly .
+ES2006b.B.dialog-act.s9553330.28	1177.65	1185.33	B	ME	inf	+1	1	Uh eighty percent of users would spend more to get um you know , a nice looking remote control .
+ES2006b.B.dialog-act.s9553330.29	1185.33	1189.62	B	ME	inf	+1	1	Um current remote controls , they don't match the user behaviour well ,
+ES2006b.B.dialog-act.s9553330.31	1191.51	1193.41	B	ME	inf	+1	1	Um I dunno what zapping is ,
+ES2006b.C.dialog-act.s9553330.123	1193.67	1198.28	C	PM	inf	+1	1	It's um switching between channels , sort of randomly going through .
+ES2006b.B.dialog-act.s9553330.34	1200.25	1203.47	B	ME	inf	+1	1	But you have that little thing that comes up at the bottom and tells you what's on .
+ES2006b.B.dialog-act.s9553330.35	1203.47	1206.96	B	ME	inf	+1	1	Um okay , fifty percent of users say they only use ten percent of the buttons ,
+ES2006b.B.dialog-act.s9553330.36	1206.96	1212.69	B	ME	inf	+1	1	so that's going back to what , you know , we were saying earlier about , you know , do you need all the buttons on the remote control ,
+ES2006b.B.dialog-act.s9553330.37	1212.69	1214.32	B	ME	inf	+1	1	they just make it look ugly .
+ES2006b.B.dialog-act.s9553330.39	1215.74	1217.39	B	ME	inf	+1	1	Um so this is my little graph thing .
+ES2006b.B.dialog-act.s9553330.51	1242.97	1246.5	B	ME	inf	+1	1	what it shows is how much things are used relatively
+ES2006b.B.dialog-act.s9553330.52	1246.5	1251.9	B	ME	inf	+1	1	and what you can clearly see from that is the thing that's used most is the channel selection .
+ES2006b.B.dialog-act.s9553330.53	1251.9	1255.11	B	ME	inf	+1	1	What you can't see is volume selection , it's a little bit higher than all the others .
+ES2006b.B.dialog-act.s9553330.55	1258.35	1265.95	B	ME	inf	+1	1	so what the graph shows is that , you know , power , channel selection and volume selection are important ,
+ES2006b.B.dialog-act.s9553330.56	1265.95	1269.96	B	ME	inf	+1	1	and the rest of them , you know , nobody really uses
+ES2006b.B.dialog-act.s9553330.57	1269.96	1278.34	B	ME	inf	+1	1	and so that's the the numbers along the top represent their like um their importance , you know ,
+ES2006b.B.dialog-act.s9553330.59	1281.58	1286.36	B	ME	inf	+1	1	and , you know , channel selection and volume selection are absolutely essential ,
+ES2006b.B.dialog-act.s9553330.60	1286.36	1289.71	B	ME	inf	+1	1	and the power , well it's not quite so essential , apparently ,
+ES2006b.B.dialog-act.s9553330.62	1292.11	1296.76	B	ME	sug	+1	1	{vocalsound} um and everything else , I think , you know , you can forget about having those buttons on the remote control ,
+ES2006b.B.dialog-act.s9553330.70	1307.36	1310.67	B	ME	inf	+1	1	so this is what people find annoying about remote controls .
+ES2006b.B.dialog-act.s9553330.71	1310.67	1312.51	B	ME	inf	+1	1	Uh that they get lost ,
+ES2006b.B.dialog-act.s9553330.72	1312.51	1314.87	B	ME	inf	+1	1	that the uh you know , they're not intuitive
+ES2006b.B.dialog-act.s9553330.73	1314.87	1318.21	B	ME	inf	+1	1	and that they're bad for repetitive strain injury .
+ES2006b.B.dialog-act.s9553330.78	1339.76	1343.61	B	ME	inf	+1	1	you want something with an ergonomic t design that encourages good use of the remote control
+ES2006b.B.dialog-act.s9553330.85	1359.69	1365.19	B	ME	inf	+1	1	but that shows how people {disfmarker} whether they would pay more for voice recognition software .
+ES2006b.B.dialog-act.s9553330.87	1365.19	1376.54	B	ME	inf	+1	1	So you can see from that that , you know , younger people to the age of thirty five are quite likely to pay quite a lot more f well quite {disfmarker} are quite likely to pay more for voice recognition software ,
+ES2006b.B.dialog-act.s9553330.88	1376.54	1380.07	B	ME	inf	+1	1	whereas as people get older , they're a bit more sceptical about it
+ES2006b.B.dialog-act.s9553330.90	1382.46	1386.4	B	ME	inf	+1	2	Um so clearly voice recognition is something to think about ,
+ES2006b.B.dialog-act.s9553330.91	1386.4	1394.1	B	ME	ass	+1	2	but um you know I d I do wonder how well that would work given that a T_V_ , you know , tends to be people talking
+ES2006b.B.dialog-act.s9553330.92	1394.1	1401.54	B	ME	ass	+1	2	and um , you know , how are you going to stop it from just flipping channels whilst watching T_V_ .
+ES2006b.B.dialog-act.s9553330.95	1407.08	1410.39	B	ME	inf	+1	2	so these are my personal preferences .
+ES2006b.B.dialog-act.s9553330.96	1410.39	1414.5	B	ME	inf	+1	2	{vocalsound} So you have sleek , stylish , sophisticated , you know ,
+ES2006b.B.dialog-act.s9553330.97	1414.5	1418.75	B	ME	inf	+1	2	so something that's , you know , a bit cool .
+ES2006b.B.dialog-act.s9553330.98	1418.75	1423.6	B	ME	inf	+1	2	Um you know , functional , so it's useful , but minimalist .
+ES2006b.B.dialog-act.s9553330.101	1436.89	1440.71	B	ME	inf	+1	2	so things should either be functional or beautiful or preferably both ,
+ES2006b.B.dialog-act.s9553330.103	1442.95	1446.91	B	ME	inf	+1	2	Um okay , then a long battery life , like you were talking about earlier
+ES2006b.B.dialog-act.s9553330.104	1446.91	1449.9	B	ME	inf	+1	2	and um , you know , I was thinking that solar power would be quite cool
+ES2006b.B.dialog-act.s9553330.105	1449.9	1452.21	B	ME	inf	+1	2	because , you know , your remote control just sits there ,
+ES2006b.B.dialog-act.s9553330.106	1452.21	1453.73	B	ME	sug	+1	2	and you could just sit it in the sunshine
+ES2006b.B.dialog-act.s9553330.107	1453.73	1455.66	B	ME	sug	+1	2	and save the environment a bit .
+ES2006b.B.dialog-act.s9553330.108	1455.66	1457.77	B	ME	inf	+1	2	Um and then like a locator ,
+ES2006b.B.dialog-act.s9553330.109	1457.77	1461.66	B	ME	inf	+1	2	so you know , kind of like you have for a mobile phone or {disfmarker}
+ES2006b.A.dialog-act.s9553330.136	1463.09	1464.15	A	ID	inf	+1	2	Some kind of a ring ,
+ES2006b.C.dialog-act.s9553330.154	1465.86	1468.64	C	PM	inf	+1	2	Whistle and it {vocalsound} screams at you , yeah .
+ES2006b.B.dialog-act.s9553330.115	1474.23	1477.02	B	ME	sug	+1	2	{vocalsound} So yeah , so maybe something where you clap and then it beeps ,
+15	ES2006b.elana.s.8	She prefers a remote that is sleek , stylish , sophisticated , cool , beautiful , functional , solar-powered , has long battery life , and has a locator.
+ES2006b.B.dialog-act.s9553330.95	1407.08	1410.39	B	ME	inf	+1	2	so these are my personal preferences .
+ES2006b.B.dialog-act.s9553330.96	1410.39	1414.5	B	ME	inf	+1	2	{vocalsound} So you have sleek , stylish , sophisticated , you know ,
+ES2006b.B.dialog-act.s9553330.97	1414.5	1418.75	B	ME	inf	+1	2	so something that's , you know , a bit cool .
+ES2006b.B.dialog-act.s9553330.98	1418.75	1423.6	B	ME	inf	+1	2	Um you know , functional , so it's useful , but minimalist .
+ES2006b.B.dialog-act.s9553330.101	1436.89	1440.71	B	ME	inf	+1	2	so things should either be functional or beautiful or preferably both ,
+ES2006b.B.dialog-act.s9553330.103	1442.95	1446.91	B	ME	inf	+1	2	Um okay , then a long battery life , like you were talking about earlier
+ES2006b.B.dialog-act.s9553330.104	1446.91	1449.9	B	ME	inf	+1	2	and um , you know , I was thinking that solar power would be quite cool
+ES2006b.B.dialog-act.s9553330.105	1449.9	1452.21	B	ME	inf	+1	2	because , you know , your remote control just sits there ,
+ES2006b.B.dialog-act.s9553330.106	1452.21	1453.73	B	ME	sug	+1	2	and you could just sit it in the sunshine
+ES2006b.B.dialog-act.s9553330.107	1453.73	1455.66	B	ME	sug	+1	2	and save the environment a bit .
+ES2006b.B.dialog-act.s9553330.109	1457.77	1461.66	B	ME	inf	+1	2	so you know , kind of like you have for a mobile phone or {disfmarker}
+ES2006b.A.dialog-act.s9553330.136	1463.09	1464.15	A	ID	inf	+1	2	Some kind of a ring ,
+ES2006b.C.dialog-act.s9553330.154	1465.86	1468.64	C	PM	inf	+1	2	Whistle and it {vocalsound} screams at you , yeah .
+ES2006b.B.dialog-act.s9553330.115	1474.23	1477.02	B	ME	sug	+1	2	{vocalsound} So yeah , so maybe something where you clap and then it beeps ,
+ES2006b.B.dialog-act.s9553330.108	1455.66	1457.77	B	ME	inf	+1	2	Um and then like a locator ,
+19	ES2006b.elana.s.9	They discuss the target group , deciding it should be 15-35 year olds.
+ES2006b.C.dialog-act.s9553330.161	1502.6	1507.43	C	PM	inf	+1	1	So , we've got about ten , fifteen minutes to discuss
+ES2006b.A.dialog-act.s9553330.144	1507.68	1527.32	A	ID	ass	+1	1	{vocalsound} I think one of the very interesting things that came up in um {vocalsound} uh Ka Kate Cat Cat's uh presentation was um {vocalsound} uh this this issue of uh uh like voice recognition being more popular with uh younger people .
+ES2006b.A.dialog-act.s9553330.145	1527.32	1548.08	A	ID	sug	+1	1	So if we need to have a target group um then uh {vocalsound} I think as far as the m motto of our company is concerned , if we want to have something sleek and uh you know , good looking uh we are better off targeting a younger audience then um you know , people who are comparatively elderly .
+ES2006b.B.dialog-act.s9553330.125	1549.91	1559.77	B	ME	inf	+1	1	I mean that's the thing is that it didn't say in the survey , you know , whether , you know , these are the people that will pay more for a more stylish remote control ,
+ES2006b.A.dialog-act.s9553330.149	1562.48	1566.95	A	ID	inf	+1	1	Bu but but the survey did say that f things like voice recognition are more popular with them ,
+ES2006b.C.dialog-act.s9553330.166	1575.96	1583.09	C	PM	inf	+1	1	Then again I guess the th where it was most popular was the fifteen to twenty five bracket
+ES2006b.C.dialog-act.s9553330.167	1583.09	1586.76	C	PM	inf	+1	1	and the {disfmarker} I don't know how often they're buying televisions .
+ES2006b.C.dialog-act.s9553330.170	1593.07	1600.8	C	PM	inf	+1	1	I would've thought it's it's more that twenty five to thirty five , when people are really moving out and they've got their first job and they want their nice toys and {disfmarker}
+ES2006b.A.dialog-act.s9553330.162	1611.15	1617.35	A	ID	el.inf	+1	1	wh uh um people between twenty five to thirty five , uh how popular was {disfmarker}
+ES2006b.B.dialog-act.s9553330.133	1616.17	1618.7	B	ME	inf	+1	1	Seventy six point three percent .
+ES2006b.B.dialog-act.s9553330.136	1625.98	1630.11	B	ME	inf	+1	1	but I mean it has been proven that that people of that age group have a higher disposable income
+ES2006b.B.dialog-act.s9553330.145	1647.07	1650.32	B	ME	inf	+1	1	I mean like it is an age group to target , really , I think .
+ES2006b.C.dialog-act.s9553330.184	1650.58	1657.41	C	PM	inf	+1	1	and if we're if we're talking twenty five Euros as a price , that's not unaffordable , even for young people .
+ES2006b.D.dialog-act.s9553330.120	1661.25	1666.191	D	UI	ass	+1	1	but the problem is whether people need it , whether they do have a T_V_ {vocalsound} to use its full {disfmarker}
+ES2006b.C.dialog-act.s9553330.191	1677.31	1680.4	C	PM	ass	+1	1	and be a bit strange to have a fancy {vocalsound} rome remote .
+ES2006b.B.dialog-act.s9553330.156	1691.99	1702.63	B	ME	inf	+1	1	I think I think the fact that , you know , ninety one point two percent of fifteen to twenty five year olds are saying yes , I would pay more for a voice recognition remote control , does say quite a lot really .
+ES2006b.D.dialog-act.s9553330.134	1711.71	1717.76	D	UI	sug	+1	1	but at the same time I think maybe we can we can just decide to to have both of these groups as our target ,
+ES2006b.D.dialog-act.s9553330.135	1717.76	1720.55	D	UI	inf	+1	1	because actually I mean they're all still re young people .
+ES2006b.C.dialog-act.s9553330.198	1720.7	1723.45	C	PM	sug	+1	1	Yeah , if we ta if we take fifteen to thirty five ,
+35	ES2006b.elana.s.10	After they talk about features they might include , the project manager closes the meeting by allocating tasks.
+ES2006b.C.dialog-act.s9553330.199	1723.45	1727.13	C	PM	inf	+1	2	but that then does imply that we should try and incorporate voice recognition .
+ES2006b.C.dialog-act.s9553330.200	1727.13	1731.19	C	PM	el.inf	+1	2	Is that gonna have a {disfmarker} an implication for the technical specs ?
+ES2006b.A.dialog-act.s9553330.177	1734.76	1737.16	A	ID	inf	+1	2	but voice recognition itself I'm not very sure about ,
+ES2006b.C.dialog-act.s9553330.204	1759.59	1768.84	C	PM	inf	+1	2	With um {disfmarker} but with a T_V_ remote it's gonna be quite limited if we're t saying the main things people want to do is on off channel five ,
+ES2006b.C.dialog-act.s9553330.206	1771.74	1774.12	C	PM	ass	+1	2	tha that should be relatively simple .
+ES2006b.B.dialog-act.s9553330.166	1774.23	1775.78	B	ME	sug	+1	2	y you'd maybe need a code word .
+ES2006b.B.dialog-act.s9553330.172	1790.07	1797.29	B	ME	sug	+1	2	but like so you'd just say remote five , you know , remote ten , remote one two nine .
+ES2006b.C.dialog-act.s9553330.212	1801.95	1806.21	C	PM	sug	+1	2	but maybe if you wanna look into that just to just to check .
+ES2006b.D.dialog-act.s9553330.147	1829.69	1835.95	D	UI	sug	+1	2	w well now the v the voice recognition if if it works wonderfully w we could possibly do away with all buttons ,
+ES2006b.D.dialog-act.s9553330.148	1835.95	1838.22	D	UI	ass	+1	2	but I think this is not really the right moment yet ,
+ES2006b.D.dialog-act.s9553330.149	1838.22	1839.87	D	UI	inf	+1	2	because people are just so used to buttons
+ES2006b.A.dialog-act.s9553330.199	1850.65	1862.24	A	ID	inf	+1	1	What wh uh {vocalsound} what I was thinking is that there is this uh separation between what the channels are on T_V_ and how they are numbered on the remote control .
+ES2006b.A.dialog-act.s9553330.200	1862.24	1866.23	A	ID	inf	+1	1	If we can do with {disfmarker} away with that , our product can be really popular
+ES2006b.A.dialog-act.s9553330.201	1866.23	1874.45	A	ID	sug	+1	1	uh in the sense that uh a person can say , I want to watch uh I_T_V_ one instead of saying that I want to go onto channel number forty five .
+ES2006b.C.dialog-act.s9553330.221	1877.35	1880.77	C	PM	ass	+1	2	So that if that was in the the voice recognition , that would be great .
+ES2006b.B.dialog-act.s9553330.184	1922.39	1929.04	B	ME	inf	+1	2	It's more like if you lost it and it's down the sofa sometime , you can yell at it {vocalsound} and it'll just change it , you can look for it later , yeah .
+ES2006b.D.dialog-act.s9553330.153	1900.72	1907.88	D	UI	sug	+1	2	Yeah but m but on the other hand , remote control isn't {vocalsound} as close to you you probably might just just uh speak into it
+ES2006b.A.dialog-act.s9553330.214	1955.85	1964.63	A	ID	inf	+1	2	yeah and it might become very difficult from a distance for the television to understand what you're saying because of the noise factor for the remote control
+ES2006b.D.dialog-act.s9553330.161	1964.82	1974.42	D	UI	inf	+1	2	No , but I I I was just defending the {vocalsound} the fact why why we want to keep the remote control close to us , a and uh not to yell at it from the distance .
+ES2006b.A.dialog-act.s9553330.218	1974.93	1981.81	A	ID	sug	+1	1	So uh {vocalsound} wh another thing uh that can be used is that uh there can be a beeper button on the T_V_ ,
+ES2006b.A.dialog-act.s9553330.219	1981.81	1986.94	A	ID	sug	+1	1	so you can go and press that button and um and the remote control , wherever it is , it'll beep ,
+ES2006b.A.dialog-act.s9553330.220	1986.94	1989.47	A	ID	sug	+1	1	so we we can probably come to know where it is .
+ES2006b.C.dialog-act.s9553330.251	2016.16	2040.88	C	PM	sug	+1	2	But if we go away with that that kind of general um {vocalsound} specification in mind that we're looking at fifteen to thirty five year olds , we want it to look simple , but still have the buttons so it's easy to use , but only those key buttons , the major buttons and then one sort of menu one , and then voice recognition included as an option
+ES2006b.C.dialog-act.s9553330.250	2040.88	2050.4	C	PM	inf	+1	2	um but that obviously needs a little bit more working out as to whether it's really feasible and some of those problems we were mentioning um . {vocalsound}
+ES2006b.C.dialog-act.s9553330.252	2051.88	2056.48	C	PM	inf	+1	2	What we have to do now is to go back to our little places ,
+ES2006b.C.dialog-act.s9553330.253	2056.48	2057.65	C	PM	inf	+1	2	complete our questionnaire
+ES2006b.C.dialog-act.s9553330.254	2057.65	2059.78	C	PM	inf	+1	2	and some sort of summarisation ,
+ES2006b.C.dialog-act.s9553330.256	2061.84	2065.74	C	PM	sug	+1	2	Send me your presentations so that I can use them to make the minutes ,
+ES2006b.C.dialog-act.s9553330.258	2067.83	2075.07	C	PM	inf	+1	1	and after lunch we go back to our own little stations and have thirty minutes more work .
+ES2006b.C.dialog-act.s9553330.259	2075.07	2078.9	C	PM	off	+1	1	Um I'll put the minutes in that project documents folder ,
+ES2006b.C.dialog-act.s9553330.260	2078.9	2081.72	C	PM	off	+1	1	but I'll send you an email when I do it , so that you know .
+ES2006b.C.dialog-act.s9553330.280	2132.05	2136.39	C	PM	inf	+1	2	You'll be looking {vocalsound} you'll be looking at the user interface concept ,
+ES2006b.C.dialog-act.s9553330.282	2137.97	2140.41	C	PM	inf	+1	2	and you're watching trends to see how we go
+ES2006b.C.dialog-act.s9553330.276	2119.35	2126.99	C	PM	inf	+1	2	as to where we're going from here , you're going to look at the components concept .
+ES2006b.C.dialog-act.s9553330.291	2163.14	2167.36	C	PM	inf	+1	2	w before lunch we just have to complete the questionnaire and some sort of summary .

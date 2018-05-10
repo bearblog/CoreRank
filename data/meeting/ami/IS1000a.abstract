@@ -1,0 +1,121 @@
+8	IS1000a.elana.s.1	The meeting begins with the group trying to resolve some equipment issues and waiting for Anna's arrival.
+IS1000a.B.dialog-act.vkaraisk.2	94.15	97.48	B	PM	sug	+1	1	we uh {disfmarker} we will wait for Anna , a few minutes .
+IS1000a.C.dialog-act.vkaraisk.8	110.91	113.13	C	UI	sug	+1	1	I think you can put anywhere you want , actually .
+IS1000a.C.dialog-act.vkaraisk.10	116.89	118.65	C	UI	inf	+1	1	It's not a directional mic , anyway .
+IS1000a.B.dialog-act.vkaraisk.4	126.94	133.43	B	PM	off	+1	1	So I will try to get my presentation running .
+IS1000a.D.dialog-act.vkaraisk.11	141.98	142.97	D	ID	inf	+1	1	Can't help you with that .
+IS1000a.C.dialog-act.vkaraisk.17	171.11	172.43	C	UI	sug	+1	1	Alt F_ five .
+IS1000a.B.dialog-act.vkaraisk.14	174.96	176.95	B	PM	inf	+1	1	Doesn't appear on the screen here .
+IS1000a.D.dialog-act.vkaraisk.24	186.39	188.8	D	ID	inf	+1	1	It's working {vocalsound} .
+10	IS1000a.elana.s.2	Then the project manager introduces the meeting by saying they have some technical tools with which to communicate so they will try to get acquainted with them first.
+IS1000a.B.dialog-act.vkaraisk.24	229.22	233.5	B	PM	be.pos	+1	1	Welcome at uh {disfmarker} at the kick off meeting of our uh latest project .
+IS1000a.B.dialog-act.vkaraisk.28	240.6	247.91	B	PM	sug	+1	1	w we will try to structure this uh meeting with an a with an agenda uh as presented here .
+IS1000a.B.dialog-act.vkaraisk.29	247.91	255.03	B	PM	inf	+1	1	Um after the opening we will tr get acquainted to each other .
+IS1000a.B.dialog-act.vkaraisk.30	255.03	257.58	B	PM	inf	+1	1	See what our roles are in this project .
+IS1000a.B.dialog-act.vkaraisk.32	262.14	272.66	B	PM	inf	+1	1	We have been provided with uh some uh w technical tools to uh {disfmarker} to communicate and to well , learn from each other's plans
+IS1000a.B.dialog-act.vkaraisk.35	276.02	282.73	B	PM	inf	+1	1	w we will also try to uh to get acquainted to this tools
+IS1000a.B.dialog-act.vkaraisk.40	288.56	293.77	B	PM	inf	+1	1	Um then we will come to the uh to the to the actual project plan .
+IS1000a.B.dialog-act.vkaraisk.41	293.77	300.17	B	PM	el.inf	+1	1	You all know I hope {vocalsound} how it's about uh the uh new r remote control we are going going to design .
+IS1000a.B.dialog-act.vkaraisk.42	301.7	304.58	B	PM	inf	+1	1	Uh then we will uh discuss
+IS1000a.B.dialog-act.vkaraisk.44	306.72	313.46	B	PM	el.sug	+1	1	and uh {disfmarker} wh what uh what our new product should look lite {disfmarker} like .
+6	IS1000a.elana.s.3	He starts talking about the product they are to design , a remote control which should be original , trendy , and user-friendly.
+IS1000a.B.dialog-act.vkaraisk.47	325.67	331.248	B	PM	inf	+1	1	basically this is about a uh a new c remote control . Um {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.49	335.77	339.99	B	PM	inf	+1	1	When you design a new product you of {disfmarker} uh you of course want it to be original .
+IS1000a.B.dialog-act.vkaraisk.51	340.64	342.1	B	PM	inf	+1	1	we want to be distinguished ,
+IS1000a.B.dialog-act.vkaraisk.54	350.37	352.04	B	PM	sug	+1	1	So it needs to be trendy .
+IS1000a.B.dialog-act.vkaraisk.53	342.62	350.37	B	PM	inf	+1	1	People uh want to uh when they look at the shelf want to think , well that's the product I I need .
+IS1000a.B.dialog-act.vkaraisk.57	357.68	362.8	B	PM	sug	+1	1	But then , uh , it also should work uh user friendly
+6	IS1000a.elana.s.4	The general outline of the project will be the functional , conceptual , and detailed design.
+IS1000a.B.dialog-act.vkaraisk.60	379.12	391.568	B	PM	inf	+1	1	the general outline of uh new project will be we first uh go through a functional design phase . Um {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.61	392.96	398.25	B	PM	inf	+1	1	You all get uh um certain task uh in this uh in this phase
+IS1000a.B.dialog-act.vkaraisk.62	398.25	403.1	B	PM	inf	+1	1	and uh then we will meet again
+IS1000a.B.dialog-act.vkaraisk.63	403.1	405.76	B	PM	inf	+1	1	and uh discuss this functional design .
+IS1000a.B.dialog-act.vkaraisk.64	405.76	418.83	B	PM	inf	+1	1	And the same holds for the uh ph two phases uh after this , the conceptual design and after that a a more detailed design
+IS1000a.B.dialog-act.vkaraisk.66	418.83	423.98	B	PM	inf	+1	1	in which the the final project should get its definite shape .
+20	IS1000a.elana.s.5	They do some tool training by trying out the whiteboard , and each person draws his/her favorite animal on it.
+IS1000a.B.dialog-act.vkaraisk.68	426.79	429.45	B	PM	sug	+1	1	but first we will do some uh tool training .
+IS1000a.B.dialog-act.vkaraisk.70	438.6	443.39	B	PM	inf	+1	1	and we have here a a {disfmarker} a {disfmarker} a white-board .
+IS1000a.B.dialog-act.vkaraisk.72	448.93	454.57	B	PM	inf	+1	1	I've read it from my uh from some colleague that it should work with some kind of toolbar .
+IS1000a.B.dialog-act.vkaraisk.73	454.57	456.73	B	PM	inf	+1	1	I didn't find out yet how it work ,
+IS1000a.D.dialog-act.vkaraisk.28	461.0	463.1	D	ID	inf	+1	1	Under documents in the shared folder .
+IS1000a.B.dialog-act.vkaraisk.77	467.41	471.17	B	PM	inf	+1	1	I I I'm not fully updated about this shared folder uh .
+IS1000a.D.dialog-act.vkaraisk.31	472.63	476.57	D	ID	inf	+1	1	I guess we'll have a shared folder uh with documents that we can share .
+IS1000a.B.dialog-act.vkaraisk.86	498.25	500.32	B	PM	sug	+1	1	now we will try out the white-board we have here .
+IS1000a.D.dialog-act.vkaraisk.34	507.51	508.51	D	ID	sug	+1	1	Each of us is going .
+IS1000a.B.dialog-act.vkaraisk.93	517.07	521.541	B	PM	inf	+1	1	I {disfmarker} {vocalsound} I'm not really sure how this works , but {disfmarker}
+IS1000a.D.dialog-act.vkaraisk.36	521.68	522.32	D	ID	off	+1	1	shall I start ?
+IS1000a.A.dialog-act.vkaraisk.7	524.13	526.57	A	ME	inf	+1	1	I think for us it's just like a normal whiteboard ,
+IS1000a.A.dialog-act.vkaraisk.8	526.57	528.7	A	ME	inf	+1	1	but they'll be recording what we write down .
+IS1000a.B.dialog-act.vkaraisk.101	554.23	556.82	B	PM	sug	+1	1	Maybe {disfmarker} maybe Anna , maybe you can start .
+IS1000a.B.dialog-act.vkaraisk.105	566.17	571.23	B	PM	sug	+1	1	Why don't you draw uh {vocalsound} your favourite animal on on th on the white-board .
+IS1000a.A.dialog-act.vkaraisk.35	691.32	692.77	A	ME	inf	+1	1	it's a dog .
+IS1000a.C.dialog-act.vkaraisk.53	750.59	751.47	C	UI	inf	+1	1	It's a horse .
+IS1000a.A.dialog-act.vkaraisk.50	780.448	784.09	A	ME	inf	+1	1	{vocalsound} A blue and black zebra {vocalsound} .
+IS1000a.B.dialog-act.vkaraisk.140	873.42	874.86	B	PM	inf	+1	1	That's {disfmarker} that's definitely a cat .
+IS1000a.D.dialog-act.vkaraisk.76	994.24	994.83	D	ID	inf	+1	1	it's a shark ,
+18	IS1000a.elana.s.6	The project manager proceeds to talk about the project finance , which is followed by a group discussion about what functions a good remote control has.
+IS1000a.B.dialog-act.vkaraisk.168	1033.78	1036.8	B	PM	sug	+1	1	{vocalsound} Let's continue to uh {disfmarker} to the real stuff .
+IS1000a.B.dialog-act.vkaraisk.169	1039.08	1045.01	B	PM	inf	+1	1	Um our project uh finance uh thing .
+IS1000a.B.dialog-act.vkaraisk.170	1045.01	1056.44	B	PM	inf	+1	2	Uh when we are {disfmarker} and when w you are uh going to design w uh we must keep in mind that the selling price of the product uh will be about twenty five Euros ,
+IS1000a.B.dialog-act.vkaraisk.176	1079.09	1086.04	B	PM	inf	+1	2	more interesting for our company {vocalsound} of course , p uh profit aim , about fifty million Euro .
+IS1000a.B.dialog-act.vkaraisk.180	1099.43	1101.18	B	PM	inf	+1	2	to get at a international market
+IS1000a.B.dialog-act.vkaraisk.184	1111.01	1125.07	B	PM	inf	+1	2	Um also important for you all is um the the product uh production cost must be maximal uh twelve uh twelve Euro and fifty cents .
+IS1000a.C.dialog-act.vkaraisk.76	1133.83	1136.924	C	UI	inf	+1	1	They have to sell at least four million to make a profit {vocalsound}
+IS1000a.B.dialog-act.vkaraisk.193	1149.52	1155.99	B	PM	inf	+1	1	I think w when we are working on the international market , uh in principle it has enough customers
+IS1000a.B.dialog-act.vkaraisk.198	1165.08	1172.51	B	PM	sug	+1	1	And uh now just let have some discussion about what is a good remote control
+IS1000a.B.dialog-act.vkaraisk.199	1172.51	1176.88	B	PM	inf	+1	1	and uh well keep in mind this this first point , it has to be original ,
+IS1000a.B.dialog-act.vkaraisk.200	1176.88	1178.11	B	PM	inf	+1	1	it has to be trendy ,
+IS1000a.B.dialog-act.vkaraisk.201	1178.11	1179.44	B	PM	inf	+1	1	it has to be user friendly .
+IS1000a.B.dialog-act.vkaraisk.202	1182.06	1191.67	B	PM	el.sug	+1	1	Um , maybe someone can mention some additional uh prerequisites for a good remote control .
+IS1000a.C.dialog-act.vkaraisk.82	1195.54	1197.536	C	UI	sug	+1	3	Of course it should have a on off button . {vocalsound}
+IS1000a.B.dialog-act.vkaraisk.204	1199.57	1204.43	B	PM	sug	+1	1	i it should have the the the the expected functionality uh of a remote control .
+IS1000a.C.dialog-act.vkaraisk.87	1212.33	1214.95	C	UI	inf	+1	2	We are targ targeting the television set .
+IS1000a.C.dialog-act.vkaraisk.90	1219.45	1226.73	C	UI	sug	+1	3	{vocalsound} You need to browse the {disfmarker} browse the channels in upward downward way ,
+IS1000a.C.dialog-act.vkaraisk.89	1216.03	1219.45	C	UI	sug	+1	3	you need to record the channels .
+3	IS1000a.elana.s.7	This includes the basics such as on/off , channel up/down browsing , volume and record button(s).
+IS1000a.C.dialog-act.vkaraisk.82	1195.54	1197.536	C	UI	sug	+1	3	Of course it should have a on off button . {vocalsound}
+IS1000a.C.dialog-act.vkaraisk.90	1219.45	1226.73	C	UI	sug	+1	3	{vocalsound} You need to browse the {disfmarker} browse the channels in upward downward way ,
+IS1000a.C.dialog-act.vkaraisk.89	1216.03	1219.45	C	UI	sug	+1	3	you need to record the channels .
+12	IS1000a.elana.s.8	At this point they clarify their names and roles in the group and then resume talking about remote control functions.
+IS1000a.D.dialog-act.vkaraisk.103	1237.12	1240.5	D	ID	fra	+1	1	And uh just before starting the detailed discussion , maybe we
+IS1000a.D.dialog-act.vkaraisk.104	1240.66	1242.28	D	ID	el.inf	+1	1	are the marketing guy ? Or {disfmarker}
+IS1000a.A.dialog-act.vkaraisk.99	1242.12	1243.02	A	ME	inf	+1	1	I'm marketing .
+IS1000a.D.dialog-act.vkaraisk.107	1245.23	1249.22	D	ID	inf	+1	1	And you are in the u use user interface uh design .
+IS1000a.D.dialog-act.vkaraisk.110	1251.08	1254.59	D	ID	inf	+1	1	And I I'm the the industrial designer
+IS1000a.C.dialog-act.vkaraisk.100	1257.17	1259.51	C	UI	inf	+1	1	I'm Matthew . You know . {vocalsound}
+IS1000a.D.dialog-act.vkaraisk.114	1258.98	1260.01	D	ID	inf	+1	1	Mael .
+IS1000a.A.dialog-act.vkaraisk.102	1261.23	1261.57	A	ME	inf	+1	1	Anna .
+IS1000a.B.dialog-act.vkaraisk.213	1263.38	1264.61	B	PM	inf	+1	1	A and I'm Nanne .
+IS1000a.B.dialog-act.vkaraisk.219	1279.03	1283.77	B	PM	el.inf	+1	1	Are there some other very important things to to do {disfmarker} well ,
+IS1000a.B.dialog-act.vkaraisk.222	1290.38	1293.59	B	PM	inf	+1	2	the browse function , as you m mentioned .
+IS1000a.C.dialog-act.vkaraisk.110	1293.16	1301.91	C	UI	sug	+1	2	And uh , you'd need the usual ones , like the changing the volume , changing the the channel
+16	IS1000a.elana.s.9	They discuss some functions such as a personal video recorder , but say it is probable that they cannot produce a fancy device given their budget.
+IS1000a.C.dialog-act.vkaraisk.112	1304.55	1309.85	C	UI	inf	+1	1	Today we have uh um teletext and all those things .
+IS1000a.C.dialog-act.vkaraisk.113	1309.85	1312.28	C	UI	inf	+1	1	Tomorrow you might have a some more functions
+IS1000a.C.dialog-act.vkaraisk.119	1323.83	1328.37	C	UI	inf	+1	1	For example personal video recorder and all those stuffs are coming up .
+IS1000a.A.dialog-act.vkaraisk.107	1328.61	1331.37	A	ME	ass	+1	1	But we can't really design for something that hasn't been invented yet .
+IS1000a.B.dialog-act.vkaraisk.227	1341.49	1349.47	B	PM	sug	+1	1	Uh w y you two should {disfmarker} should , I think , think this over uh w espec what , what functionality .
+IS1000a.D.dialog-act.vkaraisk.128	1350.04	1353.36	D	ID	fra	+1	2	and first before um designing the func
+IS1000a.D.dialog-act.vkaraisk.130	1353.77	1358.03	D	ID	sug	+1	2	thinking about the functionalities , we need to know what are the user requirements .
+IS1000a.A.dialog-act.vkaraisk.113	1367.4	1373.94	A	ME	inf	+1	1	But {disfmarker} Ninety percent of the time , ninety nine percent of the time , people will be using the main functions , the volume , the different channels ,
+IS1000a.A.dialog-act.vkaraisk.115	1375.03	1376.55	A	ME	sug	+1	1	we can have all the fancy things as well
+IS1000a.A.dialog-act.vkaraisk.116	1376.55	1379.69	A	ME	sug	+1	1	but the main controls need to be very obvious and very easy to use .
+IS1000a.B.dialog-act.vkaraisk.229	1379.07	1383.87	B	PM	inf	+1	2	Mm mm mm . Keep k keep in mind i it's a {disfmarker} it's a twenty five Euro unit ,
+IS1000a.B.dialog-act.vkaraisk.230	1383.87	1391.36	B	PM	sug	+1	2	so uh uh the the very fancy stuff uh w we can leave that out , I think .
+IS1000a.B.dialog-act.vkaraisk.232	1391.9	1400.04	B	PM	inf	+1	2	twenty five Euro you expect a quite , well normal but good functioning user friendly remote control .
+IS1000a.C.dialog-act.vkaraisk.131	1420.19	1422.9	C	UI	sug	+1	1	So we need some numbering buttons , some teletext things
+IS1000a.D.dialog-act.vkaraisk.137	1424.88	1426.75	D	ID	inf	+1	1	the main is browsing . Yeah .
+IS1000a.B.dialog-act.vkaraisk.234	1425.75	1434.05	B	PM	sug	+1	2	but but but ab about the spec the buttons , the buttons uh that will be on it . I I think we can discuss that in the in the next meeting .
+12	IS1000a.elana.s.10	The project manager closes the meeting by telling each group member what he/she will be working on.
+IS1000a.B.dialog-act.vkaraisk.235	1435.35	1439.85	B	PM	off	+1	1	Uh I would like to get this wrapped up
+IS1000a.B.dialog-act.vkaraisk.239	1445.85	1449.1	B	PM	inf	+1	1	you know now the basic {disfmarker} the basic things .
+IS1000a.B.dialog-act.vkaraisk.241	1451.82	1454.34	B	PM	sug	+1	1	just {disfmarker} just for the next meeting , um
+IS1000a.B.dialog-act.vkaraisk.242	1457.14	1463.16	B	PM	sug	+1	2	well , uh , you wor yes , work on a design ,
+IS1000a.B.dialog-act.vkaraisk.244	1464.0	1469.92	B	PM	inf	+1	1	I mean {disfmarker} so w we will be still fle flexible with maybe adding some functions .
+IS1000a.B.dialog-act.vkaraisk.246	1471.46	1478.256	B	PM	inf	+1	2	Um you will be working on {disfmarker} on technical function design , so {disfmarker}
+IS1000a.B.dialog-act.vkaraisk.247	1480.45	1486.8	B	PM	sug	+1	2	And uh you {disfmarker} and you and uh uh uh well , think about requirements ,
+IS1000a.B.dialog-act.vkaraisk.249	1487.12	1488.33	B	PM	el.ass	+1	1	Does it need internet ,
+IS1000a.B.dialog-act.vkaraisk.250	1488.33	1490.21	B	PM	el.ass	+1	1	or or do do we stay at
+IS1000a.B.dialog-act.vkaraisk.251	1491.36	1494.83	B	PM	el.ass	+1	1	basic basic television uh interface .
+IS1000a.B.dialog-act.vkaraisk.254	1505.36	1510.03	B	PM	inf	+1	1	and uh you will be informed via email and other kind of communication .
+IS1000a.B.dialog-act.vkaraisk.256	1511.56	1513.61	B	PM	inf	+1	1	next meeting will be in uh {disfmarker} in thirty minutes uh .

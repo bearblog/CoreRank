@@ -1,0 +1,33 @@
+2	Bed016.s.1	The meeting was taken up by discussion about a thesis proposal and a talk about to take place at EML.
+Bed016.C.dialogueact213	413.73	424.24	C	Grad	s^rt	+1	2	Then I 'm also going to present a little talk at EML , about what we have done here
+Bed016.E.dialogueact489	1115.13	1116.91	E	Professor	s^co^t	+1	1	let 's talk about your thesis proposal .
+2	Bed016.s.2	The latter will present the work that is currently being done at ICSI including examples of inference of user intentions and of the recordings of the on-going data collection.
+Bed016.C.dialogueact213	413.73	424.24	C	Grad	s^rt	+1	2	Then I 'm also going to present a little talk at EML , about what we have done here
+Bed016.C.dialogueact260	539.89	541.09	C	Grad	s	+1	2	Then I 'm going to talk about the data ,
+4	Bed016.s.3	The talk will also outline the theoretical ( X-schemas , image schemas , Bayes-nets ) and neural background.
+Bed016.C.dialogueact305	713.86	718.99	C	Grad	s	+1	3	e tell a little bit {disfmarker} as much as I {pause} can about the NTL story .
+Bed016.C.dialogueact304	710.46	713.27	C	Grad	s^rt	+1	3	and then maybe talk about the big picture here ,
+Bed016.C.dialogueact329	788.561	790.231	C	Grad	s.%--	+1	2	So X - schemas , then , I would like to do {disfmarker}
+Bed016.C.dialogueact331	793.641	795.691	C	Grad	s	+1	1	and then at the end about our Bayes - net .
+3	Bed016.s.4	The thesis proposal , on the other hand , presents the idea of "construal" and makes claims as to how inferences are drawn in a probabilistic relational model by using information from the ontology , situation , user and discourse models.
+Bed016.C.dialogueact126	244.806	249.95	C	Grad	s	+1	2	It basically says , well " this is construal " ,
+Bed016.C.dialogueact127	249.95	260.42	C	Grad	s.%--	+1	2	and then it continues to say that one could potentially build a probabilistic relational model that has some general , domain - general rules
+Bed016.C.dialogueact129	262.92	280.23	C	Grad	s	+1	2	and then the idea is to use ontology , situation , user , and discourse model to instantiate elements in the classes of the probabilistic relational model {pause} to do some inferences in terms of what is being construed as what
+0	Bed016.s.5	It was advised that more emphasis should be put on the role of construal in the understanding of metaphor and metonymy.
+7	Bed016.s.6	Base constructions deal with the norm , while further general domain mechanisms determine how the constructions are invoked depending on the context.
+Bed016.E.dialogueact559	1308.15	1319.53	E	Professor	s	+1	2	And to make them apply to metaphorical cases and metonymic cases and all those things , requires this additional mechanism , of construal .
+Bed016.E.dialogueact558	1302.54	1307.48	E	Professor	s	+1	2	but cover only base cases .
+Bed016.E.dialogueact592	1483.9	1485.2	E	Professor	s	+1	1	but there are basic cases .
+Bed016.C.dialogueact701	1706.22	1709.25	C	Grad	s	+1	2	w Well we have , for example , a canonical use of something
+Bed016.C.dialogueact702	1709.25	1711.91	C	Grad	s	+1	2	and y it 's , you know , we have some constructions
+Bed016.C.dialogueact703	1711.91	1713.6	C	Grad	s	+1	2	and then it 's construed as something ,
+Bed016.C.dialogueact704	1713.6	1721.43	C	Grad	s	+1	2	and then we {disfmarker} we may get the same constructions with a metaphorical use that 's also relevant to the {disfmarker} to the domain .
+6	Bed016.s.7	Several potential examples of polysemy were discussed in detail: "walk/run into" , "on the bus" , "out of film" , "where is X?".
+Bed016.C.dialogueact598	1492.4	1497.12	C	Grad	s^ng	+1	1	But " walked into the cafe and ordered a drink , " and " walked into the cafe and broke his nose , "
+Bed016.E.dialogueact627	1566.94	1568.14	E	Professor	s	+1	1	But " run into " does .
+Bed016.E.dialogueact708	1728.23	1729.27	E	Professor	s	+1	2	So " in the bus " and " on the bus , "
+Bed016.C.dialogueact754	1802.31	1806.16	C	Grad	s	+1	2	We had {disfmarker} we had {disfmarker} initially we 'd {disfmarker} started discussing the " out of film . "
+Bed016.C.dialogueact946	2079.38	2080.27	C	Grad	qw	+1	1	Where is the castle ?
+Bed016.C.dialogueact1130	2472.17	2479.2	C	Grad	s^am^cs	+1	1	I mean maybe the " where is something " question as a whole , you know , can be construed as , u i locational versus instructional request .
+1	Bed016.s.8	However , none of them was an example of lexical polysemy resolved by construal straightforward enough to include in the proposal; the tourist domain is not metaphor rich.
+Bed016.C.dialogueact1109	2395.26	2404.89	C	Grad	s.%--	+1	2	But I think the argument should be {disfmarker} uh , can be made that , you know , despite the fact that this is not the most met metaphorical domain ,

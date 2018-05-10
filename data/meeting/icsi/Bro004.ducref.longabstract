@@ -1,0 +1,62 @@
+The meeting was dominated by a discussion of the first results coming
+in.
+There have been four types of test , in which the training data
+varies , and a variety of input features have been tried.
+The process
+and results were explained to the group , the implications of the
+results discussed , and plans for moving forward were made.
+There was also discussion of some of the work being conducted by
+research partners OGI , including how the two groups should best work
+together.
+The group also briefly touched upon resource issues.
+Speaker mn007 would like to investigate increasing the context of the
+phonemes.
+speaker mn013 does agree with mn007s assessment of the
+outcome , and points out the lack of data , but acknowledges that if
+mn007 is interested he will go ahead with it.
+Must be careful in choosing which experiments to perform as an
+important visitor is coming soon.
+Also need to come up with a
+stronger plan for collaboration with OGI.
+Must decide what from both
+can be brought together , and how then can the work be divided.
+Someone ( implied with gestures in the meeting ) must speak to a person
+outside the group with regards to using a multiprocessor Linux machine
+that is available.
+Debugging the process while there are just two
+processors bodes well for when they have 8 to multi-thread.
+Speaker mn026 volunteers to get some training running under Linux.
+It
+is agreed that he should start with the neural net training , then work
+on HTK.
+Incorrect assumptions were made when considering the on-line
+normalization for the main task .  members used different values to a
+previous study , and whilst it was believed not to make a difference,
+it does , so networks are being retrained.
+Currently working with noise conditions being the same in training and
+test data , but there is nothing which matches the noise on the Italian
+test data.
+In fact no other language matches the noise from Aurora
+data.
+Spanish was being used to train for Italian as it was assumed they
+were the most similar , but that may not be as close a match as
+thought.
+OGI have an interesting approach to Voice Activation Detection for
+removing blocks of silence , that shows good results , but currently the
+word model being used is too poor to make good use of this and no one
+is working on improving it.
+Speakers mn007 and fn002 have been running experiments.
+Looking at
+different features , under different training conditions.
+Moving from
+training with task data to broad data increases error rate by 10% , and
+moving to multiple languages increases a further 20-30%.
+PLP with
+JRASTA better than just PLP on mismatched conditions , but slightly
+worse on well matched.
+Speaker fn002 is also looking at the HTK training , but does not yet
+have results.
+Speaker mn007 is going to start work on creating broad phonetic
+categories based on various features , and combine this with original
+features like PLP.
+As yet unsure how to combine the data however.

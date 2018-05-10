@@ -1,0 +1,9 @@
+The files made available in the FTP directory will be the original ones ( before down-sampling ) , as these seem to be wanted by other parties.
+Moreover , as files may have been modified through different processing , tests will be carried out in order to ensure the generation of beep files in a consistent way.
+Also towards this goal , some of the time bins will need to be merged.
+On the other hand , the two meetings where time bins have been hand-coded in detail will be used to fine-tune the forced alignments.
+Recordings will be sent to IBM for transcription.
+Before that , the files will be automatically pre-segmented into speech/non-speech bins and the beeps will be inserted.
+In order to make things easier for the transcribers , breathy channels , which are erroneously marked as speech , will be re-classified correctly with other methods.
+All this pre-processing will have to be evaluated first by checking a sample of the output files.
+Other issues , like whether and how synthesised speech off a laptop needs be transcribed , will be resolved during the in-house post-processing of the transcriptions.

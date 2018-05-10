@@ -1,0 +1,32 @@
+The Berkeley Meeting Recorder group discussed the aims , methods , timing , and outsourcing issues concerning transcription of the Meeting Recorder corpus.
+The Transcriber software tool was introduced , along with a set of transcription conventions for coding different speech events.
+The prospect of sending the data to an external transcription service was weighed against that of hiring a graduate student transcriber pool.
+It was tentatively decided that the latter option would be less costly and allow BMR to maintain greater control over the transcription process.
+Methods for distributing the data were briefly discussed , along with an initiative for creating a BMR project website.
+The group received an update on the meeting room recording setup and electronics.
+The group will obtain a copy of the Corpus of Spoken American English ( CSAE ) from the LDC to compare the methods and conventions used by UC Santa Barbara with those being considered for the Meeting Recorder project.
+Speakers fe008 and me011 will experiment with pre-segmentation procedures in hopes of facilitating the transcription process.
+Speaker fe008 will perform the transcription for one meeting ( 40-60 minutes of data ) as a pilot project.
+A tentative decision was made to put speaker fe008 in charge of the in-house transcription effort.
+Modifications to the Transcriber source code , e.g . adjusting the delay between the audio play function and the inputting of time boundaries , may be undertaken by the BMR group.
+An initiative for creating an internal BMR project website was discussed , along with ideas for providing web access to external organizations , such as the University of Washington.
+A cabinet will be built to house wires and other electronic equipment used in the recording setup.
+A laptop and wireless modem will be avaiable to participants for monitoring the recording progress.
+How should transcripts and corresponding audio files be formatted and distributed?
+External transcription services are expensive , difficult to monitor , and are unlikely to be able to handle multi-channel data.
+It is unclear which levels of transcription should be encoded.
+What size of segment is most useful for doing transcriptions?
+Which level of segmentation is most suitable for the aims of the project?
+Transcriber's interface only allows the user to view two overlapping speakers.
+Decisions must be made regarding the security of electronic recording equipment.
+Efforts are in progress to collect and transcribe 30-40 hours of Meeting Recorder data.
+The Transcriber tool is being used to do word-level transcriptions , and was reported to work well , when used with supplementary scripts , for specifying multiple speakers.
+Other levels of transcription being considered include marking stress , repairs , and false starts.
+A set of transcription conventions have been formulated for marking colloquial forms , the continuity of utterances , etc.
+A cost assessment was made for sending Meeting Recorder data to an external transcription service.
+It was agreed that hiring linguistics graduate students would be cheaper and allow the group to maintain greater control over the transcription process.
+Tentative pre-segmentation efforts will enable the automatic generation of phrase boundaries and speaker identity coding , and will be extendable for use at UW.
+Perl and XWaves scripts are available for extracting and aligning digits data.
+Other suggestions for future work included performing multi-channel speech/non-speech detection , and linking an ASR system to the Transcriber tool.
+The recording room electronics setup has been diagrammed and will take approximately one week to configure.
+It was suggested that such efforts will enable researchers at UW and other collaborating institutions to create their own recording setups more cheaply.

@@ -1,0 +1,31 @@
+The initial task of the EDU group is to work on inferring intentions through context.
+In the navigational paradigm used for the task , these intentions are to "see" to "enter" or to "get to the closest point of" a building.
+There will be purpose-designed experiments carried out.
+However , the starting point is , through the use of existing data , to determine possible linguistic , discourse or situation features that define intentionality.
+These may include the type of building , time of day , particular phrases used or whether the user is a tourist or a native.
+Initially , these features will be hand-coded , but the goal is to find ways of extracting them automatically from the XML data.
+Consequently , they will be fed into a belief-net -implemented on a software package like JavaBayes- and the conditional probability of each intention calculated.
+A prototype system will be put together to test hypotheses regarding both the exact nature of the features and how intentions are derived from them.
+Inferring intentions in a navigational context is an appropriate task both in project and real-world terms.
+Its goals are clearly defined and contributre to a smarter system.
+Although there are some preliminary data to work on , task-specific experiments and recordings will take place.
+The XML format is going to be used has not been defined , although the SmartKom data can be used as a foundation.
+In the first instance , the group will have to decide on the software package to be used for the creation and manipulation of the belief-nets.
+Stability and ease-of-use -in addition to ability to handle XML- of the package are the focus at this stage , instead of the ability to handle large amounts of data.
+Experts in Bayes nets within ICSI can be consulted on the matter.
+The decision will be presented in the next meeting along with a first schema of the belief-nets themselves.
+Possible intermediate nodes can be added to the nets after this.
+The hypothesis that a set of features from which intentions can be derived exists has to be assessed , before moving on to how to extract these features from the data automatically.
+Curent navigation systems do not provide for the user's particular intentions when asking for directions.
+They always compute the shortest path between source and destination.
+The SmartKom parser , for example , does not mark up data with features adequate for the inference of these intentions.
+Although it is understandable that language , discourse and situation features will play a role in how they are weighed , the exact nature of those features is unclear.
+Also hard to evaluate at this stage , is how the assumed features will combine in a belief-net , in order to provide the conditional probabilities of the users' intentions.
+Even if these problems are solved , extracting the features from the data may prove to be a bottleneck.
+The existing data are appropriate only for preliminary work , as they don't include intention-related information.
+On the other hand , the details of the experiments that will have to be designed to get more appropriate data are not clearcut and are yet to be settled.
+When asking for directions , a user of a navigational device may wish to either view , enter or simply approach a building.
+This was identified as an initial problem to be tackled through "deep understanding"-type inferences.
+There is a set of data to start work on from previous work.
+Similarly , the SmartKom data-format and an ontology developed for the tourist domain ( both in XML-standard formats ) can be used as groundwork for defining the features , which indicate the user's intentions.
+For the creation and management of the belief-nets necessary for the task , there are readily available packages -such as JavaBayes- and tools that can provide the infrastructure for a prototype system.

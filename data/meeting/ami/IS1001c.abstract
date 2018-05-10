@@ -1,0 +1,55 @@
+18	IS1001c.JacquelinePalmer.s.1	The Industrial Designer presented the functional components that will appear in the prototype , and discussed with the group the high cost of the wheel sensor and the possibility of incorporating speech recognition.
+IS1001c.B.dialog-act.dharshi.6	191.44	199.28	B	ID	inf	+1	1	you just have a a very simple chip and the mm the user interface is just done usually by push button
+IS1001c.B.dialog-act.dharshi.7	199.61	204.05	B	ID	inf	+1	1	and in our case we are using a um a wheel control .
+IS1001c.B.dialog-act.dharshi.12	229.13	232.27	B	ID	inf	+1	1	The push button are usually extremely cheap ,
+IS1001c.B.dialog-act.dharshi.13	232.27	238.06	B	ID	inf	+1	1	but I just have one problem and this is related with the wheel sensor , which seems to be quite expensive .
+IS1001c.B.dialog-act.dharshi.14	239.36	249.52	B	ID	sug	+1	1	And I think we if we could just talk about that if we really need a wheel sensor or if we can not {disfmarker} if if we could combine something with the push button .
+IS1001c.B.dialog-act.dharshi.15	251.51	257.04	B	ID	inf	+1	1	Uh a wheel sensor is fifty time the price of a a a push button .
+IS1001c.A.dialog-act.dharshi.28	269.64	280.41	A	PM	el.inf	+1	1	So will will will this with uh including all possible things , so buttons , wheel and the chip , be uh lower than twelve Euros to produce ?
+IS1001c.B.dialog-act.dharshi.20	285.08	289.77	B	ID	sug	+1	1	We should talk about uh the design of the box also which needs some money .
+IS1001c.B.dialog-act.dharshi.31	352.24	362.52	B	ID	inf	+1	1	the I I just want to mention the the problem of the the r wheels sensor which is much more expensive than any push button ,
+IS1001c.B.dialog-act.dharshi.33	365.64	374.8	B	ID	inf	+1	1	We we have already some good things uh with um um with the backlight of the push button .
+IS1001c.C.dialog-act.dharshi.24	377.68	380.52	C	UI	el.inf	+1	1	Um , what is the purpose of the light ?
+IS1001c.A.dialog-act.dharshi.38	387.81	390.71	A	PM	inf	+1	1	You can easily find the button in the dark or so ?
+IS1001c.B.dialog-act.dharshi.37	422.1	425.55	B	ID	inf	+1	1	As soon as you thought to move the the remote control you have the light .
+IS1001c.B.dialog-act.dharshi.39	437.36	439.22	B	ID	inf	+1	1	I don't think that this is really expensive ,
+IS1001c.C.dialog-act.dharshi.44	449.41	453.93	C	UI	inf	+1	1	Yeah , but I expected also the wheel would be cheap but you tell me that it is very expensive so ,
+IS1001c.A.dialog-act.dharshi.45	466.69	469.87	A	PM	el.inf	+1	1	But it can be uh battery consuming , no ?
+IS1001c.A.dialog-act.dharshi.46	471.52	472.94	A	PM	el.inf	+1	1	To have the light always on ?
+IS1001c.B.dialog-act.dharshi.43	471.6	473.06	B	ID	inf	+1	1	Yeah , a little bit .
+4	IS1001c.JacquelinePalmer.s.2	The User Interface Designer presented existing remote controls to help show the interface of the prototype.
+IS1001c.C.dialog-act.dharshi.58	514.31	521.34	C	UI	inf	+1	1	So I just look at some current designs uh on the web , of usually more complicated remote controls .
+IS1001c.C.dialog-act.dharshi.59	521.34	526.13	C	UI	sug	+1	1	And let's look at two of them because uh th even though they have many buttons they look quite simple .
+IS1001c.C.dialog-act.dharshi.69	560.44	566.47	C	UI	inf	+1	1	So it's basically more or less how we would like it , with a big volume control , big channel control , and mute and power ,
+IS1001c.C.dialog-act.dharshi.72	570.0	574.16	C	UI	sug	+1	1	So basically , w software we will build will look more or less the same as these two .
+7	IS1001c.JacquelinePalmer.s.3	He showed how the new design will be more simple and ergonomic than the models he displayed by eliminating extra functions.
+IS1001c.C.dialog-act.dharshi.60	526.13	531.22	C	UI	sug	+1	1	And in our case we just uh reject the buttons what we don't need and it become even simpler .
+IS1001c.C.dialog-act.dharshi.66	545.07	548.89	C	UI	inf	+1	1	We have all these buttons as you can see , but most of them , we just need the ones in the middle .
+IS1001c.A.dialog-act.dharshi.63	574.74	580.06	A	PM	sug	+1	1	With a maybe a more ergonomic design on on the bottom part .
+IS1001c.C.dialog-act.dharshi.75	581.5	585.48	C	UI	inf	+1	1	I think that the volume and the buttons that are there on the top are not very easy to reach with your thumb .
+IS1001c.C.dialog-act.dharshi.81	601.05	606.07	C	UI	sug	+1	1	Uh you just need to put the channel numbers somewhere a bit out of the way .
+IS1001c.C.dialog-act.dharshi.98	654.19	657.72	C	UI	sug	+1	1	Uh so we could just basically use one just wheel
+IS1001c.C.dialog-act.dharshi.99	657.72	663.13	C	UI	inf	+1	1	and uh user could use just the wheel to do everything with the channels in that case .
+4	IS1001c.JacquelinePalmer.s.4	The Marketing Expert presented news about trends in fashion and in the market that will be incorporated into the design.
+IS1001c.D.dialog-act.dharshi.12	769.59	775.95	D	ME	inf	+1	1	And there is a fashion watchers in Paris and Milan that have detected the following trends ,
+IS1001c.D.dialog-act.dharshi.13	775.95	781.65	D	ME	inf	+1	1	uh fruits and vegetables will be the most important theme for clothes , shoes , and furnitures .
+IS1001c.D.dialog-act.dharshi.14	782.353	791.62	D	ME	sug	+1	2	{vocalsound} So , maybe if our {vocalsound} remote control have to be a fruit form or vegetable form {vocalsound}
+IS1001c.D.dialog-act.dharshi.15	794.16	799.42	D	ME	inf	+1	2	{vocalsound} And the mm the material is expected to be spongy .
+6	IS1001c.JacquelinePalmer.s.5	A fruit and vegetable theme and spongy materials are popular trends that will be used in the design.
+IS1001c.D.dialog-act.dharshi.14	782.353	791.62	D	ME	sug	+1	2	{vocalsound} So , maybe if our {vocalsound} remote control have to be a fruit form or vegetable form {vocalsound}
+IS1001c.D.dialog-act.dharshi.15	794.16	799.42	D	ME	inf	+1	2	{vocalsound} And the mm the material is expected to be spongy .
+IS1001c.C.dialog-act.dharshi.104	808.35	812.29	C	UI	inf	+1	1	I think we can certainly just put the electronics in a spongy thing ,
+IS1001c.A.dialog-act.dharshi.94	818.99	820.61	A	PM	ass	+1	1	Yeah , because it's robust .
+IS1001c.A.dialog-act.dharshi.111	886.48	893.24	A	PM	sug	+1	1	Maybe uh um {vocalsound} a colour that remember some fruit uh , things like that .
+IS1001c.A.dialog-act.dharshi.117	910.13	912.54	A	PM	sug	+1	1	Yeah . Maybe pear yeah or something like that .
+2	IS1001c.JacquelinePalmer.s.6	The group finalized which features they wanted to integrate into the design.
+IS1001c.A.dialog-act.dharshi.126	946.848	952.77	A	PM	ass	+1	2	{vocalsound} I think p spongy is good because it it will be robust as well .
+IS1001c.A.dialog-act.dharshi.130	955.14	956.61	A	PM	sug	+1	2	I think we can keep the wheel
+6	IS1001c.JacquelinePalmer.s.7	They decided to make the remote shaped like a banana and spongy , to have the buttons lighted , to have a wheel sensor at the top of the device , and to use only a standard chip and battery that would not accomodate speech recognition.
+IS1001c.C.dialog-act.dharshi.116	893.32	894.93	C	UI	inf	+1	1	Well the obvious thing is a banana , I guess .
+IS1001c.A.dialog-act.dharshi.135	996.42	1001.81	A	PM	inf	+1	2	Banana is also yellow so you you can't lost your remote control then .
+IS1001c.B.dialog-act.dharshi.74	1007.35	1012.8	B	ID	sug	+1	3	but when the banana is curving like that , with the wheel on the top and to control ,
+IS1001c.C.dialog-act.dharshi.138	1044.79	1052.94	C	UI	inf	+1	2	You can also take into account the fact that the banana fits with the colour scheme of our company .
+IS1001c.B.dialog-act.dharshi.82	1099.64	1102.19	B	ID	el.inf	+1	2	So we will just use a a standard battery ?
+IS1001c.A.dialog-act.dharshi.155	1112.3	1116.8	A	PM	inf	+1	2	I think it's the box that should be spongy , banana's shape .
+0	IS1001c.JacquelinePalmer.s.8	The Project Manager instructed the User Interface Designer and the Industrial Designer to construct the prototype , and announced that the prototype would be evaluated in the next meeting.

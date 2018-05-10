@@ -1,0 +1,246 @@
+13	ES2009d.JacquelinePalmer.s.1	The Project Manager opened the meeting by reviewing the decisions from the previous meeting (to use voice recognition instead of the touch screen , to hide the complicated features , and to start building the prototype).
+ES2009d.A.dialog-act.vkaraisk.8	62.06	64.18	A	PM	inf	+1	1	here we have our detailed design meeting
+ES2009d.A.dialog-act.vkaraisk.9	64.18	67.59	A	PM	inf	+1	1	where we will um look at the prototype
+ES2009d.A.dialog-act.vkaraisk.12	71.83	75.03	A	PM	inf	+1	1	I finally figured out what this whole second bullet point is about in my {disfmarker}
+ES2009d.A.dialog-act.vkaraisk.14	76.4	78.94	A	PM	inf	+1	1	It means I'm supposed to read the minutes from the previous meeting .
+ES2009d.A.dialog-act.vkaraisk.21	88.48	92.9	A	PM	off	+1	1	um {vocalsound} just real briefly to go over minutes from last meeting ,
+ES2009d.A.dialog-act.vkaraisk.31	120.39	134.25	A	PM	inf	+1	1	basically the moral of the story from our last minute uh {disfmarker} last meeting was that {vocalsound} um we that we had meetings from {disfmarker} uh we had presentations done by the Industrial Designer , uh or from Nathan , and Ron and from Sarah about what we can do here
+ES2009d.A.dialog-act.vkaraisk.36	147.09	152.76	A	PM	inf	+1	1	and we essentially came to the conclusion that we should develop a remote with uh voice recognition ,
+ES2009d.A.dialog-act.vkaraisk.37	152.76	155.16	A	PM	inf	+1	1	I_E_ that had a vaguely non-remote like shape
+ES2009d.A.dialog-act.vkaraisk.38	155.16	157.46	A	PM	inf	+1	1	um because you didn't really need to use it as a remote
+ES2009d.A.dialog-act.vkaraisk.39	157.46	159.06	A	PM	inf	+1	1	since you could just use your voice .
+ES2009d.A.dialog-act.vkaraisk.40	159.06	164.65	A	PM	inf	+1	1	That would include some {disfmarker} mostly just the simple design features for a television operation
+ES2009d.A.dialog-act.vkaraisk.41	164.65	169.28	A	PM	inf	+1	1	but with a slide or a fold-out bay for more advanced functions for users .
+ES2009d.A.dialog-act.vkaraisk.43	172.79	178.69	A	PM	inf	+1	1	the U_I_D_ and the I_D_ were asked to go ahead and start developing a prototype for us to look at .
+62	ES2009d.JacquelinePalmer.s.2	The User Interface Designer and the Industrial Designer then presented the prototype that featured voice recognition , interchangeable cases , visible light , and a soft casing material.
+ES2009d.B.dialog-act.vkaraisk.7	195.36	199.92	B	ID	inf	+1	1	we have assembled our prototype , um .
+ES2009d.B.dialog-act.vkaraisk.9	201.77	204.57	B	ID	inf	+1	1	Um , we took into account a lot of the things
+ES2009d.B.dialog-act.vkaraisk.10	204.57	207.68	B	ID	inf	+1	1	that we went over in the last meeting , um .
+ES2009d.B.dialog-act.vkaraisk.11	207.68	213.28	B	ID	inf	+1	1	Some of the most important things to consider are that we decided not to go for the touch screen
+ES2009d.B.dialog-act.vkaraisk.13	214.62	221.36	B	ID	inf	+1	1	and opted for some very large buttons for the primary functions , um .
+ES2009d.B.dialog-act.vkaraisk.14	222.25	224.04	B	ID	inf	+1	1	This is going to be the on off button
+ES2009d.B.dialog-act.vkaraisk.15	224.04	227.99	B	ID	inf	+1	1	and we have these buttons to go through the channels
+ES2009d.B.dialog-act.vkaraisk.16	227.99	231.13	B	ID	inf	+1	1	um and then two volume buttons down here ,
+ES2009d.B.dialog-act.vkaraisk.17	231.13	234.55	B	ID	inf	+1	1	d uh we decided those were the most important uh buttons .
+ES2009d.B.dialog-act.vkaraisk.18	234.55	240.77	B	ID	inf	+1	1	And then , for the more advanced uh functions there is a slide out panel here
+ES2009d.B.dialog-act.vkaraisk.19	240.77	244.28	B	ID	inf	+1	1	um and you can see that there are lots of other things going on .
+ES2009d.B.dialog-act.vkaraisk.21	245.76	251.4	B	ID	ass	+1	1	and provides a very nice aesthetic when it's all put away , um .
+ES2009d.B.dialog-act.vkaraisk.22	254.98	261.4	B	ID	inf	+1	2	As far as the uh whole visible light thing , we decided to go with the multiple colours coming out ,
+ES2009d.B.dialog-act.vkaraisk.24	264.14	269.62	B	ID	inf	+1	1	Of course , if that's annoying for some people that function can be turned off . Um .
+ES2009d.C.dialog-act.vkaraisk.9	272.48	277.52	C	UI	inf	+1	1	we talked a quite a bit about uh you know the the interchangeable uh faces
+ES2009d.C.dialog-act.vkaraisk.10	277.52	280.91	C	UI	inf	+1	1	and what we've done here is come up with a bit of a natural look here
+ES2009d.C.dialog-act.vkaraisk.11	280.91	283.53	C	UI	inf	+1	1	um f we call it fruity
+ES2009d.C.dialog-act.vkaraisk.14	286.97	288.75	C	UI	inf	+1	1	of course that's uh interchangeable
+ES2009d.C.dialog-act.vkaraisk.15	288.75	298.44	C	UI	sug	+1	1	and uh I think it would be desirable for the uh for the regular product in the in the in the in the first packaging to be something a little bit more subdued
+ES2009d.C.dialog-act.vkaraisk.16	298.44	301.23	C	UI	inf	+1	1	but this is kind of something that can be done
+ES2009d.C.dialog-act.vkaraisk.17	301.23	304.52	C	UI	inf	+1	1	um and as you can see on the television there
+ES2009d.C.dialog-act.vkaraisk.18	304.52	310.71	C	UI	inf	+1	1	uh we have the uh voice detector device um on the top there .
+ES2009d.C.dialog-act.vkaraisk.19	310.71	316.88	C	UI	ass	+1	1	Um . So that that will work quite well with with regard to finding this uh contraption .
+ES2009d.C.dialog-act.vkaraisk.21	321.21	325.09	C	UI	inf	+1	1	if you give it a touch it does have actually a bit of a spongy feel ,
+ES2009d.C.dialog-act.vkaraisk.27	336.17	340.6	C	UI	sug	+1	1	clearly there's gonna be some more colours and what not available .
+ES2009d.B.dialog-act.vkaraisk.29	344.03	346.73	B	ID	inf	+1	1	Um I worried about the materials ,
+ES2009d.B.dialog-act.vkaraisk.31	347.66	351.5	B	ID	inf	+1	1	uh {disfmarker} the entire thing is covered in a rubber coating
+ES2009d.B.dialog-act.vkaraisk.33	354.13	357.5	B	ID	ass	+1	1	it's not gonna break like some types of plastic that's dropped .
+ES2009d.B.dialog-act.vkaraisk.35	360.82	363.93	B	ID	inf	+1	1	and if you touch it it does have that nice squishy feel .
+ES2009d.B.dialog-act.vkaraisk.38	377.89	378.57	B	ID	sug	+1	1	I dunno if you noticed ,
+ES2009d.B.dialog-act.vkaraisk.39	378.57	381.67	B	ID	inf	+1	1	but I wrote the uh the company's name on the telephone screen ,
+ES2009d.C.dialog-act.vkaraisk.39	406.0	412.12	C	UI	inf	+1	1	Um , but I think that's {disfmarker} I think that sums up the main features of our {disfmarker} of the remote ,
+ES2009d.C.dialog-act.vkaraisk.42	421.64	423.11	C	UI	el.inf	+1	1	Um , did we come in under budget ?
+ES2009d.B.dialog-act.vkaraisk.50	426.42	430.0	B	ID	fra	+1	1	to put this into um production , we're looking at about {disfmarker}
+ES2009d.B.dialog-act.vkaraisk.52	432.58	434.98	B	ID	inf	+1	1	It was twelve fifty Euro
+ES2009d.B.dialog-act.vkaraisk.53	434.98	438.31	B	ID	inf	+1	1	um and this actually came in at about eleven ninety nine .
+ES2009d.B.dialog-act.vkaraisk.56	443.48	446.33	B	ID	inf	+1	1	um {disfmarker} obviously we had a choice with the buttons
+ES2009d.B.dialog-act.vkaraisk.57	446.33	449.19	B	ID	inf	+1	1	whether to use scroll buttons or standard rubber buttons ,
+ES2009d.B.dialog-act.vkaraisk.58	449.19	452.29	B	ID	inf	+1	2	but we just went for a classic rubber button
+ES2009d.B.dialog-act.vkaraisk.63	459.63	465.46	B	ID	inf	+1	1	So even though it has a lot of modern technology , um for example the voice recognition ,
+ES2009d.B.dialog-act.vkaraisk.64	465.46	468.43	B	ID	inf	+1	1	in a lot of ways it's just a simple remote
+ES2009d.C.dialog-act.vkaraisk.45	478.912	483.22	C	UI	el.inf	+1	1	{vocalsound} Did we talk about the voice recognition uh option ?
+ES2009d.C.dialog-act.vkaraisk.47	486.61	493.97	C	UI	inf	+1	1	on the back here you all noticed this area here which is actually the voice recognition uh uh console
+ES2009d.C.dialog-act.vkaraisk.48	493.97	499.15	C	UI	ass	+1	1	and uh I think it's nicely designed into the into the overall look .
+ES2009d.C.dialog-act.vkaraisk.49	499.15	507.14	C	UI	inf	+1	1	Um , but basically the voice recognition uh incorporates um the latest designs that our research team has been able to cufw uh come up with .
+ES2009d.C.dialog-act.vkaraisk.51	512.56	522.43	C	UI	ass	+1	1	and um , I think that uh has given a proven um {vocalsound} ease of use and what not .
+ES2009d.C.dialog-act.vkaraisk.52	522.43	531.82	C	UI	inf	+1	1	And uh allows features like the remote actually talking back to the user um , so .
+ES2009d.D.dialog-act.vkaraisk.39	534.899	540.76	D	ME	el.inf	+1	1	{vocalsound} Do we have um other , for lack of a better word , skins ? Covers ?
+ES2009d.D.dialog-act.vkaraisk.41	541.56	545.41	D	ME	el.ass	+1	1	or are those ones gonna be developed later once we see how the couple we have g go or ?
+ES2009d.C.dialog-act.vkaraisk.55	548.32	551.4	C	UI	inf	+1	1	we didn't quite have enough material uh {vocalsound} .
+ES2009d.B.dialog-act.vkaraisk.74	557.04	560.98	B	ID	inf	+1	1	as you can see this is just a most superficial layer
+ES2009d.B.dialog-act.vkaraisk.75	560.98	567.105	B	ID	ass	+1	1	and um it'd be very easy to put another layer of something else like {disfmarker}
+ES2009d.C.dialog-act.vkaraisk.59	567.84	571.33	C	UI	inf	+1	1	Actually this bottom red ring here just unclips
+ES2009d.C.dialog-act.vkaraisk.60	571.33	577.19	C	UI	inf	+1	1	and then you put a a new a new uh a new plate on top of that .
+ES2009d.C.dialog-act.vkaraisk.63	578.65	585.87	C	UI	inf	+1	1	we definitely priced out a spongy {disfmarker} even spongier non-natural look um materials
+ES2009d.C.dialog-act.vkaraisk.65	587.26	596.18	C	UI	inf	+1	1	We also continued on with the ideas that f following uh Apple's colour schemes with the kind of the uh light orange and the green .
+ES2009d.B.dialog-act.vkaraisk.76	595.39	598.36	B	ID	inf	+1	1	It's not it's not quite a a face plate ,
+ES2009d.B.dialog-act.vkaraisk.77	598.36	601.26	B	ID	inf	+1	1	it's more like a pseudo-face plate
+ES2009d.B.dialog-act.vkaraisk.80	607.33	611.39	B	ID	inf	+1	1	it locks into place such that , you know , it's pretty permanent
+ES2009d.B.dialog-act.vkaraisk.81	611.39	616.5	B	ID	sug	+1	1	but at the same time , if we wanna go the other way it's just a matter of a couple of adjustments
+ES2009d.B.dialog-act.vkaraisk.82	616.5	618.24	B	ID	sug	+1	1	and we could go the face plate way
+ES2009d.D.dialog-act.vkaraisk.62	621.89	623.56	D	ME	ass	+1	1	Very cool , nice job .
+40	ES2009d.JacquelinePalmer.s.3	The Project Manager presented what each component cost , which showed that the project was going over the alotted budget; the group decided to remove the solar panel.
+ES2009d.A.dialog-act.vkaraisk.76	629.776	635.13	A	PM	sug	+1	1	{vocalsound} Um , {vocalsound} what we need to discuss now is the finance of it , um
+ES2009d.A.dialog-act.vkaraisk.78	637.13	638.43	A	PM	inf	+1	1	you provided a number
+ES2009d.A.dialog-act.vkaraisk.79	638.43	640.17	A	PM	ass	+1	1	that actually sounds quite nice .
+ES2009d.A.dialog-act.vkaraisk.80	640.17	644.05	A	PM	ass	+1	1	Um the trouble is I was just given this by finance .
+ES2009d.A.dialog-act.vkaraisk.81	644.05	646.15	A	PM	inf	+1	1	Um , it's a spreadsheet of the parts {vocalsound}
+ES2009d.A.dialog-act.vkaraisk.82	646.15	651.29	A	PM	inf	+1	1	and I've just tentatively put in what it's going to look like um .
+ES2009d.A.dialog-act.vkaraisk.87	661.4	663.24	A	PM	sug	+1	1	if we can just itemize what's in here ,
+ES2009d.A.dialog-act.vkaraisk.89	663.84	665.04	A	PM	inf	+1	1	it's a solar cell thing
+ES2009d.A.dialog-act.vkaraisk.91	667.17	668.25	A	PM	el.inf	+1	1	With a back-up battery ?
+ES2009d.C.dialog-act.vkaraisk.66	672.56	678.76	C	UI	inf	+1	1	The voice recognition area actually doubles as uh as the solar cell area . Yeah .
+ES2009d.A.dialog-act.vkaraisk.97	684.048	687.36	A	PM	inf	+1	1	{vocalsound} It's a s a speaker and a sensor at the same time
+ES2009d.A.dialog-act.vkaraisk.100	693.78	696.87	A	PM	inf	+1	1	Um and the case , it's more of a single-curved case ,
+ES2009d.A.dialog-act.vkaraisk.102	701.599	706.92	A	PM	inf	+1	1	{vocalsound} Um and we've got a rubber skin material basically throughout .
+ES2009d.A.dialog-act.vkaraisk.103	706.92	713.66	A	PM	inf	+1	1	Um . Push button interface um with this other drop-down
+ES2009d.A.dialog-act.vkaraisk.104	713.66	715.81	A	PM	inf	+1	1	so maybe we've got two push button interfaces
+ES2009d.B.dialog-act.vkaraisk.98	729.56	733.66	B	ID	sug	+1	1	And s I guess you have to mark special colour and special form as well ,
+ES2009d.B.dialog-act.vkaraisk.100	734.04	736.68	B	ID	inf	+1	1	'Cause it i it is very unconventional ,
+ES2009d.D.dialog-act.vkaraisk.65	742.2	743.51	D	ME	inf	+1	1	M come in at sixteen ?
+ES2009d.A.dialog-act.vkaraisk.117	743.43	746.1	A	PM	inf	+1	1	a bit over budget , um .
+ES2009d.A.dialog-act.vkaraisk.119	749.08	754.83	A	PM	sug	+1	2	what we could do perhaps , a simple fix would maybe to switch away from the solar cells
+ES2009d.A.dialog-act.vkaraisk.120	755.968	760.137	A	PM	sug	+1	1	{vocalsound} um or take out the back-up battery . Uh {disfmarker}
+ES2009d.C.dialog-act.vkaraisk.69	761.66	768.67	C	UI	inf	+1	1	I think that uh if we're talking about it being one of our main selling features , being environmental and without the batteries and what not ,
+ES2009d.B.dialog-act.vkaraisk.106	773.73	777.0	B	ID	sug	+1	1	I mean we could take we could take the battery out of it you see
+ES2009d.B.dialog-act.vkaraisk.108	779.16	782.79	B	ID	sug	+1	1	but you're gonna have to set up a call centre for that one per cent of the time
+ES2009d.B.dialog-act.vkaraisk.110	783.59	785.94	B	ID	inf	+1	1	and saying oh look my remote isn't working
+ES2009d.B.dialog-act.vkaraisk.113	789.07	792.31	B	ID	ass	+1	1	I think in the long-run it's better to keep the battery ,
+ES2009d.D.dialog-act.vkaraisk.72	836.89	844.63	D	ME	inf	+1	1	I mean obviously the solar cell is a big piece of the way we're marketing this as like a natural , new thing ,
+ES2009d.D.dialog-act.vkaraisk.73	844.63	849.03	D	ME	sug	+1	2	but honestly if we cut that one piece out we're actually coming in under budget
+ES2009d.C.dialog-act.vkaraisk.74	851.98	858.74	C	UI	ass	+1	1	I mean you might be able to sway me on the idea that {disfmarker} we {disfmarker} our main selling point could be already this voice recognition thing
+ES2009d.C.dialog-act.vkaraisk.75	858.74	860.23	C	UI	inf	+1	1	I mean that's what sets us apart
+ES2009d.D.dialog-act.vkaraisk.82	869.59	873.78	D	ME	sug	+1	1	perhaps when the cell technology comes down in price we can bring that back into the game
+ES2009d.C.dialog-act.vkaraisk.77	877.81	884.56	C	UI	ass	+1	1	And the reality is you know , for me from an ideological stand point , I'd like to stick with the uh the solar cell ,
+ES2009d.C.dialog-act.vkaraisk.78	884.56	890.12	C	UI	off	+1	1	but I h kind of have to throw myself in the in the business structure model here
+ES2009d.C.dialog-act.vkaraisk.79	890.12	896.6	C	UI	sug	+1	1	and uh you know I think I think that I think that we need to come to a compromise here
+ES2009d.C.dialog-act.vkaraisk.80	896.6	900.16	C	UI	sug	+1	2	and maybe move ahead with the project , without the solar cell .
+ES2009d.D.dialog-act.vkaraisk.87	902.64	904.44	D	ME	ass	+1	2	I think unfortunately that's our best option .
+ES2009d.A.dialog-act.vkaraisk.130	909.4	911.05	A	PM	sug	+1	1	'Cause we can't remove the push buttons
+ES2009d.A.dialog-act.vkaraisk.136	924.24	926.53	A	PM	ass	+1	1	um , nor would changing the case materials .
+ES2009d.B.dialog-act.vkaraisk.125	939.8	940.89	B	ID	ass	+1	1	Gotta do what you gotta do .
+ES2009d.C.dialog-act.vkaraisk.86	946.56	948.87	C	UI	ass	+1	1	I think that was a good compromise you brought forward Sarah .
+17	ES2009d.JacquelinePalmer.s.4	The Marketing Expert presented an evaluation of the prototype and showed that the prototype had met many of the initial goals.
+ES2009d.A.dialog-act.vkaraisk.155	962.09	965.99	A	PM	sug	+1	1	I guess now we just go to the project evaluation
+ES2009d.D.dialog-act.vkaraisk.103	987.82	994.61	D	ME	inf	+1	1	basically I was just evaluating um {vocalsound} from what we know of how our product's working right now with the criteria that we set at the beginning of {disfmarker}
+ES2009d.D.dialog-act.vkaraisk.104	994.61	995.72	D	ME	inf	+1	1	these are the things we needed to do ,
+ES2009d.D.dialog-act.vkaraisk.105	995.72	998.24	D	ME	inf	+1	1	these are the things that look like we feel they're important .
+ES2009d.D.dialog-act.vkaraisk.106	998.24	1001.05	D	ME	inf	+1	1	Um so I was looking at basic design things ,
+ES2009d.D.dialog-act.vkaraisk.110	1005.59	1008.42	D	ME	el.ass	+1	1	are technologies up to where we hoped they would be
+ES2009d.D.dialog-act.vkaraisk.108	1003.24	1005.35	D	ME	el.ass	+1	1	Is the design what we wanted it to do ?
+ES2009d.D.dialog-act.vkaraisk.111	1008.42	1013.01	D	ME	el.ass	+1	1	and does it fulfil the aesthetic qualities that our original market research was looking for ? Um .
+ES2009d.D.dialog-act.vkaraisk.113	1016.79	1019.31	D	ME	ass	+1	1	Does it respond to voice recognition ?
+ES2009d.D.dialog-act.vkaraisk.115	1022.59	1027.21	D	ME	el.ass	+1	1	Um , the only thing is with with the pull-out panel , that is , can it take some adjusting
+ES2009d.D.dialog-act.vkaraisk.114	1019.31	1022.59	D	ME	ass	+1	1	And overall , in general , it looks like it's coming up to par .
+ES2009d.D.dialog-act.vkaraisk.118	1032.48	1035.2	D	ME	ass	+1	1	but then , once you get used to it , it does make a lot of sense .
+ES2009d.D.dialog-act.vkaraisk.119	1035.2	1037.68	D	ME	ass	+1	1	So I think overall we're headed in the right direction .
+ES2009d.C.dialog-act.vkaraisk.90	1039.93	1041.34	C	UI	inf	+1	1	They like that spongy feel .
+ES2009d.D.dialog-act.vkaraisk.126	1049.56	1053.9	D	ME	inf	+1	1	I think eventually if we do um branch out with this product maybe we do have a higher budget options
+ES2009d.D.dialog-act.vkaraisk.127	1053.9	1060.69	D	ME	sug	+1	1	and if it goes over with this model we can look into um wider range voice recognition like from other rooms of the house and stuff ,
+ES2009d.B.dialog-act.vkaraisk.132	1066.71	1069.87	B	ID	ass	+1	1	I am bit disappointed about losing the solar panel
+96	ES2009d.JacquelinePalmer.s.5	The group then evaluated the project process and discussed their effectiveness as a group.
+ES2009d.A.dialog-act.vkaraisk.173	1098.15	1100.83	A	PM	inf	+1	1	I got this slide from the coach
+ES2009d.A.dialog-act.vkaraisk.172	1093.02	1098.15	A	PM	ass	+1	1	this one's a bit unclear to me to be perfectly fair , um .
+ES2009d.A.dialog-act.vkaraisk.175	1102.83	1110.44	A	PM	sug	+1	1	Um so I guess we are going to discuss um {vocalsound} our project process um
+ES2009d.A.dialog-act.vkaraisk.174	1100.83	1102.83	A	PM	inf	+1	1	and I'm not sure what it's connected to .
+ES2009d.A.dialog-act.vkaraisk.178	1112.61	1119.71	A	PM	sug	+1	1	I guess this is the point where we go um {vocalsound} uh out of role it looks like
+ES2009d.A.dialog-act.vkaraisk.179	1119.71	1123.94	A	PM	sug	+1	1	and talk about our satisfaction for room for creativity and so forth
+ES2009d.A.dialog-act.vkaraisk.180	1123.94	1126.62	A	PM	sug	+1	1	and how that all worked , I guess , um .
+ES2009d.D.dialog-act.vkaraisk.139	1126.37	1128.71	D	ME	el.inf	+1	1	As in within the team or ?
+ES2009d.A.dialog-act.vkaraisk.181	1128.17	1129.15	A	PM	inf	+1	1	I think so yeah .
+ES2009d.B.dialog-act.vkaraisk.145	1152.72	1155.26	B	ID	el.inf	+1	1	Are we considering these points here ?
+ES2009d.D.dialog-act.vkaraisk.148	1155.27	1156.23	D	ME	inf	+1	1	I think they're starting blocks
+ES2009d.D.dialog-act.vkaraisk.151	1163.15	1167.99	D	ME	ass	+1	1	I think in general , for a day's worth of work we actually were {vocalsound} relatively productive ,
+ES2009d.D.dialog-act.vkaraisk.152	1167.99	1171.17	D	ME	inf	+1	1	considering the little amount of input we had going in .
+ES2009d.D.dialog-act.vkaraisk.153	1171.17	1173.49	D	ME	ass	+1	1	Um , and the technology has definitely been a help ,
+ES2009d.D.dialog-act.vkaraisk.154	1173.49	1175.69	D	ME	ass	+1	1	it's really been interesting to try out all this new stuff .
+ES2009d.C.dialog-act.vkaraisk.102	1177.62	1179.29	C	UI	inf	+1	1	We didn't use the whiteboard at all .
+ES2009d.A.dialog-act.vkaraisk.193	1179.59	1184.147	A	PM	ass	+1	1	No , no whiteboard . {vocalsound}
+ES2009d.D.dialog-act.vkaraisk.158	1185.16	1188.12	D	ME	inf	+1	1	and I feel like if you guys had been designing in here perhaps that would have changed
+ES2009d.D.dialog-act.vkaraisk.159	1188.12	1190.88	D	ME	ass	+1	1	but because of room constraints , doesn't really matter .
+ES2009d.C.dialog-act.vkaraisk.104	1192.1	1199.72	C	UI	inf	+1	1	Um , also had I not been intrigued about the pen , I don't think I woulda used it at all ,
+ES2009d.C.dialog-act.vkaraisk.105	1199.72	1201.02	C	UI	inf	+1	1	I didn't write barely anything .
+ES2009d.A.dialog-act.vkaraisk.194	1210.55	1211.78	A	PM	ass	+1	1	Was pretty cool tack though .
+ES2009d.D.dialog-act.vkaraisk.164	1214.63	1218.703	D	ME	ass	+1	1	I am disappointed I didn't get a note back from my personal coach . {vocalsound}
+ES2009d.A.dialog-act.vkaraisk.199	1228.44	1231.91	A	PM	ass	+1	1	Attempts to contact coach ineffective {vocalsound} .
+ES2009d.C.dialog-act.vkaraisk.112	1239.65	1241.57	C	UI	ass	+1	1	n I think there was a lot of room for creativity ,
+ES2009d.C.dialog-act.vkaraisk.113	1241.57	1247.78	C	UI	inf	+1	2	we could do whatever {disfmarker} basically what we wanted until the budget came down on us , um .
+ES2009d.D.dialog-act.vkaraisk.175	1248.42	1250.98	D	ME	ass	+1	1	And even then we did get a decent product turned out
+ES2009d.D.dialog-act.vkaraisk.176	1250.98	1252.83	D	ME	ass	+1	1	although it's not everything we wanted it to be .
+ES2009d.A.dialog-act.vkaraisk.206	1268.7	1271.77	A	PM	ass	+1	1	I think , yeah re I thought it was like really creative actually , I mean .
+ES2009d.C.dialog-act.vkaraisk.119	1271.184	1275.93	C	UI	ass	+1	1	{vocalsound} I think the teamwork was good as well .
+ES2009d.B.dialog-act.vkaraisk.169	1286.63	1290.91	B	ID	ass	+1	1	My one my one criticism is that we didn't have enough colours to work with ,
+ES2009d.D.dialog-act.vkaraisk.185	1293.12	1296.63	D	ME	inf	+1	1	You could have developed multiple skins really had you had more colours .
+ES2009d.A.dialog-act.vkaraisk.210	1299.76	1303.27	A	PM	el.ass	+1	1	What did you guys think about the the the roles ?
+ES2009d.B.dialog-act.vkaraisk.178	1315.84	1316.74	B	ID	ass	+1	1	I think it was pretty clever
+ES2009d.B.dialog-act.vkaraisk.179	1316.74	1320.93	B	ID	inf	+1	1	'cause we were never able to get too far off track
+ES2009d.B.dialog-act.vkaraisk.180	1320.93	1323.73	B	ID	inf	+1	1	because the information came in at the right time
+ES2009d.B.dialog-act.vkaraisk.181	1323.73	1326.19	B	ID	inf	+1	1	and kind of filled in the gaps enough .
+ES2009d.B.dialog-act.vkaraisk.182	1326.19	1330.83	B	ID	inf	+1	1	At the same time you had enough room to kind of just make things up ,
+ES2009d.D.dialog-act.vkaraisk.191	1331.57	1336.31	D	ME	ass	+1	2	Though I did feel like th the level of information dropped off severely over the course of the day .
+ES2009d.D.dialog-act.vkaraisk.193	1338.58	1343.26	D	ME	inf	+1	2	but I didn't actually get any information for the last presentation at all .
+ES2009d.D.dialog-act.vkaraisk.194	1343.26	1345.86	D	ME	inf	+1	2	Nothing , I didn't even get an email ,
+ES2009d.D.dialog-act.vkaraisk.198	1349.3	1350.6	D	ME	be.neg	+1	2	I feel like that was slightly lacking
+ES2009d.C.dialog-act.vkaraisk.131	1362.14	1368.83	C	UI	ass	+1	2	when I was reporting about what each of us was doing I was often confused as to what you were doing {vocalsound}
+ES2009d.C.dialog-act.vkaraisk.132	1368.83	1375.91	C	UI	inf	+1	2	um and then I also felt like you know a lot of our discussion would centre around n specifically what my task was
+ES2009d.C.dialog-act.vkaraisk.137	1382.4	1386.57	C	UI	inf	+1	2	and then in the end I think our jobs kind of melded together a little bit more ,
+ES2009d.B.dialog-act.vkaraisk.191	1386.62	1394.69	B	ID	ass	+1	1	I think the most helpful thing out of everything was getting the the PowerPoint slides already put together for you
+ES2009d.D.dialog-act.vkaraisk.208	1394.62	1396.91	D	ME	ass	+1	1	Yeah , already having the formatted stuff helped a lot .
+ES2009d.B.dialog-act.vkaraisk.192	1394.69	1398.26	B	ID	inf	+1	1	'cause if we didn't have that there's no way we could have got all that done in time .
+ES2009d.C.dialog-act.vkaraisk.140	1402.3	1403.99	C	UI	ass	+1	1	And I think your leadership was quite good .
+ES2009d.B.dialog-act.vkaraisk.193	1404.08	1405.28	B	ID	ass	+1	1	It was really good yeah .
+ES2009d.A.dialog-act.vkaraisk.221	1409.69	1411.94	A	PM	ass	+1	1	I did get {disfmarker} I I felt like I got way too into it .
+ES2009d.A.dialog-act.vkaraisk.228	1430.82	1437.62	A	PM	el.inf	+1	1	But you guys felt that you could keep the , yeah , suspension of disbelief kind of like like the role and the {disfmarker} okay ?
+ES2009d.D.dialog-act.vkaraisk.219	1437.82	1439.72	D	ME	inf	+1	1	except for a couple moments where it just got out of hand
+ES2009d.A.dialog-act.vkaraisk.236	1470.89	1473.06	A	PM	el.ass	+1	1	Um you guys felt like there was enough teamwork in all ?
+ES2009d.D.dialog-act.vkaraisk.225	1474.0	1474.42	D	ME	ass	+1	1	I think so .
+ES2009d.A.dialog-act.vkaraisk.238	1480.14	1482.34	A	PM	ass	+1	1	No I , no I dunno , I d I I dunno ,
+ES2009d.D.dialog-act.vkaraisk.227	1484.7	1489.67	D	ME	ass	+1	1	I mean other than minor discussion at meetings there wasn't {disfmarker} except for the actual building ,
+ES2009d.D.dialog-act.vkaraisk.228	1489.67	1496.93	D	ME	inf	+1	1	but I feel like if this was a team project there actually would have been much more of the collaborative like brainstorming , use the board {disfmarker}
+ES2009d.D.dialog-act.vkaraisk.230	1497.16	1501.84	D	ME	inf	+1	1	and this would have been six months' worth of work , not like three hours' worth of meetings .
+ES2009d.B.dialog-act.vkaraisk.208	1528.35	1533.66	B	ID	el.inf	+1	1	is there anything about the way that we got so much inform what was it that kept us from going to the the board ?
+ES2009d.D.dialog-act.vkaraisk.234	1537.95	1540.02	D	ME	inf	+1	1	I didn't feel like getting up and down and dealing with all these wires ,
+ES2009d.D.dialog-act.vkaraisk.235	1540.02	1542.52	D	ME	inf	+1	1	I was afraid I was gonna break something actually .
+ES2009d.B.dialog-act.vkaraisk.211	1542.48	1547.68	B	ID	inf	+1	1	and each time you get up it's s a possibility of tripping over something or getting tangled or .
+ES2009d.C.dialog-act.vkaraisk.155	1548.1	1550.15	C	UI	inf	+1	1	I dunno what I woulda shown on that board .
+ES2009d.C.dialog-act.vkaraisk.157	1556.26	1560.13	C	UI	inf	+1	1	it's just like the paper I don't know what I really needed the paper for .
+ES2009d.B.dialog-act.vkaraisk.214	1583.12	1584.89	B	ID	inf	+1	1	Usually I would do a lot more doodling too
+ES2009d.D.dialog-act.vkaraisk.251	1585.82	1587.52	D	ME	inf	+1	1	I felt like I needed to be professional
+ES2009d.A.dialog-act.vkaraisk.262	1598.06	1600.81	A	PM	inf	+1	1	I I'm curious about what the de-briefing is gonna be like .
+ES2009d.C.dialog-act.vkaraisk.164	1605.83	1606.96	C	UI	el.inf	+1	1	is this all we need to get through ?
+ES2009d.A.dialog-act.vkaraisk.267	1607.85	1610.96	A	PM	inf	+1	1	I'm not sure what the new ideas found i is about .
+ES2009d.D.dialog-act.vkaraisk.258	1612.47	1614.79	D	ME	el.inf	+1	1	It {disfmarker} did it just say in an email that we need to discuss that ?
+ES2009d.A.dialog-act.vkaraisk.269	1616.08	1619.07	A	PM	inf	+1	1	that's the thing I got {disfmarker} i in the email I got this PowerPoint file
+ES2009d.A.dialog-act.vkaraisk.273	1623.04	1624.22	A	PM	inf	+1	1	I didn't change this one at all .
+ES2009d.C.dialog-act.vkaraisk.166	1630.15	1637.28	C	UI	el.sug	+1	1	Any new ideas with regard to remote control concepts ? {vocalsound}
+ES2009d.D.dialog-act.vkaraisk.261	1636.66	1638.29	D	ME	inf	+1	1	Uh I think they still do their job .
+ES2009d.A.dialog-act.vkaraisk.282	1650.76	1652.99	A	PM	el.inf	+1	1	how much can you do with a remote control ?
+ES2009d.D.dialog-act.vkaraisk.273	1670.84	1672.38	D	ME	el.inf	+1	1	how long was our meeting supposed to be ?
+ES2009d.A.dialog-act.vkaraisk.293	1673.52	1677.48	A	PM	sug	+1	1	I I I mm we should go on a bit {disfmarker} yeah {disfmarker} about the project eval , um .
+ES2009d.A.dialog-act.vkaraisk.294	1679.84	1687.06	A	PM	inf	+1	1	I dunno about you guys but I felt like a bit under-stimulated on the whole thing .
+ES2009d.D.dialog-act.vkaraisk.277	1691.56	1692.7	D	ME	inf	+1	1	at the beginning it started out
+ES2009d.D.dialog-act.vkaraisk.278	1692.7	1694.63	D	ME	inf	+1	1	and I felt actually like under pressure
+ES2009d.D.dialog-act.vkaraisk.280	1696.86	1699.46	D	ME	inf	+1	1	and I was like {disfmarker} had like all this brainstorming I was doing
+ES2009d.D.dialog-act.vkaraisk.281	1699.46	1702.43	D	ME	inf	+1	1	and then suddenly I was like well it's just another two minute presentation
+ES2009d.D.dialog-act.vkaraisk.282	1702.43	1704.37	D	ME	inf	+1	1	that you guys don't really care about anyway
+ES2009d.D.dialog-act.vkaraisk.285	1707.65	1709.39	D	ME	inf	+1	1	like we all sort of knew where we were headed with it
+ES2009d.B.dialog-act.vkaraisk.230	1710.57	1717.83	B	ID	inf	+1	1	Definitely when {vocalsound} when I first filled out the questionnaire I was marking it probably higher in terms of how much I had to {disfmarker} how much I stressed over it
+ES2009d.B.dialog-act.vkaraisk.231	1717.83	1721.5	B	ID	inf	+1	1	and then by the time I got to the last one I was like , you know , not very much .
+ES2009d.C.dialog-act.vkaraisk.173	1722.22	1729.72	C	UI	inf	+1	1	Think it was also realisation of you basically just copy and paste what's given to you into your presentation
+ES2009d.A.dialog-act.vkaraisk.303	1733.89	1737.26	A	PM	inf	+1	1	every single one I {disfmarker} a all the presentations I either added slides
+ES2009d.A.dialog-act.vkaraisk.304	1737.26	1738.75	A	PM	inf	+1	1	or edited 'em .
+ES2009d.D.dialog-act.vkaraisk.293	1743.76	1744.73	D	ME	inf	+1	1	My slides were all blank ,
+ES2009d.D.dialog-act.vkaraisk.294	1744.73	1746.44	D	ME	inf	+1	1	they'd have a title maybe
+ES2009d.D.dialog-act.vkaraisk.302	1768.67	1771.94	D	ME	ass	+1	1	with the whole new background being innovative , yeah that was class .
+ES2009d.D.dialog-act.vkaraisk.316	1837.39	1840.08	D	ME	ass	+1	1	An interesting day all in all I would say .
+ES2009d.A.dialog-act.vkaraisk.335	1853.01	1858.26	A	PM	inf	+1	1	It seemed like everything flowed pretty logically . You know from the the the basics to the conce
+ES2009d.A.dialog-act.vkaraisk.337	1858.26	1864.58	A	PM	el.inf	+1	1	although the whole concepts thing , the whole concepts phase , I don't think I really understood like the concept .
+12	ES2009d.JacquelinePalmer.s.6	The Project Manager summarized the proceedings of the meeting which will go into a final report , along with comments made during the project evaluation.
+ES2009d.A.dialog-act.vkaraisk.356	1904.23	1906.7	A	PM	inf	+1	1	we've established that the costs weren't really within budget ,
+ES2009d.A.dialog-act.vkaraisk.358	1910.52	1917.8	A	PM	inf	+1	1	We did the project evaluation based on um {vocalsound} Sarah's evaluation of on off switches
+ES2009d.D.dialog-act.vkaraisk.327	1917.47	1922.93	D	ME	ass	+1	1	though it was really technically an evaluation of the product , not the project in general .
+ES2009d.A.dialog-act.vkaraisk.365	1943.14	1944.0	A	PM	inf	+1	1	And it's all recorded ,
+ES2009d.A.dialog-act.vkaraisk.369	1946.54	1948.7	A	PM	inf	+1	2	I'm supposed to do this final report thing at the end
+ES2009d.A.dialog-act.vkaraisk.370	1948.7	1953.71	A	PM	off	+1	2	so I'll put all that into the final report as well , or as much as seems like {disfmarker}
+ES2009d.A.dialog-act.vkaraisk.380	1992.91	2001.52	A	PM	off	+1	1	uh I will save this into the project documents .
+ES2009d.C.dialog-act.vkaraisk.205	2069.35	2070.94	C	UI	el.inf	+1	1	You guys ready to celebrate ?
+ES2009d.A.dialog-act.vkaraisk.399	2071.86	2073.97	A	PM	inf	+1	1	that's our last step . Celebration .
+ES2009d.A.dialog-act.vkaraisk.401	2076.5	2080.78	A	PM	sug	+1	1	I guess we can probably call that meeting to an end for the most part .
+ES2009d.A.dialog-act.vkaraisk.412	2107.48	2109.94	A	PM	sug	+1	1	I guess we'll call that a a doner .
+ES2009d.D.dialog-act.vkaraisk.374	2108.45	2109.71	D	ME	inf	+1	1	that's the end of the meeting .

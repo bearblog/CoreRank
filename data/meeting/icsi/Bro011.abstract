@@ -1,0 +1,26 @@
+4	Bro011.s.1	The Berkeley Meeting Recorder Group met to discuss their recent progress.
+Bro011.A.dialogueact188	449.566	462.49	A	Professor	s	+1	3	Let 's {disfmarker} let 's , I mean , I think that as {disfmarker} as we said before that one of the things that we 're imagining is that uh there {disfmarker} there will be {vocalsound} uh in the system we end up with there 'll be something to explicitly uh uh do something about noise
+Bro011.A.dialogueact234	546.906	555.67	A	Professor	fh|s^co^t^tc	+1	2	So um I suggest actually now we {disfmarker} we {disfmarker} we sorta move on and {disfmarker} and hear what 's {disfmarker} what 's {disfmarker} what 's happening in {disfmarker} in other areas
+Bro011.A.dialogueact310	771.64	779.69	A	Professor	fh|s^no^t	+1	3	Um . {vocalsound} And uh I don't know if we 've talked lately about the {disfmarker} the plans you 're developing that we talked about this morning
+Bro011.A.dialogueact541	1599.53	1601.53	A	Professor	fh|qw^t^tc	+1	3	Uh what 's next ?
+6	Bro011.s.2	This included a recap of a meeting with one of the members of their research partner OGI.
+Bro011.A.dialogueact23	42.629	48.479	A	Professor	s^rt^t	+1	1	So y you guys had a {disfmarker} a meeting with uh {disfmarker} with Hynek which I unfortunately had to miss .
+Bro011.A.dialogueact35	63.638	64.978	A	Professor	s	+1	1	So everybody knows what happened except me .
+Bro011.C.dialogueact39	75.13	82.956	C	PhD	fh|s^rt	+1	1	Well . Uh first we discussed about some of the points that I was addressing in the mail I sent last week .
+Bro011.C.dialogueact43	87.263	90.303	C	PhD	s^rt	+1	2	About the um , well {disfmarker} the downsampling problem .
+Bro011.C.dialogueact45	91.977	94.437	C	PhD	s	+1	3	Uh and about the f the length of the filters
+Bro011.C.dialogueact123	309.124	312.97	C	PhD	fh|s^tc	+1	1	So basically that was {disfmarker} that 's {vocalsound} all we discussed about .
+13	Bro011.s.3	There were progress reports from group members working on echo cancellation , acoustic feature detection , and HTK optimization , along with discussion of many issues arising from this topics.
+Bro011.A.dialogueact188	449.566	462.49	A	Professor	s	+1	3	Let 's {disfmarker} let 's , I mean , I think that as {disfmarker} as we said before that one of the things that we 're imagining is that uh there {disfmarker} there will be {vocalsound} uh in the system we end up with there 'll be something to explicitly uh uh do something about noise
+Bro011.A.dialogueact234	546.906	555.67	A	Professor	fh|s^co^t^tc	+1	2	So um I suggest actually now we {disfmarker} we {disfmarker} we sorta move on and {disfmarker} and hear what 's {disfmarker} what 's {disfmarker} what 's happening in {disfmarker} in other areas
+Bro011.A.dialogueact235	555.67	562.493	A	Professor	s^e^t	+1	2	like {vocalsound} what 's {disfmarker} what 's happening with your {vocalsound} investigations {vocalsound} about echos and so on .
+Bro011.F.dialogueact237	563.461	567.115	F	Grad	fh|s	+1	2	Well um I haven't started writing the test yet , I 'm meeting with Adam today
+Bro011.F.dialogueact239	567.79	574.28	F	Grad	fh|s^rt	+1	2	um and he 's going t show me the scripts he has for um {vocalsound} {vocalsound} running recognition on mee Meeting Recorder digits .
+Bro011.F.dialogueact242	579.845	582.205	F	Grad	s.x	+1	2	I haven't asked Hynek for {disfmarker} for the {disfmarker} for his code yet .
+Bro011.F.dialogueact243	582.732	587.55	F	Grad	s^df.x	+1	2	Cuz I looked at uh Avendano 's thesis and {vocalsound} I don't really understand what he 's doing yet
+Bro011.A.dialogueact310	771.64	779.69	A	Professor	fh|s^no^t	+1	3	Um . {vocalsound} And uh I don't know if we 've talked lately about the {disfmarker} the plans you 're developing that we talked about this morning
+Bro011.E.dialogueact314	788.079	792.147	E	Grad	fg|s.%-	+1	2	Um . {comment} So continuing to um extend
+Bro011.A.dialogueact363	972.03	975.1	A	Professor	s	+1	2	So I mean , there 's these issues of what are the {disfmarker} what are the variables that you use
+Bro011.A.dialogueact364	975.89	981.3	A	Professor	s	+1	2	and do you combine them using the soft " AND - OR " or you do something , you know , more complicated
+Bro011.A.dialogueact541	1599.53	1601.53	A	Professor	fh|qw^t^tc	+1	3	Uh what 's next ?
+Bro011.B.dialogueact542	1602.45	1604.79	B	PhD	s^cs^t	+1	2	I could say a little bit about w stuff I 've been playing with .

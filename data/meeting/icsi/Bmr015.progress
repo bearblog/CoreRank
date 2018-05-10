@@ -1,0 +1,39 @@
+4	Bmr015.s.16	The first test set of digits is complete and includes 4,000 lines , each comprising between 1-10 digits.
+Bmr015.B.dialogueact77	97.06	101.65	B	Grad	s^t^tc	+1	2	So the only thing I wanna say about digits is , we are pretty much done with the first test set .
+Bmr015.G.dialogueact143	209.744	212.968	G	PhD	fg|qw	+1	1	So you {disfmarker} um , how many digits have been transcribed now ?
+Bmr015.B.dialogueact144	213.247	214.217	B	Grad	s	+1	1	Four thousand lines .
+Bmr015.B.dialogueact145	214.487	217.667	B	Grad	s	+1	1	And each line is between one and about ten digits .
+2	Bmr015.s.17	New digits forms were distributed for eliciting different prosodic groupings of numbers.
+Bmr015.B.dialogueact164	239.778	245.371	B	Grad	s	+1	1	And then the other thing is that , uh , the forms in front of us here that we 're gonna read later , were suggested by Liz
+Bmr015.B.dialogueact165	245.371	248.681	B	Grad	s^df	+1	1	because she wanted to elicit some different prosodics from digits .
+2	Bmr015.s.18	New naming conventions were discussed as means for facilitating the sorting process.
+Bmr015.B.dialogueact60	72.121	74.731	B	Grad	s	+1	2	and then uh I wanna talk a little bit about naming conventions ,
+Bmr015.A.dialogueact503	821.309	824.259	A	Professor	qy^bu^d^rt^t^tc	+1	2	Uh , the last one was {disfmarker} that you had there , {comment} was about naming ?
+2	Bmr015.s.19	Existing files will be changed so that all filenames are of equal length.
+Bmr015.B.dialogueact508	838.005	842.595	B	Grad	s	+1	1	So , uh , one thing she would like to have is for all the names to be the same length
+Bmr015.B.dialogueact512	847.366	848.316	B	Grad	s^e	+1	1	same number of characters
+0	Bmr015.s.20	Similar changes will be made to speaker identification tags.
+1	Bmr015.s.21	Files will also contain information specifying channel , microphone , and broadcaster information.
+Bmr015.B.dialogueact564	963.344	975.033	B	Grad	s	+1	2	We want some way of specifying , more than looking in the " key " file , what channel and what mike . What channel , what mike , and what broadcaster .
+3	Bmr015.s.22	A proposal is being drafted for a grant from the NSF's ITR program for extending the research initiatives of the Meeting Recorder project.
+Bmr015.A.dialogueact282	446.688	450.343	A	Professor	s	+1	2	so this was , uh , a , uh , proposal that we put in
+Bmr015.A.dialogueact287	462.702	467.062	A	Professor	s	+1	2	so is i for {disfmarker} it was a {vocalsound} proposal for the ITR program ,
+Bmr015.A.dialogueact443	705.38	706.58	A	Professor	s^aap	+1	1	It 's extending the research ,
+1	Bmr015.s.23	Speaker fe008 is performing channel-by-channel transcriptions to create tighter time bins.
+Bmr015.F.dialogueact591	1024.48	1033.18	F	Postdoc	s	+1	1	I {disfmarker} I switched to doing the channel - by - channel transcriptions to provide , uh , the {disfmarker} uh , tighter time bins for {disfmarker} partly for use in Thilo 's work
+2	Bmr015.s.24	Tentative plans are to assign single channels to the transcriber pool and then piece them together afterwards.
+Bmr015.F.dialogueact599	1058.83	1064.15	F	Postdoc	s^cs	+1	1	Maybe {disfmarker} I was thinking maybe the best way to do this in the long run may be to give them single channel parts
+Bmr015.F.dialogueact600	1064.33	1065.49	F	Postdoc	s^cs	+1	1	and then piece them together later .
+5	Bmr015.s.25	Efforts by speaker mn005 are in progress to detect speaker overlap in the mixed signal using harmonicity-related features.
+Bmr015.C.dialogueact684	1270.26	1275.59	C	PhD	s	+1	1	I {disfmarker} I 'm continue working with the mixed signal now , {comment} after the {disfmarker} the last experience .
+Bmr015.C.dialogueact686	1275.96	1288.64	C	PhD	s	+1	2	And {disfmarker} and I 'm tried to {disfmarker} to , uh , adjust the {disfmarker} to {disfmarker} to improve , eh , an harmonicity , eh , detector that , eh , I {disfmarker} I implement .
+Bmr015.C.dialogueact695	1299.33	1319.4	C	PhD	s	+1	2	eh , and now I 'm {disfmarker} I 'm {disfmarker} I 'm trying to {disfmarker} to find , eh , some kind of a , um {disfmarker} {vocalsound} of h of help , eh , using the energy to {disfmarker} to distinguish between possible harmonics , and {disfmarker} and other fre frequency peaks , that , eh , corres not harmonics .
+Bmr015.A.dialogueact809	1605.75	1614.36	A	Professor	s	+1	2	You 're trying distinguish between the case where there is , uh {disfmarker} where {disfmarker} where there are more than {disfmarker} uh , where there 's more than one speaker
+Bmr015.A.dialogueact810	1616.39	1618.14	A	Professor	s	+1	2	and the case where there 's only one speaker .
+2	Bmr015.s.26	For determining the instantaneous frequency , speaker me013 recommended deriving the maxima from energy multiples of a given frequency.
+Bmr015.A.dialogueact760	1518.23	1522.15	A	Professor	s^cs	+1	1	only looking at the energy at multiples of the {disfmarker} of that frequency ,
+Bmr015.A.dialogueact762	1524.12	1525.22	A	Professor	s^cs	+1	1	take the one that 's maximum .
+3	Bmr015.s.27	It was also suggested that speaker mn005 should determine whether portions of the signal are voiced or unvoiced , as voiced intervals reflecting a relatively low fraction of energy in the harmonic sequence are likely to indicate sections of overlap.
+Bmr015.A.dialogueact848	1736.28	1739.84	A	Professor	s^cs	+1	1	I guess {disfmarker} so {disfmarker} so y I think maybe you do need a voiced - unvoiced determination too .
+Bmr015.A.dialogueact849	1739.9	1740.84	A	Professor	s.%--	+1	1	But if it 's voiced ,
+Bmr015.A.dialogueact852	1744.34	1753.84	A	Professor	s	+1	1	e the fraction of the energy that 's in the harmonic sequence that you 're looking at is relatively low , then it should be {disfmarker} then it 's more likely to be an overlap .

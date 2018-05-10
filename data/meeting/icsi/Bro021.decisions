@@ -1,0 +1,24 @@
+11	Bro021.s.5	At me013's behest , the group need to look closer at the errors made in tests on the aurora project , because the error rate may not be telling the whole picture.
+Bro021.B.dialogueact72	171.64	174.32	B	Professor	qy^rt	+1	1	So do you maybe make errors in different places ?
+Bro021.B.dialogueact73	174.78	175.92	B	Professor	s^e	+1	1	Different kinds of errors ?
+Bro021.C.dialogueact74	175.85	178.28	C	PhD	s^df	+1	1	I didn't look , uh , more closely .
+Bro021.B.dialogueact147	415.168	421.518	B	Professor	s^cs	+1	1	I I really would like to suggest looking , um , a little bit at the kinds of errors .
+Bro021.B.dialogueact148	421.518	425.921	B	Professor	s^df	+1	1	I know you can get lost in that and go forever and not see too much , but {disfmarker} {vocalsound} sometimes ,
+Bro021.B.dialogueact151	427.943	431.943	B	Professor	s	+1	1	just seeing that each of these things didn't make things better may not be enough .
+Bro021.B.dialogueact152	431.943	434.833	B	Professor	s^df	+1	1	It may be that they 're making them better in some ways and worse in others ,
+Bro021.B.dialogueact155	434.833	437.543	B	Professor	s^df	+1	1	or increasing insertions and decreasing deletions ,
+Bro021.B.dialogueact159	441.628	443.658	B	Professor	s^df	+1	1	you know , helping with noisy case
+Bro021.B.dialogueact160	443.658	445.248	B	Professor	s^df	+1	1	but hurting in quiet case .
+Bro021.B.dialogueact161	445.248	450.127	B	Professor	s	+1	1	And if you saw that then maybe you {disfmarker} it would {disfmarker} {vocalsound} something would occur to you of how to deal with that .
+11	Bro021.s.6	Mn052 volunteers to run some experiments into how different numbers of MFCCs affect results.
+Bro021.C.dialogueact331	843.412	852.92	C	PhD	s^tc.%--	+1	1	A third thing is that , um , {vocalsound} I play a little bit with the , um {disfmarker} {vocalsound} finding what was different between , um ,
+Bro021.C.dialogueact335	871.692	876.082	C	PhD	s^rt	+1	1	he had the France Telecom blind equalization in the system .
+Bro021.C.dialogueact337	878.653	881.803	C	PhD	s	+1	1	the number o of MFCC that was {disfmarker} were used was different .
+Bro021.C.dialogueact338	881.803	882.803	C	PhD	s^e	+1	1	You used thirteen
+Bro021.C.dialogueact339	882.803	884.293	C	PhD	s^e	+1	1	and we used fifteen .
+Bro021.D.dialogueact401	1033.04	1039.25	D	PhD	fg|s^bu	+1	1	Uh , so the {disfmarker} the {disfmarker} right now , the {disfmarker} the system that is there in the {disfmarker} what we have in the repositories , with {disfmarker} uses fifteen .
+Bro021.D.dialogueact417	1054.73	1058.99	D	PhD	s	+1	1	So , we haven't {disfmarker} w we have been always using , uh , fifteen coefficients ,
+Bro021.D.dialogueact418	1058.99	1059.45	D	PhD	s^e	+1	1	not thirteen ?
+Bro021.D.dialogueact432	1085.01	1092.13	D	PhD	fh|s^cc	+1	1	um , I 'll t s run some experiments to see whether {disfmarker} once I have this {vocalsound} {comment} noise compensation to see whether thirteen and fifteen really matters or not .
+Bro021.D.dialogueact435	1092.74	1094.94	D	PhD	s^df	+1	1	Never tested it with the compensation ,
+Bro021.D.dialogueact436	1094.94	1099.77	D	PhD	s^df	+1	1	but without , {vocalsound} uh , compensation it was like fifteen was s slightly better than thirteen ,

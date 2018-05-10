@@ -1,0 +1,22 @@
+The Berkeley Meeting Recorder group discussed recording equipment issues , including the purchase of two additional headsets and the prospect of getting a new base station and a set of wireless microphones to replace those wired microphones currently in use.
+Speaker fe008 presented the current status on transcriptions , and explained procedures for cleaning up transcripts and ensuring they conform with set conventions.
+Speaker mn014 briefly described his efforts to normalize loudness levels across speech channels to distinguish between foreground and background speech.
+Finally , the group discussed legal and procedural issues concerning the provision of transcripts to meeting participants for 'bleeping out' any sections of speech they want excluded from the Meeting Recorder database.
+The consent form issued to subjects prior to meetings will be revised to make more explicit details concerning access to transcripts and the ability of subjects to mark sections of meetings for exclusion from the database.
+The group decided to replace wired microphones with a wireless setup , i.e . a new base station and set of wireless microphones.
+Efforts will be made to ensure that recording conventions are consistent across ICSI , the University of Washington , and SRI.
+Some of the meeting recordings contain spikes.
+It was surmised that such disturbances are probably due to the connectors attached to a set of wired microphones in use.
+With respect to editing bleeps , should participants be allowed to edit out others' speech?
+It was suggested that making transcripts available to all of the subjects involved might make it too easy for them to edit out sections of meetings , whereas the bias should be to ensure that editing bleeps occur only rarely in the database.
+Two additional wireless headsets will soon be made available.
+Approximately 32-35 hours of meeting data have been recorded , roughly 30 hours of which comprise non-digits recordings.
+The transcribers have begun performing digit extraction ( see abstract for Bmr013 ) and should be finished within a few days.
+Approximately 11 hours of speech have been transcribed.
+Efforts by speaker fe008 are in progress to ensure that transcripts are clean ( i.e . spell checked ) , channelized , and conform to set conventions regarding the coding of numbers , acronyms , and explicit comments ( e.g . door slams , coughs , and laughter ).
+Subsequent efforts by speaker fe008 will be to tighten up boundaries on the time bins.
+Inter-annotator agreement was reported to be very good.
+Speaker mn014's multi-channel speech/non-speech segmenter is in use.
+The SRI recognizer will be fed with pre-segmented output to eliminate difficulties with processing overly long speech segments.
+Efforts by speaker mn014 to normalize loudness and distinguish between foreground and background speech have been largely successful.
+The group discussed procedural issues concerning the provision of transcripts to meeting participants for 'bleeping out' any sections of speech they want excluded from the Meeting Recorder database.

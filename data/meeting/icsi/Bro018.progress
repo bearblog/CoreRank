@@ -1,0 +1,57 @@
+4	Bro018.s.5	Speaker fn002 reported on her work with mn007 , who was absent attending a conference.
+Bro018.C.dialogueact1	2.87	4.81	C	Professor	s^rt	+1	2	So uh , he 's not here ,
+Bro018.D.dialogueact4	5.5	10.69	D	PhD	s	+1	1	Yeah , I will try to explain the thing that I did this {disfmarker} this week {disfmarker} during this week .
+Bro018.D.dialogueact6	11.336	18.116	D	PhD	s	+1	2	Well eh you know that I work {disfmarker} I begin to work with a new feature to detect voice - unvoice .
+Bro018.D.dialogueact8	19.429	34.6	D	PhD	s^rt	+1	2	What I trying two MLP to {disfmarker} to the {disfmarker} with this new feature and the fifteen feature uh from the eh bus base system
+9	Bro018.s.6	They have been working on voiced/unvoiced detection , and have tried two different configuration of MLP , although results have not been improved greatly.
+Bro018.D.dialogueact6	11.336	18.116	D	PhD	s	+1	2	Well eh you know that I work {disfmarker} I begin to work with a new feature to detect voice - unvoice .
+Bro018.D.dialogueact8	19.429	34.6	D	PhD	s^rt	+1	2	What I trying two MLP to {disfmarker} to the {disfmarker} with this new feature and the fifteen feature uh from the eh bus base system
+Bro018.D.dialogueact18	51.84	57.63	D	PhD	s	+1	1	And I 'm trying two MLP , one one that only have t three output ,
+Bro018.D.dialogueact19	58.19	59.82	D	PhD	s	+1	1	voice , unvoice , and silence ,
+Bro018.D.dialogueact21	60.55	65.18	D	PhD	s	+1	1	and other one that have fifty - six output .
+Bro018.D.dialogueact22	65.97	67.53	D	PhD	s	+1	1	The probabilities of the allophone .
+Bro018.D.dialogueact23	68.84	73.08	D	PhD	s^rt	+1	1	And I tried to do some experiment of recognition with that
+Bro018.D.dialogueact24	73.89	78.51	D	PhD	s	+1	1	and only have result with {disfmarker} with the MLP with the three output .
+Bro018.D.dialogueact26	83.623	88.77	D	PhD	s	+1	1	And , well , the result are li a little bit better , but more or less similar .
+6	Bro018.s.7	She has also begun looking at France Telecom's recogniser code.
+Bro018.D.dialogueact323	746.137	755.443	D	PhD	s^rt	+1	3	and also mmm I {disfmarker} H Hynek last week say that if I have time I can to begin to {disfmarker} to study
+Bro018.D.dialogueact324	756.247	759.567	D	PhD	s^rt.%--	+1	3	well seriously the France Telecom proposal
+Bro018.D.dialogueact326	760.067	761.137	D	PhD	s^rt.%--	+1	3	to look at the code
+Bro018.D.dialogueact333	778.156	780.606	D	PhD	s^rt^tc	+1	3	I begin to {disfmarker} to work also in that .
+Bro018.D.dialogueact334	781.43	792.62	D	PhD	s.%--	+1	3	But the first thing that I don't understand is that they are using R - the uh log energy that this quite {disfmarker}
+Bro018.D.dialogueact335	793.49	800.04	D	PhD	s^no	+1	3	I don't know why they have some constant in the expression of the lower energy .
+6	Bro018.s.8	Speaker me006 has been coming up with tests for his work using acoustic events.
+Bro018.C.dialogueact442	1056.15	1058.32	C	Professor	qy^rt^t^tc	+1	1	Wanna talk a little bit about what we were talking about this morning ?
+Bro018.A.dialogueact454	1083.59	1091.11	A	Grad	s	+1	1	Then uh I talked a little bit about {vocalsound} um continuing with these dynamic ev um acoustic events ,
+Bro018.A.dialogueact455	1091.66	1104.88	A	Grad	s	+1	1	and um {vocalsound} {vocalsound} we 're {disfmarker} we 're {disfmarker} we 're {vocalsound} thinking about a way to test the completeness of a {disfmarker} a set of um dynamic uh events .
+Bro018.A.dialogueact456	1105.45	1122.79	A	Grad	qo	+1	1	Uh , completeness in the {disfmarker} in the sense that {vocalsound} um if we {disfmarker} if we pick these X number of acoustic events , {vocalsound} do they provide sufficient coverage {vocalsound} for the phones that we 're trying to recognize {vocalsound} or {disfmarker} or the f the words that we 're gonna try to recognize later on .
+Bro018.A.dialogueact457	1123.44	1139.65	A	Grad	s	+1	1	And so Morgan and I were uh discussing {vocalsound} um s uh s a form of a cheating experiment {vocalsound} where we get {disfmarker} {vocalsound} um we have uh {vocalsound} um a chosen set of features , or acoustic events ,
+Bro018.A.dialogueact458	1140.1	1146.28	A	Grad	s	+1	1	and we train up a hybrid {vocalsound} um system to do phone recognition on TIMIT .
+14	Bro018.s.9	Speaker me018 is investigating differences in another system , and feels it maybe down to bugs.
+Bro018.C.dialogueact790	2079.05	2085.09	C	Professor	qy^rt.%--	+1	1	So um have you had a chance to do this um thing we talked about yet with the uh {disfmarker}
+Bro018.C.dialogueact796	2091.35	2104.24	C	Professor	s	+1	1	but I was gonna ask about the {disfmarker} {vocalsound} the um {vocalsound} changes to the data in comparing PLP and mel cepstrum for the SRI system .
+Bro018.C.dialogueact802	2110.76	2115.44	C	Professor	s^rt	+1	1	So we talked on the phone about this , that {disfmarker} that there was still a difference of a {disfmarker} of a few percent
+Bro018.C.dialogueact805	2115.52	2119.68	C	Professor	s	+1	1	and {vocalsound} you told me that there was a difference in how the normalization was done .
+Bro018.C.dialogueact806	2120.14	2128.4	C	Professor	s	+1	1	And I was asking if you were going to do {disfmarker} {vocalsound} redo it uh for PLP with the normalization done as it had been done for the mel cepstrum .
+Bro018.E.dialogueact809	2130.53	2131.94	E	PhD	s^ar|s^df^nd	+1	1	no I haven't had a chance to do that .
+Bro018.E.dialogueact810	2131.94	2137.5	E	PhD	s.%--	+1	1	What I 've been doing is {vocalsound} uh {vocalsound} trying to figure out {disfmarker}
+Bro018.E.dialogueact812	2137.5	2139.92	E	PhD	s.%--	+1	1	it just seems to me like there 's a um {disfmarker}
+Bro018.E.dialogueact813	2140.3	2141.33	E	PhD	s	+1	1	well it seems like there 's a bug ,
+Bro018.E.dialogueact814	2141.45	2146.43	E	PhD	s	+1	1	because the difference in performance is {disfmarker} it 's not gigantic
+Bro018.E.dialogueact815	2147.01	2149.39	E	PhD	s	+1	1	but it 's big enough that it {disfmarker} it seems wrong .
+Bro018.C.dialogueact819	2150.34	2154.62	C	Professor	s^ng^rt	+1	1	but I thought that the normalization difference was one of the possibilities ,
+Bro018.E.dialogueact823	2155.33	2158.89	E	PhD	s^rt	+1	1	I guess I don't think that the normalization difference is gonna account for everything .
+Bro018.E.dialogueact824	2159.5	2165.16	E	PhD	s^rt	+1	1	So what I was working on is um just going through and checking the headers of the wavefiles ,
+12	Bro018.s.10	Speaker me026 has made real progress on his spectral subtraction work , with an implementation and early results.
+Bro018.B.dialogueact1083	2837.23	2838.79	B	Grad	s^t^tc	+1	1	That 's {disfmarker} as far as my stuff goes ,
+Bro018.B.dialogueact1087	2839.07	2842.13	B	Grad	s	+1	2	well I {vocalsound} tried this mean subtraction method .
+Bro018.B.dialogueact1089	2842.45	2846.95	B	Grad	s	+1	2	Due to Avendano , {vocalsound} I 'm taking s um {vocalsound} six seconds of speech ,
+Bro018.B.dialogueact1090	2847.13	2852.97	B	Grad	s	+1	1	um {vocalsound} I 'm using two second {vocalsound} FFT analysis frames , {vocalsound} stepped by a half second
+Bro018.B.dialogueact1096	2864.85	2871.71	B	Grad	s	+1	1	And I calculate um {vocalsound} the spectral mean , {vocalsound} of the log magnitude spectrum {pause} over that N .
+Bro018.B.dialogueact1097	2872.13	2877.18	B	Grad	s	+1	1	I use that to normalize the s the current center frame {vocalsound} by mean subtraction .
+Bro018.B.dialogueact1101	2884.39	2887.17	B	Grad	fh|s	+1	1	And um {vocalsound} the {disfmarker} I tried that with HDK ,
+Bro018.B.dialogueact1102	2887.17	2890.61	B	Grad	s	+1	1	the Aurora setup of HDK training on clean TI - digits ,
+Bro018.B.dialogueact1103	2891.35	2893.73	B	Grad	fh|s^ba	+1	1	and um {vocalsound} it {disfmarker} it helped
+Bro018.B.dialogueact1104	2893.73	2896.17	B	Grad	s.%--	+1	1	um in a phony reverberation case
+Bro018.B.dialogueact1105	2896.17	2906.91	B	Grad	s	+1	1	um {vocalsound} where I just used the simulated impulse response um {vocalsound} the error rate went from something like eighty it was from something like eighteen percent {vocalsound} to um four percent .
+Bro018.B.dialogueact1106	2907.75	2917.74	B	Grad	s	+1	1	And on meeting rec recorder far mike digits , mike {disfmarker} on channel F , it went from um {vocalsound} {vocalsound} forty - one percent error to eight percent error .

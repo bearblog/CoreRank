@@ -1,0 +1,22 @@
+3	Bmr012.s.1	The Berkeley Meeting Recorder group discussed recognition results generated for 20 minutes of close-talking microphone data.
+Bmr012.E.dialogueact157	224.842	228.272	E	Grad	s	+1	1	And I 'm sure Liz and Andreas wanna talk about recognition results .
+Bmr012.C.dialogueact186	301.303	303.263	C	PhD	s.%--	+1	1	Anyway so it 's twenty minutes and I actually
+Bmr012.C.dialogueact535	729.356	733.886	C	PhD	s	+1	2	So this is only twenty minutes of one meeting with no {disfmarker} no tailoring at all .
+5	Bmr012.s.2	Recognition performance was very good , indicating promising results for forced alignment procedures and the ability to analyze other important signal information , e.g . prosody and overlapping speech.
+Bmr012.C.dialogueact559	778.913	781.263	C	PhD	s	+1	1	and this is {disfmarker} this is good news
+Bmr012.C.dialogueact560	781.263	783.713	C	PhD	s^df	+1	2	because that means the force alignments should be good
+Bmr012.C.dialogueact563	786.063	789.373	C	PhD	s	+1	2	but if the force alignments are good we can get all kinds of information .
+Bmr012.C.dialogueact564	790.013	793.043	C	PhD	s^e	+1	2	For example about , you know prosodic information
+Bmr012.C.dialogueact565	793.043	797.483	C	PhD	s^e	+1	2	and speaker overlaps and so forth directly from the aligned times .
+3	Bmr012.s.3	It was decided that close-talking data should be downsampled and fed to the SRI recognizer to compare recognition performance , and that data from the far-field microphones should be tested on the recognizer as soon as possible.
+Bmr012.E.dialogueact550	756.14	757.83	E	Grad	s	+1	2	And I have to try it on the far field mike
+Bmr012.B.dialogueact621	893.72	896.14	B	Professor	fh|s	+1	2	yeah certainly I 'd like to see as soon as we could ,
+Bmr012.B.dialogueact623	898.43	902.44	B	Professor	s^cs.%--	+1	2	but soon as we could how well it does with say with the P Z Ms or maybe even one of the
+1	Bmr012.s.4	The group also discussed recording setup and equipment issues.
+Bmr012.E.dialogueact155	219.425	223.375	E	Grad	s^t	+1	1	Uh well I have {disfmarker} I wanna talk about new microphones and wireless stuff .
+0	Bmr012.s.5	A decision was made to purchase an additional head-mounted crown microphone.
+1	Bmr012.s.6	A tentative decision was also made to integrate the use of a hand-held wireless microphone to help compensate for the lack of available close-talking microphones.
+Bmr012.C.dialogueact1109	1767.17	1778.71	C	PhD	qy^cs.%-	+1	2	Is {disfmarker} {vocalsound} is there any way we can have you know like a {disfmarker} a wireless microphone that you pass around to the people who you know the extra people for the times they wanna talk that {disfmarker}
+2	Bmr012.s.7	The collection of Meeting Recorder data is ongoing , and will include meetings by the Berkeley Even Deeper Understanding research group and , possibly , an organized discussion by members of the transcriber pool.
+Bmr012.C.dialogueact953	1450.26	1453.36	C	PhD	s	+1	2	and it 's a meeting on even deeper understanding , EDU ,
+Bmr012.G.dialogueact1243	1941.14	1946.55	G	Postdoc	s^cs^t	+1	2	And then um also an idea for another meeting , which would be to have the transcribers talk about the data

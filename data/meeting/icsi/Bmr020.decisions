@@ -1,0 +1,35 @@
+2	Bmr020.s.11	The files made available in the FTP directory will be the original ones ( before down-sampling ) , as these seem to be wanted by other parties.
+Bmr020.G.dialogueact816	1379.92	1383.38	G	PhD	s^cs	+1	1	we should probably {disfmarker} uh {pause} give them the non - downsampled versions .
+Bmr020.E.dialogueact842	1414.15	1416.63	E	Grad	s	+1	1	But , um {pause} they probably w want the originals .
+3	Bmr020.s.12	Moreover , as files may have been modified through different processing , tests will be carried out in order to ensure the generation of beep files in a consistent way.
+Bmr020.D.dialogueact901	1511.61	1525.89	D	PhD	s	+1	2	Yeah , in fact after our meeting uh , this morning Thilo came in and said that {vocalsound} um , there could be {pause} other differences between {vocalsound} the uh {pause} already transcribed meeting with the beeps in it and one that has {pause} just r been run through his process .
+Bmr020.D.dialogueact904	1525.89	1533.2	D	PhD	s	+1	1	So tomorrow , {vocalsound} when we go to make the um {pause} uh , chunked file {vocalsound} for IBM , we 're going to actually compare the two .
+Bmr020.D.dialogueact907	1536.41	1541.75	D	PhD	s	+1	1	and then we 're gonna do the beep - ify on both , and listen to them and see if we notice any real differences .
+2	Bmr020.s.13	Also towards this goal , some of the time bins will need to be merged.
+Bmr020.A.dialogueact886	1489.23	1497.26	A	Grad	s	+1	1	So what {disfmarker} what we 're probably gonna do is just write a script , that if two , chunks are very close to each other on the same channel we 'll just merge them .
+Bmr020.C.dialogueact1110	1978.81	1985.85	C	Postdoc	s	+1	1	But I like this idea of {disfmarker} uh , for our purposes for the {disfmarker} for the IBM preparation , {vocalsound} uh , n having these {pause} joined together ,
+4	Bmr020.s.14	On the other hand , the two meetings where time bins have been hand-coded in detail will be used to fine-tune the forced alignments.
+Bmr020.G.dialogueact972	1650.3	1654.6	G	PhD	s^df	+1	1	Uh , because we could use that to fine tune our alignment process
+Bmr020.G.dialogueact969	1638.64	1647.33	G	PhD	s	+1	1	I mean w I mean what I would {disfmarker} I was interested in is having {disfmarker} {vocalsound} a se having time marks for the beginnings and ends of speech
+Bmr020.C.dialogueact1093	1937.95	1939.56	C	Postdoc	s	+1	1	I {disfmarker} I hand - adjusted two of them
+Bmr020.G.dialogueact1098	1941.68	1945.92	G	PhD	s	+1	1	So {disfmarker} so at some point we will try to fine - tune our forced alignment
+4	Bmr020.s.15	Recordings will be sent to IBM for transcription.
+Bmr020.D.dialogueact780	1343.27	1345.16	D	PhD	s	+1	1	We need to give Brian the beeps file ,
+Bmr020.D.dialogueact1334	2500.07	2500.84	D	PhD	s^cs	+1	1	and we send it to IBM .
+Bmr020.D.dialogueact1336	2500.84	2503.32	D	PhD	s^cs	+1	2	The other one is {vocalsound} we just run his thing and send it to IBM .
+Bmr020.D.dialogueact1660	2995.92	2996.91	D	PhD	s	+1	1	send it off to IBM .
+5	Bmr020.s.16	Before that , the files will be automatically pre-segmented into speech/non-speech bins and the beeps will be inserted.
+Bmr020.B.dialogueact1287	2433.62	2439.81	B	PhD	s^cs^ng	+1	2	But then we could just use the {disfmarker} the output of the detector , and do the beeping on it , and send it to I B
+Bmr020.D.dialogueact1331	2494.88	2498.09	D	PhD	s^cs	+1	1	So the {disfmarker} the one suggestion is you know we {disfmarker} {vocalsound} we run Thilo 's thing
+Bmr020.D.dialogueact1336	2500.84	2503.32	D	PhD	s^cs	+1	2	The other one is {vocalsound} we just run his thing and send it to IBM .
+Bmr020.D.dialogueact1340	2507.9	2514.36	D	PhD	s^cs	+1	1	and that is {vocalsound} if we go ahead and we {vocalsound} just run his , and we generate the beeps file , then we have somebody listen beeps file .
+Bmr020.D.dialogueact1659	2995.25	2995.92	D	PhD	s	+1	1	put the beeps file ,
+3	Bmr020.s.17	In order to make things easier for the transcribers , breathy channels , which are erroneously marked as speech , will be re-classified correctly with other methods.
+Bmr020.C.dialogueact1581	2862.97	2870.35	C	Postdoc	s	+1	1	The other problem is , that when it {disfmarker} when it uh d i on the breathy ones , where you get {vocalsound} {vocalsound} breathing , uh , inti indicated as speech .
+Bmr020.B.dialogueact1620	2949.82	2952.56	B	PhD	s^cs^rt	+1	1	So , I could run this on those breathy channels ,
+Bmr020.F.dialogueact1626	2958.04	2959.94	F	Professor	s^na	+1	1	and what that 'll do is just cut the time a little further .
+1	Bmr020.s.18	All this pre-processing will have to be evaluated first by checking a sample of the output files.
+Bmr020.F.dialogueact1446	2629.67	2632.62	F	Professor	qh^cs	+1	1	why don't we check through a bunch of things by sampling it ?
+2	Bmr020.s.19	Other issues , like whether and how synthesised speech off a laptop needs be transcribed , will be resolved during the in-house post-processing of the transcriptions.
+Bmr020.A.dialogueact1701	3041.9	3042.5	A	Grad	qw	+1	1	What can you do ?
+Bmr020.A.dialogueact1805	3172.19	3173.71	A	Grad	s^co^e	+1	1	and we 'll correct it when it comes back .

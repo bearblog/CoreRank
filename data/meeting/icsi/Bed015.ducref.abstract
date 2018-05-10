@@ -1,0 +1,11 @@
+The discussion concerned the revised semantic specification and the construction formalism.
+The different levels of the latter focus on what construction types are encountered and what bindings there are between them.
+The notation maintains properties of both dependency and constituent-based grammars.
+The encoding of features is still incomplete: frame profiles , focus , adjectives , nominal expressions are phenomena in the process of being integrated.
+Similarly , ways to handle mental spaces will have to be added on top.
+On the other hand , the semantic specification structures information in terms of "scenario" , "referent" and "discourse segment".
+Each category comprises a number of slots filled in by information derived from the utterance.
+It is , essentially , a toolkit with which to create semantic constructions , as well as the bindings between them and with the ontology.
+Among the issues still being defined , mental spaces and context ( eg pronoun references ) present similarities that can be echoed in the specification.
+Work on both of these formalisms will continue with circumscription of the construction space that will be studied in more detail.
+Work on construal will use Bayes-nets , which will be fed information from other modules and implement general rules to infer how utterances are construed.

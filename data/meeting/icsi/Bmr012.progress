@@ -1,0 +1,34 @@
+5	Bmr012.s.19	A 'no-frills' recognizer , trained on Switchboard acoustic models and both Switchboard and Broadcast News language models , was used to test data for one transcribed meeting.
+Bmr012.C.dialogueact173	258.93	261.76	C	PhD	s	+1	1	and that 's trained on Switchboard which is telephone conversations .
+Bmr012.B.dialogueact435	603.304	606.114	B	Professor	qr^bu^d^rt.%-	+1	1	the acoustic models were also from Switchboard or {disfmarker} or
+Bmr012.A.dialogueact436	605.624	605.944	A	PhD	s^aa	+1	1	Yeah .
+Bmr012.C.dialogueact442	609.411	613.601	C	PhD	fg|s^rt	+1	1	And actually {disfmarker} we actually um used Switchboard telephone bandwidth models
+Bmr012.A.dialogueact476	646.608	650.608	A	PhD	s	+1	1	I mean there 's uh actually more data is from Broadcast News
+6	Bmr012.s.20	Despite a glitch affecting the synchronized output of remaining data , recognition results for the first 20 minutes were very positive.
+Bmr012.C.dialogueact220	335.251	337.081	C	PhD	fh|s	+1	2	yeah i it was a complicated bug
+Bmr012.C.dialogueact221	337.081	340.151	C	PhD	s^df^rt	+1	2	because they were sometimes one off and then sometimes totally random
+Bmr012.A.dialogueact209	326.858	330.118	A	PhD	s.%-	+1	2	and then we noticed that the reference was always one off with the {disfmarker}
+Bmr012.E.dialogueact252	357.876	365.067	E	Grad	s	+1	2	There {disfmarker} there {disfmarker} there 's an acoustic glitch that occurs where um the channels get slightly asynchronized
+Bmr012.C.dialogueact346	459.86	462.36	C	PhD	s	+1	1	this is really encouraging cuz this is free recognition ,
+Bmr012.C.dialogueact535	729.356	733.886	C	PhD	s	+1	2	So this is only twenty minutes of one meeting with no {disfmarker} no tailoring at all .
+1	Bmr012.s.21	The recognizer was successful in making accurate gender distinctions among speakers.
+Bmr012.A.dialogueact492	667.088	671.818	A	PhD	fh|s	+1	1	um and it might be reassuring for everybody to know that it got all the genders right .
+4	Bmr012.s.22	It is anticipated that subsequent forced alignment procedures will also generate good results , enabling the group to analyze other types of signal information , such as prosody and overlapping speech segments.
+Bmr012.C.dialogueact560	781.263	783.713	C	PhD	s^df	+1	2	because that means the force alignments should be good
+Bmr012.C.dialogueact563	786.063	789.373	C	PhD	s	+1	2	but if the force alignments are good we can get all kinds of information .
+Bmr012.C.dialogueact564	790.013	793.043	C	PhD	s^e	+1	2	For example about , you know prosodic information
+Bmr012.C.dialogueact565	793.043	797.483	C	PhD	s^e	+1	2	and speaker overlaps and so forth directly from the aligned times .
+1	Bmr012.s.23	Future work will involve getting assessments of forced aligned data from linguists on the accuracy of time marks.
+Bmr012.C.dialogueact567	800.923	808.933	C	PhD	s^cs	+1	1	actually in order to assess the forced alignment um we need s some linguists or some people to look at it and say are these boundaries in about the right place .
+1	Bmr012.s.24	The collection of Meeting Recorder data is ongoing , and will include meetings by the Berkeley Even Deeper Understanding research group.
+Bmr012.C.dialogueact953	1450.26	1453.36	C	PhD	s	+1	2	and it 's a meeting on even deeper understanding , EDU ,
+1	Bmr012.s.25	Transcriptions are also ongoing , with nearly 10 hours of Meeting Recorder data transcribed so far.
+Bmr012.G.dialogueact1231	1931.72	1933.28	G	Postdoc	s	+1	1	I think that by tomorrow we 'll have ten .
+2	Bmr012.s.26	Future work will involve working out a system for getting subjects to approve transcriptions so that confidentiality agreements are upheld and data may be shared with other research groups.
+Bmr012.B.dialogueact697	1051.35	1054.4	B	Professor	fg|s^co	+1	1	Yeah so we just have to go through this process of having people approve the transcriptions ,
+Bmr012.E.dialogueact721	1099.11	1103.91	E	Grad	s^co	+1	1	we need to work at a system for doing that approval so that we can send people the transcripts
+3	Bmr012.s.27	A visiting student from Norway is working with a member of ICSI to conduct a related project on echo cancellation for handling segments of overlapping speech.
+Bmr012.J.dialogueact1371	2149.52	2150.11	J	Grad	s^rt	+1	1	I 'm a Norwegian .
+Bmr012.J.dialogueact1377	2175.97	2182.58	J	Grad	fh|s	+1	1	So with the help of uh Dan Ellis I 'm gonna do small project associated to this .
+Bmr012.J.dialogueact1378	2183.74	2192.11	J	Grad	s^cc	+1	1	What I 'm gonna try to do is uh use {disfmarker} use ech echo cancellation to uh to handle the periods where you have overlapping talk .
+0	Bmr012.s.28	Finally , the group is expecting a visit from a representative of NIST.

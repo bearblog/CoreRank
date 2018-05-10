@@ -1,0 +1,31 @@
+A detailed diagram of the belief-net had already been disseminated.
+Its structure was discussed during the meeting.
+There are several endpoints ( User , Ontology , Discourse etc ) with separate EVA ( Enter/View/Approach ) values.
+Details of how different inputs feed into them were discussed at length.
+Ideas mentioned included grouping features of buildings like "selling" , "fixing" and "exhibiting" , as well as creating a User-compatibility node that would take different values depending on the situation and the user status.
+Similarly , a Go-there ( towards a building ) node can be influenced by things like the user's budget and discourse parameters amongst other things.
+The latter are still ill-defined at this stage.
+The study of the linguistic constructions that people use in this kind of navigational domain is expected to be prove useful in that respect.
+As each node in the tree is the decision point of the combination of its parent nodes , which rules govern this combination is an important issue.
+There are several approaches ranging from simply averaging the inputs to using a hidden variable in order to weight them differently depending on context.
+If the latter architecture is used , the net could -to an extent- be trained with the data that is currently being collected.
+Although this was mainly a brainstorming meeting , some minor tasks were allocated for the near future.
+Since the net architecture and possible decision algorithms were discussed , it is necessary to examine how much of this JavaBayes can accommodate and , if not , what modifications would be necessary.
+Additionally , the german partners visiting the institute will need to see some results of the new system design.
+Finally , the analysis of the linguistic constructions for the current research domain can begin even with limited data , as , at this stage , they need not be very detailed.
+The is only a diagrammatic view of how the decision tree for the EVA task looks like.
+A lot of the details have been glossed over: the user model can potentially comprise a huge number of factors; a planning "go-there" node needs input from several other areas of the net; there are intricate interactions between discourse and the situation model.
+Similarly , what discourse properties are of importance and how they influence EVA probabilities is still a mystery.
+On a more general note , there is also the question of whether the net should be updated continuously or only when it is needed.
+No final decision was taken as to the rules of computation applying in the belief-net.
+The more interesting solutions would ideally require training data , and it is still debatable whether the current collection would be appropriate for this particular task.
+In any case , how different architectures can be implemented in JavaBayes and what modifications would be necessary for the purposes of this project also need to be investigated.
+A simulator of the set of influence links forming the belief-net was created and put up for discussion.
+Different sections of the analysis , such as the user model , the ontology and the discourse are represented as a layer of nodes each with its own EVA probabilities.
+They form endpoints to which other nodes like Go-there , User_Budget , User_Thrift and Prosody feed into.
+The second presentation concerned the set of computational rules that are to be used with the net.
+The simple way to decide on the final output is the majority vote ( which E , V or A form the majority of the parent nodes' outputs ).
+This assumes that all inputs are of equal importance.
+Alternatively , each input can be weighted in a fixed way.
+A third option is to create a hidden variable that makes the decision of which of the inputs is more trusted in a particular situation.
+The same variable can potentially also change the weighting of each input.

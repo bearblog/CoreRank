@@ -1,0 +1,32 @@
+2	Bmr019.s.1	The main topics discussed were the results of digit recognition and the forced alignment task.
+Bmr019.E.dialogueact12	12.133	18.592	E	Grad	s	+1	1	Two items , which was , uh , digits and possibly stuff on {disfmarker} on , uh , forced alignment ,
+Bmr019.B.dialogueact660	1340.45	1343.51	B	Professor	fg|qo^d^e	-1	0	OK . So the s the {disfmarker} the next thing we had on the agenda was something about alignments ?
+3	Bmr019.s.2	Realisations as to the former included the surprisingly good results from the lapel microphones and the fact that the widely-used HTK-based systems performed worse than SRI , which , however , is specifically trained on digits.
+Bmr019.E.dialogueact90	121.753	127.063	E	Grad	s	+1	1	I mean that it was basically {disfmarker} the only thing that was even slightly surprising was that the lapel did so well .
+Bmr019.B.dialogueact142	214.907	230.407	B	Professor	s^rt	+1	0	uh , I mean , there the point of interest to the group was primarily that , um , {vocalsound} the , uh {disfmarker} the system that we had that was based on H T K , that 's used by , you know , {pause} all the participants in Aurora , {vocalsound} was so much worse {vocalsound} than the {disfmarker} than the S R
+Bmr019.F.dialogueact180	340.452	346.63	F	PhD	s	-1	0	I could {disfmarker} and they are using a system that 's , um {disfmarker} you know , h is actually trained on digits ,
+5	Bmr019.s.3	For the results to be more closely comparable , it was suggested that the TI digit corpus is used on the same system , although the two corpora differ in recording conditions and amount of data per speaker.
+Bmr019.B.dialogueact172	320.712	326.019	B	Professor	qy^rt	-1	0	Hav - Have you ever t {vocalsound} Have you ever tried this exact same recognizer out on the actual TI - digits test set ?
+Bmr019.B.dialogueact175	331.008	332.208	B	Professor	s^cs	-1	0	It might be interesting to do that .
+Bmr019.B.dialogueact185	361.105	362.475	B	Professor	s^df	-1	0	so that these numbers were comparable
+Bmr019.B.dialogueact205	384.422	395.563	B	Professor	s	+1	3	Uh , but the other is that , um , the digits {vocalsound} recorded here in this room with these close mikes , i uh , are actually a lot harder than the {pause} studio - recording TI - digits .
+Bmr019.F.dialogueact292	575.12	576.93	F	PhD	s^e	-1	0	it 's the num it 's the amount of data per speaker .
+4	Bmr019.s.4	Other methods to improve recognition results are comparing the signals of close and far-field microphones , or using the Switchboard model for channel adaptation before speaker adaptation is carried out.
+Bmr019.F.dialogueact332	664.83	681.603	F	PhD	s	+1	0	By the way , I think we can improve these numbers if we care to compr improve them {vocalsound} by , um , {vocalsound} not starting with the Switchboard models but by taking the Switchboard models and doing supervised adaptation on a small amount of digit data collected in this setting .
+Bmr019.F.dialogueact340	700.166	703.016	F	PhD	s	-1	0	use that as the starting models for your speaker adaptation .
+Bmr019.B.dialogueact410	806.21	810.93	B	Professor	s	+1	0	The other thing that {disfmarker} that , uh {disfmarker} of course , what Barry was looking at was {disfmarker} was just that ,
+Bmr019.B.dialogueact411	810.93	812.02	B	Professor	s	+1	1	the near versus far .
+2	Bmr019.s.5	On the other hand , there have been improvements on forced alignments , although some issues still need debugging.
+Bmr019.A.dialogueact667	1351.96	1365.35	A	PhD	s	+1	2	and {disfmarker} and {disfmarker} W we {disfmarker} we were able to get some definite improvement on the forced alignments by looking at them first and then realizing the kinds of errors {pause} that were occurring
+Bmr019.A.dialogueact761	1634.42	1638.48	A	PhD	s	+1	1	So just sort of working through a bunch of debugging kinds of issues .
+2	Bmr019.s.6	Hand-marked word-level alignment data would be very useful for the fine-tuning of more parameters.
+Bmr019.F.dialogueact781	1683.66	1688.42	F	PhD	s^cs	+1	1	So , {vocalsound} we would need a hand - marked , um , {vocalsound} word - level alignments
+Bmr019.F.dialogueact784	1695.61	1701.33	F	PhD	s	+1	1	and tune the parameters of the {disfmarker} of the model , uh , to op to get the best {pause} performance .
+1	Bmr019.s.7	Finally , a paper on overlap identification is being prepared for Eurospeech.
+Bmr019.B.dialogueact1073	2215.03	2218.5	B	Professor	qy	+1	0	but were {disfmarker} were you intending to do a Eurospeech submission ,
+1	Bmr019.s.8	This work can potentially be used for the planned research on prosodic features.
+Bmr019.A.dialogueact1285	2628.5	2637.01	A	PhD	s	-1	0	Um , and the good thing is that we have {disfmarker} It 's sort of a beginning of what Don can use to link the prosodic features from each file to each other .
+3	Bmr019.s.9	Another two papers ( on segmentation and on the Aurora system ) are also being submitted by ICSI staff.
+Bmr019.B.dialogueact1484	2915.37	2920.2	B	Professor	s	+1	1	Uh , you {disfmarker} you and , uh {disfmarker} and Dan have {disfmarker} have a paper that {disfmarker} that 's going in .
+Bmr019.B.dialogueact1487	2920.34	2923.89	B	Professor	s	+1	0	You know , that 's {disfmarker} that 's pretty solid , on the segmentation {pause} stuff .
+Bmr019.B.dialogueact1491	2925.78	2929.34	B	Professor	s	+1	1	And the Aurora folks here will {disfmarker} will definitely get something in on Aurora ,

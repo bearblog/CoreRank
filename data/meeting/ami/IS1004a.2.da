@@ -1,0 +1,214 @@
+IS1004a.A.dialog-act.dharshi.1	35.76	37.2	PM	A	stl	-1	0	{vocalsound} Okay .
+IS1004a.A.dialog-act.dharshi.2	37.2	39.18	PM	A	be.pos	-1	0	Good morning everybody .
+IS1004a.C.dialog-act.dharshi.1	38.38	38.87	ID	C	be.pos	-1	0	Good morning .
+IS1004a.A.dialog-act.dharshi.4	39.18	40.85	PM	A	inf	-1	0	Oh , everybody is not ready .
+IS1004a.B.dialog-act.dharshi.1	41.21	42.1	UI	B	inf	-1	0	Uh almost .
+IS1004a.A.dialog-act.dharshi.5	43.88	45.05	PM	A	ass	-1	0	Alright .
+IS1004a.B.dialog-act.dharshi.2	43.76	44.87	UI	B	inf	-1	0	Ready .
+IS1004a.A.dialog-act.dharshi.6	45.05	46.26	PM	A	sug	-1	0	Okay , let's go .
+IS1004a.A.dialog-act.dharshi.7	46.26	54.46	PM	A	inf	+1	1	So , we're here today to to have our first kick-off meeting about uh this new project we're going to tak to talk about in a few minutes .
+IS1004a.A.dialog-act.dharshi.8	55.57	61.65	PM	A	inf	+1	1	Um so I will be uh Sebastian the Project Manager .
+IS1004a.A.dialog-act.dharshi.9	61.65	64.446	PM	A	el.inf	-1	0	Um you are the {disfmarker}
+IS1004a.B.dialog-act.dharshi.4	64.03	66.7	UI	B	inf	+1	1	I'm uh Michael . I'm the user interface designer .
+IS1004a.A.dialog-act.dharshi.10	66.88	67.31	PM	A	ass	-1	0	Okay .
+IS1004a.D.dialog-act.dharshi.1	67.69	70.08	ME	D	inf	+1	1	Hi I'm Guillermo {gap} . I'm the Marketing Expert .
+IS1004a.C.dialog-act.dharshi.2	70.82	73.08	ID	C	inf	+1	1	And I am Hemant , the industrial designer .
+IS1004a.A.dialog-act.dharshi.11	73.27	74.79	PM	A	ass	-1	0	Okay , very good .
+IS1004a.A.dialog-act.dharshi.12	74.79	76.73	PM	A	be.pos	-1	0	Thanks for being here .
+IS1004a.A.dialog-act.dharshi.13	76.73	80.37	PM	A	sug	+1	0	Um so let's have a look to the the agenda .
+IS1004a.A.dialog-act.dharshi.14	81.71	84.71	PM	A	sug	-1	0	So , we are going to go through this agenda
+IS1004a.A.dialog-act.dharshi.15	84.71	95.7	PM	A	inf	+1	0	uh and mainly first to uh {vocalsound} to make {disfmarker} to to be used to the tools uh available in this nice and smart meeting room we have here .
+IS1004a.A.dialog-act.dharshi.16	95.7	101.39	PM	A	sug	+1	0	Um then we'll go to uh the plans for project and have general discussions about it .
+IS1004a.A.dialog-act.dharshi.17	103.9	112.42	PM	A	inf	+1	2	So , the goal of this project is to uh developed a new remote control .
+IS1004a.A.dialog-act.dharshi.18	112.42	119.5	PM	A	inf	+1	1	Um it should be original , trendy , and also user friendly .
+IS1004a.A.dialog-act.dharshi.19	123.88	132.39	PM	A	sug	+1	1	As usual we will follow the the project method um {vocalsound} that we are using in the {disfmarker} in our company .
+IS1004a.A.dialog-act.dharshi.20	132.39	134.31	PM	A	inf	+1	1	It is in three step as you know .
+IS1004a.A.dialog-act.dharshi.21	134.31	136.33	PM	A	inf	+1	1	First the functional design .
+IS1004a.A.dialog-act.dharshi.22	136.33	138.53	PM	A	inf	+1	1	The second's a conceptual design ,
+IS1004a.A.dialog-act.dharshi.23	138.53	140.45	PM	A	inf	+1	1	and then the detailed design .
+IS1004a.A.dialog-act.dharshi.24	140.97	153.09	PM	A	sug	+1	1	During each step uh of each design we wi you will work uh s separately , individually on uh your specific tasks
+IS1004a.A.dialog-act.dharshi.25	153.09	162.65	PM	A	sug	+1	1	and will m we will meet to um to discuss and take decisions about uh what you've you've you did and what uh we will do next .
+IS1004a.A.dialog-act.dharshi.26	165.38	178.37	PM	A	sug	-1	0	So first , we have to to train ourself with all the um the tools availables in the in this nice meeting room and uh particularly the the white board
+IS1004a.A.dialog-act.dharshi.27	178.37	186.87	PM	A	sug	+1	1	so uh we are going to go through the white board and take some um s some notes or do some drawings .
+IS1004a.A.dialog-act.dharshi.28	186.87	187.96	PM	A	el.sug	-1	0	So who want to start ?
+IS1004a.A.dialog-act.dharshi.29	191.98	193.22	PM	A	oth	-1	0	Mister {gap} .
+IS1004a.B.dialog-act.dharshi.6	191.76	193.41	UI	B	off	-1	0	Ah well if no one else wants to , yeah .
+IS1004a.B.dialog-act.dharshi.7	194.66	201.67	UI	B	inf	+1	1	Okay so , want me to draw my favourite animal .
+IS1004a.A.dialog-act.dharshi.30	202.048	202.836	PM	A	fra	-1	0	{vocalsound}
+IS1004a.B.dialog-act.dharshi.8	201.67	202.6	UI	B	oth	-1	0	{vocalsound} Let's see .
+IS1004a.B.dialog-act.dharshi.9	216.28	220.4	UI	B	inf	+1	1	Well , I don't really have a favourite animal , but um
+IS1004a.A.dialog-act.dharshi.31	220.53	221.26	PM	A	el.inf	-1	0	You have one in mind ?
+IS1004a.B.dialog-act.dharshi.10	220.4	223.104	UI	B	inf	-1	0	uh I think I have one in mind , so uh {disfmarker}
+IS1004a.B.dialog-act.dharshi.11	224.432	228.0	UI	B	off	+1	1	{vocalsound} I'm gonna {vocalsound} {gap} about the uh spider
+IS1004a.B.dialog-act.dharshi.12	228.0	233.15	UI	B	inf	-1	0	because you can actually draw it pretty well in the corner of a white board .
+IS1004a.B.dialog-act.dharshi.13	234.65	235.88	UI	B	stl	-1	0	The spider has a {disfmarker}
+IS1004a.B.dialog-act.dharshi.14	235.88	236.83	UI	B	inf	-1	0	spider lives in a web
+IS1004a.B.dialog-act.dharshi.18	241.264	245.92	UI	B	inf	-1	0	{vocalsound} and uh it has eight legs ,
+IS1004a.B.dialog-act.dharshi.19	248.07	254.84	UI	B	inf	-1	0	and uh it can move all about the web in two dimensions .
+IS1004a.B.dialog-act.dharshi.20	255.66	257.97	UI	B	inf	-1	0	Unless it's a three dimensional web which y they have sometimes .
+IS1004a.B.dialog-act.dharshi.21	257.97	263.81	UI	B	inf	-1	0	There are some spiders that live in like {disfmarker} that have like uh kind of a a big ball of a of a web .
+IS1004a.B.dialog-act.dharshi.22	264.31	268.35	UI	B	inf	-1	0	And uh the other thing is some spiders can actually uh fly
+IS1004a.B.dialog-act.dharshi.23	268.35	273.65	UI	B	inf	-1	0	like uh they have uh they let out like uh a stream of like the web building material
+IS1004a.B.dialog-act.dharshi.24	273.65	280.31	UI	B	inf	-1	0	but it's it acts like a parachute so they can actually kind of go and find new uh {disfmarker} build a new web somewhere else .
+IS1004a.B.dialog-act.dharshi.25	280.96	284.92	UI	B	inf	-1	0	So I think they did this in uh in Charlotte's Web that movie
+IS1004a.B.dialog-act.dharshi.26	284.92	285.93	UI	B	stl	-1	0	that little uh
+IS1004a.B.dialog-act.dharshi.27	285.93	286.93	UI	B	inf	-1	0	{disfmarker} well it's actually a book first
+IS1004a.B.dialog-act.dharshi.28	286.93	291.4	UI	B	inf	-1	0	but uh um at the end all the the spiders kinda flew away .
+IS1004a.A.dialog-act.dharshi.32	291.67	292.32	PM	A	ass	-1	0	Okay .
+IS1004a.B.dialog-act.dharshi.29	291.4	293.34	UI	B	inf	-1	0	So , that's my animal .
+IS1004a.A.dialog-act.dharshi.33	292.32	293.81	PM	A	be.pos	-1	0	Th thank you .
+IS1004a.A.dialog-act.dharshi.34	293.81	297.76	PM	A	ass	-1	0	Very interesting . {vocalsound}
+IS1004a.A.dialog-act.dharshi.35	297.76	299.34	PM	A	el.sug	-1	0	Guillermo you want to ?
+IS1004a.D.dialog-act.dharshi.3	301.039	303.77	ME	D	off	-1	0	{vocalsound} 'kay {vocalsound}
+IS1004a.D.dialog-act.dharshi.4	305.69	312.86	ME	D	inf	+1	1	I dunno why , but {vocalsound} when I was a child I I wanted to be a a panther
+IS1004a.A.dialog-act.dharshi.37	311.232	312.032	PM	A	fra	-1	0	{vocalsound}
+IS1004a.D.dialog-act.dharshi.5	312.86	314.15	ME	D	inf	-1	0	{vocalsound} not a pink panther ,
+IS1004a.C.dialog-act.dharshi.3	313.89	316.35	ID	C	el.ass	-1	0	But don't you think it's very difficult to draw a panther ?
+IS1004a.D.dialog-act.dharshi.6	314.15	315.0	ME	D	inf	-1	0	or maybe yes .
+IS1004a.A.dialog-act.dharshi.36	316.72	321.51	PM	A	ass	-1	0	{vocalsound} It would be very funny for us .
+IS1004a.D.dialog-act.dharshi.7	317.12	318.36	ME	D	ass	-1	0	Uh yeah yeah .
+IS1004a.C.dialog-act.dharshi.4	318.19	319.22	ID	C	ass	-1	0	So bad I don't like it .
+IS1004a.C.dialog-act.dharshi.5	320.102	320.832	ID	C	fra	-1	0	{vocalsound} {vocalsound}
+IS1004a.A.dialog-act.dharshi.38	324.46	324.66	PM	A	oth	-1	0	Oh .
+IS1004a.C.dialog-act.dharshi.6	324.656	325.856	ID	C	fra	-1	0	{vocalsound}
+IS1004a.D.dialog-act.dharshi.8	337.46	339.55	ME	D	ass	-1	0	Okay it's a friendly panther .
+IS1004a.B.dialog-act.dharshi.30	338.768	339.696	UI	B	fra	-1	0	{vocalsound}
+IS1004a.C.dialog-act.dharshi.7	339.008	340.08	ID	C	fra	-1	0	{vocalsound}
+IS1004a.B.dialog-act.dharshi.31	340.84	342.4	UI	B	inf	-1	0	Maybe it's happy 'cause it just ate someone .
+IS1004a.D.dialog-act.dharshi.9	343.59	347.02	ME	D	ass	-1	0	Yeah maybe {vocalsound} .
+IS1004a.B.dialog-act.dharshi.32	344.496	344.96	UI	B	fra	-1	0	{vocalsound}
+IS1004a.D.dialog-act.dharshi.10	350.21	351.59	ME	D	stl	-1	0	Um .
+IS1004a.D.dialog-act.dharshi.11	353.77	360.68	ME	D	inf	-1	0	Actually , honestly I I I dunno what's what's his it's be behaviour ,
+IS1004a.D.dialog-act.dharshi.12	360.68	366.42	ME	D	inf	-1	0	I dunno if if it's the male who who hunts or it's the female uh ,
+IS1004a.D.dialog-act.dharshi.13	366.42	372.51	ME	D	inf	-1	0	I I I have watched that lions di didn't hunt it's the the female lions who who hunt ,
+IS1004a.D.dialog-act.dharshi.14	372.51	375.094	ME	D	stl	-1	0	so {disfmarker} but {vocalsound}
+IS1004a.D.dialog-act.dharshi.15	376.42	378.02	ME	D	inf	-1	0	I like it because it's fast ,
+IS1004a.D.dialog-act.dharshi.16	378.02	386.63	ME	D	inf	-1	0	and it's black as well , so it can he {disfmarker} it can hide itself very easily
+IS1004a.D.dialog-act.dharshi.17	386.63	390.86	ME	D	stl	-1	0	and it's it's {disfmarker}
+IS1004a.D.dialog-act.dharshi.18	390.86	397.24	ME	D	inf	-1	0	it looks like um {vocalsound} powerful , strong ,
+IS1004a.D.dialog-act.dharshi.19	397.24	400.21	ME	D	inf	-1	0	uh I dunno .
+IS1004a.D.dialog-act.dharshi.20	400.58	404.33	ME	D	inf	-1	0	I I watch a a film about a black panther when I was a child
+IS1004a.D.dialog-act.dharshi.21	404.33	411.99	ME	D	inf	-1	0	and {vocalsound} I was in that age when everything was shocking me a lot . {vocalsound}
+IS1004a.B.dialog-act.dharshi.33	409.104	409.472	UI	B	fra	-1	0	{vocalsound}
+IS1004a.A.dialog-act.dharshi.40	411.42	412.62	PM	A	be.pos	-1	0	Okay . Thank you .
+IS1004a.D.dialog-act.dharshi.22	411.99	412.38	ME	D	stl	-1	0	Okay .
+IS1004a.A.dialog-act.dharshi.41	412.62	414.54	PM	A	el.sug	-1	0	Hemant .
+IS1004a.C.dialog-act.dharshi.8	413.09	414.33	ID	C	off	-1	0	Um sure .
+IS1004a.A.dialog-act.dharshi.42	415.632	416.339	PM	A	fra	-1	0	{vocalsound}
+IS1004a.B.dialog-act.dharshi.34	426.51	431.057	UI	B	el.ass	-1	0	So you don't like pink panthers ? {vocalsound}
+IS1004a.D.dialog-act.dharshi.23	428.99	430.71	ME	D	ass	-1	0	I like it {vocalsound} .
+IS1004a.A.dialog-act.dharshi.43	431.264	431.728	PM	A	fra	-1	0	{gap}
+IS1004a.A.dialog-act.dharshi.44	445.872	447.52	PM	A	fra	-1	0	{gap}
+IS1004a.C.dialog-act.dharshi.9	446.85	447.52	ID	C	oth	-1	0	Oh yeah .
+IS1004a.C.dialog-act.dharshi.10	447.52	448.17	ID	C	be.pos	-1	0	Thanks .
+IS1004a.C.dialog-act.dharshi.11	449.91	452.65	ID	C	inf	-1	0	This lapel is coming out once in a while .
+IS1004a.C.dialog-act.dharshi.12	452.65	453.97	ID	C	inf	-1	0	It's not very strong .
+IS1004a.C.dialog-act.dharshi.13	457.35	458.14	ID	C	stl	-1	0	Okay .
+IS1004a.C.dialog-act.dharshi.14	458.14	463.79	ID	C	off	+1	1	So , not the favourite animal , but I think I'll draw elephant .
+IS1004a.A.dialog-act.dharshi.45	463.664	465.872	PM	A	fra	-1	0	{vocalsound}
+IS1004a.C.dialog-act.dharshi.15	463.79	467.32	ID	C	off	-1	0	I'll try to draw elephant {vocalsound} .
+IS1004a.C.dialog-act.dharshi.16	467.32	468.18	ID	C	ass	-1	0	It's a problem .
+IS1004a.C.dialog-act.dharshi.17	470.5	472.34	ID	C	be.pos	-1	0	Okay , thanks .
+IS1004a.C.dialog-act.dharshi.18	472.34	477.12	ID	C	inf	-1	0	Okay so , elephant goes like this , {gap}
+IS1004a.C.dialog-act.dharshi.19	478.38	484.56	ID	C	inf	-1	0	and then it has four feet {vocalsound} .
+IS1004a.C.dialog-act.dharshi.20	484.56	487.85	ID	C	inf	-1	0	I don't know whether there's any dist there should be any distance or not , but
+IS1004a.C.dialog-act.dharshi.21	490.32	493.64	ID	C	inf	-1	0	I think this is the easiest .
+IS1004a.C.dialog-act.dharshi.22	493.64	496.57	ID	C	inf	-1	0	And then we have it's trunk .
+IS1004a.C.dialog-act.dharshi.23	499.21	499.72	ID	C	stl	-1	0	And
+IS1004a.C.dialog-act.dharshi.24	500.91	503.45	ID	C	inf	-1	0	yep something like this {vocalsound} .
+IS1004a.A.dialog-act.dharshi.46	502.032	503.36	PM	A	fra	-1	0	{vocalsound}
+IS1004a.C.dialog-act.dharshi.25	503.45	504.8	ID	C	inf	-1	0	An eye ,
+IS1004a.C.dialog-act.dharshi.26	504.8	506.84	ID	C	ass	-1	0	cute {vocalsound} .
+IS1004a.D.dialog-act.dharshi.24	505.552	509.136	ME	D	fra	-1	0	{vocalsound}
+IS1004a.C.dialog-act.dharshi.27	506.84	507.712	ID	C	stl	-1	0	Yeah , so {disfmarker}
+IS1004a.A.dialog-act.dharshi.47	508.04	512.1	PM	A	be.pos	-1	0	Poor elephant {vocalsound} .
+IS1004a.C.dialog-act.dharshi.28	508.816	513.77	ID	C	inf	-1	0	{vocalsound} and sometimes they have a hump .
+IS1004a.C.dialog-act.dharshi.29	513.77	517.59	ID	C	inf	-1	0	It seems that uh elephants are pretty friendly
+IS1004a.C.dialog-act.dharshi.30	517.59	524.34	ID	C	inf	-1	0	and they they have one very important way {disfmarker} a different way of walking .
+IS1004a.C.dialog-act.dharshi.31	524.34	531.24	ID	C	inf	-1	0	So when they walk , wherever they are going to put their first feet , the second feet will always be .
+IS1004a.C.dialog-act.dharshi.32	531.24	535.85	ID	C	inf	-1	0	When they'll come to that position the second , the third feet will be there .
+IS1004a.C.dialog-act.dharshi.33	535.85	536.93	ID	C	inf	-1	0	That's the way they walk .
+IS1004a.C.dialog-act.dharshi.34	537.58	539.29	ID	C	inf	-1	0	And that's very peculiar about them .
+IS1004a.C.dialog-act.dharshi.35	539.29	541.9	ID	C	inf	-1	0	None of the other animals walk like this .
+IS1004a.C.dialog-act.dharshi.36	541.9	544.35	ID	C	inf	-1	0	And they are very useful to human beings .
+IS1004a.C.dialog-act.dharshi.37	544.51	555.8	ID	C	inf	-1	0	At least few few hundred years ago when there was no means of transportations or something , or when they had to carry huge um loads from one place to another , elephants were very useful .
+IS1004a.C.dialog-act.dharshi.38	557.16	561.79	ID	C	inf	-1	0	And they are found in um usually the warm countries .
+IS1004a.C.dialog-act.dharshi.39	561.79	566.14	ID	C	inf	-1	0	And um they are the biggest terrestrial animal .
+IS1004a.C.dialog-act.dharshi.40	566.14	567.38	ID	C	inf	-1	0	That's what I know about them .
+IS1004a.C.dialog-act.dharshi.41	567.38	570.48	ID	C	inf	-1	0	So , that's what I wanted to tell about elephants .
+IS1004a.B.dialog-act.dharshi.35	569.85	572.38	UI	B	el.inf	-1	0	So is this uh an Indian or an African elephant ,
+IS1004a.B.dialog-act.dharshi.36	572.38	573.46	UI	B	inf	-1	0	'cause you haven't drawn the ears ?
+IS1004a.C.dialog-act.dharshi.42	572.9	574.13	ID	C	fra	-1	0	There are two kind of uh
+IS1004a.C.dialog-act.dharshi.43	574.13	577.77	ID	C	inf	-1	0	yeah , they are very different , Indian and African elephants .
+IS1004a.C.dialog-act.dharshi.44	577.77	582.56	ID	C	inf	-1	0	So Indian elephant is having one bump , I think , and the African have two .
+IS1004a.C.dialog-act.dharshi.45	582.56	585.55	ID	C	inf	-1	0	And then there's a difference in the trunk of the animals ,
+IS1004a.C.dialog-act.dharshi.46	585.55	588.151	ID	C	fra	-1	0	these elephants who are Indian and {disfmarker}
+IS1004a.C.dialog-act.dharshi.47	588.39	590.08	ID	C	stl	-1	0	So at some {disfmarker}
+IS1004a.C.dialog-act.dharshi.48	590.08	594.755	ID	C	fra	-1	0	for some elephants it's {disfmarker} the trunk is having one {disfmarker}
+IS1004a.C.dialog-act.dharshi.49	595.16	596.09	ID	C	el.inf	+1	0	Do we have some message there ?
+IS1004a.A.dialog-act.dharshi.48	596.53	597.23	PM	A	inf	-1	0	Yes .
+IS1004a.A.dialog-act.dharshi.49	597.23	598.4	PM	A	inf	-1	0	We have to {disfmarker}
+IS1004a.A.dialog-act.dharshi.50	598.4	599.18	PM	A	inf	+1	0	I have to catch you ,
+IS1004a.C.dialog-act.dharshi.52	598.4	599.64	ID	C	el.inf	-1	0	Wind up
+IS1004a.A.dialog-act.dharshi.51	599.18	599.78	PM	A	be.pos	-1	0	sorry .
+IS1004a.A.dialog-act.dharshi.52	599.78	602.46	PM	A	sug	+1	0	We have to to go through the meeting .
+IS1004a.C.dialog-act.dharshi.50	599.64	601.8	ID	C	ass	-1	0	? Okay , some other time .
+IS1004a.B.dialog-act.dharshi.37	601.55	602.15	UI	B	stl	-1	0	Okay .
+IS1004a.C.dialog-act.dharshi.51	601.8	602.14	ID	C	be.pos	-1	0	Thank you .
+IS1004a.A.dialog-act.dharshi.53	602.46	603.28	PM	A	be.pos	-1	0	Thank you {vocalsound} .
+IS1004a.B.dialog-act.dharshi.38	603.79	605.0	UI	B	sug	+1	0	We can discuss that off-line .
+IS1004a.A.dialog-act.dharshi.54	605.3	605.64	PM	A	ass	-1	0	Yeah
+IS1004a.A.dialog-act.dharshi.55	605.64	609.5	PM	A	sug	-1	0	we'll discuss a f a fly or do {disfmarker} we'll do another meeting abo on elephants .
+IS1004a.C.dialog-act.dharshi.53	605.203	606.297	ID	C	fra	-1	0	{vocalsound}
+IS1004a.C.dialog-act.dharshi.54	608.95	609.88	ID	C	be.pos	-1	0	Thanks .
+IS1004a.A.dialog-act.dharshi.56	609.616	613.6	PM	A	stl	-1	0	{vocalsound} So {vocalsound}
+IS1004a.B.dialog-act.dharshi.39	609.472	610.609	UI	B	fra	-1	0	{vocalsound}
+IS1004a.A.dialog-act.dharshi.57	613.6	617.7	PM	A	inf	+1	1	so another important part of the project is about money ,
+IS1004a.A.dialog-act.dharshi.58	617.7	619.32	PM	A	stl	-1	0	uh and about {disfmarker}
+IS1004a.A.dialog-act.dharshi.59	619.32	621.26	PM	A	inf	-1	0	so about finances .
+IS1004a.A.dialog-act.dharshi.60	621.26	628.04	PM	A	sug	+1	2	So {vocalsound} we should target selling price of twenty-five Euro for this remote control
+IS1004a.A.dialog-act.dharshi.61	629.16	632.47	PM	A	stl	-1	0	and uh we have um {vocalsound} {disfmarker}
+IS1004a.A.dialog-act.dharshi.62	632.47	638.75	PM	A	inf	+1	2	which which would generate a profit of of um {vocalsound} fifty million Euros , okay .
+IS1004a.A.dialog-act.dharshi.63	638.75	641.76	PM	A	sug	+1	1	And we should target the inter an international market .
+IS1004a.B.dialog-act.dharshi.40	642.17	644.42	UI	B	off	-1	0	So could I just ask one question , um
+IS1004a.B.dialog-act.dharshi.41	645.64	648.31	UI	B	el.inf	+1	1	is this a stand-alone unit that we're gonna be selling ?
+IS1004a.B.dialog-act.dharshi.42	648.31	652.56	UI	B	el.inf	-1	0	So it's gonna be you already have a T_V_ but you're buying an extra remote control for it or something ?
+IS1004a.A.dialog-act.dharshi.64	653.12	656.16	PM	A	inf	-1	0	O this is the {vocalsound} next topic we have to discuss exactly ,
+IS1004a.B.dialog-act.dharshi.43	655.28	656.12	UI	B	ass	-1	0	Okay , alright .
+IS1004a.A.dialog-act.dharshi.65	656.16	657.31	PM	A	sug	-1	0	so let's go to it .
+IS1004a.A.dialog-act.dharshi.66	657.78	665.49	PM	A	sug	+1	1	So um we should decide which kind of remote control we want to uh we want to uh we want to go .
+IS1004a.A.dialog-act.dharshi.67	665.49	666.54	PM	A	stl	-1	0	Should be should
+IS1004a.A.dialog-act.dharshi.68	666.54	670.66	PM	A	el.ass	+1	1	should it be um specific remote control to some specific device ?
+IS1004a.A.dialog-act.dharshi.69	670.66	673.38	PM	A	el.ass	+1	1	Should it be a universal one ?
+IS1004a.A.dialog-act.dharshi.70	673.38	674.99	PM	A	inf	-1	0	And uh etcetera .
+IS1004a.A.dialog-act.dharshi.72	676.3	682.4	PM	A	el.sug	-1	0	So um {vocalsound} so I'm waiting for your for your inputs very quickly
+IS1004a.A.dialog-act.dharshi.73	682.4	684.99	PM	A	inf	-1	0	because we have only three three minutes to go .
+IS1004a.B.dialog-act.dharshi.44	686.63	687.54	UI	B	stl	-1	0	Okay well ,
+IS1004a.B.dialog-act.dharshi.45	687.54	696.43	UI	B	inf	+1	1	so , it seems the the first thing that they've kinda specified is the price like based on how much profit we wanna make ,
+IS1004a.B.dialog-act.dharshi.46	696.43	700.84	UI	B	ass	-1	0	which seems to {disfmarker} a kind of a little strange if we don't know what the the product is yet ,
+IS1004a.B.dialog-act.dharshi.47	700.84	709.55	UI	B	sug	+1	1	but I guess if that's {disfmarker} if that's the requirement that we need to to design the the product to actually fit that that price bracket
+IS1004a.B.dialog-act.dharshi.48	709.55	716.54	UI	B	sug	-1	0	so , I guess we're gonna need to find out what's actually {disfmarker} you know , what people ar are willing to pay for {disfmarker}
+IS1004a.B.dialog-act.dharshi.49	716.54	719.2	UI	B	inf	-1	0	um what kind of product they're expecting for twenty-five Euro
+IS1004a.A.dialog-act.dharshi.74	719.19	719.65	PM	A	bck	-1	0	Okay .
+IS1004a.B.dialog-act.dharshi.50	719.2	720.9	UI	B	ass	-1	0	because it seems quite a lot for a remote control ,
+IS1004a.A.dialog-act.dharshi.75	720.95	723.86	PM	A	inf	-1	0	Okay I think this is more a job to our
+IS1004a.B.dialog-act.dharshi.51	720.9	721.344	UI	B	fra	-1	0	so it's {disfmarker}
+IS1004a.A.dialog-act.dharshi.77	723.86	726.09	PM	A	ass	-1	0	market person yeah .
+IS1004a.C.dialog-act.dharshi.55	723.8	724.72	ID	C	inf	-1	0	Marketing person .
+IS1004a.B.dialog-act.dharshi.52	724.85	725.05	UI	B	bck	-1	0	Yeah .
+IS1004a.A.dialog-act.dharshi.76	726.09	734.25	PM	A	sug	+1	0	So it should be the topic of maybe of the next meeting just to to have an overview of this and uh in which direction we should go .
+IS1004a.C.dialog-act.dharshi.56	725.93	726.23	ID	C	bck	-1	0	Mm-hmm .
+IS1004a.A.dialog-act.dharshi.78	734.46	736.49	PM	A	sug	+1	1	So we need to close the meeting .
+IS1004a.A.dialog-act.dharshi.79	736.49	738.34	PM	A	inf	-1	0	Uh we'll have a new meeting soon
+IS1004a.A.dialog-act.dharshi.80	738.34	743.43	PM	A	fra	-1	0	and uh so {gap} the work every every of you ha have t d to do .
+IS1004a.A.dialog-act.dharshi.81	743.79	749.52	PM	A	inf	+1	2	So um you have to work on the on the working design ,
+IS1004a.A.dialog-act.dharshi.82	749.52	752.98	PM	A	inf	+1	2	you have to uh work on the technical functions ,
+IS1004a.A.dialog-act.dharshi.83	752.98	757.12	PM	A	inf	+1	2	and uh you have to work on us user requirements specs ,
+IS1004a.A.dialog-act.dharshi.84	757.12	757.99	PM	A	el.ass	-1	0	alright ?
+IS1004a.D.dialog-act.dharshi.25	757.5	757.91	ME	D	ass	-1	0	Yeah .
+IS1004a.A.dialog-act.dharshi.85	758.49	763.64	PM	A	inf	+1	2	Um you will receive some information by emails , i as usual .
+IS1004a.A.dialog-act.dharshi.86	763.64	765.47	PM	A	be.pos	-1	0	Thanks for coming today .
+IS1004a.B.dialog-act.dharshi.53	764.53	765.67	UI	B	bck	-1	0	Okay .
+IS1004a.A.dialog-act.dharshi.87	765.47	765.94	PM	A	be.pos	-1	0	Thanks .
+IS1004a.C.dialog-act.dharshi.57	764.98	765.38	ID	C	be.pos	-1	0	Thanks .
+IS1004a.B.dialog-act.dharshi.54	765.67	766.63	UI	B	bck	-1	0	Alright .

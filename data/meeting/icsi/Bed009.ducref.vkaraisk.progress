@@ -1,0 +1,6 @@
+The translation of the TV and cinema listings system to english is almost complete.
+The code of the recogniser-to-parser interface has already been written and variations on the lattices are currently being tested.
+As for the enhanced knowledge modeler , there is already a belief-net , most of whose features from the user and the situation model that influence the user's intentions have been identified.
+Further linguistic factors can be found in the utterance; some of them will emerge from the data collection , which is underway.
+One of the possible outputs of the knowledge modeler will be towards the dialogue manager , viewed as a state transition network.
+XML schemas coding these networks are currently being created.

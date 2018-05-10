@@ -1,0 +1,32 @@
+The data collection running in parallel with the project can start shortly with recruiting subjects.
+Meanwhile , the german parser now works with english sentences.
+The parser's output modifies the XML used by the system to initiate actions and generate responses.
+The XML for Map requests also comprise a route , route elements and points of interest along the way.
+It is at this level that Enter/Vista/Approach tags will be added as action modes.
+As the project evolves , further enrichment of the ontology ( actions , linguistic features ) will be necessary.
+Similarly , object representations will include an EVA vector.
+This can be incorporated in the database entry for a particular building or inherited from the ontology of the building type.
+These elements will constitute only a small part of the inputs of the Bayes-net that determines the action mode.
+The actual number of the inputs can create a combinatorial explosion when setting the probabilities.
+Noisy-OR's can help avoid this by simplifying the probability tables and applying a deterministic function to produce their complete version.
+In any case , further to fulfilling the basic requirements ( translating the parser and the generator into english ) , the project is entirely open-ended in terms of focus of research.
+As the data collection is about to begin , there are some minor changes to be done in the design of the experiment , the script and the permission forms.
+Subjects can be recruited either from within the university or through other social circles.
+As to the system design , the next step is the translation of the generator into english.
+Moreover , it is important to test the system and its internal workings by adding new sentence types and modifying the parser.
+All further research will use the existing domain ( "tourists in Heidelberg" ) , as this provides enough diversity for the purposes of the project.
+The german partners for the project will realise all the necessary changes in the ontology.
+It is therefore preferable for the group to exercise foresight and agree on the set of new tags they will need in the long run , so that they limit the number of change requests.
+Finally , on a more technical note , Noisy-OR's were discussed and considered a sensible approach to deal with the potential problems with the setting the conditional probabilities of the Bayes-nets.
+Although the parser has been modified to work with english , the details of its internal workings ( calling functions , setting discourse variables , generating actions ) are not yet clear.
+Understanding the parsed data is helped by the database of objects , people and events accompanying the system , but the mapping of referring expressions to database objects can still be a hurdle.
+On a different level , the Bayes-net used to generate the different action modes can easily become unmanageable as the number of features to be taken into account increases.
+This can be tackled with the use of the Noisy-OR technique.
+The deterministic functions this requires cannot be introduced directly into JavaBayes , although some runaround ways can be implemented.
+A final , high-level issue , that has not been dealt with yet , is the definition of the constructions and the construction grammar framework analysis behind the whole enterprise.
+The preparation for the data collection is almost finished and expected to start experiments within a couple of weeks.
+There is some additional TV and cinema data currently being translated from german.
+The german parser has been translated and it can now be used for a range of sentence types in english.
+On the other hand , the translation of some parts of the relational database accompanying the system has also been commissioned.
+EML have provided the structure for Map requests , the basic representation of the navigational goals upon which further action modes are going to be built.
+The same people are also creating a general , top-level XML object ontology that will include all types of buildings.

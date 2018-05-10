@@ -1,0 +1,25 @@
+The Berkeley Meeting Recorder group discussed digits data , recent ASR results , the status of transcriptions , and disk space and storage format issues.
+Approximately two hours of digits have been recorded , half of which have been extracted.
+Researchers doing ASR are looking into methods for generating a better channel-based segmentation to improve recognition results for close-talking microphone data.
+Transcription checking procedures were reviewed , and efforts to coordinate the channelization and presegmention of data with the tightening of time bins were discussed.
+The group also talked about downsampling and strategies for coping with low disk space.
+Digits forms will instruct speakers to read digits separately and not as connected numbers.
+A tentative decision was made to collect overlapping digits from speakers.
+Transcribers will be given channelized data that has been segmented for speech/non-speech boundaries to determine whether such pre-processing facilitates the transcription process.
+Participants have been slow in returning the relevant forms necessary for matching digits data with speaker IDs . Forms containing digits that were written out in English were unsuccessful for obtaining desired prosodic groupings.
+Acoustic adaptation is problematic for speakers who seldom talk during meetings.
+Speaker overlap causes recognition errors.
+The lapel microphone is problematic as it picks up overlapping background speech.
+More disk space is needed.
+Loading long waveforms in X Waves is very time consuming.
+The dictionary must be updated with forms introduced as part of speaker fe008's set of transcription conventions.
+The ongoing tightening of boundaries on time bins causes segment boundaries to change , indicating potential problems for other ongoing processing tasks.
+A test set of digits data totalling two hours is nearly complete.
+Digit extraction has been performed on roughly half of this data.
+Future work may involve experimenting with the reading of digits in different prosodic groupings.
+Preliminary ASR results were discussed.
+Subsequent efforts will involve generating a better channel-based segmentation , and possibly doing echo cancellation , to improve recognition on the close-talking microphone data.
+Filename conventions are being standardized.
+Transcription checking procedures have been formalized , including a spell check , producing an exhaustive list of forms identified in the data , attributing every utterance to the appropriate speaker ID , glossing spoken forms with their full orthographic counterparts , e.g . 'cuz' and 'because' , transcribing acronyms , and encoding comments , i.e . glosses , vocalic and non-vocalic non-speech events , pragmatic cues , and the standardization of spoken forms , e.g . 'mm-hmm'.
+Scripts will be used to convert a channelized master copy into forms that are appropriate for doing both recognition and linguistic analysis.
+Coordinated efforts are in progress between the transcriber pool and speaker mn014 to fine-tune presegmented output to handle data from a variety of speakers and regions of speaker overlap.

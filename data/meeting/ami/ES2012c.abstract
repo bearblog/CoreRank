@@ -1,0 +1,239 @@
+24	ES2012c.elana.s.1	The project manager opens the meeting by recapping the discussions of the previous meeting , telling the group this meeting's agenda , and stating what each person will do for the next meeting.
+ES2012c.A.dialog-act.vkaraisk.3	16.57	21.48	A	PM	be.pos	+1	1	Thank you for coming to this third meeting of the uh uh design group .
+ES2012c.A.dialog-act.vkaraisk.6	34.25	40.4	A	PM	off	+1	1	Um I'll again very quickly uh just present some notes of that meeting .
+ES2012c.A.dialog-act.vkaraisk.7	40.4	48.71	A	PM	inf	+1	1	Um {vocalsound} the the the problem with existing remote controls , we felt , was that they're ugly
+ES2012c.A.dialog-act.vkaraisk.9	52.21	53.8	A	PM	inf	+1	1	Um they've got lots of buttons on them
+ES2012c.A.dialog-act.vkaraisk.10	53.8	55.81	A	PM	inf	+1	1	that uh people don't use
+ES2012c.A.dialog-act.vkaraisk.12	57.71	59.83	A	PM	inf	+1	1	Um and people lose them .
+ES2012c.A.dialog-act.vkaraisk.14	69.84	76.22	A	PM	inf	+1	1	um {vocalsound} that we're {disfmarker} {vocalsound} we should look at speech recognition rather than r rather than buttons ,
+ES2012c.A.dialog-act.vkaraisk.15	76.22	84.39	A	PM	inf	+1	1	and that if we have any buttons they should be very few of them and only for those functions that are actually identified that that people use .
+ES2012c.A.dialog-act.vkaraisk.17	84.54	89.05	A	PM	inf	+1	1	um {vocalsound} we want to go for uh a long lasting battery
+ES2012c.A.dialog-act.vkaraisk.19	93.1	103.84	A	PM	inf	+1	1	and a shape that will be instantly recognisable , A_ um as uh a trendy remote control , and and B_ as uh a Real Reaction product .
+ES2012c.A.dialog-act.vkaraisk.22	124.58	130.4	A	PM	inf	+1	1	again um , I'll {disfmarker} we'll have the three three presentations from the the the three of you
+ES2012c.A.dialog-act.vkaraisk.23	130.4	138.18	A	PM	inf	+1	1	and then uh we'll we'll make a a final a final uh decision .
+ES2012c.A.dialog-act.vkaraisk.24	138.18	145.17	A	PM	sug	+1	1	Um and the the decisions that we need to to make today , finally , are um what energy source we want to use ,
+ES2012c.A.dialog-act.vkaraisk.26	151.35	161.4	A	PM	inf	+1	1	And uh I I think our discussion was around the fact that uh if we're gonna go for uh a long lasting power supply , then basically it's uh sealed for life
+ES2012c.A.dialog-act.vkaraisk.31	181.15	186.81	A	PM	sug	+1	1	um {disfmarker} and uh this is where I need uh uh Kate's expert advice
+ES2012c.A.dialog-act.vkaraisk.33	191.77	195.65	A	PM	el.ass	+1	1	um d d do we go for a custom designed chip ?
+ES2012c.A.dialog-act.vkaraisk.34	195.65	200.7	A	PM	el.ass	+1	1	Or or do we buy one off the shelf and and programme it ourselves ?
+ES2012c.A.dialog-act.vkaraisk.43	225.584	230.48	A	PM	inf	+1	1	{vocalsound} we we had some discussions last time as as to uh how we might go forward
+ES2012c.A.dialog-act.vkaraisk.44	230.48	237.05	A	PM	sug	+1	1	and we'll we'll finalise those uh da today .
+ES2012c.A.dialog-act.vkaraisk.45	237.05	240.92	A	PM	inf	+1	1	Um and thi this is all linked in with the the the user interface ,
+ES2012c.A.dialog-act.vkaraisk.47	247.33	256.45	A	PM	inf	+1	2	Uh and then uh , you know , f for the next meeting Kate will be looking at the the the s the look , feel and design ,
+ES2012c.A.dialog-act.vkaraisk.48	256.45	261.7	A	PM	inf	+1	2	Kendra the uh ho how the the user actually uses it
+ES2012c.A.dialog-act.vkaraisk.49	261.7	265.63	A	PM	inf	+1	2	and and Andrew of course the the product evaluation .
+ES2012c.A.dialog-act.vkaraisk.50	265.63	275.14	A	PM	inf	+1	2	And uh Kate and Kendra will be producing a a model for us to uh to look at .
+21	ES2012c.elana.s.2	Then the industrial designer talks about the components design and explains exactly what remotes do and how they operate.
+ES2012c.B.dialog-act.vkaraisk.8	315.23	318.26	B	ID	off	+1	1	I'll just be talking about the components design .
+ES2012c.B.dialog-act.vkaraisk.11	324.22	327.18	B	ID	inf	+1	1	basically I just uh looked at what exactly do remotes do .
+ES2012c.B.dialog-act.vkaraisk.12	327.18	330.61	B	ID	inf	+1	1	Uh basically they wait for you to press a key or give a voice command
+ES2012c.B.dialog-act.vkaraisk.13	330.61	334.68	B	ID	inf	+1	1	and then this is translated uh into uh light signals
+ES2012c.B.dialog-act.vkaraisk.14	334.68	336.82	B	ID	inf	+1	1	which are then seen by the T_V_ .
+ES2012c.B.dialog-act.vkaraisk.15	336.82	342.83	B	ID	inf	+1	2	Uh the materials we're gonna need to look at {disfmarker} uh the two big ones are the integrated circuit chip and the battery
+ES2012c.B.dialog-act.vkaraisk.16	342.83	350.87	B	ID	inf	+1	2	and the in integrated circuit chip uh works in conjunction with a a diode transistor or resonator , uh two more resistors and a capacitor
+ES2012c.B.dialog-act.vkaraisk.17	350.87	358.114	B	ID	inf	+1	2	and the battery works in conjunction with a resistor and a capacitor . Um . {vocalsound}
+ES2012c.B.dialog-act.vkaraisk.18	360.3	363.4	B	ID	inf	+1	2	Uh basically what happens is you'll press a number or give a voice command
+ES2012c.B.dialog-act.vkaraisk.19	363.4	366.77	B	ID	inf	+1	2	and this creates a a connection within the the remote
+ES2012c.B.dialog-act.vkaraisk.21	367.68	369.33	B	ID	inf	+1	2	the chip then senses this connection
+ES2012c.B.dialog-act.vkaraisk.22	369.33	373.25	B	ID	inf	+1	2	and produces a signal in a Morse code format .
+ES2012c.B.dialog-act.vkaraisk.23	373.25	374.8	B	ID	inf	+1	2	This signal's sent to the transistor
+ES2012c.B.dialog-act.vkaraisk.25	375.86	378.93	B	ID	inf	+1	2	and then sends it on to the light emitting diode
+ES2012c.B.dialog-act.vkaraisk.27	379.66	383.12	B	ID	inf	+1	2	which is then trai changed into a infrared light
+ES2012c.B.dialog-act.vkaraisk.34	405.34	410.67	B	ID	inf	+1	1	as for how we should end up uh using this in our remote uh t couple of main questions are the buttons .
+ES2012c.B.dialog-act.vkaraisk.35	410.67	416.45	B	ID	inf	+1	1	Uh y the fewer buttons you have , I guess the fewer internal connections and internal codes you're gonna need . Um
+ES2012c.B.dialog-act.vkaraisk.36	417.51	424.44	B	ID	ass	+1	1	however uh to n not have buttons or to use a voice commands instead of buttons might make these connections more difficult
+ES2012c.B.dialog-act.vkaraisk.39	427.58	429.82	B	ID	sug	+1	1	Also we have to work within the company constraints ,
+ES2012c.B.dialog-act.vkaraisk.40	429.82	434.47	B	ID	inf	+1	1	and the company has informed me via email that uh they're experts at pushbuttons
+ES2012c.B.dialog-act.vkaraisk.41	434.47	438.15	B	ID	ass	+1	1	and that seems to be the most uh cost-effective way of producing it .
+42	ES2012c.elana.s.3	He also talks about batteries and chips.
+ES2012c.B.dialog-act.vkaraisk.15	336.82	342.83	B	ID	inf	+1	2	Uh the materials we're gonna need to look at {disfmarker} uh the two big ones are the integrated circuit chip and the battery
+ES2012c.B.dialog-act.vkaraisk.16	342.83	350.87	B	ID	inf	+1	2	and the in integrated circuit chip uh works in conjunction with a a diode transistor or resonator , uh two more resistors and a capacitor
+ES2012c.B.dialog-act.vkaraisk.17	350.87	358.114	B	ID	inf	+1	2	and the battery works in conjunction with a resistor and a capacitor . Um . {vocalsound}
+ES2012c.B.dialog-act.vkaraisk.18	360.3	363.4	B	ID	inf	+1	2	Uh basically what happens is you'll press a number or give a voice command
+ES2012c.B.dialog-act.vkaraisk.19	363.4	366.77	B	ID	inf	+1	2	and this creates a a connection within the the remote
+ES2012c.B.dialog-act.vkaraisk.21	367.68	369.33	B	ID	inf	+1	2	the chip then senses this connection
+ES2012c.B.dialog-act.vkaraisk.22	369.33	373.25	B	ID	inf	+1	2	and produces a signal in a Morse code format .
+ES2012c.B.dialog-act.vkaraisk.23	373.25	374.8	B	ID	inf	+1	2	This signal's sent to the transistor
+ES2012c.B.dialog-act.vkaraisk.25	375.86	378.93	B	ID	inf	+1	2	and then sends it on to the light emitting diode
+ES2012c.B.dialog-act.vkaraisk.27	379.66	383.12	B	ID	inf	+1	2	which is then trai changed into a infrared light
+ES2012c.B.dialog-act.vkaraisk.42	438.88	443.57	B	ID	inf	+1	1	Um also with battery connections the company has some limits on the batteries we can use ,
+ES2012c.B.dialog-act.vkaraisk.43	443.57	449.08	B	ID	sug	+1	1	so I was thinking perhaps a combination of solar cells with a back-up basic battery
+ES2012c.B.dialog-act.vkaraisk.44	449.08	456.13	B	ID	inf	+1	2	and somehow between the combination of that two we might be able to come up with something that uh will last the the lifetime or the five to ten years
+ES2012c.B.dialog-act.vkaraisk.46	459.655	464.97	B	ID	sug	+1	1	{vocalsound} Um we also need to look at the chips , uh v custom-designed versus off the shelf ,
+ES2012c.B.dialog-act.vkaraisk.47	464.97	467.67	B	ID	ass	+1	3	and the custom-designed will give us much more flexibility
+ES2012c.B.dialog-act.vkaraisk.48	467.67	472.4	B	ID	inf	+1	1	and enable us to incorporate the voice function that we all uh seem to have agreed upon .
+ES2012c.B.dialog-act.vkaraisk.49	472.4	473.85	B	ID	ass	+1	1	Um , however that's gonna cost more ,
+ES2012c.B.dialog-act.vkaraisk.50	473.85	476.65	B	ID	ass	+1	1	but uh the off the shelf is gonna be uh cheaper
+ES2012c.B.dialog-act.vkaraisk.52	479.26	484.05	B	ID	ass	+1	1	but it's going to be less flexible with the features , especially things like uh voice activation ,
+ES2012c.B.dialog-act.vkaraisk.55	489.69	496.94	B	ID	sug	+1	2	so if we were uh definitely gonna go with the the voice option we'd probably have to design um our own chip .
+ES2012c.A.dialog-act.vkaraisk.63	510.23	513.02	A	PM	ass	+1	2	inevitably a b a custom design chip is gonna be more expensive .
+ES2012c.A.dialog-act.vkaraisk.64	513.02	515.42	A	PM	el.inf	+1	1	Do we do we know uh by how much ?
+ES2012c.B.dialog-act.vkaraisk.61	515.55	517.88	B	ID	inf	+1	1	I don't actually have any price information ,
+ES2012c.A.dialog-act.vkaraisk.65	518.39	522.48	A	PM	el.inf	+1	2	And and do we know how long it'll take to uh develop a a custom chip .
+ES2012c.B.dialog-act.vkaraisk.65	524.5	526.21	B	ID	inf	+1	2	a lot longer than an off the shelf chip .
+ES2012c.A.dialog-act.vkaraisk.69	539.05	542.15	A	PM	sug	+1	1	I think we need to make a a decision here .
+ES2012c.A.dialog-act.vkaraisk.70	542.15	546.85	A	PM	inf	+1	1	Uh given that the company wants this on the market quickly and cheaply ,
+ES2012c.A.dialog-act.vkaraisk.71	546.85	554.88	A	PM	inf	+1	1	that would appear to uh effectively constrain us to an existing chip and thus therefore conventional button technology .
+ES2012c.C.dialog-act.vkaraisk.5	567.19	571.31	C	UI	el.inf	+1	1	Um does it make a difference if there are just a few commands ,
+ES2012c.C.dialog-act.vkaraisk.6	571.31	576.44	C	UI	sug	+1	1	for example if you um can pre-programme in like numbers one through ten
+ES2012c.C.dialog-act.vkaraisk.8	579.11	582.66	C	UI	sug	+1	1	and then just use the voice recognition to say channel one
+ES2012c.B.dialog-act.vkaraisk.75	594.29	598.62	B	ID	inf	+1	1	Once you've got the whole voice chip in there , then it's pretty much the the world {disfmarker} the the sky is your limit ,
+ES2012c.A.dialog-act.vkaraisk.75	607.37	612.99	A	PM	inf	+1	1	given that , you know , mobile phones incorporate voice activated dialling .
+ES2012c.A.dialog-act.vkaraisk.83	620.53	623.77	A	PM	inf	+1	1	speak somebody's name and it'll dial the number for you ,
+ES2012c.C.dialog-act.vkaraisk.17	635.07	638.46	C	UI	inf	+1	1	Of course mobile phones do tend to be more expensive ,
+ES2012c.D.dialog-act.vkaraisk.5	708.93	711.76	D	ME	sug	+1	2	maybe we can like cut corners somewhere else to bring in over cost .
+ES2012c.C.dialog-act.vkaraisk.32	851.35	855.9	C	UI	sug	+1	1	I kinda think if we're gonna have the voice recognition for part of it , then maybe we should have it for the whole thing .
+ES2012c.A.dialog-act.vkaraisk.102	670.86	674.11	A	PM	inf	+1	2	given that the um the technology is not well developed
+ES2012c.A.dialog-act.vkaraisk.103	674.11	677.14	A	PM	inf	+1	2	and and given that it's it's never been done before ,
+ES2012c.A.dialog-act.vkaraisk.105	680.78	686.35	A	PM	sug	+1	2	uh perhaps we ought to uh stick to uh to buttons ,
+ES2012c.C.dialog-act.vkaraisk.34	860.02	863.32	C	UI	sug	+1	1	Anyway , I'm I'm incli kinda inclined to say that we should just go for it .
+ES2012c.A.dialog-act.vkaraisk.123	880.73	883.98	A	PM	inf	+1	1	it will have voice recognition um uh
+11	ES2012c.elana.s.4	The interface specialist present research from the internet about user interface.
+ES2012c.C.dialog-act.vkaraisk.44	956.91	959.67	C	UI	inf	+1	1	so I did some research on the internet
+ES2012c.C.dialog-act.vkaraisk.48	961.81	966.18	C	UI	inf	+1	1	the interf user interface are just aspects that are seen by users ,
+ES2012c.C.dialog-act.vkaraisk.49	966.18	968.76	C	UI	inf	+1	1	um commands and mechanisms for the operation ,
+ES2012c.C.dialog-act.vkaraisk.50	968.76	971.93	C	UI	inf	+1	1	and there're just kind of a variety of choices .
+ES2012c.C.dialog-act.vkaraisk.51	971.93	973.38	C	UI	inf	+1	1	Um findings ,
+ES2012c.C.dialog-act.vkaraisk.53	973.78	975.82	C	UI	inf	+1	1	a lot of times they tend to look cluttered
+ES2012c.C.dialog-act.vkaraisk.54	975.82	982.34	C	UI	inf	+1	1	and these were just a couple examples of um different kinds that are a little bit more unusual .
+ES2012c.C.dialog-act.vkaraisk.55	982.34	984.79	C	UI	inf	+1	1	There're some special ones available , like this one right here ,
+ES2012c.C.dialog-act.vkaraisk.56	984.79	988.22	C	UI	inf	+1	1	which is marketed towards children , um different designs ,
+ES2012c.C.dialog-act.vkaraisk.57	988.22	992.11	C	UI	inf	+1	1	and one of the things that n we need to watch out for is a V_ in volume
+ES2012c.C.dialog-act.vkaraisk.59	1004.592	1008.31	C	UI	inf	+1	1	{vocalsound} Bring a little picture of what I thought ours could look like {vocalsound} .
+18	ES2012c.elana.s.5	He talks about minimizing the clutter on the remote , and suggests using a slide button like on a mouse.
+ES2012c.C.dialog-act.vkaraisk.61	1008.57	1010.41	C	UI	sug	+1	1	just kind of minimise the clutter ,
+ES2012c.C.dialog-act.vkaraisk.62	1010.41	1011.3	C	UI	sug	+1	1	avoid too many buttons
+ES2012c.C.dialog-act.vkaraisk.63	1011.3	1017.27	C	UI	inf	+1	1	and also um {vocalsound} one of the things that people have used is a slide button , like you have on a mouse ,
+ES2012c.C.dialog-act.vkaraisk.64	1017.27	1022.68	C	UI	sug	+1	1	that possibly we could use that on the sides for volume , for example , have the slide button on the side ,
+ES2012c.A.dialog-act.vkaraisk.152	1033.85	1040.01	A	PM	inf	+1	1	I mean I think the reason everybody uses pushbuttons is that they're they're si simple , cheap and reliable .
+ES2012c.B.dialog-act.vkaraisk.109	1038.82	1041.09	B	ID	inf	+1	1	I think they're they're about the same cost really .
+ES2012c.B.dialog-act.vkaraisk.112	1043.92	1045.55	B	ID	inf	+1	1	there's a lot of slide buttons out there .
+ES2012c.A.dialog-act.vkaraisk.153	1046.97	1048.68	A	PM	und	+1	1	Okay , fair enough , fine .
+ES2012c.C.dialog-act.vkaraisk.67	1051.38	1054.06	C	UI	inf	+1	1	for example if I'm using a mouse I like to be able to slide it up and down
+ES2012c.C.dialog-act.vkaraisk.68	1054.06	1059.23	C	UI	ass	+1	1	so I thought it might be good for volume to just be able to kind of roll it and then have the up and down
+ES2012c.A.dialog-act.vkaraisk.157	1061.7	1065.01	A	PM	und	+1	1	So three three {disfmarker} there's three buttons on a slider .
+ES2012c.C.dialog-act.vkaraisk.74	1088.64	1101.3	C	UI	sug	+1	1	The only advantage I was thinking of to having the buttons , like the buttons on one side for the channel , and then the slider is that if you're just holding in your hand , and you pick it up , it's easy to n s know , okay , this is just the volume and this is the channel .
+ES2012c.B.dialog-act.vkaraisk.118	1102.76	1106.61	B	ID	inf	+1	1	'cause I've definitely picked up remotes and like meant to change the channel and turn the volume , or vice versa ,
+ES2012c.B.dialog-act.vkaraisk.119	1106.61	1108.75	B	ID	ass	+1	1	so it'd be kinda good to have them be {disfmarker} feel completely different .
+ES2012c.D.dialog-act.vkaraisk.26	1111.26	1112.71	D	ME	inf	+1	1	like the shape of it almost like a mouse ,
+ES2012c.A.dialog-act.vkaraisk.172	1122.3	1127.93	A	PM	sug	+1	1	so we we're looking at sliders for both a {disfmarker} uh volume and channel change
+ES2012c.C.dialog-act.vkaraisk.79	1130.92	1132.77	C	UI	ass	+1	1	I was thinking kind of just for the volume ,
+ES2012c.B.dialog-act.vkaraisk.127	1144.76	1148.32	B	ID	inf	+1	1	in that kinda position the fingers would be better for pressing and the {disfmarker} that for rolling ,
+27	ES2012c.elana.s.6	The marketing expert presents , talking about trend-watching and how fruits and vegetables are currently an important theme.
+ES2012c.D.dialog-act.vkaraisk.38	1209.52	1212.44	D	ME	inf	+1	1	this is my report on trend watching .
+ES2012c.D.dialog-act.vkaraisk.39	1212.44	1221.03	D	ME	inf	+1	1	The data's come off internet uh from executive summary for us on the top three things wanted by the consumer .
+ES2012c.D.dialog-act.vkaraisk.40	1221.03	1224.29	D	ME	inf	+1	1	And we got reports from Paris , Milan on new fashions .
+ES2012c.D.dialog-act.vkaraisk.41	1227.88	1233.31	D	ME	inf	+1	1	And uh the most important aspect is the l the look
+ES2012c.D.dialog-act.vkaraisk.42	1233.31	1234.83	D	ME	sug	+1	1	{disfmarker} it has to look fancy , look and feel
+ES2012c.D.dialog-act.vkaraisk.43	1236.56	1239.35	D	ME	sug	+1	1	uh instead of the current functional look and feel .
+ES2012c.D.dialog-act.vkaraisk.46	1240.8	1243.76	D	ME	inf	+1	1	I was gonna say yeah twice as important as the second aspect ,
+ES2012c.D.dialog-act.vkaraisk.47	1243.76	1249.58	D	ME	inf	+1	1	which is the technologically innov innovative um side of it .
+ES2012c.D.dialog-act.vkaraisk.49	1251.14	1254.38	D	ME	inf	+1	1	and the third being easy to use is probably a given ,
+ES2012c.A.dialog-act.vkaraisk.193	1260.61	1264.08	A	PM	sug	+1	1	I think that what we're suggesting ought to address all three of those .
+ES2012c.D.dialog-act.vkaraisk.57	1274.35	1282.62	D	ME	inf	+1	1	from the fashion watchers from Milan and Paris have said fruit and vegetables are an important theme for clothes and furniture and shoes , et cetera .
+ES2012c.D.dialog-act.vkaraisk.59	1282.96	1284.3	D	ME	inf	+1	1	clothes , shoes and furniture
+ES2012c.D.dialog-act.vkaraisk.60	1285.63	1290.46	D	ME	sug	+1	1	and uh a spongy material to be used on the {vocalsound} on the outside .
+ES2012c.A.dialog-act.vkaraisk.198	1291.45	1292.85	A	PM	ass	+1	1	that's different , certainly .
+ES2012c.D.dialog-act.vkaraisk.69	1308.47	1312.95	D	ME	sug	+1	1	if we're going for the it looks fancy , then fashion is obviously the line we gotta be going through .
+ES2012c.D.dialog-act.vkaraisk.70	1312.95	1315.14	D	ME	ass	+1	1	But fashions do don't last very long .
+ES2012c.B.dialog-act.vkaraisk.139	1315.29	1317.77	B	ID	inf	+1	1	that can kinda tie into our changing uh face things ,
+ES2012c.B.dialog-act.vkaraisk.140	1317.77	1320.03	B	ID	sug	+1	1	like we could have the fruit and vegetable theme this year
+ES2012c.B.dialog-act.vkaraisk.141	1320.03	1322.99	B	ID	sug	+1	2	and uh whatever happens next year , we can have the face plates ,
+ES2012c.D.dialog-act.vkaraisk.74	1322.2	1324.34	D	ME	sug	+1	1	we can have a sp like a spongy skin on it
+ES2012c.A.dialog-act.vkaraisk.204	1334.07	1336.17	A	PM	inf	+1	1	Also means you can drop it without damaging it .
+ES2012c.D.dialog-act.vkaraisk.82	1343.07	1355.44	D	ME	el.ass	+1	2	depending on the cost of the product itself , you know , could we have uh a cheaper b cheaper power source and then just have it annually renewed ? Instead of having a ten year guarantee ?
+ES2012c.D.dialog-act.vkaraisk.83	1355.44	1360.27	D	ME	sug	+1	2	With interchangeable covers , could just buy a new one every year , a new one when new fashions come out .
+ES2012c.A.dialog-act.vkaraisk.206	1366.24	1367.86	A	PM	inf	+1	1	it's like the old Swatch watch
+ES2012c.A.dialog-act.vkaraisk.207	1367.86	1371.68	A	PM	inf	+1	1	where uh um on only batteries ever got changed in those ,
+ES2012c.A.dialog-act.vkaraisk.208	1371.68	1374.64	A	PM	inf	+1	1	'cause people just bought a new one when it went out of fashion ,
+ES2012c.A.dialog-act.vkaraisk.213	1393.84	1402.36	A	PM	inf	+1	1	I mean my feeling is that current power sources are such that for relatively little cost you can make it last , you know , a long time .
+15	ES2012c.elana.s.7	They talk about making changable colors available and possibly including batteries with them.
+ES2012c.C.dialog-act.vkaraisk.100	1410.1	1412.8	C	UI	el.ass	+1	2	What if we included the batteries in the cover ?
+ES2012c.B.dialog-act.vkaraisk.159	1413.67	1415.83	B	ID	ass	+1	1	Oh yeah . I like that .
+ES2012c.A.dialog-act.vkaraisk.214	1402.36	1409.73	A	PM	ass	+1	2	Um but if we also make it cheap enough that people either change the cover every year or even buy a new one every year then it it's it's even better .
+ES2012c.B.dialog-act.vkaraisk.152	1381.17	1388.53	B	ID	ass	+1	2	I {disfmarker} I think it's easier sometimes to have them buy changeable covers for it than to buy a whole new one ,
+ES2012c.B.dialog-act.vkaraisk.160	1415.83	1418.57	B	ID	inf	+1	2	That all c also kind of encourages 'em to buy new covers
+ES2012c.A.dialog-act.vkaraisk.218	1425.82	1430.64	A	PM	inf	+1	2	I mean the the the the immediate thing that comes to mind with that is that it it it {disfmarker} y you've then got the connection
+ES2012c.A.dialog-act.vkaraisk.220	1433.47	1439.97	A	PM	inf	+1	2	whereas the advantage of having it plumbed in is that that the whole thing is all , you know , completely soldered together
+ES2012c.A.dialog-act.vkaraisk.227	1476.67	1482.84	A	PM	inf	+1	2	um and , you know giving people the option of buying a new uh {disfmarker} a a complete new thing ,
+ES2012c.A.dialog-act.vkaraisk.228	1482.84	1490.58	A	PM	ass	+1	2	the advantage of a replaceable cover is that even if they don't {disfmarker} it doesn't have a cover on at all , it will still work um totally .
+ES2012c.A.dialog-act.vkaraisk.229	1490.58	1504.17	A	PM	inf	+1	1	Um then if , you know , if people lose the cover , I mean they they might be well inclined to go out and spend however many Euros on a on a new one um rather than a a complete new re remote .
+ES2012c.B.dialog-act.vkaraisk.170	1503.44	1511.07	B	ID	inf	+1	2	that that's just it with the covers , you're sort of tricking 'em into continuing to spend their money on our products without making 'em feel like they're being ripped off having to buy a new product .
+ES2012c.A.dialog-act.vkaraisk.233	1513.73	1518.8	A	PM	sug	+1	1	it's it's up to our marketing people to to ma to ma turn it into a a fashion item .
+ES2012c.A.dialog-act.vkaraisk.234	1518.8	1526.78	A	PM	sug	+1	2	Um and , you know , as as external fashions change , then we get new new covers on the market and , you know , readily available .
+ES2012c.C.dialog-act.vkaraisk.118	1530.8	1532.59	C	UI	inf	+1	1	like they have for mobile phones
+ES2012c.C.dialog-act.vkaraisk.119	1532.59	1536.4	C	UI	inf	+1	1	that are just fruits and animal prints and colours .
+64	ES2012c.elana.s.8	They discuss what the remote should look like in terms of shape color , and then talk about components , materials , and energy sources.
+ES2012c.A.dialog-act.vkaraisk.243	1569.18	1580.2	A	PM	inf	+1	1	And you know , th the the design that I've got , and and it could be a a home-made design , um you know this says this is not just a a television remote control ,
+ES2012c.D.dialog-act.vkaraisk.102	1550.45	1551.85	D	ME	inf	+1	1	the fashions apply to furniture ,
+ES2012c.A.dialog-act.vkaraisk.240	1553.82	1562.08	A	PM	inf	+1	1	It's the sort of thing that we want people to have prominent dis displayed on their um coffee table to say this says something about me .
+ES2012c.A.dialog-act.vkaraisk.248	1588.49	1599.32	A	PM	inf	+1	1	I mean given that we've got you know one one on off button presumably , two buttons for uh channel change and one slider and basically nothing else ,
+ES2012c.A.dialog-act.vkaraisk.247	1599.32	1604.12	A	PM	sug	+1	1	um w we need to decide on the {disfmarker} just the basic shape of the thing .
+ES2012c.A.dialog-act.vkaraisk.252	1604.77	1607.4	A	PM	el.ass	+1	1	And , know whether we go down the fruit and veg route ,
+ES2012c.A.dialog-act.vkaraisk.249	1607.4	1610.07	A	PM	sug	+1	1	and I don't suggest we make it look like a banana ,
+ES2012c.A.dialog-act.vkaraisk.250	1610.07	1615.05	A	PM	sug	+1	1	but um know sort of the the organic , you know , curved look ,
+ES2012c.A.dialog-act.vkaraisk.253	1615.35	1627.38	A	PM	inf	+1	1	t to deliberately get away from the uh um {vocalsound} uh you know , the the the the square look of most um current uh remotes
+ES2012c.A.dialog-act.vkaraisk.254	1627.38	1633.38	A	PM	el.ass	+1	1	and , you know , whether whether the you know , the the fixed part of it is the corporate yellow . Um
+ES2012c.A.dialog-act.vkaraisk.256	1637.0	1640.85	A	PM	inf	+1	1	'cause there's certainly you know , the the corporate logo needs to be prominently uh displayed
+ES2012c.B.dialog-act.vkaraisk.185	1647.47	1648.74	B	ID	ass	+1	1	I dunno that we should make the whole thing yellow
+ES2012c.B.dialog-act.vkaraisk.188	1652.69	1654.33	B	ID	ass	+1	1	yellow seems a bit of a strong colour
+ES2012c.A.dialog-act.vkaraisk.264	1657.07	1663.73	A	PM	inf	+1	1	I mean we're we're we're simply {disfmarker} it's simply required to incorporate the the the the corporate logo prominently um .
+ES2012c.C.dialog-act.vkaraisk.130	1681.63	1688.42	C	UI	sug	+1	2	I was sort of mm kinda picturing like maybe um {vocalsound} a shape that's almost like a mouse .
+ES2012c.C.dialog-act.vkaraisk.132	1690.7	1693.58	C	UI	inf	+1	1	because a mouse is pretty comfortable to hold in your hand
+ES2012c.C.dialog-act.vkaraisk.133	1693.58	1695.55	C	UI	sug	+1	1	um maybe we could make it a slightly different shape
+ES2012c.C.dialog-act.vkaraisk.135	1696.66	1701.08	C	UI	sug	+1	1	but that way they can have the volume on the side and then the channel buttons and
+ES2012c.A.dialog-act.vkaraisk.279	1709.56	1713.71	A	PM	sug	+1	1	my idea was something a b probably you know a bit fatter than this but sort of tha that sorta shape
+ES2012c.A.dialog-act.vkaraisk.280	1713.71	1715.44	A	PM	inf	+1	1	so that you can just sort of ho hold it .
+ES2012c.B.dialog-act.vkaraisk.201	1714.76	1716.27	B	ID	sug	+1	2	you'd want it narrower than a mouse though
+ES2012c.B.dialog-act.vkaraisk.202	1716.27	1717.8	B	ID	inf	+1	1	'cause it {disfmarker} a mouse you're kinda just resting on it ,
+ES2012c.B.dialog-act.vkaraisk.203	1717.8	1719.41	B	ID	sug	+1	1	you want something you can definitely grip .
+ES2012c.A.dialog-act.vkaraisk.284	1724.06	1728.0	A	PM	inf	+1	1	so it's {disfmarker} you sorta hold it in your hand like that , i with , you know , and fiddling with the buttons .
+ES2012c.C.dialog-act.vkaraisk.144	1728.79	1731.06	C	UI	sug	+1	1	kind of maybe maybe a little wider than this ,
+ES2012c.B.dialog-act.vkaraisk.211	1736.72	1738.0	B	ID	sug	+1	1	and then it widens up top
+ES2012c.C.dialog-act.vkaraisk.149	1738.74	1747.98	C	UI	sug	+1	1	And then it would have a l uh wider thing to uh have the light , the infrared light at the T_V_ and just kinda change channels and adjust the volume
+ES2012c.C.dialog-act.vkaraisk.150	1747.98	1754.17	C	UI	sug	+1	1	and the power could be wherever , up up the top or something .
+ES2012c.D.dialog-act.vkaraisk.113	1757.71	1761.92	D	ME	inf	+1	1	Um I'm just {disfmarker} I'm suddenly realising that yeah we're discussing how much {disfmarker} how good it's gonna be to change channels
+ES2012c.D.dialog-act.vkaraisk.116	1764.77	1768.32	D	ME	el.inf	+1	1	I mean are we are we starting to get away from the the voice functionality of it ?
+ES2012c.A.dialog-act.vkaraisk.288	1776.61	1782.03	A	PM	inf	+1	2	I think we d I think we decided that w we're actually going down both routes .
+ES2012c.A.dialog-act.vkaraisk.290	1784.86	1786.77	A	PM	inf	+1	1	we need the the manual controls
+ES2012c.D.dialog-act.vkaraisk.124	1800.98	1804.74	D	ME	inf	+1	2	we're leaving out the buttons for the the f less frequently used stuff ,
+ES2012c.D.dialog-act.vkaraisk.119	1804.74	1806.8	D	ME	sug	+1	2	but maybe we could incorporate that into the voice .
+ES2012c.A.dialog-act.vkaraisk.297	1809.93	1814.78	A	PM	inf	+1	1	my personal view is that if it's not there , people wouldn't use it anyway um .
+ES2012c.B.dialog-act.vkaraisk.232	1832.5	1835.44	B	ID	sug	+1	2	you can still i incorporate the voice with with less buttons .
+ES2012c.B.dialog-act.vkaraisk.234	1836.05	1840.94	B	ID	sug	+1	1	if the power button was also somehow like a menu button you could press that and {disfmarker} or do voice commands ,
+ES2012c.B.dialog-act.vkaraisk.236	1840.94	1846.69	B	ID	sug	+1	1	and {vocalsound} either volume thing could also be to scroll through other options like y and you could scroll through brightness
+ES2012c.A.dialog-act.vkaraisk.306	1853.51	1857.17	A	PM	und	+1	1	I'm getting a clear message that we think that we should have those facilities available .
+ES2012c.C.dialog-act.vkaraisk.161	1859.25	1863.71	C	UI	sug	+1	2	We could have the channels and the power and then a menu button and then the volume .
+ES2012c.A.dialog-act.vkaraisk.309	1870.0	1876.43	A	PM	inf	+1	1	if we if we're going down that route , then we need some sort of display .
+ES2012c.B.dialog-act.vkaraisk.242	1876.59	1878.03	B	ID	inf	+1	2	But the television would be the display
+ES2012c.A.dialog-act.vkaraisk.311	1877.62	1882.74	A	PM	und	+1	2	We actually use the television , okay . Okay , okay , okay .
+ES2012c.B.dialog-act.vkaraisk.245	1879.59	1880.33	B	ID	inf	+1	1	like you hit menu
+ES2012c.B.dialog-act.vkaraisk.246	1880.33	1881.51	B	ID	inf	+1	1	and menu will come up on television
+ES2012c.C.dialog-act.vkaraisk.176	1902.0	1906.45	C	UI	sug	+1	1	so if you had like the menu then you could scroll through and then click it to select .
+ES2012c.D.dialog-act.vkaraisk.141	1968.86	1970.75	D	ME	el.inf	+1	1	Our energy source is gonna be
+ES2012c.A.dialog-act.vkaraisk.331	1975.0	1984.45	A	PM	inf	+1	1	for simplicity of , you know , manufacturing and uh maintenance that we will go for a a long term battery source um ,
+ES2012c.A.dialog-act.vkaraisk.337	1995.61	2005.98	A	PM	inf	+1	1	and um {vocalsound} make an assumption that we we can aim for a battery that will last most people for uh we'll say at least five five ten years
+ES2012c.D.dialog-act.vkaraisk.147	2046.87	2048.7	D	ME	el.inf	+1	1	And interchangeable case ?
+ES2012c.A.dialog-act.vkaraisk.348	2049.33	2055.9	A	PM	inf	+1	2	I i interchangeable case seems to be um {vocalsound} um important to the concept .
+ES2012c.A.dialog-act.vkaraisk.351	2055.9	2061.81	A	PM	inf	+1	3	Um it it should be cheap , you know , if if we avoid any , you know , electrical connections .
+ES2012c.A.dialog-act.vkaraisk.353	2063.0	2073.08	A	PM	ass	+1	2	i if we can come up with some way of of allowing people to actually personalise it uh to whatever they want , then uh {disfmarker} I mean uh uh this is totally new .
+ES2012c.A.dialog-act.vkaraisk.354	2073.08	2074.12	A	PM	inf	+1	1	We d we don't know whether
+ES2012c.A.dialog-act.vkaraisk.355	2075.09	2077.06	A	PM	inf	+1	1	that {disfmarker} to what extent people do it or not ,
+ES2012c.A.dialog-act.vkaraisk.356	2077.06	2082.55	A	PM	sug	+1	1	but if they've at least got a a good selection of um covers that they can use anyway ,
+ES2012c.A.dialog-act.vkaraisk.360	2087.02	2093.22	A	PM	sug	+1	1	so they can get them in the supermarket when they go down to um a any of the famous supermarkets ,
+ES2012c.D.dialog-act.vkaraisk.150	2102.45	2106.928	D	ME	el.ass	+1	1	And uh are we gonna have it il being illuminated from inside onto the buttons or {disfmarker}
+ES2012c.A.dialog-act.vkaraisk.367	2112.15	2113.38	A	PM	inf	+1	1	because we've got so few buttons
+ES2012c.A.dialog-act.vkaraisk.368	2113.38	2115.32	A	PM	inf	+1	1	that it {disfmarker} that actually makes that redundant .
+ES2012c.A.dialog-act.vkaraisk.366	2111.91	2112.15	A	PM	ass	+1	1	no ,
+ES2012c.A.dialog-act.vkaraisk.377	2139.14	2141.82	A	PM	sug	+1	1	{disfmarker} cer certainly wider angle than than current ,
+ES2012c.A.dialog-act.vkaraisk.378	2141.82	2153.65	A	PM	inf	+1	1	so that if you're holding it , you know , anyway like you're likely to and uh it's uh {vocalsound} you know , i i it will work most of the time um .
+ES2012c.A.dialog-act.vkaraisk.382	2163.82	2171.34	A	PM	sug	+1	1	I sorta envisaged that if if this was the the thing , then sort of the the whole of the top would be the uh the infrared uh .
+8	ES2012c.elana.s.9	Then they close the meeting.
+ES2012c.A.dialog-act.vkaraisk.319	1916.54	1925.09	A	PM	sug	+1	1	I think we've actually very conveniently just uh come to uh a good point to s to sum up um .
+ES2012c.A.dialog-act.vkaraisk.322	1930.94	1932.51	A	PM	inf	+1	2	Kate and Kendra now go away
+ES2012c.A.dialog-act.vkaraisk.323	1932.51	1936.41	A	PM	inf	+1	2	and uh pa play play with a bit of Plasticine or play-dough ,
+ES2012c.A.dialog-act.vkaraisk.325	1938.94	1947.08	A	PM	sug	+1	2	Um and actually put what we've discussed into something uh {disfmarker} I was gonna say concrete ,
+ES2012c.A.dialog-act.vkaraisk.328	1952.95	1965.17	A	PM	sug	+1	2	and um Andrew n can go away and th th think about how we can uh actually market this as a concept and not j not just a uh um a a simple remote control .
+ES2012c.A.dialog-act.vkaraisk.390	2195.85	2198.55	A	PM	el.und	+1	1	we're all clear where we go from here .
+ES2012c.A.dialog-act.vkaraisk.392	2200.46	2201.42	A	PM	be.pos	+1	1	thank you very much indeed
+ES2012c.A.dialog-act.vkaraisk.393	2201.42	2204.14	A	PM	inf	+1	1	and I'll s see you all again in thirty minutes .

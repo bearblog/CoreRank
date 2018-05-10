@@ -1,0 +1,49 @@
+13	Bro018.s.10	Speaker me013 argues that additional features used by speaker fn002 are not optimal and suggests an alternative approach.
+Bro018.C.dialogueact72	173.48	176.41	C	Professor	s	-1	0	and so R - one over R - zero is what you typically use for that .
+Bro018.C.dialogueact79	183.02	190.59	C	Professor	s^df:qr	-1	0	See , because it {disfmarker} because this is {disfmarker} this is just like a single number to tell you um " does the spectrum look like that or does it look like that " .
+Bro018.C.dialogueact85	193.58	203.16	C	Professor	s	-1	0	So if it 's {disfmarker} if it 's um {disfmarker} if it 's low energy uh but the {disfmarker} but the spectrum looks like that or like that , it 's probably silence .
+Bro018.C.dialogueact89	210.15	222.529	C	Professor	s^rt	-1	0	So if you just {disfmarker} if you just had to pick two features to determine voiced - unvoiced , you 'd pick something about the spectrum like uh R - one over R - zero , um and R - zero
+Bro018.C.dialogueact119	284.6	294.08	C	Professor	s	-1	0	if you were to sum up the probabilities for the voiced and for the unvoiced and for the silence here , we 've found in the past you 'll do better at voiced - unvoiced - silence than you do with this one .
+Bro018.C.dialogueact120	295.43	299.33	C	Professor	s	-1	0	So just having the three output thing doesn't {disfmarker} doesn't really buy you anything .
+Bro018.C.dialogueact135	325.29	333.64	C	Professor	s	-1	0	And what I was saying is that the only thing I think that it buys you is um based on whether you feed it something different .
+Bro018.C.dialogueact137	336.71	360.81	C	Professor	s	-1	0	And so the kind of thing that {disfmarker} that she was talking about before , was looking at something uh ab um {disfmarker} something uh about the difference between the {disfmarker} the uh um log FFT uh log power uh and the log magnitude uh F F - spectrum uh and the um uh filter bank .
+Bro018.C.dialogueact142	370.76	375.49	C	Professor	s	-1	0	So the particular measure that she chose was the variance of this m of this difference ,
+Bro018.C.dialogueact144	376.05	377.87	C	Professor	s	-1	0	but that might not be the right number .
+Bro018.C.dialogueact151	393.81	400.69	C	Professor	qw^cs	-1	0	uh What about it you skip all the {disfmarker} all the really clever things , and just fed the log magnitude spectrum into this ?
+Bro018.C.dialogueact161	416.42	421.11	C	Professor	s	-1	0	And you just took this thing in here because it 's a neural net and neural nets are wonderful
+Bro018.C.dialogueact162	421.11	427.291	C	Professor	s	-1	0	and figure out what they can {disfmarker} what they most need from things , and I mean that 's what they 're good at .
+3	Bro018.s.11	The results of speaker fn002's experiment are worse than expected , probably due to additive noise.
+Bro018.C.dialogueact87	204.068	208.821	C	Professor	s	-1	0	Uh but if it 's low energy and the spectrum looks like that , it 's probably unvoiced .
+Bro018.C.dialogueact240	585.59	586.16	C	Professor	s^ba	-1	0	That 's pretty bad .
+Bro018.D.dialogueact241	586.826	588.606	D	PhD	s^aa|s^df	-1	0	Yeah , because it 's noise also .
+11	Bro018.s.12	Speaker fn002 needs clarification regarding the details of the forthcoming France Telecom project.
+Bro018.D.dialogueact334	781.43	792.62	D	PhD	s.%--	+1	3	But the first thing that I don't understand is that they are using R - the uh log energy that this quite {disfmarker}
+Bro018.D.dialogueact335	793.49	800.04	D	PhD	s^no	+1	3	I don't know why they have some constant in the expression of the lower energy .
+Bro018.C.dialogueact339	807.046	814.226	C	Professor	fg|s	-1	0	Oh , at the front it says uh " log energy is equal to the rounded version of sixteen over the log of two "
+Bro018.C.dialogueact345	818.537	819.847	C	Professor	s^rt	-1	0	Well , this is natural log ,
+Bro018.C.dialogueact346	819.847	821.757	C	Professor	s.%--	-1	0	and maybe it has something to do with the fact that this is {disfmarker}
+Bro018.E.dialogueact347	823.33	825.06	E	PhD	qy^rt	-1	0	Is that some kind of base conversion ,
+Bro018.D.dialogueact358	845.975	849.275	D	PhD	s^no	-1	0	But I don't know what is the meaning of take exactly this value .
+Bro018.C.dialogueact379	898.45	907.338	C	Professor	s	-1	0	Well , it says , since you 're taking a natural log , it says that when {disfmarker} when you get down to essentially zero energy , this is gonna be the natural log of one , which is zero .
+Bro018.C.dialogueact383	916.28	918.41	C	Professor	s	-1	0	So y you 're restricted to being positive .
+Bro018.C.dialogueact384	918.78	920.89	C	Professor	s	-1	0	And this sort of smooths it for very small energies .
+Bro018.C.dialogueact404	963.73	969.03	C	Professor	s	-1	0	I think , given at the level you 're doing things in floating point on the computer , I don't think it matters , would be my guess ,
+4	Bro018.s.13	Will support vector machines perform as well as recurrent neural nets with less data?
+Bro018.E.dialogueact555	1514.17	1517.21	E	PhD	qw^rt	-1	0	So what 's the advantage of support vector machines ?
+Bro018.A.dialogueact557	1518.08	1524.34	A	Grad	h|s	-1	0	Um . So , support vector machines are {disfmarker} are good with dealing with a less amount of data
+Bro018.E.dialogueact613	1679.95	1685.42	E	PhD	s^bs	-1	0	So rather than doing nearest neighbor where you compare to every single one , you just pick a few critical ones ,
+Bro018.A.dialogueact625	1723.07	1732.23	A	Grad	s	-1	0	I it can be a {disfmarker} a reduced um {vocalsound} parameterization of {disfmarker} of the {disfmarker} the model by just keeping {vocalsound} certain selected examples .
+4	Bro018.s.14	How can probabilities be estimated from the binary output of a SVM classifier?
+Bro018.A.dialogueact635	1749.82	1753.35	A	Grad	s	-1	0	Actually you don't get a {disfmarker} you don't get a nice number between zero and one .
+Bro018.A.dialogueact636	1753.35	1755.29	A	Grad	s^e	-1	0	You get {disfmarker} you get either a zero or a one .
+Bro018.C.dialogueact648	1779.83	1781.58	C	Professor	s	-1	0	But you have the distances to work with .
+Bro018.A.dialogueact653	1789.99	1801.46	A	Grad	fg|s	-1	0	Yeah , they {disfmarker} {vocalsound} they had a {disfmarker} had a way to translate the distances into {disfmarker} into probabilities with the {disfmarker} with the simple {vocalsound} um {vocalsound} uh sigmoidal function .
+4	Bro018.s.15	Speaker me018 suspects a bug in his speech recognition software , as the performance difference between the PLP and Mel cepstrum feature representations seems too large.
+Bro018.E.dialogueact813	2140.3	2141.33	E	PhD	s	+1	1	well it seems like there 's a bug ,
+Bro018.E.dialogueact814	2141.45	2146.43	E	PhD	s	+1	1	because the difference in performance is {disfmarker} it 's not gigantic
+Bro018.E.dialogueact815	2147.01	2149.39	E	PhD	s	+1	1	but it 's big enough that it {disfmarker} it seems wrong .
+Bro018.E.dialogueact831	2185.17	2192.47	E	PhD	s	-1	0	So I was going through and just double - checking that kind of think first , to see if there was just some kind of obvious bug in the way that I was computing the features .
+3	Bro018.s.16	Can the mean subtraction method perform as well with an industry-standard speech recogniser?
+Bro018.C.dialogueact1204	3116.16	3122.41	C	Professor	fg|s	-1	0	Yeah , w we 're often asked this when we work with a system that {disfmarker} that isn't {disfmarker} isn't sort of industry {disfmarker} industry standard great ,
+Bro018.C.dialogueact1206	3123.1	3126.07	C	Professor	s	-1	0	uh and we see some reduction in error using some clever method ,
+Bro018.C.dialogueact1207	3126.17	3129.39	C	Professor	qy	-1	0	then , you know , will it work on a {disfmarker} {vocalsound} on a {disfmarker} on a good system .

@@ -1,0 +1,7 @@
+There is a slight worry about the acceptance of the paper submitted to Eurospeech as the deadline was exceeded.
+As to the content of the paper , the overlap statistics have not been normalised against the number of participants in the conversation , although the dependency is probably going to be a weak one.
+Additionally , the correlation between pauses in speech and interruptions does not provide a cause-and-effect link for these phenomena.
+The preparation of files for transcription by IBM is facing some minor difficulties , as some features ( hand-coded time boundaries , multiplicity of channels etc ) may complicate the generation of beep files.
+Besides this , the automatic pre-segmentation has been deemed to be good , but there are still no specific measurements to verify this.
+The pre-segmentation tool also classifies synthesised speech used in a recording as "normal speech" and assigns a random channel to it.
+The transcribers at IBM may not be able to differentiate between the two.

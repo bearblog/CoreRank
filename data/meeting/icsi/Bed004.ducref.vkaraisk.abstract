@@ -1,0 +1,10 @@
+A test run of the data collection design was very successful.
+The group decided to hire the "wizard" and continue with the refinement of the design and recruitment of subjects.
+On the other hand , there was a presentation of a new version of the belief-net for the Vista/Enter/Tango mode task.
+It is not a working net yet , but identifying clusters of features that define the output mode provides a visual aid for further work.
+There are potential problems from a combinatorics perspective.
+These can be tackled either with technical adjustments or through careful knowledge engineering.
+A base solution for the task would be to simply add some extra action-mode rules in the SmartKom system.
+Action modes , however , can be inferred more efficiently by feeding a collection of features -from the ontology , discourse history , parsing , etc.- into Bayes-nets that would replace those rules.
+Ideally , the results of this small task will give insights into the function of linguistic deep understanding.
+For instance , the final combination of features used in the current study may form a representation of the ontology , general enough to employ in any task that includes trajectors and paths.

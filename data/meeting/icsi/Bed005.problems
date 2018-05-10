@@ -1,0 +1,18 @@
+5	Bed005.s.21	Although the parser has been modified to work with english , the details of its internal workings ( calling functions , setting discourse variables , generating actions ) are not yet clear.
+Bed005.C.dialogueact124	454.962	460.472	C	Grad	s	+1	3	And , um {disfmarker} and now it 's {disfmarker} We have a complete English parser that does everything the German parser does .
+Bed005.D.dialogueact395	1081.79	1089.25	D	Grad	s	+1	2	I think each of those functions act on the current XML structure , and change it in some way , for example , by adding a {disfmarker} a l a field to it , or something .
+Bed005.B.dialogueact401	1091.61	1096.87	B	Professor	s	+1	2	there were other actions uh , that {disfmarker} that s seemed to step {disfmarker} state variables somewhere ,
+Bed005.A.dialogueact459	1184.37	1185.74	A	Grad	s^j	+1	1	It 's mystery functions .
+Bed005.B.dialogueact914	2345.79	2347.95	B	Professor	s	+1	4	That , these guys did in a {disfmarker} in a day .
+2	Bed005.s.22	Understanding the parsed data is helped by the database of objects , people and events accompanying the system , but the mapping of referring expressions to database objects can still be a hurdle.
+Bed005.B.dialogueact718	1885.97	1889.13	B	Professor	s	+1	1	Although th the {vocalsound} To get at them from a language may not be trivial .
+Bed005.C.dialogueact738	1925.77	1930.47	C	Grad	s^rt	+1	1	So , it 's a relational database with persons , events , {vocalsound} and , um , objects .
+1	Bed005.s.23	On a different level , the Bayes-net used to generate the different action modes can easily become unmanageable as the number of features to be taken into account increases.
+Bed005.D.dialogueact1048	2622.41	2624.89	D	Grad	s	+1	2	And , that 's a lot of probabilities to put here , which is kind of a pain .
+1	Bed005.s.24	This can be tackled with the use of the Noisy-OR technique.
+Bed005.D.dialogueact1049	2625.51	2630.35	D	Grad	fh|s	+1	3	So {pause} Noisy - ORs are a way to , uh , {vocalsound} sort of deal with this .
+2	Bed005.s.25	The deterministic functions this requires cannot be introduced directly into JavaBayes , although some runaround ways can be implemented.
+Bed005.B.dialogueact1131	2880.41	2882.14	B	Professor	s	+1	1	So , if Ba - JavaBayes won't do it for you ,
+Bed005.B.dialogueact1399	3549.47	3557.84	B	Professor	s	+1	1	And then {disfmarker} But , the combination functions , and whether we can put those in Java Bayes , and all that sort of stuff , is , uh {disfmarker} is the bigger deal .
+1	Bed005.s.26	A final , high-level issue , that has not been dealt with yet , is the definition of the constructions and the construction grammar framework analysis behind the whole enterprise.
+Bed005.B.dialogueact779	2029.16	2032.22	B	Professor	s	+1	1	There 's this whole framework problem that I 'm feeling really uncomfortable about .

@@ -1,0 +1,15 @@
+2	Bed010.s.30	The german SmartKom system has been translated to English up to the speech synthesis level.
+Bed010.E.dialogueact15	51.9	65.27	E	Grad	s	+1	1	The {disfmarker} we got to the point where we can now speak into the SmartKom system , and it 'll go all the way through and then say something like " Roman numeral one , am Smarticus . "
+Bed010.E.dialogueact17	68.759	74.807	E	Grad	s	+1	1	which means it 's just using a German sythesis module for English sentences .
+3	Bed010.s.31	The german syntax trees are currently being adapted to English.
+Bed010.E.dialogueact39	126.51	132.67	E	Grad	fh|s	+1	1	Uh , and did write the tree adjoining grammar for some {disfmarker} some sentences .
+Bed010.E.dialogueact55	188.13	199.4	E	Grad	s	+1	1	But I think that the point is that out of the twelve possible utterances that the German system can do , we 've already written the {disfmarker} the syntax trees for three or four .
+Bed010.D.dialogueact88	319.66	322.79	D	Grad	s^ng^rt	+1	1	Why {disfmarker} I had {disfmarker} I did need to chan generate different trees than the German ones ,
+2	Bed010.s.32	These also contribute information to the synthesis module in order to achieve better pronunciation.
+Bed010.E.dialogueact35	108.253	114.877	E	Grad	s	+1	1	and " concept to speech " is feeding into this synthesis module giving it what needs to be said , and the whole syntactic structure
+Bed010.E.dialogueact36	115.057	119.721	E	Grad	s^df	+1	1	so it can pronounce things better , presumably . Then , just with text to speech .
+1	Bed010.s.33	The current english version is probably the best working one , since some of the problems with the original system have been corrected.
+Bed010.E.dialogueact279	778.526	783.47	E	Grad	s	+1	2	And I g I got the feeling that we are {pause} the only ones right now who have a running system .
+2	Bed010.s.34	The design of the belief-net has also progressed significantly: the vast majority of the nodes have been identified and the feasibility of the task from a technical point of view has been confirmed.
+Bed010.C.dialogueact317	1070.4	1083.44	C	Professor	s	+1	2	and we went through this , and , I think , more or less convinced ourselves that at least the vast majority of the nodes that we needed for the demo level we were thinking of , were in there .
+Bed010.C.dialogueact322	1108.51	1115.49	C	Professor	s	+1	1	The answer seems to be uh , " no , no one has done it , but yes it 's a perfectly reasonable thing to do if that 's what you set out to do " .

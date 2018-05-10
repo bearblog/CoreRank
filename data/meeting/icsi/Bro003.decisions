@@ -1,0 +1,77 @@
+4	Bro003.s.4	The group will meet at the building at 6am to go to the airport for
+their field trip together.
+Bro003.F.dialogueact26	386.198	391.725	F	Professor	fh|s^co^t	+1	2	Um , We should talk a little bit about the plans for the uh {disfmarker} the field trip next week .
+Bro003.F.dialogueact28	398.0	401.52	F	Professor	fh|s	+1	2	And uh {disfmarker} mostly uh First though about the logistics for it .
+Bro003.F.dialogueact78	523.809	529.589	F	Professor	s	+1	1	those of you who are not , you know , used to this area , it can be very tricky to get to the airport at {disfmarker} at uh , you know , six thirty .
+Bro003.F.dialogueact85	541.763	545.163	F	Professor	fg|s^cs	+1	1	OK , so if {disfmarker} if everybody can get here at six .
+5	Bro003.s.5	Speaker me018 needs to discuss files that can be moved with speaker
+mn007.
+Bro003.A.dialogueact1624	4038.43	4044.62	A	PhD	s	+1	2	Dan {disfmarker} David , um , put a new , um , drive onto Abbott , that 's an X disk ,
+Bro003.A.dialogueact1627	4046.71	4060.05	A	PhD	fh|s	+1	2	um , I 've been going through and copying data that is , you know , some kind of corpus stuff usually , that {disfmarker} that we 've got on a CD - ROM or something , onto that new disk to free up space {pause} on other disks .
+Bro003.A.dialogueact1629	4068.23	4072.45	A	PhD	s	+1	2	We haven't deleted them off of the slash - DC disk that they 're on right now in Abbott ,
+Bro003.A.dialogueact1631	4074.41	4083.89	A	PhD	s^cs	+1	2	uh , but we {disfmarker} I would like to go through {disfmarker} sit down with you about some of these other ones and see if we can move them onto , um , this new disk also .
+Bro003.G.dialogueact1632	4084.11	4084.98	G	PhD	s^aa	+1	2	Yeah , OK .
+5	Bro003.s.6	For the OGI meeting they need to take a clear description of the cube
+project , and an estimate of how long the entire process should take.
+Bro003.F.dialogueact1677	4189.93	4195.98	F	Professor	s	+1	1	I {disfmarker} maybe we 're already there , or almost there , is goals for the {disfmarker} for next week 's meeting .
+Bro003.F.dialogueact1678	4196.75	4203.9	F	Professor	s	+1	1	Uh . i i i it seems to me that we wanna do is flush out what you put on the board here .
+Bro003.F.dialogueact1684	4211.52	4212.95	F	Professor	s^df	+1	1	so w we can say what we 're doing ,
+Bro003.F.dialogueact1687	4213.75	4239.47	F	Professor	s^cs	+1	2	And , um , also , if you have {pause} sorted out , um , this information about how long i roughly how long it takes to do on what and , you know , what we can {disfmarker} how many of these trainings , uh , uh , and testings and so forth that we can realistically do , uh , then one of the big goals of going there next week would be to {disfmarker} to actually settle on which of them we 're gonna do .
+Bro003.F.dialogueact1688	4240.83	4244.35	F	Professor	fh|s^co	+1	2	And , uh , when we come back we can charge in and do it .
+2	Bro003.s.7	At the meeting they should discuss what they will ultimately put
+through the system.
+Bro003.F.dialogueact1687	4213.75	4239.47	F	Professor	s^cs	+1	2	And , um , also , if you have {pause} sorted out , um , this information about how long i roughly how long it takes to do on what and , you know , what we can {disfmarker} how many of these trainings , uh , uh , and testings and so forth that we can realistically do , uh , then one of the big goals of going there next week would be to {disfmarker} to actually settle on which of them we 're gonna do .
+Bro003.F.dialogueact1688	4240.83	4244.35	F	Professor	fh|s^co	+1	2	And , uh , when we come back we can charge in and do it .
+12	Bro003.s.8	People are to consider what me034 could do on the project to speed
+things up , though creating the phoneme superset is a possibility.
+Bro003.F.dialogueact1701	4281.1	4292.4	F	Professor	s^t^tc	+1	1	And uh {disfmarker} and the other {disfmarker} the {disfmarker} the last topic I had here was , um , uh d Dave 's fine offer to {disfmarker} to , uh , do something {pause} {vocalsound} on this .
+Bro003.F.dialogueact1702	4292.4	4294.92	F	Professor	s^df	+1	1	I mean he 's doing {disfmarker} {vocalsound} {disfmarker} he 's working on other things ,
+Bro003.F.dialogueact1703	4295.54	4297.34	F	Professor	s^e	+1	1	but to {disfmarker} to do something on this project .
+Bro003.F.dialogueact1704	4297.34	4302.02	F	Professor	qw	+1	1	So the question is , " Where {disfmarker} where could we , uh , uh , most use Dave 's help ? "
+Bro003.G.dialogueact1710	4324.09	4340.58	G	PhD	s^cs	+1	1	and , um , {vocalsound} trying to have a closer look at the {disfmarker} perhaps the , um , {vocalsound} speech , uh , noise detection or , uh , voiced - sound - unvoiced - sound detection
+Bro003.F.dialogueact1727	4391.26	4392.34	F	Professor	s^co	+1	1	Let 's fall back to that .
+Bro003.F.dialogueact1728	4392.73	4399.49	F	Professor	s^co.%--	+1	1	But I think the first responsibility is sort of to figure out if there 's something {pause} that , uh , an {disfmarker} an additional {disfmarker}
+Bro003.F.dialogueact1735	4409.96	4414.71	F	Professor	s	+1	1	What an additional clever person could help with when we 're really in a crunch for time .
+Bro003.F.dialogueact1752	4465.24	4470.23	F	Professor	s^cs	+1	1	but if we could think of some {disfmarker} some piece that 's {disfmarker} that 's well defined , that he could help with ,
+Bro003.F.dialogueact1753	4470.23	4472.56	F	Professor	s^df	+1	1	he 's expressing a will willingness to do that .
+Bro003.F.dialogueact1807	4620.69	4634.37	F	Professor	s^bs	+1	2	So {disfmarker} wh that {disfmarker} so the {disfmarker} the other suggestion that just came up was , well what about having him {pause} work on the , uh , {pause} multilingual super f superset {pause} kind of thing .
+Bro003.F.dialogueact1808	4634.66	4641.66	F	Professor	fh|s^bs	+1	2	Uh , coming up with that and then , you know , training it {disfmarker} training a net on that , say , um , from {disfmarker} from , uh {disfmarker} from TIMIT or something .
+4	Bro003.s.9	Speaker me018 is to look into the machines that mn007 has been running
+data on to find out what they are.
+Bro003.F.dialogueact1523	3791.36	3794.44	F	Professor	qw	+1	1	Stephane , where you 're doing your computations .
+Bro003.G.dialogueact1531	3803.46	3805.11	G	PhD	s^na	+1	1	It 's Nutmeg and Mustard , I think ,
+Bro003.F.dialogueact1564	3850.74	3852.35	F	Professor	s^j	+1	1	Well , you 're the {disfmarker} you 're the disk czar now .
+Bro003.A.dialogueact1567	3853.46	3854.28	A	PhD	s^cc	+1	1	Well , I 'll check on that .
+5	Bro003.s.10	Rather than consider level of normalization as a further dimension to
+the project , whatever OGI finds the best will be used systematically.
+Bro003.F.dialogueact1649	4128.56	4133.36	F	Professor	qw	+1	1	an another question occurred to me is {disfmarker} is what were you folks planning to do about normalization ?
+Bro003.G.dialogueact1651	4138.47	4142.17	G	PhD	s	+1	1	Well , we were thinking about using this systematically for all the experiments .
+Bro003.G.dialogueact1658	4149.89	4159.32	G	PhD	s^rt	+1	1	but we think perhaps we can use the {disfmarker} the best , uh , um , uh , normalization scheme as OGI is using ,
+Bro003.G.dialogueact1659	4159.32	4162.83	G	PhD	s	+1	1	so , with parameters that they use there ,
+Bro003.F.dialogueact1664	4164.57	4167.43	F	Professor	s^df	+1	1	I mean it 's i i we {disfmarker} we seem to have enough dimensions as it is .
+11	Bro003.s.11	Need to use multiple machines and SPERT boards to run processes on
+because they take so long.
+Bro003.F.dialogueact1193	2921.18	2927.76	F	Professor	s^cs	+1	2	clearly , there {disfmarker} there 's no way we can even begin to do an any significant amount here unless we use multiple machines .
+Bro003.F.dialogueact1197	2930.08	2931.19	F	Professor	s^df	+1	1	I mean there 's plenty of machines here
+Bro003.F.dialogueact1198	2931.19	2934.08	F	Professor	s^df	+1	1	and they 're n they 're often not in {disfmarker} in a great {disfmarker} great deal of use .
+Bro003.C.dialogueact1230	2991.46	2993.43	C	Grad	s^r	+1	1	Y you did a {disfmarker} you did it on a SPERT board .
+Bro003.E.dialogueact1232	2993.72	2993.95	E	PhD	s^aa	+1	1	Yes .
+Bro003.F.dialogueact1233	2994.45	2996.76	F	Professor	s	+1	1	again , we do have a bunch of SPERT boards .
+Bro003.F.dialogueact1255	3029.13	3035.53	F	Professor	s^cs	+1	1	You could set up , uh , you know , ten different jobs , or something , to run on SPERT {disfmarker} different SPERT boards
+Bro003.F.dialogueact1258	3041.13	3044.18	F	Professor	s	+1	1	or {disfmarker} or we 're not going to get through any significant number of these .
+Bro003.F.dialogueact1270	3058.6	3065.94	F	Professor	s	+1	1	so , with very limited time , we actually have really quite a {disfmarker} quite a bit of computational resource available
+Bro003.F.dialogueact1271	3065.94	3069.54	F	Professor	s^df	+1	1	if you , you know , get a look across the institute and how little things are being used .
+Bro003.F.dialogueact1456	3576.5	3603.05	F	Professor	fh|s	+1	4	And , uh , the thing is that once you get a better handle on how much you can realistically do , uh , um , {vocalsound} concurrently on different machines , different SPERTs , and so forth , uh , and you see how long it takes on what machine and so forth , you can stand back from it and say , " OK , if we look at all these combinations we 're talking about , and combinations of combinations , and so forth , " you 'll probably find you can't do it all .
+11	Bro003.s.12	They will consider looking at articulatory features rather than
+straight phonemes , though it wouldn't be perfect.
+Bro003.C.dialogueact1942	4932.73	4936.88	C	Grad	s^bu	+1	1	So {disfmarker} so , maybe we could look at articulatory type stuff ,
+Bro003.F.dialogueact1957	4947.09	4948.9	F	Professor	s	+1	1	because that 's {disfmarker} that 's the other route to go .
+Bro003.F.dialogueact1964	4958.22	4962.43	F	Professor	s	+1	1	To really mark articulatory features , you really wanna look at the acoustics and {disfmarker} and see where everything is ,
+Bro003.F.dialogueact1965	4962.43	4963.63	F	Professor	s	+1	1	and we 're not gonna do that .
+Bro003.F.dialogueact1967	4964.51	4970.73	F	Professor	fh|s	+1	1	uh , the second class way of doing it is {pause} to look at the , uh , phones that are labeled
+Bro003.F.dialogueact1968	4970.82	4974.87	F	Professor	s	+1	1	and translate them into acoustic {disfmarker} uh , uh {disfmarker} articulatory , uh , uh , features .
+Bro003.F.dialogueact1969	4975.56	4976.37	F	Professor	s	+1	1	So it won't really be right .
+Bro003.F.dialogueact1998	5013.61	5022.32	F	Professor	s^cs^e	+1	1	is that we could {disfmarker} we could , uh , just translate {disfmarker} instead of translating to a superset , {pause} just translate to articulatory features , some set of articulatory features and train with that .
+Bro003.A.dialogueact2005	5038.66	5040.71	A	PhD	s^cs	+1	1	We could do an interesting cheating experiment with that too .
+Bro003.A.dialogueact2039	5130.53	5132.77	A	PhD	s^df	+1	1	So I was thinking , you know {disfmarker} it made me think about this ,
+Bro003.A.dialogueact2040	5132.85	5136.95	A	PhD	s^e	+1	1	that if {disfmarker} it 'd be an interesting experiment just to see , you know , if you did get all of those right .

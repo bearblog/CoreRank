@@ -1,0 +1,9 @@
+The work carried out on the recogniser-to-parser interface and the generator module will complete the translation of the current system into english.
+From there on , the system can be extended for the tourist domain and include a richer representation of the user intentions.
+The current experiments involving subjects asking for tourist information through a computer call system are expected to provide relevant linguistic data.
+This extension will require an enhancement of the current design.
+The dialogue , knowledge modeler and action planner modules need to interact and update each other's state.
+On the other hand , they have to be separate , since the dialogue manager is seen as part of a set of kernel modules to which different function modules can attach.
+The inputs to the action planner are , actually , the output decisions of a belief-net , which will combine information derived from the user and situation models , the ontology and the parser.
+The new release of the latter will include syntactic and morphological information , and utterance segmentation.
+Also deduced from the parse and fed into the belief-net will be semantic constructions , such as the Source-Path-Goal image schema.

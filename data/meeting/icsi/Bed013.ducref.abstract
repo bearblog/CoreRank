@@ -1,0 +1,10 @@
+An idea for future work was suggested during the visit of the german project manager: the possibility to use the same system for language generation.
+Having a system able to ask questions could contribute significantly to training the belief-net.
+Setting up certain inputs in the Bayes-net would imply certain intentions , which would trigger dialogues.
+There is potential to make a conference paper out of presenting the current work and the project aspirations within a parsing paradigm.
+The focus should be the Bayes-net , to which all other modules interface.
+Situation , User , Discourse and Ontology feed into the net to infer user intentions.
+Someone asking where the castle is after having asked about the admission fee , indicates that -given that the castle is open to tourists- they want to go there , as opposed to knowing its whereabouts.
+It was suggested that they start analysing what the Discourse and Ontology would give as inputs to the Bayes-net by working on simple utterances like "where is X?".
+With this addition , all input layers of the net would be functioning.
+Although this function would be limited , it would allow for the Bayes-net to be tested in its entirety and , henceforth , extended.

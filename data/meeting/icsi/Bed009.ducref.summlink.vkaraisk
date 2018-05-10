@@ -1,0 +1,50 @@
+well for one thing we 're also using this room to collect data .
+and just gonna say we have um again the recognizer to parser thing where we 're working on
+And they 're currently um Agreeing or {disfmarker} or in the process of agreeing on an X M L - ification of um something like a state - transition network of how dialogues would proceed .
+And then enrich or augment the M - three - L structures with what it thought what more it sort of got out of that utterance .
+And we also want to look closely on the linguistic information that
+Some extensions uh have to be made . For {disfmarker} for a English version
+Yeah I guess it 's similar .
+Yeah , uh the problem is th that it has to be very fast
+Yeah th the information is available .
+but there 's gonna be some kind of feedback and input from uh the action planner into all the analysis modules , telling them what to expect and what the current state of the discourse is .
+So , what we 're really trying to do is to map from the discourse to the conceptual semantics level .
+It oughta be called a {disfmarker} a dialogue manager .
+and um There one of our diligent workers has to sort of volunteer to look over Tilman 's shoulder while he is changing the grammars to English
+and some lines of code were already written today
+So there 's ac so there {disfmarker} th the word " action " , OK , is {disfmarker} is what 's ambiguous here .
+what one would like is for this uh , knowledge modeling module to add which of those it is and give it to the planner .
+And so th the coupling to the situation comes in this model from , at th at th at the belief - net , combining evidence from the dialogue with the ontology with the situation .
+in terms of You know , w if you 're doing this for English as well as German
+And um and by virtue of doing that then in this case Johno will have acquired the knowledge of how to extend it .
+so anyt we 'll find a time later in the week to uh get together and talk about {pause} your understanding of what SmartKom plans are .
+Would there be any chance of getting the terminology changed so that the dialogue planner was called a " dialogue planner " ?
+And {disfmarker} and the {disfmarker} the underlying idea of course is that there is something like kernel modules with kernel functionality that you can plug uh certain applications like tourist information or um the home scenario with uh controlling a VCR and so on .
+From Michael Strube , I 've heard very good stuff about the chunk parser that is done by FORWISS ,
+and it 's {disfmarker} it 's not really um been defined yet
+um it 's to {disfmarker} to integrate and syntactic analysis .
+the syntactic tree that is underneath in the syntactic structure
+and so it 's a {disfmarker} sort of a computer call system that gives you tourist information
+because the action planner should not be {disfmarker} or the dialogue manager in that case should not um w have to worry about whether it 's interfacing with um something that does route planning in this way or that way
+Information related to the user and information related to the situation .
+So if there is resistance against changing it , that 's just because " Oh , We don't want to change things . "
+which is the way we decided we were gonna go because A , it 's easier in the beginning
+And it may be that {disfmarker} that um we should early on make sure that they have the flexibility that we need .
+And they also have to be very robust . cuz of um speech recognition errors
+let 's say a simple parse from a s from an utterance won't really give us is what the person actually wants .
+and the things that influence them .
+So if {disfmarker} if this is additional information that could be merged in by them .
+So this a notion of a source , path , goal , trajector , possibly obstacles .
+They are thinning out and thickening out lattices
+There 's a first cut at a belief - net that {disfmarker} that doesn't {disfmarker} it {disfmarker} isn't fully uh instantiated ,
+and in particular some of the {disfmarker} the combination rules and ways of getting the {disfmarker} the conditional probabilities aren't there .
+and I 'm not sure if {disfmarker} if complex slots of that type are really um being taken into consideration .
+Who {disfmarker} How far is the uh the {disfmarker} the M - three - L specification for {disfmarker} for the la natural language input gone on the {disfmarker} the uh
+what we can get from the utterance .
+I haven't seen anything for the uh tourist path domain .
+So , um {disfmarker} So there was a chunk parser in Verbmobil , that was one of the uh branchers .
+and um add some more features like segmentation .
+And we are constructing {disfmarker} and then we 've identified more or less the extra - linguistic parameters that may f play a role .
+no syntactic analysis
+And then it would be available to action planning and {disfmarker} and others .
+So we talked about the fact that There 're going to be a certain number of decisions That you want the knowledge modeler to make , that will be then fed to the function module , that does uh , route planning .

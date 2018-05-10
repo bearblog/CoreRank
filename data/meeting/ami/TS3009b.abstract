@@ -1,0 +1,40 @@
+4	TS3009b.vkaraisk.s.1	There are some new requirements for the project: the device will have to be for TV only , they should ignore the teletext function , as it is dated , and , also , the remote should be recognisable as a Real Reaction product.
+TS3009b.A.dialog-act.s9553330.53	275.12	278.26	A	PM	off	+1	1	Um now the new project requirements , I'll just show them .
+TS3009b.A.dialog-act.s9553330.55	283.55	286.99	A	PM	inf	+1	1	Well , teletext goes out .
+TS3009b.A.dialog-act.s9553330.61	302.99	303.79	A	PM	inf	+1	1	and they don't want it ,
+TS3009b.A.dialog-act.s9553330.71	332.75	336.98	A	PM	inf	+1	1	Well and uh our corporate image should stay rec recognisable in our products .
+1	TS3009b.vkaraisk.s.2	The target group will be people below 30.
+TS3009b.A.dialog-act.s9553330.64	308.75	314.81	A	PM	inf	+1	1	because uh especially for the third requirement we want to reach people under the thirty years .
+4	TS3009b.vkaraisk.s.3	It transpires that customers are willing to pay more for fancier looking remotes , especially if they include LCD screens and speech recognition.
+TS3009b.D.dialog-act.s9553330.54	488.42	497.03	D	ME	inf	+1	1	They also say , that's about uh I thought it was fifty per cent , uh that more money will be spent on uh better looking controls .
+TS3009b.D.dialog-act.s9553330.96	730.66	738.34	D	ME	inf	+1	2	Um research shows that they like to have a little L_C_D_ screen on their on their uh zapping uh device .
+TS3009b.D.dialog-act.s9553330.109	783.55	786.84	D	ME	inf	+1	2	And uh another thing is uh speech uh recognition .
+TS3009b.D.dialog-act.s9553330.110	786.84	787.61	D	ME	inf	+1	1	They also like that ,
+3	TS3009b.vkaraisk.s.4	Functions like zapping are very prevalent , as well as complaints about remotes being difficult to learn and easy to lose.
+TS3009b.D.dialog-act.s9553330.59	535.35	540.68	D	ME	inf	+1	1	Furthermore , it's uh {vocalsound} seventy five per cent of the users uh zaps a lot .
+TS3009b.D.dialog-act.s9553330.64	554.96	561.66	D	ME	inf	+1	1	A lot of losers um users lose their controls in their {vocalsound} in their living room .
+TS3009b.D.dialog-act.s9553330.75	617.65	625.45	D	ME	inf	+1	1	Uh thirty four thirty four per cent um thinks it's it's too uh too difficult to learn .
+3	TS3009b.vkaraisk.s.5	The function of the remote is relatively simple: by pressing a button a current is passed to the chip , and defines what signal is to be sent to the receiver (the TV) via infrared.
+TS3009b.C.dialog-act.s9553330.85	934.97	941.69	C	ID	inf	+1	1	And the {vocalsound} the user interface sends uh the the different signals of the different buttons to the chip ,
+TS3009b.C.dialog-act.s9553330.96	973.43	979.82	C	ID	inf	+1	1	The chip uh produces Morse code , um a specific code to indicate that specific button that is pressed , of course .
+TS3009b.C.dialog-act.s9553330.98	990.45	997.5	C	ID	inf	+1	1	Now the LED produces an infrared beam and signals the , well it's uh very simple , and signals the uh signals to the sensor on the T_V_ set ,
+3	TS3009b.vkaraisk.s.6	The team agreed to follow a user-centred approach and simplify the design by somehow minimising the number of buttons.
+TS3009b.C.dialog-act.s9553330.118	1056.97	1060.69	C	ID	inf	+1	2	uh so that uh it becomes more user-friendly ,
+TS3009b.C.dialog-act.s9553330.117	1054.99	1056.97	C	ID	sug	+1	2	So we have to uh change a little bit uh to that ,
+TS3009b.B.dialog-act.s9553330.80	1300.49	1304.35	B	UI	ass	+1	2	I like user-centr centred uh {vocalsound} uh also the best .
+4	TS3009b.vkaraisk.s.7	They plan to include an LCD screen to display relevant information.
+TS3009b.A.dialog-act.s9553330.228	1560.52	1564.66	A	PM	inf	+1	2	And if if that's gives you a little bit of sta status information .
+TS3009b.D.dialog-act.s9553330.221	1605.1	1606.36	D	ME	ass	+1	2	No not clickable .
+TS3009b.A.dialog-act.s9553330.246	1646.66	1648.93	A	PM	ass	+1	2	Uh well I think so , yes . Um {disfmarker}
+TS3009b.D.dialog-act.s9553330.231	1644.71	1646.84	D	ME	el.ass	+1	2	Alright , we go with the L_C_D_ screen ?
+8	TS3009b.vkaraisk.s.8	Other functions are served by push buttons: OK , menu , screen sizing , AV , settings buttons , mute , digits 1-9 , power , volume control , channel up/down with the last three types being prominent on the device.
+TS3009b.C.dialog-act.s9553330.131	1171.9	1180.83	C	ID	sug	+1	1	and uh and that the less important uh buttons , like the the the different channels , uh the numbers one two three four five as well , should be uh yeah well not in reach ,
+TS3009b.A.dialog-act.s9553330.295	1886.69	1890.72	A	PM	inf	+1	2	{vocalsound} We have a power button , setting buttons , L_C_D_ window , the number buttons {disfmarker}
+TS3009b.C.dialog-act.s9553330.220	1891.47	1892.1	C	ID	ass	+1	2	Channel , yeah .
+TS3009b.C.dialog-act.s9553330.221	1894.99	1895.67	C	ID	ass	+1	2	Volume control .
+TS3009b.A.dialog-act.s9553330.298	1902.28	1905.22	A	PM	inf	+1	2	Uh the mute button .
+TS3009b.A.dialog-act.s9553330.406	2379.6	2383.46	A	PM	inf	+1	2	Oh you always have in the centre an Okay button , for your menu .
+TS3009b.A.dialog-act.s9553330.407	2383.46	2384.27	A	PM	inf	+1	2	Menu button .
+TS3009b.C.dialog-act.s9553330.291	2385.58	2387.44	C	ID	ass	+1	2	Yeah . I think that's important .
+1	TS3009b.vkaraisk.s.9	The exact design and placement of the components will be decided in the next meeting.
+TS3009b.A.dialog-act.s9553330.352	2121.35	2123.36	A	PM	sug	+1	1	and the design comes into the next round ?

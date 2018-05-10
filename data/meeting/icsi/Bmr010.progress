@@ -1,0 +1,37 @@
+7	Bmr010.s.13	Speaker mn014's efforts to detect speech/non-speech portions in the mixed signal ( using an HMM-based detector with Gaussian mixtures ) have produced pre-segmentations that facilitate the transcription effort.
+Bmr010.F.dialogueact34	57.342	62.932	F	Postdoc	s	+1	2	The {disfmarker} we have great {disfmarker} great , uh , p steps forward in terms of the nonspeech - speech pre - segmenting of the signal .
+Bmr010.F.dialogueact37	67.0	68.85	F	Postdoc	s^ba	+1	1	Well , it 's a {disfmarker} it 's a big improvement .
+Bmr010.C.dialogueact122	245.001	255.361	C	PhD	h|s^rt	+1	2	Um , so , uh , what we basically did so far was using the mixed file to {disfmarker} to detect s speech or nonspeech {pause} portions in that .
+Bmr010.C.dialogueact125	261.484	266.794	C	PhD	s^e^rt	+1	1	which is an HMM - ba based system with Gaussian mixtures for s speech and nonspeech .
+Bmr010.C.dialogueact136	295.417	298.457	C	PhD	s	+1	1	And I did some pre - segmentations for {disfmarker} for Jane .
+Bmr010.F.dialogueact140	305.335	307.315	F	Postdoc	s^na	+1	1	Uh , they {disfmarker} they think it 's a terrific improvement .
+Bmr010.F.dialogueact203	414.922	417.012	F	Postdoc	s^arp	+1	2	But {nonvocalsound} it {disfmarker} it saves so much time {disfmarker} the {disfmarker} the {nonvocalsound} transcribers
+1	Bmr010.s.14	Speaker mn014 also trained the system to identify speech from loud versus quiet speakers.
+Bmr010.C.dialogueact151	331.957	336.617	C	PhD	s	+1	1	And so I did two mixtures , one for the loud speakers and one for the quiet speakers .
+3	Bmr010.s.15	Such pre-segmentation modifications allow the experimenter to specify the minimum length of speech and silence portions desired , and also facilitate the identification of pauses and utterance boundaries.
+Bmr010.C.dialogueact179	379.243	385.361	C	PhD	s^na	+1	1	You can specify {vocalsound} the minimum length of speech or {disfmarker} and silence portions which you want .
+Bmr010.C.dialogueact181	388.741	394.68	C	PhD	s^e	+1	1	basically changing the minimum {disfmarker} minimum {pause} length for s for silence
+Bmr010.A.dialogueact187	404.059	409.726	A	Grad	fg|s^bu	+1	1	Right . So this would work well for , uh , pauses and utterance boundaries and things like that .
+4	Bmr010.s.16	The transcriber pool is making quick progress , and may be used in the future to perform other types of coding , e.g . a more detailed analysis of speaker overlap.
+Bmr010.F.dialogueact331	678.517	686.989	F	Postdoc	s^cs	+1	2	then {nonvocalsound} when they 're encoding the overlaps {nonvocalsound} it would be nice for them to be able to specify when {disfmarker} you know , the start points and end points of overlaps .
+Bmr010.F.dialogueact333	687.369	689.239	F	Postdoc	s^ba	+1	1	uh Th - they 're {nonvocalsound} making really quick progress .
+Bmr010.G.dialogueact1044	1953.74	1962.37	G	Professor	s	+1	1	The other thing we could do , actually , uh , is , uh , use them for a more detailed analysis of the overlaps .
+Bmr010.F.dialogueact1133	2113.03	2117.04	F	Postdoc	s	+1	1	These people would be {nonvocalsound} great choices for doing coding of that type if we wanted ,
+4	Bmr010.s.17	Transcribers are coding non-speech gestures , such as audible breaths and laughter , both of which are useful for improving recognition results.
+Bmr010.F.dialogueact816	1533.21	1536.81	F	Postdoc	s	+1	1	They 're putting {disfmarker} Eh , so in curly brackets they put " inhale " or " breath " .
+Bmr010.B.dialogueact805	1515.81	1520.94	B	PhD	s	+1	1	It is useful to transcribe and then ultimately train models for things like breath ,
+Bmr010.B.dialogueact806	1520.94	1525.11	B	PhD	s	+1	1	and also laughter is very , very frequent and important to {disfmarker} {vocalsound} to model .
+Bmr010.F.dialogueact820	1537.28	1539.8	F	Postdoc	s^e	+1	1	It {disfmarker} they {disfmarker} and then in curly brackets they say " laughter " .
+5	Bmr010.s.18	Recent modifications to the Transcriber tool allow transcribers to listen to speech from different channels , as well as helping to preserve portions of overlapping speech , and enabling the creation of different output files for each channel for a cleaner and more segmentable transcript.
+Bmr010.F.dialogueact397	786.28	793.255	F	Postdoc	s	+1	1	And {disfmarker} and , um , Dan Ellis 's hack already allows them to be {nonvocalsound} able to display {vocalsound} different {nonvocalsound} waveforms to clarify overlaps and things ,
+Bmr010.F.dialogueact403	803.256	810.961	F	Postdoc	s	+1	1	And Dan Ellis 's hack handles the , {vocalsound} um , choice {nonvocalsound} {disfmarker} the ability to choose different waveforms {vocalsound} from moment to moment .
+Bmr010.F.dialogueact419	821.845	827.61	F	Postdoc	s	+1	1	the hack to {vocalsound} preserve the overlaps {nonvocalsound} better would be one which creates different output files for each channel ,
+Bmr010.F.dialogueact423	832.451	835.54	F	Postdoc	s	+1	1	separable , uh , cleanly , easily separable ,
+Bmr010.F.dialogueact425	835.92	838.94	F	Postdoc	s	+1	1	uh , transcript tied to a single channel , uh , audio .
+3	Bmr010.s.19	The Praat software package was discussed as an alternative transcription tool capable of representing multiple channels of speech.
+Bmr010.C.dialogueact268	579.285	584.015	C	PhD	s	+1	1	which she uses to do eight channels , uh , trans transliterations ,
+Bmr010.F.dialogueact286	606.33	610.64	F	Postdoc	s	+1	1	this {disfmarker} this is called Praat , PRAAT , {nonvocalsound} which I guess means spee speech in Dutch or something .
+Bmr010.A.dialogueact279	596.965	597.945	A	Grad	s^cs	+1	1	Well , maybe we should get it
+2	Bmr010.s.20	Cross-correlation was discussed as a means of enabling speaker identification , and may be integrated into future work.
+Bmr010.A.dialogueact476	932.966	933.696	A	Grad	s	+1	1	Cross - correlation .
+Bmr010.G.dialogueact488	951.278	958.418	G	Professor	s	+1	1	by doing that , you know , rather than setting any , uh , absolute threshold , you actually can do pretty good , uh , selection of who {disfmarker} who 's talking .

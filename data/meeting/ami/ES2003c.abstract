@@ -1,0 +1,150 @@
+4	ES2003c.rdhillon.s.1	The project manager recapped the decisions made in the previous meeting.
+ES2003c.B.dialog-act.vkaraisk.5	19.96	27.18	B	PM	off	+1	1	I think to sum up the last meeting , would be to say um the requirements that we've um set out .
+ES2003c.B.dialog-act.vkaraisk.6	27.18	48.01	B	PM	inf	+1	1	Those are we were going to go for what seemed to be a fairly minimal design based on uh a small joystick , {vocalsound} L_C_D_ and a couple of other buttons for navigation um with power being I suppose one of the main single purpose buttons .
+ES2003c.B.dialog-act.vkaraisk.7	48.01	55.75	B	PM	inf	+1	1	Um we were also going to use {gap} novelty of being able to locate the remote control again via a small transmitter with any luck ,
+ES2003c.B.dialog-act.vkaraisk.9	57.21	68.33	B	PM	inf	+1	1	and also because of the minimal design um looks like we'll be able to be fairly adventurous in the actual physical shape of our remote control with any luck .
+41	ES2003c.rdhillon.s.2	The industrial designer presented options for batteries , materials and shapes to use for the case , buttons , and chips.
+ES2003c.B.dialog-act.vkaraisk.15	84.2	87.78	B	PM	inf	+1	1	This uh meeting is the conceptual design phase
+ES2003c.B.dialog-act.vkaraisk.18	95.87	102.02	B	PM	el.sug	+1	1	And is to cover things like um what the parts might be made of , um ,
+ES2003c.D.dialog-act.vkaraisk.11	146.31	151.66	D	ID	inf	+1	1	The case uh le that's what I wrote first of all , could be plastic our plastic .
+ES2003c.D.dialog-act.vkaraisk.12	151.66	159.26	D	ID	inf	+1	1	Uh but later on {gap} we found out that um it can be rubber as well , or titanium or even wood .
+ES2003c.D.dialog-act.vkaraisk.14	160.32	161.78	D	ID	sug	+1	1	we decide what it's gonna be .
+ES2003c.D.dialog-act.vkaraisk.15	161.78	163.63	D	ID	sug	+1	1	Probably plastic . Uh
+ES2003c.D.dialog-act.vkaraisk.16	165.16	167.63	D	ID	inf	+1	1	we need the infra-red transmitter .
+ES2003c.D.dialog-act.vkaraisk.18	168.75	178.42	D	ID	inf	+1	1	Uh joystick we'll probably if we're gonna use it , um could be plastic w or rubber even as well . Um
+ES2003c.D.dialog-act.vkaraisk.24	194.82	211.01	D	ID	inf	+1	1	three different types of batteries . Um can either use a hand dynamo , or the kinetic type ones , you know that they use in watches , or else uh a solar powered one .
+ES2003c.B.dialog-act.vkaraisk.36	219.48	227.36	B	PM	inf	+1	1	Um the bat uh the battery for a a watch wouldn't require a lot of power , would be my one query .
+ES2003c.B.dialog-act.vkaraisk.37	227.36	231.53	B	PM	el.inf	+1	1	Is a kinetic one going to be able to supply enough power ?
+ES2003c.D.dialog-act.vkaraisk.30	241.56	243.9	D	ID	ass	+1	1	And solar cells , I dunno about that .
+ES2003c.D.dialog-act.vkaraisk.31	245.79	255.36	D	ID	sug	+1	1	Uh . We should probably just use conventional batteries . Um , just like in usual remote controls .
+ES2003c.D.dialog-act.vkaraisk.33	261.2	268.25	D	ID	inf	+1	1	Um . {vocalsound} And these are three different types of {disfmarker} or two different types {disfmarker} three different types of shapes you can have .
+ES2003c.D.dialog-act.vkaraisk.34	268.25	269.87	D	ID	inf	+1	1	Uh one is a flat one ,
+ES2003c.D.dialog-act.vkaraisk.35	269.87	275.1	D	ID	inf	+1	1	and then more original ones are single curved one or one with a double curved .
+ES2003c.D.dialog-act.vkaraisk.37	278.38	282.36	D	ID	inf	+1	1	but uh you can't have a titanium one for a double curved ,
+ES2003c.B.dialog-act.vkaraisk.45	298.03	302.95	B	PM	el.inf	+1	1	the single curved and double curved , would you be able to give an example ?
+ES2003c.D.dialog-act.vkaraisk.51	341.28	345.9	D	ID	inf	+1	1	Double curved . It probably means {disfmarker} this is probably double curved .
+ES2003c.D.dialog-act.vkaraisk.52	345.9	351.63	D	ID	inf	+1	1	Uh whereas a single curved would be like that .
+ES2003c.D.dialog-act.vkaraisk.59	371.55	373.0	D	ID	ass	+1	1	it looks better than the single curve ,
+ES2003c.D.dialog-act.vkaraisk.60	373.0	376.13	D	ID	inf	+1	1	but uh you can't have it in titanium ,
+ES2003c.D.dialog-act.vkaraisk.63	384.82	389.32	D	ID	inf	+1	1	and for the buttons , um it can have the scroll wheel
+ES2003c.D.dialog-act.vkaraisk.65	392.79	401.68	D	ID	inf	+1	1	Uh but um it requires a more expensive chip to use ,
+ES2003c.D.dialog-act.vkaraisk.66	401.68	404.53	D	ID	inf	+1	1	and if you wanna use L_C_D_ it's even more expensive .
+ES2003c.D.dialog-act.vkaraisk.69	406.17	408.29	D	ID	inf	+1	1	there's trade-offs there . Um
+ES2003c.D.dialog-act.vkaraisk.68	405.39	406.17	D	ID	sug	+1	1	you have to decide ,
+ES2003c.D.dialog-act.vkaraisk.72	411.1	417.88	D	ID	inf	+1	1	if you have a double curve uh control and it's rubber , then you have these rubber buttons as well .
+ES2003c.D.dialog-act.vkaraisk.74	420.79	426.92	D	ID	sug	+1	1	I reckon you're gonna have to have uh key a number keypad anyway for the amount of channels these days .
+ES2003c.B.dialog-act.vkaraisk.59	471.65	475.48	B	PM	inf	+1	1	like when we're saying that we'd need an advanced chip for an L_C_D_ ,
+ES2003c.B.dialog-act.vkaraisk.60	475.48	479.02	B	PM	el.inf	+1	1	does that in shoot the cost up by a drastic amount ? Or ?
+ES2003c.B.dialog-act.vkaraisk.73	529.27	531.48	B	PM	sug	+1	1	We have to look into the costs of those .
+ES2003c.D.dialog-act.vkaraisk.88	532.47	539.64	D	ID	inf	+1	1	Uh the previous slides just explain what's in the internal components of the uh remote control .
+ES2003c.D.dialog-act.vkaraisk.96	558.87	572.98	D	ID	inf	+1	1	And uh then the next slide just shows how the uh copper wires uh interact with the buttons , the rubber buttons , uh to uh get sent to the chip .
+ES2003c.D.dialog-act.vkaraisk.92	543.79	545.94	D	ID	inf	+1	1	translate the key press into an infra-red signal
+ES2003c.D.dialog-act.vkaraisk.93	545.94	548.6	D	ID	inf	+1	1	and this is received by the T_V_ .
+ES2003c.B.dialog-act.vkaraisk.81	595.55	604.59	B	PM	el.inf	+1	1	in the information that you've been supplied , how feasible would you say that the idea of using an L_C_D_ looks ?
+ES2003c.D.dialog-act.vkaraisk.101	605.32	614.97	D	ID	inf	+1	1	Um {disfmarker} I think we can do it if {vocalsound} uh we use conventional batteries and not have solar cells or kinetic .
+ES2003c.D.dialog-act.vkaraisk.102	614.97	622.88	D	ID	sug	+1	1	Um and then maybe use single curved uh case .
+ES2003c.A.dialog-act.vkaraisk.7	658.21	667.86	A	UI	ass	+1	1	Um I'm actually gonna be bold and go oo go straight for rubber um for reasons I'll go into uh in more detail .
+ES2003c.C.dialog-act.vkaraisk.18	666.85	669.03	C	ME	ass	+1	1	I also have a preference for rubber .
+28	ES2003c.rdhillon.s.3	The user interface designer discussed how to create an interface for an ergonomic remote which conforms to the shape and movements of the human hand , as well as an option in which users could connect their remotes to computers in order to download program settings.
+ES2003c.A.dialog-act.vkaraisk.14	703.19	712.15	A	UI	inf	+1	1	Uh um I was given a an H_T_M_L_ file giving um various ideas from uh from other previous remote control designs ,
+ES2003c.A.dialog-act.vkaraisk.15	712.15	715.14	A	UI	ass	+1	1	and pretty much decided to just dump them all .
+ES2003c.A.dialog-act.vkaraisk.16	715.14	716.73	A	UI	ass	+1	1	I wasn't very impressed by them
+ES2003c.A.dialog-act.vkaraisk.18	717.82	723.34	A	UI	inf	+1	1	uh nothing I saw seemed to meet the sorts of design specifications that we're going for today .
+ES2003c.A.dialog-act.vkaraisk.21	725.15	730.23	A	UI	sug	+1	1	rather than looking at other remotes , uh ra oomp be better to simply look at the human hand .
+ES2003c.A.dialog-act.vkaraisk.23	736.92	744.79	A	UI	inf	+1	1	um so that if r a if {vocalsound} so that the finger is e each finger or thumb is wherever it needs to be already .
+ES2003c.A.dialog-act.vkaraisk.26	749.84	758.81	A	UI	inf	+1	1	Um and what we've basically decided on was the the um the joy uh the joystick , two function buttons and the L_C_D_ ,
+ES2003c.A.dialog-act.vkaraisk.28	761.18	766.78	A	UI	sug	+1	1	I don't actually think we need the um the numeric keypad
+ES2003c.A.dialog-act.vkaraisk.30	767.9	777.21	A	UI	sug	+1	1	because one of the menus that we could have available um {vocalsound} v via via the L_C_D_ is one where you scroll through channels ,
+ES2003c.A.dialog-act.vkaraisk.37	809.42	810.96	A	UI	sug	+1	1	You must have two two modes ,
+ES2003c.A.dialog-act.vkaraisk.38	810.96	817.74	A	UI	sug	+1	1	basic mode , where um the joystick's uh left right {vocalsound} left right for channels , up down for volume ,
+ES2003c.A.dialog-act.vkaraisk.39	817.74	824.28	A	UI	sug	+1	1	um and the uh uh and the menu mode for uh further functions .
+ES2003c.A.dialog-act.vkaraisk.40	824.28	835.7	A	UI	sug	+1	1	Um now the reason I was particularly interested in using rubber for this is that if we're going to have a highly ergonomic design , um it needs to be ergonomic for left or right handed people .
+ES2003c.B.dialog-act.vkaraisk.101	838.75	842.45	B	PM	el.ass	+1	1	That would suggest the double curved design's probably going to be most appropriate , then .
+ES2003c.A.dialog-act.vkaraisk.48	872.25	881.97	A	UI	sug	+1	1	And {vocalsound} also this is {gap} a rather nicer de uh design gimmick that the {vocalsound} the um you know the whole thing you know {vocalsound} it should have sort of organic feel to it
+ES2003c.A.dialog-act.vkaraisk.49	881.97	885.31	A	UI	sug	+1	1	that it should be , you know , soft to touch
+ES2003c.A.dialog-act.vkaraisk.62	922.66	929.95	A	UI	sug	+1	1	the um the joystick unit should rest over the uh the joint of the f of the uh four finger
+ES2003c.A.dialog-act.vkaraisk.64	933.44	937.9	A	UI	sug	+1	1	Um and it would need t there would need to be a {disfmarker} it would need to be articulated just below that
+ES2003c.A.dialog-act.vkaraisk.65	937.9	942.92	A	UI	inf	+1	1	so that it could be switched around for uh left or right handed users .
+ES2003c.A.dialog-act.vkaraisk.76	982.31	987.49	A	UI	sug	+1	1	And you then have , at the uh at the bottom , the L_C_D_ ,
+ES2003c.A.dialog-act.vkaraisk.77	987.49	989.7	A	UI	sug	+1	1	and this would need to be articulated as well .
+ES2003c.A.dialog-act.vkaraisk.84	1017.22	1022.23	A	UI	sug	+1	1	the t uh the top function button in basic mode would be the on off switch
+ES2003c.A.dialog-act.vkaraisk.85	1022.23	1024.81	A	UI	sug	+1	1	and menu mode would be the enter button .
+ES2003c.A.dialog-act.vkaraisk.86	1024.81	1028.52	A	UI	sug	+1	1	And then the bottom function buttons switches between between modes .
+ES2003c.A.dialog-act.vkaraisk.90	1035.66	1038.33	A	UI	ass	+1	2	Programming them can be a right pain .
+ES2003c.A.dialog-act.vkaraisk.91	1038.33	1043.86	A	UI	sug	+1	2	So I thought th the simplest way around that would be to have um a cable to connect it to the computer
+ES2003c.A.dialog-act.vkaraisk.92	1043.86	1050.29	A	UI	sug	+1	2	some {vocalsound} some fair iv {gap} fairly fairly simple software on the computer just so that you {disfmarker} on your {gap} computer
+ES2003c.A.dialog-act.vkaraisk.94	1057.41	1065.52	A	UI	sug	+1	2	And you could download programs for it from uh for uh T_V_s from all sort of main manufacturers .
+31	ES2003c.rdhillon.s.4	The marketing expert discussed findings from trendwatching reports , which indicated a need for products which look fancy , are technologically innovative , are easy to use , have a fruit and vegetable theme , and are spongy.
+ES2003c.C.dialog-act.vkaraisk.29	1113.88	1120.55	C	ME	inf	+1	1	We compared uh whether people want the remote control to do a lot of stuff or they want it to look cool .
+ES2003c.C.dialog-act.vkaraisk.30	1120.55	1123.48	C	ME	inf	+1	1	And then we we research uh fashion trends in Europe ,
+ES2003c.C.dialog-act.vkaraisk.35	1130.02	1137.52	C	ME	inf	+1	1	Uh we found , in order of importance , people want the remote control to look cool more than they want it to to be cool .
+ES2003c.C.dialog-act.vkaraisk.36	1137.52	1139.47	C	ME	fra	+1	1	As in they want it to do a lot of good s
+ES2003c.C.dialog-act.vkaraisk.38	1141.66	1143.27	C	ME	inf	+1	1	and if it does do a lot that's a bonus ,
+ES2003c.C.dialog-act.vkaraisk.39	1143.27	1144.59	C	ME	inf	+1	1	but they don't care so much ,
+ES2003c.C.dialog-act.vkaraisk.43	1150.1	1156.0	C	ME	inf	+1	1	Technology technical {disfmarker} technologically innovative . People want it to be that ,
+ES2003c.C.dialog-act.vkaraisk.44	1156.0	1160.43	C	ME	inf	+1	1	but s still they care more about the way it looks than what it does .
+ES2003c.C.dialog-act.vkaraisk.46	1160.64	1163.72	C	ME	inf	+1	1	like the interface is really important .
+ES2003c.C.dialog-act.vkaraisk.47	1163.72	1164.96	C	ME	inf	+1	1	{vocalsound} And easy to use ,
+ES2003c.C.dialog-act.vkaraisk.48	1164.96	1174.69	C	ME	inf	+1	1	it it just so happens that uh from the second point to the third point is twice as important {disfmarker} I mean the second point is twice as important as the third point .
+ES2003c.C.dialog-act.vkaraisk.54	1189.42	1192.2	C	ME	ass	+1	1	{vocalsound} The fashion , now this is seems a bit odd to me ,
+ES2003c.C.dialog-act.vkaraisk.55	1192.2	1197.69	C	ME	inf	+1	1	but fruit and veg is the new is the new black for furniture , for clothes , for shoes .
+ES2003c.C.dialog-act.vkaraisk.56	1198.43	1201.02	C	ME	inf	+1	1	How that relates to a remote control I don't know .
+ES2003c.C.dialog-act.vkaraisk.59	1205.1	1205.97	C	ME	inf	+1	1	Spongy .
+ES2003c.C.dialog-act.vkaraisk.65	1212.32	1218.11	C	ME	el.ass	+1	1	If it's the type of rubber that you can squeeze , you know , it's spongy , then {disfmarker} can I skip the rest ?
+ES2003c.D.dialog-act.vkaraisk.109	1218.52	1225.59	D	ID	inf	+1	1	The uh rubber material is the type of stress ball material , not just normal rubber .
+ES2003c.C.dialog-act.vkaraisk.68	1226.34	1229.02	C	ME	inf	+1	1	kinda spongy material .
+ES2003c.C.dialog-act.vkaraisk.71	1234.688	1240.92	C	ME	sug	+1	1	{vocalsound} Um we want something fancy and techni technologically innovative , obviously .
+ES2003c.C.dialog-act.vkaraisk.72	1240.92	1244.5	C	ME	sug	+1	1	But what we what we need is something that looks like it's from the future
+ES2003c.C.dialog-act.vkaraisk.82	1258.59	1263.38	C	ME	sug	+1	1	Um now the fruit and veg options , either we we go in that direction
+ES2003c.C.dialog-act.vkaraisk.83	1263.38	1265.16	C	ME	sug	+1	1	or we stay totally away from it .
+ES2003c.C.dialog-act.vkaraisk.90	1274.96	1282.84	C	ME	sug	+1	1	but if we're gonna go along with it then it doesn't necessarily have to be like an apple or something like that , or a kiwi fruit .
+ES2003c.C.dialog-act.vkaraisk.95	1292.77	1296.17	C	ME	ass	+1	1	{vocalsound} Few questions about a spongy remote control .
+ES2003c.C.dialog-act.vkaraisk.96	1296.17	1297.2	C	ME	inf	+1	1	I've never seen one before .
+ES2003c.C.dialog-act.vkaraisk.103	1313.24	1317.22	C	ME	sug	+1	1	if we want something strong and sturdy , I say stay with plastic or titanium ,
+ES2003c.C.dialog-act.vkaraisk.104	1317.22	1322.34	C	ME	inf	+1	1	but if we go with spongy , we can stress that you can drop this as many times as you want ,
+ES2003c.C.dialog-act.vkaraisk.109	1325.48	1330.24	C	ME	inf	+1	1	I just don't know how the L_E_D_ and the lights are gonna fit into a spongy material
+ES2003c.C.dialog-act.vkaraisk.126	1361.15	1364.39	C	ME	sug	+1	1	If we're gonna use spongy material we have to think of how practical it is ,
+ES2003c.C.dialog-act.vkaraisk.128	1367.07	1368.8	C	ME	inf	+1	1	And also , this was this year .
+ES2003c.C.dialog-act.vkaraisk.130	1369.86	1372.09	C	ME	inf	+1	1	things change all the time , every year
+41	ES2003c.rdhillon.s.5	The team then discussed what materials and components to use , the color of the remote , and programming options for the remote.
+ES2003c.B.dialog-act.vkaraisk.124	1408.39	1411.11	B	PM	sug	+1	1	Seems like a a lot of the components could be off the shelf ,
+ES2003c.B.dialog-act.vkaraisk.131	1434.97	1439.28	B	PM	inf	+1	1	um having the use of the L_C_D_ and the joystick would probably allow you to manipulate enough channel numbers
+ES2003c.A.dialog-act.vkaraisk.102	1441.69	1446.07	A	UI	ass	+1	1	{gap} if you've got a lot of channels , the number keypad can be quite annoying as well ,
+ES2003c.B.dialog-act.vkaraisk.136	1465.68	1471.12	B	PM	inf	+1	1	what it looks like to me is we'll use a large number of standard components , um ,
+ES2003c.B.dialog-act.vkaraisk.137	1472.46	1475.01	B	PM	sug	+1	2	say something like um lithium ion battery ,
+ES2003c.B.dialog-act.vkaraisk.139	1482.78	1485.53	B	PM	inf	+1	2	Looks like we {gap} going for a double curved design .
+ES2003c.B.dialog-act.vkaraisk.140	1485.53	1488.84	B	PM	inf	+1	1	Um I don't know what cost implications there are in that .
+ES2003c.B.dialog-act.vkaraisk.141	1488.84	1494.43	B	PM	inf	+1	2	Um , looks like we're pretty much decided on some kind of flexible rubber .
+ES2003c.B.dialog-act.vkaraisk.142	1494.43	1500.36	B	PM	sug	+1	1	Though I'd have to say {vocalsound} depending on how flexible it is , we might need to have some kind of inner frame .
+ES2003c.A.dialog-act.vkaraisk.113	1508.99	1518.49	A	UI	sug	+1	1	there would be basically two points of articulation . W um one below and one above the m the uh the main sort of grip .
+ES2003c.B.dialog-act.vkaraisk.143	1519.28	1523.02	B	PM	ass	+1	1	Do you think there's any way we could maybe remove the articulation ?
+ES2003c.B.dialog-act.vkaraisk.145	1525.21	1529.66	B	PM	el.ass	+1	1	but it could be a weak point in um the structure , do you think ?
+ES2003c.A.dialog-act.vkaraisk.118	1546.77	1556.17	A	UI	sug	+1	1	If you then have a sort of outer skin of mm flexible , spongy rubber then you have something that is you know very much you know
+ES2003c.A.dialog-act.vkaraisk.119	1557.03	1557.97	A	UI	sug	+1	1	organic ,
+ES2003c.B.dialog-act.vkaraisk.154	1579.2	1586.82	B	PM	sug	+1	2	if we take some of the ideas {gap} why don't we make the damn thing yellow to incorporate the des the colour of the logo ?
+ES2003c.C.dialog-act.vkaraisk.146	1587.02	1588.02	C	ME	ass	+1	2	Sure , yeah .
+ES2003c.A.dialog-act.vkaraisk.126	1593.52	1595.14	A	UI	inf	+1	1	Make it harder to lose , as well .
+ES2003c.C.dialog-act.vkaraisk.148	1598.812	1611.93	C	ME	sug	+1	1	{vocalsound} The noise for when you lose the banana , um f yeah , for when you lose the remote control , {vocalsound} it could be like a a monkey noise or something like that , rather than a standard beep beep .
+ES2003c.C.dialog-act.vkaraisk.151	1614.72	1616.95	C	ME	inf	+1	1	y {vocalsound} you lose the banana ,
+ES2003c.C.dialog-act.vkaraisk.152	1616.95	1617.93	C	ME	sug	+1	1	you press a button ,
+ES2003c.C.dialog-act.vkaraisk.153	1617.93	1622.08	C	ME	sug	+1	1	and you hear like monkey screams or something like that to direct you towards the banana .
+ES2003c.C.dialog-act.vkaraisk.156	1630.22	1633.48	C	ME	inf	+1	2	I was gonna talk about the programmable remote control .
+ES2003c.C.dialog-act.vkaraisk.157	1633.48	1636.99	C	ME	ass	+1	2	Now I think it'd be cool if you had one remote control that could work with all T_V_s ,
+ES2003c.C.dialog-act.vkaraisk.159	1637.29	1638.61	C	ME	inf	+1	2	you s you click a button
+ES2003c.C.dialog-act.vkaraisk.160	1638.61	1639.71	C	ME	inf	+1	2	and it finds the frequency
+ES2003c.C.dialog-act.vkaraisk.161	1639.71	1643.34	C	ME	inf	+1	2	that works with your particular television .
+ES2003c.A.dialog-act.vkaraisk.134	1653.49	1659.91	A	UI	inf	+1	2	e each manufacturer will have a partic {vocalsound} will have a particular command set that uh the T_V_ responds to .
+ES2003c.A.dialog-act.vkaraisk.149	1700.51	1711.59	A	UI	sug	+1	2	But if we had um some sort of hook-up to your computer as an option , then if you've got a computer you can avoid that rather irritating thing .
+ES2003c.B.dialog-act.vkaraisk.164	1711.57	1718.29	B	PM	ass	+1	2	An interesting point is that if the person doesn't have the computer , we can still make the process easier
+ES2003c.B.dialog-act.vkaraisk.162	1718.29	1725.96	B	PM	sug	+1	2	because instead of having to look up codes , maybe we can have it that one of the options they have is that they look up the name of the company on the L_C_D_
+ES2003c.A.dialog-act.vkaraisk.163	1879.49	1887.6	A	UI	inf	+1	1	um mo most of the sort of layout design decisions are {vocalsound} are made , I would say .
+ES2003c.A.dialog-act.vkaraisk.164	1887.6	1903.17	A	UI	sug	+1	1	Um but then again , the um the menu structure to to a considerable extent that's gonna vary according to the model of television , and also any customisations that the user might wish to incorporate .
+ES2003c.B.dialog-act.vkaraisk.218	2063.94	2068.26	B	PM	inf	+1	2	programming it to use your T_V_ , you might hook it up to the P_C_ .
+ES2003c.B.dialog-act.vkaraisk.214	2041.83	2050.0	B	PM	inf	+1	2	The the idea was that maybe it could connect up for um allowing a software interface on the P_C_ for a larger programming
+ES2003c.B.dialog-act.vkaraisk.220	2069.22	2074.34	B	PM	ass	+1	2	I'm not sure , but I'm thinking maybe that the additional cost of the U_S_B_ might be prohibitive .
+ES2003c.B.dialog-act.vkaraisk.237	2171.66	2174.5	B	PM	inf	+1	1	I think we've got an idea of where we need to go for the next meeting ,
+ES2003c.D.dialog-act.vkaraisk.126	2175.76	2182.24	D	ID	el.ass	+1	1	{gap} they're going with the fashion thing , like the design , spongy rubber .
+ES2003c.A.dialog-act.vkaraisk.189	2210.44	2213.328	A	UI	sug	+1	1	though maybe we could have options for colours as well . {vocalsound}
+ES2003c.A.dialog-act.vkaraisk.195	2238.59	2243.92	A	UI	sug	+1	2	like I said before I I think we should have the R_R_ on the uh on the top function button .
+ES2003c.B.dialog-act.vkaraisk.243	2225.32	2228.36	B	PM	el.sug	+1	2	So we always need to remember that somewhere we're meant to be getting the slogan on .
+ES2003c.B.dialog-act.vkaraisk.244	2230.23	2237.47	B	PM	sug	+1	2	Possibly I'm think I'm not sure but I'm seeing a little bit of space around maybe the joystick area which could be used . Um .

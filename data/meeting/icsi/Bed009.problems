@@ -1,0 +1,20 @@
+3	Bed009.s.10	As a functional module , the action planner is too restrictive for the tourist domain and requires complex slots from the dialogue manager.
+Bed009.F.dialogueact436	1397.56	1405.69	F	Professor	s	+1	1	you know th the functional module that {disfmarker} that interacts with {disfmarker} with where the tourism g stuff is going {comment} probably is too restrictive .
+Bed009.A.dialogueact443	1424.09	1427.13	A	PhD	h|s	+1	1	um is based on slots that have to be filled
+Bed009.A.dialogueact451	1441.26	1447.54	A	PhD	s^no	+1	1	and I 'm not sure if {disfmarker} if complex slots of that type are really um being taken into consideration .
+2	Bed009.s.11	What form will the language input have , and what will the action planner do with it?
+Bed009.B.dialogueact486	1525.51	1532.11	B	Grad	qo	+1	1	I think the {disfmarker} the true key issues is how does the whatever comes out of the language input pipeline look like
+Bed009.B.dialogueact487	1532.11	1534.85	B	Grad	qo	+1	1	and then what the action planner does with it {disfmarker}
+1	Bed009.s.12	Links must be in place between the input end , action planner , parser , and language feedback components for communicating the current state of plan.
+Bed009.F.dialogueact547	1687.11	1694.31	F	Professor	s	+1	2	We talked about this several times that {disfmarker} that {disfmarker} the {disfmarker} the input end is gonna need a fair amount of feedback from the planning end .
+3	Bed009.s.13	Interactions in a deep map system between the spatial planner and the route planner are too convoluted.
+Bed009.B.dialogueact597	1834.9	1838.06	B	Grad	fg|s	+1	1	Yeah I think just the {disfmarker} the spatial planner and the route planner
+Bed009.B.dialogueact600	1842.43	1845.77	B	Grad	fh|s	+1	1	so {disfmarker} a printout of the communication between those two fills up
+Bed009.B.dialogueact601	1846.16	1847.16	B	Grad	s^no	+1	1	I don't know how many pages
+4	Bed009.s.14	SmartKom requires a fast and robust parser that includes language-specific extensions.
+Bed009.D.dialogueact760	2279.33	2282.81	D	Grad	s^bk|s	+1	1	Yeah , uh the problem is th that it has to be very fast
+Bed009.D.dialogueact769	2300.5	2306.11	D	Grad	s	+1	1	And they also have to be very robust . cuz of um speech recognition errors
+Bed009.F.dialogueact835	2444.87	2454.32	F	Professor	s^arp	+1	2	But {disfmarker} But uh given th the constraints , that you want it to be small and fast and so forth , my guess is you 're probably into some kind of chunk parsing .
+Bed009.D.dialogueact967	2721.35	2725.46	D	Grad	s	+1	1	Some extensions uh have to be made . For {disfmarker} for a English version
+1	Bed009.s.15	Which form of semantic construction grammar should be used , and how would such information be derived from the parsed input?
+Bed009.F.dialogueact1020	2871.67	2880.9	F	Professor	qo	+1	1	But the other half of the problem is How would you get that kind of information from the parsed input ?

@@ -1,0 +1,212 @@
+9	ES2014c.JacquelinePalmer.s.1	The Project Manager reviewed the minutes from the last meeting.
+ES2014c.A.dialog-act.s9553330.5	129.18	135.78	A	PM	inf	+1	1	Right well um from the last meeting {vocalsound} I was trying to send you the minutes ,
+ES2014c.A.dialog-act.s9553330.6	135.78	137.91	A	PM	inf	+1	1	but uh it didn't work out too well ,
+ES2014c.A.dialog-act.s9553330.7	137.91	155.62	A	PM	off	+1	1	so maybe in sort of um quick summary of the last uh meeting , I can quickly give you what we what we had .
+ES2014c.A.dialog-act.s9553330.10	168.17	178.58	A	PM	inf	+1	1	Right so we had the fact that we're gonna have the the logo uh the company logo in its uh colour scheme incorporated onto the the device the remote device .
+ES2014c.A.dialog-act.s9553330.11	178.58	190.66	A	PM	inf	+1	1	We had uh made our decisions about uh made our decisions about uh the device itself ,
+ES2014c.A.dialog-act.s9553330.12	190.66	196.27	A	PM	inf	+1	1	that it was gonna be simple to make it uh enable us to complete the project in time .
+ES2014c.A.dialog-act.s9553330.13	196.27	199.46	A	PM	inf	+1	1	We're gonna have uh effectively two pages ,
+ES2014c.A.dialog-act.s9553330.14	199.46	204.7	A	PM	inf	+1	1	a front page which had the uh features that the uh the customers most wanted ,
+ES2014c.A.dialog-act.s9553330.15	204.7	215.06	A	PM	inf	+1	1	and then the uh the backup features on the second page so that it could uh meet the technical requirements .
+33	ES2014c.JacquelinePalmer.s.2	The Industrial Designer discussed options for each of the internal components.
+ES2014c.B.dialog-act.s9553330.10	298.56	303.11	B	ID	fra	+1	1	For the components design , um next step is
+ES2014c.B.dialog-act.s9553330.11	303.11	306.77	B	ID	inf	+1	1	basically the the way the remote's gonna work is still the same idea as before .
+ES2014c.B.dialog-act.s9553330.12	306.77	311.81	B	ID	inf	+1	1	We still have the user interface which is all the buttons we're gonna incorporate .
+ES2014c.B.dialog-act.s9553330.13	311.81	314.22	B	ID	inf	+1	1	Then there is a chip
+ES2014c.B.dialog-act.s9553330.14	314.22	316.07	B	ID	inf	+1	1	and still the sender .
+ES2014c.B.dialog-act.s9553330.15	316.07	320.45	B	ID	inf	+1	1	So um yes {gap} including the power s supply as well .
+ES2014c.B.dialog-act.s9553330.17	325.1	330.07	B	ID	inf	+1	1	Uh first in the power supply , we have the option of just the standard battery ,
+ES2014c.B.dialog-act.s9553330.19	333.25	335.4	B	ID	inf	+1	1	There's a dynamo .
+ES2014c.B.dialog-act.s9553330.22	342.01	344.42	B	ID	inf	+1	1	There's a kinetic option ,
+ES2014c.B.dialog-act.s9553330.24	350.62	352.65	B	ID	inf	+1	1	which would mean the batteries wouldn't have to be replaced .
+ES2014c.B.dialog-act.s9553330.26	354.59	356.43	B	ID	inf	+1	1	but I think that was gonna cost a little more .
+ES2014c.B.dialog-act.s9553330.27	356.43	361.41	B	ID	inf	+1	1	And then there's solar cells . Um as a final option .
+ES2014c.B.dialog-act.s9553330.28	361.41	366.27	B	ID	inf	+1	1	For the buttons , we have um an integrated push button ,
+ES2014c.B.dialog-act.s9553330.33	380.88	383.24	B	ID	inf	+1	1	which I guess is just the same as the standard ones .
+ES2014c.B.dialog-act.s9553330.34	383.24	391.21	B	ID	inf	+1	1	This says it's uh similar to uh the button on the mouse for a normal {disfmarker} for like uh like modern computer .
+ES2014c.B.dialog-act.s9553330.35	391.21	398.34	B	ID	inf	+1	1	Um there's a scroll wheel which is {disfmarker} you know the new mouse has just got like the centre section which you can scroll up and down ,
+ES2014c.B.dialog-act.s9553330.38	402.64	407.49	B	ID	inf	+1	1	Um one issue for the buttons is , depending on which material we use ,
+ES2014c.B.dialog-act.s9553330.39	407.49	410.77	B	ID	inf	+1	1	if we use rubber buttons then it requires a rubber case ,
+ES2014c.A.dialog-act.s9553330.28	414.53	416.68	A	PM	el.inf	+1	1	What would be the cost do do we know ?
+ES2014c.B.dialog-act.s9553330.43	419.74	424.87	B	ID	inf	+1	1	I th I think the there wasn't too much difference in the cost , that that related to the actual buttons ,
+ES2014c.B.dialog-act.s9553330.44	424.87	427.08	B	ID	inf	+1	1	but it does affect the printed circuit board .
+ES2014c.B.dialog-act.s9553330.47	438.42	444.39	B	ID	inf	+1	1	The firm supplies a simple , a regular and an advanced um circuit board .
+ES2014c.B.dialog-act.s9553330.49	446.41	455.9	B	ID	inf	+1	2	So if we've got the scroll wheel for one of the buttons , that would require a slightly more advanced circuit board than if we just had a standard um push button .
+ES2014c.B.dialog-act.s9553330.50	457.03	461.3	B	ID	inf	+1	1	Um one final thing we came up with was some information on the speech recognition .
+ES2014c.B.dialog-act.s9553330.51	461.3	467.56	B	ID	inf	+1	1	There's a small unit available through the company um which obviously would be an extra cost ,
+ES2014c.B.dialog-act.s9553330.56	479.0	485.84	B	ID	inf	+1	1	Um going to my personal preferences , um I thought possibly for power we could use kinetic
+ES2014c.B.dialog-act.s9553330.59	492.66	497.82	B	ID	inf	+1	1	And this would avoid batteries running out , having to replace batteries and such like .
+ES2014c.B.dialog-act.s9553330.60	497.82	505.97	B	ID	inf	+1	1	Um for the buttons , I thought we'd probably get away with just having the standard um push buttons rather than the scroll wheel .
+ES2014c.B.dialog-act.s9553330.62	513.9	521.56	B	ID	inf	+1	2	So if we wanted the scroll wheel and wanted the voice recognition , um then we'd have to get a a more costly circuit board .
+ES2014c.B.dialog-act.s9553330.61	507.22	513.9	B	ID	inf	+1	2	Um and for the circuit board , again depends on which features we want in the actual in the remote .
+ES2014c.B.dialog-act.s9553330.65	537.85	543.15	B	ID	inf	+1	2	if we're gonna have the speech recognition , we'd have to probably get an advanced one . I'm guessing .
+ES2014c.B.dialog-act.s9553330.66	543.15	544.07	B	ID	inf	+1	2	Uh but I don't know ,
+ES2014c.B.dialog-act.s9553330.67	544.07	545.75	B	ID	off	+1	2	so that is something I'll have to look into .
+6	ES2014c.JacquelinePalmer.s.3	He showed that the size of the chip was dependent on the type and number of additional features used.
+ES2014c.B.dialog-act.s9553330.49	446.41	455.9	B	ID	inf	+1	2	So if we've got the scroll wheel for one of the buttons , that would require a slightly more advanced circuit board than if we just had a standard um push button .
+ES2014c.B.dialog-act.s9553330.62	513.9	521.56	B	ID	inf	+1	2	So if we wanted the scroll wheel and wanted the voice recognition , um then we'd have to get a a more costly circuit board .
+ES2014c.B.dialog-act.s9553330.61	507.22	513.9	B	ID	inf	+1	2	Um and for the circuit board , again depends on which features we want in the actual in the remote .
+ES2014c.B.dialog-act.s9553330.65	537.85	543.15	B	ID	inf	+1	2	if we're gonna have the speech recognition , we'd have to probably get an advanced one . I'm guessing .
+ES2014c.B.dialog-act.s9553330.66	543.15	544.07	B	ID	inf	+1	2	Uh but I don't know ,
+ES2014c.B.dialog-act.s9553330.67	544.07	545.75	B	ID	off	+1	2	so that is something I'll have to look into .
+33	ES2014c.JacquelinePalmer.s.4	The group discussed incorporating speech recognition and other functions to be able to decide on chip size.
+ES2014c.B.dialog-act.s9553330.68	546.5	549.28	B	ID	inf	+1	1	Um that's a that's a decision for all of us . Um .
+ES2014c.A.dialog-act.s9553330.36	550.66	557.49	A	PM	sug	+1	1	So are we able to make that decision now in a sense that this is the point at which we're discussing that issue ,
+ES2014c.A.dialog-act.s9553330.39	561.57	564.05	A	PM	sug	+1	1	I mean one way is to do each of the presentations
+ES2014c.A.dialog-act.s9553330.40	564.05	568.24	A	PM	sug	+1	1	and then make decisions going back to the various presentations as they were .
+ES2014c.C.dialog-act.s9553330.4	574.06	576.16	C	UI	ass	+1	1	that's probably a better one , to discuss it straight away .
+ES2014c.A.dialog-act.s9553330.44	579.24	591.06	A	PM	inf	+1	1	so if we wanted to know for instance that the scroll wheel required the regular {gap} and what required advance . Then if we were able to see that down then we could make the decision at that point in time
+ES2014c.B.dialog-act.s9553330.78	618.82	622.84	B	ID	inf	+1	1	As I say it only specified that we need a more advanced circuit board for the scroll wheel ,
+ES2014c.B.dialog-act.s9553330.80	623.56	627.54	B	ID	inf	+1	1	The voice recognition came as a separate piece of information . Um .
+ES2014c.A.dialog-act.s9553330.49	627.35	629.17	A	PM	inf	+1	1	the scroll wheel required the regular ,
+ES2014c.A.dialog-act.s9553330.55	642.37	644.64	A	PM	oth	+1	1	The display requires an advanced chip
+ES2014c.B.dialog-act.s9553330.87	655.22	658.06	B	ID	inf	+1	1	And note that the push button just requires a simple chip ,
+ES2014c.C.dialog-act.s9553330.9	660.68	666.05	C	UI	ass	+1	1	Yeah , and if we're going for sleek and sexy , I think a scroll wheel is maybe a bit kinda bulky ?
+ES2014c.B.dialog-act.s9553330.90	672.62	674.05	B	ID	sug	+1	2	So maybe just a simple push button ,
+ES2014c.C.dialog-act.s9553330.13	693.19	695.77	C	UI	inf	+1	2	Yeah , a simple pushbuttons .
+ES2014c.B.dialog-act.s9553330.92	695.648	698.63	B	ID	el.inf	+1	1	{gap} Did everyone get this on the speech recognition ?
+ES2014c.B.dialog-act.s9553330.97	707.72	710.54	B	ID	inf	+1	1	So it is basically the concept we discussed before .
+ES2014c.B.dialog-act.s9553330.98	710.54	716.3	B	ID	inf	+1	1	Um but then we don't know for sure whether it would require a more complicated circuit board .
+ES2014c.A.dialog-act.s9553330.64	721.88	726.62	A	PM	el.inf	+1	1	So if we go for the simple push button , so effectively we're going for the simple printed circuit board are we ?
+ES2014c.D.dialog-act.s9553330.15	756.98	763.05	D	ME	sug	+1	1	I suppose we need we need to find out what circuit board that requires , maybe before we {gap} m make a decision .
+ES2014c.C.dialog-act.s9553330.16	763.95	768.73	C	UI	inf	+1	2	But the way that I interpret that um it doesn't seem to send out a signal to the telly ,
+ES2014c.C.dialog-act.s9553330.18	769.58	774.38	C	UI	inf	+1	2	it's like a parrot just rep reply replying to your message .
+ES2014c.C.dialog-act.s9553330.19	774.38	777.4	C	UI	inf	+1	2	So I don't think it would effect our circuit board .
+ES2014c.B.dialog-act.s9553330.105	777.3	778.5	B	ID	inf	+1	2	so we'd have a simple circuit board
+ES2014c.C.dialog-act.s9553330.21	781.05	784.38	C	UI	inf	+1	2	And I don't think you could really perform any of the remote functions with it .
+ES2014c.B.dialog-act.s9553330.110	798.7	800.28	B	ID	inf	+1	3	so we'd stick with the simple circuit board
+ES2014c.A.dialog-act.s9553330.82	816.1	817.32	A	PM	oth	+1	1	W w kinetic .
+ES2014c.B.dialog-act.s9553330.114	821.7	825.45	B	ID	inf	+1	1	I I thought so just for {disfmarker} just for ease of not having to replace the batteries .
+ES2014c.B.dialog-act.s9553330.118	840.15	843.38	B	ID	inf	+1	1	Somehow the mechanism inside powers up through movement .
+ES2014c.D.dialog-act.s9553330.25	861.86	864.95	D	ME	inf	+1	2	Just just for the call and find thing .
+ES2014c.A.dialog-act.s9553330.89	850.34	851.95	A	PM	el.inf	+1	2	Are we going for speech recognition ?
+ES2014c.B.dialog-act.s9553330.129	876.72	877.99	B	ID	inf	+1	2	It's it's just an addition thing
+ES2014c.A.dialog-act.s9553330.97	879.58	881.34	A	PM	inf	+1	1	And so we would want it in as an extra
+ES2014c.B.dialog-act.s9553330.135	910.7	915.94	B	ID	sug	+1	2	but {disfmarker} Maybe we maybe we'll find out how much that does cost and have to decide slightly later .
+10	ES2014c.JacquelinePalmer.s.5	They decided that using speech recognition for the locator function only would allow them to use a simple chip.
+ES2014c.C.dialog-act.s9553330.19	774.38	777.4	C	UI	inf	+1	2	So I don't think it would effect our circuit board .
+ES2014c.C.dialog-act.s9553330.16	763.95	768.73	C	UI	inf	+1	2	But the way that I interpret that um it doesn't seem to send out a signal to the telly ,
+ES2014c.C.dialog-act.s9553330.18	769.58	774.38	C	UI	inf	+1	2	it's like a parrot just rep reply replying to your message .
+ES2014c.B.dialog-act.s9553330.105	777.3	778.5	B	ID	inf	+1	2	so we'd have a simple circuit board
+ES2014c.C.dialog-act.s9553330.21	781.05	784.38	C	UI	inf	+1	2	And I don't think you could really perform any of the remote functions with it .
+ES2014c.B.dialog-act.s9553330.110	798.7	800.28	B	ID	inf	+1	3	so we'd stick with the simple circuit board
+ES2014c.A.dialog-act.s9553330.89	850.34	851.95	A	PM	el.inf	+1	2	Are we going for speech recognition ?
+ES2014c.D.dialog-act.s9553330.25	861.86	864.95	D	ME	inf	+1	2	Just just for the call and find thing .
+ES2014c.B.dialog-act.s9553330.129	876.72	877.99	B	ID	inf	+1	2	It's it's just an addition thing
+ES2014c.B.dialog-act.s9553330.135	910.7	915.94	B	ID	sug	+1	2	but {disfmarker} Maybe we maybe we'll find out how much that does cost and have to decide slightly later .
+23	ES2014c.JacquelinePalmer.s.6	The User Interface Designer presented several existing products.
+ES2014c.C.dialog-act.s9553330.41	932.24	936.22	C	UI	inf	+1	1	Um okay , so very brief presentation , um .
+ES2014c.C.dialog-act.s9553330.42	938.34	943.95	C	UI	inf	+1	1	From looking at the remotes that are out there at the minute , none of them are particularly um sleek and sexy .
+ES2014c.C.dialog-act.s9553330.43	943.95	947.7	C	UI	inf	+1	1	Um I haven't actually got the examples of the scroll button there ,
+ES2014c.C.dialog-act.s9553330.44	947.7	952.94	C	UI	inf	+1	1	um but there's some curved cases that you can see , uh a range of sizes uh .
+ES2014c.C.dialog-act.s9553330.45	952.94	955.48	C	UI	inf	+1	1	All of them have a lot of buttons there um
+ES2014c.C.dialog-act.s9553330.51	972.85	983.7	C	UI	inf	+1	1	Um some of the uh remotes that I looked at , one of the models da did actually have voice recognition where you could um where it was connected to the remote control functions .
+ES2014c.C.dialog-act.s9553330.52	983.7	986.61	C	UI	inf	+1	1	And uh it was quite uh a swish model ,
+ES2014c.C.dialog-act.s9553330.56	997.88	1000.88	C	UI	sug	+1	1	I mean maybe it's better not to try and compete with that sort of thing
+ES2014c.C.dialog-act.s9553330.59	1011.09	1017.42	C	UI	inf	+1	1	Um the scroll buttons , as you've already mentioned , um there's examples of those ,
+ES2014c.C.dialog-act.s9553330.60	1017.42	1020.54	C	UI	inf	+1	1	but they don't look as sleek as other models .
+ES2014c.C.dialog-act.s9553330.62	1021.91	1028.29	C	UI	inf	+1	1	and {disfmarker} because it impacts on other {disfmarker} on the materials and the price it's not great .
+ES2014c.C.dialog-act.s9553330.65	1030.93	1035.08	C	UI	inf	+1	2	Th there was a specialist type of remote that we could think about , um .
+ES2014c.C.dialog-act.s9553330.66	1036.88	1038.19	C	UI	inf	+1	2	There was children's remote ,
+ES2014c.C.dialog-act.s9553330.67	1038.19	1041.8	C	UI	inf	+1	2	where um they just had a very limited range of buttons
+ES2014c.C.dialog-act.s9553330.68	1041.8	1043.95	C	UI	inf	+1	2	and they were b uh bright and colourful
+ES2014c.C.dialog-act.s9553330.69	1043.95	1048.54	C	UI	inf	+1	2	and um you you could program them so that they could only look at certain channels .
+ES2014c.A.dialog-act.s9553330.109	1059.16	1062.41	A	PM	inf	+1	2	Well we're to go for the international market rather than a local market
+ES2014c.A.dialog-act.s9553330.111	1065.41	1071.76	A	PM	inf	+1	2	The one thing that you can often do with products is you can uh make small modifications .
+ES2014c.A.dialog-act.s9553330.112	1071.76	1075.95	A	PM	inf	+1	2	So you have your basic model which you would sell at whatever ,
+ES2014c.A.dialog-act.s9553330.113	1075.95	1078.34	A	PM	inf	+1	2	and then you could have additional features
+ES2014c.A.dialog-act.s9553330.115	1080.33	1082.29	A	PM	inf	+1	2	You'd have model one , model two and model three ,
+ES2014c.B.dialog-act.s9553330.145	1088.1	1090.6	B	ID	sug	+1	2	So maybe the children's remote should be like a a next step ,
+ES2014c.A.dialog-act.s9553330.121	1099.43	1111.44	A	PM	inf	+1	2	and that uh you would have for future reference the possibility of adding in extra features at extra cost to take care of specialist market segments .
+13	ES2014c.JacquelinePalmer.s.7	She presented a specialized children's remote; the group decided to focus on a basic remote that would appeal to a wide market.
+ES2014c.C.dialog-act.s9553330.65	1030.93	1035.08	C	UI	inf	+1	2	Th there was a specialist type of remote that we could think about , um .
+ES2014c.C.dialog-act.s9553330.66	1036.88	1038.19	C	UI	inf	+1	2	There was children's remote ,
+ES2014c.C.dialog-act.s9553330.67	1038.19	1041.8	C	UI	inf	+1	2	where um they just had a very limited range of buttons
+ES2014c.C.dialog-act.s9553330.68	1041.8	1043.95	C	UI	inf	+1	2	and they were b uh bright and colourful
+ES2014c.C.dialog-act.s9553330.69	1043.95	1048.54	C	UI	inf	+1	2	and um you you could program them so that they could only look at certain channels .
+ES2014c.A.dialog-act.s9553330.109	1059.16	1062.41	A	PM	inf	+1	2	Well we're to go for the international market rather than a local market
+ES2014c.A.dialog-act.s9553330.111	1065.41	1071.76	A	PM	inf	+1	2	The one thing that you can often do with products is you can uh make small modifications .
+ES2014c.A.dialog-act.s9553330.112	1071.76	1075.95	A	PM	inf	+1	2	So you have your basic model which you would sell at whatever ,
+ES2014c.A.dialog-act.s9553330.113	1075.95	1078.34	A	PM	inf	+1	2	and then you could have additional features
+ES2014c.A.dialog-act.s9553330.115	1080.33	1082.29	A	PM	inf	+1	2	You'd have model one , model two and model three ,
+ES2014c.B.dialog-act.s9553330.145	1088.1	1090.6	B	ID	sug	+1	2	So maybe the children's remote should be like a a next step ,
+ES2014c.A.dialog-act.s9553330.120	1094.22	1099.43	A	PM	inf	+1	2	but on this basic one I'm reckoning that we're going for the basic model to be discussed here
+ES2014c.A.dialog-act.s9553330.121	1099.43	1111.44	A	PM	inf	+1	2	and that uh you would have for future reference the possibility of adding in extra features at extra cost to take care of specialist market segments .
+9	ES2014c.JacquelinePalmer.s.8	She expressed that buttons are often ambiguously shaped and that their remote must have an easy-to-use interface.
+ES2014c.C.dialog-act.s9553330.95	1209.55	1215.15	C	UI	inf	+1	1	Um there was a mention just as kind of a warning about button design .
+ES2014c.C.dialog-act.s9553330.96	1215.15	1219.42	C	UI	inf	+1	1	Um just to avoid ambiguity .
+ES2014c.C.dialog-act.s9553330.101	1243.64	1255.39	C	UI	inf	+1	1	Um I think the thing was that if you decide to do this , to have triangular buttons , um somebody might look at this one and say oh well this triangular button is pointing up ,
+ES2014c.C.dialog-act.s9553330.105	1259.93	1267.41	C	UI	inf	+1	1	they might see yeah , they might see this pointing down and think right that's gonna turn the volume down ,
+ES2014c.C.dialog-act.s9553330.106	1267.41	1271.5	C	UI	inf	+1	1	whereas the actual button's pointing up , so the function is to turn the button up .
+ES2014c.C.dialog-act.s9553330.107	1272.58	1275.19	C	UI	inf	+1	1	So , be careful what you put on the buttons
+ES2014c.C.dialog-act.s9553330.108	1275.19	1277.18	C	UI	inf	+1	1	and be careful of the shape that you make them ,
+ES2014c.C.dialog-act.s9553330.109	1277.18	1281.88	C	UI	inf	+1	1	because they might be kind of two um contradicting kind of shapes .
+ES2014c.B.dialog-act.s9553330.161	1281.66	1283.91	B	ID	sug	+1	1	So maybe we could have volume written on the side
+20	ES2014c.JacquelinePalmer.s.9	The Marketing Expert presented trends in the remote control market and the fruit and vegetable and spongy material trends in fashion.
+ES2014c.D.dialog-act.s9553330.40	1330.84	1335.48	D	ME	inf	+1	1	I've I've got some things to say about possible design things from trend watching .
+ES2014c.D.dialog-act.s9553330.42	1352.55	1366.83	D	ME	inf	+1	1	Right , um I've been looking at some trends in in sort of basically fashion on top of doing the um research into the remote control market
+ES2014c.D.dialog-act.s9553330.44	1369.08	1374.73	D	ME	inf	+1	1	that we'd sort of asked people about remote controls and what what was good about them , what was bad , what they used .
+ES2014c.D.dialog-act.s9553330.45	1374.73	1381.94	D	ME	inf	+1	1	And we've also been looking at sort of fa sort of fashions and what people are wanting out of consumer goods at the moment .
+ES2014c.D.dialog-act.s9553330.46	1381.94	1388.0	D	ME	inf	+1	1	So we've had people in Paris and Milan watching the uh fashion trends .
+ES2014c.D.dialog-act.s9553330.49	1398.02	1403.46	D	ME	inf	+1	1	The most important thing was that the thing sort of look and felt fancy rather than just functional .
+ES2014c.D.dialog-act.s9553330.50	1403.46	1407.63	D	ME	inf	+1	1	And second , there should be some technological innovation .
+ES2014c.D.dialog-act.s9553330.51	1407.63	1413.01	D	ME	inf	+1	1	And then third and l less important than the other two , there should be an ease of use as well .
+ES2014c.D.dialog-act.s9553330.52	1413.51	1425.42	D	ME	inf	+1	1	And apparently , the fashion trends {vocalsound} are that people want sort of clothes and shoes and things with a fruit and vegetables theme .
+ES2014c.D.dialog-act.s9553330.53	1425.42	1429.2	D	ME	inf	+1	1	{vocalsound} Um but um the feel of the material should be spongy ,
+ES2014c.D.dialog-act.s9553330.57	1438.42	1445.17	D	ME	inf	+1	1	we need to emphasise the fancy design with on on our remote control above all else .
+ES2014c.D.dialog-act.s9553330.58	1445.17	1448.51	D	ME	inf	+1	1	And then also try and add in technological informat innovation
+ES2014c.D.dialog-act.s9553330.60	1448.51	1452.41	D	ME	sug	+1	1	which could be our sort of find the thing with a hand clap .
+ES2014c.D.dialog-act.s9553330.62	1463.5	1468.36	D	ME	inf	+1	1	And then maybe find a way to incorporate these trends so that we sort of capture people's imaginations .
+ES2014c.D.dialog-act.s9553330.63	1468.77	1472.02	D	ME	sug	+1	1	So maybe we could make the buttons shaped like fruit and veg ,
+ES2014c.D.dialog-act.s9553330.64	1472.02	1477.3	D	ME	sug	+1	1	or the the buttons could be spongy , uh somehow .
+ES2014c.D.dialog-act.s9553330.66	1481.46	1485.97	D	ME	sug	+1	1	And then sort of even wackier than that , we could maybe have a fruit or vegetable shaped remote ,
+ES2014c.D.dialog-act.s9553330.70	1499.89	1504.42	D	ME	el.inf	+1	1	How how far we actually want to go along and sort of follow the trends ,
+ES2014c.D.dialog-act.s9553330.71	1504.42	1508.03	D	ME	el.inf	+1	1	do we think the trends are particularly important for this type of gadget ,
+ES2014c.D.dialog-act.s9553330.72	1508.03	1511.86	D	ME	el.inf	+1	1	or or you know , do they not matter that much ?
+22	ES2014c.JacquelinePalmer.s.10	The group discussed ways to incorporate these trends.
+ES2014c.C.dialog-act.s9553330.119	1512.37	1516.87	C	UI	ass	+1	1	I think if you start making the buttons fruit shaped , it might make it more complicated to use .
+ES2014c.A.dialog-act.s9553330.158	1517.1	1520.75	A	PM	inf	+1	1	Well you were just talking about you've got to be careful how you shape your buttons ,
+ES2014c.C.dialog-act.s9553330.121	1531.52	1532.84	C	UI	sug	+1	1	Maybe just one button ,
+ES2014c.B.dialog-act.s9553330.183	1587.06	1593.28	B	ID	inf	+1	1	I mean it just seems realistic that the remote control market isn't the kind of thing which takes in those kinds of fashion trends .
+ES2014c.B.dialog-act.s9553330.184	1593.28	1596.13	B	ID	inf	+1	1	{gap} to something which is maybe more universal .
+ES2014c.C.dialog-act.s9553330.127	1597.03	1599.74	C	UI	sug	+1	1	But I suppose as long as it's quite a subtle design ,
+ES2014c.B.dialog-act.s9553330.186	1605.37	1608.79	B	ID	sug	+1	1	Maybe the spongy feel is something we could think about , um .
+ES2014c.B.dialog-act.s9553330.187	1611.12	1613.648	B	ID	sug	+1	1	Maybe still with a rubber design we could {disfmarker}
+ES2014c.A.dialog-act.s9553330.184	1659.85	1663.82	A	PM	inf	+1	1	The m the main problem is how f how frequently do the fashions change ?
+ES2014c.A.dialog-act.s9553330.189	1684.5	1698.3	A	PM	inf	+1	1	Whereas if you kept the product the same but you could have a difference from year to year , uh it seems to me that you could incorporate a fashion statement if you like , rather than changing the whole kit and caboodle .
+ES2014c.A.dialog-act.s9553330.190	1698.3	1703.57	A	PM	sug	+1	1	You're just changing one aspect like like the standby button or something like that ,
+ES2014c.B.dialog-act.s9553330.199	1706.81	1711.01	B	ID	inf	+1	1	I suppose we maybe are limited in the fact that we still have to put the logo on the actual {disfmarker}
+ES2014c.B.dialog-act.s9553330.203	1726.53	1729.53	B	ID	sug	+1	1	Maybe we could think of the the cases like changing with the fashions
+ES2014c.B.dialog-act.s9553330.204	1729.53	1732.65	B	ID	inf	+1	1	like the Nokia phones where you could take the casing off the outside .
+ES2014c.C.dialog-act.s9553330.140	1757.91	1761.5	C	UI	inf	+1	1	Oh but you still would have to have the logo on every new case ,
+ES2014c.C.dialog-act.s9553330.143	1783.67	1787.0	C	UI	inf	+1	1	But we are supposed to use the um company colour scheme , aren't we ?
+ES2014c.A.dialog-act.s9553330.211	1799.18	1801.46	A	PM	inf	+1	2	You could have your company badge and logo .
+ES2014c.A.dialog-act.s9553330.212	1801.46	1809.53	A	PM	inf	+1	2	I mean a lot of um computers for instance like like on the one you've got there , it actually has a sort of um stick on badge
+ES2014c.B.dialog-act.s9553330.221	1856.74	1863.28	B	ID	sug	+1	1	And whether we'd have a big enough market to have this kind of like secondary market of selling the cases might be something to consider .
+ES2014c.D.dialog-act.s9553330.113	1880.22	1885.13	D	ME	ass	+1	1	I'm not convinced on whether having changeable covers would be something that people would buy into .
+ES2014c.C.dialog-act.s9553330.152	1896.45	1900.026	C	UI	unset	+1	2	Okay , so if we just went for one colour of a rubber case {disfmarker}
+ES2014c.D.dialog-act.s9553330.126	1932.14	1940.12	D	ME	inf	+1	2	whereas just the fact that it was a rubber case is probably less less of something that y you're gonna end up hating in a year , you know .
+22	ES2014c.JacquelinePalmer.s.11	They decided to make the standby button shaped like an apple , to use a rubber case and buttons , and to use a single-curved shape.
+ES2014c.C.dialog-act.s9553330.122	1532.84	1536.53	C	UI	inf	+1	2	say the standby button is quite kinda separate from all the other functions .
+ES2014c.C.dialog-act.s9553330.123	1536.53	1538.14	C	UI	sug	+1	2	Maybe that could be a little apple .
+ES2014c.A.dialog-act.s9553330.165	1544.21	1550.95	A	PM	inf	+1	1	th that that incorporates the trend whilst at the same time not confusing people , if you're looking for functionality .
+ES2014c.A.dialog-act.s9553330.170	1563.76	1574.36	A	PM	inf	+1	1	If y if you change all the buttons then you've got the problem that this year's fruit and veg , next year's uh {vocalsound} I was gonna say animals or elephants or w whatever .
+ES2014c.C.dialog-act.s9553330.129	1621.68	1625.05	C	UI	inf	+1	2	It seems like you're gonna have rubber cases , as well as buttons .
+ES2014c.A.dialog-act.s9553330.182	1651.51	1654.96	A	PM	oth	+1	2	Rubber buttons require rubber case . {gap}
+ES2014c.C.dialog-act.s9553330.152	1896.45	1900.026	C	UI	unset	+1	2	Okay , so if we just went for one colour of a rubber case {disfmarker}
+ES2014c.D.dialog-act.s9553330.126	1932.14	1940.12	D	ME	inf	+1	2	whereas just the fact that it was a rubber case is probably less less of something that y you're gonna end up hating in a year , you know .
+ES2014c.B.dialog-act.s9553330.228	1953.088	1956.9	B	ID	inf	+1	1	{gap} it seems to make sense that we we'd just maybe stick with the standard rubber case ,
+ES2014c.B.dialog-act.s9553330.229	1956.9	1958.85	B	ID	inf	+1	1	and then have the standard rubber buttons as well .
+ES2014c.B.dialog-act.s9553330.233	1970.36	1973.4	B	ID	sug	+1	1	Maybe curves give it like the slightly more aesthetic feel ?
+ES2014c.B.dialog-act.s9553330.234	1973.4	1981.904	B	ID	inf	+1	1	But the double curve wouldn't require us to perform miracles with the Plasticine . {vocalsound}
+ES2014c.A.dialog-act.s9553330.236	2004.69	2013.32	A	PM	inf	+1	1	one thing to consider is that in some ways you want um {disfmarker} by having a fairly standard case it means they can all fit together on top of each other
+ES2014c.A.dialog-act.s9553330.237	2013.32	2018.64	A	PM	inf	+1	1	therefore for storage purposes in shops and the like and it makes it easier that you can {disfmarker} if you can store them up on top of each other .
+ES2014c.C.dialog-act.s9553330.179	2067.43	2069.42	C	UI	el.inf	+1	2	Shall we go for single curve , just to compromise ?
+ES2014c.B.dialog-act.s9553330.243	2069.24	2070.61	B	ID	inf	+1	2	We'll go for single curve , yeah .
+ES2014c.D.dialog-act.s9553330.152	2122.76	2128.49	D	ME	el.inf	+1	2	And then are we going for sort of one button shaped like a fruit . {vocalsound} Or veg .
+ES2014c.A.dialog-act.s9553330.254	2142.71	2145.95	A	PM	inf	+1	1	so it's not really spongy feel buttons , it's just rubber buttons .
+ES2014c.D.dialog-act.s9553330.168	2176.96	2178.41	D	ME	ass	+1	2	Could be a red apple , yeah .
+ES2014c.C.dialog-act.s9553330.199	2181.78	2185.66	C	UI	inf	+1	2	Yeah 'cause we wanna incorporate a bit of colour if we can ,
+ES2014c.C.dialog-act.s9553330.203	2202.22	2206.83	C	UI	inf	+1	1	'Cause most of them will just be kind of mainly circular or like very plain .
+ES2014c.C.dialog-act.s9553330.204	2215.46	2217.77	C	UI	inf	+1	1	Uh just to keep the shape of the buttons simple .
+0	ES2014c.JacquelinePalmer.s.12	The Project Manager instructed the User Interface Designer and the Industrial Designer to construct the prototype.

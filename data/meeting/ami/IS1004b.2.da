@@ -1,0 +1,730 @@
+IS1004b.A.dialog-act.dharshi.1	40.92	42.52	PM	A	el.inf	-1	0	Okay everybody is ready ?
+IS1004b.A.dialog-act.dharshi.2	42.52	45.26	PM	A	be.pos	-1	0	{vocalsound} Good morning again .
+IS1004b.A.dialog-act.dharshi.3	45.26	48.38	PM	A	inf	-1	0	So , today we are going to have a f second meeting .
+IS1004b.A.dialog-act.dharshi.4	48.38	50.19	PM	A	be.pos	-1	0	Oh Michael , hi .
+IS1004b.B.dialog-act.dharshi.1	49.13	49.65	UI	B	ass	-1	0	Yep .
+IS1004b.A.dialog-act.dharshi.5	50.19	51.8	PM	A	inf	-1	0	You're late .
+IS1004b.A.dialog-act.dharshi.6	51.8	56.4	PM	A	inf	-1	0	You have a good reason for that ?
+IS1004b.B.dialog-act.dharshi.2	52.656	54.67	UI	B	inf	-1	0	{vocalsound} Yes .
+IS1004b.C.dialog-act.dharshi.1	54.06	55.6	ID	C	fra	-1	0	{vocalsound}
+IS1004b.A.dialog-act.dharshi.7	56.4	59.74	PM	A	ass	-1	0	{vocalsound} Very good {vocalsound} .
+IS1004b.A.dialog-act.dharshi.8	59.74	62.79	PM	A	sug	+1	1	{vocalsound} Okay , let's have a look to the agenda today .
+IS1004b.A.dialog-act.dharshi.9	63.92	69.88	PM	A	inf	+1	1	{vocalsound} So , we are going to have a meeting about the functional design .
+IS1004b.A.dialog-act.dharshi.10	69.88	78.3	PM	A	off	+1	1	Um so first before starting I w just going to uh to go quickly to {disfmarker} through the minutes of previous meeting .
+IS1004b.A.dialog-act.dharshi.11	80.01	89.45	PM	A	inf	+1	1	So uh {vocalsound} basically we we are not decided if w we should go for a universal or specific uh uh remote control ,
+IS1004b.A.dialog-act.dharshi.12	89.45	93.71	PM	A	inf	+1	1	but I have new um new i inputs for {disfmarker} about that topics .
+IS1004b.A.dialog-act.dharshi.13	93.71	95.54	PM	A	off	+1	1	I goin I'm going to share with you .
+IS1004b.A.dialog-act.dharshi.14	95.68	102.53	PM	A	inf	-1	0	{vocalsound} And uh basically we decided to um to uh go to individual actions for each of you
+IS1004b.A.dialog-act.dharshi.15	102.53	110.44	PM	A	inf	-1	0	uh so um Industrial Designer should wor was supposed to work on th on th on the working design .
+IS1004b.A.dialog-act.dharshi.16	110.44	111.6	PM	A	stl	-1	0	You showed us {disfmarker}
+IS1004b.C.dialog-act.dharshi.2	110.06	110.24	ID	C	bck	-1	0	Yep .
+IS1004b.A.dialog-act.dharshi.17	111.6	115.01	PM	A	el.inf	-1	0	you ar you you prepare something for us ?
+IS1004b.C.dialog-act.dharshi.3	113.64	114.78	ID	C	inf	-1	0	Yeah . Yep .
+IS1004b.A.dialog-act.dharshi.18	115.54	121.42	PM	A	inf	-1	0	The U_I_ guy also uh work on that , yeah ,
+IS1004b.A.dialog-act.dharshi.19	121.42	125.19	PM	A	inf	-1	0	and for the mar our Marketing Expert should deliver some specs .
+IS1004b.B.dialog-act.dharshi.3	121.79	122.5	UI	B	bck	-1	0	Mm .
+IS1004b.A.dialog-act.dharshi.20	126.05	128.81	PM	A	stl	-1	0	Alright {vocalsound} so {vocalsound}
+IS1004b.A.dialog-act.dharshi.21	128.81	133.02	PM	A	inf	+1	1	so we are going to go through three of your individual presentations .
+IS1004b.A.dialog-act.dharshi.22	133.02	137.97	PM	A	sug	+1	1	But first I would like quickly to uh to decide of {disfmarker} to give a name to the project .
+IS1004b.A.dialog-act.dharshi.23	137.97	143.05	PM	A	inf	+1	1	So , I just put d quickly Remo ,
+IS1004b.A.dialog-act.dharshi.24	143.05	154.47	PM	A	sug	-1	0	but if you have any o other names that we co could decide for just to to keep something fun for our project we we should {disfmarker} we could discuss quickly .
+IS1004b.A.dialog-act.dharshi.25	154.47	155.58	PM	A	el.sug	+1	1	Any ideas ?
+IS1004b.B.dialog-act.dharshi.4	156.53	157.61	UI	B	sug	+1	1	Uh the Powerstick .
+IS1004b.C.dialog-act.dharshi.4	156.29	156.82	ID	C	bck	-1	0	Mm-hmm .
+IS1004b.A.dialog-act.dharshi.26	157.941	159.66	PM	A	ass	-1	0	{vocalsound} Powerstick , yeah .
+IS1004b.B.dialog-act.dharshi.5	159.632	160.224	UI	B	fra	-1	0	{vocalsound}
+IS1004b.A.dialog-act.dharshi.27	161.16	161.56	PM	A	el.sug	-1	0	What else ?
+IS1004b.A.dialog-act.dharshi.28	165.67	166.15	PM	A	el.sug	-1	0	What else ?
+IS1004b.D.dialog-act.dharshi.1	167.61	169.568	ME	D	stl	-1	0	Uh . {vocalsound}
+IS1004b.B.dialog-act.dharshi.6	170.08	172.34	UI	B	sug	+1	1	Maybe a Spanish name would work well .
+IS1004b.D.dialog-act.dharshi.2	171.46	173.584	ME	D	fra	-1	0	Mm I was thinking of the {disfmarker}
+IS1004b.B.dialog-act.dharshi.7	172.34	176.03	UI	B	inf	-1	0	Especially if we're selling into the U_S_ market becasue there's a lot of Spanish speakers there .
+IS1004b.B.dialog-act.dharshi.8	177.86	181.63	UI	B	sug	-1	0	Maybe something that sounds cool in English but sounds funny in Spanish .
+IS1004b.D.dialog-act.dharshi.3	180.56	181.17	ME	D	sug	+1	1	Mando .
+IS1004b.B.dialog-act.dharshi.9	181.63	182.87	UI	B	und	-1	0	Mando .
+IS1004b.A.dialog-act.dharshi.29	182.88	184.98	PM	A	und	-1	0	Mango ? Mango ?
+IS1004b.B.dialog-act.dharshi.10	182.87	183.43	UI	B	el.inf	-1	0	What is that ?
+IS1004b.D.dialog-act.dharshi.4	184.29	184.83	ME	D	inf	-1	0	Mando .
+IS1004b.A.dialog-act.dharshi.30	184.98	185.56	PM	A	und	-1	0	Mando .
+IS1004b.A.dialog-act.dharshi.31	185.56	186.11	PM	A	el.inf	-1	0	M_A_ ?
+IS1004b.A.dialog-act.dharshi.32	187.62	188.06	PM	A	el.inf	-1	0	M_A_ ?
+IS1004b.D.dialog-act.dharshi.5	188.26	190.67	ME	D	inf	-1	0	A*_N_ yeah D_O .
+IS1004b.A.dialog-act.dharshi.33	190.23	191.55	PM	A	und	-1	0	M_ D_O_ .
+IS1004b.A.dialog-act.dharshi.34	191.55	192.11	PM	A	ass	-1	0	Mm , okay .
+IS1004b.D.dialog-act.dharshi.6	192.85	196.39	ME	D	inf	-1	0	It doesn't it doesn't sound cool for me ,
+IS1004b.A.dialog-act.dharshi.35	194.93	195.55	PM	A	el.inf	-1	0	What does it mean ?
+IS1004b.A.dialog-act.dharshi.36	196.53	196.73	PM	A	oth	-1	0	Oh .
+IS1004b.D.dialog-act.dharshi.8	196.39	199.168	ME	D	fra	-1	0	but maybe for a Spanish {disfmarker} for I {disfmarker} for {disfmarker}
+IS1004b.B.dialog-act.dharshi.11	199.2	200.29	UI	B	el.inf	+1	1	What does it mean in Spanish ?
+IS1004b.D.dialog-act.dharshi.7	201.76	202.23	ME	D	inf	+1	1	Control .
+IS1004b.B.dialog-act.dharshi.12	202.66	203.27	UI	B	und	-1	0	Control .
+IS1004b.A.dialog-act.dharshi.37	203.27	204.54	PM	A	ass	-1	0	Hmm . Nice .
+IS1004b.B.dialog-act.dharshi.13	203.27	204.32	UI	B	ass	-1	0	Okay .
+IS1004b.B.dialog-act.dharshi.15	204.32	208.05	UI	B	ass	-1	0	'Cause it also {disfmarker} like in English it sounds like you know the man's tool you know
+IS1004b.B.dialog-act.dharshi.16	208.05	210.19	UI	B	inf	-1	0	because you know men like to have control of the remote
+IS1004b.D.dialog-act.dharshi.9	208.56	208.73	ME	D	stl	-1	0	But {disfmarker}
+IS1004b.D.dialog-act.dharshi.10	208.73	210.84	ME	D	bck	-1	0	mm , yeah .
+IS1004b.B.dialog-act.dharshi.17	210.19	211.539	UI	B	fra	-1	0	so it might {disfmarker}
+IS1004b.D.dialog-act.dharshi.11	210.84	217.549	ME	D	inf	-1	0	Mando sounds Latino . {vocalsound} {vocalsound}
+IS1004b.A.dialog-act.dharshi.38	213.831	216.658	PM	A	fra	-1	0	{vocalsound} {vocalsound}
+IS1004b.B.dialog-act.dharshi.18	213.793	215.916	UI	B	fra	-1	0	{vocalsound}
+IS1004b.C.dialog-act.dharshi.5	213.857	217.456	ID	C	fra	-1	0	{vocalsound}
+IS1004b.A.dialog-act.dharshi.39	217.56	218.04	PM	A	bck	-1	0	Okay .
+IS1004b.B.dialog-act.dharshi.19	217.36	218.04	UI	B	oth	-1	0	The Mando .
+IS1004b.A.dialog-act.dharshi.40	219.28	221.26	PM	A	sug	+1	1	{vocalsound} So , let's go for Mando ?
+IS1004b.A.dialog-act.dharshi.41	222.31	223.34	PM	A	el.ass	-1	0	Yeah ? No objection ?
+IS1004b.C.dialog-act.dharshi.6	222.68	223.4	ID	C	ass	-1	0	Yeah , yeah .
+IS1004b.B.dialog-act.dharshi.20	224.0	225.57	UI	B	ass	-1	0	Yeah that's {gap} .
+IS1004b.A.dialog-act.dharshi.42	224.52	225.65	PM	A	ass	-1	0	Great .
+IS1004b.A.dialog-act.dharshi.43	225.65	226.116	PM	A	stl	-1	0	So {disfmarker}
+IS1004b.B.dialog-act.dharshi.21	225.57	227.2	UI	B	stl	-1	0	And we could have some like you d
+IS1004b.B.dialog-act.dharshi.22	227.2	229.32	UI	B	sug	+1	0	you could have the fonts you know special ,
+IS1004b.B.dialog-act.dharshi.23	229.32	235.12	UI	B	sug	-1	0	so you have man in like in in uh in one o in one font and then the O_ as like {disfmarker}
+IS1004b.A.dialog-act.dharshi.45	235.28	236.832	PM	A	fra	-1	0	Okay , I think this is {disfmarker}
+IS1004b.B.dialog-act.dharshi.24	236.18	239.84	UI	B	sug	+1	0	Although you don't wanna cut uh cut women out of the uh potential buyers though ,
+IS1004b.A.dialog-act.dharshi.44	237.94	238.32	PM	A	bck	-1	0	Okay .
+IS1004b.B.dialog-act.dharshi.25	239.84	240.22	UI	B	el.ass	-1	0	do you ?
+IS1004b.B.dialog-act.dharshi.26	240.22	240.592	UI	B	stl	-1	0	So {disfmarker}
+IS1004b.C.dialog-act.dharshi.7	240.54	241.02	ID	C	ass	-1	0	Yeah
+IS1004b.C.dialog-act.dharshi.8	241.02	243.07	ID	C	inf	-1	0	they are the most T_V_ watcher .
+IS1004b.C.dialog-act.dharshi.9	243.07	244.14	ID	C	sug	-1	0	So we should be careful .
+IS1004b.B.dialog-act.dharshi.27	243.71	244.07	UI	B	bck	-1	0	Yeah .
+IS1004b.A.dialog-act.dharshi.46	244.29	247.27	PM	A	inf	-1	0	Okay , I think this is more a question of of {disfmarker}
+IS1004b.B.dialog-act.dharshi.28	246.73	247.26	UI	B	inf	-1	0	Marketing .
+IS1004b.D.dialog-act.dharshi.12	246.37	246.69	ME	D	fra	-1	0	But {disfmarker}
+IS1004b.D.dialog-act.dharshi.13	246.69	247.21	ME	D	bck	-1	0	yeah
+IS1004b.A.dialog-act.dharshi.47	247.27	250.99	PM	A	ass	+1	0	I I think this is more a question of of look and feel .
+IS1004b.D.dialog-act.dharshi.14	247.21	247.901	ME	D	fra	-1	0	it uh {disfmarker}
+IS1004b.A.dialog-act.dharshi.48	250.99	253.38	PM	A	sug	+1	0	Something that should be addressed later
+IS1004b.A.dialog-act.dharshi.49	253.38	256.03	PM	A	sug	+1	0	We should we should go to other {disfmarker} for the other topics .
+IS1004b.D.dialog-act.dharshi.15	253.75	256.768	ME	D	ass	-1	0	Yeah because if the product will be international {disfmarker}
+IS1004b.B.dialog-act.dharshi.29	257.45	258.02	UI	B	ass	-1	0	Well that's the thing .
+IS1004b.B.dialog-act.dharshi.30	258.02	261.204	UI	B	inf	-1	0	We need to know who we're selling it to before we can really decide on a {disfmarker}
+IS1004b.A.dialog-act.dharshi.50	260.95	261.53	PM	A	ass	-1	0	Yeah okay ,
+IS1004b.A.dialog-act.dharshi.51	261.53	264.36	PM	A	sug	-1	0	so let's stick f to Man Mando for the name
+IS1004b.B.dialog-act.dharshi.31	262.16	262.32	UI	B	stl	-1	0	Um .
+IS1004b.A.dialog-act.dharshi.52	264.36	267.0	PM	A	sug	-1	0	and we'll see for the for the look and feel later .
+IS1004b.A.dialog-act.dharshi.53	267.0	269.45	PM	A	sug	-1	0	So let's go for the three presentations right now .
+IS1004b.A.dialog-act.dharshi.54	269.45	270.52	PM	A	el.sug	-1	0	So , who want to start ?
+IS1004b.B.dialog-act.dharshi.32	272.364	272.911	UI	B	fra	-1	0	{vocalsound}
+IS1004b.A.dialog-act.dharshi.55	272.99	275.43	PM	A	sug	+1	1	So maybe we could start with the market , yeah .
+IS1004b.D.dialog-act.dharshi.16	272.92	275.18	ME	D	off	-1	0	Maybe maybe I should uh start .
+IS1004b.D.dialog-act.dharshi.17	275.18	275.48	ME	D	ass	-1	0	Yeah .
+IS1004b.D.dialog-act.dharshi.18	277.62	278.8	ME	D	stl	-1	0	Mm . Okay .
+IS1004b.A.dialog-act.dharshi.56	278.66	280.52	PM	A	el.inf	-1	0	Okay so I have your slides somewhere ?
+IS1004b.D.dialog-act.dharshi.19	280.88	281.05	ME	D	inf	-1	0	Yeah .
+IS1004b.D.dialog-act.dharshi.20	282.98	284.79	ME	D	inf	-1	0	Should be in participant four .
+IS1004b.A.dialog-act.dharshi.57	286.06	286.99	PM	A	und	-1	0	Participant four .
+IS1004b.A.dialog-act.dharshi.58	291.728	293.52	PM	A	el.inf	-1	0	{vocalsound} This one ?
+IS1004b.D.dialog-act.dharshi.21	293.11	293.82	ME	D	inf	-1	0	Yeah , yeah .
+IS1004b.D.dialog-act.dharshi.22	296.656	297.648	ME	D	fra	-1	0	{vocalsound}
+IS1004b.D.dialog-act.dharshi.23	301.13	302.01	ME	D	stl	-1	0	Uh .
+IS1004b.A.dialog-act.dharshi.59	309.03	310.06	PM	A	inf	-1	0	S that's coming .
+IS1004b.A.dialog-act.dharshi.60	310.06	312.97	PM	A	stl	-1	0	Uh {gap}
+IS1004b.B.dialog-act.dharshi.33	311.78	312.08	UI	B	bck	-1	0	Yeah .
+IS1004b.A.dialog-act.dharshi.61	312.97	314.54	PM	A	ass	-1	0	okay . Great .
+IS1004b.C.dialog-act.dharshi.10	312.88	313.22	ID	C	bck	-1	0	Yep .
+IS1004b.D.dialog-act.dharshi.24	315.8	323.01	ME	D	off	-1	0	Okay so yeah I will I will give a brief outline about what I what I prepared for this meeting .
+IS1004b.A.dialog-act.dharshi.62	323.21	323.49	PM	A	bck	-1	0	Mm-hmm .
+IS1004b.D.dialog-act.dharshi.25	324.16	330.82	ME	D	inf	-1	0	For the functional requirements and especially for the for the user requirements .
+IS1004b.D.dialog-act.dharshi.26	330.82	332.2	ME	D	inf	-1	0	I prepare a marketing report
+IS1004b.D.dialog-act.dharshi.27	332.2	343.41	ME	D	sug	+1	1	and we have to find the weaknesses and and the the improvements we could do to the current remote controls .
+IS1004b.D.dialog-act.dharshi.28	344.96	350.36	ME	D	inf	+1	1	And also I di I did a study with {disfmarker} for the incorporation of new technologies
+IS1004b.D.dialog-act.dharshi.29	350.36	358.34	ME	D	inf	-1	0	it seems that the remote controls have been {disfmarker} have remained the same for the last five , ten years .
+IS1004b.D.dialog-act.dharshi.30	358.34	368.125	ME	D	inf	-1	0	There is no no significant difference between the the b the first new controls and {disfmarker}
+IS1004b.A.dialog-act.dharshi.63	368.64	369.71	PM	A	el.ass	-1	0	Okay .
+IS1004b.A.dialog-act.dharshi.64	369.71	370.44	PM	A	off	-1	0	Sh next slide ?
+IS1004b.D.dialog-act.dharshi.31	369.57	370.6	ME	D	ass	-1	0	Yeah . Yeah .
+IS1004b.A.dialog-act.dharshi.65	370.44	370.72	PM	A	ass	-1	0	Okay .
+IS1004b.D.dialog-act.dharshi.32	372.47	378.61	ME	D	inf	+1	1	Well {vocalsound} {vocalsound} more {disfmarker} most of the people think that remote controls are ugly , thoroughly .
+IS1004b.D.dialog-act.dharshi.33	378.61	386.12	ME	D	inf	+1	1	So and they they admit that the the they should uh s they would uh spend more money in a fancier remote control ,
+IS1004b.D.dialog-act.dharshi.34	386.12	389.45	ME	D	ass	-1	0	which is which is good and it's interesting point .
+IS1004b.D.dialog-act.dharshi.35	390.53	397.12	ME	D	inf	-1	0	Also the people are worried about about the R*_S_I_ disease ,
+IS1004b.D.dialog-act.dharshi.36	397.12	409.76	ME	D	inf	-1	0	which is if you repeat the sa the same movement , which is not a {disfmarker} with a not very appropriate device , you you will have problems whe when you will get old .
+IS1004b.D.dialog-act.dharshi.37	410.33	417.11	ME	D	inf	-1	0	So s people are uh are worried about the the shape of the of the remote control .
+IS1004b.D.dialog-act.dharshi.38	417.11	420.46	ME	D	stl	-1	0	They are also {vocalsound} {disfmarker}
+IS1004b.D.dialog-act.dharshi.39	420.46	426.72	ME	D	inf	-1	0	they get angry very often because they lost the remote control very often ,
+IS1004b.D.dialog-act.dharshi.40	426.72	433.99	ME	D	ass	-1	0	so I think it would be a good point to to l to to find a a solution to {disfmarker}
+IS1004b.D.dialog-act.dharshi.41	433.99	440.28	ME	D	sug	-1	0	any beep any alarm or something incorporated to {disfmarker} with the remote control every time it it get lost .
+IS1004b.A.dialog-act.dharshi.66	440.47	440.81	PM	A	bck	-1	0	Mm-hmm .
+IS1004b.D.dialog-act.dharshi.42	441.83	444.86	ME	D	stl	-1	0	And also I found that young people {disfmarker}
+IS1004b.D.dialog-act.dharshi.43	444.86	452.81	ME	D	inf	+1	1	the the younger people are the more interested they are in incorporating new technologies in the in the remote control .
+IS1004b.A.dialog-act.dharshi.67	455.12	455.47	PM	A	bck	-1	0	Okay .
+IS1004b.D.dialog-act.dharshi.44	457.8	467.16	ME	D	sug	+1	1	So {vocalsound} {vocalsound} in my opinion the Mando {disfmarker} this Mando shouldn't be very small
+IS1004b.D.dialog-act.dharshi.45	467.16	473.52	ME	D	inf	-1	0	because the smaller it is , the more like {disfmarker} the the liklier it is to get lost .
+IS1004b.D.dialog-act.dharshi.46	473.52	475.8	ME	D	el.inf	-1	0	Liklier or more likely ?
+IS1004b.B.dialog-act.dharshi.34	475.06	477.136	UI	B	inf	-1	0	More likely . {gap}
+IS1004b.D.dialog-act.dharshi.47	475.8	476.82	ME	D	und	-1	0	{gap} likely . Okay .
+IS1004b.D.dialog-act.dharshi.51	477.76	486.5	ME	D	inf	-1	0	Uh {vocalsound} people also complain because they they they all have the same size of the buttons for buttons who w which are not very use
+IS1004b.D.dialog-act.dharshi.52	486.5	495.45	ME	D	inf	-1	0	like f uh memorising channels or or this kind of actions which are not very often
+IS1004b.D.dialog-act.dharshi.53	495.45	505.98	ME	D	inf	-1	0	but {vocalsound} they they shouldn't they shouldn't have the same importance in the in the uh in the remote cont in the remote control .
+IS1004b.D.dialog-act.dharshi.54	505.98	509.65	ME	D	inf	-1	0	Also the z the design should fit the hand shape .
+IS1004b.D.dialog-act.dharshi.55	509.65	516.8	ME	D	sug	+1	1	So it may be interesting to to think in a {disfmarker} in both prototypes , for right and left handed people .
+IS1004b.B.dialog-act.dharshi.35	517.25	521.7	UI	B	inf	+1	1	Well th the on the thing is though , most remote controls are used by more than one person .
+IS1004b.B.dialog-act.dharshi.37	521.7	528.72	UI	B	ass	-1	0	So unless you're kind of targeting single people you know you're gonna maybe
+IS1004b.D.dialog-act.dharshi.56	529.872	530.51	ME	D	bck	-1	0	{vocalsound} Yeah .
+IS1004b.B.dialog-act.dharshi.38	530.44	532.64	UI	B	ass	-1	0	cut out some {disfmarker} a lot of your market .
+IS1004b.D.dialog-act.dharshi.57	534.19	534.68	ME	D	ass	-1	0	I dunno
+IS1004b.D.dialog-act.dharshi.58	534.68	545.01	ME	D	sug	-1	0	I th Anyway I think it could be int interesting to to release some {disfmarker} a a small fraction of of this remote controls .
+IS1004b.C.dialog-act.dharshi.11	542.9	545.51	ID	C	sug	+1	1	Well maybe it could be a universal design .
+IS1004b.D.dialog-act.dharshi.62	545.01	545.33	ME	D	und	-1	0	Sorry ?
+IS1004b.C.dialog-act.dharshi.12	545.51	550.43	ID	C	inf	-1	0	A universal design , which is which is good for both the hands .
+IS1004b.B.dialog-act.dharshi.39	550.31	554.56	UI	B	el.inf	-1	0	Still shaped for yeah for your hand but not for a particular hand , right ?
+IS1004b.D.dialog-act.dharshi.63	549.92	550.06	ME	D	ass	-1	0	Yeah .
+IS1004b.C.dialog-act.dharshi.13	550.43	550.71	ID	C	el.ass	-1	0	Yeah ?
+IS1004b.C.dialog-act.dharshi.14	553.49	555.84	ID	C	inf	-1	0	That's right , whether it's left hand or right hand ,
+IS1004b.D.dialog-act.dharshi.64	554.24	554.43	ME	D	bck	-1	0	Yeah .
+IS1004b.C.dialog-act.dharshi.15	555.84	562.97	ID	C	el.ass	-1	0	but but {vocalsound} don't you think that the two points are clashing , one thing you are saying design should fit the hand shape and it should not be very small ?
+IS1004b.D.dialog-act.dharshi.65	564.08	564.39	ME	D	und	-1	0	Sorry ?
+IS1004b.C.dialog-act.dharshi.16	565.0	566.81	ID	C	inf	-1	0	The first and the third point , they are clashing .
+IS1004b.B.dialog-act.dharshi.40	566.87	569.42	UI	B	inf	-1	0	Well it can still be a {gap} , you can still extend past the hand .
+IS1004b.D.dialog-act.dharshi.66	568.74	568.97	ME	D	bck	-1	0	Yeah .
+IS1004b.A.dialog-act.dharshi.68	569.59	569.81	PM	A	bck	-1	0	Yeah .
+IS1004b.C.dialog-act.dharshi.17	570.21	571.25	ID	C	ass	-1	0	Okay .
+IS1004b.B.dialog-act.dharshi.41	570.84	570.98	UI	B	stl	-1	0	Uh .
+IS1004b.D.dialog-act.dharshi.67	570.5	571.2	ME	D	fra	-1	0	Like uh {disfmarker}
+IS1004b.C.dialog-act.dharshi.18	571.25	574.22	ID	C	ass	-1	0	So fitting the hand doesn't mean much then .
+IS1004b.B.dialog-act.dharshi.42	574.77	582.32	UI	B	inf	-1	0	Well it means {disfmarker} like , this remote here is kind of {disfmarker} is very thin and long so instead of having {disfmarker} you know you might have it kind of {disfmarker} a bit bigger
+IS1004b.C.dialog-act.dharshi.19	578.84	579.5	ID	C	bck	-1	0	Mm-hmm mm-hmm .
+IS1004b.D.dialog-act.dharshi.68	581.29	582.251	ME	D	fra	-1	0	Yeah , like {disfmarker}
+IS1004b.B.dialog-act.dharshi.43	582.32	585.5	UI	B	inf	-1	0	or , you know , with maybe some some finger molds or something .
+IS1004b.C.dialog-act.dharshi.20	583.77	585.41	ID	C	bck	-1	0	Mm-hmm mm-hmm mm-hmm .
+IS1004b.A.dialog-act.dharshi.69	584.738	585.352	PM	A	fra	-1	0	{vocalsound}
+IS1004b.C.dialog-act.dharshi.21	585.41	588.68	ID	C	el.ass	-1	0	So it means design should be similar to the traditional ones ?
+IS1004b.B.dialog-act.dharshi.44	586.325	587.009	UI	B	fra	-1	0	{gap}
+IS1004b.C.dialog-act.dharshi.22	588.68	590.0	ID	C	el.ass	-1	0	Little sleek , longer ?
+IS1004b.B.dialog-act.dharshi.45	591.111	592.308	UI	B	fra	-1	0	{gap}
+IS1004b.C.dialog-act.dharshi.23	591.33	592.47	ID	C	inf	-1	0	And it should fit the hand .
+IS1004b.D.dialog-act.dharshi.69	591.16	591.4	ME	D	ass	-1	0	No no
+IS1004b.D.dialog-act.dharshi.70	591.4	596.07	ME	D	inf	-1	0	I was thinking of so like something {disfmarker}
+IS1004b.A.dialog-act.dharshi.70	594.64	596.64	PM	A	sug	-1	0	Something with the shape of the palm ?
+IS1004b.C.dialog-act.dharshi.24	596.36	597.47	ID	C	bck	-1	0	Mm-hmm mm-hmm mm-hmm .
+IS1004b.D.dialog-act.dharshi.71	596.07	596.33	ME	D	ass	-1	0	yeah .
+IS1004b.B.dialog-act.dharshi.46	597.52	598.6	UI	B	sug	-1	0	Some finger grips maybe .
+IS1004b.D.dialog-act.dharshi.72	597.53	598.06	ME	D	bck	-1	0	Yeah .
+IS1004b.B.dialog-act.dharshi.47	598.6	603.5	UI	B	sug	-1	0	You could even have some buttons like you know on the sides and everything ,
+IS1004b.A.dialog-act.dharshi.71	601.7	602.33	PM	A	sug	-1	0	On the sides .
+IS1004b.D.dialog-act.dharshi.73	601.78	602.04	ME	D	ass	-1	0	Yeah yeah .
+IS1004b.D.dialog-act.dharshi.74	602.04	605.43	ME	D	sug	-1	0	It sh it shouldn't it shouldn't be symmetric symmetrical .
+IS1004b.B.dialog-act.dharshi.48	603.5	604.096	UI	B	stl	-1	0	but {disfmarker}
+IS1004b.C.dialog-act.dharshi.25	605.08	607.06	ID	C	bck	-1	0	Mm-hm mm-hmm mm-hmm .
+IS1004b.D.dialog-act.dharshi.75	605.43	607.09	ME	D	inf	-1	0	Not anymore .
+IS1004b.D.dialog-act.dharshi.76	607.09	607.49	ME	D	fra	-1	0	That's what {disfmarker}
+IS1004b.D.dialog-act.dharshi.77	607.49	607.69	ME	D	ass	-1	0	yeah .
+IS1004b.A.dialog-act.dharshi.72	608.93	609.952	PM	A	el.sug	-1	0	And then finally {disfmarker}
+IS1004b.D.dialog-act.dharshi.78	609.97	617.95	ME	D	inf	+1	1	And finally , the incorporation of a L_C_D_ or a speech recognition system in the remote control could also be interesting ,
+IS1004b.D.dialog-act.dharshi.79	617.95	622.3	ME	D	inf	+1	1	but I don't know if the budget would be large enough .
+IS1004b.B.dialog-act.dharshi.49	620.84	621.31	UI	B	bck	-1	0	Yeah .
+IS1004b.A.dialog-act.dharshi.73	621.62	622.11	PM	A	bck	-1	0	Yeah .
+IS1004b.A.dialog-act.dharshi.74	622.11	625.13	PM	A	inf	-1	0	First I'm just wondering about the L_C_D_ stuff
+IS1004b.A.dialog-act.dharshi.75	625.13	626.976	PM	A	fra	-1	0	because uh because {disfmarker}
+IS1004b.D.dialog-act.dharshi.80	624.72	633.36	ME	D	inf	+1	1	But most of {disfmarker} yeah most of the young people to thirty to thirty years old were really interested in this kind of technology .
+IS1004b.A.dialog-act.dharshi.76	633.6	640.82	PM	A	off	-1	0	Yeah , so maybe it's a good time for me to uh {vocalsound} to bring you to some new uh new informations .
+IS1004b.A.dialog-act.dharshi.77	640.82	646.84	PM	A	inf	+1	0	We had the new requirements from the {disfmarker} so uh from the head offices of the company ,
+IS1004b.A.dialog-act.dharshi.78	646.84	652.72	PM	A	inf	+1	1	and so they wanted {disfmarker} so they want to um {disfmarker} they would like to be restricted to T_V_ .
+IS1004b.B.dialog-act.dharshi.50	653.6	653.88	UI	B	bck	-1	0	Yeah .
+IS1004b.A.dialog-act.dharshi.79	654.12	656.67	PM	A	el.inf	-1	0	Okay , I dunno if you had this information already .
+IS1004b.A.dialog-act.dharshi.80	656.67	657.12	PM	A	und	-1	0	No ,
+IS1004b.B.dialog-act.dharshi.51	656.24	656.53	UI	B	inf	-1	0	No .
+IS1004b.A.dialog-act.dharshi.81	657.12	663.63	PM	A	inf	-1	0	so they want us to restrict the remote control to T_V_ only because of time limitations .
+IS1004b.A.dialog-act.dharshi.82	663.63	667.101	PM	A	fra	-1	0	Um they want also uh {disfmarker}
+IS1004b.D.dialog-act.dharshi.81	666.36	670.34	ME	D	inf	-1	0	Actually this marketing report is restricted to T_V_ remote controls .
+IS1004b.A.dialog-act.dharshi.83	670.31	671.41	PM	A	ass	-1	0	Excellent .
+IS1004b.A.dialog-act.dharshi.84	671.41	680.13	PM	A	inf	+1	0	So we have also to focus more on the internet aspects because well well te teletext is outdated now
+IS1004b.A.dialog-act.dharshi.85	681.48	692.36	PM	A	inf	+1	1	and uh finally , {vocalsound} it should be clear that the corporate image , that means colours and logos of the co our company should be clearly inde identified in the product .
+IS1004b.A.dialog-act.dharshi.86	693.44	693.86	PM	A	stl	-1	0	So {disfmarker}
+IS1004b.B.dialog-act.dharshi.52	693.312	698.38	UI	B	el.inf	+1	0	{vocalsound} I was still uh I was still working on this uh twenty five Euro price point
+IS1004b.B.dialog-act.dharshi.53	698.38	705.69	UI	B	inf	+1	0	because I think actually having looked at some of the remotes out there , this is quite a low uh price
+IS1004b.B.dialog-act.dharshi.54	705.69	707.42	UI	B	fra	-1	0	if if we're {disfmarker}
+IS1004b.B.dialog-act.dharshi.56	707.42	709.22	UI	B	off	-1	0	maybe I can get to this in my presentation though ,
+IS1004b.A.dialog-act.dharshi.87	709.6	710.75	PM	A	ass	-1	0	Yeah yeah . Sure sure .
+IS1004b.B.dialog-act.dharshi.57	709.22	710.26	UI	B	stl	-1	0	but um yeah .
+IS1004b.A.dialog-act.dharshi.88	710.75	714.01	PM	A	sug	-1	0	So maybe we can jump to your presentations , right now .
+IS1004b.B.dialog-act.dharshi.58	713.05	713.78	UI	B	ass	-1	0	Yep . Okay .
+IS1004b.A.dialog-act.dharshi.89	714.01	719.7	PM	A	sug	-1	0	Okay so let's keep in mind about tha that that {disfmarker} this last point about L_C_D_ and speech uh reco
+IS1004b.B.dialog-act.dharshi.59	718.83	719.34	UI	B	ass	-1	0	Yeah .
+IS1004b.B.dialog-act.dharshi.60	719.34	724.42	UI	B	ass	+1	1	I think even even if it was within budget do a speech reco rec system it might be a bit difficult
+IS1004b.B.dialog-act.dharshi.61	724.42	730.784	UI	B	inf	+1	1	because if you think {disfmarker} if you're watching T_V_ you're gonna have a lot of this uh background noise from the T_V_ which might interfere with the {disfmarker}
+IS1004b.A.dialog-act.dharshi.90	725.504	725.808	PM	A	fra	-1	0	{vocalsound}
+IS1004b.A.dialog-act.dharshi.91	730.72	731.04	PM	A	be.pos	-1	0	Sorry ,
+IS1004b.A.dialog-act.dharshi.92	731.04	731.8	PM	A	el.inf	-1	0	what is your {gap} ?
+IS1004b.B.dialog-act.dharshi.62	732.48	733.6	UI	B	inf	-1	0	Uh participant three .
+IS1004b.B.dialog-act.dharshi.63	734.76	740.86	UI	B	inf	-1	0	You might have some background noise from the T_V_ which will make the speech recognition much uh harder , so .
+IS1004b.D.dialog-act.dharshi.85	738.61	742.37	ME	D	inf	-1	0	Yeah but you should be able to activate or disactivate ,
+IS1004b.D.dialog-act.dharshi.83	742.37	745.54	ME	D	stl	-1	0	so {disfmarker} yeah yeah .
+IS1004b.B.dialog-act.dharshi.64	743.313	748.862	UI	B	el.inf	-1	0	{vocalsound} Oh you press a press a button to talk , and the the T_V_ the T_V_ {vocalsound} sound turns off . {gap}
+IS1004b.D.dialog-act.dharshi.86	745.54	746.14	ME	D	inf	-1	0	{vocalsound} Yeah
+IS1004b.D.dialog-act.dharshi.87	746.14	747.4	ME	D	oth	-1	0	uh channel fifty .
+IS1004b.C.dialog-act.dharshi.27	748.48	748.7	ID	C	inf	-1	0	No
+IS1004b.C.dialog-act.dharshi.28	748.7	750.92	ID	C	sug	+1	1	it could be command control kind of thing .
+IS1004b.D.dialog-act.dharshi.88	748.31	748.54	ME	D	bck	-1	0	Yeah .
+IS1004b.C.dialog-act.dharshi.29	750.92	755.12	ID	C	inf	+1	1	It requir recognises particular sequence and then it gets activated .
+IS1004b.C.dialog-act.dharshi.30	756.32	757.08	ID	C	stl	-1	0	Means you say {disfmarker}
+IS1004b.C.dialog-act.dharshi.31	757.08	766.83	ID	C	inf	-1	0	you should say like does that , remote control being on or be on kind of thing , and then remote control comes in the picture for the speech recognition .
+IS1004b.B.dialog-act.dharshi.66	766.58	766.8	UI	B	bck	-1	0	Yeah .
+IS1004b.C.dialog-act.dharshi.32	766.83	770.89	ID	C	inf	-1	0	Because this kind of thing means speech is there from the T_V_ also .
+IS1004b.B.dialog-act.dharshi.67	770.85	771.08	UI	B	bck	-1	0	Yeah .
+IS1004b.C.dialog-act.dharshi.33	770.89	775.64	ID	C	inf	-1	0	So there should be something command controlled , you start and then you stop .
+IS1004b.B.dialog-act.dharshi.68	773.82	775.31	UI	B	bck	-1	0	Mm .
+IS1004b.B.dialog-act.dharshi.69	775.31	775.5	UI	B	bck	-1	0	Yeah .
+IS1004b.C.dialog-act.dharshi.34	775.64	778.81	ID	C	inf	-1	0	It's like V_I_ editor , you are having two modes similarly .
+IS1004b.B.dialog-act.dharshi.65	777.684	780.114	UI	B	fra	-1	0	{vocalsound}
+IS1004b.C.dialog-act.dharshi.35	778.81	780.22	ID	C	inf	-1	0	Otherwise it's just lying idle .
+IS1004b.A.dialog-act.dharshi.93	780.79	781.29	PM	A	sug	-1	0	Okay Michael .
+IS1004b.B.dialog-act.dharshi.71	781.92	783.87	UI	B	el.inf	-1	0	Okay , so , could I describe the mouse maybe {gap}
+IS1004b.B.dialog-act.dharshi.72	783.87	785.36	UI	B	ass	-1	0	be easier to {disfmarker}
+IS1004b.A.dialog-act.dharshi.94	784.52	784.79	PM	A	und	-1	0	Sorry ?
+IS1004b.B.dialog-act.dharshi.73	785.36	786.656	UI	B	el.inf	-1	0	could I use the mouse , or {disfmarker}
+IS1004b.A.dialog-act.dharshi.95	786.6	787.73	PM	A	inf	-1	0	Um yeah .
+IS1004b.B.dialog-act.dharshi.74	787.94	789.31	UI	B	be.pos	-1	0	Mm . Thanks .
+IS1004b.B.dialog-act.dharshi.75	791.21	791.75	UI	B	stl	-1	0	Okay .
+IS1004b.A.dialog-act.dharshi.96	793.85	794.73	PM	A	inf	-1	0	The wheel doesn't work .
+IS1004b.B.dialog-act.dharshi.76	794.864	797.61	UI	B	ass	-1	0	{vocalsound} Great {vocalsound} .
+IS1004b.C.dialog-act.dharshi.36	796.205	797.485	ID	C	fra	-1	0	{vocalsound}
+IS1004b.A.dialog-act.dharshi.97	796.832	798.816	PM	A	fra	-1	0	{vocalsound}
+IS1004b.B.dialog-act.dharshi.77	797.61	805.07	UI	B	inf	+1	1	Okay so um while uh researching this this topic I first of all just thought of a couple of things that I would like to see in a remote ,
+IS1004b.B.dialog-act.dharshi.78	805.07	809.46	UI	B	inf	-1	0	and just uh looked to see if they're actually available in any current remotes ,
+IS1004b.B.dialog-act.dharshi.80	809.46	822.06	UI	B	inf	+1	1	and then also searched for which are the top-rated uh remote controls on Epinions dot com , which is a a you know a a customer um written basically review site .
+IS1004b.B.dialog-act.dharshi.82	822.94	828.2	UI	B	inf	-1	0	So um there's a pretty wide range of uh remote controls these days
+IS1004b.B.dialog-act.dharshi.83	828.2	833.69	UI	B	inf	+1	1	and and uh this remote control on the right here is is one of the more extravagant ,
+IS1004b.B.dialog-act.dharshi.84	833.69	835.08	UI	B	stl	-1	0	but it's not really {disfmarker}
+IS1004b.B.dialog-act.dharshi.85	835.08	840.47	UI	B	inf	-1	0	it's by no means uh mm you know {vocalsound} on it's own in being so expensive .
+IS1004b.B.dialog-act.dharshi.86	840.47	843.21	UI	B	inf	-1	0	There are a lot of expensive remote controls out there .
+IS1004b.A.dialog-act.dharshi.98	841.394	844.17	PM	A	inf	-1	0	{gap} Looks like a P_D_A_ {gap} ?
+IS1004b.B.dialog-act.dharshi.87	843.21	844.26	UI	B	stl	-1	0	So {disfmarker} {vocalsound}
+IS1004b.B.dialog-act.dharshi.88	844.26	844.82	UI	B	ass	-1	0	yeah it doe
+IS1004b.B.dialog-act.dharshi.90	844.82	845.14	UI	B	stl	-1	0	it's {disfmarker}
+IS1004b.B.dialog-act.dharshi.91	845.14	850.46	UI	B	inf	+1	1	well basically all the functions uh are controlled through through the L_C_D_ screen
+IS1004b.B.dialog-act.dharshi.92	850.46	855.43	UI	B	inf	-1	0	except for the really really kind of main functions , which have a couple of of their own buttons .
+IS1004b.B.dialog-act.dharshi.93	855.88	862.15	UI	B	inf	-1	0	Um and if you look at a lot of the universal remotes out um on the market ,
+IS1004b.B.dialog-act.dharshi.94	862.15	868.65	UI	B	inf	-1	0	I know we're working on television remote , but a lot of the universal remotes out there have uh have these L_C_D_ screens
+IS1004b.B.dialog-act.dharshi.95	868.65	877.79	UI	B	inf	-1	0	which kind of helps when you're using multiple uh devices I suppose because you can have multiple kind of functions {disfmarker} d different functions on the screen at different times .
+IS1004b.B.dialog-act.dharshi.98	878.56	886.85	UI	B	inf	+1	1	But um the thing that I find most interesting about this remote control , and it's kind of difficult to uh to see in the slide , but it has a scroll wheel on it ,
+IS1004b.B.dialog-act.dharshi.99	886.85	889.52	UI	B	inf	-1	0	which is kind of like uh a mouse scroll wheel ,
+IS1004b.B.dialog-act.dharshi.100	889.52	893.56	UI	B	ass	-1	0	which I think is {disfmarker} it's a really kind of important design aspect
+IS1004b.B.dialog-act.dharshi.101	893.56	895.022	UI	B	stl	-1	0	um is {disfmarker} it's {disfmarker}
+IS1004b.B.dialog-act.dharshi.102	895.26	900.76	UI	B	inf	-1	0	'Cause the thing is what a {vocalsound} what we {disfmarker} the presen this presentation we had is what we want the remote control to actually do .
+IS1004b.B.dialog-act.dharshi.103	900.76	907.13	UI	B	inf	-1	0	And obviously the the simplest thing that a remote control does is it just change the change the channel .
+IS1004b.C.dialog-act.dharshi.37	905.45	906.7	ID	C	inf	-1	0	Change the channels .
+IS1004b.B.dialog-act.dharshi.104	907.13	908.78	UI	B	stl	-1	0	Now um
+IS1004b.C.dialog-act.dharshi.38	906.7	906.88	ID	C	ass	-1	0	Yeah .
+IS1004b.B.dialog-act.dharshi.105	910.44	911.35	UI	B	stl	-1	0	uh the {disfmarker}
+IS1004b.B.dialog-act.dharshi.106	911.35	915.66	UI	B	ass	+1	1	I think that a scroll wheel is actually pretty a pretty handy way of of changing the channel .
+IS1004b.B.dialog-act.dharshi.107	915.66	922.5	UI	B	inf	-1	0	'Cause I know when I um when I use the remote to change the channel I very rarely use the numbers on the on the pad .
+IS1004b.B.dialog-act.dharshi.109	922.5	924.37	UI	B	inf	-1	0	I usually use the up and down
+IS1004b.C.dialog-act.dharshi.39	922.2	923.81	ID	C	bck	-1	0	Mmm-hmm mm-hmm .
+IS1004b.C.dialog-act.dharshi.40	923.81	924.22	ID	C	bck	-1	0	Yeah yeah .
+IS1004b.B.dialog-act.dharshi.110	924.37	931.89	UI	B	inf	-1	0	because most channels are you know two digit numbers and you have to press you know a special button to enter a two-digit number , and then two numbers ,
+IS1004b.B.dialog-act.dharshi.111	931.89	933.23	UI	B	ass	-1	0	so that's just uh {disfmarker} it's annoying .
+IS1004b.B.dialog-act.dharshi.112	933.23	935.59	UI	B	ass	-1	0	So I think a scroll wheel is is quite handy .
+IS1004b.B.dialog-act.dharshi.115	935.67	938.47	UI	B	stl	-1	0	Now um
+IS1004b.B.dialog-act.dharshi.116	938.47	943.24	UI	B	inf	-1	0	the the scroll wheel is is much more useful if you have an L_C_D_ screen ,
+IS1004b.B.dialog-act.dharshi.114	943.24	948.67	UI	B	inf	-1	0	and this brings us to the the point you were mentioning before about the internet uh capability .
+IS1004b.A.dialog-act.dharshi.99	948.77	949.11	PM	A	bck	-1	0	Mm-hmm .
+IS1004b.B.dialog-act.dharshi.117	949.78	951.84	UI	B	fra	-1	0	One possibility , if we {disfmarker}
+IS1004b.B.dialog-act.dharshi.118	951.84	953.49	UI	B	sug	-1	0	now we need to still talk about the price point
+IS1004b.B.dialog-act.dharshi.119	953.49	956.84	UI	B	inf	+1	1	because obviously a lot of this stuff can't be done for twenty five Eu uh Euro ,
+IS1004b.B.dialog-act.dharshi.120	956.84	962.62	UI	B	inf	+1	1	but one possibility is to download program information into the L_C_D_ screen
+IS1004b.B.dialog-act.dharshi.121	962.62	968.96	UI	B	inf	-1	0	so that instead of actually saying I want to I want to go to channel thirty seven because I know this programme's on ,
+IS1004b.B.dialog-act.dharshi.122	968.96	973.37	UI	B	inf	-1	0	you know , often you don't know what ch what channel it's on , or you don't know what's on .
+IS1004b.B.dialog-act.dharshi.123	973.37	978.75	UI	B	inf	-1	0	If you have a list of of programs on your L_C_D_ screen you just scroll to that program rather than to a channel .
+IS1004b.B.dialog-act.dharshi.124	979.65	988.24	UI	B	inf	-1	0	So if you think about {disfmarker} it's kind of like a {disfmarker} you know in mobile phones now you don't use {disfmarker} you don't remember people's phone number , you remember their name and you go find that name and ring it .
+IS1004b.A.dialog-act.dharshi.100	987.792	988.304	PM	A	fra	-1	0	{vocalsound}
+IS1004b.B.dialog-act.dharshi.125	988.24	990.95	UI	B	ass	-1	0	So this would be pretty {disfmarker} kind of a handy thing to have ,
+IS1004b.B.dialog-act.dharshi.126	990.95	993.56	UI	B	sug	-1	0	but um we we really need t to discuss the price .
+IS1004b.B.dialog-act.dharshi.127	994.2	996.26	UI	B	stl	-1	0	So , I mean there are {vocalsound}
+IS1004b.B.dialog-act.dharshi.128	996.26	998.3	UI	B	inf	-1	0	there are uh cheaper {disfmarker}
+IS1004b.B.dialog-act.dharshi.129	998.3	1003.68	UI	B	inf	+1	1	this is another multi kinda purpose remote control where it's it's it's very simple ,
+IS1004b.B.dialog-act.dharshi.130	1003.68	1008.95	UI	B	inf	-1	0	there's only a few buttons , but al each of those buttons does something different in a different context .
+IS1004b.B.dialog-act.dharshi.131	1008.95	1012.91	UI	B	sug	+1	1	So this is something else we might wanna consider , is really kind of limiting the number of buttons ,
+IS1004b.B.dialog-act.dharshi.132	1012.91	1016.89	UI	B	inf	-1	0	because this is the top rating uh universal remote control on on Epinions .
+IS1004b.B.dialog-act.dharshi.133	1017.8	1024.02	UI	B	sug	-1	0	It it's really uh maybe worth thinking about limiting the number of buttons as much as as possible
+IS1004b.B.dialog-act.dharshi.134	1024.02	1029.88	UI	B	inf	-1	0	um because really I think people want to be able to find the button they're looking for without even looking at the remote control .
+IS1004b.B.dialog-act.dharshi.135	1030.16	1036.01	UI	B	inf	-1	0	And {gap} was saying before about having different size buttons for different you know frequently used uh tasks ,
+IS1004b.B.dialog-act.dharshi.136	1036.01	1042.02	UI	B	ass	+1	1	but I think also you know the location and and shape of the buttons is important , but also the number of buttons .
+IS1004b.B.dialog-act.dharshi.137	1042.02	1047.86	UI	B	inf	-1	0	So if you have too many buttons it it it increases the the difficulty of finding the one you want .
+IS1004b.C.dialog-act.dharshi.41	1047.19	1053.4	ID	C	inf	-1	0	But there is one problem {gap} then the user has to understand each of that functionality .
+IS1004b.B.dialog-act.dharshi.138	1047.86	1048.262	UI	B	stl	-1	0	So {disfmarker}
+IS1004b.A.dialog-act.dharshi.101	1052.43	1052.73	PM	A	bck	-1	0	Mm-hmm .
+IS1004b.B.dialog-act.dharshi.139	1052.92	1053.76	UI	B	fra	-1	0	Yeah well we w
+IS1004b.C.dialog-act.dharshi.42	1053.4	1055.45	ID	C	inf	-1	0	Because the same button is doing too many things .
+IS1004b.B.dialog-act.dharshi.140	1055.43	1055.67	UI	B	ass	-1	0	Yeah
+IS1004b.B.dialog-act.dharshi.141	1055.67	1062.75	UI	B	inf	-1	0	well we will have a bit of a simpler uh task in that we're only doing uh a television remote control .
+IS1004b.B.dialog-act.dharshi.143	1062.75	1074.66	UI	B	sug	+1	1	Um I think maybe one option is to have you know a little flip-open um door that uh that you have hidden most of the time , but contains the extra buttons like , say , the number buttons for instance . Um
+IS1004b.C.dialog-act.dharshi.43	1073.61	1073.91	ID	C	bck	-1	0	Mm-hmm .
+IS1004b.B.dialog-act.dharshi.144	1074.885	1076.63	UI	B	stl	-1	0	{vocalsound} I I would {disfmarker}
+IS1004b.B.dialog-act.dharshi.145	1076.63	1082.92	UI	B	inf	+1	1	if I had my perfect remote control , I'd probably just have no numbers at all on it because they're just in the way .
+IS1004b.C.dialog-act.dharshi.44	1081.03	1081.29	ID	C	fra	-1	0	Mm-hmm .
+IS1004b.B.dialog-act.dharshi.146	1082.92	1084.51	UI	B	inf	-1	0	They don't really do anything .
+IS1004b.B.dialog-act.dharshi.147	1084.51	1085.96	UI	B	fra	-1	0	Maybe you know I {disfmarker}
+IS1004b.B.dialog-act.dharshi.148	1085.96	1091.23	UI	B	ass	-1	0	although I do also find flip-open doors a bit of a pain because sometimes they can break off or or whatever ,
+IS1004b.B.dialog-act.dharshi.149	1091.23	1096.72	UI	B	sug	-1	0	but maybe a door that you can you can permanantly remove or permanantly have on would be good .
+IS1004b.C.dialog-act.dharshi.45	1094.6	1094.89	ID	C	fra	-1	0	Mm-hmm .
+IS1004b.B.dialog-act.dharshi.150	1096.72	1107.76	UI	B	sug	-1	0	Um {vocalsound} but I think definitely you need to to keep the buttons down to a minimum , but not not let that kind of interfere with the functionality of of the device .
+IS1004b.B.dialog-act.dharshi.151	1107.76	1108.368	UI	B	stl	-1	0	Um {disfmarker}
+IS1004b.D.dialog-act.dharshi.89	1107.97	1117.68	ME	D	sug	-1	0	H I think I think that the tr the transition to this to this new remote control shouldn't be very very abrupt very hard
+IS1004b.D.dialog-act.dharshi.90	1117.68	1131.148	ME	D	inf	+1	1	because w if people see a remo see the {disfmarker} see a remote control without numbers mm they will think it's very difficult to learn very difficult to {disfmarker} very different build {disfmarker} very different to the traditional {disfmarker}
+IS1004b.C.dialog-act.dharshi.46	1127.2	1128.99	ID	C	el.inf	-1	0	It does sampling out of the {gap} .
+IS1004b.A.dialog-act.dharshi.102	1129.02	1129.845	PM	A	fra	-1	0	{vocalsound}
+IS1004b.B.dialog-act.dharshi.152	1129.476	1131.86	UI	B	ass	-1	0	{vocalsound} Well I guess that depends on how you market it .
+IS1004b.B.dialog-act.dharshi.153	1131.86	1132.89	UI	B	stl	-1	0	If you {vocalsound}
+IS1004b.B.dialog-act.dharshi.154	1132.89	1142.42	UI	B	ass	-1	0	if you have the right advertisement showing how how how easy it is and how you can , you know , navigate to a program without the numbers , then people might say that looks pretty easy .
+IS1004b.D.dialog-act.dharshi.91	1135.44	1136.2	ME	D	fra	-1	0	If y
+IS1004b.A.dialog-act.dharshi.103	1142.91	1144.82	PM	A	sug	-1	0	Okay , can you continue , please Mi ?
+IS1004b.B.dialog-act.dharshi.155	1143.14	1144.31	UI	B	stl	-1	0	So , but {disfmarker}
+IS1004b.D.dialog-act.dharshi.92	1143.569	1144.234	ME	D	fra	-1	0	{gap}
+IS1004b.B.dialog-act.dharshi.156	1144.31	1145.03	UI	B	off	-1	0	yep .
+IS1004b.B.dialog-act.dharshi.157	1145.03	1156.12	UI	B	inf	+1	1	Um okay , so , I think um one of the really kind of useful things you can do with with internet connectivity would be to have this {disfmarker} a programme driven interface rather than the channel number .
+IS1004b.B.dialog-act.dharshi.158	1156.12	1162.82	UI	B	ass	-1	0	So if we can have a higher priced uh remote control I think that would really be worth uh {disfmarker} something that would be worth implementing .
+IS1004b.B.dialog-act.dharshi.159	1163.49	1166.42	UI	B	inf	-1	0	Um mm there's the L_C_D_ screen ,
+IS1004b.B.dialog-act.dharshi.160	1166.42	1169.3	UI	B	ass	-1	0	um which maybe maybe is too expensive ,
+IS1004b.B.dialog-act.dharshi.161	1169.3	1172.14	UI	B	inf	-1	0	um but I think also at the scroll wheel , I haven't mentioned it here ,
+IS1004b.B.dialog-act.dharshi.162	1172.14	1177.67	UI	B	inf	+1	1	the scroll wheel could be used without an L_C_D_ screen , just for changing channel numbers easily .
+IS1004b.B.dialog-act.dharshi.163	1177.67	1178.44	UI	B	stl	-1	0	I think even that ,
+IS1004b.A.dialog-act.dharshi.104	1178.44	1179.173	PM	A	fra	-1	0	{vocalsound}
+IS1004b.B.dialog-act.dharshi.164	1178.44	1182.36	UI	B	inf	-1	0	I mean , that would be a fairly cheap thing , compared to an L_C_D_ screen , to implement ,
+IS1004b.A.dialog-act.dharshi.105	1180.98	1181.41	PM	A	bck	-1	0	Mm-hmm .
+IS1004b.B.dialog-act.dharshi.165	1182.36	1184.21	UI	B	ass	-1	0	um but I think that would be quite useful as well .
+IS1004b.B.dialog-act.dharshi.166	1184.62	1188.08	UI	B	inf	-1	0	And the other thing , you say we need to we need to keep it just television ,
+IS1004b.B.dialog-act.dharshi.167	1188.08	1200.11	UI	B	inf	-1	0	but I think one {disfmarker} maybe one option , since this is supposed to be a kind of a fashionable device , is you know there's a certain kind of cool or wow factor that you can kind of {disfmarker} you can have with technology ,
+IS1004b.B.dialog-act.dharshi.168	1200.11	1204.7	UI	B	sug	+1	1	and maybe we wanna make it something that's {vocalsound} extensible to do other tasks .
+IS1004b.B.dialog-act.dharshi.169	1204.7	1214.97	UI	B	sug	-1	0	Say you have like um {vocalsound} a little another little kind of base unit that can also receive signals as well as the television where you can , say uh , change the lighting in the room .
+IS1004b.B.dialog-act.dharshi.170	1216.1	1222.3	UI	B	sug	-1	0	You know that would be something maybe you could sell as an extra , so that it doesn't have to be part of the initial development ,
+IS1004b.B.dialog-act.dharshi.173	1222.3	1225.13	UI	B	fra	-1	0	but , you know , later on you could you can you know you {disfmarker}
+IS1004b.B.dialog-act.dharshi.174	1225.13	1226.86	UI	B	inf	-1	0	also , selling the potential of the device .
+IS1004b.B.dialog-act.dharshi.175	1226.86	1234.72	UI	B	inf	+1	1	Then you say potentially you can then do other cool stuff like change the lights , I dunno , close the windows , whatever , turn the heating on ,
+IS1004b.B.dialog-act.dharshi.176	1234.72	1244.32	UI	B	sug	-1	0	and um , I think that's something we may need to have as as {disfmarker} at least as an optional extra to to kinda make our product cool , since we say we're putting the fashion in electronics .
+IS1004b.A.dialog-act.dharshi.106	1241.81	1243.196	PM	A	bck	-1	0	Okay . {vocalsound}
+IS1004b.A.dialog-act.dharshi.107	1244.48	1245.58	PM	A	ass	-1	0	Okay .
+IS1004b.A.dialog-act.dharshi.108	1245.58	1246.15	PM	A	be.pos	-1	0	Okay , thanks .
+IS1004b.A.dialog-act.dharshi.109	1246.886	1248.69	PM	A	el.sug	-1	0	{vocalsound} {gap} you want to go ?
+IS1004b.C.dialog-act.dharshi.48	1247.47	1248.15	ID	C	oth	-1	0	Yep .
+IS1004b.C.dialog-act.dharshi.49	1248.15	1249.05	ID	C	off	-1	0	So {disfmarker} yeah .
+IS1004b.A.dialog-act.dharshi.110	1250.148	1250.855	PM	A	fra	-1	0	{gap}
+IS1004b.B.dialog-act.dharshi.177	1250.133	1250.613	UI	B	fra	-1	0	{gap}
+IS1004b.C.dialog-act.dharshi.50	1255.24	1259.08	ID	C	inf	-1	0	So most of the things which we are discussing about is speech recognition uh ,
+IS1004b.C.dialog-act.dharshi.51	1259.08	1261.14	ID	C	fra	-1	0	that means on my own I {disfmarker}
+IS1004b.A.dialog-act.dharshi.111	1260.17	1260.49	PM	A	el.inf	-1	0	This one ?
+IS1004b.C.dialog-act.dharshi.52	1261.14	1261.89	ID	C	inf	-1	0	yeah , it should be .
+IS1004b.A.dialog-act.dharshi.112	1264.76	1265.49	PM	A	ass	-1	0	Great .
+IS1004b.A.dialog-act.dharshi.113	1265.49	1266.51	PM	A	inf	-1	0	No , not that one .
+IS1004b.A.dialog-act.dharshi.114	1268.304	1269.19	PM	A	el.inf	-1	0	{gap} you are two .
+IS1004b.C.dialog-act.dharshi.53	1269.34	1269.44	ID	C	inf	-1	0	Two .
+IS1004b.A.dialog-act.dharshi.115	1272.63	1274.0	PM	A	ass	-1	0	Alright . {vocalsound}
+IS1004b.C.dialog-act.dharshi.54	1273.97	1276.38	ID	C	fra	-1	0	Okay so the working design is uh
+IS1004b.C.dialog-act.dharshi.55	1276.38	1278.34	ID	C	inf	+1	2	user i interface could be of two types ,
+IS1004b.C.dialog-act.dharshi.56	1278.34	1287.65	ID	C	inf	+1	2	one is the usual press buttons which are there so that the user feels that he is knoing {disfmarker} doing some he is knowing about that technology .
+IS1004b.C.dialog-act.dharshi.57	1287.65	1290.43	ID	C	inf	-1	0	So he is pretty comfortable if he wants to get this ,
+IS1004b.C.dialog-act.dharshi.58	1290.43	1297.58	ID	C	inf	+1	2	and on top of that there there could be a speech recognition technology also being {disfmarker} sitting on the on the remote .
+IS1004b.C.dialog-act.dharshi.59	1297.58	1304.69	ID	C	inf	-1	0	So the old kind of users who don't want to have any changes , it can it can be useful for them ,
+IS1004b.C.dialog-act.dharshi.60	1304.69	1312.78	ID	C	inf	-1	0	and the new users , as uh our Marketing Expert was saying , they can use the new gizmo which is speech recognition kind of thing .
+IS1004b.A.dialog-act.dharshi.117	1312.9	1313.11	PM	A	ass	-1	0	Okay ,
+IS1004b.A.dialog-act.dharshi.118	1313.11	1314.07	PM	A	be.pos	-1	0	sorry to interrupt you ,
+IS1004b.A.dialog-act.dharshi.119	1314.07	1318.61	PM	A	inf	+1	1	but we have seen before that there is a new way of interacting that use wheel .
+IS1004b.C.dialog-act.dharshi.61	1319.15	1319.81	ID	C	ass	-1	0	That's right .
+IS1004b.C.dialog-act.dharshi.62	1319.81	1322.76	ID	C	inf	-1	0	So anyway , that didn't come into my mind ,
+IS1004b.A.dialog-act.dharshi.120	1322.68	1322.99	PM	A	bck	-1	0	Okay .
+IS1004b.C.dialog-act.dharshi.63	1322.76	1324.47	ID	C	inf	-1	0	so th that is a possibility .
+IS1004b.C.dialog-act.dharshi.64	1324.47	1327.06	ID	C	inf	-1	0	These could be other kind of interfaces .
+IS1004b.A.dialog-act.dharshi.116	1327.245	1328.053	PM	A	fra	-1	0	{vocalsound}
+IS1004b.C.dialog-act.dharshi.65	1327.06	1333.25	ID	C	sug	-1	0	Means we can have , depending on the cost , how much we can afford , we can have different kind of interfaces .
+IS1004b.C.dialog-act.dharshi.66	1333.25	1336.86	ID	C	inf	-1	0	So spe buttons are something which is very {disfmarker} everybody is familiar with .
+IS1004b.C.dialog-act.dharshi.67	1336.86	1341.63	ID	C	inf	-1	0	So if you go to the market and you say that buttons are there the people know what it is ,
+IS1004b.A.dialog-act.dharshi.121	1341.44	1341.76	PM	A	bck	-1	0	Mm-hmm .
+IS1004b.C.dialog-act.dharshi.68	1341.63	1348.03	ID	C	inf	-1	0	and on top of that if we are having extra functionality people are willing to shell that twenty-five Euros money which we are thinking .
+IS1004b.C.dialog-act.dharshi.69	1348.71	1351.68	ID	C	inf	-1	0	Otherwise we are just like others in the market .
+IS1004b.C.dialog-act.dharshi.70	1351.68	1356.06	ID	C	inf	-1	0	So anyway that is the first , user interface could be of more than one type ,
+IS1004b.C.dialog-act.dharshi.71	1356.06	1361.22	ID	C	inf	-1	0	and uh yeah that means we can do the on-line changes which which cannot be done now actually .
+IS1004b.C.dialog-act.dharshi.72	1361.22	1365.68	ID	C	inf	-1	0	So apart from the speech , we can have the scroll kind of thing with the buttons .
+IS1004b.C.dialog-act.dharshi.73	1365.68	1370.12	ID	C	inf	-1	0	Now for buttons , normal requirements like bit coding and all those things are required .
+IS1004b.C.dialog-act.dharshi.74	1370.12	1379.04	ID	C	inf	+1	1	And for voice , limited vocabulary automatic speech recognition system is required and we require a microphone also to be sitting there on the remote .
+IS1004b.A.dialog-act.dharshi.122	1379.4	1379.83	PM	A	bck	-1	0	Yeah .
+IS1004b.A.dialog-act.dharshi.123	1379.83	1381.64	PM	A	inf	+1	1	That increases the the cost also .
+IS1004b.C.dialog-act.dharshi.75	1382.05	1382.95	ID	C	ass	-1	0	Uh that's right .
+IS1004b.C.dialog-act.dharshi.76	1382.95	1388.73	ID	C	sug	-1	0	But uh means we have to see how much {disfmarker} what kind of microphones and stuff like that .
+IS1004b.A.dialog-act.dharshi.124	1389.48	1396.7	PM	A	el.ass	+1	1	Do you think that performance of such systems are enough to to target well {disfmarker} of such technologies is enough ?
+IS1004b.C.dialog-act.dharshi.77	1397.32	1400.65	ID	C	ass	-1	0	Uh yes , if it is limited vocabulary usually it's enough .
+IS1004b.A.dialog-act.dharshi.125	1401.04	1401.41	PM	A	ass	-1	0	Okay .
+IS1004b.C.dialog-act.dharshi.78	1401.64	1408.0	ID	C	inf	-1	0	Yeah we we can uh target , means we can target ninety five percent accuracy or somewhere ninety seven perc
+IS1004b.A.dialog-act.dharshi.128	1407.09	1413.45	PM	A	inf	+1	1	Well wh uh I imagine also that the microphone will be an ambiance um a um an ambience microphones
+IS1004b.B.dialog-act.dharshi.178	1408.81	1409.33	UI	B	bck	-1	0	Hmm .
+IS1004b.A.dialog-act.dharshi.129	1413.45	1416.98	PM	A	inf	-1	0	because you are not going to speak into into th into the remote control .
+IS1004b.C.dialog-act.dharshi.79	1413.34	1413.67	ID	C	ass	-1	0	That's right .
+IS1004b.C.dialog-act.dharshi.80	1415.06	1417.44	ID	C	ass	-1	0	No it it could be little d yeah it could be {disfmarker}
+IS1004b.A.dialog-act.dharshi.127	1416.98	1419.5	PM	A	inf	-1	0	So it could be s a few centimetres .
+IS1004b.B.dialog-act.dharshi.179	1418.833	1426.97	UI	B	inf	+1	1	{vocalsound} Well one one other thing that that speech recognition could really blow out the price for is uh when you want to sell into other markets , though ,
+IS1004b.C.dialog-act.dharshi.81	1419.06	1420.0	ID	C	ass	-1	0	That's right . That's right .
+IS1004b.B.dialog-act.dharshi.180	1426.97	1432.43	UI	B	inf	-1	0	because , I'm not sure exactly where we're gonna sell this , but I presume it's not gonna just be English speaking countries .
+IS1004b.A.dialog-act.dharshi.130	1432.17	1432.52	PM	A	bck	-1	0	Yeah .
+IS1004b.B.dialog-act.dharshi.181	1432.43	1435.552	UI	B	inf	-1	0	So then you have to s you know , you have to train models for {disfmarker}
+IS1004b.C.dialog-act.dharshi.82	1432.55	1433.34	ID	C	bck	-1	0	Mm-hmm mm-hmm .
+IS1004b.C.dialog-act.dharshi.83	1435.5	1439.78	ID	C	inf	-1	0	Uh it's more like , means there are different speech technologies which are existing
+IS1004b.C.dialog-act.dharshi.84	1439.78	1442.63	ID	C	inf	-1	0	so D_T_W_ could be kind of which is the easiest .
+IS1004b.C.dialog-act.dharshi.85	1442.63	1448.37	ID	C	inf	-1	0	So you have to store some templates on the on the on the chip itself ,
+IS1004b.C.dialog-act.dharshi.86	1448.37	1452.48	ID	C	inf	-1	0	and {vocalsound} it's just dynamic time warping where you try to find out what it is ,
+IS1004b.C.dialog-act.dharshi.87	1452.48	1456.51	ID	C	inf	-1	0	instead of having a model which has to be trained and being a micro-controller .
+IS1004b.B.dialog-act.dharshi.182	1453.14	1453.35	UI	B	bck	-1	0	Yeah .
+IS1004b.A.dialog-act.dharshi.131	1454.06	1454.41	PM	A	bck	-1	0	Okay .
+IS1004b.A.dialog-act.dharshi.133	1456.78	1461.74	PM	A	sug	-1	0	Okay we shou we should discuss this la later after after after this this uh slide .
+IS1004b.C.dialog-act.dharshi.88	1458.24	1458.95	ID	C	ass	-1	0	Yeah , that's right .
+IS1004b.C.dialog-act.dharshi.89	1460.55	1461.46	ID	C	ass	-1	0	Yeah .
+IS1004b.A.dialog-act.dharshi.134	1461.74	1466.55	PM	A	ass	-1	0	This is a this is a this is a a very important uh issue in discussion .
+IS1004b.C.dialog-act.dharshi.90	1461.46	1462.13	ID	C	fra	-1	0	So we can
+IS1004b.C.dialog-act.dharshi.91	1464.97	1465.98	ID	C	ass	-1	0	That's right . Yep .
+IS1004b.A.dialog-act.dharshi.135	1466.55	1468.07	PM	A	el.inf	-1	0	Okay , next .
+IS1004b.A.dialog-act.dharshi.132	1468.07	1469.87	PM	A	el.inf	-1	0	Uh that finished ?
+IS1004b.C.dialog-act.dharshi.92	1467.61	1467.74	ID	C	inf	-1	0	Yep .
+IS1004b.A.dialog-act.dharshi.136	1470.61	1471.61	PM	A	und	-1	0	No ?
+IS1004b.C.dialog-act.dharshi.93	1470.17	1470.6	ID	C	inf	-1	0	No no .
+IS1004b.C.dialog-act.dharshi.94	1470.6	1472.19	ID	C	inf	-1	0	Components .
+IS1004b.A.dialog-act.dharshi.137	1471.61	1472.29	PM	A	und	-1	0	Components ?
+IS1004b.C.dialog-act.dharshi.95	1472.19	1473.88	ID	C	inf	-1	0	Yeah .
+IS1004b.C.dialog-act.dharshi.96	1473.88	1477.31	ID	C	sug	-1	0	So , will you go to the next slide ?
+IS1004b.A.dialog-act.dharshi.138	1475.776	1477.12	PM	A	off	-1	0	{vocalsound} Yes sure .
+IS1004b.B.dialog-act.dharshi.183	1475.952	1477.31	UI	B	fra	-1	0	{vocalsound}
+IS1004b.C.dialog-act.dharshi.97	1477.31	1481.33	ID	C	inf	-1	0	{vocalsound} Yeah so this is the design which we are thinking so .
+IS1004b.C.dialog-act.dharshi.98	1481.33	1485.11	ID	C	inf	-1	0	We are having a power button and the switch {vocalsound} , which is not much ,
+IS1004b.B.dialog-act.dharshi.184	1482.039	1484.286	UI	B	fra	-1	0	{vocalsound}
+IS1004b.C.dialog-act.dharshi.99	1485.11	1491.07	ID	C	inf	-1	0	and then we are having the {gap} which is to indicate whether the power is on or not .
+IS1004b.C.dialog-act.dharshi.100	1491.07	1494.09	ID	C	inf	-1	0	And then there are two kind of things which can be {disfmarker}
+IS1004b.C.dialog-act.dharshi.101	1494.09	1499.36	ID	C	inf	-1	0	so one is the button interface which has not been shown because because of lack of time {vocalsound} .
+IS1004b.B.dialog-act.dharshi.185	1498.095	1499.991	UI	B	fra	-1	0	{vocalsound}
+IS1004b.C.dialog-act.dharshi.102	1499.36	1500.39	ID	C	inf	-1	0	So we could not put that .
+IS1004b.C.dialog-act.dharshi.103	1500.39	1505.72	ID	C	inf	-1	0	So now where the A_S_R_ decoder is sitting , similarly there are different kind of interfaces which could be there .
+IS1004b.C.dialog-act.dharshi.104	1506.31	1508.37	ID	C	inf	-1	0	So there is A_S_R_ decoder which could be there ,
+IS1004b.C.dialog-act.dharshi.105	1508.37	1512.12	ID	C	inf	-1	0	and then there could be another scroll button scroll scroller ,
+IS1004b.C.dialog-act.dharshi.106	1512.12	1513.75	ID	C	inf	-1	0	and then there could be buttons ,
+IS1004b.C.dialog-act.dharshi.107	1513.75	1518.93	ID	C	inf	-1	0	and all of them they will just do the decoding and put it in the math put it in the proper message format .
+IS1004b.C.dialog-act.dharshi.108	1518.93	1522.01	ID	C	inf	-1	0	And then there is there is the chip which is sitting , the green one ,
+IS1004b.C.dialog-act.dharshi.109	1522.01	1527.65	ID	C	inf	-1	0	and it converts it into bit codes , and that bit codes are sent by the infrared device to the receiver .
+IS1004b.A.dialog-act.dharshi.140	1528.55	1528.82	PM	A	bck	-1	0	Okay .
+IS1004b.C.dialog-act.dharshi.110	1529.83	1531.94	ID	C	inf	-1	0	So this is the easiest design the there could be .
+IS1004b.C.dialog-act.dharshi.111	1531.94	1534.76	ID	C	inf	-1	0	So th an A_S_R_ decoder we can have things in {gap} .
+IS1004b.C.dialog-act.dharshi.112	1535.96	1538.12	ID	C	inf	-1	0	To have different technologies .
+IS1004b.C.dialog-act.dharshi.114	1538.12	1540.18	ID	C	stl	-1	0	So this was the {disfmarker}
+IS1004b.C.dialog-act.dharshi.115	1540.18	1544.99	ID	C	sug	+1	1	my personal preference was that we can have A_S_R_ sitting there on the remote control .
+IS1004b.A.dialog-act.dharshi.139	1545.045	1545.648	PM	A	fra	-1	0	{vocalsound}
+IS1004b.B.dialog-act.dharshi.188	1544.98	1553.16	UI	B	inf	-1	0	You know I guess you could actually train the remote control as you're using it by saying you know {vocalsound} turn volume up , and you press the uh press the button
+IS1004b.C.dialog-act.dharshi.116	1544.99	1545.38	ID	C	ass	-1	0	Yeah .
+IS1004b.B.dialog-act.dharshi.189	1553.16	1560.323	UI	B	inf	-1	0	like uh s people teach sign language to kids f well , by speaking and doing {disfmarker} {vocalsound}
+IS1004b.C.dialog-act.dharshi.117	1556.28	1562.3	ID	C	inf	-1	0	Yeah but uh as soon as you try to put the microchip kind of thing or something the price will go up .
+IS1004b.A.dialog-act.dharshi.141	1560.923	1563.18	PM	A	bck	-1	0	{vocalsound} {vocalsound} Okay .
+IS1004b.B.dialog-act.dharshi.186	1561.79	1561.98	UI	B	bck	-1	0	Yeah .
+IS1004b.C.dialog-act.dharshi.118	1562.3	1564.86	ID	C	inf	-1	0	So these are the slight problems .
+IS1004b.A.dialog-act.dharshi.143	1564.84	1570.72	PM	A	el.ass	-1	0	So your your opinion is that we should go for special condition technologies ?
+IS1004b.C.dialog-act.dharshi.119	1569.15	1570.14	ID	C	fra	-1	0	Because {disfmarker}
+IS1004b.C.dialog-act.dharshi.120	1570.14	1570.56	ID	C	ass	-1	0	yeah
+IS1004b.C.dialog-act.dharshi.121	1570.56	1573.62	ID	C	inf	-1	0	the reason is that if we go into the market means {disfmarker}
+IS1004b.C.dialog-act.dharshi.122	1573.62	1574.86	ID	C	inf	-1	0	though I don't have much idea ,
+IS1004b.C.dialog-act.dharshi.123	1574.86	1578.272	ID	C	fra	-1	0	but as he {disfmarker} the uh Marketing Expert presentation was {disfmarker}
+IS1004b.D.dialog-act.dharshi.93	1577.51	1586.28	ME	D	ass	+1	1	I'm sure if you can sell a a speech recognition remote control for twenty five Euros everyo {vocalsound} everyone will s will buy it .
+IS1004b.B.dialog-act.dharshi.190	1582.432	1588.81	UI	B	ass	+1	1	{vocalsound} {vocalsound} Actually I'm not so sure
+IS1004b.C.dialog-act.dharshi.124	1583.831	1588.448	ID	C	fra	-1	0	{vocalsound} So if we go with just the {disfmarker}
+IS1004b.B.dialog-act.dharshi.191	1588.81	1589.32	UI	B	fra	-1	0	because I'm the {disfmarker}
+IS1004b.D.dialog-act.dharshi.94	1588.69	1589.23	ME	D	ass	-1	0	I'm sure .
+IS1004b.B.dialog-act.dharshi.192	1589.32	1602.93	UI	B	inf	+1	1	you know if I was using a remote control to , say , turn the volume up because I can't hear it very well , I don't really want to you know drown out what people are saying by talking you know when I'm when I'm {disfmarker} instead of pressing up on on a remote control .
+IS1004b.B.dialog-act.dharshi.193	1602.93	1608.49	UI	B	inf	-1	0	You know if there's some there's some dialogue all of a sudden that I can't hear , I'm trying to actually find out what's being said ,
+IS1004b.A.dialog-act.dharshi.144	1606.29	1606.48	PM	A	bck	-1	0	Yeah .
+IS1004b.B.dialog-act.dharshi.194	1608.49	1611.0	UI	B	ass	-1	0	so maybe speech recognition gets in the way more than it helps .
+IS1004b.A.dialog-act.dharshi.145	1609.412	1609.856	PM	A	fra	-1	0	{vocalsound}
+IS1004b.A.dialog-act.dharshi.146	1610.87	1611.905	PM	A	fra	-1	0	Okay so {disfmarker}
+IS1004b.D.dialog-act.dharshi.95	1611.58	1618.999	ME	D	inf	-1	0	Yeah but you know the the average frequency of pushing buttons , it's about {vocalsound}
+IS1004b.B.dialog-act.dharshi.195	1616.432	1617.312	UI	B	fra	-1	0	{vocalsound}
+IS1004b.B.dialog-act.dharshi.196	1618.79	1620.44	UI	B	fra	-1	0	Well it depends if it's a remote control th
+IS1004b.D.dialog-act.dharshi.96	1620.05	1624.04	ME	D	inf	-1	0	it's about eighty eighty eighty pushes per hour , or something like that .
+IS1004b.B.dialog-act.dharshi.197	1624.77	1630.97	UI	B	ass	-1	0	Maybe if the remote control is something that y you don't actually have to pick up anymore , that would be a a useful feature of the speech recogntion .
+IS1004b.D.dialog-act.dharshi.97	1625.216	1626.504	ME	D	fra	-1	0	{vocalsound}
+IS1004b.B.dialog-act.dharshi.198	1630.97	1636.86	UI	B	ass	-1	0	If you can leave it sitting on the table and you don't actually have to find it , then that could be {gap} .
+IS1004b.C.dialog-act.dharshi.125	1631.19	1632.23	ID	C	bck	-1	0	Mm-hmm .
+IS1004b.C.dialog-act.dharshi.126	1632.23	1633.27	ID	C	bck	-1	0	Mm-hmm .
+IS1004b.C.dialog-act.dharshi.127	1633.27	1634.14	ID	C	bck	-1	0	Mm-hmm .
+IS1004b.C.dialog-act.dharshi.128	1634.14	1634.71	ID	C	bck	-1	0	Mm-hmm .
+IS1004b.C.dialog-act.dharshi.129	1634.71	1635.16	ID	C	bck	-1	0	Mm-hmm .
+IS1004b.C.dialog-act.dharshi.130	1635.16	1635.42	ID	C	bck	-1	0	Mm-hmm .
+IS1004b.A.dialog-act.dharshi.147	1635.856	1641.44	PM	A	sug	-1	0	{vocalsound} Okay gentlemens , we have to take some deci decisions right now .
+IS1004b.C.dialog-act.dharshi.131	1640.5	1640.81	ID	C	bck	-1	0	Alright .
+IS1004b.A.dialog-act.dharshi.148	1641.44	1648.67	PM	A	off	-1	0	Um so if I if I kind of summarise everything we've de we we said .
+IS1004b.A.dialog-act.dharshi.149	1648.67	1650.796	PM	A	inf	-1	0	We are targeting T_V_ . {vocalsound}
+IS1004b.A.dialog-act.dharshi.150	1651.0	1652.7	PM	A	stl	-1	0	We need {vocalsound}
+IS1004b.A.dialog-act.dharshi.151	1652.7	1658.45	PM	A	inf	+1	2	we need to have um um remote control which is fanc fancy ,
+IS1004b.A.dialog-act.dharshi.152	1658.45	1663.01	PM	A	inf	+1	2	which is uh which is easy to to hand not too small , not too big .
+IS1004b.A.dialog-act.dharshi.153	1663.01	1666.39	PM	A	fra	-1	0	Um we have {disfmarker}
+IS1004b.D.dialog-act.dharshi.98	1665.25	1666.812	ME	D	inf	-1	0	With a good shape for the {disfmarker}
+IS1004b.A.dialog-act.dharshi.154	1666.39	1667.89	PM	A	ass	-1	0	or good shape , yes .
+IS1004b.A.dialog-act.dharshi.155	1667.89	1670.45	PM	A	inf	+1	2	We should bring new technologies for young peoples ,
+IS1004b.A.dialog-act.dharshi.156	1670.45	1678.05	PM	A	inf	-1	0	and uh as we have uh also requirements to to use uh to to push thr toward the internet .
+IS1004b.A.dialog-act.dharshi.157	1678.05	1679.68	PM	A	sug	-1	0	Maybe this is something we can stick to it .
+IS1004b.A.dialog-act.dharshi.158	1680.25	1690.25	PM	A	inf	-1	0	And um {vocalsound} also , a very interesting things I I I've seen on on on the {disfmarker} one of the comp o our competitor is this wheel that we can use to navigate .
+IS1004b.A.dialog-act.dharshi.159	1690.25	1702.21	PM	A	ass	+1	2	So so my feeling is that re regarding costs budget we have an an an target price , it's not possible to go s to go to L_C_D_
+IS1004b.A.dialog-act.dharshi.160	1702.858	1707.66	PM	A	ass	+1	2	{vocalsound} and also to go to automatic speech recognition technologies .
+IS1004b.A.dialog-act.dharshi.161	1707.66	1710.3	PM	A	inf	-1	0	Uh first m m why not to go to L_C_D_ .
+IS1004b.A.dialog-act.dharshi.162	1710.3	1723.25	PM	A	inf	-1	0	Because um in fact as we are targeting uh T_V_ {disfmarker} in fact we can use T_V_ screen as a screen to feedback {disfmarker} to to give some feedback informations about what we could have .
+IS1004b.B.dialog-act.dharshi.199	1722.39	1724.29	UI	B	ass	-1	0	Well it depends though {disfmarker} well it depends .
+IS1004b.B.dialog-act.dharshi.200	1724.29	1726.1	UI	B	stl	-1	0	If we we don't {disfmarker}
+IS1004b.B.dialog-act.dharshi.201	1726.1	1732.28	UI	B	inf	-1	0	unless we have some input some video input to the T_V_ or we have control over the T_V_ then we can't actually display that .
+IS1004b.B.dialog-act.dharshi.202	1732.28	1737.13	UI	B	inf	-1	0	Like if we if we produce the T_V_s then then yeah we can put you know menus up up there ,
+IS1004b.B.dialog-act.dharshi.203	1737.13	1744.79	UI	B	inf	-1	0	but otherwise we need to actually have some kind of {disfmarker} something sitting in between the video signal and the and the T_V_ to superimpose those those menus .
+IS1004b.B.dialog-act.dharshi.204	1744.79	1746.03	UI	B	inf	-1	0	So that's an extra
+IS1004b.A.dialog-act.dharshi.163	1746.029	1747.22	PM	A	ass	-1	0	{vocalsound} Yeah that's right .
+IS1004b.A.dialog-act.dharshi.164	1747.22	1747.95	PM	A	stl	-1	0	Don don't you ha
+IS1004b.B.dialog-act.dharshi.205	1747.34	1747.93	UI	B	inf	-1	0	cost .
+IS1004b.A.dialog-act.dharshi.165	1747.95	1754.01	PM	A	el.inf	-1	0	don't we have contacts with uh people on T_V_ or or {gap} well systems that exist that we can use ?
+IS1004b.B.dialog-act.dharshi.206	1753.3	1755.27	UI	B	fra	-1	0	Well this is this is another que
+IS1004b.B.dialog-act.dharshi.207	1755.27	1757.49	UI	B	inf	-1	0	we still haven't really defined the remote .
+IS1004b.B.dialog-act.dharshi.208	1757.49	1758.74	UI	B	stl	-1	0	Are we still {disfmarker}
+IS1004b.B.dialog-act.dharshi.209	1758.74	1768.96	UI	B	el.inf	+1	0	you say we're focusing on T_V_ , but is it still a kind of like a universal remote in that it's a replacement remote control , or is this something for our own line of of televisions ?
+IS1004b.A.dialog-act.dharshi.166	1765.53	1766.26	PM	A	bck	-1	0	Yeah .
+IS1004b.B.dialog-act.dharshi.210	1768.96	1771.46	UI	B	ass	-1	0	'Cause that really makes a big difference .
+IS1004b.B.dialog-act.dharshi.211	1771.46	1779.36	UI	B	inf	-1	0	'Cause {vocalsound} even if we have contacts we can't really produce a remote control that can bring up menus on other other companies' T_V_s .
+IS1004b.B.dialog-act.dharshi.212	1779.36	1781.6	UI	B	inf	-1	0	It's just there are too many T_V_s out there .
+IS1004b.B.dialog-act.dharshi.213	1781.6	1782.576	UI	B	fra	-1	0	It's it's not really gonna {disfmarker}
+IS1004b.A.dialog-act.dharshi.167	1781.6	1783.23	PM	A	ass	-1	0	Yeah . That's good point .
+IS1004b.A.dialog-act.dharshi.168	1783.23	1787.14	PM	A	fra	-1	0	What's what cou what could be the cost of uh {disfmarker}
+IS1004b.A.dialog-act.dharshi.169	1787.14	1796.7	PM	A	el.ass	+1	2	well , could we fit the the targets uh in terms of cost uh if we go s to L_C_D_ on the remote control ?
+IS1004b.B.dialog-act.dharshi.214	1797.57	1801.22	UI	B	ass	+1	1	For twenty five Euro ? {vocalsound} I think it's impossible .
+IS1004b.A.dialog-act.dharshi.170	1798.72	1799.16	PM	A	bck	-1	0	Yeah .
+IS1004b.C.dialog-act.dharshi.132	1799.93	1801.81	ID	C	ass	-1	0	It's not possible . It's impossible .
+IS1004b.B.dialog-act.dharshi.215	1801.22	1803.72	UI	B	stl	-1	0	But but I dunno ,
+IS1004b.D.dialog-act.dharshi.100	1801.86	1802.09	ME	D	bck	-1	0	Yeah .
+IS1004b.B.dialog-act.dharshi.216	1803.72	1810.8	UI	B	inf	-1	0	I think um it would be good to know if there is any leverage in that {disfmarker} any leeway in that um that twenty five Euro
+IS1004b.B.dialog-act.dharshi.217	1810.8	1815.06	UI	B	ass	+1	1	because for twenty five Euro I think all we can really do is provide a very basic remote control ,
+IS1004b.B.dialog-act.dharshi.218	1815.06	1821.81	UI	B	inf	-1	0	and that seems to be kind of against the philosophy of our company which is you know putting the fashion into electronics .
+IS1004b.B.dialog-act.dharshi.219	1821.81	1826.25	UI	B	el.inf	+1	2	So I would I would like to know if there's any chance of of increasing the uh
+IS1004b.D.dialog-act.dharshi.99	1825.96	1826.479	ME	D	fra	-1	0	Uh {disfmarker}
+IS1004b.B.dialog-act.dharshi.220	1827.59	1829.56	UI	B	el.inf	+1	2	of increasing the unit price .
+IS1004b.A.dialog-act.dharshi.171	1829.735	1841.1	PM	A	el.ass	-1	0	{vocalsound} So you mean yo you mean we we should target something maybe which is {disfmarker} which would be more expensive but re really fancy in terms to um {disfmarker} in terms to had {disfmarker} to have really an added value ?
+IS1004b.D.dialog-act.dharshi.101	1829.68	1830.962	ME	D	fra	-1	0	What would be {disfmarker}
+IS1004b.B.dialog-act.dharshi.221	1835.17	1835.48	UI	B	bck	-1	0	Yeah .
+IS1004b.B.dialog-act.dharshi.222	1836.98	1837.86	UI	B	bck	-1	0	Yeah .
+IS1004b.B.dialog-act.dharshi.223	1840.6	1841.04	UI	B	ass	-1	0	Yeah
+IS1004b.A.dialog-act.dharshi.173	1841.1	1842.34	PM	A	ass	-1	0	Okay ,
+IS1004b.B.dialog-act.dharshi.224	1841.04	1841.71	UI	B	fra	-1	0	because {disfmarker}
+IS1004b.B.dialog-act.dharshi.225	1841.71	1842.01	UI	B	ass	-1	0	yeah .
+IS1004b.A.dialog-act.dharshi.174	1842.34	1846.016	PM	A	fra	-1	0	so regarding the automatic speech recognition , I think this is {disfmarker}
+IS1004b.D.dialog-act.dharshi.102	1843.85	1846.0	ME	D	fra	-1	0	Wha but what would be {disfmarker}
+IS1004b.D.dialog-act.dharshi.103	1846.0	1846.69	ME	D	off	-1	0	one question ,
+IS1004b.D.dialog-act.dharshi.104	1846.69	1850.28	ME	D	el.inf	+1	1	what would be the goal of putting an L_C_D_ in a remote control ?
+IS1004b.B.dialog-act.dharshi.226	1851.35	1851.65	UI	B	fra	-1	0	Well th
+IS1004b.D.dialog-act.dharshi.105	1851.37	1853.29	ME	D	el.inf	-1	0	What what kind of information ?
+IS1004b.B.dialog-act.dharshi.227	1853.92	1858.78	UI	B	inf	-1	0	'Cause you can have things like the programme name instead of the channel numbers , like an interactive programme guide .
+IS1004b.D.dialog-act.dharshi.106	1857.5	1863.44	ME	D	inf	-1	0	Yeah but mo most of the T_V_s nowadays show the show the
+IS1004b.A.dialog-act.dharshi.175	1860.86	1862.09	PM	A	inf	-1	0	They have tele teletext .
+IS1004b.A.dialog-act.dharshi.176	1863.82	1865.37	PM	A	inf	-1	0	Well , because they have teletext on it .
+IS1004b.D.dialog-act.dharshi.107	1864.87	1865.16	ME	D	fra	-1	0	the n
+IS1004b.A.dialog-act.dharshi.177	1865.37	1873.79	PM	A	inf	-1	0	Th th you have a teletext sin signal that you can that you can uh that you can get thr through the channel .
+IS1004b.D.dialog-act.dharshi.109	1872.05	1872.49	ME	D	ass	-1	0	Yeah
+IS1004b.D.dialog-act.dharshi.110	1872.49	1875.66	ME	D	inf	-1	0	but yeah most of the T_V_s have teletext nowadays .
+IS1004b.A.dialog-act.dharshi.180	1876.04	1877.88	PM	A	inf	-1	0	They have t most of them have teletext ,
+IS1004b.A.dialog-act.dharshi.181	1877.88	1886.52	PM	A	inf	-1	0	but we want to get rid {disfmarker} well one of our requirements is to uh to move to teletext to uh to the use of internet .
+IS1004b.D.dialog-act.dharshi.111	1877.43	1877.71	ME	D	bck	-1	0	Yeah .
+IS1004b.A.dialog-act.dharshi.182	1886.52	1887.72	PM	A	fra	-1	0	So to to uh
+IS1004b.B.dialog-act.dharshi.228	1888.85	1891.66	UI	B	inf	-1	0	You can get a lot more information on it .
+IS1004b.A.dialog-act.dharshi.184	1889.86	1895.73	PM	A	inf	-1	0	to browse more easily the teletext . For instance through uh through your remote control .
+IS1004b.D.dialog-act.dharshi.112	1897.38	1900.41	ME	D	el.inf	+1	1	So what would what would appear in the in the L_C_D_ ?
+IS1004b.B.dialog-act.dharshi.229	1902.29	1907.16	UI	B	inf	+1	2	So you could have the name of the programme , you could have um the start time you know where it's up to .
+IS1004b.A.dialog-act.dharshi.185	1905.0	1907.97	PM	A	inf	-1	0	The ti the start time , all the p all the programmes
+IS1004b.A.dialog-act.dharshi.186	1907.97	1909.75	PM	A	fra	-1	0	you could have uh {disfmarker} o
+IS1004b.B.dialog-act.dharshi.230	1908.88	1915.26	UI	B	inf	-1	0	You could have a l even a little image of you know the c you know the the m the main actors or something
+IS1004b.D.dialog-act.dharshi.113	1912.84	1913.23	ME	D	bck	-1	0	Okay .
+IS1004b.B.dialog-act.dharshi.231	1915.26	1918.547	UI	B	inf	-1	0	so you can quickly just kind of {disfmarker} even without reading {disfmarker}
+IS1004b.A.dialog-act.dharshi.187	1917.62	1920.93	PM	A	inf	-1	0	Well I don't know if this information is available from teletext , also .
+IS1004b.B.dialog-act.dharshi.232	1921.41	1921.77	UI	B	inf	-1	0	Well no ,
+IS1004b.B.dialog-act.dharshi.233	1921.77	1924.47	UI	B	inf	-1	0	but there are the electronic programme guides out there .
+IS1004b.B.dialog-act.dharshi.234	1924.47	1926.53	UI	B	inf	-1	0	They may not have pictures , but maybe they do .
+IS1004b.C.dialog-act.dharshi.133	1924.14	1924.546	ID	C	fra	-1	0	Are {disfmarker}
+IS1004b.B.dialog-act.dharshi.235	1926.53	1928.49	UI	B	inf	-1	0	There's {disfmarker} dependi it also depends on the country .
+IS1004b.A.dialog-act.dharshi.188	1927.35	1928.53	PM	A	fra	-1	0	Well because {disfmarker} {vocalsound}
+IS1004b.A.dialog-act.dharshi.189	1928.53	1938.35	PM	A	inf	-1	0	for the same reason that we cannot uh {gap} informations on the T_V_ {gap} . We c we couldn't grab information information which is not there .
+IS1004b.B.dialog-act.dharshi.236	1939.62	1939.85	UI	B	ass	-1	0	No
+IS1004b.B.dialog-act.dharshi.237	1939.85	1943.03	UI	B	inf	-1	0	but I mean with the internet you have flexibility of where you get your information from .
+IS1004b.B.dialog-act.dharshi.238	1943.03	1947.6	UI	B	inf	-1	0	So it may be possible that there are people out there providing that . Uh .
+IS1004b.A.dialog-act.dharshi.190	1945.04	1946.0	PM	A	stl	-1	0	So {disfmarker}
+IS1004b.A.dialog-act.dharshi.191	1946.0	1956.129	PM	A	el.inf	+1	1	so that mean w w we need an in an extra internet connection to use the remote control , if you want to browse , in addition to the T_V_ , or uh or it should be a special T_V_ connected to {disfmarker}
+IS1004b.D.dialog-act.dharshi.114	1946.25	1946.747	ME	D	fra	-1	0	But {disfmarker}
+IS1004b.D.dialog-act.dharshi.115	1951.2	1951.53	ME	D	bck	-1	0	Yeah .
+IS1004b.B.dialog-act.dharshi.239	1955.14	1959.23	UI	B	inf	-1	0	Well I I think if we're gonna {disfmarker} I think we would definitely need the internet connection
+IS1004b.B.dialog-act.dharshi.240	1959.23	1966.38	UI	B	inf	-1	0	because even with y I don't think you could even get teletext information from the T_V_ onto the remote control , especially if we don't control the T_V_ .
+IS1004b.A.dialog-act.dharshi.192	1959.952	1960.729	PM	A	fra	-1	0	{vocalsound}
+IS1004b.B.dialog-act.dharshi.241	1966.38	1966.74	UI	B	inf	-1	0	I dunno .
+IS1004b.B.dialog-act.dharshi.242	1966.74	1967.57	UI	B	sug	-1	0	We need to find that out .
+IS1004b.A.dialog-act.dharshi.193	1967.8	1968.54	PM	A	ass	-1	0	Okay .
+IS1004b.A.dialog-act.dharshi.194	1968.54	1970.16	PM	A	sug	-1	0	{vocalsound} We need to close the meeting .
+IS1004b.A.dialog-act.dharshi.195	1970.16	1971.92	PM	A	stl	-1	0	Um {vocalsound} so {disfmarker}
+IS1004b.C.dialog-act.dharshi.134	1971.63	1973.49	ID	C	off	-1	0	But {vocalsound} just a small thing ,
+IS1004b.A.dialog-act.dharshi.196	1973.64	1974.35	PM	A	ass	-1	0	Very quickly .
+IS1004b.C.dialog-act.dharshi.135	1973.49	1975.36	ID	C	el.inf	-1	0	what kind of market we are targeting ?
+IS1004b.C.dialog-act.dharshi.136	1975.36	1979.57	ID	C	el.inf	+1	0	Is it that we are targeting the replacement remote market , or what ?
+IS1004b.C.dialog-act.dharshi.137	1979.57	1983.17	ID	C	el.inf	-1	0	So the remote has gone bad and the person wants to buy a new remote or {disfmarker}
+IS1004b.C.dialog-act.dharshi.138	1983.17	1987.05	ID	C	inf	-1	0	because the cost of L_C_D_ thing could be as high as the T_V_ itself .
+IS1004b.A.dialog-act.dharshi.197	1987.35	1989.32	PM	A	ass	-1	0	No .
+IS1004b.C.dialog-act.dharshi.139	1987.05	1988.01	ID	C	ass	-1	0	That is very important .
+IS1004b.B.dialog-act.dharshi.243	1987.81	1989.22	UI	B	bck	-1	0	Mm .
+IS1004b.A.dialog-act.dharshi.198	1989.32	1996.54	PM	A	inf	-1	0	Yeah , well people go to buy another remote control when they broke n broke their {gap} ,
+IS1004b.B.dialog-act.dharshi.244	1989.22	1991.36	UI	B	ass	-1	0	If it's a really small T_V_ maybe {vocalsound} .
+IS1004b.C.dialog-act.dharshi.140	1990.816	1991.326	ID	C	bck	-1	0	{vocalsound}
+IS1004b.C.dialog-act.dharshi.141	1994.62	1996.23	ID	C	ass	-1	0	Broke . Okay . Okay .
+IS1004b.A.dialog-act.dharshi.199	1996.54	2001.09	PM	A	inf	-1	0	and they want to go t for universal one , and they take the fanciest they can have .
+IS1004b.C.dialog-act.dharshi.142	1997.91	1999.04	ID	C	bck	-1	0	Okay . Okay .
+IS1004b.C.dialog-act.dharshi.143	2000.19	2001.07	ID	C	bck	-1	0	Okay . Okay .
+IS1004b.A.dialog-act.dharshi.200	2001.09	2003.89	PM	A	sug	-1	0	So this is {disfmarker} that we z that that we should target .
+IS1004b.A.dialog-act.dharshi.201	2004.22	2008.36	PM	A	stl	-1	0	So the com the um {vocalsound} the uh {vocalsound}
+IS1004b.A.dialog-act.dharshi.202	2008.36	2009.73	PM	A	inf	-1	0	the committment is the following ,
+IS1004b.A.dialog-act.dharshi.203	2009.73	2012.91	PM	A	inf	+1	2	we don't go for speech recognition technology .
+IS1004b.A.dialog-act.dharshi.204	2012.91	2017.93	PM	A	inf	+1	2	The L_C_D_ is still on disc is still open to discussion .
+IS1004b.C.dialog-act.dharshi.144	2012.64	2012.91	ID	C	bck	-1	0	Mm-hmm .
+IS1004b.A.dialog-act.dharshi.205	2017.93	2026.71	PM	A	sug	-1	0	It is up to you to go through this um {vocalsound} uh this way and to to report report me back next meeting .
+IS1004b.A.dialog-act.dharshi.206	2026.71	2027.29	PM	A	stl	-1	0	So
+IS1004b.D.dialog-act.dharshi.116	2027.92	2032.94	ME	D	inf	+1	1	I think that the speech recognition technology would be cheaper the {disfmarker} than the L_C_D_ .
+IS1004b.C.dialog-act.dharshi.145	2030.26	2032.87	ID	C	inf	-1	0	It's it's cheaper as compared to the L_C_D_ .
+IS1004b.A.dialog-act.dharshi.207	2033.18	2034.98	PM	A	ass	-1	0	Yeah , but not sure .
+IS1004b.A.dialog-act.dharshi.208	2034.98	2035.76	PM	A	inf	-1	0	Maybe it's cheaper ,
+IS1004b.A.dialog-act.dharshi.209	2035.76	2037.024	PM	A	fra	-1	0	but we have no {disfmarker}
+IS1004b.D.dialog-act.dharshi.117	2037.08	2039.23	ME	D	inf	-1	0	Because with the L_C_D_ you need more requirements .
+IS1004b.D.dialog-act.dharshi.118	2039.23	2041.0	ME	D	inf	-1	0	You need a internet connection .
+IS1004b.D.dialog-act.dharshi.119	2041.0	2042.98	ME	D	inf	-1	0	You need m more things .
+IS1004b.B.dialog-act.dharshi.245	2041.922	2042.401	UI	B	fra	-1	0	{vocalsound}
+IS1004b.D.dialog-act.dharshi.120	2042.98	2043.2	ME	D	inf	-1	0	But
+IS1004b.B.dialog-act.dharshi.246	2044.76	2047.19	UI	B	stl	-1	0	Well the thing is I think I think the type of peop
+IS1004b.D.dialog-act.dharshi.121	2044.53	2046.41	ME	D	inf	-1	0	for the speech recognition you you don't need anything .
+IS1004b.D.dialog-act.dharshi.122	2046.41	2048.53	ME	D	inf	-1	0	You just say channel fifty , and that's it .
+IS1004b.B.dialog-act.dharshi.247	2049.07	2059.43	UI	B	ass	+1	1	I think the type of people that are gonna want to buy a very stylish rem r remote control with lots of new technologies are the kinda people that are gonna have you know a wireless internet connection maybe , or a {disfmarker} you know .
+IS1004b.D.dialog-act.dharshi.123	2058.92	2063.34	ME	D	sug	+1	2	But then we should move to another target b because at twenty five Dollars ,
+IS1004b.C.dialog-act.dharshi.146	2061.86	2065.77	ID	C	ass	-1	0	Means th yeah twenty five Euros is {disfmarker} yeah , that's right .
+IS1004b.B.dialog-act.dharshi.248	2063.14	2064.46	UI	B	sug	-1	0	Well this is what we need to find out .
+IS1004b.D.dialog-act.dharshi.124	2063.34	2063.878	ME	D	fra	-1	0	it's {disfmarker}
+IS1004b.B.dialog-act.dharshi.249	2064.46	2068.15	UI	B	el.inf	+1	2	Can we can we increase the the price point of this remote control ?
+IS1004b.B.dialog-act.dharshi.250	2068.15	2069.056	UI	B	fra	-1	0	'Cause otherwise we need {disfmarker}
+IS1004b.A.dialog-act.dharshi.210	2068.92	2069.72	PM	A	stl	-1	0	Okay this is {gap} {disfmarker}
+IS1004b.A.dialog-act.dharshi.211	2069.72	2071.23	PM	A	inf	-1	0	this is an open question for you .
+IS1004b.A.dialog-act.dharshi.212	2072.88	2073.67	PM	A	ass	-1	0	Yeah .
+IS1004b.A.dialog-act.dharshi.213	2073.67	2076.15	PM	A	sug	-1	0	This is uh up to you to tell us .
+IS1004b.A.dialog-act.dharshi.214	2076.15	2080.27	PM	A	ass	-1	0	But I'm definitely not keen on to to {disfmarker}
+IS1004b.D.dialog-act.dharshi.125	2078.6	2079.65	ME	D	el.inf	-1	0	To move to another target ?
+IS1004b.A.dialog-act.dharshi.215	2080.27	2081.09	PM	A	inf	-1	0	no no no ,
+IS1004b.A.dialog-act.dharshi.216	2081.09	2086.53	PM	A	ass	+1	1	I'm no I'm definit definitely not keen on going to speech recognition technologies .
+IS1004b.A.dialog-act.dharshi.217	2086.53	2088.2	PM	A	inf	-1	0	I'm not confident enough .
+IS1004b.A.dialog-act.dharshi.218	2088.2	2092.1	PM	A	ass	-1	0	I'm not sure that that we'll have a product really that work .
+IS1004b.A.dialog-act.dharshi.219	2092.1	2093.104	PM	A	fra	-1	0	I uh that work {disfmarker}
+IS1004b.B.dialog-act.dharshi.251	2093.05	2094.992	UI	B	ass	-1	0	It's kind of hard to guarantee that you're gonna {disfmarker}
+IS1004b.A.dialog-act.dharshi.220	2094.11	2094.96	PM	A	fra	-1	0	It's real
+IS1004b.A.dialog-act.dharshi.221	2094.96	2095.65	PM	A	ass	-1	0	yeah .
+IS1004b.A.dialog-act.dharshi.222	2095.65	2098.08	PM	A	ass	-1	0	How to guarantee such performances is really hard .
+IS1004b.B.dialog-act.dharshi.252	2096.08	2096.585	UI	B	fra	-1	0	{gap}
+IS1004b.D.dialog-act.dharshi.126	2100.048	2105.18	ME	D	inf	-1	0	{gap} the expert uh said ninety five percent {vocalsound} .
+IS1004b.C.dialog-act.dharshi.147	2102.902	2105.056	ID	C	fra	-1	0	{vocalsound}
+IS1004b.A.dialog-act.dharshi.223	2104.1	2107.57	PM	A	ass	-1	0	Well this is still {disfmarker} is is very bad .
+IS1004b.B.dialog-act.dharshi.253	2104.04	2105.76	UI	B	ass	-1	0	Ninety five percent is not good enough though .
+IS1004b.B.dialog-act.dharshi.254	2107.04	2107.28	UI	B	fra	-1	0	{gap}
+IS1004b.A.dialog-act.dharshi.224	2107.57	2109.92	PM	A	inf	-1	0	So , this is the end of this discussion .
+IS1004b.A.dialog-act.dharshi.225	2109.92	2114.32	PM	A	inf	-1	0	Next meeting uh here are the task you have to work on .
+IS1004b.A.dialog-act.dharshi.226	2114.32	2120.47	PM	A	inf	+1	2	Um {vocalsound} so you have to work on the component uh concept .
+IS1004b.C.dialog-act.dharshi.148	2119.63	2120.02	ID	C	bck	-1	0	Okay .
+IS1004b.A.dialog-act.dharshi.227	2120.47	2123.27	PM	A	inf	+1	2	Uh you have to work on user interface ,
+IS1004b.A.dialog-act.dharshi.228	2123.27	2125.86	PM	A	inf	+1	2	and you have to go through a trend watching .
+IS1004b.A.dialog-act.dharshi.229	2126.95	2128.49	PM	A	stl	-1	0	Okay .
+IS1004b.A.dialog-act.dharshi.230	2128.49	2132.62	PM	A	inf	+1	1	So the question is still open about the L_C_D_ thing .
+IS1004b.A.dialog-act.dharshi.231	2134.24	2135.5	PM	A	stl	-1	0	Um uh we {disfmarker}
+IS1004b.A.dialog-act.dharshi.232	2135.5	2140.86	PM	A	sug	-1	0	I hope that next meeting we will uh we'll take some um decision that direction .
+IS1004b.A.dialog-act.dharshi.233	2140.86	2142.06	PM	A	be.pos	-1	0	Thanks .
+IS1004b.A.dialog-act.dharshi.234	2142.06	2142.42	PM	A	be.pos	-1	0	Bye .
+IS1004b.B.dialog-act.dharshi.255	2141.87	2142.19	UI	B	bck	-1	0	Yep .

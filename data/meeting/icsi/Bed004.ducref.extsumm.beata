@@ -1,0 +1,102 @@
+So . On Friday we had our wizard test data test and um {vocalsound} these are some of the results .
+this was the uh first three tasks she had to {disfmarker} to master after she called the system ,
+and um then of course the system broke down ,
+I should say the system was supposed to break down and then um these were the remaining three tasks that she was going to solve , with a human {disfmarker}
+The reading was five minutes , exactly .
+So . So there 's no system ,
+Like , there was a wizard for both uh {disfmarker} both parts ,
+It was bo it both times the same person .
+One time , pretending to be a system ,
+one time , to {disfmarker} pretending to be a human , which is actually not pretending .
+The reading needs to be shorter .
+Five minutes is just too long .
+Um , that was already anticipated by some people suggested that if we just have bullets here , they 're gonna not {disfmarker} they 're {disfmarker} subjects are probably not gonna {disfmarker} going to follow the order .
+And uh she did not .
+She {disfmarker} she jumped around quite a bit .
+And we need a better introduction for the wizard .
+That is something that Fey actually thought of a {disfmarker} in the last second that sh the system should introduce itself , when it 's called .
+And um , um , another suggestion , by Liz , was that we uh , through subjects , switch the tasks .
+So when {disfmarker} when they have task - one with the computer , the next person should have task - one with a human , and so forth .
+Um , we have to refine the tasks more and more , which of course we haven't done at all , so far , in order to avoid this rephrasing ,
+so where , even though w we don't tell the person " ask {pause} blah - blah - blah - blah - blah "
+they still try , or at least Litonya tried to um repeat as much of that text as possible .
+Say exactly what 's on there ?
+And uh my suggestion is of course we {disfmarker} we keep the wizard , because I think she did a wonderful job ,
+in the sense that she responded quite nicely to things that were not asked for ,
+Um . Johno pointed out that uh we have maybe a grammatical gender problem there with wizard .
+I wasn't {disfmarker} wasn't sure whether wizard was the correct term for {pause} uh " not a man " .
+So {pause} first of all , I agree that um we should hire Fey , and start paying her .
+Probably pay for the time she 's put in as well .
+I mean , you know what exactly do we do to {disfmarker} to put her on the payroll in some way ?
+Um {pause} And also if she 's willing to take on the job of organizing all those subjects and stuff that would be wonderful .
+And , uh she 's {disfmarker} actually she 's going to graduate school in a kind of an experimental paradigm ,
+And um I told her that we gonna um figure out a meeting time in the near future to refine the tasks and s look for the potential sources to find people .
+She also agrees that you know if it 's all just gonna be students the data is gonna be less valuable because of that
+Well , as I say there is this s set of people next door , it 's not hard to
+However , we may run into a problem with a reading task there .
+We could talk to the people who run it and um see if they have a way that they could easily uh tell people that there 's a task , pays ten bucks or something ,
+but um you have to be comfortable reading relatively complicated stuff .
+And {disfmarker} and there 'll probably be self - selection to some extent .
+Um . Now , {pause} I signed us up for the Wednesday slot , and part of what we should do is this .
+my idea on that was {pause} uh , partly we 'll talk about system stuff for the computer scientists ,
+but partly I did want it to get the linguists involved in some of this issue about what the task is and all {disfmarker} um you know , what the dialogue is , and what 's going on linguistically ,
+because to the extent that we can get them contributing ,
+So this issue about you know re - formulating things ,
+maybe we can get some of the linguists sufficiently interested that they 'll help us with it ,
+But then , the other thing of course is we should um give the computer scientists some idea of {disfmarker} of what 's going on with the system design ,
+and where we think the belief - nets fit in
+and where the pieces are and stuff like that .
+So , what I did for this {disfmarker} this is {disfmarker} uh , a pedagogical belief - net
+because I was {disfmarker} I {disfmarker} I took {disfmarker} I tried to conceptually do what you were talking about with the nodes that you could expand out {disfmarker}
+I made these dummy nodes called Trajector - In and Trajector - Out that would isolate the things related to the trajector .
+And then there were the things with the source and the path and the goal .
+And I separated them out .
+And then I um did similar things for our {disfmarker} our net to {disfmarker} uh with the context and the discourse and whatnot ,
+um , so we could sort of isolate them or whatever in terms of the {disfmarker} the top layer .
+And then the bottom layer is just the Mode .
+So basically all I did was I took the last {pause} belief - net
+and I grouped things according to what {disfmarker} how I thought they would fit in to uh image schemas that would be related .
+And the two that I came up with were Trajector - landmark and then Source - path - goal as initial ones .
+And then I said well , uh the trajector would be the person in this case probably .
+Um , you know , we have {disfmarker} we have the concept of what their intention was , whether they were trying to tour or do business or whatever ,
+And then um in terms of the source , the things {disfmarker} uh the only things that we had on there I believe were whether {disfmarker}
+but uh whether the {disfmarker} where I 'm currently at is a landmark might have a bearing on whether {disfmarker}
+And " usefulness " is basi basically means is that an institutional facility like a town hall or something like that that 's not {disfmarker} something that you 'd visit for tourist 's {disfmarker} tourism 's sake or whatever .
+" Travel constraints " would be something like you know , maybe they said they can {disfmarker} they only wanna take a bus or something like that ,
+And then those are somewhat related to the path ,
+so that would determine whether we 'd {disfmarker} could take {disfmarker} we would be telling them to go to the bus stop or versus walking there directly .
+Alright , so I understand what 's {disfmarker} what you got .
+I don't yet understand {pause} how you would use it .
+And {disfmarker} and uh {disfmarker} Bhaskara and I was talking about this a little earlier today {disfmarker}
+but there is some technology you could try to apply .
+So it 's possible that we could do something like a summary node of some sort that {disfmarker}
+I mean , not necessarily in th in this meeting , but to try to informally think about what the decision variables are .
+you know , what are the most relevant things .
+And the other trick , which is not a technical trick , it 's kind of a knowledge engineering trick , is to make the n {pause} each node sufficiently narrow that you don't get this combinatorics .
+So that if you decided that you could characterize the decision as a trade - off between three factors , whatever they may be ,
+then you could say " Aha , let 's have these three factors " ,
+and maybe a binary version f for each , or some relatively compact decision node just above the final one .
+And then the question would be if {disfmarker} if those are the things that you care about , uh can you make a relatively compact way of getting from the various inputs to the things you care about .
+given that we 're not gonna screw with the technology and just always use uh sort of orthodox Bayes - nets , then we have a knowledge engineering little problem of how do we do that .
+Uh , I don't think our friends uh on Wednesday are going to be able to {disfmarker}
+Well , let me think about whether {disfmarker} whether I think we can present this to them or not .
+We could actually , y yeah draw it in a different way , in the sense that it would make it more abstract .
+And um this is about as much as we can do if we don't w if we want to avoid uh uh a huge combinatorial explosion where we specify " OK , if it 's this and this but that is not the case " , and so forth , it just gets really really messy .
+So we don't {disfmarker} we don't use the discourse , we don't use the context , we don't do any of those things .
+There will be rules , but they aren't rules that come to final decisions , they 're rules that gather information for a decision process .
+see what 's the really interesting question is can you use uh deep uh cognitive linguistics to {pause} get powerful generalizations .
+What you 'd really like of course is the same thing you 'd always like which is that you have um a kind of intermediate representation which looks the same o over a bunch of inputs and a bunch of outputs .
+So all sorts of different tasks {pause} and all sorts of different ways of expressing them use a lot of the same mechanism for pulling out what are the fundamental things going on .
+And pushing it one step further , when you get to construction grammar and stuff , what you 'd like to be able to do is say you have this parser which is much fancier than the parser that comes with uh SmartKom ,
+So just from this local construction you know that you 're gonna hafta treat it as a container you might as well go off and get that information .
+The Bayes - nets will be dec specific for each decision .
+But what I 'd like to be able to do is to have the way that you extract properties , that will go into different Bayes - nets , be the {disfmarker} uh general .
+you know , the actual what people wanna do or what they 're referring to and stuff ,
+in independent of whether it {disfmarker} about {disfmarker} what is this or where is it or something , that you could tell from the construction , you could pull out deep semantic information which you 're gonna use in a general way .
+It 's unfortunate also that English has sort of got rid of most of its spatial adverbs
+because they 're really fancy then , in {disfmarker} in {disfmarker} for these kinds of analysis .
+Parsers can pick those up but {disfmarker} but the {disfmarker} with the spatial adverbs , they have a tough time .
+Because the {disfmarker} mean the semantics are very complex in that .
+b But an architecture like this would also enable us maybe to {disfmarker} to throw this away and {disfmarker} and replace it with something else , or whatever ,
+so that we have {disfmarker} so that this is sort of the representational formats we 're {disfmarker} we 're {disfmarker} we 're talking about that are independent of the problem ,
+that generalize over those problems , and are oh , t of a higher quality than an any actual whatever um belief - net , or " X " that we may use for the decision making , ultimately .

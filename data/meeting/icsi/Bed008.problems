@@ -1,0 +1,15 @@
+0	Bed008.s.16	The is only a diagrammatic view of how the decision tree for the EVA task looks like.
+2	Bed008.s.17	A lot of the details have been glossed over: the user model can potentially comprise a huge number of factors; a planning "go-there" node needs input from several other areas of the net; there are intricate interactions between discourse and the situation model.
+Bed008.E.dialogueact615	1907.29	1911.13	E	Grad	s	+1	1	we have the user interest is a {disfmarker} is a vector of five hundred values ,
+Bed008.B.dialogueact1084	3050.53	3059.64	B	Professor	s:s	+1	1	that you 'd have to do see in order to do reference and stuff like that um you 've gotta have both the current discourse and the context to say I wanna go back there ,
+1	Bed008.s.18	Similarly , what discourse properties are of importance and how they influence EVA probabilities is still a mystery.
+Bed008.B.dialogueact820	2421.01	2422.2	B	Professor	s	+1	2	and we don't know what they are yet .
+1	Bed008.s.19	On a more general note , there is also the question of whether the net should be updated continuously or only when it is needed.
+Bed008.D.dialogueact191	769.94	774.65	D	Grad	qr	+1	1	but then the question is do you {disfmarker} do we wanna propagate beliefs every single time it 's updated or only when we need to ?
+0	Bed008.s.20	No final decision was taken as to the rules of computation applying in the belief-net.
+3	Bed008.s.21	The more interesting solutions would ideally require training data , and it is still debatable whether the current collection would be appropriate for this particular task.
+Bed008.C.dialogueact1438	4087.37	4090.09	C	Grad	s^bk|s^bu.%--	+1	2	OK , so they {disfmarker} they could either be hand coded or learned or
+Bed008.C.dialogueact1441	4095.08	4095.89	C	Grad	s	+1	1	Based on training data ,
+Bed008.D.dialogueact1458	4267.7	4270.24	D	Grad	qy^e^rt	+1	1	like , are we able to get these nodes from the data ?
+1	Bed008.s.22	In any case , how different architectures can be implemented in JavaBayes and what modifications would be necessary for the purposes of this project also need to be investigated.
+Bed008.D.dialogueact1223	3395.0	3404.19	D	Grad	fg|s	+1	2	Yeah , I {disfmarker} I mean , it might soon , if this is gonna be used in a serious way like java base then it might soon be necessary to uh start modifying it for our purposes .

@@ -1,0 +1,75 @@
+11	IS1005b.rdhillon.s.1	The project manager opened the meeting and then the marketing expert discussed user requirements.
+IS1005b.A.dialog-act.dharshi.4	47.79	51.78	A	PM	inf	+1	1	Tod uh for this meeting I will take the notes and do the minutes .
+IS1005b.A.dialog-act.dharshi.5	53.13	57.33	A	PM	inf	+1	1	Uh so we will see our three presentations .
+IS1005b.A.dialog-act.dharshi.7	58.75	73.97	A	PM	inf	+1	1	Um we will start with the uh Manager Expert wi who will talk about uh user re requirements , whats user needs and what it desire for this devi device .
+IS1005b.D.dialog-act.dharshi.10	117.68	126.77	D	ME	inf	+1	1	Okay , so basically I'm gonna present some findings of a study we conducted uh into uh what users want in this remote control .
+IS1005b.D.dialog-act.dharshi.15	156.35	168.09	D	ME	inf	+1	1	So basically um the major things we found out was that um basically users don't like the look and feel of of most remote controls that are currently on the market .
+IS1005b.D.dialog-act.dharshi.17	169.96	178.6	D	ME	inf	+1	1	seventy five percent of the people we we uh did the experiments on , found that rem remote the remote controls that they'd used in the past were ugly .
+IS1005b.D.dialog-act.dharshi.19	179.75	185.35	D	ME	inf	+1	1	Um they they didn't match the operating behaviour of the user ,
+IS1005b.D.dialog-act.dharshi.22	195.1	208.78	D	ME	inf	+1	1	Um and thirdly they say that w half of the users that we um tested said that they only used ten percent of the buttons that uh are on remote controls .
+IS1005b.D.dialog-act.dharshi.25	219.18	232.7	D	ME	inf	+1	1	And from this we basically came up with the figure that the channel buttons , the channel selection buttons are the most {disfmarker} by far the most used buttons on the remote control .
+IS1005b.D.dialog-act.dharshi.35	279.59	285.64	D	ME	inf	+1	1	And basically they came {disfmarker} they said the channel , volume , and power buttons had the highest relevance to users ,
+IS1005b.D.dialog-act.dharshi.41	322.65	333.99	D	ME	inf	+1	1	And fifty percent of the users said that uh what frustrates them is losing the remote control um somewhere in the room and not being able to find it .
+4	IS1005b.rdhillon.s.2	The marketing expert also found that younger users want an LCD display and a remote capable of speech recognition.
+IS1005b.D.dialog-act.dharshi.46	369.53	372.1	D	ME	inf	+1	1	In particular , do they want an L_C_D_ d display ,
+IS1005b.D.dialog-act.dharshi.47	372.1	378.75	D	ME	inf	+1	1	and secondly , do they think speech recognition uh is a useful feature to have on a remote control .
+IS1005b.D.dialog-act.dharshi.48	378.75	385.94	D	ME	inf	+1	1	Um basically our findings are that um amongst a younger age groups uh the answer is umv overwhelmingly yes .
+IS1005b.D.dialog-act.dharshi.53	408.82	411.79	D	ME	inf	+1	1	So I guess it depends on where we're focusing our our market .
+12	IS1005b.rdhillon.s.3	The interface specialist discussed the interior workings of a remote and stated a preference for using radio waves over infra-red technology.
+IS1005b.C.dialog-act.dharshi.17	562.08	566.99	C	UI	inf	+1	1	Okay , so here is my presentation about technical function design .
+IS1005b.C.dialog-act.dharshi.23	600.95	613.63	C	UI	inf	+1	1	Uh first is remote control have sh ha should have some electric circuits uh making interface with uh keyboard and uh r reading uh keyboard and reading the keyboard uh commands .
+IS1005b.C.dialog-act.dharshi.26	621.65	629.89	C	UI	inf	+1	1	And then there should be uh an electronic circuit making uh electronic signals according to these commands
+IS1005b.C.dialog-act.dharshi.27	629.89	640.72	C	UI	inf	+1	1	and uh finally there is a transmitter which is a cord or a a diode making uh making uh waves to transmit through the air
+IS1005b.C.dialog-act.dharshi.29	653.58	666.43	C	UI	inf	+1	1	Okay , {vocalsound} uh about {disfmarker} what I found about uh different uh these different blocks are uh , usually there are two different methods uh to {disfmarker} for designing a remote control .
+IS1005b.C.dialog-act.dharshi.30	666.43	672.33	C	UI	inf	+1	1	They are based on infra-red uh waves or uh uh radio waves .
+IS1005b.C.dialog-act.dharshi.41	728.15	743.17	C	UI	sug	+1	1	uh uh uh uh certainly a remote control with {disfmarker} uh working with radio waves is uh preferred because uh you can pr you can take it in any direction and you don't need to tune it any way .
+IS1005b.C.dialog-act.dharshi.38	743.17	751.59	C	UI	sug	+1	1	And uh uh again , using bigger buttons and less number of buttons are also preferred , as I see .
+IS1005b.D.dialog-act.dharshi.68	766.4	772.04	D	ME	el.inf	+1	2	Do you think radio waves um will interfere with other appliances in the home ?
+IS1005b.C.dialog-act.dharshi.43	773.42	775.89	C	UI	inf	+1	2	Uh , I don't think so ,
+IS1005b.A.dialog-act.dharshi.39	813.23	820.9	A	PM	el.inf	+1	2	And what happen with uh radio waves when two neighbours have the same {disfmarker} have our remote control , for example ?
+IS1005b.C.dialog-act.dharshi.51	829.42	840.21	C	UI	sug	+1	1	but one solution can be something like putting uh p password or something inside the wave , so the only your T_V_ can understand it
+10	IS1005b.rdhillon.s.4	The industrial designer discussed particular components that a remote could include.
+IS1005b.B.dialog-act.dharshi.34	907.25	920.39	B	ID	inf	+1	1	I have only a couple of things because I had {disfmarker} I struggled a bit with the software that I'm supposed to use in this uh uh in this company .
+IS1005b.B.dialog-act.dharshi.52	975.22	984.05	B	ID	inf	+1	1	so I have to look what what is a v a v available on the market for for the communication {disfmarker} for the I_R_ circuits and so on ,
+IS1005b.B.dialog-act.dharshi.54	988.25	999.38	B	ID	el.inf	+1	1	And uh I wanted to ask you m maybe afterwards , after after our discussion , if we have some contacts in some companies , so , which can report on what is going on there ,
+IS1005b.B.dialog-act.dharshi.60	1027.48	1034.07	B	ID	inf	+1	1	So , I know that uh the user interface people and these speak about radio frequency waves
+IS1005b.B.dialog-act.dharshi.62	1043.48	1050.74	B	ID	inf	+1	1	but you know , when you are not close to the T_V_ you probably won't need to to change the program and so on
+IS1005b.B.dialog-act.dharshi.63	1050.74	1058.36	B	ID	sug	+1	1	and so I am I am voting for s to stick to the um infra-red control instead of R_W_
+IS1005b.B.dialog-act.dharshi.80	1113.94	1117.78	B	ID	inf	+1	1	well , L_C_D_ it's okay because it's common nowadays to use L_C_D_ ,
+IS1005b.B.dialog-act.dharshi.83	1126.35	1132.8	B	ID	sug	+1	2	But the speech recognition we have to compare whether the price and the {disfmarker} what does it offer , you know .
+IS1005b.B.dialog-act.dharshi.99	1200.31	1207.63	B	ID	ass	+1	1	And uh my personal preference is yes , I would like also preferably to use R_W_ circuit ,
+IS1005b.B.dialog-act.dharshi.100	1207.63	1213.34	B	ID	sug	+1	1	but from the point of view uh of the design and price , I would stick to I_R_s .
+33	IS1005b.rdhillon.s.5	The project manager briefed the team on some new requirements and initiated a discussion in which the team discussed and decided on various features to include in the remote they will produce.
+IS1005b.A.dialog-act.dharshi.88	1320.99	1332.93	A	PM	inf	+1	1	So um I have to inform you I receive an email from the management bon board today and they have new requirements for the for the remote control . Um
+IS1005b.A.dialog-act.dharshi.92	1349.6	1357.63	A	PM	inf	+1	2	Because of the internet popularity and everybody has internet at home , and actually it's not useful to have teletext .
+IS1005b.A.dialog-act.dharshi.95	1367.45	1380.0	A	PM	inf	+1	2	Um the second thing is uh they suggest that that we should uh use the remote control only for T_V_ , not for D_V_D_ and other devices ,
+IS1005b.A.dialog-act.dharshi.99	1395.41	1401.93	A	PM	inf	+1	2	the third one is uh about the the the image of the company .
+IS1005b.A.dialog-act.dharshi.102	1415.03	1418.63	A	PM	inf	+1	2	It's {disfmarker} That mean we should use the colour of our company
+IS1005b.A.dialog-act.dharshi.100	1401.93	1412.0	A	PM	inf	+1	2	So um uh we should we should keep uh {disfmarker} The the product should be recognisable .
+IS1005b.A.dialog-act.dharshi.103	1418.63	1425.31	A	PM	inf	+1	2	and maybe put somewhere the s the slogan of the company , which is uh , we put fashion of {disfmarker} in electronics .
+IS1005b.A.dialog-act.dharshi.106	1444.12	1455.4	A	PM	sug	+1	1	So now we we should take the decision what we are going to {disfmarker} what function we will have on this uh on this remote control .
+IS1005b.D.dialog-act.dharshi.96	1464.6	1468.04	D	ME	sug	+1	1	Well , should we start with just the core , the basic functions that we need .
+IS1005b.D.dialog-act.dharshi.97	1469.33	1471.89	D	ME	sug	+1	1	And then we can move on to the more advanced features .
+IS1005b.A.dialog-act.dharshi.118	1507.36	1512.46	A	PM	sug	+1	1	I think we should stick on very useful functions , because we want less button .
+IS1005b.A.dialog-act.dharshi.120	1516.16	1520.28	A	PM	sug	+1	1	So , turning channel , of course . Volume setting .
+IS1005b.B.dialog-act.dharshi.130	1538.16	1542.11	B	ID	inf	+1	2	Because it's many buttons and we were speaking about lowering the number .
+IS1005b.B.dialog-act.dharshi.128	1527.56	1532.71	B	ID	el.ass	+1	2	will we use only two buttons , or or like numbered buttons ?
+IS1005b.A.dialog-act.dharshi.132	1577.7	1587.283	A	PM	sug	+1	1	Maybe we could have key buttons , like uh discovery channe like documentary channel , and movies channel and {disfmarker}
+IS1005b.B.dialog-act.dharshi.133	1551.89	1554.98	B	ID	sug	+1	2	so so we keep all these all these buttons .
+IS1005b.A.dialog-act.dharshi.134	1591.76	1598.98	A	PM	sug	+1	1	If you want to see a movie you click on the movie button so you have all the movie channels and after you've you plus plus plus .
+IS1005b.B.dialog-act.dharshi.141	1601.97	1605.552	B	ID	inf	+1	1	So it requires the use of L_C_D_ probably , to to tell you {disfmarker}
+IS1005b.D.dialog-act.dharshi.106	1611.83	1619.81	D	ME	sug	+1	1	We could maybe also c um incorporate Petre's idea of the um slider for the volume , with the channel .
+IS1005b.D.dialog-act.dharshi.120	1744.8	1751.93	D	ME	sug	+1	2	I mean there's always {disfmarker} we can always have these l less often used functions hidden somewhere ,
+IS1005b.A.dialog-act.dharshi.165	1785.117	1789.39	A	PM	sug	+1	2	{vocalsound} We should hide them somewhere .
+IS1005b.D.dialog-act.dharshi.132	1806.53	1808.27	D	ME	ass	+1	1	I mean a power button's obviously
+IS1005b.D.dialog-act.dharshi.133	1810.37	1811.08	D	ME	ass	+1	1	uh required .
+IS1005b.D.dialog-act.dharshi.134	1828.88	1833.93	D	ME	inf	+1	2	Uh , well I think when they say power button they mean to turn the T_V_ on and off .
+IS1005b.B.dialog-act.dharshi.171	1813.6	1818.04	B	ID	sug	+1	2	Should should shouldn't we do it like sleep mode after five minutes of not using it ?
+IS1005b.B.dialog-act.dharshi.181	1859.25	1867.24	B	ID	sug	+1	2	so we we could p what we could probably do is to keep also to keep uh keep the L_C_D_ and all the buttons and stuff ,
+IS1005b.B.dialog-act.dharshi.191	1926.42	1931.168	B	ID	el.ass	+1	2	Should we make it a button , or some some something which would be {disfmarker}
+IS1005b.C.dialog-act.dharshi.110	1933.65	1935.2	C	UI	ass	+1	3	A button is better .
+IS1005b.D.dialog-act.dharshi.155	1968.32	1973.05	D	ME	el.ass	+1	2	What about things like the clock and um timers ?
+IS1005b.A.dialog-act.dharshi.192	2010.0	2016.08	A	PM	inf	+1	3	If we if we add the time , we have to have maybe a bigger display or something like that ,
+IS1005b.D.dialog-act.dharshi.157	2025.2	2026.59	D	ME	ass	+1	3	Probably not .
+IS1005b.A.dialog-act.dharshi.194	2017.71	2023.25	A	PM	el.ass	+1	2	I mean , are users wants to have the time on the on the remote ?
+IS1005b.A.dialog-act.dharshi.197	2027.86	2031.24	A	PM	ass	+1	3	W In my opinion we should have only useful thing

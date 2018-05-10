@@ -1,0 +1,13 @@
+ICSI's Meeting Recorder Group met to discuss their progress in various aspects of the Aurora Project , but also to hear more about other developments relevant to the group.
+On the Aurora Project , there were reports on a project conference call , the status of the tandem neural networks , and progress with the Mississippi State recognizer.
+The latency limit has been set , and the group's system is performing very well , but is a little over.
+On the larger vocabulary task , there are still a few issues to resolve before work can really get started.
+The group heard of the plan of one of it's member's work into intermediate classifiers , and also of how a visiting research student's work into auditory models can be applied to their work.
+Speaker me013 wants to know how much memory the tandem network takes up.
+It is only a minor problem that the latency limit has been set below the current systems level , and also keeping the number of features within limits only drops performance a little.
+A more significant problem is that the tandem approach may not fit in the memory space allowed , and removing it drops performance more.
+Some of the group had issues with mn007's approach to human performance testing , but this was considered more of a side issue.
+Speaker mn007 has been working on the tandem network approach , and the current results are good.
+He has found a good way of calculating the silence probabilities , that does not increase insertions.
+He also attempted to transcribe data himself , to establish a human performance level.
+Speaker me018 is working on Mississippi Sate recognizer for dealing with the Wall Street Journal Data.

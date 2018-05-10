@@ -1,0 +1,48 @@
+6	Bro027.s.8	There are worries regarding the need to make adjustments so the new software can handle the group's different feature set.
+Bro027.B.dialogueact280	586.39	590.77	B	Professor	qy^rt	+1	2	Is there any word yet about the issues about , um , adjustments for different feature sets or anything ?
+Bro027.B.dialogueact292	608.48	611.82	B	Professor	s	+1	2	it 's like that {disfmarker} that could r turn out to be an important issue for us .
+Bro027.D.dialogueact300	617.267	624.397	D	PhD	s	+1	1	Cuz they have , uh , already frozen those in i insertion penalties and all those stuff is what {disfmarker} I feel .
+Bro027.D.dialogueact303	628.827	633.857	D	PhD	s	+1	1	And they have these tables with , uh , various language model weights , insertion penalties .
+Bro027.B.dialogueact333	681.22	691.204	B	Professor	s	+1	1	So now , we may come back to the situation where we may be looking for a modification of the features to account for the fact that we can't modify these parameters .
+Bro027.B.dialogueact338	693.524	698.394	B	Professor	s^cs	+1	1	but it 's still worth , I think , just {disfmarker} since {disfmarker} you know , just chatting with Joe about the issue .
+10	Bro027.s.9	The system , whilst improved , also has increased latency , and while the limit has not been set , the group need to reduce it.
+Bro027.C.dialogueact472	966.22	970.97	C	PhD	s	+1	1	but the problem is still that the latency is too large .
+Bro027.C.dialogueact476	975.11	979.08	C	PhD	s	+1	1	the {disfmarker} the latency of the VAD is two hundred and twenty milliseconds .
+Bro027.A.dialogueact641	1253.88	1255.9	A	PhD	qw^rt	+1	1	Wh - what 's the baseline you need to be under ?
+Bro027.B.dialogueact643	1256.95	1257.62	B	Professor	s^no	+1	1	Well , we don't know .
+Bro027.B.dialogueact644	1257.62	1258.58	B	Professor	s^df	+1	1	They 're still arguing about it .
+Bro027.B.dialogueact647	1259.37	1268.04	B	Professor	s^e	+1	1	I mean , if it 's two {disfmarker} if {disfmarker} if it 's , uh {disfmarker} if it 's two - fifty , then we could keep the delta where it is if we shaved off twenty .
+Bro027.B.dialogueact648	1268.04	1274.19	B	Professor	s^e	+1	1	If it 's two hundred , if we shaved off twenty , we could {disfmarker} we could , uh , meet it by moving the delta back .
+Bro027.A.dialogueact649	1274.66	1278.23	A	PhD	qw	+1	1	So , how do you know that what you have is too much if they 're still deciding ?
+Bro027.B.dialogueact652	1279.82	1286.3	B	Professor	s^df	+1	1	I mean , the main thing is that since that we got burned last time , and {disfmarker} you know , by not worrying about it very much , we 're just staying conscious of it .
+Bro027.B.dialogueact657	1288.16	1295.06	B	Professor	s:s^co	+1	1	I mean , if {disfmarker} if {disfmarker} if a week before we have to be done someone says , " Well , you have to have fifty milliseconds less than you have now " , it would be pretty frantic around here .
+13	Bro027.s.10	Likewise the number of features the use in their system , since this has been set at an arbitrarily low value.
+Bro027.B.dialogueact866	1689.75	1691.49	B	Professor	qy^d^rt	+1	2	You 're just using the full ninety features ?
+Bro027.C.dialogueact873	1696.74	1698.58	C	PhD	s	+1	1	From the networks , it 's twenty - eight .
+Bro027.B.dialogueact875	1700.31	1702.09	B	Professor	s	+1	1	And from the other side it 's forty - five .
+Bro027.B.dialogueact877	1702.21	1703.8	B	Professor	s	+1	1	So it 's {disfmarker} you have seventy - three features ,
+Bro027.C.dialogueact883	1707.67	1710.57	C	PhD	s^nd	+1	1	There 's a KLT after the neural network , as {disfmarker} as before .
+Bro027.A.dialogueact884	1710.28	1711.44	A	PhD	qy^d^rt	+1	1	That 's how you get down to twenty - eight ?
+Bro027.C.dialogueact900	1727.7	1731.7	C	PhD	s^df	+1	1	I wanted to do something very similar to the proposal as a first {disfmarker} first try .
+Bro027.C.dialogueact906	1732.18	1734.15	C	PhD	s	+1	1	But we have to {disfmarker} for sure , we have to go down ,
+Bro027.C.dialogueact907	1734.15	1736.44	C	PhD	s^df	+1	1	because the limit is now sixty features .
+Bro027.C.dialogueact911	1739.17	1743.65	C	PhD	s	+1	1	we have to find a way to decrease the number of features .
+Bro027.B.dialogueact1042	2046.15	2047.9	B	Professor	s	+1	1	they felt they wanted to set a limit .
+Bro027.B.dialogueact1043	2048.09	2049.07	B	Professor	s	+1	1	So they chose sixty .
+Bro027.B.dialogueact1049	2056.26	2058.07	B	Professor	s^ba	+1	1	I {disfmarker} I {disfmarker} I think it 's kind of r arbitrary too .
+15	Bro027.s.11	There has been an increase in the number of deletion in the errors , which is of some concern.
+Bro027.C.dialogueact1227	2453.95	2464.2	C	PhD	s	+1	1	Yeah , actually {vocalsound} to s eh , what I observed in the HM case is that the number of deletion dramatically increases .
+Bro027.C.dialogueact1228	2464.2	2466.11	C	PhD	s^e	+1	1	It {disfmarker} it doubles .
+Bro027.C.dialogueact1230	2467.98	2471.58	C	PhD	s	+1	1	When I added the num the neural network it doubles the number of deletions .
+Bro027.C.dialogueact1231	2472.92	2475.42	C	PhD	s^no	+1	1	Yeah , so I don't you know {vocalsound} how to interpret that ,
+Bro027.B.dialogueact1234	2480.23	2480.78	B	Professor	s^na	+1	1	Me either .
+Bro027.A.dialogueact1236	2482.68	2485.69	A	PhD	qy^rt	+1	1	And {disfmarker} and did {disfmarker} an other numbers stay the same ?
+Bro027.C.dialogueact1238	2487.71	2489.01	C	PhD	s^na	+1	1	They p stayed the same ,
+Bro027.B.dialogueact1245	2499.6	2504.94	B	Professor	qy^rt	+1	1	Did they increase the number of deletions even for the cases that got better ?
+Bro027.C.dialogueact1248	2506.84	2507.12	C	PhD	s^ar	+1	1	No .
+Bro027.B.dialogueact1249	2506.94	2508.34	B	Professor	s	+1	1	So it 's only the highly mismatched ?
+Bro027.B.dialogueact1783	3645.07	3650.44	B	Professor	s.%--	+1	1	Now the only thing that {disfmarker} that bothers me about all this is that I {disfmarker} I {disfmarker} I {disfmarker} The {disfmarker} the fact {disfmarker}
+Bro027.B.dialogueact1784	3650.44	3653.71	B	Professor	s	+1	1	i i It 's sort of bothersome that you 're getting more deletions .
+Bro027.C.dialogueact1787	3655.98	3657.51	C	PhD	s.%--	+1	1	So I might maybe look at ,
+Bro027.C.dialogueact1788	3658.65	3666.33	C	PhD	qy.%--	+1	1	is it due to the fact that um , the probability of the silence at the output of the network , is ,
+Bro027.C.dialogueact1791	3668.89	3669.89	C	PhD	qy^e^m^na	+1	1	too {disfmarker} too high

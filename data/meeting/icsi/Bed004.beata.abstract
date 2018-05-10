@@ -1,0 +1,59 @@
+1	Bed004.s.1	In this meeting of the Berkeley Even Deeper Understanding group speaker mn015 presented the results of an experiment of the dialogue system Wizard , created for the tourist domain.
+Bed004.D.dialogueact85	474.557	485.858	D	Grad	fh|s	+1	2	So . On Friday we had our wizard test data test and um {vocalsound} these are some of the results .
+8	Bed004.s.2	The experiment consisted of leading a subject to believe she were talking to a computer , then having the "computer" break down and be replaced with a human.
+Bed004.D.dialogueact96	528.536	535.256	D	Grad	s^rt	+1	1	this was the uh first three tasks she had to {disfmarker} to master after she called the system ,
+Bed004.D.dialogueact97	537.327	542.383	D	Grad	fh|s	-1	0	and um then of course the system broke down ,
+Bed004.D.dialogueact99	546.327	553.057	D	Grad	s^rt	+1	1	I should say the system was supposed to break down and then um these were the remaining three tasks that she was going to solve , with a human {disfmarker}
+Bed004.C.dialogueact111	596.467	600.18	C	Grad	fh|s	-1	0	So . So there 's no system ,
+Bed004.C.dialogueact113	600.34	603.23	C	Grad	fh|s	+1	0	Like , there was a wizard for both uh {disfmarker} both parts ,
+Bed004.D.dialogueact116	604.59	607.38	D	Grad	s	-1	0	It was bo it both times the same person .
+Bed004.D.dialogueact118	607.9	609.76	D	Grad	s	+1	1	One time , pretending to be a system ,
+Bed004.D.dialogueact119	609.76	612.43	D	Grad	s	+1	1	one time , to {disfmarker} pretending to be a human , which is actually not pretending .
+47	Bed004.s.3	The group then discussed improvements to the program's user interface , personnel issues regarding further data collection , as well as conceptual and architectural issues regarding the Wizard.
+Bed004.B.dialogueact205	1054.15	1063.63	B	Professor	fh|s^t	-1	0	So {pause} first of all , I agree that um we should hire Fey , and start paying her .
+Bed004.B.dialogueact206	1063.62	1065.88	B	Professor	s	-1	0	Probably pay for the time she 's put in as well .
+Bed004.B.dialogueact209	1071.43	1075.79	B	Professor	qw	-1	0	I mean , you know what exactly do we do to {disfmarker} to put her on the payroll in some way ?
+Bed004.B.dialogueact244	1149.44	1160.67	B	Professor	fh|s	+1	1	Um {pause} And also if she 's willing to take on the job of organizing all those subjects and stuff that would be wonderful .
+Bed004.B.dialogueact258	1205.07	1207.85	B	Professor	s.%-	-1	0	Well , as I say there is this s set of people next door , it 's not hard to
+Bed004.B.dialogueact265	1215.44	1228.57	B	Professor	s^cs^rt	+1	0	We could talk to the people who run it and um see if they have a way that they could easily uh tell people that there 's a task , pays ten bucks or something ,
+Bed004.A.dialogueact309	1371.78	1378.05	A	Grad	s	+1	3	So , what I did for this {disfmarker} this is {disfmarker} uh , a pedagogical belief - net
+Bed004.A.dialogueact310	1378.05	1385.33	A	Grad	s^df	-1	0	because I was {disfmarker} I {disfmarker} I took {disfmarker} I tried to conceptually do what you were talking about with the nodes that you could expand out {disfmarker}
+Bed004.A.dialogueact312	1386.74	1392.23	A	Grad	s	-1	0	I made these dummy nodes called Trajector - In and Trajector - Out that would isolate the things related to the trajector .
+Bed004.A.dialogueact314	1392.23	1394.34	A	Grad	s	-1	0	And then there were the things with the source and the path and the goal .
+Bed004.A.dialogueact316	1395.45	1396.7	A	Grad	s	-1	0	And I separated them out .
+Bed004.A.dialogueact317	1396.7	1403.63	A	Grad	s	-1	0	And then I um did similar things for our {disfmarker} our net to {disfmarker} uh with the context and the discourse and whatnot ,
+Bed004.A.dialogueact318	1404.95	1412.45	A	Grad	fh|s	-1	0	um , so we could sort of isolate them or whatever in terms of the {disfmarker} the top layer .
+Bed004.A.dialogueact320	1412.45	1415.3	A	Grad	s	-1	0	And then the bottom layer is just the Mode .
+Bed004.A.dialogueact332	1428.57	1431.65	A	Grad	s^rt	+1	0	So basically all I did was I took the last {pause} belief - net
+Bed004.A.dialogueact334	1432.4	1439.7	A	Grad	s	+1	2	and I grouped things according to what {disfmarker} how I thought they would fit in to uh image schemas that would be related .
+Bed004.A.dialogueact335	1439.78	1445.22	A	Grad	s	+1	1	And the two that I came up with were Trajector - landmark and then Source - path - goal as initial ones .
+Bed004.A.dialogueact338	1445.92	1450.02	A	Grad	s	-1	0	And then I said well , uh the trajector would be the person in this case probably .
+Bed004.A.dialogueact341	1450.89	1456.01	A	Grad	h|s	+1	1	Um , you know , we have {disfmarker} we have the concept of what their intention was , whether they were trying to tour or do business or whatever ,
+Bed004.A.dialogueact345	1458.63	1464.81	A	Grad	fh|s.%--	-1	0	And then um in terms of the source , the things {disfmarker} uh the only things that we had on there I believe were whether {disfmarker}
+Bed004.A.dialogueact347	1468.86	1472.83	A	Grad	fh|s.%--	-1	0	but uh whether the {disfmarker} where I 'm currently at is a landmark might have a bearing on whether {disfmarker}
+Bed004.A.dialogueact350	1475.05	1483.91	A	Grad	s	-1	0	And " usefulness " is basi basically means is that an institutional facility like a town hall or something like that that 's not {disfmarker} something that you 'd visit for tourist 's {disfmarker} tourism 's sake or whatever .
+Bed004.A.dialogueact351	1485.05	1490.56	A	Grad	s	-1	0	" Travel constraints " would be something like you know , maybe they said they can {disfmarker} they only wanna take a bus or something like that ,
+Bed004.A.dialogueact353	1490.95	1492.48	A	Grad	s	-1	0	And then those are somewhat related to the path ,
+Bed004.A.dialogueact355	1492.48	1498.11	A	Grad	s^e	-1	0	so that would determine whether we 'd {disfmarker} could take {disfmarker} we would be telling them to go to the bus stop or versus walking there directly .
+Bed004.B.dialogueact431	1706.83	1708.9	B	Professor	s	-1	0	but there is some technology you could try to apply .
+Bed004.A.dialogueact432	1709.06	1712.55	A	Grad	s^bu.%-	-1	0	So it 's possible that we could do something like a summary node of some sort that {disfmarker}
+Bed004.B.dialogueact445	1737.17	1744.43	B	Professor	s^cs^e	+1	1	I mean , not necessarily in th in this meeting , but to try to informally think about what the decision variables are .
+Bed004.B.dialogueact447	1749.74	1751.59	B	Professor	s	+1	0	you know , what are the most relevant things .
+Bed004.B.dialogueact449	1752.3	1764.49	B	Professor	s	+1	1	And the other trick , which is not a technical trick , it 's kind of a knowledge engineering trick , is to make the n {pause} each node sufficiently narrow that you don't get this combinatorics .
+Bed004.B.dialogueact450	1764.49	1772.29	B	Professor	fh|s	-1	0	So that if you decided that you could characterize the decision as a trade - off between three factors , whatever they may be ,
+Bed004.B.dialogueact452	1773.01	1776.68	B	Professor	s	-1	0	then you could say " Aha , let 's have these three factors " ,
+Bed004.B.dialogueact454	1777.41	1784.98	B	Professor	s^cs	-1	0	and maybe a binary version f for each , or some relatively compact decision node just above the final one .
+Bed004.B.dialogueact456	1785.71	1796.37	B	Professor	s	+1	0	And then the question would be if {disfmarker} if those are the things that you care about , uh can you make a relatively compact way of getting from the various inputs to the things you care about .
+Bed004.B.dialogueact459	1801.58	1812.24	B	Professor	s	-1	0	given that we 're not gonna screw with the technology and just always use uh sort of orthodox Bayes - nets , then we have a knowledge engineering little problem of how do we do that .
+Bed004.B.dialogueact551	2155.44	2161.01	B	Professor	s	-1	0	So we don't {disfmarker} we don't use the discourse , we don't use the context , we don't do any of those things .
+Bed004.B.dialogueact716	2648.69	2656.4	B	Professor	s	+1	1	There will be rules , but they aren't rules that come to final decisions , they 're rules that gather information for a decision process .
+Bed004.B.dialogueact807	2937.95	2940.07	B	Professor	s^m	-1	0	The Bayes - nets will be dec specific for each decision .
+Bed004.B.dialogueact808	2940.07	2950.35	B	Professor	s	+1	1	But what I 'd like to be able to do is to have the way that you extract properties , that will go into different Bayes - nets , be the {disfmarker} uh general .
+Bed004.B.dialogueact817	2975.33	2988.27	B	Professor	s	+1	1	What you 'd really like of course is the same thing you 'd always like which is that you have um a kind of intermediate representation which looks the same o over a bunch of inputs and a bunch of outputs .
+Bed004.B.dialogueact818	2988.57	2999.09	B	Professor	fh|s	-1	0	So all sorts of different tasks {pause} and all sorts of different ways of expressing them use a lot of the same mechanism for pulling out what are the fundamental things going on .
+Bed004.B.dialogueact820	3004.97	3017.45	B	Professor	fh|s	-1	0	And pushing it one step further , when you get to construction grammar and stuff , what you 'd like to be able to do is say you have this parser which is much fancier than the parser that comes with uh SmartKom ,
+Bed004.B.dialogueact822	3025.48	3029.42	B	Professor	s	-1	0	you know , the actual what people wanna do or what they 're referring to and stuff ,
+Bed004.B.dialogueact823	3029.68	3042.47	B	Professor	s	-1	0	in independent of whether it {disfmarker} about {disfmarker} what is this or where is it or something , that you could tell from the construction , you could pull out deep semantic information which you 're gonna use in a general way .
+Bed004.D.dialogueact860	3144.39	3150.86	D	Grad	s	-1	0	b But an architecture like this would also enable us maybe to {disfmarker} to throw this away and {disfmarker} and replace it with something else , or whatever ,
+Bed004.D.dialogueact861	3151.34	3157.91	D	Grad	s	+1	0	so that we have {disfmarker} so that this is sort of the representational formats we 're {disfmarker} we 're {disfmarker} we 're talking about that are independent of the problem ,
+Bed004.D.dialogueact862	3158.36	3173.02	D	Grad	s	+1	0	that generalize over those problems , and are oh , t of a higher quality than an any actual whatever um belief - net , or " X " that we may use for the decision making , ultimately .

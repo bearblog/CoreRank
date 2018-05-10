@@ -1,0 +1,30 @@
+0	Bed015.s.12	The semantic specification requires some adjustments.
+2	Bed015.s.13	Amongst other things "cause" has to be added as another X-schema.
+Bed015.F.dialogueact1300	2904.79	2906.75	F	Grad	s^arp	+1	2	Except for " cause " , that I forgot .
+Bed015.C.dialogueact1366	3029.44	3031.11	C	Professor	s	+1	2	Causal stuff we absolutely need .
+2	Bed015.s.14	Linguistic hedging will also be encoded as a demarcation of evidentiality or speaker confidence.
+Bed015.E.dialogueact1755	3806.97	3810.48	E	Grad	s|qy^d^g	+1	1	Well we were just talking about this sort of evidentiality and stuff like that , right ?
+Bed015.C.dialogueact1766	3819.13	3820.4	C	Professor	s	+1	1	Confidence or something like that .
+5	Bed015.s.15	Mental spaces can be tackled with mechanisms that can also deal with context issues ( time , space etc . ): creating a base space and rules of interaction with other interconnected spaces.
+Bed015.F.dialogueact456	987.435	991.421	F	Grad	s	+1	1	Um , it 's often thought of as {disfmarker} it is also considered a mental space ,
+Bed015.F.dialogueact487	1041.86	1042.33	F	Grad	s^na	+1	1	Same thing .
+Bed015.A.dialogueact1473	3251.41	3258.99	A	Grad	s^bk|qy	+1	2	Yeah , but you {disfmarker} Don't we ultimately want to handle that analogously to the way we handle time and place ,
+Bed015.C.dialogueact1588	3485.96	3493.46	C	Professor	fh|s	+1	2	Um , we might be able to handle context in the same way that we handle mental spaces
+Bed015.E.dialogueact1677	3674.56	3680.29	E	Grad	s|qy^d^g	+1	1	It 's like {disfmarker} it 's like what 's happening {disfmarker} that , yeah , what what 's happening , uh , there is that you 're moving the base space or something like that , right ?
+3	Bed015.s.16	However , the complexity of these mechanisms has to be bound as well: it is necessary to define the range of constructions to be studied.
+Bed015.C.dialogueact1833	3937.15	3940.14	C	Professor	s	+1	2	Um , and we 're going to have to s sort of bound the complexity .
+Bed015.C.dialogueact1881	4040.93	4045.57	C	Professor	s^cs	+1	2	but just try to describe which ones you think we ought to have .
+Bed015.C.dialogueact1885	4052.02	4054.1	C	Professor	s^cs^e	+1	2	Just {disfmarker} just sort of , you know , define your space .
+3	Bed015.s.17	Given the domains currently used ( tourist , child language learning ) , some features , like speaker attitude , are not of equal importance at this stage.
+Bed015.E.dialogueact1804	3883.91	3886.8	E	Grad	s|qy^d^g	+1	1	We {disfmarker} we don't have to care too much about the speaker attitude , right ?
+Bed015.C.dialogueact1909	4107.88	4111.33	C	Professor	s	+1	1	So {disfmarker} so we 're gonna get the w we 're basically dealing with two domains ,
+Bed015.C.dialogueact1910	4111.55	4113.59	C	Professor	s	+1	1	the tourist domain and the {disfmarker} and the child language learning .
+3	Bed015.s.18	On the other hand , it was decided for the inheritance between constructions to be left out for now , as the notation can be rendered more elegant later on.
+Bed015.B.dialogueact1967	4222.84	4226.66	B	Grad	qy	+1	1	Is this , uh {disfmarker} was it intentional to leave off things like " inherits "
+Bed015.F.dialogueact1980	4237.24	4240.13	F	Grad	s	+1	1	I didn't want to think too much about that for {disfmarker} for now .
+Bed015.C.dialogueact2024	4303.7	4304.93	C	Professor	qh	+1	1	can we make it more elegant ? "
+4	Bed015.s.19	Finally , a preliminary presentation on the idea of how to use Bayes-nets for construal will take place in the next meeting.
+Bed015.A.dialogueact2089	4460.57	4464.74	A	Grad	fh|s	+1	2	Um , imagine you {disfmarker} you write a Bayes - net ,
+Bed015.A.dialogueact2094	4469.0	4472.82	A	Grad	s	+1	2	um , completely from scratch every time you do construal .
+Bed015.C.dialogueact2192	4719.51	4726.46	C	Professor	qy	+1	1	But the question is do you want to , for example , send the little group , uh , a draft of your thesis proposal
+Bed015.A.dialogueact2195	4732.88	4735.47	A	Grad	s^cs	+1	1	We can do it Th - Thursday again .

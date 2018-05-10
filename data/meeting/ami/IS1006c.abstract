@@ -1,0 +1,187 @@
+8	IS1006c.rdhillon.s.1	The project manager stated the agenda and set the goals for the current meeting.
+IS1006c.A.dialog-act.vkaraisk.2	25.16	27.89	A	PM	inf	+1	1	now we are on the conceptual design meeting .
+IS1006c.A.dialog-act.vkaraisk.7	50.94	53.83	A	PM	inf	+1	1	I will again do the secretary part
+IS1006c.A.dialog-act.vkaraisk.8	53.83	64.45	A	PM	inf	+1	1	uh we will have three presentation first um uh the industrial design , first Rama then Mark and then Sammy .
+IS1006c.A.dialog-act.vkaraisk.9	64.45	74.22	A	PM	inf	+1	1	Um um we have to take a decision on the control {disfmarker} remote control concepts
+IS1006c.A.dialog-act.vkaraisk.10	74.22	75.9	A	PM	inf	+1	1	and we have forty minutes .
+IS1006c.A.dialog-act.vkaraisk.13	80.14	95.4	A	PM	inf	+1	1	the decision we want to take on this meeting are on the um first on the component concept , so what kind of energy we use uh what kind of chip on print and one ki kind of case .
+IS1006c.A.dialog-act.vkaraisk.14	95.4	104.11	A	PM	inf	+1	1	And also on user interface concept uh what kind of interface we use and if there is some supplements .
+IS1006c.A.dialog-act.vkaraisk.15	104.11	113.47	A	PM	inf	+1	1	And at the end um Sammy will give um {vocalsound} a trend watching on what he's {disfmarker} he's been doing .
+47	IS1006c.rdhillon.s.2	The industrial designer discussed different options for batteries , case materials and shapes , chips , and interface components and also discussed the components necessary for a speech recognition capable remote control.
+IS1006c.C.dialog-act.vkaraisk.8	142.68	150.81	C	ID	inf	+1	1	we're to mainly design f mainly need to know which components we'll use for energy , and the material and interface .
+IS1006c.C.dialog-act.vkaraisk.9	150.81	154.34	C	ID	inf	+1	1	For energy there are maybe two or three possibilities .
+IS1006c.C.dialog-act.vkaraisk.10	154.34	157.93	C	ID	inf	+1	1	First one , we can use simple battery ,
+IS1006c.C.dialog-act.vkaraisk.11	157.93	161.23	C	ID	inf	+1	1	or we can use {vocalsound} traditional solar cells
+IS1006c.C.dialog-act.vkaraisk.13	162.21	166.66	C	ID	inf	+1	1	mm and the material we can have plastic ,
+IS1006c.C.dialog-act.vkaraisk.14	166.66	171.5	C	ID	inf	+1	1	rubber which is good for this R_S_A_
+IS1006c.C.dialog-act.vkaraisk.15	171.5	177.28	C	ID	ass	+1	1	and then uh titanium , which can be {disfmarker} which have very good look
+IS1006c.C.dialog-act.vkaraisk.16	177.28	187.64	C	ID	inf	+1	1	an and then interface we're to use push buttons or liquid crystal d L_C_D_ display .
+IS1006c.C.dialog-act.vkaraisk.21	201.62	207.74	C	ID	inf	+1	1	we would like to have some speech recognition s chip in our remote control .
+IS1006c.C.dialog-act.vkaraisk.23	209.5	213.41	C	ID	sug	+1	1	this can be simple kind of programmable chip
+IS1006c.C.dialog-act.vkaraisk.25	213.83	217.7	C	ID	sug	+1	1	which can use microphone {gap} sensors .
+IS1006c.C.dialog-act.vkaraisk.28	226.44	242.27	C	ID	sug	+1	1	Still we are looking for possible uh technical uh specifications and how w easy we can do and within our pri range , like we're to {disfmarker} in our twelve Euros or around that .
+IS1006c.C.dialog-act.vkaraisk.29	242.27	252.72	C	ID	sug	+1	1	So we are looking for simple devices or simple technology to do the location of remote control in a room or in a house .
+IS1006c.C.dialog-act.vkaraisk.34	266.3	269.59	C	ID	sug	+1	1	we would like to propose battery instead of solar cells
+IS1006c.C.dialog-act.vkaraisk.35	269.59	274.77	C	ID	ass	+1	1	and it would be problematic uh to have enough energy with the solar cells
+IS1006c.C.dialog-act.vkaraisk.37	279.97	287.21	C	ID	sug	+1	2	And also we want to go for titanium design instead of rubber or {disfmarker}
+IS1006c.C.dialog-act.vkaraisk.41	288.11	293.12	C	ID	inf	+1	2	the problem is with this design we found that we can't use double-curved shapes .
+IS1006c.D.dialog-act.vkaraisk.8	293.38	295.02	D	ME	el.inf	+1	1	What is a double-curved shape ?
+IS1006c.C.dialog-act.vkaraisk.42	294.611	296.77	C	ID	inf	+1	1	{vocalsound} Like you can have two curves .
+IS1006c.C.dialog-act.vkaraisk.45	310.24	312.74	C	ID	sug	+1	1	we want to go for simple push buttons
+IS1006c.C.dialog-act.vkaraisk.46	312.74	315.57	C	ID	inf	+1	1	because it need a simple chip
+IS1006c.C.dialog-act.vkaraisk.47	315.57	320.93	C	ID	inf	+1	1	and it's really lesser {disfmarker} uh re really less expensive compared to L_C_D_
+IS1006c.C.dialog-act.vkaraisk.49	321.64	323.96	C	ID	inf	+1	1	uh which needs advanced chip technology
+IS1006c.C.dialog-act.vkaraisk.50	323.96	325.8	C	ID	inf	+1	1	and it's more expensive ,
+IS1006c.C.dialog-act.vkaraisk.51	325.8	329.42	C	ID	inf	+1	1	since we want to put some other features such as speech recognition
+IS1006c.C.dialog-act.vkaraisk.52	329.42	332.97	C	ID	sug	+1	1	we want to reduce uh cost .
+IS1006c.A.dialog-act.vkaraisk.24	330.841	342.73	A	PM	el.inf	+1	2	{vocalsound} Um I want to know why it b uh just uh sorry but for the point before uh why not the rubber , if it is something that it seems to be light .
+IS1006c.C.dialog-act.vkaraisk.53	336.94	347.92	C	ID	inf	+1	1	Uh {disfmarker} Uh {disfmarker} And also like in {disfmarker} if you put a {gap} it's be difficult to do all the moulding of buttons and these things
+IS1006c.B.dialog-act.vkaraisk.5	351.2	356.21	B	UI	sug	+1	2	W we can use something like you know {vocalsound} the whole body's titanium
+IS1006c.B.dialog-act.vkaraisk.6	356.21	362.07	B	UI	sug	+1	2	but there are some rubber or I dunno some rubber parts
+IS1006c.C.dialog-act.vkaraisk.60	372.87	379.19	C	ID	sug	+1	2	But full assembly {disfmarker} We'll use mainly for titanium {gap}
+IS1006c.C.dialog-act.vkaraisk.62	381.37	385.72	C	ID	inf	+1	1	and also it's bit difficult to do all the shapes uh .
+IS1006c.C.dialog-act.vkaraisk.64	389.38	392.36	C	ID	sug	+1	1	{disfmarker} we we would like to use push buttons instead of L_C_D_s
+IS1006c.C.dialog-act.vkaraisk.71	410.5	415.67	C	ID	inf	+1	1	Y yeah we have simple buttons and speech recognition technology ,
+IS1006c.B.dialog-act.vkaraisk.15	417.72	421.35	B	UI	el.ass	+1	1	mm can we still include the L_ L_S_D_ display ?
+IS1006c.D.dialog-act.vkaraisk.18	423.17	424.88	D	ME	inf	+1	1	it's either L_C_D_ or push-button .
+IS1006c.C.dialog-act.vkaraisk.77	431.8	436.33	C	ID	ass	+1	1	maybe maybe we can see depending on how we'll come up with our full design
+IS1006c.C.dialog-act.vkaraisk.79	441.02	447.05	C	ID	inf	+1	1	because the speech recognition technology will take at least five Euros or {gap} or something
+IS1006c.C.dialog-act.vkaraisk.80	447.05	450.32	C	ID	sug	+1	1	so we want to reduce the cost on display
+IS1006c.B.dialog-act.vkaraisk.24	454.95	460.0	B	UI	sug	+1	1	it's it's not gonna be a touch pad , uh just a display for giving you information .
+IS1006c.D.dialog-act.vkaraisk.28	477.97	482.55	D	ME	el.inf	+1	1	the batteries uh are going to be very light .
+IS1006c.C.dialog-act.vkaraisk.91	484.78	487.74	C	ID	inf	+1	1	and now I think we have many options in the market
+IS1006c.C.dialog-act.vkaraisk.92	487.74	491.94	C	ID	inf	+1	1	so we can go for small nickel or alkaline batteries
+IS1006c.D.dialog-act.vkaraisk.31	497.91	506.55	D	ME	sug	+1	1	this device on n that can be used for speech recognition could also be used for just uh the finding it basically ,
+IS1006c.D.dialog-act.vkaraisk.32	506.55	511.06	D	ME	sug	+1	1	instead of clapping why not just be {disfmarker} ask .
+IS1006c.D.dialog-act.vkaraisk.39	568.44	569.15	D	ME	inf	+1	1	We have dreams
+IS1006c.D.dialog-act.vkaraisk.40	569.15	572.544	D	ME	inf	+1	1	and the {disfmarker} in the end we find out that it's not feasible . {vocalsound}
+16	IS1006c.rdhillon.s.3	The user interface designer presented his concept for the interface design which he called the "millennium remote control".
+IS1006c.B.dialog-act.vkaraisk.43	614.51	618.0	B	UI	off	+1	1	the concept of the interface .
+IS1006c.B.dialog-act.vkaraisk.44	618.0	634.21	B	UI	inf	+1	1	Generally I developed quite a broad concept not only for the interface , but for possible instruction or user's manual and uh all the complex things that come together with your T_V_ and remote controls .
+IS1006c.B.dialog-act.vkaraisk.46	636.02	640.16	B	UI	ass	+1	1	We got our perfect remote control with a lot of buttons
+IS1006c.B.dialog-act.vkaraisk.47	640.16	643.79	B	UI	inf	+1	1	and uh we got explanation for every button
+IS1006c.B.dialog-act.vkaraisk.48	643.79	651.32	B	UI	inf	+1	1	and you can use your time and uh it will take i some days to learn all this buttons
+IS1006c.B.dialog-act.vkaraisk.49	651.32	655.72	B	UI	sug	+1	1	and um the L_C_D_ is going to be somewhere here
+IS1006c.B.dialog-act.vkaraisk.50	656.64	662.37	B	UI	inf	+1	1	and uh go back button , I don't know really where it is , maybe one of this buttons ,
+IS1006c.B.dialog-act.vkaraisk.54	670.32	672.08	B	UI	inf	+1	1	maybe this button is power on and off ?
+IS1006c.B.dialog-act.vkaraisk.58	676.25	677.59	B	UI	inf	+1	1	that's our concept .
+IS1006c.B.dialog-act.vkaraisk.59	677.59	679.83	B	UI	inf	+1	1	It's called the millennium remote control .
+IS1006c.D.dialog-act.vkaraisk.52	687.858	689.14	D	ME	inf	+1	1	{gap} doesn't make sense .
+IS1006c.D.dialog-act.vkaraisk.53	689.14	692.83	D	ME	ass	+1	1	This is very {vocalsound} ugly .
+IS1006c.D.dialog-act.vkaraisk.55	695.29	696.13	D	ME	ass	+1	1	too much concept .
+IS1006c.B.dialog-act.vkaraisk.66	700.9	704.23	B	UI	sug	+1	1	we will not use this . We will not use this .
+IS1006c.B.dialog-act.vkaraisk.67	704.23	709.61	B	UI	sug	+1	1	But instead of this I will devise {disfmarker} That's our concept .
+IS1006c.B.dialog-act.vkaraisk.68	711.25	722.18	B	UI	inf	+1	1	And it's got just few buttons , quite low looking , and all this stuff we already we already discussed .
+32	IS1006c.rdhillon.s.4	The user interface designer also discussed with the team color options and how to make a "smart" remote which is in tune with the user's preferences.
+IS1006c.D.dialog-act.vkaraisk.61	736.608	744.25	D	ME	el.ass	+1	2	{gap} Do you think it can come in several colours ?
+IS1006c.B.dialog-act.vkaraisk.75	745.947	752.24	B	UI	sug	+1	2	{vocalsound} I would make a backlight of the L_C_D_ screen with different colours .
+IS1006c.D.dialog-act.vkaraisk.63	752.07	753.49	D	ME	el.ass	+1	2	Um but not the case .
+IS1006c.D.dialog-act.vkaraisk.64	754.67	758.7	D	ME	el.inf	+1	2	Uh the case would only be in that uh aluminium uh titanium stuff ,
+IS1006c.A.dialog-act.vkaraisk.64	759.82	763.78	A	PM	inf	+1	2	Because apparently from your survey people like colours ,
+IS1006c.B.dialog-act.vkaraisk.79	769.12	773.05	B	UI	inf	+1	2	let's remember there's a Nokia phone which changeable panels .
+IS1006c.D.dialog-act.vkaraisk.73	774.06	776.23	D	ME	sug	+1	2	so that would be the option
+IS1006c.C.dialog-act.vkaraisk.126	785.449	791.69	C	ID	el.inf	+1	3	{vocalsound} But it would be expensive , no ? If you use colour L_C_D_ .
+IS1006c.C.dialog-act.vkaraisk.127	794.14	799.37	C	ID	sug	+1	3	Uh instead of that maybe we can change the colour of the assembler .
+IS1006c.C.dialog-act.vkaraisk.129	801.01	810.7	C	ID	sug	+1	3	if users want more colours they can pay more money to get this uh the shapes and they can have different assembly .
+IS1006c.A.dialog-act.vkaraisk.72	825.46	834.85	A	PM	el.inf	+1	3	you you propose something with option i that increase the price if we {disfmarker} if you want o more colours {vocalsound} on L_C_D_ ,
+IS1006c.B.dialog-act.vkaraisk.89	842.16	846.14	B	UI	sug	+1	2	there's one more decisi uh one more solution in fact , um {vocalsound}
+IS1006c.B.dialog-act.vkaraisk.90	846.14	853.16	B	UI	inf	+1	2	'cause there are some some paints that can change colour according to where they are ,
+IS1006c.B.dialog-act.vkaraisk.91	853.16	862.44	B	UI	inf	+1	2	like they can reflect different colours depending on what is around , like what colour is around , and depending on the temperature ,
+IS1006c.A.dialog-act.vkaraisk.79	865.6	869.14	A	PM	ass	+1	2	but that's maybe mo too much expensive , yeah .
+IS1006c.D.dialog-act.vkaraisk.84	874.11	875.92	D	ME	inf	+1	1	Because uh I think there are two kinds of people .
+IS1006c.D.dialog-act.vkaraisk.85	875.92	882.3	D	ME	inf	+1	1	Those for which the remote control is uh is to be uh something useful
+IS1006c.D.dialog-act.vkaraisk.88	884.6	890.76	D	ME	inf	+1	1	and those for which is something that that that uh is uh specific to them
+IS1006c.D.dialog-act.vkaraisk.94	909.696	913.12	D	ME	inf	+1	2	{vocalsound} I think I think they would be ready p ready to pay more for that .
+IS1006c.D.dialog-act.vkaraisk.97	920.99	922.27	D	ME	ass	+1	2	It might be optional , yeah .
+IS1006c.B.dialog-act.vkaraisk.112	979.82	983.07	B	UI	el.ass	+1	1	Could we integrate something into our remote control , something like light ?
+IS1006c.B.dialog-act.vkaraisk.113	984.23	988.21	B	UI	sug	+1	1	That they can use it in darkness , like . Hand light ,
+IS1006c.B.dialog-act.vkaraisk.119	1015.06	1019.54	B	UI	sug	+1	1	And um the remote control's going to be smart
+IS1006c.B.dialog-act.vkaraisk.120	1019.54	1023.83	B	UI	el.sug	+1	2	but how smart should it be to not to complicate things too much ?
+IS1006c.D.dialog-act.vkaraisk.121	1033.71	1038.24	D	ME	inf	+1	1	I heard that uh it seems that speech recognition is something that can be done
+IS1006c.D.dialog-act.vkaraisk.129	1061.43	1066.87	D	ME	el.inf	+1	2	Are are you saying here that uh the remote controls should be aware of who is using it ?
+IS1006c.B.dialog-act.vkaraisk.130	1074.19	1076.46	B	UI	sug	+1	2	I just want to say it should be real smart .
+IS1006c.C.dialog-act.vkaraisk.173	1094.92	1101.15	C	ID	fra	+1	2	since we have {disfmarker} we want to do some speaker dependent speech recognition uh so we can use {disfmarker}
+IS1006c.D.dialog-act.vkaraisk.139	1100.16	1102.99	D	ME	sug	+1	2	So it could be smart in that way .
+IS1006c.D.dialog-act.vkaraisk.142	1119.12	1129.54	D	ME	sug	+1	2	it might also record the kind of uh channels you are u more often using and uh levels of volumes that you're more often uh {disfmarker} things like that
+IS1006c.D.dialog-act.vkaraisk.145	1134.81	1135.83	D	ME	inf	+1	1	that might be expensive
+IS1006c.D.dialog-act.vkaraisk.148	1140.59	1145.632	D	ME	sug	+1	2	{vocalsound} The remote that knows you . {vocalsound}
+34	IS1006c.rdhillon.s.5	The marketing expert discussed current findings from trend watching reports which indicated that there is a desire for products to have a fancy look and feel , be technologically innovative , be easy to use , incorporate a fruit and vegetable theme , and be spongy.
+IS1006c.D.dialog-act.vkaraisk.159	1176.48	1179.16	D	ME	off	+1	1	I'm going to talk about trends
+IS1006c.D.dialog-act.vkaraisk.160	1179.16	1186.62	D	ME	oth	+1	1	and um I hope this can help us to to understand l how we should design our remote control .
+IS1006c.D.dialog-act.vkaraisk.169	1200.05	1204.03	D	ME	inf	+1	1	Anyway these days uh the best uh source of information is the web as you know ,
+IS1006c.D.dialog-act.vkaraisk.186	1270.07	1280.44	D	ME	sug	+1	1	but uh basically there are {disfmarker} uh in in the market of of remote controls there are three aspects that we should very {disfmarker} pay much attention to .
+IS1006c.D.dialog-act.vkaraisk.187	1280.44	1288.48	D	ME	inf	+1	1	The first one , which seems to be the most important one , is that it has to be fancy , it has to have a fancy look and feel .
+IS1006c.D.dialog-act.vkaraisk.189	1288.48	1292.36	D	ME	inf	+1	1	And uh interestingly this is the very most important thing . It has to be fancy .
+IS1006c.D.dialog-act.vkaraisk.190	1293.68	1302.8	D	ME	inf	+1	1	Strangely enough it's more important to be fancy than to be wi and now that's the second thing it has to be , it has to be technologically i innovative ,
+IS1006c.D.dialog-act.vkaraisk.191	1302.8	1308.83	D	ME	inf	+1	1	it has to be new with some of uh new uh technology inside
+IS1006c.D.dialog-act.vkaraisk.192	1308.83	1313.2	D	ME	inf	+1	1	and uh and this is also uh more important than the last thing
+IS1006c.D.dialog-act.vkaraisk.194	1316.39	1321.49	D	ME	inf	+1	1	which is that it should be easy to use and it should be easy to use as a remote control .
+IS1006c.D.dialog-act.vkaraisk.200	1345.76	1348.88	D	ME	inf	+1	1	And finally of course it has to be useful as a remote control
+IS1006c.D.dialog-act.vkaraisk.201	1348.88	1354.71	D	ME	inf	+1	1	but it seems that it's not so important that it's useful as a remote control . {vocalsound}
+IS1006c.D.dialog-act.vkaraisk.206	1374.41	1389.78	D	ME	inf	+1	1	currently the the trends that we see in l in l big cities like Paris and Milan , well , it seems that this year things should have uh a fruit and vegetable uh way of {vocalsound} of look or feel
+IS1006c.D.dialog-act.vkaraisk.209	1393.0	1397.09	D	ME	inf	+1	1	And I think of course uh {vocalsound} i it applies to everything .
+IS1006c.D.dialog-act.vkaraisk.211	1398.86	1404.14	D	ME	inf	+1	1	{vocalsound} It it can travel f from clothe to furniture {vocalsound} same idea .
+IS1006c.D.dialog-act.vkaraisk.213	1409.98	1415.39	D	ME	inf	+1	1	And uh if we co we compare to last year , now it has to be spongy ,
+IS1006c.D.dialog-act.vkaraisk.217	1423.89	1425.62	D	ME	inf	+1	1	When we were talking about rubber ,
+IS1006c.D.dialog-act.vkaraisk.218	1425.62	1428.67	D	ME	sug	+1	2	I think uh the rubber aspect might be important
+IS1006c.D.dialog-act.vkaraisk.219	1428.67	1433.61	D	ME	ass	+1	2	because it's what is probably more feasible in terms of sponginess .
+IS1006c.A.dialog-act.vkaraisk.131	1433.72	1435.98	A	PM	ass	+1	2	So maybe titanium it's not a good idea .
+IS1006c.D.dialog-act.vkaraisk.223	1446.12	1452.58	D	ME	inf	+1	1	Think more of uh something in the colours of uh like fruit and vegetables and spongy ,
+IS1006c.D.dialog-act.vkaraisk.225	1453.89	1463.472	D	ME	inf	+1	1	even in the shape it has to be more round and uh more uh uh look natural somehow . I mean {disfmarker}
+IS1006c.D.dialog-act.vkaraisk.228	1464.58	1470.49	D	ME	inf	+1	1	And not those futuristic uh remote control with angles and uh and titanium like .
+IS1006c.C.dialog-act.vkaraisk.205	1489.52	1495.07	C	ID	el.inf	+1	1	these abilities are mainly ad addressed by young people ?
+IS1006c.D.dialog-act.vkaraisk.238	1501.4	1506.38	D	ME	inf	+1	1	we have people uh uh listening to the trends everywhere in the world , of course ,
+IS1006c.C.dialog-act.vkaraisk.216	1519.73	1520.97	C	ID	el.inf	+1	1	It's more general trend
+IS1006c.C.dialog-act.vkaraisk.217	1520.97	1522.77	C	ID	el.inf	+1	1	it's not particular to the remote control .
+IS1006c.D.dialog-act.vkaraisk.245	1525.03	1528.95	D	ME	inf	+1	1	But it seems that trends travel across things .
+IS1006c.C.dialog-act.vkaraisk.221	1530.86	1536.52	C	ID	inf	+1	1	but some materials n they're to be uh they're to be something like solid
+IS1006c.C.dialog-act.vkaraisk.222	1536.52	1537.92	C	ID	inf	+1	1	like they can't be really spongy
+IS1006c.D.dialog-act.vkaraisk.249	1538.95	1543.81	D	ME	sug	+1	1	We have to {disfmarker} I think we have to have the look of fruit and vegetables
+IS1006c.C.dialog-act.vkaraisk.236	1554.53	1557.61	C	ID	ass	+1	1	fruit . These things can be easily incorporated .
+IS1006c.C.dialog-act.vkaraisk.237	1557.61	1560.83	C	ID	sug	+1	1	We can have t colours or this shape
+IS1006c.D.dialog-act.vkaraisk.255	1561.38	1566.21	D	ME	ass	+1	2	If if it's something like rubber made or {disfmarker} I think it it's also going to be good .
+44	IS1006c.rdhillon.s.6	The project manager gave the team members their assignments and then the team went over the decisions they had made and discussed whether to use titanium or rubber in their design.
+IS1006c.A.dialog-act.vkaraisk.151	1591.72	1595.62	A	PM	inf	+1	1	we will have uh next meeting in thirty minutes again .
+IS1006c.A.dialog-act.vkaraisk.152	1595.62	1599.73	A	PM	sug	+1	1	Um now you have to go straight on this individual action
+IS1006c.A.dialog-act.vkaraisk.153	1599.73	1605.19	A	PM	inf	+1	2	which i which are for Rama uh wil design ,
+IS1006c.A.dialog-act.vkaraisk.155	1609.49	1614.46	A	PM	inf	+1	2	and uh Sammy uh the product evaluation .
+IS1006c.A.dialog-act.vkaraisk.154	1605.19	1609.49	A	PM	inf	+1	2	um Mark the user interface design ,
+IS1006c.A.dialog-act.vkaraisk.156	1614.46	1621.24	A	PM	inf	+1	2	{vocalsound} Uh you will work together uh on a new on on a prototype using modelling clay .
+IS1006c.A.dialog-act.vkaraisk.158	1625.44	1633.31	A	PM	inf	+1	1	um and I {disfmarker} {vocalsound} as always your personal coach will send you specific instruction .
+IS1006c.C.dialog-act.vkaraisk.249	1646.31	1648.59	C	ID	inf	+1	2	we want the speech recogniser
+IS1006c.C.dialog-act.vkaraisk.250	1648.59	1651.29	C	ID	inf	+1	2	and we want some kind of buttons
+IS1006c.C.dialog-act.vkaraisk.251	1651.29	1656.43	C	ID	inf	+1	2	and we want some themes like fruits or vegetables ,
+IS1006c.C.dialog-act.vkaraisk.253	1657.01	1658.7	C	ID	inf	+1	2	we want to follow general trend .
+IS1006c.D.dialog-act.vkaraisk.262	1666.925	1670.36	D	ME	inf	+1	2	{vocalsound} No , we don't have to ,
+IS1006c.D.dialog-act.vkaraisk.264	1671.86	1676.69	D	ME	sug	+1	2	Again , as I said we can also try to make it , to create the trend .
+IS1006c.B.dialog-act.vkaraisk.147	1677.26	1680.14	B	UI	el.ass	+1	2	are we confident enough on creating trends ?
+IS1006c.B.dialog-act.vkaraisk.149	1685.95	1693.83	B	UI	sug	+1	1	we can make it smell like fruit . {vocalsound}
+IS1006c.C.dialog-act.vkaraisk.262	1697.24	1701.99	C	ID	el.inf	+1	1	what about location and these things , people are really interesting on those features ?
+IS1006c.C.dialog-act.vkaraisk.263	1701.99	1709.34	C	ID	el.inf	+1	1	Or they really like {disfmarker} They more want these fancy features
+IS1006c.D.dialog-act.vkaraisk.277	1712.12	1713.07	D	ME	inf	+1	1	it has to be fancy
+IS1006c.D.dialog-act.vkaraisk.282	1727.08	1731.12	D	ME	inf	+1	1	Whether it's useful or not doesn't seem to be very important . {vocalsound}
+IS1006c.D.dialog-act.vkaraisk.278	1713.07	1724.01	D	ME	ass	+1	1	so I think if nobody else pro provides currently a remote control with that kind of stuff and if we can provide it I think it's a good sell for us
+IS1006c.A.dialog-act.vkaraisk.173	1736.5	1739.59	A	PM	sug	+1	1	Now we have to decide on what kind of fanciness .
+IS1006c.A.dialog-act.vkaraisk.174	1739.59	1742.23	A	PM	el.ass	+1	1	Do we take titanium smelling like fruit ,
+IS1006c.A.dialog-act.vkaraisk.175	1742.23	1745.64	A	PM	el.ass	+1	1	or do we make spongy uh fruity-like
+IS1006c.C.dialog-act.vkaraisk.271	1746.41	1748.3	C	ID	sug	+1	1	we will try to explore these two options
+IS1006c.D.dialog-act.vkaraisk.284	1748.01	1749.56	D	ME	ass	+1	1	Maybe you could explore the two option .
+IS1006c.B.dialog-act.vkaraisk.152	1751.03	1757.21	B	UI	el.ass	+1	1	Could we make a titanium shape ? I mean {gap} fruit-shaped .
+IS1006c.C.dialog-act.vkaraisk.275	1755.19	1756.57	C	ID	sug	+1	1	at least like we can make banana
+IS1006c.B.dialog-act.vkaraisk.154	1762.74	1764.07	B	UI	inf	+1	1	Doub double-curved .
+IS1006c.A.dialog-act.vkaraisk.178	1757.216	1764.04	A	PM	el.inf	+1	1	{vocalsound} Don't you say that you cannot do double shape {disfmarker} uh curved shape {disfmarker}
+IS1006c.C.dialog-act.vkaraisk.282	1767.13	1772.88	C	ID	sug	+1	1	and and s we're to see the {disfmarker} whether rubber is expensive
+IS1006c.B.dialog-act.vkaraisk.156	1773.22	1783.87	B	UI	inf	+1	1	In fact I just agreed to make uh to make the {disfmarker} like titanium panels on a whole rubber body .
+IS1006c.A.dialog-act.vkaraisk.182	1787.24	1792.2	A	PM	sug	+1	2	you explore now that you're going to work together these these two .
+IS1006c.C.dialog-act.vkaraisk.287	1795.4	1802.92	C	ID	sug	+1	2	Maybe we can have two different {gap} assembly also like one spongy and one kind of titanium .
+IS1006c.A.dialog-act.vkaraisk.189	1809.25	1810.28	A	PM	sug	+1	1	I think we have to choose .
+IS1006c.A.dialog-act.vkaraisk.190	1811.43	1814.11	A	PM	sug	+1	1	If we choose uh titanium or if we choose spongy
+IS1006c.C.dialog-act.vkaraisk.296	1851.73	1853.92	C	ID	el.ass	+1	1	still we want to keep L_C_D_ ? Or {disfmarker}
+IS1006c.A.dialog-act.vkaraisk.201	1854.91	1860.51	A	PM	ass	+1	2	Mm I think it's what we say , that we have an uh an L_C_D_ with uh information .
+IS1006c.D.dialog-act.vkaraisk.294	1860.53	1870.97	D	ME	sug	+1	1	The thing is that uh if we want to have as he says {disfmarker} if we want to have uh a small number of buttons we need to have a kind of output that says currently what their actions are .
+IS1006c.D.dialog-act.vkaraisk.296	1874.45	1877.35	D	ME	inf	+1	1	That's the converse to having zillions of button
+IS1006c.D.dialog-act.vkaraisk.297	1877.35	1879.2	D	ME	inf	+1	1	where each button does only one thing .
+IS1006c.C.dialog-act.vkaraisk.307	1884.31	1886.3	C	ID	el.ass	+1	2	and we just stick with two batteries
+IS1006c.C.dialog-act.vkaraisk.308	1886.3	1888.98	C	ID	el.ass	+1	1	so it's not any solar or {disfmarker}
+IS1006c.D.dialog-act.vkaraisk.301	1895.12	1901.92	D	ME	inf	+1	1	in general I think people uh change T_V_ more often than batteries of their remote control .
+IS1006c.D.dialog-act.vkaraisk.303	1903.26	1906.224	D	ME	inf	+1	1	Because the trend goes faster than the life of the {disfmarker} {vocalsound}

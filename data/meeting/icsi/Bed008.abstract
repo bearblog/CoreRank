@@ -1,0 +1,29 @@
+0	Bed008.s.1	A detailed diagram of the belief-net had already been disseminated.
+1	Bed008.s.2	Its structure was discussed during the meeting.
+Bed008.B.dialogueact29	350.819	357.819	B	Professor	s	+1	3	one of which is just lay out the influence structure of what we think influences what
+3	Bed008.s.3	There are several endpoints ( User , Ontology , Discourse etc ) with separate EVA ( Enter/View/Approach ) values.
+Bed008.B.dialogueact302	1035.6	1039.01	B	Professor	s	+1	2	the way we had been designing this , there were three intermediate nodes
+Bed008.B.dialogueact303	1040.32	1050.94	B	Professor	fh|s^e	+1	2	uh which were the endpoint decision as seen from the uh user model as seen from the ontology and as seen from the discourse .
+Bed008.D.dialogueact1245	3513.63	3515.87	D	Grad	s	+1	1	These are all like saying EV or A ,
+1	Bed008.s.4	Details of how different inputs feed into them were discussed at length.
+Bed008.B.dialogueact29	350.819	357.819	B	Professor	s	+1	3	one of which is just lay out the influence structure of what we think influences what
+3	Bed008.s.5	Ideas mentioned included grouping features of buildings like "selling" , "fixing" and "exhibiting" , as well as creating a User-compatibility node that would take different values depending on the situation and the user status.
+Bed008.E.dialogueact402	1364.38	1369.41	E	Grad	s	+1	1	if it 's fixing things selling things , or servicing things
+Bed008.B.dialogueact418	1409.74	1413.13	B	Professor	s^cs	+1	1	so the idea would be that you might wanna merge those three
+Bed008.B.dialogueact641	1951.46	1962.67	B	Professor	s^cs	+1	1	you could have a node that 's {disfmarker} that was a measure of the match between the object 's feature , you know , the match between the object the entity , I 'm sorry and the user .
+2	Bed008.s.6	Similarly , a Go-there ( towards a building ) node can be influenced by things like the user's budget and discourse parameters amongst other things.
+Bed008.E.dialogueact127	599.483	604.753	E	Grad	s	+1	1	So here is the {disfmarker} the {disfmarker} we had that the user 's budget may influence the outcome of decisions .
+Bed008.B.dialogueact811	2388.04	2394.85	B	Professor	fg|s	+1	1	Well the fir see the first thing is , getting back to thing we left out of the other is the actual discourse .
+1	Bed008.s.7	The latter are still ill-defined at this stage.
+Bed008.B.dialogueact820	2421.01	2422.2	B	Professor	s	+1	2	and we don't know what they are yet .
+1	Bed008.s.8	The study of the linguistic constructions that people use in this kind of navigational domain is expected to be prove useful in that respect.
+Bed008.B.dialogueact813	2397.82	2406.77	B	Professor	s^df	+1	1	because uh we 're gonna want to know you know , which constructions indicate various of these properties
+2	Bed008.s.9	As each node in the tree is the decision point of the combination of its parent nodes , which rules govern this combination is an important issue.
+Bed008.D.dialogueact1237	3472.55	3483.01	D	Grad	s	+1	1	So um recall the basic problem which is that um you have a belief - net and you have like a lot of different nodes all contributing to one node .
+Bed008.D.dialogueact1261	3548.01	3555.37	D	Grad	s	+1	1	So the problem is to specify the uh so the conditional property of this given all those ,
+3	Bed008.s.10	There are several approaches ranging from simply averaging the inputs to using a hidden variable in order to weight them differently depending on context.
+Bed008.D.dialogueact1298	3649.95	3656.24	D	Grad	s	+1	1	and we just take the uh we essentially take um averages ,
+Bed008.D.dialogueact1380	3854.29	3855.16	D	Grad	s	+1	2	This is a hidden variable .
+Bed008.C.dialogueact1416	4009.43	4013.98	C	Grad	s	+1	1	W I was just , if you wanted to pay attention to more than one you could pass a w a weighting s system though too ,
+1	Bed008.s.11	If the latter architecture is used , the net could -to an extent- be trained with the data that is currently being collected.
+Bed008.C.dialogueact1438	4087.37	4090.09	C	Grad	s^bk|s^bu.%--	+1	2	OK , so they {disfmarker} they could either be hand coded or learned or

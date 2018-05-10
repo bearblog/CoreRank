@@ -1,0 +1,27 @@
+2	Bed005.s.13	As the data collection is about to begin , there are some minor changes to be done in the design of the experiment , the script and the permission forms.
+Bed005.B.dialogueact29	210.705	214.235	B	Professor	s	+1	1	In parallel with that , we 're gonna need to actually do the script .
+Bed005.B.dialogueact66	321.149	322.159	B	Professor	s	+1	1	This {disfmarker} The permission form .
+4	Bed005.s.14	Subjects can be recruited either from within the university or through other social circles.
+Bed005.B.dialogueact19	171.813	190.084	B	Professor	s:s	+1	2	What we think is gonna happen is that , uh , in parallel starting about now {vocalsound} we 're gonna get Fey {vocalsound} to , where you 're working with me and Robert , draft a note that we 're gonna send out to various CogSci c and other classes saying , " here 's an opportunity to be a subject .
+Bed005.B.dialogueact27	205.712	208.242	B	Professor	s	+1	1	not necessarily by any means all students
+Bed005.B.dialogueact31	227.992	235.053	B	Professor	s	+1	3	But what I 'd like to do , if it 's O K , {vocalsound} is to s to , as I say , start the recruiting in parallel and possibly start running subjects next week .
+Bed005.C.dialogueact45	259.831	264.381	C	Grad	s	+1	1	which is we gonna check out our social infrastructures for possible subjects .
+2	Bed005.s.15	As to the system design , the next step is the translation of the generator into english.
+Bed005.B.dialogueact914	2345.79	2347.95	B	Professor	s	+1	4	That , these guys did in a {disfmarker} in a day .
+Bed005.B.dialogueact923	2374.78	2382.26	B	Professor	s	+1	1	Eh , but again , there 's one module in which there 's one piece {vocalsound} that we have to convert to English .
+2	Bed005.s.16	Moreover , it is important to test the system and its internal workings by adding new sentence types and modifying the parser.
+Bed005.C.dialogueact331	822.78	840.442	C	Grad	s^tc	+1	1	And the next thing I would like to be able to do , and it seems like this would not be too difficult either , is {vocalsound} to say , " OK let 's now pretend we actually wanted to not only change the {disfmarker} {vocalsound} the mapping of {disfmarker} of , uh , words to the M - three - L but we also wanted to change {disfmarker} add a new sentence type
+Bed005.B.dialogueact504	1295.29	1304.65	B	Professor	fh|s	+1	1	So , yeah . I definitely think it 's {disfmarker} {vocalsound} It 's worth the exercise of trying to actually add something that isn't there .
+3	Bed005.s.17	All further research will use the existing domain ( "tourists in Heidelberg" ) , as this provides enough diversity for the purposes of the project.
+Bed005.B.dialogueact685	1777.94	1786.54	B	Professor	s	+1	1	It seems to me we can get {vocalsound} all the complexity we want in actions and in language without going outside of tourists in Heidelberg .
+Bed005.B.dialogueact693	1809.34	1818.29	B	Professor	s^cs	+1	1	So , at least {disfmarker} unless somebody else wants t to suggest otherwise I think {vocalsound} the general domain we don't have t to uh , broaden .
+Bed005.B.dialogueact694	1819.18	1820.49	B	Professor	s^e	+1	1	That is , tourists in Heidelberg .
+0	Bed005.s.18	The german partners for the project will realise all the necessary changes in the ontology.
+4	Bed005.s.19	It is therefore preferable for the group to exercise foresight and agree on the set of new tags they will need in the long run , so that they limit the number of change requests.
+Bed005.B.dialogueact589	1564.49	1567.67	B	Professor	s^cs	+1	1	So it seemed to me , what we ought to do is get our story together .
+Bed005.B.dialogueact591	1569.15	1574.23	B	Professor	s^cs^e	+1	1	And think about it some , internally , before asking them to make changes .
+Bed005.B.dialogueact627	1651.79	1655.4	B	Professor	s^f|qh	+1	1	OK . What are the thl class of things we think we might try to do in a year or two ?
+Bed005.B.dialogueact661	1731.73	1738.59	B	Professor	s	+1	1	This is {disfmarker} this is everything that {disfmarker} that , um , {pause} {vocalsound} you know , um {pause} we might want to do in the next couple years .
+2	Bed005.s.20	Finally , on a more technical note , Noisy-OR's were discussed and considered a sensible approach to deal with the potential problems with the setting the conditional probabilities of the Bayes-nets.
+Bed005.D.dialogueact1049	2625.51	2630.35	D	Grad	fh|s	+1	3	So {pause} Noisy - ORs are a way to , uh , {vocalsound} sort of deal with this .
+Bed005.B.dialogueact1235	3124.03	3127.76	B	Professor	s^ba	+1	1	I think we definitely {disfmarker} I think it 's a great idea tha to {disfmarker} to pursue that .

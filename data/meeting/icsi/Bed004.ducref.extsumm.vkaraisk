@@ -1,0 +1,94 @@
+So . On Friday we had our wizard test data test and um {vocalsound} these are some of the results .
+this is what she had to read {pause} aloud .
+this was the uh first three tasks she had to {disfmarker} to master after she called the system ,
+I should say the system was supposed to break down and then um these were the remaining three tasks that she was going to solve , with a human {disfmarker}
+The reading was five minutes , exactly .
+Like , there was a wizard for both uh {disfmarker} both parts ,
+One time , pretending to be a system ,
+one time , to {disfmarker} pretending to be a human , which is actually not pretending .
+Five minutes is just too long .
+Um , that was already anticipated by some people suggested that if we just have bullets here , they 're gonna not {disfmarker} they 're {disfmarker} subjects are probably not gonna {disfmarker} going to follow the order .
+She {disfmarker} she jumped around quite a bit .
+S so if you just number them " one " , " two " , " three " it 's
+That is something that Fey actually thought of a {disfmarker} in the last second that sh the system should introduce itself , when it 's called .
+And um , um , another suggestion , by Liz , was that we uh , through subjects , switch the tasks .
+So when {disfmarker} when they have task - one with the computer , the next person should have task - one with a human , and so forth .
+Um , we have to refine the tasks more and more , which of course we haven't done at all , so far , in order to avoid this rephrasing ,
+And uh my suggestion is of course we {disfmarker} we keep the wizard , because I think she did a wonderful job ,
+Um {pause} And also if she 's willing to take on the job of organizing all those subjects and stuff that would be wonderful .
+And um I told her that we gonna um figure out a meeting time in the near future to refine the tasks and s look for the potential sources to find people .
+She also agrees that you know if it 's all just gonna be students the data is gonna be less valuable because of that
+We could talk to the people who run it and um see if they have a way that they could easily uh tell people that there 's a task , pays ten bucks or something ,
+but um you have to be comfortable reading relatively complicated stuff .
+Um . Now , {pause} I signed us up for the Wednesday slot , and part of what we should do is this .
+my idea on that was {pause} uh , partly we 'll talk about system stuff for the computer scientists ,
+but partly I did want it to get the linguists involved in some of this issue about what the task is and all {disfmarker} um you know , what the dialogue is , and what 's going on linguistically ,
+because to the extent that we can get them contributing ,
+that will be good .
+So , what I did for this {disfmarker} this is {disfmarker} uh , a pedagogical belief - net
+So basically all I did was I took the last {pause} belief - net
+and I grouped things according to what {disfmarker} how I thought they would fit in to uh image schemas that would be related .
+And the two that I came up with were Trajector - landmark and then Source - path - goal as initial ones .
+Um , you know , we have {disfmarker} we have the concept of what their intention was , whether they were trying to tour or do business or whatever ,
+or they were hurried .
+That 's kind of related to that .
+Yeah , so {disfmarker} um , in terms of Context , what we had currently said was whether they were a businessman or a tourist of some other person .
+Um , Discourse was related to whether they had asked about open hours
+Uh , Prosody I don't really {disfmarker} I 'm not really sure what prosody means , in this context ,
+Um , the Parse would be what verb they chose ,
+And um , in terms of World Knowledge , this would just basically be like opening and closing times of things , the time of day it is , and whatnot .
+Well , this is not a working Bayes - net .
+is , if we just do this , we could wind up with a huge uh , combinatoric input to the Mode thing .
+I just {disfmarker} uh it 's hard for me to imagine how he could get around that .
+which is there are technical ways of doing it ,
+uh I I slipped a paper to Bhaskara and {disfmarker} about Noisy - OR 's and Noisy - MAXes
+I mean , not necessarily in th in this meeting , but to try to informally think about what the decision variables are .
+you know , what are the most relevant things .
+And the other trick , which is not a technical trick , it 's kind of a knowledge engineering trick , is to make the n {pause} each node sufficiently narrow that you don't get this combinatorics .
+And then the question would be if {disfmarker} if those are the things that you care about , uh can you make a relatively compact way of getting from the various inputs to the things you care about .
+But the uh {disfmarker} the {disfmarker} the nice thing is that you know , it just is a {disfmarker} is a visual aid for thinking about these things which has comple clearly have to be specified m more carefully
+Alright , well , le let me think about this some more ,
+and uh see if we can find a way to present this to this linguists group that {disfmarker} that is helpful to them .
+because um I integrated this into the existing SmartKom system in {disfmarker} in the same way as much the same way we can um sort of have this uh {disfmarker} this thing .
+So , I {disfmarker} I do understand that uh you can take the M - three - L and add not {disfmarker} and it w
+we have to add , you know , not too much about um object types and stuff ,
+and what I think you did is add some rules of the style that are already there that say " If it 's of type " Landmark " , then you take {disfmarker} you 're gonna take a picture of it . "
+And it {disfmarker} it would do us no good .
+that 's another sort of thing " OK , here 's a {disfmarker} another kind of minimal uh way of tackling this " .
+Add extra properties ,
+a deterministic rule for every property
+And the rules we want to throw away completely .
+And um {disfmarker} and here is exactly where what 's gonna be replaced with our Bayes - net ,
+i if you had the generalized " Go " X - schema
+and you wanted to specialize it to these three ones , then you would have to supply the parameters .
+So the immediate problem is just deciding w which {disfmarker}
+Aspects of the X - schema to add .
+You know , uh what are we going to use to make this decision {disfmarker}
+The harder problem is we decide what we want to use , how are we gonna get it ?
+uh , we have a d a technical problem with the belief - nets that we {disfmarker} we don't want all the com
+too many factors if we {disfmarker} if we allow them to just go combinatorially .
+So the belief - net takes as input , a vector ,
+and then we want to look up some more stuff in the ontology
+maybe we want to ask the real world ,
+maybe you want to look something up in the GRS ,
+but also we definitely want to look up in the dialogue history um some s some stuff .
+So this may be a {disfmarker} a sort of a process of two to three steps before we get our vector , that we feed into the belief - net ,
+There will be rules , but they aren't rules that come to final decisions , they 're rules that gather information for a decision process .
+My guess is it 'll be the same basic agent that um can go off and get information , run it through a {disfmarker} a c this belief - net that {disfmarker}
+which can then be uh applied at what we would call the simulation or action end .
+and that may actually involve getting more information .
+I think we {disfmarker} I {disfmarker} I can come up with a {disfmarker} a code for a module that we call the " cognitive dispatcher " , which does nothing ,
+but it looks of complect object trees and decides how {disfmarker} are there parts missing that need to be filled out ,
+and then collect uh sub - objects and then recombine them and put them together .
+So . What you 're trying to get out of this deep co cognitive linguistics is the fact that w if you know about source {disfmarker} source , paths and goals , and nnn {comment} all this sort of stuff , that a lot of this is the same , for different tasks .
+And that {disfmarker} uh there 's {disfmarker} there 's some {disfmarker} some important generalities that you 're getting ,
+And I don't yet see how that goes .
+But what I 'd like to be able to do is to have the way that you extract properties , that will go into different Bayes - nets , be the {disfmarker} uh general .
+So that if you have sources , you have trajectors and stuff like that ,
+you shouldn't have to do that differently
+for uh uh going to something , than for circling it ,
+for uh telling someone else how to go there ,
+What you 'd really like of course is the same thing you 'd always like which is that you have um a kind of intermediate representation which looks the same o over a bunch of inputs and a bunch of outputs .
+that generalize over those problems , and are oh , t of a higher quality than an any actual whatever um belief - net , or " X " that we may use for the decision making , ultimately .
+so that we have {disfmarker} so that this is sort of the representational formats we 're {disfmarker} we 're {disfmarker} we 're talking about that are independent of the problem ,
+You just uh do " this is what we did , and here 's the {pause} thing , and here 's s some of the dialogue and {disfmarker} and so forth . "

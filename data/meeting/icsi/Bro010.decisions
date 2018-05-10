@@ -1,0 +1,24 @@
+11	Bro010.s.5	No one from the group attended a recent video conference about their main project , but they need to find out what was discussed in it.
+Bro010.B.dialogueact4	18.59	20.79	B	PhD	qy^rt	+1	2	Do you have news from the conference talk ?
+Bro010.D.dialogueact10	27.825	30.015	D	PhD	s	+1	2	Yesterday morning on video conference .
+Bro010.C.dialogueact17	34.22	35.62	C	Professor	s^ar|s^nd	+1	2	No , nobody 's told me anything .
+Bro010.C.dialogueact25	44.57	46.5	C	Professor	s	+1	2	No , that would have been a good thing to find out before this meeting ,
+Bro010.C.dialogueact31	52.9	56.83	C	Professor	s^co	+1	3	I mean , let 's {disfmarker} let 's assume for right now that we 're just kind of plugging on ahead ,
+Bro010.C.dialogueact33	56.83	65.893	C	Professor	s^df	+1	3	because even if they tell us that , uh , the rules are different , uh , we 're still interested in doing what we 're doing .
+Bro010.C.dialogueact434	916.058	931.8	C	Professor	s	+1	3	uh , one thing that would be no {disfmarker} good to find out about from this conference call is that what they were talking about , what they 're proposing doing , was having a third party , um , run a good VAD , and {disfmarker} and determine boundaries .
+Bro010.C.dialogueact436	933.174	937.728	C	Professor	s	+1	3	And then given those boundaries , then have everybody do the recognition .
+Bro010.C.dialogueact447	972.191	974.041	C	Professor	s	+1	2	uh , I guess they argued about that yesterday
+Bro010.C.dialogueact450	974.976	975.936	C	Professor	s^no	+1	1	I don't {disfmarker} don't know the answer
+Bro010.C.dialogueact451	975.936	976.676	C	Professor	s^cs	+1	1	but we should find out .
+2	Bro010.s.6	Until they do , they will continue on , assuming nothing major has been changed.
+Bro010.C.dialogueact31	52.9	56.83	C	Professor	s^co	+1	3	I mean , let 's {disfmarker} let 's assume for right now that we 're just kind of plugging on ahead ,
+Bro010.C.dialogueact33	56.83	65.893	C	Professor	s^df	+1	3	because even if they tell us that , uh , the rules are different , uh , we 're still interested in doing what we 're doing .
+8	Bro010.s.7	Need to discuss any new investigation with partners to make sure work is not repeated.
+Bro010.C.dialogueact66	152.87	155.07	C	Professor	qy^d^rt	+1	3	You {disfmarker} you had a discussion with Sunil about this though ?
+Bro010.B.dialogueact67	155.23	155.46	B	PhD	s^ar	+1	2	No .
+Bro010.C.dialogueact70	158.544	159.384	C	Professor	s^cs^ng	+1	2	Yeah , you should talk with him .
+Bro010.C.dialogueact73	161.14	164.87	C	Professor	s	+1	1	No , I mean , because the {disfmarker} the {disfmarker} the {disfmarker} the whole problem that happened before was coordination ,
+Bro010.C.dialogueact76	165.17	168.1	C	Professor	s^co	+1	1	So {disfmarker} so you need to discuss with him what we 're doing ,
+Bro010.C.dialogueact78	168.39	171.32	C	Professor	s^df	+1	2	uh , cuz they could be doing the same thing and {disfmarker} or something .
+Bro010.C.dialogueact95	194.922	196.962	C	Professor	s^co	+1	2	We just {disfmarker} we just have to be in contact more .
+Bro010.C.dialogueact96	196.962	203.66	C	Professor	s^df	+1	2	I think that {disfmarker} the {disfmarker} the fact that we {disfmarker} we did that with {disfmarker} had that thing with the latencies was indicative of the fact that there wasn't enough communication .

@@ -1,0 +1,191 @@
+9	IS1007b.JacquelinePalmer.s.1	The Project Manager presented the goals of the meeting and new product requirements.
+IS1007b.A.dialog-act.s9553330.2	42.34	57.47	A	PM	inf	+1	1	Uh for the aim of this meeting now is to to make presentation about uh the work for each one .
+IS1007b.A.dialog-act.s9553330.4	58.72	69.79	A	PM	inf	+1	1	And {gap} take the the decision about the the design and the functionality of the the remote control .
+IS1007b.A.dialog-act.s9553330.5	69.79	75.31	A	PM	inf	+1	1	And we have {disfmarker} think I got a new project requirement .
+IS1007b.A.dialog-act.s9553330.6	75.31	81.0	A	PM	inf	+1	1	So I think uh teletext becomes outdated .
+IS1007b.A.dialog-act.s9553330.8	86.67	91.9	A	PM	inf	+1	2	and I think we don't need lighting adaptive ,
+IS1007b.A.dialog-act.s9553330.7	82.07	86.67	A	PM	inf	+1	1	So the popularity of the {disfmarker} since the popularity of the internet ,
+IS1007b.A.dialog-act.s9553330.9	91.9	96.83	A	PM	inf	+1	1	so the remote control should be only used for the the television .
+IS1007b.A.dialog-act.s9553330.10	98.31	104.15	A	PM	inf	+1	1	And of course we should have our image {gap} in the in the design .
+IS1007b.A.dialog-act.s9553330.11	106.59	113.84	A	PM	sug	+1	1	So , let's start with the the industrial designer .
+19	IS1007b.JacquelinePalmer.s.2	The Industrial Designer presented the internal components of a remote control and showed a diagram of how they operate together.
+IS1007b.C.dialog-act.s9553330.10	153.84	160.685	C	ID	inf	+1	1	{vocalsound} Right , so um I will talk about the the w working design and {disfmarker}
+IS1007b.C.dialog-act.s9553330.11	163.17	174.65	C	ID	inf	+1	1	And um well I I will present my my first idea on how to build the {disfmarker} our new remote control for television .
+IS1007b.C.dialog-act.s9553330.13	179.19	187.47	C	ID	inf	+1	1	So I think the first things to do is to define the hardware components neededs to achieve uh what we want to do .
+IS1007b.C.dialog-act.s9553330.15	190.8	198.24	C	ID	off	+1	1	I think uh I I'll do a survey about what is uh what is available on the market
+IS1007b.C.dialog-act.s9553330.16	198.24	205.24	C	ID	off	+1	1	and what what is the the cheapest possible {vocalsound} things we hav we can use .
+IS1007b.C.dialog-act.s9553330.17	206.89	210.86	C	ID	off	+1	1	Then uh I will try with the technical team to to build a prototype
+IS1007b.C.dialog-act.s9553330.19	219.73	227.37	C	ID	off	+1	1	And how an and we can uh start troubleshooting first uh com communication problems or things like that .
+IS1007b.C.dialog-act.s9553330.20	227.37	239.53	C	ID	sug	+1	1	And when we are ready with this first prototype I I think we can add some software functionalities on a programmable chip like browsing by content or um things like that .
+IS1007b.C.dialog-act.s9553330.22	243.04	253.96	C	ID	inf	+1	1	So , wha what I think {vocalsound} for now {vocalsound} is {vocalsound} we don't want to have a remote control w which is wired
+IS1007b.C.dialog-act.s9553330.23	253.96	258.69	C	ID	inf	+1	1	so uh I think we u we can use a battery for the {gap} .
+IS1007b.C.dialog-act.s9553330.24	258.69	266.5	C	ID	sug	+1	1	Then two programmable chips for both software functionalities and communication .
+IS1007b.C.dialog-act.s9553330.25	266.5	271.2	C	ID	inf	+1	1	And the communication with the T_V_ set is uh made through uh infrared communication
+IS1007b.C.dialog-act.s9553330.26	274.31	282.97	C	ID	inf	+1	1	So uh this is the {vocalsound} the schema of the {vocalsound} o of the future uh remote controls
+IS1007b.C.dialog-act.s9553330.27	282.97	287.07	C	ID	inf	+1	1	so uh you can you can see the components , uh battery
+IS1007b.C.dialog-act.s9553330.28	287.07	294.0	C	ID	inf	+1	1	and uh the two chips goes to the infrared uh connection to the T_V_ set .
+IS1007b.C.dialog-act.s9553330.29	296.24	301.53	C	ID	inf	+1	1	The one on top is for the um {disfmarker} well the functionali the functionalities
+IS1007b.D.dialog-act.s9553330.7	299.14	300.52	D	ME	sug	+1	1	One is a communication .
+IS1007b.C.dialog-act.s9553330.30	301.53	309.32	C	ID	inf	+1	1	and the the th red um {disfmarker} sorry the green one is is to {disfmarker} well , putting things together ,
+IS1007b.C.dialog-act.s9553330.31	309.32	317.48	C	ID	inf	+1	1	um f transform the data into uh qu into the format to to {gap} uh to communicate with the T_V_ set .
+23	IS1007b.JacquelinePalmer.s.3	He suggested that field programmable gateway arrays be used for the chip controlling software functionalities , and it was suggested that the remote be used with a recharging stand.
+IS1007b.C.dialog-act.s9553330.33	320.78	328.82	C	ID	sug	+1	1	I think we should use a F_P_G_A_ for {vocalsound} for the functionalities which is easy to to t
+IS1007b.B.dialog-act.s9553330.22	328.02	329.09	B	UI	el.inf	+1	1	What is F_P_G_A_ ?
+IS1007b.D.dialog-act.s9553330.9	334.37	336.62	D	ME	inf	+1	1	It's a field programmable gateway arrays .
+IS1007b.B.dialog-act.s9553330.23	336.52	339.01	B	UI	el.inf	+1	1	So why's it {disfmarker} how is it different from the Bluetooth ?
+IS1007b.C.dialog-act.s9553330.36	339.52	348.01	C	ID	inf	+1	1	Well , uh a F_P_G_A_ is just a chip you can uh you can {gap} pr programme it uh wi with wh whatever you want .
+IS1007b.C.dialog-act.s9553330.37	348.01	355.48	C	ID	inf	+1	1	And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices .
+IS1007b.B.dialog-act.s9553330.28	355.57	357.78	B	UI	el.inf	+1	1	So this are the {disfmarker} they have to work together ?
+IS1007b.B.dialog-act.s9553330.29	357.78	361.532	B	UI	el.inf	+1	1	Or ? Do they have to work together or two separate choice {disfmarker}
+IS1007b.C.dialog-act.s9553330.39	360.73	364.18	C	ID	inf	+1	1	Well , th the F_P_G_A_ will produce the the data to send .
+IS1007b.D.dialog-act.s9553330.11	365.33	367.62	D	ME	sug	+1	1	Or it's something like {disfmarker} isn't hardware the first one ?
+IS1007b.D.dialog-act.s9553330.12	367.62	369.92	D	ME	sug	+1	1	And the second one is for the software .
+IS1007b.D.dialog-act.s9553330.16	383.16	385.67	D	ME	el.inf	+1	1	Okay , and how about the battery power ?
+IS1007b.D.dialog-act.s9553330.17	385.67	390.72	D	ME	el.inf	+1	1	Uh you mean that battery would be somewhere there and the remote contro the power to the battery comes through infrared ?
+IS1007b.C.dialog-act.s9553330.45	391.68	398.32	C	ID	inf	+1	1	I think uh we have uh to to uh have uh embedded uh b batteries in in the {disfmarker}
+IS1007b.C.dialog-act.s9553330.48	401.52	408.0	C	ID	inf	+1	1	And uh I I don't think it will need um {vocalsound} very uh much power to make it run , so {disfmarker}
+IS1007b.B.dialog-act.s9553330.40	408.5	411.91	B	UI	sug	+1	2	Mm . You can put it on the charger when uh you when you don't need to use it .
+IS1007b.C.dialog-act.s9553330.50	412.7	413.63	C	ID	ass	+1	2	It's a good idea .
+IS1007b.D.dialog-act.s9553330.22	414.99	419.08	D	ME	inf	+1	1	Having a charger rather than putting the battery cells always .
+IS1007b.D.dialog-act.s9553330.23	419.08	423.18	D	ME	inf	+1	1	People don't like it to have to buy the batteries when they run out .
+IS1007b.D.dialog-act.s9553330.24	423.18	425.41	D	ME	inf	+1	2	We just make a small charger
+IS1007b.B.dialog-act.s9553330.47	426.51	433.37	B	UI	sug	+1	1	Because you are using because you are using Bluetooth , if some people have P_D_A_ they can use their P_D_A_ to control the T_V_ if they want to , right ?
+IS1007b.D.dialog-act.s9553330.29	441.02	445.583	D	ME	inf	+1	1	we do not want to make it P_D_A_ . {vocalsound}
+IS1007b.C.dialog-act.s9553330.53	433.96	443.18	C	ID	inf	+1	1	Also , but but {vocalsound} I I I think uh the the goal is to sell our remote {vocalsound} control .
+12	IS1007b.JacquelinePalmer.s.4	The User Interface Designer gave a presentation on the technical functions of the remote , and displayed the interfaces of two existing products for comparison.
+IS1007b.B.dialog-act.s9553330.60	499.57	502.8	B	UI	inf	+1	1	So I'm working on the technical functions design .
+IS1007b.B.dialog-act.s9553330.61	507.0	515.75	B	UI	inf	+1	1	So the the purpose is to to find uh the important questions to ask is what effect should the apparatus have .
+IS1007b.B.dialog-act.s9553330.62	515.75	522.16	B	UI	inf	+1	1	So {vocalsound} so I found on a webs on the internet
+IS1007b.B.dialog-act.s9553330.65	526.39	534.61	B	UI	inf	+1	1	and uh and I found that uh the function of remote control is to send messages to television set .
+IS1007b.B.dialog-act.s9553330.66	534.61	541.42	B	UI	inf	+1	1	{vocalsound} For example switch on , switch off , switch the next channel and so on and so on .
+IS1007b.B.dialog-act.s9553330.67	541.42	548.02	B	UI	inf	+1	1	So I found two very good prototypes for {vocalsound} for this interface from our competitors
+IS1007b.A.dialog-act.s9553330.39	549.67	553.06	A	PM	el.inf	+1	1	This are usual functionality {gap} .
+IS1007b.B.dialog-act.s9553330.70	553.15	554.74	B	UI	inf	+1	1	Ours is a bit uh different .
+IS1007b.B.dialog-act.s9553330.71	554.74	556.7	B	UI	inf	+1	1	So these are two example .
+IS1007b.B.dialog-act.s9553330.72	556.7	559.56	B	UI	inf	+1	1	One is from {vocalsound} {gap}
+IS1007b.B.dialog-act.s9553330.73	559.56	567.07	B	UI	inf	+1	1	the other one is from , yeah , uh engineering centr yeah .
+IS1007b.B.dialog-act.s9553330.74	567.07	570.83	B	UI	inf	+1	1	This is the most competing prototypes I've found {vocalsound} .
+8	IS1007b.JacquelinePalmer.s.5	He showed that the competitors' remotes were too complicated.
+IS1007b.B.dialog-act.s9553330.75	570.83	576.368	B	UI	inf	+1	1	But then uh loo but then I found if you look at {disfmarker} you see on the left one there are too many buttons {disfmarker}
+IS1007b.A.dialog-act.s9553330.41	576.56	579.01	A	PM	inf	+1	1	And they are small {gap} .
+IS1007b.B.dialog-act.s9553330.77	578.56	590.97	B	UI	inf	+1	1	O on the right I tried to play with {vocalsound} the problem is that uh if I have hundred channels I have uh I have to choo press the other button to choose the hundred channels and I have to compose the number
+IS1007b.B.dialog-act.s9553330.79	590.97	594.04	B	UI	ass	+1	1	so it's very lousy .
+IS1007b.B.dialog-act.s9553330.80	594.04	596.4	B	UI	sug	+1	1	{vocalsound} So you {vocalsound} so you move to the next the next one .
+IS1007b.B.dialog-act.s9553330.82	599.8	601.65	B	UI	inf	+1	1	And then I I look at the user manual
+IS1007b.B.dialog-act.s9553330.83	601.65	602.91	B	UI	inf	+1	1	they are a hundred pages thick ,
+IS1007b.B.dialog-act.s9553330.84	602.91	606.61	B	UI	inf	+1	1	so we don't want that .
+13	IS1007b.JacquelinePalmer.s.6	He suggested that the televisions that the remotes are used with connect to the internet to access downloadable programs.
+IS1007b.B.dialog-act.s9553330.85	606.61	610.37	B	UI	sug	+1	1	{vocalsound} So I propose the easy to use uh prototype .
+IS1007b.B.dialog-act.s9553330.86	610.37	612.39	B	UI	sug	+1	1	You can navigate on T_V_ screen
+IS1007b.B.dialog-act.s9553330.88	615.36	623.76	B	UI	sug	+1	2	and we need to have the T_V_ connected to internet so we end {disfmarker} in order to access the T_V_ programmes by X_M_L_
+IS1007b.B.dialog-act.s9553330.89	623.76	626.78	B	UI	sug	+1	1	and we need some {disfmarker} to do some preprocessing .
+IS1007b.B.dialog-act.s9553330.90	626.78	634.54	B	UI	sug	+1	1	From the technical aspect , the processing should be done on the T_V_ set than on the {vocalsound} on the remote controller , right ?
+IS1007b.B.dialog-act.s9553330.91	634.54	641.15	B	UI	sug	+1	1	{vocalsound} And then we {disfmarker} the speech recognition as uh Harry says we may just put in {disfmarker} we may K_I_V_ .
+IS1007b.A.dialog-act.s9553330.44	641.61	645.13	A	PM	el.inf	+1	1	What do you mean by the pa pa processing will be done on the T_V_
+IS1007b.B.dialog-act.s9553330.92	645.24	651.472	B	UI	inf	+1	1	Yeah , all the processing is done {disfmarker} the T_V_ is a compu has some processing power the {disfmarker} {vocalsound}
+IS1007b.A.dialog-act.s9553330.46	651.68	654.27	A	PM	el.inf	+1	2	So we should have specific T_V_ ?
+IS1007b.C.dialog-act.s9553330.70	655.04	661.905	C	ID	sug	+1	1	We have to sell a T_V_ with the remote control too . {vocalsound}
+IS1007b.B.dialog-act.s9553330.94	658.978	664.05	B	UI	el.inf	+1	1	{vocalsound} Yeah because {disfmarker} {vocalsound} are you just wondering what controller {disfmarker} okay .
+IS1007b.C.dialog-act.s9553330.71	664.36	675.08	C	ID	inf	+1	1	I think there there is there is al there there is a a technology like show view who is already available on most of the T_V_ set on recorders or thing like that
+IS1007b.C.dialog-act.s9553330.72	675.08	683.411	C	ID	sug	+1	1	and we can try t to get this information on to the remote control to to do the processing on the remote control because {disfmarker}
+24	IS1007b.JacquelinePalmer.s.7	He suggested a simple design with few buttons , small size , and a locator function.
+IS1007b.B.dialog-act.s9553330.104	697.8	699.2	B	UI	inf	+1	1	So I come up with a simple design ,
+IS1007b.B.dialog-act.s9553330.105	699.2	706.372	B	UI	sug	+1	1	just keep the v navigation buttons . {vocalsound}
+IS1007b.C.dialog-act.s9553330.73	702.07	704.13	C	ID	ass	+1	1	Yes , that's a good idea , I think .
+IS1007b.C.dialog-act.s9553330.74	704.13	711.564	C	ID	inf	+1	1	We d we don't we we don't need really much buttons to {disfmarker} i if we have a screen to navigate on on the T_V_ so uh {vocalsound} {disfmarker}
+IS1007b.C.dialog-act.s9553330.75	712.28	717.15	C	ID	inf	+1	1	Well , f four five buttons , it's sufficient .
+IS1007b.C.dialog-act.s9553330.76	717.15	718.42	C	ID	inf	+1	1	It's easy to build ,
+IS1007b.C.dialog-act.s9553330.77	719.85	724.409	C	ID	inf	+1	1	it does not consume much power . {vocalsound}
+IS1007b.D.dialog-act.s9553330.36	726.45	727.97	D	ME	ass	+1	1	Oh , but you have a catch there ,
+IS1007b.D.dialog-act.s9553330.37	727.97	737.4	D	ME	inf	+1	2	um assume that um if you want to go to {disfmarker} if you are watching channel two and if you want to go to channel ninety nine , then {vocalsound} .
+IS1007b.C.dialog-act.s9553330.78	737.11	739.7	C	ID	inf	+1	2	Well , then y you you go to the main menu
+IS1007b.C.dialog-act.s9553330.79	739.7	742.16	C	ID	inf	+1	2	and uh you have uh go to channel
+IS1007b.B.dialog-act.s9553330.116	744.09	745.66	B	UI	inf	+1	2	No , because you choose by channel ,
+IS1007b.B.dialog-act.s9553330.118	749.14	751.75	B	UI	inf	+1	1	so you don't have hundred channels to choose from .
+IS1007b.C.dialog-act.s9553330.84	754.912	770.032	C	ID	inf	+1	2	{gap} but uh I I think i i {gap} if you if you want to to make uh {disfmarker} well a a big jump {vocalsound} {gap} but uh well you you have to to have a a a device when you could you could {disfmarker}
+IS1007b.C.dialog-act.s9553330.86	773.05	780.19	C	ID	sug	+1	2	but uh something that that says more clearly that uh right , left , up , down ,
+IS1007b.C.dialog-act.s9553330.87	780.19	787.776	C	ID	sug	+1	2	well , the to have the ability to to to write something to the navigator , maybe directly , or {disfmarker}
+IS1007b.C.dialog-act.s9553330.89	791.55	796.25	C	ID	sug	+1	1	we can think of buttons like in the telephone to send messages or things like that .
+IS1007b.B.dialog-act.s9553330.126	803.86	807.24	B	UI	inf	+1	1	Uh it's gonna be small .
+IS1007b.B.dialog-act.s9553330.131	807.7	813.31	B	UI	inf	+1	1	So it'll beep if you wanna find it
+IS1007b.D.dialog-act.s9553330.46	809.68	814.371	D	ME	be.pos	+1	1	too small that it goes under the sofa and we can't find it . {vocalsound}
+IS1007b.B.dialog-act.s9553330.132	813.31	815.08	B	UI	fra	+1	1	you just uh shout {disfmarker} y h just {disfmarker}
+IS1007b.B.dialog-act.s9553330.133	815.08	822.36	B	UI	inf	+1	1	it just has to re respond to you when you look for the device .
+IS1007b.D.dialog-act.s9553330.49	824.396	829.71	D	ME	sug	+1	1	{gap} just {gap} give it a name and we call him .
+IS1007b.B.dialog-act.s9553330.135	827.26	834.992	B	UI	sug	+1	1	{vocalsound} And {gap} responds to you , and {gap} {vocalsound}
+27	IS1007b.JacquelinePalmer.s.8	The Marketing Expert presented several characteristics important to users.
+IS1007b.D.dialog-act.s9553330.51	851.24	860.89	D	ME	inf	+1	1	Okay , after having the inputs from {vocalsound} industrial design and user interface , I think most of the points which I want to are already covered here .
+IS1007b.D.dialog-act.s9553330.52	860.89	870.78	D	ME	inf	+1	1	And to find the most interesting features what the users would be interested , then what we have done is we have put a feedback forms in all the magazines ,
+IS1007b.D.dialog-act.s9553330.53	870.78	874.22	D	ME	inf	+1	1	and the users send the feedbacks ,
+IS1007b.D.dialog-act.s9553330.54	874.22	879.95	D	ME	inf	+1	1	and based on that {disfmarker} These are the findings which we got
+IS1007b.D.dialog-act.s9553330.55	879.95	886.67	D	ME	inf	+1	2	and {disfmarker} yeah adding of a speech interface is always good for a T_V_ remote
+IS1007b.D.dialog-act.s9553330.62	930.99	933.52	D	ME	inf	+1	2	And next one was the size of the remote control .
+IS1007b.D.dialog-act.s9553330.63	933.52	936.19	D	ME	inf	+1	2	It has to be of course a very slim and small one .
+IS1007b.D.dialog-act.s9553330.64	937.38	943.44	D	ME	inf	+1	2	And of course most of the people are interested in if it's less expensive ,
+IS1007b.D.dialog-act.s9553330.66	950.31	951.86	D	ME	inf	+1	2	I mean we have to look for a trade-off .
+IS1007b.D.dialog-act.s9553330.67	951.86	953.33	D	ME	inf	+1	2	The features and the cost .
+IS1007b.B.dialog-act.s9553330.150	952.875	963.18	B	UI	sug	+1	2	{vocalsound} I no {disfmarker} I I think that uh i if we go for quality people may tolerate for high quality and of course comes with uh reasonable cost .
+IS1007b.B.dialog-act.s9553330.151	963.18	969.69	B	UI	sug	+1	2	Maybe not less , but they may be willing to pay little bit more for comfort ,
+IS1007b.D.dialog-act.s9553330.68	966.82	969.74	D	ME	sug	+1	2	Little bit more if it's with extra features .
+IS1007b.C.dialog-act.s9553330.102	971.2	975.243	C	ID	inf	+1	2	Yeah , s s speech is a important extra feature I think {disfmarker}
+IS1007b.D.dialog-act.s9553330.75	987.92	993.31	D	ME	sug	+1	2	but only for the numbers on the channel , or volume up , volume down , brightness , contrast .
+IS1007b.D.dialog-act.s9553330.72	979.98	984.7	D	ME	sug	+1	2	I mean , for a lazy guys they could say nine and the nine channel comes .
+IS1007b.D.dialog-act.s9553330.77	998.17	1001.36	D	ME	inf	+1	2	And the fourth one was the teletext in various languages .
+IS1007b.D.dialog-act.s9553330.61	929.02	930.99	D	ME	inf	+1	2	It's going to be very slim .
+IS1007b.D.dialog-act.s9553330.60	925.979	929.02	D	ME	inf	+1	2	{gap} it's not going to take much space also .
+IS1007b.C.dialog-act.s9553330.98	919.1	924.61	C	ID	inf	+1	2	And this can allow to choose the the program , for instance without uh adding uh buttons
+IS1007b.D.dialog-act.s9553330.58	913.58	917.34	D	ME	sug	+1	2	Oh we can put an limited vocabulary as in the mobile phones .
+IS1007b.B.dialog-act.s9553330.140	909.58	914.48	B	UI	inf	+1	2	I if you just recognise uh numbers is a limited {disfmarker} you have limited vocabulary {disfmarker}
+IS1007b.B.dialog-act.s9553330.139	904.49	909.58	B	UI	inf	+1	2	But I think if you {gap} to recognise numbers it's a well-studied problem .
+IS1007b.C.dialog-act.s9553330.96	890.61	900.94	C	ID	inf	+1	2	Well I I think it will be a , yes , a bit complicated to um make a speech recognisers runs on the small uh ts
+IS1007b.C.dialog-act.s9553330.105	1002.86	1014.688	C	ID	inf	+1	2	we we just have to find a mean how to to add a m a a a microphone or uh well {disfmarker} yes a microphone into the the remote control , so {disfmarker}
+IS1007b.A.dialog-act.s9553330.80	1032.05	1035.06	A	PM	el.inf	+1	2	What about lighting adaptive options ?
+IS1007b.D.dialog-act.s9553330.80	1034.55	1043.64	D	ME	inf	+1	3	Yeah as discussed in the earlier meeting , but {vocalsound} I think uh not much people are really interested in this point if it's not really required .
+37	IS1007b.JacquelinePalmer.s.9	He discussed using speech recognition and ways to make it feasible for the project , small size , low price point , and incorporating teletext in different languages.
+IS1007b.C.dialog-act.s9553330.96	890.61	900.94	C	ID	inf	+1	2	Well I I think it will be a , yes , a bit complicated to um make a speech recognisers runs on the small uh ts
+IS1007b.B.dialog-act.s9553330.139	904.49	909.58	B	UI	inf	+1	2	But I think if you {gap} to recognise numbers it's a well-studied problem .
+IS1007b.B.dialog-act.s9553330.140	909.58	914.48	B	UI	inf	+1	2	I if you just recognise uh numbers is a limited {disfmarker} you have limited vocabulary {disfmarker}
+IS1007b.D.dialog-act.s9553330.58	913.58	917.34	D	ME	sug	+1	2	Oh we can put an limited vocabulary as in the mobile phones .
+IS1007b.C.dialog-act.s9553330.98	919.1	924.61	C	ID	inf	+1	2	And this can allow to choose the the program , for instance without uh adding uh buttons
+IS1007b.D.dialog-act.s9553330.61	929.02	930.99	D	ME	inf	+1	2	It's going to be very slim .
+IS1007b.D.dialog-act.s9553330.60	925.979	929.02	D	ME	inf	+1	2	{gap} it's not going to take much space also .
+IS1007b.C.dialog-act.s9553330.102	971.2	975.243	C	ID	inf	+1	2	Yeah , s s speech is a important extra feature I think {disfmarker}
+IS1007b.D.dialog-act.s9553330.72	979.98	984.7	D	ME	sug	+1	2	I mean , for a lazy guys they could say nine and the nine channel comes .
+IS1007b.D.dialog-act.s9553330.75	987.92	993.31	D	ME	sug	+1	2	but only for the numbers on the channel , or volume up , volume down , brightness , contrast .
+IS1007b.D.dialog-act.s9553330.77	998.17	1001.36	D	ME	inf	+1	2	And the fourth one was the teletext in various languages .
+IS1007b.D.dialog-act.s9553330.68	966.82	969.74	D	ME	sug	+1	2	Little bit more if it's with extra features .
+IS1007b.B.dialog-act.s9553330.151	963.18	969.69	B	UI	sug	+1	2	Maybe not less , but they may be willing to pay little bit more for comfort ,
+IS1007b.B.dialog-act.s9553330.150	952.875	963.18	B	UI	sug	+1	2	{vocalsound} I no {disfmarker} I I think that uh i if we go for quality people may tolerate for high quality and of course comes with uh reasonable cost .
+IS1007b.D.dialog-act.s9553330.67	951.86	953.33	D	ME	inf	+1	2	The features and the cost .
+IS1007b.D.dialog-act.s9553330.66	950.31	951.86	D	ME	inf	+1	2	I mean we have to look for a trade-off .
+IS1007b.D.dialog-act.s9553330.64	937.38	943.44	D	ME	inf	+1	2	And of course most of the people are interested in if it's less expensive ,
+IS1007b.D.dialog-act.s9553330.63	933.52	936.19	D	ME	inf	+1	2	It has to be of course a very slim and small one .
+IS1007b.D.dialog-act.s9553330.62	930.99	933.52	D	ME	inf	+1	2	And next one was the size of the remote control .
+IS1007b.D.dialog-act.s9553330.55	879.95	886.67	D	ME	inf	+1	2	and {disfmarker} yeah adding of a speech interface is always good for a T_V_ remote
+IS1007b.C.dialog-act.s9553330.105	1002.86	1014.688	C	ID	inf	+1	2	we we just have to find a mean how to to add a m a a a microphone or uh well {disfmarker} yes a microphone into the the remote control , so {disfmarker}
+IS1007b.A.dialog-act.s9553330.80	1032.05	1035.06	A	PM	el.inf	+1	2	What about lighting adaptive options ?
+IS1007b.D.dialog-act.s9553330.80	1034.55	1043.64	D	ME	inf	+1	3	Yeah as discussed in the earlier meeting , but {vocalsound} I think uh not much people are really interested in this point if it's not really required .
+IS1007b.A.dialog-act.s9553330.81	1035.06	1038.86	A	PM	inf	+1	2	According to the re to the new requirements I think we don't need that .
+IS1007b.B.dialog-act.s9553330.170	1079.75	1081.18	B	UI	inf	+1	1	but it's quite possible
+IS1007b.B.dialog-act.s9553330.171	1081.18	1083.57	B	UI	inf	+1	1	but maybe not in this project .
+IS1007b.A.dialog-act.s9553330.88	1106.98	1110.38	A	PM	el.sug	+1	1	So any things to to discuss ?
+IS1007b.D.dialog-act.s9553330.85	1111.35	1115.4	D	ME	inf	+1	1	I think as I discussed th that four points would be good for um marketing .
+IS1007b.D.dialog-act.s9553330.86	1117.3	1118.32	D	ME	inf	+1	1	The speech interface
+IS1007b.D.dialog-act.s9553330.87	1118.32	1123.08	D	ME	inf	+1	1	and uh less uh reasonable uh cost .
+IS1007b.D.dialog-act.s9553330.88	1124.18	1125.72	D	ME	inf	+1	1	And the lighting adaptation
+IS1007b.D.dialog-act.s9553330.89	1125.72	1126.87	D	ME	inf	+1	1	and the teletext .
+IS1007b.D.dialog-act.s9553330.90	1126.87	1134.78	D	ME	inf	+1	1	And regarding the teletext uh these are the subtitl these are the text information which you got on the televisions .
+IS1007b.D.dialog-act.s9553330.91	1134.78	1139.07	D	ME	inf	+1	1	If you are watching an foreign movie , you get {gap} subtitles sometimes .
+IS1007b.D.dialog-act.s9553330.92	1139.07	1144.46	D	ME	inf	+1	1	And uh if you are a French guy watching an English movie you would like to have it in French .
+IS1007b.D.dialog-act.s9553330.93	1144.46	1148.54	D	ME	inf	+1	1	And if I am a German then I would like to have the {disfmarker} my options in German .
+IS1007b.D.dialog-act.s9553330.94	1148.54	1155.49	D	ME	sug	+1	1	So , the remote {disfmarker} it should have some {disfmarker} it should give me some flexibility of choosing the ch languages .
+9	IS1007b.JacquelinePalmer.s.10	The group discussed the new requirement that required them to omit teletext from their design , and discussed the possibility of using the remote to access the internet through the television.
+IS1007b.C.dialog-act.s9553330.116	1159.31	1164.22	C	ID	el.inf	+1	1	Yeah , but well what about the the new project's requirement ?
+IS1007b.C.dialog-act.s9553330.117	1164.22	1169.24	C	ID	sug	+1	1	I I I think we should give up with teletext , no ?
+IS1007b.C.dialog-act.s9553330.119	1174.88	1184.05	C	ID	sug	+1	2	Well , so maybe we we can j we can already think uh {vocalsound} about a way to to access the internet via the television .
+IS1007b.C.dialog-act.s9553330.121	1190.9	1196.98	C	ID	inf	+1	1	Yeah , but uh we can think that in a few years there will be T_V_ set that can access the internet .
+IS1007b.C.dialog-act.s9553330.122	1198.03	1216.14	C	ID	inf	+1	2	So it's a good idea if i i if we i if if we uh think about how to to to build up our remote uh control w with this functionality in a {disfmarker} w which will c which will come in a few years .
+IS1007b.A.dialog-act.s9553330.95	1217.93	1220.55	A	PM	inf	+1	2	So you have to anticipate the the future ?
+IS1007b.C.dialog-act.s9553330.126	1225.59	1227.41	C	ID	inf	+1	2	well , not not to implement it ,
+IS1007b.C.dialog-act.s9553330.127	1227.41	1237.936	C	ID	inf	+1	1	but to {disfmarker} well , to find a way to to add to add this functionality in a {disfmarker} yeah , in an in an easy manner , if is possible . {vocalsound}
+IS1007b.B.dialog-act.s9553330.187	1237.3	1240.24	B	UI	inf	+1	1	Yeah . Because all the T_V_ sets will be digital , right .

@@ -1,0 +1,81 @@
+2	Bmr026.s.25	The group are still waiting for IBM to return transcripts next week.
+Bmr026.F.dialogueact8	21.55	31.88	F	PhD	h|s	+1	2	Um {disfmarker} Well first of all with IBM I got a note from Brian yesterday saying that they finally made the tape for the thing that we sent them a {pause} week or week and a half ago
+Bmr026.F.dialogueact13	33.35	36.397	F	PhD	s	+1	2	and hopefully next week we 'll have the transcription back from that .
+3	Bmr026.s.26	This is not holding the group up , since parallel transcription is being used , and new transcribers have been recruited.
+Bmr026.F.dialogueact18	52.77	56.24	F	PhD	fg|s	+1	1	Yeah , so um , I guess she 's hired some new transcribers
+Bmr026.E.dialogueact29	68.93	70.01	E	Grad	s^bu	+1	2	So we 're doing some in parallel .
+Bmr026.A.dialogueact39	76.9	79.27	A	Grad	s^e	+1	1	So . They ' r they 're doing the full transcription process .
+3	Bmr026.s.27	The web page detailing transcription status is working and being updated when possible.
+Bmr026.F.dialogueact92	177.67	185.65	F	PhD	s	+1	2	so I 've been trying to keep a web page uh up to date f showing what the current status is of the trans of all the things we 've collected
+Bmr026.F.dialogueact97	191.48	194.59	F	PhD	s	+1	2	That 's the thing that I sent out just to foo people saying can you update these pages
+Bmr026.F.dialogueact100	196.52	198.57	F	PhD	s^cc	+1	2	I 'll send it out to the list telling people to look at it .
+3	Bmr026.s.28	Backed-up disk space has been seen as a priority by sysadmin , and the group are now only using 30% of this.
+Bmr026.A.dialogueact313	617.88	621.66	A	Grad	s	+1	2	We 're {disfmarker} We 're only about thirty percent on the second disk .
+Bmr026.A.dialogueact314	622.35	626.36	A	Grad	s	+1	1	So , uh , we have a little bit of time before that becomes critical ,
+Bmr026.A.dialogueact556	1015.1	1022.6	A	Grad	s	+1	1	And so I think what he 's been concentrating on is uh the back {disfmarker} the {pause} back up system , rather than on new disk .
+6	Bmr026.s.29	DARPA demos are progressing , with indexing added to the back-end , which will allow the front end to do filtering.
+Bmr026.A.dialogueact139	277.55	280.14	A	Grad	h|s	+1	2	Um , DARPA demo status , not much to say .
+Bmr026.A.dialogueact140	280.14	282.11	A	Grad	s	+1	2	The back - end stuff is working out fine .
+Bmr026.A.dialogueact142	283.63	290.2	A	Grad	s	+1	1	I 've added some stuff that uh indes indexes by the meeting type MR , EDU , et cetera
+Bmr026.A.dialogueact143	290.2	291.77	A	Grad	s	+1	1	and also by the user ID .
+Bmr026.A.dialogueact144	292.6	295.31	A	Grad	s	+1	1	So that the front - end can then do filtering based on that as well .
+Bmr026.A.dialogueact145	295.89	303.05	A	Grad	fh|s	+1	2	Uh {disfmarker} The back - end is uh , going more slowly as I s I think I said before just cuz I 'm not much of a Tcl - TK programmer .
+8	Bmr026.s.30	Transcriber has been developed to run on a Windows machine , with further development being undertaken to add a pitch contour display.
+Bmr026.C.dialogueact185	377.059	379.859	C	PhD	s	+1	2	I 've been putting together uh Transcriber things for Windows
+Bmr026.A.dialogueact197	395.1	400.656	A	Grad	s	+1	1	Well Transcriber is Tcl - TK , very generic with Snack ,
+Bmr026.C.dialogueact203	403.16	409.6	C	PhD	s	+1	1	but {disfmarker} But the problem is the version Transcriber works with , the Snack version , is one point six whatever
+Bmr026.D.dialogueact247	489.072	503.97	D	PhD	s^cs	+1	4	But {disfmarker} But it would be cool if the Transcriber interface had like another window for the {disfmarker} you know , maybe above the waveform where it would show some arbitrary valued function that is {disfmarker} that is you know time synchron ti ti time synchronous with the wavform .
+Bmr026.E.dialogueact284	540.42	542.04	E	Grad	s	+1	4	and see the pitch contours also .
+Bmr026.A.dialogueact290	548.043	550.853	A	Grad	s.%-	+1	4	Just record the audio clip and show an image and I think that 's {disfmarker}
+Bmr026.B.dialogueact300	570.986	577.156	B	Professor	s	+1	4	and , {vocalsound} the more live , the better , but uh , given the crunch of time , we may have to retreat from it to some extent .
+Bmr026.B.dialogueact301	577.156	585.566	B	Professor	s	+1	4	So I think {disfmarker} {pause} For a lot of reasons , I think it would be very nice to have this Transcriber interface be able to show some other interesting signal along with it
+3	Bmr026.s.31	There is also the potential for a demo to be developed from X Waves.
+Bmr026.E.dialogueact165	339.56	344.885	E	Grad	fg|s^tc	+1	2	And , also um , I was just showing Andreas , I got um an X Waves kind of display ,
+Bmr026.E.dialogueact166	344.885	346.795	E	Grad	s^no	+1	2	and I don't know how much more we can do with it {disfmarker}
+Bmr026.E.dialogueact167	346.795	353.095	E	Grad	s	+1	2	with like the prosodic stuff where we have like stylized pitches and signals and the transcripts on the bottom
+6	Bmr026.s.32	The final version of PLP has been tested which shows similar performance as the system with the Mel Ceptra front-end ( although performance for males is slightly , but non-significantly better ).
+Bmr026.D.dialogueact766	1464.77	1478.67	D	PhD	fh|s	+1	2	um yot I tested the uh {disfmarker} the sort of final version of the PLP configuration um on development test data for {disfmarker} for this year 's Hub - five test set .
+Bmr026.D.dialogueact768	1479.43	1491.08	D	PhD	s	+1	2	And the recognition performance was exactly , and I mean exactly up to the {disfmarker} you know , the first decimal , same as with the uh Mel Cepstra front - end .
+Bmr026.D.dialogueact775	1498.87	1503.79	D	PhD	s	+1	2	They {disfmarker} They were {disfmarker} The males I think were slightly better and the females were slightly worse but nothing really .
+Bmr026.D.dialogueact787	1518.79	1524.25	D	PhD	s	+1	1	Which u actually uses the whole N - best list from both systems {pause} to {pause} mmm , uh {pause} c combine that .
+Bmr026.D.dialogueact813	1575.73	1580.17	D	PhD	s.%--	+1	1	There 's one thing uh {disfmarker} I mean you don't want to overdo it because y every front - end {disfmarker}
+Bmr026.D.dialogueact814	1580.34	1586.13	D	PhD	s	+1	1	You know , if you {disfmarker} you know you basically multiply your effort by N , where N is a number of different systems
+1	Bmr026.s.33	Combining the two systems gives a 1.5% improvement in performance.
+Bmr026.D.dialogueact780	1505.85	1511.74	D	PhD	s	+1	2	And then the really nice thing was that if {disfmarker} if we combine the two systems we get a one and a half percent improvement .
+12	Bmr026.s.34	There has also been some improvement with digits , by training the system on read speech data , rather than training solely on TI digits or TIMIT data.
+Bmr026.D.dialogueact834	1627.49	1633.04	D	PhD	s^tc.%--	+1	2	And then we had some results on {pause} digits , uh , with um {disfmarker}
+Bmr026.D.dialogueact840	1650.36	1654.44	D	PhD	s	+1	2	And the reason is basically there 's a whole bunch of read speech data in the Hub - five training set .
+Bmr026.D.dialogueact848	1660.6	1666.76	D	PhD	s	+1	1	The rest is {disfmarker} is read {disfmarker} is read TIMIT data and uh ATIS data and Wall Street Journal and stuff like that .
+Bmr026.D.dialogueact852	1672.96	1679.73	D	PhD	s	+1	1	A fifth would be maybe uh two hours something .
+Bmr026.D.dialogueact855	1682.56	1684.61	D	PhD	s	+1	1	But it definitely helps to have the other read data in there
+Bmr026.D.dialogueact860	1687.21	1692.13	D	PhD	s	+1	1	You know the error rate is half of what you do if you train only on ti uh TIMIT {disfmarker} {comment} uh not TIMIT uh TI - digits ,
+Bmr026.D.dialogueact866	1695.71	1699.38	D	PhD	s	+1	1	So . Uh , more read speech data definitely helps .
+Bmr026.D.dialogueact867	1699.38	1703.3	D	PhD	s	+1	1	And you can leave out all the conversational data with no performance penalty .
+Bmr026.B.dialogueact871	1704.57	1708.64	B	Professor	s	+1	1	Because {disfmarker} because uh , it was apparent if you put in a bunch more data it would be better ,
+Bmr026.D.dialogueact886	1735.42	1736.84	D	PhD	s	+1	1	Well , I mean that 's plenty of read speech data .
+Bmr026.D.dialogueact887	1736.84	1739.82	D	PhD	s	+1	1	I mean , Wall Street Journal , {pause} uh , take one example .
+Bmr026.D.dialogueact891	1742.32	1749.7	D	PhD	s	+1	1	So , you know that might be useful for the people who train the {disfmarker} the digit recognizers to {disfmarker} to use uh something other than TI - digits .
+23	Bmr026.s.35	Progress is being made with SRI system alignment , with label files converted to train the net.
+Bmr026.D.dialogueact912	1796.08	1801.81	D	PhD	s^tc	+1	2	And then I th guess Chuck and I had some discussions about how to proceed with the tandem uh system
+Bmr026.F.dialogueact915	1805.47	1811.07	F	PhD	s	+1	1	Yeah , so Andreas uh brought over the uh alignments that the SRI system uses .
+Bmr026.F.dialogueact917	1811.52	1821.03	F	PhD	s	+1	1	And so I 'm in the process of um converting those alignments into uh label files that we can use to train uh a new net with .
+Bmr026.F.dialogueact918	1821.63	1823.21	F	PhD	s	+1	1	And uh so then I 'll train the net .
+Bmr026.D.dialogueact922	1829.17	1833.71	D	PhD	s.%--	+1	1	So the MLP would be trained on I think only forty - six or forty - eight {disfmarker}
+Bmr026.D.dialogueact926	1835.59	1841.66	D	PhD	s	+1	1	Uh which is smaller than the um than the phone set that {disfmarker} that we 've been using so far .
+Bmr026.D.dialogueact932	1854.73	1858.12	D	PhD	s	+1	1	You know we want to try things like deltas on the tandem features .
+Bmr026.D.dialogueact933	1858.12	1861.1	D	PhD	s	+1	1	And so you h have to multiply everything by two or three .
+Bmr026.D.dialogueact934	1861.1	1867.45	D	PhD	s	+1	1	And so , you know , fewer dimensions in the {pause} phone set would be actually helpful just from a logistics point of view .
+Bmr026.B.dialogueact936	1867.96	1872.54	B	Professor	s.%-	+1	1	Although we {disfmarker} I mean , it 's not that many fewer and {disfmarker} and {disfmarker} and we take a KLT anyway so we could {disfmarker}
+Bmr026.D.dialogueact941	1873.62	1882.81	D	PhD	s	+1	1	And then we wanted to s just limit it to maybe uh something on the same order of dimensions as we use in a standard um front - end .
+Bmr026.D.dialogueact942	1882.81	1889.96	D	PhD	s	+1	1	So that would mean just doing the top I don't know ten or twelve or something of the KLT dimensions .
+Bmr026.D.dialogueact952	1902.14	1915.71	D	PhD	s	+1	1	Once we have the new M L P trained up , uh one thing I wanted to try just for the fun of it was to actually run uh like a standard hybrid system that is based on you know , those features
+Bmr026.D.dialogueact953	1915.71	1922.76	D	PhD	fh|s	+1	1	uh and uh retrain MLP and also the you know , the dictionary that we use for the Hub - five system .
+Bmr026.B.dialogueact954	1923.01	1927.99	B	Professor	s	+1	1	And the b And the base u starting off with the base of the alignments that you got from i from a pretty decent system .
+Bmr026.D.dialogueact1035	2084.81	2093.93	D	PhD	s^df	+1	1	So it 's sort of a sanity check of the M L P outputs {pause} before we go ahead and train up the {disfmarker} uh you know , use them as a basis for the tandem system .
+Bmr026.B.dialogueact1039	2095.8	2098.22	B	Professor	s	+1	1	I mean , it 's {disfmarker} it 'd be context independent and so on .
+Bmr026.D.dialogueact1086	2173.27	2179.44	D	PhD	qy^bu^d^rt	+1	1	So you {disfmarker} you started training with outputs from a {disfmarker} with alignments that were generated by the Cambridge uh system ?
+Bmr026.D.dialogueact1094	2184.4	2188.35	D	PhD	s	+1	1	That was probably because your initial system {disfmarker} I mean your system was ba worse than Cambridge 's .
+Bmr026.A.dialogueact1099	2194.26	2195.44	A	Grad	s^e^nd	+1	1	they were {disfmarker} they were comparable .
+Bmr026.F.dialogueact1156	2301.8	2305.82	F	PhD	s^r.%--	+1	1	I was wondering uh you know what size net I should {disfmarker}
+Bmr026.F.dialogueact1157	2307.2	2309.7	F	PhD	qo	+1	1	Anybody have any intuitions or suggestions ?
+Bmr026.B.dialogueact1158	2309.63	2310.68	B	Professor	qw^rt	+1	1	Uh , how much training data ?

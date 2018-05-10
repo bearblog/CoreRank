@@ -1,0 +1,1134 @@
+Bed010.B.dialogueact0	0.03	0.18	B	Grad	z	-1	0	
+Bed010.D.dialogueact1	0.51	1.83	D	Grad	z	-1	0	How many batteries do you go through ?
+Bed010.B.dialogueact2	9.27	9.55	B	Grad	z	-1	0	Thank you .
+Bed010.C.dialogueact3	9.66	9.95	C	Professor	z	-1	0	Alright .
+Bed010.A.dialogueact4	10.55	10.9	A	PhD	z	-1	0	Sure .
+Bed010.C.dialogueact5	10.88	11.03	C	Professor	fg	-1	0	Good .
+Bed010.C.dialogueact6	13.318	13.518	C	Professor	fg	-1	0	Yeah .
+Bed010.C.dialogueact7	15.72	17.9	C	Professor	s^tc	-1	0	OK so , let 's get started .
+Bed010.C.dialogueact8	17.9	19.14	C	Professor	s	-1	0	Nancy said she 's coming
+Bed010.C.dialogueact9	19.14	20.21	C	Professor	s	-1	0	and that means she will be .
+Bed010.C.dialogueact10	21.124	32.567	C	Professor	fh|s^t	-1	0	Um . My suggestion is that Robert and Johno sort of give us a report on last week 's adventures uh to start .
+Bed010.C.dialogueact11	33.35	43.71	C	Professor	s	-1	0	So everybody knows there were these guys f uh from Heidelber - uh , uh , actually from uh DFKI uh , part of the German SmartKom project , who were here for the week
+Bed010.C.dialogueact12	44.43	46.49	C	Professor	s	-1	0	and , I think got a lot done .
+Bed010.E.dialogueact13	48.04	48.71	E	Grad	s^aa	-1	0	Yeah , I think so too .
+Bed010.E.dialogueact14	49.7	50.42	E	Grad	fh	-1	0	Um .
+Bed010.E.dialogueact15	51.9	65.27	E	Grad	s	+1	1	The {disfmarker} we got to the point where we can now speak into the SmartKom system , and it 'll go all the way through and then say something like " Roman numeral one , am Smarticus . "
+Bed010.E.dialogueact16	65.739	68.759	E	Grad	s	-1	0	It actually says , " Roemisch einz , am Smarticus , "
+Bed010.B.dialogueact18	69.044	69.304	B	Grad	b	-1	0	OK .
+Bed010.E.dialogueact17	68.759	74.807	E	Grad	s	+1	1	which means it 's just using a German sythesis module for English sentences .
+Bed010.B.dialogueact19	75.067	75.327	B	Grad	s^bk	-1	0	OK .
+Bed010.E.dialogueact20	75.507	76.877	E	Grad	%-	-1	0	So uh ,
+Bed010.C.dialogueact21	76.124	77.024	C	Professor	s^j.x	-1	0	It doesn't know " I " .
+Bed010.B.dialogueact22	77.799	77.949	B	Grad	s^bk	-1	0	OK .
+Bed010.E.dialogueact23	79.35	81.473	E	Grad	fh|%-	-1	0	Um , the uh
+Bed010.B.dialogueact24	80.99	81.19	B	Grad	s^bk	-1	0	Oh ,
+Bed010.B.dialogueact25	81.61	82.44	B	Grad	s^2	-1	0	Am Spartacus . "
+Bed010.D.dialogueact26	81.618	83.508	D	Grad	s	-1	0	" I am Sm - I am Smarticus " is what it 's saying .
+Bed010.A.dialogueact28	83.15	83.34	A	PhD	s^aa	-1	0	Right .
+Bed010.B.dialogueact27	82.84	83.26	B	Grad	s	-1	0	Verstehe .
+Bed010.B.dialogueact30	83.63	83.99	B	Grad	b	-1	0	OK .
+Bed010.D.dialogueact29	83.508	83.648	D	Grad	%	-1	0	I gue
+Bed010.E.dialogueact31	84.518	93.632	E	Grad	s	-1	0	The uh sythesis is just a question of um , hopefully it 's just a question of exchanging a couple of files , once we have them .
+Bed010.E.dialogueact32	94.19	101.524	E	Grad	fh|s	-1	0	And , um , it 's not going to be a problem because we decided to stick to the so - called concept to speech approach .
+Bed010.E.dialogueact33	101.934	103.304	E	Grad	s	-1	0	So I 'm {disfmarker} I 'm {disfmarker} I 'm going backwards now ,
+Bed010.E.dialogueact34	103.304	107.86	E	Grad	fh|s	-1	0	so " synthesis " is where you sort of make this {disfmarker} uh , make these sounds ,
+Bed010.E.dialogueact35	108.253	114.877	E	Grad	s	+1	1	and " concept to speech " is feeding into this synthesis module giving it what needs to be said , and the whole syntactic structure
+Bed010.E.dialogueact36	115.057	119.721	E	Grad	s^df	+1	1	so it can pronounce things better , presumably . Then , just with text to speech .
+Bed010.B.dialogueact37	119.684	120.084	B	Grad	b	-1	0	Mm - hmm .
+Bed010.E.dialogueact38	120.623	125.334	E	Grad	fh|s	-1	0	And , uh , Johno learned how to write XML tags .
+Bed010.E.dialogueact39	126.51	132.67	E	Grad	fh|s	+1	1	Uh , and did write the tree adjoining grammar for some {disfmarker} some sentences .
+Bed010.E.dialogueact40	132.67	132.88	E	Grad	qy^d^g	-1	0	No ,
+Bed010.E.dialogueact41	132.88	133.14	E	Grad	qy^d^g^rt	-1	0	right ?
+Bed010.D.dialogueact43	133.55	133.72	D	Grad	s^aa	-1	0	Yeah .
+Bed010.E.dialogueact42	133.14	133.88	E	Grad	s.%-	-1	0	Yeah , for a couple {disfmarker}
+Bed010.D.dialogueact44	133.72	143.465	D	Grad	s	-1	0	So . Bu - Uh , i The way the uh , the dialogue manager works is it dumps out what it wants to know , or what it wants to tell the person , to a {disfmarker} er in XML
+Bed010.D.dialogueact45	144.02	148.73	D	Grad	s	-1	0	and there 's a conversion system for different uh , to go from XML to something else .
+Bed010.D.dialogueact46	149.04	161.39	D	Grad	s	-1	0	And th so , the knowledge base for the system , that generates the syntasti syntactic structures for the ge generation is uh , in a LISP - like {disfmarker} the knowledge base is in a LISP - like form .
+Bed010.D.dialogueact47	161.9	166.94	D	Grad	s	-1	0	And then the thing that actually builds these syntactic structures is something based on Prolog .
+Bed010.D.dialogueact48	167.71	170.26	D	Grad	s	-1	0	So , you have a {disfmarker} basically , a goal
+Bed010.D.dialogueact49	170.34	174.942	D	Grad	s	-1	0	and it , you know , says " OK , well I 'm gonna try to do the Greet - the - person goal ,
+Bed010.B.dialogueact50	174.449	174.789	B	Grad	b	-1	0	Mm - hmm .
+Bed010.D.dialogueact51	175.372	180.402	D	Grad	s	-1	0	so it just starts {disfmarker} uh , it binds some variables and it just decides to , you know , do some subscold .
+Bed010.D.dialogueact52	180.402	181.732	D	Grad	s^e	-1	0	Basically , it just means " build the tree . "
+Bed010.B.dialogueact54	182.334	182.514	B	Grad	b.%	-1	0	OK .
+Bed010.D.dialogueact53	182.271	186.59	D	Grad	s	-1	0	And then it passes the tree onto , uh , the ge the generation module .
+Bed010.E.dialogueact55	188.13	199.4	E	Grad	s	+1	1	But I think that the point is that out of the twelve possible utterances that the German system can do , we 've already written the {disfmarker} the syntax trees for three or four .
+Bed010.D.dialogueact56	198.68	198.74	D	Grad	fg	-1	0	We
+Bed010.D.dialogueact57	198.74	198.89	D	Grad	fg	-1	0	yeah .
+Bed010.D.dialogueact58	198.89	200.77	D	Grad	s	-1	0	So , the syntax trees are very simple .
+Bed010.D.dialogueact59	200.77	202.98	D	Grad	s^rt	-1	0	It 's like most of the sentences in one tree ,
+Bed010.B.dialogueact60	203.355	203.705	B	Grad	b	-1	0	Mm - hmm .
+Bed010.D.dialogueact61	203.713	213.322	D	Grad	s	-1	0	and instead of , you know , breaking down to , like , small units and building back up , they basically took the sentences , and basically cut them in half , or you know , into thirds or something like that , and made trees out of those .
+Bed010.D.dialogueact62	214.02	226.83	D	Grad	fh|s	-1	0	And so uh , uh Tilman wrote a little tool that you could take LISP notation and generate an XML , uh , tree . Uh , S what do ca structure from the {disfmarker} from the LISP .
+Bed010.D.dialogueact63	227.55	231.57	D	Grad	s.%--	-1	0	And so basically you just say , you know , " noun goes to " , you know ,
+Bed010.D.dialogueact64	232.65	235.06	D	Grad	s^no	-1	0	Er , nah , I don't re I 've never been good at those .
+Bed010.D.dialogueact65	235.06	240.637	D	Grad	s	-1	0	So there 's like the VP goes to N and those things in LISP , and it will generate for you .
+Bed010.B.dialogueact66	236.863	237.183	B	Grad	s^bk	-1	0	OK . N ,
+Bed010.B.dialogueact67	237.814	238.194	B	Grad	s^bk^m	-1	0	N , V
+Bed010.B.dialogueact68	238.194	238.444	B	Grad	s^bk	-1	0	yeah ,
+Bed010.B.dialogueact69	238.444	238.694	B	Grad	s^bk	-1	0	OK .
+Bed010.B.dialogueact70	242.243	242.493	B	Grad	s^tc	-1	0	Alright .
+Bed010.E.dialogueact71	242.77	249.294	E	Grad	s	-1	0	And because we 're sticking to that structure , the synthesis module doesn't need to be changed . So all that f fancy stuff ,
+Bed010.E.dialogueact72	249.294	256.124	E	Grad	s	-1	0	and the Texas speech version of it , which is actually the simpler version , is gonna be done in October which is much too late for us .
+Bed010.E.dialogueact73	256.234	256.434	E	Grad	fh	-1	0	So .
+Bed010.E.dialogueact74	257.361	259.091	E	Grad	s^rt	-1	0	This way we {disfmarker} we worked around that .
+Bed010.E.dialogueact75	259.593	263.013	E	Grad	s^cc	-1	0	The , uh {disfmarker} the system , um {disfmarker} I can show you the system .
+Bed010.E.dialogueact76	263.013	269.573	E	Grad	s	-1	0	I actually want , at least , maybe , you should be able to start it on your own . If you wanna play around with it , in th in the future .
+Bed010.E.dialogueact77	270.13	281.93	E	Grad	s	+1	2	Right now it 's brittle and you need to ch start it up and then make ts twenty changes on {disfmarker} on {disfmarker} on {disfmarker} on seventeen modules before they actually can stomach it , anything .
+Bed010.E.dialogueact78	283.05	290.34	E	Grad	s	-1	0	And send in a {disfmarker} a {disfmarker} a couple of side queries on some dummy center set - up program so that it actually works
+Bed010.E.dialogueact79	290.34	299.84	E	Grad	s^df	+1	1	because it 's designed for this seevit thing , where you have the gestural recognition running with this s Siemens virtual touch screen , which we don't have here .
+Bed010.B.dialogueact80	295.974	296.314	B	Grad	b	-1	0	Mm - hmm .
+Bed010.E.dialogueact81	300.736	303.236	E	Grad	s	-1	0	And so we 're doing it via mouse ,
+Bed010.E.dialogueact82	303.236	305.466	E	Grad	s	-1	0	but the whole system was designed to work with this thing
+Bed010.E.dialogueact83	305.466	308.476	E	Grad	s	-1	0	and it was {disfmarker} It was a lot of engineering stuff .
+Bed010.E.dialogueact84	309.288	311.248	E	Grad	s^rt	-1	0	No science in there whatsoever ,
+Bed010.E.dialogueact85	311.248	312.468	E	Grad	s	+1	1	but it 's working now ,
+Bed010.E.dialogueact86	312.468	314.8	E	Grad	fh|s	-1	0	and um , that 's the good news .
+Bed010.E.dialogueact87	314.91	319.37	E	Grad	s^rt	-1	0	So everything else actually did prove to be language independent except for the parsing and the generation .
+Bed010.D.dialogueact88	319.66	322.79	D	Grad	s^ng^rt	+1	1	Why {disfmarker} I had {disfmarker} I did need to chan generate different trees than the German ones ,
+Bed010.D.dialogueact89	323.28	329.38	D	Grad	s^df	-1	0	mainly because you know like uh , the gerund in {disfmarker} in German is automatically taken care of with just a regular verb ,
+Bed010.E.dialogueact90	328.923	329.813	E	Grad	s^t3	-1	0	You have to switch it on .
+Bed010.B.dialogueact91	329.602	329.932	B	Grad	b	-1	0	Mm - hmm .
+Bed010.D.dialogueact92	329.858	331.508	D	Grad	s:s	-1	0	so I 'd uh have to add " am walking , "
+Bed010.B.dialogueact94	331.79	332.29	B	Grad	s^bk	-1	0	OK .
+Bed010.D.dialogueact93	331.508	335.14	D	Grad	s	-1	0	or I 'd have to add a little stem for the " am " , when I build the {disfmarker} built the tree .
+Bed010.B.dialogueact95	333.28	333.54	B	Grad	fg	-1	0	OK .
+Bed010.B.dialogueact96	335.879	343.41	B	Grad	s	-1	0	Yeah , I noticed that um , that some of the examples they had , had you know , non - English word orders and so on ,
+Bed010.B.dialogueact97	343.41	344.79	B	Grad	s	-1	0	you know . And then all that good stuff .
+Bed010.B.dialogueact98	344.79	345.1	B	Grad	fh	-1	0	So .
+Bed010.C.dialogueact100	345.265	345.585	C	Professor	s^bk	-1	0	Alright .
+Bed010.D.dialogueact99	345.13	345.39	D	Grad	s^aa	-1	0	Yeah .
+Bed010.B.dialogueact101	345.82	346.01	B	Grad	%-	-1	0	Like .
+Bed010.C.dialogueact102	346.157	349.187	C	Professor	s^cs	-1	0	So it might be worth , Keith , you looking at this ,
+Bed010.B.dialogueact103	349.38	349.61	B	Grad	s^aa	-1	0	Yeah .
+Bed010.C.dialogueact104	349.837	351.197	C	Professor	h	-1	0	um
+Bed010.B.dialogueact106	351.41	354.35	B	Grad	s^no.%--	-1	0	I {disfmarker} I still don't {disfmarker} I still don't really understand e like {disfmarker}
+Bed010.D.dialogueact105	351.01	352.34	D	Grad	%-	-1	0	Well Tilman s
+Bed010.B.dialogueact107	354.35	355.67	B	Grad	s.%--	-1	0	I mean we sort of say , um {disfmarker}
+Bed010.B.dialogueact108	357.29	362.95	B	Grad	s^no	-1	0	You know , I {disfmarker} I still don't exactly understand sort of the information flow uh in {disfmarker} in this thing , or what the modules are and so on .
+Bed010.B.dialogueact109	362.95	370.459	B	Grad	s^bu	-1	0	So , you know , like just that such - and - such module uh um decides that it wants to achieve the goal of greeting the user ,
+Bed010.B.dialogueact110	370.459	371.999	B	Grad	s.%--	-1	0	and then magically it sort of s
+Bed010.C.dialogueact111	370.541	370.751	C	Professor	fg	-1	0	Yeah {disfmarker}
+Bed010.B.dialogueact112	372.412	375.462	B	Grad	qw	-1	0	I mean , how does it know which syntactic structure to pull out , and all that ?
+Bed010.C.dialogueact113	373.01	373.74	C	Professor	fg	-1	0	I thi
+Bed010.C.dialogueact114	374.16	374.47	C	Professor	fg	-1	0	Yeah .
+Bed010.C.dialogueact115	374.47	377.43	C	Professor	s	-1	0	So . I think it 's not worth going over in the group ,
+Bed010.B.dialogueact116	376.991	377.441	B	Grad	%	-1	0	R uh
+Bed010.B.dialogueact118	377.441	377.811	B	Grad	s^bk	-1	0	Sure .
+Bed010.C.dialogueact117	377.43	385.64	C	Professor	s^cc	-1	0	but sort of when you get free and you have the time uh either Robert or Johno or I can walk you through it .
+Bed010.B.dialogueact119	380.87	381.17	B	Grad	s^aa	-1	0	Yeah ,
+Bed010.B.dialogueact120	381.69	382.11	B	Grad	s^2	-1	0	soon .
+Bed010.B.dialogueact121	385.66	385.95	B	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact122	386.25	389.72	C	Professor	s	-1	0	And you can ask all the questions about how this all fits together .
+Bed010.B.dialogueact123	389.48	389.88	B	Grad	s^ba	-1	0	That 's fine .
+Bed010.C.dialogueact124	390.23	391.29	C	Professor	s	-1	0	It 's eee {comment} messy
+Bed010.C.dialogueact125	391.29	393.36	C	Professor	s	-1	0	but once you understand it you understand it .
+Bed010.C.dialogueact126	393.36	396.03	C	Professor	s	-1	0	It 's {disfmarker} it 's {disfmarker} There 's nothing really complicated about it .
+Bed010.B.dialogueact127	396.07	396.42	B	Grad	s^bk	-1	0	OK .
+Bed010.E.dialogueact128	396.302	396.622	E	Grad	s^aa	-1	0	No .
+Bed010.B.dialogueact129	397.591	405.21	B	Grad	s.%--	-1	0	And I remember one thing that {disfmarker} that came up in the talk last Wednesday . Um , was this ,
+Bed010.B.dialogueact130	405.28	415.55	B	Grad	s.%--	-1	0	I {disfmarker} I think he talked about the idea of like , um {disfmarker} He was talking about these lexicalized uh , uh , tree adjoining grammars where you sort of {disfmarker} for each word you , um {disfmarker}
+Bed010.D.dialogueact131	407.26	408.27	D	Grad	qw^rt^t3	-1	0	OK , you know how to do it ?
+Bed010.B.dialogueact132	415.76	421.9	B	Grad	s^e^rt	-1	0	For each lexical item , the lexical entry says what all the uh trees are that it can appear in .
+Bed010.B.dialogueact133	422.27	427.47	B	Grad	fh|s	-1	0	And of course , that 's not v That 's the opposite of constructional .
+Bed010.B.dialogueact134	427.47	429.79	B	Grad	s	-1	0	That 's , you know , that 's {disfmarker} that 's HPSG or whatever .
+Bed010.C.dialogueact135	428.26	428.56	C	Professor	s^aa	-1	0	Right .
+Bed010.B.dialogueact137	429.79	430.14	B	Grad	qy^d^g^rt	-1	0	You know ?
+Bed010.C.dialogueact136	429.75	430.02	C	Professor	fg	-1	0	Right .
+Bed010.C.dialogueact138	430.02	438.23	C	Professor	s	-1	0	Now , we 're {disfmarker} we 're not committed for our research to {pause} do any of those things .
+Bed010.B.dialogueact139	434.92	435.11	B	Grad	b	-1	0	Yeah .
+Bed010.B.dialogueact140	438.113	438.363	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact141	438.63	441.74	C	Professor	fh|s^e	+1	0	So uh we are committed for our funding .
+Bed010.B.dialogueact142	441.825	442.095	B	Grad	b	-1	0	Right .
+Bed010.C.dialogueact143	442.44	443.01	C	Professor	qy^d^f	-1	0	OK ?
+Bed010.C.dialogueact144	443.4	444.83	C	Professor	%-	-1	0	to {pause} uh {disfmarker}
+Bed010.B.dialogueact145	444.308	445.658	B	Grad	s^2	-1	0	Make our stuff fit to that .
+Bed010.C.dialogueact146	445.79	446.27	C	Professor	s^aa|%--	-1	0	Yeah , to {disfmarker}
+Bed010.C.dialogueact147	446.27	449.75	C	Professor	s^ar|s^df	+1	1	n no , to just get the dem get the demos they need .
+Bed010.B.dialogueact148	449.751	450.021	B	Grad	b	-1	0	Uh - huh .
+Bed010.C.dialogueact149	450.3	450.63	C	Professor	qy^d^f	-1	0	OK ?
+Bed010.C.dialogueact150	450.92	453.48	C	Professor	s	-1	0	So between us all we have t to get th the demos they need .
+Bed010.C.dialogueact151	453.85	461.24	C	Professor	s^cs	+1	0	If it turns out we can also give them lots more than that by , you know , tapping into other things we do , that 's great .
+Bed010.D.dialogueact152	458.921	460.721	D	Grad	s^cs^t3	-1	0	You should probably move the microphone closer to your face .
+Bed010.B.dialogueact153	461.978	462.288	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact154	462.06	464.75	C	Professor	s	-1	0	But i it turns out not to be in an any of the contracts
+Bed010.D.dialogueact155	462.38	464.48	D	Grad	s^t3	-1	0	There 's like a little {disfmarker} The twisty thing , you can move it with .
+Bed010.B.dialogueact156	464.97	465.17	B	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact157	465.78	467.2	C	Professor	fh|s^e	-1	0	and , s deliberately .
+Bed010.C.dialogueact158	468.45	479.15	C	Professor	fh|s^df	-1	0	So , the reason I 'd like you to understand uh what 's going on in this demo system is not because it 's important to the research .
+Bed010.C.dialogueact159	479.15	480.64	C	Professor	s	-1	0	It 's just for closure .
+Bed010.C.dialogueact160	480.64	485.42	C	Professor	s:qw	-1	0	So that if we come up with a question of " could we fit this deeper stuff in there ? " or something .
+Bed010.C.dialogueact161	485.42	488.844	C	Professor	s	-1	0	You know what the hell we we 're talking about fitting in .
+Bed010.B.dialogueact162	486.681	487.001	B	Grad	s^aa	-1	0	Right .
+Bed010.B.dialogueact163	489.11	489.35	B	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact164	489.434	492.904	C	Professor	s	-1	0	So it 's just , uh in the sam same actually with the rest of us
+Bed010.C.dialogueact165	493.72	497.55	C	Professor	s	-1	0	we just need to really understand what 's there .
+Bed010.C.dialogueact166	497.99	499.68	C	Professor	qy	-1	0	Is there anything we can make use of ?
+Bed010.C.dialogueact167	501.07	505.23	C	Professor	fh|qy	-1	0	Uh , is there anything we can give back , beyond th the sort of minimum requirements ?
+Bed010.C.dialogueact168	506.04	507.97	C	Professor	s	-1	0	But none of that has a short time fuse .
+Bed010.B.dialogueact169	508.347	508.657	B	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact170	508.82	515.38	C	Professor	s	+1	1	So th the demo the demo requirements for this Fall are sort of taken care of as of later this week or something .
+Bed010.C.dialogueact171	515.99	520.91	C	Professor	s	+1	0	And then {disfmarker} So , it 's probably fifteen months or something until there 's another serious demo requirement .
+Bed010.B.dialogueact173	521.1	521.61	B	Grad	s^bk	-1	0	Oh OK .
+Bed010.C.dialogueact172	520.91	523.18	C	Professor	s	-1	0	That doesn't mean we don't think about it for fifteen months ,
+Bed010.B.dialogueact175	523.19	523.71	B	Grad	s^bk	-1	0	Right .
+Bed010.C.dialogueact174	523.18	525.48	C	Professor	s	-1	0	but it means we can not think about it for six months .
+Bed010.B.dialogueact176	525.45	525.88	B	Grad	s^aa	-1	0	Right , yeah .
+Bed010.C.dialogueact177	526.41	536.4	C	Professor	fh|s^t^tc	-1	0	So . The plan for this summer uh , really is to step back from the applied project ,
+Bed010.E.dialogueact178	526.451	526.731	E	Grad	b.x	-1	0	Right .
+Bed010.C.dialogueact179	537.22	541.82	C	Professor	s	-1	0	keep the d keep the context open , but actually go after the basic issues .
+Bed010.B.dialogueact180	539.466	539.776	B	Grad	b	-1	0	Hmm .
+Bed010.B.dialogueact181	541.87	542.23	B	Grad	s^bk	-1	0	Oh OK .
+Bed010.C.dialogueact182	542.72	543.61	C	Professor	fh	-1	0	And ,
+Bed010.C.dialogueact183	543.86	552.48	C	Professor	fh|s	+1	1	so The idea is there 's this uh , other subgroup that 's worrying about formalizing the nota getting a notation .
+Bed010.C.dialogueact184	552.9	562.37	C	Professor	s^co	+1	0	But sort of in parallel with that , uh , the hope is tha in particularly you will work on constructions in English Ge - and German for this domain ,
+Bed010.B.dialogueact185	562.399	562.729	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact186	562.96	572.27	C	Professor	s^e	+1	0	but y not worry about parsing them or fitting them into SmartKom or any of the other {disfmarker} anything lik any other constraints for the time being .
+Bed010.B.dialogueact187	566.46	566.87	B	Grad	b	-1	0	Yeah .
+Bed010.B.dialogueact188	570.215	570.475	B	Grad	s^bk	-1	0	OK .
+Bed010.B.dialogueact189	572.573	572.853	B	Grad	s^bk	-1	0	Got it .
+Bed010.C.dialogueact190	572.65	580.029	C	Professor	s	-1	0	It 's hard enough to get it semantically and syntactically right and then {disfmarker} and get the constructions in their form and stuff .
+Bed010.B.dialogueact191	576.176	576.576	B	Grad	s^aa	-1	0	Yeah .
+Bed010.C.dialogueact192	580.73	587.36	C	Professor	s	-1	0	And , I don I don't want you f feeling that you have to somehow meet all these other constraints .
+Bed010.B.dialogueact193	587.245	587.755	B	Grad	s^bk	-1	0	Right , OK .
+Bed010.C.dialogueact194	588.73	596.86	C	Professor	fh|s	-1	0	Um . And similarly with the parsing , uh we 're gonna worry about parsing uh , the general case
+Bed010.C.dialogueact195	597.51	600.18	C	Professor	s^e	-1	0	you know , construction parser for general constructions .
+Bed010.C.dialogueact196	600.75	606.81	C	Professor	fh|s	-1	0	And , if we need a cut - down version for something , or whatever , we 'll worry about that later .
+Bed010.B.dialogueact197	607.025	607.275	B	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact198	607.65	611.01	C	Professor	s^cc	+1	1	So I 'd like to , for the summer turn into science mode .
+Bed010.B.dialogueact199	611.286	611.616	B	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact200	611.64	614.08	C	Professor	s	-1	0	And I assume that 's also , uh , your plan as well .
+Bed010.B.dialogueact202	616.63	622.58	B	Grad	fh|s	-1	0	So I mean , the {disfmarker} the point is that like the meetings um so far that I 've been at have been {disfmarker} sort of been geared towards this demo ,
+Bed010.C.dialogueact201	616.338	616.538	C	Professor	b	-1	0	Right .
+Bed010.C.dialogueact203	620.8	621.0	C	Professor	b	-1	0	Yeah .
+Bed010.C.dialogueact204	622.73	622.91	C	Professor	fg	-1	0	Yeah .
+Bed010.B.dialogueact206	623.239	624.989	B	Grad	s	-1	0	and then that 's going to go away pretty soon .
+Bed010.C.dialogueact205	622.91	623.91	C	Professor	s.%-	-1	0	But {disfmarker} but we we 're swit
+Bed010.B.dialogueact208	625.38	625.65	B	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact207	625.02	625.26	C	Professor	s^aa	-1	0	Right .
+Bed010.B.dialogueact209	625.65	628.61	B	Grad	s	-1	0	And then we 'll sort of shift gears a Fairly substantially ,
+Bed010.C.dialogueact210	625.842	626.042	C	Professor	s^aa	-1	0	Yeah .
+Bed010.E.dialogueact211	626.0	626.22	E	Grad	%-	-1	0	It 's {disfmarker}
+Bed010.C.dialogueact212	626.943	627.133	C	Professor	s^aa	-1	0	Yeah .
+Bed010.B.dialogueact214	628.61	628.74	B	Grad	qy^d^g^rt	-1	0	huh ?
+Bed010.C.dialogueact215	628.903	629.093	C	Professor	s^aa	-1	0	Yeah .
+Bed010.E.dialogueact213	628.586	629.096	E	Grad	s.%-	-1	0	It 's got .
+Bed010.E.dialogueact216	629.316	634.286	E	Grad	s	-1	0	What I {disfmarker} what I think is {disfmarker} is a good idea that I can {disfmarker} can show to anyone who 's interested ,
+Bed010.E.dialogueact217	634.286	636.316	E	Grad	s	+1	1	we can even make a {disfmarker} sort of an internal demo ,
+Bed010.E.dialogueact218	636.316	638.456	E	Grad	s^rt	-1	0	and I {disfmarker} I show you what I do ,
+Bed010.B.dialogueact219	638.835	639.115	B	Grad	b	-1	0	Mm - hmm .
+Bed010.E.dialogueact220	638.996	640.746	E	Grad	s	-1	0	I speak into it and you hear it talk ,
+Bed010.B.dialogueact221	641.18	641.57	B	Grad	s^bk	-1	0	OK .
+Bed010.E.dialogueact222	641.326	643.676	E	Grad	s	-1	0	and I can sort of walk f through the information .
+Bed010.E.dialogueact223	643.676	645.756	E	Grad	s	-1	0	So , this is like in half hour or forty - five minutes .
+Bed010.E.dialogueact224	645.756	646.246	E	Grad	s	-1	0	Just fun .
+Bed010.B.dialogueact225	646.765	647.015	B	Grad	s^bk	-1	0	OK .
+Bed010.E.dialogueact226	647.1	653.06	E	Grad	s	-1	0	And so you {disfmarker} when somebody on the streets com comes up to you and asks you what is SmartKom so you can , sort of , give a sensible answer .
+Bed010.B.dialogueact227	651.227	651.407	B	Grad	s^bk	-1	0	Right .
+Bed010.B.dialogueact228	653.137	653.517	B	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact229	653.28	657.2	C	Professor	qy^d^rt	+1	1	So , c sh we could set that up as actually an institute wide thing ?
+Bed010.C.dialogueact230	657.93	662.15	C	Professor	s^e^rt	-1	0	Just give a talk in the big room , and {disfmarker} and so peo people know what 's going on ?
+Bed010.C.dialogueact231	662.52	663.08	C	Professor	s^e	-1	0	when you 're ready ?
+Bed010.E.dialogueact232	664.59	665.46	E	Grad	s^aa	+1	0	Absolutely .
+Bed010.C.dialogueact233	665.3	666.6	C	Professor	fg|s.%--	-1	0	Yeah I mean , that 's the kind of thing {disfmarker}
+Bed010.C.dialogueact234	667.02	674.329	C	Professor	s	-1	0	That 's the level at which you know we can just li invite everybody and say " this is a project that we 've been working on and here 's a demo version of it " and stuff like that .
+Bed010.B.dialogueact235	672.68	672.91	B	Grad	b	-1	0	Yeah .
+Bed010.E.dialogueact236	674.85	675.18	E	Grad	s^bk	-1	0	OK .
+Bed010.E.dialogueact237	675.82	682.5	E	Grad	s^aap.%--	+1	2	Well d we {disfmarker} we do wanna have all the bugs out b where you have to sort of pipe in extra XML messages from left and right before you 're {disfmarker}
+Bed010.B.dialogueact238	682.451	682.771	B	Grad	b	-1	0	Uh - huh .
+Bed010.C.dialogueact239	682.89	683.35	C	Professor	s^aa	-1	0	Indeed .
+Bed010.E.dialogueact240	683.477	683.647	E	Grad	s^bk	-1	0	Yeah .
+Bed010.E.dialogueact241	685.295	685.575	E	Grad	s^rt^tc	-1	0	OK .
+Bed010.E.dialogueact242	685.765	686.305	E	Grad	s	-1	0	Makes sense .
+Bed010.C.dialogueact243	686.9	687.91	C	Professor	%--	-1	0	But any so that {disfmarker} e e
+Bed010.C.dialogueact244	687.91	688.89	C	Professor	s	-1	0	It 's clear , then , I think .
+Bed010.C.dialogueact245	689.337	698.427	C	Professor	s	-1	0	Actually , roughly starting uh let 's say , nex next meeting , cuz this meeting we have one other thing to tie up besides the trip report .
+Bed010.B.dialogueact246	694.437	694.797	B	Grad	b	-1	0	Yeah .
+Bed010.B.dialogueact247	698.746	698.966	B	Grad	b	-1	0	OK .
+Bed010.C.dialogueact248	699.003	704.97	C	Professor	fh|s^cc.%--	-1	0	But uh starting next meeting I think we want to flip into this mode where {disfmarker}
+Bed010.C.dialogueact249	705.63	707.79	C	Professor	fh|s	+1	1	Uh . I mean there are a lot of issues ,
+Bed010.C.dialogueact250	707.79	709.39	C	Professor	s:qw	+1	1	what 's the ontology look like ,
+Bed010.B.dialogueact251	709.298	709.658	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact252	709.39	710.79	C	Professor	s:qw	+1	1	you know what do the constructions look like ,
+Bed010.C.dialogueact253	710.79	712.31	C	Professor	s:qw	+1	1	what 's the execution engine look like ,
+Bed010.C.dialogueact254	712.45	713.53	C	Professor	fh|s	-1	0	mmm lots of things .
+Bed010.B.dialogueact255	712.972	713.312	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact256	714.182	721.67	C	Professor	s	+1	2	But , more focused on uh an idealized version than just getting the demo out .
+Bed010.C.dialogueact257	723.92	726.887	C	Professor	s^tc.%--	-1	0	Now before we do that , let 's get back in {disfmarker}
+Bed010.C.dialogueact258	727.007	727.177	C	Professor	s^fe	-1	0	Oh !
+Bed010.C.dialogueact259	727.507	741.96	C	Professor	s	-1	0	But , it 's still , I think , useful for you to understand the demo version enough , so that you can {disfmarker} can see what {disfmarker} what it is that {disfmarker} that uh it might eventually get retro - fitted into or something .
+Bed010.B.dialogueact260	732.111	732.341	B	Grad	b	-1	0	Yeah .
+Bed010.B.dialogueact261	741.868	742.198	B	Grad	s^bk	-1	0	OK ,
+Bed010.B.dialogueact262	742.278	742.468	B	Grad	s^bk	-1	0	right .
+Bed010.C.dialogueact263	743.6	750.34	C	Professor	s	-1	0	And Johno 's already done that , uh , looked at the dem uh the {disfmarker} looked at the SmartKom stuff .
+Bed010.D.dialogueact264	746.507	747.387	D	Grad	%-	-1	0	Wa
+Bed010.D.dialogueact265	747.387	747.417	D	Grad	fg	-1	0	uh {disfmarker}
+Bed010.D.dialogueact266	751.91	752.44	D	Grad	s^aap.%--	-1	0	To some de
+Bed010.D.dialogueact267	752.44	754.54	D	Grad	fh|qw	-1	0	uh what {disfmarker} what part of th the SmartKom stuff ?
+Bed010.C.dialogueact268	754.02	755.23	C	Professor	s	-1	0	Well , the parser , and that stuff .
+Bed010.D.dialogueact269	755.23	755.75	D	Grad	s^aa	-1	0	Oh yeah {disfmarker} yeah .
+Bed010.C.dialogueact270	757.424	757.764	C	Professor	s^tc	-1	0	OK . Anyway .
+Bed010.C.dialogueact271	757.764	758.324	C	Professor	s.%--	-1	0	So , the trip {disfmarker}
+Bed010.C.dialogueact272	758.434	759.614	C	Professor	s.%--	-1	0	the report on these {disfmarker}
+Bed010.C.dialogueact273	759.874	764.024	C	Professor	s^t	-1	0	the last we we sort of interrupted you guys telling us about what happened last week .
+Bed010.B.dialogueact274	762.047	762.457	B	Grad	b	-1	0	Yeah .
+Bed010.B.dialogueact275	762.457	763.247	B	Grad	s	-1	0	It 's alright .
+Bed010.E.dialogueact276	766.22	776.255	E	Grad	h|s	+1	2	Um . {vocalsound} Well it was just amazing to {disfmarker} to see uh how {disfmarker} how instable the whole thing is ,
+Bed010.C.dialogueact277	768.724	769.244	C	Professor	s	-1	0	Maybe you 're done , then .
+Bed010.E.dialogueact278	776.255	777.495	E	Grad	s.%--	-1	0	and if you just take the {disfmarker}
+Bed010.E.dialogueact279	778.526	783.47	E	Grad	s	+1	2	And I g I got the feeling that we are {pause} the only ones right now who have a running system .
+Bed010.E.dialogueact280	783.47	786.03	E	Grad	s^no	-1	0	I don't know what the guys in Kaiserslautern have running
+Bed010.E.dialogueact281	786.03	786.63	E	Grad	%--	-1	0	because
+Bed010.E.dialogueact282	787.513	791.673	E	Grad	s	+1	1	e the version {disfmarker} that is , the full version that 's on the server d does not work .
+Bed010.E.dialogueact283	792.756	796.566	E	Grad	s	-1	0	And you need to do a lot of stuff to make it work .
+Bed010.E.dialogueact284	796.566	797.856	E	Grad	%--	-1	0	And so it 's {disfmarker}
+Bed010.E.dialogueact285	798.71	809.11	E	Grad	s	-1	0	And even Tilman and Ralf sort of said " yeah there never was a really working version that uh did it without th all the shortcuts that they built in for the uh October @ @ version " .
+Bed010.E.dialogueact286	809.11	811.46	E	Grad	s	-1	0	So we 're actually maybe ahead of the System Gruppe by now ,
+Bed010.E.dialogueact287	812.57	814.11	E	Grad	s^e	-1	0	the system {disfmarker} the integration group .
+Bed010.E.dialogueact288	815.19	817.76	E	Grad	s	-1	0	And it was , uh {disfmarker} It was fun to some extent ,
+Bed010.E.dialogueact289	817.76	825.6	E	Grad	fh|s.%--	-1	0	but the uh the outcome that is sort of of scientific interest is that I think both Ralf and Tilman {disfmarker}
+Bed010.E.dialogueact290	826.24	827.76	E	Grad	fh|s^rt	-1	0	um , I know that they enjoyed it here ,
+Bed010.E.dialogueact291	828.208	831.668	E	Grad	s	-1	0	and they r they {disfmarker} they liked , uh , a lot of the stuff they saw here ,
+Bed010.E.dialogueact292	832.151	833.691	E	Grad	s^e^rt	-1	0	what {disfmarker} what we have been thinking about ,
+Bed010.E.dialogueact293	834.33	838.83	E	Grad	s	-1	0	and they 're more than willing to {disfmarker} to um , cooperate , by all means .
+Bed010.E.dialogueact294	839.726	846.322	E	Grad	fh|s	+1	1	And um , part of my responsibility is uh to use our internal " group - ware " server at EML ,
+Bed010.E.dialogueact295	846.322	848.422	E	Grad	s	+1	0	make that open to all of us and them ,
+Bed010.E.dialogueact296	848.792	855.482	E	Grad	s	+1	1	so that whatever we discuss in terms of parsing and {disfmarker} and generating and constructions w we {disfmarker} we sort of uh put it in there
+Bed010.E.dialogueact297	855.482	856.982	E	Grad	s	+1	1	and they put what they do in there
+Bed010.E.dialogueact298	857.494	863.691	E	Grad	s.x	+1	1	and maybe we can even um , get some overlap , get some synergy out of that .
+Bed010.E.dialogueact299	864.44	865.92	E	Grad	fh	-1	0	And um ,
+Bed010.E.dialogueact300	866.76	867.35	E	Grad	%--	-1	0	the , uh {disfmarker}
+Bed010.E.dialogueact301	867.47	877.7	E	Grad	s^cs	-1	0	If I find someone at {disfmarker} in EML that is interested in that , um I {disfmarker} I may even think that we could look {disfmarker} take constructions and {disfmarker} and generate from them
+Bed010.E.dialogueact302	877.7	883.14	E	Grad	s^df	+1	0	because the tree adjoining grammars that {disfmarker} that Tilman is using is as you said nothing but a mathematical formalism .
+Bed010.E.dialogueact303	883.14	888.68	E	Grad	s	+1	0	And you can just do anything with it , whether it 's syntactic trees , H P S G - like stuff , or whether it 's construction .
+Bed010.E.dialogueact304	889.47	896.009	E	Grad	s	+1	0	So if you ever get to the generation side of constructing things and there might be something of interest there ,
+Bed010.E.dialogueact305	896.009	902.322	E	Grad	s	-1	0	but in the moment we 're of course definitely focused on the understanding , um , pipeline .
+Bed010.C.dialogueact306	906.04	911.46	C	Professor	qy^d^rt	-1	0	Anyth - any other {vocalsound} {comment} uh repo visit reports sort of stories ?
+Bed010.C.dialogueact307	1016.45	1020.62	C	Professor	fh|s	-1	0	uh we {disfmarker} so we now know I think , what the landscape is like .
+Bed010.B.dialogueact308	1020.6	1020.85	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact309	1021.46	1027.93	C	Professor	s^co	-1	0	And so we just push on and {disfmarker} and uh , do what we need to do .
+Bed010.C.dialogueact310	1030.59	1043.25	C	Professor	s^co	+1	1	And one of the things we need to do is the um , and this I think is relatively tight {disfmarker} tightly constrained , is to finish up this belief - net stuff .
+Bed010.C.dialogueact311	1043.64	1044.22	C	Professor	fh	-1	0	So .
+Bed010.C.dialogueact312	1045.16	1049.99	C	Professor	fh|s^t^tc	-1	0	Uh . And I was going to switch to start talking about that unless there 're m other more general questions .
+Bed010.C.dialogueact313	1053.04	1056.07	C	Professor	fh|s	-1	0	OK so here 's where we are on the belief - net stuff as far as I understand it .
+Bed010.C.dialogueact314	1056.86	1067.58	C	Professor	fh|s	-1	0	Um . Going back I guess two weeks ago uh Robert had laid out this belief - net , missing only the connections .
+Bed010.C.dialogueact315	1067.58	1067.91	C	Professor	qy^d^g^rt	-1	0	Right ?
+Bed010.C.dialogueact316	1068.06	1070.33	C	Professor	s	-1	0	That is {disfmarker} {comment} So , he 'd put all th all the dots down ,
+Bed010.C.dialogueact317	1070.4	1083.44	C	Professor	s	+1	2	and we went through this , and , I think , more or less convinced ourselves that at least the vast majority of the nodes that we needed for the demo level we were thinking of , were in there .
+Bed010.C.dialogueact318	1083.81	1085.29	C	Professor	s	-1	0	Yeah {comment} we may run across one or two more .
+Bed010.C.dialogueact319	1085.53	1086.87	C	Professor	s	-1	0	But of course the connections weren't .
+Bed010.C.dialogueact320	1087.86	1106.1	C	Professor	fh|s	+1	0	So , uh Bhaskara and I went off and looked at some technical questions about were certain operations sort of legitimate belief - net computations and was there some known problem with them or had someone already uh , solved you know how to do this and stuff .
+Bed010.C.dialogueact321	1106.7	1108.51	C	Professor	fh|s	-1	0	And so Bhaskara tracked that down .
+Bed010.C.dialogueact322	1108.51	1115.49	C	Professor	s	+1	1	The answer seems to be uh , " no , no one has done it , but yes it 's a perfectly reasonable thing to do if that 's what you set out to do " .
+Bed010.C.dialogueact323	1116.31	1133.53	C	Professor	s^cs	-1	0	And , so the current state of things is that , again , starting now , um we 'd like to actually get a running belief - net for this particular subdomain done in the next few weeks .
+Bed010.C.dialogueact324	1134.31	1137.08	C	Professor	s^rt	-1	0	So Bhaskara is switching projects as of the first of June ,
+Bed010.C.dialogueact325	1137.08	1147.4	C	Professor	fh|s	-1	0	and uh , he 's gonna leave us an inheritance , which is a uh {disfmarker} hopefully a belief - net that does these things .
+Bed010.C.dialogueact326	1148.0	1150.72	C	Professor	s	+1	0	And there 're two aspects to it , one of which is , you know , technical ,
+Bed010.C.dialogueact327	1150.72	1154.09	C	Professor	s^e	+1	0	getting the coding right , and making it run , and uh stuff like that .
+Bed010.C.dialogueact328	1154.09	1156.76	C	Professor	s^e	+1	0	And the other is the actual semantics .
+Bed010.C.dialogueact329	1157.47	1162.39	C	Professor	fh|qw	+1	1	OK ? What all {disfmarker} you know , what are the considerations and how and what are the ways in which they relate .
+Bed010.C.dialogueact330	1163.27	1173.03	C	Professor	s	-1	0	So he doe h he doesn't need help from this group on the technical aspects or if he does uh we 'll do that separately .
+Bed010.B.dialogueact331	1173.2	1173.67	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact332	1173.64	1181.63	C	Professor	s	-1	0	But in terms of what are the decisions and stuff like that , that 's something that we all have to work out .
+Bed010.C.dialogueact333	1183.08	1183.82	C	Professor	qy^bu^rt	-1	0	Is {disfmarker} is that right ?
+Bed010.C.dialogueact334	1184.82	1186.68	C	Professor	qy^bu^d^rt	-1	0	I mean that 's {disfmarker} that 's both you guys ' understanding of where we are ?
+Bed010.E.dialogueact335	1186.54	1187.02	E	Grad	s^aa	-1	0	Absolutely .
+Bed010.C.dialogueact336	1187.33	1187.71	C	Professor	s^bk	-1	0	OK .
+Bed010.G.dialogueact337	1189.79	1194.74	G	Grad	fg|qy^rt	-1	0	So , I guess , um {disfmarker} Is there like a latest version of the belief - net {disfmarker} of the proposed belief - net ?
+Bed010.G.dialogueact338	1195.5	1195.61	G	Grad	%-	-1	0	Like {disfmarker}
+Bed010.E.dialogueact339	1196.44	1197.97	E	Grad	s.%--	-1	0	We had um decided {disfmarker}
+Bed010.G.dialogueact340	1197.17	1197.41	G	Grad	%-	-1	0	like {disfmarker}
+Bed010.E.dialogueact341	1199.1	1201.32	E	Grad	fh|s^bsc	-1	0	Um . Well , no , we didn't decide .
+Bed010.E.dialogueact342	1201.32	1205.89	E	Grad	s	-1	0	We wanted to look into maybe getting it , the visualization , a bit clearer ,
+Bed010.E.dialogueact343	1205.89	1215.98	E	Grad	s	-1	0	but I think if we do it , um , sort of a paper version of all the nodes and then the connections between them , that should suffice .
+Bed010.G.dialogueact344	1211.36	1211.87	G	Grad	b^rt	-1	0	Mm - hmm .
+Bed010.G.dialogueact345	1214.22	1214.32	G	Grad	s^aa	-1	0	Yeah ,
+Bed010.G.dialogueact346	1214.32	1214.95	G	Grad	s^2^ba	-1	0	that should be fine .
+Bed010.C.dialogueact348	1216.08	1217.41	C	Professor	fg|s^aap	-1	0	Yeah I mean , that 's a separate problem .
+Bed010.D.dialogueact347	1215.94	1216.57	D	Grad	fg	-1	0	Yeah , I {disfmarker}
+Bed010.C.dialogueact349	1217.41	1219.97	C	Professor	s	+1	0	We do in the long run wanna do better visualization and all that stuff .
+Bed010.E.dialogueact350	1219.49	1219.81	E	Grad	b	-1	0	Yeah .
+Bed010.C.dialogueact351	1220.24	1220.83	C	Professor	s	-1	0	That 's separable ,
+Bed010.C.dialogueact352	1220.83	1221.05	C	Professor	fh	-1	0	yeah .
+Bed010.D.dialogueact353	1221.16	1225.4	D	Grad	s.%--	+1	0	I did look into that , uh in terms of , you know , exploding the nodes out and down ag
+Bed010.C.dialogueact354	1223.48	1223.69	C	Professor	b	-1	0	Yep .
+Bed010.C.dialogueact355	1225.85	1225.97	C	Professor	b	-1	0	Right .
+Bed010.D.dialogueact356	1226.07	1227.46	D	Grad	s	+1	1	JavaBayes does not support that .
+Bed010.D.dialogueact357	1227.65	1231.69	D	Grad	s^cs	-1	0	I can imagine a way of hacking at the code to do that .
+Bed010.D.dialogueact358	1232.16	1235.02	D	Grad	s^rt	+1	0	It 'd probably take two weeks or so to actually go through and do it ,
+Bed010.C.dialogueact359	1235.02	1235.9	C	Professor	s^nd	-1	0	Not {disfmarker} not at this point .
+Bed010.D.dialogueact360	1235.49	1238.49	D	Grad	s^rt	-1	0	and I went through all the other packages on Murph - Kevin Murphy 's page ,
+Bed010.C.dialogueact361	1238.57	1238.83	C	Professor	s^bk	-1	0	Right .
+Bed010.D.dialogueact362	1239.02	1248.43	D	Grad	s	-1	0	and I couldn't find the necessary mix of free and uh with the GUI and , with this thing that we want .
+Bed010.C.dialogueact363	1248.1	1249.75	C	Professor	s^cs.%--	-1	0	Well , we can p If it 's {disfmarker} If we can pay {disfmarker}
+Bed010.C.dialogueact364	1249.75	1252.37	C	Professor	s	-1	0	Yeah . If you know it 's paying a thousand dollars or something we can do that .
+Bed010.C.dialogueact365	1252.87	1253.04	C	Professor	qy^d^f^rt	-1	0	OK ?
+Bed010.C.dialogueact367	1253.04	1256.88	C	Professor	s	-1	0	So {disfmarker} so don't view free as {disfmarker} as a absolute constraint .
+Bed010.D.dialogueact366	1252.94	1253.23	D	Grad	s^bk	-1	0	OK .
+Bed010.D.dialogueact368	1257.48	1260.0	D	Grad	s^bk|s^cc.%-	-1	0	OK , so then I 'll go back and look at the ones on the list that {disfmarker}
+Bed010.C.dialogueact369	1259.14	1259.39	C	Professor	s^bk	-1	0	OK .
+Bed010.C.dialogueact372	1259.69	1260.55	C	Professor	s^cs	-1	0	And you can ask Kevin .
+Bed010.E.dialogueact371	1259.64	1259.98	E	Grad	fg	-1	0	But {disfmarker}
+Bed010.G.dialogueact370	1259.55	1259.92	G	Grad	b.x	-1	0	Yeah .
+Bed010.D.dialogueact374	1261.16	1261.65	D	Grad	b	-1	0	Mmm .
+Bed010.E.dialogueact375	1261.25	1261.48	E	Grad	fg	-1	0	But {disfmarker}
+Bed010.G.dialogueact373	1260.89	1263.65	G	Grad	fg|s^rt	+1	0	Yeah , the one that uh people seem to use is uh Hugin or whatever ?
+Bed010.C.dialogueact376	1263.83	1264.12	C	Professor	s^m	-1	0	Hugin ,
+Bed010.C.dialogueact377	1264.12	1264.73	C	Professor	s	-1	0	yeah that 's free .
+Bed010.G.dialogueact378	1264.14	1264.69	G	Grad	qw.%-	-1	0	How exp
+Bed010.G.dialogueact379	1265.18	1265.92	G	Grad	s^ng.%--	-1	0	I don't think it 's {disfmarker}
+Bed010.G.dialogueact380	1265.99	1266.36	G	Grad	qy^rt	-1	0	Is it free ?
+Bed010.G.dialogueact381	1266.36	1269.42	G	Grad	s^df.%--	-1	0	Because I 've seen it advertised in places so I {disfmarker} it seems to {disfmarker}
+Bed010.C.dialogueact382	1268.67	1270.14	C	Professor	h|s	-1	0	Uh , it may be free to academics .
+Bed010.C.dialogueact383	1270.21	1270.96	C	Professor	s^no	-1	0	Like I {disfmarker} I don't know .
+Bed010.C.dialogueact384	1271.21	1275.17	C	Professor	s^df	-1	0	I have a co {comment} I have a copy {comment} that I l I downloaded .
+Bed010.G.dialogueact385	1273.85	1274.15	G	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact386	1275.17	1276.54	C	Professor	s^df	-1	0	So , at one point it was free .
+Bed010.G.dialogueact387	1276.79	1277.11	G	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact388	1277.46	1279.7	C	Professor	fh|s	-1	0	Uh but yo I noticed people do use Hugin
+Bed010.C.dialogueact389	1279.7	1281.01	C	Professor	fh	-1	0	so um ,
+Bed010.D.dialogueact390	1283.45	1284.14	D	Grad	qw^rt	-1	0	How do you spell that ?
+Bed010.C.dialogueact392	1284.3	1285.66	C	Professor	s	-1	0	HUGIN .
+Bed010.F.dialogueact391	1284.05	1284.2	F	Grad	qw^t3	-1	0	Why
+Bed010.C.dialogueact393	1286.97	1287.96	C	Professor	s	-1	0	And Bhaskara can give you a pointer .
+Bed010.C.dialogueact394	1288.21	1289.91	C	Professor	s.%--	-1	0	So then , in any case , um {disfmarker}
+Bed010.C.dialogueact395	1290.18	1290.68	C	Professor	s.%--	-1	0	But paying a lit
+Bed010.C.dialogueact396	1290.68	1294.19	C	Professor	s.%--	-1	0	You know , if i if it 's uh {disfmarker}
+Bed010.C.dialogueact397	1294.19	1297.12	C	Professor	s	-1	0	Probably for university , it 's {disfmarker} it 's gonna be real cheap anyway .
+Bed010.C.dialogueact398	1297.85	1301.8	C	Professor	fh|s	-1	0	But um , you know , if it 's fifty thousand dollars we aren't gonna do it .
+Bed010.C.dialogueact399	1301.98	1303.35	C	Professor	s^df	-1	0	I 'm mean , we have no need for that .
+Bed010.E.dialogueact400	1302.77	1308.03	E	Grad	s^cs	+1	1	I {disfmarker} I also s would suggest not to d spend two weeks in {disfmarker} in {disfmarker} in changing the {disfmarker} the JavaBayes code .
+Bed010.C.dialogueact401	1306.68	1306.88	C	Professor	s^aa	-1	0	No ,
+Bed010.B.dialogueact403	1307.32	1307.56	B	Grad	b	-1	0	Yeah .
+Bed010.C.dialogueact402	1306.88	1307.86	C	Professor	s	-1	0	he 's not gonna do that .
+Bed010.D.dialogueact404	1307.85	1308.1	D	Grad	s^bk	-1	0	OK .
+Bed010.E.dialogueact405	1308.03	1311.24	E	Grad	s^cc	+1	0	I {disfmarker} I will send you a pointer to a Java applet that does that ,
+Bed010.E.dialogueact406	1311.24	1312.2	E	Grad	s^e	-1	0	it 's sort of a fish - eye .
+Bed010.E.dialogueact407	1312.2	1315.27	E	Grad	s^e^rt	-1	0	You {disfmarker} you have a node , and you click on it , and it shows you all the connections ,
+Bed010.D.dialogueact409	1315.45	1315.99	D	Grad	b	-1	0	Mmm .
+Bed010.E.dialogueact408	1315.27	1318.85	E	Grad	s	-1	0	and then if you click on something else that moves away , that goes into the middle .
+Bed010.E.dialogueact410	1319.41	1321.65	E	Grad	s^am	-1	0	And maybe there is an easy way of interfacing those two .
+Bed010.E.dialogueact411	1322.11	1325.66	E	Grad	s	-1	0	If that doesn't work , it 's not a problem we {disfmarker} we need to solve right now .
+Bed010.E.dialogueact412	1326.01	1333.6	E	Grad	s^cc	-1	0	What I 'm {disfmarker} what my job is , I will , um , give you the input in terms of {disfmarker} of the internal structure .
+Bed010.E.dialogueact413	1334.09	1336.17	E	Grad	s^cs^rt	-1	0	Maybe node by node , or something like this ?
+Bed010.E.dialogueact414	1336.17	1337.74	E	Grad	qrr	-1	0	Or should I collect it all
+Bed010.G.dialogueact415	1336.48	1337.22	G	Grad	b	-1	0	Mm - hmm .
+Bed010.E.dialogueact416	1337.74	1338.09	E	Grad	fh	-1	0	and {disfmarker}
+Bed010.C.dialogueact417	1338.84	1339.2	C	Professor	s	-1	0	Doesn't matter .
+Bed010.G.dialogueact418	1339.28	1344.1	G	Grad	h|s	-1	0	Um , just any like {disfmarker} like sort of rough representation of the entire belief - net is probably best .
+Bed010.E.dialogueact419	1343.6	1343.85	E	Grad	s^bk.%	-1	0	OK .
+Bed010.E.dialogueact420	1344.56	1351.06	E	Grad	fh|qy^bu^d^rt	-1	0	And um you 're gonna be around ? t again , always Tuesdays and Thursdays afternoon - ish ? As usual ?
+Bed010.E.dialogueact422	1352.2	1353.1	E	Grad	qr^rt	-1	0	Or will that change ?
+Bed010.G.dialogueact421	1352.17	1352.47	G	Grad	s^aa	-1	0	Yeah {disfmarker}
+Bed010.G.dialogueact423	1353.18	1354.08	G	Grad	h|s^aa	-1	0	I mean , yeah ,
+Bed010.G.dialogueact424	1354.23	1355.71	G	Grad	s.%--	-1	0	I can {disfmarker} like I c
+Bed010.G.dialogueact425	1355.71	1360.93	G	Grad	h|s	-1	0	Um . This week I guess um , kind of {disfmarker} I have a lot of projects and stuff but after that I will generally be more free .
+Bed010.G.dialogueact426	1360.93	1363.3	G	Grad	s^am|s^cc	-1	0	So yes , I might {disfmarker} I can be around .
+Bed010.G.dialogueact427	1363.3	1365.79	G	Grad	s	-1	0	And g I mean , generally if you email me also I can be around on other days .
+Bed010.E.dialogueact428	1365.14	1365.3	E	Grad	b	-1	0	Yeah .
+Bed010.E.dialogueact429	1365.98	1366.18	E	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact430	1367.76	1374.79	C	Professor	s^co	-1	0	Yeah and this is not a crisis that {disfmarker} I mean , you do , e everybody who 's a student should , you know do their work , get their c courses all in good shape
+Bed010.C.dialogueact431	1374.79	1377.31	C	Professor	s^cc	-1	0	and {disfmarker} and {disfmarker} and {disfmarker} and then we 'll dig {disfmarker} d dig down on this .
+Bed010.E.dialogueact432	1374.92	1375.63	E	Grad	s^aa|%--	-1	0	Yeah , that 's {disfmarker}
+Bed010.E.dialogueact433	1377.43	1377.55	E	Grad	b	-1	0	Yeah .
+Bed010.E.dialogueact434	1378.08	1378.35	E	Grad	fg	-1	0	OK .
+Bed010.E.dialogueact435	1378.99	1379.37	E	Grad	s^ba	-1	0	No , that 's good .
+Bed010.E.dialogueact436	1379.37	1382.14	E	Grad	s	-1	0	That means I have I h I can spend this week doing it .
+Bed010.E.dialogueact437	1382.32	1382.52	E	Grad	fh	-1	0	So .
+Bed010.G.dialogueact438	1382.69	1382.83	G	Grad	b	-1	0	OK .
+Bed010.B.dialogueact439	1384.07	1386.58	B	Grad	qw	+1	0	How do you go about this process of deciding what these connections are ?
+Bed010.B.dialogueact440	1386.58	1390.26	B	Grad	s	-1	0	I know that there 's an issue of how to weight the different things too , and stuff .
+Bed010.B.dialogueact442	1390.26	1390.45	B	Grad	qy^d^g^rt	-1	0	Right ?
+Bed010.B.dialogueact443	1390.45	1392.96	B	Grad	s.%-	-1	0	I mean do you just sort of guess and see if it sort of {disfmarker}
+Bed010.C.dialogueact441	1390.09	1390.39	C	Professor	s^aa	-1	0	Right .
+Bed010.C.dialogueact444	1392.54	1396.46	C	Professor	s	-1	0	Well there {disfmarker} there {disfmarker} there There 're two different things you do .
+Bed010.E.dialogueact445	1394.7	1394.97	E	Grad	fg	-1	0	It 's {disfmarker}
+Bed010.C.dialogueact446	1396.46	1398.19	C	Professor	s^e	+1	0	One is you design and the other is you learn .
+Bed010.C.dialogueact447	1398.62	1398.9	C	Professor	qy^d^f^rt	-1	0	OK ?
+Bed010.C.dialogueact448	1399.34	1406.13	C	Professor	fh|s^co	+1	2	So uh what we 're gonna do initially is {disfmarker} is do design , and , i if you will , guess .
+Bed010.B.dialogueact449	1406.29	1406.52	B	Grad	b	-1	0	OK .
+Bed010.C.dialogueact450	1406.68	1406.98	C	Professor	qy^d^f^g^rt	-1	0	OK .
+Bed010.C.dialogueact451	1407.29	1414.14	C	Professor	s	-1	0	Uh that is you know use your best knowledge of {disfmarker} of the domain to uh , hypothesize what the dependencies are and stuff .
+Bed010.B.dialogueact452	1409.35	1409.59	B	Grad	b	-1	0	Right .
+Bed010.B.dialogueact453	1414.27	1414.56	B	Grad	b	-1	0	OK .
+Bed010.C.dialogueact454	1415.27	1423.41	C	Professor	s	+1	0	If it 's done right , and if you have data then , there are techniques for learning the numbers given the structure
+Bed010.B.dialogueact455	1419.07	1419.33	B	Grad	b	-1	0	Yeah .
+Bed010.C.dialogueact456	1423.92	1428.23	C	Professor	s	-1	0	and there are even techniques for learning the structure , although that takes a lot more data ,
+Bed010.C.dialogueact457	1428.23	1429.84	C	Professor	s	-1	0	and it 's not as @ @ and so forth and so on .
+Bed010.C.dialogueact458	1429.84	1431.16	C	Professor	fh	-1	0	So uh
+Bed010.C.dialogueact459	1432.36	1439.32	C	Professor	s^cs	+1	2	but for the limited amount of stuff we have for this particular exercise I think we 'll just design it .
+Bed010.B.dialogueact460	1439.89	1440.05	B	Grad	s^bk	-1	0	Alright .
+Bed010.E.dialogueact461	1441.14	1441.29	E	Grad	s^bk	-1	0	Yeah .
+Bed010.E.dialogueact462	1441.88	1449.76	E	Grad	s	-1	0	Fo - Hopefully as time passes we 'll get more and more data from Heidelberg and from people actually using it and stuff .
+Bed010.B.dialogueact463	1447.68	1447.93	B	Grad	s^bk	-1	0	OK .
+Bed010.E.dialogueact464	1449.76	1453.31	E	Grad	s	-1	0	So but this is the {pause} {vocalsound} {comment} {pause} long run .
+Bed010.B.dialogueact465	1452.47	1452.69	B	Grad	b	-1	0	Yeah .
+Bed010.E.dialogueact466	1453.86	1458.1	E	Grad	s	-1	0	But to solve our problems ag uh a mediocre design will do I think in the beginning .
+Bed010.B.dialogueact467	1457.57	1457.72	B	Grad	s^aa	-1	0	Yeah ,
+Bed010.B.dialogueact468	1457.72	1458.06	B	Grad	s^aa^rt	-1	0	that 's right .
+Bed010.B.dialogueact469	1459.84	1462.56	B	Grad	fg|s.%--:qy.%--	-1	0	Yeah , oh , and by the way , speaking of data , um , are there
+Bed010.B.dialogueact470	1463.18	1466.26	B	Grad	s	-1	0	I could swore {disfmarker} uh , I could swear I saw it sitting on someone 's desk at some point ,
+Bed010.B.dialogueact471	1466.26	1472.86	B	Grad	qy^rt	-1	0	but is there a {disfmarker} um a transcript of any of the , sort of , initial interactions of people with the {disfmarker} with the system ?
+Bed010.B.dialogueact473	1473.42	1477.73	B	Grad	s^df	+1	0	Cuz you know , I 'm still sort of itching to {disfmarker} to look at what {disfmarker} look at the stuff , and see what people are saying .
+Bed010.C.dialogueact472	1473.11	1473.44	C	Professor	s^aa^rt	-1	0	Mm - hmm .
+Bed010.C.dialogueact474	1476.55	1476.75	C	Professor	b	-1	0	Yeah .
+Bed010.C.dialogueact475	1477.4	1478.06	C	Professor	s^co	-1	0	Yeah make yourself a note .
+Bed010.C.dialogueact476	1478.4	1481.0	C	Professor	s	-1	0	So and {disfmarker} and , of course Keith would like the German as well as the English ,
+Bed010.C.dialogueact477	1481.0	1482.35	C	Professor	s	-1	0	so whatever you guys can get .
+Bed010.E.dialogueact478	1483.25	1484.0	E	Grad	qy^bu^d^rt	-1	0	The German .
+Bed010.E.dialogueact479	1485.15	1486.21	E	Grad	s^na	-1	0	Oh yeah , of course , German .
+Bed010.E.dialogueact480	1486.42	1486.54	E	Grad	b	-1	0	Yeah .
+Bed010.C.dialogueact481	1487.01	1487.98	C	Professor	s	-1	0	Yeah , the y your native language ,
+Bed010.C.dialogueact482	1487.98	1488.09	C	Professor	qy^d^g^rt	-1	0	right ?
+Bed010.C.dialogueact483	1488.15	1488.88	C	Professor	s^j	-1	0	You remember that one .
+Bed010.E.dialogueact484	1489.78	1490.13	E	Grad	s^bk	-1	0	OK .
+Bed010.E.dialogueact485	1491.16	1491.97	E	Grad	s^ba	-1	0	That 's important , yeah .
+Bed010.B.dialogueact487	1493.57	1493.77	B	Grad	fg	-1	0	Yeah ,
+Bed010.C.dialogueact486	1493.56	1494.66	C	Professor	s^co	-1	0	So he 'll get you some data .
+Bed010.B.dialogueact488	1494.76	1495.02	B	Grad	s^bk	-1	0	u OK .
+Bed010.B.dialogueact489	1495.57	1501.53	B	Grad	s	-1	0	Yeah , I mean I {disfmarker} I sort of um found the uh , uh the audio of some of those ,
+Bed010.B.dialogueact491	1501.53	1505.6	B	Grad	fh|s	-1	0	and um , it kind of sounded like I didn't want to trudge through that , you know .
+Bed010.E.dialogueact490	1501.51	1501.83	E	Grad	b	-1	0	Hmm .
+Bed010.B.dialogueact492	1505.6	1507.38	B	Grad	s	-1	0	It was just {disfmarker} Strange ,
+Bed010.B.dialogueact493	1507.38	1507.56	B	Grad	fh	-1	0	but .
+Bed010.C.dialogueact494	1507.94	1508.18	C	Professor	s^aa	-1	0	Yep .
+Bed010.E.dialogueact495	1508.07	1511.87	E	Grad	s	-1	0	We probably will not get those to describe because they were trial runs .
+Bed010.B.dialogueact496	1511.9	1512.15	B	Grad	s^aa	-1	0	Oh yeah ,
+Bed010.B.dialogueact497	1512.15	1512.38	B	Grad	s^bk	-1	0	OK .
+Bed010.E.dialogueact498	1512.74	1517.78	E	Grad	fh|s	+1	0	Um , but uh that 's th but we have data in English and German already .
+Bed010.B.dialogueact500	1517.82	1518.01	B	Grad	s^bk	-1	0	OK ,
+Bed010.B.dialogueact501	1518.12	1518.5	B	Grad	fg	-1	0	yeah , I mean .
+Bed010.E.dialogueact499	1517.78	1518.1	E	Grad	fh	-1	0	So . {disfmarker}
+Bed010.E.dialogueact502	1518.36	1518.87	E	Grad	s^e	+1	0	Transcribed .
+Bed010.E.dialogueact503	1518.87	1519.73	E	Grad	s^cc	+1	0	I will send you that .
+Bed010.E.dialogueact504	1523.09	1523.32	E	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact505	1539.66	1539.93	C	Professor	fg	-1	0	OK ,
+Bed010.C.dialogueact506	1539.93	1547.03	C	Professor	fh|qy^d^t	-1	0	so while we 're still at this sort of top level , anything else that we oughta talk about today ?
+Bed010.E.dialogueact507	1553.17	1555.51	E	Grad	qw^t	-1	0	Ho - how was your thingy .
+Bed010.B.dialogueact508	1623.64	1631.12	B	Grad	fg|s^t^tc	-1	0	Oh , um , I just wanted to , uh , s like mention as an issue , um , you know last meeting I wasn't here
+Bed010.B.dialogueact509	1631.12	1634.22	B	Grad	s^df	+1	0	because I went to a linguistics colloquium on the fictive motion stuff ,
+Bed010.C.dialogueact510	1632.41	1632.75	C	Professor	s^aa	-1	0	Oh right .
+Bed010.B.dialogueact511	1634.22	1635.37	B	Grad	s^ba	-1	0	and that was pretty interesting
+Bed010.B.dialogueact512	1635.37	1636.12	B	Grad	fh	-1	0	and you know , I mean ,
+Bed010.B.dialogueact513	1636.12	1641.03	B	Grad	s	+1	0	seems to me that that will fairly obviously be of relevance to uh {disfmarker} to what we 're doing here
+Bed010.B.dialogueact514	1641.03	1643.0	B	Grad	s	-1	0	because you know people are likely to give descriptions
+Bed010.B.dialogueact515	1643.01	1647.9	B	Grad	s^e	-1	0	like you know , " What 's that thing uh right where you start to go up the hill , " or something like that ,
+Bed010.B.dialogueact516	1647.9	1652.6	B	Grad	s^e	-1	0	you know , meaning a few feet up the hill or whatever from some reference point and all that stuff
+Bed010.B.dialogueact517	1652.6	1659.13	B	Grad	s	-1	0	so I mean , I 'm sure in terms of you know , people trying to state locations or , you know , all that kind of stuff , this is gonna be very relevant .
+Bed010.B.dialogueact518	1659.13	1659.48	B	Grad	fh	-1	0	So ,
+Bed010.B.dialogueact519	1659.93	1669.89	B	Grad	fh|s.%--	-1	0	um , now that was {disfmarker} the talk was about English versus Japanese , um , which obviously the Japanese doesn't affect us directly , except that , um , some of the construction {disfmarker}
+Bed010.B.dialogueact520	1669.89	1674.55	B	Grad	s:s	-1	0	he 'd {disfmarker} what he talked about was that you know in English we say things like th you know , " your bike is parked across the street "
+Bed010.B.dialogueact521	1675.01	1680.06	B	Grad	s:s	-1	0	and we use these prepositional phrases , you know , " well , if you were to move across the street you would be at the bike " ,
+Bed010.B.dialogueact522	1680.06	1689.7	B	Grad	s:s	-1	0	but um in {disfmarker} in Japanese the {disfmarker} the more conventionalized tendency is to use a {disfmarker} sort of a description of " where one has crossed to the river , there is a tree " .
+Bed010.B.dialogueact523	1690.17	1698.07	B	Grad	fh|s:s	-1	0	Um , and you know , you can actually say things like , um , " there 's a tree where one has crossed the river , but no one has ever crossed the river " , or something like that .
+Bed010.B.dialogueact524	1698.07	1701.72	B	Grad	s	-1	0	So the idea is that this really is you know that 's supposed show that 's it 's really fictive and so on .
+Bed010.B.dialogueact525	1702.04	1702.66	B	Grad	fh	-1	0	But um {disfmarker}
+Bed010.B.dialogueact526	1703.81	1712.65	B	Grad	s:s	-1	0	But the point is that that kind of construction is also used in English , you know , like " right where you start to go up the hill " , or " just when you get off the train " , or something like that to {disfmarker} uh , to indicate where something is .
+Bed010.C.dialogueact527	1711.15	1711.54	C	Professor	b	-1	0	Mmm .
+Bed010.B.dialogueact528	1712.65	1713.62	B	Grad	s^cc.%-	-1	0	So we 'll have to think about {disfmarker}
+Bed010.C.dialogueact529	1713.08	1713.23	C	Professor	fg	-1	0	So {disfmarker}
+Bed010.C.dialogueact530	1713.8	1715.03	C	Professor	qw	-1	0	how much is that used in German ?
+Bed010.E.dialogueact531	1716.07	1722.04	E	Grad	h|s	-1	0	Um . The uh {disfmarker} Well {disfmarker} I wa I was on a uh {disfmarker} on a {disfmarker} on a different sidetrack .
+Bed010.C.dialogueact533	1722.62	1722.91	C	Professor	s^bk	-1	0	Oh , OK .
+Bed010.E.dialogueact532	1722.42	1727.89	E	Grad	s	-1	0	I mean , the {disfmarker} the Deep Map project which um is undergoing some renovation at {disfmarker} at the moment ,
+Bed010.E.dialogueact534	1727.89	1731.26	E	Grad	s	-1	0	but this is a {disfmarker} a three language project : German , English , Japanese .
+Bed010.B.dialogueact535	1731.16	1731.46	B	Grad	s^bk	-1	0	OK .
+Bed010.E.dialogueact536	1731.93	1739.99	E	Grad	fh|s	-1	0	And um , we have a uh , uh {disfmarker} I have taken care that we have the {disfmarker} the Japanese generation and stuff .
+Bed010.E.dialogueact537	1739.99	1743.3	E	Grad	fh|s	-1	0	And so I looked into uh spatial description .
+Bed010.E.dialogueact538	1743.3	1749.51	E	Grad	s^df	-1	0	So we can generate spatial descriptions , how to get from A to B . And {disfmarker} and information on objects , in German , English , and Japanese .
+Bed010.B.dialogueact539	1746.24	1746.57	B	Grad	b	-1	0	Mm - hmm .
+Bed010.E.dialogueact540	1749.51	1755.86	E	Grad	s	+1	0	And there is a huge uh project on spatial descriptions uh {disfmarker} differences in spatial descriptions .
+Bed010.E.dialogueact541	1756.48	1758.06	E	Grad	s^e	-1	0	Well , if yo if you 're interested in that ,
+Bed010.E.dialogueact542	1758.57	1759.34	E	Grad	qw.%--	-1	0	so how {disfmarker} how ,
+Bed010.E.dialogueact543	1759.34	1763.37	E	Grad	s	-1	0	I mean it does sort of go d all the way down to the conceptual level to some extent .
+Bed010.B.dialogueact544	1762.77	1763.06	B	Grad	s^bk	-1	0	OK .
+Bed010.E.dialogueact545	1763.37	1763.65	E	Grad	fh	-1	0	So .
+Bed010.E.dialogueact546	1764.68	1765.3	E	Grad	fh	-1	0	Um .
+Bed010.C.dialogueact547	1765.48	1766.98	C	Professor	qw^rt	-1	0	So , where is this huge project ?
+Bed010.E.dialogueact548	1767.42	1768.22	E	Grad	s	+1	0	It 's KLEIST .
+Bed010.E.dialogueact549	1768.61	1774.59	E	Grad	s	-1	0	It 's the uh Bielefeld generation of uh spatial descriptions and whatever .
+Bed010.C.dialogueact550	1770.29	1770.61	C	Professor	b^rt	-1	0	Mm - hmm .
+Bed010.E.dialogueact551	1775.88	1779.83	E	Grad	%	-1	0	
+Bed010.C.dialogueact552	1776.47	1778.07	C	Professor	s^cs	-1	0	Well , that may be another thing that Keith wants to look at .
+Bed010.B.dialogueact553	1778.3	1778.45	B	Grad	s^bk	-1	0	OK .
+Bed010.E.dialogueact554	1779.16	1783.78	E	Grad	fh|s^cs	-1	0	But um , I {disfmarker} I think we should leave Japanese constructions maybe outside of the scope for {disfmarker} for now ,
+Bed010.B.dialogueact555	1783.33	1783.75	B	Grad	s^aa	-1	0	Yeah .
+Bed010.E.dialogueact556	1783.78	1788.77	E	Grad	fh|s^ba	-1	0	but um definitely it 's interesting to look at {disfmarker} at cross the bordered there .
+Bed010.C.dialogueact557	1786.34	1786.8	C	Professor	b	-1	0	Mm - hmm .
+Bed010.A.dialogueact558	1789.53	1797.53	A	PhD	qy	-1	0	Are {disfmarker} are you going to p pay any attention to the relative position {disfmarker} of {disfmarker} of the direction relative {disfmarker} relative to the speaker ?
+Bed010.A.dialogueact559	1797.53	1799.92	A	PhD	s^e	-1	0	For example , there are some differences between Hebrew and English .
+Bed010.A.dialogueact560	1800.4	1806.49	A	PhD	s	-1	0	We can say um " park in front of the car " as you come beh you drive behind the car .
+Bed010.A.dialogueact561	1806.94	1811.71	A	PhD	s	-1	0	In Hebrew it means " park behind the car " , because to follow the car is defined as it faces you .
+Bed010.E.dialogueact562	1810.24	1810.46	E	Grad	b	-1	0	Mm - hmm .
+Bed010.E.dialogueact563	1810.89	1811.58	E	Grad	s	-1	0	Intrinsic ,
+Bed010.E.dialogueact564	1811.73	1811.84	E	Grad	b	-1	0	yeah .
+Bed010.A.dialogueact565	1812.42	1815.1	A	PhD	s	-1	0	While in English , front of the car is the absolute front of the car .
+Bed010.B.dialogueact566	1812.91	1813.5	B	Grad	s^bk	-1	0	OK .
+Bed010.A.dialogueact568	1816.1	1816.44	A	PhD	fh	-1	0	So .
+Bed010.B.dialogueact567	1815.91	1818.98	B	Grad	fg|s^bu	-1	0	Right , so the canonical direction of motion determines where the front is .
+Bed010.A.dialogueact569	1817.72	1817.99	A	PhD	s^aa	-1	0	Right .
+Bed010.A.dialogueact570	1818.78	1819.02	A	PhD	s^aa^r	-1	0	Right .
+Bed010.B.dialogueact571	1818.98	1819.19	B	Grad	s^bk	-1	0	OK .
+Bed010.A.dialogueact572	1820.37	1824.91	A	PhD	qy.%--	-1	0	So , i i i is German uh closer to {disfmarker} to E uh , uh , uh , uh {disfmarker} to E I mean uh
+Bed010.E.dialogueact573	1821.15	1821.49	E	Grad	b	-1	0	Mm - hmm .
+Bed010.A.dialogueact574	1825.22	1828.72	A	PhD	s	-1	0	I don't think it {disfmarker} it 's related to syntax , though , so it may be entirely different .
+Bed010.E.dialogueact575	1827.51	1828.67	E	Grad	fh|s.%-	-1	0	Um , as a matter of fact {disfmarker}
+Bed010.C.dialogueact576	1828.26	1828.67	C	Professor	s^aa	-1	0	No , it 's not .
+Bed010.B.dialogueact577	1828.81	1829.08	B	Grad	s^aa	-1	0	Right .
+Bed010.A.dialogueact578	1829.51	1829.67	A	PhD	b	-1	0	Yeah .
+Bed010.E.dialogueact579	1829.79	1837.09	E	Grad	fg|qy^rt	-1	0	Um . Did you ever get to look at the {disfmarker} the rou paper that I sent you on the {disfmarker} on that problem in English and German ?
+Bed010.B.dialogueact580	1830.82	1831.03	B	Grad	s.%-	-1	0	I think {disfmarker}
+Bed010.E.dialogueact581	1837.78	1839.33	E	Grad	s^e	+1	0	Carroll , ninety - three .
+Bed010.E.dialogueact582	1840.05	1848.11	E	Grad	fh|s	+1	0	Um . I {disfmarker} There is a {disfmarker} a study on the differences between English and German on exactly that problem .
+Bed010.A.dialogueact583	1847.76	1848.33	A	PhD	b	-1	0	Hmm .
+Bed010.E.dialogueact584	1848.51	1850.82	E	Grad	s:s	-1	0	So it 's {disfmarker} they actually say " the monkey in front of the car ,
+Bed010.E.dialogueact585	1851.03	1851.79	E	Grad	qw^rt	-1	0	where 's the monkey ? "
+Bed010.B.dialogueact586	1851.95	1852.33	B	Grad	b	-1	0	Mm - hmm .
+Bed010.E.dialogueact587	1852.6	1856.6	E	Grad	s	-1	0	And , um , they found statistically very significant differences in English and German ,
+Bed010.E.dialogueact588	1856.81	1857.8	E	Grad	%--	-1	0	so I {disfmarker} I {disfmarker} I {disfmarker}
+Bed010.E.dialogueact589	1857.8	1863.65	E	Grad	s	-1	0	It might be , since there are only a finite number of ways of doing it , that {disfmarker} that German might be more like Hebrew in that respect .
+Bed010.B.dialogueact591	1864.17	1864.82	B	Grad	b	-1	0	Hmm .
+Bed010.E.dialogueact590	1864.11	1867.83	E	Grad	s	-1	0	The solution they proposed was that it was due to syntactic factors .
+Bed010.A.dialogueact592	1868.51	1869.9	A	PhD	s^arp.%--	-1	0	That {disfmarker} but it wasn't {disfmarker} was {disfmarker}
+Bed010.E.dialogueact593	1869.42	1881.57	E	Grad	s	-1	0	That syntactic facto factors do {disfmarker} do play a role there , wh whether you 're more likely , you know , to develop uh , choices that lead you towards using uh intrinsic versus extrinsic reference frames .
+Bed010.A.dialogueact594	1870.6	1870.8	A	PhD	%	-1	0	Right .
+Bed010.A.dialogueact595	1871.08	1871.28	A	PhD	b	-1	0	Mm - hmm .
+Bed010.A.dialogueact596	1872.56	1872.76	A	PhD	b	-1	0	Right .
+Bed010.B.dialogueact598	1882.72	1885.67	B	Grad	s.%--	-1	0	I mean , it seems to me that you can get both in {disfmarker} in English depending o
+Bed010.C.dialogueact597	1882.32	1882.64	C	Professor	b	-1	0	Hmm .
+Bed010.B.dialogueact599	1885.67	1888.04	B	Grad	s.%--	-1	0	You know , like , " in front of the car " could you know {disfmarker} Like ,
+Bed010.B.dialogueact600	1888.68	1892.41	B	Grad	s	-1	0	here 's the car sideways to me in between me and the car or something 's in front of the car , or whatever .
+Bed010.B.dialogueact601	1892.41	1893.04	B	Grad	s	-1	0	I could see that ,
+Bed010.C.dialogueact602	1892.41	1892.85	C	Professor	s^aa	-1	0	Absolutely .
+Bed010.B.dialogueact603	1893.04	1893.26	B	Grad	fh	-1	0	but {disfmarker}
+Bed010.B.dialogueact604	1894.47	1898.99	B	Grad	s^tc	-1	0	But anyway , so you know , I mean , this was {disfmarker} this was a {disfmarker} a very good talk on those kinds of issues and so on .
+Bed010.B.dialogueact605	1898.99	1899.54	B	Grad	fh	-1	0	So uh .
+Bed010.E.dialogueact606	1900.69	1906.91	E	Grad	s^cc	+1	0	I can also give you uh , a pointer to a paper of mine which is the {disfmarker} the ultimate taxonomy of reference frames .
+Bed010.B.dialogueact607	1906.85	1907.44	B	Grad	s^ba	-1	0	Alright !
+Bed010.B.dialogueact609	1907.44	1907.76	B	Grad	s^ba	-1	0	Cool !
+Bed010.E.dialogueact608	1907.06	1907.38	E	Grad	fh	-1	0	So .
+Bed010.C.dialogueact611	1908.96	1909.47	C	Professor	b	-1	0	Oh .
+Bed010.E.dialogueact610	1908.9	1911.06	E	Grad	s	-1	0	I 'm the only person in the world who actually knows how it works .
+Bed010.C.dialogueact612	1911.99	1912.26	C	Professor	s^bk	-1	0	Oh .
+Bed010.E.dialogueact613	1912.35	1912.86	E	Grad	s^e	-1	0	Not really .
+Bed010.C.dialogueact614	1914.1	1914.27	C	Professor	s^ba	-1	0	Great .
+Bed010.C.dialogueact615	1914.27	1915.05	C	Professor	s	-1	0	No , I 've not seen that .
+Bed010.A.dialogueact617	1916.5	1918.49	A	PhD	qw	-1	0	What do you mean . Um . " reference frames " ?
+Bed010.E.dialogueact616	1916.33	1917.01	E	Grad	s.%-	-1	0	It 's called a {disfmarker}
+Bed010.A.dialogueact618	1918.49	1921.55	A	PhD	fh	-1	0	uh uh
+Bed010.E.dialogueact619	1919.0	1921.21	E	Grad	s	-1	0	It 's {disfmarker} it 's spatial reference frames .
+Bed010.E.dialogueact620	1921.21	1922.24	E	Grad	s.%--	-1	0	You actually have only {disfmarker}
+Bed010.E.dialogueact621	1922.96	1926.1	E	Grad	h|s.%--	-1	0	Um . If you wanna have a {disfmarker}
+Bed010.E.dialogueact622	1926.54	1928.23	E	Grad	s.%--	-1	0	This is usually um {disfmarker}
+Bed010.E.dialogueact623	1929.15	1930.52	E	Grad	s	-1	0	I should {disfmarker} there should be an " L " , though .
+Bed010.E.dialogueact624	1931.94	1934.01	E	Grad	s	-1	0	Well actually you have {disfmarker} only have two choices .
+Bed010.E.dialogueact625	1934.01	1936.97	E	Grad	s	-1	0	You can either do a two - point or a three - point
+Bed010.E.dialogueact626	1938.33	1942.12	E	Grad	qy^rt	-1	0	which is you You 're familiar with th with the " origo " ?
+Bed010.E.dialogueact627	1942.35	1945.81	E	Grad	s	-1	0	where that 's the center {disfmarker} " Origo " is the center of the f frame of reference .
+Bed010.B.dialogueact629	1946.27	1946.65	B	Grad	b	-1	0	Hmm .
+Bed010.E.dialogueact628	1946.21	1951.27	E	Grad	s	-1	0	And then you have the reference object and the object to be localized .
+Bed010.B.dialogueact630	1952.17	1952.44	B	Grad	b	-1	0	Hmm .
+Bed010.A.dialogueact632	1953.13	1953.6	A	PhD	b	-1	0	Mm - hmm .
+Bed010.E.dialogueact631	1952.78	1953.07	E	Grad	qy^d^f^rt	-1	0	OK ?
+Bed010.E.dialogueact633	1953.34	1960.13	E	Grad	s	-1	0	In some cases the origo is the same as the reference object .
+Bed010.C.dialogueact635	1961.1	1962.78	C	Professor	s^bu	-1	0	So that would be " origin " in English ,
+Bed010.F.dialogueact634	1961.06	1961.68	F	Grad	s.%-	-1	0	This was like {disfmarker}
+Bed010.B.dialogueact636	1962.14	1962.82	B	Grad	s^aa^r	-1	0	The origin .
+Bed010.A.dialogueact639	1963.27	1963.5	A	PhD	s^aa	-1	0	Right
+Bed010.B.dialogueact638	1962.99	1963.06	B	Grad	b	-1	0	Yeah .
+Bed010.C.dialogueact637	1962.89	1963.15	C	Professor	qy^d^g^rt	-1	0	right ?
+Bed010.E.dialogueact640	1964.33	1966.54	E	Grad	s	-1	0	" Origo " is a Terminus technikus . in that sense ,
+Bed010.E.dialogueact641	1966.54	1967.97	E	Grad	s	-1	0	that 's even used in the English literature .
+Bed010.E.dialogueact642	1968.29	1968.77	E	Grad	s	-1	0	" Origo . "
+Bed010.B.dialogueact643	1969.37	1969.72	B	Grad	s^bk	-1	0	Oh , OK .
+Bed010.B.dialogueact645	1970.12	1970.6	B	Grad	s^rt	-1	0	I never heard it .
+Bed010.C.dialogueact644	1969.98	1970.25	C	Professor	s^bk^rt	-1	0	Alright .
+Bed010.A.dialogueact646	1970.86	1971.07	A	PhD	b	-1	0	OK .
+Bed010.B.dialogueact647	1970.9	1971.15	B	Grad	s^bk^rt	-1	0	OK .
+Bed010.E.dialogueact648	1971.5	1973.77	E	Grad	fh	-1	0	And um , so ,
+Bed010.E.dialogueact649	1974.52	1975.79	E	Grad	s	-1	0	this video tape is in front of me .
+Bed010.B.dialogueact651	1976.14	1976.42	B	Grad	b	-1	0	Mm - hmm .
+Bed010.E.dialogueact650	1976.11	1978.32	E	Grad	s	-1	0	I 'm the origo and I 'm also the reference object .
+Bed010.B.dialogueact652	1978.32	1978.77	B	Grad	b	-1	0	Mm - hmm .
+Bed010.A.dialogueact654	1978.98	1979.14	A	PhD	b	-1	0	Right .
+Bed010.E.dialogueact653	1978.77	1979.65	E	Grad	s	-1	0	Those are two - point .
+Bed010.C.dialogueact655	1980.24	1980.83	C	Professor	b	-1	0	Mm - hmm .
+Bed010.E.dialogueact656	1980.99	1988.74	E	Grad	s	-1	0	And three - point relations is if something has an intrinsic front side like this chair then your f shoe is behind the chair .
+Bed010.C.dialogueact657	1985.47	1985.64	C	Professor	b	-1	0	Yeah .
+Bed010.B.dialogueact658	1988.77	1989.1	B	Grad	b	-1	0	Mm - hmm .
+Bed010.E.dialogueact659	1990.34	1996.93	E	Grad	s	-1	0	And , reference object and {disfmarker} Um . No , from {disfmarker} from my point of view your shoe is left of the chair .
+Bed010.B.dialogueact660	1995.86	1996.1	B	Grad	fg	-1	0	Right .
+Bed010.B.dialogueact661	1997.11	2004.42	B	Grad	s	-1	0	You {disfmarker} you can actually say things like , um , " it 's behind the tree from me " or something like that , I think , in {disfmarker} in {disfmarker} in certain circumstances in English ,
+Bed010.B.dialogueact662	2004.42	2004.66	B	Grad	qy^d^g^rt	-1	0	right ?
+Bed010.B.dialogueact664	2004.66	2007.09	B	Grad	s.%--	-1	0	As sort of " from where I 'm standing it would appear that " {disfmarker}
+Bed010.E.dialogueact663	2004.59	2004.75	E	Grad	s^aa	-1	0	Yeah .
+Bed010.E.dialogueact665	2007.15	2007.37	E	Grad	b	-1	0	Yeah .
+Bed010.E.dialogueact666	2008.65	2009.0	E	Grad	fg	-1	0	So ,
+Bed010.F.dialogueact667	2008.7	2010.65	F	Grad	s	-1	0	Looks a little bit like Reichenbach for time .
+Bed010.C.dialogueact668	2011.09	2011.79	C	Professor	s^na	-1	0	Yeah , it sounds like it ,
+Bed010.C.dialogueact669	2011.79	2012.23	C	Professor	qy^d^g^rt	-1	0	doesn't it ,
+Bed010.B.dialogueact672	2012.64	2012.84	B	Grad	b	-1	0	Yeah .
+Bed010.C.dialogueact671	2012.23	2012.54	C	Professor	b	-1	0	yeah .
+Bed010.F.dialogueact670	2012.15	2012.85	F	Grad	s^aa^m	-1	0	It 's a lot like it .
+Bed010.E.dialogueact673	2013.16	2014.64	E	Grad	s.%-	-1	0	And then {disfmarker} and then here you {disfmarker}
+Bed010.F.dialogueact674	2013.23	2013.83	F	Grad	fh	-1	0	Um .
+Bed010.E.dialogueact675	2014.78	2019.77	E	Grad	s	+1	1	On this scale , you have it either be ego or allocentric .
+Bed010.C.dialogueact676	2020.66	2021.27	C	Professor	s^aa^rt	-1	0	Mm - hmm .
+Bed010.E.dialogueact677	2022.04	2025.34	E	Grad	s	-1	0	And that 's {comment} {disfmarker} that 's basically it .
+Bed010.E.dialogueact678	2025.6	2029.7	E	Grad	fh|s	-1	0	So . Egocentric two - point , egocentric three - point , or you can have allocentric .
+Bed010.B.dialogueact680	2030.56	2031.01	B	Grad	s^bk	-1	0	Oh , OK .
+Bed010.E.dialogueact679	2030.17	2036.05	E	Grad	fh|s	-1	0	So , " as seen from the church , the town hall is right of that um , fire station " .
+Bed010.E.dialogueact681	2036.23	2038.82	E	Grad	fh|s.%-	-1	0	aa - huh {comment} It 's hardly ever used but it 's w
+Bed010.A.dialogueact682	2038.29	2040.17	A	PhD	s	-1	0	I 'd love to see it if you {disfmarker} if you have a copy kind of .
+Bed010.A.dialogueact686	2040.17	2040.34	A	PhD	b	-1	0	Uh .
+Bed010.B.dialogueact685	2040.09	2040.47	B	Grad	b	-1	0	Yeah .
+Bed010.C.dialogueact683	2039.83	2039.92	C	Professor	fg	-1	0	Yeah .
+Bed010.C.dialogueact684	2039.92	2042.41	C	Professor	s	-1	0	I see this is {disfmarker} this is getting into Ami 's thing .
+Bed010.A.dialogueact689	2043.38	2043.66	A	PhD	%	-1	0	Here
+Bed010.B.dialogueact687	2043.0	2043.29	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact688	2043.03	2044.18	C	Professor	s	-1	0	He 's {disfmarker} he 's very interested in that .
+Bed010.E.dialogueact690	2044.35	2044.6	E	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact691	2044.95	2045.19	C	Professor	fh	-1	0	So .
+Bed010.B.dialogueact693	2045.61	2045.85	B	Grad	s	-1	0	Me too .
+Bed010.C.dialogueact692	2045.52	2046.06	C	Professor	fh	-1	0	Uh . Yeah .
+Bed010.C.dialogueact694	2046.06	2047.8	C	Professor	qw	-1	0	Well , why don't you just put it on the web page ?
+Bed010.C.dialogueact695	2048.07	2048.91	C	Professor	s.%--	-1	0	There 's this EDU {disfmarker}
+Bed010.C.dialogueact696	2048.91	2049.13	C	Professor	qy^d^g^rt	-1	0	Right ?
+Bed010.E.dialogueact697	2049.32	2049.5	E	Grad	fg	-1	0	Yeah
+Bed010.E.dialogueact698	2049.5	2050.67	E	Grad	s.%--	-1	0	it 's {disfmarker} or {disfmarker} or just {disfmarker}
+Bed010.E.dialogueact699	2050.67	2050.9	E	Grad	s^bk	-1	0	Yeah .
+Bed010.C.dialogueact701	2051.41	2051.96	C	Professor	s	-1	0	Or a link to it .
+Bed010.E.dialogueact700	2051.21	2053.35	E	Grad	s	-1	0	It 's also all on my {disfmarker} my home page at EML .
+Bed010.E.dialogueact702	2053.46	2055.5	E	Grad	s	+1	0	It 's called " An Anatomy of a Spatial Description " .
+Bed010.C.dialogueact703	2054.04	2054.24	C	Professor	%-	-1	0	Just
+Bed010.E.dialogueact704	2055.5	2056.55	E	Grad	s^cc	-1	0	But I 'll send that link .
+Bed010.A.dialogueact705	2056.8	2057.05	A	PhD	b	-1	0	OK , great .
+Bed010.C.dialogueact706	2057.11	2057.98	C	Professor	s^cs	-1	0	Maybe just put a link on .
+Bed010.C.dialogueact708	2057.98	2058.13	C	Professor	fh	-1	0	Yeah .
+Bed010.E.dialogueact707	2057.67	2057.99	E	Grad	s^bk	-1	0	Yep .
+Bed010.C.dialogueact710	2058.61	2074.26	C	Professor	fg|s	+1	1	By the way , there {disfmarker} something that I didn't know until about a week ago or so , is apparently , there are separate brain areas for things within reach , and things that are out of reach .
+Bed010.E.dialogueact709	2058.15	2058.29	E	Grad	fh	-1	0	Yep .
+Bed010.B.dialogueact712	2074.63	2075.06	B	Grad	b	-1	0	Huh .
+Bed010.C.dialogueact711	2074.61	2081.41	C	Professor	s	-1	0	So there 's {disfmarker} there 's uh all this linguistic stuff about you know , near and far , or yon and {disfmarker} and so forth .
+Bed010.B.dialogueact713	2080.69	2080.84	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact714	2081.67	2083.67	C	Professor	s	-1	0	So this is all {disfmarker} This is {disfmarker} There 's this linguistic facts .
+Bed010.C.dialogueact715	2083.67	2087.6	C	Professor	s	-1	0	But apparently , the {disfmarker} Uh . Here 's the way the findings go .
+Bed010.C.dialogueact716	2088.25	2096.3	C	Professor	s	-1	0	That , you know they do MRI , and {disfmarker} and if you 're uh {disfmarker} got something within reach then there 's one of your areas lights up ,
+Bed010.C.dialogueact717	2096.3	2098.98	C	Professor	s	-1	0	and if something 's out of reach uh a different one .
+Bed010.C.dialogueact718	2100.07	2105.06	C	Professor	s^ba	-1	0	But here 's the {disfmarker} the amazing result , um , they say .
+Bed010.C.dialogueact719	2105.87	2112.99	C	Professor	s	-1	0	You get someone with a {disfmarker} with a deficit so that they have a perfectly normal ability at distance things .
+Bed010.C.dialogueact720	2112.99	2115.76	C	Professor	fh|s	-1	0	So the s typical task is subdivision .
+Bed010.C.dialogueact721	2115.76	2119.99	C	Professor	s:qw	-1	0	So there 's a {disfmarker} a line on the wall over there , and you give them a laser pointer , and you say , " Where 's the midpoint ? "
+Bed010.C.dialogueact722	2119.99	2120.79	C	Professor	s	-1	0	And they do fine .
+Bed010.C.dialogueact723	2121.66	2123.48	C	Professor	s	-1	0	If you give them the line , and they have to touch it ,
+Bed010.C.dialogueact724	2123.61	2124.16	C	Professor	s^e	-1	0	they can't .
+Bed010.C.dialogueact725	2124.76	2127.26	C	Professor	s	-1	0	There 's just that part of the brain isn't functioning , so they can't do that .
+Bed010.C.dialogueact726	2128.01	2129.07	C	Professor	s	-1	0	Here 's the real experiment .
+Bed010.C.dialogueact727	2129.63	2131.98	C	Professor	s:qw	-1	0	The same thing on the wall , you give them a laser , " where is it ? " ,
+Bed010.B.dialogueact729	2132.85	2133.09	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact728	2132.43	2132.8	C	Professor	s^e	-1	0	they do it .
+Bed010.C.dialogueact730	2133.05	2135.15	C	Professor	s:s	-1	0	Give them a stick , long stick , and say " do it " ,
+Bed010.C.dialogueact731	2135.15	2135.89	C	Professor	s^e	-1	0	they can't do it .
+Bed010.C.dialogueact732	2136.74	2142.39	C	Professor	s	-1	0	So there 's a remapping of distant space into nearby space .
+Bed010.A.dialogueact733	2141.68	2141.86	A	PhD	b	-1	0	Right .
+Bed010.A.dialogueact734	2143.34	2143.93	A	PhD	s^bu.%-	-1	0	So they doubled {disfmarker}
+Bed010.A.dialogueact736	2144.16	2145.45	A	PhD	s.%-	-1	0	the {disfmarker} the end {disfmarker} the end of this {disfmarker}
+Bed010.F.dialogueact735	2143.75	2144.88	F	Grad	qy^bu^d^rt	-1	0	Because it 's within reach now ?
+Bed010.B.dialogueact738	2145.35	2145.62	B	Grad	s^aa	-1	0	Yeah ,
+Bed010.C.dialogueact737	2145.17	2149.62	C	Professor	s^ng	-1	0	It 's not within reach and you use the Within - Reach uh , mechanism .
+Bed010.B.dialogueact740	2146.19	2146.4	B	Grad	b	-1	0	yeah .
+Bed010.F.dialogueact739	2146.17	2147.23	F	Grad	s^fe	-1	0	Oh . Wow .
+Bed010.B.dialogueact741	2148.87	2149.29	B	Grad	s^2	-1	0	Circuits .
+Bed010.A.dialogueact743	2150.03	2150.61	A	PhD	b	-1	0	Right .
+Bed010.C.dialogueact742	2149.9	2151.14	C	Professor	s^cc	-1	0	So I 'll d I 'll dig you up this reference .
+Bed010.B.dialogueact744	2151.45	2151.87	B	Grad	s^ba	-1	0	That 's cool .
+Bed010.C.dialogueact745	2151.48	2153.57	C	Professor	s.%--	-1	0	And so this doe This is , uh {disfmarker}
+Bed010.C.dialogueact746	2153.57	2155.97	C	Professor	s	-1	0	First of all , it explains something that I 've always wondered about
+Bed010.C.dialogueact747	2156.59	2159.23	C	Professor	s^cc	-1	0	and I 'll do this {disfmarker} this test on you guys as well .
+Bed010.C.dialogueact748	2159.61	2159.87	C	Professor	fh	-1	0	So .
+Bed010.C.dialogueact749	2160.38	2173.75	C	Professor	fh|s	-1	0	Uh . How - I have had an experience , not often , but a certain number of times , when , for example , I 'm working with a tool , a screwdriver or something , for a long time , I start feeling the tip directly .
+Bed010.C.dialogueact750	2174.36	2175.26	C	Professor	s^e	-1	0	Not indirectly ,
+Bed010.C.dialogueact751	2175.26	2177.6	C	Professor	s	-1	0	but you actually can feel the tip .
+Bed010.B.dialogueact752	2176.04	2176.25	B	Grad	b	-1	0	Yeah
+Bed010.B.dialogueact753	2176.4	2176.63	B	Grad	b	-1	0	yeah .
+Bed010.C.dialogueact754	2177.6	2190.74	C	Professor	s	-1	0	And people who are uh accomplished violinists and stuff like that , claim they also have this kind of thing where you get a direct sensation of , physical sensation , of the end affector .
+Bed010.B.dialogueact755	2180.97	2181.41	B	Grad	b	-1	0	Yeah .
+Bed010.B.dialogueact756	2189.73	2190.97	B	Grad	s^2	-1	0	What 's going on at the end of the tool ,
+Bed010.A.dialogueact758	2191.36	2193.86	A	PhD	s	-1	0	The ext the {disfmarker} the {disfmarker} The extension ,
+Bed010.B.dialogueact757	2190.97	2191.08	B	Grad	b	-1	0	yeah .
+Bed010.C.dialogueact759	2191.5	2191.67	C	Professor	qw^br^d^rt	-1	0	Huh ?
+Bed010.B.dialogueact760	2192.0	2193.6	B	Grad	s^r	-1	0	What 's going on at the end of the tool , or whatever .
+Bed010.C.dialogueact761	2193.13	2193.27	C	Professor	s^aa	-1	0	Yeah ,
+Bed010.C.dialogueact762	2193.27	2193.84	C	Professor	%-	-1	0	within {disfmarker}
+Bed010.A.dialogueact763	2193.86	2194.05	A	PhD	s^aa	-1	0	right .
+Bed010.C.dialogueact764	2194.31	2194.57	C	Professor	qw^br^d^rt	-1	0	Huh ?
+Bed010.A.dialogueact765	2194.89	2196.5	A	PhD	s^r	-1	0	The extension of {disfmarker} of your hand , right .
+Bed010.C.dialogueact766	2196.21	2196.36	C	Professor	s^aa	-1	0	Yeah ,
+Bed010.C.dialogueact767	2196.67	2196.85	C	Professor	s^aa	-1	0	right .
+Bed010.C.dialogueact768	2196.85	2197.84	C	Professor	qy^rt	-1	0	Have you hav y h had this ?
+Bed010.A.dialogueact769	2197.39	2197.59	A	PhD	%	-1	0	The {disfmarker}
+Bed010.A.dialogueact770	2198.78	2199.54	A	PhD	s^am	-1	0	I {disfmarker} I think so .
+Bed010.A.dialogueact771	2199.54	2204.44	A	PhD	s^e	-1	0	I mean i i it 's not exactly the th same thing , but {disfmarker} but s it {disfmarker} it {disfmarker} it 's getting close to that .
+Bed010.B.dialogueact773	2204.51	2204.93	B	Grad	b	-1	0	Yeah .
+Bed010.F.dialogueact772	2204.04	2205.4	F	Grad	qw	-1	0	W what does it feel like ?
+Bed010.C.dialogueact774	2206.19	2217.45	C	Professor	s	-1	0	Oh i it feels like your {disfmarker} as if your uh neurons had extended themselves out to this tool , and you 're feeling forces on it and so forth
+Bed010.C.dialogueact775	2217.45	2219.52	C	Professor	s	-1	0	and {disfmarker} and you deal directly with it .
+Bed010.A.dialogueact776	2220.63	2228.11	A	PhD	s	-1	0	I once {disfmarker} I {disfmarker} I was playing you know with those um uh devices that allow you to manipulate objects when it 's dangerous to get close ?
+Bed010.A.dialogueact779	2228.28	2229.98	A	PhD	s	-1	0	So you can insert your hand something
+Bed010.B.dialogueact778	2228.05	2228.53	B	Grad	s^bk	-1	0	Oh , OK .
+Bed010.C.dialogueact777	2228.01	2229.1	C	Professor	s^bk	-1	0	Right , yeah {disfmarker} yeah {disfmarker} yeah .
+Bed010.C.dialogueact780	2229.82	2230.06	C	Professor	b	-1	0	Yeah .
+Bed010.A.dialogueact781	2230.38	2231.52	A	PhD	s.%--	-1	0	and there 's a correspondence between {disfmarker}
+Bed010.C.dialogueact782	2231.75	2231.9	C	Professor	b	-1	0	Yeah .
+Bed010.A.dialogueact783	2232.28	2232.93	A	PhD	s	-1	0	So I played with it .
+Bed010.A.dialogueact784	2232.93	2235.56	A	PhD	s	-1	0	After a while , you don't feel the difference anymore .
+Bed010.A.dialogueact786	2235.81	2236.63	A	PhD	s.%-	-1	0	I {disfmarker} I mean it 's kind of {disfmarker}
+Bed010.B.dialogueact787	2235.96	2236.31	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact785	2235.57	2236.38	C	Professor	s^aa	-1	0	Yeah , right .
+Bed010.A.dialogueact788	2237.54	2240.6	A	PhD	s	-1	0	Very {disfmarker} kind of {disfmarker} you stop back and suddenly it goes away
+Bed010.A.dialogueact789	2240.6	2243.19	A	PhD	s	-1	0	and you have to kind of work again to recapture it , but yeah .
+Bed010.B.dialogueact790	2240.63	2241.05	B	Grad	b	-1	0	Yeah .
+Bed010.C.dialogueact791	2240.84	2241.65	C	Professor	b	-1	0	Right ,
+Bed010.C.dialogueact792	2243.39	2249.57	C	Professor	fg|s^tc	-1	0	Yeah , so anyway , so {disfmarker} So this was the first actual experimental evidence I 'd seen that was consistent with this anecdotal stuff .
+Bed010.B.dialogueact793	2244.84	2245.39	B	Grad	s^ba	-1	0	That 's cool .
+Bed010.C.dialogueact794	2250.09	2257.38	C	Professor	s	-1	0	And of course it makes a lovely def uh story about why languages uh , make this distinction .
+Bed010.C.dialogueact795	2257.38	2259.37	C	Professor	s	-1	0	Of course there are behavioral differences too .
+Bed010.C.dialogueact796	2259.37	2261.44	C	Professor	s	-1	0	Things you can reach are really quite different than things you can't .
+Bed010.B.dialogueact797	2261.61	2262.06	B	Grad	b	-1	0	Yeah .
+Bed010.C.dialogueact798	2261.86	2266.27	C	Professor	s	-1	0	But there seems to be an actu really deep embodied neural difference .
+Bed010.C.dialogueact799	2266.27	2267.67	C	Professor	s.%--	-1	0	And i this is , um {disfmarker}
+Bed010.C.dialogueact800	2267.92	2270.22	C	Professor	s.%-	-1	0	So . In addition to the e
+Bed010.E.dialogueact801	2269.88	2271.87	E	Grad	s	-1	0	This is more proximal - distal .
+Bed010.C.dialogueact802	2271.14	2271.91	C	Professor	s^aa	-1	0	Yeah uh exactly .
+Bed010.C.dialogueact803	2271.91	2283.8	C	Professor	s	+1	1	So in addition to e ego and allocentric uh which appear all over the place , you also apparently have this proximal - distal thing which is very deeply uh embedded .
+Bed010.C.dialogueact804	2284.59	2284.92	C	Professor	%	-1	0	S
+Bed010.E.dialogueact805	2285.04	2286.46	E	Grad	s.%--	-1	0	Well , Dan Montello sort of ,
+Bed010.E.dialogueact806	2286.46	2291.09	E	Grad	s	-1	0	he {disfmarker} he does the uh uh {disfmarker} th the cognitive map world , down in Santa Barbara .
+Bed010.E.dialogueact807	2291.89	2294.03	E	Grad	s	-1	0	And he {disfmarker} he always talks about these {disfmarker}
+Bed010.E.dialogueact808	2294.49	2295.31	E	Grad	s.%--	-1	0	He {disfmarker} he already {disfmarker} well {disfmarker}
+Bed010.E.dialogueact809	2295.31	2303.8	E	Grad	s	-1	0	i probably most likely without knowing this {disfmarker} this evidence uh is talking about these small scale spaces that you can manipulate versus large scale environmental spaces .
+Bed010.C.dialogueact810	2297.69	2297.94	C	Professor	b	-1	0	Yeah .
+Bed010.C.dialogueact811	2302.71	2307.33	C	Professor	s	-1	0	Well there 's {disfmarker} there 's uh been a lot of behavioral things o on this , but that was the first neur neuro - physiological thing I saw .
+Bed010.C.dialogueact812	2308.96	2310.99	C	Professor	s^cc^tc	-1	0	Anyway yeah , so we 'll {disfmarker} we 'll look at this .
+Bed010.C.dialogueact813	2311.9	2314.85	C	Professor	fh|s	-1	0	And . So , all of these issues now {disfmarker} are now starting to come up .
+Bed010.C.dialogueact814	2314.85	2316.41	C	Professor	s	-1	0	So , now {disfmarker} we 're now done with demos .
+Bed010.C.dialogueact815	2316.41	2317.32	C	Professor	s	-1	0	We 're starting to do science ,
+Bed010.C.dialogueact816	2317.32	2317.67	C	Professor	qy^d^g^rt	-1	0	right ?
+Bed010.C.dialogueact817	2317.67	2329.55	C	Professor	fh|s	+1	1	And so these issues about uh , reference , and {disfmarker} spatial {comment} reference , discourse reference , uh - uh - uh - uh {comment} all this sort of stuff , uh , deixis which is part of what you were talking about ,
+Bed010.B.dialogueact818	2325.2	2325.6	B	Grad	b	-1	0	Mm - hmm .
+Bed010.B.dialogueact819	2329.67	2330.01	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact820	2330.01	2336.63	C	Professor	fh|s	-1	0	um {disfmarker} So , all of this stuff is coming up essentially starting now .
+Bed010.C.dialogueact821	2337.5	2338.39	C	Professor	s^co	+1	1	So we gotta do all this .
+Bed010.C.dialogueact822	2339.01	2339.91	C	Professor	s^t	-1	0	So there 's that .
+Bed010.C.dialogueact823	2339.91	2344.54	C	Professor	s^t	+1	0	And then there 's also a set of system things that come up .
+Bed010.C.dialogueact824	2344.98	2349.09	C	Professor	s:s	+1	2	So " OK , we 're not using their system . That means we need our system . "
+Bed010.B.dialogueact825	2349.12	2349.48	B	Grad	s^aa	-1	0	Mm - hmm .
+Bed010.C.dialogueact826	2349.15	2349.39	C	Professor	qy^d^g^rt	-1	0	Right ?
+Bed010.B.dialogueact828	2349.85	2350.13	B	Grad	s^aa	-1	0	Yeah .
+Bed010.C.dialogueact827	2349.39	2350.49	C	Professor	s	-1	0	It {disfmarker} it follows .
+Bed010.C.dialogueact829	2350.9	2362.23	C	Professor	fh|s^cc	+1	1	And so , uh , in addition to the business about just getting the linguistics right , and the formalism and stuff , we 're actually gonna build something
+Bed010.C.dialogueact830	2363.1	2369.99	C	Professor	fh|s	-1	0	and uh , Johno is point person on the parser , analyzer , whatever that is ,
+Bed010.C.dialogueact831	2370.55	2376.96	C	Professor	fh|s	+1	0	and we 're gonna start on that in parallel with the um , the grammar stuff .
+Bed010.B.dialogueact833	2377.49	2377.8	B	Grad	b	-1	0	Alright .
+Bed010.C.dialogueact832	2377.4	2383.62	C	Professor	s	+1	1	But to do that we 're gonna need to make some decisions like ontology ,
+Bed010.C.dialogueact834	2384.69	2398.81	C	Professor	fh|s.%--:qy.%--	-1	0	so , um {disfmarker} And so this is another thing where we 're gonna , you know , have to get involved and make s relatively early I think , make some decisions on uh , " is there an ontology API that {disfmarker} that " {disfmarker}
+Bed010.C.dialogueact835	2398.81	2401.54	C	Professor	s	-1	0	There 's a sort of standard way of getting things from ontologies
+Bed010.C.dialogueact836	2401.54	2404.07	C	Professor	s	-1	0	and we build the parser and stuff around that ,
+Bed010.C.dialogueact837	2404.19	2411.95	C	Professor	qy	-1	0	or is there a particular ontology that we 're gonna standardize on , and if so {disfmarker} For example , is there something that we can use there .
+Bed010.C.dialogueact838	2412.37	2423.96	C	Professor	qy	+1	1	i Does uh either the uh SmartKom project or one of the projects at EML have something that we can just p pull out , for that .
+Bed010.C.dialogueact839	2425.39	2433.71	C	Professor	fh|s	-1	0	Uh , so there are gonna be some {disfmarker} some {disfmarker} some things like that , which are not science but system .
+Bed010.C.dialogueact840	2435.2	2436.18	C	Professor	s	-1	0	But we aren't gonna ignore those
+Bed010.C.dialogueact841	2436.18	2444.37	C	Professor	s^df	+1	1	cuz we 're {disfmarker} we 're not only going {disfmarker} The plan is not only to lay out this thing , but to actually uh build some of it .
+Bed010.C.dialogueact842	2445.2	2447.05	C	Professor	s	-1	0	And how much we build , and {disfmarker} and so forth .
+Bed010.B.dialogueact843	2447.17	2447.46	B	Grad	%--	-1	0	I {disfmarker}
+Bed010.C.dialogueact844	2484.15	2487.8	C	Professor	fh|s.%--	-1	0	Uh . Part of it , if it works right , is wh
+Bed010.C.dialogueact845	2487.8	2503.69	C	Professor	s	+1	1	It looks like we 're now in a position that the construction analyzer that we want for this applied project can be the same as the construction analyzer that Nancy needs for the child language modeling .
+Bed010.C.dialogueact846	2504.29	2505.66	C	Professor	s	-1	0	So . It 's always been out of phase
+Bed010.C.dialogueact847	2505.66	2510.14	C	Professor	s	-1	0	but it now seems that um , there 's a good shot at that .
+Bed010.C.dialogueact848	2510.45	2511.51	C	Professor	s	-1	0	So we 've talked about it ,
+Bed010.C.dialogueact849	2511.63	2517.44	C	Professor	s	-1	0	and the hope is that we can make these things the same thing ,
+Bed010.B.dialogueact850	2517.84	2518.12	B	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact851	2518.47	2522.23	C	Professor	s	-1	0	and of course it 's only w In both cases it 's only one piece of a bigger system .
+Bed010.B.dialogueact852	2522.35	2522.66	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact853	2522.74	2526.32	C	Professor	s	-1	0	But it would be nice if that piece were exactly the same piece .
+Bed010.B.dialogueact855	2526.61	2526.87	B	Grad	b	-1	0	Right .
+Bed010.C.dialogueact854	2526.32	2530.38	C	Professor	s	-1	0	It was just this uh construction analyzer .
+Bed010.C.dialogueact856	2531.17	2535.76	C	Professor	fh|s	-1	0	And so we think {disfmarker} we think we have a shot at {disfmarker} at that .
+Bed010.B.dialogueact857	2535.98	2536.2	B	Grad	b	-1	0	OK .
+Bed010.C.dialogueact858	2549.36	2549.89	C	Professor	s.%--	-1	0	So . The for
+Bed010.C.dialogueact859	2549.89	2550.22	C	Professor	fh	-1	0	So .
+Bed010.C.dialogueact860	2550.45	2553.82	C	Professor	s.%--	+1	0	To {disfmarker} to come full circle on that , this formalization task ,
+Bed010.C.dialogueact861	2554.3	2554.64	C	Professor	qy^d^f	-1	0	OK ?
+Bed010.C.dialogueact862	2555.11	2565.37	C	Professor	s^e.%-	+1	0	is trying to get the formalism into {disfmarker} into a shape where it can actually uh
+Bed010.B.dialogueact863	2564.03	2564.24	B	Grad	fg	-1	0	Yeah .
+Bed010.B.dialogueact864	2565.18	2566.85	B	Grad	s^2	+1	0	Be of use to someone who 's trying to do this ,
+Bed010.B.dialogueact865	2566.85	2566.97	B	Grad	qy^d^g^rt	-1	0	right ?
+Bed010.C.dialogueact866	2566.85	2567.33	C	Professor	s^aa	-1	0	d Well , yeah ,
+Bed010.C.dialogueact867	2567.43	2570.2	C	Professor	s	-1	0	where it actually is {disfmarker} is {disfmarker} covers the whole range of things .
+Bed010.C.dialogueact868	2570.95	2579.56	C	Professor	s	-1	0	And the {disfmarker} the {disfmarker} the {disfmarker} the thing that got Mark into the worst trouble is he had a very ambitious thing he was trying to do ,
+Bed010.C.dialogueact869	2579.66	2585.97	C	Professor	s	-1	0	and he insisted on trying to do it with a limited set of mechanisms .
+Bed010.C.dialogueact870	2585.97	2588.47	C	Professor	s	-1	0	It turned out , inherently not to cover the space .
+Bed010.B.dialogueact871	2588.64	2588.92	B	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact872	2589.07	2591.9	C	Professor	s	-1	0	And it just {disfmarker} it was just terribly frustrating for him ,
+Bed010.B.dialogueact873	2592.05	2592.3	B	Grad	b	-1	0	Yeah .
+Bed010.C.dialogueact874	2592.07	2599.25	C	Professor	fh|s	-1	0	and he seemed fully committed to both sides of this i i irreconcilable thing .
+Bed010.B.dialogueact875	2596.46	2596.78	B	Grad	b	-1	0	I see .
+Bed010.B.dialogueact876	2598.38	2598.61	B	Grad	b	-1	0	Right .
+Bed010.C.dialogueact877	2599.75	2600.72	C	Professor	fh	-1	0	And .
+Bed010.C.dialogueact878	2602.09	2604.81	C	Professor	fh|s	-1	0	Uh . Johno is much more pragmatic .
+Bed010.B.dialogueact879	2605.09	2605.34	B	Grad	s^bk	-1	0	OK .
+Bed010.B.dialogueact881	2606.85	2607.29	B	Grad	s	-1	0	Good to know .
+Bed010.C.dialogueact880	2606.63	2606.84	C	Professor	qy^br^rt	-1	0	Uh . Huh ?
+Bed010.C.dialogueact882	2607.62	2608.31	C	Professor	s	-1	0	Is {disfmarker} This is true ,
+Bed010.C.dialogueact883	2608.31	2608.67	C	Professor	qy^d^g^rt	-1	0	is it not ?
+Bed010.D.dialogueact884	2608.81	2609.15	D	Grad	s^aa	-1	0	Yes .
+Bed010.C.dialogueact885	2609.4	2609.83	C	Professor	s^bk	-1	0	OK .
+Bed010.C.dialogueact886	2610.22	2617.33	C	Professor	s	-1	0	So there 's you know sort of , yeah , deep , really deep , emotional commitment to a certain theory being uh , complete .
+Bed010.B.dialogueact887	2615.04	2615.39	B	Grad	s^bk	-1	0	Oh , OK .
+Bed010.F.dialogueact888	2617.05	2618.63	F	Grad	qy^d^j^rt	-1	0	You don't have a hidden purist streak ?
+Bed010.D.dialogueact889	2618.94	2619.44	D	Grad	s^ar	-1	0	Oh no .
+Bed010.C.dialogueact891	2619.94	2622.88	C	Professor	s^j	-1	0	We - well it hasn't it {disfmarker} it certainly hasn't been observed , in any case .
+Bed010.F.dialogueact890	2619.58	2619.92	F	Grad	s^bk	-1	0	OK .
+Bed010.F.dialogueact892	2620.24	2620.72	F	Grad	s^df	-1	0	Just checking .
+Bed010.D.dialogueact893	2623.0	2623.6	D	Grad	s^aa	-1	0	No sir .
+Bed010.B.dialogueact894	2624.65	2624.95	B	Grad	s^bk	-1	0	Alright .
+Bed010.C.dialogueact895	2625.45	2628.45	C	Professor	fh|s	-1	0	Um . Now , you do , but that 's OK .
+Bed010.C.dialogueact896	2629.18	2630.36	C	Professor	fh|%-	-1	0	Uh . So . For {disfmarker} for {disfmarker}
+Bed010.B.dialogueact897	2630.19	2631.58	B	Grad	s^df^j	-1	0	Cuz I don't have to implement anything .
+Bed010.C.dialogueact898	2631.34	2632.12	C	Professor	s^aa	-1	0	Exactly right .
+Bed010.C.dialogueact900	2633.1	2633.5	C	Professor	s^aa	-1	0	Exactly .
+Bed010.F.dialogueact899	2632.83	2633.84	F	Grad	s^j	-1	0	I have a problem , then .
+Bed010.F.dialogueact901	2635.16	2638.38	F	Grad	s^j	-1	0	It 's {disfmarker} So . Whether I do depends on whether I 'm talking to him or him probably .
+Bed010.A.dialogueact902	2636.28	2636.58	A	PhD	b	-1	0	Hmm .
+Bed010.B.dialogueact903	2637.7	2638.25	B	Grad	s^aa	-1	0	Yeah , right .
+Bed010.C.dialogueact904	2638.09	2638.34	C	Professor	b	-1	0	Right .
+Bed010.C.dialogueact906	2638.71	2647.57	C	Professor	fg|s.%--	-1	0	Why {disfmarker} a actually , uh , the thing is , you {disfmarker} you do but , th the thing you have to im implement is so small that {disfmarker} Uh .
+Bed010.F.dialogueact905	2638.69	2639.57	F	Grad	s^e	-1	0	Which meeting I 'm in .
+Bed010.F.dialogueact907	2647.14	2649.17	F	Grad	s^2^j	-1	0	It 's OK to be purist within that context .
+Bed010.C.dialogueact908	2648.75	2649.49	C	Professor	s^aa^m	-1	0	Within that ,
+Bed010.C.dialogueact910	2649.49	2649.7	C	Professor	s^aa	-1	0	yeah ,
+Bed010.F.dialogueact909	2649.36	2649.55	F	Grad	s^bk	-1	0	Yes ,
+Bed010.C.dialogueact912	2650.16	2654.35	C	Professor	fh|s	-1	0	and uh , it 's {disfmarker} a and still , I think , you know , get something done .
+Bed010.F.dialogueact911	2649.79	2650.11	F	Grad	s^ba	-1	0	good .
+Bed010.B.dialogueact913	2652.28	2652.47	B	Grad	s^fe	-1	0	Cool !
+Bed010.C.dialogueact914	2655.39	2664.74	C	Professor	s	-1	0	But to try to do something upscale and purist Particularly if {disfmarker} if um what you 're purist about doesn't actually work , {vocalsound} is real hard .
+Bed010.F.dialogueact915	2655.71	2656.32	F	Grad	b.%	-1	0	Yay .
+Bed010.B.dialogueact916	2657.36	2657.72	B	Grad	b	-1	0	Mm - hmm .
+Bed010.B.dialogueact917	2664.17	2664.51	B	Grad	b	-1	0	Yeah .
+Bed010.C.dialogueact918	2665.42	2665.68	C	Professor	fh	-1	0	OK .
+Bed010.C.dialogueact919	2665.98	2672.97	C	Professor	s^t	-1	0	And then the other thing is while we 're doing this uh Robert 's gonna pick a piece of this space ,
+Bed010.A.dialogueact920	2667.47	2668.13	A	PhD	s	-1	0	It 's possible yeah .
+Bed010.B.dialogueact921	2673.17	2673.37	B	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact922	2673.56	2674.05	C	Professor	qy^d^f^m	-1	0	OK ,
+Bed010.C.dialogueact923	2674.75	2679.05	C	Professor	fh|s^e	-1	0	uh , for his absentee thesis .
+Bed010.C.dialogueact924	2679.29	2683.21	C	Professor	s	-1	0	I think you all know that {disfmarker} that you can just , in Germany {disfmarker} almost just send in your thesis .
+Bed010.B.dialogueact925	2682.54	2683.32	B	Grad	s^2^j	-1	0	Just a drive up .
+Bed010.B.dialogueact926	2683.32	2683.5	B	Grad	%	-1	0	Ca - chuk !
+Bed010.A.dialogueact928	2683.88	2684.17	A	PhD	fg	-1	0	Um
+Bed010.C.dialogueact927	2683.73	2684.29	C	Professor	s^aa	-1	0	Yeah right .
+Bed010.B.dialogueact929	2684.54	2685.81	B	Grad	s^j	-1	0	There you go .
+Bed010.C.dialogueact930	2684.89	2685.53	C	Professor	s^bk^j	-1	0	OK .
+Bed010.E.dialogueact931	2684.91	2692.21	E	Grad	s^j	-1	0	The - th There {disfmarker} there 's a drive - in thesis uh sh {vocalsound} joint over in Saarbruecken .
+Bed010.B.dialogueact932	2688.33	2688.78	B	Grad	s^aa	-1	0	Exactly .
+Bed010.B.dialogueact933	2688.78	2689.39	B	Grad	s^2^aa	-1	0	Drive through , yeah .
+Bed010.C.dialogueact934	2690.69	2691.62	C	Professor	s^j	-1	0	It costs a lot .
+Bed010.C.dialogueact935	2692.15	2695.61	C	Professor	s^e	-1	0	The {disfmarker} the amount {disfmarker} You put in your credit card and {disfmarker} {vocalsound} as well .
+Bed010.C.dialogueact936	2695.61	2696.7	C	Professor	fh	-1	0	But , uh , {disfmarker}
+Bed010.C.dialogueact937	2697.42	2697.92	C	Professor	fh	-1	0	But anyway ,
+Bed010.C.dialogueact938	2697.92	2707.21	C	Professor	fh|s^co	-1	0	so , uh , that 's um , also gotta be worked out , hopefully over the next few weeks ,
+Bed010.C.dialogueact939	2707.53	2714.52	C	Professor	s^df	-1	0	so that {disfmarker} that it becomes clear uh , what piece uh , Robert wants to jump into .
+Bed010.C.dialogueact940	2715.42	2732.02	C	Professor	s^t	+1	1	And , while we 're at this level , uh , there 's at least one new doctoral student in computer science who will be joining the project , either next week or the first of August , depending on the blandishments of Microsoft .
+Bed010.B.dialogueact941	2732.19	2732.28	B	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact942	2732.33	2735.02	C	Professor	fh|s^e	-1	0	So , de Uh . And her name is Eva .
+Bed010.B.dialogueact943	2735.65	2735.89	B	Grad	b.%	-1	0	OK .
+Bed010.C.dialogueact944	2735.73	2736.21	C	Professor	s^df	-1	0	It really is .
+Bed010.C.dialogueact945	2737.04	2738.35	C	Professor	s	-1	0	Nobody believed th th that {disfmarker}
+Bed010.F.dialogueact946	2738.18	2741.51	F	Grad	fg|s	-1	0	Yeah , I thought it had to be a joke , of your part , you know
+Bed010.C.dialogueact948	2741.65	2741.8	C	Professor	s^aa	-1	0	Yeah .
+Bed010.F.dialogueact947	2741.51	2742.99	F	Grad	s^j	-1	0	like {disfmarker} {comment} " Johno made it up ,
+Bed010.F.dialogueact949	2743.21	2743.62	F	Grad	s.%	-1	0	I 'm sure . "
+Bed010.G.dialogueact950	2744.55	2746.6	G	Grad	qy^rt	-1	0	Is this person someone who 's in first - year this year ,
+Bed010.C.dialogueact951	2746.72	2747.71	C	Professor	s^aa	-1	0	No , first year coming .
+Bed010.G.dialogueact952	2747.21	2747.31	G	Grad	qrr.%--	-1	0	or
+Bed010.C.dialogueact953	2748.1	2749.62	C	Professor	s	-1	0	So , she 's {disfmarker} she 's now out here
+Bed010.C.dialogueact954	2749.62	2750.31	C	Professor	s	-1	0	she 's moved ,
+Bed010.C.dialogueact956	2750.69	2753.22	C	Professor	s	-1	0	and she 'll be a student as of then .
+Bed010.G.dialogueact955	2750.56	2751.24	G	Grad	b	-1	0	OK .
+Bed010.C.dialogueact957	2753.44	2756.09	C	Professor	s	-1	0	And probably she 'll pick up from you on the belief - net stuff ,
+Bed010.C.dialogueact958	2756.09	2758.37	C	Professor	s	-1	0	so sh she 'll be chasing you down and stuff like that .
+Bed010.G.dialogueact959	2756.18	2756.46	G	Grad	s^bk	-1	0	OK .
+Bed010.C.dialogueact961	2759.51	2759.81	C	Professor	fh	-1	0	Uh .
+Bed010.E.dialogueact960	2759.42	2760.06	E	Grad	s	-1	0	Document .
+Bed010.G.dialogueact962	2761.72	2762.02	G	Grad	qy^d^g^rt	-1	0	Right .
+Bed010.C.dialogueact963	2763.19	2764.7	C	Professor	fh|s^na	-1	0	Uh , against all traditions .
+Bed010.C.dialogueact964	2765.26	2772.69	C	Professor	s	+1	1	And actually I talked today to a uh undergraduate who wants to do an honors thesis on this .
+Bed010.C.dialogueact965	2773.69	2774.39	C	Professor	fh	-1	0	Uh {disfmarker}
+Bed010.F.dialogueact966	2773.7	2774.61	F	Grad	qy^bu^d^rt	-1	0	Someone from the class ?
+Bed010.C.dialogueact967	2775.06	2775.86	C	Professor	s^ar	-1	0	No ,
+Bed010.C.dialogueact968	2775.86	2776.81	C	Professor	s	-1	0	interestingly enough .
+Bed010.F.dialogueact969	2776.63	2778.63	F	Grad	s.%-	-1	0	We always get these people who are not in the class , who {disfmarker}
+Bed010.C.dialogueact970	2778.47	2779.41	C	Professor	s^arp	-1	0	Some of th some of them , yeah .
+Bed010.F.dialogueact971	2778.91	2779.37	F	Grad	s^ba	-1	0	It 's interesting .
+Bed010.C.dialogueact972	2780.08	2781.13	C	Professor	fh	-1	0	So anyway ,
+Bed010.C.dialogueact973	2781.21	2786.31	C	Professor	fh|s	-1	0	uh , but uh she 's another one of these ones with a three point nine average and so forth and so on .
+Bed010.B.dialogueact974	2785.58	2785.97	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact975	2786.96	2790.97	C	Professor	fh|s	-1	0	Uh , so , um , I 've give I 've given her some things to read .
+Bed010.C.dialogueact976	2791.69	2792.57	C	Professor	s	-1	0	So we 'll see how this goes .
+Bed010.C.dialogueact977	2792.57	2798.03	C	Professor	s	+1	1	Oh there 's yet another one of the incoming first {disfmarker} {comment} incoming first - year graduate students who 's expressed interest ,
+Bed010.C.dialogueact978	2798.03	2798.9	C	Professor	s	-1	0	so we 'll see how that goes .
+Bed010.C.dialogueact979	2799.74	2800.28	C	Professor	fh	-1	0	Um ,
+Bed010.C.dialogueact980	2801.17	2801.52	C	Professor	fh	-1	0	anyway ,
+Bed010.C.dialogueact981	2803.48	2827.99	C	Professor	fh|s^t	+1	2	so , I think as far as this group goes , um , it 's certainly worth continuing for the next few weeks to get closure on the uh belief - net and the ideas that are involved in that , and what are th what are the concepts .
+Bed010.C.dialogueact982	2829.41	2842.28	C	Professor	s	-1	0	We 'll see whether it 's gonna make sense to have this be separate from the other bigger effort with the formalization stuff or not ,
+Bed010.C.dialogueact983	2842.28	2842.93	C	Professor	s^no	-1	0	I 'm not sure .
+Bed010.C.dialogueact984	2843.06	2847.58	C	Professor	s	-1	0	It partly depends on w what your thesis turns out to be and how that goes .
+Bed010.C.dialogueact985	2848.28	2849.39	C	Professor	s	-1	0	S so , we 'll see .
+Bed010.C.dialogueact986	2849.75	2853.61	C	Professor	s^co	-1	0	And then , Ami , you can decide , you know , how much time you wanna put into it
+Bed010.C.dialogueact987	2853.74	2857.44	C	Professor	s	-1	0	and uh , it it 's beginning to take shap shape ,
+Bed010.A.dialogueact988	2855.21	2855.42	A	PhD	b	-1	0	OK .
+Bed010.C.dialogueact989	2857.44	2860.65	C	Professor	fh	-1	0	so uh and ,
+Bed010.A.dialogueact990	2858.85	2859.02	A	PhD	fg.%	-1	0	Right
+Bed010.C.dialogueact991	2860.97	2888.91	C	Professor	s	-1	0	I think you will find that if you want to look technically at some of the {disfmarker} your traditional questions in this light , uh Keith , who 's buil building constructions , will be quite happy to uh see what , you know , you envision as the issues and the problems and um , how they might uh get reflected in constructions .
+Bed010.B.dialogueact992	2889.05	2889.34	B	Grad	s^aa	-1	0	Sure .
+Bed010.C.dialogueact993	2890.22	2891.13	C	Professor	s	-1	0	I suspect that 's right .
+Bed010.B.dialogueact994	2890.78	2891.01	B	Grad	s^aa	-1	0	Yeah .
+Bed010.B.dialogueact995	2891.29	2891.57	B	Grad	s^aa^r	-1	0	Yeah .
+Bed010.A.dialogueact996	2894.08	2903.19	A	PhD	s	-1	0	I {disfmarker} I may have to go to Switzerland for {disfmarker} in June or beginning of July for between two weeks and four weeks , but uh , after that or before that .
+Bed010.C.dialogueact997	2903.57	2903.83	C	Professor	s^bk	-1	0	OK ,
+Bed010.C.dialogueact998	2903.83	2904.19	C	Professor	s^bk	-1	0	fine .
+Bed010.C.dialogueact999	2904.69	2916.02	C	Professor	fh|s^cs	-1	0	And , um , if it 's useful we can probably arrange for you to drop by and visit either at Heidelberg or at the German AI center , while you 're in {disfmarker} in the neighborhood .
+Bed010.A.dialogueact1000	2915.23	2915.42	A	PhD	s^bk	-1	0	Right .
+Bed010.A.dialogueact1001	2916.99	2917.53	A	PhD	%--	-1	0	Yeah be uh
+Bed010.A.dialogueact1002	2917.53	2928.07	A	PhD	s	-1	0	actu actually I 'm invited to do some consulting with a bank in Geneva which has an affiliation with a research institute in Geneva , which I forgot the name of .
+Bed010.C.dialogueact1003	2921.83	2922.17	C	Professor	b	-1	0	Yeah .
+Bed010.C.dialogueact1004	2922.61	2922.84	C	Professor	b	-1	0	Yep .
+Bed010.C.dialogueact1005	2928.15	2929.01	C	Professor	%--	-1	0	E o do y
+Bed010.A.dialogueact1007	2929.26	2929.42	A	PhD	b	-1	0	Yeah .
+Bed010.C.dialogueact1006	2929.01	2932.61	C	Professor	fg|s.%--	-1	0	Well , we we 're connected to uh {disfmarker}
+Bed010.C.dialogueact1008	2932.61	2936.15	C	Professor	s.%--	-1	0	There 's a {disfmarker} there 's a {disfmarker} a very significant connection between {disfmarker}
+Bed010.C.dialogueact1009	2936.32	2937.19	C	Professor	s^cc	-1	0	We 'll {disfmarker} we 'll go through this ,
+Bed010.A.dialogueact1010	2937.35	2937.63	A	PhD	b	-1	0	Yeah .
+Bed010.C.dialogueact1011	2937.65	2944.31	C	Professor	s.%--	-1	0	ICSI and EPFL , which is the , uh {disfmarker} It 's the {disfmarker} Fr
+Bed010.C.dialogueact1012	2944.49	2948.15	C	Professor	s	-1	0	Ge - Germany 's got two big technical institutes .
+Bed010.C.dialogueact1013	2948.15	2950.26	C	Professor	s	-1	0	There 's one in {disfmarker} in Zurich ,
+Bed010.A.dialogueact1014	2950.65	2951.09	A	PhD	b^rt	-1	0	Mm - hmm .
+Bed010.C.dialogueact1015	2951.27	2951.78	C	Professor	s^e	-1	0	E T
+Bed010.C.dialogueact1016	2951.78	2955.52	C	Professor	s^e	-1	0	and then there 's one , the French speaking one , in Lausanne ,
+Bed010.B.dialogueact1018	2956.74	2957.52	B	Grad	s^bs	-1	0	Oh , so in Switzerland .
+Bed010.C.dialogueact1017	2956.25	2956.66	C	Professor	qy^d^f^rt	-1	0	OK ?
+Bed010.C.dialogueact1019	2956.99	2958.77	C	Professor	s^e	-1	0	which is uh E P
+Bed010.A.dialogueact1021	2959.8	2960.43	A	PhD	b	-1	0	Great .
+Bed010.C.dialogueact1020	2959.62	2961.39	C	Professor	s^co	-1	0	F L . So find out who they are associated with in Geneva .
+Bed010.A.dialogueact1023	2961.84	2962.02	A	PhD	b	-1	0	Right .
+Bed010.C.dialogueact1022	2961.39	2962.87	C	Professor	s	-1	0	Probably we 're connected to them .
+Bed010.A.dialogueact1024	2963.32	2963.5	A	PhD	s^ba	-1	0	Great .
+Bed010.A.dialogueact1025	2963.71	2964.22	A	PhD	s^cc	-1	0	I 'll let you know .
+Bed010.A.dialogueact1026	2964.5	2965.23	A	PhD	s^cc	-1	0	S I 'll send you email .
+Bed010.C.dialogueact1027	2964.52	2964.77	C	Professor	s^bk	-1	0	OK .
+Bed010.C.dialogueact1028	2965.69	2965.87	C	Professor	s^bk	-1	0	Yeah ,
+Bed010.C.dialogueact1029	2966.2	2975.23	C	Professor	s^cs.%--	+1	1	and so anyway we c uh {disfmarker} We can m undoubtedly get Ami uh to give a talk at uh EML or something like that . While he 's in {disfmarker} in uh {disfmarker}
+Bed010.E.dialogueact1030	2975.47	2975.61	E	Grad	b	-1	0	Hmm .
+Bed010.E.dialogueact1031	2975.72	2980.5	E	Grad	fh|s	-1	0	Uh . I {disfmarker} I think the one you {disfmarker} you gave here a couple of weeks ago would be of interest there , too .
+Bed010.A.dialogueact1032	2980.08	2980.96	A	PhD	s^aa	-1	0	Sure , yeah .
+Bed010.C.dialogueact1033	2980.14	2983.73	C	Professor	s.%--	+1	1	A lot of interest . Actually , either place , DFKI or uh {disfmarker}
+Bed010.C.dialogueact1034	2984.93	2989.86	C	Professor	fh|s	-1	0	Yeah , so , and {disfmarker} and if there is a book , that you 'll be building up some audience for it .
+Bed010.A.dialogueact1035	2985.52	2986.06	A	PhD	b	-1	0	Yeah .
+Bed010.A.dialogueact1036	2988.61	2988.85	A	PhD	s^bk	-1	0	Right .
+Bed010.C.dialogueact1037	2989.86	2991.07	C	Professor	s	-1	0	And you 'll get feedback from these guys .
+Bed010.A.dialogueact1038	2991.14	2991.88	A	PhD	s^ba.%	-1	0	Great , yeah .
+Bed010.C.dialogueact1039	2991.31	2998.08	C	Professor	s^df	-1	0	Cuz they 've actually {disfmarker} these DFKI guys have done as much as anyone over the last decade in trying to build them .
+Bed010.C.dialogueact1040	2999.52	3000.2	C	Professor	s^cc	-1	0	So we 'll set that up .
+Bed010.A.dialogueact1041	3000.64	3000.83	A	PhD	s^ba	-1	0	Cool .
+Bed010.C.dialogueact1042	3003.58	3003.97	C	Professor	fh	-1	0	OK .
+Bed010.C.dialogueact1043	3003.97	3017.38	C	Professor	fh|s.%-	-1	0	So , uh , unless we wanna start digging into the {disfmarker} uh the belief - net and the decisions now , which would be fine , it 's probably {disfmarker}
+Bed010.E.dialogueact1044	3016.79	3017.46	E	Grad	%-	-1	0	I {disfmarker} I tho
+Bed010.E.dialogueact1045	3017.46	3026.96	E	Grad	s	-1	0	It 's probably better if I come next week with the um version O point nine of the structure .
+Bed010.C.dialogueact1046	3025.8	3026.01	C	Professor	s^bk	-1	0	OK .
+Bed010.C.dialogueact1047	3026.19	3034.94	C	Professor	s^cs	+1	0	So , how about if you two guys between now and next week come up with something that is partially proposal , and partially questions ,
+Bed010.C.dialogueact1048	3035.19	3039.61	C	Professor	s^e:s	-1	0	saying " here 's what we think we understand , here are the things we think we don't understand " .
+Bed010.C.dialogueact1049	3040.47	3043.13	C	Professor	s^cc	-1	0	And that we as a group will try to {disfmarker} to finish it .
+Bed010.C.dialogueact1050	3043.21	3046.59	C	Professor	s^cs	-1	0	What I 'd like to do is shoot f for finishing all this next Monday .
+Bed010.G.dialogueact1051	3043.56	3043.78	G	Grad	s^aa	-1	0	Sure .
+Bed010.C.dialogueact1052	3047.18	3047.41	C	Professor	qy^d^g^rt	-1	0	OK ?
+Bed010.C.dialogueact1053	3047.41	3048.83	C	Professor	fh|s.%--	-1	0	Uh , " these are the decisions " {disfmarker}
+Bed010.C.dialogueact1054	3049.21	3051.46	C	Professor	s	-1	0	I don't think we 're gonna get lots more information .
+Bed010.C.dialogueact1055	3051.46	3052.45	C	Professor	s	-1	0	It 's a design problem .
+Bed010.B.dialogueact1056	3052.74	3053.1	B	Grad	b	-1	0	Mm - hmm .
+Bed010.C.dialogueact1058	3053.44	3054.17	C	Professor	%--	-1	0	You know . We {disfmarker}
+Bed010.G.dialogueact1057	3053.28	3053.49	G	Grad	b	-1	0	Yeah .
+Bed010.C.dialogueact1059	3054.98	3055.09	C	Professor	h	-1	0	Yeah .
+Bed010.C.dialogueact1060	3055.24	3061.68	C	Professor	s^co	-1	0	And let 's come up with a first cut at what this should look like . And then finish it up .
+Bed010.B.dialogueact1061	3060.57	3060.79	B	Grad	b	-1	0	OK .
+Bed010.C.dialogueact1062	3061.68	3062.47	C	Professor	qy^rt	-1	0	Does that so make sense ?
+Bed010.B.dialogueact1063	3065.12	3065.28	B	Grad	s^aa	-1	0	OK .
+Bed010.E.dialogueact1064	3065.49	3072.95	E	Grad	fh|qy^bu^d^rt	-1	0	And um , the {disfmarker} the sem semester will be over next week but then you have projects for one more week to come ?
+Bed010.G.dialogueact1065	3073.09	3076.57	G	Grad	s^ar|s	-1	0	No , I {disfmarker} I think I 'll be done {disfmarker} everything by this uh {disfmarker} by the end of this week .
+Bed010.E.dialogueact1066	3077.4	3077.93	E	Grad	qy^d^rt	-1	0	Same with you ?
+Bed010.E.dialogueact1067	3077.93	3078.23	E	Grad	s^ar	-1	0	No .
+Bed010.D.dialogueact1068	3079.31	3079.93	D	Grad	fh	-1	0	Nnn .
+Bed010.D.dialogueact1069	3079.93	3086.37	D	Grad	s	-1	0	This {disfmarker} Well , I 've {disfmarker} I have projects , but then the {disfmarker} my prof professor of one of my classes also wa has a final that he 's giving us .
+Bed010.D.dialogueact1070	3086.37	3089.44	D	Grad	s	-1	0	And he 's giving us five days to do it which means it going to be hard .
+Bed010.B.dialogueact1072	3090.01	3090.31	B	Grad	s^aa	-1	0	Yeah .
+Bed010.C.dialogueact1071	3089.9	3090.06	C	Professor	s^aa	-1	0	Yeah .
+Bed010.C.dialogueact1073	3090.35	3091.17	C	Professor	qy^bu^rt	-1	0	Oh . is it a take - home final ?
+Bed010.C.dialogueact1075	3091.17	3091.71	C	Professor	qw	-1	0	Who 's doing this ?
+Bed010.D.dialogueact1074	3091.16	3091.39	D	Grad	s^aa	-1	0	Yeah .
+Bed010.D.dialogueact1076	3091.94	3093.18	D	Grad	s	-1	0	Aikin , Alex , yeah .
+Bed010.C.dialogueact1077	3092.48	3092.98	C	Professor	s^bk	-1	0	Yeah , figured .
+Bed010.C.dialogueact1078	3092.98	3094.03	C	Professor	s	-1	0	That would have been i my guess .
+Bed010.G.dialogueact1079	3093.06	3093.72	G	Grad	b	-1	0	Hmm .
+Bed010.C.dialogueact1080	3095.22	3095.45	C	Professor	fh	-1	0	Right .
+Bed010.C.dialogueact1081	3096.25	3098.13	C	Professor	fh|s	-1	0	Um , But anyway , yeah .
+Bed010.B.dialogueact1082	3099.41	3099.93	B	Grad	s	-1	0	Pretty soon .
+Bed010.E.dialogueact1083	3100.01	3100.12	E	Grad	b	-1	0	OK .
+Bed010.C.dialogueact1084	3100.85	3101.82	C	Professor	fh|s.%-	-1	0	OK , so I guess that 's
+Bed010.D.dialogueact1085	3101.02	3104.74	D	Grad	s	-1	0	So , the seventeenth will definitely be the last day , like it or not for me .
+Bed010.C.dialogueact1086	3104.55	3104.84	C	Professor	b	-1	0	Right .
+Bed010.C.dialogueact1087	3105.48	3105.74	C	Professor	b	-1	0	right .
+Bed010.C.dialogueact1088	3106.45	3107.53	C	Professor	s^co	-1	0	So let 's do this ,
+Bed010.C.dialogueact1089	3107.53	3109.81	C	Professor	s.%--	-1	0	and then we we well there 's gonna be some separate co
+Bed010.C.dialogueact1090	3109.81	3110.83	C	Professor	s	-1	0	these guys are talking ,
+Bed010.C.dialogueact1091	3111.35	3113.35	C	Professor	fh|s	-1	0	uh we have a group on the formalization ,
+Bed010.C.dialogueact1092	3113.39	3116.72	C	Professor	fh|s	-1	0	uh Nancy and Johno and I are gonna talk about parsers .
+Bed010.C.dialogueact1093	3116.92	3119.32	C	Professor	s.%--	-1	0	So there 're various kinds of uh {disfmarker}
+Bed010.B.dialogueact1094	3118.04	3118.23	B	Grad	b	-1	0	OK .
+Bed010.C.dialogueact1095	3119.62	3122.44	C	Professor	s	-1	0	Of course , nothing gets done even in a meeting of seven people ,
+Bed010.B.dialogueact1098	3122.71	3122.85	B	Grad	b	-1	0	Right .
+Bed010.C.dialogueact1096	3122.44	3122.69	C	Professor	qy^d^g^rt	-1	0	right ?
+Bed010.C.dialogueact1097	3122.69	3128.58	C	Professor	fh|s	-1	0	So , um , two or three people is the size in which actual work gets done .
+Bed010.E.dialogueact1099	3122.99	3123.33	E	Grad	b	-1	0	Mmm .
+Bed010.B.dialogueact1100	3128.97	3129.16	B	Grad	s^aa	-1	0	Yeah .
+Bed010.C.dialogueact1101	3130.38	3131.31	C	Professor	s^cc	-1	0	So we 'll do that .
+Bed010.C.dialogueact1102	3132.75	3132.94	C	Professor	fh	-1	0	Great .
+Bed010.C.dialogueact1103	3133.1	3137.93	C	Professor	s^t	-1	0	Oh , the other thing we wanna do is catch up with uh , Ellen and see what she 's doing
+Bed010.C.dialogueact1104	3137.93	3146.7	C	Professor	s^df.%--	-1	0	because the um image schemas are going to be um , an important pa
+Bed010.B.dialogueact1105	3141.88	3142.09	B	Grad	b	-1	0	Yeah .
+Bed010.B.dialogueact1106	3145.68	3146.56	B	Grad	s^2	-1	0	Quite relevant , yeah .
+Bed010.C.dialogueact1107	3146.7	3147.55	C	Professor	s	-1	0	We {disfmarker} we want those ,
+Bed010.B.dialogueact1109	3147.67	3147.9	B	Grad	b	-1	0	Yeah ,
+Bed010.B.dialogueact1111	3148.02	3148.3	B	Grad	s^aa	-1	0	oh yeah .
+Bed010.C.dialogueact1108	3147.55	3147.8	C	Professor	qy^d^g^rt	-1	0	right ?
+Bed010.C.dialogueact1110	3147.93	3149.77	C	Professor	s	-1	0	And we want them formalized and stuff like that .
+Bed010.B.dialogueact1112	3149.8	3150.05	B	Grad	b	-1	0	Yeah .
+Bed010.C.dialogueact1113	3150.54	3151.92	C	Professor	s^co	-1	0	So let me {disfmarker} let me make a note to do that .
+Bed010.B.dialogueact1114	3151.99	3152.22	B	Grad	fg	-1	0	OK .
+Bed010.B.dialogueact1115	3153.01	3162.66	B	Grad	s	+1	0	Yeah , I 'm actually probably going to be in contact with her uh pretty soon anyway because of various of us students were going to have a reading group about precisely that sort of thing over the summer ,
+Bed010.D.dialogueact1116	3160.78	3160.93	D	Grad	s^bk^t3	-1	0	OK .
+Bed010.C.dialogueact1117	3161.53	3162.12	C	Professor	s^aa	-1	0	Oh right !
+Bed010.C.dialogueact1118	3162.12	3162.62	C	Professor	s^aa^r	-1	0	Right right right !
+Bed010.B.dialogueact1120	3162.66	3162.88	B	Grad	fh.%	-1	0	so .
+Bed010.C.dialogueact1119	3162.62	3163.15	C	Professor	s^ba	-1	0	That 's great !
+Bed010.C.dialogueact1121	3163.51	3166.88	C	Professor	s	-1	0	Yeah , I {disfmarker} I {disfmarker} Shweta mentioned that , although she said it 's a secret .
+Bed010.B.dialogueact1122	3165.12	3165.44	B	Grad	s^bk	-1	0	OK .
+Bed010.D.dialogueact1123	3166.82	3166.99	D	Grad	s^t3	-1	0	Hi
+Bed010.B.dialogueact1124	3167.75	3168.16	B	Grad	fg	-1	0	Right ,
+Bed010.B.dialogueact1126	3168.16	3168.8	B	Grad	s^2	-1	0	no faculty !
+Bed010.C.dialogueact1125	3167.78	3169.87	C	Professor	s^j	-1	0	Th - the faculty aren't {disfmarker} faculty aren't supposed to know .
+Bed010.D.dialogueact1127	3170.7	3172.22	D	Grad	s^t3	-1	0	Wednesday 's much better for me , yeah .
+Bed010.C.dialogueact1128	3171.28	3172.12	C	Professor	fh	-1	0	But um ,
+Bed010.C.dialogueact1129	3173.12	3175.0	C	Professor	s.%--	-1	0	I 'm sufficiently clueless that I count as a {disfmarker}
+Bed010.B.dialogueact1130	3174.92	3175.44	B	Grad	s^aa	-1	0	Yeah , right .
+Bed010.B.dialogueact1131	3176.25	3177.9	B	Grad	s	-1	0	It 's as if we didn't tell anyone at all ,
+Bed010.D.dialogueact1132	3177.82	3178.1	D	Grad	s	-1	0	Bhaskara .
+Bed010.B.dialogueact1133	3178.7	3178.79	B	Grad	s^bk	-1	0	right .

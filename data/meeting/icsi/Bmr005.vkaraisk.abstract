@@ -1,0 +1,46 @@
+5	Bmr005.s.1	The current corpus of data comprises twelve hours of recordings , of which forty-five minutes are transcribed.
+Bmr005.E.dialogueact588	1882.23	1886.55	E	Professor	s	-1	0	See I was wondering cuz we st we have these ten hours of other stuff that is not yet transcribed .
+Bmr005.E.dialogueact945	2664.14	2670.03	E	Professor	fg|s	+1	1	Right so there 's this {disfmarker} this {disfmarker} There 's this forty - five minute piece that Jane transcribed .
+Bmr005.E.dialogueact966	2705.55	2707.68	E	Professor	s	+1	1	We 're saying about {pause} twelve hours .
+Bmr005.E.dialogueact1162	3368.01	3371.98	E	Professor	s	+1	1	We have {disfmarker} we have an hour uh that {disfmarker} that is transcribed ,
+Bmr005.E.dialogueact1163	3371.98	3375.69	E	Professor	s	+1	1	we have {disfmarker} we have twelve hours that 's recorded but not transcribed ,
+0	Bmr005.s.2	Up to fifty hours of controlled recordings are expected to be completed in the next six months.
+5	Bmr005.s.3	Additional material acquired through collaborations with local broadcast media and UW will probably bring the total to more than a hundrend hours.
+Bmr005.E.dialogueact1189	3448.55	3454.91	E	Professor	s	+1	1	So , I th I think that if we are able to keep that up for a few months , we are gonna have more like a hundred hours .
+Bmr005.E.dialogueact1210	3491.9	3509.47	E	Professor	s	+1	1	Yeah . So {disfmarker} Yeah . So I {disfmarker} I {disfmarker} uh , I {disfmarker} I 'd mentioned to Adam , and {disfmarker} that was another thing I was gonna talk {disfmarker} uh , mention to them before {disfmarker} {comment} that uh there 's uh {disfmarker} It {disfmarker} it oc it occurred to me that we might be able to get some additional data by talking to uh acquaintances in local broadcast media .
+Bmr005.E.dialogueact1246	3631.82	3634.3	E	Professor	s	-1	0	hopefully they will collect more at UW also
+Bmr005.E.dialogueact1248	3637.82	3644.11	E	Professor	s	+1	1	But yeah I think that it 's not unreasonable to aim at getting , you know , significantly in excess of a hundred hours .
+Bmr005.E.dialogueact1403	4043.28	4046.45	E	Professor	s	-1	0	Uh . And there 's a lot of different meetings at UW
+0	Bmr005.s.4	A revised consent form to be signed by the participants is being put together.
+9	Bmr005.s.5	The first transcribed session is being used for the marking and labeling of speaker overlaps.
+Bmr005.D.dialogueact325	1137.32	1144.35	D	PhD	s^df	+1	2	to {disfmarker} to find a {disfmarker} a good solution to detect eh , the overlapping zone in eh speech recorded .
+Bmr005.D.dialogueact326	1144.56	1156.8	D	PhD	fh|s^rt	-1	0	But eh , {vocalsound} tsk , {comment} {vocalsound} ehhh {comment} In that way {comment} I {disfmarker} {vocalsound} I {disfmarker} {vocalsound} I begin to {disfmarker} to study and to analyze the ehn {disfmarker} the recorded speech eh the different session
+Bmr005.D.dialogueact327	1157.26	1162.52	D	PhD	s^df	-1	0	to {disfmarker} to find and to locate and to mark eh the {disfmarker} the different overlapping zone .
+Bmr005.D.dialogueact328	1163.43	1169.86	D	PhD	fh|s	+1	1	And eh so eh I was eh {disfmarker} I am transcribing the {disfmarker} the first session
+Bmr005.D.dialogueact338	1202.76	1213.0	D	PhD	s^df^rt	-1	0	but I prefer because eh I would like to {disfmarker} to study if eh , I {disfmarker} I will find eh , eh , a good eh parameters eh to detect overlapping
+Bmr005.D.dialogueact357	1267.63	1273.21	D	PhD	s^e	-1	0	but eh my {disfmarker} my objective eh will be eh to study eh overlapping zone .
+Bmr005.D.dialogueact619	1973.3	1981.45	D	PhD	s.%-	-1	0	Tw - twelve hours of work to {disfmarker} {vocalsound} to segment eh and label eh twelve minutes from a session of part {disfmarker} of f
+Bmr005.E.dialogueact770	2286.93	2290.81	E	Professor	s^bs^rt	+1	0	the idea was , i we i i we thought it would be useful for him to look at the data anyway ,
+Bmr005.E.dialogueact826	2395.36	2407.54	E	Professor	fh|s	-1	0	So , I think it was partly that , you know , give somebody a chance to actually look at the data and see what these are like , partly that we have e some ground truth to compare against , you know , when {disfmarker} when he {disfmarker} he gets his thing going ,
+1	Bmr005.s.6	This manual coding of the overlapping zones can be compared with automatic detections of such zones.
+Bmr005.E.dialogueact826	2395.36	2407.54	E	Professor	fh|s	-1	0	So , I think it was partly that , you know , give somebody a chance to actually look at the data and see what these are like , partly that we have e some ground truth to compare against , you know , when {disfmarker} when he {disfmarker} he gets his thing going ,
+3	Bmr005.s.7	A simple program to achieve those by checking and filtering energy increases is also being developed.
+Bmr005.G.dialogueact802	2349.87	2352.52	G	Grad	fh|s	-1	0	and {disfmarker} so {disfmarker} but it 's {disfmarker} it 's doing something very , very simple .
+Bmr005.G.dialogueact809	2359.48	2363.12	G	Grad	fg|s^e	-1	0	um , and then it does a median filter , and then it looks for runs .
+Bmr005.E.dialogueact862	2486.23	2490.84	E	Professor	s^cs	+1	0	And when {disfmarker} when uh Adam was doing his automatic thing he could then compare to that and see what it was different .
+1	Bmr005.s.8	The potential usefulness of block echo cancellation was put forward.
+Bmr005.E.dialogueact1046	2867.74	2877.22	E	Professor	s^cs	+1	1	I mean , one of the things I wanted to do , uh , that I I talked to {disfmarker} to Don about , is one of the possible things he could do or m also , we could have someone else do it , is to do block echo cancellation ,
+3	Bmr005.s.9	Its study would test the initial consensus , which favoured feature approaches for the recogniser instead.
+Bmr005.E.dialogueact1051	2882.31	2889.12	E	Professor	fh|s	-1	0	Um , I mean we have {disfmarker} the party line has been that echo cancellation is not the right way to handle the situation
+Bmr005.E.dialogueact1056	2909.39	2919.38	E	Professor	s	+1	0	and so the tack that we 've taken is more " lets come up with feature approaches and multi - stream approaches and so forth , that will be robust to it for the recognizer and not try to create a clean signal " .
+Bmr005.E.dialogueact1145	3293.79	3308.07	E	Professor	fh|s	-1	0	and um we decided to do this approach of taking {disfmarker} uh , just picking uh features , which were {disfmarker} uh will give you more {disfmarker} something that was more stable , in the presence of , or absence of , room reverberation ,
+1	Bmr005.s.10	The digit-reading parts of the meetings would be appropriate data for this study.
+Bmr005.E.dialogueact1013	2801.82	2807.5	E	Professor	s^no	-1	0	but I don't know if in general we wanna have meetings that we record from outside this group do the digits .
+5	Bmr005.s.11	There was also mention of the potential future gain in the analysis of meetings from the study of the inference of implicit knowledge structures.
+Bmr005.E.dialogueact59	501.93	506.56	E	Professor	s	+1	2	but anyway some {disfmarker} some potential collaboration there about {disfmarker} about the {disfmarker} about the {disfmarker} working with these data .
+Bmr005.E.dialogueact104	675.578	680.188	E	Professor	fh|s	+1	2	so um we were trying to think of ways that his interests could interact with ours
+Bmr005.E.dialogueact106	680.388	700.788	E	Professor	fh|s^cs.x	+1	1	and um uh I thought that if we were going to project into the future when we had a lot of data , uh and um such things might be useful for that in or before we invested too much uh effort into that he should uh , with Jane 's help , look into some of the data that we 're {disfmarker} already have
+Bmr005.E.dialogueact109	703.718	708.058	E	Professor	s:qy	-1	0	Is there any point which you think that , you know , you could gain some advantage and some potential use for it .
+Bmr005.E.dialogueact135	760.735	767.295	E	Professor	s^df	+1	0	but we were in fact looking to see if there {disfmarker} is there {disfmarker} is there something in common between our interest in meetings and his interest in {disfmarker} in {disfmarker} in this stuff .
+1	Bmr005.s.12	A preliminary look at the data suggested that these are abundant in the recorded sessions.
+Bmr005.B.dialogueact86	583.665	590.225	B	Postdoc	fh|s	+1	1	So , I looked through the transcript that we have so far , {comment} and um , fou identified a couple different types of things of that type

@@ -1,0 +1,11 @@
+Two main options were discussed as to the organisation of the collected data.
+On the one hand , a bespoke XML structure that connects transcriptions and annotations ( down to the word-level ) to a common timeline.
+Its advantages are that it is easier to read , parse , map onto the Transcriber format and to expand with extra features.
+Phone-level analysis can be included in the same structure , or in a separate , linked file.
+The respective frame-level representation can be handled by P-files , a technology developed at ICSI , which also comes with a library of tools.
+Separation of levels of analysis makes files more compact and manageable.
+XML standards offer libraries that can be used for the development of search tools.
+On the other hand , the ATLAS ( NIST ) technology offers a very similar , but more generic organisational scheme based on nodes and links.
+These are labeled with domain specific types , like "utterance" or "speaker".
+This option offer well-developed infrastructure and flexibility as to the type of data storage ( flat XML files or relational database ).
+In either case , it is important for the chosen format to allow for fast searches , flexible updates and , if possible , be reusable in future work.

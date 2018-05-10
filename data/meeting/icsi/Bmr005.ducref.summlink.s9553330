@@ -1,0 +1,146 @@
+Was that um there m {pause} there was this already a script I believe uh that Dan had written , {comment} that uh handle bleedthrough ,
+I mean there 's a bunch of things {disfmarker} I mean , increased energy is - is sort of an obvious one .
+But um , it did occur to me that we could go to friends in broadcast media and say " hey you have this panel show , {pause} or this {disfmarker} you know , this discussion show , and um can you record multi - channel ? "
+Yeah . I mean we should do whatever 's natural in a meeting if {disfmarker} if we weren't being recorded .
+uh , we 've started having a morning meeting , today uh i starting a w a week or two ago , on the uh front - end issues ,
+Can I just ask about the data ,
+to {disfmarker} to find a {disfmarker} a good solution to detect eh , the overlapping zone in eh speech recorded .
+um , that you can get the training data for pretty quickly is , you know ,
+It was when I was working for the government .
+So this is {disfmarker} this is {disfmarker} this is {disfmarker} gonna be a big , big problem if you want to later do uh , you know , indexing , or speech understanding of any sort .
+Um , I mean we have {disfmarker} the party line has been that echo cancellation is not the right way to handle the situation
+Then there 's s a larger piece that 's been recorded and uh put on CD - ROM and sent uh to IBM .
+Whereas th i I would think that uh you {disfmarker} we can study more or less as a distinct phenomenon the overlapping of people talking .
+And in fact , it is {disfmarker} it is {disfmarker} it is sensitive .
+like very straightforward question is where we are on the amount of data and the amount of transcribed data ,
+Yeah . So {disfmarker} Yeah . So I {disfmarker} I {disfmarker} uh , I {disfmarker} I 'd mentioned to Adam , and {disfmarker} that was another thing I was gonna talk {disfmarker} uh , mention to them before {disfmarker} {comment} that uh there 's uh {disfmarker} It {disfmarker} it oc it occurred to me that we might be able to get some additional data by talking to uh acquaintances in local broadcast media .
+is I have a bunch of scripts to help with the transcription of the digits .
+uh about some {disfmarker} some {disfmarker} some um uh work about
+you know , how can we detect that from a far - field ?
+And eh so eh I was eh {disfmarker} I am transcribing the {disfmarker} the first session
+and uh , the need to build in , um , this {disfmarker} this sort of uh mechanism for understanding of language .
+the other thing that occurred to me after we had that discussion , in fact , is that it 's even possible , since of course , many radio shows are not live , {comment} uh that we could invite them to have like some of their {disfmarker} {comment} record some of their shows here .
+I mean , we could {disfmarker} political discussions , or {disfmarker} or something or other ,
+About twelve {pause} by now . Twelve or thirteen .
+but there 's at least one meeting recorded of uh the uh uh natural language guys .
+So I think it 's really {disfmarker} really kind of adaptive and wise to not mention names any more than we have to
+maybe with manager types , or {disfmarker}
+You know , I did {disfmarker} I did uh something almost identical to this at one of my previous jobs , and it works pretty well .
+H how many total have we recorded now , altogether ?
+Another thing we discussed was um that {disfmarker}
+I {disfmarker} I remind that me {disfmarker} my first objective eh , in the project is to {disfmarker} to study difference parameters
+and what we were gonna get from UW , you know , assuming they {disfmarker} they {disfmarker} they start recording , isn't {disfmarker} als also is not going to be this exact setup .
+So I was thinking , you know , we 've got the room set up
+Yeah , whoever we have working on the acoustics for the Meeting Recorder are gonna start with that .
+Um , I f f f I 've {disfmarker} @ @ {comment} d A minute {disfmarker} uh , several minutes ago , I , like , briefly was {disfmarker} was not listening
+So that 's something I 'd like somebody to do at some point , just take these digits , take the far - field mike signal , and the close uh mike signal , and apply really good echo cancellation .
+Yeah , there 's a lot of pronoun {disfmarker}
+and it 's a g worthwhile thing to study ,
+I probably been affect No , I th I think I 've been affected by too many conversations where we were talking about lawyers and talking about {disfmarker} and concerns about " oh gee is somebody going to say something bad ? " and so on .
+and um uh I thought that if we were going to project into the future when we had a lot of data , uh and um such things might be useful for that in or before we invested too much uh effort into that he should uh , with Jane 's help , look into some of the data that we 're {disfmarker} already have
+Uh - huh . And we 're recording only this meeting , like continuously
+But a actually , I 'm sorry . I really would like to push {disfmarker} finish this off .
+Eh almost eh three hundred eh in one session
+but once a person has signed it once , then that 's valid for a certain number of meetings .
+I mean , is it something of interest ?
+Do not mark any other events ,
+Uh , he was {disfmarker} he {disfmarker} he {disfmarker} you know {disfmarker} We met and he was gonna go and uh you know , y look through them more systematically
+Yeah . Well , we should also check with Mari again , because they {disfmarker} because they were really intending , you know , maybe just didn't happen , but they were really intending to be duplicating this in some level .
+Right so there 's this {disfmarker} this {disfmarker} There 's this forty - five minute piece that Jane transcribed .
+there was that business where I g I guess it was Adam and Jane were talking at the same time
+The {disfmarker} the reason that I generated the mixed file was for IBM to do word level transcription , not speech event transcription .
+Then I think it 's a good idea .
+and then uh meet again .
+We 're saying about {pause} twelve hours .
+and I {disfmarker} I have found eh , eh one thousand acoustic events ,
+uh , that have some more emotional aspects to them ,
+And so I think doing that to generate these possibilities and then going through and saying yes or no on them would be a quick way to {disfmarker} to do it .
+So the idea is to have some ground truth first .
+um , for example , eh if eh we use the ehm {disfmarker} the mixed file , to {disfmarker} to transcribe , the {disfmarker} the events and the words , I {disfmarker} I saw that eh the eh speech signal , collected by the eh this kind of mike {disfmarker} eh of this kind of mike , eh are different from the eh mixed signal eh , we eh {disfmarker} collected by headphone .
+I mean , i almost exactly what you described , an energy detector with a median filter , you look for runs .
+So I agree that if someone wants to do speech event transcription , that the mixed signals here {disfmarker}
+Yeah sure .
+uh there 's a network services and applications group here who 's agreed to have their meetings recorded ,
+But when you start going past that and trying to do better , it 's not obvious what combination of features is gonna give you the {disfmarker} you know , the right detector .
+but in the interests of making progress , uh might I s
+And so I {disfmarker} so I 'm {disfmarker} I 'm tending to stay away from people 's names even though uh {disfmarker}
+So , I think it was partly that , you know , give somebody a chance to actually look at the data and see what these are like , partly that we have e some ground truth to compare against , you know , when {disfmarker} when he {disfmarker} he gets his thing going ,
+if anyone knows of one more m or two more wee meetings per week that happen at ICSI , um that we could record , I think it would be worth it .
+but eh the {disfmarker} the problem is eh , eh we eh detected eh difference events in the speech file eh collected by {disfmarker} by that mike uh qui compared with the mixed file .
+to {disfmarker} to find and to locate and to mark eh the {disfmarker} the different overlapping zone .
+um , and then it does a median filter , and then it looks for runs .
+i and you use the eh speech file collected by the eh fet mike , to eh {disfmarker} to nnn {disfmarker} to do the experiments {pause} with the {disfmarker} the system ,
+Is there any point which you think that , you know , you could gain some advantage and some potential use for it .
+You know ? I {disfmarker} I {disfmarker} I {disfmarker} I think that {disfmarker} that people are gonna feel uh {disfmarker} are gonna feel a little bit constrained .
+If we wanna go through and extract from the audio and the written every time someone says a name .
+It just takes a threshold , based on {disfmarker} on the volume ,
+And I {disfmarker} I d I do think that maybe we can get somewhere with the {disfmarker} with the radio .
+I mean cuz you have this {disfmarker} this close {disfmarker} you have contamination from other people who speak loudly .
+The a apparently {disfmarker} I mean , we 're gonna do a revised form , of course .
+Um , so , uh , he was interested in the question of {disfmarker} you know , relating to his {disfmarker} to the research he presented recently , um of inference structures ,
+I 'll think about it ,
+and we 're recording those ,
+But eh , {vocalsound} tsk , {comment} {vocalsound} ehhh {comment} In that way {comment} I {disfmarker} {vocalsound} I {disfmarker} {vocalsound} I begin to {disfmarker} to study and to analyze the ehn {disfmarker} the recorded speech eh the different session
+I {disfmarker} I {disfmarker} I knew that eh the signal eh , eh would be different ,
+I mean , is there {disfmarker} Are there any other meetings here that we can record , especially meetings that have some kind of conflict in them {comment} or some kind of deci
+we 're only recording this one now ? or {disfmarker} ?
+but anyway some {disfmarker} some potential collaboration there about {disfmarker} about the {disfmarker} about the {disfmarker} working with these data .
+Or you can set the threshold low and then weed out the false alarms by hand .
+Oh ! {comment} I have to remember .
+I {disfmarker} I came up with something from the Human Subjects people that I wanted to mention .
+and {disfmarker} So who is " he " in this context ?
+That piece was then uh sent to IBM so they could transcribe so we have some comparison point .
+because if there 's a slanderous aspect to it , then how much to we wanna be able to have to remove ?
+I 've {disfmarker} I 've written a program to do that ,
+No .
+It 's good {disfmarker} {vocalsound} good to sort of test them , actually .
+So I think from a s practical standpoint , maybe we could have them do it once every ten meetings , or something .
+such as the increase in energy , such as the energy in the LPC residuals , such as {disfmarker}
+It 's a cross - correlation filter .
+in five {disfmarker} eh in forty - five minutes .
+On the other hand , there 's other phenomena that are going on at the same time for which it might be useful to look at the close - talking mikes ,
+and come and argue about a topic if they wanted to ,
+Uh . Let 's see . I guess you {disfmarker} you actually already said this thing about the uh {disfmarker} about the consent forms ,
+uh and one of the things I know that also came up uh is some discussions that {disfmarker} that uh {disfmarker} that uh Jane had with Lokendra
+Do you think that would speed it up quite a bit ?
+And so we haven't had anybody try to do a good serious job on echo cancellation and we should know how well that can do .
+Yeah , well , just {disfmarker} I mean , just in that {disfmarker} that one s ten second , or whatever it was , example that Adam had that {disfmarker} that we {disfmarker} we passed on to others a few months ago ,
+I mean , one of the things I wanted to do , uh , that I I talked to {disfmarker} to Don about , is one of the possible things he could do or m also , we could have someone else do it , is to do block echo cancellation ,
+How many overlaps were there uh in it ?
+So I was just realizing we 've {disfmarker} You guys have been talking about " he " um for at least uh , I don't know , three {disfmarker} three four minutes without ever mentioning the person 's name again .
+and {disfmarker} and uh , in the close - talking mikes you couldn't hear the overlap , and in the distant mike you could .
+You know , I asked her very specifically about this clause of how , um , you know , it says " no individuals will be identified
+Now , why do you need to mark speaker overlap by hand if you can infer it from the relative energy in the {disfmarker}
+One of the things that I think is a little {disfmarker} a little bit of a limitation , there is a think when the people are not involved uh in our work , we probably can't do it every week .
+Well , I haven't sent them yet because I was having this problem with the {pause} missing files .
+And I thought that our conclusion was that we didn't want to do that .
+but um it does seem to me that we might be able to get subjects from campus to come down and do something that wouldn't be too artificial .
+There 'd be no reason why a person couldn't get together several uh , you know , friends ,
+to try to get rid of some of the effects of the {disfmarker} the {disfmarker} the far - field effects .
+Because , you know , we had talked before about the problem about using found data , {comment} that {disfmarker} that uh it 's just set up however they have it set up
+um I 'm talking more about strong differences of opinion meetings ,
+We don't have to hand - transcribe the digits because we 're reading them and I have those .
+Um , obviously this is very , very time - consuming , and you 're finding lots of things
+Well , we t we t we talked about this during the anon anonymization .
+When eh {vocalsound} eh I w I {disfmarker} {vocalsound} I was eh look at eh nnn , the difference speech file ,
+I mean , you could {disfmarker} you could do the dumbest thing and get {disfmarker} get it ninety percent of the time .
+I was just thinking as a way to speed up you know , the amount of {disfmarker}
+and you can always think of , also for political reasons , if ICSI collected you know , two hundred hours , that looks different than forty hours , even if we don't transcribe it ourselves ,
+Right , so I {disfmarker} So my behavior is probably not natural .
+and so the tack that we 've taken is more " lets come up with feature approaches and multi - stream approaches and so forth , that will be robust to it for the recognizer and not try to create a clean signal " .
+and try to remember .
+uh , " in any publication using the data . "
+if you infer form the close - talking mikes where the on - off points are of speech ,
+its possible to evaluate eh , eh {disfmarker} or to consider eh acoustic events that {disfmarker} which you marked eh in the mixed file , but eh they don't appear in the eh speech signal eh collected by the {disfmarker} by the mike .
+So yeah , it 's clear that if you wanna study {disfmarker} if you wanna find all the places where there were overlap , it 's probably better to use a distant mike .
+and see , is there anything to this at all ?
+it 's possible you eh {disfmarker} in the eh
+how {disfmarker} how would it affect your time if you only marked speaker overlaps ?
+I was just {disfmarker} I was just {disfmarker} I was overreacting just because we 've been talking about it .
+And so the i the idea of the manual marking was to say " OK this , i you know , it 's {disfmarker} it 's really here " .
+So the idea was that what he was going to be doing was experimenting with different measures
+That was about ten hours , and there was about {disfmarker}
+But it occurred to me a few months ago that uh party lines are always , you know , sort of dangerous .
+And so if {disfmarker} when you transcribe eh only eh using the nnn {disfmarker} the mixed file , it 's possible {disfmarker} eh if you use the transcription to evaluate a different system ,
+but obviously it takes a lot of time to mark all of these things .
+Although if you {disfmarker} if you have some parameters like what 's a good window size for the median filter {disfmarker}

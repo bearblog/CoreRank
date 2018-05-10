@@ -1,0 +1,6 @@
+Any set of inputs will provide either the whole range of output values of the Bayes-net or an a priori selection of those outputs.
+In both cases , what is needed is a way to single out the appropriate outputs for any given context.
+For example , in the case of a "where is" question , whether the prevalent output should be "Go-there" or "Info-on" or even a third option has to be computed somehow.
+In any case , there are many input values that have not been entered in the Bayes-net at this stage.
+Furthermore , no inputs for the Ontology and Discourse can be built in yet , as they involve research that will be carried out in the future.
+Finally , there has been a problem with adding probabilities in a net created with the Hugin software , but this should be overcome very shortly.

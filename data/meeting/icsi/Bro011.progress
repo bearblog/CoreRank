@@ -1,0 +1,101 @@
+18	Bro011.s.9	Mn002 and fe002 are continuing with try to reduce delays and improve the system of the groups main digit recogniser project.
+Bro011.C.dialogueact43	87.263	90.303	C	PhD	s^rt	+1	2	About the um , well {disfmarker} the downsampling problem .
+Bro011.C.dialogueact45	91.977	94.437	C	PhD	s	+1	3	Uh and about the f the length of the filters
+Bro011.A.dialogueact65	125.56	126.75	A	Professor	qy^rt	+1	2	Was there any conclusion about that ?
+Bro011.C.dialogueact66	128.492	129.042	C	PhD	h|s^co^na^rt	+1	2	Uh " try it " .
+Bro011.C.dialogueact86	176.84	180.325	C	PhD	s^cs^rt	+1	2	We should have a look first at , perhaps , {vocalsound} the modulation spectrum .
+Bro011.C.dialogueact91	188.506	194.55	C	PhD	fh|s	+1	2	Um . {vocalsound} {vocalsound} So the i this idea of trying to find filters with shorter delays .
+Bro011.C.dialogueact92	196.082	199.99	C	PhD	fh|s^rt	+1	3	Um . We started to work with this .
+Bro011.C.dialogueact95	202.763	208.059	C	PhD	s^t.%--	+1	1	And the third point um {vocalsound} {vocalsound} was the um ,
+Bro011.C.dialogueact96	208.159	210.68	C	PhD	fh|s.%--	+1	1	yeah , {vocalsound} the on - line normalization where ,
+Bro011.C.dialogueact97	212.61	218.443	C	PhD	s^rt	+1	1	well , the recursion f recursion for the mean estimation {vocalsound} is a filter with some kind of delay
+Bro011.C.dialogueact102	227.056	230.896	C	PhD	s.%--	+1	2	For this , the conclusion of Hynek was , well , " we can try it but {disfmarker} "
+Bro011.A.dialogueact188	449.566	462.49	A	Professor	s	+1	3	Let 's {disfmarker} let 's , I mean , I think that as {disfmarker} as we said before that one of the things that we 're imagining is that uh there {disfmarker} there will be {vocalsound} uh in the system we end up with there 'll be something to explicitly uh uh do something about noise
+Bro011.A.dialogueact193	474.037	479.034	A	Professor	s.x	+1	2	in terms of uh I think they were using Ericsson 's {vocalsound} approach or something
+Bro011.C.dialogueact200	487.984	491.394	C	PhD	fh|s^rt	+1	2	Uh so Carmen is just looking at the Ericsson {disfmarker} Ericsson code .
+Bro011.D.dialogueact204	492.255	493.545	D	PhD	s	+1	2	Yeah , I modified it {disfmarker}
+Bro011.D.dialogueact208	496.713	500.413	D	PhD	s^rt	+1	2	to take @ @ the first step the spectral subtraction .
+Bro011.D.dialogueact213	510.33	512.75	D	PhD	s	+1	2	But we haven't result until this moment .
+Bro011.D.dialogueact215	514.01	515.95	D	PhD	s^rt	+1	3	But well , we are working in this also
+10	Bro011.s.10	This includes look at filers , and trying to remove noise.
+Bro011.C.dialogueact45	91.977	94.437	C	PhD	s	+1	3	Uh and about the f the length of the filters
+Bro011.C.dialogueact86	176.84	180.325	C	PhD	s^cs^rt	+1	2	We should have a look first at , perhaps , {vocalsound} the modulation spectrum .
+Bro011.C.dialogueact91	188.506	194.55	C	PhD	fh|s	+1	2	Um . {vocalsound} {vocalsound} So the i this idea of trying to find filters with shorter delays .
+Bro011.C.dialogueact92	196.082	199.99	C	PhD	fh|s^rt	+1	3	Um . We started to work with this .
+Bro011.A.dialogueact193	474.037	479.034	A	Professor	s.x	+1	2	in terms of uh I think they were using Ericsson 's {vocalsound} approach or something
+Bro011.C.dialogueact200	487.984	491.394	C	PhD	fh|s^rt	+1	2	Uh so Carmen is just looking at the Ericsson {disfmarker} Ericsson code .
+Bro011.D.dialogueact204	492.255	493.545	D	PhD	s	+1	2	Yeah , I modified it {disfmarker}
+Bro011.D.dialogueact208	496.713	500.413	D	PhD	s^rt	+1	2	to take @ @ the first step the spectral subtraction .
+Bro011.D.dialogueact213	510.33	512.75	D	PhD	s	+1	2	But we haven't result until this moment .
+Bro011.D.dialogueact215	514.01	515.95	D	PhD	s^rt	+1	3	But well , we are working in this also
+10	Bro011.s.11	In the coming weeks they have much to try.
+Bro011.C.dialogueact102	227.056	230.896	C	PhD	s.%--	+1	2	For this , the conclusion of Hynek was , well , " we can try it but {disfmarker} "
+Bro011.C.dialogueact92	196.082	199.99	C	PhD	fh|s^rt	+1	3	Um . We started to work with this .
+Bro011.C.dialogueact66	128.492	129.042	C	PhD	h|s^co^na^rt	+1	2	Uh " try it " .
+Bro011.A.dialogueact65	125.56	126.75	A	Professor	qy^rt	+1	2	Was there any conclusion about that ?
+Bro011.D.dialogueact215	514.01	515.95	D	PhD	s^rt	+1	3	But well , we are working in this also
+Bro011.A.dialogueact706	2118.67	2127.51	A	Professor	s^t.%--	+1	1	I guess your plan for {disfmarker} You {disfmarker} you {disfmarker} you guys ' plan for the next {disfmarker} next week is {vocalsound} just continue on these {disfmarker} these same things we 've been talking about for Aurora and
+Bro011.C.dialogueact708	2128.0	2134.0	C	PhD	s^cs	+1	1	I guess we can try to {vocalsound} have some kind of new baseline for next week perhaps .
+Bro011.C.dialogueact709	2134.56	2138.57	C	PhD	s^e^rt	+1	1	with all these minor things {vocalsound} {vocalsound} modified .
+Bro011.A.dialogueact717	2154.15	2156.84	A	Professor	s^na	+1	1	You have a big list of {disfmarker} {vocalsound} of things to do .
+Bro011.A.dialogueact719	2159.96	2160.35	A	Professor	s^ba^tc	+1	1	Well that 's good .
+8	Bro011.s.12	Speaker Me018 has also been looking to improve results on the Aurora digit task.
+Bro011.A.dialogueact541	1599.53	1601.53	A	Professor	fh|qw^t^tc	+1	3	Uh what 's next ?
+Bro011.B.dialogueact542	1602.45	1604.79	B	PhD	s^cs^t	+1	2	I could say a little bit about w stuff I 've been playing with .
+Bro011.B.dialogueact549	1610.44	1624.24	B	PhD	h|s	+1	1	Um {vocalsound} so I wanted to do this experiment to see um {vocalsound} uh what happens if we try to uh improve the performance of the back - end recognizer for the Aurora task
+Bro011.B.dialogueact550	1624.61	1625.74	B	PhD	s^e	+1	1	and see how that affects things .
+Bro011.B.dialogueact554	1645.38	1651.93	B	PhD	s	+1	2	and then com and then uh optimize the b HTK system and run that again .
+Bro011.B.dialogueact555	1652.38	1653.55	B	PhD	s	+1	2	So look at the difference there
+Bro011.B.dialogueact556	1654.01	1659.92	B	PhD	s	+1	2	and then uh do the same thing for {vocalsound} the ICSI - OGI front - end .
+Bro011.B.dialogueact561	1664.34	1666.45	B	PhD	h|s	+1	2	Uh I 'm looking at the Italian right now .
+14	Bro011.s.13	More specifically he is looking at the number of states in the HMMs representing the digits , and is interested in shortening some of them , making them more word specific and hence more accurate.
+Bro011.B.dialogueact554	1645.38	1651.93	B	PhD	s	+1	2	and then com and then uh optimize the b HTK system and run that again .
+Bro011.B.dialogueact555	1652.38	1653.55	B	PhD	s	+1	2	So look at the difference there
+Bro011.B.dialogueact556	1654.01	1659.92	B	PhD	s	+1	2	and then uh do the same thing for {vocalsound} the ICSI - OGI front - end .
+Bro011.B.dialogueact561	1664.34	1666.45	B	PhD	h|s	+1	2	Uh I 'm looking at the Italian right now .
+Bro011.B.dialogueact567	1693.9	1699.64	B	PhD	s	+1	1	One of the first things I thought of was the fact that they use {vocalsound} the same number of states for all of the models
+Bro011.B.dialogueact571	1706.43	1710.36	B	PhD	s	+1	1	and just looked at , you know , the number of phones in each one of the digits .
+Bro011.B.dialogueact574	1726.49	1733.9	B	PhD	s	+1	1	And so when I did that for the Italian digits , I got a number of states , ranging on the low end from nine to the high end , eighteen .
+Bro011.B.dialogueact578	1748.46	1757.93	B	PhD	fh|s	+1	1	And so um {vocalsound} {vocalsound} their guess of eighteen states seems to be pretty well matched to the two longest words of the Italian digits ,
+Bro011.B.dialogueact583	1766.89	1771.67	B	PhD	fh|s	+1	1	Um {vocalsound} {vocalsound} but for the {disfmarker} most of the words are sh much shorter .
+Bro011.B.dialogueact584	1771.89	1774.29	B	PhD	s	+1	1	So the majority of them wanna have nine states .
+Bro011.B.dialogueact585	1774.86	1777.04	B	PhD	s	+1	1	And so theirs are s sort of twice as long .
+Bro011.B.dialogueact588	1785.55	1788.41	B	PhD	s	+1	1	and it turns out that the longest words are actually the ones that do the best .
+Bro011.B.dialogueact598	1832.1	1843.1	B	PhD	fh|s^cc	+1	1	So um I 'm going to try to um create more word - specific {vocalsound} um uh prototype H M Ms to start training from .
+Bro011.B.dialogueact602	1854.01	1865.44	B	PhD	fg|s^cc	+1	1	Yeah so I 'll {disfmarker} I 'll , the next experiment I 'm gonna try is to just um you know create {vocalsound} uh models that seem to be more w matched to my guess about how long they should be .
+10	Bro011.s.14	Speaker Me026 reports his minimal progress on echo cancellation work , in that he is awaiting code along with a better understanding of the original process he is studying.
+Bro011.A.dialogueact235	555.67	562.493	A	Professor	s^e^t	+1	2	like {vocalsound} what 's {disfmarker} what 's happening with your {vocalsound} investigations {vocalsound} about echos and so on .
+Bro011.F.dialogueact237	563.461	567.115	F	Grad	fh|s	+1	2	Well um I haven't started writing the test yet , I 'm meeting with Adam today
+Bro011.F.dialogueact239	567.79	574.28	F	Grad	fh|s^rt	+1	2	um and he 's going t show me the scripts he has for um {vocalsound} {vocalsound} running recognition on mee Meeting Recorder digits .
+Bro011.F.dialogueact242	579.845	582.205	F	Grad	s.x	+1	2	I haven't asked Hynek for {disfmarker} for the {disfmarker} for his code yet .
+Bro011.F.dialogueact243	582.732	587.55	F	Grad	s^df.x	+1	2	Cuz I looked at uh Avendano 's thesis and {vocalsound} I don't really understand what he 's doing yet
+Bro011.F.dialogueact244	587.55	602.009	F	Grad	s.x	+1	1	but it {disfmarker} {vocalsound} it {disfmarker} it sounded like um {vocalsound} the channel normalization part {vocalsound} um of his thesis um {vocalsound} was done in a {disfmarker} a bit of I don't know what the word is , a {disfmarker} a bit of a rough way
+Bro011.F.dialogueact246	605.619	607.799	F	Grad	s.x	+1	1	he {disfmarker} he {disfmarker} it {disfmarker} it wasn't really fleshed out
+Bro011.F.dialogueact247	607.879	611.856	F	Grad	s.x	+1	1	and maybe he did something that was {vocalsound} interesting for the test situation
+Bro011.F.dialogueact248	612.246	614.482	F	Grad	s.x	+1	1	but I {disfmarker} I 'm not sure if it 's {vocalsound} what I 'd wanna use
+Bro011.F.dialogueact250	615.642	617.192	F	Grad	s	+1	1	I don't really understand what he 's doing yet .
+24	Bro011.s.15	Me006 is looking to combine previous sonorant detection work with other articulatory feature work.
+Bro011.A.dialogueact310	771.64	779.69	A	Professor	fh|s^no^t	+1	3	Um . {vocalsound} And uh I don't know if we 've talked lately about the {disfmarker} the plans you 're developing that we talked about this morning
+Bro011.E.dialogueact314	788.079	792.147	E	Grad	fg|s.%-	+1	2	Um . {comment} So continuing to um extend
+Bro011.B.dialogueact319	842.33	845.77	B	PhD	qy^bu^rt	+1	1	So they 're training up nets to try to recognize these acoustic features ?
+Bro011.A.dialogueact321	846.755	851.98	A	Professor	s	+1	1	But that 's uh uh all {disfmarker} that 's {disfmarker} is a {disfmarker} a certainly relevant {comment} {vocalsound} uh study
+Bro011.A.dialogueact364	975.89	981.3	A	Professor	s	+1	2	and do you combine them using the soft " AND - OR " or you do something , you know , more complicated
+Bro011.A.dialogueact363	972.03	975.1	A	Professor	s	+1	2	So I mean , there 's these issues of what are the {disfmarker} what are the variables that you use
+Bro011.A.dialogueact368	997.983	1000.77	A	Professor	qh^cs^rt	+1	1	and eh w why don't you tell us again about this {disfmarker} this database ?
+Bro011.B.dialogueact390	1089.08	1091.36	B	PhD	s	+1	1	that {disfmarker} people have done studies like that w way way back
+Bro011.B.dialogueact392	1091.62	1096.37	B	PhD	s.%--	+1	1	I mean {vocalsound} I can't remember where {disfmarker} uh Wisconsin or someplace that used to have a big database of {disfmarker}
+Bro011.B.dialogueact398	1106.26	1113.16	B	PhD	fh|s	+1	1	Um , {vocalsound} {vocalsound} researcher at A T - andT a while back that was studying , trying to do speech recognition from these kinds of features .
+Bro011.A.dialogueact405	1120.28	1123.16	A	Professor	qy.%-	+1	1	you mean when was {disfmarker} was Mark Randolph there , or {disfmarker} ?
+Bro011.A.dialogueact407	1123.87	1125.62	A	Professor	s	+1	1	Yeah he 's {disfmarker} he 's {disfmarker} he 's at Motorola now .
+Bro011.C.dialogueact413	1128.64	1131.87	C	PhD	qy^rt	+1	1	Is it the guy that was using the pattern of pressure on the tongue
+Bro011.B.dialogueact416	1135.05	1139.47	B	PhD	s	+1	1	But I know {disfmarker} I just remember it had to do with you know {vocalsound} uh positional parameters
+Bro011.B.dialogueact420	1139.78	1143.26	B	PhD	s	+1	1	and trying to m you know do speech recognition based on them .
+Bro011.A.dialogueact422	1143.73	1152.54	A	Professor	s	+1	3	So the only {disfmarker} the only uh hesitation I had about it since , I mean I haven't see the data is it sounds like it 's {disfmarker} it 's {vocalsound} continuous variables and a bunch of them .
+Bro011.A.dialogueact425	1155.76	1158.33	A	Professor	s	+1	3	I don't know how complicated it is to go from there {disfmarker}
+Bro011.A.dialogueact426	1158.81	1162.52	A	Professor	s.x	+1	3	What you really want are these binary {pause} labels , and just a few of them .
+Bro011.A.dialogueact427	1163.52	1166.88	A	Professor	s.x	+1	3	And maybe there 's a trivial mapping if you wanna do it
+Bro011.A.dialogueact428	1166.88	1167.93	A	Professor	s.%--	+1	3	and it 's e but it {disfmarker}
+Bro011.A.dialogueact429	1168.2	1171.89	A	Professor	s	+1	3	I {disfmarker} I {disfmarker} I worry a little bit that this is a research project in itself ,
+Bro011.A.dialogueact430	1172.6	1182.57	A	Professor	s	+1	3	whereas um {vocalsound} if you did something instead that {disfmarker} like um having some manual annotation by {vocalsound} uh you know , linguistics students ,
+Bro011.A.dialogueact431	1183.48	1190.8	A	Professor	s	+1	3	this would {disfmarker} there 'd be a limited s set of things that you could do a as per our discussions with {disfmarker} with John before
+Bro011.A.dialogueact436	1203.57	1206.28	A	Professor	s	+1	3	Course then , that 's the other question is do you want binary variables .

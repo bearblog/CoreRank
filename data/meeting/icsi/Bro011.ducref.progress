@@ -1,0 +1,7 @@
+Mn002 and fe002 are continuing with try to reduce delays and improve the system of the groups main digit recogniser project.
+This includes look at filers , and trying to remove noise.
+In the coming weeks they have much to try.
+Speaker Me018 has also been looking to improve results on the Aurora digit task.
+More specifically he is looking at the number of states in the HMMs representing the digits , and is interested in shortening some of them , making them more word specific and hence more accurate.
+Speaker Me026 reports his minimal progress on echo cancellation work , in that he is awaiting code along with a better understanding of the original process he is studying.
+Me006 is looking to combine previous sonorant detection work with other articulatory feature work.

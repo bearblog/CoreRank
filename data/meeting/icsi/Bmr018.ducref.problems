@@ -1,0 +1,11 @@
+Transcribers risk overlooking speech that is deeply embedded in the mixed signal.
+Should transcriptions be derived from each of the close-talking channels or from the mixed signal alone?
+The pre-segmentation tool does not perform well on short utterances , e.g . backchannels.
+The Transcriber interface does not allow the user to quickly switch among visual displays , i.e . multi-channel waveforms.
+Forced alignments were problematic for non-digits data due to cross-talk.
+This problem was reported to be particularly bad for cross-talk featuring more than one word.
+Echo cancellation was considered as a means of improving forced alignments , but was ultimately deemed to be too time-consuming given the dynamic aspect of adapting distances between speakers.
+Comparing error rates in terms of the recording device used , i.e . lapel versus wireless microphones , is tedious.
+Deleting segments of the recordings is expected to be very time-consuming for transcribers.
+More results are needed for generating adequate submissions for Eurospeech'01.
+Participants have complained that the head-mounted microphone is uncomfortable.

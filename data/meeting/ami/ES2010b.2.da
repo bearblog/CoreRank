@@ -1,0 +1,702 @@
+ES2010b.A.dialog-act.dharshi.1	85.33	86.61	PM	A	stl	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.2	86.61	88.79	PM	A	be.pos	-1	0	Um welcome to our second meeting .
+ES2010b.A.dialog-act.dharshi.3	88.79	91.33	PM	A	inf	+1	0	This is the functional design meeting .
+ES2010b.A.dialog-act.dharshi.4	91.33	94.67	PM	A	inf	-1	0	And I hope you all had a good individual working time .
+ES2010b.A.dialog-act.dharshi.5	94.67	96.99	PM	A	sug	-1	0	Okay , let's get started .
+ES2010b.A.dialog-act.dharshi.6	96.99	99.07	PM	A	inf	+1	0	Okay , here's the agenda for the meeting .
+ES2010b.A.dialog-act.dharshi.7	99.07	107.18	PM	A	inf	+1	0	After the opening um I am going to fulfil the role of secretary , take the meeting minutes .
+ES2010b.A.dialog-act.dharshi.8	107.18	109.94	PM	A	inf	+1	0	And we're gonna have three presentations , one from each of you .
+ES2010b.A.dialog-act.dharshi.9	109.94	112.78	PM	A	inf	-1	0	Then we're gonna discuss some new project requirements .
+ES2010b.A.dialog-act.dharshi.10	112.78	117.2	PM	A	inf	-1	0	Um gonna come to a decision on the functions of the remote control .
+ES2010b.A.dialog-act.dharshi.11	117.2	119.75	PM	A	inf	-1	0	And then we're gonna close up the meeting .
+ES2010b.A.dialog-act.dharshi.12	119.75	122.88	PM	A	inf	-1	0	And we're gonna do this all in about forty minutes . {gap}
+ES2010b.A.dialog-act.dharshi.13	123.43	124.65	PM	A	stl	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.14	124.65	127.45	PM	A	inf	+1	0	First I want to discuss the goals of this meeting .
+ES2010b.A.dialog-act.dharshi.15	127.45	130.1	PM	A	inf	+1	0	First we need to determine the user requirements
+ES2010b.A.dialog-act.dharshi.16	130.1	137.96	PM	A	inf	-1	0	and the question that we can ask ourselves is what needs and desires are to be fulfilled by this remote control .
+ES2010b.A.dialog-act.dharshi.17	137.96	144.21	PM	A	inf	+1	0	And then we're going to determine the technical functions , what is the effect of the apparatus ,
+ES2010b.A.dialog-act.dharshi.18	144.21	149.23	PM	A	inf	-1	0	what actually is it supposed to do , what do people pick up the remote and use it for .
+ES2010b.A.dialog-act.dharshi.19	151.7	157.33	PM	A	inf	+1	0	And then lastly we're going to determine its working design , how exactly will it perform its functions ,
+ES2010b.A.dialog-act.dharshi.20	157.33	159.072	PM	A	inf	-1	0	that's the whole technical side of {disfmarker}
+ES2010b.A.dialog-act.dharshi.21	162.57	165.94	PM	A	off	-1	0	'Kay I'll just give you a minute , 'cause it looks like you're making some notes .
+ES2010b.C.dialog-act.dharshi.1	169.035	169.791	UI	C	fra	-1	0	{vocalsound}
+ES2010b.A.dialog-act.dharshi.22	169.82	170.16	PM	A	stl	-1	0	'Kay .
+ES2010b.A.dialog-act.dharshi.23	172.44	173.25	PM	A	oth	-1	0	Oh ,
+ES2010b.A.dialog-act.dharshi.24	173.25	176.01	PM	A	sug	-1	0	well let's go ahead and ,
+ES2010b.C.dialog-act.dharshi.3	172.838	174.136	UI	C	fra	-1	0	{vocalsound} {vocalsound}
+ES2010b.A.dialog-act.dharshi.25	176.01	179.35	PM	A	oth	-1	0	{gap} back , previous .
+ES2010b.C.dialog-act.dharshi.2	175.759	176.565	UI	C	fra	-1	0	{vocalsound}
+ES2010b.A.dialog-act.dharshi.26	179.35	185.25	PM	A	sug	-1	0	So what I wanna do right now is hear from all three of you , on your research that you just did .
+ES2010b.A.dialog-act.dharshi.27	185.25	186.19	PM	A	el.sug	-1	0	Who would like to start us off ?
+ES2010b.A.dialog-act.dharshi.28	190.3	190.56	PM	A	bck	-1	0	'Kay .
+ES2010b.C.dialog-act.dharshi.4	190.18	191.25	UI	C	off	-1	0	I don't mind going first .
+ES2010b.A.dialog-act.dharshi.29	191.61	193.04	PM	A	ass	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.30	193.04	194.89	PM	A	el.inf	-1	0	Um do you have a PowerPoint or no ?
+ES2010b.C.dialog-act.dharshi.6	194.88	195.27	UI	C	inf	-1	0	Yeah ,
+ES2010b.C.dialog-act.dharshi.7	195.27	197.2	UI	C	inf	-1	0	it's in the {disfmarker} should be in the m Project .
+ES2010b.A.dialog-act.dharshi.31	196.58	196.91	PM	A	ass	-1	0	Okay .
+ES2010b.D.dialog-act.dharshi.1	196.88	198.493	ME	D	el.inf	-1	0	Do you want us to do our PowerPoints now or {disfmarker}
+ES2010b.C.dialog-act.dharshi.8	198.23	201.1	UI	C	inf	-1	0	You know you could you could do it yourself actually .
+ES2010b.A.dialog-act.dharshi.32	201.34	201.67	PM	A	oth	-1	0	Oh .
+ES2010b.B.dialog-act.dharshi.1	201.8	202.55	ID	B	el.inf	-1	0	Did you send it ?
+ES2010b.A.dialog-act.dharshi.33	203.16	205.0	PM	A	el.inf	-1	0	Save it in the project documents .
+ES2010b.C.dialog-act.dharshi.9	203.24	204.72	UI	C	inf	-1	0	Put it in Project Documents ,
+ES2010b.A.dialog-act.dharshi.34	205.0	205.25	PM	A	ass	-1	0	Okay .
+ES2010b.C.dialog-act.dharshi.10	204.72	204.98	UI	C	ass	-1	0	yeah .
+ES2010b.A.dialog-act.dharshi.35	212.33	212.76	PM	A	oth	-1	0	Mm-mm-mm .
+ES2010b.A.dialog-act.dharshi.36	217.03	218.95	PM	A	el.inf	-1	0	This one ?
+ES2010b.C.dialog-act.dharshi.11	218.2	219.008	UI	C	inf	-1	0	Sure . {vocalsound}
+ES2010b.A.dialog-act.dharshi.37	218.95	219.66	PM	A	ass	-1	0	Okay .
+ES2010b.C.dialog-act.dharshi.12	222.15	222.4	UI	C	ass	-1	0	Yeah .
+ES2010b.B.dialog-act.dharshi.2	224.63	226.07	ID	B	ass	-1	0	Okay . Great .
+ES2010b.C.dialog-act.dharshi.13	224.9	225.26	UI	C	ass	-1	0	Okay .
+ES2010b.C.dialog-act.dharshi.14	228.64	230.22	UI	C	stl	-1	0	Um well ,
+ES2010b.C.dialog-act.dharshi.15	230.22	238.98	UI	C	inf	+1	1	the function {vocalsound} of a remote control , as what uh we've been informed , is basically to send messages to the television set ,
+ES2010b.C.dialog-act.dharshi.16	238.98	244.57	UI	C	inf	+1	1	for example , switch it on , switch it off , go to this channel , go to channel nine , turn the volume up , etcetera .
+ES2010b.C.dialog-act.dharshi.17	249.35	255.01	UI	C	inf	-1	0	Um some of the considerations is just um for example the what it needs to include
+ES2010b.C.dialog-act.dharshi.18	255.01	260.57	UI	C	inf	-1	0	it's the numbers , you know , zero to nine , so you can move to a channel , the power button on slash off ,
+ES2010b.C.dialog-act.dharshi.19	263.46	265.26	UI	C	inf	-1	0	the channel going up and down ,
+ES2010b.C.dialog-act.dharshi.20	266.77	271.99	UI	C	inf	-1	0	volume going up and down , and then mute , a mute function .
+ES2010b.C.dialog-act.dharshi.21	271.99	274.14	UI	C	inf	-1	0	And then functions for V_H_S_ , D_V_D_ ,
+ES2010b.C.dialog-act.dharshi.22	274.14	278.3	UI	C	inf	-1	0	for example , play , rewind , fast-forward , stop , pause , enter .
+ES2010b.C.dialog-act.dharshi.23	278.3	281.83	UI	C	inf	-1	0	And enter would be for like , you know , the menus .
+ES2010b.C.dialog-act.dharshi.24	281.83	285.18	UI	C	inf	-1	0	{vocalsound} And then other menus for D_V_ as well as T_V_ ,
+ES2010b.C.dialog-act.dharshi.25	285.18	292.75	UI	C	inf	+1	1	whether that means like um we can go and decide the brightness of the screen , things like that , all the more complicated functions of menus .
+ES2010b.A.dialog-act.dharshi.38	293.89	294.799	PM	A	fra	-1	0	{gap}
+ES2010b.C.dialog-act.dharshi.26	294.88	301.82	UI	C	sug	+1	1	And we can decide if that's what we want , {gap} , um if we want to include that on the remote , if that's something that would stay on the T_V_ itself , for example .
+ES2010b.A.dialog-act.dharshi.39	297.36	297.58	PM	A	bck	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.40	302.07	302.33	PM	A	bck	-1	0	Okay .
+ES2010b.C.dialog-act.dharshi.27	303.4	305.17	UI	C	inf	+1	1	These are two examples .
+ES2010b.C.dialog-act.dharshi.28	305.17	309.19	UI	C	inf	+1	1	Um and you can see on the left , it's got a lot more buttons ,
+ES2010b.A.dialog-act.dharshi.41	306.416	306.72	PM	A	fra	-1	0	{vocalsound}
+ES2010b.C.dialog-act.dharshi.29	309.19	319.68	UI	C	inf	-1	0	and I don't know if you can read it , but it says , step , go to , freeze , um slow , repeat , program , mute ,
+ES2010b.C.dialog-act.dharshi.30	319.68	323.82	UI	C	inf	-1	0	and so those are some of the buttons and so it gives you an idea of s one example .
+ES2010b.C.dialog-act.dharshi.31	323.82	325.65	UI	C	inf	+1	1	And then on the right , it's a lot more simpler ,
+ES2010b.C.dialog-act.dharshi.32	325.65	335.55	UI	C	inf	-1	0	it's got volume , it's got the play the like circle set , which is play , rewind , but it's also what is {disfmarker} fast-forward is also like next on a menu .
+ES2010b.C.dialog-act.dharshi.33	335.55	338.37	UI	C	inf	-1	0	So you have functions that are d uh duplicating .
+ES2010b.A.dialog-act.dharshi.42	339.16	339.31	PM	A	bck	-1	0	Right .
+ES2010b.C.dialog-act.dharshi.34	339.51	342.74	UI	C	inf	-1	0	And you have a mute button and then the numbers and the eject , and the power button .
+ES2010b.C.dialog-act.dharshi.35	342.74	346.32	UI	C	inf	-1	0	So that gives you two different kinds , a more complex and more simple version .
+ES2010b.C.dialog-act.dharshi.36	347.71	348.03	UI	C	oth	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.43	348.22	348.76	PM	A	el.inf	-1	0	Ready .
+ES2010b.C.dialog-act.dharshi.37	349.46	352.95	UI	C	inf	+1	1	And then lastly , it's just the questions that we want to consider
+ES2010b.C.dialog-act.dharshi.38	352.95	358.45	UI	C	inf	+1	1	like what functions do we want it to include , and how simple , complex it should be ?
+ES2010b.C.dialog-act.dharshi.39	358.45	361.82	UI	C	inf	-1	0	And what functions it needs to complete .
+ES2010b.C.dialog-act.dharshi.40	361.82	364.54	UI	C	inf	-1	0	Uh , what are needed to complete insulation process ,
+ES2010b.C.dialog-act.dharshi.41	364.54	367.25	UI	C	inf	-1	0	'cause , you know , that's something that also has to be considered
+ES2010b.C.dialog-act.dharshi.42	367.25	372.02	UI	C	inf	-1	0	and it's gonna be hopefully a one-time thing , when you set it up it should be set to go ,
+ES2010b.C.dialog-act.dharshi.43	372.02	376.08	UI	C	sug	-1	0	but we have to include the functions that can allow it to set up i in the first place .
+ES2010b.A.dialog-act.dharshi.44	378.448	378.848	PM	A	fra	-1	0	{gap}
+ES2010b.C.dialog-act.dharshi.44	378.79	379.38	UI	C	inf	-1	0	So that's it .
+ES2010b.A.dialog-act.dharshi.45	380.73	381.65	PM	A	ass	-1	0	Alright .
+ES2010b.A.dialog-act.dharshi.46	381.65	382.91	PM	A	ass	-1	0	Very good presentation .
+ES2010b.A.dialog-act.dharshi.47	382.91	383.29	PM	A	be.pos	-1	0	Thank you .
+ES2010b.A.dialog-act.dharshi.48	383.29	388.01	PM	A	ass	-1	0	You speak with such authority on the matter .
+ES2010b.C.dialog-act.dharshi.45	386.9	388.51	UI	C	bck	-1	0	Mm . Left .
+ES2010b.A.dialog-act.dharshi.49	388.01	389.31	PM	A	stl	-1	0	{vocalsound} Okay .
+ES2010b.A.dialog-act.dharshi.50	389.31	391.31	PM	A	el.sug	-1	0	Who would like to um follow that one up ?
+ES2010b.A.dialog-act.dharshi.51	392.53	393.59	PM	A	fra	-1	0	Now , that we've discussed {disfmarker}
+ES2010b.D.dialog-act.dharshi.2	392.84	393.38	ME	D	off	-1	0	I can go .
+ES2010b.A.dialog-act.dharshi.52	393.59	394.27	PM	A	ass	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.53	394.27	396.47	PM	A	el.sug	-1	0	Do you want me to run it or you wanna {disfmarker}
+ES2010b.D.dialog-act.dharshi.3	395.72	396.5	ME	D	sug	-1	0	Yeah , you should run it .
+ES2010b.A.dialog-act.dharshi.54	396.47	396.77	PM	A	ass	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.55	398.106	399.136	PM	A	fra	-1	0	{vocalsound}
+ES2010b.A.dialog-act.dharshi.56	400.66	402.8	PM	A	el.inf	-1	0	Functional requirements .
+ES2010b.D.dialog-act.dharshi.4	401.888	403.13	ME	D	inf	-1	0	{vocalsound} Mm yes .
+ES2010b.A.dialog-act.dharshi.57	402.8	402.88	PM	A	ass	-1	0	'Kay .
+ES2010b.A.dialog-act.dharshi.58	410.72	411.2	PM	A	stl	-1	0	Alright .
+ES2010b.A.dialog-act.dharshi.59	411.2	414.03	PM	A	inf	+1	1	Now we have Courtney with the functional requirements .
+ES2010b.D.dialog-act.dharshi.5	414.01	414.75	ME	D	ass	-1	0	Yes ,
+ES2010b.D.dialog-act.dharshi.6	414.75	418.55	ME	D	inf	+1	1	okay so we tested a hundred subjects in our lab ,
+ES2010b.D.dialog-act.dharshi.7	418.55	423.73	ME	D	inf	+1	1	and we just we watched them and we also made them fill out a questionnaire ,
+ES2010b.D.dialog-act.dharshi.8	423.73	429.23	ME	D	inf	-1	0	and we found that the {vocalsound} users are not typically happy with current remote controls .
+ES2010b.D.dialog-act.dharshi.9	429.23	431.39	ME	D	inf	+1	1	Seventy five percent think they're ugly .
+ES2010b.D.dialog-act.dharshi.10	431.39	439.16	ME	D	inf	+1	1	Eighty percent want {disfmarker} they've {disfmarker} are willing to spend more , which is good news for us um if we make it look fancier ,
+ES2010b.D.dialog-act.dharshi.11	439.16	442.87	ME	D	stl	-1	0	and basically w we just need something that really
+ES2010b.D.dialog-act.dharshi.12	442.87	444.78	ME	D	inf	-1	0	I mean there's some other points up there ,
+ES2010b.D.dialog-act.dharshi.13	444.78	449.26	ME	D	inf	-1	0	but they {disfmarker} it needs to be snazzy and it {disfmarker} but yet simple .
+ES2010b.C.dialog-act.dharshi.46	449.712	451.6	UI	C	oth	-1	0	{gap} Wait .
+ES2010b.D.dialog-act.dharshi.14	449.26	452.01	ME	D	sug	-1	0	So that's really what we need to do .
+ES2010b.D.dialog-act.dharshi.15	452.01	457.488	ME	D	sug	+1	1	And we need we need it to be simple , yet it needs to be high-tech looking . So {disfmarker}
+ES2010b.C.dialog-act.dharshi.47	457.28	458.84	UI	C	el.inf	-1	0	And that meaning what ?
+ES2010b.D.dialog-act.dharshi.16	458.8	459.184	ME	D	stl	-1	0	Like {disfmarker}
+ES2010b.D.dialog-act.dharshi.17	460.24	463.66	ME	D	inf	-1	0	They like I guess use the buttons a lot .
+ES2010b.C.dialog-act.dharshi.48	463.22	463.68	UI	C	ass	-1	0	Okay .
+ES2010b.D.dialog-act.dharshi.18	463.66	463.9	ME	D	ass	-1	0	Yeah .
+ES2010b.C.dialog-act.dharshi.49	465.341	467.237	UI	C	fra	-1	0	{gap}
+ES2010b.D.dialog-act.dharshi.19	465.48	466.47	ME	D	inf	-1	0	I don't know .
+ES2010b.D.dialog-act.dharshi.20	466.47	467.92	ME	D	inf	-1	0	It's from my uh research .
+ES2010b.A.dialog-act.dharshi.60	469.05	470.43	PM	A	fra	-1	0	Okay , what do you m
+ES2010b.C.dialog-act.dharshi.50	468.57	468.8	UI	C	bck	-1	0	Right .
+ES2010b.D.dialog-act.dharshi.21	469.32	471.33	ME	D	be.pos	-1	0	My team wasn't very clear .
+ES2010b.A.dialog-act.dharshi.61	470.43	471.67	PM	A	be.pos	-1	0	Oh , I'm sorry .
+ES2010b.C.dialog-act.dharshi.51	470.04	471.62	UI	C	oth	-1	0	Only use ten percent of the buttons .
+ES2010b.A.dialog-act.dharshi.62	471.67	479.29	PM	A	el.inf	+1	1	What do you mean by um the current remote controls do not match well with the operating behaviour of the user , like they have to press the buttons .
+ES2010b.D.dialog-act.dharshi.22	471.33	471.71	ME	D	ass	-1	0	{vocalsound} That's okay .
+ES2010b.D.dialog-act.dharshi.23	478.2	481.52	ME	D	inf	+1	1	I I think it's like the engineering versus user ,
+ES2010b.A.dialog-act.dharshi.63	481.0	481.2	PM	A	bck	-1	0	Okay .
+ES2010b.D.dialog-act.dharshi.24	481.52	486.35	ME	D	inf	-1	0	whereas like the engineering she showed that the engineering ones are more complex
+ES2010b.A.dialog-act.dharshi.64	485.84	486.33	PM	A	bck	-1	0	Oh , right .
+ES2010b.D.dialog-act.dharshi.25	486.35	493.37	ME	D	inf	+1	1	and users don't really need all of the buttons that are contained on there , because they only use ten percent of the buttons really .
+ES2010b.A.dialog-act.dharshi.65	489.22	490.03	PM	A	bck	-1	0	The buttons .
+ES2010b.A.dialog-act.dharshi.66	491.46	491.58	PM	A	bck	-1	0	Okay .
+ES2010b.B.dialog-act.dharshi.3	491.397	491.951	ID	B	fra	-1	0	{vocalsound}
+ES2010b.A.dialog-act.dharshi.67	493.35	494.56	PM	A	bck	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.68	494.56	494.93	PM	A	ass	-1	0	Okay .
+ES2010b.B.dialog-act.dharshi.4	494.66	497.12	ID	B	inf	-1	0	We only use ten per cent of our brains . {vocalsound}
+ES2010b.C.dialog-act.dharshi.52	496.437	498.725	UI	C	fra	-1	0	{vocalsound} {vocalsound}
+ES2010b.D.dialog-act.dharshi.26	497.14	499.02	ME	D	ass	-1	0	Good point .
+ES2010b.A.dialog-act.dharshi.69	498.23	500.83	PM	A	inf	-1	0	It works .
+ES2010b.D.dialog-act.dharshi.27	499.02	499.99	ME	D	ass	-1	0	It's a necessary evil .
+ES2010b.B.dialog-act.dharshi.5	500.032	500.69	ID	B	bck	-1	0	{vocalsound} yeah .
+ES2010b.A.dialog-act.dharshi.70	500.83	501.57	PM	A	el.inf	-1	0	{vocalsound} Ready for the next slide ?
+ES2010b.D.dialog-act.dharshi.28	501.54	502.94	ME	D	inf	-1	0	Mm-hmm .
+ES2010b.D.dialog-act.dharshi.29	502.94	506.89	ME	D	inf	+1	1	{vocalsound} And so people say that they typically lose it ,
+ES2010b.D.dialog-act.dharshi.30	506.89	510.38	ME	D	inf	-1	0	as you yourself know , because you probably lose your remote control all the time ,
+ES2010b.A.dialog-act.dharshi.71	510.27	510.39	PM	A	bck	-1	0	Hmm .
+ES2010b.D.dialog-act.dharshi.31	510.38	513.17	ME	D	inf	-1	0	much like any small appliance like a cellphone ,
+ES2010b.C.dialog-act.dharshi.53	511.75	512.13	UI	C	bck	-1	0	Lost .
+ES2010b.D.dialog-act.dharshi.32	513.17	515.36	ME	D	stl	-1	0	and they {disfmarker}
+ES2010b.D.dialog-act.dharshi.34	515.36	516.31	ME	D	sug	-1	0	we need something simple ,
+ES2010b.D.dialog-act.dharshi.35	516.31	523.01	ME	D	inf	-1	0	because most people , well thirty four percent say that it's just too much time to learn how to use a new one ,
+ES2010b.D.dialog-act.dharshi.36	523.01	523.84	ME	D	stl	-1	0	and we don't want to go {disfmarker}
+ES2010b.D.dialog-act.dharshi.37	523.84	528.01	ME	D	sug	-1	0	we don't want to vary too far from the normal standard remote ,
+ES2010b.C.dialog-act.dharshi.54	526.53	526.75	UI	C	fra	-1	0	S
+ES2010b.D.dialog-act.dharshi.38	528.01	530.37	ME	D	inf	-1	0	but I mean they do need to be able to identify it ,
+ES2010b.D.dialog-act.dharshi.39	530.37	533.15	ME	D	inf	+1	1	and R_S_I_ , I'm not very sure what that is .
+ES2010b.A.dialog-act.dharshi.72	533.41	534.34	PM	A	ass	-1	0	It's okay .
+ES2010b.A.dialog-act.dharshi.73	534.34	536.128	PM	A	be.pos	-1	0	It's very important . {vocalsound}
+ES2010b.D.dialog-act.dharshi.40	534.35	536.98	ME	D	be.pos	-1	0	Yes , it is important for the remote control world .
+ES2010b.A.dialog-act.dharshi.74	537.2	537.92	PM	A	fra	-1	0	{vocalsound}
+ES2010b.C.dialog-act.dharshi.55	536.87	537.72	UI	C	oth	-1	0	Wait ,
+ES2010b.C.dialog-act.dharshi.56	537.72	538.592	UI	C	inf	-1	0	is that like your {disfmarker}
+ES2010b.C.dialog-act.dharshi.57	539.83	542.06	UI	C	inf	-1	0	ergonomics like your hand movements or something ?
+ES2010b.D.dialog-act.dharshi.41	539.88	540.09	ME	D	fra	-1	0	Sh
+ES2010b.A.dialog-act.dharshi.75	542.4	543.28	PM	A	ass	-1	0	Could be , yeah .
+ES2010b.D.dialog-act.dharshi.42	542.93	543.89	ME	D	ass	-1	0	Uh possibly .
+ES2010b.B.dialog-act.dharshi.6	545.0	548.78	ID	B	el.inf	+1	1	Do we really need t to provide more information on what R_S_I_ is ?
+ES2010b.C.dialog-act.dharshi.58	547.56	549.016	UI	C	fra	-1	0	Like {disfmarker} {vocalsound}
+ES2010b.A.dialog-act.dharshi.76	549.01	549.94	PM	A	fra	-1	0	Oh .
+ES2010b.D.dialog-act.dharshi.44	549.01	550.64	ME	D	inf	+1	1	Uh yeah , that's what my web site said ,
+ES2010b.D.dialog-act.dharshi.45	550.64	550.86	ME	D	fra	-1	0	I
+ES2010b.C.dialog-act.dharshi.59	551.27	551.94	UI	C	oth	-1	0	Channel , volume , power .
+ES2010b.A.dialog-act.dharshi.77	551.97	553.5	PM	A	ass	-1	0	I think that's a pretty good guess though .
+ES2010b.D.dialog-act.dharshi.46	551.94	552.46	ME	D	inf	-1	0	don't know .
+ES2010b.C.dialog-act.dharshi.60	553.904	554.699	UI	C	fra	-1	0	{vocalsound}
+ES2010b.D.dialog-act.dharshi.47	553.62	555.44	ME	D	ass	-1	0	Yeah , I would assume so .
+ES2010b.C.dialog-act.dharshi.61	555.58	556.863	UI	C	fra	-1	0	It's like if you're holding it {disfmarker}
+ES2010b.D.dialog-act.dharshi.48	555.44	559.08	ME	D	inf	-1	0	I think we're supposed to know it as remote control experts .
+ES2010b.A.dialog-act.dharshi.78	558.85	561.361	PM	A	bck	-1	0	Yeah . It's okay . {vocalsound}
+ES2010b.D.dialog-act.dharshi.49	559.08	564.52	ME	D	inf	-1	0	{vocalsound} But also s so the channel , the volume and the power buttons are the most important
+ES2010b.D.dialog-act.dharshi.50	564.52	572.05	ME	D	inf	-1	0	on our company website you can find like the specific statistics concerning to how much each button is used ,
+ES2010b.D.dialog-act.dharshi.51	572.05	574.19	ME	D	inf	-1	0	but those are the definitely the top ones .
+ES2010b.A.dialog-act.dharshi.79	574.64	575.98	PM	A	ass	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.80	575.98	576.55	PM	A	el.inf	-1	0	Next slide ?
+ES2010b.D.dialog-act.dharshi.52	576.31	576.72	ME	D	inf	-1	0	Yes .
+ES2010b.D.dialog-act.dharshi.53	577.86	581.52	ME	D	sug	-1	0	And so personally I think that we need a modern eye-catching design ,
+ES2010b.D.dialog-act.dharshi.54	581.52	583.68	ME	D	sug	-1	0	but it it really needs to be simple .
+ES2010b.D.dialog-act.dharshi.55	583.68	591.88	ME	D	inf	-1	0	So saying from y your slide , your presentation , the engineering versus the user-specified remotes ,
+ES2010b.D.dialog-act.dharshi.56	591.88	595.05	ME	D	sug	+1	1	I think that we should go with something that's more user-friendly .
+ES2010b.A.dialog-act.dharshi.81	593.76	594.35	PM	A	bck	-1	0	User-friendly .
+ES2010b.D.dialog-act.dharshi.57	595.05	600.43	ME	D	ass	-1	0	Where the engineering ones , the boxes , tend to make it look more complicated than it really is .
+ES2010b.D.dialog-act.dharshi.58	600.43	608.28	ME	D	sug	-1	0	Um the functionality of the product really needs to be considered as to like what type of buttons do we really need on it .
+ES2010b.D.dialog-act.dharshi.59	608.67	611.97	ME	D	sug	-1	0	And it needs to be open to a wide range of consumers ,
+ES2010b.D.dialog-act.dharshi.60	611.97	624.37	ME	D	sug	-1	0	so even though we need a small number of buttons , we also need to take in {disfmarker} like are most people going to be using it for a D_V_D_ player , a TiVo , what what exactly are we using it for ,
+ES2010b.D.dialog-act.dharshi.61	624.37	626.69	ME	D	inf	-1	0	as well as the age range .
+ES2010b.D.dialog-act.dharshi.62	626.69	632.5	ME	D	sug	-1	0	So we need a hip , but not a corny marketing scheme for promoting our product .
+ES2010b.C.dialog-act.dharshi.62	631.307	632.213	UI	C	fra	-1	0	{gap}
+ES2010b.D.dialog-act.dharshi.63	632.5	638.32	ME	D	inf	+1	1	And also we found {disfmarker} our team found that speech recognition is {disfmarker} it's like an up-and-coming thing
+ES2010b.D.dialog-act.dharshi.64	638.32	639.51	ME	D	stl	-1	0	they really {disfmarker}
+ES2010b.D.dialog-act.dharshi.65	639.51	641.38	ME	D	inf	-1	0	consumers are really interested in it ,
+ES2010b.D.dialog-act.dharshi.66	641.38	649.79	ME	D	sug	-1	0	and since our findings found that people are willing to pay more money for a remote for it to be more high-class we could consider it .
+ES2010b.A.dialog-act.dharshi.82	648.58	650.06	PM	A	stl	-1	0	And so just to {disfmarker}
+ES2010b.A.dialog-act.dharshi.83	650.06	655.22	PM	A	el.inf	-1	0	just to clarify by speech recognition you mean they would say , channel five , and the thing would go to channel five ?
+ES2010b.D.dialog-act.dharshi.67	654.37	655.27	ME	D	inf	-1	0	I guess so , yeah .
+ES2010b.C.dialog-act.dharshi.63	655.552	655.872	UI	C	fra	-1	0	{vocalsound}
+ES2010b.A.dialog-act.dharshi.84	656.82	657.58	PM	A	ass	-1	0	Okay .
+ES2010b.C.dialog-act.dharshi.64	657.68	661.806	UI	C	sug	-1	0	{gap} to just say , where are you , and thing beeps , you know . {vocalsound}
+ES2010b.A.dialog-act.dharshi.85	660.322	662.46	PM	A	ass	-1	0	{vocalsound} Oh , that'd be lovely .
+ES2010b.D.dialog-act.dharshi.68	660.39	660.74	ME	D	ass	-1	0	Yeah ,
+ES2010b.D.dialog-act.dharshi.69	660.74	667.45	ME	D	sug	-1	0	I guess we can interpret it like , we can just try out different types of speech recognition within our remote programme .
+ES2010b.C.dialog-act.dharshi.65	664.52	664.71	UI	C	bck	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.86	666.64	675.973	PM	A	el.inf	+1	1	{vocalsound} Didn't they {disfmarker} um didn't our rival companies manufacture a remote that you would press the button on the T_V_ and it would {disfmarker} the remote would beep so if you have lost it {disfmarker}
+ES2010b.C.dialog-act.dharshi.66	675.14	677.1	UI	C	inf	-1	0	It's kinda like what the remote phone used to do .
+ES2010b.A.dialog-act.dharshi.87	677.27	679.56	PM	A	ass	-1	0	Mm . Oh , yeah , that's true .
+ES2010b.C.dialog-act.dharshi.67	678.74	682.01	UI	C	inf	-1	0	You know like go to the base .
+ES2010b.A.dialog-act.dharshi.88	679.56	681.37	PM	A	sug	+1	1	We could definitely include that if we wanted to .
+ES2010b.C.dialog-act.dharshi.68	682.01	682.3	UI	C	ass	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.89	682.66	684.85	PM	A	inf	-1	0	If it's within our price .
+ES2010b.A.dialog-act.dharshi.90	684.85	685.99	PM	A	stl	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.93	685.99	687.93	PM	A	el.sug	-1	0	Are we ready for our last presentation , Amber ?
+ES2010b.B.dialog-act.dharshi.7	688.21	688.45	ID	B	off	-1	0	Yeah ,
+ES2010b.B.dialog-act.dharshi.8	688.45	690.13	ID	B	inf	-1	0	I'm just trying to move it .
+ES2010b.A.dialog-act.dharshi.92	689.63	689.96	PM	A	ass	-1	0	Okay .
+ES2010b.B.dialog-act.dharshi.9	698.8	701.74	ID	B	inf	-1	0	'Kay . I think it should be there , working design .
+ES2010b.C.dialog-act.dharshi.71	700.7	701.5	UI	C	el.inf	-1	0	Working design .
+ES2010b.A.dialog-act.dharshi.94	702.55	703.07	PM	A	oth	-1	0	There we go .
+ES2010b.C.dialog-act.dharshi.69	702.585	703.427	UI	C	fra	-1	0	{vocalsound}
+ES2010b.A.dialog-act.dharshi.95	705.03	705.83	PM	A	oth	-1	0	'Kay .
+ES2010b.B.dialog-act.dharshi.10	706.11	714.92	ID	B	inf	+1	1	'Kay . Uh I didn't get a chance to complete this one , 'cause some of the tools that I was given were frustrating .
+ES2010b.A.dialog-act.dharshi.96	708.14	709.12	PM	A	be.pos	-1	0	Oh my bad .
+ES2010b.A.dialog-act.dharshi.91	713.52	713.952	PM	A	fra	-1	0	{vocalsound}
+ES2010b.D.dialog-act.dharshi.71	713.92	714.38	ME	D	ass	-1	0	Oh that's fine .
+ES2010b.B.dialog-act.dharshi.12	714.92	724.69	ID	B	inf	-1	0	Uh okay , so method method of our design , I think I just start listing th some of the things that we actually need to put into this .
+ES2010b.C.dialog-act.dharshi.72	715.22	715.5	UI	C	oth	-1	0	Help me .
+ES2010b.B.dialog-act.dharshi.13	724.69	729.82	ID	B	inf	+1	1	We need a power source , we're gonna need a smart chip if we're gonna make it multi-functional .
+ES2010b.B.dialog-act.dharshi.14	729.82	733.92	ID	B	inf	+1	1	Um extra functions will probably need an additional chip .
+ES2010b.B.dialog-act.dharshi.15	733.92	737.73	ID	B	inf	-1	0	Either that or the smart chip will have to be extremely smart .
+ES2010b.C.dialog-act.dharshi.70	738.112	738.512	UI	C	fra	-1	0	{vocalsound}
+ES2010b.D.dialog-act.dharshi.70	739.73	741.12	ME	D	el.inf	-1	0	What exactly is a smart chip ?
+ES2010b.B.dialog-act.dharshi.16	741.46	749.17	ID	B	inf	-1	0	Usually a smart chip is just a chip that's been programmed and designed so that it can complete a fair range of functions .
+ES2010b.C.dialog-act.dharshi.73	749.57	752.46	UI	C	el.inf	-1	0	Well , how much extra would the additional chip be ?
+ES2010b.C.dialog-act.dharshi.74	752.46	754.61	UI	C	el.inf	-1	0	Is that gonna push us over our production costs ?
+ES2010b.B.dialog-act.dharshi.17	754.98	755.97	ID	B	inf	-1	0	I wouldn't think so ,
+ES2010b.B.dialog-act.dharshi.18	755.97	761.81	ID	B	inf	-1	0	'cause we could probably get it from like , in bulk , from a a newer company .
+ES2010b.B.dialog-act.dharshi.19	761.81	763.72	ID	B	inf	-1	0	And they tend to sell their chips pretty cheap .
+ES2010b.C.dialog-act.dharshi.75	761.45	761.73	UI	C	bck	-1	0	Mm-hmm .
+ES2010b.A.dialog-act.dharshi.99	763.96	764.83	PM	A	bck	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.98	765.78	766.11	PM	A	el.inf	-1	0	Ready ?
+ES2010b.B.dialog-act.dharshi.29	765.86	767.61	ID	B	inf	-1	0	Um yep ,
+ES2010b.B.dialog-act.dharshi.30	767.61	768.27	ID	B	inf	-1	0	nothing here .
+ES2010b.A.dialog-act.dharshi.100	768.55	769.36	PM	A	ass	-1	0	That's okay .
+ES2010b.C.dialog-act.dharshi.76	768.349	769.254	UI	C	fra	-1	0	{vocalsound}
+ES2010b.B.dialog-act.dharshi.20	770.32	773.01	ID	B	sug	+1	1	Um power source , I figured , batteries ,
+ES2010b.B.dialog-act.dharshi.36	773.01	776.06	ID	B	ass	+1	0	'cause they're easily available .
+ES2010b.B.dialog-act.dharshi.21	776.06	781.31	ID	B	inf	+1	1	Typically a remote has either two double A_s or four triple A_s , sometimes three .
+ES2010b.B.dialog-act.dharshi.22	781.31	785.82	ID	B	inf	-1	0	Uh it really kinda depends on the size of the actual remote itself .
+ES2010b.C.dialog-act.dharshi.77	781.056	781.741	UI	C	fra	-1	0	{gap}
+ES2010b.B.dialog-act.dharshi.23	785.82	788.5	ID	B	inf	-1	0	Um a large on-off button ,
+ES2010b.B.dialog-act.dharshi.25	788.5	793.18	ID	B	inf	-1	0	{vocalsound} demographically we're moving towards an older generation of people ,
+ES2010b.B.dialog-act.dharshi.26	793.18	797.13	ID	B	sug	+1	1	so a large on-off button would probably be good .
+ES2010b.C.dialog-act.dharshi.78	793.736	794.612	UI	C	fra	-1	0	{vocalsound}
+ES2010b.C.dialog-act.dharshi.79	795.377	796.546	UI	C	fra	-1	0	{gap}
+ES2010b.A.dialog-act.dharshi.101	796.98	797.09	PM	A	bck	-1	0	Hmm .
+ES2010b.B.dialog-act.dharshi.27	797.13	806.38	ID	B	inf	-1	0	Selection button for various entertainment devices , so you want something that will permit you to select the D_V_D_ player or the T_V_ or the stereo system .
+ES2010b.B.dialog-act.dharshi.31	807.92	813.28	ID	B	inf	-1	0	Um smart chip that perverts {disfmarker} uh that permits , sorry , universal application
+ES2010b.B.dialog-act.dharshi.32	813.28	818.93	ID	B	inf	-1	0	again , something that'll allow us to skip over between devices ,
+ES2010b.B.dialog-act.dharshi.33	818.93	821.43	ID	B	inf	-1	0	and that's kinda it .
+ES2010b.A.dialog-act.dharshi.97	819.96	820.702	PM	A	fra	-1	0	{gap}
+ES2010b.B.dialog-act.dharshi.34	821.43	826.21	ID	B	inf	-1	0	Uh this is my fifty second design .
+ES2010b.C.dialog-act.dharshi.80	826.47	827.828	UI	C	fra	-1	0	{vocalsound}
+ES2010b.B.dialog-act.dharshi.35	827.97	830.56	ID	B	inf	-1	0	Power source over here .
+ES2010b.B.dialog-act.dharshi.37	830.56	835.52	ID	B	sug	-1	0	We're gonna have a switch obviously between the power source and the rest of it , and you're gonna need the switch .
+ES2010b.B.dialog-act.dharshi.40	835.52	840.71	ID	B	sug	+1	1	Um extra bulb could just be for flashiness ,
+ES2010b.B.dialog-act.dharshi.41	840.71	849.45	ID	B	inf	-1	0	um subcomponent which would be like a way of diverting the power to different parts of the the device .
+ES2010b.B.dialog-act.dharshi.42	849.45	855.56	ID	B	inf	-1	0	Um the chip and of course the infra-red bulb , so it can communicate with the various devices that it needs to talk to .
+ES2010b.D.dialog-act.dharshi.72	855.91	859.7	ME	D	el.inf	-1	0	So what exactly we are looking at , is this like the front of the remote ?
+ES2010b.B.dialog-act.dharshi.38	858.39	860.82	ID	B	inf	-1	0	This is just like a rough schematic .
+ES2010b.A.dialog-act.dharshi.102	860.82	862.81	PM	A	el.inf	-1	0	So this would be the front ?
+ES2010b.B.dialog-act.dharshi.39	860.82	862.62	ID	B	inf	-1	0	So this is the internal workings .
+ES2010b.A.dialog-act.dharshi.103	862.81	865.5	PM	A	el.inf	-1	0	So the red would be the front of the remote though , right ?
+ES2010b.D.dialog-act.dharshi.74	862.96	863.38	ME	D	bck	-1	0	Oh okay .
+ES2010b.B.dialog-act.dharshi.43	864.92	865.32	ID	B	inf	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.105	865.5	865.76	PM	A	ass	-1	0	Okay .
+ES2010b.C.dialog-act.dharshi.81	865.43	867.96	UI	C	inf	-1	0	Yeah , that's gonna be what's communicating with the T_V_ ,
+ES2010b.C.dialog-act.dharshi.82	867.96	873.67	UI	C	ass	+1	2	but the other bulb , I think , is good to just to indicate , I'm doing something , it's sort of like a reassurance .
+ES2010b.A.dialog-act.dharshi.106	872.56	875.93	PM	A	ass	-1	0	The l {vocalsound} the light up kind of {disfmarker}
+ES2010b.B.dialog-act.dharshi.44	873.32	875.73	ID	B	ass	-1	0	Yeah , so you don't have to stare at that infra-red ,
+ES2010b.D.dialog-act.dharshi.75	872.84	874.49	ME	D	ass	+1	2	Like that we know the battery's working .
+ES2010b.A.dialog-act.dharshi.107	875.93	876.27	PM	A	bck	-1	0	Yeah .
+ES2010b.B.dialog-act.dharshi.45	875.73	884.4	ID	B	inf	-1	0	'cause you know when the battery starts dying in your remote currently , you have to actually stare at that bulb and go , okay , when I push this button , is it working ?
+ES2010b.A.dialog-act.dharshi.108	881.84	882.03	PM	A	bck	-1	0	Hmm .
+ES2010b.A.dialog-act.dharshi.109	883.99	885.57	PM	A	inf	-1	0	It'd probably be lighting up the key too ,
+ES2010b.D.dialog-act.dharshi.76	883.68	884.13	ME	D	bck	-1	0	Okay .
+ES2010b.B.dialog-act.dharshi.46	884.4	886.12	ID	B	sug	-1	0	We can skip that whole thing .
+ES2010b.A.dialog-act.dharshi.110	885.57	885.88	PM	A	el.ass	-1	0	right ?
+ES2010b.B.dialog-act.dharshi.47	886.12	886.36	ID	B	ass	-1	0	Yep .
+ES2010b.A.dialog-act.dharshi.111	886.74	887.0	PM	A	bck	-1	0	'Kay .
+ES2010b.C.dialog-act.dharshi.83	886.58	886.83	UI	C	ass	-1	0	Yeah .
+ES2010b.D.dialog-act.dharshi.77	886.26	886.61	ME	D	ass	-1	0	Yeah .
+ES2010b.B.dialog-act.dharshi.48	887.85	890.048	ID	B	inf	-1	0	So you can put it in the dark . {vocalsound}
+ES2010b.A.dialog-act.dharshi.112	888.56	889.05	PM	A	bck	-1	0	The buttons .
+ES2010b.D.dialog-act.dharshi.78	890.18	891.49	ME	D	ass	-1	0	Yeah , and that's good .
+ES2010b.A.dialog-act.dharshi.113	891.51	891.85	PM	A	bck	-1	0	Okay .
+ES2010b.D.dialog-act.dharshi.73	891.49	893.952	ME	D	sug	+1	0	We should make it glow in the dark . {vocalsound}
+ES2010b.A.dialog-act.dharshi.114	892.93	893.88	PM	A	ass	-1	0	Yeah , definitely .
+ES2010b.A.dialog-act.dharshi.115	893.88	895.46	PM	A	el.inf	-1	0	'Kay nex R Ready ?
+ES2010b.B.dialog-act.dharshi.49	895.48	896.2	ID	B	inf	-1	0	Yeah , that's it .
+ES2010b.A.dialog-act.dharshi.116	896.57	898.43	PM	A	el.ass	-1	0	'Kay , any p 'Kay ?
+ES2010b.C.dialog-act.dharshi.84	896.72	897.232	UI	C	fra	-1	0	{vocalsound}
+ES2010b.D.dialog-act.dharshi.79	897.85	898.13	ME	D	bck	-1	0	Mm 'kay .
+ES2010b.A.dialog-act.dharshi.117	899.99	901.85	PM	A	el.sug	-1	0	Anything you wanna add for personal preferences though ,
+ES2010b.A.dialog-act.dharshi.118	901.85	905.4	PM	A	inf	-1	0	you f you said already that we needed a large on-off button , you think .
+ES2010b.A.dialog-act.dharshi.119	905.4	905.9	PM	A	el.sug	-1	0	Anything else ?
+ES2010b.B.dialog-act.dharshi.50	905.33	906.7	ID	B	ass	-1	0	I think that that's a good idea ,
+ES2010b.B.dialog-act.dharshi.51	906.7	909.63	ID	B	inf	-1	0	because you know that's one of the most important buttons .
+ES2010b.C.dialog-act.dharshi.85	908.58	909.176	UI	C	fra	-1	0	Just {disfmarker}
+ES2010b.A.dialog-act.dharshi.120	909.95	910.21	PM	A	bck	-1	0	Okay .
+ES2010b.C.dialog-act.dharshi.86	910.18	912.32	UI	C	el.ass	+1	1	Well , should it be larger buttons in general ,
+ES2010b.C.dialog-act.dharshi.87	912.32	915.25	UI	C	inf	-1	0	you know like uh the examples that I had , they were swi quite small .
+ES2010b.C.dialog-act.dharshi.88	915.25	919.11	UI	C	sug	-1	0	So should we try and go for something that has l larger buttons ?
+ES2010b.D.dialog-act.dharshi.80	919.19	919.96	ME	D	ass	-1	0	I think we should .
+ES2010b.D.dialog-act.dharshi.81	919.96	923.74	ME	D	fra	-1	0	Like I think that would be in a as in {disfmarker} like in {disfmarker} for the design ,
+ES2010b.D.dialog-act.dharshi.82	923.74	925.01	ME	D	be.pos	-1	0	sorry , um .
+ES2010b.D.dialog-act.dharshi.83	925.01	927.8	ME	D	sug	-1	0	I think we should definitely go with buttons that don't look like a normal remote ,
+ES2010b.D.dialog-act.dharshi.84	927.8	929.85	ME	D	inf	-1	0	'cause most remotes have small square buttons ,
+ES2010b.A.dialog-act.dharshi.121	929.78	929.93	PM	A	bck	-1	0	Mm .
+ES2010b.D.dialog-act.dharshi.85	929.85	933.47	ME	D	sug	+1	1	I think we should do something like maybe bigger and round like bubbles .
+ES2010b.C.dialog-act.dharshi.89	931.26	931.72	UI	C	sug	-1	0	Ovals .
+ES2010b.C.dialog-act.dharshi.90	932.87	933.53	UI	C	bck	-1	0	Yeah , yeah .
+ES2010b.A.dialog-act.dharshi.122	933.96	935.27	PM	A	stl	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.123	935.27	937.168	PM	A	fra	-1	0	Okay , let's talk about all of our {disfmarker}
+ES2010b.A.dialog-act.dharshi.124	938.74	942.2	PM	A	sug	-1	0	We'll come to decision later about all the components that we need to include ,
+ES2010b.A.dialog-act.dharshi.125	942.2	944.83	PM	A	sug	-1	0	let's um wrap up this one ,
+ES2010b.A.dialog-act.dharshi.126	944.83	947.38	PM	A	off	-1	0	and {vocalsound} I'm gonna go back to my PowerPoint ,
+ES2010b.A.dialog-act.dharshi.127	947.38	949.76	PM	A	inf	-1	0	'cause we need to discuss the new project requirements
+ES2010b.A.dialog-act.dharshi.128	949.76	953.59	PM	A	inf	-1	0	which you might've already seen flashed up on the screen a bit earlier .
+ES2010b.A.dialog-act.dharshi.129	953.59	955.29	PM	A	oth	-1	0	{vocalsound} Wait , come back .
+ES2010b.A.dialog-act.dharshi.130	957.47	958.7	PM	A	stl	-1	0	Alright .
+ES2010b.A.dialog-act.dharshi.131	958.7	959.22	PM	A	be.pos	-1	0	Sorry ,
+ES2010b.A.dialog-act.dharshi.132	959.22	960.9	PM	A	sug	-1	0	let's go through this .
+ES2010b.A.dialog-act.dharshi.133	960.9	961.45	PM	A	stl	-1	0	Alright .
+ES2010b.A.dialog-act.dharshi.134	961.45	962.68	PM	A	oth	-1	0	Here we go .
+ES2010b.A.dialog-act.dharshi.135	962.68	963.99	PM	A	inf	+1	1	New product requirements .
+ES2010b.A.dialog-act.dharshi.136	963.99	967.11	PM	A	inf	+1	1	First it's only going to be a T_V_ remote .
+ES2010b.A.dialog-act.dharshi.137	967.11	970.43	PM	A	inf	-1	0	We're trying not to over-complicate things .
+ES2010b.A.dialog-act.dharshi.138	970.43	972.93	PM	A	inf	+1	2	So no D_V_D_ , no TiVo , no stereo .
+ES2010b.B.dialog-act.dharshi.52	971.968	973.07	ID	B	bck	-1	0	{vocalsound} Okay .
+ES2010b.A.dialog-act.dharshi.139	972.93	974.25	PM	A	inf	-1	0	It's not gonna be multi-functional .
+ES2010b.C.dialog-act.dharshi.91	976.689	977.611	UI	C	fra	-1	0	{gap}
+ES2010b.A.dialog-act.dharshi.140	977.29	978.23	PM	A	stl	-1	0	Hey .
+ES2010b.A.dialog-act.dharshi.141	978.23	981.03	PM	A	inf	-1	0	And we th need to promote our company more ,
+ES2010b.A.dialog-act.dharshi.142	981.03	985.95	PM	A	inf	+1	1	so we need to somehow include our colour and our company slogan on the remote .
+ES2010b.A.dialog-act.dharshi.143	987.64	992.05	PM	A	inf	-1	0	We're trying to get our name out there in the world .
+ES2010b.A.dialog-act.dharshi.144	992.05	992.59	PM	A	stl	-1	0	Okay .
+ES2010b.C.dialog-act.dharshi.92	991.882	992.413	UI	C	fra	-1	0	{gap}
+ES2010b.A.dialog-act.dharshi.145	992.59	995.05	PM	A	el.inf	-1	0	And you know what teletext is ?
+ES2010b.C.dialog-act.dharshi.93	995.73	995.89	UI	C	inf	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.146	996.448	997.64	PM	A	inf	-1	0	{gap} in States we don't have it ,
+ES2010b.A.dialog-act.dharshi.147	997.64	1003.13	PM	A	inf	-1	0	but um it's like they just have this channel where just has news and weather , kind of sports ,
+ES2010b.C.dialog-act.dharshi.94	997.94	998.46	UI	C	inf	-1	0	I know .
+ES2010b.D.dialog-act.dharshi.86	997.96	998.4	ME	D	el.inf	-1	0	What is it ?
+ES2010b.C.dialog-act.dharshi.95	999.346	1000.31	UI	C	fra	-1	0	{vocalsound}
+ES2010b.A.dialog-act.dharshi.148	1003.13	1006.23	PM	A	inf	-1	0	it's very um bland looking ,
+ES2010b.A.dialog-act.dharshi.149	1006.23	1008.02	PM	A	inf	-1	0	it's just text on the screen ,
+ES2010b.C.dialog-act.dharshi.96	1007.52	1007.73	UI	C	ass	-1	0	Yeah ,
+ES2010b.A.dialog-act.dharshi.150	1008.02	1008.72	PM	A	fra	-1	0	not even {disfmarker}
+ES2010b.C.dialog-act.dharshi.97	1007.73	1009.689	UI	C	inf	-1	0	it's like black , black and white kind of {disfmarker}
+ES2010b.A.dialog-act.dharshi.151	1008.72	1009.02	PM	A	ass	-1	0	Yeah ,
+ES2010b.A.dialog-act.dharshi.152	1009.02	1010.99	PM	A	inf	-1	0	just black with just text .
+ES2010b.D.dialog-act.dharshi.87	1010.36	1011.85	ME	D	el.inf	-1	0	Like running along the bottom ?
+ES2010b.A.dialog-act.dharshi.153	1011.93	1012.39	PM	A	inf	-1	0	Yeah .
+ES2010b.B.dialog-act.dharshi.53	1012.23	1015.296	ID	B	inf	-1	0	You can also get the kind of the T_V_ guide so {disfmarker}
+ES2010b.C.dialog-act.dharshi.98	1012.39	1014.9	UI	C	inf	-1	0	It'll give you the sports .
+ES2010b.D.dialog-act.dharshi.88	1015.24	1015.34	ME	D	oth	-1	0	Wait ,
+ES2010b.D.dialog-act.dharshi.89	1015.34	1019.48	ME	D	el.inf	-1	0	is it like the Weather Channel where it's got like the ticker running on the bottom or something ?
+ES2010b.A.dialog-act.dharshi.154	1018.76	1019.29	PM	A	inf	-1	0	Kind of .
+ES2010b.C.dialog-act.dharshi.99	1018.84	1020.67	UI	C	inf	-1	0	Except the entire screen .
+ES2010b.A.dialog-act.dharshi.155	1020.71	1021.76	PM	A	ass	-1	0	Yeah it's the whole screen .
+ES2010b.B.dialog-act.dharshi.54	1020.31	1025.0	ID	B	inf	-1	0	It's the entire screen is just running information at random .
+ES2010b.A.dialog-act.dharshi.156	1024.6	1025.056	PM	A	stl	-1	0	So anyway {disfmarker}
+ES2010b.C.dialog-act.dharshi.100	1024.44	1027.5	UI	C	inf	-1	0	You can pick sports , you can pick the news , you entertainment ,
+ES2010b.B.dialog-act.dharshi.55	1025.0	1025.55	ID	B	ass	-1	0	Seemingly .
+ES2010b.C.dialog-act.dharshi.101	1027.5	1028.08	UI	C	fra	-1	0	you know it's like {disfmarker}
+ES2010b.A.dialog-act.dharshi.160	1028.46	1029.58	PM	A	bck	-1	0	Right .
+ES2010b.D.dialog-act.dharshi.90	1028.02	1030.22	ME	D	el.inf	-1	0	So it's like a separate channel from like what you're watching ?
+ES2010b.A.dialog-act.dharshi.161	1029.58	1030.48	PM	A	bck	-1	0	Right .
+ES2010b.A.dialog-act.dharshi.159	1030.48	1032.81	PM	A	inf	+1	1	But it's becoming out-dated now , because of the Internet .
+ES2010b.C.dialog-act.dharshi.102	1030.39	1030.63	UI	C	inf	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.162	1032.81	1036.55	PM	A	inf	+1	1	Nobody needs to go to the teletext channel to check the news ,
+ES2010b.A.dialog-act.dharshi.163	1036.55	1039.26	PM	A	inf	-1	0	{vocalsound} and we have twenty four hour news channels now too , so {disfmarker}
+ES2010b.A.dialog-act.dharshi.167	1039.26	1041.97	PM	A	inf	-1	0	Those are our new product requirements .
+ES2010b.A.dialog-act.dharshi.168	1041.97	1043.27	PM	A	stl	-1	0	Alright . Mm-hmm .
+ES2010b.B.dialog-act.dharshi.56	1041.75	1041.96	ID	B	bck	-1	0	Okay .
+ES2010b.D.dialog-act.dharshi.91	1041.46	1041.81	ME	D	bck	-1	0	Okay .
+ES2010b.B.dialog-act.dharshi.57	1041.96	1045.67	ID	B	el.inf	-1	0	So , do we have to include the company colour within that ?
+ES2010b.A.dialog-act.dharshi.169	1045.97	1046.94	PM	A	inf	-1	0	Yes .
+ES2010b.A.dialog-act.dharshi.170	1046.94	1048.66	PM	A	inf	-1	0	It's part of the logo .
+ES2010b.A.dialog-act.dharshi.171	1050.6	1050.94	PM	A	stl	-1	0	Okay .
+ES2010b.C.dialog-act.dharshi.103	1051.03	1053.792	UI	C	inf	-1	0	Company colour being yellow . {vocalsound}
+ES2010b.A.dialog-act.dharshi.172	1053.74	1063.82	PM	A	sug	-1	0	What we're going to do right now is come to some decisions , definitive that we can all agree on , about um the target group and the functions
+ES2010b.A.dialog-act.dharshi.174	1063.82	1065.63	PM	A	inf	-1	0	and just definite things that we need to do
+ES2010b.A.dialog-act.dharshi.175	1065.63	1067.7	PM	A	inf	-1	0	and then we'll close up the meeting .
+ES2010b.A.dialog-act.dharshi.176	1067.7	1071.26	PM	A	stl	-1	0	So . Alright .
+ES2010b.A.dialog-act.dharshi.177	1073.904	1075.84	PM	A	oth	-1	0	{gap} Whatever .
+ES2010b.A.dialog-act.dharshi.178	1077.42	1078.12	PM	A	stl	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.179	1085.32	1088.49	PM	A	inf	-1	0	So our target group is {disfmarker}
+ES2010b.A.dialog-act.dharshi.180	1088.49	1091.47	PM	A	inf	-1	0	You mentioned um older people ?
+ES2010b.A.dialog-act.dharshi.181	1091.47	1094.15	PM	A	el.ass	+1	2	Would it just be universal for everyone , you think ?
+ES2010b.C.dialog-act.dharshi.104	1091.02	1091.43	UI	C	bck	-1	0	Mm-hmm .
+ES2010b.A.dialog-act.dharshi.182	1094.15	1100.576	PM	A	ass	+1	2	Because I think even if something has large buttons , as long as they are not childishly large , like even technically {disfmarker}
+ES2010b.C.dialog-act.dharshi.106	1097.22	1098.58	UI	C	ass	-1	0	It's gonna make it nicer .
+ES2010b.C.dialog-act.dharshi.105	1099.77	1100.14	UI	C	bck	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.183	1102.32	1104.97	PM	A	ass	+1	2	non-technically challenged people are gonna use it .
+ES2010b.A.dialog-act.dharshi.184	1104.97	1107.168	PM	A	inf	-1	0	I mean they want something user-friendly , so {disfmarker}
+ES2010b.B.dialog-act.dharshi.58	1106.93	1116.17	ID	B	sug	-1	0	Mm well , even if we kept the regular standard size of remote , if we reduced the buttons down to the ones that people are saying that they use the most often and a couple extra ,
+ES2010b.A.dialog-act.dharshi.185	1116.2	1116.45	PM	A	bck	-1	0	Yeah .
+ES2010b.B.dialog-act.dharshi.59	1116.17	1118.72	ID	B	inf	-1	0	'cause they're saying they only use ten per cent of them ,
+ES2010b.A.dialog-act.dharshi.186	1118.31	1119.29	PM	A	bck	-1	0	Yeah .
+ES2010b.B.dialog-act.dharshi.60	1118.72	1122.89	ID	B	ass	-1	0	then we should be able to accommodate fairly decent sized buttons .
+ES2010b.A.dialog-act.dharshi.187	1123.08	1130.34	PM	A	sug	-1	0	Okay , so we want um for our target group would we say , I mean , young and old , all age ranges ,
+ES2010b.A.dialog-act.dharshi.188	1130.34	1131.61	PM	A	stl	-1	0	all um ,
+ES2010b.A.dialog-act.dharshi.189	1131.61	1132.84	PM	A	sug	-1	0	not kids obviously ,
+ES2010b.A.dialog-act.dharshi.190	1132.84	1133.08	PM	A	el.ass	-1	0	right ?
+ES2010b.A.dialog-act.dharshi.191	1134.15	1134.69	PM	A	el.ass	-1	0	Or kids ?
+ES2010b.D.dialog-act.dharshi.92	1135.13	1135.33	ME	D	ass	-1	0	No ,
+ES2010b.D.dialog-act.dharshi.93	1135.33	1138.59	ME	D	inf	-1	0	kids need to know how to use a remote , I would think .
+ES2010b.B.dialog-act.dharshi.61	1137.63	1139.68	ID	B	inf	-1	0	Most of them will intuitively pick it up though .
+ES2010b.A.dialog-act.dharshi.192	1138.536	1139.348	PM	A	fra	-1	0	{gap}
+ES2010b.D.dialog-act.dharshi.94	1138.59	1141.57	ME	D	inf	-1	0	They gotta change between Disney Channel , Cartoon Network .
+ES2010b.A.dialog-act.dharshi.193	1141.29	1141.74	PM	A	ass	-1	0	Okay ,
+ES2010b.A.dialog-act.dharshi.194	1141.74	1146.91	PM	A	sug	+1	1	so we're going to go anywhere from kids to adult in the age range {disfmarker}
+ES2010b.D.dialog-act.dharshi.95	1143.4	1144.8	ME	D	ass	-1	0	Yeah , I think we need it all .
+ES2010b.A.dialog-act.dharshi.195	1146.91	1150.38	PM	A	el.sug	-1	0	Um what about
+ES2010b.A.dialog-act.dharshi.196	1151.88	1155.01	PM	A	el.sug	-1	0	technic technical um specifications ,
+ES2010b.A.dialog-act.dharshi.197	1155.01	1158.66	PM	A	el.ass	-1	0	like how how technically literate are these people who are going to be using our remote ?
+ES2010b.B.dialog-act.dharshi.62	1159.483	1160.084	ID	B	fra	-1	0	{gap}
+ES2010b.D.dialog-act.dharshi.96	1159.54	1163.17	ME	D	ass	-1	0	Um I would say we should say dumber than the average person .
+ES2010b.A.dialog-act.dharshi.198	1163.36	1163.61	PM	A	ass	-1	0	Okay .
+ES2010b.C.dialog-act.dharshi.107	1163.32	1165.23	UI	C	sug	-1	0	We should go for the lowest denominator .
+ES2010b.D.dialog-act.dharshi.97	1165.28	1165.72	ME	D	ass	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.199	1165.99	1167.18	PM	A	ass	-1	0	Right , okay .
+ES2010b.A.dialog-act.dharshi.200	1167.89	1171.536	PM	A	ass	-1	0	So so they need no technical experience to operate {disfmarker}
+ES2010b.C.dialog-act.dharshi.108	1167.82	1169.13	UI	C	inf	-1	0	High school educated .
+ES2010b.B.dialog-act.dharshi.64	1170.852	1172.66	ID	B	sug	-1	0	{gap} how 'bout little to no ,
+ES2010b.B.dialog-act.dharshi.65	1172.66	1176.45	ID	B	ass	-1	0	because there is no way that you are gonna be able to make it no .
+ES2010b.A.dialog-act.dharshi.201	1189.93	1190.47	PM	A	stl	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.202	1190.47	1194.84	PM	A	sug	-1	0	And we also need to determine the specific functions of this ,
+ES2010b.A.dialog-act.dharshi.203	1194.84	1196.92	PM	A	inf	-1	0	just to get it all out on paper .
+ES2010b.A.dialog-act.dharshi.204	1196.92	1205.39	PM	A	inf	-1	0	So we said it needs to send messages to the T_V_ , needs to change the channel , turn on and off , just basic simple stuff like this .
+ES2010b.A.dialog-act.dharshi.205	1205.39	1210.04	PM	A	el.sug	-1	0	So if you have something just say it and we'll add it to my meeting minutes .
+ES2010b.C.dialog-act.dharshi.109	1213.14	1217.34	UI	C	inf	-1	0	Well it's channel , on-off button , volume , mute .
+ES2010b.A.dialog-act.dharshi.206	1215.18	1216.66	PM	A	und	-1	0	Mm-hmm , volume .
+ES2010b.D.dialog-act.dharshi.98	1217.3	1218.22	ME	D	inf	-1	0	And channel .
+ES2010b.D.dialog-act.dharshi.99	1218.22	1219.08	ME	D	ass	-1	0	Yeah .
+ES2010b.D.dialog-act.dharshi.100	1219.08	1220.4	ME	D	ass	-1	0	Those are the most important ones .
+ES2010b.A.dialog-act.dharshi.207	1220.52	1221.25	PM	A	ass	-1	0	Right .
+ES2010b.A.dialog-act.dharshi.208	1221.25	1222.92	PM	A	stl	-1	0	And we wanna keep um {disfmarker}
+ES2010b.A.dialog-act.dharshi.209	1222.92	1225.67	PM	A	off	-1	0	I'll make a note here that we wanna keep the number of buttons down .
+ES2010b.A.dialog-act.dharshi.210	1225.67	1225.98	PM	A	el.ass	-1	0	Correct ,
+ES2010b.A.dialog-act.dharshi.211	1225.98	1227.9	PM	A	inf	-1	0	because people only use ten percent .
+ES2010b.D.dialog-act.dharshi.101	1227.35	1227.61	ME	D	ass	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.212	1227.9	1228.11	PM	A	ass	-1	0	'Kay .
+ES2010b.A.dialog-act.dharshi.213	1233.23	1234.11	PM	A	el.sug	-1	0	Hey , what else ?
+ES2010b.C.dialog-act.dharshi.110	1233.51	1233.96	UI	C	stl	-1	0	Um .
+ES2010b.A.dialog-act.dharshi.214	1242.34	1243.7	PM	A	stl	-1	0	Um .
+ES2010b.B.dialog-act.dharshi.66	1244.84	1249.54	ID	B	el.ass	-1	0	Do we want this thing to be able to be found easily ?
+ES2010b.C.dialog-act.dharshi.111	1244.758	1245.827	UI	C	fra	-1	0	{vocalsound}
+ES2010b.A.dialog-act.dharshi.215	1249.75	1251.01	PM	A	ass	-1	0	I think so .
+ES2010b.A.dialog-act.dharshi.216	1251.01	1251.408	PM	A	el.ass	-1	0	What do you {disfmarker}
+ES2010b.D.dialog-act.dharshi.102	1252.7	1253.22	ME	D	ass	-1	0	Sure , yeah .
+ES2010b.C.dialog-act.dharshi.112	1253.536	1254.056	UI	C	fra	-1	0	{gap}
+ES2010b.A.dialog-act.dharshi.217	1254.44	1256.69	PM	A	sug	-1	0	A finding kind of device or {disfmarker}
+ES2010b.B.dialog-act.dharshi.67	1254.98	1255.33	ID	B	fra	-1	0	And
+ES2010b.D.dialog-act.dharshi.103	1255.46	1255.7	ME	D	stl	-1	0	I need {disfmarker}
+ES2010b.D.dialog-act.dharshi.104	1255.7	1257.66	ME	D	sug	+1	2	we we need a like homing device .
+ES2010b.A.dialog-act.dharshi.218	1256.69	1259.085	PM	A	ass	-1	0	Yeah , ho homing device . {vocalsound}
+ES2010b.B.dialog-act.dharshi.68	1256.4	1263.2	ID	B	el.sug	-1	0	like if this is gonna get lost underneath the coach , how are we going to accommodate the quick ability to find it ?
+ES2010b.C.dialog-act.dharshi.113	1257.05	1257.44	UI	C	bck	-1	0	Oh right
+ES2010b.C.dialog-act.dharshi.114	1257.44	1258.03	UI	C	bck	-1	0	yeah okay .
+ES2010b.A.dialog-act.dharshi.219	1262.17	1262.67	PM	A	bck	-1	0	Mm 'kay .
+ES2010b.C.dialog-act.dharshi.115	1262.76	1263.28	UI	C	bck	-1	0	Tracking .
+ES2010b.A.dialog-act.dharshi.220	1266.71	1267.21	PM	A	bck	-1	0	Okay .
+ES2010b.D.dialog-act.dharshi.105	1266.67	1272.16	ME	D	inf	-1	0	Because people really are looking for a remote that's more high-tech .
+ES2010b.A.dialog-act.dharshi.221	1272.39	1272.86	PM	A	bck	-1	0	Right .
+ES2010b.B.dialog-act.dharshi.69	1272.43	1274.37	ID	B	sug	-1	0	What if we gave it a charger ?
+ES2010b.B.dialog-act.dharshi.70	1274.37	1278.25	ID	B	inf	+1	1	And on the charger , just like a phone , like you get a portable phone and it's got a charger ,
+ES2010b.B.dialog-act.dharshi.71	1278.25	1284.99	ID	B	inf	+1	1	and if you d leave your phone somewhere , you push the button to find it , and it finds th the phone beeps for you .
+ES2010b.C.dialog-act.dharshi.116	1278.21	1278.89	UI	C	inf	-1	0	But you got a base .
+ES2010b.D.dialog-act.dharshi.106	1283.85	1285.27	ME	D	el.ass	-1	0	Do you think people'll really go for that though ?
+ES2010b.B.dialog-act.dharshi.72	1287.01	1288.87	ID	B	ass	-1	0	It's useful for the remote phone .
+ES2010b.D.dialog-act.dharshi.107	1286.87	1287.152	ME	D	fra	-1	0	Because {disfmarker}
+ES2010b.A.dialog-act.dharshi.222	1289.92	1291.02	PM	A	bck	-1	0	Hmm .
+ES2010b.D.dialog-act.dharshi.108	1290.13	1290.54	ME	D	bck	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.223	1291.02	1292.89	PM	A	el.inf	-1	0	Would that add to our costs at all , I wonder ?
+ES2010b.D.dialog-act.dharshi.109	1293.44	1295.59	ME	D	inf	-1	0	I would think so , because you'd have to develop a base .
+ES2010b.A.dialog-act.dharshi.224	1295.62	1295.89	PM	A	bck	-1	0	Right .
+ES2010b.C.dialog-act.dharshi.117	1295.92	1300.01	UI	C	inf	+1	1	Well , if you have the base , you could start putting in a charger and then you have a different kind of battery .
+ES2010b.B.dialog-act.dharshi.73	1300.31	1300.71	ID	B	bck	-1	0	Yeah .
+ES2010b.D.dialog-act.dharshi.110	1302.77	1303.45	ME	D	ass	-1	0	Hmm .
+ES2010b.B.dialog-act.dharshi.74	1303.44	1306.1	ID	B	inf	+1	1	Rechargeable batteries are cheaper usually .
+ES2010b.C.dialog-act.dharshi.118	1306.12	1306.65	UI	C	bck	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.225	1307.61	1308.06	PM	A	stl	-1	0	Okay .
+ES2010b.A.dialog-act.dharshi.226	1308.06	1310.37	PM	A	sug	-1	0	I I think we can make a decision about that later .
+ES2010b.A.dialog-act.dharshi.227	1310.37	1313.03	PM	A	sug	-1	0	Uh we'll still put that as a point that we need to discuss .
+ES2010b.A.dialog-act.dharshi.228	1313.03	1315.056	PM	A	inf	-1	0	So that would include battery source {disfmarker}
+ES2010b.A.dialog-act.dharshi.229	1317.25	1319.3	PM	A	inf	-1	0	Power source rather .
+ES2010b.A.dialog-act.dharshi.230	1319.3	1325.72	PM	A	inf	-1	0	Is it going to have a charger , or is it going to be run strictly off batteries ?
+ES2010b.A.dialog-act.dharshi.231	1325.72	1331.23	PM	A	el.ass	-1	0	And we also need to deal with the issue you mentioned of speech recognition , if we want that .
+ES2010b.D.dialog-act.dharshi.112	1329.33	1329.81	ME	D	bck	-1	0	Right .
+ES2010b.C.dialog-act.dharshi.120	1331.76	1332.38	UI	C	stl	-1	0	Well , then we could {disfmarker}
+ES2010b.D.dialog-act.dharshi.111	1331.65	1331.9	ME	D	fra	-1	0	Do w
+ES2010b.C.dialog-act.dharshi.121	1332.38	1341.28	UI	C	ass	+1	1	If we have the speech recognition then we can start aiming at a like another kind of more handicapped disabled uh demo demographic .
+ES2010b.A.dialog-act.dharshi.232	1339.75	1339.95	PM	A	bck	-1	0	Mm .
+ES2010b.D.dialog-act.dharshi.113	1341.71	1349.53	ME	D	inf	-1	0	Well , th there's the people who desire speech recognition , there's the different demog demographics have different desires ,
+ES2010b.D.dialog-act.dharshi.114	1349.53	1350.52	ME	D	fra	-1	0	I don't know if you guys ge
+ES2010b.A.dialog-act.dharshi.233	1350.93	1352.54	PM	A	stl	-1	0	You could um
+ES2010b.A.dialog-act.dharshi.234	1352.54	1353.74	PM	A	sug	-1	0	{disfmarker} we could hook it up .
+ES2010b.D.dialog-act.dharshi.115	1352.46	1356.03	ME	D	inf	-1	0	It wouldn't copy onto the the thing 'cause it's black ,
+ES2010b.A.dialog-act.dharshi.235	1353.74	1354.25	PM	A	ass	-1	0	Oh .
+ES2010b.D.dialog-act.dharshi.116	1356.03	1360.44	ME	D	inf	-1	0	but all the different age groups have different desires for speech recognition .
+ES2010b.D.dialog-act.dharshi.117	1360.44	1364.07	ME	D	inf	-1	0	So {vocalsound} basically older people don't really care .
+ES2010b.C.dialog-act.dharshi.119	1365.398	1366.087	UI	C	fra	-1	0	{gap}
+ES2010b.D.dialog-act.dharshi.118	1365.28	1367.91	ME	D	inf	+1	1	It's really the people twenty five to thirty five .
+ES2010b.D.dialog-act.dharshi.119	1367.91	1370.66	ME	D	inf	-1	0	I feel those are the people that really watch a lot of T_V_ though .
+ES2010b.A.dialog-act.dharshi.236	1370.47	1370.72	PM	A	bck	-1	0	Mm-hmm .
+ES2010b.D.dialog-act.dharshi.120	1370.66	1373.72	ME	D	inf	-1	0	They're the ones that get addicted to soap operas and
+ES2010b.B.dialog-act.dharshi.75	1373.168	1374.4	ID	B	fra	-1	0	{vocalsound}
+ES2010b.A.dialog-act.dharshi.237	1375.11	1380.448	PM	A	ass	-1	0	And if and if we introduced it when they're this age , they're going to probably always buy a remote that has {disfmarker}
+ES2010b.C.dialog-act.dharshi.122	1375.09	1375.374	UI	C	fra	-1	0	Well {disfmarker}
+ES2010b.D.dialog-act.dharshi.121	1375.15	1376.32	ME	D	inf	-1	0	just sitcoms and stuff .
+ES2010b.D.dialog-act.dharshi.122	1379.67	1379.91	ME	D	ass	-1	0	Right .
+ES2010b.C.dialog-act.dharshi.123	1381.06	1388.28	UI	C	el.inf	-1	0	Well , then then do you put the voice recognition {disfmarker} do you put the r like receiver on the actual television , in the base , or in the actual remote ,
+ES2010b.D.dialog-act.dharshi.123	1381.04	1381.248	ME	D	stl	-1	0	So {disfmarker}
+ES2010b.C.dialog-act.dharshi.124	1388.28	1392.46	UI	C	ass	-1	0	'cause then you've already got remote in your hand , why you just gonna speak to the remote ,
+ES2010b.A.dialog-act.dharshi.240	1391.76	1392.27	PM	A	bck	-1	0	Right .
+ES2010b.C.dialog-act.dharshi.125	1392.46	1397.11	UI	C	inf	-1	0	whereas if you just speak in general and you don't have to have the remote in your hand and like talk at it .
+ES2010b.A.dialog-act.dharshi.241	1397.39	1398.2	PM	A	bck	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.242	1398.2	1402.89	PM	A	inf	+1	2	{gap} and the speech recognition could be part of the lost and found device , too .
+ES2010b.A.dialog-act.dharshi.243	1402.89	1405.68	PM	A	inf	-1	0	If we said , find remote , locate remote , or something .
+ES2010b.D.dialog-act.dharshi.125	1403.18	1403.45	ME	D	bck	-1	0	Right .
+ES2010b.A.dialog-act.dharshi.244	1407.1	1410.4	PM	A	inf	-1	0	A certain phrase then it could beep .
+ES2010b.A.dialog-act.dharshi.245	1410.4	1411.66	PM	A	ass	-1	0	I dunno .
+ES2010b.A.dialog-act.dharshi.246	1411.66	1412.55	PM	A	off	-1	0	Just throwing it out there .
+ES2010b.D.dialog-act.dharshi.126	1412.79	1413.02	ME	D	bck	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.247	1417.89	1420.176	PM	A	stl	-1	0	Well {disfmarker} {vocalsound}
+ES2010b.D.dialog-act.dharshi.124	1418.336	1419.008	ME	D	fra	-1	0	{vocalsound}
+ES2010b.C.dialog-act.dharshi.126	1422.71	1424.36	UI	C	inf	-1	0	Still {gap} fifteen minutes .
+ES2010b.A.dialog-act.dharshi.239	1428.16	1430.09	PM	A	el.sug	-1	0	Okay , anything else we wanna discuss ?
+ES2010b.C.dialog-act.dharshi.127	1428.07	1428.71	UI	C	stl	-1	0	Um .
+ES2010b.C.dialog-act.dharshi.128	1431.0	1435.4	UI	C	el.ass	+1	1	Well , do we wanna include the numbers like zero through nine ?
+ES2010b.C.dialog-act.dharshi.129	1435.4	1436.87	UI	C	el.ass	-1	0	Can we conceive of leaving them out ?
+ES2010b.A.dialog-act.dharshi.248	1438.71	1439.39	PM	A	stl	-1	0	Um .
+ES2010b.D.dialog-act.dharshi.127	1439.2	1439.42	ME	D	oth	-1	0	Wait ,
+ES2010b.D.dialog-act.dharshi.128	1439.42	1440.37	ME	D	el.inf	-1	0	on the remote itself ?
+ES2010b.A.dialog-act.dharshi.238	1440.594	1441.118	PM	A	fra	-1	0	{gap}
+ES2010b.C.dialog-act.dharshi.130	1440.34	1443.47	UI	C	inf	-1	0	Yeah , like you have one , two , three , four , five , six , seven , eight , nine , zero .
+ES2010b.A.dialog-act.dharshi.250	1443.69	1444.8	PM	A	stl	-1	0	How how ,
+ES2010b.D.dialog-act.dharshi.129	1443.57	1444.8	ME	D	ass	+1	1	Well , we definitely need those .
+ES2010b.A.dialog-act.dharshi.251	1444.8	1444.99	PM	A	ass	-1	0	yeah ,
+ES2010b.A.dialog-act.dharshi.252	1444.99	1445.8	PM	A	el.inf	-1	0	how would you leave those out ?
+ES2010b.B.dialog-act.dharshi.76	1445.03	1445.53	ID	B	bck	-1	0	Yeah .
+ES2010b.C.dialog-act.dharshi.131	1446.26	1446.78	UI	C	inf	-1	0	Well , I don't know ,
+ES2010b.C.dialog-act.dharshi.132	1446.78	1449.51	UI	C	fra	-1	0	I mean , if you can {gap} like well {disfmarker}
+ES2010b.A.dialog-act.dharshi.253	1449.61	1450.93	PM	A	inf	-1	0	Unless you could say the channel .
+ES2010b.C.dialog-act.dharshi.133	1449.51	1449.89	UI	C	inf	-1	0	I don't know ,
+ES2010b.C.dialog-act.dharshi.134	1449.89	1451.45	UI	C	inf	-1	0	if there's just a way of leaving them out ?
+ES2010b.B.dialog-act.dharshi.77	1451.8	1453.43	ID	B	ass	-1	0	I think people would find that too foreign .
+ES2010b.A.dialog-act.dharshi.254	1454.12	1454.88	PM	A	ass	-1	0	Yeah , that's true .
+ES2010b.D.dialog-act.dharshi.130	1453.73	1454.73	ME	D	ass	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.255	1454.88	1460.69	PM	A	inf	-1	0	And also remember that in this day in age we need , you know , like a hundred button , too .
+ES2010b.D.dialog-act.dharshi.131	1454.73	1455.78	ME	D	fra	-1	0	You definitely need {disfmarker}
+ES2010b.A.dialog-act.dharshi.256	1460.69	1465.23	PM	A	inf	-1	0	I used to have a remote that did not even go up past like fifty .
+ES2010b.A.dialog-act.dharshi.257	1465.23	1468.01	PM	A	inf	-1	0	{vocalsound} So I couldn't {disfmarker} whenever I got cable , I had to get a new T_V_ .
+ES2010b.B.dialog-act.dharshi.78	1470.14	1471.51	ID	B	inf	-1	0	It's when we get satellite .
+ES2010b.A.dialog-act.dharshi.258	1471.92	1472.94	PM	A	bck	-1	0	Mm .
+ES2010b.A.dialog-act.dharshi.259	1472.94	1476.07	PM	A	inf	-1	0	{gap} get your own remote , or digital cable .
+ES2010b.B.dialog-act.dharshi.79	1474.98	1475.53	ID	B	bck	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.260	1476.07	1478.31	PM	A	stl	-1	0	'Kay . Um .
+ES2010b.A.dialog-act.dharshi.261	1480.8	1484.73	PM	A	inf	-1	0	I guess , we're gonna discuss the project financing later ,
+ES2010b.A.dialog-act.dharshi.262	1484.73	1490.75	PM	A	inf	-1	0	making sure that we can fit all of the stuff that we want to on our budget . Um .
+ES2010b.B.dialog-act.dharshi.80	1493.65	1493.89	ID	B	ass	-1	0	Yeah ,
+ES2010b.B.dialog-act.dharshi.81	1493.89	1497.664	ID	B	inf	-1	0	'cause I don't have any material pricing information available to me at the moment , so {disfmarker}
+ES2010b.A.dialog-act.dharshi.263	1497.82	1498.42	PM	A	bck	-1	0	'Kay .
+ES2010b.A.dialog-act.dharshi.264	1498.42	1503.97	PM	A	inf	+1	2	And don't forget we need to include the colour of our company and the logo .
+ES2010b.C.dialog-act.dharshi.135	1504.21	1506.4	UI	C	el.inf	-1	0	The colour being yellow ?
+ES2010b.D.dialog-act.dharshi.132	1504.38	1504.84	ME	D	oth	-1	0	Wait .
+ES2010b.A.dialog-act.dharshi.265	1506.82	1508.63	PM	A	inf	-1	0	I'm guessing .
+ES2010b.A.dialog-act.dharshi.266	1508.63	1509.5	PM	A	inf	-1	0	And the R_R_ .
+ES2010b.C.dialog-act.dharshi.136	1508.28	1508.832	UI	C	fra	-1	0	And how do we {disfmarker}
+ES2010b.D.dialog-act.dharshi.133	1508.47	1511.52	ME	D	ass	-1	0	I feel like a ye I feel like a yellow one would be too garish .
+ES2010b.B.dialog-act.dharshi.82	1509.38	1511.66	ID	B	inf	-1	0	R_ the double R_ .
+ES2010b.A.dialog-act.dharshi.267	1511.6	1513.84	PM	A	sug	+1	1	We could just have the logo in yellow ,
+ES2010b.C.dialog-act.dharshi.137	1512.06	1513.28	UI	C	inf	-1	0	Can't make it entirely {disfmarker}
+ES2010b.A.dialog-act.dharshi.268	1513.84	1515.96	PM	A	sug	+1	1	or maybe a yellow light for the keys .
+ES2010b.B.dialog-act.dharshi.83	1514.4	1515.3	ID	B	fra	-1	0	Or is the l
+ES2010b.D.dialog-act.dharshi.134	1515.68	1516.69	ME	D	sug	-1	0	Or put like stripes ,
+ES2010b.D.dialog-act.dharshi.135	1516.69	1518.62	ME	D	ass	-1	0	oh yeah , yellow lights .
+ES2010b.B.dialog-act.dharshi.84	1518.17	1518.98	ID	B	bck	-1	0	Yeah ,
+ES2010b.B.dialog-act.dharshi.85	1518.98	1520.32	ID	B	stl	-1	0	{vocalsound} yellow could be and it could
+ES2010b.B.dialog-act.dharshi.86	1520.32	1521.6	ID	B	ass	-1	0	{disfmarker} doesn't have to be huge .
+ES2010b.C.dialog-act.dharshi.138	1522.92	1524.39	UI	C	fra	-1	0	Well if you have like a {vocalsound} {disfmarker}
+ES2010b.D.dialog-act.dharshi.136	1522.64	1522.97	ME	D	bck	-1	0	Yeah .
+ES2010b.C.dialog-act.dharshi.139	1524.39	1525.37	UI	C	oth	-1	0	Hang on .
+ES2010b.C.dialog-act.dharshi.140	1525.37	1532.01	UI	C	sug	+1	1	If you have this sort of strip kind of down at the bottom {gap} the base of it , just like yellow with the R_R_ .
+ES2010b.A.dialog-act.dharshi.269	1532.19	1532.8	PM	A	ass	-1	0	Right .
+ES2010b.A.dialog-act.dharshi.270	1537.25	1541.49	PM	A	inf	+1	2	So we've simplified , we don't need all those um play , fast-forward , rewind ,
+ES2010b.C.dialog-act.dharshi.141	1541.67	1542.48	UI	C	bck	-1	0	Right , yeah .
+ES2010b.A.dialog-act.dharshi.271	1543.01	1544.36	PM	A	inf	+1	2	or no menu buttons .
+ES2010b.D.dialog-act.dharshi.137	1542.55	1542.97	ME	D	bck	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.272	1544.36	1551.568	PM	A	inf	+1	2	So we've pretty much pared it down to on-off , volume , mute , channel up and down , um the numbers {disfmarker}
+ES2010b.A.dialog-act.dharshi.273	1555.06	1556.151	PM	A	oth	-1	0	Yeah . {vocalsound}
+ES2010b.C.dialog-act.dharshi.142	1556.419	1556.768	UI	C	fra	-1	0	{vocalsound}
+ES2010b.D.dialog-act.dharshi.138	1556.71	1557.05	ME	D	bck	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.274	1562.216	1564.49	PM	A	stl	-1	0	{vocalsound} Um can we go back to {disfmarker}
+ES2010b.A.dialog-act.dharshi.275	1564.49	1566.53	PM	A	off	-1	0	I'm gonna look really quickly back at those
+ES2010b.C.dialog-act.dharshi.143	1567.25	1568.67	UI	C	el.inf	-1	0	Two examples .
+ES2010b.A.dialog-act.dharshi.277	1567.95	1568.84	PM	A	off	-1	0	examples
+ES2010b.A.dialog-act.dharshi.278	1568.84	1569.66	PM	A	off	-1	0	and see if there is anything .
+ES2010b.C.dialog-act.dharshi.144	1568.67	1568.89	UI	C	ass	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.279	1569.66	1571.92	PM	A	el.inf	-1	0	Which one is yours , technical functions
+ES2010b.A.dialog-act.dharshi.281	1571.92	1572.95	PM	A	el.inf	-1	0	or functional requirement ?
+ES2010b.C.dialog-act.dharshi.145	1571.44	1572.13	UI	C	fra	-1	0	Oh , it's a {disfmarker}
+ES2010b.C.dialog-act.dharshi.146	1572.13	1572.33	UI	C	inf	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.280	1572.95	1573.13	PM	A	ass	-1	0	Okay .
+ES2010b.D.dialog-act.dharshi.139	1574.4	1577.81	ME	D	sug	+1	1	Yeah , audi audio settings and screen settings , we need those
+ES2010b.D.dialog-act.dharshi.140	1577.81	1582.71	ME	D	inf	-1	0	like audio settings mono , stereo , pitch , screen settings like brightness , colour ,
+ES2010b.D.dialog-act.dharshi.141	1582.71	1586.17	ME	D	el.ass	+1	1	or do we just want that accessed accessed from the television itself ?
+ES2010b.A.dialog-act.dharshi.282	1585.19	1585.76	PM	A	bck	-1	0	The T_V_ .
+ES2010b.A.dialog-act.dharshi.283	1585.76	1588.09	PM	A	ass	+1	1	I think that that's fine just for the T_V_ .
+ES2010b.A.dialog-act.dharshi.284	1588.09	1591.8	PM	A	el.inf	-1	0	I mean how often does the average user need to do that kind of stuff ?
+ES2010b.C.dialog-act.dharshi.147	1592.07	1597.12	UI	C	sug	-1	0	Well , the other option is sort of like down at the bottom , like farther away ,
+ES2010b.C.dialog-act.dharshi.148	1597.12	1602.72	UI	C	inf	-1	0	you just have this sort of box inset where it's like the buttons that you don't use as much , but occasionally you will use .
+ES2010b.A.dialog-act.dharshi.285	1601.17	1601.39	PM	A	bck	-1	0	Hmm .
+ES2010b.C.dialog-act.dharshi.149	1603.76	1604.682	UI	C	fra	-1	0	and so it's like {disfmarker}
+ES2010b.D.dialog-act.dharshi.142	1603.45	1607.77	ME	D	ass	-1	0	Yeah , 'cause we need to {disfmarker} we definitely need to have buttons for like sub-titles and things like that .
+ES2010b.D.dialog-act.dharshi.143	1607.77	1610.57	ME	D	inf	-1	0	It's 'cause the foreign film market is expanding and stuff ,
+ES2010b.D.dialog-act.dharshi.145	1610.57	1617.43	ME	D	inf	-1	0	and like on television like I know f k living in Los Angeles it's tons of Spanish network television
+ES2010b.D.dialog-act.dharshi.146	1617.43	1620.96	ME	D	ass	-1	0	if it has English sub-titles it's definitely helpful .
+ES2010b.A.dialog-act.dharshi.286	1621.17	1622.97	PM	A	sug	-1	0	Couldn't we do that all through one button ,
+ES2010b.A.dialog-act.dharshi.287	1622.97	1629.76	PM	A	sug	-1	0	something , a menu button , that pops up with a menu on the T_V_ that says , you know , audio , video , whatever , language ,
+ES2010b.C.dialog-act.dharshi.150	1623.06	1624.19	UI	C	inf	-1	0	I don't {disfmarker} well , I don't know .
+ES2010b.A.dialog-act.dharshi.288	1629.76	1630.22	PM	A	el.ass	-1	0	you know ?
+ES2010b.C.dialog-act.dharshi.151	1630.4	1630.72	UI	C	ass	-1	0	Right .
+ES2010b.D.dialog-act.dharshi.147	1630.64	1632.67	ME	D	inf	-1	0	So we need up , down , and side-to-side buttons .
+ES2010b.A.dialog-act.dharshi.290	1633.46	1634.37	PM	A	inf	-1	0	For the menus .
+ES2010b.C.dialog-act.dharshi.152	1633.25	1633.86	UI	C	fra	-1	0	Well , that could be {disfmarker}
+ES2010b.C.dialog-act.dharshi.153	1633.86	1634.09	UI	C	ass	-1	0	No
+ES2010b.C.dialog-act.dharshi.154	1634.09	1637.44	UI	C	inf	+1	1	you could just double up with like the channel or the volume buttons .
+ES2010b.B.dialog-act.dharshi.87	1637.48	1637.83	ID	B	bck	-1	0	Mm-hmm .
+ES2010b.A.dialog-act.dharshi.289	1638.63	1639.15	PM	A	ass	-1	0	That's true .
+ES2010b.C.dialog-act.dharshi.155	1639.68	1640.88	UI	C	inf	-1	0	Channel is just up and down .
+ES2010b.D.dialog-act.dharshi.148	1639.23	1640.09	ME	D	ass	-1	0	Yeah , okay .
+ES2010b.D.dialog-act.dharshi.149	1641.84	1642.41	ME	D	ass	-1	0	Okay , yeah .
+ES2010b.C.dialog-act.dharshi.156	1642.68	1643.632	UI	C	sug	-1	0	And then add a {disfmarker}
+ES2010b.A.dialog-act.dharshi.291	1644.56	1648.04	PM	A	sug	-1	0	Something that looks mayb you know .
+ES2010b.D.dialog-act.dharshi.150	1645.8	1650.42	ME	D	sug	-1	0	Such as , yeah , the one the one over there on the left the engineering centred one .
+ES2010b.A.dialog-act.dharshi.301	1649.52	1651.4	PM	A	ass	-1	0	Y right , right right right .
+ES2010b.C.dialog-act.dharshi.157	1650.57	1651.02	UI	C	bck	-1	0	Yeah .
+ES2010b.A.dialog-act.dharshi.300	1651.4	1651.81	PM	A	el.inf	-1	0	That one ?
+ES2010b.C.dialog-act.dharshi.158	1651.95	1657.14	UI	C	sug	+1	1	So we just have it like {disfmarker} add a menu button then for the various things needed ,
+ES2010b.A.dialog-act.dharshi.302	1657.03	1657.65	PM	A	ass	-1	0	Right .
+ES2010b.C.dialog-act.dharshi.159	1657.14	1661.58	UI	C	sug	-1	0	including v voice recognition if we have any like settings for voice recognition now
+ES2010b.A.dialog-act.dharshi.303	1657.65	1659.36	PM	A	sug	-1	0	In the middle perhaps .
+ES2010b.C.dialog-act.dharshi.160	1663.25	1664.23	UI	C	sug	-1	0	included in the menu .
+ES2010b.A.dialog-act.dharshi.304	1664.95	1665.17	PM	A	bck	-1	0	Yep .
+ES2010b.D.dialog-act.dharshi.151	1667.36	1667.53	ME	D	oth	-1	0	Ooh ,
+ES2010b.D.dialog-act.dharshi.152	1667.53	1669.39	ME	D	inf	-1	0	I just got an idea for a design .
+ES2010b.A.dialog-act.dharshi.299	1669.395	1670.29	PM	A	ass	-1	0	{gap} good .
+ES2010b.A.dialog-act.dharshi.298	1682.29	1685.84	PM	A	el.sug	-1	0	Anybody have anything else they'd like to bring up in this meeting ?
+ES2010b.B.dialog-act.dharshi.88	1686.43	1687.55	ID	B	inf	-1	0	I had something , but I forgot .
+ES2010b.A.dialog-act.dharshi.305	1687.744	1690.37	PM	A	ass	-1	0	{vocalsound} Okay .
+ES2010b.A.dialog-act.dharshi.306	1690.37	1693.43	PM	A	oth	-1	0	{gap} get out of here .
+ES2010b.A.dialog-act.dharshi.307	1693.43	1698.47	PM	A	sug	-1	0	Let's go back to the meeting closure then and see what we need to do next . Mm .
+ES2010b.A.dialog-act.dharshi.308	1705.13	1705.54	PM	A	stl	-1	0	Alright .
+ES2010b.A.dialog-act.dharshi.309	1705.54	1712.58	PM	A	inf	-1	0	After this meeting we're gonna be sent a questionnaire and summary again which we need to reply to that e-mail .
+ES2010b.A.dialog-act.dharshi.310	1712.58	1713.94	PM	A	inf	-1	0	And then we're gonna have lunch break .
+ES2010b.A.dialog-act.dharshi.311	1713.94	1717.17	PM	A	inf	-1	0	And after lunch thirty minutes of individual work time .
+ES2010b.A.dialog-act.dharshi.312	1717.17	1718.45	PM	A	stl	-1	0	Um I'm gonna put the minutes {disfmarker}
+ES2010b.A.dialog-act.dharshi.313	1718.45	1721.19	PM	A	inf	-1	0	I put the minutes for the first meeting already in the project documents folder ,
+ES2010b.A.dialog-act.dharshi.314	1721.19	1722.45	PM	A	sug	-1	0	if you'd like to review them .
+ES2010b.A.dialog-act.dharshi.315	1722.45	1725.12	PM	A	inf	-1	0	And I'm gonna type up the minutes for this one as well .
+ES2010b.A.dialog-act.dharshi.316	1725.12	1728.76	PM	A	inf	-1	0	Um here's what we're each going to do .
+ES2010b.A.dialog-act.dharshi.317	1728.76	1732.99	PM	A	inf	+1	2	The I_D_ is going to work on the components concept ,
+ES2010b.A.dialog-act.dharshi.318	1732.99	1736.02	PM	A	inf	+1	2	um U_I_D_ the user interface concept ,
+ES2010b.A.dialog-act.dharshi.319	1736.02	1737.83	PM	A	inf	+1	2	and you're going to do some trend watching .
+ES2010b.A.dialog-act.dharshi.293	1738.55	1738.78	PM	A	stl	-1	0	'Kay .
+ES2010b.A.dialog-act.dharshi.294	1738.78	1742.53	PM	A	inf	-1	0	Specific instructions will be sent to you by your personal coach .
+ES2010b.A.dialog-act.dharshi.295	1742.53	1746.5	PM	A	el.sug	-1	0	And if anybody has anything they would like to add ?
+ES2010b.A.dialog-act.dharshi.296	1746.5	1747.61	PM	A	ass	-1	0	No ?
+ES2010b.A.dialog-act.dharshi.297	1747.61	1749.29	PM	A	inf	-1	0	Okay , well , this meeting is officially over .
+ES2010b.A.dialog-act.dharshi.292	1751.39	1751.93	PM	A	be.pos	-1	0	Thank you all .

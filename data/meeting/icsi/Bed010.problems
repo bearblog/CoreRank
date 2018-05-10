@@ -1,0 +1,17 @@
+1	Bed010.s.24	The german SmartKom version available on the server does not work.
+Bed010.E.dialogueact282	787.513	791.673	E	Grad	s	+1	1	e the version {disfmarker} that is , the full version that 's on the server d does not work .
+5	Bed010.s.25	The english version , although still under development , does work , however , the system is still unstable as -apart from other reasons- it was initially built to work with a touch screen.
+Bed010.E.dialogueact77	270.13	281.93	E	Grad	s	+1	2	Right now it 's brittle and you need to ch start it up and then make ts twenty changes on {disfmarker} on {disfmarker} on {disfmarker} on seventeen modules before they actually can stomach it , anything .
+Bed010.E.dialogueact79	290.34	299.84	E	Grad	s^df	+1	1	because it 's designed for this seevit thing , where you have the gestural recognition running with this s Siemens virtual touch screen , which we don't have here .
+Bed010.E.dialogueact85	311.248	312.468	E	Grad	s	+1	1	but it 's working now ,
+Bed010.E.dialogueact279	778.526	783.47	E	Grad	s	+1	2	And I g I got the feeling that we are {pause} the only ones right now who have a running system .
+Bed010.E.dialogueact276	766.22	776.255	E	Grad	h|s	+1	2	Um . {vocalsound} Well it was just amazing to {disfmarker} to see uh how {disfmarker} how instable the whole thing is ,
+1	Bed010.s.26	De-bugging and cleaning up has to take place before any new modules are added on it.
+Bed010.E.dialogueact237	675.82	682.5	E	Grad	s^aap.%--	+1	2	Well d we {disfmarker} we do wanna have all the bugs out b where you have to sort of pipe in extra XML messages from left and right before you 're {disfmarker}
+0	Bed010.s.27	As regards the belief-net , no connections and dependencies have been built into it.
+2	Bed010.s.28	These will have to be guessed instead of learnt through data , as not enough data is available for such a task.
+Bed010.C.dialogueact448	1399.34	1406.13	C	Professor	fh|s^co	+1	2	So uh what we 're gonna do initially is {disfmarker} is do design , and , i if you will , guess .
+Bed010.C.dialogueact459	1432.36	1439.32	C	Professor	s^cs	+1	2	but for the limited amount of stuff we have for this particular exercise I think we 'll just design it .
+2	Bed010.s.29	Finally , it has been noted that the JavaBayes GUI does not satisfy all the presentation requirements for this belief-net and modifying the underlying code would be too time-consuming.
+Bed010.D.dialogueact356	1226.07	1227.46	D	Grad	s	+1	1	JavaBayes does not support that .
+Bed010.E.dialogueact400	1302.77	1308.03	E	Grad	s^cs	+1	1	I {disfmarker} I also s would suggest not to d spend two weeks in {disfmarker} in {disfmarker} in changing the {disfmarker} the JavaBayes code .

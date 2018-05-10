@@ -1,0 +1,55 @@
+7	TS3005b.rdhillon.s.22	How much an LCD screen costs.
+TS3005b.C.dialog-act.vkaraisk.115	1105.53	1110.68	C	ID	ass	+1	2	But I think that uh that collides with our mission to make it very cheap .
+TS3005b.C.dialog-act.vkaraisk.117	1113.04	1115.58	C	ID	inf	+1	2	A touch screen uh probably uh even more .
+TS3005b.D.dialog-act.vkaraisk.141	1156.68	1158.32	D	ME	inf	+1	2	you don't know how much it costs , the L_C_D_ screen .
+TS3005b.D.dialog-act.vkaraisk.143	1160.26	1161.89	D	ME	inf	+1	2	I don't have any costs here ,
+TS3005b.D.dialog-act.vkaraisk.171	1284.89	1291.02	D	ME	sug	+1	2	if it costs {disfmarker} gets too much , too expensive , then yeah , we should be sticking to rubber buttons .
+TS3005b.C.dialog-act.vkaraisk.155	1294.42	1299.57	C	ID	inf	+1	2	I think that that they will send you some information about uh the cost of L_C_D_ uh screens .
+TS3005b.C.dialog-act.vkaraisk.158	1302.37	1306.79	C	ID	sug	+1	2	if you uh you receive an email about that , uh can you post it in the {disfmarker}
+3	TS3005b.rdhillon.s.23	If consumers over forty will want a remote with an LCD screen.
+TS3005b.B.dialog-act.vkaraisk.129	1244.55	1245.71	B	UI	inf	+1	2	but also on the older ,
+TS3005b.B.dialog-act.vkaraisk.130	1245.71	1248.9	B	UI	el.inf	+1	2	and will they use it if it only has an L_C_D_ screen ?
+TS3005b.D.dialog-act.vkaraisk.167	1270.88	1275.8	D	ME	inf	+1	2	but market share fro for for forty years and younger is higher than that of sixty five and younger .
+3	TS3005b.rdhillon.s.24	Whether to include buttons for teletext.
+TS3005b.D.dialog-act.vkaraisk.199	1393.73	1396.94	D	ME	inf	+1	2	And a teletext , but that is not of the question .
+TS3005b.B.dialog-act.vkaraisk.165	1397.28	1401.97	B	UI	el.ass	+1	2	But shouldn't you put a button of {disfmarker} for teletext on the {disfmarker} for the people who want to use it ?
+TS3005b.A.dialog-act.vkaraisk.102	1406.91	1412.73	A	PM	sug	+1	3	and we could make an a a separate menu on the L_C_D_ uh screen for teletext .
+3	TS3005b.rdhillon.s.25	What sort of power supply to use since the LCD screen requires a large amount of power.
+TS3005b.D.dialog-act.vkaraisk.219	1457.73	1459.76	D	ME	inf	+1	2	power supply is one of the most important things .
+TS3005b.B.dialog-act.vkaraisk.178	1459.6	1462.27	B	UI	sug	+1	2	Perhaps you should be able to to switch the control off .
+TS3005b.B.dialog-act.vkaraisk.179	1462.27	1464.64	B	UI	inf	+1	2	If you have an L_C_D_ screen that's burns all the time I dunno .
+1	TS3005b.rdhillon.s.26	What to do if people forget to recharge the batteries in their remote.
+TS3005b.C.dialog-act.vkaraisk.208	1561.49	1568.02	C	ID	sug	+1	2	uh it should be uh a standard move to to put your remote control in the charger when you're done watching television ,
+3	TS3005b.rdhillon.s.27	Where consumers will place the charger.
+TS3005b.B.dialog-act.vkaraisk.212	1584.624	1590.76	B	UI	sug	+1	2	{vocalsound} But then you also have to s have somewhere where you can put a remo recharger near your couch
+TS3005b.B.dialog-act.vkaraisk.213	1590.76	1595.25	B	UI	inf	+1	2	because otherwise you have to walk a long way when you twoft want to turn on the T_V_ .
+TS3005b.C.dialog-act.vkaraisk.218	1600.62	1606.17	C	ID	sug	+1	2	just a cable , or a even a a a a a charger where you can mount it on . Something like that ,
+16	TS3005b.rdhillon.s.28	Whether to implement speech recognition.
+TS3005b.A.dialog-act.vkaraisk.119	1651.28	1653.35	A	PM	el.inf	+1	2	And you said something about speech recognition ?
+TS3005b.D.dialog-act.vkaraisk.276	1657.74	1665.8	D	ME	inf	+1	2	also ninety one percent sixteen to twenty five , twenty six to thirty five years , seventy six percent , and thirty six to forty five , thirty five percent .
+TS3005b.B.dialog-act.vkaraisk.220	1656.38	1658.475	B	UI	inf	+1	2	twelve fifty , twelve fifty . {vocalsound}
+TS3005b.B.dialog-act.vkaraisk.224	1671.8	1673.6	B	UI	be.pos	+1	2	I know let's do a speech . {vocalsound}
+TS3005b.B.dialog-act.vkaraisk.229	1695.46	1698.48	B	UI	el.inf	+1	2	But they want to talk into the remo remote control , or something ,
+TS3005b.D.dialog-act.vkaraisk.289	1707.152	1710.99	D	ME	sug	+1	2	{vocalsound} I think an L_C_D_ screen {vocalsound} should be suf sufficient .
+TS3005b.A.dialog-act.vkaraisk.121	1712.56	1714.32	A	PM	inf	+1	2	But when you look at the percentages {disfmarker}
+TS3005b.A.dialog-act.vkaraisk.125	1724.29	1729.03	A	PM	inf	+1	2	but uh nobody knows uh how much uh it will cost uh .
+TS3005b.D.dialog-act.vkaraisk.294	1727.62	1729.8	D	ME	ass	+1	2	I think I think it's better to have L_ L_C_D_ screen ,
+TS3005b.A.dialog-act.vkaraisk.126	1746.61	1748.69	A	PM	el.ass	+1	3	But would it be useful to imple implement both ?
+TS3005b.D.dialog-act.vkaraisk.299	1749.78	1752.145	D	ME	ass	+1	3	Yeah , if the costs al allow it . {vocalsound}
+TS3005b.B.dialog-act.vkaraisk.242	1760.91	1762.92	B	UI	el.sug	+1	2	but how would you like to implement that ,
+TS3005b.B.dialog-act.vkaraisk.243	1762.92	1765.68	B	UI	el.ass	+1	2	that you say volume up , and then it goes up ,
+TS3005b.C.dialog-act.vkaraisk.258	1767.21	1768.93	C	ID	inf	+1	2	Certain systems already exist , I think .
+TS3005b.B.dialog-act.vkaraisk.246	1769.63	1772.95	B	UI	inf	+1	2	Then you also have to have different languages if we go international .
+TS3005b.A.dialog-act.vkaraisk.139	1851.84	1855.35	A	PM	und	+1	3	so we only do this when we have enough money left .
+11	TS3005b.rdhillon.s.29	Whether the remote should feature a regular power button or if the power button should be integrated with the LCD display.
+TS3005b.D.dialog-act.vkaraisk.421	2206.89	2209.35	D	ME	sug	+1	2	Maybe only the on and o on and off button .
+TS3005b.B.dialog-act.vkaraisk.369	2228.04	2234.07	B	UI	el.ass	+1	2	But isn't idea to use uh uh what you said , uh normal on and off button for the T_V_ ,
+TS3005b.B.dialog-act.vkaraisk.375	2251.8	2253.64	B	UI	sug	+1	2	But a not as normal button , in the L_C_D_ ,
+TS3005b.A.dialog-act.vkaraisk.185	2253.85	2256.4	A	PM	sug	+1	2	maybe there should be a separate button apart from the L_C_D_ ,
+TS3005b.A.dialog-act.vkaraisk.188	2260.88	2263.21	A	PM	sug	+1	2	There has to be a on button on the remote ,
+TS3005b.B.dialog-act.vkaraisk.377	2261.6	2261.75	B	UI	ass	+1	2	No
+TS3005b.B.dialog-act.vkaraisk.378	2261.75	2263.42	B	UI	inf	+1	2	you just tap I think .
+TS3005b.C.dialog-act.vkaraisk.333	2302.33	2306.8	C	ID	sug	+1	2	because uh when you touch the L_C_D_ screen when it is in standby mode , it should pop on .
+TS3005b.B.dialog-act.vkaraisk.394	2313.59	2317.0	B	UI	inf	+1	2	I guess if you use the L_C_D_ screen , you first have to search where is the on button ,
+TS3005b.B.dialog-act.vkaraisk.398	2320.62	2325.15	B	UI	inf	+1	2	But if you have a normal on button on the on the remote , then you do the on ,
+TS3005b.C.dialog-act.vkaraisk.337	2339.53	2345.74	C	ID	ass	+1	3	I think it looks a lot more fancy if you use uh if you don't have any buttons on the s on on remote control .

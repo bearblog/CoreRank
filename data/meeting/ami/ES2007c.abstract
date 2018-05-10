@@ -1,0 +1,89 @@
+2	ES2007c.rdhillon.s.1	The project manager recapped the decisions made in the previous meeting.
+ES2007c.A.dialog-act.dharshi.14	163.55	171.59	A	PM	sug	+1	1	Um alright first off we'll just uh recap from our last meeting .
+ES2007c.A.dialog-act.dharshi.15	171.59	182.1	A	PM	inf	+1	1	Um {vocalsound} which was we got together just to basically decide on {disfmarker} well to talk about what it is that we were actually uh supposed to be doing ,
+18	ES2007c.rdhillon.s.2	The industrial designer discussed different options for batteries , materials , and components , as well as restrictions involved in combining particular materials , components , and batteries.
+ES2007c.B.dialog-act.dharshi.12	287.69	295.45	B	ID	inf	+1	1	{vocalsound} Um so um for the energy sources we can have a basic battery ,
+ES2007c.B.dialog-act.dharshi.13	295.45	300.32	B	ID	inf	+1	1	a hand dynamo which is {disfmarker} which was used uh in the fifties for torches ,
+ES2007c.B.dialog-act.dharshi.18	307.57	309.87	B	ID	inf	+1	1	You can have a kinetic provision of energy ,
+ES2007c.B.dialog-act.dharshi.21	317.5	319.69	B	ID	inf	+1	1	Or you can use solar cells ,
+ES2007c.B.dialog-act.dharshi.22	319.69	322.544	B	ID	ass	+1	1	but I'm not sure about that indoors , really , but {disfmarker}
+ES2007c.C.dialog-act.dharshi.13	322.48	329.22	C	UI	inf	+1	1	Well , there's sometimes combinations , I mean , like calculators do combinations of battery with {disfmarker} but also using some solar power .
+ES2007c.B.dialog-act.dharshi.28	353.72	360.89	B	ID	ass	+1	1	And uh if we want something fancier , I think the kinetic provision of energy could be nice ,
+ES2007c.B.dialog-act.dharshi.27	347.93	353.72	B	ID	inf	+1	1	Think the the uh what would cost the less would be the basic battery , really .
+ES2007c.B.dialog-act.dharshi.31	370.624	378.33	B	ID	inf	+1	1	{vocalsound} For the case of the remotes itself , um they can be a general case , which is just a flat one .
+ES2007c.B.dialog-act.dharshi.32	378.33	382.68	B	ID	inf	+1	1	You can have uh a curved one or a double curved one ,
+ES2007c.B.dialog-act.dharshi.36	398.24	411.86	B	ID	inf	+1	1	{vocalsound} Um then the case material itself , so it can be uh uh either plastic or latex , uh rubber , wood , or titanium .
+ES2007c.B.dialog-act.dharshi.37	411.86	424.28	B	ID	inf	+1	1	And th for each of them you have uh cases where {disfmarker} for example titanium , you can't use it for {disfmarker} if you if we're choosing a double curved case , we can't choose titanium .
+ES2007c.B.dialog-act.dharshi.40	432.98	437.3	B	ID	inf	+1	1	But if we're choosing just the flat case then we can go for anything .
+ES2007c.B.dialog-act.dharshi.51	488.96	494.32	B	ID	inf	+1	1	so you can have basic push-buttons or a scroll-wheels , like you have on a mouse ,
+ES2007c.B.dialog-act.dharshi.52	494.32	500.25	B	ID	inf	+1	1	um or you could have um L_C_D_ , which gives you a display .
+ES2007c.B.dialog-act.dharshi.56	517.67	522.72	B	ID	inf	+1	1	Um and if we choose double curved then we have to go for rubber push-buttons .
+ES2007c.B.dialog-act.dharshi.78	609.48	613.68	B	ID	inf	+1	1	Um so the push-buttons themselves they can be just simple or they can be {disfmarker}
+ES2007c.B.dialog-act.dharshi.83	630.12	639.34	B	ID	inf	+1	1	If we get an advanced chip which is um used for the L_C_D_ , the display thing , then that's even more expensive .
+17	ES2007c.rdhillon.s.3	The team then discussed and decided what materials , components , and what type of battery to use in their product.
+ES2007c.A.dialog-act.dharshi.40	443.46	446.8	A	PM	sug	+1	1	So that might be an idea of using the rubber ,
+ES2007c.B.dialog-act.dharshi.44	451.08	453.5	B	ID	inf	+1	1	And also it doesn't break as easily maybe ,
+ES2007c.A.dialog-act.dharshi.46	472.31	475.41	A	PM	el.ass	+1	2	Rubber , we're all we're all going {disfmarker} we're all liking that idea ?
+ES2007c.C.dialog-act.dharshi.21	551.58	561.619	C	UI	el.inf	+1	1	Mean so what's the difference between a normal rubber case and a rubble doub double {disfmarker} rubber double curved case ? {vocalsound}
+ES2007c.A.dialog-act.dharshi.54	599.81	601.32	A	PM	sug	+1	2	Let's have rubber push buttons , hey .
+ES2007c.A.dialog-act.dharshi.61	666.266	680.49	A	PM	el.inf	+1	1	{vocalsound} is uh , okay , advanced chip on print , which I presume is like one P_C_B_ and that's got all the electronics on one board including the um infra-red sender ?
+ES2007c.B.dialog-act.dharshi.89	692.34	701.39	B	ID	inf	+1	1	Well , if if it's not chip on print then , I guess , you get different chip components , and you build them separately and doesn't include the infra-red .
+ES2007c.A.dialog-act.dharshi.69	713.41	720.96	A	PM	ass	+1	1	If it's something that's inside the the unit . {vocalsound} I it doesn't affects whether the customer's gonna buy it or not .
+ES2007c.A.dialog-act.dharshi.73	730.05	732.86	A	PM	sug	+1	2	So let's not let's uh not bother with the chip on print .
+ES2007c.D.dialog-act.dharshi.36	743.22	745.63	D	ME	el.ass	+1	2	What about the just developed uh sample sensor ?
+ES2007c.B.dialog-act.dharshi.101	762.23	765.68	B	ID	inf	+1	2	I'm just guessing . But it's gonna be the most expensive option , probably and {disfmarker}
+ES2007c.C.dialog-act.dharshi.35	798.02	804.1	C	UI	ass	+1	2	it would be one thing if it was speech recognition where you say something and it turns the T_V_ on like , turn the T_V_ on , and i turns {disfmarker} comes on ,
+ES2007c.C.dialog-act.dharshi.37	805.39	808.01	C	UI	inf	+1	2	a it just gives you a verbal response .
+ES2007c.D.dialog-act.dharshi.47	827.01	828.63	D	ME	ass	+1	2	Oh , then {gap} forget about it .
+ES2007c.C.dialog-act.dharshi.50	880.23	881.9	C	UI	ass	+1	2	So rubber rubber keys , yeah .
+ES2007c.C.dialog-act.dharshi.49	866.5	874.649	C	UI	ass	+1	3	so we want it rub rubber double curved . {vocalsound}
+ES2007c.A.dialog-act.dharshi.109	933.86	940.99	A	PM	ass	+1	1	But the fact that this this rubber i is actually used in these anti-R_S_I_ ps specific {disfmarker}
+20	ES2007c.rdhillon.s.4	The interface specialist presented examples of existing remotes on the market with good and bad layouts and stated what features the remote required.
+ES2007c.C.dialog-act.dharshi.60	990.23	995.74	C	UI	off	+1	1	Okay , so I'm continuing with the user interface uh topic .
+ES2007c.C.dialog-act.dharshi.65	1021.08	1032.64	C	UI	inf	+1	1	Uh and so the manufacturing division uh sent some some samples of of uh interface components that we might be interested in using that have been used in other products , uh like the coffee machine .
+ES2007c.C.dialog-act.dharshi.72	1058.24	1064.57	C	UI	inf	+1	1	they they suggested the idea of using a spinning wheel like you use on the side of an M_P_ three player like iPod .
+ES2007c.C.dialog-act.dharshi.66	1034.65	1037.66	C	UI	inf	+1	1	So I already mentioned the speech recognition interface .
+ES2007c.C.dialog-act.dharshi.67	1037.66	1040.88	C	UI	inf	+1	1	I guess , we we basically vetoed that idea .
+ES2007c.C.dialog-act.dharshi.79	1080.58	1085.27	C	UI	inf	+1	1	but they suggested uh , you know , going i a little bit into a a niche ,
+ES2007c.C.dialog-act.dharshi.84	1104.16	1108.27	C	UI	ass	+1	1	but it sounded like from our last meeting we really wanted something that was general , but done well .
+ES2007c.C.dialog-act.dharshi.90	1125.42	1129.23	C	UI	off	+1	1	I can give you an example here of uh , {gap} good layout and bad layout
+ES2007c.C.dialog-act.dharshi.93	1136.63	1138.99	C	UI	inf	+1	1	So this would be an example of bad layout ,
+ES2007c.C.dialog-act.dharshi.94	1138.99	1142.75	C	UI	inf	+1	1	where you have volume up and volume down , but they have a V_ on both of them , so uh
+ES2007c.C.dialog-act.dharshi.96	1147.59	1157.63	C	UI	inf	+1	1	Uh this is the example of the giant remote that's impossible to lose .
+ES2007c.C.dialog-act.dharshi.101	1174.75	1181.16	C	UI	ass	+1	1	Uh so I was against the speech recognition and against going uh towards anything in in a niche sense .
+ES2007c.C.dialog-act.dharshi.103	1182.85	1188.76	C	UI	ass	+1	1	I didn't I didn't think the spinning-wheel or the uh L_C_ display were were crucial for us .
+ES2007c.C.dialog-act.dharshi.105	1207.92	1211.96	C	UI	sug	+1	2	So we're {disfmarker} we're not gonna have any sort of display I think uh .
+ES2007c.C.dialog-act.dharshi.107	1217.15	1220.0	C	UI	sug	+1	1	I think we shall have a limited number of buttons ,
+ES2007c.C.dialog-act.dharshi.108	1220.0	1225.22	C	UI	sug	+1	1	ideally , I mean a a power , channel up , channel down , volume up , volume down , and a numerical keypad .
+ES2007c.C.dialog-act.dharshi.111	1229.54	1233.78	C	UI	sug	+1	1	it will either have a a lock button like we mentioned or or a cover or something like that .
+ES2007c.C.dialog-act.dharshi.114	1257.11	1262.51	C	UI	ass	+1	1	Um it seems like we wouldn't wanna make it too busy and too sort of gaudy ,
+ES2007c.C.dialog-act.dharshi.116	1265.92	1271.06	C	UI	sug	+1	2	Yeah , I would say mayb maybe a couple of colours like uh like a black with with yellow and somewhere ,
+ES2007c.C.dialog-act.dharshi.118	1285.12	1295.37	C	UI	inf	+1	1	I I guess {vocalsound} the fact uh also that we are having a rubber case uh would prevent us from having the cover function that we thought of before .
+7	ES2007c.rdhillon.s.5	The marketing expert discussed research from trendwatching reports , finding that products now require technological innovativeness , a fancy look and feel , a spongy feel , and a fruit and vegetable theme.
+ES2007c.D.dialog-act.dharshi.72	1333.92	1339.18	D	ME	off	+1	1	Well , I'm just basically letting you know what's happening in the markets
+ES2007c.D.dialog-act.dharshi.80	1369.77	1374.7	D	ME	inf	+1	1	So the remote control has to look and feel fancier than the ones that already {disfmarker} that we already have .
+ES2007c.D.dialog-act.dharshi.84	1380.11	1387.0	D	ME	inf	+1	1	{vocalsound} Um second , uh it should be technologically innovative innovative .
+ES2007c.D.dialog-act.dharshi.123	1621.88	1630.92	D	ME	inf	+1	1	Next year's fashion i very much in fruit and vegetables are thm are like the theme for cloths , shoes and furniture .
+ES2007c.C.dialog-act.dharshi.148	1640.04	1646.3	C	UI	sug	+1	1	Okay , so we could have keys that are like a b like a broccoli key and a uh and an avocado key on them .
+ES2007c.D.dialog-act.dharshi.130	1649.28	1654.69	D	ME	inf	+1	1	and as it's rubber the feel which is in this year is spongy ,
+ES2007c.A.dialog-act.dharshi.190	1657.87	1660.98	A	PM	ass	+1	1	Yeah , we're we're ahead of the game there .
+11	ES2007c.rdhillon.s.6	This lead to a discussion on whether to use Bluetooth or infra-red technology in remote.
+ES2007c.A.dialog-act.dharshi.158	1405.46	1411.04	A	PM	ass	+1	1	now the trouble is is we've already decided that we're going with the stuff that works already , that's cheap .
+ES2007c.C.dialog-act.dharshi.132	1415.89	1418.95	C	UI	ass	+1	1	I mean it's different , but I wouldn't say like a rubber remote is fancy .
+ES2007c.D.dialog-act.dharshi.93	1428.96	1430.22	D	ME	ass	+1	2	That's why I was thinking , Bluetooth ,
+ES2007c.D.dialog-act.dharshi.95	1434.86	1439.0	D	ME	inf	+1	2	'cause Bluetooth is the in thing nowadays , like it really is {vocalsound} ,
+ES2007c.D.dialog-act.dharshi.98	1443.41	1449.86	D	ME	inf	+1	2	they don't really care whether , you know , at the end of the day whether it works properly or not .
+ES2007c.A.dialog-act.dharshi.161	1450.29	1451.99	A	PM	ass	+1	2	Of course , they do .
+ES2007c.C.dialog-act.dharshi.136	1467.22	1470.86	C	UI	el.inf	+1	2	So is is the advantage of Bluetooth that you can just like synchronise it with other
+ES2007c.A.dialog-act.dharshi.173	1485.7	1490.8	A	PM	inf	+1	2	that would mean you'd need a television that has Bluetooth in it , which no no television does ,
+ES2007c.D.dialog-act.dharshi.105	1489.41	1500.64	D	ME	ass	+1	2	Well , if you're looking at {vocalsound} {disfmarker} if you {gap} looking at something that's going to be bought by people , you have to make it new , you have to make it state of the art .
+ES2007c.D.dialog-act.dharshi.107	1539.7	1542.47	D	ME	ass	+1	2	Like it doesn't have to be , you know , Bluetooth ,
+ES2007c.D.dialog-act.dharshi.113	1564.11	1567.79	D	ME	sug	+1	1	If we want something new , we need to move away from what we already have
+7	ES2007c.rdhillon.s.7	The team then discussed how to incorporate a fruit and vegetable theme into the remote.
+ES2007c.A.dialog-act.dharshi.198	1709.61	1714.15	A	PM	ass	+1	2	and um I'm not sure about the buttons being in the shape of fruit though .
+ES2007c.D.dialog-act.dharshi.144	1720.35	1722.89	D	ME	sug	+1	2	Maybe make it like fruity colours or something .
+ES2007c.C.dialog-act.dharshi.158	1729.89	1732.43	C	UI	sug	+1	2	The power button could be like a big apple or something .
+ES2007c.D.dialog-act.dharshi.159	1800.48	1804.13	D	ME	sug	+1	2	Um like I'm just thinking bright colours .
+ES2007c.D.dialog-act.dharshi.165	1817.45	1822.407	D	ME	sug	+1	2	Wanna make it different colours so {vocalsound} anybody can choo like like {gap} {disfmarker}
+ES2007c.A.dialog-act.dharshi.223	1931.27	1935.28	A	PM	sug	+1	2	so we could do like the pink range , the blue range , the green range , the {disfmarker}
+ES2007c.C.dialog-act.dharshi.173	1960.4	1966.89	C	UI	inf	+1	2	where , you know , you have a variety of colours , that people feel like they're customising it when they buy it , even , you know , just just by the fact of choosing .

@@ -1,0 +1,44 @@
+4	Bmr005.s.7	It is much more difficult to infer information from face-to-face meetings than from narrative.
+Bmr005.G.dialogueact137	770.062	778.352	G	Grad	s	-1	0	And I imagine that transcripts of speech {disfmarker} I mean text that is speech {disfmarker} probably has more of those than sort of prepared writing .
+Bmr005.B.dialogueact143	786.741	791.511	B	Postdoc	s^df	-1	0	because i in narratives , you know {disfmarker} I mean , if you spell out everything in a narrative , it can be really tedious ,
+Bmr005.G.dialogueact146	791.925	795.245	G	Grad	s	-1	0	Yeah , I 'm just thinking , you know , when you 're {disfmarker} when you 're face to face , you have a lot of backchannel
+Bmr005.G.dialogueact151	797.913	803.353	G	Grad	s	-1	0	And so I think it 's just easier to do that sort of broad inference jumping if it 's face to face .
+3	Bmr005.s.8	Frequent use of pronouns also adds difficulty.
+Bmr005.F.dialogueact175	856.366	866.614	F	PhD	s^ba	+1	1	So this is {disfmarker} this is {disfmarker} this is {disfmarker} gonna be a big , big problem if you want to later do uh , you know , indexing , or speech understanding of any sort .
+Bmr005.F.dialogueact172	844.99	855.73	F	PhD	s:s	+1	0	So I was just realizing we 've {disfmarker} You guys have been talking about " he " um for at least uh , I don't know , three {disfmarker} three four minutes without ever mentioning the person 's name again .
+Bmr005.C.dialogueact174	855.974	860.302	C	PhD	fg|s:s	+1	0	Yeah . Actually to make it worse , {comment} uh , Morgan uses " you " and " you "
+8	Bmr005.s.9	Identifying individuals in publications might lead to slander charges.
+Bmr005.B.dialogueact242	952.138	954.378	B	Postdoc	s^nd	+1	1	And in fact , it is {disfmarker} it is {disfmarker} it is sensitive .
+Bmr005.B.dialogueact249	961.218	968.358	B	Postdoc	s:s	+1	1	You know , I asked her very specifically about this clause of how , um , you know , it says " no individuals will be identified
+Bmr005.E.dialogueact221	924.085	932.825	E	Professor	s^df.x	-1	0	I probably been affect No , I th I think I 've been affected by too many conversations where we were talking about lawyers and talking about {disfmarker} and concerns about " oh gee is somebody going to say something bad ? " and so on .
+Bmr005.E.dialogueact223	933.205	937.005	E	Professor	fh|s.%--	-1	0	And so I {disfmarker} so I 'm {disfmarker} I 'm tending to stay away from people 's names even though uh {disfmarker}
+Bmr005.B.dialogueact246	954.378	958.508	B	Postdoc	s^t	+1	0	I {disfmarker} I came up with something from the Human Subjects people that I wanted to mention .
+Bmr005.B.dialogueact250	969.778	971.408	B	Postdoc	fh|s^e:s	-1	0	uh , " in any publication using the data . "
+Bmr005.B.dialogueact257	1001.36	1006.25	B	Postdoc	s^bs^cs	-1	0	So I think it 's really {disfmarker} really kind of adaptive and wise to not mention names any more than we have to
+Bmr005.B.dialogueact258	1006.25	1011.11	B	Postdoc	s^df	-1	0	because if there 's a slanderous aspect to it , then how much to we wanna be able to have to remove ?
+6	Bmr005.s.10	There are discrepancies between speech signals recorded on individual microphones and the PZM.
+Bmr005.G.dialogueact506	1652.98	1658.84	G	Grad	s	+1	1	I mean , if I 'm tapping on the table , you it 's not gonna show up on any of the mikes , but it 's gonna show up rather loudly in the PZM .
+Bmr005.D.dialogueact484	1546.03	1572.84	D	PhD	fh|s	-1	0	um , for example , eh if eh we use the ehm {disfmarker} the mixed file , to {disfmarker} to transcribe , the {disfmarker} the events and the words , I {disfmarker} I saw that eh the eh speech signal , collected by the eh this kind of mike {disfmarker} eh of this kind of mike , eh are different from the eh mixed signal eh , we eh {disfmarker} collected by headphone .
+Bmr005.D.dialogueact492	1583.1	1597.29	D	PhD	s	-1	0	but eh the {disfmarker} the problem is eh , eh we eh detected eh difference events in the speech file eh collected by {disfmarker} by that mike uh qui compared with the mixed file .
+Bmr005.D.dialogueact498	1623.36	1640.08	D	PhD	s	-1	0	its possible to evaluate eh , eh {disfmarker} or to consider eh acoustic events that {disfmarker} which you marked eh in the mixed file , but eh they don't appear in the eh speech signal eh collected by the {disfmarker} by the mike .
+Bmr005.E.dialogueact519	1699.73	1709.4	E	Professor	s	-1	0	Yeah , well , just {disfmarker} I mean , just in that {disfmarker} that one s ten second , or whatever it was , example that Adam had that {disfmarker} that we {disfmarker} we passed on to others a few months ago ,
+Bmr005.E.dialogueact521	1714.1	1721.25	E	Professor	fh|s	-1	0	and {disfmarker} and uh , in the close - talking mikes you couldn't hear the overlap , and in the distant mike you could .
+18	Bmr005.s.11	Detecting overlap of all acoustic events is very time-consuming.
+Bmr005.E.dialogueact603	1949.97	1956.97	E	Professor	s^bs	-1	0	So the twelve {disfmarker} you {disfmarker} you {disfmarker} it took you twelve hours {disfmarker} of course this included maybe some {disfmarker} some time where you were learning about what {disfmarker} what you wanted to do ,
+Bmr005.E.dialogueact604	1956.97	1961.07	E	Professor	s^bs.%-	-1	0	but {disfmarker} but uh , it took you something like twelve hours to mark the forty - five minutes , your
+Bmr005.G.dialogueact605	1960.84	1961.41	G	Grad	s^bc	-1	0	Twelve minutes .
+Bmr005.D.dialogueact619	1973.3	1981.45	D	PhD	s.%-	-1	0	Tw - twelve hours of work to {disfmarker} {vocalsound} to segment eh and label eh twelve minutes from a session of part {disfmarker} of f
+Bmr005.E.dialogueact685	2106.02	2107.88	E	Professor	s^nd	-1	0	Well , I but I have a suggestion about that .
+Bmr005.E.dialogueact686	2107.97	2111.49	E	Professor	fh|s	-1	0	Um , obviously this is very , very time - consuming , and you 're finding lots of things
+Bmr005.E.dialogueact687	2111.49	2113.94	E	Professor	s^ba^df	-1	0	which I 'm sure are gonna be very interesting ,
+Bmr005.E.dialogueact688	2114.56	2118.87	E	Professor	s.%--	-1	0	but in the interests of making progress , uh might I s
+Bmr005.E.dialogueact689	2118.87	2123.71	E	Professor	qw^cs	-1	0	how {disfmarker} how would it affect your time if you only marked speaker overlaps ?
+Bmr005.E.dialogueact692	2125.32	2127.17	E	Professor	s^co	-1	0	Do not mark any other events ,
+Bmr005.E.dialogueact694	2127.17	2128.19	E	Professor	s^co^rt	-1	0	but only mark speaker {disfmarker}
+Bmr005.E.dialogueact696	2128.25	2130.02	E	Professor	qy	-1	0	Do you think that would speed it up quite a bit ?
+Bmr005.E.dialogueact702	2140.41	2143.56	E	Professor	s	+1	0	It took you a long time {pause} to mark twelve minutes .
+Bmr005.E.dialogueact705	2143.98	2146.81	E	Professor	s^cs.%-	+1	0	Now , my suggestion was for the other thirty - three {disfmarker}
+Bmr005.E.dialogueact707	2148.44	2155.51	E	Professor	fg|qy	+1	0	Yeah , and my question is , if you did that , if you followed my suggestion , would it take much less time ?
+Bmr005.D.dialogueact709	2156.99	2157.29	D	PhD	s^aa	+1	0	yeah .
+Bmr005.E.dialogueact714	2162.13	2163.64	E	Professor	s^ba^r.%-	-1	0	Then I think it 's a good idea , because it
+Bmr005.D.dialogueact717	2163.4	2167.31	D	PhD	s	-1	0	because I {disfmarker} I need a lot of time to {disfmarker} to put the label or to do that .

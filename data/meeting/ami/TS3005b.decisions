@@ -1,0 +1,50 @@
+2	TS3005b.rdhillon.s.7	The team will not pay any attention to teletext.
+TS3005b.A.dialog-act.vkaraisk.57	915.54	922.33	A	PM	inf	+1	2	Um teletext does {disfmarker} has become outdated since the popularity of the internet .
+TS3005b.A.dialog-act.vkaraisk.58	922.33	927.61	A	PM	inf	+1	2	{vocalsound} So that's uh the first thing we I think we should pay less attention to uh teletext .
+2	TS3005b.rdhillon.s.8	The remote will only be used for televisions.
+TS3005b.A.dialog-act.vkaraisk.59	927.61	930.38	A	PM	inf	+1	2	Uh the remote control should only be used for the television ,
+TS3005b.A.dialog-act.vkaraisk.60	930.38	932.47	A	PM	ass	+1	2	otherwise the project becomes more complex ,
+1	TS3005b.rdhillon.s.9	The product needs to reach a new market with customers under forty.
+TS3005b.A.dialog-act.vkaraisk.64	940.7	944.23	A	PM	inf	+1	2	and new product should reach a new market with customers that are younger than forty ,
+2	TS3005b.rdhillon.s.10	The corporate image must be recognizable in the product.
+TS3005b.A.dialog-act.vkaraisk.66	947.03	952.76	A	PM	inf	+1	2	And uh a last point , but also very important , our corporate image should stay recognisable in our products ,
+TS3005b.A.dialog-act.vkaraisk.67	952.76	957.79	A	PM	inf	+1	2	which means that our uh corporate colour and slogan must be implemented in the new design .
+8	TS3005b.rdhillon.s.11	The remote will have buttons within the LCD display for power , volume selection , channel selection , digits from zero to nine , mute , a menu for teletext , a battery indicator , to access double digits , screen settings , channel settings , and audio settings.
+TS3005b.C.dialog-act.vkaraisk.125	1143.09	1146.0	C	ID	sug	+1	2	perhaps we should we should focus on that L_C_D_ screen .
+TS3005b.B.dialog-act.vkaraisk.160	1378.22	1379.03	B	UI	sug	+1	2	A mute button .
+TS3005b.D.dialog-act.vkaraisk.197	1383.4	1389.51	D	ME	inf	+1	2	{vocalsound} The most important things on a f on an on an uh remote control are channel selection , volume con selection ,
+TS3005b.D.dialog-act.vkaraisk.198	1390.84	1392.46	D	ME	inf	+1	2	and power s power usage .
+TS3005b.D.dialog-act.vkaraisk.205	1413.11	1418.34	D	ME	inf	+1	2	And other other less important things are screen settings , audio settings , and channel settings ,
+TS3005b.A.dialog-act.vkaraisk.143	1856.57	1878.17	A	PM	inf	+1	2	I've written down an an on or off button , volume selection , channel selection , uh the digits from one to zero , huh . Um {disfmarker} or from zero to nine . Uh a digits button to switch uh between one and two digits , mute button , a separate menu for teletext , a battery indicator .
+TS3005b.D.dialog-act.vkaraisk.330	1913.98	1919.62	D	ME	sug	+1	1	we could also implement a audio settings , screen settings and channel settings , but as sub-menus .
+TS3005b.D.dialog-act.vkaraisk.370	2038.79	2039.48	D	ME	inf	+1	2	Channel settings .
+3	TS3005b.rdhillon.s.12	The remote will feature an LCD screen.
+TS3005b.A.dialog-act.vkaraisk.84	1206.11	1207.48	A	PM	el.ass	+1	2	we're going for an L_C_D_ screen ?
+TS3005b.D.dialog-act.vkaraisk.150	1208.56	1210.26	D	ME	inf	+1	2	I think it's the most easier thing ,
+TS3005b.A.dialog-act.vkaraisk.93	1324.98	1327.39	A	PM	inf	+1	2	But for now it's L_C_D_ . Okay .
+2	TS3005b.rdhillon.s.13	The LCD screen will have a separate menu for teletext.
+TS3005b.A.dialog-act.vkaraisk.102	1406.91	1412.73	A	PM	sug	+1	3	and we could make an a a separate menu on the L_C_D_ uh screen for teletext .
+TS3005b.A.dialog-act.vkaraisk.148	1939.82	1943.28	A	PM	inf	+1	2	so not too much teletext support , but in a separate menu ,
+1	TS3005b.rdhillon.s.14	The remote will shut down when the television shuts down.
+TS3005b.D.dialog-act.vkaraisk.223	1482.08	1485.84	D	ME	sug	+1	2	so I think it's better when th the T_V_ shuts down , the remote shuts down .
+1	TS3005b.rdhillon.s.15	The remote will go into standby when idle.
+TS3005b.C.dialog-act.vkaraisk.188	1486.54	1488.84	C	ID	sug	+1	2	And go to standby mode when you don't use it ,
+1	TS3005b.rdhillon.s.16	The LCD screen will have a low battery indicator.
+TS3005b.A.dialog-act.vkaraisk.107	1496.1	1499.53	A	PM	sug	+1	2	And maybe a low battery indicator ? On the screen .
+2	TS3005b.rdhillon.s.17	The remote will have a rechargeable battery which comes with a charger.
+TS3005b.D.dialog-act.vkaraisk.232	1509.63	1512.37	D	ME	inf	+1	2	of put it in a recharger . Charger .
+TS3005b.A.dialog-act.vkaraisk.109	1513.04	1515.15	A	PM	el.ass	+1	2	So we are going for the for the recharger .
+4	TS3005b.rdhillon.s.18	The remote will be capable of speech recognition if there is enough money left in the team's budget.
+TS3005b.A.dialog-act.vkaraisk.126	1746.61	1748.69	A	PM	el.ass	+1	3	But would it be useful to imple implement both ?
+TS3005b.D.dialog-act.vkaraisk.299	1749.78	1752.145	D	ME	ass	+1	3	Yeah , if the costs al allow it . {vocalsound}
+TS3005b.C.dialog-act.vkaraisk.272	1809.61	1811.54	C	ID	ass	+1	2	it should be done . If it could be done , should be done .
+TS3005b.A.dialog-act.vkaraisk.139	1851.84	1855.35	A	PM	und	+1	3	so we only do this when we have enough money left .
+3	TS3005b.rdhillon.s.19	The remote will allow users to have the possibility to enlarge the buttons.
+TS3005b.C.dialog-act.vkaraisk.222	1625.71	1632.01	C	ID	sug	+1	2	so make it possible to not uh display uh a button at ten points
+TS3005b.C.dialog-act.vkaraisk.221	1619.92	1625.71	C	ID	sug	+1	2	Functional designs uh for the elderly uh you could make it possible to enlarge the screen ,
+TS3005b.A.dialog-act.vkaraisk.145	1886.2	1890.11	A	PM	inf	+1	2	And uh the possibility to uh enlarge buttons or to have large buttons
+0	TS3005b.rdhillon.s.20	The remote will have a general menu with the most used functions.
+3	TS3005b.rdhillon.s.21	The remote will be button-less.
+TS3005b.B.dialog-act.vkaraisk.360	2203.9	2205.51	B	UI	el.inf	+1	2	So we don't have any normal buttons
+TS3005b.C.dialog-act.vkaraisk.337	2339.53	2345.74	C	ID	ass	+1	3	I think it looks a lot more fancy if you use uh if you don't have any buttons on the s on on remote control .
+TS3005b.A.dialog-act.vkaraisk.195	2344.94	2349.41	A	PM	inf	+1	2	So actually we're going to create a a button-less uh remote . No buttons at all .

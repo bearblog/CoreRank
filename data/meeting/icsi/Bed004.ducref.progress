@@ -1,0 +1,8 @@
+The first trial run of the experiments was very successful.
+After reading some information on a city , the subject , acting as a tourist , has to ask for information over a phoneline in order to carry out certain tasks.
+A "wizard" on the other side of the line pretends to be a computer system for half of the duration.
+For the second half the subject is aware of communicating with another human.
+In parallel to the data collection , there was further work on the belief-net for the inferences currently studied.
+The features determining the output mode ( Vista , Enter or Tango ) of the belief-net have been grouped in categories: Trajector , Landmark , Source , Path , Goal , Parse , Prosody , World knowledge , Discourse and Context.
+Every particular feature , like "time of day" , "being in a hurry" , "business or tourism" , etc , will fit into on these categories.
+Although the presented net is not a working Bayes-net yet , it serves as a visual aid and stepping stone for the work to follow.

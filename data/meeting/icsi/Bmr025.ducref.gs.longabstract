@@ -1,0 +1,35 @@
+This meeting of the Berkley Meeting Recorder group charts the progress of their project and covers ongoing issues as well as some new ones.
+The most pressing issue concerns the demos which the group are preparing for the DARPA meeting next month.
+Here they discuss the querying and indexing tool which is progressing well albeit with a few front-end issues , and also the transcriber tool.
+Transcription is progressing well , with new people hired , and double checking almost complete.
+Work is also going on in parallel with IBM.
+Additionally , the group have progressed further with data storage issues , with backing-up their data now regarded as a priority , and more disk space required.
+Tools for accessing key file information have been developed which should ensure all meeting information is present.
+The collection of CrossPad note-taking data will be pursued in future meetings.
+Finally , other progress made includes getting the ChannelTrans interface working , ordering more wireless microphones , and analysing recognition runs.
+DARPA demo illustrating prosody of meeting events will be completed by the end of the ( next ) month , so as to allow a week or so for transferring data across to laptops.
+After consulting others , the group decide that not backing up their meeting data is a bad idea , since this cannot be recovered.
+Therefore , meeting recorder data will be backed up , and also stored manually using the NW archive.
+More disk space will be purchased , however for now , data which is easily re-creatable will not be backed up.
+After evaluating the use of the CrossPads , the group decide to return one , and also keep one which will be left out in meetings to encourage its use.
+Use of PDAs and buttons for note-taking will be investigated , along with using the data for a student research project.
+Because of time constraints , the group decide to do simultaneous digits.
+Improving the THISL front-end user interface may be difficult if it is to run on Windows as a web server Tcl-TK may need to be used instead.
+More information on XML transcription formats is required for the creation of the tools.
+Information for key files , such as Microphone type , seating , and participant information , is not being properly recorded , and in some cases the microphones aren't working properly.
+However this should be rectified by the use of appropriate XML tools.
+The CrossPads have not been used to their full potential , which is because of a number of problems regarding their use:
+First , they need to be synchronised with the time of the meeting recording , and secondly , they use a non standard data format which needs converting.
+Additionally , some people tend not to make notes in meetings.
+Several transcribers have now been hired , and double-checking is almost finished.
+Information retrieval will progress using uncorrected transcripts.
+In parallel to the transcription , the first five EDU meetings are chunked and ready to go to IBM , once the IBM transcript is checked and satisfactory.
+For the DARPA demo:
+Tools have been written to convert everything into the correct file formats , an now the THISTL back-end querying and indexing tool is now working on the command line.
+Work is also underway to improve the front-end THISTL interface.
+The demo of Transcriber interface was discussed , and may include graphical illustration of prosodic features indicating sentence or turn boundaries.
+Work is continuing to create tools for handling XML data , which extract data from the XML key files.
+Tools will also be provided to ensure that appropriate meeting information is present , and that microphones and recording is working.
+The ChannelTrans interface is now working on Windows machines.
+More wireless microphones have been ordered , and the room is to be re-wired as suggested by Jane , using the wireless close-talking microphones first , and then the far-field microphones.
+Analysis of the recognition runs to identify features and their characteristics is on-going.

@@ -1,0 +1,52 @@
+So what I was working on is um just going through and checking the headers of the wavefiles ,
+I use that to normalize the s the current center frame {vocalsound} by mean subtraction .
+Wanna talk a little bit about what we were talking about this morning ?
+it just seems to me like there 's a um {disfmarker}
+but I was gonna ask about the {disfmarker} {vocalsound} the um {vocalsound} changes to the data in comparing PLP and mel cepstrum for the SRI system .
+I begin to {disfmarker} to work also in that .
+The probabilities of the allophone .
+and um {vocalsound} {vocalsound} we 're {disfmarker} we 're {disfmarker} we 're {vocalsound} thinking about a way to test the completeness of a {disfmarker} a set of um dynamic uh events .
+and also mmm I {disfmarker} H Hynek last week say that if I have time I can to begin to {disfmarker} to study
+um in a phony reverberation case
+and we train up a hybrid {vocalsound} um system to do phone recognition on TIMIT .
+So we talked on the phone about this , that {disfmarker} that there was still a difference of a {disfmarker} of a few percent
+Due to Avendano , {vocalsound} I 'm taking s um {vocalsound} six seconds of speech ,
+well I {vocalsound} tried this mean subtraction method .
+but it 's big enough that it {disfmarker} it seems wrong .
+And I was asking if you were going to do {disfmarker} {vocalsound} redo it uh for PLP with the normalization done as it had been done for the mel cepstrum .
+Yeah , I will try to explain the thing that I did this {disfmarker} this week {disfmarker} during this week .
+And on meeting rec recorder far mike digits , mike {disfmarker} on channel F , it went from um {vocalsound} {vocalsound} forty - one percent error to eight percent error .
+But the first thing that I don't understand is that they are using R - the uh log energy that this quite {disfmarker}
+And I calculate um {vocalsound} the spectral mean , {vocalsound} of the log magnitude spectrum {pause} over that N .
+So um have you had a chance to do this um thing we talked about yet with the uh {disfmarker}
+That 's {disfmarker} as far as my stuff goes ,
+So he 's {disfmarker} he 's going to ICASSP which is good .
+um {vocalsound} I 'm using two second {vocalsound} FFT analysis frames , {vocalsound} stepped by a half second
+Then uh I talked a little bit about {vocalsound} um continuing with these dynamic ev um acoustic events ,
+And I 'm trying two MLP , one one that only have t three output ,
+And so Morgan and I were uh discussing {vocalsound} um s uh s a form of a cheating experiment {vocalsound} where we get {disfmarker} {vocalsound} um we have uh {vocalsound} um a chosen set of features , or acoustic events ,
+because the difference in performance is {disfmarker} it 's not gigantic
+no I haven't had a chance to do that .
+and um {vocalsound} it {disfmarker} it helped
+Uh , completeness in the {disfmarker} in the sense that {vocalsound} um if we {disfmarker} if we pick these X number of acoustic events , {vocalsound} do they provide sufficient coverage {vocalsound} for the phones that we 're trying to recognize {vocalsound} or {disfmarker} or the f the words that we 're gonna try to recognize later on .
+And I tried to do some experiment of recognition with that
+And , well , the result are li a little bit better , but more or less similar .
+and other one that have fifty - six output .
+What I 've been doing is {vocalsound} uh {vocalsound} trying to figure out {disfmarker}
+the Aurora setup of HDK training on clean TI - digits ,
+Well eh you know that I work {disfmarker} I begin to work with a new feature to detect voice - unvoice .
+well seriously the France Telecom proposal
+What I trying two MLP to {disfmarker} to the {disfmarker} with this new feature and the fifteen feature uh from the eh bus base system
+and only have result with {disfmarker} with the MLP with the three output .
+and {vocalsound} you told me that there was a difference in how the normalization was done .
+So uh , he 's not here ,
+but I thought that the normalization difference was one of the possibilities ,
+to look at the code
+I don't know why they have some constant in the expression of the lower energy .
+um {vocalsound} where I just used the simulated impulse response um {vocalsound} the error rate went from something like eighty it was from something like eighteen percent {vocalsound} to um four percent .
+I think that Stephane will arrive today or tomorrow .
+OK , and wh when did Stephane take off ?
+well it seems like there 's a bug ,
+voice , unvoice , and silence ,
+I guess I don't think that the normalization difference is gonna account for everything .
+And um {vocalsound} the {disfmarker} I tried that with HDK ,

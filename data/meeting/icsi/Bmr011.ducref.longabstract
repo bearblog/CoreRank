@@ -1,0 +1,17 @@
+The Berkeley Meeting Recorder group discussed recording equipment and setup issues , recent developments in the transcription effort , other potential types of tagging to be assigned to transcribers , and the post-processing of waveforms.
+The discussion was largely focused on efforts to facilitate transcriptions , including the improvement of strategies for transcribing overlapping speech , and achieving greater uniformity in the type of equipment used during recordings and the manner in which recording devices are worn by speakers.
+To achieve greater uniformity in across-speaker recording conditions , the group decided to purchase three additional head-mounted microphones.
+Future work will include recording more varied meeting data from non-ICSI discussion groups.
+It was proposed by speaker fe016 that better communication be established between researchers involved in post-processing of the waveform and ASR.
+Use of dissimilar microphones adds an extra , unwanted variable to individual speaker recordings.
+Similarly , differences in the type of recording equipment used and the manner in which microphones are worn by speakers causes problems for the transcription effort.
+Setting up a microphone array and performing video recordings ( in a possible collaboration with NIST ) are problematic due to the types of changes in infrastructure they require.
+IBM's single-channel approach to transcriptions may pose problems for the post-processing of waveforms and forced alignments , as the group foresees difficulties in referencing chopped segments back to the original times/locations from which they were extracted.
+Another post-processing problem involves cross-talk , and , in particular , situations in which a speaker whose contributions to the discussion are relatively sparse but whose microphone picks up signals from the other speakers.
+Modifications are being made to multi-trans to enable tight time markings at the boundaries of overlapping speech segments , and facilitate the transcription of such segments.
+Pre-segmentation continues to be very beneficial to the transcription effort.
+Work by speaker mn014 is in progress to compare the energies of different channels for detecting speech/non-speech portions , facilitating transcriptions,and potentially providing speaker identification information.
+Efforts are being developed to create a cross-correlation setup linking recorded data with a map of where individual speakers were seated.
+The transcriber pool has been performing within the expected range of work completed per the amount of time spent transcribing.
+IBM has a team of people employed to transcribe meeting data , and who are transcribing single versus multiple channels.
+The group discussed the potential for assigning additional tasks to ICSI's transcriber pool , including tagging more fine-grained acoustic information , and discourse and disfluency tagging.

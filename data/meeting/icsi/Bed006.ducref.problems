@@ -1,0 +1,6 @@
+Subjects in the trial runs of the experiment were given detailed descriptions of the tasks , which led to the subsequent dialogue being a re-iteration or re-phrasing of the instructions.
+Using pictures instead would be one way to deal with the problem , however , it was deemed too laborious and it would divert the focus of the experiment.
+As the original action planner of the SmartKom system only included a generic SPG schema , a new module was presented that allows for variety in the user intentions to be included.
+This being only a model , there are several issues that will need to be clarified in the future.
+How the model deals with redundancy of information among categories and action schemas , and whether a flat or a hierarchical model would be preferable are two of them.
+What is also clear is that as the domain of research broadens beyond the study of EVA modes , the complexity of the model will also increase.

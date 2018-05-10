@@ -1,0 +1,9 @@
+The focus of the meeting was on a presentation of the work done already on the building of the Bayes-net.
+The input layer deriving information from things like the user and situation models , feeds into a set of decision nodes , such as the Enter/View/Approach ( EVA ) endpoint.
+In any particular situation , most of the outputs will not be relevant to the given context.
+Therefore , they will either have to be pruned a posteriori , or only a subset of the possible decision nodes will be computed in each occasion.
+The latter option could could follow a binary search-tree approach and it could also be better in computational terms.
+In any case , on what basis the "winner" output is chosen is not clear.
+One suggestion was discussed: the particular constructions used can determine the pertinent decision ( output ) nodes.
+The complete prototype of the Bayes-net will be presented in the next meeting.
+After that , it will be possible to define interfaces and a dummy construction parser , in order to test and link modules together.

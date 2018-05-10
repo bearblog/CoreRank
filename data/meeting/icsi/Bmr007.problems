@@ -1,0 +1,18 @@
+2	Bmr007.s.8	For language and dialogue modelling , current methods of marking and segmenting overlap are abstracted from real time , as individual speaker turns are indicated sequentially.
+Bmr007.B.dialogueact393	1086.95	1094.91	B	PhD	s	+1	1	so , from the point of view of studying dialogue , I mean , which {pause} Dan Jurafsky and Andreas and I had some projects on , you want to know the sequence of turns .
+Bmr007.B.dialogueact399	1108.87	1115.07	B	PhD	s	+1	1	So , for things like language modeling or dialogue modeling {pause} {vocalsound} it 's {disfmarker} We know that that 's wrong in real time .
+2	Bmr007.s.9	A large amount of data must be collected to address research questions concerning overlapping speech.
+Bmr007.F.dialogueact143	406.774	417.364	F	Postdoc	s	+1	2	but , of course , uh i e {vocalsound} this is just one meeting , {pause} uh {pause} there 's no statistical testing involved , and that would be {pause} required for a {disfmarker} for a finding {pause} of {pause} any {pause} kind of {pause} scientific {pause} reliability .
+Bmr007.D.dialogueact601	1571.05	1579.37	D	Professor	s	+1	1	You know , the other thing I was thinking was that , {pause} um {pause} these {disfmarker} all these interesting questions are , of course , pretty hard to answer with , uh u {pause} you know , a small amount of data .
+1	Bmr007.s.10	For automatic speaker identification , thresholding and filtering methods are sensitive regarding the particular filter width and threshold selected.
+Bmr007.H.dialogueact828	2038.63	2046.72	H	Grad	s	+1	1	And that works O K , if you fil if you tune the filter parameters , if you tune {vocalsound} how long your median filter is and how high you 're looking for your thresholds .
+3	Bmr007.s.11	While such parameters can be finely tuned for one speaker to achieve good results , extending the same parameters to another speaker is problematic.
+Bmr007.H.dialogueact794	1962.33	1968.3	H	Grad	s	+1	1	So if you fiddle around with it a little bit and you get good numbers you can actually do a pretty good job of segmenting when someone 's talking and when they 're not .
+Bmr007.H.dialogueact795	1968.78	1971.86	H	Grad	s	+1	1	But if you try to use the same paramenters on another speaker , it doesn't work anymore ,
+Bmr007.H.dialogueact798	1978.63	1980.64	H	Grad	s^na	+1	1	It does work for the one speaker throughout the whole meeting .
+2	Bmr007.s.12	The broad phone classifier of the speaker-change detector is peforming poorly.
+Bmr007.H.dialogueact834	2068.7	2073.32	H	Grad	s.%--	+1	1	and {pause} unfortunately that 's not working real well , and it looks like it 's {disfmarker}
+Bmr007.H.dialogueact841	2103.73	2111.59	H	Grad	s	+1	1	And what looks like it 's happening is that the {disfmarker} even on the close - talking mike the broad phone class classifier 's doing a really bad job .
+0	Bmr007.s.13	The prospect of erecting visual barriers during meetings would require partitioning off each of the participants.
+1	Bmr007.s.14	Also , barriers that do not affect the overall room acoustics would be required.
+Bmr007.B.dialogueact1110	2901.47	2905.04	B	PhD	s^cs	+1	1	so we need a barrier that doesn't disturb {pause} the sound ,

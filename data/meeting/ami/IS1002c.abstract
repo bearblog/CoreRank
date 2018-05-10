@@ -1,0 +1,198 @@
+11	IS1002c.JacquelinePalmer.s.1	The Industrial Designer presented an overview of the internal components of a remote control device.
+IS1002c.A.dialog-act.s9553330.23	101.19	101.93	A	PM	bck	+1	1	Components design .
+IS1002c.B.dialog-act.s9553330.14	118.52	123.28	B	UI	inf	+1	1	So so here's a look inside your really old-looking remote control .
+IS1002c.B.dialog-act.s9553330.15	123.28	128.19	B	UI	inf	+1	1	Um you've got {vocalsound} a printed {vocalsound} a printed uh circuit board here ,
+IS1002c.B.dialog-act.s9553330.16	128.19	135.831	B	UI	inf	+1	1	and you've got all these buttons which kinda press down little rubber {vocalsound} nubbies into these little holes that activate {disfmarker}
+IS1002c.B.dialog-act.s9553330.18	139.03	145.856	B	UI	inf	+1	1	So you've also got um {disfmarker} you've got your chip here , your batteries here , and some sorta electronics . Um {disfmarker}
+IS1002c.B.dialog-act.s9553330.20	152.08	156.82	B	UI	inf	+1	1	so you've got {disfmarker} here's here's a transistor , and this amplifies your signal ,
+IS1002c.B.dialog-act.s9553330.21	156.82	161.97	B	UI	inf	+1	1	um you've got the L_E_D_ here on the end of the uh uh on the end of the printed circuit board .
+IS1002c.B.dialog-act.s9553330.22	161.97	167.35	B	UI	inf	+1	1	Um you've got a couple diodes here for I don't know who and whatnot {vocalsound} .
+IS1002c.B.dialog-act.s9553330.24	170.2	181.99	B	UI	inf	+1	1	So um we've got a {disfmarker} i in this in this uh drawing he uh in this example here , this is a eighteen pin um uh chip {vocalsound} I dunno .
+IS1002c.B.dialog-act.s9553330.25	181.99	183.74	B	UI	inf	+1	1	Uh it's two double A_ batteries .
+IS1002c.B.dialog-act.s9553330.26	183.74	185.01	B	UI	ass	+1	1	This is pretty standard remote .
+34	IS1002c.JacquelinePalmer.s.2	He discussed energy source and material options , and suggested that using rubber and plastic would be the most versatile option.
+IS1002c.B.dialog-act.s9553330.27	186.72	190.21	B	UI	inf	+1	1	So here are options for our power sources .
+IS1002c.B.dialog-act.s9553330.28	190.21	193.43	B	UI	inf	+1	1	You can use a basic battery , which we've already discussed ,
+IS1002c.B.dialog-act.s9553330.29	193.43	201.47	B	UI	inf	+1	1	um {vocalsound} th our tech department also said we have the option of doing some kind of hand dynamo where maybe you crank it or something like that .
+IS1002c.B.dialog-act.s9553330.34	217.49	222.34	B	UI	inf	+1	1	So that's the next bullet is the um the kinetic provision of energy ,
+IS1002c.B.dialog-act.s9553330.35	222.34	226.16	B	UI	inf	+1	1	so it's like that flashlight where you have to shake it {vocalsound} .
+IS1002c.B.dialog-act.s9553330.36	226.16	227.96	B	UI	inf	+1	1	Uh we've got solar cells ,
+IS1002c.B.dialog-act.s9553330.37	227.96	233.1	B	UI	ass	+1	1	which I don't think is a very good idea because um you could not use your remote at night {vocalsound}
+IS1002c.B.dialog-act.s9553330.39	235.64	238.62	B	UI	inf	+1	1	And finally we've got our cradle o our power cradle idea .
+IS1002c.A.dialog-act.s9553330.35	239.03	241.24	A	PM	el.inf	+1	1	Okay so we basically have battery versus cradle here ?
+IS1002c.C.dialog-act.s9553330.26	243.12	244.06	C	ID	ass	+1	1	I like the kinetic .
+IS1002c.B.dialog-act.s9553330.43	254.62	259.63	B	UI	ass	+1	1	Well it is it is more uh {disfmarker} I mean it is more eco-friendly than the than the cradle
+IS1002c.B.dialog-act.s9553330.46	266.8	268.96	B	UI	inf	+1	1	We have uh choices in materials
+IS1002c.B.dialog-act.s9553330.47	268.96	272.01	B	UI	inf	+1	1	and choices in the general shapes that we can do .
+IS1002c.B.dialog-act.s9553330.48	272.01	281.6	B	UI	inf	+1	1	Our material choices are a plastic latex um ty or plastic , a rubber latex type thing , uh wood , or titanium .
+IS1002c.B.dialog-act.s9553330.49	281.6	286.11	B	UI	inf	+1	1	If we go with titanium we're gonna be uh limited in the amount of shapes we can do
+IS1002c.A.dialog-act.s9553330.44	292.03	294.65	A	PM	sug	+1	1	Wood wood would ge would give us a little bit of a marketing niche , wouldn't it .
+IS1002c.B.dialog-act.s9553330.53	298.32	301.57	B	UI	ass	+1	1	I I can't see anybody wanting to use a wooden remote ,
+IS1002c.D.dialog-act.s9553330.29	314.36	316.94	D	ME	off	+1	1	whatever product you put in there we can find a way to accentuate it .
+IS1002c.B.dialog-act.s9553330.57	322.39	331.04	B	UI	sug	+1	1	Um my recommendation personally would be to do some kind of a plastic inner shell with a like a rubber outer shell ,
+IS1002c.B.dialog-act.s9553330.58	331.04	334.54	B	UI	inf	+1	1	to make it um to mak uh like a thick plastic inner shell
+IS1002c.B.dialog-act.s9553330.59	334.54	340.31	B	UI	inf	+1	1	and a t um kind of a {disfmarker} to have that rubber outer shell to make it more durable ,
+IS1002c.B.dialog-act.s9553330.63	352.39	358.37	B	UI	inf	+1	1	The advantages of working with plastic and rubber is {disfmarker} w we we'll have a lot more um options just in terms of shape
+IS1002c.B.dialog-act.s9553330.66	369.91	372.65	B	UI	inf	+1	1	But basically these are {vocalsound} curved and double-curved
+IS1002c.B.dialog-act.s9553330.67	372.65	382.55	B	UI	inf	+1	1	I I believe that the tech department , in their um {vocalsound} in their {vocalsound} message to me , that they were referring to the number of th curves in the bottom .
+IS1002c.B.dialog-act.s9553330.68	382.55	385.53	B	UI	inf	+1	1	I have no idea exactly what they're talking about ,
+IS1002c.B.dialog-act.s9553330.69	385.53	388.73	B	UI	inf	+1	1	but that's what they told me , {vocalsound} uncurved , flat , curved , or double-curved .
+IS1002c.B.dialog-act.s9553330.72	396.35	398.94	B	UI	inf	+1	1	I think curved means just curved in one axis
+IS1002c.B.dialog-act.s9553330.73	398.94	401.38	B	UI	sug	+1	1	and double-curved is curved in two axes
+IS1002c.B.dialog-act.s9553330.77	413.1	417.21	B	UI	inf	+1	1	Um okay , with the interface we have the following options ,
+IS1002c.B.dialog-act.s9553330.78	417.21	419.73	B	UI	inf	+1	1	we can u we can use push buttons ,
+IS1002c.B.dialog-act.s9553330.79	419.73	422.51	B	UI	inf	+1	1	we can use a scroll wheel with an integrated push button ,
+IS1002c.B.dialog-act.s9553330.80	422.51	423.99	B	UI	inf	+1	1	and L_C_D_ display ,
+IS1002c.B.dialog-act.s9553330.81	423.99	425.33	B	UI	inf	+1	1	or multiple scrolling wheels .
+IS1002c.B.dialog-act.s9553330.82	427.12	436.72	B	UI	inf	+1	1	Um so these are all options that the user interface guy can uh {disfmarker} has at his disposal to put together a user interface .
+9	IS1002c.JacquelinePalmer.s.3	He displayed the three options for chips.
+IS1002c.B.dialog-act.s9553330.83	437.81	443.43	B	UI	inf	+1	1	For electronics , we have these very technical um {vocalsound} descriptions here .
+IS1002c.B.dialog-act.s9553330.84	443.43	445.46	B	UI	inf	+1	1	A simple chip , which is the least expensive ,
+IS1002c.B.dialog-act.s9553330.86	447.78	455.199	B	UI	inf	+1	1	a regular chip , which is {vocalsound} like the medium porridge {disfmarker} the {vocalsound} medium expense uh {disfmarker}
+IS1002c.A.dialog-act.s9553330.60	453.71	458.25	A	PM	el.inf	+1	1	D do we have actually any concept of what the difference is between a simple chip and an advanced chip ?
+IS1002c.B.dialog-act.s9553330.85	445.46	447.78	B	UI	inf	+1	2	but I have no numbers to give you ,
+IS1002c.B.dialog-act.s9553330.91	467.6	470.93	B	UI	inf	+1	1	A simple chip is required to operate push buttons .
+IS1002c.B.dialog-act.s9553330.92	470.93	477.02	B	UI	inf	+1	1	Um {vocalsound} an advanced chip is required to to operate um the L_C_D_ display ,
+IS1002c.B.dialog-act.s9553330.93	477.02	485.26	B	UI	inf	+1	1	and it didn't say specifically , but I I have a hunch that a regular chip is gonna be the scroll wheel and the multiple scroll wheels .
+IS1002c.B.dialog-act.s9553330.98	491.14	492.25	B	UI	inf	+1	1	That's the end of my presentation .
+10	IS1002c.JacquelinePalmer.s.4	The User Interface Designer discussed voice recognition with the group , and the group decided to not use it in their design.
+IS1002c.C.dialog-act.s9553330.29	511.7	513.04	C	ID	inf	+1	1	Oh interface concept .
+IS1002c.C.dialog-act.s9553330.35	534.68	537.85	C	ID	inf	+1	1	our uh manufacturing division wanted the speech recognition .
+IS1002c.C.dialog-act.s9553330.36	537.85	539.52	C	ID	inf	+1	1	They say they could put it to work
+IS1002c.C.dialog-act.s9553330.37	539.52	541.51	C	ID	inf	+1	1	but um we don't think so .
+IS1002c.C.dialog-act.s9553330.39	542.65	547.36	C	ID	inf	+1	1	It it it {disfmarker} you'll be you know be affected by the by the other speech and {disfmarker}
+IS1002c.B.dialog-act.s9553330.104	549.15	555.58	B	UI	inf	+1	1	I mean it'll {disfmarker} if somebody says up in the middle of a television show , it's gonna change the channel .
+IS1002c.A.dialog-act.s9553330.71	560.16	564.13	A	PM	sug	+1	1	But what if you actually had to press a button to make it recognize ?
+IS1002c.B.dialog-act.s9553330.106	566.4	567.95	B	UI	sug	+1	1	Well then why don't you just press the up button ?
+IS1002c.B.dialog-act.s9553330.107	573.09	577.6	B	UI	inf	+1	1	Even still there's gonna be interf th there's there still will be interference from the T_V_ .
+IS1002c.B.dialog-act.s9553330.111	586.33	587.76	B	UI	ass	+1	2	I think it's a bad idea frankly .
+3	IS1002c.JacquelinePalmer.s.5	He suggested using rubber buttons because of their durability.
+IS1002c.C.dialog-act.s9553330.46	588.87	597.73	C	ID	inf	+1	1	Yeah so um taking that away , our uh {disfmarker} the the the rubber but rubber buttons are the more reliable {disfmarker}
+IS1002c.C.dialog-act.s9553330.47	597.73	605.02	C	ID	inf	+1	1	it's the the ones that would al would allow us to to market our product as being you know less prone to damage
+IS1002c.C.dialog-act.s9553330.48	605.02	609.4	C	ID	inf	+1	1	and more resistant to things like spillage of liquids over it
+14	IS1002c.JacquelinePalmer.s.6	He discussed the size of the device and the layout of the interface , and suggested that the remote be moderately sized to prevent its getting lost.
+IS1002c.C.dialog-act.s9553330.51	619.87	623.05	C	ID	inf	+1	1	Well , we wanna small r remote control one side
+IS1002c.C.dialog-act.s9553330.52	623.05	629.97	C	ID	inf	+1	1	because uh we want it to be cool and uh designed ,
+IS1002c.C.dialog-act.s9553330.53	629.97	639.77	C	ID	inf	+1	1	but um apparently um market shows that bigger s bigger um remotes get less lost ,
+IS1002c.C.dialog-act.s9553330.55	641.43	647.2	C	ID	sug	+1	1	But um yeah I think we we need to compromise between those two and somehow we'll do that . Somehow .
+IS1002c.C.dialog-act.s9553330.56	647.92	658.32	C	ID	sug	+1	1	Um so {vocalsound} the the {disfmarker} what I would propose is something more or less in the uh direction of what is to yo the right of that slide uh
+IS1002c.C.dialog-act.s9553330.57	658.32	663.02	C	ID	sug	+1	1	but without {disfmarker} with a l a less complicated um design ,
+IS1002c.C.dialog-act.s9553330.58	663.02	668.28	C	ID	sug	+1	1	so the numbers , the volume control , and channel control , and teletext access .
+IS1002c.C.dialog-act.s9553330.59	668.28	676.27	C	ID	sug	+1	1	Uh the volume and channel control can just become those the the four button array as in if it was a round dial .
+IS1002c.C.dialog-act.s9553330.60	677.33	685.57	C	ID	sug	+1	1	And um if you just think about it as the one to the right but with the numbers and the four buttons plus maybe a centre one with teletext .
+IS1002c.A.dialog-act.s9553330.80	685.64	687.97	A	PM	el.inf	+1	1	So we're suggesting doing a sorta scroll wheel thing for the volume ?
+IS1002c.C.dialog-act.s9553330.62	689.52	692.72	C	ID	inf	+1	1	i i it's just four buttons that are on a cross ,
+IS1002c.C.dialog-act.s9553330.65	703.51	708.6	C	ID	sug	+1	1	um yeah so I think we w we go for something mid-sized ,
+IS1002c.C.dialog-act.s9553330.66	708.6	709.59	C	ID	sug	+1	1	so something looks good
+IS1002c.C.dialog-act.s9553330.67	709.59	712.19	C	ID	sug	+1	1	and uh is not too prone to get lost .
+25	IS1002c.JacquelinePalmer.s.7	The Marketing Expert expressed concern that the remote lacked enough features to be distinctive.
+IS1002c.D.dialog-act.s9553330.41	730.18	731.64	D	ME	inf	+1	1	Trend watching I guess .
+IS1002c.D.dialog-act.s9553330.46	743.59	749.04	D	ME	inf	+1	1	When I s when I see the {disfmarker} when I see the product I I I I don't wanna buy it .
+IS1002c.D.dialog-act.s9553330.48	750.93	757.24	D	ME	inf	+1	2	There's nothing about that product that makes me wanna choose that product over other products that are out there .
+IS1002c.B.dialog-act.s9553330.119	756.05	757.68	B	UI	el.inf	+1	1	Are you talking about the picture ?
+IS1002c.B.dialog-act.s9553330.120	757.68	759.43	B	UI	inf	+1	1	That's not our that's not our b design ,
+IS1002c.D.dialog-act.s9553330.52	767.92	772.37	D	ME	inf	+1	1	Okay 'cause 'cause right now I don't have too much to say about how to market this product
+IS1002c.D.dialog-act.s9553330.53	772.37	774.69	D	ME	inf	+1	1	because we don't have a product to market yet .
+IS1002c.D.dialog-act.s9553330.54	774.69	781.76	D	ME	inf	+1	1	And uh from from talking to Mike is that we have we have uh we can market a more expensive product now .
+IS1002c.D.dialog-act.s9553330.59	796.12	802.51	D	ME	inf	+1	2	Uh without special or increased marketable features I don't believe the product has a consumer demand .
+IS1002c.D.dialog-act.s9553330.60	802.51	806.24	D	ME	ass	+1	1	Uh I like the idea of of the scroll
+IS1002c.D.dialog-act.s9553330.69	827.77	830.84	D	ME	inf	+1	1	what I'm looking for as marketing is m give me something different .
+IS1002c.D.dialog-act.s9553330.70	830.84	832.1	D	ME	sug	+1	1	I give me a lower price ,
+IS1002c.D.dialog-act.s9553330.71	832.1	833.1	D	ME	sug	+1	1	give me a higher price ,
+IS1002c.D.dialog-act.s9553330.72	833.1	835.09	D	ME	sug	+1	1	give me some new technology ,
+IS1002c.D.dialog-act.s9553330.78	849.76	853.44	D	ME	fra	+1	1	when we when we have something like the cradle or or something give that's {disfmarker}
+IS1002c.A.dialog-act.s9553330.93	843.46	848.5	A	PM	inf	+1	1	I'd I'd say though that we {disfmarker} if we did make the decision to go with the cradle though , the then we have that as well ,
+IS1002c.B.dialog-act.s9553330.123	856.4	862.86	B	UI	inf	+1	1	Well right I think the two big th points that we have so far are the {disfmarker} having the cradle
+IS1002c.B.dialog-act.s9553330.124	862.86	874.43	B	UI	inf	+1	1	and also having uh the um the actual design of the uh case itself having like this like rubber shell maybe with a plastic interior ,
+IS1002c.D.dialog-act.s9553330.82	879.71	884.18	D	ME	inf	+1	1	Just remember when I made up this report I didn't have the information that we're discussing here .
+IS1002c.D.dialog-act.s9553330.84	889.92	893.9	D	ME	inf	+1	1	so what I'm saying is , from my perspective , I don't have a product to market right now .
+IS1002c.D.dialog-act.s9553330.85	895.0	900.27	D	ME	inf	+1	1	Um uh my personal preference is that we make some adjustment in the cost , either lower
+IS1002c.D.dialog-act.s9553330.86	900.27	903.72	D	ME	inf	+1	1	or develop an integrated new technol technology .
+IS1002c.D.dialog-act.s9553330.90	914.81	918.01	D	ME	ass	+1	1	Yeah uh again I'm not sold on the product
+IS1002c.D.dialog-act.s9553330.91	918.01	920.48	D	ME	inf	+1	1	because we don't have a product in my opinion yet .
+IS1002c.D.dialog-act.s9553330.96	934.87	939.79	D	ME	inf	+1	1	If you if you give me {disfmarker} if you give me a cut-out of what everybody else has then I need to I need to find a lower cost .
+66	IS1002c.JacquelinePalmer.s.8	The group had a discussion to decide on the product features.
+IS1002c.A.dialog-act.s9553330.100	943.76	951.28	A	PM	el.inf	+1	1	So our big {vocalsound} questions here really are cradle or not cradle ?
+IS1002c.A.dialog-act.s9553330.101	951.28	954.14	A	PM	el.inf	+1	1	Do we go basic or do we go for features ?
+IS1002c.A.dialog-act.s9553330.102	955.31	961.39	A	PM	el.inf	+1	1	Uh d does anyone really wanna do anything with the scroll wheel or should we ditch that off-hand first ?
+IS1002c.B.dialog-act.s9553330.129	960.32	962.58	B	UI	el.sug	+1	1	Well my question is what would the scroll wheel do ?
+IS1002c.B.dialog-act.s9553330.131	970.976	975.72	B	UI	inf	+1	1	{vocalsound} Yeah . Well it's it's just another way to do the exact same thing that the buttons do .
+IS1002c.D.dialog-act.s9553330.99	977.68	980.76	D	ME	inf	+1	1	now what I see with the scroll wheel is everybody has buttons .
+IS1002c.D.dialog-act.s9553330.100	980.76	986.65	D	ME	inf	+1	1	So from a marketing standpoint I have I have another door to walk through when we have something that's unique .
+IS1002c.A.dialog-act.s9553330.108	1002.57	1007.06	A	PM	inf	+1	1	What I understand about scroll wheels is they're they're quite expensive to to make .
+IS1002c.B.dialog-act.s9553330.135	1019.77	1025.98	B	UI	ass	+1	1	{disfmarker} if if we're gonna make up the extra cost by extra sales I think maybe it's worth it to do it ,
+IS1002c.B.dialog-act.s9553330.136	1025.98	1032.3	B	UI	sug	+1	1	but I mean I would just use {disfmarker} if I was gonna do this I would just use the scroll wheel for s channels up and channels down .
+IS1002c.B.dialog-act.s9553330.139	1040.24	1042.848	B	UI	inf	+1	1	No we can {disfmarker} we can do multiple scroll wheels but {disfmarker}
+IS1002c.A.dialog-act.s9553330.111	1048.55	1061.03	A	PM	inf	+1	1	my personal preference is focusing the p the product on the idea of the uh the case the the {vocalsound} uh dock to put it in {disfmarker} to to charge it .
+IS1002c.A.dialog-act.s9553330.112	1061.03	1064.66	A	PM	sug	+1	1	We can target like environmentally friendly ideas , that sorta things .
+IS1002c.A.dialog-act.s9553330.118	1081.2	1083.65	A	PM	inf	+1	1	It's gonna need to be more expensive because of the cradle .
+IS1002c.A.dialog-act.s9553330.126	1114.14	1115.47	A	PM	el.inf	+1	1	What type of casing ?
+IS1002c.A.dialog-act.s9553330.127	1115.47	1118.61	A	PM	ass	+1	1	I personally like what you were saying about the plastic with the rubber .
+IS1002c.B.dialog-act.s9553330.143	1119.15	1123.04	B	UI	sug	+1	1	I'm thinking {disfmarker} yeah something like kinda almost like these pens , you know ,
+IS1002c.B.dialog-act.s9553330.145	1124.72	1126.18	B	UI	inf	+1	1	and then it's not really rubber
+IS1002c.B.dialog-act.s9553330.144	1123.04	1124.72	B	UI	sug	+1	1	where there's {disfmarker} you have plastic bits
+IS1002c.B.dialog-act.s9553330.146	1126.18	1130.99	B	UI	sug	+1	2	but just kinda like a fused {disfmarker} the plastic with rubber on the outside .
+IS1002c.A.dialog-act.s9553330.133	1158.79	1163.56	A	PM	el.inf	+1	1	or do we want {disfmarker} if we're ditching the scroll wheels do we want to go L_C_D_ ?
+IS1002c.A.dialog-act.s9553330.132	1147.2	1158.79	A	PM	el.inf	+1	1	d d do we want to do anything more basic with the {disfmarker} uh more advanced with the user interface in terms of do we want to go for {vocalsound} um buttons ,
+IS1002c.B.dialog-act.s9553330.150	1170.45	1173.84	B	UI	inf	+1	1	Or from from my perspective I think L_C_D_ is a mistake
+IS1002c.B.dialog-act.s9553330.152	1176.5	1181.4	B	UI	inf	+1	1	and all you're doing {disfmarker} I mean it's {disfmarker} you're not gonna get any information back from the television ,
+IS1002c.B.dialog-act.s9553330.153	1181.4	1186.61	B	UI	inf	+1	1	so the only information you can display on this remote is what channel you {vocalsound} just sent it at last
+IS1002c.D.dialog-act.s9553330.117	1206.73	1215.2	D	ME	inf	+1	1	so you know unless technology changes and information starts coming out of the {disfmarker} a cable box or something there's no s I don't see the ,
+IS1002c.A.dialog-act.s9553330.139	1235.94	1245.98	A	PM	el.inf	+1	1	So , what we need to know in terms of marketing and uh project management are are there any other questions that we need to answer now before you guys can go and build this ?
+IS1002c.B.dialog-act.s9553330.160	1250.58	1256.44	B	UI	inf	+1	1	Well we have to {disfmarker} I think for me it's still not exactly clear exactly what the inter user interface is gonna be .
+IS1002c.D.dialog-act.s9553330.126	1284.92	1287.89	D	ME	sug	+1	1	You know the other thing I thought about was you know , do we go to something like this ?
+IS1002c.D.dialog-act.s9553330.127	1290.68	1292.65	D	ME	sug	+1	1	Make a remote that doesn't look like a remote .
+IS1002c.B.dialog-act.s9553330.163	1298.32	1300.9	B	UI	ass	+1	1	Well I dunno about like the flip-phone idea ,
+IS1002c.D.dialog-act.s9553330.130	1308.35	1319.05	D	ME	inf	+1	1	I mean what I see {disfmarker} one of the things one of the things you brought up in an earlier presentation is , when you got children , {vocalsound} their their stuff gets inside the circuitry , they get dirty , they get messy with drinks and stuff .
+IS1002c.D.dialog-act.s9553330.132	1323.8	1331.71	D	ME	inf	+1	1	And what I keep throwing out there {disfmarker} I just keep throwing out ideas to try to make this thing look or act or in some way identify itself as unique or different .
+IS1002c.A.dialog-act.s9553330.143	1337.09	1350.87	A	PM	el.inf	+1	2	and I guess th th the question th {vocalsound} th that you're being asked right now is whether {disfmarker} is the dock enough of a unique feature to be able to go out and sell that a a as a a very different product ,
+IS1002c.A.dialog-act.s9553330.144	1350.87	1353.35	A	PM	el.inf	+1	2	or do we really need the scroll wheel as well ?
+IS1002c.A.dialog-act.s9553330.145	1353.35	1355.43	A	PM	inf	+1	2	Because the scroll wheel comes at quite a cost .
+IS1002c.B.dialog-act.s9553330.173	1375.91	1380.67	B	UI	inf	+1	1	Um {vocalsound} we're probably gonna have to go with a like a medium chip , s I would imagine .
+IS1002c.B.dialog-act.s9553330.170	1367.392	1370.89	B	UI	inf	+1	1	{vocalsound} The locator's gonna require a radio transmitter ,
+IS1002c.D.dialog-act.s9553330.138	1359.25	1365.39	D	ME	ass	+1	3	I think if you can have the base station with a with a locator , I think those are two very strong features ,
+IS1002c.D.dialog-act.s9553330.145	1395.98	1402.91	D	ME	ass	+1	1	I know personally that would be a very attractive feature , is to have a uh have a button I can push to find my remote control .
+IS1002c.A.dialog-act.s9553330.147	1402.62	1406.02	A	PM	sug	+1	1	And it's presumably gonna need a little speaker in it or something like that as well to beep .
+IS1002c.A.dialog-act.s9553330.148	1409.99	1412.45	A	PM	sug	+1	1	But I guess a little tiny speaker is gonna be quite cheap ,
+IS1002c.B.dialog-act.s9553330.179	1436.9	1439.53	B	UI	el.inf	+1	1	So the scroll wheel , in or out ?
+IS1002c.A.dialog-act.s9553330.155	1440.9	1443.76	A	PM	inf	+1	1	Mm pr my personal preference is out .
+IS1002c.B.dialog-act.s9553330.180	1458.92	1461.66	B	UI	ass	+1	1	For me I think the scroll wheel actually might not be so bad .
+IS1002c.B.dialog-act.s9553330.181	1461.66	1464.01	B	UI	inf	+1	2	I don't know exactly what the increased cost is gonna be ,
+IS1002c.D.dialog-act.s9553330.158	1523.888	1533.7	D	ME	inf	+1	1	{vocalsound} I I think there's {disfmarker} you know that uh there are so many people today that are that are surfing {disfmarker} are television surfers ,
+IS1002c.D.dialog-act.s9553330.159	1533.7	1537.11	D	ME	inf	+1	1	and I see the scroll as a as a great mechanism for surfing .
+IS1002c.B.dialog-act.s9553330.191	1545.17	1552.47	B	UI	inf	+1	1	Now just just so you know though uh you did bring up a point which is very valid , is a lot of T_V_s won't re the T_V_s won't respond exactly the same .
+IS1002c.B.dialog-act.s9553330.193	1554.61	1560.77	B	UI	inf	+1	1	so you may like queue up like fifteen channel changes , and it'll be like flip , flip , flip .
+IS1002c.A.dialog-act.s9553330.172	1562.99	1572.46	A	PM	sug	+1	1	You could basically make it so that it'll {disfmarker} I mean it's just gonna be sending a signal to the T_V_ yeah the T_V_'s ge so if you send about five flip channels , if you did that it's gonna flip once .
+IS1002c.B.dialog-act.s9553330.197	1572.68	1575.82	B	UI	ass	+1	1	it just might be frustrating where you can't make it go as fast as you want ,
+IS1002c.D.dialog-act.s9553330.165	1589.15	1595.55	D	ME	inf	+1	1	Now the the only thing I I {vocalsound} {disfmarker} on the interface side of it , is that {vocalsound} I I I see the dilemma .
+IS1002c.D.dialog-act.s9553330.167	1606.37	1617.34	D	ME	sug	+1	1	So I can go uh {vocalsound} presuming I have , on my television , something that tells me what channel I'm on , I can scroll direct from channel five to channel thirty two .
+IS1002c.D.dialog-act.s9553330.171	1628.46	1635.11	D	ME	inf	+1	1	'cause the television can go automatically from channel five to channel thirty two with the push of a button . Okay ?
+IS1002c.D.dialog-act.s9553330.172	1635.11	1639.22	D	ME	sug	+1	1	So ca can we can we create that kind of interface within a scroll system ?
+IS1002c.A.dialog-act.s9553330.181	1642.83	1646.25	A	PM	sug	+1	1	so if {disfmarker} maybe if we had an L_C_D_ up the top that just did a number on it , right ?
+IS1002c.B.dialog-act.s9553330.205	1660.67	1662.52	B	UI	inf	+1	1	It'll tell you when you flip the channel on the T_V_ .
+IS1002c.A.dialog-act.s9553330.188	1667.76	1668.84	A	PM	el.inf	+1	1	How would you program it though ?
+IS1002c.B.dialog-act.s9553330.209	1668.96	1670.27	B	UI	inf	+1	1	Well you just {disfmarker} it's one extra button .
+IS1002c.B.dialog-act.s9553330.210	1670.27	1673.59	B	UI	inf	+1	1	You say programme start , and then type in {disfmarker}
+IS1002c.D.dialog-act.s9553330.180	1695.06	1697.81	D	ME	inf	+1	1	And again we have another another great marketing tool .
+IS1002c.A.dialog-act.s9553330.199	1721.49	1723.79	A	PM	inf	+1	1	The problem we're gonna have is making it robust .
+IS1002c.B.dialog-act.s9553330.216	1724.42	1733.03	B	UI	el.sug	+1	1	Oh well we also have to determine in some manner how to switch between modes , between going through your favourites list and just hitting up one , up two .
+IS1002c.D.dialog-act.s9553330.188	1744.63	1746.93	D	ME	sug	+1	1	well then you just have , you have a diff you have a mode switch .
+IS1002c.A.dialog-act.s9553330.130	1131.69	1135.141	A	PM	sug	+1	3	Just a very thin sorta sheet for a a grip , sorta thing or for {disfmarker}
+5	IS1002c.JacquelinePalmer.s.9	They decided to include a charging stand , to use a thin rubber casing material , to include a locator function and a scroll wheel with two channel-changing options to increase its usability.
+IS1002c.A.dialog-act.s9553330.209	1760.72	1766.03	A	PM	inf	+1	2	So right details th {vocalsound} that we've talked about here are that we want a scroll wheel .
+IS1002c.A.dialog-act.s9553330.210	1768.41	1771.31	A	PM	inf	+1	2	We want {vocalsound} a mode indicator .
+IS1002c.A.dialog-act.s9553330.211	1774.85	1777.32	A	PM	inf	+1	1	We want {vocalsound} back-lit buttons .
+IS1002c.B.dialog-act.s9553330.226	1790.45	1795.79	B	UI	inf	+1	1	Just so you know I think {disfmarker} I mean it was my understanding that before we were gonna stay in the mid-market range .
+IS1002c.A.dialog-act.s9553330.130	1131.69	1135.141	A	PM	sug	+1	3	Just a very thin sorta sheet for a a grip , sorta thing or for {disfmarker}
+9	IS1002c.JacquelinePalmer.s.10	The group discussed the cost of the various components and decided to sell the device at a point between thirty-five and fifty Euros.
+IS1002c.A.dialog-act.s9553330.222	1819.66	1823.24	A	PM	inf	+1	2	though we haven't got to a stage where we're ready to pin down the price of components .
+IS1002c.A.dialog-act.s9553330.221	1816.88	1819.66	A	PM	sug	+1	2	So we really need to be sure as to what we can push the cost up to ,
+IS1002c.D.dialog-act.s9553330.200	1856.74	1865.33	D	ME	sug	+1	1	I guess what I just want {disfmarker} to me the next step is for these guys to come come in with the design proposal w with the cost estimate attached ,
+IS1002c.B.dialog-act.s9553330.240	1918.23	1919.98	B	UI	sug	+1	1	I would say thirty five to forty .
+IS1002c.D.dialog-act.s9553330.203	1920.08	1922.13	D	ME	sug	+1	2	Yeah , I was gonna say thirty five to fifty .
+IS1002c.A.dialog-act.s9553330.242	1923.26	1926.11	A	PM	inf	+1	2	Thirty five to fifty Euros is our sales bracket okay .
+IS1002c.B.dialog-act.s9553330.233	1869.63	1872.73	B	UI	el.sug	+1	1	Let's let's try and think now , how much would you pay for
+IS1002c.A.dialog-act.s9553330.231	1880.94	1882.55	A	PM	sug	+1	1	But you've gotta think who our target market is
+IS1002c.C.dialog-act.s9553330.91	1936.69	1953.1	C	ID	off	+1	5	Okay so we'll come up with something between thirty five and fifty that is rug rubber , robust , with scroll wheel , with the new facilities of the scroll wheel like favourite stuff , favourite channels , and and with a cradle , and yeah and the locator .
+1	IS1002c.JacquelinePalmer.s.11	The User Interface Designer and the Industrial Designer were instructed to construct the prototype.
+IS1002c.A.dialog-act.s9553330.256	2009.4	2014.352	A	PM	inf	+1	2	Okay so you guys will be getting your modelling done now and uh {disfmarker}

@@ -1,0 +1,26 @@
+1	Bmr019.s.18	At the digit recognition task , HTK systems , which are commonly used , performed worse than SRI.
+Bmr019.B.dialogueact142	214.907	230.407	B	Professor	s^rt	+1	0	uh , I mean , there the point of interest to the group was primarily that , um , {vocalsound} the , uh {disfmarker} the system that we had that was based on H T K , that 's used by , you know , {pause} all the participants in Aurora , {vocalsound} was so much worse {vocalsound} than the {disfmarker} than the S R
+3	Bmr019.s.19	The error rate with the current digit corpus is expected to be higher than with the TI one , since the latter are wide-band studio recordings.
+Bmr019.E.dialogueact242	491.942	492.962	E	Grad	qw^rt	-1	0	Wha - what 's TI - digits ?
+Bmr019.B.dialogueact244	493.625	494.465	B	Professor	s^na|s^aa	-1	0	It 's wide - band , yeah .
+Bmr019.E.dialogueact228	449.18	451.28	E	Grad	s	-1	0	So it would probably do even a little better still
+1	Bmr019.s.20	The distance of the microphones from the speaker also affects the results.
+Bmr019.A.dialogueact476	914.0	922.659	A	PhD	s	-1	0	Actually if you run , though , on a close - talking mike over the whole meeting , during all those silences , you get , like , four hundred percent word error .
+3	Bmr019.s.21	The microphones themselves are not of the best quality , although this has been a design choice.
+Bmr019.A.dialogueact561	1097.96	1099.6	A	PhD	qy^rt	-1	0	And aren't these pretty bad microphones ?
+Bmr019.E.dialogueact562	1099.65	1099.86	E	Grad	s^aa	-1	0	Yep .
+Bmr019.A.dialogueact570	1116.8	1119.47	A	PhD	s	-1	0	I just remember you saying you got them to be cheap on purpose .
+2	Bmr019.s.22	Furthermore , it was noted that SRI is somewhat cumbersome: feeding features into the recogniser requires separate files to be dumped out for every segment to be processed.
+Bmr019.F.dialogueact651	1313.49	1319.36	F	PhD	fg|s	+1	0	Yeah , the {disfmarker} the {disfmarker} the cumbersome thing is {disfmarker} is , um {disfmarker} is that you actually have to dump out little {disfmarker} little files .
+Bmr019.F.dialogueact653	1319.36	1324.47	F	PhD	s	-1	0	So for each segment that you want to recognize {vocalsound} you have to {pause} dump out {pause} a separate file .
+3	Bmr019.s.23	There were also a couple of problematic points with forced alignments: the pruning proved too severe and word locations needed to be constrained further.
+Bmr019.A.dialogueact670	1373.3	1378.51	A	PhD	s	-1	0	which is a um , I think was both a {disfmarker} a pruning {pause} problem
+Bmr019.A.dialogueact671	1378.51	1384.74	A	PhD	s	-1	0	and possibly a problem with needing constraints on word locations .
+Bmr019.A.dialogueact680	1414.68	1418.75	A	PhD	s	-1	0	And then also , ca the pruning , of course , was too {disfmarker} too severe .
+2	Bmr019.s.24	Using adaptation for both the foreground and the background speaker also resulted in some strange alignments.
+Bmr019.A.dialogueact737	1574.39	1579.01	A	PhD	s	+1	1	But , I guess Andreas tried adapting both the foreground and a background generic speaker ,
+Bmr019.A.dialogueact739	1582.41	1584.19	A	PhD	s	+1	1	Like , it gives you some weird alignments ,
+3	Bmr019.s.25	Moreover , there were some speaker identification mistakes that occurred whilst transcribing from the mixed channel.
+Bmr019.C.dialogueact929	1962.68	1965.04	C	Postdoc	s	-1	0	I {disfmarker} I transcribed it off of the mixed channel entirely ,
+Bmr019.C.dialogueact940	1991.18	1995.97	C	Postdoc	s	-1	0	and I was able to {disfmarker} you know , an and this meant that there were some speaker identif identifications
+Bmr019.A.dialogueact1679	3171.04	3180.63	A	PhD	s	+1	1	Tha - There are some cases like where the {disfmarker} the wrong speaker {disfmarker} uh , these ca Not a lot , but where the {disfmarker} the wrong person {disfmarker} the {disfmarker} the speech is addre attached to the wrong speaker

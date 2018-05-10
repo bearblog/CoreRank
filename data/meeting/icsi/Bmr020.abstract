@@ -1,0 +1,35 @@
+3	Bmr020.s.1	The main topics of the agenda were a paper submitted to Eurospeech and the organising of the recording transcriptions to be done by IBM.
+Bmr020.A.dialogueact79	112.351	118.466	A	Grad	s^t	+1	2	so the only agenda items were Jane {disfmarker} was Jane wanted to talk about some of the IBM transcription process .
+Bmr020.F.dialogueact84	137.15	140.996	F	Professor	fg|s^bu	+1	2	Uh , and you just sent off a Eurospeech paper ,
+Bmr020.F.dialogueact857	1429.0	1432.19	F	Professor	s^cs^t^tc.%--	+1	2	So , we should probably talk about the IBM transcription process stuff that {disfmarker}
+3	Bmr020.s.2	The results presented in the former show a significant percentage of overlapping speech even without counting in backchanneling.
+Bmr020.G.dialogueact204	274.615	277.715	G	PhD	fh|s^e	+1	2	Uh , the one was that the {disfmarker} just the {disfmarker} the amount of overlap
+Bmr020.G.dialogueact324	474.31	476.37	G	PhD	s.%--	+1	1	But , even if you take out all the backchannels {disfmarker}
+Bmr020.G.dialogueact329	480.87	482.67	G	PhD	s	+1	1	you still have significant overlap .
+3	Bmr020.s.3	Additionally , the high error rate in the recognition of such overlapping speech by the SRI recogniser was minimised simply by changing the scoring method used.
+Bmr020.G.dialogueact342	516.223	519.593	G	PhD	s	+1	1	And we rescored things um , a little bit more carefully .
+Bmr020.G.dialogueact337	506.61	515.385	G	PhD	s	+1	2	and then the second one was just basically the {disfmarker} {vocalsound} the stuff we had in the {disfmarker} in the HLT paper on how overlaps effect the {pause} recognition performance .
+Bmr020.G.dialogueact373	608.931	622.77	G	PhD	s	+1	2	But basically what we found is after we take out these regions {disfmarker} so we only score the regions that were certified as foreground speech , {comment} {vocalsound} the recognition error went down to almost {vocalsound} uh , the {pause} level of the non - overlapped {pause} speech .
+1	Bmr020.s.4	Finally , a strong correlation between pauses and interruptions was confirmed.
+Bmr020.G.dialogueact529	967.15	974.07	G	PhD	s	+1	2	so at the end after a discourse marker or after backchannel or after filled pause , you 're much more likely to be interrupted {vocalsound} than before .
+1	Bmr020.s.5	All these measurements were based on the sample of available transcripts.
+Bmr020.G.dialogueact173	239.52	241.34	G	PhD	s^ar|s	+1	2	No . Well , according to the transcripts .
+1	Bmr020.s.6	Other features , like prosody , will be studied in the near future.
+Bmr020.G.dialogueact604	1066.77	1070.66	G	PhD	s	+1	1	although that 's {disfmarker} I {disfmarker} I take it that 's something that uh Don will {disfmarker} will look at
+3	Bmr020.s.7	An FTP directory containing such experimental data is being set up for the benefit of other researchers.
+Bmr020.G.dialogueact702	1205.97	1215.09	G	PhD	s	+1	2	and also , um , the other person that wants it {disfmarker} There is one person at SRI who wants to look at the {vocalsound} um , you know , the uh {disfmarker} the data we have so far ,
+Bmr020.G.dialogueact704	1215.72	1218.14	G	PhD	s^df	+1	2	and so I figured that FTP is the best {pause} approach .
+Bmr020.G.dialogueact705	1218.55	1223.2	G	PhD	s	+1	2	So what I did is I um {disfmarker} {vocalsound} {vocalsound} @ @ {comment} I made a n new directory
+2	Bmr020.s.8	Regarding the transcriptions to be carried out by IBM , the discussion mainly concerned the format of the recordings that should be sent to them.
+Bmr020.A.dialogueact79	112.351	118.466	A	Grad	s^t	+1	2	so the only agenda items were Jane {disfmarker} was Jane wanted to talk about some of the IBM transcription process .
+Bmr020.F.dialogueact857	1429.0	1432.19	F	Professor	s^cs^t^tc.%--	+1	2	So , we should probably talk about the IBM transcription process stuff that {disfmarker}
+6	Bmr020.s.9	Suggestions included sending only the channels with the dominant speakers for transcription , but it was finally agreed on sending the original files with minimal modifications , as there will be extensive in-house post-processing.
+Bmr020.C.dialogueact1157	2114.27	2124.76	C	Postdoc	s^cs	+1	1	And , if the chunked files focused on the dominant speakers , {vocalsound} then , when {disfmarker} when it got s patched together when it comes back from IBM , we can add the backchannels .
+Bmr020.B.dialogueact1244	2335.93	2341.78	B	PhD	qy^d^rt	+1	1	and you just use the s the segments of the dominant speaker then ? For {disfmarker} for sending to {disfmarker} to IBM
+Bmr020.B.dialogueact1287	2433.62	2439.81	B	PhD	s^cs^ng	+1	2	But then we could just use the {disfmarker} the output of the detector , and do the beeping on it , and send it to I B
+Bmr020.D.dialogueact1288	2440.8	2441.96	D	PhD	s^2	+1	1	Without having her check anything .
+Bmr020.F.dialogueact1444	2616.42	2627.75	F	Professor	s	+1	1	but {disfmarker} but I {disfmarker} I {disfmarker} I have {pause} another suggestion on that , which is , {vocalsound} since , really what this is , is {disfmarker} is {disfmarker} is trying to in the large , send the right thing to them and there is gonna be this {disfmarker} this post - processing step ,
+Bmr020.F.dialogueact1462	2653.25	2654.71	F	Professor	s	+1	1	and we 'll {disfmarker} we 'll fix things up
+2	Bmr020.s.10	Within this discussion , the rationale behind the coding of the time bins according to the flow of discourse was also explained.
+Bmr020.C.dialogueact1026	1742.56	1750.15	C	Postdoc	s^e	+1	1	so that if you {disfmarker} if you play {pause} back that bin and have it in the mode where it stops at the boundary , {vocalsound} it sounds like a normal word .
+Bmr020.C.dialogueact1061	1845.02	1854.31	C	Postdoc	s	+1	1	but my general goal {vocalsound} when there was {pause} sufficient space , room , pause {pause} after it {pause} to have it be {pause} kind of a natural feeling {pause} gap .

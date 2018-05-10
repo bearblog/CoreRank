@@ -1,0 +1,7 @@
+The is only a diagrammatic view of how the decision tree for the EVA task looks like.
+A lot of the details have been glossed over: the user model can potentially comprise a huge number of factors; a planning "go-there" node needs input from several other areas of the net; there are intricate interactions between discourse and the situation model.
+Similarly , what discourse properties are of importance and how they influence EVA probabilities is still a mystery.
+On a more general note , there is also the question of whether the net should be updated continuously or only when it is needed.
+No final decision was taken as to the rules of computation applying in the belief-net.
+The more interesting solutions would ideally require training data , and it is still debatable whether the current collection would be appropriate for this particular task.
+In any case , how different architectures can be implemented in JavaBayes and what modifications would be necessary for the purposes of this project also need to be investigated.

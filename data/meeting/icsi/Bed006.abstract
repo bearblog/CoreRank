@@ -1,0 +1,30 @@
+1	Bed006.s.1	The data collection script has been slightly modified , so that it encourages more natural dialogue between the subjects and the "wizard".
+Bed006.G.dialogueact279	536.191	538.231	G	Grad	s^bu	+1	2	so they 'll have a little bit more natural interaction ?
+3	Bed006.s.2	Another trial run will take place , while a call to recruit subjects is being emailed to students.
+Bed006.C.dialogueact165	267.679	275.519	C	Grad	s	+1	2	And um we have a little description of asking peop subjects to contact Fey for you know recruiting them for our thing
+Bed006.C.dialogueact173	296.33	304.0	C	Grad	s	+1	2	however there is always more people in a {disfmarker} in a facul uh in a department than are just taking his class or anybody else 's class at the moment
+Bed006.C.dialogueact303	602.38	606.53	C	Grad	s	+1	2	And then we 're going to have another {disfmarker} we 're gonna have w another trial run
+2	Bed006.s.3	Meanwhile , the translation of the TV and cinema information system to english is almost complete.
+Bed006.C.dialogueact550	1185.53	1191.46	C	Grad	fh|s^aap	+1	2	Um , the basic requirement is fulfilled almost .
+Bed006.C.dialogueact559	1207.36	1211.48	C	Grad	s^cs	+1	2	you can speak into it and ask for TV and movie information
+0	Bed006.s.4	This was the basic requirement of the project.
+2	Bed006.s.5	On the other hand , there was a presentation of the model that offers more elaborate action planning for SmartKom , of which Enter/View/Approach ( EVA ) modes are a part.
+Bed006.C.dialogueact643	1362.07	1363.97	C	Grad	s^t^tc	+1	2	Then uh on to the modeling .
+Bed006.C.dialogueact766	1668.26	1676.46	C	Grad	s	+1	2	In the future though , the content of a hypothesis will not only be an object and an {disfmarker} an action and a domain object but an action , a domain object , and a rich action description ,
+1	Bed006.s.6	These modes will form categories of complete XML schemas with information filled in from the language understanding in a more elaborate way than the current Object-"Go Action"-Object model.
+Bed006.B.dialogueact1236	2670.14	2673.9	B	Grad	s	+1	1	Inside of Enter there will be roles that can be filled basically .
+3	Bed006.s.7	These categories will , in turn , be linked with action schemas , one of which is Source-Path-Goal ( SPG ).
+Bed006.C.dialogueact661	1401.3	1406.71	C	Grad	s	+1	2	The idea is , so , imagine we have a library of schema
+Bed006.C.dialogueact662	1407.21	1409.56	C	Grad	s	+1	1	such as the Source - Path - Goal
+Bed006.E.dialogueact1230	2662.15	2664.98	E	Grad	s	+1	1	Well one of the types of action schemas is Source - Path - Goal action .
+2	Bed006.s.8	Categories and action schemas can have -in theory- any number of blocks depending on the expansion of the domain.
+Bed006.C.dialogueact661	1401.3	1406.71	C	Grad	s	+1	2	The idea is , so , imagine we have a library of schema
+Bed006.B.dialogueact1241	2687.44	2690.94	B	Grad	s	+1	2	So if you wanted to have a new type of action you 'd create a new type of category .
+2	Bed006.s.9	The notation provides for linking and referencing between different schemas.
+Bed006.C.dialogueact928	2014.57	2016.18	C	Grad	s	+1	1	meaning we can reference .
+Bed006.C.dialogueact941	2041.5	2047.29	C	Grad	s	+1	1	and link it to another one , and this not only within a document but also via documents ,
+2	Bed006.s.10	The model also allows for multiple action schemas to be triggered in parallel.
+Bed006.B.dialogueact685	1467.42	1472.4	B	Grad	s	+1	1	And then those actions can be in multiple categories at the same time if necessary .
+Bed006.C.dialogueact999	2159.86	2167.04	C	Grad	s	+1	2	it 's {disfmarker} it 's crucially necessary , is that we can have multiple schemas and multiple action schemas in parallel .
+1	Bed006.s.11	However , the structure of the model is open for discussion , since its use was to elicit discussion and highlight issues.
+Bed006.C.dialogueact1311	2822.34	2827.38	C	Grad	s	+1	2	Um and I agree that you know this is something we need to discuss ,

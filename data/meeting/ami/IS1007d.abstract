@@ -1,0 +1,252 @@
+16	IS1007d.JacquelinePalmer.s.1	The User Interface Designer and the Industrial Designer presented two prototypes , one with an LCD screen and one without.
+IS1007d.A.dialog-act.s9553330.2	53.59	65.8	A	PM	inf	+1	1	and we asked you to prepare a prototype for the for the remote control .
+IS1007d.A.dialog-act.s9553330.4	68.27	72.65	A	PM	sug	+1	1	So let's see the {disfmarker} what did you prepare .
+IS1007d.A.dialog-act.s9553330.1	49.61	53.59	A	PM	inf	+1	1	So in last meeting we have discussed the conceptual design
+IS1007d.B.dialog-act.s9553330.16	109.54	112.27	B	UI	inf	+1	1	S so so I discussed with Guillaume .
+IS1007d.B.dialog-act.s9553330.19	118.75	123.65	B	UI	inf	+1	1	and we we are both agreed on some two versions of the prototypes ,
+IS1007d.B.dialog-act.s9553330.22	132.27	135.26	B	UI	inf	+1	1	One with and one without L_C_D_s .
+IS1007d.B.dialog-act.s9553330.23	135.26	138.82	B	UI	inf	+1	2	Um but both comes with a charger
+IS1007d.B.dialog-act.s9553330.24	138.82	143.76	B	UI	inf	+1	1	and then detachable and uh or {gap} control module .
+IS1007d.B.dialog-act.s9553330.25	144.96	149.26	B	UI	inf	+1	1	And detachable big buttons for all people um .
+IS1007d.C.dialog-act.s9553330.7	150.98	157.73	C	ID	off	+1	1	{vocalsound} S okay so I'll show you the the two prototypes {vocalsound} .
+IS1007d.C.dialog-act.s9553330.8	157.73	162.74	C	ID	inf	+1	1	Here we have the first one with the beautiful uh L_C_D_ um display .
+IS1007d.A.dialog-act.s9553330.11	252.73	254.16	A	PM	el.inf	+1	1	How much does it cost this one ?
+IS1007d.C.dialog-act.s9553330.26	254.87	263.0	C	ID	inf	+1	1	Well this this prototype is um made for about uh well fi fi fifteen fifteen dollars
+IS1007d.A.dialog-act.s9553330.13	264.35	267.3	A	PM	inf	+1	1	Ah it's above it's above the budget .
+IS1007d.C.dialog-act.s9553330.30	268.55	270.13	C	ID	inf	+1	1	but uh it's just a prototype
+IS1007d.C.dialog-act.s9553330.33	276.92	284.12	C	ID	inf	+1	1	the {gap} and the the production costs we we can achieve uh about ten dollars . {gap}
+56	IS1007d.JacquelinePalmer.s.2	They demonstrated how to navigate through the menus and presented the voice recognition and energy source components and the charging stand.
+IS1007d.B.dialog-act.s9553330.20	123.65	129.38	B	UI	inf	+1	1	because we were no not decided whether we wanted to have an L_C_D_ or not because it's too expensive .
+IS1007d.C.dialog-act.s9553330.10	165.69	174.25	C	ID	inf	+1	1	And you can uh just um browse into the the navigation menu by uh joystick joystick-like uh button .
+IS1007d.C.dialog-act.s9553330.11	174.25	176.71	C	ID	inf	+1	1	You can uh choose the direction
+IS1007d.C.dialog-act.s9553330.13	182.32	191.47	C	ID	inf	+1	1	You have on the mm on the side here the microphone for the {vocalsound} for the speech recognition system here .
+IS1007d.C.dialog-act.s9553330.14	191.47	194.682	C	ID	inf	+1	1	And here the the switch that control if you want {disfmarker}
+IS1007d.B.dialog-act.s9553330.32	208.4	212.78	B	UI	inf	+1	1	The the microphone picks up the speeches from anywhere .
+IS1007d.D.dialog-act.s9553330.2	211.4	213.93	D	ME	el.inf	+1	1	Is it an only a single mic or a microphone array ?
+IS1007d.C.dialog-act.s9553330.18	214.63	219.6	C	ID	inf	+1	1	Well so it's a microphone array .
+IS1007d.A.dialog-act.s9553330.10	217.6	222.0	A	PM	inf	+1	1	Oh it's very costly , microphone array {vocalsound} .
+IS1007d.C.dialog-act.s9553330.20	220.52	221.88	C	ID	inf	+1	1	it's just a single microphone ,
+IS1007d.C.dialog-act.s9553330.22	222.95	232.07	C	ID	inf	+1	1	I I think uh we we put it here because I think when you when you are browsing your L_C_D_ you will be close to {disfmarker}
+IS1007d.C.dialog-act.s9553330.23	232.07	237.15	C	ID	inf	+1	1	well it's better to to to place it here th than here , for instance .
+IS1007d.C.dialog-act.s9553330.24	237.15	245.58	C	ID	inf	+1	1	And here is a little switch that control if you want the the speaker uh recognition system to um to be on or off .
+IS1007d.C.dialog-act.s9553330.25	247.31	252.44	C	ID	inf	+1	1	And uh so this remote control comes up with its charger .
+IS1007d.A.dialog-act.s9553330.14	282.74	285.02	A	PM	el.inf	+1	1	How many b battery is there ?
+IS1007d.B.dialog-act.s9553330.41	291.04	294.86	B	UI	inf	+1	2	Is it n the two A_A_s batteries in it .
+IS1007d.B.dialog-act.s9553330.42	294.86	296.46	B	UI	inf	+1	2	A_A_ rechargeable batteries .
+IS1007d.D.dialog-act.s9553330.7	306.37	307.44	D	ME	el.inf	+1	1	Is that two or one ?
+IS1007d.B.dialog-act.s9553330.46	310.688	314.93	B	UI	inf	+1	1	{vocalsound} Actually uh it's a flexible thing .
+IS1007d.C.dialog-act.s9553330.49	332.74	340.81	C	ID	inf	+1	1	So and if you want to charge the battery you just put the remote control like that to plug in the the charger
+IS1007d.C.dialog-act.s9553330.50	340.81	344.52	C	ID	inf	+1	1	and uh leave it uh alone , it's alright .
+IS1007d.B.dialog-act.s9553330.55	349.7	353.05	B	UI	inf	+1	1	I forgot to tell you there is only a single button there ,
+IS1007d.B.dialog-act.s9553330.58	355.49	359.01	B	UI	inf	+1	1	This button is like the mouse {disfmarker} is like a joystick ,
+IS1007d.B.dialog-act.s9553330.59	359.01	361.81	B	UI	inf	+1	1	you can move in three hundred and sixty degrees of direction
+IS1007d.B.dialog-act.s9553330.61	363.39	367.51	B	UI	inf	+1	1	and it {disfmarker} the additi functions associated to all the actions
+IS1007d.B.dialog-act.s9553330.62	367.51	372.5	B	UI	inf	+1	1	you ma you have a click you have a double click all in a single button {vocalsound} .
+IS1007d.B.dialog-act.s9553330.63	372.5	375.32	B	UI	inf	+1	1	You can move up , down , left , right ,
+IS1007d.B.dialog-act.s9553330.64	375.32	376.96	B	UI	inf	+1	1	or you can do a swing .
+IS1007d.B.dialog-act.s9553330.69	393.9	396.24	B	UI	off	+1	1	Here I present another version without the L_C_D_ .
+IS1007d.C.dialog-act.s9553330.59	409.11	414.85	C	ID	inf	+1	1	So we have the the second version also with the different uh button configuration .
+IS1007d.C.dialog-act.s9553330.60	414.85	416.64	C	ID	inf	+1	1	The second version is also simpler ,
+IS1007d.C.dialog-act.s9553330.61	416.64	424.16	C	ID	inf	+1	1	we d uh we had just uh I have to put the microphone also {vocalsound} .
+IS1007d.D.dialog-act.s9553330.16	425.53	427.53	D	ME	inf	+1	1	Uh-huh and also the switch .
+IS1007d.C.dialog-act.s9553330.64	428.03	432.83	C	ID	inf	+1	1	Basically it's the same uh things uh uh as uh I presented before .
+IS1007d.C.dialog-act.s9553330.65	432.83	436.55	C	ID	inf	+1	1	But here we have uh we have uh four buttons for navigation .
+IS1007d.C.dialog-act.s9553330.66	436.55	440.64	C	ID	inf	+1	1	Press one button uh acting as a a enter button .
+IS1007d.C.dialog-act.s9553330.67	440.64	445.93	C	ID	inf	+1	1	So um yeah according to what you said it's more robust to the user .
+IS1007d.C.dialog-act.s9553330.68	448.07	450.62	C	ID	inf	+1	1	And uh it's also cheaper to produce .
+IS1007d.D.dialog-act.s9553330.20	459.99	464.92	D	ME	inf	+1	1	And I think you forgot a point here to have an button to find the charger ,
+IS1007d.D.dialog-act.s9553330.23	472.75	475.06	D	ME	el.inf	+1	1	and if you disable speech recognition system then ?
+IS1007d.B.dialog-act.s9553330.79	475.28	477.52	B	UI	inf	+1	1	W w I'll I'll come to that point later on .
+IS1007d.B.dialog-act.s9553330.82	488.3	493.01	B	UI	inf	+1	1	in either versions you they they ha they use the same charger yeah .
+IS1007d.B.dialog-act.s9553330.86	505.96	508.4	B	UI	inf	+1	1	It's that same charger that you can use for the hand-phone
+IS1007d.B.dialog-act.s9553330.87	508.4	512.79	B	UI	inf	+1	1	but uh again depends on the types .
+IS1007d.B.dialog-act.s9553330.88	512.79	515.453	B	UI	sug	+1	1	I think we have to investigate more on that , but {vocalsound} {disfmarker}
+IS1007d.B.dialog-act.s9553330.134	701.15	705.43	B	UI	inf	+1	1	Again uh and the battery life is uh is an is an endurable one ,
+IS1007d.B.dialog-act.s9553330.135	705.43	710.1	B	UI	inf	+1	1	again because this is A_A_ batteries you can choose the types of battery you want .
+IS1007d.B.dialog-act.s9553330.136	710.1	711.74	B	UI	inf	+1	1	Lithium-ion may be a good one ,
+IS1007d.B.dialog-act.s9553330.138	713.7	716.0	B	UI	inf	+1	1	again you pay for what you get ,
+IS1007d.B.dialog-act.s9553330.146	743.04	745.88	B	UI	inf	+1	1	And it also use a programmable channel and vocabulary ,
+IS1007d.B.dialog-act.s9553330.140	720.2	733.67	B	UI	inf	+1	2	So when you finish watching your T_V_ {vocalsound} and you the you t you turn off the T_V_ , uh and then there's this message coming out that uh please put that back to the charger ,
+IS1007d.B.dialog-act.s9553330.139	716.0	720.2	B	UI	inf	+1	2	and then um y the other p points are robust and misplacement reminder .
+IS1007d.B.dialog-act.s9553330.147	745.88	747.73	B	UI	inf	+1	1	so we didn't define the vocabulary
+IS1007d.B.dialog-act.s9553330.148	747.73	750.37	B	UI	inf	+1	1	so it's up to the user to define
+IS1007d.B.dialog-act.s9553330.151	756.24	765.8	B	UI	inf	+1	1	And then uh because of the chil because children are using the device so we have also a a {gap} of T_V_ programmes by genre ,
+IS1007d.B.dialog-act.s9553330.152	765.8	769.45	B	UI	inf	+1	1	and this can be used by the adult or by the children .
+20	IS1007d.JacquelinePalmer.s.3	They discussed their modular design.
+IS1007d.B.dialog-act.s9553330.97	541.7	546.48	B	UI	inf	+1	2	the the the thing that makes this the controller cheap is that it is modular
+IS1007d.B.dialog-act.s9553330.99	548.84	556.17	B	UI	inf	+1	1	If you want less function i i if you want a reasonable price you pay for the functions that you add on to the system ,
+IS1007d.D.dialog-act.s9553330.30	563.83	565.85	D	ME	inf	+1	1	Something like customised . Yeah
+IS1007d.B.dialog-act.s9553330.103	563.84	569.64	B	UI	inf	+1	2	for example the L_C_D_ , you can take it you can put it {disfmarker} put it back in , or you can use the other one ,
+IS1007d.B.dialog-act.s9553330.104	569.64	574.5	B	UI	inf	+1	1	or {vocalsound} the speech recogniser with the microphone yeah yeah .
+IS1007d.B.dialog-act.s9553330.105	574.5	584.38	B	UI	inf	+1	1	You want a microphone to put in the {vocalsound} speech recogniser you don't wan you pay less for the system you see {vocalsound} .
+IS1007d.B.dialog-act.s9553330.107	586.18	589.11	B	UI	inf	+1	1	It's pretty flexible in the yeah price {vocalsound} .
+IS1007d.C.dialog-act.s9553330.91	623.39	630.57	C	ID	inf	+1	2	We also have this module for uh old people with big buttons , clearly labelled ,
+IS1007d.C.dialog-act.s9553330.92	630.57	633.76	C	ID	inf	+1	1	and it acts like the previous one ,
+IS1007d.C.dialog-act.s9553330.93	633.76	636.4	C	ID	inf	+1	1	you just plug in and it works .
+IS1007d.B.dialog-act.s9553330.117	639.34	646.06	B	UI	inf	+1	1	the i the idea the the conceptual idea is that simplicity and powerful .
+IS1007d.B.dialog-act.s9553330.118	646.06	649.86	B	UI	inf	+1	1	Simplicity meaning that we have few buttons ,
+IS1007d.B.dialog-act.s9553330.119	649.86	658.99	B	UI	inf	+1	1	powerful is that all the controls with {vocalsound} the one you saw we saw earlier in the meetings with lots of buttons n
+IS1007d.B.dialog-act.s9553330.125	670.34	678.17	B	UI	inf	+1	1	that's our uh an innovation um uh i in this uh design here {vocalsound} .
+IS1007d.B.dialog-act.s9553330.126	678.17	682.36	B	UI	inf	+1	1	Okay now we come to other important features that I did not tell you .
+IS1007d.B.dialog-act.s9553330.127	682.36	684.22	B	UI	inf	+1	1	The first one is the speech recogniser ,
+IS1007d.B.dialog-act.s9553330.128	684.22	686.74	B	UI	inf	+1	1	again it's detachable or add-on .
+IS1007d.B.dialog-act.s9553330.129	686.74	688.47	B	UI	inf	+1	1	And then we also have security feature
+IS1007d.B.dialog-act.s9553330.131	693.38	694.79	B	UI	inf	+1	1	it's very robust {gap} ,
+IS1007d.B.dialog-act.s9553330.98	546.48	548.84	B	UI	inf	+1	2	so you want more function you pay more .
+7	IS1007d.JacquelinePalmer.s.4	They discussed the parental control module and the titanium casing.
+IS1007d.C.dialog-act.s9553330.84	587.72	592.27	C	ID	inf	+1	2	You also have the the the two other modules for the parental control
+IS1007d.C.dialog-act.s9553330.85	593.56	599.9	C	ID	inf	+1	1	that that you ca you can add up {vocalsound} to the {disfmarker} to your remote control
+IS1007d.C.dialog-act.s9553330.86	599.9	609.58	C	ID	inf	+1	1	i i if you uh if you want to to have more more power on what you do , and uh which channel you want to choose and so on .
+IS1007d.C.dialog-act.s9553330.87	610.85	614.1	C	ID	inf	+1	2	H here is just the the the module for the kids
+IS1007d.C.dialog-act.s9553330.88	614.1	618.72	C	ID	inf	+1	2	and th if the parents want to watch T_V_ , up {disfmarker} they come up with their modules ,
+IS1007d.B.dialog-act.s9553330.133	695.76	698.03	B	UI	el.inf	+1	1	and the material , what's the material again ?
+IS1007d.C.dialog-act.s9553330.95	697.08	697.88	C	ID	inf	+1	1	The titanium
+11	IS1007d.JacquelinePalmer.s.5	The production costs were below budget for the basic models.
+IS1007d.C.dialog-act.s9553330.69	450.62	460.259	C	ID	inf	+1	1	We can produce uh such remote control for about uh four dollars . {vocalsound}
+IS1007d.A.dialog-act.s9553330.53	797.86	799.6	A	PM	el.inf	+1	1	What's the price to p to produce ?
+IS1007d.C.dialog-act.s9553330.99	801.35	810.77	C	ID	inf	+1	1	Well so the price to produce {disfmarker} For uh the simplest one , say we start from four dollars to produce such a device .
+IS1007d.C.dialog-act.s9553330.101	814.39	816.91	C	ID	inf	+1	1	The {disfmarker} without without the charger
+IS1007d.C.dialog-act.s9553330.102	816.91	823.01	C	ID	inf	+1	1	it's about uh well two dollars to produce uh the microphone and speech recognition systems .
+IS1007d.C.dialog-act.s9553330.103	824.32	828.91	C	ID	inf	+1	1	Two dollars for the uh for the add-on modules ,
+IS1007d.C.dialog-act.s9553330.104	828.91	831.57	C	ID	el.inf	+1	1	and finally three dollars for the charger .
+IS1007d.C.dialog-act.s9553330.105	832.64	844.27	C	ID	inf	+1	1	So if you uh sum up uh everything wi with the L_C_D_ {vocalsound} , which costs two dollar , you have two plus four plus four plus two plus two .
+IS1007d.A.dialog-act.s9553330.57	848.09	851.74	A	PM	inf	+1	1	We don't have all the options {vocalsound} .
+IS1007d.C.dialog-act.s9553330.107	852.31	858.26	C	ID	inf	+1	1	so the total cost if you if you want all the fuct functionalities will be about uh fifteen dollars .
+IS1007d.A.dialog-act.s9553330.60	862.69	864.53	A	PM	inf	+1	1	it's below the the the budget .
+25	IS1007d.JacquelinePalmer.s.6	The Marketing Expert presented three important user requirements , and also the fruit and vegetable and spongy material trends in fashion.
+IS1007d.D.dialog-act.s9553330.44	876.62	878.6	D	ME	sug	+1	1	I think we will just have a rough look
+IS1007d.D.dialog-act.s9553330.45	878.6	881.14	D	ME	sug	+1	1	and then we can make our statements ,
+IS1007d.D.dialog-act.s9553330.46	881.14	884.39	D	ME	sug	+1	1	and we can finalise the product based on this discu
+IS1007d.D.dialog-act.s9553330.50	907.4	911.24	D	ME	inf	+1	1	So the marketing made an evaluation criteria
+IS1007d.D.dialog-act.s9553330.51	911.24	913.95	D	ME	inf	+1	1	and these were some of the findings ,
+IS1007d.D.dialog-act.s9553330.52	913.95	927.02	D	ME	inf	+1	1	and uh in the market the people are not really interested with L_C_D_ , without L_C_D_ , with speech recognition interface , or without speech recognition interface ,
+IS1007d.D.dialog-act.s9553330.53	927.02	934.28	D	ME	inf	+1	1	but most of the people what they are interested is {disfmarker} first thing is , they want to have an fancy look and feel ,
+IS1007d.D.dialog-act.s9553330.54	934.28	935.95	D	ME	inf	+1	1	it should be very fancy with colourful
+IS1007d.D.dialog-act.s9553330.55	935.95	940.24	D	ME	inf	+1	1	and uh very handy to hold .
+IS1007d.D.dialog-act.s9553330.56	940.24	944.84	D	ME	inf	+1	1	And the second thing is it should be much more technologically innovative .
+IS1007d.D.dialog-act.s9553330.57	946.58	952.8	D	ME	inf	+1	1	Of course in that we could put L_C_D_ or recognition to be more technologically innovative .
+IS1007d.D.dialog-act.s9553330.58	952.8	955.09	D	ME	inf	+1	1	And the third one is easy to use .
+IS1007d.C.dialog-act.s9553330.112	960.47	971.55	C	ID	inf	+1	1	since we haven't yet a remote who are allowing to to choose interactively with the T_V_ screen uh uh with just four buttons .
+IS1007d.C.dialog-act.s9553330.111	955.52	960.47	C	ID	inf	+1	1	Well I think that the technical in innovation is is in the product itself
+IS1007d.D.dialog-act.s9553330.60	975.44	978.98	D	ME	inf	+1	1	here you can find {disfmarker} these are the latest fashion updates ,
+IS1007d.D.dialog-act.s9553330.61	978.98	989.94	D	ME	inf	+1	1	and so this {disfmarker} in Paris and Milan {gap} they have detected this trends that the this year it's going to be an year of fruit and vegetable ,
+IS1007d.D.dialog-act.s9553330.62	989.94	998.32	D	ME	inf	+1	1	so people are really interested to see if they have an remote in the shape of the fruit or a vegetable , or whatever they like .
+IS1007d.D.dialog-act.s9553330.63	999.56	1006.95	D	ME	inf	+1	1	So I think it should be much more customised to make a different uh shapes .
+IS1007d.D.dialog-act.s9553330.64	1006.95	1016.12	D	ME	inf	+1	1	And the second thing is , and if the material , they really do not want it to be very hard , as in the case of very pl plastic or titanium ,
+IS1007d.D.dialog-act.s9553330.65	1016.12	1017.75	D	ME	inf	+1	1	it should be somewhat spongy .
+IS1007d.B.dialog-act.s9553330.179	1026.45	1032.21	B	UI	sug	+1	1	you should find a material that is robust at the same time spongy {vocalsound} .
+IS1007d.D.dialog-act.s9553330.66	1031.3	1037.61	D	ME	inf	+1	1	Yeah so uh {vocalsound} so finally we have these three criterias .
+IS1007d.D.dialog-act.s9553330.67	1037.61	1039.72	D	ME	inf	+1	1	One is fancy look ,
+IS1007d.D.dialog-act.s9553330.68	1039.72	1045.69	D	ME	inf	+1	1	second is innovative ,
+IS1007d.D.dialog-act.s9553330.69	1045.69	1048.28	D	ME	inf	+1	1	and third is easy to use .
+49	IS1007d.JacquelinePalmer.s.7	He then led an evaluation of the prototypes according to these requirements.
+IS1007d.D.dialog-act.s9553330.71	1058.98	1064.4	D	ME	inf	+1	1	So {disfmarker} and we have an evaluation criteria for each one of these ,
+IS1007d.D.dialog-act.s9553330.73	1064.4	1071.98	D	ME	inf	+1	1	say that we have a seven point scale , from one to seven ,
+IS1007d.D.dialog-act.s9553330.74	1071.98	1076.81	D	ME	sug	+1	1	and for each of the product you could just give me the scale according to this .
+IS1007d.D.dialog-act.s9553330.75	1078.56	1081.52	D	ME	inf	+1	1	So now you have with L_C_D_ and without L_C_D_ ,
+IS1007d.D.dialog-act.s9553330.76	1081.52	1089.98	D	ME	inf	+1	1	so on this scale , if it is true , if it is {disfmarker} if it has a fancy look you could just tell me one ,
+IS1007d.D.dialog-act.s9553330.77	1089.98	1097.05	D	ME	inf	+1	1	or if it is false , it doesn't {disfmarker} it looks uh {disfmarker} it doesn't look much fancy , then you could just tell me seven .
+IS1007d.B.dialog-act.s9553330.189	1112.43	1117.62	B	UI	el.inf	+1	1	But who will give the scoring uh we ourself or or a third party ?
+IS1007d.D.dialog-act.s9553330.85	1118.14	1120.16	D	ME	inf	+1	1	according to you designers ,
+IS1007d.D.dialog-act.s9553330.89	1131.36	1137.28	D	ME	el.ass	+1	1	On on this scale the L_C_D_ remote control . How do you look {disfmarker} how does it look ?
+IS1007d.D.dialog-act.s9553330.90	1137.28	1140.69	D	ME	el.ass	+1	1	D is it very fancy or doesn't look much fancy ?
+IS1007d.C.dialog-act.s9553330.119	1142.7	1145.08	C	ID	ass	+1	1	I'll I'll say three or four .
+IS1007d.B.dialog-act.s9553330.193	1149.463	1153.05	B	UI	ass	+1	1	{vocalsound} I think we can improve on the design .
+IS1007d.B.dialog-act.s9553330.197	1153.05	1160.0	B	UI	inf	+1	1	Som someone um commented this is like a the stone age uh {gap} {vocalsound} design .
+IS1007d.B.dialog-act.s9553330.198	1160.0	1170.51	B	UI	inf	+1	2	Um we have been focused all all this {vocalsound} time on the {vocalsound} on the technical aspect , functional aspect , but also the simplicity .
+IS1007d.D.dialog-act.s9553330.93	1172.89	1175.71	D	ME	el.ass	+1	1	So I take three on {disfmarker} with L_C_D_ ?
+IS1007d.D.dialog-act.s9553330.94	1175.71	1177.6	D	ME	el.ass	+1	1	So without L_C_D_ how would you rate it ?
+IS1007d.C.dialog-act.s9553330.125	1178.19	1179.45	C	ID	ass	+1	1	Uh four .
+IS1007d.C.dialog-act.s9553330.126	1179.45	1185.48	C	ID	inf	+1	2	I think it's it's uh more easy to make f fancy things when it's not complicated
+IS1007d.C.dialog-act.s9553330.127	1185.48	1193.72	C	ID	inf	+1	1	so removing the L_C_D_ um gives us a li more liberty to to have a fancy look .
+IS1007d.D.dialog-act.s9553330.96	1194.0	1197.99	D	ME	el.ass	+1	1	And in the sense of innovativeness , with L_C_D_ .
+IS1007d.C.dialog-act.s9553330.128	1198.63	1200.58	C	ID	inf	+1	1	Well it's it's the same for both
+IS1007d.C.dialog-act.s9553330.129	1200.58	1203.962	C	ID	ass	+1	1	so {vocalsound} I will give a five , six . {vocalsound}
+IS1007d.B.dialog-act.s9553330.205	1211.48	1230.32	B	UI	inf	+1	1	from the innovation aspect I feel that uh what is most innovative of our prototype compared to the existing prototypes that we saw l in the last meeting is that um {vocalsound} the retrieval of T_V_ programmes by content ,
+IS1007d.B.dialog-act.s9553330.207	1234.02	1238.73	B	UI	inf	+1	1	and for now {disfmarker} and another innovation we have is simplicity
+IS1007d.B.dialog-act.s9553330.208	1238.73	1247.43	B	UI	inf	+1	1	and {disfmarker} simplicity , few buttons , we've uh {vocalsound} {disfmarker} A lot of functionalities .
+IS1007d.D.dialog-act.s9553330.100	1247.4	1248.86	D	ME	el.ass	+1	1	So without L_C_D_ ?
+IS1007d.C.dialog-act.s9553330.134	1269.93	1273.02	C	ID	inf	+1	1	Mm for both it's the the same innovations .
+IS1007d.B.dialog-act.s9553330.219	1274.06	1276.62	B	UI	ass	+1	1	So maybe I can put six to seven .
+IS1007d.D.dialog-act.s9553330.107	1279.49	1283.91	D	ME	inf	+1	1	actually uh to make it with L_C_D_ you make more efforts .
+IS1007d.D.dialog-act.s9553330.109	1289.72	1293.57	D	ME	ass	+1	1	then when it is without L_C_D_ there is not much innovativeness .
+IS1007d.D.dialog-act.s9553330.122	1360.85	1366.29	D	ME	inf	+1	1	So without L_C_D_ you want to put it fi the same level of innovativeness ?
+IS1007d.C.dialog-act.s9553330.145	1377.35	1380.6	C	ID	ass	+1	1	Well I think both are really easy to use
+IS1007d.C.dialog-act.s9553330.147	1383.33	1389.424	C	ID	inf	+1	1	and uh well t p the menu are clear , well-organised , so {disfmarker}
+IS1007d.C.dialog-act.s9553330.149	1395.4	1398.05	C	ID	ass	+1	1	so I will give a six for the easy to use .
+IS1007d.A.dialog-act.s9553330.79	1400.36	1412.35	A	PM	inf	+1	1	No it's just if I I see the the f the rate I think it's better to do it without L_C_D_ .
+IS1007d.A.dialog-act.s9553330.80	1414.21	1417.06	A	PM	inf	+1	1	Because that's with L_C_D_ just will increase the price ,
+IS1007d.D.dialog-act.s9553330.126	1428.6	1434.03	D	ME	sug	+1	1	So I mean in the product design you could just amend it to make some few changes
+IS1007d.D.dialog-act.s9553330.127	1434.03	1435.71	D	ME	inf	+1	1	according to fruit and vegetable
+IS1007d.D.dialog-act.s9553330.128	1435.71	1437.78	D	ME	inf	+1	1	or a spongy touch
+IS1007d.D.dialog-act.s9553330.129	1437.78	1440.22	D	ME	inf	+1	1	without L_C_D_ and without speech recognition .
+IS1007d.B.dialog-act.s9553330.250	1453.64	1457.53	B	UI	off	+1	1	I have another thing to say about the easy to use aspect .
+IS1007d.B.dialog-act.s9553330.251	1457.53	1462.81	B	UI	inf	+1	1	I think the easy to use uh aspect is different for different people .
+IS1007d.B.dialog-act.s9553330.252	1462.81	1466.25	B	UI	inf	+1	1	For the young generation easy to use may be very complicated
+IS1007d.B.dialog-act.s9553330.253	1466.25	1470.52	B	UI	inf	+1	1	because uh they w they wants lot of controls with lots of buttons .
+IS1007d.B.dialog-act.s9553330.254	1470.52	1476.25	B	UI	inf	+1	1	For kids they want simply the {gap} s similarit for the old people they want simplicity ,
+IS1007d.B.dialog-act.s9553330.257	1484.27	1493.36	B	UI	inf	+1	1	but but uh what I'm trying to say here is that the um {disfmarker} we have different sets of buttons for different kinds of people .
+IS1007d.D.dialog-act.s9553330.134	1505.62	1508.66	D	ME	sug	+1	1	So without L_C_D_ I just take it five ?
+IS1007d.C.dialog-act.s9553330.157	1511.89	1512.41	C	ID	ass	+1	1	Um six .
+IS1007d.D.dialog-act.s9553330.138	1531.32	1534.17	D	ME	inf	+1	1	and it's going to be much simpler to use .
+2	IS1007d.JacquelinePalmer.s.8	The group did not feel that the remotes sufficiently met the criteria.
+IS1007d.C.dialog-act.s9553330.165	1538.92	1543.829	C	ID	sug	+1	4	so let's go back to our laboratory and {vocalsound} {disfmarker}
+IS1007d.B.dialog-act.s9553330.269	1541.05	1544.59	B	UI	inf	+1	4	{vocalsound} To improve on the design .
+7	IS1007d.JacquelinePalmer.s.9	They decided to continue working on the design and to take out the LCD screen and voice recognition.
+IS1007d.C.dialog-act.s9553330.165	1538.92	1543.829	C	ID	sug	+1	4	so let's go back to our laboratory and {vocalsound} {disfmarker}
+IS1007d.B.dialog-act.s9553330.269	1541.05	1544.59	B	UI	inf	+1	4	{vocalsound} To improve on the design .
+IS1007d.A.dialog-act.s9553330.88	1546.896	1550.05	A	PM	el.inf	+1	2	{gap} what about the integration of speech recognition ?
+IS1007d.B.dialog-act.s9553330.271	1549.16	1551.23	B	UI	inf	+1	1	The speech recogniser is a add-on module .
+IS1007d.D.dialog-act.s9553330.140	1552.48	1554.0	D	ME	inf	+1	2	That's going to be an optional .
+IS1007d.D.dialog-act.s9553330.136	1518.33	1522.83	D	ME	ass	+1	2	S s oh I think it's better to have this without L_C_D_ .
+IS1007d.D.dialog-act.s9553330.137	1525.11	1531.32	D	ME	inf	+1	2	As our Programme Manager s Pro Project Manager says that without L_C_D_ it is going to reduce the cost also ,
+17	IS1007d.JacquelinePalmer.s.10	They discussed the modular design and its advantages in attracting customers.
+IS1007d.A.dialog-act.s9553330.91	1569.86	1575.37	A	PM	sug	+1	1	I think it will be better if we have all these modules in the same remote control ,
+IS1007d.A.dialog-act.s9553330.92	1575.37	1578.429	A	PM	inf	+1	1	because maybe parents will lose these uh {disfmarker}
+IS1007d.D.dialog-act.s9553330.145	1577.09	1584.21	D	ME	inf	+1	1	but I mean if you have an add-ons , the kids may just uh hide the parental module
+IS1007d.A.dialog-act.s9553330.94	1585.69	1590.55	A	PM	inf	+1	1	Or maybe parents they can for forget where they put it or ,
+IS1007d.B.dialog-act.s9553330.274	1597.264	1609.19	B	UI	inf	+1	1	{vocalsound} The problem is if i we are bla if a customer wants a certain component , and doesn't want the parental control because it's a couple who do not have children
+IS1007d.B.dialog-act.s9553330.275	1609.19	1612.55	B	UI	inf	+1	1	{disfmarker} {vocalsound} when you sell the product in the market you could meet any kind of people ,
+IS1007d.B.dialog-act.s9553330.276	1612.55	1617.33	B	UI	inf	+1	1	and not all people will need all the functionalities we propose to them .
+IS1007d.A.dialog-act.s9553330.96	1620.74	1625.1	A	PM	inf	+1	1	So you mean that even if these modules will be will be functional {disfmarker} uh will be optional .
+IS1007d.B.dialog-act.s9553330.287	1644.95	1659.173	B	UI	el.inf	+1	1	{vocalsound} But the the question is n does those modularity increase the production cost or decrease the production cost ? {vocalsound}
+IS1007d.A.dialog-act.s9553330.101	1652.37	1654.307	A	PM	ass	+1	1	I think it inc increase . {vocalsound}
+IS1007d.C.dialog-act.s9553330.176	1665.43	1670.341	C	ID	inf	+1	1	because it's three different pieces uh to to to build but {disfmarker}
+IS1007d.C.dialog-act.s9553330.178	1677.02	1687.814	C	ID	ass	+1	1	it's I think it's cheaper if you if you already built the all the {vocalsound} functionalities um on the same module , but uh {disfmarker}
+IS1007d.B.dialog-act.s9553330.292	1689.14	1698.39	B	UI	inf	+1	1	Well well the other aspect is that if {vocalsound} in the {disfmarker} when they have the ar existing product you you gonna maintain the the {disfmarker} you're gonna keep the same customer ,
+IS1007d.B.dialog-act.s9553330.293	1698.39	1701.34	B	UI	inf	+1	1	because the same customer will come back to buy other add-ons .
+IS1007d.B.dialog-act.s9553330.295	1706.0	1709.85	B	UI	inf	+1	1	i i so if don't don't buy now they can buy i in the future .
+IS1007d.B.dialog-act.s9553330.297	1713.58	1721.93	B	UI	inf	+1	1	attracting them to come back in again and again .
+IS1007d.B.dialog-act.s9553330.300	1730.21	1735.87	B	UI	ass	+1	1	Yeah well if the buyers can be up the th would be {disfmarker} can be upgraded , it would be a good thing right ?
+11	IS1007d.JacquelinePalmer.s.11	The group discussed how to incorporate the fashion trends; it was suggested that one shape was used , which could be customized with skins.
+IS1007d.D.dialog-act.s9553330.160	1737.76	1742.96	D	ME	el.inf	+1	2	And uh what's the idea about uh the shape of the remote controls ?
+IS1007d.D.dialog-act.s9553330.161	1742.96	1746.36	D	ME	el.inf	+1	2	Uh can they be made into a fruit and vegetable types ?
+IS1007d.C.dialog-act.s9553330.187	1749.68	1754.22	C	ID	inf	+1	2	but we are also the um well the components will have to change
+IS1007d.C.dialog-act.s9553330.188	1754.22	1757.25	C	ID	inf	+1	2	because uh we have to deal with the shape
+IS1007d.D.dialog-act.s9553330.163	1761.48	1768.97	D	ME	sug	+1	1	Or uh it could be like this {disfmarker} the P_C_B_ would be the same for all , but only the exterior uh shape is different o for all .
+IS1007d.B.dialog-act.s9553330.305	1777.7	1782.63	B	UI	sug	+1	2	What we can change is to propose the {vocalsound} customers with skins .
+IS1007d.B.dialog-act.s9553330.306	1782.63	1787.51	B	UI	inf	+1	1	For example the i the mobile phones nowaday , they sell different kinds of skin
+IS1007d.B.dialog-act.s9553330.307	1787.51	1791.37	B	UI	inf	+1	1	and then people just feel that oh I have a new skin and looks better .
+IS1007d.C.dialog-act.s9553330.192	1791.47	1793.6	C	ID	sug	+1	1	we can have the same global shape
+IS1007d.C.dialog-act.s9553330.193	1793.6	1801.13	C	ID	sug	+1	1	and then uh add on skins and with with this uh tex spongy texture uh things like that .
+IS1007d.D.dialog-act.s9553330.167	1804.83	1806.91	D	ME	sug	+1	2	I think you need to look into the material .
+6	IS1007d.JacquelinePalmer.s.12	The Project Manager led an evaluation of the group's experience on the project.
+IS1007d.A.dialog-act.s9553330.111	1835.89	1839.76	A	PM	oth	+1	1	Project evaluation project satisfaction , for example .
+IS1007d.A.dialog-act.s9553330.112	1843.3	1845.58	A	PM	inf	+1	1	I don't know , we have to ask these question .
+IS1007d.B.dialog-act.s9553330.317	1857.696	1859.75	B	UI	inf	+1	1	{vocalsound} Room for creativity .
+IS1007d.B.dialog-act.s9553330.319	1859.75	1863.38	B	UI	ass	+1	1	This room is a bit small , but {vocalsound}
+IS1007d.B.dialog-act.s9553330.320	1863.38	1867.008	B	UI	ass	+1	1	{vocalsound} but I think it's okay for us to work with . {vocalsound}
+IS1007d.D.dialog-act.s9553330.175	1873.08	1876.46	D	ME	ass	+1	1	This is fine for making a presentat for project presentations .
+12	IS1007d.JacquelinePalmer.s.13	The group was pleased with the teamwork and leadership , but one participant complained that not enough information was given about each meeting's agenda.
+IS1007d.D.dialog-act.s9553330.176	1885.0	1886.5	D	ME	ass	+1	2	And the leadership was excellent .
+IS1007d.A.dialog-act.s9553330.116	1886.98	1893.64	A	PM	ass	+1	1	Yeah I think so {vocalsound} .
+IS1007d.A.dialog-act.s9553330.118	1898.93	1901.69	A	PM	ass	+1	2	Uh the teamwork was very very good .
+IS1007d.D.dialog-act.s9553330.179	1915.67	1917.68	D	ME	inf	+1	1	And new ideas found .
+IS1007d.C.dialog-act.s9553330.208	1924.464	1928.37	C	ID	sug	+1	1	{vocalsound} Come up with new product {vocalsound} .
+IS1007d.C.dialog-act.s9553330.209	1939.41	1952.95	C	ID	sug	+1	3	Yeah and also more well uh {vocalsound} more seriously I think it's it's a good idea to have uh clear clear points whenever we do a meeting
+IS1007d.C.dialog-act.s9553330.210	1952.95	1960.96	C	ID	sug	+1	3	uh prior to the meeting to have uh well a list with the points who will be discussed or things like that ,
+IS1007d.C.dialog-act.s9553330.212	1965.14	1968.71	C	ID	inf	+1	1	We achieved uh project goal I think .
+IS1007d.D.dialog-act.s9553330.184	1968.58	1969.82	D	ME	inf	+1	1	that is within the budget .
+IS1007d.C.dialog-act.s9553330.214	1971.95	1973.41	C	ID	ass	+1	1	yes , more or less .
+IS1007d.A.dialog-act.s9553330.124	1972.77	1977.17	A	PM	inf	+1	1	Without without L_C_D_ , without speech recognition , it will be simple .
+IS1007d.A.dialog-act.s9553330.126	1989.2	1991.95	A	PM	be.pos	+1	1	Yeah thank you for your work and {disfmarker}

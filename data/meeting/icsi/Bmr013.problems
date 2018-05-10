@@ -1,0 +1,11 @@
+0	Bmr013.s.9	With respect to encoding more fine-grained acoustic information in transcriptions , the question was posed: which features should be marked?
+2	Bmr013.s.10	Speaker mn014 reported problems pre-segmenting speech recorded via the lapel microphones.
+Bmr013.A.dialogueact572	1580.88	1582.31	A	PhD	s^rt	+1	1	There are some problems with the lapel mike .
+Bmr013.A.dialogueact733	1931.51	1934.72	A	PhD	s	+1	1	but , there are some {disfmarker} some {disfmarker} as I said some problems with the lapel mike ,
+1	Bmr013.s.11	Normalization of the energy measured across and within channels is problematic when performed for speakers who say little or nothing during meetings.
+Bmr013.A.dialogueact590	1607.35	1616.24	A	PhD	s	+1	1	Then , the , yeah , there are {disfmarker} there are some problems with {disfmarker} with {disfmarker} with n with normalization , and , then , uh , there the system doesn't work at all .
+1	Bmr013.s.12	The evaluation of pre-segmented data is difficult without tightly transcribed time references to the individual channels from which the speech was derived.
+Bmr013.A.dialogueact594	1625.13	1632.06	A	PhD	s	+1	1	And , the thing is I {disfmarker} I , then the evaluation of {disfmarker} of the system is a little bit hard , as I don't have any references .
+2	Bmr013.s.13	The SRI recognizer requires that multi-channel format units not be too large , indicating that some additional pre-processing of unit lengths may be necessary.
+Bmr013.B.dialogueact844	2126.02	2138.54	B	Postdoc	s	+1	1	it drifted into the afternoon , {comment} {vocalsound} uh , concerning this issue of , um , the , well there 's basically the issue of the interplay between the transcript format and the processing that , they need to do for , the SRI recognizer .
+Bmr013.B.dialogueact852	2182.66	2187.14	B	Postdoc	s	+1	1	And , um , {nonvocalsound} their recognizer would prefer that the units not be overly long .

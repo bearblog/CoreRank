@@ -1,0 +1,37 @@
+3	Bed009.s.1	Two research teams , one from the US and the other from Germany , meet to discuss SmartKom , a multi-modal tourist information system.
+Bed009.B.dialogueact54	254.04	260.997	B	Grad	s^rt	+1	1	and just gonna say we have um again the recognizer to parser thing where we 're working on
+Bed009.B.dialogueact85	366.058	376.88	B	Grad	s^rt	-1	0	the {disfmarker} the ultimate goal is that before they leave we {disfmarker} we can run through the entire system input through output on at least one or two sample things .
+Bed009.B.dialogueact90	397.878	412.18	B	Grad	s	-1	0	And um also um Ralf has hooked up with David and you 're gonna continue either all through tonight or tomorrow on whatever to get the er parser interface working .
+2	Bed009.s.2	A German version of the tool has already been developed , and the objective is to collaborate to develop an English version.
+Bed009.B.dialogueact58	277.76	288.823	B	Grad	s^rt	-1	0	and um There one of our diligent workers has to sort of volunteer to look over Tilman 's shoulder while he is changing the grammars to English
+Bed009.B.dialogueact90	397.878	412.18	B	Grad	s	-1	0	And um also um Ralf has hooked up with David and you 're gonna continue either all through tonight or tomorrow on whatever to get the er parser interface working .
+10	Bed009.s.3	The researchers discuss whether to develop the English parser from scratch or to adopt the style used for ther German parser.
+Bed009.F.dialogueact331	1126.62	1132.61	F	Professor	s	-1	0	But for a full system , then one might very well formulate a query ,
+Bed009.F.dialogueact332	1133.45	1137.54	F	Professor	s:qy	-1	0	give it to the dialogue planner and say this , you know ar are you know you {disfmarker} are you planning to enter ?
+Bed009.F.dialogueact335	1140.87	1143.13	F	Professor	s	-1	0	So that 's {disfmarker} under that model
+Bed009.F.dialogueact336	1143.84	1150.42	F	Professor	s	-1	0	then , There would be a {disfmarker} uh {disfmarker} um a loop in which this thing would formulate a query ,
+Bed009.F.dialogueact339	1152.15	1156.98	F	Professor	s	-1	0	That would get expressed and then hopefully you know , you 'd get an answer {pause} back .
+Bed009.F.dialogueact341	1158.1	1160.0	F	Professor	s	-1	0	And that would of course {disfmarker} the answer would have to be parsed .
+Bed009.B.dialogueact486	1525.51	1532.11	B	Grad	qo	+1	1	I think the {disfmarker} the true key issues is how does the whatever comes out of the language input pipeline look like
+Bed009.B.dialogueact487	1532.11	1534.85	B	Grad	qo	+1	1	and then what the action planner does with it {disfmarker}
+Bed009.A.dialogueact552	1704.71	1713.51	A	PhD	s	-1	0	And even on {disfmarker} on a more basic level the {disfmarker} the action planner actually needs to be able to have um an expressive power that can deal with these structures .
+Bed009.A.dialogueact554	1714.53	1725.77	A	PhD	s	-1	0	And not just um say um {disfmarker} um the dialogue um will consist of ten possible states and th these states really are fixed in {disfmarker} in a certain sense .
+5	Bed009.s.4	They make an appointment to meet later in the week to discuss their progress.
+Bed009.D.dialogueact715	2178.78	2180.45	D	Grad	qy.%--	-1	0	are there currently is uh
+Bed009.D.dialogueact716	2180.45	2181.96	D	Grad	s^rt	-1	0	no syntactic analysis
+Bed009.D.dialogueact717	2182.64	2185.09	D	Grad	s	-1	0	but in the next release there will be some .
+Bed009.D.dialogueact760	2279.33	2282.81	D	Grad	s^bk|s	+1	1	Yeah , uh the problem is th that it has to be very fast
+Bed009.D.dialogueact761	2282.81	2287.46	D	Grad	s.%--	-1	0	because um if you want to for more than one path anywhere
+4	Bed009.s.5	The goal of the system is being presented as to provide directions to toourists based not only on their destination , but also on their intentions , eg . taking a picture or bying souvenirs.
+Bed009.B.dialogueact58	277.76	288.823	B	Grad	s^rt	-1	0	and um There one of our diligent workers has to sort of volunteer to look over Tilman 's shoulder while he is changing the grammars to English
+Bed009.F.dialogueact72	340.45	343.9	F	Professor	qy^rt	-1	0	Johno , are you gonna have some time t to do that uh w with these guys ?
+Bed009.F.dialogueact74	345.471	348.49	F	Professor	s^ba^df	-1	0	cuz y you 're the grammar maven .
+Bed009.B.dialogueact86	377.63	385.395	B	Grad	s	-1	0	And um and by virtue of doing that then in this case Johno will have acquired the knowledge of how to extend it .
+2	Bed009.s.6	The researchers discuss various design issues , e.g . how the components of the system should interact and whether the approach to the English system needs to be fundamentally different from that of ther German.
+Bed009.F.dialogueact122	463.501	472.491	F	Professor	s^cc	+1	1	so anyt we 'll find a time later in the week to uh get together and talk about {pause} your understanding of what SmartKom plans are .
+Bed009.A.dialogueact151	560.45	561.02	A	PhD	qy^bu^d^r^rt	-1	0	Thursday around eleven ?
+1	Bed009.s.7	Improvements for the German version , such as adding a syntactic analysis , are also discussed.
+Bed009.B.dialogueact230	813.21	827.87	B	Grad	fh|s	+1	1	And um so the idea is to construct uh um suitable interfaces and a belief - net for a module that actually tries to guess what the underlying intention {pause} was .
+2	Bed009.s.8	Concluding the dialogue , a researcher from the US team recommends that the German team hear a forthcoming talk on using deep semantics in applications.
+Bed009.A.dialogueact356	1199.47	1212.08	A	PhD	s	+1	1	And they 're currently um Agreeing or {disfmarker} or in the process of agreeing on an X M L - ification of um something like a state - transition network of how dialogues would proceed .
+Bed009.A.dialogueact357	1212.41	1219.39	A	PhD	s	-1	0	and {disfmarker} The {disfmarker} these um transition networks uh will be what the action planner interprets in a sense .

@@ -1,0 +1,11 @@
+ICSI's Meeting Recorder Group at Berkeley met mainly to discuss work on their main project , the Aurora task , but also talked about the work of one of their student members.
+Some members of the group met recently with research partners to settle on the current state of their software , and decide on the future work they would investigate , and these decisions were relayed to the rest of the group.
+Of the three areas for the future , they touched mostly upon the use of a second , parallel , data stream.
+The group also discussed a new part to the evaluation , the use of a chunk of the Wall Street Journal.
+Speaker me006 is working on data clustering , and discussion of related issues led to more general acoustic matters.
+After the meeting , mn052 volunteered to get the second data stream up and running in the current software.
+Since he has been asked to assist in a particular aspect of the work , me018 has to contact the relevant persons in order to be added to the according mailing list.
+There is a new system coming from OGI for dealing with the Wall Street Journal data , and me013 wanted everyone to pay attention to areas where the groups might get hurt because of their features.
+The group's code has been updated , and in it's frozen state , runs at the second best level in the project.
+The CVS allowing access to the code is up and running , but now one at OGI is actually working on it yet.
+Speaker me006 has been reading literature on data clustering , with particular attention to a previous work , and is contemplating how to generalise it.

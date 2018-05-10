@@ -1,0 +1,28 @@
+Two main options were discussed as to the organisation of the collected data.
+On the one hand , a bespoke XML structure that connects transcriptions and annotations ( down to the word-level ) to a common timeline.
+Its advantages are that it is easier to read , parse , map onto the Transcriber format and to expand with extra features.
+Phone-level analysis can be included in the same structure , or in a separate , linked file.
+The respective frame-level representation can be handled by P-files , a technology developed at ICSI , which also comes with a library of tools.
+Separation of levels of analysis makes files more compact and manageable.
+XML standards offer libraries that can be used for the development of search tools.
+On the other hand , the ATLAS ( NIST ) technology offers a very similar , but more generic organisational scheme based on nodes and links.
+These are labeled with domain specific types , like "utterance" or "speaker".
+This option offer well-developed infrastructure and flexibility as to the type of data storage ( flat XML files or relational database ).
+In either case , it is important for the chosen format to allow for fast searches , flexible updates and , if possible , be reusable in future work.
+In order to confirm the suitability of the data format provided by the ATLAS project , its current state of development will be investigated.
+More specifically , the issues that have to be ascertained are , firstly , whether the external file representation offers a format that would be appropriate for speech data , and , secondly , how the linking between the different annotations ( eg , between word-level representations and prosodic-feature structures ) can be achieved.
+Regardless of the actual format , however , there was consensus that keeping levels of analysis ( words , phones , frames , etc ) on separate , inter-linked files can make their management easier.
+Choosing a project-specific format for the representation of the data might not be optimal for future work.
+On the other hand , it is not yet clear whether a more standardised , but generic technology , like that of the ATLAS project , can accommodate all the requirements of speech analysis.
+Regardless of the particular format , including all annotations ( sentences , words , phones , frames , etc ) in one file could result in unmanageable file sizes.
+Searching , updating or simply parsing a file for a simple task can become an unwieldy process.
+Even P-files , which are only for frame-level annotation , may be too verbose for the amount of data resulting from hour-long recordings.
+The actual mapping of word-level transcriptions to frame-level representations is expected to be problematic anyway.
+Likewise , problems will arise if , in the future , slightly different transcripts of the same data are annotated in formats that do not include time-marks.
+Trying to merge such annotations later will not be easy , because of the combination of transcription discrepancies with the loss of the underlying connection offered by the time-marks.
+An XML scheme to build representations of the data is already available.
+It incorporates information regarding utterances , sentences , speakers , words , etc.
+All these features are linked together via time-marks that slot into a single , common timeline.
+This format also allows for linking to different levels of representation of the same data.
+For the frame-level representation , P-files is a readily available technology , developed at ICSI.
+Besides the appropriate format , P-files come with a library of tools and the respective documentation.

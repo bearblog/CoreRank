@@ -1,0 +1,7 @@
+The set of cues that form the feature nodes is not well-defined yet.
+Especially with lexical cues ( verbs , modifiers etc ) , no one offered specific intuitions as to how they might contribute to the inference of intentions.
+Other features , like "admission fee" , may be intuitively linked with one of the outputs ( Enter ) , however , any probabilities are coded in an ad-hoc fashion and are by no means realistic.
+Cases like this , where feature and output seem to be linked directly , bring the necessity of a middle layer in the belief-net to question.
+Nevertheless , not having a middle layer would not allow for shifts in the discourse and would make the setting of probabilities and manipulation of the belief-net clumsy.
+Some issues with the use of JavaBayes also arose: the addition of new variables in an existing node overwrites all previous settings , and the native text file where the probability tables are set is not easy to read; this makes adding and changing variables and nodes problematic.
+Finally , it is unclear how much learning can be done on the created nets.

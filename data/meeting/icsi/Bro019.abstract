@@ -1,0 +1,52 @@
+2	Bro019.s.1	The ICSI Meeting Recorder Group at Berkley have a temporary new member on loan from research partner OGI.
+Bro019.C.dialogueact70	116.94	118.07	C	Professor	s^m^na	+1	1	Sunil 's here for the summer ,
+Bro019.C.dialogueact324	687.77	693.65	C	Professor	qw^cs^tc	+1	2	Sunil since you 're {vocalsound} haven't {disfmarker} haven't been at one of these yet , why don't yo you tell us what 's {disfmarker} what 's up with you ?
+10	Bro019.s.2	He began the meeting by reporting his recent activities , which included looking at the new baseline system.
+Bro019.C.dialogueact324	687.77	693.65	C	Professor	qw^cs^tc	+1	2	Sunil since you 're {vocalsound} haven't {disfmarker} haven't been at one of these yet , why don't yo you tell us what 's {disfmarker} what 's up with you ?
+Bro019.A.dialogueact381	853.37	864.02	A	PhD	s	+1	1	uh , the other {disfmarker} other thing what I tried was , I just um , uh , took the baseline and then ran it with the endpoint inf uh th information ,
+Bro019.A.dialogueact382	864.37	865.59	A	PhD	s^e	+1	1	just the Aurora baseline ,
+Bro019.A.dialogueact383	866.03	869.07	A	PhD	s^e	+1	1	to see that how much the baseline itself improves
+Bro019.A.dialogueact384	869.84	873.9	A	PhD	s^e	+1	1	by just supplying the information of the {disfmarker} I mean the w speech and nonspeech .
+Bro019.A.dialogueact386	875.45	879.71	A	PhD	s.%--	+1	1	I found that the baseline itself improves by twenty - two percent by just giving the wuh .
+Bro019.A.dialogueact419	931.5	935.14	A	PhD	s^df	+1	1	because the {disfmarker} the second {disfmarker} the new phase is going to be with the endpointed speech .
+Bro019.A.dialogueact420	935.14	941.61	A	PhD	s.%-	+1	1	And just to get a feel of how much the baseline itself is going to change by adding this endpoint information , I just , uh , use {disfmarker}
+Bro019.F.dialogueact422	941.21	944.76	F	PhD	s^bu	+1	1	So people won't even have to worry about , uh , doing speech - nonspeech then .
+Bro019.A.dialogueact423	944.62	944.84	A	PhD	s^aa	+1	1	Yeah
+8	Bro019.s.3	The other members of the group also reported their recent progress in areas such as spectral subtraction and voicing detection.
+Bro019.C.dialogueact76	126.564	140.826	C	Professor	s^t	+1	1	and then just uh , I guess uh , progress reports individually , and then uh , plans for where we go between now and then , pretty much .
+Bro019.C.dialogueact513	1119.58	1124.38	C	Professor	s^co^tc	+1	2	so maybe uh , just briefly , you could remind us about the related experiments .
+Bro019.C.dialogueact514	1124.38	1126.54	C	Professor	s^bu^df	+1	2	Cuz you did some stuff that you talked about last week ,
+Bro019.D.dialogueact527	1143.79	1148.95	D	PhD	s^rt	+1	2	The main thing that we did is just to take the spectral subtraction from the France Telecom ,
+Bro019.D.dialogueact777	1635.8	1645.76	D	PhD	s	+1	2	We are playing {disfmarker} we are also playing , trying to put other spectral subtraction mmm , in the code .
+Bro019.D.dialogueact779	1648.92	1654.77	D	PhD	s^rt	+1	2	it would be a very simple spectral subtraction , on the um , mel energies
+Bro019.C.dialogueact1117	2354.02	2354.8	C	Professor	qy^rt^tc	+1	2	Anything else going on ?
+Bro019.B.dialogueact1120	2356.22	2360.78	B	PhD	s	+1	2	I don't have good result , with the {disfmarker} inc including the new parameters ,
+15	Bro019.s.4	They also explained some of their projects to their guest.
+Bro019.A.dialogueact1123	2366.3	2368.44	A	PhD	qw^d	+1	1	With what {disfmarker} what other new p new parameter ?
+Bro019.C.dialogueact1126	2368.46	2370.07	C	Professor	s^cs	+1	1	So maybe {disfmarker} You probably need to back up a bit
+Bro019.B.dialogueact1131	2370.99	2378.27	B	PhD	s	+1	2	I tried to include another new parameter to the traditional parameter ,
+Bro019.B.dialogueact1135	2381.39	2391.1	B	PhD	s	+1	1	that , like , the auto - correlation , the R - zero and R - one over R - zero
+Bro019.B.dialogueact1138	2392.0	2399.92	B	PhD	s	+1	1	and another estimation of the var the variance of the difference for {disfmarker} of the spec si uh , spectrum of the signal
+Bro019.B.dialogueact1139	2400.45	2408.5	B	PhD	s	+1	1	and {disfmarker} and the spectrum of time after filt mel filter bank .
+Bro019.B.dialogueact1161	2454.99	2462.86	B	PhD	s	+1	1	The idea is to found another feature for discriminate between voice sound and unvoice sound .
+Bro019.B.dialogueact1163	2464.79	2468.21	B	PhD	s	+1	1	And we try to use this new feature {disfmarker} feature .
+Bro019.C.dialogueact1371	2948.77	2950.46	C	Professor	qy^rt^tc	+1	2	anything on your end you want to talk about ?
+Bro019.G.dialogueact1375	2956.92	2959.8	G	Grad	s^df	+1	2	Sunil hasn't {disfmarker} hasn't heard about uh , what I 've been doing .
+Bro019.G.dialogueact1380	2967.03	2974.86	G	Grad	s^df	+1	2	So basically that 's just , um , trying to propose um , uh , your next your {disfmarker} your following years of {disfmarker} of your PHD work ,
+Bro019.G.dialogueact1381	2974.86	2979.52	G	Grad	s^df	+1	2	trying {disfmarker} trying to find a project to {disfmarker} to define and {disfmarker} and to work on .
+Bro019.G.dialogueact1382	2979.89	2988.45	G	Grad	s	+1	2	So , I 've been , uh , looking into , um , doing something about r uh , speech recognition using acoustic events .
+Bro019.G.dialogueact1391	3000.89	3007.41	G	Grad	s	+1	2	um , building robust um , primary detectors for these acoustic events ,
+Bro019.G.dialogueact1392	3007.87	3012.73	G	Grad	s	+1	2	and using the outputs of these robust detectors to do speech recognition .
+12	Bro019.s.5	The group shall soon be taking delivery of more machines for a computation farm , and they discussed some software tools for running large processes.
+Bro019.F.dialogueact78	143.08	147.73	F	PhD	s^cs	+1	1	I could say a few words about um , some of the uh , compute stuff that 's happening around here ,
+Bro019.F.dialogueact79	147.91	149.05	F	PhD	s^df	+1	1	so that people in the group know .
+Bro019.F.dialogueact87	156.55	163.736	F	PhD	s	+1	1	So we just put in an order for about twelve new machines , uh , to use as sort of a compute farm .
+Bro019.F.dialogueact94	178.949	182.629	F	PhD	s	+1	1	and Andreas has sort of gotten that all uh , fixed up and up to speed .
+Bro019.F.dialogueact95	183.058	190.27	F	PhD	s	+1	1	And he 's got a number of little utilities that make it very easy to um , {vocalsound} run things using P - make and Customs .
+Bro019.F.dialogueact98	194.299	195.509	F	PhD	s^cs	+1	2	And I can send an email around
+Bro019.F.dialogueact99	195.509	198.169	F	PhD	s^cs	+1	2	or , maybe I should do an FAQ on the web site about it or something .
+Bro019.C.dialogueact102	199.88	201.47	C	Professor	qw^cs	+1	2	How about an email that points to the FAQ ,
+Bro019.F.dialogueact110	209.754	219.714	F	PhD	s	+1	1	And , if you say that and then some job that you want to execute , uh , it will find the fastest currently available machine , and export your job to that machine ,
+Bro019.F.dialogueact119	246.152	252.5	F	PhD	s	+1	1	And , so , soon , when we get all the new machines up , {vocalsound} um , e then we 'll have lots more compute to use .
+Bro019.F.dialogueact135	302.52	303.72	F	PhD	s	+1	1	there 's a lot of nice features to it
+Bro019.F.dialogueact136	303.72	306.27	F	PhD	s	+1	1	and it kinda helps to balance the load of the machines

@@ -1,0 +1,18 @@
+2	Bmr019.s.9	Lapel microphones are sensitive to noises such as clothes rustling.
+Bmr019.E.dialogueact94	138.889	145.809	E	Grad	s	-1	0	And as Morgan pointed out , that there are actually some advantages to it in terms of breath noises and clothes rustling {pause} if no one else is talking .
+Bmr019.B.dialogueact103	154.493	156.973	B	Professor	s	-1	0	The lapel is typically worse on the {disfmarker} on clothes rustling ,
+5	Bmr019.s.10	Recognition of digits recorded with close microphones is significantly more difficult than that of studio-recorded TI-digits.
+Bmr019.B.dialogueact205	384.422	395.563	B	Professor	s	+1	3	Uh , but the other is that , um , the digits {vocalsound} recorded here in this room with these close mikes , i uh , are actually a lot harder than the {pause} studio - recording TI - digits .
+Bmr019.B.dialogueact207	395.973	402.743	B	Professor	s	-1	0	I think , you know , one reason for that , uh , might be that there 's still {disfmarker} even though it 's close - talking , there still is some noise and some room acoustics .
+Bmr019.B.dialogueact209	403.109	410.099	B	Professor	s	-1	0	And another might be that , uh , I 'd {disfmarker} I would presume that in the studio , uh , uh , situation recording read speech that if somebody
+Bmr019.B.dialogueact210	410.655	415.765	B	Professor	s	-1	0	did something a little funny or n pronounced something a little funny or made a little {disfmarker} that they didn't include it ,
+Bmr019.E.dialogueact224	438.916	442.516	E	Grad	s	-1	0	Um , so there 's a little bit of correction but it 's definitely not as clean as TI - digits .
+2	Bmr019.s.11	The amount of close microphone data is too small to train a reliable Hidden Markov Model.
+Bmr019.B.dialogueact144	230.407	247.411	B	Professor	s	+1	1	And the interesting thing is that even though , {vocalsound} yes , it 's a digits task and that 's a relatively small number of words and there 's a bunch of digits that you train on , {vocalsound} it 's just not as good as having a {disfmarker} a l very large amount of data and training up a {disfmarker} a {disfmarker} a nice good big {vocalsound} HMM .
+Bmr019.B.dialogueact203	381.389	383.979	B	Professor	s	-1	0	this , you know , very limited training HTK system .
+5	Bmr019.s.12	Alignment quality is detrimentally affected by background speech.
+Bmr019.A.dialogueact736	1571.17	1574.39	A	PhD	s^cs^rt	+1	1	We probably want to adapt at least the foreground speaker .
+Bmr019.A.dialogueact737	1574.39	1579.01	A	PhD	s	+1	1	But , I guess Andreas tried adapting both the foreground and a background generic speaker ,
+Bmr019.A.dialogueact738	1579.01	1582.41	A	PhD	s^ba	+1	1	and that 's actually a little bit of a f funky model .
+Bmr019.A.dialogueact739	1582.41	1584.19	A	PhD	s	+1	1	Like , it gives you some weird alignments ,
+Bmr019.A.dialogueact740	1584.19	1588.24	A	PhD	s^df	+1	1	just because often the background speakers match better to the foreground than the foreground speaker .

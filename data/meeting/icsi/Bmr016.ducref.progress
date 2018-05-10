@@ -1,0 +1,9 @@
+A test set of digits data totalling two hours is nearly complete.
+Digit extraction has been performed on roughly half of this data.
+Future work may involve experimenting with the reading of digits in different prosodic groupings.
+Preliminary ASR results were discussed.
+Subsequent efforts will involve generating a better channel-based segmentation , and possibly doing echo cancellation , to improve recognition on the close-talking microphone data.
+Filename conventions are being standardized.
+Transcription checking procedures have been formalized , including a spell check , producing an exhaustive list of forms identified in the data , attributing every utterance to the appropriate speaker ID , glossing spoken forms with their full orthographic counterparts , e.g . 'cuz' and 'because' , transcribing acronyms , and encoding comments , i.e . glosses , vocalic and non-vocalic non-speech events , pragmatic cues , and the standardization of spoken forms , e.g . 'mm-hmm'.
+Scripts will be used to convert a channelized master copy into forms that are appropriate for doing both recognition and linguistic analysis.
+Coordinated efforts are in progress between the transcriber pool and speaker mn014 to fine-tune presegmented output to handle data from a variety of speakers and regions of speaker overlap.

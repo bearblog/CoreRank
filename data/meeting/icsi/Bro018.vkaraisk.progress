@@ -1,0 +1,35 @@
+4	Bro018.s.31	Two MLP's were trained on noisy TIMIT for voiced/unvoiced , one with 3 outputs and one with 56.
+Bro018.D.dialogueact18	51.84	57.63	D	PhD	s	+1	1	And I 'm trying two MLP , one one that only have t three output ,
+Bro018.D.dialogueact21	60.55	65.18	D	PhD	s	+1	1	and other one that have fifty - six output .
+Bro018.C.dialogueact284	665.396	666.456	C	Professor	s^bk|s^bu	-1	0	Oh . So , this is trained on TIMIT .
+Bro018.D.dialogueact291	670.43	671.04	D	PhD	s^aa^m^rt	-1	0	Noisy TIMIT .
+5	Bro018.s.32	The former used three extra inputs ( spectrum difference variance , auto-correlation function variance and R0 ) , added to the 15 of the Aurora base system.
+Bro018.D.dialogueact8	19.429	34.6	D	PhD	s^rt	+1	2	What I trying two MLP to {disfmarker} to the {disfmarker} with this new feature and the fifteen feature uh from the eh bus base system
+Bro018.D.dialogueact34	99.43	107.04	D	PhD	s	-1	0	The inputs are the fifteen {disfmarker} the fifteen uh bases feature .
+Bro018.D.dialogueact37	109.802	116.102	D	PhD	s	-1	0	And the other three features are R , the variance of the difference between the two spectrum ,
+Bro018.D.dialogueact39	117.13	126.38	D	PhD	s	-1	0	the variance of the auto - correlation function , except the {disfmarker} the first point , because half the height value is R - zero
+Bro018.D.dialogueact44	126.77	128.19	D	PhD	s	-1	0	and also R - zero ,
+3	Bro018.s.33	Its accuracy is 63% ( including noise ) , while for the latter is 56%.
+Bro018.A.dialogueact212	535.268	539.578	A	Grad	s^bu.%--	-1	0	Fif - fifty - six percent accurate for v voice - unvoice
+Bro018.D.dialogueact230	550.86	555.84	D	PhD	s	-1	0	But I think that fifty - five was for the {disfmarker} when the output are the fifty - six phone .
+Bro018.D.dialogueact235	575.06	584.117	D	PhD	s	-1	0	I think that {disfmarker} I {disfmarker} I {disfmarker} I think that for the other one , for the three output , is sixty sixty - two , sixty three more or less .
+2	Bro018.s.34	The nets only take about a day to train.
+Bro018.E.dialogueact197	511.81	514.35	E	PhD	qw	-1	0	How long does it take , Carmen , to train up one of these nets ?
+Bro018.D.dialogueact200	517.2	518.54	D	PhD	s	-1	0	Mmm , one day or less .
+1	Bro018.s.35	The planning of another neural net to define the complete set of acoustic events for phone recognition is also under way.
+Bro018.A.dialogueact455	1091.66	1104.88	A	Grad	s	+1	1	and um {vocalsound} {vocalsound} we 're {disfmarker} we 're {disfmarker} we 're {vocalsound} thinking about a way to test the completeness of a {disfmarker} a set of um dynamic uh events .
+3	Bro018.s.36	As to the PLP/mel cepstrum comparison for SRI , the headers of the wave files are being checked for compression inconsistencies or other data that may indicate a bug in the scripts responsible for the errors found.
+Bro018.E.dialogueact824	2159.5	2165.16	E	PhD	s^rt	+1	1	So what I was working on is um just going through and checking the headers of the wavefiles ,
+Bro018.E.dialogueact826	2165.49	2172.49	E	PhD	s	-1	0	to see if maybe there was a um {disfmarker} a certain type of compression or something that was done that my script wasn't catching .
+Bro018.E.dialogueact813	2140.3	2141.33	E	PhD	s	+1	1	well it seems like there 's a bug ,
+5	Bro018.s.37	Furthermore , while discussing the RASTA code it was clarified that although there is no control on the frequency range in the FFT , this is done by the filter bank , which ignores the highest and lowest bins.
+Bro018.E.dialogueact899	2358.15	2363.02	E	PhD	s	-1	0	So one thing that I did notice , yesterday I was studying the um {disfmarker} the uh RASTA code
+Bro018.E.dialogueact901	2363.63	2372.04	E	PhD	s	-1	0	and it looks like we don't have any way to um control the frequency range that we use in our analysis .
+Bro018.E.dialogueact902	2372.04	2378.14	E	PhD	s	-1	0	We basically {disfmarker} it looks to me like we do the FFT , um and then we just take all the bins
+Bro018.C.dialogueact908	2390.8	2394.97	C	Professor	s	-1	0	I think it 's in the uh uh uh the filters .
+Bro018.C.dialogueact912	2400.29	2407.06	C	Professor	s	-1	0	for instance , ignore the {disfmarker} the lowest bins and the highest bins .
+4	Bro018.s.38	As to digit recognition , the mean subtraction method tested with the Aurora setup resulted in reduction of error rates from 18% to 4% in TI digits , and from 41% to 8% for Meeting Recorder far-mike digits.
+Bro018.B.dialogueact1087	2839.07	2842.13	B	Grad	s	+1	2	well I {vocalsound} tried this mean subtraction method .
+Bro018.B.dialogueact1102	2887.17	2890.61	B	Grad	s	+1	1	the Aurora setup of HDK training on clean TI - digits ,
+Bro018.B.dialogueact1105	2896.17	2906.91	B	Grad	s	+1	1	um {vocalsound} where I just used the simulated impulse response um {vocalsound} the error rate went from something like eighty it was from something like eighteen percent {vocalsound} to um four percent .
+Bro018.B.dialogueact1106	2907.75	2917.74	B	Grad	s	+1	1	And on meeting rec recorder far mike digits , mike {disfmarker} on channel F , it went from um {vocalsound} {vocalsound} forty - one percent error to eight percent error .

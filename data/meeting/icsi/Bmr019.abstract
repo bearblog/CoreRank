@@ -1,0 +1,17 @@
+1	Bmr019.s.1	The Berkeley Meeting Recorder group discussed efforts to train and test the Aurora group's HTK-based recognition system on ICSI's digits corpus.
+Bmr019.B.dialogueact144	230.407	247.411	B	Professor	s	+1	1	And the interesting thing is that even though , {vocalsound} yes , it 's a digits task and that 's a relatively small number of words and there 's a bunch of digits that you train on , {vocalsound} it 's just not as good as having a {disfmarker} a l very large amount of data and training up a {disfmarker} a {disfmarker} a nice good big {vocalsound} HMM .
+2	Bmr019.s.2	Members also discussed efforts to produce forced alignments from a selection of Meeting Recorder data.
+Bmr019.E.dialogueact12	12.133	18.592	E	Grad	s	+1	1	Two items , which was , uh , digits and possibly stuff on {disfmarker} on , uh , forced alignment ,
+Bmr019.A.dialogueact892	1901.51	1905.68	A	PhD	s	+1	1	So we {disfmarker} we only r hav I only looked at actually alignments from one meeting that we chose ,
+4	Bmr019.s.3	Performance in both tasks was adversely affected by the manner of recording conditions implemented and difficulties attributing utterances to the appropriate speakers.
+Bmr019.B.dialogueact205	384.422	395.563	B	Professor	s	+1	3	Uh , but the other is that , um , the digits {vocalsound} recorded here in this room with these close mikes , i uh , are actually a lot harder than the {pause} studio - recording TI - digits .
+Bmr019.F.dialogueact287	560.942	568.312	F	PhD	s^e	+1	2	If you have only one utterance per speaker you might actually screw up on estimating the {disfmarker} the warping , uh , factor .
+Bmr019.G.dialogueact941	1995.83	1998.93	G	Grad	s	+1	1	Well , I know there were some speaker labelling problems , um , after interruptions .
+Bmr019.G.dialogueact975	2034.96	2037.78	G	Grad	s	+1	1	But you 're actually saying that certain , uh , speakers were mis mis - identified .
+2	Bmr019.s.4	While debugging efforts resulted in improved forced alignments , dealing with mixed channel speech and speaker overlap remains a key objective for future work.
+Bmr019.A.dialogueact667	1351.96	1365.35	A	PhD	s	+1	2	and {disfmarker} and {disfmarker} W we {disfmarker} we were able to get some definite improvement on the forced alignments by looking at them first and then realizing the kinds of errors {pause} that were occurring
+Bmr019.A.dialogueact761	1634.42	1638.48	A	PhD	s	+1	1	So just sort of working through a bunch of debugging kinds of issues .
+3	Bmr019.s.5	The group is additionally focused on a continued ability to feed different features into the recognizer and then train the system accordingly.
+Bmr019.F.dialogueact617	1224.11	1232.46	F	PhD	s^bu	+1	1	So {disfmarker} so the key {pause} thing that 's missing here is basically the ability to feed , you know , other features {vocalsound} i into the recognizer
+Bmr019.F.dialogueact618	1232.46	1234.4	F	PhD	s^bu^e	+1	1	and also then to train the system .
+Bmr019.B.dialogueact605	1188.41	1193.29	B	Professor	s	+1	1	we want to {vocalsound} have the ability to feed it different features .

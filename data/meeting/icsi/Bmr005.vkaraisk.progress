@@ -1,0 +1,42 @@
+3	Bmr005.s.33	A forty-five minute session has already been transcribed at ICSI and also sent to IBM.
+Bmr005.E.dialogueact945	2664.14	2670.03	E	Professor	fg|s	+1	1	Right so there 's this {disfmarker} this {disfmarker} There 's this forty - five minute piece that Jane transcribed .
+Bmr005.E.dialogueact947	2670.99	2676.58	E	Professor	s	-1	0	That piece was then uh sent to IBM so they could transcribe so we have some comparison point .
+Bmr005.E.dialogueact1162	3368.01	3371.98	E	Professor	s	+1	1	We have {disfmarker} we have an hour uh that {disfmarker} that is transcribed ,
+4	Bmr005.s.34	Another twelve hours have been recorded and are currently being put on CD's , in order to be sent to IBM for transcription.
+Bmr005.E.dialogueact588	1882.23	1886.55	E	Professor	s	-1	0	See I was wondering cuz we st we have these ten hours of other stuff that is not yet transcribed .
+Bmr005.E.dialogueact948	2677.14	2684.48	E	Professor	s.x	-1	0	Then there 's s a larger piece that 's been recorded and uh put on CD - ROM and sent uh to IBM .
+Bmr005.E.dialogueact966	2705.55	2707.68	E	Professor	s	+1	1	We 're saying about {pause} twelve hours .
+Bmr005.E.dialogueact1163	3371.98	3375.69	E	Professor	s	+1	1	we have {disfmarker} we have twelve hours that 's recorded but not transcribed ,
+5	Bmr005.s.35	There are already arrangements in place for the regular recording of some morning meetings , as well as those by the natural language and network services teams.
+Bmr005.E.dialogueact975	2717.19	2722.73	E	Professor	s^rt	+1	2	but there 's at least one meeting recorded of uh the uh uh natural language guys .
+Bmr005.E.dialogueact981	2725.75	2727.92	E	Professor	s	-1	0	w w And we talked to them about recording some more
+Bmr005.E.dialogueact983	2729.43	2736.5	E	Professor	fh|s^rt	+1	2	uh , we 've started having a morning meeting , today uh i starting a w a week or two ago , on the uh front - end issues ,
+Bmr005.E.dialogueact984	2736.85	2738.11	E	Professor	s	+1	2	and we 're recording those ,
+Bmr005.E.dialogueact985	2738.75	2744.29	E	Professor	fh|s	+1	2	uh there 's a network services and applications group here who 's agreed to have their meetings recorded ,
+1	Bmr005.s.36	Problems with crashing equipment are being sorted out.
+Bmr005.E.dialogueact991	2752.75	2760.33	E	Professor	fh|s	-1	0	so , you know , {vocalsound} Adam 's sort of struggling with trying to get things to be less buggy , and come up quicker when they do crash and stuff {disfmarker} things like that ,
+5	Bmr005.s.37	Jose has completed a detailed marking and labeling of all one thousand acoustic events in the first twelve minutes of the transcribed session mentioned above.
+Bmr005.D.dialogueact328	1163.43	1169.86	D	PhD	fh|s	+1	1	And eh so eh I was eh {disfmarker} I am transcribing the {disfmarker} the first session
+Bmr005.D.dialogueact329	1170.38	1175.09	D	PhD	s	+1	0	and I {disfmarker} I have found eh , eh one thousand acoustic events ,
+Bmr005.D.dialogueact360	1274.36	1282.76	D	PhD	h|s	-1	0	Eh ? {comment} n Eh in twelve minutes I found eh , eh one thousand acoustic events .
+Bmr005.D.dialogueact619	1973.3	1981.45	D	PhD	s.%-	-1	0	Tw - twelve hours of work to {disfmarker} {vocalsound} to segment eh and label eh twelve minutes from a session of part {disfmarker} of f
+Bmr005.E.dialogueact631	2001.72	2011.09	E	Professor	s	+1	2	but you have {disfmarker} you have time uh , uh marked {disfmarker} twelve minute {disfmarker} the {disfmarker} the {disfmarker} the um overlaps in twelve minutes of it .
+1	Bmr005.s.38	He has counted three hundrend overlapping zones in the whole session.
+Bmr005.D.dialogueact364	1286.61	1290.84	D	PhD	h|s	+1	1	Eh almost eh three hundred eh in one session
+1	Bmr005.s.39	In the meantime , Adam is working on a revised interface for the transcription of these zones.
+Bmr005.B.dialogueact670	2087.67	2090.84	B	Postdoc	s	-1	0	Now , my {disfmarker} a Adam 's working on a of course , on a revised overlapping interface ,
+3	Bmr005.s.40	A simple program to locate overlapping zones automatically by -in a nutshell- detecting energy increases in the signal , is being written.
+Bmr005.E.dialogueact747	2236.62	2242.12	E	Professor	s^e.%--	+1	1	such as the increase in energy , such as the energy in the LPC residuals , such as {disfmarker}
+Bmr005.G.dialogueact797	2346.08	2347.68	G	Grad	s^rt	-1	0	I 've {disfmarker} I 've written a program to do that ,
+Bmr005.E.dialogueact862	2486.23	2490.84	E	Professor	s^cs	+1	0	And when {disfmarker} when uh Adam was doing his automatic thing he could then compare to that and see what it was different .
+1	Bmr005.s.41	Its output can be impported into Transcriber.
+Bmr005.G.dialogueact813	2371.6	2378.32	G	Grad	s	-1	0	I don't {disfmarker} what I 'm working on {disfmarker} was working on {disfmarker} was getting it to a form where we can import it into the user interface that we have , {pause} into Transcriber .
+5	Bmr005.s.42	Other potentially useful scripts , that are ready , include one for a cross-correlation filter which cleans up the original signal and some for automatic transcription of digits.
+Bmr005.B.dialogueact842	2424.36	2431.64	B	Postdoc	s^bu	-1	0	Was that um there m {pause} there was this already a script I believe uh that Dan had written , {comment} that uh handle bleedthrough ,
+Bmr005.G.dialogueact847	2444.06	2445.41	G	Grad	s^e	-1	0	It 's a cross - correlation filter .
+Bmr005.G.dialogueact848	2448.09	2452.64	G	Grad	s	-1	0	So I {disfmarker} I haven't tried that , but that {disfmarker} If {disfmarker} It {disfmarker} it might be something {disfmarker} it might be a good way of cleaning it up a little .
+Bmr005.G.dialogueact1022	2819.24	2822.61	G	Grad	s	-1	0	is I have a bunch of scripts to help with the transcription of the digits .
+Bmr005.G.dialogueact1024	2823.09	2826.77	G	Grad	s	-1	0	We don't have to hand - transcribe the digits because we 're reading them and I have those .
+2	Bmr005.s.43	Finally , a preliminary check on the usefulness of inference structures in the analysis of meetings was carried out.
+Bmr005.B.dialogueact86	583.665	590.225	B	Postdoc	fh|s	+1	1	So , I looked through the transcript that we have so far , {comment} and um , fou identified a couple different types of things of that type
+Bmr005.E.dialogueact106	680.388	700.788	E	Professor	fh|s^cs.x	+1	1	and um uh I thought that if we were going to project into the future when we had a lot of data , uh and um such things might be useful for that in or before we invested too much uh effort into that he should uh , with Jane 's help , look into some of the data that we 're {disfmarker} already have

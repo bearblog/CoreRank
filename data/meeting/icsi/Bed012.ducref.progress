@@ -1,0 +1,7 @@
+The presented Bayes-net takes inputs from the Situation , User , Discourse and Ontology models.
+There are several values ( elements ) defined in each of these models.
+The inputs are fed into the belief-net , which , in turn , outputs the posterior probabilities for the values of all the decision nodes.
+These comprise "Go-there" , "EVA" , "Info-on" , "Location" , "Timing" , etc.
+At this stage , all the decision nodes are evenly weighted: regardless of the context , each output is trusted equally.
+Input and output node structure was presented in XML , as this is the format that will be used for the system.
+A large number of the value probabilities have already been set.

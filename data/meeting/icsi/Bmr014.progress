@@ -1,0 +1,41 @@
+1	Bmr014.s.12	Two additional wireless headsets will soon be made available.
+Bmr014.C.dialogueact135	316.106	318.706	C	Grad	fh|s	+1	2	Um , the new microphones , the two new ones are in .
+3	Bmr014.s.13	Approximately 32-35 hours of meeting data have been recorded , roughly 30 hours of which comprise non-digits recordings.
+Bmr014.C.dialogueact351	707.18	708.78	C	Grad	fg|s	+1	1	Well , we have about thirty - two hours
+Bmr014.E.dialogueact365	731.587	732.597	E	Professor	s.%--	+1	1	There 's got to be more than thirty hour {disfmarker}
+Bmr014.C.dialogueact367	732.73	733.87	C	Grad	qy^bu^rt	+1	1	Of {disfmarker} of non - digits ?
+4	Bmr014.s.14	The transcribers have begun performing digit extraction ( see abstract for Bmr013 ) and should be finished within a few days.
+Bmr014.E.dialogueact270	576.11	583.91	E	Professor	qy^bu^rt	+1	1	Was {disfmarker} the decision last time was that the {disfmarker} the uh transcribers were going to be doing stuff with the digits as well ?
+Bmr014.E.dialogueact272	583.91	585.28	E	Professor	qr.%--	+1	1	Has that started , or is that {disfmarker} ?
+Bmr014.F.dialogueact273	584.048	584.208	F	Postdoc	s^aa	+1	1	Yeah .
+Bmr014.C.dialogueact286	617.23	620.52	C	Grad	s^e	+1	1	So , you know , just uh , a matter of a few days I suspect .
+1	Bmr014.s.15	Approximately 11 hours of speech have been transcribed.
+Bmr014.F.dialogueact376	741.152	746.75	F	Postdoc	s.x	+1	2	but I {pause} think it would come to about eleven hours that are finished uh , transcribing from them right now .
+8	Bmr014.s.16	Efforts by speaker fe008 are in progress to ensure that transcripts are clean ( i.e . spell checked ) , channelized , and conform to set conventions regarding the coding of numbers , acronyms , and explicit comments ( e.g . door slams , coughs , and laughter ).
+Bmr014.F.dialogueact377	747.19	754.242	F	Postdoc	s.x	+1	2	The next step is to {disfmarker} that I 'm working on is to insure that the data are clean first , and then channelized .
+Bmr014.F.dialogueact378	754.672	757.152	F	Postdoc	s.x	+1	1	What I mean by clean is that they 're spell - checked ,
+Bmr014.F.dialogueact379	757.272	759.332	F	Postdoc	s.x	+1	2	that the mark - up is consistent all the way throughout ,
+Bmr014.F.dialogueact380	759.402	772.691	F	Postdoc	s.x	+1	2	and also that we now incorporate these additional conventions that uh , Liz requested in terms of um , um {pause} in terms of having a s a systematic handling of numbers , and acronyms which I hadn't been specific about .
+Bmr014.F.dialogueact424	849.916	852.096	F	Postdoc	s^rt	+1	1	So there are numbers , then there are acronyms ,
+Bmr014.F.dialogueact425	852.446	861.946	F	Postdoc	s	+1	1	and then um , there 's a {disfmarker} he she wants the uh , actually a {disfmarker} an explicit marker of what type of comment this is ,
+Bmr014.F.dialogueact427	867.275	868.535	F	Postdoc	s^e	+1	1	like cough or like laugh or whatever ,
+Bmr014.F.dialogueact428	869.085	870.955	F	Postdoc	s	+1	1	" NONVOC " for door - slam ,
+1	Bmr014.s.17	Subsequent efforts by speaker fe008 will be to tighten up boundaries on the time bins.
+Bmr014.F.dialogueact484	999.759	1002.99	F	Postdoc	s	+1	1	the next step is to work on tightening up the boundaries of the time bins .
+1	Bmr014.s.18	Inter-annotator agreement was reported to be very good.
+Bmr014.F.dialogueact501	1030.13	1035.23	F	Postdoc	s	+1	1	and I went through it last night , it 's {disfmarker} it 's almost spooky how similar these are , word for word .
+2	Bmr014.s.19	Speaker mn014's multi-channel speech/non-speech segmenter is in use.
+Bmr014.F.dialogueact487	1003.55	1013.05	F	Postdoc	s	+1	1	And uh , Thilo had a {disfmarker} e e a breakthrough with this {disfmarker} this last week in terms of getting the channel - based um uh s s speech - nonspeech segmentation um , up and running
+Bmr014.A.dialogueact581	1176.89	1181.78	A	PhD	s	+1	1	Oh , it 's just uh , I ran the recognizer {disfmarker} uh , the {pause} {comment} speech - nonspeech detector on different channels
+1	Bmr014.s.20	The SRI recognizer will be fed with pre-segmented output to eliminate difficulties with processing overly long speech segments.
+Bmr014.A.dialogueact585	1193.19	1201.1	A	PhD	s	+1	1	as uh , apparently the recognizer had problems with those long chunks of speech , which took too much memory or whatever ,
+3	Bmr014.s.21	Efforts by speaker mn014 to normalize loudness and distinguish between foreground and background speech have been largely successful.
+Bmr014.A.dialogueact633	1282.26	1290.76	A	PhD	fg|s	+1	2	Yeah , and I {disfmarker} and I tried t to normalize uh {disfmarker} uh the features , there 's loudness and modified loudness , um , within one channel ,
+Bmr014.A.dialogueact634	1291.8	1298.03	A	PhD	s	+1	2	because they 're , {vocalsound} yeah to {disfmarker} to be able to distinguish between foreground and background speech .
+Bmr014.A.dialogueact635	1298.75	1301.08	A	PhD	s	+1	1	And it works quite well .
+5	Bmr014.s.22	The group discussed procedural issues concerning the provision of transcripts to meeting participants for 'bleeping out' any sections of speech they want excluded from the Meeting Recorder database.
+Bmr014.E.dialogueact645	1315.58	1318.28	E	Professor	s^t^tc	+1	2	the transcription part ? So I guess the next thing is this uh {disfmarker} bleep editing .
+Bmr014.C.dialogueact648	1321.74	1327.82	C	Grad	s	+1	2	We need to provide the transcripts to every participant of every meeting to give them an opportunity to bleep out sections they don't want .
+Bmr014.C.dialogueact1025	2242.22	2248.39	C	Grad	s	+1	3	" If you agree to participate you 'll have the opportunity to have anything ex anything excised , which you would prefer not to have included in the data set . "
+Bmr014.C.dialogueact1029	2254.29	2258.05	C	Grad	s	+1	3	There again you will be allowed to indicate any sections that you 'd prefer to have excised from the database ,
+Bmr014.C.dialogueact1030	2258.37	2261.24	C	Grad	s	+1	3	and they will m be removed both from the transcript and the recording . "

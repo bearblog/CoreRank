@@ -1,0 +1,25 @@
+2	Bed011.s.1	The main focus of the meeting was firstly on the structure of the belief-net , its decision nodes and the parameters that influence them , and secondly , on the design of the data collection tasks.
+Bed011.D.dialogueact45	260.48	278.41	D	Professor	fh|s	+1	1	Uh one of them is to work on the semantics of the belief - net which is going to be the main inference engine for thi the system uh making decisions .
+Bed011.D.dialogueact56	332.69	341.71	D	Professor	s	+1	1	And we 're also , sort of uh in the same process , going to work with Fey on what there should be in the dialogues .
+2	Bed011.s.2	For the latter , there are already 30 subjects lined up and more are expected to be recruited off campus.
+Bed011.C.dialogueact133	573.04	578.133	C	Grad	qy^bu^d^rt	+1	2	And um {disfmarker} And Fey has some thirty subjects lined up ?
+Bed011.D.dialogueact528	1829.09	1833.34	D	Professor	s^no	+1	1	So we {disfmarker} yeah we don't know how many we can get next door at the {disfmarker} uh shelter for example .
+3	Bed011.s.3	It was agreed that making subjects select from categories of tasks , such as "big place" , "service" , etc . could provide a better range of data.
+Bed011.C.dialogueact99	475.454	489.87	C	Grad	s	+1	3	And um {disfmarker} And then they gonna have to f um um choose from one of these tasks , which are listed here .
+Bed011.D.dialogueact217	957.554	976.97	D	Professor	s	+1	1	so if {disfmarker} if it 's one service , one luxury item , you know , one big - ish place , and so forth and so on , um {disfmarker} then my guess is that {disfmarker} that the data is going to be easier to handle .
+Bed011.E.dialogueact454	1610.16	1616.9	E	Undergrad	qy^bu^d^rt	+1	2	That w maybe one thing we should do is go through this list and sort of select things that are categories and then o offer only one member of that category ?
+1	Bed011.s.4	The duration of each dialogue will probably be no more than 10 minutes.
+Bed011.D.dialogueact416	1534.5	1535.82	D	Professor	s^ng	+1	1	I b My guess is it 's gonna be ten .
+0	Bed011.s.5	On the other hand , the organisation of the intermediate nodes of the belief-net and their properties is almost complete , although no conditional probabilities have been inserted yet.
+1	Bed011.s.6	These nodes represent decisions that will function as parameters to action calls in the system.
+Bed011.D.dialogueact46	278.48	286.76	D	Professor	s	+1	1	And decisions are going to turn out to be parameter choices for calls on other modules .
+2	Bed011.s.7	Their values will either be inferred from the user-system interaction , or -as a last resort- requested directly from the user.
+Bed011.C.dialogueact762	2293.79	2299.25	C	Grad	s	+1	1	And that we can actually infer them to a significant de degree , or we ask .
+Bed011.D.dialogueact769	2308.56	2313.63	D	Professor	s	+1	1	Or {disfmarker} eh so , y but there 's th but definitely a back - off position to asking .
+1	Bed011.s.8	Finally , as to the semantic and syntactic constructions , work will start with more general and brief descriptions , before moving to exhaustive analysis of at least a subset.
+Bed011.D.dialogueact1047	2952.44	2958.97	D	Professor	s^bk|s	+1	2	OK , Because uh {disfmarker} we do wanna get them r u perfectly {disfmarker} but I think we 're gonna have to do a first cut at a lot of them to see how they interact .
+4	Bed011.s.9	Similarly , the construction parser that is to be built within a year is expected to be relatively basic , yet robust.
+Bed011.D.dialogueact996	2849.67	2851.13	D	Professor	s	+1	1	We are expecting Johno to build a parser ,
+Bed011.D.dialogueact1003	2855.02	2860.35	D	Professor	fh|s	+1	1	Uh {disfmarker} He 's g he 's hoping to do this for his masters ' thesis s by a year from now .
+Bed011.D.dialogueact1009	2865.43	2866.7	D	Professor	s^e	+1	1	Uh {disfmarker} limited .
+Bed011.D.dialogueact1012	2868.4	2873.78	D	Professor	s	+1	1	Well , the hope is that the parser itself is , uh , pretty robust .

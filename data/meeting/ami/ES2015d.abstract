@@ -1,0 +1,132 @@
+3	ES2015d.elana.s.1	The project manager opens the meeting by stating the agenda.
+ES2015d.A.dialog-act.dharshi.7	68.16	77.41	A	PM	inf	+1	1	Um the agenda for this meeting {vocalsound} is um {disfmarker} we'll initially have the prototype presentation by our two designers .
+ES2015d.A.dialog-act.dharshi.8	77.41	84.48	A	PM	inf	+1	1	And then we will evaluate it , given the criteria that um that we gave gave it .
+ES2015d.A.dialog-act.dharshi.9	84.48	90.03	A	PM	inf	+1	1	And um talk about our finances , whether we were under or over our budget .
+2	ES2015d.elana.s.2	The designers give the prototype presentation , showing their simple design that is based on a mango.
+ES2015d.C.dialog-act.dharshi.3	131.35	133.53	C	UI	inf	+1	1	It's a pretty simple design .
+ES2015d.C.dialog-act.dharshi.4	133.53	136.85	C	UI	el.inf	+1	1	It's um based on a mango ?
+5	ES2015d.elana.s.3	They point out the company logo and LED , and demonstrate how the device is palm-held and thumb-acessible.
+ES2015d.C.dialog-act.dharshi.8	141.73	145.02	C	UI	inf	+1	1	And we have the company logo here
+ES2015d.C.dialog-act.dharshi.12	156.2	158.48	C	UI	inf	+1	1	It's in the middle of one of the little R_s .
+ES2015d.C.dialog-act.dharshi.13	158.48	161.01	C	UI	inf	+1	1	And then the other one is the power .
+ES2015d.B.dialog-act.dharshi.9	165.42	166.76	B	ID	inf	+1	1	So it's palm-held .
+ES2015d.C.dialog-act.dharshi.19	171.42	173.32	C	UI	inf	+1	1	buttons are accessible from your thumb .
+18	ES2015d.elana.s.4	They also discuss the numerical , volume , channel , and power buttons as well as the color scheme.
+ES2015d.C.dialog-act.dharshi.27	191.67	198.02	C	UI	inf	+1	1	And this is just if you've got like eleven or twelve or thirt the plus .
+ES2015d.B.dialog-act.dharshi.13	197.36	199.04	B	ID	inf	+1	1	So one plus one would be eleven ,
+ES2015d.A.dialog-act.dharshi.28	200.7	201.8	A	PM	el.inf	+1	1	You press a plus button ?
+ES2015d.A.dialog-act.dharshi.30	204.37	205.82	A	PM	inf	+1	1	I've never heard of that kind before .
+ES2015d.A.dialog-act.dharshi.41	261.19	272.99	A	PM	el.inf	+1	1	but if if I wanna go to say number like sixty five , channel sixty five , if I press the six it'll go to channel six , and then I'll press the plus , and then it'll go to six and then put the five and it'll go to sixty five ?
+ES2015d.B.dialog-act.dharshi.21	282.35	283.87	B	ID	sug	+1	1	we can further define that .
+ES2015d.B.dialog-act.dharshi.22	286.41	291.93	B	ID	ass	+1	1	I wouldn't have thought it'd be a problem that it went to channel six first , in like on the way to channel sixty five .
+ES2015d.A.dialog-act.dharshi.46	293.76	296.39	A	PM	inf	+1	1	like as long as we realise that's what it'll do .
+ES2015d.D.dialog-act.dharshi.14	294.5	298.07	D	ME	inf	+1	1	Well the there is a {disfmarker} there's a delay on remotes I think .
+ES2015d.B.dialog-act.dharshi.40	334.71	341.28	B	ID	inf	+1	2	um we went for like a a circular design for the numbers
+ES2015d.B.dialog-act.dharshi.41	341.28	346.67	B	ID	inf	+1	1	because we thought that's kind of a more natural movement than just going like that with your thumb .
+ES2015d.B.dialog-act.dharshi.58	399.4	405.75	B	ID	inf	+1	2	Okay , as for the colours , we were presented with um a limited range of colours for this prototype .
+ES2015d.B.dialog-act.dharshi.62	411.19	417.56	B	ID	inf	+1	1	that this is not necessarily a representation of the true colours that we would necessarily use .
+ES2015d.B.dialog-act.dharshi.63	418.92	428.16	B	ID	sug	+1	2	Um and we're thinking to carry-on with the fruit and vegetable theme , the colour um combination just could just be named after different fruit ,
+ES2015d.B.dialog-act.dharshi.61	405.75	411.19	B	ID	inf	+1	2	But we're thinking that , seeing as we're having it in interchangeable casing anyway ,
+ES2015d.B.dialog-act.dharshi.64	428.16	432.26	B	ID	sug	+1	2	like banana could be black and yellow , watermelon red and green ,
+ES2015d.B.dialog-act.dharshi.67	443.43	448.58	B	ID	inf	+1	1	Banana's more representative of our colour scheme , like the company {disfmarker} the yellow and black .
+ES2015d.B.dialog-act.dharshi.65	432.26	437.26	B	ID	inf	+1	1	or vanilla might be the most popular if it just uh blends in
+5	ES2015d.elana.s.5	The marketing expert administers the product evaluation , and they rate each of the ten criteria on a scale of 1-7.
+ES2015d.A.dialog-act.dharshi.94	537.21	539.87	A	PM	inf	+1	1	Evaluation criteria is next in line .
+ES2015d.D.dialog-act.dharshi.61	608.78	612.49	D	ME	inf	+1	1	Um , we're gonna be doing an evaluation report together based on the protoptype that we've just seen .
+ES2015d.D.dialog-act.dharshi.62	613.05	621.89	D	ME	inf	+1	1	Um and looking looking back at my notes from our {disfmarker} both our conceptual and our functional meetings , um I made a list of what our original requirements and goals were ,
+ES2015d.D.dialog-act.dharshi.66	629.4	634.63	D	ME	inf	+1	1	Um and we're gonna do it on a one to seven scale where one is true and seven is false .
+ES2015d.D.dialog-act.dharshi.67	634.63	636.84	D	ME	inf	+1	1	So basically the lower p the lower the points the better .
+68	ES2015d.elana.s.6	The criteria includes fancy look-and-feel , technological innovation , ease of use , look , whether people would be willing to spend 25 Euros for it , whether its operating behavior matches the average user , ease of finding when lost , ease of learning to use , whether it will minimize RSI , incorporation of company colors and logo , and whether it follows the motto.
+ES2015d.D.dialog-act.dharshi.78	658.58	660.85	D	ME	el.ass	+1	1	Do we have a fancy look-and-feel ?
+ES2015d.B.dialog-act.dharshi.83	665.22	668.38	B	ID	ass	+1	1	We've been quite successful with the rubber coating
+ES2015d.A.dialog-act.dharshi.103	670.0	672.01	A	PM	ass	+1	1	The look is a little bit more playful .
+ES2015d.D.dialog-act.dharshi.79	673.39	675.08	D	ME	ass	+1	1	Yeah I guess that depends on your definition of fancy ,
+ES2015d.B.dialog-act.dharshi.87	682.45	691.46	B	ID	inf	+1	1	I mean {vocalsound} th the colours we were given for making the prototype aren't the colours that I think we would've necessarily chosen .
+ES2015d.B.dialog-act.dharshi.93	722.48	729.784	B	ID	ass	+1	1	I mean diff if you can visualise this in nice colours I think it would look quite fancy . {vocalsound}
+ES2015d.D.dialog-act.dharshi.86	728.67	730.58	D	ME	ass	+1	1	I kinda {disfmarker} I like the potato look .
+ES2015d.D.dialog-act.dharshi.96	744.65	745.01	D	ME	el.ass	+1	1	It's a two ?
+ES2015d.D.dialog-act.dharshi.104	758.49	764.59	D	ME	el.ass	+1	1	Okay so question number two was {vocalsound} is it techn technologically innovative ?
+ES2015d.D.dialog-act.dharshi.105	764.59	767.6	D	ME	inf	+1	1	So I know we have the kinetic energy which is very innovative .
+ES2015d.B.dialog-act.dharshi.103	768.37	769.76	B	ID	inf	+1	1	and the use of the rubber .
+ES2015d.B.dialog-act.dharshi.106	777.78	780.99	B	ID	inf	+1	1	and we don't have any scroll buttons , it's all pushbuttons ,
+ES2015d.B.dialog-act.dharshi.107	780.99	782.58	B	ID	inf	+1	1	there's no L_C_D_ control ,
+ES2015d.B.dialog-act.dharshi.108	782.58	787.78	B	ID	ass	+1	1	so if we're thinking about the rest of the market , it's sort of probably halfway .
+ES2015d.D.dialog-act.dharshi.114	795.74	800.26	D	ME	inf	+1	1	we didn't want it to be any more innovative than this , because then that would've defeated the purpose .
+ES2015d.D.dialog-act.dharshi.116	801.65	802.26	D	ME	sug	+1	1	we'll put three ,
+ES2015d.D.dialog-act.dharshi.117	802.26	803.85	D	ME	ass	+1	1	but I think we actually reached our goal .
+ES2015d.D.dialog-act.dharshi.120	808.08	809.61	D	ME	el.ass	+1	1	Uh , will it be easy to use ?
+ES2015d.A.dialog-act.dharshi.125	814.56	815.72	A	PM	ass	+1	1	Yeah . One .
+ES2015d.D.dialog-act.dharshi.124	815.19	816.75	D	ME	ass	+1	1	you can't really get confused with that .
+ES2015d.A.dialog-act.dharshi.127	819.61	821.24	A	PM	und	+1	1	The plus number thing .
+ES2015d.D.dialog-act.dharshi.128	820.85	823.27	D	ME	ass	+1	1	But once that's figured out , it should be fine .
+ES2015d.D.dialog-act.dharshi.130	825.11	826.53	D	ME	el.ass	+1	1	Is this a good-looking remote ?
+ES2015d.B.dialog-act.dharshi.116	831.06	832.89	B	ID	inf	+1	1	Again I think the colour comes into this .
+ES2015d.A.dialog-act.dharshi.129	836.17	838.37	A	PM	sug	+1	1	I think that the logo could be smaller .
+ES2015d.C.dialog-act.dharshi.112	844.5	848.12	C	UI	inf	+1	1	Remember the management said that it it had to be prominent .
+ES2015d.A.dialog-act.dharshi.134	862.58	866.81	A	PM	ass	+1	1	I like the appeal of it being like a big glob in your hand .
+ES2015d.C.dialog-act.dharshi.117	869.46	871.23	C	UI	el.inf	+1	1	where's it gonna sit in your living room ?
+ES2015d.D.dialog-act.dharshi.141	874.91	877.55	D	ME	sug	+1	1	the bottom could be like ch chopped a bit .
+ES2015d.C.dialog-act.dharshi.120	877.47	880.86	C	UI	ass	+1	1	But then it wouldn't sit as comfortably in your hand {vocalsound} .
+ES2015d.D.dialog-act.dharshi.152	903.35	905.44	D	ME	el.ass	+1	1	Would we wanna show it off to our friends ? {vocalsound}
+ES2015d.D.dialog-act.dharshi.158	925.1	928.36	D	ME	el.ass	+1	1	Okay , so should we say two for that ?
+ES2015d.D.dialog-act.dharshi.163	934.29	936.88	D	ME	el.ass	+1	1	will people be willing to spend twenty five Euros on this product ?
+ES2015d.C.dialog-act.dharshi.129	941.52	945.99	C	UI	sug	+1	1	I think we have to market it in the right way , that um {disfmarker} to say that it is simplistic .
+ES2015d.C.dialog-act.dharshi.132	955.06	956.77	C	UI	ass	+1	1	And the kinetic energy part .
+ES2015d.D.dialog-act.dharshi.168	969.91	975.38	D	ME	inf	+1	1	No , I guess , I don't know much about the remote control industry , how much your average sells for ,
+ES2015d.C.dialog-act.dharshi.141	981.45	982.99	C	UI	inf	+1	1	About ten pounds .
+ES2015d.D.dialog-act.dharshi.171	982.78	984.13	D	ME	inf	+1	1	But you don't have to buy batteries .
+ES2015d.D.dialog-act.dharshi.172	984.13	986.11	D	ME	inf	+1	1	So in the long term this can actually save you money .
+ES2015d.A.dialog-act.dharshi.154	994.29	995.59	A	PM	ass	+1	1	I would give it a two still though .
+ES2015d.B.dialog-act.dharshi.140	998.896	1003.95	B	ID	el.ass	+1	1	{vocalsound} Does this prototype match the operating behaviour of the average user .
+ES2015d.C.dialog-act.dharshi.146	1006.97	1009.38	C	UI	ass	+1	1	I think it does very well .
+ES2015d.B.dialog-act.dharshi.148	1021.37	1022.8	B	ID	ass	+1	1	easy to use .
+ES2015d.D.dialog-act.dharshi.189	1031.4	1033.14	D	ME	el.ass	+1	1	Okay so one ?
+ES2015d.D.dialog-act.dharshi.193	1037.25	1039.8	D	ME	el.ass	+1	1	Will this remote control be easy to find when lost ?
+ES2015d.D.dialog-act.dharshi.196	1043.7	1046.12	D	ME	el.inf	+1	1	is the alarm system still {disfmarker} was it implemented ?
+ES2015d.B.dialog-act.dharshi.156	1051.84	1060.99	B	ID	inf	+1	1	But I mean it's not obviously obvious from the outside that that's gonna happen 'cause you can't s particularly see an alarm .
+ES2015d.A.dialog-act.dharshi.161	1060.06	1062.03	A	PM	inf	+1	1	I thought the light from the inside was gonna light up .
+ES2015d.A.dialog-act.dharshi.164	1067.29	1068.58	A	PM	inf	+1	1	You press the button it makes a noise
+ES2015d.C.dialog-act.dharshi.168	1095.2	1097.91	C	UI	inf	+1	1	It would just be a little speaker on the back or something .
+ES2015d.D.dialog-act.dharshi.207	1103.65	1104.4	D	ME	sug	+1	1	We can give it a one ,
+ES2015d.D.dialog-act.dharshi.208	1104.4	1108.24	D	ME	inf	+1	1	because compared to every other remote ever m ever made , this one will be easier to find .
+ES2015d.D.dialog-act.dharshi.211	1113.38	1115.47	D	ME	el.ass	+1	1	Will it be easy to learn how to use this remote when brand new ?
+ES2015d.D.dialog-act.dharshi.215	1119.67	1122.14	D	ME	ass	+1	1	it's eas they'll pick it up and they'll know what to do .
+ES2015d.D.dialog-act.dharshi.216	1122.14	1123.51	D	ME	ass	+1	1	The plus thing needs to be worked on .
+ES2015d.D.dialog-act.dharshi.227	1161.42	1164.03	D	ME	el.ass	+1	1	we'll say yes it's uh one ?
+ES2015d.D.dialog-act.dharshi.230	1168.28	1170.37	D	ME	el.ass	+1	1	Uh , will it minimise the effects of R_S_I_ ,
+ES2015d.A.dialog-act.dharshi.182	1178.45	1178.87	A	PM	ass	+1	1	I think so .
+ES2015d.B.dialog-act.dharshi.186	1184.86	1189.79	B	ID	sug	+1	1	We may have to do some more research into other strain injuries that we don't know about .
+ES2015d.D.dialog-act.dharshi.244	1221.9	1223.88	D	ME	ass	+1	1	Two okay .
+ES2015d.D.dialog-act.dharshi.246	1225.18	1228.06	D	ME	el.ass	+1	1	Did we somehow incorporate the company colour and logo ?
+ES2015d.A.dialog-act.dharshi.195	1244.62	1247.77	A	PM	inf	+1	1	Well , yeah the colours are yellow and grey .
+ES2015d.A.dialog-act.dharshi.196	1247.77	1249.63	A	PM	sug	+1	1	So it could be grey on the banana one .
+ES2015d.B.dialog-act.dharshi.200	1261.54	1262.8	B	ID	ass	+1	1	I think this is the
+ES2015d.B.dialog-act.dharshi.201	1264.29	1270.38	B	ID	ass	+1	1	the factor that we've been least successful in confronting .
+ES2015d.B.dialog-act.dharshi.203	1286.71	1287.79	B	ID	ass	+1	1	Four I think .
+ES2015d.D.dialog-act.dharshi.266	1298.09	1302.19	D	ME	el.ass	+1	1	{vocalsound} Um , did we stay true to our motto and put the fashion into electronics ?
+ES2015d.A.dialog-act.dharshi.202	1308.92	1310.83	A	PM	ass	+1	1	But maybe more like two
+2	ES2015d.elana.s.7	They average the scores and get 1.9.
+ES2015d.A.dialog-act.dharshi.212	1360.159	1364.61	A	PM	el.inf	+1	1	{vocalsound} Alright so based on this evaluation , do we average them out sorta thing ?
+ES2015d.A.dialog-act.dharshi.221	1425.26	1426.48	A	PM	inf	+1	1	Yeah it is one point nine .
+7	ES2015d.elana.s.8	They check the product costing and find that their operating cost is 12.20 Euros.
+ES2015d.A.dialog-act.dharshi.256	1532.34	1538.01	A	PM	sug	+1	1	So we need to tally up how much our w our product will be costing .
+ES2015d.A.dialog-act.dharshi.261	1553.64	1555.39	A	PM	inf	+1	2	Um we're using a regular chip .
+ES2015d.A.dialog-act.dharshi.266	1556.88	1560.79	A	PM	inf	+1	2	Um , it's cur it's double curved , so its curved all around .
+ES2015d.A.dialog-act.dharshi.265	1563.58	1567.48	A	PM	inf	+1	2	Um , we're using plastic and rubber ,
+ES2015d.A.dialog-act.dharshi.274	1581.75	1584.84	A	PM	inf	+1	2	So it's like special colour {disfmarker} well we'll have two colours
+ES2015d.A.dialog-act.dharshi.276	1585.27	1588.11	A	PM	inf	+1	1	Well one colour for the case , one colour for the buttons .
+ES2015d.A.dialog-act.dharshi.284	1615.3	1622.38	A	PM	inf	+1	1	So um our operating cost is twelve twenty Euros .
+10	ES2015d.elana.s.9	In evaluating the project process they are pleased with their creativity , leadership , timing , teamwork , discussions , and overall product given the resources they had.
+ES2015d.B.dialog-act.dharshi.253	1678.02	1687.62	B	ID	inf	+1	1	I mean we weren't really given a lot of time , or materials , yeah , to go about our design task .
+ES2015d.D.dialog-act.dharshi.303	1708.31	1711.97	D	ME	ass	+1	1	Like we were very creative in in coming up with an idea I guess , but m
+ES2015d.B.dialog-act.dharshi.260	1713.93	1723.2	B	ID	inf	+1	1	and like if we had decided to use the L_C_D_ screen , and like solar power backup and everything , then we wouldn't have been able to afford that .
+ES2015d.D.dialog-act.dharshi.309	1738.064	1743.21	D	ME	ass	+1	1	{vocalsound} Good leadership , I think we stayed on task .
+ES2015d.B.dialog-act.dharshi.272	1752.32	1755.64	B	ID	ass	+1	1	and also our personal coach helped us along the way ,
+ES2015d.D.dialog-act.dharshi.313	1758.28	1761.587	D	ME	ass	+1	1	We never were pushed for time , or sat around doing nothing , so {disfmarker}
+ES2015d.A.dialog-act.dharshi.315	1766.11	1767.7	A	PM	ass	+1	1	I think we worked great as a team .
+ES2015d.A.dialog-act.dharshi.318	1787.45	1789.4	A	PM	ass	+1	1	We needed more Play Doh colours .
+ES2015d.D.dialog-act.dharshi.321	1805.08	1806.37	D	ME	ass	+1	1	The computer programmes are good .
+ES2015d.D.dialog-act.dharshi.331	1856.49	1858.99	D	ME	ass	+1	1	Yeah well I guess we really {disfmarker} it {disfmarker} we bounced off of each other ,
+2	ES2015d.elana.s.10	They close the meeting by thanking one another.
+ES2015d.B.dialog-act.dharshi.302	1915.04	1916.15	B	ID	ass	+1	1	Fantastic .
+ES2015d.B.dialog-act.dharshi.304	1921.57	1922.03	B	ID	be.pos	+1	1	Thank you very much . {vocalsound}

@@ -1,0 +1,199 @@
+6	TS3010b.s9553330.s.1	The project manager opened the meeting by explaining how to locate his minutes from the previous meeting.
+TS3010b.A.dialog-act.s9553330.2	109.11	113.03	A	PM	stl	+1	1	So welcome back .
+TS3010b.A.dialog-act.s9553330.6	121.53	124.97	A	PM	inf	+1	1	first . I want to say I'm the secretary ,
+TS3010b.A.dialog-act.s9553330.7	124.97	127.41	A	PM	inf	+1	1	so I make the minutes .
+TS3010b.A.dialog-act.s9553330.8	127.41	135.17	A	PM	inf	+1	1	You find them in your {disfmarker} in the map in the From the group .
+TS3010b.A.dialog-act.s9553330.9	135.17	137.34	A	PM	inf	+1	1	There's the minutes from the first meeting .
+TS3010b.A.dialog-act.s9553330.10	137.34	140.46	A	PM	inf	+1	1	You'll find the next minutes also there .
+53	TS3010b.s9553330.s.2	The Industrial Designer briefly explained the internal workings of the remote ,  and mentioned his preferences for power source and case material.
+TS3010b.A.dialog-act.s9553330.18	167.62	183.371	A	PM	el.sug	+1	1	So first I wanna ask the {disfmarker} {vocalsound} Industrial Designer to tell what he did . So {disfmarker}
+TS3010b.C.dialog-act.s9553330.32	376.17	379.22	C	ID	inf	+1	1	It's a little difficult what I'm gonna tell you .
+TS3010b.C.dialog-act.s9553330.33	379.22	382.6	C	ID	inf	+1	1	It's about the working of the remote control .
+TS3010b.C.dialog-act.s9553330.34	382.6	385.13	C	ID	inf	+1	1	I just had an half an hour j to study it
+TS3010b.C.dialog-act.s9553330.35	385.13	387.48	C	ID	inf	+1	1	and {vocalsound} I don't get it .
+TS3010b.C.dialog-act.s9553330.38	394.49	397.26	C	ID	inf	+1	1	First uh I will tell you something about the findings ,
+TS3010b.C.dialog-act.s9553330.39	397.26	399.77	C	ID	inf	+1	1	what I discovered about the remote control .
+TS3010b.C.dialog-act.s9553330.41	402.94	405.75	C	ID	inf	+1	1	Uh then I'll have uh some kind of map ,
+TS3010b.C.dialog-act.s9553330.42	405.75	409.25	C	ID	inf	+1	1	and it's the top of the remote control .
+TS3010b.C.dialog-act.s9553330.48	419.44	431.11	C	ID	inf	+1	1	The remote control is a very difficult uh thing to uh to explain to just all of you wh who haven't seen a remote control uh inside .
+TS3010b.C.dialog-act.s9553330.49	431.11	433.33	C	ID	inf	+1	1	Uh there's a lot of uh plastic on it ,
+TS3010b.C.dialog-act.s9553330.50	433.33	436.7	C	ID	inf	+1	1	um because its uh not so expensive .
+TS3010b.C.dialog-act.s9553330.51	437.46	441.11	C	ID	inf	+1	1	And there are uh a lot of uh wires ,
+TS3010b.C.dialog-act.s9553330.52	441.11	445.31	C	ID	inf	+1	1	uh which um connect the components in it ,
+TS3010b.C.dialog-act.s9553330.54	445.99	450.39	C	ID	inf	+1	1	and there are um switches and things like that .
+TS3010b.C.dialog-act.s9553330.55	450.39	452.83	C	ID	inf	+1	1	There's a lot of small uh electronics .
+TS3010b.C.dialog-act.s9553330.56	452.83	457.25	C	ID	inf	+1	1	So it won't be um uh too expensive to build it .
+TS3010b.C.dialog-act.s9553330.57	457.25	460.95	C	ID	inf	+1	1	Only twelve Euro fifty I think uh we will make it .
+TS3010b.C.dialog-act.s9553330.59	464.01	467.92	C	ID	inf	+1	1	And here I have the top of the remote control .
+TS3010b.C.dialog-act.s9553330.60	467.92	469.61	C	ID	inf	+1	1	Uh here's some kind of chip .
+TS3010b.C.dialog-act.s9553330.61	469.61	473.04	C	ID	inf	+1	1	Uh on top of this , there are uh the numbers .
+TS3010b.C.dialog-act.s9553330.62	473.04	475.98	C	ID	inf	+1	1	Uh you have all on your remote control .
+TS3010b.C.dialog-act.s9553330.63	475.98	478.48	C	ID	inf	+1	1	And uh the teletext uh button .
+TS3010b.C.dialog-act.s9553330.64	478.48	481.73	C	ID	inf	+1	1	And uh here's the battery .
+TS3010b.C.dialog-act.s9553330.65	482.16	488.01	C	ID	inf	+1	1	And when you push the button , it will uh will be sent to the chip .
+TS3010b.C.dialog-act.s9553330.66	488.01	495.18	C	ID	inf	+1	1	And the chip will um send it to all kind of sub-components .
+TS3010b.C.dialog-act.s9553330.73	514.72	516.01	C	ID	off	+1	1	My preferences ?
+TS3010b.C.dialog-act.s9553330.75	518.93	519.97	C	ID	sug	+1	1	We shouldn't make it too big .
+TS3010b.C.dialog-act.s9553330.76	521.72	526.63	C	ID	sug	+1	1	Uh also for the cost , uh we should only put one battery on it .
+TS3010b.C.dialog-act.s9553330.77	526.63	529.03	C	ID	sug	+1	1	A long-lasting battery .
+TS3010b.C.dialog-act.s9553330.78	529.03	532.8	C	ID	sug	+1	1	Uh also for the cost , uh use only plastic .
+TS3010b.C.dialog-act.s9553330.80	534.91	539.22	C	ID	sug	+1	1	Also because of the cost , uh not too much buttons on it .
+TS3010b.C.dialog-act.s9553330.81	539.41	544.66	C	ID	sug	+1	1	We can also make uh a button uh with a {gap} {disfmarker} menu uh button .
+TS3010b.C.dialog-act.s9553330.82	544.66	549.0	C	ID	sug	+1	1	And then um that that you will see it on the T_V_ .
+TS3010b.C.dialog-act.s9553330.85	555.47	558.73	C	ID	inf	+1	1	And the bleep signal , y uh you told us .
+TS3010b.C.dialog-act.s9553330.86	558.73	564.18	C	ID	sug	+1	1	Uh but we can also use it uh a bleep like something , when the battery's empty , then there is a bleep .
+TS3010b.C.dialog-act.s9553330.88	567.79	571.53	C	ID	inf	+1	1	And also the bleep , when {disfmarker} what I told you about uh when you lost it ,
+TS3010b.C.dialog-act.s9553330.89	571.53	575.09	C	ID	sug	+1	1	and you push a button , and then you hear bleep bleep , and we will find it .
+TS3010b.A.dialog-act.s9553330.54	579.97	581.32	A	PM	inf	+1	1	The battery .
+TS3010b.A.dialog-act.s9553330.55	581.32	584.09	A	PM	inf	+1	1	You say one battery is cheaper .
+TS3010b.C.dialog-act.s9553330.92	585.6	591.36	C	ID	inf	+1	1	If we w if we use only just one uh small pen-light , then it will be cheaper than when we use two .
+TS3010b.A.dialog-act.s9553330.58	592.15	594.86	A	PM	inf	+1	1	when you use two , you can use it two times longer .
+TS3010b.C.dialog-act.s9553330.94	596.54	604.07	C	ID	inf	+1	1	then we'll have to make the um remote control uh long lasting .
+TS3010b.A.dialog-act.s9553330.60	607.67	609.51	A	PM	inf	+1	1	Okay and the buttons .
+TS3010b.A.dialog-act.s9553330.61	609.51	615.73	A	PM	inf	+1	1	When you use it on the television , you've {disfmarker} you need the television , wh which can use it .
+TS3010b.C.dialog-act.s9553330.98	618.26	626.46	C	ID	inf	+1	1	But uh I think this {disfmarker} our remote control is for the televisions we uh we sell in our company ?
+TS3010b.C.dialog-act.s9553330.99	626.46	630.49	C	ID	sug	+1	1	Or is it also for other company {disfmarker} uh for other televisions ?
+TS3010b.A.dialog-act.s9553330.63	632.77	635.99	A	PM	ass	+1	1	I think we have to use it also on other televisions though .
+TS3010b.C.dialog-act.s9553330.101	638.65	642.29	C	ID	sug	+1	1	Maybe just a menu button to use it on our televisions .
+TS3010b.A.dialog-act.s9553330.66	651.2	653.7	A	PM	inf	+1	1	They are two different things though .
+TS3010b.A.dialog-act.s9553330.67	653.7	654.87	A	PM	inf	+1	1	We have to choose one .
+TS3010b.A.dialog-act.s9553330.68	656.12	658.85	A	PM	inf	+1	1	It has to work on o uh all televisions .
+TS3010b.C.dialog-act.s9553330.105	661.02	667.39	C	ID	inf	+1	1	Then I think uh the menu button uh will only work on the newer televisions .
+25	TS3010b.s9553330.s.3	He also suggested mobile phone-like changeable covers , and the group discussed the profit in this.
+TS3010b.C.dialog-act.s9553330.109	676.98	679.88	C	ID	inf	+1	1	And I just uh have one more idea .
+TS3010b.C.dialog-act.s9553330.111	682.25	692.5	C	ID	sug	+1	1	But {disfmarker} Uh , to have a trendy remote control , we can also um make something like the Nokia um mobile phones . To change covers .
+TS3010b.C.dialog-act.s9553330.112	693.11	700.57	C	ID	sug	+1	1	So if you have uh a trendy half with all red , uh yellow and something . And then you can put a red cover on it .
+TS3010b.D.dialog-act.s9553330.12	704.26	706.2	D	ME	el.inf	+1	1	Will this will this add to the cost ?
+TS3010b.C.dialog-act.s9553330.115	707.43	712.79	C	ID	inf	+1	1	Uh then it won't be {disfmarker} uh will have just one cover on the uh original one .
+TS3010b.C.dialog-act.s9553330.116	712.79	714.11	C	ID	inf	+1	1	And then you can buy the covers .
+TS3010b.D.dialog-act.s9553330.14	715.6	717.77	D	ME	inf	+1	1	but you have to m uh be able to change it .
+TS3010b.D.dialog-act.s9553330.15	717.77	719.91	D	ME	el.inf	+1	1	D does it make it more difficult to design ?
+TS3010b.C.dialog-act.s9553330.117	720.81	723.24	C	ID	inf	+1	1	I think it will be a little more difficult ,
+TS3010b.C.dialog-act.s9553330.118	723.24	724.48	C	ID	inf	+1	1	but not too much .
+TS3010b.C.dialog-act.s9553330.119	725.49	728.57	C	ID	inf	+1	1	Just like with the Nokia uh mobile phones .
+TS3010b.A.dialog-act.s9553330.72	728.07	732.42	A	PM	inf	+1	1	Yeah but there are much more Nokia telephones than um these ones .
+TS3010b.C.dialog-act.s9553330.122	738.09	740.75	C	ID	inf	+1	1	If it won't works then we'll get something else .
+TS3010b.C.dialog-act.s9553330.123	740.75	742.75	C	ID	inf	+1	1	Then we uh won't g uh go further with it .
+TS3010b.A.dialog-act.s9553330.74	743.2	747.44	A	PM	el.inf	+1	1	Yeah but are their profits bigger than their cost ?
+TS3010b.C.dialog-act.s9553330.124	749.08	754.35	C	ID	inf	+1	1	Uh a p a {disfmarker} {vocalsound} a cover made in uh in China , it it won't be I guess so expensive I think .
+TS3010b.A.dialog-act.s9553330.75	754.88	757.89	A	PM	inf	+1	1	Yeah but there are also design cost .
+TS3010b.A.dialog-act.s9553330.78	765.87	767.31	A	PM	el.inf	+1	1	Would you change the cover ?
+TS3010b.C.dialog-act.s9553330.126	766.52	768.24	C	ID	inf	+1	1	I wi I won't .
+TS3010b.C.dialog-act.s9553330.127	768.24	770.08	C	ID	inf	+1	1	But maybe I think trendy people
+TS3010b.C.dialog-act.s9553330.128	770.08	772.49	C	ID	inf	+1	1	or like children where you can paint on it ,
+TS3010b.A.dialog-act.s9553330.81	776.97	782.48	A	PM	ass	+1	1	I think that too less people would change it for good profit . So {disfmarker}
+TS3010b.B.dialog-act.s9553330.6	793.63	797.06	B	UI	inf	+1	1	I'm not sure if it will make profit enough to uh {disfmarker}
+TS3010b.B.dialog-act.s9553330.7	797.06	800.032	B	UI	ass	+1	1	But it's uh yeah it's uh original idea . {vocalsound}
+TS3010b.A.dialog-act.s9553330.84	800.63	802.65	A	PM	inf	+1	1	but I don't think we have to do it .
+16	TS3010b.s9553330.s.4	The User Interface Designer very briefly mentioned some features a remote should have and suggested it should be multifunctional.
+TS3010b.B.dialog-act.s9553330.13	837.59	847.2	B	UI	inf	+1	1	Yes well uh uh I shall give a short talk about the the technical function design .
+TS3010b.B.dialog-act.s9553330.14	847.2	855.08	B	UI	inf	+1	1	{vocalsound} Um I thought the the the technical function design was uh to uh {disfmarker} for a remote control to to to have some influence on the T_V_ set .
+TS3010b.B.dialog-act.s9553330.17	861.84	867.22	B	UI	inf	+1	1	And uh well , it all by pushing a button on the remote .
+TS3010b.B.dialog-act.s9553330.19	872.44	875.43	B	UI	inf	+1	1	Uh I find some uh some interesting quotes on the web .
+TS3010b.B.dialog-act.s9553330.21	877.51	880.06	B	UI	inf	+1	1	Uh message to the television .
+TS3010b.B.dialog-act.s9553330.22	881.5	891.34	B	UI	inf	+1	1	And uh and and and well basic uh operations like on and off , and uh switching channels , and uh {disfmarker} and maybe uh teletext or something like that .
+TS3010b.B.dialog-act.s9553330.24	896.68	900.17	B	UI	inf	+1	1	well these are two uh remotes ,
+TS3010b.B.dialog-act.s9553330.25	900.17	902.944	B	UI	ass	+1	1	and that's our uh our dilemma I think . Uh {disfmarker}
+TS3010b.B.dialog-act.s9553330.27	907.46	916.72	B	UI	sug	+1	1	But uh shall we make a basic remote control , uh just uh swapping channels and volume and uh power button and well nothing much more .
+TS3010b.B.dialog-act.s9553330.28	916.86	921.57	B	UI	sug	+1	1	Or uh uh more functions on the remote .
+TS3010b.B.dialog-act.s9553330.29	921.57	925.72	B	UI	sug	+1	1	Uh maybe more devices you can influence .
+TS3010b.B.dialog-act.s9553330.30	925.72	930.09	B	UI	sug	+1	1	Uh a radio or a v a video recorder , uh V_C_R_ .
+TS3010b.B.dialog-act.s9553330.33	933.22	935.52	B	UI	el.sug	+1	1	Um any ideas about that ?
+TS3010b.B.dialog-act.s9553330.34	936.72	938.99	B	UI	el.sug	+1	1	Basic or multifunctional ?
+TS3010b.A.dialog-act.s9553330.90	939.37	941.09	A	PM	inf	+1	1	We'll got back on that later .
+TS3010b.B.dialog-act.s9553330.37	943.75	948.88	B	UI	inf	+1	1	So uh I didn't know what uh what way we would go .
+49	TS3010b.s9553330.s.5	The Marketing Expert present the findings of the usability study.
+TS3010b.A.dialog-act.s9553330.92	961.06	963.7	A	PM	inf	+1	1	Then it's your turn , the marketing expert .
+TS3010b.D.dialog-act.s9553330.29	1001.1	1006.13	D	ME	inf	+1	1	So I'm uh gonna have a presentation about um the market ,
+TS3010b.D.dialog-act.s9553330.31	1009.01	1014.41	D	ME	inf	+1	1	Uh we did a usability lab-test with a hundred persons .
+TS3010b.D.dialog-act.s9553330.32	1014.41	1017.21	D	ME	inf	+1	1	And we looked at uh several um things .
+TS3010b.D.dialog-act.s9553330.33	1017.21	1018.64	D	ME	inf	+1	1	Uh among them design ,
+TS3010b.D.dialog-act.s9553330.35	1022.42	1026.19	D	ME	inf	+1	1	uh what frustrations they had while using remote controls .
+TS3010b.D.dialog-act.s9553330.39	1039.37	1044.5	D	ME	inf	+1	1	Uh our users , they disliked the look and feel of current remote controls .
+TS3010b.D.dialog-act.s9553330.40	1047.14	1051.24	D	ME	inf	+1	1	Um uh they especially found found them very ugly .
+TS3010b.D.dialog-act.s9553330.41	1051.24	1057.34	D	ME	inf	+1	1	And um th they also found them hard to to learn how to use it .
+TS3010b.D.dialog-act.s9553330.42	1057.34	1059.6	D	ME	inf	+1	1	Uh well they also zap a lot .
+TS3010b.D.dialog-act.s9553330.44	1063.33	1069.81	D	ME	inf	+1	1	And uh fifty percent of the users only use ten percent of the buttons .
+TS3010b.D.dialog-act.s9553330.45	1069.81	1072.95	D	ME	inf	+1	1	So a lot of unused buttons .
+TS3010b.D.dialog-act.s9553330.50	1082.55	1086.31	D	ME	inf	+1	1	Well uh the most used button is the channel selection .
+TS3010b.D.dialog-act.s9553330.52	1092.53	1096.66	D	ME	inf	+1	1	The power , volume and channel selections are very relevant .
+TS3010b.D.dialog-act.s9553330.53	1096.66	1099.97	D	ME	inf	+1	1	Uh teletext is uh less relevant but also important .
+TS3010b.D.dialog-act.s9553330.54	1100.66	1104.31	D	ME	inf	+1	1	Uh not important they found the audio ,
+TS3010b.D.dialog-act.s9553330.55	1104.31	1110.58	D	ME	inf	+1	1	uh that's not the volume but uh specific the the pitch , or the left or right .
+TS3010b.D.dialog-act.s9553330.56	1110.58	1118.54	D	ME	inf	+1	1	Uh the screen and the brightness . And uh channel settings . Uh th and they also are not used very often .
+TS3010b.D.dialog-act.s9553330.58	1122.85	1127.71	D	ME	inf	+1	1	Uh here we can see what the market share is of uh several groups .
+TS3010b.D.dialog-act.s9553330.57	1118.54	1122.85	D	ME	inf	+1	1	Then we have a few um graphs about the market .
+TS3010b.D.dialog-act.s9553330.59	1129.65	1135.48	D	ME	inf	+1	1	Um as you can see , most users are uh between thirty six and forty five .
+TS3010b.D.dialog-act.s9553330.60	1135.48	1141.59	D	ME	inf	+1	1	Um the the the younger group between sixteen and twenty five is not very big .
+TS3010b.D.dialog-act.s9553330.61	1141.59	1150.86	D	ME	inf	+1	1	And to come back on the the swapping uh things , uh I don't think uh , I {vocalsound} I think the younger will be most interest in it .
+TS3010b.D.dialog-act.s9553330.63	1155.57	1161.23	D	ME	inf	+1	1	Um in the {gap} we asked them , uh how would you like a s a new feature .
+TS3010b.D.dialog-act.s9553330.64	1161.23	1165.4	D	ME	inf	+1	1	If you have an L_C_D_ on the remote control , what would you think of it .
+TS3010b.D.dialog-act.s9553330.65	1166.11	1171.63	D	ME	inf	+1	1	Now you can clearly see young users say {gap} . I will {disfmarker} that would very nice .
+TS3010b.D.dialog-act.s9553330.66	1171.63	1176.07	D	ME	inf	+1	1	And older user think uh they will be scared of change {vocalsound} I think .
+TS3010b.D.dialog-act.s9553330.68	1177.87	1183.31	D	ME	inf	+1	1	And another thing , how would you like to have a speech recognition on it .
+TS3010b.D.dialog-act.s9553330.70	1185.15	1188.55	D	ME	inf	+1	1	Young users uh think that's an interesting idea .
+TS3010b.D.dialog-act.s9553330.71	1188.55	1191.92	D	ME	inf	+1	1	And old users not .
+TS3010b.D.dialog-act.s9553330.72	1191.92	1198.56	D	ME	inf	+1	1	Uh well we uh found out that there are two {disfmarker} several markets at which we can aim .
+TS3010b.D.dialog-act.s9553330.73	1198.56	1200.48	D	ME	inf	+1	1	Uh the first are the younger ,
+TS3010b.D.dialog-act.s9553330.78	1200.48	1203.6	D	ME	inf	+1	1	the age between sixteen and forty five .
+TS3010b.D.dialog-act.s9553330.74	1203.6	1207.93	D	ME	inf	+1	1	Uh they are highly interested in the features , as you can see uh here .
+TS3010b.D.dialog-act.s9553330.76	1216.49	1219.19	D	ME	inf	+1	1	Uh the second group is the older group .
+TS3010b.D.dialog-act.s9553330.77	1219.19	1222.5	D	ME	inf	+1	1	Aged between forty six and sixty five .
+TS3010b.D.dialog-act.s9553330.79	1222.5	1225.64	D	ME	inf	+1	1	They are less interested in uh new features .
+TS3010b.D.dialog-act.s9553330.80	1225.64	1228.12	D	ME	inf	+1	1	But uh they spend their money more easily .
+TS3010b.D.dialog-act.s9553330.84	1244.18	1248.12	D	ME	inf	+1	1	Well then I come to my uh personal preferences .
+TS3010b.D.dialog-act.s9553330.85	1248.12	1253.51	D	ME	inf	+1	1	Uh yeah the first question is uh {disfmarker} also we have to ask is at the which market do we aim at .
+TS3010b.D.dialog-act.s9553330.86	1255.3	1261.19	D	ME	inf	+1	1	Uh of course n uh saying we aim at the young group doesn't say that old people won't buy it .
+TS3010b.D.dialog-act.s9553330.90	1267.8	1274.63	D	ME	inf	+1	1	What I thought , um even young people say it's hard to use , remote control .
+TS3010b.D.dialog-act.s9553330.91	1274.63	1283.92	D	ME	inf	+1	1	So if you make a remote control that is uh very easy to use , that's especially aimed at this group , even uh the young group will also be more interested .
+TS3010b.D.dialog-act.s9553330.94	1291.8	1296.32	D	ME	ass	+1	1	But when use it , uh I don't know what's uh good thing of speech recognition .
+TS3010b.D.dialog-act.s9553330.96	1301.86	1306.59	D	ME	inf	+1	1	Uh less important functions should be discarded from the remote control .
+TS3010b.D.dialog-act.s9553330.98	1311.23	1313.99	D	ME	inf	+1	1	You can find most functions on a T_V_ set .
+TS3010b.D.dialog-act.s9553330.99	1316.14	1324.97	D	ME	inf	+1	1	So uh you don't have to have a lot of audio options , or screen options to change the brightness . And such things .
+TS3010b.D.dialog-act.s9553330.101	1327.43	1337.65	D	ME	inf	+1	1	One thing I did not say I think , is that a lot of users also said then I would uh buy a good looking uh remote control if there will be one .
+TS3010b.D.dialog-act.s9553330.103	1342.23	1346.15	D	ME	inf	+1	1	So the design of our remote control is very important .
+7	TS3010b.s9553330.s.6	The group then discussed their target group ,and what features they might include to attract them.
+TS3010b.C.dialog-act.s9553330.143	1358.03	1372.42	C	ID	inf	+1	1	If we aim for the younger people , um and there will be uh a lot of features like L_C_D_ or the the the speech uh f recognising , uh the cost will be a lot of h uh a lot higher .
+TS3010b.C.dialog-act.s9553330.144	1372.42	1377.44	C	ID	inf	+1	1	Uh I think we don't have that in our budget .
+TS3010b.B.dialog-act.s9553330.43	1378.86	1385.84	B	UI	ass	+1	1	And I don't uh I don't think twenty five Euros for a remote is really cheap or something .
+TS3010b.B.dialog-act.s9553330.44	1385.84	1394.98	B	UI	inf	+1	1	So it's {disfmarker} Yeah , it's hard to uh get the younger group .
+TS3010b.A.dialog-act.s9553330.96	1394.66	1398.12	A	PM	inf	+1	1	I think uh the L_C_D_ is cheaper than speech recognition .
+TS3010b.A.dialog-act.s9553330.105	1431.46	1435.16	A	PM	inf	+1	1	Uh we go {gap} {disfmarker} back on the decisions later .
+TS3010b.A.dialog-act.s9553330.97	1398.12	1402.56	A	PM	inf	+1	1	So I think that can be an d good option . L_C_D_ .
+14	TS3010b.s9553330.s.7	The manager introduced new requirements to the project , insisting they were to be followed.
+TS3010b.A.dialog-act.s9553330.106	1435.16	1439.24	A	PM	inf	+1	1	Now we have a few new product requirements .
+TS3010b.A.dialog-act.s9553330.107	1439.24	1441.38	A	PM	inf	+1	1	First , teletext .
+TS3010b.A.dialog-act.s9553330.108	1441.38	1445.43	A	PM	inf	+1	1	We have internet now so we don't need the teletext anymore .
+TS3010b.A.dialog-act.s9553330.109	1445.43	1450.08	A	PM	inf	+1	1	So not necessary .
+TS3010b.A.dialog-act.s9553330.111	1452.95	1453.94	A	PM	inf	+1	1	Only for the television .
+TS3010b.A.dialog-act.s9553330.112	1453.94	1458.86	A	PM	inf	+1	1	So we don't look at the other things like the radio or something .
+TS3010b.A.dialog-act.s9553330.114	1465.72	1468.87	A	PM	inf	+1	1	We look at the age group of forty plus .
+TS3010b.A.dialog-act.s9553330.115	1468.87	1471.22	A	PM	inf	+1	1	Uh no , younger than forty .
+TS3010b.A.dialog-act.s9553330.120	1485.75	1488.65	A	PM	inf	+1	1	Our corporate colour and slogan must be used .
+TS3010b.A.dialog-act.s9553330.122	1490.89	1492.61	A	PM	inf	+1	1	So you can see it on our site .
+TS3010b.D.dialog-act.s9553330.114	1549.54	1553.9	D	ME	ass	+1	1	I uh personally think uh teletext is a good option .
+TS3010b.A.dialog-act.s9553330.133	1563.56	1566.93	A	PM	inf	+1	1	It's a {disfmarker} {vocalsound} new requirement .
+TS3010b.A.dialog-act.s9553330.132	1561.53	1563.56	A	PM	inf	+1	1	Yeah but we don't use it .
+TS3010b.C.dialog-act.s9553330.152	1575.52	1577.21	C	ID	inf	+1	1	No discussion about it .
+21	TS3010b.s9553330.s.8	The group then discussed what buttons they might need , which included menu , numbers , channel and volume changing arrows and mute.
+TS3010b.A.dialog-act.s9553330.127	1529.45	1532.7	A	PM	inf	+1	1	Now we have to decide what controls do we need .
+TS3010b.D.dialog-act.s9553330.111	1536.39	1542.09	D	ME	sug	+1	1	Yeah maybe we can first have a discussion uh on the the product requirements you just uh said .
+TS3010b.B.dialog-act.s9553330.49	1590.7	1592.1	B	UI	sug	+1	1	Well a power button ?
+TS3010b.B.dialog-act.s9553330.50	1600.56	1607.04	B	UI	sug	+1	2	Uh the well um I think separate channels . So {disfmarker}
+TS3010b.B.dialog-act.s9553330.52	1615.28	1618.15	B	UI	sug	+1	2	So so uh zero to nine or something .
+TS3010b.B.dialog-act.s9553330.53	1622.98	1624.35	B	UI	sug	+1	2	Uh volume .
+TS3010b.C.dialog-act.s9553330.156	1687.25	1688.6	C	ID	inf	+1	2	To move up , move down .
+TS3010b.D.dialog-act.s9553330.124	1691.59	1692.85	D	ME	el.inf	+1	2	Do we make a menu ?
+TS3010b.A.dialog-act.s9553330.163	1695.61	1696.76	A	PM	inf	+1	2	Uh yes
+TS3010b.D.dialog-act.s9553330.127	1736.74	1741.97	D	ME	sug	+1	2	I think it will be um q quite easy to use , to have uh uh four arrows .
+TS3010b.D.dialog-act.s9553330.128	1741.97	1743.6	D	ME	sug	+1	2	Up-down for channel selection ,
+TS3010b.D.dialog-act.s9553330.129	1743.6	1746.69	D	ME	sug	+1	2	and left-right uh for volume .
+TS3010b.D.dialog-act.s9553330.131	1749.97	1752.43	D	ME	sug	+1	2	And if you press the menu button you get into the menu ,
+TS3010b.A.dialog-act.s9553330.173	1758.3	1761.55	A	PM	el.inf	+1	1	On the L_C_D_ screen , you mean ?
+TS3010b.D.dialog-act.s9553330.134	1762.85	1770.14	D	ME	inf	+1	1	Uh well yeah that depends on if you have uh the menu on the T_V_ . Or you get the menu on the L_C_D_ screen on the remote control .
+TS3010b.A.dialog-act.s9553330.174	1770.15	1774.11	A	PM	inf	+1	1	Think it's better to have it on the remote control ,
+TS3010b.C.dialog-act.s9553330.157	1780.25	1781.91	C	ID	inf	+1	1	But then we come to the costs .
+TS3010b.D.dialog-act.s9553330.137	1792.0	1806.05	D	ME	inf	+1	1	But well if you aim at the younger market , um a as they as uh s uh as we seen in the usability uh lab , uh they will buy a nice looking um remote control .
+TS3010b.D.dialog-act.s9553330.139	1812.84	1824.28	D	ME	inf	+1	1	So if we have a L_C_D_ sh uh screen , and uh not too many buttons , I think that will incre uh uh even when it's a bit more cost , it will still sell .
+TS3010b.A.dialog-act.s9553330.181	1833.77	1834.55	A	PM	el.ass	+1	1	Is this enough ?
+TS3010b.B.dialog-act.s9553330.57	1836.09	1836.57	B	UI	sug	+1	2	Mute .

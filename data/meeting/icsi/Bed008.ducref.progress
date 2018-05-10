@@ -1,0 +1,9 @@
+A simulator of the set of influence links forming the belief-net was created and put up for discussion.
+Different sections of the analysis , such as the user model , the ontology and the discourse are represented as a layer of nodes each with its own EVA probabilities.
+They form endpoints to which other nodes like Go-there , User_Budget , User_Thrift and Prosody feed into.
+The second presentation concerned the set of computational rules that are to be used with the net.
+The simple way to decide on the final output is the majority vote ( which E , V or A form the majority of the parent nodes' outputs ).
+This assumes that all inputs are of equal importance.
+Alternatively , each input can be weighted in a fixed way.
+A third option is to create a hidden variable that makes the decision of which of the inputs is more trusted in a particular situation.
+The same variable can potentially also change the weighting of each input.

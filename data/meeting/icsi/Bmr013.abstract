@@ -1,0 +1,19 @@
+2	Bmr013.s.1	The Berkeley Meeting Recorder group discussed the collection status for a set of connected digits recordings that are nearly complete and ready to be trained on a recognizer.
+Bmr013.F.dialogueact26	149.582	153.332	F	Grad	fg|s^tc	+1	2	OK well , the , w uh as you can see from the numbers on the digits we 're almost done .
+Bmr013.F.dialogueact32	174.803	179.343	F	Grad	s^cs	+1	2	And so , once we 're {disfmarker} it 's done it would be very nice to train up a recognizer and actually start working with this data .
+3	Bmr013.s.2	Anticipated results were discussed in reference to results obtained for other digits corpora , i.e . Aurora and TI-digits.
+Bmr013.C.dialogueact98	370.66	380.01	C	Professor	fg|s	+1	1	Yeah just by way of uh , uh , a uh , order of magnitude , uh , um , we 've been working with this Aurora , uh data set .
+Bmr013.C.dialogueact99	380.57	393.31	C	Professor	s	+1	1	And , uh , the best score , on the , nicest part of the data , that is , where you 've got training and test set that are basically the same kinds of noise and so forth , uh , is about ,
+Bmr013.C.dialogueact101	394.45	399.559	C	Professor	s	+1	2	I think the best score was something like five percent , uh , error , per digit .
+4	Bmr013.s.3	The group also considered the prospect of performing fine-grained acoustic-phonetic analyses on a subset of Meeting Recorder digits or Switchboard data.
+Bmr013.C.dialogueact197	587.57	599.432	C	Professor	s	+1	2	One question I have that {disfmarker} that I mean , we wouldn't know the answer to now but might , do some guessing , but I was talking before about doing some model modeling of arti uh , uh , marking of articulatory , features , with overlap and so on .
+Bmr013.C.dialogueact201	603.51	608.01	C	Professor	s	+1	2	One thought might be to do this uh , on {disfmarker} on the digits , or some piece of the digits .
+Bmr013.C.dialogueact515	1418.61	1424.8	C	Professor	s^cs	+1	3	So , I mean another way to look at this is to , is to , uh , do some stuff on Switchboard which has all this other , stuff to it .
+Bmr013.C.dialogueact516	1424.93	1432.77	C	Professor	fh|s^cs	+1	1	And then , um , As we get , further down the road and we can do more things ahead of time , we can , do some of the same things to the meeting data .
+1	Bmr013.s.4	Pre-segmentation manipulations that allow for the segmentation of channel-specific speech/non-speech portions of the signal and the distinction of foreground versus background speech were discussed.
+Bmr013.A.dialogueact565	1524.78	1535.49	A	PhD	fg|s^rt	+1	2	Uh , oh yeah , um , {vocalsound} I worked a little bit on the {disfmarker} on the presegmentation to {disfmarker} to get another version which does channel - specific , uh , speech - nonspeech detection .
+4	Bmr013.s.5	Finally , speaker fe008 and fe016 reported on new efforts to adapt transcriptions to the needs of the SRI recognizer , including conventions for encoding acronyms , numbers , ambient noise , and unidentified inbreaths.
+Bmr013.B.dialogueact862	2228.05	2229.87	B	Postdoc	s	+1	2	also we discussed some adaptational things ,
+Bmr013.B.dialogueact866	2230.73	2236.58	B	Postdoc	fh|s	+1	2	uh {disfmarker} You know I hadn't , uh , incorporated , a convention explicitly to handle acronyms , for example ,
+Bmr013.B.dialogueact875	2256.18	2259.18	B	Postdoc	s	+1	2	And then , a similar conv uh , convention for numbers .
+Bmr013.G.dialogueact903	2359.09	2363.98	G	PhD	s	+1	2	So if they hear a breath and they don't know who breath it is it 's better to put it in that channel than to put it in the speaker 's channel

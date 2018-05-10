@@ -1,0 +1,17 @@
+0	TS3003d.vkaraisk.s.13	The prototype will use a rechargable battery.
+1	TS3003d.vkaraisk.s.14	The case will be plastic and will be made in single-curve form.
+TS3003d.D.dialog-act.vkaraisk.76	1365.7	1368.03	D	ME	ass	+1	1	I still think we should go for the single curve design .
+0	TS3003d.vkaraisk.s.15	Five buttons are going to be used: one for channel selection , one for volume (both assisted by the scrollwheel) , teletext , on-off and help button.
+0	TS3003d.vkaraisk.s.16	These would be made of rubber in a colour different from that of the case.
+0	TS3003d.vkaraisk.s.17	Their functionality will be enriched by the use of a scrollwheel (going up or down the channel list , changing the volume , etc.).
+2	TS3003d.vkaraisk.s.18	Standard buttons like the ones for teletext shortcuts were considered superfluous.
+TS3003d.A.dialog-act.vkaraisk.218	1259.8	1275.4	A	PM	inf	+1	2	So we make one for the volume , one for the channel . Plus scroll .
+TS3003d.A.dialog-act.vkaraisk.194	1044.56	1047.8	A	PM	el.ass	+1	2	can't we integrate the teletext and the subtitles in one button ?
+3	TS3003d.vkaraisk.s.19	An LCD screen will be providing functional information , and context tips when using the scrollwheel.
+TS3003d.A.dialog-act.vkaraisk.171	954.16	958.56	A	PM	sug	+1	2	If you scroll you will see the numbers on the L_C_D_ display .
+TS3003d.A.dialog-act.vkaraisk.203	1122.75	1124.45	A	PM	inf	+1	2	And we can keep our L_C_D_ screen ,
+TS3003d.A.dialog-act.vkaraisk.204	1124.45	1130.97	A	PM	inf	+1	2	which can provide extra information . How to use the scroll wheel . How to use the other bu buttons as subtitles .
+3	TS3003d.vkaraisk.s.20	The revised prototype will probably be targeted to a younger one , or even across the population.
+TS3003d.D.dialog-act.vkaraisk.217	2374.15	2382.45	D	ME	inf	+1	2	if we're n gonna make a scroll-button anyway it'd be more for the younger people than for the older people .
+TS3003d.D.dialog-act.vkaraisk.218	2382.45	2384.05	D	ME	sug	+1	2	So maybe we should just re-focus .
+TS3003d.A.dialog-act.vkaraisk.433	2385.17	2387.89	A	PM	el.inf	+1	2	Just put it on the market for everybody .

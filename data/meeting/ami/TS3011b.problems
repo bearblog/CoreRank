@@ -1,0 +1,32 @@
+1	TS3011b.vkaraisk.s.24	LED's would signify extra energy consumption.
+TS3011b.B.dialog-act.vkaraisk.62	628.54	632.38	B	UI	el.inf	+1	1	if we use the LEDs , i does it use much more energy
+2	TS3011b.vkaraisk.s.25	Power-saving LED's are available , but these could be more expensive.
+TS3011b.C.dialog-act.vkaraisk.81	632.96	635.09	C	ID	inf	+1	1	they're p f uh power friendly LEDs also .
+TS3011b.C.dialog-act.vkaraisk.84	639.15	641.95	C	ID	inf	+1	1	Uh no , they're uh they're a little bit more expensive ,
+3	TS3011b.vkaraisk.s.26	It's difficult to choose a technique to find a lost remote.
+TS3011b.D.dialog-act.vkaraisk.36	777.86	786.24	D	ME	sug	+1	2	So we might want to build in a feature to uh support them . Some uh audio signal . Like uh home phones .
+TS3011b.B.dialog-act.vkaraisk.106	971.71	977.76	B	UI	inf	+1	1	I don't think people would bother walking to the T_V_ and press that button because they lost the {disfmarker} their remote .
+TS3011b.C.dialog-act.vkaraisk.112	835.21	840.12	C	ID	inf	+1	1	There's no um elaborate technique uh used in this uh kind of equipment .
+2	TS3011b.vkaraisk.s.27	They cannot install a special button on a TV , and using a special signal , like clapping , is tricky , because it needs to be differentiated from normal sounds.
+TS3011b.A.dialog-act.vkaraisk.121	867.63	869.9	A	PM	sug	+1	1	maybe maybe like clapping in your hands ,
+TS3011b.C.dialog-act.vkaraisk.139	928.26	931.42	C	ID	el.inf	+1	1	Because how can you separate the clapping sound from other sounds .
+3	TS3011b.vkaraisk.s.28	Similarly , using an extra base station would probably be too costly.
+TS3011b.B.dialog-act.vkaraisk.103	959.44	969.53	B	UI	sug	+1	1	But we can have just uh uh a home stat uh f a base station next to the T_V_ . Just a little antenna or uh something .
+TS3011b.B.dialog-act.vkaraisk.108	1004.374	1009.03	B	UI	ass	+1	1	{gap} just a base station next to the T_V_ is the best possibility .
+TS3011b.C.dialog-act.vkaraisk.162	1007.74	1009.92	C	ID	inf	+1	1	But that will be very costly , I think .
+1	TS3011b.vkaraisk.s.29	Adding such features may complicate the design and escalate costs.
+TS3011b.C.dialog-act.vkaraisk.168	1032.96	1043.1	C	ID	inf	+1	1	But um before I do that I w I want to warn you that uh by implementing this kind of a function the technical design will become more complicated
+4	TS3011b.vkaraisk.s.30	There was a challenge regarding the need of the digit channels , based on the fact that they are not often used , and they also look dull.
+TS3011b.A.dialog-act.vkaraisk.230	1552.44	1556.79	A	PM	el.ass	+1	1	And and do we want um the ten digits ?
+TS3011b.B.dialog-act.vkaraisk.172	1568.93	1574.43	B	UI	ass	+1	1	I wouldn't buy it personally . A remote control without the ten digits .
+TS3011b.C.dialog-act.vkaraisk.262	1609.88	1613.67	C	ID	ass	+1	1	But I think these uh ten uh buttons look a bit dull .
+TS3011b.A.dialog-act.vkaraisk.249	1680.83	1688.01	A	PM	sug	+1	1	Uh {disfmarker} If if we would um drop the ten digits
+1	TS3011b.vkaraisk.s.31	Despite that , customers may want them to be on a remote; furthermore , they can be designed in a more attractive way.
+TS3011b.A.dialog-act.vkaraisk.238	1620.56	1623.17	A	PM	sug	+1	1	You c {vocalsound} you can d make them very fancy
+2	TS3011b.vkaraisk.s.32	The discussion also focused on their replacement with speech recognition , as the latter helps with locating the remote as well.
+TS3011b.C.dialog-act.vkaraisk.274	1658.26	1661.56	C	ID	sug	+1	1	maybe it can be combined with the find the remote control .
+TS3011b.C.dialog-act.vkaraisk.276	1663.31	1671.7	C	ID	inf	+1	3	when you add uh speech recognition to your remote control , uh it's very easy to change uh the channel . That's one thing .
+1	TS3011b.vkaraisk.s.33	However , this solution may prove too expensive.
+TS3011b.C.dialog-act.vkaraisk.279	1678.08	1680.81	C	ID	inf	+1	1	but I'm afraid it will be a bit costly .
+1	TS3011b.vkaraisk.s.34	An expanded target group may have to be taken into account in order to achieve the projected sales and profits.
+TS3011b.A.dialog-act.vkaraisk.283	1874.65	1886.95	A	PM	el.inf	+1	1	although we are focussing on younger people uh to make it uh profitable uh {disfmarker} Profitable . We we {disfmarker} yeah , we still need to take in account the the bit older people .

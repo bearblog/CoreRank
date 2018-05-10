@@ -1,0 +1,35 @@
+This is a relatively short meeting of the Meeting Recorder group , with only a few agenda items.
+Transcription was discussed briefly because Jane was not present , however this appears to be progressing well in parallel with IBM.
+Web pages have been set up to show transcription status and to allow participants to approve transcripts.
+DARPA demos are progressing well with the back-end indexed to allow front-end filtering , and a potential demo ideas investigated which would use X Waves.
+Transcriber is now working for Windows , however live pitch contours may not work in the time available.
+Backed-up disk space is now fine , however temporary space is running out fast.
+Interim measures are discussed while sysadmin are away.
+Improvement has been made in the final version of the PLP , which shows better female performance , and combined with Mel Ceptra offers 1.5% improvement.
+Digit performance also improved thanks to training using scripted speech data.
+Progress has also been made in SRI alignment for tandem system.
+The group note that the annual report needs to be worked on for next week , and it is also suggested to hold recognition meetings separately , however these issues will be discussed in more detail at the next meeting.
+Jane will be contacted to see whether transcribers could work on a small amount of SmartKom data , in order to get the project moving.
+Details of the transcription status web page will be sent to the group.
+Participants will be contacted to approve transcripts or suggest edits , however this depends upon decisions regarding disk space and ( un )compression of audio files.
+There are disk space problems regarding scratch space , although the group decide that a solution about adding extra drives cannot be resolved without talking to sysadmin.
+Until they can be contacted , the group will use the hard drives on each other's machines.
+Displaying pitch contours live in Transcriber would be desirable for the demo , however , if the group run out of time , the group note that they could generate this statically using Powerpoint.
+The group decide that it may be more beneficial to have separate meetings to discuss recognition , since Jane and Liz are less likely to be interested in this.
+They will discuss this with them before going ahead.
+Scratch disk space used to store the uncompressed meetings when they are being processed is getting short - the group are using 98%.
+Various options are suggested about adding extra drives , externally to their machines , or to the server , but these cannot be resolved until after the relevant sysadmin person returns from a break in 10 days time.
+Time is getting tight for some of the demo development , especially a lack of Tcl-TK skills slowing up back-end progress.
+Additionally , time constraints may impinge upon the "live-ness" of the Transcriber pitch contour demo.
+Annual report is due next week , so this will need to be discussed at the next meeting.
+The group are still waiting for IBM to return transcripts next week.
+This is not holding the group up , since parallel transcription is being used , and new transcribers have been recruited.
+The web page detailing transcription status is working and being updated when possible.
+Backed-up disk space has been seen as a priority by sysadmin , and the group are now only using 30% of this.
+DARPA demos are progressing , with indexing added to the back-end , which will allow the front end to do filtering.
+Transcriber has been developed to run on a Windows machine , with further development being undertaken to add a pitch contour display.
+There is also the potential for a demo to be developed from X Waves.
+The final version of PLP has been tested which shows similar performance as the system with the Mel Ceptra front-end ( although performance for males is slightly , but non-significantly better ).
+Combining the two systems gives a 1.5% improvement in performance.
+There has also been some improvement with digits , by training the system on read speech data , rather than training solely on TI digits or TIMIT data.
+Progress is being made with SRI system alignment , with label files converted to train the net.

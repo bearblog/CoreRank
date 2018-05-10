@@ -1,0 +1,11 @@
+A detailed diagram of the belief-net had already been disseminated.
+Its structure was discussed during the meeting.
+There are several endpoints ( User , Ontology , Discourse etc ) with separate EVA ( Enter/View/Approach ) values.
+Details of how different inputs feed into them were discussed at length.
+Ideas mentioned included grouping features of buildings like "selling" , "fixing" and "exhibiting" , as well as creating a User-compatibility node that would take different values depending on the situation and the user status.
+Similarly , a Go-there ( towards a building ) node can be influenced by things like the user's budget and discourse parameters amongst other things.
+The latter are still ill-defined at this stage.
+The study of the linguistic constructions that people use in this kind of navigational domain is expected to be prove useful in that respect.
+As each node in the tree is the decision point of the combination of its parent nodes , which rules govern this combination is an important issue.
+There are several approaches ranging from simply averaging the inputs to using a hidden variable in order to weight them differently depending on context.
+If the latter architecture is used , the net could -to an extent- be trained with the data that is currently being collected.

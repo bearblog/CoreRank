@@ -1,0 +1,14 @@
+5	Bmr005.s.12	Three hundred overlapping acoustic events have been found in forty-five minutes of speech.
+Bmr005.E.dialogueact361	1274.64	1277.6	E	Professor	qw	+1	0	How many overlaps were there uh in it ?
+Bmr005.D.dialogueact364	1286.61	1290.84	D	PhD	h|s	+1	1	Eh almost eh three hundred eh in one session
+Bmr005.D.dialogueact366	1291.03	1293.39	D	PhD	s^e	+1	0	in five {disfmarker} eh in forty - five minutes .
+Bmr005.E.dialogueact440	1475.12	1480.18	E	Professor	s^bu	-1	0	So again , that 's {disfmarker} that 's three {disfmarker} three hundred in forty - five minutes that are {disfmarker} that are speakers , just speakers .
+Bmr005.D.dialogueact457	1492.01	1495.63	D	PhD	s	+1	0	I {disfmarker} I con I consider {disfmarker} I consider acoustic events eh , the silent too .
+5	Bmr005.s.13	Speaker me011 has written a bootstrapping program.
+Bmr005.G.dialogueact797	2346.08	2347.68	G	Grad	s^rt	-1	0	I 've {disfmarker} I 've written a program to do that ,
+Bmr005.G.dialogueact802	2349.87	2352.52	G	Grad	fh|s	-1	0	and {disfmarker} so {disfmarker} but it 's {disfmarker} it 's doing something very , very simple .
+Bmr005.G.dialogueact803	2352.53	2355.88	G	Grad	s^e	-1	0	It just takes a threshold , based on {disfmarker} on the volume ,
+Bmr005.G.dialogueact809	2359.48	2363.12	G	Grad	fg|s^e	-1	0	um , and then it does a median filter , and then it looks for runs .
+Bmr005.G.dialogueact810	2364.09	2365.38	G	Grad	s	-1	0	And , it seems to work ,
+1	Bmr005.s.14	About twelve hours of meetings have already been recorded.
+Bmr005.E.dialogueact1163	3371.98	3375.69	E	Professor	s	+1	1	we have {disfmarker} we have twelve hours that 's recorded but not transcribed ,

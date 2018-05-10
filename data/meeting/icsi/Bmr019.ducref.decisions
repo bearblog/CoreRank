@@ -1,0 +1,5 @@
+For comparing Meeting Recorder digits results , it was decided that the Aurora HTK-based system should be tested on data from the TI digits corpus.
+The script for extracting speaker ID information will require modifications to obtain a more accurate estimation of the amount of data recorded per speaker.
+Subsequent recognition experiments will look at large vocabulary speech from a far-field microphone ( as performed in Switchboard evaluations ).
+Hand-marked , word-level alignments are needed to reveal speaker boundaries and tune the parameters of the model.
+Modifications to the Transcriber tool are required for allowing transcribers to simultaneously view the signal in XWaves and see where words are located in time.

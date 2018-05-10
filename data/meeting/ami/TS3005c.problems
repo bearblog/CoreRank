@@ -1,0 +1,83 @@
+10	TS3005c.rdhillon.s.15	What shape the remote should be.
+TS3005c.B.dialog-act.vkaraisk.90	1107.09	1109.22	B	UI	sug	+1	2	Perhaps you could find something in the middle .
+TS3005c.C.dialog-act.vkaraisk.153	1110.26	1112.24	C	ID	ass	+1	2	round corners , but s but square , yeah .
+TS3005c.A.dialog-act.vkaraisk.40	1112.77	1114.48	A	PM	inf	+1	2	But maybe then both groups won't buy it .
+TS3005c.B.dialog-act.vkaraisk.98	1138.02	1141.75	B	UI	inf	+1	2	So it's a bit square , but it's also a bit uh round .
+TS3005c.B.dialog-act.vkaraisk.133	1273.72	1276.41	B	UI	sug	+1	2	So we should first decide about shape , I think .
+TS3005c.C.dialog-act.vkaraisk.186	1300.7	1302.28	C	ID	sug	+1	2	but I think it should be larger .
+TS3005c.B.dialog-act.vkaraisk.151	1345.42	1347.68	B	UI	inf	+1	2	Looks a bit like a Game Boy now . {vocalsound}
+TS3005c.D.dialog-act.vkaraisk.183	1646.11	1650.95	D	ME	el.ass	+1	2	the shapes is something between the square shapes with round colo corners and a round shapes ?
+TS3005c.D.dialog-act.vkaraisk.185	1654.2	1658.88	D	ME	inf	+1	2	I think it's more round than square . {vocalsound}
+TS3005c.B.dialog-act.vkaraisk.187	1659.97	1662.11	B	UI	sug	+1	2	But I think it should be a bit longer , perhaps .
+9	TS3005c.rdhillon.s.16	Whether to use hard or soft rubber.
+TS3005c.D.dialog-act.vkaraisk.88	1217.48	1220.46	D	ME	el.sug	+1	2	So we have to decide if we're going to use
+TS3005c.D.dialog-act.vkaraisk.89	1221.64	1225.79	D	ME	el.sug	+1	2	real hard rubber , or soft rubber . Or something something between that .
+TS3005c.C.dialog-act.vkaraisk.174	1226.5	1227.01	C	ID	und	+1	2	Soft rubber .
+TS3005c.D.dialog-act.vkaraisk.98	1238.29	1244.66	D	ME	sug	+1	2	like like like a a eraser or something . That's the bit you can press it in ,
+TS3005c.D.dialog-act.vkaraisk.101	1253.6	1254.11	D	ME	ass	+1	2	Yeah it's quite hard
+TS3005c.D.dialog-act.vkaraisk.102	1254.11	1255.02	D	ME	inf	+1	2	but you can press it in .
+TS3005c.B.dialog-act.vkaraisk.179	1633.73	1635.2	B	UI	el.ass	+1	2	but but a hard rubber like this ?
+TS3005c.B.dialog-act.vkaraisk.180	1635.2	1636.06	B	UI	el.ass	+1	2	Or softer rubber
+TS3005c.C.dialog-act.vkaraisk.262	1636.38	1637.59	C	ID	ass	+1	2	Uh hard rubber I think .
+4	TS3005c.rdhillon.s.17	Whether to include a pen to use with the touchscreen on the remote.
+TS3005c.A.dialog-act.vkaraisk.49	1389.96	1392.65	A	PM	sug	+1	3	And we won't include a a pen , or something to point ,
+TS3005c.A.dialog-act.vkaraisk.51	1392.88	1394.39	A	PM	sug	+1	2	we we want to do it with our fingers ,
+TS3005c.C.dialog-act.vkaraisk.217	1396.21	1399.92	C	ID	inf	+1	2	Because if you lose the pen uh if you lose the pen uh you can't use {disfmarker}
+TS3005c.B.dialog-act.vkaraisk.156	1400.92	1404.32	B	UI	oth	+1	2	Yeah o yeah {gap} , if they think it's handy to use a pen .
+7	TS3005c.rdhillon.s.18	What sort of batteries to use.
+TS3005c.D.dialog-act.vkaraisk.147	1461.91	1465.9	D	ME	sug	+1	3	Maybe it's better to to include rechargeable batteries
+TS3005c.A.dialog-act.vkaraisk.73	1462.94	1465.25	A	PM	inf	+1	3	We already decided that on the previous meeting .
+TS3005c.D.dialog-act.vkaraisk.148	1465.9	1468.07	D	ME	sug	+1	3	which you can recharge through the docking station .
+TS3005c.D.dialog-act.vkaraisk.150	1469.34	1470.59	D	ME	inf	+1	2	if the badg the batteries are dead
+TS3005c.D.dialog-act.vkaraisk.151	1471.79	1473.49	D	ME	inf	+1	2	then you can re you can uh change them .
+TS3005c.B.dialog-act.vkaraisk.168	1484.32	1486.98	B	UI	sug	+1	2	{vocalsound} but it should be th I think normal batteries ,
+TS3005c.D.dialog-act.vkaraisk.159	1489.4	1493.42	D	ME	ass	+1	3	normal plain batteries you can buy at the supermarket or retail shop . Yeah .
+7	TS3005c.rdhillon.s.19	Whether the remote requires a CPU.
+TS3005c.D.dialog-act.vkaraisk.178	1591.76	1594.26	D	ME	inf	+1	2	I think they don't need that big of C_P_U_ .
+TS3005c.D.dialog-act.vkaraisk.177	1589.8	1591.76	D	ME	ass	+1	2	Yeah , it's quite a simple L_C_D_ screen .
+TS3005c.D.dialog-act.vkaraisk.174	1579.81	1583.136	D	ME	ass	+1	2	Mm , I don't I dunno I don't think that's {disfmarker}
+TS3005c.A.dialog-act.vkaraisk.87	1577.77	1579.29	A	PM	ass	+1	2	you need some kind of C_P_U_ , I guess .
+TS3005c.C.dialog-act.vkaraisk.253	1593.62	1599.75	C	ID	inf	+1	2	but it the the remote control has to know whether you're in a settings menu or just uh you just want to turn up the volume .
+TS3005c.C.dialog-act.vkaraisk.254	1605.39	1611.28	C	ID	inf	+1	2	So it has to have some kind of a calculation unit or C_P_U_
+TS3005c.A.dialog-act.vkaraisk.89	1617.97	1622.02	A	PM	inf	+1	2	Because we're projecting projecting the buttons on the L_C_D_ screen .
+15	TS3005c.rdhillon.s.20	Position of buttons.
+TS3005c.D.dialog-act.vkaraisk.219	1815.67	1818.67	D	ME	sug	+1	2	The other buttons and on here {vocalsound} the top .
+TS3005c.D.dialog-act.vkaraisk.217	1798.79	1811.65	D	ME	ass	+1	2	I think it's it's easier to have it something like {disfmarker} Oh a button uh minus here , plus over here . A minus here , plus over here .
+TS3005c.C.dialog-act.vkaraisk.289	1785.51	1787.86	C	ID	ass	+1	2	If you make the screen vertical it doesn't matter .
+TS3005c.D.dialog-act.vkaraisk.210	1760.87	1765.91	D	ME	el.ass	+1	2	Isn't it better to have the sound and the general buttons horizontal ?
+TS3005c.B.dialog-act.vkaraisk.225	1835.1	1838.06	B	UI	ass	+1	2	I think I would put a plus and a min uh here .
+TS3005c.B.dialog-act.vkaraisk.226	1838.06	1839.8	B	UI	ass	+1	2	And then the P_ in the mid in the middle
+TS3005c.B.dialog-act.vkaraisk.240	1887.64	1890.65	B	UI	off	+1	2	But I'm going to look if I've got some examples
+TS3005c.C.dialog-act.vkaraisk.300	1881.8	1884.624	C	ID	sug	+1	2	We'll leave that to the usability engineering then . {vocalsound}
+TS3005c.C.dialog-act.vkaraisk.305	1921.22	1924.032	C	ID	inf	+1	2	So not how much {disfmarker} n not how often it's used , but {disfmarker}
+TS3005c.B.dialog-act.vkaraisk.250	1924.29	1926.25	B	UI	el.inf	+1	2	W what's what's usual or normal .
+TS3005c.D.dialog-act.vkaraisk.243	1938.26	1940.29	D	ME	inf	+1	2	because I have two televisions at home .
+TS3005c.D.dialog-act.vkaraisk.244	1940.29	1941.39	D	ME	inf	+1	2	One is horizontal ,
+TS3005c.D.dialog-act.vkaraisk.245	1941.39	1942.03	D	ME	inf	+1	2	one is vertical ,
+TS3005c.C.dialog-act.vkaraisk.309	1942.41	1943.84	C	ID	inf	+1	2	it does it doesn't really matter ,
+TS3005c.A.dialog-act.vkaraisk.108	1978.91	1981.17	A	PM	sug	+1	2	I think we have we don't have to decide about that now
+9	TS3005c.rdhillon.s.21	Position of a microphone on the remote.
+TS3005c.B.dialog-act.vkaraisk.273	2009.1	2011.32	B	UI	sug	+1	2	But then you should also find a place {disfmarker}
+TS3005c.B.dialog-act.vkaraisk.274	2011.32	2015.55	B	UI	sug	+1	2	You could if you do it like this you could put it in a corner or something .
+TS3005c.C.dialog-act.vkaraisk.324	2019.84	2021.44	C	ID	sug	+1	2	you can make a very sensitive microphone ,
+TS3005c.A.dialog-act.vkaraisk.118	2027.62	2032.6	A	PM	sug	+1	2	maybe at the bottom where you can can hel hold it with you hand that there's also a microphone uh
+TS3005c.C.dialog-act.vkaraisk.328	2034.83	2037.34	C	ID	ass	+1	2	But that's not import I think that's not im very important
+TS3005c.B.dialog-act.vkaraisk.284	2052.38	2056.48	B	UI	sug	+1	2	You could p you could put it in a logo of the company . {vocalsound}
+TS3005c.D.dialog-act.vkaraisk.266	2056.79	2058.53	D	ME	sug	+1	2	between the round of the R_ .
+TS3005c.A.dialog-act.vkaraisk.130	2087.82	2090.18	A	PM	inf	+1	2	because a microphone is very small thing ,
+TS3005c.A.dialog-act.vkaraisk.131	2090.18	2091.94	A	PM	inf	+1	2	but you can make it look like it's big
+14	TS3005c.rdhillon.s.22	Color of remote.
+TS3005c.C.dialog-act.vkaraisk.369	2229.94	2230.93	C	ID	el.inf	+1	2	what's the standard colour ?
+TS3005c.D.dialog-act.vkaraisk.299	2233.34	2234.19	D	ME	inf	+1	2	we have different colour .
+TS3005c.B.dialog-act.vkaraisk.318	2235.02	2236.64	B	UI	sug	+1	2	You should you should have a black one
+TS3005c.B.dialog-act.vkaraisk.319	2236.64	2238.71	B	UI	inf	+1	2	because uh I think black is standard .
+TS3005c.D.dialog-act.vkaraisk.302	2241.25	2243.62	D	ME	sug	+1	2	Dark grey , something like this this colour or something .
+TS3005c.D.dialog-act.vkaraisk.305	2249.14	2250.89	D	ME	ass	+1	2	I think it's better to have silver nowadays .
+TS3005c.D.dialog-act.vkaraisk.307	2255.25	2258.65	D	ME	ass	+1	2	Yeah the the silver black are our main colours . Yeah .
+TS3005c.A.dialog-act.vkaraisk.157	2265.39	2266.72	A	PM	el.ass	+1	2	w what about a yellow thing ,
+TS3005c.D.dialog-act.vkaraisk.311	2267.83	2269.5	D	ME	sug	+1	2	it'll be a banana yellow , we have .
+TS3005c.D.dialog-act.vkaraisk.313	2273.07	2275.63	D	ME	sug	+1	2	Green , wood , brown .
+TS3005c.C.dialog-act.vkaraisk.382	2273.25	2279.15	C	ID	ass	+1	2	But if you use uh silver , uh rubber s silver rubber isn't fancy .
+TS3005c.A.dialog-act.vkaraisk.163	2297.74	2300.43	A	PM	sug	+1	2	I would think about colours like uh red , yellow , green , blue ,
+TS3005c.D.dialog-act.vkaraisk.318	2300.71	2307.07	D	ME	sug	+1	2	The fruity colours and the autumn colours , like red and brown , {gap} dark red and brown .
+TS3005c.B.dialog-act.vkaraisk.329	2311.74	2313.808	B	UI	el.ass	+1	2	And and do we have to have a normal black one , or uh {disfmarker}

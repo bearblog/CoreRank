@@ -1,0 +1,60 @@
+7	ES2003a.rdhillon.s.1	The team members introduced themselves to each other by name and by their roles in the project.
+ES2003a.B.dialog-act.vkaraisk.4	6.65	7.55	B	PM	inf	+1	1	my name's Adam Duguid ,
+ES2003a.C.dialog-act.vkaraisk.2	13.6	15.21	C	ME	inf	+1	1	Ebenezer Ademesoye .
+ES2003a.C.dialog-act.vkaraisk.7	26.3	28.26	C	ME	inf	+1	1	I'm the Marketing Expert .
+ES2003a.D.dialog-act.vkaraisk.1	34.34	36.3	D	ID	inf	+1	1	Tarik Rahman . T_A_R_I_K_ .
+ES2003a.D.dialog-act.vkaraisk.2	39.84	40.86	D	ID	inf	+1	1	Industrial Designer .
+ES2003a.A.dialog-act.vkaraisk.1	49.38	50.77	A	UI	inf	+1	1	Uh , Dave Cochrane .
+ES2003a.B.dialog-act.vkaraisk.18	53.02	54.55	B	PM	inf	+1	1	And you're going to be the User Interface ,
+15	ES2003a.rdhillon.s.2	The project manager introduced the upcoming project to the team and then the team members participated in an exercise in which they drew their favorite animal and discussed why they liked the animal.
+ES2003a.B.dialog-act.vkaraisk.22	63.0	70.17	B	PM	inf	+1	1	This is the agenda for today's meeting . As you can see , w opening , acquaintance , tool training , project plan discussion , and closing .
+ES2003a.B.dialog-act.vkaraisk.25	76.26	78.87	B	PM	inf	+1	1	the reason we're here , we're gonna design a new remote control ,
+ES2003a.B.dialog-act.vkaraisk.27	81.4	85.24	B	PM	inf	+1	1	The very broad overview is original , trendy , and user-friendly .
+ES2003a.B.dialog-act.vkaraisk.33	107.73	109.27	B	PM	inf	+1	1	We're gonna have the three kay phases ,
+ES2003a.B.dialog-act.vkaraisk.35	110.87	115.0	B	PM	inf	+1	1	the functional , architectural , and the detailed design . Um {disfmarker}
+ES2003a.B.dialog-act.vkaraisk.36	119.1	123.67	B	PM	inf	+1	1	First one's gonna be covering the user requirement spec , technical functions , working design .
+ES2003a.B.dialog-act.vkaraisk.37	123.67	126.98	B	PM	inf	+1	1	Second seems to be conceptual components , properties , materials ,
+ES2003a.B.dialog-act.vkaraisk.38	126.98	131.85	B	PM	inf	+1	1	and the last one is a detailed analysis of our design so far .
+ES2003a.B.dialog-act.vkaraisk.42	139.33	143.48	B	PM	el.ass	+1	1	Ebenezer , you wanna have a {disfmarker} you wanna draw your favourite animal {vocalsound} ?
+ES2003a.C.dialog-act.vkaraisk.17	215.353	217.16	C	ME	inf	+1	1	{vocalsound} Here we have an elephant .
+ES2003a.B.dialog-act.vkaraisk.46	247.45	252.65	B	PM	el.ass	+1	1	Tarik , would you like to have a shot at a bit of artistry ?
+ES2003a.D.dialog-act.vkaraisk.15	393.91	396.32	D	ID	inf	+1	1	Uh , here we have a tiger . Uh {disfmarker}
+ES2003a.B.dialog-act.vkaraisk.63	429.69	433.99	B	PM	sug	+1	1	Dave , if you'd like to uh have a dash .
+ES2003a.A.dialog-act.vkaraisk.3	439.24	564.21	A	UI	inf	+1	1	Um {disfmarker} {vocalsound} Um , the monkey , um .
+ES2003a.B.dialog-act.vkaraisk.68	662.03	664.87	B	PM	ass	+1	1	but uh cats are one of my favourite animals ,
+4	ES2003a.rdhillon.s.3	The project manager discussed the project finances and selling prices.
+ES2003a.B.dialog-act.vkaraisk.77	687.11	693.12	B	PM	inf	+1	2	Project finance . As you can see , twelve point five Euros per unit .
+ES2003a.B.dialog-act.vkaraisk.81	696.46	699.14	B	PM	inf	+1	2	and we're hoping to sell them for twenty five .
+ES2003a.B.dialog-act.vkaraisk.82	699.14	702.35	B	PM	inf	+1	1	If we're aiming for fifty million Euros we're gonna have to be selling an awful lot of them .
+ES2003a.C.dialog-act.vkaraisk.41	705.78	706.82	C	ME	inf	+1	1	that was profiting ,
+30	ES2003a.rdhillon.s.4	The team then discussed various features to consider in producing the remote such as gaming options , an LCD screen , and combining functionality so as to control multiple devices.
+ES2003a.B.dialog-act.vkaraisk.91	730.78	735.08	B	PM	el.sug	+1	1	Any ideas of where you think a new remote control could go into this market ?
+ES2003a.A.dialog-act.vkaraisk.17	738.58	749.41	A	UI	inf	+1	2	one thing I'm aware of is , th there uh um at the sort of v very high price end of the market there's there's a em emerging market for sort of touch screen L_C_D_ remotes
+ES2003a.A.dialog-act.vkaraisk.18	749.41	754.72	A	UI	inf	+1	1	that can be uh programmed in m much more sophisticated ways than sort of conventional models ,
+ES2003a.A.dialog-act.vkaraisk.26	790.71	806.4	A	UI	sug	+1	1	Um b it occurs to me there might be a niche for uh for a remote that aimed towards some of that sort of functionality but using a just conventional push button design .
+ES2003a.A.dialog-act.vkaraisk.27	806.4	811.36	A	UI	inf	+1	1	And therefore putting it into a um well much lower price bracket .
+ES2003a.B.dialog-act.vkaraisk.95	814.47	819.89	B	PM	inf	+1	2	with the price range we're looking at , going for a touch screen would probably be possibly out of our {disfmarker}
+ES2003a.A.dialog-act.vkaraisk.28	819.18	820.42	A	UI	inf	+1	2	Absolutely prohibitive ,
+ES2003a.B.dialog-act.vkaraisk.97	821.2	825.7	B	PM	el.inf	+1	2	But you think uh again something to control multiple units in uh a simple fashion .
+ES2003a.A.dialog-act.vkaraisk.32	827.51	830.72	A	UI	inf	+1	2	I mean you get ones that you can switch between multiple units ,
+ES2003a.A.dialog-act.vkaraisk.35	837.06	844.61	A	UI	sug	+1	1	and ideally something into which it would have some at least limited facility for {vocalsound} um running macros .
+ES2003a.B.dialog-act.vkaraisk.98	845.65	854.395	B	PM	el.ass	+1	2	Would the the idea something along the lines of , one on button would turn on say the video recorder , the T_V_ , maybe the sound system as well , all in one go , is that kind of {disfmarker}
+ES2003a.A.dialog-act.vkaraisk.38	861.37	869.67	A	UI	sug	+1	2	you pr uh you press uh say the play button for the D_V_D_ player and it turns the T_V_ on and onto the right channel as well , um
+ES2003a.C.dialog-act.vkaraisk.48	879.99	885.76	C	ME	inf	+1	1	um I've noticed that uh gaming c is becoming quite popular with television ,
+ES2003a.C.dialog-act.vkaraisk.50	886.64	894.52	C	ME	inf	+1	1	we used to e play games using our cable , using the cable subscribed the cable providers ,
+ES2003a.C.dialog-act.vkaraisk.51	894.52	897.19	C	ME	inf	+1	1	but our remote controls would get worn out really easily ,
+ES2003a.B.dialog-act.vkaraisk.106	928.54	930.05	B	PM	inf	+1	1	I've seen the bar-code design before ,
+ES2003a.C.dialog-act.vkaraisk.57	917.64	924.71	C	ME	inf	+1	1	Instead of people entering in what time things start , you simply stri slide a bar to say what time it begins ,
+ES2003a.C.dialog-act.vkaraisk.52	897.19	903.3	C	ME	ass	+1	1	and {vocalsound} the remote control was not a great kind of keyboar , um keypad , for playing games .
+ES2003a.C.dialog-act.vkaraisk.63	937.79	942.58	C	ME	sug	+1	1	I think for gaming , you know you want you want some big buttons for up , down , left and right , shoot .
+ES2003a.C.dialog-act.vkaraisk.65	944.45	948.53	C	ME	inf	+1	1	Uh , you wanna be able to change angles in interactive television ,
+ES2003a.B.dialog-act.vkaraisk.117	964.75	970.2	B	PM	inf	+1	2	so {vocalsound} we'll have to try and decide on some of the basic functionality ,
+ES2003a.B.dialog-act.vkaraisk.119	972.6	977.86	B	PM	inf	+1	1	that'll be a key aspect especially if the idea of um some kind of macros facility
+ES2003a.D.dialog-act.vkaraisk.38	1003.99	1009.3	D	ID	el.ass	+1	2	do you think they should have some sort of stick on it , rather than buttons ?
+ES2003a.D.dialog-act.vkaraisk.39	1010.16	1012.97	D	ID	sug	+1	2	Like uh control pads , you know of games ,
+ES2003a.B.dialog-act.vkaraisk.131	1033.18	1037.74	B	PM	ass	+1	2	and that could allow n easy navigation , used as a joystick as well .
+ES2003a.A.dialog-act.vkaraisk.42	1045.78	1055.3	A	UI	sug	+1	2	Mm-hmm . The other key feature that uh that would be a good idea built into it is t is is to make something you know fairly sort of ergonomic ,
+ES2003a.A.dialog-act.vkaraisk.43	1055.3	1060.06	A	UI	sug	+1	2	something that just fits {vocalsound} fits as comfortably as possible into the hand .
+ES2003a.A.dialog-act.vkaraisk.44	1060.06	1074.55	A	UI	sug	+1	1	But of course , uh al al also allows for {gap} the possibility of a more sort of slightly unconventional or attractive uh sha shape for it overall , {vocalsound} .
+ES2003a.B.dialog-act.vkaraisk.134	1077.06	1081.24	B	PM	el.ass	+1	1	small , stylish , and something that's just a little different .
+ES2003a.A.dialog-act.vkaraisk.47	1080.04	1083.86	A	UI	sug	+1	2	Something sort of sort of sl slightly sort of biomorphic in form ,

@@ -1,0 +1,3 @@
+A couple of issues have arisen that need to be looked into further such as DC-offset and effects of PZM signals.
+Speaker Fn002 is worried about running VTS in the cepstral domain , because it requires a lot of work , and it is not clear that it will be much better than running it in the Mel domain.
+Similarly , since at the next stage of the project data will have marked boundaries , it is not clear that voice-activity detection is worth pursuing.

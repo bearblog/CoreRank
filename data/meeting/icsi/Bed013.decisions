@@ -1,0 +1,12 @@
+0	Bed013.s.11	The possibility of incorporating language generation into the system will have to be discussed further.
+1	Bed013.s.12	Similarly , as no one could recall some of the points of the conference call , the group will have to meet again and define the exact structure and content of the paper they are going to submit.
+Bed013.D.dialogueact616	1466.32	1468.75	D	Grad	s^m^na|s^cs^rt	+1	1	Look at the web page and let 's talk about it maybe tomorrow afternoon ?
+1	Bed013.s.13	The Bayes-net is going to be the focus of the presentation.
+Bed013.D.dialogueact785	1776.75	1783.53	D	Grad	s	+1	2	So this will be sort of documenting what we think , and documenting what we have in terms of the Bayes - net stuff .
+3	Bed013.s.14	In order to complete a functioning prototype of the belief-net , it was decided to start expanding the Ontology and Discourse nodes by working with a simple construction , like "where is X?".
+Bed013.D.dialogueact1051	2403.7	2416.99	D	Grad	s	+1	2	and specify um , what {disfmarker} what we think the {disfmarker} the output uh , observe , out {disfmarker} i input nodes for our Bayes - nets for the sub sub - D , for the discourse bit , should be .
+Bed013.D.dialogueact1133	2680.06	2690.98	D	Grad	s:qw	+1	2	So we want to sort of come up with what gets uh , input , and how inter in case of a " where is " question .
+Bed013.D.dialogueact1350	3221.67	3229.37	D	Grad	s^df	+1	2	so that we actually end up with um , um , nodes for the discourse and ontology
+2	Bed013.s.15	A robust analysis of such a basic utterance will indicate what the limits of the information derived from the construction are , as well as ways to design the whole module and fit other constructions in.
+Bed013.A.dialogueact1286	3094.83	3098.75	A	Grad	qr	+1	1	Wait , so do , or do not take other kinds of constructions into account ?
+Bed013.D.dialogueact1287	3098.69	3101.73	D	Grad	s	+1	1	Well , if you {disfmarker} if you can , oh definitely do ,

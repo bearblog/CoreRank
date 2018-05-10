@@ -1,0 +1,5 @@
+The german SmartKom system has been translated to English up to the speech synthesis level.
+The german syntax trees are currently being adapted to English.
+These also contribute information to the synthesis module in order to achieve better pronunciation.
+The current english version is probably the best working one , since some of the problems with the original system have been corrected.
+The design of the belief-net has also progressed significantly: the vast majority of the nodes have been identified and the feasibility of the task from a technical point of view has been confirmed.

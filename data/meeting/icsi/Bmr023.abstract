@@ -1,0 +1,43 @@
+0	Bmr023.s.1	The Berkley Meeting Recorder project is well underway , and this meeting discusses the progress and ongoing issues.
+4	Bmr023.s.2	A pressing concern for the group is the DARPA meeting in July , which is only a short time away , and for which they would like to have some progress.
+Bmr023.F.dialogueact56	138.772	145.78	F	Professor	s^df	+1	2	because {vocalsound} it occurred to me that this is late May and the DARPA meeting is in {pause} mid July .
+Bmr023.F.dialogueact305	665.621	673.241	F	Professor	s^cs	+1	3	I mean in particular I would {disfmarker} I would really hope that when we do this DARPA meeting in July that we sort of have {disfmarker} we 're {disfmarker} we 're into production mode , somehow {disfmarker}
+Bmr023.F.dialogueact496	1241.31	1244.91	F	Professor	fh|s	+1	2	Um , we are gonna have this DARPA {pause} meeting in the middle of July ,
+Bmr023.F.dialogueact499	1246.78	1254.71	F	Professor	s	+1	2	given that we 've been {disfmarker} we 've given a couple public talks about it already , spaced by months and months , I think it 'd be pretty bad if we continued to say none of this is available .
+9	Bmr023.s.3	Specifically , the group would like to have transcripts available , which would mean resolving legal issues for data use and on the basis of feedback from IBM get more transcription underway.
+Bmr023.D.dialogueact227	509.557	511.247	D	PhD	s	+1	2	And so he talked it over with the transcriber
+Bmr023.D.dialogueact228	511.247	519.487	D	PhD	s^cs^e	+1	2	and the transcriber thought that the easiest thing for them would be if there was a beep and then the nu a number , a digit , and then a beep , uh , at the beginning of each one
+Bmr023.F.dialogueact289	626.097	636.169	F	Professor	s^df	+1	3	e e u u {comment} The reason I 'm asking is because , uh , Jane and I have just been talking , and she 's just been doing . {vocalsound} Uh , e a , you know , further hiring of transcribers .
+Bmr023.F.dialogueact293	636.309	643.69	F	Professor	s	+1	3	And so we don't sort of really know exactly what they 'll be doing , how long they 'll be doing it , and so forth ,
+Bmr023.F.dialogueact294	643.69	648.1	F	Professor	s^df	+1	4	because right now she has no choice but to operate in the mode that we already have working .
+Bmr023.A.dialogueact320	717.195	720.265	A	Postdoc	s	+1	3	I hired two transcribers today . I 'm thinking of hiring another one ,
+Bmr023.A.dialogueact321	720.265	722.155	A	Postdoc	s^df^e	+1	3	which will {disfmarker} because we 've had a lot of attrition .
+Bmr023.D.dialogueact457	1068.03	1077.59	D	PhD	s^aa|s.%-	+1	3	Yeah . So , um , uh , Jane and Adam and I had a meeting where we talked about the reorganization of the {pause} directory structure for all of the meeting {disfmarker}
+Bmr023.D.dialogueact460	1080.32	1081.48	D	PhD	s^e	+1	3	For all the Meeting Recorder data .
+3	Bmr023.s.4	Additionally they would also like to have the question answering mock-up and transcriber interface ready for then.
+Bmr023.F.dialogueact58	152.308	156.638	F	Professor	s	+1	2	I know that we were gonna do something with the transcriber interface is one thing ,
+Bmr023.G.dialogueact61	161.776	166.86	G	PhD	fg|s	+1	2	Well , we were gonna do a mock - up , like , question answering or something , I thought ,
+Bmr023.F.dialogueact55	131.49	138.692	F	Professor	s^t	+1	2	I was gonna ask Adam to , uh , say if he thought anymore about the demo stuff
+9	Bmr023.s.5	PLP results for the front-end look good , with the group also reporting progress in segmentation: Thilo's segmenter will now be used and ways of improving performance investigated;
+Bmr023.F.dialogueact133	317.486	327.273	F	Professor	qy	+1	2	Is there stuff that 's happened about , um , uh , the {pause} SRI recognizer et cetera ,
+Bmr023.F.dialogueact135	331.499	335.679	F	Professor	s.%--	+1	2	Y y you guys were doing a bunch of experiments with different front - ends and then with {disfmarker}
+Bmr023.D.dialogueact141	340.264	346.703	D	PhD	s	+1	1	Now the {disfmarker} the {disfmarker} You saw the note that the PLP now is getting basically the same as the MFCC .
+Bmr023.C.dialogueact155	365.907	371.911	C	PhD	fh|s^ba	+1	2	um , it looks like the vocal tract length normalization is working beautifully , actually ,
+Bmr023.C.dialogueact172	408.405	420.012	C	PhD	s^df	+1	3	Because in all our previous experiments , we had the {disfmarker} uh , you know , we were essentially cheating by having the , um , you know , the h the hand - segmentations as the basis of the recognition .
+Bmr023.C.dialogueact174	420.632	425.842	C	PhD	s^cs.%-	+1	4	And so now with Thilo 's segmenter working so well , I think we should {pause} consider doing a {disfmarker}
+Bmr023.G.dialogueact191	433.583	440.793	G	PhD	s^ba	+1	2	And even {disfmarker} The good thing is that since you , um , have high recall , {comment} even if you have low precision cuz you 're over - generating , that 's good
+Bmr023.F.dialogueact757	1900.65	1917.46	F	Professor	qy.%--	+1	3	Has {disfmarker} has , uh {disfmarker} ? We just {disfmarker} I think , just talked about this the other day , but h has {disfmarker} has anybody had a chance to try changing , uh , insertion penalty sort of things with the {disfmarker} with the , uh {disfmarker} {vocalsound} uh , using the tandem system input for the {disfmarker} ?
+Bmr023.C.dialogueact808	2038.16	2043.02	C	PhD	s.%--	+1	4	But the PLP features work {disfmarker} um , uh , you know , continue to improve the ,
+3	Bmr023.s.6	The classifier segmentation is progressing well , especially in the use of prosody for identifying interruption.
+Bmr023.G.dialogueact623	1560.8	1582.71	G	PhD	s	+1	3	But we did find that some of the features that , I gue Jane would know about , that are expressing sort of the {vocalsound} distance of , um , {vocalsound} boundaries from peaks in the utterance and {vocalsound} some {pause} local , um , range {disfmarker} pitch range effects , like how close people are to their floor , are showing up in these classifiers ,
+Bmr023.G.dialogueact621	1552.44	1554.15	G	PhD	s	+1	3	Um , so we 're starting to see some patterns
+Bmr023.G.dialogueact620	1546.29	1551.94	G	PhD	s^df	+1	4	because the {vocalsound} prosodic features are {pause} very noisy and so you {disfmarker} you need a lot of data in order to model them .
+8	Bmr023.s.7	Work on the front end continues , with improvements of 3-5% being made.
+Bmr023.F.dialogueact757	1900.65	1917.46	F	Professor	qy.%--	+1	3	Has {disfmarker} has , uh {disfmarker} ? We just {disfmarker} I think , just talked about this the other day , but h has {disfmarker} has anybody had a chance to try changing , uh , insertion penalty sort of things with the {disfmarker} with the , uh {disfmarker} {vocalsound} uh , using the tandem system input for the {disfmarker} ?
+Bmr023.C.dialogueact811	2046.05	2053.48	C	PhD	s	+1	3	As I said before , the {disfmarker} uh using Dan 's , uh , uh , vocal tract normalization option works very well .
+Bmr023.C.dialogueact808	2038.16	2043.02	C	PhD	s.%--	+1	4	But the PLP features work {disfmarker} um , uh , you know , continue to improve the ,
+Bmr023.C.dialogueact839	2140.08	2143.63	C	PhD	s^df^ng	+1	2	Well , but if you add them all up you have , uh , almost five percent difference now .
+Bmr023.F.dialogueact976	2445.68	2452.49	F	Professor	s	+1	2	And I think I agree with you that if we fixed lots of different things and they would all add up , we would probably have a {disfmarker} a {disfmarker} a competitive system .
+Bmr023.F.dialogueact977	2452.84	2455.87	F	Professor	s^bd^df	+1	2	But I think not that much of it is due to the front - end per se .
+Bmr023.F.dialogueact978	2455.87	2459.06	F	Professor	s	+1	2	I think maybe a couple percent of it is , as far as I can see from this .
+Bmr023.C.dialogueact991	2491.44	2504.2	C	PhD	qy^rt	+1	2	eh At this point I 'm as I mean , you know {disfmarker} e I 'm wondering is it {disfmarker} Can we expect , uh , a tandem system to do better than a properly trained {disfmarker} you know , a Gaussian system trained directly on the features with , you know , the right ch choice of {pause} parameters ?

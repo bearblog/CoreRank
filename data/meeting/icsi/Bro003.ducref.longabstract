@@ -1,0 +1,64 @@
+The main topics discussed were arrangements and objectives of an
+upcoming field trip to visit research partners OGI; a number of
+members reported their progress to date; if there are any tasks that
+one member can help others with; an overall description of the Cube
+project , a multi-lingual speech recognition system for use by the
+cellular phone industry , along with consideration of some of the
+issues therein , specifically disk and resource issues.
+Essentially the cube consists of three dimension: input features;
+training corpus; and test corpus.
+Most important concerns are which
+combinations of features to use , and what combinations of languages
+and broad/specific corpora to use for the training
+The group will meet at the building at 6am to go to the airport for
+their field trip together.
+Speaker me018 needs to discuss files that can be moved with speaker
+mn007.
+For the OGI meeting they need to take a clear description of the cube
+project , and an estimate of how long the entire process should take.
+At the meeting they should discuss what they will ultimately put
+through the system.
+People are to consider what me034 could do on the project to speed
+things up , though creating the phoneme superset is a possibility.
+Speaker me018 is to look into the machines that mn007 has been running
+data on to find out what they are.
+Rather than consider level of normalization as a further dimension to
+the project , whatever OGI finds the best will be used systematically.
+Need to use multiple machines and SPERT boards to run processes on
+because they take so long.
+They will consider looking at articulatory features rather than
+straight phonemes , though it wouldn't be perfect.
+It is not clear what combinations of dimensions , which features,
+should be run in the cube project.
+It is important to know because
+the processes are going to be large and processor and memory hungry.
+To bear in mind is the fact that the cellular industry has an image of
+speech recognition in that's what they are after.
+Must be careful if using a broad training source that is carefully
+hand marked , because it would be unclear which is the reason for
+improvement.
+Memory is of concern , because final product needs to run potentially
+one cheaper cell phones , which have limited memory capacity.
+OGI doesn't have a phoneme superset ready prepared , for they are
+working with clusters , which may be good enough for digits , but not
+for discriminating words.
+Speaker mn007 has been preparing the French digit database.
+Training
+and testing with varying noise.
+speaker me006 has installed updated software for everyone.
+Working on
+label files from TIMIT for training neural nets.
+Trying to figure out
+what the input to the cube should be.
+speaker fn002 has been testing the Italian database on a net trained
+on Spanish.
+She has had problems with incompatible labels though.
+Within the next year , the network is to be upgraded , and in a couple
+of weeks , the group should have access to 4 new 36 gigabyte file
+servers.
+Me018 has been copying some corpus stuff to a non-backed up
+system , but not yet deleted originals.
+Current plan is to use a superset of phones for the cube project
+derived from the various training languages.
+HTK training currently takes 6 hours to a day , and the neural net
+takes 1-2 days.

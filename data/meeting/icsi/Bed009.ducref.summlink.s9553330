@@ -1,0 +1,115 @@
+So I think the idea of having a , you know , transition diagram for the grammar of conversations is a good idea .
+So , s So what would happen if we sent a note saying " Gee we 've talked about this and couldn't we change this uh th the whole word ? "
+So action he action here means dia uh speech ac uh you know dialogue act .
+So {disfmarker} my suggestion then is that you um look into the currently ongoing discussion about how the action plans are supposed to look like .
+and I think this is just for historical reasons within uh , the preparation phase of the project
+well for one thing we 're also using this room to collect data .
+And they 're currently um Agreeing or {disfmarker} or in the process of agreeing on an X M L - ification of um something like a state - transition network of how dialogues would proceed .
+Could you {disfmarker} could you put a message into the right place to see if we can at least ask that question ?
+So {disfmarker} well , let me {disfmarker} Let me s {pause} expand on that a little bit from the point of view of the generation .
+facing to {disfmarker} to what we 've sort of been doing here
+Yeah , uh the problem is th that it has to be very fast
+you know f " Find me a good route for this . "
+No {disfmarker} no it 's {disfmarker} uh I think it 's it 's totally complicated for
+You could well imagine you get to a point where it 's got a {disfmarker} a choice to make and it just doesn't know something .
+And um also um Ralf has hooked up with David and you 're gonna continue either all through tonight or tomorrow on whatever to get the er parser interface working .
+and some lines of code were already written today
+Uh , So what are {disfmarker} what are the plans roughly ?
+and not because somebody actually believes it ought to be action planner .
+So there 's ac so there {disfmarker} th the word " action " , OK , is {disfmarker} is what 's ambiguous here .
+I mean basically this is what attention - recognition literally sort of can {disfmarker}
+Because there 's this other thing The o There 's this other thing in {disfmarker} in the tourist domain which is gonna be a route planner
+So , if it 's only like in {disfmarker} in the {disfmarker} in the film and T V thing ,
+and part of that is sort of trying to find out whether people change their linguistic verbal behavior when first thinking they speak to a machine and then to a human .
+Do you have a particular parser in mind ?
+and um are then able not only to produce strings but also the syntactic parse
+and um so we {disfmarker} we 're thinking , for example how much syntactic analysis actually happens already in the parser .
+em we have talked this morning with the {disfmarker} with Tilman about the generator .
+so anyt we 'll find a time later in the week to uh get together and talk about {pause} your understanding of what SmartKom plans are .
+For the debugging we 'll probably just have a {disfmarker} a drop - down menu
+When needed , if needed , when wanted and so forth .
+um it 's to {disfmarker} to integrate and syntactic analysis .
+people are gonna have to think this through a bit more carefully .
+no not meeting data but sort of {disfmarker} sort ah our version of a wizard experiment such
+So if there is resistance against changing it , that 's just because " Oh , We don't want to change things . "
+or we simply adopt the ah um more in - depth um style that is implemented in the German system
+and then you get back from that mmm , a functioning model um which might be a planner or a VCR or whatever .
+And it may be that {disfmarker} that um we should early on make sure that they have the flexibility that we need .
+So that 's a a discrete decision .
+And they also have to be very robust . cuz of um speech recognition errors
+Now there are two ways one can go {disfmarker} a imagine doing that .
+let 's say a simple parse from a s from an utterance won't really give us is what the person actually wants .
+But we believe that we have laid out the fundamental decisions in this little space
+OK Well , so Ralf and Tilman are here .
+Who {disfmarker} How far is the uh the {disfmarker} the M - three - L specification for {disfmarker} for the la natural language input gone on the {disfmarker} the uh
+and in particular some of the {disfmarker} the combination rules and ways of getting the {disfmarker} the conditional probabilities aren't there .
+There 's a first cut at a belief - net that {disfmarker} that doesn't {disfmarker} it {disfmarker} isn't fully uh instantiated ,
+So then an utter more than one utterance is {disfmarker} There um there 's often uh pause between it
+I 'll {disfmarker} I 'll talk to Michael
+But for a full system , then one might very well formulate a query ,
+And so y you would like it t also be able to uh formulate a query .
+And a I a a good design would {disfmarker} would allow that to happen .
+the {disfmarker} the ultimate goal is that before they leave we {disfmarker} we can run through the entire system input through output on at least one or two sample things .
+I think it will turn out to be the case that uh , this thing we 're talking about , th the extended n uh knowledge modeler will fill in some parameters about what the person wants .
+So that 's that form of planning , and action , and a route planner and GIS , all sort of stuff .
+and Marcus and Michael together are um leading the discussion there ,
+what 's called the action plan and what 's really the dialogue manager .
+Depends on who you talk to how .
+and just gonna say we have um again the recognizer to parser thing where we 're working on
+and almost tested
+There is {disfmarker} there 's a logic to dialogue which {disfmarker} which is {disfmarker} is separable .
+um {disfmarker} so far I 've thought of it as sort of adding it onto the modeler knowledge module .
+But we are facing of course much more um realistic problems .
+One could well imagine that the next thing that 's trying to fill out the detailed uh , route planning , let 's say , will also have questions that it would like to ask the user .
+It probably will work better if we do it later in the week , after {pause} we actually understand uh better what 's going on .
+but in the next release there will be some .
+It oughta be called a {disfmarker} a dialogue manager .
+I mean have you thought through {disfmarker} ?
+And to run that back through uh . the dialogue manager and to the output module and back around .
+And I think that we do hav definitely have to get in on it and find out {disfmarker} OK .
+and um There one of our diligent workers has to sort of volunteer to look over Tilman 's shoulder while he is changing the grammars to English
+the transition diagrams .
+when {disfmarker} so , when you get to the tourist domain it 's not just an information retrieval system .
+Well the obvious one would be if {disfmarker} if you envision this as a module within SmartKom , where exactly would that Sit ?
+So we ha we have to get in on that .
+what one would like is for this uh , knowledge modeling module to add which of those it is and give it to the planner .
+and {disfmarker} The {disfmarker} these um transition networks uh will be what the action planner interprets in a sense .
+I 'll go check ,
+cuz that 's what everybody else calls it .
+It doesn't really have to worry ab how route planner A or how route planner B actually wants it .
+or {disfmarker} It 's really gonna be an action planner .
+And um and by virtue of doing that then in this case Johno will have acquired the knowledge of how to extend it .
+you know , " that person doesn't wanna enter .
+But , uh th the current design suggests that if it seems to be an important decision and if the belief - net is equivocal so that it doesn't say that one of these is much more probable than the other , then an option is to go back and ask for the information you want .
+Would there be any chance of getting the terminology changed so that the dialogue planner was called a " dialogue planner " ?
+w w was there uh a time when we were set up to do that ?
+Also of course it would be really nice to know what the plans are , in addition to what 's sort of already in code .
+Sort of one branch is to get us caught up on what 's going on .
+And language input for example , is of course uh crucial you know also when you do the sort of deep understanding analysis that we envision .
+and whether one could interface to that potentially
+ah and so {vocalsound} things must be simpler
+And um so the idea is to construct uh um suitable interfaces and a belief - net for a module that actually tries to guess what the underlying intention {pause} was .
+the syntactic tree that is underneath in the syntactic structure
+I have no idea how complicated these things are .
+There are all kinds of decisions that we have identified in terms of getting to places and in terms of finding information about things .
+and so it 's a {disfmarker} sort of a computer call system that gives you tourist information
+Information related to the user and information related to the situation .
+That person just wants to take a picture , " cuz he just bought film ,
+give it to the dialogue planner and say this , you know ar are you know you {disfmarker} are you planning to enter ?
+So , um one thing is there 's an actual planner that tells the person in the tourist domain now ,
+so this is really an ongoing discussion
+you know th the functional module that {disfmarker} that interacts with {disfmarker} with where the tourism g stuff is going {comment} probably is too restrictive .
+and then that can be sort of developed uh as needed when we get {disfmarker} enter the tourism domain .
+I mean nothing 's being completely settled there
+because um partly those are like X - schemas .
+are there currently is uh
+And it breaks halfway through the experiment and a human operator comes on .
+No , in SmartKom terminology that 's um called a function that 's modeled by a function modeler .
+And it 's th that 's completely um encapsulated from th the dialogue system .
+and um add some more features like segmentation .
+uh we 'll introduce ourselves and what we do .
+Yeah , there 's a meeting next next week I think
+And we are constructing {disfmarker} and then we 've identified more or less the extra - linguistic parameters that may f play a role .
+Either we do a syllable concatenating um grammar for the English generation which is sort of starting from scratch and doing it the easy way ,
+no syntactic analysis
+So that forces the dialogue manager to change state .

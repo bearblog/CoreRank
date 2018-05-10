@@ -1,0 +1,110 @@
+0	Bed004.s.1	One of ICSI's research groups at Berkley met to discuss progress on the current project , a tourism based dialogue system.
+7	Bed004.s.2	The small group had visual aids which assisted their discussion.
+Bed004.D.dialogueact86	487.057	488.297	D	Grad	s^rt	-1	0	This was the introduction .
+Bed004.D.dialogueact90	508.314	513.074	D	Grad	s^rt	-1	0	So , this is what she saw as part of {disfmarker} as uh for instr introduction ,
+Bed004.D.dialogueact91	513.644	515.804	D	Grad	s	+1	1	this is what she had to read {pause} aloud .
+Bed004.D.dialogueact96	528.536	535.256	D	Grad	s^rt	+1	1	this was the uh first three tasks she had to {disfmarker} to master after she called the system ,
+Bed004.D.dialogueact99	546.327	553.057	D	Grad	s^rt	+1	1	I should say the system was supposed to break down and then um these were the remaining three tasks that she was going to solve , with a human {disfmarker}
+Bed004.D.dialogueact101	556.528	561.288	D	Grad	s	-1	0	There are {disfmarker} here are uh the results .
+Bed004.B.dialogueact298	1332.47	1336.02	B	Professor	s	-1	0	you don't have to make any new {pause} uh PowerPoint or anything .
+24	Bed004.s.3	They have conducted the first test with a human playing the part of both automated and human operator , which provided valuable feedback.
+Bed004.D.dialogueact81	445.55	454.67	D	Grad	qy	-1	0	Should I go first , with the uh , um , data .
+Bed004.D.dialogueact85	474.557	485.858	D	Grad	fh|s	+1	2	So . On Friday we had our wizard test data test and um {vocalsound} these are some of the results .
+Bed004.D.dialogueact86	487.057	488.297	D	Grad	s^rt	-1	0	This was the introduction .
+Bed004.D.dialogueact88	497.825	507.864	D	Grad	s^rt	-1	0	so I asked uh Litonya . just on the spur of the moment , and she was uh kind enough to uh serve as the first subject .
+Bed004.D.dialogueact90	508.314	513.074	D	Grad	s^rt	-1	0	So , this is what she saw as part of {disfmarker} as uh for instr introduction ,
+Bed004.D.dialogueact91	513.644	515.804	D	Grad	s	+1	1	this is what she had to read {pause} aloud .
+Bed004.D.dialogueact96	528.536	535.256	D	Grad	s^rt	+1	1	this was the uh first three tasks she had to {disfmarker} to master after she called the system ,
+Bed004.D.dialogueact99	546.327	553.057	D	Grad	s^rt	+1	1	I should say the system was supposed to break down and then um these were the remaining three tasks that she was going to solve , with a human {disfmarker}
+Bed004.D.dialogueact101	556.528	561.288	D	Grad	s	-1	0	There are {disfmarker} here are uh the results .
+Bed004.D.dialogueact107	584.565	586.465	D	Grad	s^rt	+1	0	The reading was five minutes , exactly .
+Bed004.C.dialogueact113	600.34	603.23	C	Grad	fh|s	+1	0	Like , there was a wizard for both uh {disfmarker} both parts ,
+Bed004.D.dialogueact116	604.59	607.38	D	Grad	s	-1	0	It was bo it both times the same person .
+Bed004.D.dialogueact118	607.9	609.76	D	Grad	s	+1	1	One time , pretending to be a system ,
+Bed004.D.dialogueact119	609.76	612.43	D	Grad	s	+1	1	one time , to {disfmarker} pretending to be a human , which is actually not pretending .
+Bed004.D.dialogueact147	902.64	904.65	D	Grad	s^t^tc	-1	0	OK , the uh lessons learned .
+Bed004.D.dialogueact148	904.71	905.56	D	Grad	s^cs	-1	0	The reading needs to be shorter .
+Bed004.D.dialogueact149	905.56	906.83	D	Grad	s	+1	1	Five minutes is just too long .
+Bed004.D.dialogueact162	934.083	936.543	D	Grad	fh|s^cs^rt	-1	0	And we need a better introduction for the wizard .
+Bed004.D.dialogueact163	936.543	943.023	D	Grad	s	+1	0	That is something that Fey actually thought of a {disfmarker} in the last second that sh the system should introduce itself , when it 's called .
+Bed004.D.dialogueact166	944.24	954.14	D	Grad	fg|s^cs	+1	0	And um , um , another suggestion , by Liz , was that we uh , through subjects , switch the tasks .
+Bed004.D.dialogueact167	954.14	960.88	D	Grad	s^e^rt	+1	0	So when {disfmarker} when they have task - one with the computer , the next person should have task - one with a human , and so forth .
+Bed004.D.dialogueact169	961.35	963.66	D	Grad	s^rt	-1	0	So we get nice um data for that .
+Bed004.D.dialogueact170	964.36	972.51	D	Grad	fh|s^cs	+1	1	Um , we have to refine the tasks more and more , which of course we haven't done at all , so far , in order to avoid this rephrasing ,
+Bed004.D.dialogueact171	972.51	977.5	D	Grad	s	-1	0	so where , even though w we don't tell the person " ask {pause} blah - blah - blah - blah - blah "
+11	Bed004.s.4	They discussed the development of the belief network that will be behind the system.
+Bed004.A.dialogueact309	1371.78	1378.05	A	Grad	s	+1	3	So , what I did for this {disfmarker} this is {disfmarker} uh , a pedagogical belief - net
+Bed004.A.dialogueact310	1378.05	1385.33	A	Grad	s^df	-1	0	because I was {disfmarker} I {disfmarker} I took {disfmarker} I tried to conceptually do what you were talking about with the nodes that you could expand out {disfmarker}
+Bed004.A.dialogueact332	1428.57	1431.65	A	Grad	s^rt	+1	0	So basically all I did was I took the last {pause} belief - net
+Bed004.A.dialogueact334	1432.4	1439.7	A	Grad	s	+1	2	and I grouped things according to what {disfmarker} how I thought they would fit in to uh image schemas that would be related .
+Bed004.A.dialogueact341	1450.89	1456.01	A	Grad	h|s	+1	1	Um , you know , we have {disfmarker} we have the concept of what their intention was , whether they were trying to tour or do business or whatever ,
+Bed004.B.dialogueact379	1580.11	1584.12	B	Professor	s	-1	0	Alright , so I understand what 's {disfmarker} what you got .
+Bed004.B.dialogueact380	1584.96	1591.14	B	Professor	s^no	-1	0	I don't yet understand {pause} how you would use it .
+Bed004.A.dialogueact383	1593.43	1595.61	A	Grad	s	+1	3	Well , this is not a working Bayes - net .
+Bed004.B.dialogueact404	1627.67	1632.37	B	Professor	fg|s	-1	0	So , so if you {disfmarker} if we made {disfmarker} if we wanted to make it into a {disfmarker} a real uh Bayes - net ,
+Bed004.B.dialogueact406	1633.94	1638.4	B	Professor	s.%--	-1	0	you know , actually f uh , fill it @ @ in , then uh {disfmarker}
+Bed004.A.dialogueact407	1638.11	1641.49	A	Grad	s^bu	-1	0	So we 'd have to get rid of this and connect these things directly to the Mode .
+50	Bed004.s.5	They touched on representation , ontology , interaction , and the desire for a generalised system.
+Bed004.B.dialogueact422	1679.56	1681.47	B	Professor	s	-1	0	There {disfmarker} there are a variety of ways of doing it .
+Bed004.B.dialogueact423	1681.88	1684.53	B	Professor	fh|s^co^t	-1	0	Uh . Let me just mention something that I don't want to pursue today
+Bed004.B.dialogueact424	1684.53	1687.09	B	Professor	s^e	+1	1	which is there are technical ways of doing it ,
+Bed004.A.dialogueact432	1709.06	1712.55	A	Grad	s^bu.%-	-1	0	So it 's possible that we could do something like a summary node of some sort that {disfmarker}
+Bed004.B.dialogueact443	1729.52	1737.17	B	Professor	s^cs.%--	-1	0	So what I was gonna say is {disfmarker} is maybe a good at this point is to try to informally {disfmarker}
+Bed004.B.dialogueact445	1737.17	1744.43	B	Professor	s^cs^e	+1	1	I mean , not necessarily in th in this meeting , but to try to informally think about what the decision variables are .
+Bed004.B.dialogueact450	1764.49	1772.29	B	Professor	fh|s	-1	0	So that if you decided that you could characterize the decision as a trade - off between three factors , whatever they may be ,
+Bed004.B.dialogueact457	1797.02	1800.89	B	Professor	s^cs	-1	0	So that y so that , you know , you can sort of try to do a knowledge engineering thing
+Bed004.B.dialogueact459	1801.58	1812.24	B	Professor	s	-1	0	given that we 're not gonna screw with the technology and just always use uh sort of orthodox Bayes - nets , then we have a knowledge engineering little problem of how do we do that .
+Bed004.B.dialogueact467	1825.53	1833.31	B	Professor	fh|s	-1	0	I mean , so uh , Robert has thought about this problem f for a long time , cuz he 's had these examples kicking around ,
+Bed004.B.dialogueact468	1833.31	1838.6	B	Professor	s	-1	0	so he may have some good intuition about you know , what are the crucial things .
+Bed004.D.dialogueact506	2024.15	2028.55	D	Grad	s^bs	-1	0	So this is just based on this one {disfmarker} um , on this one feature ,
+Bed004.D.dialogueact510	2043.14	2058.92	D	Grad	fh|s	-1	0	And um this is about as much as we can do if we don't w if we want to avoid uh uh a huge combinatorial explosion where we specify " OK , if it 's this and this but that is not the case " , and so forth , it just gets really really messy .
+Bed004.B.dialogueact516	2065.0	2073.48	B	Professor	fh|s^bs.%--	+1	0	So , I {disfmarker} I do understand that uh you can take the M - three - L and add not {disfmarker} and it w
+Bed004.B.dialogueact518	2074.88	2079.97	B	Professor	s^cc	+1	1	we have to add , you know , not too much about um object types and stuff ,
+Bed004.B.dialogueact519	2080.56	2092.65	B	Professor	s^bu	+1	0	and what I think you did is add some rules of the style that are already there that say " If it 's of type " Landmark " , then you take {disfmarker} you 're gonna take a picture of it . "
+Bed004.B.dialogueact523	2095.93	2098.08	B	Professor	s	-1	0	Ev - every landmark you take a picture of ,
+Bed004.D.dialogueact524	2098.61	2102.6	D	Grad	s	-1	0	Every public place you enter , and statue you want to go as near as possible .
+Bed004.B.dialogueact528	2104.21	2111.41	B	Professor	fh|s	-1	0	Uh , and certainly you can add rules like that to the existing SmartKom system .
+Bed004.B.dialogueact541	2131.92	2133.16	B	Professor	s.%--	+1	1	Add extra properties ,
+Bed004.B.dialogueact542	2133.16	2135.17	B	Professor	s	+1	1	a deterministic rule for every property
+Bed004.B.dialogueact551	2155.44	2161.01	B	Professor	s	-1	0	So we don't {disfmarker} we don't use the discourse , we don't use the context , we don't do any of those things .
+Bed004.B.dialogueact546	2141.37	2147.91	B	Professor	fh|s	-1	0	Uh Now , if that 's all you 're doing , then you can get the types from the ontology ,
+Bed004.B.dialogueact553	2162.13	2172.24	B	Professor	s	-1	0	Alright , but that 's {disfmarker} but that 's OK , and I mean it it 's again a kind of one minimal extension of the existing things .
+Bed004.B.dialogueact607	2327.24	2331.72	B	Professor	fg|s	-1	0	Yeah , so the pro The immediate problem is {disfmarker} is back t t to what you were {disfmarker} what you are doing with the belief - net .
+Bed004.B.dialogueact609	2331.99	2335.19	B	Professor	fh|qh	+1	0	You know , uh what are we going to use to make this decision {disfmarker}
+Bed004.A.dialogueact610	2335.47	2339.27	A	Grad	qh	-1	0	Right and then , once we 've made the decision , how do we put that into the content ?
+Bed004.B.dialogueact618	2349.64	2358.3	B	Professor	s	-1	0	So , the hardest problem is how are you going to get this information from some combination of the {disfmarker} what the person says and the context and the ontology .
+Bed004.D.dialogueact687	2558.07	2562.67	D	Grad	s^e	-1	0	but we also could do it um you know if we have a {disfmarker} a {disfmarker} a belief - net interface .
+Bed004.D.dialogueact688	2563.22	2565.97	D	Grad	s	+1	1	So the belief - net takes as input , a vector ,
+Bed004.D.dialogueact693	2573.92	2579.38	D	Grad	s^rt	-1	0	And um it Output is whatever , as well .
+Bed004.D.dialogueact694	2579.97	2583.74	D	Grad	fh|s^rt	-1	0	But this information is just M - three - L ,
+Bed004.D.dialogueact695	2584.0	2587.02	D	Grad	s	+1	1	and then we want to look up some more stuff in the ontology
+Bed004.D.dialogueact696	2587.02	2589.97	D	Grad	s.%--	-1	0	and we want to look up some more stuff in the {disfmarker}
+Bed004.D.dialogueact697	2589.97	2591.57	D	Grad	s^cs	+1	0	maybe we want to ask the real world ,
+Bed004.D.dialogueact698	2591.57	2593.16	D	Grad	s^cs^rt	+1	0	maybe you want to look something up in the GRS ,
+Bed004.D.dialogueact699	2593.16	2599.22	D	Grad	s	+1	1	but also we definitely want to look up in the dialogue history um some s some stuff .
+Bed004.B.dialogueact762	2820.42	2830.01	B	Professor	s	-1	0	see what we 'd like to do , and {disfmarker} and this has been implicit in the discussion , is to do this in such a way that you get a lot of re - use .
+Bed004.B.dialogueact763	2830.57	2842.2	B	Professor	fh|s	+1	1	So . What you 're trying to get out of this deep co cognitive linguistics is the fact that w if you know about source {disfmarker} source , paths and goals , and nnn {comment} all this sort of stuff , that a lot of this is the same , for different tasks .
+Bed004.B.dialogueact764	2842.2	2846.9	B	Professor	s	+1	1	And that {disfmarker} uh there 's {disfmarker} there 's some {disfmarker} some important generalities that you 're getting ,
+Bed004.B.dialogueact769	2855.84	2858.4	B	Professor	qw.%--	-1	0	u u What are the primitives , and how do you break this {disfmarker}
+Bed004.B.dialogueact774	2866.74	2874.92	B	Professor	s	-1	0	see what 's the really interesting question is can you use uh deep uh cognitive linguistics to {pause} get powerful generalizations .
+Bed004.B.dialogueact832	3066.53	3074.37	B	Professor	s	-1	0	So just from this local construction you know that you 're gonna hafta treat it as a container you might as well go off and get that information .
+Bed004.B.dialogueact833	3074.37	3076.55	B	Professor	s	-1	0	And that may effect the way you process everything else .
+Bed004.B.dialogueact834	3077.39	3079.09	B	Professor	s	-1	0	So if you say " how do I get into the castle "
+Bed004.B.dialogueact837	3084.69	3087.01	B	Professor	s.%--	-1	0	Or , you know , " what is there in the castle " or {disfmarker}
+Bed004.B.dialogueact838	3087.01	3091.43	B	Professor	s	-1	0	so there 's all sorts of things you might ask that involve the castle as a container
+Bed004.B.dialogueact839	3092.01	3099.36	B	Professor	s	-1	0	and you 'd like to have this orthogonal so that anytime the castle 's referred to as a container , you crank up the appropriate stuff .
+Bed004.B.dialogueact840	3100.86	3105.25	B	Professor	s^e	-1	0	Independent of what the goal is , and independent of what the surrounding language is .
+Bed004.B.dialogueact842	3106.26	3108.78	B	Professor	s^tc	-1	0	Alright , so that 's {disfmarker} that 's the {disfmarker} that 's the thesis level
+12	Bed004.s.6	They also talked about upcoming meetings with people from different groups , and how they could benefit.
+Bed004.B.dialogueact273	1243.45	1252.34	B	Professor	fh|s^cs^t	+1	0	Um . Now , {pause} I signed us up for the Wednesday slot , and part of what we should do is this .
+Bed004.B.dialogueact276	1253.19	1258.64	B	Professor	s	+1	1	my idea on that was {pause} uh , partly we 'll talk about system stuff for the computer scientists ,
+Bed004.B.dialogueact277	1258.64	1271.51	B	Professor	s	+1	1	but partly I did want it to get the linguists involved in some of this issue about what the task is and all {disfmarker} um you know , what the dialogue is , and what 's going on linguistically ,
+Bed004.B.dialogueact278	1272.11	1275.41	B	Professor	s	+1	0	because to the extent that we can get them contributing ,
+Bed004.B.dialogueact282	1280.89	1284.67	B	Professor	s^cs	-1	0	maybe we can get some of the linguists sufficiently interested that they 'll help us with it ,
+Bed004.B.dialogueact287	1291.99	1296.94	B	Professor	s^t.%--	-1	0	So my idea on {disfmarker} on Wednesday is partly to uh {disfmarker}
+Bed004.B.dialogueact288	1296.94	1299.23	B	Professor	s	-1	0	you {disfmarker} I mean , what you did today would {disfmarker} i is just fine .
+Bed004.B.dialogueact289	1299.23	1306.14	B	Professor	s	+1	1	You just uh do " this is what we did , and here 's the {pause} thing , and here 's s some of the dialogue and {disfmarker} and so forth . "
+Bed004.B.dialogueact290	1306.49	1314.58	B	Professor	s^co	-1	0	But then , the other thing of course is we should um give the computer scientists some idea of {disfmarker} of what 's going on with the system design ,
+Bed004.B.dialogueact291	1314.58	1317.22	B	Professor	fh|s	-1	0	and where we think the belief - nets fit in
+Bed004.B.dialogueact292	1317.22	1319.29	B	Professor	s	-1	0	and where the pieces are and stuff like that .
+Bed004.B.dialogueact298	1332.47	1336.02	B	Professor	s	-1	0	you don't have to make any new {pause} uh PowerPoint or anything .

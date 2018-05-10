@@ -1,0 +1,65 @@
+17	Bro016.s.1	Although the members of ICSI's Meeting Recorder Group at Berkeley had little progress to report , there were still a number of issues relating to their work to discuss.
+Bro016.F.dialogueact24	48.916	51.246	F	PhD	s	+1	1	I don't really have , uh , anything new .
+Bro016.F.dialogueact25	52.084	54.364	F	PhD	s	+1	1	Been working on {pause} Meeting Recorder stuff .
+Bro016.E.dialogueact326	839.053	839.513	E	Professor	qw^rt^tc	+1	1	What 's new with you ?
+Bro016.B.dialogueact328	842.377	845.034	B	PhD	s	+1	1	So there 's nothing {pause} new .
+Bro016.E.dialogueact334	851.06	853.61	E	Professor	qw^j	+1	2	What 's old with you that has developed over the last week or two ?
+Bro016.B.dialogueact336	862.577	864.827	B	PhD	s	+1	2	Well , so we 've been mainly working on the report
+Bro016.F.dialogueact346	876.875	881.632	F	PhD	qy^d.%--	+1	1	Any - anything new on the thing that , uh , you were working on with the , uh {disfmarker} ?
+Bro016.C.dialogueact347	882.466	883.726	C	PhD	s^nd	+1	1	I don't have results yet .
+Bro016.E.dialogueact375	947.599	950.069	E	Professor	qw^rt	+1	2	So , what {disfmarker} wha {vocalsound} wh wha what what 's going on ?
+Bro016.C.dialogueact376	950.86	953.08	C	PhD	s	+1	2	Well , we work in the report , too ,
+Bro016.E.dialogueact938	2193.44	2197.03	E	Professor	qw	+1	1	How are , uh , uh {disfmarker} how are things going with what you 're doing ?
+Bro016.D.dialogueact941	2199.35	2202.08	D	Grad	s	+1	1	I took a lot of time just getting my taxes out of the way {disfmarker}
+Bro016.D.dialogueact943	2204.01	2206.16	D	Grad	s	+1	1	So , I 'm {disfmarker} I 'm starting to write code now for my work
+Bro016.D.dialogueact944	2206.16	2207.69	D	Grad	s	+1	1	but I don't have any results yet .
+Bro016.E.dialogueact1012	2305.23	2306.93	E	Professor	qy^cs	+1	2	do you wanna {pause} say something about your stuff here ?
+Bro016.A.dialogueact1016	2307.77	2314.47	A	Grad	s^rt	+1	2	I {pause} just , um , continuing looking at , uh , ph uh , phonetic events ,
+Bro016.A.dialogueact1023	2333.98	2335.36	A	Grad	s	+1	1	It 's {disfmarker} that 's pretty much it .
+28	Bro016.s.2	These included making plans for upcoming experiments , clarifying definitions , and approaches which may or may not be against the rules of the Aurora project , alongside alternatives that would not be.
+Bro016.E.dialogueact29	58.903	62.163	E	Professor	qy^rt	+1	1	Do you think that would be the case for next week also ?
+Bro016.E.dialogueact31	63.933	66.835	E	Professor	qw.%--	+1	2	What 's your projection on {disfmarker} ?
+Bro016.F.dialogueact81	240.23	248.52	F	PhD	s^bu	+1	2	so the experiment is to , um , run our front - end like normal , with the default , uh , insertion penalties and so forth ,
+Bro016.F.dialogueact82	248.87	251.37	F	PhD	s^bu	+1	2	and then tweak that a little bit
+Bro016.F.dialogueact83	251.37	253.53	F	PhD	s^bu	+1	2	and see how much of a difference it makes
+Bro016.E.dialogueact533	1297.03	1300.95	E	Professor	s	+1	3	That 's something I 'd like to understand before we actually use something from it ,
+Bro016.A.dialogueact1038	2351.99	2361.32	A	Grad	s^cc	+1	2	I {disfmarker} I was thinking getting {disfmarker} getting us a set of acoustic events to {disfmarker} um , to be able to distinguish between , uh , phones and words and stuff .
+Bro016.D.dialogueact1046	2392.81	2394.45	D	Grad	qy	+1	2	Can you give an example of an event ?
+Bro016.A.dialogueact1051	2401.47	2407.34	A	Grad	s	+1	2	So , he In this paper , um , it 's talking about phoneme recognition using acoustic events .
+Bro016.A.dialogueact1052	2407.67	2412.66	A	Grad	s^e^rt	+1	2	So , things like frication or , uh , nasality .
+Bro016.F.dialogueact1063	2437.31	2440.4	F	PhD	s	+1	1	just to expand a little bit on the idea of acoustic event .
+Bro016.F.dialogueact1065	2440.86	2447.83	F	PhD	s	+1	1	There 's , um {disfmarker} in my mind , anyways , there 's a difference between , um , acoustic features and acoustic events .
+Bro016.F.dialogueact1066	2448.42	2453.05	F	PhD	s^e	+1	1	And I think of acoustic features as being , um , things that linguists talk about ,
+Bro016.F.dialogueact1069	2456.65	2458.22	F	PhD	s^m^na	+1	1	Stuff that 's not based on data , necessarily .
+Bro016.F.dialogueact1075	2458.58	2460.73	F	PhD	s^na	+1	1	That 's not based on , you know , acoustic data .
+Bro016.F.dialogueact1077	2460.73	2462.98	F	PhD	s^e	+1	1	So they talk about features for phones ,
+Bro016.F.dialogueact1084	2467.84	2472.39	F	PhD	s^e	+1	1	which may or may not be all that easy to measure in the acoustic signal .
+Bro016.F.dialogueact1085	2473.09	2482.63	F	PhD	s	+1	1	Versus an acoustic event , which is just {nonvocalsound} some {nonvocalsound} something in the acoustic signal {nonvocalsound} that is fairly easy to measure .
+Bro016.F.dialogueact1104	2534.87	2537.3	F	PhD	s	+1	1	It 's kinda like the difference between top - down and bottom - up .
+Bro016.F.dialogueact1106	2538.07	2541.92	F	PhD	s^e	+1	1	I think of the acoustic {disfmarker} you know , phonetic features as being top - down .
+Bro016.F.dialogueact1107	2542.1	2543.09	F	PhD	s^df	+1	1	You know , you look at the phone
+Bro016.F.dialogueact1108	2543.09	2547.94	F	PhD	s^df	+1	1	and you say this phone is supposed to be {disfmarker} you know , have this feature , this feature , and this feature .
+Bro016.F.dialogueact1109	2548.37	2551.9	F	PhD	s	+1	1	Whether tha those features show up in the acoustic signal is sort of irrelevant .
+Bro016.F.dialogueact1110	2551.9	2554.47	F	PhD	s	+1	1	Whereas , an acoustic event goes the other way .
+Bro016.F.dialogueact1111	2554.47	2555.33	F	PhD	s^df	+1	1	Here 's the signal .
+Bro016.F.dialogueact1112	2555.61	2556.36	F	PhD	s^df	+1	1	Here 's some event .
+Bro016.F.dialogueact1115	2557.37	2560.89	F	PhD	s	+1	1	And then that {disfmarker} you know , that may map to this phone sometimes ,
+Bro016.F.dialogueact1119	2564.23	2566.19	F	PhD	s	+1	1	And so it 's sort of a different way of looking .
+4	Bro016.s.3	There was also debate about the necessary continuation of a group report.
+Bro016.E.dialogueact408	1003.36	1008.65	E	Professor	s^cs	+1	2	So , my suggestion , though , is that you {disfmarker} you not necessarily finish that .
+Bro016.E.dialogueact409	1010.01	1015.57	E	Professor	s^cs	+1	2	But that you put it all together so that it 's {disfmarker} you 've got {disfmarker} you 've got a clearer structure to it .
+Bro016.E.dialogueact413	1020.85	1023.13	E	Professor	s^df	+1	2	So that , you know {disfmarker} so that such a thing can be written .
+Bro016.E.dialogueact425	1043.97	1049.42	E	Professor	s^df	+1	2	And right now it 's kind of important that we actually go forward with experiments .
+12	Bro016.s.4	Plans were also made with regard to a visitor from research partner OGI
+Bro016.E.dialogueact9	12.237	13.957	E	Professor	s	+1	1	I was saying Hynek 'll be here next week ,
+Bro016.E.dialogueact10	13.957	15.237	E	Professor	s^e	+1	1	uh , Wednesday through Friday {disfmarker}
+Bro016.E.dialogueact11	15.717	16.897	E	Professor	s^e	+1	1	uh , through Saturday ,
+Bro016.E.dialogueact13	18.447	20.017	E	Professor	s	+1	1	I won't be here Thursday and Friday .
+Bro016.E.dialogueact14	20.097	24.997	E	Professor	s^cs	+1	1	But my suggestion is that , uh , at least for this meeting , people should go ahead ,
+Bro016.E.dialogueact15	25.167	26.157	E	Professor	s^df	+1	1	uh , cuz Hynek will be here ,
+Bro016.F.dialogueact139	378.815	381.045	F	PhD	s	+1	2	So maybe I can have that for next week when Hynek 's here .
+Bro016.E.dialogueact563	1372.56	1373.7	E	Professor	s	+1	4	Maybe {disfmarker} that 's maybe a topic {disfmarker}
+Bro016.E.dialogueact564	1374.16	1375.82	E	Professor	s^e	+1	4	Especially if you talk with him when I 'm not here ,
+Bro016.E.dialogueact565	1375.82	1377.75	E	Professor	s^co	+1	4	that 's a topic you should discuss with Hynek
+Bro016.E.dialogueact566	1377.8	1379.61	E	Professor	s^df	+1	4	to , you know , double check it 's OK .
+Bro016.E.dialogueact931	2183.41	2186.22	E	Professor	s	+1	2	Well , this 'll be , I think , something for discussion with Hynek next week .

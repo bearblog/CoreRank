@@ -1,0 +1,10 @@
+A test set of Meeting Recorder digits is nearly complete.
+Future work will include training this data on a recognizer , and feeding the recognizer with corresponding far-field microphone data.
+It was noted that the results of experiments testing similar digits corpora have yielded high error rates , indicating that similar problems may be expected for the set of Meeting Recoreder digits.
+The group discussed the prospect of performing fine-grained acoustic-phonetic analyses on a subset of digits or Switchboard data.
+It was suggested that prior to the use of data-driven methods , knowledge-driven approaches should be used to 'seed' the data with sub-phonemic features , either manually , or using a rich pronunciation dictionary.
+A new version of the pre-segmentation tool that segments channel-specific speech/non-speech portions of the signal has been developed and tested.
+Future pre-segmentation work will include normalizing other features , such as loudness , enabling the distinction of foreground versus background speech.
+Speaker mn014 will also look at cross-correlations for removing false overlaps.
+New efforts were reported to adapt transcriptions to the needs of the SRI recognizer , including conventions for encoding acronyms , numbers , ambient noise , and unidentified inbreaths.
+With the arrival of the SRI recognizer , 12 hours of forced aligned , recognized data can be expected.

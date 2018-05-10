@@ -1,0 +1,32 @@
+The group discussed the first version of the Bayes-net used to work out a user's intentions when asking for directions from a navigation device.
+Three intentions were identified: Vista ( to view ) , Enter ( to visit ) and Tango ( to approach ).
+The structure of the belief-net comprises , firstly , a feature layer , which includes linguistic , discourse and world knowledge information that can be gleaned from the data.
+It is possible for these variables to form thematic clusters(  eg "entrance" , "type of object" , "verb" ) , each one with a separate middle layer.
+These feed , in turn , into the main middle layer , that defines more general hidden variables , such as the tourist/business status of the user.
+The feature layer can end up being cue-based , while the middle layers task-based.
+The latter determine the final probability of each intention in the output layer.
+This first model of the belief-net was built in JavaBayes , since it is a free package , has a graphical interface , and it can take XML files as input.
+At this stage , all the actual probabilities are ad-hoc and hand-coded.
+However , there has been progress in the design and organisation of experiments , that will eventually provide data more useful and appropriate for this task.
+It is necessary for the belief-net to have at least one layer of nodes between the features and the final output.
+This makes the structure more flexible in terms of coding feature-layer probabilities.
+Another technique to systematise the work is the thematic clustering of the features , each cluster forming a Bayes-net of each own: for example features like "admission fee" and "opening hours" can feed into an intermediate "entrance" node connecting to the main middle layer.
+The next stage is to refine the set of feature nodes and identify possible clusters.
+Although , in theory , traditional AI plan recognition techniques could also be helpful for inferring intentions , the schemas involved are too elaborate for this task.
+Further work also includes discussing the possible advantages of Bayes-net packages , other than JavaBayes , with experts at ICSI.
+If they continue using JavaBayes , a script to help with the inputting of probabilities in the nodes is needed , as the in-built method is cumbersome.
+Finally , it was decided that at least some of the experiments designed for the new data collection initiative will factor in the intentions studied in the current task.
+The set of cues that form the feature nodes is not well-defined yet.
+Especially with lexical cues ( verbs , modifiers etc ) , no one offered specific intuitions as to how they might contribute to the inference of intentions.
+Other features , like "admission fee" , may be intuitively linked with one of the outputs ( Enter ) , however , any probabilities are coded in an ad-hoc fashion and are by no means realistic.
+Cases like this , where feature and output seem to be linked directly , bring the necessity of a middle layer in the belief-net to question.
+Nevertheless , not having a middle layer would not allow for shifts in the discourse and would make the setting of probabilities and manipulation of the belief-net clumsy.
+Some issues with the use of JavaBayes also arose: the addition of new variables in an existing node overwrites all previous settings , and the native text file where the probability tables are set is not easy to read; this makes adding and changing variables and nodes problematic.
+Finally , it is unclear how much learning can be done on the created nets.
+There was a demonstration of the structure and the function of a toy version of the belief-net for the intentionality task.
+The features nodes include things like prosody , discourse , verb choice , "landmark-iness" of a building , time of day and whether the admission fee was discussed.
+The values these nodes take feed into the middle layer nodes identified as hidden variables of the user/device interaction , such as whether the user is on tour , running an errand or in a hurry.
+These , in turn , help infer whether the user wants to see , enter or simply approach a building.
+The set of features nodes is derived from linguistic cues , world knowledge and discourse history.
+SmartKom , although it does not code for intentions as specified in this task , provides a model of the discourse , which can be useful for the detection of features through querying and anaphora resolution.
+Experiments for the collection of new data will start soon , since someone who will recruit subjects and help run the experiments has already been hired and the designing of the experiments has also progressed significantly.

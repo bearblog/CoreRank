@@ -1,0 +1,25 @@
+0	Bed017.s.25	The first phase of the data collection has been completed.
+1	Bed017.s.26	Thirty subjects were recorded in total.
+Bed017.B.dialogueact51	99.06	103.97	B	Grad	fh|s	+1	1	and she brought us some thirty subjects and , t collected the data ,
+1	Bed017.s.27	Of those dialogues , ten have been transcribed.
+Bed017.B.dialogueact52	103.97	108.34	B	Grad	s	+1	1	and ten dialogues have been transcribed
+1	Bed017.s.28	A new wizard will carry out the second phase.
+Bed017.B.dialogueact55	113.66	119.54	B	Grad	fh|s	+1	2	Um , and we found another uh , cogsci student who 's interested in playing wizard for us .
+1	Bed017.s.29	On top of this , a presentation of a PRM of the proposed system took place.
+Bed017.B.dialogueact85	223.74	229.46	B	Grad	s	+1	2	something happened , in {disfmarker} on Eva 's side with the PRM that we 're gonna look at today ,
+3	Bed017.s.30	The PRM comprises a set of classes , such as "user" , "site" , "route" , "time" and "query" with relations between them.
+Bed017.D.dialogueact132	314.68	316.49	D	Grad	s	+1	2	I sorta constructed a couple of classes .
+Bed017.D.dialogueact133	316.49	322.29	D	Grad	s^e	+1	1	Like , a user class , a site class , and {disfmarker} and you know , a time , a route , and then {disfmarker} and a query class .
+Bed017.D.dialogueact140	339.56	348.44	D	Grad	s	+1	2	The red lines on the , um , graph are the um , relations between the different um , classes .
+3	Bed017.s.31	Another class incorporates a number of attributes ( "money affordability" , "travel compatibility" etc ) modelling the intermediate nodes of the Bayes-net , as well as references to the other classes in the model.
+Bed017.D.dialogueact155	400.46	406.97	D	Grad	s^bc	+1	1	Actually , you know , a class of {disfmarker} with different attributes that are the intermediate nodes ,
+Bed017.D.dialogueact156	406.97	414.95	D	Grad	s^e	+1	1	and one of them is like , time affordability money affordability , site availability , and the travel compatibility .
+Bed017.D.dialogueact186	539.899	548.31	D	Grad	fh|s	+1	1	Um , so anyhow , using those intermediate nodes then , this {disfmarker} this would be the class that represent the intermediate nodes .
+2	Bed017.s.32	This model is much cleaner , and it also makes it easier to specify the CPT's.
+Bed017.D.dialogueact191	567.519	571.439	D	Grad	s	+1	1	And so , you know , it 's easier to specify the CPT and all .
+Bed017.F.dialogueact232	707.322	710.369	F	Professor	s	+1	1	Uh , I actually think it is cleaner ,
+4	Bed017.s.33	At this stage , the model makes two decisions ( outputs ): how much a site fits a user's needs and what the user intention is in EVA terms.
+Bed017.D.dialogueact199	589.43	592.48	D	Grad	fg|s	+1	2	OK . So it only makes two decisions , in this model .
+Bed017.D.dialogueact201	598.131	602.241	D	Grad	s^e	+1	1	meaning , um , how good it matches the needs of a user .
+Bed017.D.dialogueact202	602.541	605.77	D	Grad	s	+1	2	And the other is the mode of the visit ,
+Bed017.D.dialogueact203	605.77	607.64	D	Grad	s^e	+1	2	whether th It 's the EVA decision .

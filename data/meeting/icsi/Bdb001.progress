@@ -1,0 +1,22 @@
+1	Bdb001.s.23	An XML scheme to build representations of the data is already available.
+Bdb001.C.dialogueact44	113.159	118.67	C	Grad	s	+1	2	I mean , we {disfmarker} I sort of already have developed an XML format for this sort of stuff .
+2	Bdb001.s.24	It incorporates information regarding utterances , sentences , speakers , words , etc.
+Bdb001.C.dialogueact89	194.923	198.473	C	Grad	s	+1	1	And then somewhere la further down you might have something like an utterance tag
+Bdb001.C.dialogueact577	1125.26	1127.93	C	Grad	s	+1	1	there 's a spea speaker tag up at the top which identifies them
+3	Bdb001.s.25	All these features are linked together via time-marks that slot into a single , common timeline.
+Bdb001.C.dialogueact62	139.473	141.353	C	Grad	s	+1	2	So tha it has a single time - line ,
+Bdb001.C.dialogueact72	159.518	160.938	C	Grad	s	+1	1	And then you have a bunch of times .
+Bdb001.C.dialogueact84	179.759	187.122	C	Grad	s	+1	1	And then , {nonvocalsound} I also wanted to {disfmarker} to be i to be able to not specify specifically what the time was and just have a stamp .
+2	Bdb001.s.26	This format also allows for linking to different levels of representation of the same data.
+Bdb001.F.dialogueact207	448.388	452.688	F	PhD	s^bu	+1	1	That you could call {disfmarker} that you would tie into this representation with like an ID .
+Bdb001.C.dialogueact210	453.255	457.595	C	Grad	s	+1	1	Or {disfmarker} or there 's a {disfmarker} there 's a particular way in XML to refer to external resources .
+4	Bdb001.s.27	For the frame-level representation , P-files is a readily available technology , developed at ICSI.
+Bdb001.C.dialogueact201	436.774	439.824	C	Grad	s	+1	2	or {disfmarker} or any frame - level stuff I would use P - file .
+Bdb001.C.dialogueact204	442.938	447.028	C	Grad	s	+1	2	It 's ICS uh , ICSI has a format for frame - level representation of features .
+Bdb001.C.dialogueact323	622.011	623.661	C	Grad	s^df^nd	+1	2	I mean , it 's something that we developed at ICSI .
+Bdb001.C.dialogueact982	2013.37	2015.66	C	Grad	s^df	+1	2	But , I mean , it is just something we developed at ICSI .
+4	Bdb001.s.28	Besides the appropriate format , P-files come with a library of tools and the respective documentation.
+Bdb001.C.dialogueact306	601.937	604.067	C	Grad	s	+1	2	And we have a lot of tools already to deal with it .
+Bdb001.C.dialogueact314	607.77	611.658	C	Grad	s^df	+1	1	Man - pages and , uh , source code , and me .
+Bdb001.C.dialogueact987	2019.86	2020.79	C	Grad	s^na	+1	1	There 's an API for it .
+Bdb001.C.dialogueact990	2022.13	2024.0	C	Grad	s^na	+1	1	a bunch of libraries , P - file utilities .

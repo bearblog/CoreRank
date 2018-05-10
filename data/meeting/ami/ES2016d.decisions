@@ -1,0 +1,17 @@
+2	ES2016d.rdhillon.s.11	The remote will make some sort of noise based on its proximity to a television.
+ES2016d.B.dialog-act.dharshi.64	681.17	686.9	B	ID	inf	+1	3	Which makes this thing raise hell when you remove it too far from the television .
+ES2016d.B.dialog-act.dharshi.79	745.13	749.615	B	ID	sug	+1	3	Let's add one of those features and say yes . {vocalsound}
+1	ES2016d.rdhillon.s.12	The remote will use two batteries.
+ES2016d.B.dialog-act.dharshi.116	1047.46	1047.84	B	ID	inf	+1	2	Two .
+1	ES2016d.rdhillon.s.13	The remote will use an advanced chip-on-print.
+ES2016d.B.dialog-act.dharshi.124	1078.7	1080.39	B	ID	inf	+1	2	That's the advanced chip-on-print , yeah .
+1	ES2016d.rdhillon.s.14	The remote will be double curved.
+ES2016d.A.dialog-act.dharshi.152	1086.83	1092.17	A	PM	inf	+1	2	'Kay then the case is a {disfmarker} Probably it's double curved .
+2	ES2016d.rdhillon.s.15	The remote case will be made of plastic.
+ES2016d.A.dialog-act.dharshi.153	1097.28	1099.88	A	PM	el.inf	+1	2	Case materials are
+ES2016d.B.dialog-act.dharshi.126	1099.17	1099.95	B	ID	inf	+1	2	Plastic .
+2	ES2016d.rdhillon.s.16	The remote will come in a special color.
+ES2016d.B.dialog-act.dharshi.131	1122.98	1124.62	B	ID	ass	+1	2	That's not a special colour .
+ES2016d.B.dialog-act.dharshi.132	1124.62	1127.37	B	ID	ass	+1	2	It's a specially ugly colour , but it's not special .
+1	ES2016d.rdhillon.s.17	The remote will not use an LCD.
+ES2016d.B.dialog-act.dharshi.151	1259.22	1261.18	B	ID	ass	+1	2	Right . We may not need it .

@@ -1,0 +1,166 @@
+11	ES2008b.rdhillon_cc.s.1	The project manager opened the meeting and stated the agenda.
+ES2008b.A.dialog-act.vkaraisk.3	58.23	59.84	A	PM	inf	+1	1	This is our functional design meeting .
+ES2008b.A.dialog-act.vkaraisk.10	77.48	79.56	A	PM	fra	+1	1	our agenda today um {disfmarker}
+ES2008b.A.dialog-act.vkaraisk.13	83.19	86.25	A	PM	inf	+1	1	Um . I'm gonna do an opening ,
+ES2008b.A.dialog-act.vkaraisk.15	87.49	88.39	A	PM	el.inf	+1	1	did you all get the minutes ?
+ES2008b.A.dialog-act.vkaraisk.16	88.39	89.26	A	PM	inf	+1	1	I e-mailed them to you .
+ES2008b.A.dialog-act.vkaraisk.17	89.26	91.53	A	PM	off	+1	1	I'm also putting 'em {disfmarker} them in the shared folder .
+ES2008b.A.dialog-act.vkaraisk.18	91.53	95.13	A	PM	inf	+1	1	So um then I {disfmarker} we'll talk about our general objectives
+ES2008b.A.dialog-act.vkaraisk.19	95.13	97.59	A	PM	inf	+1	1	and have your three presentations .
+ES2008b.A.dialog-act.vkaraisk.20	97.59	100.89	A	PM	inf	+1	1	Um I'll talk about the new project requirements I've just received ,
+ES2008b.A.dialog-act.vkaraisk.21	100.89	104.37	A	PM	inf	+1	1	and then we have to make a decision on our remote control functions .
+ES2008b.A.dialog-act.vkaraisk.27	114.57	128.68	A	PM	inf	+1	1	Uh we need to keep in mind the user requirement specification , what needs and desires are to be fulfilled , the {gap} functions design , what effects the apparatus should have , and the working design , how the apparatus actually works to fulfil its function .
+28	ES2008b.rdhillon_cc.s.2	The marketing expert discussed user preferences in terms of the appearance and use of remotes , finding that users wanted fancier looking remotes , disliked losing their remotes , wanted remotes with fewer buttons , frequently use the channel changing and volume buttons , and that younger users wanted speech recognition.
+ES2008b.D.dialog-act.vkaraisk.18	233.54	238.85	D	ME	el.inf	+1	1	I don't know if you guys are able to get access to um the report that was online
+ES2008b.D.dialog-act.vkaraisk.19	238.85	240.17	D	ME	el.inf	+1	1	or if I'm the only one who is .
+ES2008b.D.dialog-act.vkaraisk.24	257.56	263.47	D	ME	off	+1	1	we're just gonna talk a little bit about the functional requirements that people specified when they were asked .
+ES2008b.D.dialog-act.vkaraisk.26	266.41	269.78	D	ME	inf	+1	1	They had a hundred subjects and their usability lab
+ES2008b.D.dialog-act.vkaraisk.28	273.54	280.22	D	ME	inf	+1	1	and recorded the frequency that they used particular buttons and the relevance that those buttons had .
+ES2008b.D.dialog-act.vkaraisk.30	289.44	295.68	D	ME	inf	+1	1	Focusing on their desires , um people specifically said that they thought remotes were ugly {vocalsound} ,
+ES2008b.D.dialog-act.vkaraisk.31	295.68	299.36	D	ME	inf	+1	1	seventy five per cent of the a hundred subjects noted that
+ES2008b.D.dialog-act.vkaraisk.33	300.01	306.47	D	ME	inf	+1	1	more importantly though , eighty per cent said that they would be willing to pay more for a fancier looking remote .
+ES2008b.D.dialog-act.vkaraisk.37	317.18	322.59	D	ME	inf	+1	1	and found that the desire for voice recognition was inversely related to age ,
+ES2008b.D.dialog-act.vkaraisk.38	322.59	328.02	D	ME	inf	+1	1	so younger people were more inclined to want something with voice recognition ,
+ES2008b.D.dialog-act.vkaraisk.42	346.57	351.66	D	ME	inf	+1	1	That being people k um frustrated with losing their remotes .
+ES2008b.D.dialog-act.vkaraisk.43	351.66	356.65	D	ME	inf	+1	1	I think , over fifty percent of the people mentioned that that was their biggest frustration .
+ES2008b.D.dialog-act.vkaraisk.44	356.65	362.22	D	ME	inf	+1	1	People are also frustrated with the difficulty it is to learn how to use a remote
+ES2008b.D.dialog-act.vkaraisk.45	362.22	364.89	D	ME	inf	+1	1	and I think that ties back to what you were saying before
+ES2008b.D.dialog-act.vkaraisk.46	364.89	366.59	D	ME	ass	+1	1	just that there's too many buttons ,
+ES2008b.D.dialog-act.vkaraisk.48	368.68	370.82	D	ME	inf	+1	1	It also mentioned something called R_S_I_
+ES2008b.D.dialog-act.vkaraisk.49	370.82	374.46	D	ME	el.inf	+1	1	and I was hoping someone might be able to inform me as to what R_S_I_ is ,
+ES2008b.C.dialog-act.vkaraisk.13	377.36	378.57	C	UI	inf	+1	1	Repetitive strain injury .
+ES2008b.D.dialog-act.vkaraisk.55	382.74	385.85	D	ME	inf	+1	1	So I guess sort of the carpal tunnel type thing , people do not like that ,
+ES2008b.D.dialog-act.vkaraisk.57	389.69	398.53	D	ME	inf	+1	1	Um looking at the needs people specified , the problem right now is that people's remotes are not matching their operating behaviour .
+ES2008b.D.dialog-act.vkaraisk.58	398.53	405.56	D	ME	inf	+1	1	People are only using ten per cent of the buttons that they have offered to them on their remote .
+ES2008b.D.dialog-act.vkaraisk.60	411.51	419.52	D	ME	inf	+1	1	People also zap like to change the channel , about um sixty five per cent during an hour of use .
+ES2008b.D.dialog-act.vkaraisk.61	419.52	429.34	D	ME	sug	+1	1	So we really just need to focus in on those volumes and channel changers rather than things like the audio settings , the screen settings and the channel settings ,
+ES2008b.D.dialog-act.vkaraisk.65	438.2	440.35	D	ME	inf	+1	1	the idea of an L_C_D_ screen was brought up
+ES2008b.D.dialog-act.vkaraisk.66	440.35	445.23	D	ME	inf	+1	1	although they didn't have any details on what people's preferences on that were ,
+ES2008b.D.dialog-act.vkaraisk.69	449.26	454.56	D	ME	sug	+1	1	also just the phenomenon that less is more when it comes to the buttons on the remote
+ES2008b.D.dialog-act.vkaraisk.71	457.18	468.54	D	ME	sug	+1	1	make sure that , you know , something like an audio setting isn't given as much importance and visibility on the remote as something like channel changing that's used a lot more often .
+ES2008b.D.dialog-act.vkaraisk.72	468.54	473.87	D	ME	sug	+1	1	And basically in order for us to win over to the consumer we just need to focus on what it looks like ,
+22	ES2008b.rdhillon_cc.s.3	The user interface designer described how a remote works and how to go about designing one.
+ES2008b.C.dialog-act.vkaraisk.18	570.24	576.14	C	UI	inf	+1	1	I'm gonna talk about the technical technical functions design of the remote control um .
+ES2008b.C.dialog-act.vkaraisk.19	578.12	581.37	C	UI	sug	+1	1	We need to start by considering what a remote control actually is .
+ES2008b.C.dialog-act.vkaraisk.20	581.37	588.66	C	UI	inf	+1	1	It's a device that allows us to produce certain effects on our television ,
+ES2008b.C.dialog-act.vkaraisk.23	595.08	596.63	C	UI	inf	+1	1	it sends a message to the television
+ES2008b.C.dialog-act.vkaraisk.30	610.08	613.51	C	UI	sug	+1	1	First thing to do is to come up with the design specifications .
+ES2008b.C.dialog-act.vkaraisk.32	616.0	621.37	C	UI	el.inf	+1	1	so we need a a clear idea of exactly what this product does ,
+ES2008b.C.dialog-act.vkaraisk.34	623.1	626.15	C	UI	el.inf	+1	1	and what the end-user is gonna want from this product .
+ES2008b.C.dialog-act.vkaraisk.36	629.63	638.49	C	UI	sug	+1	1	a way I'd suggest that we could go about this is by designing uh several different prototypes of user interfaces for this product ,
+ES2008b.C.dialog-act.vkaraisk.37	638.49	643.36	C	UI	sug	+1	1	um and then uh trying to get some feedback uh about
+ES2008b.C.dialog-act.vkaraisk.38	644.49	647.58	C	UI	sug	+1	1	h how well these particular prototypes work ,
+ES2008b.C.dialog-act.vkaraisk.43	667.22	672.66	C	UI	inf	+1	1	When a users using a remote control , he or she expects the buttons to be in certain places .
+ES2008b.C.dialog-act.vkaraisk.44	672.66	678.67	C	UI	sug	+1	1	So in some sense we're gonna we're gonna have to aim for a device which is fairly conventional in design
+ES2008b.C.dialog-act.vkaraisk.46	682.39	687.11	C	UI	inf	+1	1	But I think within that there is also room for us to introduce novel ideas
+ES2008b.C.dialog-act.vkaraisk.48	693.44	698.53	C	UI	sug	+1	1	Um also in in designing the user interface we need to consider practicalities .
+ES2008b.C.dialog-act.vkaraisk.49	698.53	701.04	C	UI	inf	+1	1	Uh the first of these is is technological
+ES2008b.C.dialog-act.vkaraisk.53	706.94	709.9	C	UI	sug	+1	1	uh we need to find a balance between features and price .
+ES2008b.C.dialog-act.vkaraisk.56	710.92	714.62	C	UI	inf	+1	1	things like voice recognition would would add to the price
+ES2008b.C.dialog-act.vkaraisk.57	714.62	717.93	C	UI	inf	+1	1	uh but it would also im improve the design of the product .
+ES2008b.C.dialog-act.vkaraisk.86	816.35	821.98	C	UI	inf	+1	1	Um personally wa what I want from a remote control is a device that's simple ,
+ES2008b.C.dialog-act.vkaraisk.88	823.76	829.12	C	UI	inf	+1	1	uh it's got big buttons for doing the things I do most often , changing the volume , changing the channel .
+ES2008b.C.dialog-act.vkaraisk.94	841.53	843.05	C	UI	sug	+1	1	that's ergonomically designed .
+ES2008b.C.dialog-act.vkaraisk.96	865.46	869.41	C	UI	inf	+1	1	I think there's there's certainly a market for technology that looks cool .
+10	ES2008b.rdhillon_cc.s.4	He presented two remotes currently on the market and the advantages and disadvantages to each design.
+ES2008b.C.dialog-act.vkaraisk.59	720.68	728.23	C	UI	inf	+1	1	I had a look on the {disfmarker} on the web uh to see if I could find a few examples of existing television remote controls .
+ES2008b.C.dialog-act.vkaraisk.60	728.23	733.03	C	UI	el.ass	+1	1	In analysing these we can consider what what things {disfmarker} what's good about them ,
+ES2008b.C.dialog-act.vkaraisk.64	736.69	741.71	C	UI	el.sug	+1	1	um how we can improve on the designs that that that I found
+ES2008b.C.dialog-act.vkaraisk.66	749.49	754.15	C	UI	inf	+1	1	Here's two examples uh probably at the extreme ends of the spectrum .
+ES2008b.C.dialog-act.vkaraisk.67	754.15	761.76	C	UI	inf	+1	1	Um on the left here we've got uh an engineering-based design for a remote control ,
+ES2008b.C.dialog-act.vkaraisk.68	761.76	763.84	C	UI	inf	+1	1	so it's one that's got lots of buttons ,
+ES2008b.C.dialog-act.vkaraisk.76	782.58	784.39	C	UI	inf	+1	1	The one on the right is a lot more basic .
+ES2008b.C.dialog-act.vkaraisk.78	789.39	791.47	C	UI	inf	+1	1	It would be a lot quicker to learn to use it ,
+ES2008b.C.dialog-act.vkaraisk.82	799.89	803.4	C	UI	inf	+1	1	Uh there's a lot of features that are missing from that remote control .
+ES2008b.C.dialog-act.vkaraisk.70	765.74	767.81	C	UI	inf	+1	1	everything you might possibly want to do is there ,
+16	ES2008b.rdhillon_cc.s.5	The industrial designer described the interior workings of a remote.
+ES2008b.B.dialog-act.vkaraisk.33	921.01	923.07	B	ID	inf	+1	1	this is our working design presentation .
+ES2008b.B.dialog-act.vkaraisk.34	923.07	926.25	B	ID	ass	+1	1	Um I had a bit of {disfmarker} some issues with this ,
+ES2008b.B.dialog-act.vkaraisk.35	926.25	930.02	B	ID	inf	+1	1	because I wasn't able to find everything I needed ,
+ES2008b.B.dialog-act.vkaraisk.40	939.17	945.03	B	ID	inf	+1	1	what we're trying to do as a working design is figure out how the aparata apparatus can fulfil its function .
+ES2008b.B.dialog-act.vkaraisk.41	945.49	950.5	B	ID	inf	+1	1	Um one of the examples that kept coming up for me is that a coffee grinder .
+ES2008b.B.dialog-act.vkaraisk.43	951.01	954.63	B	ID	inf	+1	1	because it converts electrical energy to grinding the beans
+ES2008b.B.dialog-act.vkaraisk.47	961.19	966.76	B	ID	inf	+1	1	because of the combination of electrical energy and then the other things that are brought in to make it work .
+ES2008b.B.dialog-act.vkaraisk.60	993.57	1000.2	B	ID	inf	+1	1	So you make a schematic of the way that the the energy is converted tsh towards this practical function .
+ES2008b.B.dialog-act.vkaraisk.65	1010.8	1020.78	B	ID	inf	+1	1	the findings that I got uh very {disfmarker} just very briefly is that you have a choice of the way that the information is projected to the receiver
+ES2008b.B.dialog-act.vkaraisk.66	1020.78	1023.92	B	ID	ass	+1	1	and in my opinion infra-red is the best way to do that
+ES2008b.B.dialog-act.vkaraisk.69	1027.8	1029.79	B	ID	inf	+1	1	Um the user interface is critical here ,
+ES2008b.B.dialog-act.vkaraisk.70	1029.79	1037.47	B	ID	inf	+1	1	because a lot of the things that happen in a remote control happen through the chip that controls {disfmarker} that converts the electrical energy into data ,
+ES2008b.B.dialog-act.vkaraisk.76	1051.98	1065.86	B	ID	inf	+1	1	the components that we find here are the energy source , you know the battery or whatever that's gonna m make it work , then the chip , which converts the data , the user that's controlling the chip , and the infra-red bulb that's gonna let us move the data to the receiver .
+ES2008b.B.dialog-act.vkaraisk.106	1147.7	1153.81	B	ID	sug	+1	1	And {vocalsound} personal preferences , besides the fact that I can't spell , we need a long-lasting energy source ,
+ES2008b.B.dialog-act.vkaraisk.108	1155.87	1159.05	B	ID	sug	+1	1	We need a chip that works well with the user interface ,
+ES2008b.B.dialog-act.vkaraisk.111	1167.77	1170.84	B	ID	sug	+1	1	and we need a reliable and clear infra-red signal ,
+73	ES2008b.rdhillon_cc.s.6	The project manager briefed the team on some new requirements and led them in a discussion about their target group , the option to include speech recognition , how to find a remote when lost , and batteries.
+ES2008b.A.dialog-act.vkaraisk.112	1270.9	1273.2	A	PM	inf	+1	1	requirements . We have a couple new requirements
+ES2008b.A.dialog-act.vkaraisk.116	1281.27	1283.31	A	PM	inf	+1	2	but we're not gonna work with teletext
+ES2008b.A.dialog-act.vkaraisk.115	1278.78	1281.27	A	PM	inf	+1	2	We didn't bring it up yet , or at all in the meetings so far ,
+ES2008b.D.dialog-act.vkaraisk.102	1289.92	1291.21	D	ME	el.inf	+1	1	What's teletext ?
+ES2008b.B.dialog-act.vkaraisk.126	1292.05	1293.36	B	ID	inf	+1	1	Uh , it's a British thing .
+ES2008b.C.dialog-act.vkaraisk.112	1301.7	1304.95	C	UI	inf	+1	1	I suppose it's kind of similar to a very very basic web browser .
+ES2008b.C.dialog-act.vkaraisk.116	1315.83	1324.43	C	UI	inf	+1	1	this this kind of index appears on the television screen with just some some text and some very blocky looking graphics on it .
+ES2008b.C.dialog-act.vkaraisk.118	1326.66	1333.36	C	UI	inf	+1	1	and it gives you information , mostly rather boring stuff like what's on T_V_ next and share prices and that kind of thing .
+ES2008b.C.dialog-act.vkaraisk.121	1342.92	1344.38	C	UI	inf	+1	1	It's earl it's pretty old technology .
+ES2008b.A.dialog-act.vkaraisk.131	1365.34	1372.54	A	PM	inf	+1	2	like your question earlier um whether this is going to be t for television , video , or etcetera . Just for television . That's what we're focused on .
+ES2008b.A.dialog-act.vkaraisk.132	1372.54	1374.14	A	PM	inf	+1	1	Um otherwise becomes to complex ,
+ES2008b.A.dialog-act.vkaraisk.135	1379.89	1385.99	A	PM	inf	+1	2	Um and finally there's more marketing , I think , um , our corporate image has to be recognisable .
+ES2008b.A.dialog-act.vkaraisk.137	1386.28	1391.16	A	PM	sug	+1	2	while we're gonna make it look pretty we need to use our colour and our slogan i in the new design .
+ES2008b.C.dialog-act.vkaraisk.126	1395.71	1400.19	C	UI	inf	+1	1	It's {disfmarker} It's kind of yellow colour with uh we put fashion in electronics .
+ES2008b.A.dialog-act.vkaraisk.139	1400.19	1404.11	A	PM	inf	+1	1	and we have that {disfmarker} the emphasis on the R_s in um {disfmarker}
+ES2008b.A.dialog-act.vkaraisk.138	1398.31	1400.19	A	PM	inf	+1	1	Looks like , yeah , kind of a yellow and black
+ES2008b.C.dialog-act.vkaraisk.127	1402.81	1403.63	C	UI	inf	+1	1	It's like double R_ .
+ES2008b.A.dialog-act.vkaraisk.149	1427.67	1431.53	A	PM	sug	+1	1	we need to talk about our functions and our target group .
+ES2008b.A.dialog-act.vkaraisk.151	1433.23	1440.13	A	PM	inf	+1	1	You um in your analysis of different market um {disfmarker} of the marketing , you identified that different groups wanted different things
+ES2008b.B.dialog-act.vkaraisk.140	1456.31	1467.77	B	ID	inf	+1	2	if we're gonna say that function um fashion {disfmarker} we put the fashion in in electronics then you {disfmarker} automatically , I think , a sort of younger group that {disfmarker} that's {disfmarker} who's gonna be attracted to this .
+ES2008b.D.dialog-act.vkaraisk.115	1469.99	1473.08	D	ME	el.inf	+1	2	I do think , who's gonna have the money to buy that also , that one ?
+ES2008b.A.dialog-act.vkaraisk.161	1490.3	1494.96	A	PM	inf	+1	1	at least right now what we're doing is um deciding on just the remote itself ,
+ES2008b.D.dialog-act.vkaraisk.116	1500.08	1503.49	D	ME	inf	+1	2	The only break-down that I was given in terms of age was the voice activation
+ES2008b.D.dialog-act.vkaraisk.119	1509.14	1514.07	D	ME	inf	+1	2	so it's like basically fifteen to thirty five that think that that's a good idea .
+ES2008b.B.dialog-act.vkaraisk.144	1526.26	1531.75	B	ID	inf	+1	2	that's probably uh a population w quite a little bit of disposable income for use on technology anyway ,
+ES2008b.A.dialog-act.vkaraisk.165	1536.58	1538.7	A	PM	inf	+1	1	that's all specific for speech recognition .
+ES2008b.A.dialog-act.vkaraisk.166	1538.7	1540.53	A	PM	el.ass	+1	2	Are we gonna use that as one of our functions ?
+ES2008b.C.dialog-act.vkaraisk.137	1546.21	1547.52	C	UI	ass	+1	2	I I would say no ,
+ES2008b.C.dialog-act.vkaraisk.138	1547.52	1549.49	C	UI	inf	+1	2	because it's gonna add too much to the price .
+ES2008b.C.dialog-act.vkaraisk.142	1562.71	1569.1	C	UI	inf	+1	2	And I wonder if we can get voice recognition into that twelve and a half Euros without having to make too many other compromises .
+ES2008b.B.dialog-act.vkaraisk.152	1586.18	1589.57	B	ID	el.inf	+1	1	but why are we why are we aiming for a technological advancement ?
+ES2008b.B.dialog-act.vkaraisk.153	1589.57	1592.65	B	ID	inf	+1	1	Everything we're talking about is ease of use and simple
+ES2008b.D.dialog-act.vkaraisk.131	1605.51	1608.69	D	ME	el.inf	+1	1	If someone's looking to buy a new remote , don't they want like an upgrade ?
+ES2008b.A.dialog-act.vkaraisk.176	1613.07	1614.7	A	PM	sug	+1	1	or we can look at um user-friendly .
+ES2008b.A.dialog-act.vkaraisk.180	1628.15	1632.55	A	PM	el.ass	+1	1	And we also need to talk about if we're only gonna have the very simple ones
+ES2008b.A.dialog-act.vkaraisk.181	1632.55	1635.16	A	PM	el.ass	+1	1	or also have the other ones just separate somehow
+ES2008b.D.dialog-act.vkaraisk.138	1640.19	1643.1	D	ME	sug	+1	2	like if it was just a simple , either this way or this way ,
+ES2008b.D.dialog-act.vkaraisk.140	1643.1	1644.15	D	ME	sug	+1	2	that had like the main buttons
+ES2008b.D.dialog-act.vkaraisk.141	1644.15	1645.44	D	ME	sug	+1	2	and then you could like pull something out ,
+ES2008b.D.dialog-act.vkaraisk.145	1670.02	1673.81	D	ME	inf	+1	2	'Cause then 's like people who don't wanna ever look at them , never even have to see them
+ES2008b.A.dialog-act.vkaraisk.192	1705.74	1709.8	A	PM	el.sug	+1	1	what are we emphasising ? I {disfmarker} what in this project ?
+ES2008b.A.dialog-act.vkaraisk.200	1724.53	1728.88	A	PM	inf	+1	2	which includes um an emphasis on making the infra-red very functional ,
+ES2008b.C.dialog-act.vkaraisk.157	1709.28	1711.54	C	UI	sug	+1	3	Si simplicity and fashion .
+ES2008b.D.dialog-act.vkaraisk.155	1735.43	1739.11	D	ME	el.sug	+1	2	What can you do to like make the infra-red more functional ,
+ES2008b.A.dialog-act.vkaraisk.203	1741.76	1744.71	A	PM	inf	+1	2	I think it's a lot {vocalsound} to do with battery ,
+ES2008b.D.dialog-act.vkaraisk.159	1752.84	1753.95	D	ME	inf	+1	2	So 's just the quality of the chip .
+ES2008b.A.dialog-act.vkaraisk.206	1769.59	1772.57	A	PM	el.ass	+1	2	So our target group , we're saying , fifteen to thirty five ?
+ES2008b.D.dialog-act.vkaraisk.162	1773.51	1775.728	D	ME	ass	+1	2	I dunno how useful that number is if we're not doing {disfmarker}
+ES2008b.A.dialog-act.vkaraisk.207	1775.84	1777.13	A	PM	inf	+1	2	S voice recognition ,
+ES2008b.D.dialog-act.vkaraisk.166	1789.65	1793.41	D	ME	el.inf	+1	2	And if the whole idea is you're using a remote then why would you have voice ,
+ES2008b.D.dialog-act.vkaraisk.167	1793.41	1795.05	D	ME	inf	+1	2	like you know what I mean and then it's like you wouldn't need a remote
+ES2008b.C.dialog-act.vkaraisk.163	1796.88	1799.01	C	UI	inf	+1	2	It's for , like , the ultimately lazy people ,
+ES2008b.D.dialog-act.vkaraisk.171	1803.75	1809.07	D	ME	off	+1	1	I mean if I get m more numbers , I'll e-mail you before the next meeting in terms of ages .
+ES2008b.B.dialog-act.vkaraisk.186	1823.79	1828.72	B	ID	sug	+1	2	but I th I think regardless we're we're aiming for the under sixty five or something .
+ES2008b.A.dialog-act.vkaraisk.219	1834.5	1838.68	A	PM	el.ass	+1	2	can we narrow it down to maybe um teenagers and families ?
+ES2008b.A.dialog-act.vkaraisk.223	1850.0	1851.92	A	PM	ass	+1	2	It's it's hard to narrow it down .
+ES2008b.C.dialog-act.vkaraisk.166	1854.0	1858.12	C	UI	inf	+1	2	I think the product appeals across a quite a broad range of ages .
+ES2008b.C.dialog-act.vkaraisk.168	1862.01	1869.85	C	UI	inf	+1	2	so it's going to appeal to people , maybe people who have problems with technology , you know , people who get scared by having lots of buttons ,
+ES2008b.D.dialog-act.vkaraisk.181	1875.8	1878.67	D	ME	sug	+1	2	maybe we don't have to defi define the target group by the demographic of age ,
+ES2008b.A.dialog-act.vkaraisk.229	1893.05	1901.76	A	PM	sug	+1	2	So maybe it's more useful to d d to define objectives like fashion and simplicity than to find specific target group as far as age is {disfmarker}
+ES2008b.A.dialog-act.vkaraisk.234	1911.32	1914.93	A	PM	el.ass	+1	1	do we want some kind of thing to find it if it's lost ?
+ES2008b.A.dialog-act.vkaraisk.235	1916.53	1918.25	A	PM	el.ass	+1	1	Like a button on a T_V_ you can press
+ES2008b.D.dialog-act.vkaraisk.196	1941.83	1944.04	D	ME	inf	+1	1	It would be relevant to like the overall goal I think ,
+ES2008b.A.dialog-act.vkaraisk.246	1951.13	1953.55	A	PM	inf	+1	2	Um so we want something to keep it from getting lost .
+ES2008b.A.dialog-act.vkaraisk.247	1956.28	1965.24	A	PM	inf	+1	2	And {vocalsound} we want um we want large buttons for the essential things .
+ES2008b.A.dialog-act.vkaraisk.249	1972.47	1981.95	A	PM	inf	+1	2	We want a possibility to um to get um a possibility to get the extra functions .
+ES2008b.C.dialog-act.vkaraisk.178	1985.9	1988.36	C	UI	inf	+1	2	Which are kind of hidden away in some way
+ES2008b.A.dialog-act.vkaraisk.258	2024.98	2027.49	A	PM	el.ass	+1	2	Battery ? Do we need a long-life battery ?
+ES2008b.C.dialog-act.vkaraisk.180	2038.48	2040.86	C	UI	sug	+1	2	We should maybe investigate whether it needs a battery at all .
+ES2008b.B.dialog-act.vkaraisk.212	2055.75	2061.98	B	ID	sug	+1	3	But you could maybe have it in a little charging station like a mobile phone , or like a little cradle for your iPod .
+ES2008b.C.dialog-act.vkaraisk.186	2062.52	2064.3	C	UI	ass	+1	2	Yeah , that's that's possible . Yeah .
+ES2008b.B.dialog-act.vkaraisk.217	2070.33	2075.1	B	ID	inf	+1	2	that might contribute to less people losing it too if it {vocalsound} it stays in one place .
+ES2008b.A.dialog-act.vkaraisk.271	2084.13	2085.26	A	PM	ass	+1	2	that's {vocalsound} that's a good idea ,

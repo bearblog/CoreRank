@@ -1,0 +1,12 @@
+The data collection running in parallel with the project can start shortly with recruiting subjects.
+Meanwhile , the german parser now works with english sentences.
+The parser's output modifies the XML used by the system to initiate actions and generate responses.
+The XML for Map requests also comprise a route , route elements and points of interest along the way.
+It is at this level that Enter/Vista/Approach tags will be added as action modes.
+As the project evolves , further enrichment of the ontology ( actions , linguistic features ) will be necessary.
+Similarly , object representations will include an EVA vector.
+This can be incorporated in the database entry for a particular building or inherited from the ontology of the building type.
+These elements will constitute only a small part of the inputs of the Bayes-net that determines the action mode.
+The actual number of the inputs can create a combinatorial explosion when setting the probabilities.
+Noisy-OR's can help avoid this by simplifying the probability tables and applying a deterministic function to produce their complete version.
+In any case , further to fulfilling the basic requirements ( translating the parser and the generator into english ) , the project is entirely open-ended in terms of focus of research.

@@ -1,0 +1,9 @@
+The main topics discussed were the results of digit recognition and the forced alignment task.
+Realisations as to the former included the surprisingly good results from the lapel microphones and the fact that the widely-used HTK-based systems performed worse than SRI , which , however , is specifically trained on digits.
+For the results to be more closely comparable , it was suggested that the TI digit corpus is used on the same system , although the two corpora differ in recording conditions and amount of data per speaker.
+Other methods to improve recognition results are comparing the signals of close and far-field microphones , or using the Switchboard model for channel adaptation before speaker adaptation is carried out.
+On the other hand , there have been improvements on forced alignments , although some issues still need debugging.
+Hand-marked word-level alignment data would be very useful for the fine-tuning of more parameters.
+Finally , a paper on overlap identification is being prepared for Eurospeech.
+This work can potentially be used for the planned research on prosodic features.
+Another two papers ( on segmentation and on the Aurora system ) are also being submitted by ICSI staff.

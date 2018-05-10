@@ -1,0 +1,32 @@
+0	Bro018.s.1	Group members reported on their work progress.
+3	Bro018.s.2	The new features for the voiced/unvoiced recognition experiment only improved results marginally.
+Bro018.D.dialogueact6	11.336	18.116	D	PhD	s	+1	2	Well eh you know that I work {disfmarker} I begin to work with a new feature to detect voice - unvoice .
+Bro018.D.dialogueact26	83.623	88.77	D	PhD	s	+1	1	And , well , the result are li a little bit better , but more or less similar .
+Bro018.C.dialogueact120	295.43	299.33	C	Professor	s	-1	0	So just having the three output thing doesn't {disfmarker} doesn't really buy you anything .
+2	Bro018.s.3	The energy was included in the inputs , but not the spectral slope , which is also a voicedness factor.
+Bro018.D.dialogueact74	177.001	178.001	D	PhD	s	-1	0	I don't use that {disfmarker}
+Bro018.D.dialogueact46	132.25	135.833	D	PhD	s.%--	-1	0	That is like the energy with these three feature ,
+1	Bro018.s.4	Alternative combinations of inputs will be implemented.
+Bro018.D.dialogueact98	232.59	234.41	D	PhD	fg|s	-1	0	Well , I can also th use this .
+3	Bro018.s.5	A second ongoing task concerns the ascertainment of the complete set of dynamic acoustic events sufficient for phone or word recognition , at least in the TIMIT corpus.
+Bro018.A.dialogueact455	1091.66	1104.88	A	Grad	s	+1	1	and um {vocalsound} {vocalsound} we 're {disfmarker} we 're {disfmarker} we 're {vocalsound} thinking about a way to test the completeness of a {disfmarker} a set of um dynamic uh events .
+Bro018.A.dialogueact460	1163.3	1164.4	A	Grad	s^e	-1	0	at least found in TIMIT .
+Bro018.A.dialogueact459	1146.99	1163.19	A	Grad	s	-1	0	So i i the idea is if we get good phone recognition results , {vocalsound} using um these set of acoustic events , {vocalsound} then {vocalsound} um that {disfmarker} that says that these acoustic events are g sufficient to cover {vocalsound} a set of phones ,
+5	Bro018.s.6	A test comparing recurrent neural nets with Support Vector Machines for detection of phonological features in MFCC's is also going to be run as part of a class project.
+Bro018.A.dialogueact545	1474.39	1481.11	A	Grad	h|s^rt	-1	0	So for my class project I 'm {vocalsound} um {vocalsound} {vocalsound} I 'm tinkering with uh support vector machines ?
+Bro018.A.dialogueact548	1488.24	1496.13	A	Grad	s	-1	0	And so I 'm gonna apply that to {vocalsound} um compare it with the results by um King and Taylor who did {vocalsound} um these
+Bro018.A.dialogueact550	1497.32	1503.91	A	Grad	s	-1	0	using recurrent neural nets , they recognized {vocalsound} um {vocalsound} a set of phonological features
+Bro018.A.dialogueact745	1966.48	1981.62	A	Grad	h|s	-1	0	um to come up with a mapping from um MFCC 's or s some feature set , {vocalsound} um to {vocalsound} uh w to whether there 's existence of a particular phonological feature .
+Bro018.E.dialogueact739	1957.47	1959.97	E	PhD	qw	-1	0	wh I 'm {disfmarker} what is the task for the class project ?
+2	Bro018.s.7	SVM's work like a condensed "nearest neighbour" and are reputed to learn patterns with less training data.
+Bro018.A.dialogueact559	1525.48	1533.24	A	Grad	fh|s	-1	0	and um so if you {disfmarker} if you give it less data it still does a reasonable job {vocalsound} in learning the {disfmarker} the patterns .
+Bro018.E.dialogueact613	1679.95	1685.42	E	PhD	s^bs	-1	0	So rather than doing nearest neighbor where you compare to every single one , you just pick a few critical ones ,
+1	Bro018.s.8	Another comparison project in progress is the one between PLP amd mel cepstrum for SRI; it is also proceeding with various checks being considered.
+Bro018.C.dialogueact796	2091.35	2104.24	C	Professor	s	+1	1	but I was gonna ask about the {disfmarker} {vocalsound} the um {vocalsound} changes to the data in comparing PLP and mel cepstrum for the SRI system .
+1	Bro018.s.9	It is generally accepted that PLP is more noise robust.
+Bro018.C.dialogueact994	2629.18	2631.74	C	Professor	s^df	-1	0	So um it 's a little more noise robust .
+2	Bro018.s.10	A final report summarised how the mean subtraction method shrank the error rates for the digit recognition.
+Bro018.B.dialogueact1087	2839.07	2842.13	B	Grad	s	+1	2	well I {vocalsound} tried this mean subtraction method .
+Bro018.B.dialogueact1103	2891.35	2893.73	B	Grad	fh|s^ba	+1	1	and um {vocalsound} it {disfmarker} it helped
+1	Bro018.s.11	This achievement suggests that the method should also be tried on better systems like SRI.
+Bro018.C.dialogueact1161	3021.93	3025.91	C	Professor	s	-1	0	and then {disfmarker} {vocalsound} and then uh use th use it for the SRI system .

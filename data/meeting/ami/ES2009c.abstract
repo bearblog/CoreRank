@@ -1,0 +1,211 @@
+46	ES2009c.JacquelinePalmer.s.1	The Industrial Designer presented an analysis of cost and the manufacturing options that were available to the group.
+ES2009c.B.dialog-act.vkaraisk.8	122.84	127.57	B	ID	inf	+1	1	basically what I'm gonna have to talk to you about today is um component design
+ES2009c.B.dialog-act.vkaraisk.9	127.57	131.93	B	ID	inf	+1	1	and it's been brought to my attention that we may be somewhat limited as to what we can do
+ES2009c.B.dialog-act.vkaraisk.12	134.94	137.9	B	ID	inf	+1	1	Basically what I'm gonna be doing is talking to you about that .
+ES2009c.B.dialog-act.vkaraisk.13	139.16	143.46	B	ID	inf	+1	1	Um , components of a remote control , okay . We've already kind of gone over this
+ES2009c.B.dialog-act.vkaraisk.14	143.46	145.62	B	ID	sug	+1	1	but we're gonna have to get into more detail
+ES2009c.B.dialog-act.vkaraisk.16	148.9	157.37	B	ID	inf	+1	1	Energy source , um , our manufacturer offers a variety of energy sources , your standard battery , solar cells .
+ES2009c.B.dialog-act.vkaraisk.17	157.37	159.15	B	ID	inf	+1	1	Our manufacturer didn't say anything about lithium
+ES2009c.B.dialog-act.vkaraisk.19	160.37	163.75	B	ID	inf	+1	1	if we do go that route , we might have to look elsewhere .
+ES2009c.B.dialog-act.vkaraisk.20	163.75	167.08	B	ID	inf	+1	1	Um , and also there's a kinetic energy possibility .
+ES2009c.B.dialog-act.vkaraisk.21	167.08	173.4	B	ID	inf	+1	1	Basically , it's like a um {disfmarker} the idea of moving the remote would create enough energy to keep it running .
+ES2009c.B.dialog-act.vkaraisk.23	174.23	180.03	B	ID	ass	+1	1	but I don't know whether that would be powerful enough to illuminate a touch screen .
+ES2009c.B.dialog-act.vkaraisk.25	182.01	189.42	B	ID	inf	+1	1	Um , the case , we have a few options , plastic , rubber or wood .
+ES2009c.B.dialog-act.vkaraisk.26	189.42	195.39	B	ID	sug	+1	1	Um and then as far as the way it's shaped , we can do standard boring flat ,
+ES2009c.B.dialog-act.vkaraisk.27	195.39	196.89	B	ID	ass	+1	1	which we probably don't wanna do ,
+ES2009c.B.dialog-act.vkaraisk.28	196.89	199.47	B	ID	sug	+1	1	curved or very sexy double curved .
+ES2009c.A.dialog-act.vkaraisk.38	199.72	201.28	A	PM	el.sug	+1	1	What kind of th thickness are we looking at ?
+ES2009c.B.dialog-act.vkaraisk.29	201.64	204.93	B	ID	sug	+1	1	Um , I imagine that we could specify .
+ES2009c.B.dialog-act.vkaraisk.31	214.07	219.74	B	ID	inf	+1	1	Um , the buttons , there are multiple scroll buttons available from our manufacturer ,
+ES2009c.B.dialog-act.vkaraisk.32	219.74	224.12	B	ID	inf	+1	1	but to use those we'd have to use more chips ,
+ES2009c.B.dialog-act.vkaraisk.34	227.04	233.59	B	ID	inf	+1	1	And if we do go with the rubber doubled curved case um we'll have to use rubber push buttons
+ES2009c.B.dialog-act.vkaraisk.35	233.59	236.86	B	ID	inf	+1	1	because the other buttons aren't compatible with that .
+ES2009c.B.dialog-act.vkaraisk.37	239.42	241.38	B	ID	inf	+1	2	touch screen equals many chips
+ES2009c.B.dialog-act.vkaraisk.38	241.38	243.31	B	ID	inf	+1	2	which equals many Euro .
+ES2009c.B.dialog-act.vkaraisk.39	245.78	254.94	B	ID	inf	+1	1	Um , one thing that I noticed was that most remotes operate on a infrare on the infrared part of the spectrum .
+ES2009c.B.dialog-act.vkaraisk.40	254.94	259.56	B	ID	inf	+1	1	So you notice when you push a button on a remote you can't see anything coming out of it
+ES2009c.B.dialog-act.vkaraisk.41	259.56	261.65	B	ID	inf	+1	1	but in fact there is light coming out of the remote
+ES2009c.B.dialog-act.vkaraisk.45	268.54	271.05	B	ID	ass	+1	1	Uh one thing that I thought might be interesting
+ES2009c.B.dialog-act.vkaraisk.46	271.05	277.8	B	ID	sug	+1	1	was to use part {disfmarker} use visible light coming out of the remote , just kind of as a fun gimmick .
+ES2009c.B.dialog-act.vkaraisk.47	277.8	281.03	B	ID	inf	+1	1	So you could actually see something coming out of the remote when you pushed it .
+ES2009c.A.dialog-act.vkaraisk.45	286.21	287.88	A	PM	sug	+1	1	is there an option that we can have that off or on
+ES2009c.A.dialog-act.vkaraisk.46	287.88	289.344	A	PM	inf	+1	1	so a person can select like {disfmarker}
+ES2009c.B.dialog-act.vkaraisk.50	291.23	293.37	B	ID	ass	+1	1	I am sure that we could do that .
+ES2009c.B.dialog-act.vkaraisk.53	297.39	298.85	B	ID	inf	+1	1	just as a fun gimmick .
+ES2009c.B.dialog-act.vkaraisk.55	302.21	307.47	B	ID	inf	+1	1	Um , and then on to the circuit board that we're gonna use , also known as the chip .
+ES2009c.B.dialog-act.vkaraisk.56	307.47	313.36	B	ID	inf	+1	1	Uh , we really don't have any way around the T_A_ one one eight three five .
+ES2009c.B.dialog-act.vkaraisk.59	316.24	319.5	B	ID	inf	+1	1	we're very limited by what our current manufacturers can offer ,
+ES2009c.B.dialog-act.vkaraisk.60	319.5	324.33	B	ID	el.ass	+1	1	um and my question to all of you is , should we look to other manufacturies
+ES2009c.B.dialog-act.vkaraisk.61	324.33	326.52	B	ID	el.ass	+1	1	or should we just make do with what we have available ?
+ES2009c.D.dialog-act.vkaraisk.17	330.03	331.11	D	ME	sug	+1	1	I'd say shop around
+ES2009c.D.dialog-act.vkaraisk.18	331.11	334.09	D	ME	el.ass	+1	1	but with our time constraints , is that really a feasible option ?
+ES2009c.B.dialog-act.vkaraisk.64	337.73	343.79	B	ID	inf	+1	1	Um , if we do go the lithium battery route then we'll have to go outside our current manufacturer .
+ES2009c.B.dialog-act.vkaraisk.65	343.79	344.93	B	ID	fra	+1	1	My personal preference is {disfmarker}
+ES2009c.B.dialog-act.vkaraisk.67	346.97	350.49	B	ID	sug	+1	1	uh I think we should probably go the solar battery route ,
+ES2009c.B.dialog-act.vkaraisk.68	350.49	355.99	B	ID	inf	+1	1	just to kinda keep with the environmentally friendly theme that we have going on .
+ES2009c.B.dialog-act.vkaraisk.69	355.99	358.35	B	ID	ass	+1	1	Uh , I like the idea of the visible light signalling ,
+ES2009c.B.dialog-act.vkaraisk.71	360.39	368.87	B	ID	sug	+1	1	and uh I was thinking about {disfmarker} I was thinking of ways that we could produce the remote in a variety of different case materials to suit different tastes .
+18	ES2009c.JacquelinePalmer.s.2	The Marketing Expert presented market trends and the organic trend that this project would adopt.
+ES2009c.D.dialog-act.vkaraisk.34	424.7	429.17	D	ME	inf	+1	1	Um , basically I was looking at what's going on in the remote control market right now
+ES2009c.D.dialog-act.vkaraisk.35	429.17	431.19	D	ME	inf	+1	1	and what's going on in other design fields ,
+ES2009c.D.dialog-act.vkaraisk.36	431.19	434.65	D	ME	inf	+1	1	to see sort of what's what's trendy , what's new , what's happening .
+ES2009c.D.dialog-act.vkaraisk.37	434.65	440.33	D	ME	inf	+1	1	Um , remote control right now {disfmarker} basically everybody says they want newer , fancier , more exciting {disfmarker}
+ES2009c.D.dialog-act.vkaraisk.39	443.69	447.13	D	ME	inf	+1	1	um {disfmarker} that we need innovative design options
+ES2009c.D.dialog-act.vkaraisk.40	447.13	449.99	D	ME	inf	+1	1	and there needs to be an easy user interface .
+ES2009c.D.dialog-act.vkaraisk.41	449.99	461.63	D	ME	inf	+1	1	Um the challenge is that current trends right now , across the board in fashion , in furniture , in technology , is a very organic fruit and vegetable kind of thing .
+ES2009c.D.dialog-act.vkaraisk.42	462.13	466.28	D	ME	sug	+1	1	Now I'm not saying we should have , you know , tomato shaped remote controls or anything ,
+ES2009c.D.dialog-act.vkaraisk.43	466.28	470.94	D	ME	sug	+1	1	but I think it is possible maybe to use um natural colours ,
+ES2009c.D.dialog-act.vkaraisk.44	470.94	474.74	D	ME	sug	+1	2	like if wood is an option , that whole organic , sleek , clean ,
+ES2009c.D.dialog-act.vkaraisk.46	479.31	480.45	D	ME	sug	+1	2	Different skin options ,
+ES2009c.D.dialog-act.vkaraisk.53	502.2	507.33	D	ME	inf	+1	1	and th apparently the feel of the next couple of years is spongy ,
+ES2009c.D.dialog-act.vkaraisk.55	510.66	515.74	D	ME	sug	+1	2	though if we can get around to getting piloting , I thought maybe a casing option like uh
+ES2009c.D.dialog-act.vkaraisk.56	517.57	524.656	D	ME	sug	+1	2	not like a skin , but like a holder almost if you could do like um , leather options or wood options or something {disfmarker}
+ES2009c.B.dialog-act.vkaraisk.83	526.6	531.49	B	ID	sug	+1	2	As far as the rubber that we can use {disfmarker} we can use a rubber as part of the case ,
+ES2009c.B.dialog-act.vkaraisk.84	531.49	533.9	B	ID	inf	+1	2	it has a consistency of those stress balls .
+ES2009c.D.dialog-act.vkaraisk.65	550.41	554.49	D	ME	ass	+1	2	I think perhaps the double curve thing and maybe this rubber option is our best way to go for right now .
+ES2009c.D.dialog-act.vkaraisk.69	561.72	565.33	D	ME	ass	+1	1	but then if the touch screen thing isn't gonna work out for us that's really a non-issue .
+9	ES2009c.JacquelinePalmer.s.3	She discussed materials that could be used to follow this trend.
+ES2009c.D.dialog-act.vkaraisk.44	470.94	474.74	D	ME	sug	+1	2	like if wood is an option , that whole organic , sleek , clean ,
+ES2009c.D.dialog-act.vkaraisk.46	479.31	480.45	D	ME	sug	+1	2	Different skin options ,
+ES2009c.D.dialog-act.vkaraisk.55	510.66	515.74	D	ME	sug	+1	2	though if we can get around to getting piloting , I thought maybe a casing option like uh
+ES2009c.D.dialog-act.vkaraisk.56	517.57	524.656	D	ME	sug	+1	2	not like a skin , but like a holder almost if you could do like um , leather options or wood options or something {disfmarker}
+ES2009c.B.dialog-act.vkaraisk.83	526.6	531.49	B	ID	sug	+1	2	As far as the rubber that we can use {disfmarker} we can use a rubber as part of the case ,
+ES2009c.B.dialog-act.vkaraisk.84	531.49	533.9	B	ID	inf	+1	2	it has a consistency of those stress balls .
+ES2009c.D.dialog-act.vkaraisk.65	550.41	554.49	D	ME	ass	+1	2	I think perhaps the double curve thing and maybe this rubber option is our best way to go for right now .
+ES2009c.B.dialog-act.vkaraisk.86	566.91	568.57	B	ID	ass	+1	1	I like the idea of of rubber too
+ES2009c.D.dialog-act.vkaraisk.74	585.85	589.71	D	ME	ass	+1	1	I think that goes against the whole fancy something , a new line ,
+29	ES2009c.JacquelinePalmer.s.4	The User Interface Designer presented several interface concepts including voice recognition , a spinning wheel design , and a touch screen interface.
+ES2009c.C.dialog-act.vkaraisk.24	620.15	624.97	C	UI	inf	+1	1	interface concept by your faithful user interface designer .
+ES2009c.C.dialog-act.vkaraisk.25	626.26	637.1	C	UI	inf	+1	1	So yur user interface , guys , is basically aspects of a computer system that we can see or hear , or otherwise uh perceive .
+ES2009c.C.dialog-act.vkaraisk.29	637.1	643.18	C	UI	inf	+1	1	Uh , commands and mechanisms , that basically user uses to control the operator operating system .
+ES2009c.C.dialog-act.vkaraisk.30	643.18	645.54	C	UI	inf	+1	1	Here's a d series of different remote controls
+ES2009c.C.dialog-act.vkaraisk.31	645.54	647.46	C	UI	inf	+1	1	that are out on the market today .
+ES2009c.C.dialog-act.vkaraisk.34	653.79	658.51	C	UI	inf	+1	1	the following are a bunch of different uh interface uh concepts .
+ES2009c.C.dialog-act.vkaraisk.35	658.51	666.99	C	UI	inf	+1	1	Uh voice recognition , we we um actually have some new uh information from our research design team
+ES2009c.C.dialog-act.vkaraisk.38	669.85	673.71	C	UI	inf	+1	1	current voice recognition starts up to about eighty speech samples ,
+ES2009c.C.dialog-act.vkaraisk.39	673.71	676.41	C	UI	inf	+1	1	um and basically you record your own verbal labels
+ES2009c.C.dialog-act.vkaraisk.40	676.41	678.69	C	UI	inf	+1	1	c and connect them to the remote control .
+ES2009c.C.dialog-act.vkaraisk.42	678.97	684.67	C	UI	inf	+1	1	our design team , research team , has been able to uh set up a system
+ES2009c.C.dialog-act.vkaraisk.43	684.67	694.89	C	UI	inf	+1	1	in which uh you can teach the remote control voice c recognition system to respond to um {disfmarker} with standard responses .
+ES2009c.C.dialog-act.vkaraisk.44	694.89	698.69	C	UI	inf	+1	1	Like you could say good morning uh remote control
+ES2009c.C.dialog-act.vkaraisk.45	698.69	703.05	C	UI	inf	+1	1	and it'll say in a sexy female voice , Good morning Joe . Um .
+ES2009c.C.dialog-act.vkaraisk.49	714.15	721.94	C	UI	inf	+1	1	Um , another concept is what uh Apple has come up with , the spinning wheel with uh L_C_ display like on the uh iPod
+ES2009c.C.dialog-act.vkaraisk.51	724.28	731.75	C	UI	inf	+1	1	Um and then we have the scroll button with integrated push-button , kind of like a modern {gap} a bit bulky , a bit crazy ,
+ES2009c.C.dialog-act.vkaraisk.52	731.75	735.45	C	UI	sug	+1	1	I don't think that's we're necessarily going for .
+ES2009c.C.dialog-act.vkaraisk.53	735.45	755.04	C	UI	inf	+1	1	And uh some special components , uh ideas like uh blocking , having the ability to block channels from your {disfmarker} for your children um and uh dedicated buttons for for commonly used uh channels and even uh ideas like secured or hidden programming
+ES2009c.C.dialog-act.vkaraisk.54	755.04	759.67	C	UI	ass	+1	1	but uh I {disfmarker} again if we go with touch screen I don't think that's a big issue . Um
+ES2009c.C.dialog-act.vkaraisk.55	760.77	765.23	C	UI	inf	+1	1	and uh this is kind of the uh the big daddy of remote controls here .
+ES2009c.C.dialog-act.vkaraisk.56	766.11	771.41	C	UI	inf	+1	1	Uh the jumbo universal remote control is almost impossible to misplace or lose .
+ES2009c.C.dialog-act.vkaraisk.58	775.63	784.17	C	UI	sug	+1	1	so I {disfmarker} I mean my ideas here and kind of where I think we're heading is something slightly larger than a regular iPod uh with a hard cla c uh plastic casing
+ES2009c.C.dialog-act.vkaraisk.60	789.12	796.51	C	UI	sug	+1	1	Uh changeable casings uh {disfmarker} our design team was possibly talking about including one extra face plate with the package
+ES2009c.C.dialog-act.vkaraisk.65	808.52	814.87	C	UI	sug	+1	1	Uh touch screen interface , um possibly having go-to buttons being uh stuck into the system
+ES2009c.C.dialog-act.vkaraisk.66	814.87	821.51	C	UI	inf	+1	1	so those don't move away from the screen , uh , the important ones like power , volume and jump between channels .
+ES2009c.C.dialog-act.vkaraisk.67	821.51	826.42	C	UI	sug	+1	1	Um , and of course our voice command system which I've talked a little bit about already
+ES2009c.C.dialog-act.vkaraisk.68	826.42	833.56	C	UI	sug	+1	1	and uh the use of recognisable colours and shapes to aid recognition of the features um that are around
+ES2009c.C.dialog-act.vkaraisk.70	834.87	843.11	C	UI	sug	+1	1	red for power , um arrows for different volume ups and downs and channels ups and downs and what not .
+ES2009c.C.dialog-act.vkaraisk.71	843.11	848.34	C	UI	sug	+1	1	And uh perhaps even adding in some stupid little jokes with the voice recognition idea
+2	ES2009c.JacquelinePalmer.s.5	The group then discussed the features of the device.
+ES2009c.A.dialog-act.vkaraisk.105	887.95	889.63	A	PM	sug	+1	1	Now we kind of have to come to some decisions ,
+ES2009c.A.dialog-act.vkaraisk.107	892.72	895.65	A	PM	sug	+1	1	and all three of us can have a chat about it . Um .
+43	ES2009c.JacquelinePalmer.s.6	They discussed the costs and benefits of using either voice recognition or the touch screen interface , and decided on voice recognition based on their marketing data that favored it.
+ES2009c.A.dialog-act.vkaraisk.108	896.97	910.81	A	PM	el.ass	+1	1	Based on what Nathan presented as far as the um {vocalsound} various costs and benefits um I think , I dunno , what do you guys think about the touch screen at this point ?
+ES2009c.D.dialog-act.vkaraisk.98	913.19	914.8	D	ME	ass	+1	1	I think it's our most marketable feature
+ES2009c.D.dialog-act.vkaraisk.101	920.11	922.98	D	ME	el.inf	+1	2	But can we really afford it
+ES2009c.B.dialog-act.vkaraisk.105	930.4	940.65	B	ID	inf	+1	2	My estimate is that in order to incorporate touch screen technology it's gonna cost us upwards of seventeen fifty Euro per remote ,
+ES2009c.B.dialog-act.vkaraisk.107	940.82	941.94	B	ID	inf	+1	2	that's just an estimate though .
+ES2009c.A.dialog-act.vkaraisk.117	957.91	965.0	A	PM	inf	+1	2	it's just , it is a question of {disfmarker} and how much ca o does that mean we're gonna have to increase the price to make money .
+ES2009c.C.dialog-act.vkaraisk.79	979.81	981.52	C	UI	el.inf	+1	3	Where do you guys come up with these numbers ?
+ES2009c.B.dialog-act.vkaraisk.112	982.2	983.99	B	ID	inf	+1	3	That's just off the top of my head ,
+ES2009c.D.dialog-act.vkaraisk.115	993.15	997.792	D	ME	inf	+1	1	I mean if you're gonna pay for an expensive high class remote , you're gonna expect it to do something {disfmarker}
+ES2009c.A.dialog-act.vkaraisk.132	1023.45	1026.24	A	PM	sug	+1	1	we could probably maybe shrink the profit margins
+ES2009c.A.dialog-act.vkaraisk.133	1026.24	1028.89	A	PM	sug	+1	1	rather than selling for twenty five , sell 'em for thirty ,
+ES2009c.A.dialog-act.vkaraisk.134	1028.89	1031.24	A	PM	sug	+1	1	but that's something that we can have finance deal with .
+ES2009c.A.dialog-act.vkaraisk.135	1031.24	1036.15	A	PM	sug	+1	2	Um , I say that we provisionally go with the touch screen
+ES2009c.D.dialog-act.vkaraisk.121	1051.97	1053.94	D	ME	sug	+1	1	and we can look into this other manufacturing option ,
+ES2009c.D.dialog-act.vkaraisk.122	1053.94	1055.39	D	ME	inf	+1	1	and maybe we can get 'em somewhere else cheaper .
+ES2009c.A.dialog-act.vkaraisk.144	1072.03	1078.07	A	PM	sug	+1	1	let's let's say that okay so the touch screen will be our {vocalsound} um {vocalsound} our main selling point here .
+ES2009c.C.dialog-act.vkaraisk.87	1081.08	1083.72	C	UI	inf	+1	1	I mean I think that we really have two main selling points ,
+ES2009c.D.dialog-act.vkaraisk.128	1083.7	1085.344	D	ME	inf	+1	1	'cause with voice recognition {disfmarker}
+ES2009c.C.dialog-act.vkaraisk.88	1083.72	1086.745	C	UI	inf	+1	1	I think that our casing and the voice recognition {disfmarker}
+ES2009c.A.dialog-act.vkaraisk.147	1091.46	1098.31	A	PM	inf	+1	2	I mean , {vocalsound} if if we're looking at bottom line , now we're looking at upping the cost to seventeen to get the touch screen on ,
+ES2009c.A.dialog-act.vkaraisk.148	1098.31	1100.0	A	PM	sug	+1	2	I think we might have to drop the voice rec .
+ES2009c.D.dialog-act.vkaraisk.130	1099.91	1102.09	D	ME	sug	+1	2	I think we'd have to decide between 'em definitely .
+ES2009c.C.dialog-act.vkaraisk.90	1102.56	1105.76	C	UI	inf	+1	1	To be honest , we have the capa we have the design in-house ,
+ES2009c.C.dialog-act.vkaraisk.91	1105.76	1109.23	C	UI	inf	+1	1	I mean we've we've come up with this , with this new voice {disfmarker}
+ES2009c.A.dialog-act.vkaraisk.151	1125.76	1127.79	A	PM	el.ass	+1	1	What do you think on it Nathan ? About the voice rec ?
+ES2009c.B.dialog-act.vkaraisk.122	1128.25	1132.9	B	ID	inf	+1	2	I think if we {disfmarker} we do both the {disfmarker} obviously production costs are going to go way up
+ES2009c.C.dialog-act.vkaraisk.95	1142.61	1146.88	C	UI	sug	+1	1	I mean we we have to r reflect back on what our market research did say .
+ES2009c.D.dialog-act.vkaraisk.136	1147.04	1149.37	D	ME	inf	+1	1	and they said they wanted voice recognition .
+ES2009c.D.dialog-act.vkaraisk.137	1149.37	1152.26	D	ME	inf	+1	1	Course , maybe they hadn't thought of this whole touch screen option ,
+ES2009c.D.dialog-act.vkaraisk.138	1152.26	1155.67	D	ME	inf	+1	1	but definitely we know the market is there for voice recognition
+ES2009c.C.dialog-act.vkaraisk.96	1169.46	1171.79	C	UI	el.inf	+1	2	Does having both really up our costs ?
+ES2009c.A.dialog-act.vkaraisk.154	1173.168	1174.53	A	PM	inf	+1	2	{vocalsound} I can't see how it wouldn't ,
+ES2009c.A.dialog-act.vkaraisk.165	1193.07	1196.21	A	PM	sug	+1	2	so we have to pick between one of the two . Um .
+ES2009c.D.dialog-act.vkaraisk.144	1206.06	1213.24	D	ME	inf	+1	2	we already have research backing voice recognition as you know fiscally solvent .
+ES2009c.D.dialog-act.vkaraisk.145	1213.24	1218.54	D	ME	sug	+1	1	But uh I I I personally would tend to another direction
+ES2009c.D.dialog-act.vkaraisk.146	1218.54	1221.62	D	ME	sug	+1	1	but if that's what's gonna sell I think that's what we need to go with
+ES2009c.B.dialog-act.vkaraisk.128	1229.53	1232.73	B	ID	ass	+1	1	I think the voice recognition is simpler ,
+ES2009c.A.dialog-act.vkaraisk.171	1239.28	1242.33	A	PM	el.inf	+1	1	Is it cheaper to do the V_R_ or to do the uh touch screen ?
+ES2009c.B.dialog-act.vkaraisk.131	1245.65	1249.34	B	ID	inf	+1	3	Um , this is just off the top of my head keep in mind ,
+ES2009c.B.dialog-act.vkaraisk.134	1257.86	1262.45	B	ID	inf	+1	1	but um , since we already have the technology in-house for the voice recognition
+ES2009c.B.dialog-act.vkaraisk.135	1262.45	1265.9	B	ID	inf	+1	1	we're not gonna have to do as much design work
+ES2009c.A.dialog-act.vkaraisk.180	1284.12	1288.25	A	PM	inf	+1	1	more or less you guys think that o o of the two of 'em , the voice recognition will be better .
+ES2009c.A.dialog-act.vkaraisk.185	1296.99	1300.0	A	PM	inf	+1	2	We will omit the touch screen in favour of voice recognition .
+9	ES2009c.JacquelinePalmer.s.7	They decided to use solar power to power the device.
+ES2009c.A.dialog-act.vkaraisk.193	1323.4	1326.49	A	PM	inf	+1	1	You discussed either a lithium or a solar power .
+ES2009c.A.dialog-act.vkaraisk.194	1326.49	1330.39	A	PM	el.inf	+1	1	Would the solar power be enough to fuel a voice recognition ?
+ES2009c.B.dialog-act.vkaraisk.142	1334.5	1337.3	B	ID	inf	+1	2	Um , the solar power definitely would be
+ES2009c.B.dialog-act.vkaraisk.143	1337.3	1340.49	B	ID	inf	+1	2	but I think just to keep people from getting annoyed ,
+ES2009c.B.dialog-act.vkaraisk.146	1343.48	1345.89	B	ID	sug	+1	2	we should install a small backup battery .
+ES2009c.D.dialog-act.vkaraisk.168	1354.54	1356.25	D	ME	inf	+1	1	we can't guarantee sunlight everywhere
+ES2009c.B.dialog-act.vkaraisk.150	1358.59	1361.51	B	ID	inf	+1	1	it works about the same as a solar powered calculator ,
+ES2009c.B.dialog-act.vkaraisk.151	1361.51	1365.12	B	ID	inf	+1	1	and you know how those those don't really require that much light ,
+ES2009c.C.dialog-act.vkaraisk.101	1376.88	1379.86	C	UI	ass	+1	1	I'm willing to agree with everything that's been said .
+20	ES2009c.JacquelinePalmer.s.8	The group discussed the non-traditional look the device could have since the voice recognition would allow it to be stationary.
+ES2009c.C.dialog-act.vkaraisk.103	1384.28	1393.8	C	UI	sug	+1	2	If we're really not uh handling the remote control to a great extent we could possibly get away from the idea of having a hand-held remote control
+ES2009c.C.dialog-act.vkaraisk.104	1393.8	1397.45	C	UI	sug	+1	2	and maybe kind of have a round remote control
+ES2009c.C.dialog-act.vkaraisk.105	1397.45	1404.77	C	UI	sug	+1	1	that kind of looks like a paperweight or something like that , kind of a sleek little uh neat thing that sits on your table or something .
+ES2009c.B.dialog-act.vkaraisk.155	1407.35	1410.85	B	ID	el.inf	+1	1	Why , why moving away from hand-held , why ?
+ES2009c.C.dialog-act.vkaraisk.108	1412.54	1415.74	C	UI	inf	+1	1	if you don't need to pick it up it could kind of be a selling point .
+ES2009c.D.dialog-act.vkaraisk.178	1414.93	1419.15	D	ME	inf	+1	2	if it's got voice recognition it can be technically anywhere in your room and still do its job .
+ES2009c.B.dialog-act.vkaraisk.158	1419.94	1423.92	B	ID	el.inf	+1	1	Do you think people that are {disfmarker} people that buy a remote , are they always gonna wanna use the voice recognition
+ES2009c.D.dialog-act.vkaraisk.181	1428.57	1432.96	D	ME	sug	+1	1	I think we're banking on selling it to more than just voice recognition people ,
+ES2009c.D.dialog-act.vkaraisk.182	1432.96	1436.33	D	ME	sug	+1	1	like we want it to work fundamentally as a basic manual too ,
+ES2009c.A.dialog-act.vkaraisk.205	1434.72	1436.91	A	PM	sug	+1	1	we have to have buttons on it too as well .
+ES2009c.A.dialog-act.vkaraisk.212	1455.33	1457.91	A	PM	sug	+1	1	I mean , why not have a little rounded kind of thing ,
+ES2009c.A.dialog-act.vkaraisk.213	1457.91	1460.37	A	PM	sug	+1	1	it could still have the basic buttons on it .
+ES2009c.A.dialog-act.vkaraisk.215	1465.19	1467.09	A	PM	sug	+1	1	And maybe a menu button and so forth ,
+ES2009c.A.dialog-act.vkaraisk.217	1467.91	1471.71	A	PM	sug	+1	1	use a channel button to scroll through the menu d if they want to record programmes or whatever
+ES2009c.B.dialog-act.vkaraisk.162	1473.68	1479.39	B	ID	sug	+1	1	because we need to escape the traditional shape of a remote .
+ES2009c.D.dialog-act.vkaraisk.192	1488.5	1490.81	D	ME	inf	+1	1	I'm thinking of the airport portal ,
+ES2009c.D.dialog-act.vkaraisk.193	1490.81	1492.86	D	ME	el.und	+1	1	you know like that little pod looking thing ?
+ES2009c.A.dialog-act.vkaraisk.224	1496.07	1502.03	A	PM	inf	+1	1	I'm recalling that she mentioned that we n need to get away from the surgical white kind of brushed aluminium thing
+ES2009c.A.dialog-act.vkaraisk.226	1502.61	1509.44	A	PM	sug	+1	1	but you could have a very tasteful um wood coloured or earth tone kind of um {disfmarker}
+ES2009c.D.dialog-act.vkaraisk.196	1509.88	1512.602	D	ME	sug	+1	1	Terracotta bowl or something . {vocalsound}
+5	ES2009c.JacquelinePalmer.s.9	They discussed using rubber for the case.
+ES2009c.A.dialog-act.vkaraisk.230	1519.93	1527.99	A	PM	inf	+1	2	And the uh the material like the plastics and so forth , we were discussing that being uh {disfmarker} using like a rubber kind of softer feel ,
+ES2009c.A.dialog-act.vkaraisk.233	1528.85	1534.25	A	PM	inf	+1	1	if you feel the the tip on this pen it's a bit {disfmarker} gives just a bit .
+ES2009c.A.dialog-act.vkaraisk.235	1534.49	1541.02	A	PM	sug	+1	1	something where it's uh a a more advanced f form of plastic that has some kind of a tactile response to it .
+ES2009c.B.dialog-act.vkaraisk.170	1543.7	1545.18	B	ID	sug	+1	2	Just kind of the squishy feel .
+ES2009c.A.dialog-act.vkaraisk.238	1550.97	1556.31	A	PM	sug	+1	1	let's see if we can do a squishy non-remote control-looking remote control .
+19	ES2009c.JacquelinePalmer.s.10	The group talked about hiding the complicated functions from the main interface , using rubber for the buttons , and having different cases to suit different tastes.
+ES2009c.D.dialog-act.vkaraisk.209	1617.92	1621.49	D	ME	sug	+1	1	although I'm not saying we should completely rule out major functions ,
+ES2009c.D.dialog-act.vkaraisk.210	1621.49	1625.81	D	ME	sug	+1	1	they should be secondary , at least if not functionally then visually ,
+ES2009c.A.dialog-act.vkaraisk.251	1627.97	1629.45	A	PM	sug	+1	1	Like maybe have menu things .
+ES2009c.B.dialog-act.vkaraisk.176	1629.6	1636.18	B	ID	sug	+1	1	If , if we're not going the touch-screen route then we can um just incorporate maybe something that folds out
+ES2009c.B.dialog-act.vkaraisk.178	1640.58	1644.62	B	ID	inf	+1	1	and something that slides down to reveal the you know more complicated things .
+ES2009c.A.dialog-act.vkaraisk.258	1662.28	1663.78	A	PM	sug	+1	1	we could do a slide or a compartment ,
+ES2009c.A.dialog-act.vkaraisk.261	1669.54	1678.05	A	PM	sug	+1	1	Or you know , a b a b a a series of you know three or four buttons with a menu button and then a side an s up and down type of thing , like on um {disfmarker} like on a D_V_D_ player .
+ES2009c.B.dialog-act.vkaraisk.183	1689.1	1691.12	B	ID	el.sug	+1	1	we need to figure out what kind of buttons we're going to use ,
+ES2009c.B.dialog-act.vkaraisk.184	1691.12	1696.176	B	ID	el.ass	+1	1	are we going to use scroll buttons ? Rubber buttons ? Um {disfmarker}
+ES2009c.A.dialog-act.vkaraisk.266	1698.59	1702.03	A	PM	sug	+1	1	it seems to me that we could just do the um {disfmarker} stick with the rubber
+ES2009c.A.dialog-act.vkaraisk.269	1702.03	1708.26	A	PM	inf	+1	1	'cause since we're probably gonna be using some kind of um {vocalsound} rubber for the outside case
+ES2009c.C.dialog-act.vkaraisk.116	1711.89	1718.11	C	UI	sug	+1	1	I think to a certain extent we have to stick with uh kind of uh a little bit traditional in terms of the buttons
+ES2009c.B.dialog-act.vkaraisk.189	1805.32	1809.6	B	ID	el.inf	+1	1	have we decided that we are gonna go with different style cases for different people ?
+ES2009c.B.dialog-act.vkaraisk.192	1819.15	1821.18	B	ID	inf	+1	1	because you have different cases
+ES2009c.B.dialog-act.vkaraisk.193	1821.18	1823.24	B	ID	inf	+1	1	and that might open up your market a little bit obviously ,
+ES2009c.B.dialog-act.vkaraisk.196	1829.2	1831.04	B	ID	inf	+1	1	but obviously having more cases also costs more
+ES2009c.A.dialog-act.vkaraisk.298	1834.27	1845.24	A	PM	sug	+1	1	you could have uh a , you know , a um uh kind of a natural wood colour , like a stained wood and um , I don't know , olive green or something .
+ES2009c.A.dialog-act.vkaraisk.299	1845.24	1848.92	A	PM	ass	+1	1	That wouldn't be so much of a problem to incorporate into the colour of the {gap} thing .
+ES2009c.A.dialog-act.vkaraisk.302	1858.95	1864.05	A	PM	sug	+1	2	let's work on {vocalsound} uh multiple case colours .
+0	ES2009c.JacquelinePalmer.s.11	The Project Manager reiterated that the product was being marketed towards the youth market , and then gave out assignments and instructed the group to work together to build the prototype.

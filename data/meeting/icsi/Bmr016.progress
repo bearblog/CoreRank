@@ -1,0 +1,38 @@
+3	Bmr016.s.17	A test set of digits data totalling two hours is nearly complete.
+Bmr016.D.dialogueact17	22.186	24.636	D	Grad	s	+1	1	Um , so we 're pretty much out of digits .
+Bmr016.D.dialogueact28	47.101	48.541	D	Grad	s	+1	2	We have about two hours worth .
+Bmr016.F.dialogueact222	455.97	458.49	F	Professor	s^bu	+1	2	And you 're saying two hours , uh , is digits ,
+1	Bmr016.s.18	Digit extraction has been performed on roughly half of this data.
+Bmr016.D.dialogueact38	73.96	78.02	D	Grad	s	+1	2	So what that means is we have about an hour of transcribed digits that we can play with .
+1	Bmr016.s.19	Future work may involve experimenting with the reading of digits in different prosodic groupings.
+Bmr016.D.dialogueact67	138.72	141.57	D	Grad	s	+1	1	Liz would like to elicit different prosodics ,
+2	Bmr016.s.20	Preliminary ASR results were discussed.
+Bmr016.D.dialogueact557	1079.71	1081.83	D	Grad	s^t	+1	2	We have ASR results from Liz ,
+Bmr016.G.dialogueact566	1105.27	1108.02	G	PhD	s	+1	1	um , it 's pretty preliminary in terms of ASR results
+2	Bmr016.s.21	Subsequent efforts will involve generating a better channel-based segmentation , and possibly doing echo cancellation , to improve recognition on the close-talking microphone data.
+Bmr016.G.dialogueact575	1136.14	1156.13	G	PhD	fh|s	+1	2	um , leads us to believe that doing a better segmentation , like your channel - based segmentation , or some kind of uh , echo cancellation to get basically back down to the individual speaker utterances would be probably all that we would need to be able to do good recognition on the {disfmarker} on the close - talking mikes .
+Bmr016.G.dialogueact730	1396.85	1397.91	G	PhD	s	+1	1	that 's really the next step
+1	Bmr016.s.22	Filename conventions are being standardized.
+Bmr016.G.dialogueact775	1453.62	1456.78	G	PhD	s	+1	1	So at this point we can sort of finalize the naming , and so forth ,
+14	Bmr016.s.23	Transcription checking procedures have been formalized , including a spell check , producing an exhaustive list of forms identified in the data , attributing every utterance to the appropriate speaker ID , glossing spoken forms with their full orthographic counterparts , e.g . 'cuz' and 'because' , transcribing acronyms , and encoding comments , i.e . glosses , vocalic and non-vocalic non-speech events , pragmatic cues , and the standardization of spoken forms , e.g . 'mm-hmm'.
+Bmr016.E.dialogueact1107	1946.79	1949.58	E	Postdoc	s	+1	1	and the first thing I did was obviously a spell - check .
+Bmr016.E.dialogueact1100	1909.72	1917.68	E	Postdoc	fg|s	+1	2	Alright so , first of all , um , there was a {disfmarker} an interest in the transcribe transcription , uh , checking procedures
+Bmr016.E.dialogueact1111	1956.09	1960.66	E	Postdoc	s	+1	1	And then , in addition to that , I did an exhaustive listing of the forms in the data file ,
+Bmr016.E.dialogueact1143	2009.03	2015.01	E	Postdoc	s	+1	1	And th and then another check involves , uh , being sure that every utterance has an identifiable speaker .
+Bmr016.E.dialogueact1145	2017.61	2021.15	E	Postdoc	s	+1	1	Then there 's this issue of glossing s w so - called " spoken - forms " .
+Bmr016.E.dialogueact1156	2057.42	2058.5	E	Postdoc	s	+1	1	however , glossing it
+Bmr016.E.dialogueact1157	2058.5	2062.35	E	Postdoc	s^df	+1	1	so that it 's possible with the script to plug in the full orthographic form for that one ,
+Bmr016.E.dialogueact1190	2134.12	2139.54	E	Postdoc	s	+1	1	And the way I tag ac pronounced acronyms is that I have underscores between the components .
+Bmr016.E.dialogueact1245	2217.84	2220.28	E	Postdoc	s	+1	1	the things in curly brackets are viewed as comments .
+Bmr016.E.dialogueact1252	2228.91	2232.78	E	Postdoc	s	+1	1	One of them is , um , the gloss type we just mentioned .
+Bmr016.E.dialogueact1261	2250.57	2256.96	E	Postdoc	s	+1	1	Uh , then you have if it 's {disfmarker} uh , there 're a couple different types of elements that can happen that aren't really properly words ,
+Bmr016.E.dialogueact1277	2282.43	2289.09	E	Postdoc	s	+1	1	And then the third type right now , {vocalsound} uh , is {pause} m things that fall in the category of comments about what 's happening .
+Bmr016.E.dialogueact1311	2357.59	2364.7	E	Postdoc	s	+1	1	which has to do with the spoken forms like " mm - hmm " and " mm - hmm " and " ha " and " uh - uh " and all these different types .
+Bmr016.E.dialogueact1316	2388.66	2393.09	E	Postdoc	s	+1	1	So , right now I 've standardized across all the existing data with these spoken forms .
+4	Bmr016.s.24	Scripts will be used to convert a channelized master copy into forms that are appropriate for doing both recognition and linguistic analysis.
+Bmr016.E.dialogueact2024	3353.63	3357.29	E	Postdoc	s	+1	1	where we 're gonna have a master file of the channelized data .
+Bmr016.E.dialogueact2025	3357.7	3362.22	E	Postdoc	s	+1	1	Um , there will be scripts that are written to convert it into these t these main two uses
+Bmr016.E.dialogueact2026	3362.52	3368.38	E	Postdoc	s	+1	1	and th some scripts will take it down th e into a f a for ta take it to a format that 's usable for the recognizer
+Bmr016.E.dialogueact2027	3368.86	3374.12	E	Postdoc	s	+1	1	an uh , other scripts will take it to a form that 's usable for the {disfmarker} for linguistics an and discourse analysis .
+1	Bmr016.s.25	Coordinated efforts are in progress between the transcriber pool and speaker mn014 to fine-tune presegmented output to handle data from a variety of speakers and regions of speaker overlap.
+Bmr016.E.dialogueact2152	3596.2	3603.78	E	Postdoc	s	+1	1	And he requested that there be , uh , similar , uh , samples done for five minute stretches c involving a variety of speakers and overlapping secti sections .

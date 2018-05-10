@@ -1,0 +1,24 @@
+0	Bed012.s.1	The focus of the meeting was on a presentation of the work done already on the building of the Bayes-net.
+2	Bed012.s.2	The input layer deriving information from things like the user and situation models , feeds into a set of decision nodes , such as the Enter/View/Approach ( EVA ) endpoint.
+Bed012.B.dialogueact28	165.769	171.049	B	Grad	s.%-	+1	2	That 's basically {pause} just specifying the {disfmarker} the input for the {disfmarker} w what 's
+Bed012.A.dialogueact423	1329.71	1336.42	A	Grad	s^df	+1	2	it 's based on things like , uh , there 's gonna be a node for Go - there or not , and there 's gonna be a node for Enter , View , Approach .
+1	Bed012.s.3	In any particular situation , most of the outputs will not be relevant to the given context.
+Bed012.B.dialogueact187	772.35	781.42	B	Grad	s	+1	1	And some {disfmarker} some things will always be sort of too {disfmarker} not significant enough .
+1	Bed012.s.4	Therefore , they will either have to be pruned a posteriori , or only a subset of the possible decision nodes will be computed in each occasion.
+Bed012.A.dialogueact539	1677.24	1680.99	A	Grad	s^df	+1	2	Cuz , that 's what {disfmarker} I mean , in the Bayes - net you always ask for the posterior probability of a specific node .
+3	Bed012.s.5	The latter option could could follow a binary search-tree approach and it could also be better in computational terms.
+Bed012.B.dialogueact564	1720.61	1724.85	B	Grad	s	+1	1	I mean , maybe it does make a difference in terms of performance , computational time .
+Bed012.C.dialogueact570	1760.19	1763.74	C	Grad	qy^bu:s^co	+1	1	So basically , you 'd have a decision tree {pause} query , {pause} Go - there .
+Bed012.C.dialogueact572	1766.88	1768.48	C	Grad	s^e.%-	+1	1	And just basically do a binary search through the {disfmarker} ?
+1	Bed012.s.6	In any case , on what basis the "winner" output is chosen is not clear.
+Bed012.C.dialogueact190	782.922	784.202	C	Grad	s^e	+1	1	You won't {disfmarker} it 'll be hard to decide .
+3	Bed012.s.7	One suggestion was discussed: the particular constructions used can determine the pertinent decision ( output ) nodes.
+Bed012.C.dialogueact198	800.838	805.758	C	Grad	s	+1	1	And for the Where - Is construction , we know we need to l look at this node , that merges these three things together
+Bed012.C.dialogueact403	1286.12	1291.66	C	Grad	s^cs	+1	1	So my i So , if we were to it with a Bayes - net , we 'd have to have a node {disfmarker} for every question that we knew how to deal with ,
+Bed012.C.dialogueact419	1320.01	1320.81	C	Grad	s^bsc	+1	2	Every construction .
+2	Bed012.s.8	The complete prototype of the Bayes-net will be presented in the next meeting.
+Bed012.B.dialogueact728	2101.37	2104.35	B	Grad	fh|s^e^t	+1	2	And , um , finish up this Bayes - net .
+Bed012.B.dialogueact741	2137.0	2138.16	B	Grad	s^cc^e	+1	2	And we present our results ,
+2	Bed012.s.9	After that , it will be possible to define interfaces and a dummy construction parser , in order to test and link modules together.
+Bed012.B.dialogueact765	2182.66	2188.66	B	Grad	s^aa|s	+1	1	OK . Because then , once we have it sort of up and running , then we can start you know , defining the interfaces
+Bed012.B.dialogueact768	2190.7	2195.38	B	Grad	s^e	+1	1	and then hook it up to some fake construction parser

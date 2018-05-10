@@ -1,0 +1,5 @@
+With respect to encoding more fine-grained acoustic information in transcriptions , the question was posed: which features should be marked?
+Speaker mn014 reported problems pre-segmenting speech recorded via the lapel microphones.
+Normalization of the energy measured across and within channels is problematic when performed for speakers who say little or nothing during meetings.
+The evaluation of pre-segmented data is difficult without tightly transcribed time references to the individual channels from which the speech was derived.
+The SRI recognizer requires that multi-channel format units not be too large , indicating that some additional pre-processing of unit lengths may be necessary.

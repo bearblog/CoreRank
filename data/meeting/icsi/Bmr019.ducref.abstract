@@ -1,0 +1,5 @@
+The Berkeley Meeting Recorder group discussed efforts to train and test the Aurora group's HTK-based recognition system on ICSI's digits corpus.
+Members also discussed efforts to produce forced alignments from a selection of Meeting Recorder data.
+Performance in both tasks was adversely affected by the manner of recording conditions implemented and difficulties attributing utterances to the appropriate speakers.
+While debugging efforts resulted in improved forced alignments , dealing with mixed channel speech and speaker overlap remains a key objective for future work.
+The group is additionally focused on a continued ability to feed different features into the recognizer and then train the system accordingly.

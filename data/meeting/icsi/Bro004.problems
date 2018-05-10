@@ -1,0 +1,55 @@
+19	Bro004.s.15	Incorrect assumptions were made when considering the on-line
+normalization for the main task .  members used different values to a
+previous study , and whilst it was believed not to make a difference,
+it does , so networks are being retrained.
+Bro004.D.dialogueact637	1607.95	1610.46	D	PhD	s^rt	+1	1	but {pause} actually there is something important ,
+Bro004.D.dialogueact639	1610.98	1616.67	D	PhD	s^rt	+1	1	is that {pause} um we made a lot of assumption concerning the on - line normalization
+Bro004.D.dialogueact640	1617.24	1633.51	D	PhD	s	+1	1	and we just noticed {pause} uh recently that {pause} uh the {pause} approach that we were using {pause} was not {pause} uh {pause} leading to very good results {pause} when we {pause} used the straight features to HTK .
+Bro004.D.dialogueact662	1709.89	1716.85	D	PhD	s^rt	+1	1	So {pause} what we see that {disfmarker} is {disfmarker} there is that um {pause} uh the way we were doing this was not correct ,
+Bro004.D.dialogueact664	1720.76	1726.86	D	PhD	s^e	+1	1	When we use the networks {pause} our number are better that {pause} uh Pratibha results .
+Bro004.D.dialogueact669	1730.44	1737.75	D	PhD	s^rt	+1	1	and {pause} basically , {pause} the first thing is the mmm , {pause} alpha uh {pause} value .
+Bro004.D.dialogueact671	1744.12	1752.7	D	PhD	s^rt	+1	1	um , {pause} I used point five percent , {pause} which was the default value in the {disfmarker} {pause} in the programs here .
+Bro004.D.dialogueact672	1753.62	1755.47	D	PhD	s	+1	1	And Pratibha used five percent .
+Bro004.D.dialogueact679	1761.07	1776.39	D	PhD	s^rt	+1	1	I assume that this was not important because {pause} uh previous results from {disfmarker} from Dan and {disfmarker} show that basically {pause} the {pause} both {disfmarker} both values g give the same {disfmarker} same {pause} uh results .
+Bro004.D.dialogueact680	1776.59	1781.37	D	PhD	s^rt	+1	1	It was true on uh {pause} TI - digits but it 's not true on Italian .
+Bro004.D.dialogueact682	1782.37	1786.86	D	PhD	s^rt	+1	1	Uh , second thing is the initialization of the {pause} stuff .
+Bro004.D.dialogueact683	1786.87	1794.46	D	PhD	s^rt	+1	1	Actually , {pause} uh what we were doing is to start the recursion from the beginning of the {pause} utterance .
+Bro004.D.dialogueact684	1795.31	1801.65	D	PhD	s	+1	1	And using initial values that are the global mean and variances {pause} measured across the whole database .
+Bro004.D.dialogueact687	1802.18	1803.87	D	PhD	s	+1	1	And Pratibha did something different is
+Bro004.D.dialogueact688	1804.08	1816.04	D	PhD	s	+1	1	that he {disfmarker} uh she initialed the um values of the mean and variance {pause} by computing {pause} this on the {pause} twenty - five first frames of each utterance .
+Bro004.D.dialogueact689	1818.28	1822.61	D	PhD	s^rt	+1	1	Mmm . There were other minor differences ,
+Bro004.D.dialogueact693	1836.03	1838.42	D	PhD	s^rt	+1	1	So . {pause} Uh , I changed the code
+Bro004.D.dialogueact694	1839.59	1843.29	D	PhD	s	+1	1	uh and now we have a baseline that 's similar to the OGI baseline .
+Bro004.D.dialogueact705	1879.16	1884.54	D	PhD	s	+1	1	well , the {disfmarker} the {disfmarker} the networks are retaining with these new {pause} features .
+9	Bro004.s.16	Currently working with noise conditions being the same in training and
+test data , but there is nothing which matches the noise on the Italian
+test data.
+Bro004.D.dialogueact577	1456.04	1459.68	D	PhD	s	+1	1	There {disfmarker} there is {disfmarker} another difference , is that the noise {disfmarker} the noises are different .
+Bro004.D.dialogueact578	1459.68	1462.63	D	PhD	s^rt	+1	1	Well , For {disfmarker} for the Italian part I mean
+Bro004.D.dialogueact580	1462.63	1472.35	D	PhD	s^e	+1	1	the {pause} uh {pause} the um {pause} networks are trained with noise from {pause} Aurora {disfmarker} TI - digits ,
+Bro004.D.dialogueact585	1475.63	1480.71	D	PhD	s^cs^rt	+1	1	And perhaps the noise are {pause} quite different from the noises {pause} in the speech that Italian .
+Bro004.B.dialogueact535	1344.2	1352.08	B	Professor	qw	+1	1	Uh {vocalsound} {vocalsound} Um now , what 's the noise condition {pause} um {pause} of the training data {disfmarker}
+Bro004.B.dialogueact538	1353.83	1355.31	B	Professor	s	+1	1	The noise condition is the same {disfmarker}
+Bro004.B.dialogueact542	1361.21	1370.26	B	Professor	s	+1	1	So there 's not a {pause} statistical {disfmarker} sta a strong st {pause} statistically different {pause} noise characteristic between {pause} uh the training and test
+Bro004.D.dialogueact543	1368.35	1370.46	D	PhD	s^na	+1	1	No these are the s s s same noises ,
+Bro004.D.dialogueact546	1371.41	1374.75	D	PhD	s.%--	+1	1	At least {disfmarker} at least for the first {disfmarker} {pause} for the well - matched ,
+0	Bro004.s.17	In fact no other language matches the noise from Aurora
+data.
+3	Bro004.s.18	Spanish was being used to train for Italian as it was assumed they
+were the most similar , but that may not be as close a match as
+thought.
+Bro004.D.dialogueact565	1411.16	1415.55	D	PhD	s^rt	+1	1	Yeah , so for the Italian the results are {vocalsound} uh {pause} stranger
+Bro004.D.dialogueact567	1421.43	1425.57	D	PhD	s^rt	+1	1	So what appears is that perhaps Spanish is {pause} not very close to Italian
+Bro004.D.dialogueact568	1426.13	1437.34	D	PhD	s^df	+1	1	because uh , well , {pause} when using the {disfmarker} the network trained only on Spanish it 's {disfmarker} {pause} the error rate is {pause} almost uh twice {pause} the baseline error rate .
+8	Bro004.s.19	OGI have an interesting approach to Voice Activation Detection for
+removing blocks of silence , that shows good results , but currently the
+word model being used is too poor to make good use of this and no one
+is working on improving it.
+Bro004.B.dialogueact1025	2688.82	2690.95	B	Professor	s	+1	2	So they 're {disfmarker} they 're doing {pause} the {disfmarker} the VAD
+Bro004.B.dialogueact1026	2690.95	2694.75	B	Professor	s	+1	2	I guess they mean voice activity detection So again , it 's the silence {disfmarker}
+Bro004.B.dialogueact1038	2732.94	2736.68	B	Professor	s	+1	2	So um Their uh {disfmarker} {pause} the results look pretty good .
+Bro004.B.dialogueact1205	3101.75	3106.41	B	Professor	fh|s	+1	2	So um I think that it 's {disfmarker} it 's nice to do that in this
+Bro004.B.dialogueact1206	3106.41	3108.91	B	Professor	s	+1	2	because in fact , it 's gonna give a better word error result
+Bro004.B.dialogueact1207	3109.02	3111.3	B	Professor	s	+1	2	and therefore will help within an evaluation .
+Bro004.B.dialogueact1209	3114.88	3120.6	B	Professor	fh|s	+1	2	Um . Uh , as you know , part of the problem with evaluation right now is that the {pause} word models are pretty bad
+Bro004.B.dialogueact1210	3120.6	3123.19	B	Professor	s	+1	2	and nobody wants {disfmarker} {pause} has {disfmarker} has approached improving them .

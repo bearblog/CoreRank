@@ -1,0 +1,14 @@
+6	IS1004c.elana.s.28	Thus far , LCD and ASR have been ruled out.
+IS1004c.A.dialog-act.dharshi.83	853.03	856.58	A	PM	ass	+1	1	So this is out of discussion .
+IS1004c.B.dialog-act.dharshi.107	878.48	888.592	B	UI	ass	+1	1	I think it doesn't really add much to the functional design and it's it's it's not mature enough to use as a speech recognition engine , so {disfmarker}
+IS1004c.A.dialog-act.dharshi.99	1071.5	1076.32	A	PM	ass	+1	2	So i it looks like we're going completely to forget about the L_C_D_ thing .
+IS1004c.A.dialog-act.dharshi.101	1095.95	1097.47	A	PM	ass	+1	1	No we can we can't use that .
+IS1004c.B.dialog-act.dharshi.155	1116.29	1123.21	B	UI	ass	+1	1	Well , I f I think it's probably more than , than our {gap} can handle because it's designed for a coffee machine , you know , to say hello in the morning .
+IS1004c.C.dialog-act.dharshi.152	1730.06	1733.05	C	ID	inf	+1	1	L_C_D_ has already been ruled out , A_S_R_ has been ruled out .
+6	IS1004c.elana.s.29	The remote will have a base station , a button on the base station to press , 2 scroll wheels for the channels and volume , a turbo button (possibly underneath the device) , and an on/off button for the TV.
+IS1004c.A.dialog-act.dharshi.213	1977.76	1981.03	A	PM	inf	+1	2	{vocalsound} We'll have a base station extra uh on the side .
+IS1004c.A.dialog-act.dharshi.203	2000.54	2005.8	A	PM	inf	+1	2	So we {disfmarker} that means we need a button on th on the on the basis .
+IS1004c.A.dialog-act.dharshi.220	2034.12	2037.94	A	PM	inf	+1	2	and your tur turbo turbo uh button .
+IS1004c.B.dialog-act.dharshi.274	2037.16	2042.61	B	UI	ass	+1	2	Yeah , which {disfmarker} I think it's it's probably best actually on the on the underneath of the the device ,
+IS1004c.A.dialog-act.dharshi.228	2050.14	2051.36	A	PM	inf	+1	2	And and you have two wheels .
+IS1004c.B.dialog-act.dharshi.278	2068.37	2072.23	B	UI	inf	+1	2	Oh we need a we need a power um on off switch as well .

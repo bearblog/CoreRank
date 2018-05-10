@@ -1,0 +1,883 @@
+ES2011d.A.dialog-act.dharshi.1	64.98	65.28	PM	A	ass	-1	0	'Kay .
+ES2011d.A.dialog-act.dharshi.2	67.57	68.17	PM	A	stl	-1	0	Hmm .
+ES2011d.A.dialog-act.dharshi.3	69.49	74.03	PM	A	be.pos	-1	0	Okay everybody . Welcome to the detailed design meeting .
+ES2011d.A.dialog-act.dharshi.4	74.03	75.184	PM	A	stl	-1	0	Um {disfmarker}
+ES2011d.A.dialog-act.dharshi.5	76.062	77.08	PM	A	stl	-1	0	{vocalsound} Let's see .
+ES2011d.A.dialog-act.dharshi.8	77.08	78.86	PM	A	inf	-1	0	Our agenda .
+ES2011d.A.dialog-act.dharshi.9	78.86	87.36	PM	A	inf	+1	1	Last time we discussed the squishy fruitiness of {vocalsound} our remote controls and how we might pursue that .
+ES2011d.A.dialog-act.dharshi.10	87.36	91.6	PM	A	inf	-1	0	Um and I think {disfmarker} looks like we've come up with some ideas .
+ES2011d.A.dialog-act.dharshi.11	91.6	98.76	PM	A	inf	+1	1	Um and we also talked about materials we'd use and what kind of chip would be necessary .
+ES2011d.A.dialog-act.dharshi.12	98.76	105.4	PM	A	inf	+1	0	Um so for later in the meeting I've done a a spreadsheet of production costs
+ES2011d.A.dialog-act.dharshi.13	105.4	107.29	PM	A	sug	-1	0	so we'll take a look at that .
+ES2011d.A.dialog-act.dharshi.14	107.29	112.93	PM	A	inf	-1	0	Um and see if it's changed at all from when we last discussed it .
+ES2011d.A.dialog-act.dharshi.15	112.93	118.816	PM	A	stl	-1	0	Um {vocalsound} so actually I think {disfmarker}
+ES2011d.A.dialog-act.dharshi.16	121.45	123.99	PM	A	stl	-1	0	Yeah um f {vocalsound}
+ES2011d.A.dialog-act.dharshi.17	123.99	127.783	PM	A	sug	+1	0	you guys wanna give a prototype presentation of {disfmarker}
+ES2011d.A.dialog-act.dharshi.7	128.928	129.668	PM	A	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.2	129.31	129.73	ID	B	off	-1	0	Okay
+ES2011d.B.dialog-act.dharshi.3	129.73	132.87	ID	B	stl	-1	0	well um .
+ES2011d.B.dialog-act.dharshi.4	132.87	134.75	ID	B	inf	+1	1	So our design looks something like this .
+ES2011d.B.dialog-act.dharshi.5	135.77	140.34	ID	B	inf	+1	1	This being the wheel that you use to uh change channels or volume or whatever .
+ES2011d.B.dialog-act.dharshi.6	140.34	147.32	ID	B	inf	-1	0	This is a button , serves as the power button if you hold it down , and if you just tap on it I think it brings up the menu .
+ES2011d.B.dialog-act.dharshi.7	148.82	154.94	ID	B	inf	+1	1	And uh the base of the remote control , which has a squishy spongy rubbery feel , is interchangeable .
+ES2011d.B.dialog-act.dharshi.8	154.94	159.6	ID	B	inf	+1	1	So you can change the colour , according to your {disfmarker} to suit your living room or whatever .
+ES2011d.B.dialog-act.dharshi.14	159.6	161.15	ID	B	fra	-1	0	And it comes {disfmarker}
+ES2011d.C.dialog-act.dharshi.2	159.62	162.12	UI	C	inf	+1	1	You could change the vegetable , or fruit .
+ES2011d.B.dialog-act.dharshi.15	161.15	163.2	ID	B	ass	-1	0	yeah , I can change the vegetable .
+ES2011d.A.dialog-act.dharshi.19	162.11	166.149	PM	A	el.inf	-1	0	Oh is that broccoli ? {vocalsound}
+ES2011d.B.dialog-act.dharshi.10	163.2	165.11	ID	B	inf	-1	0	This one's broccoli {vocalsound} .
+ES2011d.C.dialog-act.dharshi.3	163.29	164.08	UI	C	bck	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.11	165.11	167.98	ID	B	inf	-1	0	So this snaps off and you can put on whichever one you want .
+ES2011d.B.dialog-act.dharshi.12	167.98	170.33	ID	B	inf	-1	0	This is not to scale 'cause it would have the battery inside it .
+ES2011d.B.dialog-act.dharshi.16	171.6	172.7	ID	B	inf	-1	0	This is a mango .
+ES2011d.A.dialog-act.dharshi.6	172.971	176.168	PM	A	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.17	172.7	172.82	ID	B	stl	-1	0	The {disfmarker}
+ES2011d.B.dialog-act.dharshi.18	172.82	174.81	ID	B	inf	+1	1	it's trendy fruit , it's not just ordinary fruits .
+ES2011d.D.dialog-act.dharshi.1	172.766	175.871	ME	D	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.19	174.81	177.11	ID	B	inf	-1	0	You don't have orange , you have mango .
+ES2011d.B.dialog-act.dharshi.20	177.11	181.141	ID	B	inf	-1	0	Um I guess strawberry's not as trendy , but {disfmarker} {vocalsound}
+ES2011d.A.dialog-act.dharshi.20	179.0	181.392	PM	A	ass	-1	0	'S a very bright strawberry . {vocalsound}
+ES2011d.B.dialog-act.dharshi.21	181.89	188.68	ID	B	off	-1	0	So we'll come up with a variety of trendy and exciting fruit designs for the remote control .
+ES2011d.B.dialog-act.dharshi.22	189.74	193.37	ID	B	inf	+1	1	And then people will be encouraged to buy three or five of them , because they'll need to switch 'em out .
+ES2011d.C.dialog-act.dharshi.1	189.7	190.27	UI	C	fra	-1	0	It's been a l
+ES2011d.A.dialog-act.dharshi.18	191.745	192.251	PM	A	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.4	194.61	199.88	UI	C	inf	+1	1	It's been a little bit difficult to um make sure that it's hand-holdable ,
+ES2011d.C.dialog-act.dharshi.5	199.88	203.8	UI	C	inf	-1	0	and that the user can use it , you know , it's not too big .
+ES2011d.C.dialog-act.dharshi.6	203.8	209.14	UI	C	ass	-1	0	Uh but we think that this you know , this size will be okay
+ES2011d.C.dialog-act.dharshi.7	209.14	213.21	UI	C	inf	-1	0	and we will have to fit the battery case in there somehow .
+ES2011d.B.dialog-act.dharshi.13	212.42	212.7	ID	B	bck	-1	0	Mm-hmm .
+ES2011d.A.dialog-act.dharshi.21	213.13	213.61	PM	A	bck	-1	0	Oh yeah .
+ES2011d.C.dialog-act.dharshi.8	213.21	223.32	UI	C	inf	-1	0	And I guess the only other thing that we really didn't talk about was {disfmarker} or design yet actually , would be the um thing {disfmarker} the locator .
+ES2011d.C.dialog-act.dharshi.9	223.32	224.4	UI	C	stl	-1	0	How how {disfmarker} so {disfmarker}
+ES2011d.B.dialog-act.dharshi.23	224.35	226.33	ID	B	inf	+1	1	Well the locator is just chip that's inside there .
+ES2011d.C.dialog-act.dharshi.10	226.35	226.83	UI	C	ass	-1	0	Okay
+ES2011d.C.dialog-act.dharshi.11	226.83	227.912	UI	C	fra	-1	0	so that's just {disfmarker}
+ES2011d.B.dialog-act.dharshi.26	227.61	229.81	ID	B	inf	+1	1	And the beeper's also inside there too somewhere
+ES2011d.C.dialog-act.dharshi.12	229.65	233.616	UI	C	inf	+1	1	So you have to have a button on your on your {disfmarker} you have to attach the button to the {disfmarker}
+ES2011d.B.dialog-act.dharshi.27	233.81	234.07	ID	B	ass	-1	0	Yeah
+ES2011d.B.dialog-act.dharshi.28	234.07	235.36	ID	B	inf	-1	0	we didn't design that .
+ES2011d.C.dialog-act.dharshi.13	234.82	237.28	UI	C	ass	+1	1	Yeah we have {disfmarker} that that has yes yet to be designed .
+ES2011d.B.dialog-act.dharshi.29	236.45	238.65	ID	B	inf	-1	0	But it would be coordinating with that of course .
+ES2011d.C.dialog-act.dharshi.14	238.56	241.58	UI	C	ass	+1	1	Yeah that c hey that that could you know match the handset .
+ES2011d.A.dialog-act.dharshi.23	239.22	239.53	PM	A	bck	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.25	241.88	242.15	ID	B	bck	-1	0	Mm-hmm .
+ES2011d.C.dialog-act.dharshi.15	243.24	246.33	UI	C	inf	-1	0	You could have a broccoli , or you could have a mango . {vocalsound}
+ES2011d.A.dialog-act.dharshi.22	244.688	246.86	PM	A	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.24	244.663	245.909	ID	B	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.16	247.39	248.59	UI	C	oth	-1	0	So . Tada .
+ES2011d.A.dialog-act.dharshi.24	248.58	248.81	PM	A	fra	-1	0	Oh .
+ES2011d.A.dialog-act.dharshi.25	250.76	259.16	PM	A	sug	+1	1	Um if you wanna look in your project documents folder , there's an Excel spreadsheet .
+ES2011d.A.dialog-act.dharshi.26	260.83	265.34	PM	A	inf	+1	1	Um the only one that's in there , production costs .
+ES2011d.A.dialog-act.dharshi.27	265.34	267.03	PM	A	sug	-1	0	And if you open it up .
+ES2011d.A.dialog-act.dharshi.28	267.03	268.93	PM	A	inf	-1	0	Um I've just stuck the numbers in ,
+ES2011d.A.dialog-act.dharshi.29	268.93	271.31	PM	A	be.pos	-1	0	it was a real challenge there .
+ES2011d.A.dialog-act.dharshi.30	271.31	279.46	PM	A	sug	+1	1	{vocalsound} But if I missed anything that we've gone over , or if you see something that has changed {disfmarker}
+ES2011d.B.dialog-act.dharshi.30	270.965	271.807	ID	B	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.31	279.46	281.74	PM	A	inf	-1	0	I mean , we decided on batteries ,
+ES2011d.A.dialog-act.dharshi.32	281.74	290.98	PM	A	inf	-1	0	and the regular chip would be necessary for the more advanced iPod-like button .
+ES2011d.A.dialog-act.dharshi.33	290.98	291.936	PM	A	stl	-1	0	Um {disfmarker}
+ES2011d.A.dialog-act.dharshi.34	292.992	295.01	PM	A	inf	+1	1	{vocalsound} I said uncurved or flat .
+ES2011d.A.dialog-act.dharshi.35	295.01	296.32	PM	A	inf	-1	0	I think that's what you have there ,
+ES2011d.A.dialog-act.dharshi.36	296.32	297.26	PM	A	el.inf	-1	0	is that right ?
+ES2011d.A.dialog-act.dharshi.37	297.26	299.329	PM	A	inf	-1	0	For the for the plastic part would be {disfmarker}
+ES2011d.B.dialog-act.dharshi.31	298.82	302.2	ID	B	inf	+1	1	My impression was that flat meant like like one of those square remotes .
+ES2011d.A.dialog-act.dharshi.38	303.76	305.19	PM	A	ass	-1	0	Oh . Okay .
+ES2011d.B.dialog-act.dharshi.32	303.51	305.11	ID	B	ass	+1	0	But it's really not very clear ,
+ES2011d.B.dialog-act.dharshi.33	305.11	310.03	ID	B	inf	-1	0	because you got single curve and double curve and {disfmarker} d I dunno what that means .
+ES2011d.A.dialog-act.dharshi.39	307.31	307.89	PM	A	bck	-1	0	Right .
+ES2011d.B.dialog-act.dharshi.34	310.03	312.6	ID	B	inf	-1	0	One side is curved and then the other side is curved .
+ES2011d.A.dialog-act.dharshi.40	314.06	315.5	PM	A	stl	-1	0	Well {disfmarker} yeah .
+ES2011d.A.dialog-act.dharshi.41	315.5	318.5	PM	A	inf	-1	0	If we're talking about the area just {disfmarker}
+ES2011d.A.dialog-act.dharshi.42	318.5	318.96	PM	A	fra	-1	0	oh I d
+ES2011d.A.dialog-act.dharshi.43	320.42	320.75	PM	A	inf	-1	0	I dunno .
+ES2011d.A.dialog-act.dharshi.44	320.75	327.03	PM	A	sug	-1	0	I guess we'd have to contact the company that makes them and see .
+ES2011d.B.dialog-act.dharshi.35	321.918	324.208	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.2	322.626	324.343	ME	D	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.45	327.03	328.93	PM	A	oth	-1	0	Um so what else ?
+ES2011d.A.dialog-act.dharshi.46	328.93	333.14	PM	A	inf	+1	1	There's plastic for that area around the button .
+ES2011d.A.dialog-act.dharshi.47	333.14	337.76	PM	A	el.inf	-1	0	Um and then rubber would be the squishy like thing right ?
+ES2011d.B.dialog-act.dharshi.36	336.45	336.74	ID	B	inf	-1	0	Mm-hmm .
+ES2011d.A.dialog-act.dharshi.48	337.76	343.58	PM	A	inf	+1	1	Um and lots of special colours actually .
+ES2011d.A.dialog-act.dharshi.49	343.58	344.81	PM	A	inf	-1	0	{vocalsound} Uh scroll wheel .
+ES2011d.A.dialog-act.dharshi.50	344.81	346.22	PM	A	el.inf	-1	0	Do you see anything that I've missed ?
+ES2011d.B.dialog-act.dharshi.37	347.07	347.51	ID	B	inf	-1	0	No
+ES2011d.B.dialog-act.dharshi.38	347.51	348.79	ID	B	ass	-1	0	I think that's alright .
+ES2011d.A.dialog-act.dharshi.51	348.99	353.47	PM	A	inf	+1	1	Okay so that would make our total of eleven point nine ,
+ES2011d.A.dialog-act.dharshi.52	353.47	359.53	PM	A	inf	+1	1	which is even less than twelve point five , which means we'd be making even more of a profit .
+ES2011d.B.dialog-act.dharshi.39	358.064	358.889	ID	B	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.53	359.53	362.56	PM	A	inf	-1	0	And if we sold a lot of squishy things .
+ES2011d.C.dialog-act.dharshi.17	361.59	361.94	UI	C	bck	-1	0	Mm .
+ES2011d.A.dialog-act.dharshi.54	362.56	363.5	PM	A	ass	-1	0	Boo yeah .
+ES2011d.A.dialog-act.dharshi.56	365.5	366.19	PM	A	stl	-1	0	Okay .
+ES2011d.A.dialog-act.dharshi.55	368.597	370.5	PM	A	fra	-1	0	{vocalsound} S
+ES2011d.A.dialog-act.dharshi.57	373.73	375.364	PM	A	stl	-1	0	So {disfmarker}
+ES2011d.A.dialog-act.dharshi.58	377.49	378.31	PM	A	stl	-1	0	Mm .
+ES2011d.A.dialog-act.dharshi.59	388.13	389.73	PM	A	el.inf	-1	0	Did y what did you work on ?
+ES2011d.A.dialog-act.dharshi.60	389.73	390.482	PM	A	fra	-1	0	The {disfmarker}
+ES2011d.D.dialog-act.dharshi.3	389.99	393.3	ME	D	inf	-1	0	Um evaluation criteria .
+ES2011d.A.dialog-act.dharshi.61	392.26	392.96	PM	A	ass	-1	0	Okay .
+ES2011d.A.dialog-act.dharshi.62	392.96	393.748	PM	A	sug	-1	0	Do you wanna {disfmarker}
+ES2011d.D.dialog-act.dharshi.4	393.3	395.09	ME	D	off	-1	0	I've got a presentation .
+ES2011d.A.dialog-act.dharshi.63	395.42	398.1	PM	A	fra	-1	0	Okay . I think that's {disfmarker}
+ES2011d.D.dialog-act.dharshi.5	396.8	398.53	ME	D	oth	-1	0	So I need {disfmarker} where's the cable ?
+ES2011d.D.dialog-act.dharshi.6	409.28	425.3	ME	D	inf	+1	1	Right what happens is we have to um decide whether this this whole this whole project we've been working on actually um meets the standards we were set at the start .
+ES2011d.D.dialog-act.dharshi.7	426.91	427.6	ME	D	stl	-1	0	Um .
+ES2011d.D.dialog-act.dharshi.8	429.65	429.93	ME	D	stl	-1	0	Right .
+ES2011d.D.dialog-act.dharshi.9	431.09	431.97	ME	D	fra	-1	0	This doesn't {disfmarker}
+ES2011d.D.dialog-act.dharshi.10	431.97	433.01	ME	D	stl	-1	0	okay .
+ES2011d.D.dialog-act.dharshi.11	433.01	445.84	ME	D	inf	-1	0	Um the method is {disfmarker} we {disfmarker} well I've analysed the user requirements and integrated them to the trends found in marketing reports and in our company strategy marketing .
+ES2011d.D.dialog-act.dharshi.12	445.84	452.19	ME	D	inf	-1	0	And um the findings were that we need it to look in a certain way , feel in a certain way ,
+ES2011d.D.dialog-act.dharshi.13	452.19	454.49	ME	D	inf	-1	0	and this is {disfmarker} everything's listed down .
+ES2011d.D.dialog-act.dharshi.14	455.29	463.3	ME	D	inf	-1	0	Um , look in a certain way , feel in a certain way , it has to be technologically innovative and it has to be easy to use .
+ES2011d.D.dialog-act.dharshi.15	463.3	466.08	ME	D	inf	-1	0	These are all things we looked at at the start ,
+ES2011d.D.dialog-act.dharshi.16	466.08	468.37	ME	D	inf	-1	0	um and criteria that have to be met .
+ES2011d.D.dialog-act.dharshi.17	468.37	470.45	ME	D	inf	-1	0	We have to use a table ,
+ES2011d.D.dialog-act.dharshi.18	470.45	471.48	ME	D	off	-1	0	I'll show you that later ,
+ES2011d.D.dialog-act.dharshi.19	471.48	475.46	ME	D	inf	-1	0	together to decide whether it meets the standards .
+ES2011d.D.dialog-act.dharshi.20	475.46	489.79	ME	D	inf	+1	1	And {vocalsound} we we have therefore in total um {disfmarker} We have five {disfmarker} we have eleven points according to which this should be evaluated .
+ES2011d.D.dialog-act.dharshi.21	489.79	496.14	ME	D	inf	+1	1	And um the cri well basically the findings are the same as the evaluation criteria .
+ES2011d.D.dialog-act.dharshi.22	496.14	499.77	ME	D	off	-1	0	I would like to show you the table we have to use .
+ES2011d.D.dialog-act.dharshi.23	499.77	500.66	ME	D	stl	-1	0	Um .
+ES2011d.D.dialog-act.dharshi.24	501.97	504.29	ME	D	oth	-1	0	No .
+ES2011d.D.dialog-act.dharshi.25	504.29	505.26	ME	D	inf	-1	0	This is the table .
+ES2011d.D.dialog-act.dharshi.26	505.26	506.41	ME	D	el.inf	-1	0	Can you see this here ?
+ES2011d.B.dialog-act.dharshi.40	506.65	507.02	ID	B	inf	-1	0	Mm-hmm .
+ES2011d.D.dialog-act.dharshi.27	507.35	512.24	ME	D	sug	-1	0	Um so the que the questions I've given you {disfmarker} c could you write that down ?
+ES2011d.D.dialog-act.dharshi.28	512.24	515.19	ME	D	inf	+1	1	True is one and and false is seven .
+ES2011d.D.dialog-act.dharshi.29	515.19	522.58	ME	D	sug	-1	0	And we'll just go through each point together , hopefully .
+ES2011d.D.dialog-act.dharshi.30	522.58	523.09	ME	D	stl	-1	0	Um .
+ES2011d.D.dialog-act.dharshi.31	526.86	530.6	ME	D	sug	+1	2	I think if each of us gives an opinion then they can be mixed somehow .
+ES2011d.B.dialog-act.dharshi.41	530.851	531.527	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.32	530.6	533.33	ME	D	inf	-1	0	I dunno how it works exactly , I haven't been told .
+ES2011d.C.dialog-act.dharshi.19	532.21	533.91	UI	C	bck	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.20	533.91	536.078	UI	C	el.inf	-1	0	Is it possible that we can bring this up on our own {disfmarker}
+ES2011d.C.dialog-act.dharshi.18	537.122	537.761	UI	C	fra	-1	0	{gap}
+ES2011d.D.dialog-act.dharshi.33	537.22	541.43	ME	D	inf	-1	0	Yeah it's in the um {disfmarker} it's in the project documents .
+ES2011d.C.dialog-act.dharshi.21	541.74	543.22	UI	C	el.inf	-1	0	Is it meeting three minutes ?
+ES2011d.C.dialog-act.dharshi.22	543.22	544.58	UI	C	ass	-1	0	No it's not minutes .
+ES2011d.D.dialog-act.dharshi.34	543.73	546.04	ME	D	inf	-1	0	It's called evaluation criteria .
+ES2011d.C.dialog-act.dharshi.23	546.32	546.87	UI	C	ass	-1	0	Okay .
+ES2011d.D.dialog-act.dharshi.35	548.26	552.24	ME	D	inf	-1	0	And it's under evaluation .
+ES2011d.A.dialog-act.dharshi.64	552.81	554.23	PM	A	el.inf	-1	0	Huh , the PowerPoint one ?
+ES2011d.B.dialog-act.dharshi.42	553.72	553.92	ID	B	und	-1	0	Hmm ?
+ES2011d.C.dialog-act.dharshi.24	555.04	556.02	UI	C	ass	-1	0	Okay . Cool .
+ES2011d.D.dialog-act.dharshi.36	554.72	555.3	ME	D	inf	-1	0	Yeah .
+ES2011d.D.dialog-act.dharshi.37	556.54	557.56	ME	D	el.inf	-1	0	You've found it all ?
+ES2011d.A.dialog-act.dharshi.65	557.51	557.69	PM	A	inf	-1	0	Yeah .
+ES2011d.D.dialog-act.dharshi.38	564.27	565.74	ME	D	fra	-1	0	So it was um {disfmarker}
+ES2011d.D.dialog-act.dharshi.39	567.97	569.06	ME	D	inf	-1	0	Yeah true's one .
+ES2011d.C.dialog-act.dharshi.25	574.19	575.96	UI	C	oth	-1	0	True's one and false is seven .
+ES2011d.D.dialog-act.dharshi.40	575.64	579.02	ME	D	el.sug	-1	0	Do you want us to discuss this together or do you want us to do it singly ?
+ES2011d.A.dialog-act.dharshi.66	579.39	581.83	PM	A	sug	+1	1	Um we can do it separately and then discuss it
+ES2011d.D.dialog-act.dharshi.41	580.0	580.534	ME	D	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.42	581.24	582.04	ME	D	ass	-1	0	Yeah okay .
+ES2011d.A.dialog-act.dharshi.67	581.83	584.37	PM	A	el.ass	-1	0	if if that's what people wanna do .
+ES2011d.C.dialog-act.dharshi.26	590.47	592.02	UI	C	inf	-1	0	So it's actually a scale .
+ES2011d.A.dialog-act.dharshi.68	592.33	596.51	PM	A	fra	-1	0	Wait , one is true and {disfmarker} {vocalsound}
+ES2011d.D.dialog-act.dharshi.43	594.267	596.84	ME	D	stl	-1	0	{vocalsound} Um ,
+ES2011d.A.dialog-act.dharshi.69	596.51	598.8	PM	A	el.inf	-1	0	so these are the questions we're answering .
+ES2011d.A.dialog-act.dharshi.70	598.8	599.956	PM	A	el.inf	-1	0	And one is {disfmarker}
+ES2011d.D.dialog-act.dharshi.44	598.43	598.87	ME	D	inf	-1	0	yes
+ES2011d.D.dialog-act.dharshi.46	598.87	601.86	ME	D	inf	+1	1	it's {disfmarker} if it's fancy you put one ,
+ES2011d.A.dialog-act.dharshi.71	601.2	602.42	PM	A	ass	-1	0	One , right okay .
+ES2011d.D.dialog-act.dharshi.47	601.86	604.58	ME	D	inf	+1	1	if it's really unfancy it's seven .
+ES2011d.A.dialog-act.dharshi.72	603.99	607.25	PM	A	inf	-1	0	If it's somewhere in between you put four .
+ES2011d.D.dialog-act.dharshi.48	605.57	607.35	ME	D	ass	-1	0	{vocalsound} Yeah , something .
+ES2011d.A.dialog-act.dharshi.73	607.25	607.83	PM	A	ass	-1	0	{vocalsound} Okay .
+ES2011d.C.dialog-act.dharshi.27	606.79	607.64	UI	C	ass	-1	0	Okay .
+ES2011d.C.dialog-act.dharshi.28	661.035	666.27	UI	C	el.ass	-1	0	{vocalsound} Does it feel fancy ?
+ES2011d.A.dialog-act.dharshi.74	662.653	665.616	PM	A	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.43	662.51	665.32	ID	B	be.pos	-1	0	{vocalsound} Feels like play-dough .
+ES2011d.D.dialog-act.dharshi.49	662.435	667.048	ME	D	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.29	666.27	669.504	UI	C	ass	-1	0	{vocalsound} No . {vocalsound}
+ES2011d.D.dialog-act.dharshi.50	678.6	680.64	ME	D	ass	-1	0	They shouldn't really be questions .
+ES2011d.D.dialog-act.dharshi.51	680.64	682.151	ME	D	fra	-1	0	Should be more like {disfmarker}
+ES2011d.D.dialog-act.dharshi.52	713.48	716.878	ME	D	el.ass	-1	0	Are the batteries easy to insert ? {vocalsound}
+ES2011d.B.dialog-act.dharshi.45	716.06	717.997	ID	B	ass	-1	0	I'm gonna say yes . {vocalsound}
+ES2011d.D.dialog-act.dharshi.57	717.63	720.34	ME	D	ass	-1	0	Yes ? Very very true . Okay .
+ES2011d.B.dialog-act.dharshi.47	719.259	721.37	ID	B	inf	-1	0	{vocalsound} I imagine they're somewhere on the front .
+ES2011d.B.dialog-act.dharshi.48	721.37	723.75	ID	B	inf	-1	0	We have a little case that you slip 'em in .
+ES2011d.D.dialog-act.dharshi.58	723.76	724.41	ME	D	ass	-1	0	Okay .
+ES2011d.A.dialog-act.dharshi.75	785.28	786.36	PM	A	el.ass	-1	0	Are we just about ready ?
+ES2011d.D.dialog-act.dharshi.54	788.28	791.24	ME	D	inf	+1	1	Apparently I'm supposed to use the whiteboard .
+ES2011d.D.dialog-act.dharshi.55	791.24	791.77	ME	D	stl	-1	0	Do we {disfmarker}
+ES2011d.D.dialog-act.dharshi.56	791.77	793.25	ME	D	el.ass	+1	1	um is it necessary ?
+ES2011d.A.dialog-act.dharshi.76	794.45	796.02	PM	A	ass	+1	1	I don't think so .
+ES2011d.A.dialog-act.dharshi.77	796.02	796.71	PM	A	stl	-1	0	It's {disfmarker}
+ES2011d.D.dialog-act.dharshi.59	796.1	797.748	ME	D	fra	-1	0	We'll just do um {disfmarker}
+ES2011d.A.dialog-act.dharshi.78	796.71	800.402	PM	A	inf	-1	0	yeah the the marker thing kinda stopped working last time we {disfmarker}
+ES2011d.B.dialog-act.dharshi.44	796.731	797.707	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.53	799.196	800.072	ME	D	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.31	799.739	801.87	UI	C	ass	-1	0	{vocalsound} Yeah . Okay .
+ES2011d.A.dialog-act.dharshi.79	801.79	803.15	PM	A	be.pos	-1	0	Our animals will forever be there .
+ES2011d.D.dialog-act.dharshi.60	801.34	802.89	ME	D	ass	-1	0	Yeah . Okay .
+ES2011d.A.dialog-act.dharshi.80	804.544	808.74	PM	A	ass	-1	0	{vocalsound} Un unless you feel you need it t to {disfmarker}
+ES2011d.D.dialog-act.dharshi.61	807.92	811.03	ME	D	ass	-1	0	I don't feel any {disfmarker} {vocalsound}
+ES2011d.A.dialog-act.dharshi.81	808.74	809.71	PM	A	ass	-1	0	okay okay .
+ES2011d.B.dialog-act.dharshi.46	808.841	810.966	ID	B	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.82	809.71	810.607	PM	A	stl	-1	0	We'll {disfmarker}
+ES2011d.C.dialog-act.dharshi.30	809.583	810.694	UI	C	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.62	811.03	812.304	ME	D	stl	-1	0	right um {disfmarker}
+ES2011d.D.dialog-act.dharshi.63	813.54	815.65	ME	D	el.ass	-1	0	Right so one point one ?
+ES2011d.D.dialog-act.dharshi.64	815.65	817.02	ME	D	sug	+1	2	We'll just go in a circle .
+ES2011d.B.dialog-act.dharshi.49	817.39	817.51	ID	B	bck	-1	0	'Kay
+ES2011d.C.dialog-act.dharshi.32	817.15	818.07	UI	C	ass	-1	0	One .
+ES2011d.B.dialog-act.dharshi.50	818.66	819.08	ID	B	ass	-1	0	Five .
+ES2011d.D.dialog-act.dharshi.65	818.71	819.31	ME	D	stl	-1	0	Right .
+ES2011d.D.dialog-act.dharshi.66	819.31	821.22	ME	D	oth	-1	0	Ooh I don't know .
+ES2011d.B.dialog-act.dharshi.53	820.24	821.235	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.68	821.22	822.96	ME	D	und	-1	0	Right . One ?
+ES2011d.B.dialog-act.dharshi.54	823.44	823.82	ID	B	inf	-1	0	Five .
+ES2011d.A.dialog-act.dharshi.83	824.25	824.98	PM	A	inf	-1	0	Five .
+ES2011d.D.dialog-act.dharshi.69	825.85	827.39	ME	D	und	-1	0	Five .
+ES2011d.A.dialog-act.dharshi.84	826.752	828.608	PM	A	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.52	827.341	827.984	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.70	827.39	828.41	ME	D	ass	-1	0	Two .
+ES2011d.D.dialog-act.dharshi.71	828.41	831.31	ME	D	el.inf	+1	2	Okay so do we just add it up and divide it by four ?
+ES2011d.D.dialog-act.dharshi.72	831.31	833.08	ME	D	el.inf	-1	0	Is that what the company does ?
+ES2011d.A.dialog-act.dharshi.85	833.39	835.211	PM	A	fra	-1	0	I I think we should {disfmarker}
+ES2011d.B.dialog-act.dharshi.51	833.334	834.224	ID	B	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.55	834.92	836.12	ID	B	inf	-1	0	It's four if you wanna do that .
+ES2011d.A.dialog-act.dharshi.86	836.16	837.58	PM	A	ass	-1	0	Yeah .
+ES2011d.D.dialog-act.dharshi.73	837.06	837.4	ME	D	el.inf	-1	0	Yeah ?
+ES2011d.A.dialog-act.dharshi.87	837.58	837.99	PM	A	inf	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.56	837.42	838.79	ID	B	inf	-1	0	It adds to sixteen , so that's four .
+ES2011d.D.dialog-act.dharshi.74	841.0	844.66	ME	D	inf	-1	0	Oh no . It adds to thirteen . One five five two .
+ES2011d.B.dialog-act.dharshi.57	845.04	845.93	ID	B	inf	-1	0	Oh I thought she said five .
+ES2011d.C.dialog-act.dharshi.33	846.13	846.29	UI	C	bck	-1	0	Hmm .
+ES2011d.D.dialog-act.dharshi.75	847.37	850.52	ME	D	inf	-1	0	One five five two is thirteen , over four for now .
+ES2011d.D.dialog-act.dharshi.76	850.52	852.8	ME	D	fra	-1	0	I think that's um {disfmarker}
+ES2011d.D.dialog-act.dharshi.77	852.8	853.39	ME	D	el.ass	-1	0	next ?
+ES2011d.C.dialog-act.dharshi.34	854.29	855.69	UI	C	ass	-1	0	Um three .
+ES2011d.B.dialog-act.dharshi.58	856.91	857.44	ID	B	ass	-1	0	Six .
+ES2011d.A.dialog-act.dharshi.88	857.54	861.48	PM	A	ass	-1	0	Six .
+ES2011d.B.dialog-act.dharshi.59	859.081	862.28	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.78	859.29	860.58	ME	D	el.ass	-1	0	Really ? {vocalsound}
+ES2011d.C.dialog-act.dharshi.35	859.99	861.558	UI	C	bck	-1	0	Yeah . {vocalsound}
+ES2011d.D.dialog-act.dharshi.79	860.58	861.66	ME	D	ass	-1	0	Two .
+ES2011d.A.dialog-act.dharshi.89	861.48	863.95	PM	A	be.pos	-1	0	{vocalsound} I wasn't cheating I swear .
+ES2011d.D.dialog-act.dharshi.80	861.66	861.83	ME	D	oth	-1	0	Uh-oh .
+ES2011d.D.dialog-act.dharshi.81	863.41	863.88	ME	D	stl	-1	0	Right .
+ES2011d.D.dialog-act.dharshi.82	863.88	867.072	ME	D	inf	-1	0	One point three is {disfmarker}
+ES2011d.C.dialog-act.dharshi.36	868.18	870.72	UI	C	el.inf	+1	1	So it's a one was true and seven was false ?
+ES2011d.A.dialog-act.dharshi.90	872.39	872.64	PM	A	fra	-1	0	Uh .
+ES2011d.B.dialog-act.dharshi.60	872.26	872.53	ID	B	und	-1	0	Huh ?
+ES2011d.C.dialog-act.dharshi.37	872.029	875.15	UI	C	el.ass	-1	0	{gap} Okay , so you guys really didn't like it ?
+ES2011d.D.dialog-act.dharshi.83	872.59	873.46	ME	D	inf	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.91	875.74	880.0	PM	A	inf	+1	1	Oh I thought it was the other way round .
+ES2011d.B.dialog-act.dharshi.61	875.94	876.91	ID	B	oth	-1	0	Wait a minute .
+ES2011d.D.dialog-act.dharshi.84	875.58	876.513	ME	D	fra	-1	0	I really {disfmarker}
+ES2011d.B.dialog-act.dharshi.62	876.91	878.02	ID	B	inf	+1	1	I thought it was the other way round too .
+ES2011d.A.dialog-act.dharshi.92	880.0	883.386	PM	A	inf	-1	0	{vocalsound} So we do have about the same thing , we just have it the other way {disfmarker} {vocalsound}
+ES2011d.D.dialog-act.dharshi.85	879.99	881.198	ME	D	fra	-1	0	Well uh {disfmarker} {vocalsound}
+ES2011d.B.dialog-act.dharshi.63	881.11	881.3	ID	B	fra	-1	0	Sh
+ES2011d.B.dialog-act.dharshi.64	882.84	883.28	ID	B	ass	-1	0	Yeah
+ES2011d.B.dialog-act.dharshi.65	883.28	888.14	ID	B	inf	-1	0	I I was thinking one means no points , you know , all the way up to the top {vocalsound} .
+ES2011d.D.dialog-act.dharshi.86	883.44	883.95	ME	D	ass	-1	0	Yeah yeah .
+ES2011d.D.dialog-act.dharshi.87	883.95	887.38	ME	D	inf	-1	0	It was one is true and {vocalsound} false is seven .
+ES2011d.A.dialog-act.dharshi.93	884.847	886.037	PM	A	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.88	887.38	888.96	ME	D	ass	-1	0	I should've kept the table up .
+ES2011d.A.dialog-act.dharshi.94	888.92	891.198	PM	A	ass	-1	0	Oh gosh . Okay . Well {disfmarker}
+ES2011d.B.dialog-act.dharshi.66	889.13	891.46	ID	B	off	-1	0	I'll just I'll just reverse them all .
+ES2011d.B.dialog-act.dharshi.67	891.46	892.21	ID	B	ass	-1	0	It's no problem .
+ES2011d.A.dialog-act.dharshi.95	892.05	892.6	PM	A	ass	-1	0	Yeah .
+ES2011d.D.dialog-act.dharshi.89	894.17	896.73	ME	D	ass	-1	0	Right , well I'm glad this came out .
+ES2011d.A.dialog-act.dharshi.96	896.037	905.2	PM	A	ass	-1	0	{vocalsound} Yeah . {vocalsound}
+ES2011d.B.dialog-act.dharshi.68	896.307	905.161	ID	B	inf	-1	0	{vocalsound} I thought you guys hated it . {vocalsound}
+ES2011d.C.dialog-act.dharshi.38	896.6	900.54	UI	C	inf	-1	0	I was like , why did you guys design it that way if you hated it ? {vocalsound}
+ES2011d.D.dialog-act.dharshi.90	898.09	900.23	ME	D	bck	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.39	900.54	904.637	UI	C	ass	-1	0	Yeah . {vocalsound}
+ES2011d.D.dialog-act.dharshi.91	900.23	901.13	ME	D	bck	-1	0	{vocalsound} No .
+ES2011d.D.dialog-act.dharshi.92	901.13	904.74	ME	D	ass	-1	0	{vocalsound} Oh that's quite funny {vocalsound} .
+ES2011d.B.dialog-act.dharshi.69	923.7	924.09	ID	B	ass	-1	0	Okay .
+ES2011d.D.dialog-act.dharshi.93	924.63	925.964	ME	D	el.ass	-1	0	Okay . {gap}
+ES2011d.A.dialog-act.dharshi.98	925.51	925.88	PM	A	ass	-1	0	Yeah .
+ES2011d.D.dialog-act.dharshi.94	927.15	930.9	ME	D	el.ass	-1	0	Okay . So , starting again , one point one ?
+ES2011d.C.dialog-act.dharshi.40	931.1	931.8	UI	C	ass	-1	0	One .
+ES2011d.B.dialog-act.dharshi.70	933.15	934.08	ID	B	ass	-1	0	Say two .
+ES2011d.A.dialog-act.dharshi.99	935.16	935.78	PM	A	ass	-1	0	Three .
+ES2011d.D.dialog-act.dharshi.95	937.29	937.69	ME	D	ass	-1	0	Two .
+ES2011d.D.dialog-act.dharshi.96	937.69	938.87	ME	D	el.ass	-1	0	Okay , one point two ?
+ES2011d.C.dialog-act.dharshi.41	941.1	942.25	UI	C	ass	-1	0	Uh three .
+ES2011d.B.dialog-act.dharshi.71	942.31	943.01	ID	B	ass	-1	0	Two .
+ES2011d.A.dialog-act.dharshi.100	942.86	943.68	PM	A	ass	-1	0	Two .
+ES2011d.D.dialog-act.dharshi.97	944.66	945.29	ME	D	ass	-1	0	Two .
+ES2011d.D.dialog-act.dharshi.98	945.29	948.19	ME	D	el.ass	-1	0	Okay . Um , one point three ?
+ES2011d.C.dialog-act.dharshi.42	949.47	949.78	UI	C	ass	-1	0	One .
+ES2011d.A.dialog-act.dharshi.101	950.64	951.39	PM	A	ass	-1	0	One .
+ES2011d.B.dialog-act.dharshi.72	951.17	951.8	ID	B	ass	-1	0	One .
+ES2011d.D.dialog-act.dharshi.99	953.17	954.95	ME	D	oth	-1	0	Ha . {vocalsound}
+ES2011d.D.dialog-act.dharshi.100	954.95	955.68	ME	D	el.ass	-1	0	Two point one ?
+ES2011d.A.dialog-act.dharshi.102	957.07	957.65	PM	A	ass	-1	0	Two .
+ES2011d.C.dialog-act.dharshi.43	956.95	957.85	UI	C	ass	-1	0	Uh two .
+ES2011d.B.dialog-act.dharshi.73	958.92	959.84	ID	B	ass	-1	0	Uh two .
+ES2011d.A.dialog-act.dharshi.103	961.29	964.58	PM	A	inf	-1	0	Two point {disfmarker} I think I missed two .
+ES2011d.A.dialog-act.dharshi.104	964.58	965.73	PM	A	el.inf	-1	0	{vocalsound} Wait , is that two point one ?
+ES2011d.B.dialog-act.dharshi.74	966.73	969.01	ID	B	inf	-1	0	Yeah I put it down as one point four for some reason .
+ES2011d.D.dialog-act.dharshi.101	967.18	968.23	ME	D	inf	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.105	968.21	970.25	PM	A	ass	-1	0	One point four , one point five . Okay right
+ES2011d.D.dialog-act.dharshi.102	968.23	969.5	ME	D	ass	-1	0	Oh dear ,
+ES2011d.D.dialog-act.dharshi.103	969.5	970.89	ME	D	be.pos	-1	0	okay . Sorry .
+ES2011d.A.dialog-act.dharshi.106	970.25	971.92	PM	A	inf	-1	0	that's {disfmarker} I have two of them .
+ES2011d.B.dialog-act.dharshi.75	971.57	973.13	ID	B	ass	-1	0	Mine has all kinds of problems .
+ES2011d.D.dialog-act.dharshi.104	972.41	973.54	ME	D	oth	-1	0	Two and one .
+ES2011d.C.dialog-act.dharshi.44	973.569	974.983	UI	C	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.105	973.54	974.65	ME	D	be.pos	-1	0	Sorry about that .
+ES2011d.D.dialog-act.dharshi.106	974.65	977.18	ME	D	el.ass	-1	0	T two point two , which is one point five .
+ES2011d.A.dialog-act.dharshi.107	977.99	978.33	PM	A	ass	-1	0	One .
+ES2011d.B.dialog-act.dharshi.76	979.38	980.43	ID	B	ass	-1	0	Uh three .
+ES2011d.B.dialog-act.dharshi.77	981.58	982.95	ID	B	oth	-1	0	Wait why did I put three ?
+ES2011d.C.dialog-act.dharshi.45	982.82	983.46	UI	C	ass	-1	0	Uh one .
+ES2011d.B.dialog-act.dharshi.78	984.62	986.11	ID	B	ass	-1	0	I meant one on mine too .
+ES2011d.D.dialog-act.dharshi.107	984.8	985.33	ME	D	bck	-1	0	Okay .
+ES2011d.D.dialog-act.dharshi.108	986.42	987.44	ME	D	el.ass	-1	0	Three point one .
+ES2011d.D.dialog-act.dharshi.109	987.44	989.45	ME	D	el.inf	-1	0	Is that correct on my slide ?
+ES2011d.A.dialog-act.dharshi.108	988.53	989.46	PM	A	inf	-1	0	Yeah . Yeah .
+ES2011d.C.dialog-act.dharshi.46	989.24	990.1	UI	C	inf	-1	0	Yeah .
+ES2011d.D.dialog-act.dharshi.110	989.45	989.71	ME	D	ass	-1	0	Yeah ?
+ES2011d.C.dialog-act.dharshi.47	990.1	991.33	UI	C	ass	-1	0	Uh one .
+ES2011d.B.dialog-act.dharshi.79	992.87	993.84	ID	B	oth	-1	0	Three point one .
+ES2011d.B.dialog-act.dharshi.80	993.84	995.02	ID	B	ass	-1	0	I have four .
+ES2011d.A.dialog-act.dharshi.109	995.47	996.33	PM	A	ass	-1	0	Three .
+ES2011d.D.dialog-act.dharshi.111	995.64	998.79	ME	D	inf	-1	0	One , four , three , three ,
+ES2011d.D.dialog-act.dharshi.112	998.79	999.9	ME	D	el.ass	-1	0	three point two ?
+ES2011d.B.dialog-act.dharshi.81	1001.06	1001.93	ID	B	ass	-1	0	Three .
+ES2011d.A.dialog-act.dharshi.110	1001.72	1002.27	PM	A	ass	-1	0	Three .
+ES2011d.C.dialog-act.dharshi.48	1003.45	1005.2	UI	C	ass	-1	0	Uh . One .
+ES2011d.D.dialog-act.dharshi.113	1006.45	1007.73	ME	D	el.ass	-1	0	Three point three .
+ES2011d.C.dialog-act.dharshi.49	1008.31	1008.89	UI	C	ass	-1	0	One .
+ES2011d.B.dialog-act.dharshi.82	1008.89	1009.19	ID	B	ass	-1	0	One .
+ES2011d.A.dialog-act.dharshi.111	1010.08	1010.89	PM	A	ass	-1	0	Two .
+ES2011d.D.dialog-act.dharshi.114	1013.4	1014.52	ME	D	el.ass	-1	0	Four point one ?
+ES2011d.C.dialog-act.dharshi.50	1015.0	1015.83	UI	C	ass	-1	0	One .
+ES2011d.B.dialog-act.dharshi.83	1015.63	1015.91	ID	B	ass	-1	0	Two .
+ES2011d.A.dialog-act.dharshi.112	1016.55	1017.65	PM	A	ass	-1	0	Five .
+ES2011d.D.dialog-act.dharshi.115	1019.35	1020.23	ME	D	ass	-1	0	Two .
+ES2011d.D.dialog-act.dharshi.116	1020.23	1021.79	ME	D	el.ass	-1	0	Four point two .
+ES2011d.C.dialog-act.dharshi.51	1022.08	1022.65	UI	C	ass	-1	0	Two .
+ES2011d.B.dialog-act.dharshi.84	1023.1	1023.63	ID	B	ass	-1	0	Three .
+ES2011d.A.dialog-act.dharshi.113	1023.81	1024.41	PM	A	ass	-1	0	Four .
+ES2011d.D.dialog-act.dharshi.117	1025.89	1026.44	ME	D	ass	-1	0	Two
+ES2011d.D.dialog-act.dharshi.118	1026.44	1028.37	ME	D	el.ass	-1	0	and four point three .
+ES2011d.B.dialog-act.dharshi.85	1029.19	1029.68	ID	B	ass	-1	0	Two .
+ES2011d.D.dialog-act.dharshi.119	1029.51	1030.17	ME	D	oth	-1	0	One , two .
+ES2011d.C.dialog-act.dharshi.52	1030.78	1031.19	UI	C	ass	-1	0	One .
+ES2011d.A.dialog-act.dharshi.114	1031.35	1032.01	PM	A	ass	-1	0	Two .
+ES2011d.D.dialog-act.dharshi.120	1033.76	1035.3	ME	D	inf	-1	0	Right so I put one on that .
+ES2011d.B.dialog-act.dharshi.86	1035.183	1035.946	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.121	1035.3	1039.0	ME	D	off	-1	0	Okay I'll um I'll just do the calculations now
+ES2011d.D.dialog-act.dharshi.122	1039.0	1040.94	ME	D	sug	-1	0	if you want to continue .
+ES2011d.A.dialog-act.dharshi.115	1040.8	1042.247	PM	A	ass	-1	0	Okay . Um {disfmarker}
+ES2011d.D.dialog-act.dharshi.123	1040.94	1042.12	ME	D	el.ass	-1	0	Or is it tedious ?
+ES2011d.D.dialog-act.dharshi.124	1042.12	1044.61	ME	D	be.neg	+1	1	I'm I'm sorry this was so tedious for everyone .
+ES2011d.A.dialog-act.dharshi.116	1043.9	1046.05	PM	A	ass	-1	0	No no that's um {disfmarker}
+ES2011d.A.dialog-act.dharshi.117	1046.05	1058.55	PM	A	sug	+1	1	I think we should look at the ones that {vocalsound} like where s where people said four , where {disfmarker} um it looks like we might wanna discuss changing an aspect of the remote .
+ES2011d.D.dialog-act.dharshi.125	1045.82	1047.11	ME	D	inf	-1	0	I didn't know how else to do it .
+ES2011d.D.dialog-act.dharshi.126	1058.69	1059.59	ME	D	ass	-1	0	Okay .
+ES2011d.D.dialog-act.dharshi.127	1059.59	1062.37	ME	D	inf	+1	1	Well the worst ones were three point one .
+ES2011d.B.dialog-act.dharshi.87	1062.94	1063.23	ID	B	bck	-1	0	Mm-hmm .
+ES2011d.D.dialog-act.dharshi.128	1063.6	1063.78	ME	D	stl	-1	0	Do {disfmarker}
+ES2011d.D.dialog-act.dharshi.129	1063.78	1066.55	ME	D	el.inf	-1	0	does every ones have the slide ?
+ES2011d.A.dialog-act.dharshi.118	1066.84	1067.92	PM	A	stl	-1	0	The {disfmarker}
+ES2011d.D.dialog-act.dharshi.130	1066.55	1067.9	ME	D	inf	-1	0	Three point one .
+ES2011d.A.dialog-act.dharshi.119	1067.92	1069.04	PM	A	inf	-1	0	that was material .
+ES2011d.D.dialog-act.dharshi.131	1069.96	1071.15	ME	D	oth	-1	0	Slide show .
+ES2011d.D.dialog-act.dharshi.132	1073.52	1076.66	ME	D	inf	+1	1	Material {vocalsound} technologically innovative ,
+ES2011d.D.dialog-act.dharshi.133	1076.66	1078.81	ME	D	stl	-1	0	okay . Um ,
+ES2011d.A.dialog-act.dharshi.120	1077.51	1077.79	PM	A	bck	-1	0	Mm .
+ES2011d.D.dialog-act.dharshi.134	1078.81	1080.17	ME	D	el.ass	-1	0	do you want to change it ?
+ES2011d.D.dialog-act.dharshi.135	1080.17	1081.54	ME	D	el.sug	-1	0	What are the suggestions ?
+ES2011d.D.dialog-act.dharshi.136	1081.54	1082.38	ME	D	ass	-1	0	I don't know ,
+ES2011d.D.dialog-act.dharshi.137	1082.38	1082.592	ME	D	el.sug	-1	0	anyone ? {vocalsound}
+ES2011d.A.dialog-act.dharshi.121	1083.28	1084.232	PM	A	stl	-1	0	Um {disfmarker}
+ES2011d.C.dialog-act.dharshi.53	1083.51	1084.96	UI	C	el.inf	-1	0	Which one is that again sorry ?
+ES2011d.C.dialog-act.dharshi.54	1084.96	1085.92	UI	C	el.inf	-1	0	Three point one ?
+ES2011d.A.dialog-act.dharshi.122	1086.34	1087.05	PM	A	inf	-1	0	Mm-hmm .
+ES2011d.D.dialog-act.dharshi.138	1087.01	1090.3	ME	D	inf	-1	0	Yeah that {disfmarker} it's three point one was not that good .
+ES2011d.D.dialog-act.dharshi.139	1090.3	1091.51	ME	D	inf	-1	0	Four point one .
+ES2011d.A.dialog-act.dharshi.124	1092.94	1094.338	PM	A	inf	-1	0	Does the shape {disfmarker}
+ES2011d.D.dialog-act.dharshi.141	1094.29	1095.68	ME	D	ass	-1	0	The shape .
+ES2011d.C.dialog-act.dharshi.55	1095.2	1096.203	UI	C	fra	-1	0	I think {disfmarker}
+ES2011d.D.dialog-act.dharshi.142	1095.68	1097.01	ME	D	el.ass	-1	0	Four point two ?
+ES2011d.A.dialog-act.dharshi.126	1097.26	1099.89	PM	A	ass	-1	0	See I'm having I'm having trouble imagining
+ES2011d.A.dialog-act.dharshi.127	1101.22	1101.59	PM	A	stl	-1	0	the {disfmarker}
+ES2011d.A.dialog-act.dharshi.128	1101.59	1105.25	PM	A	el.inf	-1	0	is it uh gonna be the size , like the the controller ?
+ES2011d.A.dialog-act.dharshi.129	1105.25	1105.5	PM	A	stl	-1	0	It {disfmarker}
+ES2011d.A.dialog-act.dharshi.130	1105.5	1106.55	PM	A	el.inf	-1	0	or bigger ?
+ES2011d.B.dialog-act.dharshi.89	1105.35	1107.34	ID	B	fra	-1	0	I think the wheel would probably be {disfmarker} mm .
+ES2011d.A.dialog-act.dharshi.125	1107.22	1108.412	PM	A	fra	-1	0	Because {disfmarker}
+ES2011d.C.dialog-act.dharshi.56	1107.6	1110.72	UI	C	sug	+1	3	What if we just smash all the vegetables down flat ?
+ES2011d.A.dialog-act.dharshi.123	1109.523	1111.872	PM	A	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.88	1109.101	1110.717	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.140	1109.756	1111.854	ME	D	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.57	1110.72	1113.49	UI	C	ass	-1	0	And like then it {disfmarker} you could hold it in your hand better .
+ES2011d.B.dialog-act.dharshi.90	1114.09	1115.56	ID	B	sug	-1	0	I think the base would definitely be larger ,
+ES2011d.B.dialog-act.dharshi.91	1115.56	1117.33	ID	B	ass	+1	3	'cause some of these are not as easy to hold .
+ES2011d.B.dialog-act.dharshi.92	1117.33	1119.4	ID	B	ass	-1	0	They're kinda smallish .
+ES2011d.A.dialog-act.dharshi.131	1118.01	1118.54	PM	A	ass	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.132	1119.95	1124.79	PM	A	ass	-1	0	No but I imagine even if it was bigger , like if it's round and it's big then you you can't get {disfmarker}
+ES2011d.A.dialog-act.dharshi.133	1124.79	1129.24	PM	A	inf	-1	0	that's why remote controls are long because you have that thumb kind of {disfmarker}
+ES2011d.C.dialog-act.dharshi.58	1124.58	1125.54	UI	C	bck	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.94	1125.64	1126.07	ID	B	bck	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.59	1125.54	1127.31	UI	C	ass	-1	0	The flat one . Yeah .
+ES2011d.A.dialog-act.dharshi.134	1129.24	1133.65	PM	A	sug	-1	0	so c they could all be bananas and cucumbers .
+ES2011d.B.dialog-act.dharshi.93	1130.793	1131.972	ID	B	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.62	1132.2	1132.9	UI	C	ass	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.135	1133.65	1135.02	PM	A	stl	-1	0	{vocalsound} Um but I don't s
+ES2011d.A.dialog-act.dharshi.136	1135.02	1141.92	PM	A	ass	+1	3	I I personally don't think this is comfortable to to sit there , like it's an awkward position .
+ES2011d.C.dialog-act.dharshi.60	1138.61	1139.38	UI	C	fra	-1	0	I didn't {disfmarker}
+ES2011d.C.dialog-act.dharshi.61	1139.38	1140.35	UI	C	ass	-1	0	yeah .
+ES2011d.C.dialog-act.dharshi.63	1140.35	1144.08	UI	C	sug	-1	0	But like if if you just squash them flat like and you made it flat {disfmarker}
+ES2011d.B.dialog-act.dharshi.96	1144.04	1147.64	ID	B	inf	-1	0	Well if they're that s uh stress ball stuff they would be pretty squishable .
+ES2011d.B.dialog-act.dharshi.97	1150.74	1150.86	ID	B	bck	-1	0	Mm .
+ES2011d.C.dialog-act.dharshi.64	1150.45	1153.36	UI	C	ass	-1	0	But it's still too big I think , in your hand . Yeah .
+ES2011d.A.dialog-act.dharshi.138	1152.24	1152.96	PM	A	ass	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.139	1155.82	1158.38	PM	A	el.ass	-1	0	And would it even resemble fruit that way ?
+ES2011d.B.dialog-act.dharshi.98	1157.848	1160.094	ID	B	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.140	1158.38	1159.488	PM	A	fra	-1	0	I mean {disfmarker} {vocalsound}
+ES2011d.C.dialog-act.dharshi.66	1159.02	1162.24	UI	C	ass	-1	0	Yeah like certain ones {disfmarker} you'd have to limit the fruit selection ,
+ES2011d.A.dialog-act.dharshi.141	1161.91	1162.2	PM	A	ass	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.67	1162.24	1164.98	UI	C	ass	-1	0	like you could probably do a strawberry still .
+ES2011d.A.dialog-act.dharshi.142	1164.78	1165.28	PM	A	ass	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.68	1164.98	1166.35	UI	C	ass	-1	0	I think the broccoli would be out .
+ES2011d.A.dialog-act.dharshi.137	1166.624	1169.488	PM	A	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.95	1166.65	1167.963	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.143	1166.681	1167.691	ME	D	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.69	1167.51	1168.43	UI	C	fra	-1	0	You could do {gap} ,
+ES2011d.C.dialog-act.dharshi.70	1168.43	1170.87	UI	C	ass	+1	3	although the broccoli is quite comfortable , I have to say ,
+ES2011d.C.dialog-act.dharshi.71	1170.87	1172.78	UI	C	ass	-1	0	like {disfmarker} sorta like a joystick .
+ES2011d.A.dialog-act.dharshi.143	1171.73	1175.52	PM	A	ass	-1	0	Yeah that I I {disfmarker} when you were holding that before , it actually looked {disfmarker} yeah .
+ES2011d.D.dialog-act.dharshi.144	1173.34	1175.44	ME	D	ass	-1	0	Yeah . That looked really good .
+ES2011d.C.dialog-act.dharshi.72	1175.45	1176.64	UI	C	stl	-1	0	I don't know . So {disfmarker}
+ES2011d.B.dialog-act.dharshi.99	1177.981	1178.78	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.145	1178.01	1180.15	ME	D	el.inf	-1	0	Are there any fruits that look like broccoli , no ?
+ES2011d.C.dialog-act.dharshi.73	1180.61	1181.28	UI	C	stl	-1	0	Uh .
+ES2011d.B.dialog-act.dharshi.100	1182.85	1183.88	ID	B	inf	-1	0	Not that I can think of .
+ES2011d.B.dialog-act.dharshi.101	1183.88	1188.132	ID	B	inf	-1	0	Rhubarb . {vocalsound}
+ES2011d.A.dialog-act.dharshi.144	1184.72	1188.655	PM	A	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.74	1185.06	1188.17	UI	C	oth	-1	0	{vocalsound} Rhubarb .
+ES2011d.D.dialog-act.dharshi.146	1184.943	1191.85	ME	D	ass	-1	0	{vocalsound} I think that broccoli is my favourite actually .
+ES2011d.B.dialog-act.dharshi.102	1188.624	1189.824	ID	B	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.75	1188.17	1189.71	UI	C	ass	-1	0	{vocalsound} These obscure fruits .
+ES2011d.A.dialog-act.dharshi.145	1191.3	1191.72	PM	A	bck	-1	0	Yeah .
+ES2011d.D.dialog-act.dharshi.147	1191.85	1192.8	ME	D	fra	-1	0	Uh despite the {disfmarker}
+ES2011d.C.dialog-act.dharshi.76	1192.557	1194.036	UI	C	fra	-1	0	{vocalsound} I think we needn't {disfmarker}
+ES2011d.A.dialog-act.dharshi.146	1193.45	1198.29	PM	A	sug	-1	0	What if um the {disfmarker} it was just patterns on like {disfmarker}
+ES2011d.A.dialog-act.dharshi.147	1198.29	1206.71	PM	A	sug	+1	2	we we chose the shape or the sh shape could be whatever we wanted and then it would just be like a design on the rubber .
+ES2011d.C.dialog-act.dharshi.77	1208.34	1209.39	UI	C	und	-1	0	Huh ?
+ES2011d.A.dialog-act.dharshi.148	1209.33	1213.35	PM	A	inf	-1	0	You know like like just a printed yeah or coloured yeah .
+ES2011d.C.dialog-act.dharshi.78	1209.39	1209.99	UI	C	und	-1	0	Oh okay .
+ES2011d.B.dialog-act.dharshi.103	1210.26	1213.38	ID	B	inf	-1	0	So it's just colour , and not necessarily the shape of a strawberry .
+ES2011d.C.dialog-act.dharshi.79	1212.92	1214.25	UI	C	ass	-1	0	Yeah . That could work .
+ES2011d.D.dialog-act.dharshi.148	1214.45	1215.68	ME	D	ass	-1	0	Yeah . {gap}
+ES2011d.A.dialog-act.dharshi.149	1215.94	1221.26	PM	A	sug	-1	0	Or I mean we could even have fruit like around {disfmarker} {vocalsound}
+ES2011d.C.dialog-act.dharshi.80	1220.26	1220.93	UI	C	ass	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.150	1221.26	1222.183	PM	A	fra	-1	0	I mean {disfmarker}
+ES2011d.C.dialog-act.dharshi.81	1222.32	1223.52	UI	C	ass	-1	0	Yeah . I dunno .
+ES2011d.A.dialog-act.dharshi.152	1223.38	1225.6	PM	A	fra	-1	0	But if we if we need {disfmarker}
+ES2011d.D.dialog-act.dharshi.152	1223.5	1223.61	ME	D	ass	-1	0	Yeah
+ES2011d.D.dialog-act.dharshi.153	1223.61	1226.05	ME	D	sug	+1	2	and just have the colour match or something .
+ES2011d.A.dialog-act.dharshi.153	1225.6	1226.41	PM	A	ass	-1	0	yeah .
+ES2011d.A.dialog-act.dharshi.155	1226.41	1229.53	PM	A	sug	-1	0	And if we wanna incorporate the fruit thing somehow ,
+ES2011d.A.dialog-act.dharshi.156	1229.53	1230.83	PM	A	fra	-1	0	there might be {disfmarker}
+ES2011d.C.dialog-act.dharshi.82	1229.987	1232.992	UI	C	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.157	1230.83	1236.998	PM	A	inf	-1	0	{vocalsound} I mean if it if it in if it uh conflicts with the comfort of actually holdi holding the {disfmarker}
+ES2011d.B.dialog-act.dharshi.104	1230.427	1231.101	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.149	1230.514	1232.4	ME	D	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.83	1235.88	1240.3	UI	C	ass	-1	0	Yeah . 'Cause yeah no-one wants to hold a remote that's uncomfortable obviously .
+ES2011d.A.dialog-act.dharshi.151	1239.65	1240.988	PM	A	bck	-1	0	Mm . {vocalsound}
+ES2011d.B.dialog-act.dharshi.105	1239.572	1241.065	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.150	1240.33	1240.74	ME	D	bck	-1	0	Mm .
+ES2011d.C.dialog-act.dharshi.84	1241.32	1241.73	UI	C	stl	-1	0	Or like {disfmarker}
+ES2011d.C.dialog-act.dharshi.85	1241.73	1242.16	UI	C	stl	-1	0	I dunno ,
+ES2011d.C.dialog-act.dharshi.86	1242.16	1244.608	UI	C	fra	-1	0	some of 'em you can kind of think {disfmarker} see as like {disfmarker}
+ES2011d.D.dialog-act.dharshi.154	1242.03	1243.573	ME	D	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.87	1246.52	1251.55	UI	C	sug	-1	0	like you could {disfmarker} if it was only this {disfmarker} you know , if it was shaped like that , and it just had that .
+ES2011d.C.dialog-act.dharshi.88	1251.55	1254.69	UI	C	ass	-1	0	But you see the problem is you have to attach that , and this has to be detachable .
+ES2011d.A.dialog-act.dharshi.158	1252.1	1252.72	PM	A	bck	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.159	1255.01	1255.42	PM	A	ass	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.89	1256.35	1257.87	UI	C	ass	-1	0	So like maybe that's just too big
+ES2011d.A.dialog-act.dharshi.160	1257.58	1261.61	PM	A	ass	-1	0	Well see th the reason the broccoli works is you can kinda hold it like that ,
+ES2011d.C.dialog-act.dharshi.90	1257.87	1258.599	UI	C	fra	-1	0	because {disfmarker}
+ES2011d.A.dialog-act.dharshi.161	1261.61	1263.49	PM	A	fra	-1	0	which is a nice kind of {disfmarker}
+ES2011d.C.dialog-act.dharshi.91	1261.58	1263.31	UI	C	ass	-1	0	Yeah it's sorta like a joystick .
+ES2011d.D.dialog-act.dharshi.155	1261.89	1262.61	ME	D	bck	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.162	1263.49	1264.09	PM	A	ass	-1	0	yeah .
+ES2011d.A.dialog-act.dharshi.163	1266.13	1266.954	PM	A	stl	-1	0	But {disfmarker}
+ES2011d.C.dialog-act.dharshi.93	1267.434	1268.56	UI	C	ass	-1	0	{gap} I dunno .
+ES2011d.A.dialog-act.dharshi.164	1268.69	1271.95	PM	A	el.sug	-1	0	I mean is there some way we could make it this kind of shape ?
+ES2011d.C.dialog-act.dharshi.94	1268.56	1269.151	UI	C	fra	-1	0	I guess {disfmarker}
+ES2011d.A.dialog-act.dharshi.165	1271.95	1274.294	PM	A	fra	-1	0	'Cause like kind of {disfmarker}
+ES2011d.B.dialog-act.dharshi.106	1273.24	1277.78	ID	B	sug	+1	2	We could make it that shape but just have different colours , and call 'em the different fruits .
+ES2011d.A.dialog-act.dharshi.167	1275.55	1277.24	PM	A	ass	-1	0	Yeah , yeah .
+ES2011d.C.dialog-act.dharshi.96	1275.82	1276.49	UI	C	ass	-1	0	Yeah .
+ES2011d.D.dialog-act.dharshi.156	1276.01	1276.51	ME	D	ass	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.166	1277.24	1278.334	PM	A	fra	-1	0	Or like even {disfmarker}
+ES2011d.C.dialog-act.dharshi.95	1277.25	1277.68	UI	C	fra	-1	0	Dif
+ES2011d.B.dialog-act.dharshi.107	1277.78	1280.81	ID	B	inf	-1	0	We went with shape because we were having fun with the play-dough .
+ES2011d.A.dialog-act.dharshi.169	1279.58	1284.07	PM	A	sug	-1	0	Or even like {disfmarker} Yeah like you said , like a joystick like that .
+ES2011d.A.dialog-act.dharshi.170	1284.07	1284.5	PM	A	el.ass	-1	0	You know ?
+ES2011d.C.dialog-act.dharshi.97	1283.66	1284.6	UI	C	ass	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.98	1284.6	1285.89	UI	C	ass	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.99	1285.89	1287.5	UI	C	fra	-1	0	Like uh we could do {disfmarker}
+ES2011d.C.dialog-act.dharshi.100	1287.5	1290.9	UI	C	inf	-1	0	I'm trying to think of other sha like fruits that are oddly shaped .
+ES2011d.A.dialog-act.dharshi.171	1290.43	1292.528	PM	A	stl	-1	0	'Cause that , I think {disfmarker}
+ES2011d.A.dialog-act.dharshi.172	1293.73	1297.67	PM	A	ass	-1	0	I mean that fits the whole round iPod idea .
+ES2011d.C.dialog-act.dharshi.102	1296.77	1297.5	UI	C	ass	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.173	1297.67	1300.91	PM	A	ass	-1	0	And you still have the comfort of holding it like that .
+ES2011d.B.dialog-act.dharshi.108	1297.59	1297.83	ID	B	bck	-1	0	Mm-hmm .
+ES2011d.D.dialog-act.dharshi.157	1297.73	1298.25	ME	D	bck	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.101	1302.17	1302.47	UI	C	bck	-1	0	Mm .
+ES2011d.A.dialog-act.dharshi.174	1303.99	1310.47	PM	A	sug	+1	2	And you could {disfmarker} like if it's like this , you could put fruit designs and stuff on that part .
+ES2011d.B.dialog-act.dharshi.109	1307.315	1308.665	ID	B	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.103	1308.88	1310.35	UI	C	ass	-1	0	Yeah . Yeah .
+ES2011d.C.dialog-act.dharshi.104	1311.34	1311.78	UI	C	ass	-1	0	Alright .
+ES2011d.A.dialog-act.dharshi.175	1312.36	1313.61	PM	A	fra	-1	0	But I mean it {disfmarker}
+ES2011d.A.dialog-act.dharshi.176	1313.61	1316.47	PM	A	el.sug	-1	0	do we have any other ideas about that ?
+ES2011d.D.dialog-act.dharshi.158	1317.53	1318.208	ME	D	stl	-1	0	Um {disfmarker}
+ES2011d.C.dialog-act.dharshi.105	1322.2	1323.58	UI	C	fra	-1	0	We could tr
+ES2011d.C.dialog-act.dharshi.106	1323.58	1324.54	UI	C	ass	-1	0	I don't know .
+ES2011d.D.dialog-act.dharshi.159	1327.86	1333.38	ME	D	inf	-1	0	Think the critical ones came out to be {disfmarker} yeah that one . {vocalsound} .
+ES2011d.D.dialog-act.dharshi.160	1336.81	1340.22	ME	D	inf	+1	1	Batteries easy to insert for some reason ,
+ES2011d.B.dialog-act.dharshi.110	1338.409	1339.049	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.161	1340.22	1342.33	ME	D	stl	-1	0	which can be easily {disfmarker}
+ES2011d.D.dialog-act.dharshi.162	1342.33	1344.25	ME	D	ass	+1	1	I think that's not a problem any more .
+ES2011d.A.dialog-act.dharshi.177	1343.39	1346.45	PM	A	el.inf	-1	0	The batteries are going in the back ?
+ES2011d.B.dialog-act.dharshi.111	1344.06	1344.27	ID	B	stl	-1	0	That {disfmarker}
+ES2011d.B.dialog-act.dharshi.112	1344.27	1345.71	ID	B	inf	-1	0	everyone gave that a one or a two .
+ES2011d.B.dialog-act.dharshi.113	1346.95	1349.78	ID	B	inf	-1	0	Yeah they'd probably be either on the front or the side of the remote .
+ES2011d.D.dialog-act.dharshi.163	1346.99	1347.43	ME	D	inf	-1	0	No .
+ES2011d.A.dialog-act.dharshi.178	1349.18	1351.05	PM	A	stl	-1	0	The reason I I ga I didn't give it a one {disfmarker}
+ES2011d.A.dialog-act.dharshi.179	1351.05	1355.68	PM	A	inf	-1	0	I think I gave it a three because I thought you'd have to like unc clip {disfmarker}
+ES2011d.B.dialog-act.dharshi.114	1354.71	1358.64	ID	B	inf	-1	0	No I imagine there'd be sort of a hatch door ,
+ES2011d.A.dialog-act.dharshi.180	1355.68	1356.736	PM	A	fra	-1	0	no you could {disfmarker}
+ES2011d.A.dialog-act.dharshi.181	1357.79	1358.85	PM	A	el.inf	-1	0	Just like any other one .
+ES2011d.A.dialog-act.dharshi.182	1358.85	1359.92	PM	A	ass	-1	0	Okay . Yeah .
+ES2011d.B.dialog-act.dharshi.115	1358.64	1359.89	ID	B	inf	-1	0	yeah um like on a normal remote .
+ES2011d.A.dialog-act.dharshi.183	1361.06	1361.39	PM	A	stl	-1	0	Right .
+ES2011d.B.dialog-act.dharshi.116	1361.59	1363.21	ID	B	inf	-1	0	So it would probably either in the f
+ES2011d.B.dialog-act.dharshi.117	1363.21	1364.9	ID	B	ass	-1	0	no it can't be in the front 'cause the I_R_'s right there ,
+ES2011d.B.dialog-act.dharshi.118	1364.9	1366.43	ID	B	inf	-1	0	but it'd be on one of the sides probably .
+ES2011d.A.dialog-act.dharshi.184	1366.64	1367.12	PM	A	ass	-1	0	Okay .
+ES2011d.D.dialog-act.dharshi.164	1367.01	1369.05	ME	D	inf	-1	0	I think everyone's under three anyway .
+ES2011d.A.dialog-act.dharshi.185	1371.03	1371.16	PM	A	bck	-1	0	Mm .
+ES2011d.D.dialog-act.dharshi.165	1371.36	1373.38	ME	D	stl	-1	0	So I think it's {disfmarker}
+ES2011d.D.dialog-act.dharshi.166	1373.38	1374.78	ME	D	inf	-1	0	yeah those are the only two points .
+ES2011d.C.dialog-act.dharshi.107	1377.03	1377.81	UI	C	ass	-1	0	Cool .
+ES2011d.C.dialog-act.dharshi.108	1377.81	1378.425	UI	C	stl	-1	0	Well {disfmarker}
+ES2011d.C.dialog-act.dharshi.109	1380.46	1383.46	UI	C	ass	-1	0	Yeah the broccoli I guess wins .
+ES2011d.A.dialog-act.dharshi.186	1381.693	1382.77	PM	A	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.119	1381.802	1386.01	ID	B	ass	-1	0	{vocalsound} Yeah I'd agree with changing the shape .
+ES2011d.D.dialog-act.dharshi.167	1381.576	1383.249	ME	D	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.168	1383.76	1384.73	ME	D	bck	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.187	1386.21	1386.75	PM	A	bck	-1	0	Okay .
+ES2011d.B.dialog-act.dharshi.120	1386.01	1389.343	ID	B	inf	-1	0	Um , I was just having fun making strawberries and stuff . {vocalsound}
+ES2011d.A.dialog-act.dharshi.188	1388.191	1389.437	PM	A	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.110	1388.366	1391.64	UI	C	ass	-1	0	{vocalsound} We were a bit off task .
+ES2011d.D.dialog-act.dharshi.169	1388.31	1388.93	ME	D	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.121	1390.815	1391.877	ID	B	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.111	1391.64	1396.448	UI	C	fra	-1	0	Um so uh I can't think of any {disfmarker}
+ES2011d.C.dialog-act.dharshi.112	1397.71	1398.669	UI	C	fra	-1	0	So we'll have to like {disfmarker}
+ES2011d.C.dialog-act.dharshi.113	1401.197	1401.535	UI	C	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.114	1403.12	1403.9	UI	C	fra	-1	0	Mm .
+ES2011d.A.dialog-act.dharshi.189	1404.564	1405.608	PM	A	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.115	1405.47	1406.37	UI	C	stl	-1	0	Yeah I dunno .
+ES2011d.C.dialog-act.dharshi.116	1407.81	1410.59	UI	C	sug	+1	1	You could make the touch pad in th in different shapes ,
+ES2011d.C.dialog-act.dharshi.117	1410.59	1414.25	UI	C	ass	-1	0	but then that kind of re-designs the whole project like ,
+ES2011d.B.dialog-act.dharshi.122	1414.66	1418.59	ID	B	ass	+1	1	It might also sort of annoy people if we get used to having the buttons in one shape .
+ES2011d.C.dialog-act.dharshi.118	1414.25	1415.228	UI	C	fra	-1	0	but you could do like {disfmarker}
+ES2011d.C.dialog-act.dharshi.119	1417.59	1420.22	UI	C	ass	-1	0	Yeah that's true .
+ES2011d.A.dialog-act.dharshi.190	1418.84	1419.25	PM	A	bck	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.191	1420.71	1424.24	PM	A	inf	-1	0	And it would probably cost more to produce , 'cause they're irregular .
+ES2011d.C.dialog-act.dharshi.120	1420.22	1420.63	UI	C	ass	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.121	1422.47	1423.43	UI	C	ass	-1	0	Yeah that's true .
+ES2011d.C.dialog-act.dharshi.122	1425.27	1426.23	UI	C	bck	-1	0	Mm .
+ES2011d.B.dialog-act.dharshi.123	1426.41	1429.61	ID	B	inf	+1	2	I bet having different colours is a lot cheaper than having different shapes too .
+ES2011d.A.dialog-act.dharshi.192	1429.62	1430.27	PM	A	ass	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.193	1431.57	1437.35	PM	A	ass	-1	0	Which is why printing might be like {disfmarker} just printing the fruit on {disfmarker} {vocalsound} fruit .
+ES2011d.B.dialog-act.dharshi.124	1437.193	1438.102	ID	B	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.123	1438.24	1438.46	UI	C	bck	-1	0	Hmm .
+ES2011d.A.dialog-act.dharshi.194	1440.53	1440.88	PM	A	bck	-1	0	Mm .
+ES2011d.A.dialog-act.dharshi.195	1443.726	1445.094	PM	A	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.196	1448.48	1449.446	PM	A	fra	-1	0	Not really {disfmarker}
+ES2011d.A.dialog-act.dharshi.197	1454.06	1465.36	PM	A	inf	-1	0	Well we've done finance evaluation criteria , production evaluation .
+ES2011d.A.dialog-act.dharshi.198	1465.36	1467.96	PM	A	inf	-1	0	{vocalsound} Um so project evaluation .
+ES2011d.D.dialog-act.dharshi.170	1467.83	1469.366	ME	D	el.inf	-1	0	Do you want this and we can all {disfmarker}
+ES2011d.D.dialog-act.dharshi.171	1472.375	1473.18	ME	D	ass	-1	0	{vocalsound} No .
+ES2011d.A.dialog-act.dharshi.199	1473.25	1481.96	PM	A	inf	+1	1	I guess we're supposed to discuss um the prod the process of the project and how satisfied {disfmarker}
+ES2011d.A.dialog-act.dharshi.200	1481.96	1484.08	PM	A	ass	-1	0	oh , oh it's alright .
+ES2011d.A.dialog-act.dharshi.201	1484.08	1485.98	PM	A	ass	-1	0	Uh . Yeah .
+ES2011d.D.dialog-act.dharshi.172	1484.5	1485.4	ME	D	el.ass	-1	0	It's alright yeah ?
+ES2011d.A.dialog-act.dharshi.202	1485.98	1486.629	PM	A	stl	-1	0	Um {disfmarker}
+ES2011d.A.dialog-act.dharshi.203	1488.17	1492.286	PM	A	el.ass	+1	1	Did you feel there was a lot of room for creativity in the sort of {disfmarker}
+ES2011d.B.dialog-act.dharshi.125	1492.5	1493.37	ID	B	ass	-1	0	Sure .
+ES2011d.A.dialog-act.dharshi.204	1493.4	1493.96	PM	A	ass	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.124	1495.64	1496.24	UI	C	ass	-1	0	I did .
+ES2011d.A.dialog-act.dharshi.205	1497.38	1502.265	PM	A	ass	-1	0	I mean fruit and squishiness . How c more creative can you get ? {vocalsound}
+ES2011d.D.dialog-act.dharshi.173	1497.18	1497.42	ME	D	ass	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.126	1498.251	1501.695	ID	B	inf	-1	0	{vocalsound} Sponginess . {vocalsound}
+ES2011d.D.dialog-act.dharshi.174	1499.136	1501.429	ME	D	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.125	1501.58	1506.13	UI	C	ass	+1	1	The prototype making was very creatively stimulating
+ES2011d.B.dialog-act.dharshi.127	1504.497	1505.547	ID	B	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.126	1506.13	1514.5	UI	C	ass	+1	1	and I think we've come up with a product that's fun and meets all the criteria {vocalsound} .
+ES2011d.A.dialog-act.dharshi.206	1515.2	1518.662	PM	A	el.ass	-1	0	And how was our leadership and teamwork ? {vocalsound}
+ES2011d.B.dialog-act.dharshi.128	1518.72	1519.64	ID	B	ass	-1	0	I think it was good .
+ES2011d.B.dialog-act.dharshi.129	1519.64	1520.9	ID	B	ass	-1	0	We knew what we were doing .
+ES2011d.B.dialog-act.dharshi.130	1520.9	1523.64	ID	B	ass	+1	1	It was a very democratic process and everyone got to contribute .
+ES2011d.A.dialog-act.dharshi.207	1525.87	1529.28	PM	A	ass	-1	0	Well I thought my leadership was crap personally .
+ES2011d.B.dialog-act.dharshi.131	1527.568	1532.58	ID	B	ass	-1	0	{vocalsound} Well you told us when to start and when to end , and that's all that matters .
+ES2011d.D.dialog-act.dharshi.175	1527.739	1530.935	ME	D	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.208	1529.28	1529.73	PM	A	be.pos	-1	0	{vocalsound} Excuse me ,
+ES2011d.A.dialog-act.dharshi.209	1529.73	1531.57	PM	A	el.inf	-1	0	am I allowed to say that ?
+ES2011d.A.dialog-act.dharshi.210	1531.57	1533.82	PM	A	ass	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.211	1533.82	1534.25	PM	A	stl	-1	0	{vocalsound} Um .
+ES2011d.C.dialog-act.dharshi.127	1534.49	1535.34	UI	C	ass	-1	0	I think you were fine .
+ES2011d.A.dialog-act.dharshi.212	1535.61	1540.1	PM	A	ass	-1	0	Yeah , well I'm never gonna do a management position , I know that now .
+ES2011d.C.dialog-act.dharshi.128	1535.34	1536.39	UI	C	ass	-1	0	You did a good job leading .
+ES2011d.B.dialog-act.dharshi.132	1538.429	1539.464	ID	B	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.129	1539.106	1540.116	UI	C	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.176	1538.919	1539.795	ME	D	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.213	1540.1	1542.32	PM	A	ass	+1	1	Um yeah , I thought we all worked very well together .
+ES2011d.D.dialog-act.dharshi.177	1541.47	1545.1	ME	D	ass	-1	0	Yeah we didn't {disfmarker} we {disfmarker} uh it all c sort of blended quite well .
+ES2011d.A.dialog-act.dharshi.214	1544.24	1544.57	PM	A	bck	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.130	1544.53	1552.11	UI	C	ass	-1	0	Yeah I think it more than anything we didn't really have our set roles so much , as we just would be like {vocalsound} I don't know , all had ideas about it but {disfmarker}
+ES2011d.A.dialog-act.dharshi.215	1548.68	1550.24	PM	A	bck	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.216	1550.24	1551.11	PM	A	ass	-1	0	Very democratic .
+ES2011d.A.dialog-act.dharshi.217	1552.54	1557.24	PM	A	ass	-1	0	No spats , that was good .
+ES2011d.C.dialog-act.dharshi.131	1552.11	1552.47	UI	C	ass	-1	0	{vocalsound} yeah .
+ES2011d.B.dialog-act.dharshi.133	1553.427	1555.147	ID	B	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.132	1554.22	1555.616	UI	C	bck	-1	0	No . {vocalsound}
+ES2011d.D.dialog-act.dharshi.178	1553.877	1555.178	ME	D	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.218	1557.24	1562.94	PM	A	el.ass	+1	1	{vocalsound} Um and the means for like {disfmarker} the materials we used , how convenient were they ?
+ES2011d.A.dialog-act.dharshi.219	1564.59	1567.13	PM	A	inf	-1	0	Like the the pens , the whiteboard ,
+ES2011d.B.dialog-act.dharshi.134	1564.994	1565.794	ID	B	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.220	1567.13	1568.086	PM	A	fra	-1	0	I mean we used {disfmarker}
+ES2011d.B.dialog-act.dharshi.135	1567.3	1572.63	ID	B	ass	+1	2	Well I'm not a big fan of any Microsoft , PowerPoint or any of this stuff .
+ES2011d.A.dialog-act.dharshi.221	1571.39	1574.56	PM	A	el.inf	-1	0	Are you a Mac person ? {vocalsound}
+ES2011d.B.dialog-act.dharshi.136	1572.63	1574.92	ID	B	inf	-1	0	No no I never touch Macs either .
+ES2011d.D.dialog-act.dharshi.179	1572.664	1573.797	ME	D	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.137	1574.92	1580.32	ID	B	inf	-1	0	I just use the Unix or the off market , sort of WordPerfect and all these other things .
+ES2011d.A.dialog-act.dharshi.222	1580.39	1580.73	PM	A	bck	-1	0	Huh .
+ES2011d.C.dialog-act.dharshi.133	1581.09	1581.26	UI	C	bck	-1	0	Hmm .
+ES2011d.D.dialog-act.dharshi.180	1581.68	1585.701	ME	D	ass	-1	0	Which isn't very user-friendly though . {vocalsound}
+ES2011d.A.dialog-act.dharshi.223	1583.68	1584.128	PM	A	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.138	1583.38	1584.34	ID	B	bck	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.139	1584.34	1591.42	ID	B	inf	-1	0	{vocalsound} Well the problem is if you don't {disfmarker} like my new computer never has WordPerfect so I have to go track someone down who has an old disk and then I have to reinstall it .
+ES2011d.B.dialog-act.dharshi.140	1591.42	1593.28	ID	B	inf	-1	0	So I have all these documents I can't use now .
+ES2011d.B.dialog-act.dharshi.141	1595.32	1596.65	ID	B	ass	-1	0	But yeah I mean I guess it's okay .
+ES2011d.C.dialog-act.dharshi.134	1597.62	1598.28	UI	C	stl	-1	0	I felt like my {disfmarker}
+ES2011d.C.dialog-act.dharshi.135	1598.28	1600.13	UI	C	inf	-1	0	I dunno if it was just my role ,
+ES2011d.C.dialog-act.dharshi.136	1600.13	1604.77	UI	C	ass	+1	2	but l but uh I di I thought that my {disfmarker} the information that was available to me was kind of just like {disfmarker}
+ES2011d.C.dialog-act.dharshi.137	1604.77	1606.37	UI	C	ass	-1	0	or maybe it was just the idea that we had .
+ES2011d.C.dialog-act.dharshi.138	1606.37	1607.02	UI	C	stl	-1	0	But there's kinda {disfmarker}
+ES2011d.C.dialog-act.dharshi.139	1607.02	1611.81	UI	C	ass	+1	2	it was kinda like okay , I don't really think {disfmarker} I dunno what I'm doing here .
+ES2011d.B.dialog-act.dharshi.142	1609.446	1610.827	ID	B	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.224	1611.67	1611.88	PM	A	bck	-1	0	Mm .
+ES2011d.C.dialog-act.dharshi.140	1611.81	1614.49	UI	C	ass	-1	0	So I didn't really think it was helpful .
+ES2011d.C.dialog-act.dharshi.141	1614.49	1618.44	UI	C	inf	-1	0	So I kind of just made up my own stuff
+ES2011d.C.dialog-act.dharshi.142	1618.44	1622.28	UI	C	ass	+1	2	and I didn't really like the PowerPoint presentations ,
+ES2011d.A.dialog-act.dharshi.225	1619.89	1620.21	PM	A	bck	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.143	1622.28	1624.36	UI	C	inf	-1	0	so I kind of wrote a lot of notes instead .
+ES2011d.A.dialog-act.dharshi.226	1624.55	1624.97	PM	A	bck	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.144	1624.36	1629.16	UI	C	ass	-1	0	But yeah I d I don't really like PowerPoint personally , {vocalsound} think it's kinda stupid .
+ES2011d.B.dialog-act.dharshi.143	1628.38	1629.34	ID	B	ass	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.144	1629.34	1630.16	ID	B	inf	-1	0	I never use it .
+ES2011d.C.dialog-act.dharshi.145	1630.29	1631.84	UI	C	fra	-1	0	Yeah but uh {disfmarker}
+ES2011d.A.dialog-act.dharshi.227	1631.94	1636.7	PM	A	ass	-1	0	I can't say I found everything particularly helpful .
+ES2011d.A.dialog-act.dharshi.228	1636.7	1637.512	PM	A	fra	-1	0	Like I {disfmarker}
+ES2011d.C.dialog-act.dharshi.146	1636.56	1636.9	UI	C	ass	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.145	1637.26	1638.61	ID	B	ass	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.147	1636.9	1637.4	UI	C	fra	-1	0	It didn't really {disfmarker}
+ES2011d.C.dialog-act.dharshi.148	1637.4	1637.96	UI	C	ass	-1	0	yeah .
+ES2011d.A.dialog-act.dharshi.229	1638.34	1638.671	PM	A	fra	-1	0	It {disfmarker}
+ES2011d.B.dialog-act.dharshi.146	1638.61	1642.83	ID	B	inf	+1	2	My first bit of information was like this child's drawn picture of how a remote works .
+ES2011d.D.dialog-act.dharshi.181	1638.55	1641.229	ME	D	ass	-1	0	I though it was brilliant no ? {vocalsound}
+ES2011d.A.dialog-act.dharshi.230	1640.05	1642.864	PM	A	el.ass	-1	0	Really ? {vocalsound}
+ES2011d.C.dialog-act.dharshi.149	1641.02	1642.232	UI	C	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.182	1642.91	1647.82	ME	D	ass	-1	0	No mine was really helpful as in my stuff was quite helpful I think .
+ES2011d.A.dialog-act.dharshi.231	1647.75	1649.81	PM	A	fra	-1	0	I mean m my problem {disfmarker}
+ES2011d.B.dialog-act.dharshi.147	1647.593	1651.38	ID	B	ass	-1	0	{vocalsound} Yeah it probably does .
+ES2011d.C.dialog-act.dharshi.150	1647.64	1648.16	UI	C	fra	-1	0	So like a f
+ES2011d.D.dialog-act.dharshi.184	1647.82	1649.41	ME	D	ass	-1	0	I think it depends on the role
+ES2011d.A.dialog-act.dharshi.232	1649.81	1650.88	PM	A	ass	-1	0	yeah , yeah .
+ES2011d.C.dialog-act.dharshi.151	1649.53	1650.65	UI	C	ass	-1	0	Yeah I think so .
+ES2011d.D.dialog-act.dharshi.185	1649.41	1649.64	ME	D	el.ass	-1	0	no ?
+ES2011d.A.dialog-act.dharshi.233	1650.88	1655.46	PM	A	inf	+1	2	'Cause my problem was , you guys had access to like {disfmarker} they'd put {disfmarker} send you to sites and stuff
+ES2011d.A.dialog-act.dharshi.234	1655.46	1656.17	PM	A	el.inf	-1	0	right ?
+ES2011d.B.dialog-act.dharshi.148	1655.62	1655.92	ID	B	inf	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.235	1656.17	1658.86	PM	A	inf	-1	0	See I couldn't do that , so I didn't really know what you guys were doing .
+ES2011d.A.dialog-act.dharshi.236	1658.86	1661.85	PM	A	inf	-1	0	And when you were talking about it I was just like {disfmarker}
+ES2011d.B.dialog-act.dharshi.149	1661.128	1663.754	ID	B	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.237	1661.85	1665.67	PM	A	inf	-1	0	you know that's wh that's why I seemed so ignorant when when you were j explaining things ,
+ES2011d.D.dialog-act.dharshi.186	1661.389	1662.958	ME	D	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.238	1665.67	1666.406	PM	A	fra	-1	0	'cause I {disfmarker}
+ES2011d.B.dialog-act.dharshi.150	1665.93	1667.4	ID	B	inf	+1	2	Yeah well mine was mostly made up
+ES2011d.B.dialog-act.dharshi.151	1667.4	1672.6	ID	B	inf	-1	0	except when they told me like you know titanium costs more than wood to make a remote control .
+ES2011d.A.dialog-act.dharshi.239	1670.41	1671.298	PM	A	bck	-1	0	Yeah . {vocalsound}
+ES2011d.A.dialog-act.dharshi.240	1672.86	1673.24	PM	A	bck	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.152	1672.6	1673.51	ID	B	ass	-1	0	As if you'd wanted to .
+ES2011d.D.dialog-act.dharshi.187	1672.7	1673.86	ME	D	bck	-1	0	Yeah .
+ES2011d.D.dialog-act.dharshi.188	1673.86	1677.5	ME	D	ass	+1	2	But it must have been quite difficult for them to build a whole um
+ES2011d.A.dialog-act.dharshi.241	1677.98	1678.99	PM	A	ass	-1	0	System .
+ES2011d.A.dialog-act.dharshi.242	1678.99	1679.45	PM	A	ass	-1	0	Yeah .
+ES2011d.D.dialog-act.dharshi.189	1678.6	1679.39	ME	D	ass	-1	0	a whole system ,
+ES2011d.B.dialog-act.dharshi.153	1679.45	1680.46	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.190	1679.39	1684.768	ME	D	inf	-1	0	'cause of course they can't give you uh uh anything comparable to the internet for the {disfmarker}
+ES2011d.A.dialog-act.dharshi.243	1684.4	1684.67	PM	A	bck	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.152	1683.97	1685.815	UI	C	fra	-1	0	Yeah I mean , it {gap}
+ES2011d.B.dialog-act.dharshi.154	1684.81	1687.09	ID	B	ass	-1	0	Well I think it's interesting how it all went together ,
+ES2011d.B.dialog-act.dharshi.155	1687.09	1690.15	ID	B	inf	-1	0	like I had the stuff about how me how rubber's cheap ,
+ES2011d.B.dialog-act.dharshi.156	1690.15	1692.16	ID	B	inf	-1	0	and you have how people want it to be spongy , and {disfmarker}
+ES2011d.D.dialog-act.dharshi.191	1690.53	1691.44	ME	D	bck	-1	0	Yeah , yeah .
+ES2011d.A.dialog-act.dharshi.244	1692.27	1692.94	PM	A	bck	-1	0	Yeah ,
+ES2011d.A.dialog-act.dharshi.245	1692.94	1693.37	PM	A	bck	-1	0	huh .
+ES2011d.B.dialog-act.dharshi.157	1693.21	1694.45	ID	B	ass	-1	0	It seems planned you know .
+ES2011d.A.dialog-act.dharshi.246	1694.52	1695.616	PM	A	ass	-1	0	Yeah . {vocalsound}
+ES2011d.C.dialog-act.dharshi.153	1694.7	1696.66	UI	C	fra	-1	0	Yeah I kinda thought that um {disfmarker}
+ES2011d.C.dialog-act.dharshi.154	1696.66	1699.41	UI	C	ass	-1	0	I felt like I would go and like try to use my information ,
+ES2011d.C.dialog-act.dharshi.155	1699.41	1701.52	UI	C	ass	-1	0	or like I'd make this stupid little presentation
+ES2011d.C.dialog-act.dharshi.156	1701.52	1705.32	UI	C	ass	-1	0	and then like I just would end up talking about something completely unrelated
+ES2011d.B.dialog-act.dharshi.158	1704.69	1706.152	ID	B	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.157	1705.32	1706.26	UI	C	stl	-1	0	because {disfmarker} {vocalsound}
+ES2011d.A.dialog-act.dharshi.247	1706.39	1706.64	PM	A	bck	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.158	1706.26	1706.47	UI	C	stl	-1	0	I dunno
+ES2011d.C.dialog-act.dharshi.159	1706.47	1708.64	UI	C	ass	+1	1	I felt like I was off-task all the time .
+ES2011d.C.dialog-act.dharshi.160	1708.64	1709.68	UI	C	stl	-1	0	But um {disfmarker}
+ES2011d.A.dialog-act.dharshi.248	1710.29	1714.06	PM	A	inf	-1	0	Well I mean we really got into talking about like personal practicalit
+ES2011d.A.dialog-act.dharshi.249	1714.06	1717.55	PM	A	stl	-1	0	like it wasn't necessarily what was like {disfmarker}
+ES2011d.A.dialog-act.dharshi.250	1717.55	1721.79	PM	A	ass	-1	0	we would never have thought of fruit or sponginess you know ?
+ES2011d.B.dialog-act.dharshi.159	1719.696	1721.95	ID	B	ass	-1	0	{vocalsound} Yeah .
+ES2011d.C.dialog-act.dharshi.161	1720.51	1721.34	UI	C	bck	-1	0	Yeah .
+ES2011d.D.dialog-act.dharshi.192	1720.13	1721.197	ME	D	bck	-1	0	No . {vocalsound}
+ES2011d.A.dialog-act.dharshi.251	1721.79	1722.966	PM	A	fra	-1	0	{vocalsound} So it's {disfmarker}
+ES2011d.B.dialog-act.dharshi.160	1721.95	1723.424	ID	B	ass	-1	0	If I hadn't been told that fruit was {disfmarker}
+ES2011d.D.dialog-act.dharshi.193	1723.73	1731.52	ME	D	ass	-1	0	But I think that {vocalsound} it it might be to see whether people actually all come up with the same thing .
+ES2011d.A.dialog-act.dharshi.252	1730.89	1731.43	PM	A	ass	-1	0	Oh right .
+ES2011d.A.dialog-act.dharshi.253	1731.43	1733.524	PM	A	el.ass	-1	0	given certain information or {disfmarker}
+ES2011d.A.dialog-act.dharshi.254	1734.46	1734.84	PM	A	fra	-1	0	Just {disfmarker}
+ES2011d.D.dialog-act.dharshi.194	1734.32	1736.68	ME	D	ass	-1	0	Yeah , like if everyone's given the same input {disfmarker}
+ES2011d.A.dialog-act.dharshi.255	1734.84	1735.16	PM	A	ass	-1	0	yeah .
+ES2011d.D.dialog-act.dharshi.195	1736.68	1738.34	ME	D	ass	-1	0	I don't have a clue , anyway .
+ES2011d.A.dialog-act.dharshi.256	1737.51	1738.86	PM	A	bck	-1	0	Mm , mm .
+ES2011d.D.dialog-act.dharshi.196	1738.34	1740.4	ME	D	el.inf	-1	0	Um what's next ?
+ES2011d.D.dialog-act.dharshi.197	1740.4	1741.21	ME	D	fra	-1	0	Looks like {disfmarker}
+ES2011d.D.dialog-act.dharshi.198	1741.21	1742.72	ME	D	ass	-1	0	oh no that's not um {disfmarker}
+ES2011d.A.dialog-act.dharshi.257	1744.52	1746.07	PM	A	el.ass	+1	1	What do you guys think of the pens ?
+ES2011d.D.dialog-act.dharshi.199	1744.42	1745.176	ME	D	fra	-1	0	It's quite {disfmarker}
+ES2011d.A.dialog-act.dharshi.258	1746.07	1747.58	PM	A	inf	-1	0	It asks about that .
+ES2011d.B.dialog-act.dharshi.161	1746.54	1748.42	ID	B	ass	-1	0	They're pretty cool .
+ES2011d.A.dialog-act.dharshi.259	1748.3	1748.46	PM	A	bck	-1	0	Mm .
+ES2011d.C.dialog-act.dharshi.162	1748.42	1748.85	UI	C	fra	-1	0	I wanna s
+ES2011d.B.dialog-act.dharshi.162	1748.42	1750.11	ID	B	ass	+1	1	They're kinda hard to write with though .
+ES2011d.A.dialog-act.dharshi.260	1750.05	1750.98	PM	A	ass	-1	0	Yeah
+ES2011d.D.dialog-act.dharshi.200	1750.09	1750.64	ME	D	ass	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.261	1750.98	1755.488	PM	A	inf	-1	0	and I I've f forgotten once or twice to {vocalsound} check the box . {vocalsound}
+ES2011d.B.dialog-act.dharshi.163	1752.793	1753.962	ID	B	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.163	1755.51	1760.016	UI	C	inf	-1	0	I I'd like to see what what it looks like on the {disfmarker}
+ES2011d.B.dialog-act.dharshi.164	1760.06	1762.14	ID	B	ass	-1	0	They're nicer than the pen that I'm using ,
+ES2011d.B.dialog-act.dharshi.165	1762.14	1766.59	ID	B	inf	-1	0	because like your stuff actually shows up here , rather than having to look at the screen and write .
+ES2011d.A.dialog-act.dharshi.262	1766.66	1767.12	PM	A	bck	-1	0	Mm .
+ES2011d.B.dialog-act.dharshi.166	1768.91	1770.16	ID	B	ass	-1	0	But even so , I dunno .
+ES2011d.A.dialog-act.dharshi.264	1773.43	1779.54	PM	A	el.ass	-1	0	And new ideas found ?
+ES2011d.B.dialog-act.dharshi.167	1773.269	1774.317	ID	B	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.168	1777.292	1778.37	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.201	1778.19	1779.99	ME	D	ass	-1	0	Yeah it's all very new ,
+ES2011d.A.dialog-act.dharshi.263	1779.54	1779.92	PM	A	ass	-1	0	{vocalsound} Yeah .
+ES2011d.D.dialog-act.dharshi.202	1779.99	1780.3	ME	D	el.ass	-1	0	no ?
+ES2011d.D.dialog-act.dharshi.203	1781.52	1782.31	ME	D	ass	-1	0	It's all very new .
+ES2011d.C.dialog-act.dharshi.164	1784.71	1787.956	UI	C	stl	-1	0	Yeah I think I'd like to um {vocalsound} {disfmarker}
+ES2011d.C.dialog-act.dharshi.165	1788.81	1789.28	UI	C	stl	-1	0	I dunno .
+ES2011d.C.dialog-act.dharshi.166	1791.2	1792.17	UI	C	stl	-1	0	Like it was {disfmarker} the {disfmarker}
+ES2011d.D.dialog-act.dharshi.204	1791.35	1791.87	ME	D	be.pos	-1	0	Sorry .
+ES2011d.C.dialog-act.dharshi.167	1792.17	1794.16	UI	C	ass	-1	0	I think the microphones are okay when you're sitting down ,
+ES2011d.C.dialog-act.dharshi.168	1794.16	1799.3	UI	C	ass	-1	0	but like they're kinda clumsy I guess when you're {disfmarker} like when you're s going up to the whiteboard like .
+ES2011d.B.dialog-act.dharshi.169	1796.81	1797.99	ID	B	bck	-1	0	Oh yeah .
+ES2011d.B.dialog-act.dharshi.170	1799.81	1801.78	ID	B	inf	-1	0	Well they drop off if you like move too much .
+ES2011d.C.dialog-act.dharshi.169	1801.7	1802.17	UI	C	ass	-1	0	Yeah
+ES2011d.C.dialog-act.dharshi.170	1802.17	1803.74	UI	C	ass	-1	0	I dunno . But they're they're okay .
+ES2011d.B.dialog-act.dharshi.171	1802.84	1806.06	ID	B	inf	-1	0	But I don't think we're supposed to be testing these microphones .
+ES2011d.B.dialog-act.dharshi.172	1806.06	1806.64	ID	B	inf	-1	0	Maybe we are .
+ES2011d.A.dialog-act.dharshi.265	1806.82	1807.26	PM	A	bck	-1	0	Mm .
+ES2011d.B.dialog-act.dharshi.173	1806.64	1807.593	ID	B	inf	-1	0	I don't know . {vocalsound}
+ES2011d.C.dialog-act.dharshi.171	1806.715	1809.61	UI	C	stl	-1	0	{vocalsound} Uh I think , and I think that uh
+ES2011d.C.dialog-act.dharshi.172	1810.94	1814.92	UI	C	ass	+1	0	all this technology like {disfmarker} I guess some people must be interested in using it
+ES2011d.C.dialog-act.dharshi.173	1814.92	1819.95	UI	C	stl	-1	0	but I can't imagine finding it any more useful than like looking at someone's notes ,
+ES2011d.A.dialog-act.dharshi.266	1819.4	1819.87	PM	A	bck	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.174	1819.88	1822.92	ID	B	inf	-1	0	Well the thing is , like I actually worked in a company ,
+ES2011d.C.dialog-act.dharshi.174	1819.95	1821.4	UI	C	stl	-1	0	or like {disfmarker} I dunno .
+ES2011d.B.dialog-act.dharshi.175	1822.92	1825.42	ID	B	inf	-1	0	and I had a role and I had to go to meetings .
+ES2011d.B.dialog-act.dharshi.176	1825.42	1830.12	ID	B	inf	+1	0	And like the last thing I would have wanted would be to have to watch a video 'cause I missed a meeting .
+ES2011d.B.dialog-act.dharshi.177	1830.12	1832.25	ID	B	inf	-1	0	Like usually I missed meetings deliberately .
+ES2011d.A.dialog-act.dharshi.267	1832.72	1833.819	PM	A	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.178	1832.25	1833.16	ID	B	stl	-1	0	There's just {disfmarker}
+ES2011d.B.dialog-act.dharshi.179	1833.16	1838.71	ID	B	inf	+1	0	there's really not that much information that actually goes through a real meeting , like when you're actually at a real meeting in a real company .
+ES2011d.A.dialog-act.dharshi.268	1836.07	1836.41	PM	A	bck	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.180	1838.71	1841.23	ID	B	inf	-1	0	It's mostly like rehashing old stuff .
+ES2011d.C.dialog-act.dharshi.175	1838.42	1838.64	UI	C	bck	-1	0	Hm .
+ES2011d.B.dialog-act.dharshi.181	1841.23	1846.09	ID	B	inf	-1	0	And you're sort of going over general stuff that anybody who's sort of on task should already know .
+ES2011d.A.dialog-act.dharshi.269	1842.85	1843.16	PM	A	bck	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.182	1846.09	1846.8	ID	B	stl	-1	0	It's like the {disfmarker}
+ES2011d.B.dialog-act.dharshi.183	1846.8	1848.63	ID	B	inf	-1	0	there's just really not a lot of information that goes through .
+ES2011d.A.dialog-act.dharshi.270	1847.99	1850.86	PM	A	ass	-1	0	Seems kind of like an excessive reiteration .
+ES2011d.B.dialog-act.dharshi.184	1849.51	1851.1	ID	B	ass	-1	0	It seems like way overkill .
+ES2011d.A.dialog-act.dharshi.271	1850.86	1851.26	PM	A	ass	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.185	1851.1	1855.03	ID	B	inf	+1	0	Like if I missed a meeting I could probably get it summed up in like one sentence .
+ES2011d.A.dialog-act.dharshi.272	1854.36	1854.85	PM	A	bck	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.186	1855.03	1859.648	ID	B	inf	+1	0	I wouldn't need to have to watch like a t two hour video with the sound and the transcript and {disfmarker}
+ES2011d.A.dialog-act.dharshi.273	1859.64	1860.02	PM	A	bck	-1	0	Yeah .
+ES2011d.C.dialog-act.dharshi.176	1860.94	1862.657	UI	C	fra	-1	0	I guess it would be {disfmarker}
+ES2011d.C.dialog-act.dharshi.177	1864.83	1866.14	UI	C	ass	-1	0	it's gotta be worth it to {disfmarker}
+ES2011d.C.dialog-act.dharshi.178	1866.14	1866.31	UI	C	stl	-1	0	I {disfmarker}
+ES2011d.C.dialog-act.dharshi.179	1866.31	1872.48	UI	C	inf	-1	0	'cause I'm just mostly curious about like what kind of person or like company would would really find it useful ,
+ES2011d.C.dialog-act.dharshi.180	1872.48	1875.51	UI	C	inf	-1	0	'cause can't really imagine , dunno .
+ES2011d.C.dialog-act.dharshi.181	1877.39	1879.78	UI	C	fra	-1	0	How about a p {vocalsound} a {gap} {vocalsound} ?
+ES2011d.A.dialog-act.dharshi.274	1879.906	1883.088	PM	A	fra	-1	0	{vocalsound}
+ES2011d.B.dialog-act.dharshi.187	1879.552	1882.326	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.205	1879.783	1881.366	ME	D	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.182	1881.088	1883.66	UI	C	stl	-1	0	{vocalsound} Um I dunno .
+ES2011d.A.dialog-act.dharshi.275	1888.68	1893.74	PM	A	el.ass	-1	0	Well does anyone wanna talk about fruit more while we still have time ? {vocalsound}
+ES2011d.B.dialog-act.dharshi.188	1891.961	1892.938	ID	B	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.276	1893.74	1896.337	PM	A	el.sug	-1	0	Any other ideas for {disfmarker}
+ES2011d.D.dialog-act.dharshi.206	1895.04	1896.45	ME	D	el.inf	-1	0	What what's the end ?
+ES2011d.D.dialog-act.dharshi.207	1896.45	1899.26	ME	D	stl	-1	0	Are we are we supposed to um {disfmarker}
+ES2011d.D.dialog-act.dharshi.208	1899.26	1900.79	ME	D	el.inf	-1	0	you supposed to write a report ?
+ES2011d.D.dialog-act.dharshi.209	1900.79	1902.25	ME	D	el.inf	-1	0	Or we ending ?
+ES2011d.A.dialog-act.dharshi.277	1902.13	1909.27	PM	A	inf	-1	0	Um we still have time if there's any other input .
+ES2011d.D.dialog-act.dharshi.210	1902.25	1902.99	ME	D	el.inf	-1	0	Is that the end ?
+ES2011d.B.dialog-act.dharshi.189	1907.25	1908.2	ID	B	fra	-1	0	{vocalsound}
+ES2011d.A.dialog-act.dharshi.278	1909.27	1910.07	PM	A	stl	-1	0	{vocalsound} I mean the {disfmarker}
+ES2011d.A.dialog-act.dharshi.279	1910.07	1912.17	PM	A	stl	-1	0	I think we did really well personally ,
+ES2011d.A.dialog-act.dharshi.280	1912.17	1913.85	PM	A	inf	-1	0	which is why we've
+ES2011d.A.dialog-act.dharshi.281	1915.07	1917.55	PM	A	inf	-1	0	you know , gone through this so quickly .
+ES2011d.A.dialog-act.dharshi.282	1917.55	1929.17	PM	A	inf	+1	1	'Cause I mean we've all {disfmarker} we all kind of agreed our product is satisfactory , it fits the budget , and it's trendy .
+ES2011d.B.dialog-act.dharshi.190	1926.452	1927.227	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.211	1926.573	1928.93	ME	D	fra	-1	0	{gap}
+ES2011d.C.dialog-act.dharshi.183	1927.1	1927.71	UI	C	bck	-1	0	Yeah .
+ES2011d.A.dialog-act.dharshi.283	1929.17	1929.67	PM	A	stl	-1	0	{vocalsound} So .
+ES2011d.A.dialog-act.dharshi.284	1932.02	1932.57	PM	A	stl	-1	0	Um .
+ES2011d.D.dialog-act.dharshi.212	1933.13	1933.93	ME	D	inf	-1	0	End of meeting .
+ES2011d.D.dialog-act.dharshi.213	1933.93	1934.9	ME	D	sug	-1	0	You have to tell her ,
+ES2011d.D.dialog-act.dharshi.214	1934.9	1935.462	ME	D	fra	-1	0	she {disfmarker}
+ES2011d.A.dialog-act.dharshi.285	1936.22	1940.656	PM	A	inf	-1	0	So I think that's all for today . {vocalsound}
+ES2011d.B.dialog-act.dharshi.191	1937.866	1940.493	ID	B	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.215	1937.516	1942.77	ME	D	inf	+1	1	{vocalsound} Okay we have to fill in all this stuff .
+ES2011d.C.dialog-act.dharshi.184	1938.688	1939.543	UI	C	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.185	1943.25	1944.9	UI	C	inf	-1	0	M meeting adjourned .
+ES2011d.D.dialog-act.dharshi.216	1942.77	1943.48	ME	D	oth	-1	0	Stuff stuff stuff .
+ES2011d.A.dialog-act.dharshi.286	1944.42	1945.3	PM	A	ass	-1	0	Meeting adjourned .
+ES2011d.D.dialog-act.dharshi.217	1944.9	1945.62	ME	D	bck	-1	0	Yeah .
+ES2011d.B.dialog-act.dharshi.192	1946.98	1952.051	ID	B	be.pos	-1	0	I think I've learned not to bring play-dough to meetings . {vocalsound}
+ES2011d.A.dialog-act.dharshi.287	1949.38	1951.68	PM	A	bck	-1	0	Yeah . {vocalsound}
+ES2011d.C.dialog-act.dharshi.186	1950.112	1951.136	UI	C	fra	-1	0	{vocalsound}
+ES2011d.C.dialog-act.dharshi.187	1952.42	1954.41	UI	C	be.pos	-1	0	I think it would be a good idea , I like it . {vocalsound}
+ES2011d.B.dialog-act.dharshi.193	1953.492	1958.98	ID	B	ass	-1	0	{vocalsound} It's hard enough to get people actually paying attention .
+ES2011d.B.dialog-act.dharshi.194	1958.98	1960.38	ID	B	ass	-1	0	Especially if you have food .
+ES2011d.A.dialog-act.dharshi.288	1964.19	1968.22	PM	A	inf	+1	2	So I guess we're supposed to write final reports .
+ES2011d.A.dialog-act.dharshi.289	1968.22	1968.79	PM	A	fra	-1	0	'Cause {disfmarker}
+ES2011d.B.dialog-act.dharshi.195	1968.39	1969.02	ID	B	el.inf	+1	1	All of us ?
+ES2011d.A.dialog-act.dharshi.290	1969.87	1971.51	PM	A	inf	+1	1	I don't know . Hmm .
+ES2011d.D.dialog-act.dharshi.218	1970.52	1972.33	ME	D	inf	-1	0	Well there's al eight , nine .
+ES2011d.C.dialog-act.dharshi.188	1972.258	1974.032	UI	C	fra	-1	0	{vocalsound}
+ES2011d.D.dialog-act.dharshi.219	1972.33	1973.05	ME	D	oth	-1	0	Ooh .
+ES2011d.D.dialog-act.dharshi.220	1973.92	1974.41	ME	D	oth	-1	0	Oh ooh .
+ES2011d.A.dialog-act.dharshi.291	1974.66	1975.96	PM	A	el.inf	+1	1	Hmm . Or is that just me ? {vocalsound}

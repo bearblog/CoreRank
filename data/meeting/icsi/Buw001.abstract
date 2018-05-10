@@ -1,0 +1,62 @@
+3	Buw001.s.1	The discussion concerned mainly ideas about data collection and the nature and generation of queries on meetings.
+Buw001.D.dialogueact87	99.16	102.64	D	Professor	s^t^tc	+1	1	So what we had {pause} was that we were gonna talk about data collection ,
+Buw001.D.dialogueact892	1650.73	1656.4	D	Professor	s^t	+1	2	So {disfmarker} {vocalsound} so the question {comment} that {disfmarker} that we started with was whether there was anything else we should do during {disfmarker} during th during the collection .
+Buw001.D.dialogueact941	1760.22	1762.27	D	Professor	s	+1	1	I guess a lot of the stuff we 're doing now really is pilot
+6	Buw001.s.2	Meeting notes taken by participants as standard minutes or summaries , or on devices like CrossPads can provide useful information.
+Buw001.E.dialogueact119	177.06	181.21	E	PhD	s^aa|s	+1	1	Right . I mean , we {disfmarker} because you 'd have several people with these pads , you could collect different things .
+Buw001.A.dialogueact273	496.578	500.238	A	Professor	qh^cs	+1	2	And {disfmarker} So why don't we just use the notes that somebody takes ?
+Buw001.D.dialogueact894	1656.4	1658.51	D	Professor	s	+1	2	And I guess the CrossPads was certainly one idea ,
+Buw001.A.dialogueact971	1803.95	1813.48	A	Professor	s^cs:qy	+1	3	So , I j I think we should just say this is not {disfmarker} we don't want to put any extra burden on people , but if they happen to generate minutes , could {disfmarker} could they send it to us ?
+Buw001.D.dialogueact1070	1944.19	1947.72	D	Professor	s	+1	1	But {disfmarker} but if there 's some cases where they will , then it would be helpful .
+Buw001.A.dialogueact1423	2588.73	2590.51	A	Professor	s	+1	2	CrossPads we were going to try ,
+1	Buw001.s.3	There is also interest in the speech community for fusion of speech with visual data.
+Buw001.B.dialogueact687	1257.48	1263.69	B	PhD	s	+1	1	But I 'm just saying first of all there 's a whole bunch of fusion issues that DARPA 's interested in .
+6	Buw001.s.4	Taking some photos of the whiteboard and the positioning of participants is easy enough to do.
+Buw001.E.dialogueact621	1182.25	1185.16	E	PhD	s	+1	2	I think for this data capture , it would be nice to have a digital camera
+Buw001.E.dialogueact624	1185.45	1187.26	E	PhD	s	+1	2	just to take pictures of who 's there ,
+Buw001.E.dialogueact626	1188.33	1189.57	E	PhD	s	+1	2	and then we could also put in what 's on the board .
+Buw001.D.dialogueact730	1339.47	1346.3	D	Professor	s	+1	2	Well , minimally , I mean , what {disfmarker} what Dan is referring to at least having some representation of the p the spatial position of the people ,
+Buw001.D.dialogueact838	1540.5	1545.89	D	Professor	s^cs^e	+1	2	Like for a meeting like this , at least , uh , take a Polaroid of the {disfmarker} {vocalsound} of the {disfmarker} of the boards ,
+Buw001.A.dialogueact1432	2616.75	2621.66	A	Professor	s^e	+1	2	a couple digital pictures of the {disfmarker} the table and boards to set the context of the meeting .
+6	Buw001.s.5	Another option would be the recording by participants of short oral summaries of the meeting.
+Buw001.H.dialogueact265	477.495	479.715	H	Postdoc	s	+1	2	And the fir third thing I wanted to say is the summaries afterwards ,
+Buw001.H.dialogueact539	1056.11	1061.87	H	Postdoc	s	+1	2	I {disfmarker} e My thought was to have multiple people summarize it , on recording rather than writing
+Buw001.H.dialogueact544	1069.5	1072.48	H	Postdoc	s	+1	2	you know , a two - minute summary of what the meeting was about , I think you would get ,
+Buw001.H.dialogueact553	1087.04	1095.0	H	Postdoc	s^cs	+1	2	So , my proposal would be that it may be worth considering both of those types , you know , the note - taking and a spontaneous oral summary afterwards ,
+Buw001.A.dialogueact1048	1917.68	1922.86	A	Professor	s^aa|s	+1	2	Yeah . I think that {disfmarker} I think doing it orally at the end of the meeting is the best time .
+Buw001.A.dialogueact1447	2653.16	2662.1	A	Professor	s	+1	2	And then the last thing c would be for those people who are willing to stay afterwards and give an oral summary .
+5	Buw001.s.6	Summaries could be used to bootstrap for queries , the exact nature of which remained nebulous.
+Buw001.G.dialogueact254	447.02	452.92	G	Grad	s^df^no:s	+1	2	I just don't know how else to generate the queries other than getting an expert to actually listen to the meeting and say " that 's important ,
+Buw001.D.dialogueact346	626.672	639.603	D	Professor	s^df	+1	2	but if we were asking the question , which I thought we were , of {disfmarker} of {disfmarker} of , um , " how do we figure out what 's the nature of the queries that people are gonna want to ask of such a system ? " , knowing what 's important doesn't tell you what people are going to be asking .
+Buw001.D.dialogueact480	939.557	946.037	D	Professor	s	+1	1	now I 'm thinking that the summary {disfmarker} a summary , uh , is actually a reasonable , uh , bootstrap into this {disfmarker} into what we 'd like to get at .
+Buw001.F.dialogueact1116	1999.38	2005.19	F	PhD	qy^bu^d^rt^t	+1	1	the question I had about queries was , um , so what we 're planning to do is have people look at the summaries and then generate queries ?
+Buw001.D.dialogueact1203	2123.99	2141.88	D	Professor	s	+1	1	u I {disfmarker} I actually think that {disfmarker} that , uh , again , just as a bootstrap , {comment} if we do have something like summaries , then having the people who are involved in the meetings themselves , who are cooperative and willing to do yet more , come up with {disfmarker} with {disfmarker} with queries , uh , could at least give {disfmarker} give Landay an idea of the kind of things that people might want to know .
+6	Buw001.s.7	Candidate types are keyword searches , action items , elaboration on points of interest , and agreement between participants.
+Buw001.D.dialogueact494	975.943	985.515	D	Professor	s	+1	1	And {disfmarker} and th I think that might then help me to think of things {disfmarker} even things that aren't listed in the summary , but just as a {disfmarker} as a {disfmarker} as a refresh of what the general thing was going on in the meeting .
+Buw001.D.dialogueact1332	2395.4	2401.24	D	Professor	s	+1	1	and {disfmarker} but for some {comment} new reason I 'm {disfmarker} I 'm {disfmarker} I 'm interested in {disfmarker} in {disfmarker} in the old stuff .
+Buw001.B.dialogueact1494	2733.96	2744.02	B	PhD	s.%--:qy.%--	+1	1	you know , if this is something that requires a {disfmarker} a one - word answer or it 's one place in the recording versus was there general agreement on this issue of all the people who ha
+Buw001.G.dialogueact1501	2752.62	2755.79	G	Grad	s^aa|s^cs	+1	1	Absolutely . So I think we 're gonna have to start with keywords
+Buw001.H.dialogueact1541	2798.52	2801.04	H	Postdoc	s^cs	+1	1	I I was wondering if {disfmarker} if there might be one s more source of queries
+Buw001.H.dialogueact1542	2801.04	2803.08	H	Postdoc	s^cs	+1	1	which is indicator phrases like " action item " ,
+3	Buw001.s.8	An initial prototype system to test any hypotheses can be pipelined.
+Buw001.D.dialogueact1386	2506.28	2515.82	D	Professor	s^cs	+1	1	I {disfmarker} I {disfmarker} I mean , I guess what I what I {disfmarker} I keep coming back to in my own mind is that , um , the soonest we can do it , we need to get up some kind of system
+Buw001.D.dialogueact1391	2527.43	2536.78	D	Professor	s	+1	1	If {disfmarker} you know , if {disfmarker} uh , as soon as we can get that going at any kind of level , then I think we 'll have a much better handle on what kind of questions people want to ask than in any {disfmarker} anything we do before that .
+Buw001.D.dialogueact1478	2699.7	2709.97	D	Professor	fg|s	+1	1	Well , and again , if we can figure out a way to jimmy a {disfmarker} a {disfmarker} a {disfmarker} a very rough system , say in a year , then {disfmarker} uh , so that in the second and third years we {disfmarker} we actually have something to {disfmarker}
+4	Buw001.s.9	The recorded data will be stored on CD-ROM's and sent to IBM for transcription.
+Buw001.D.dialogueact1672	2996.12	2999.49	D	Professor	s	+1	1	and then what they 're gonna do is take the CD - ROM and transfer it to analog tape
+Buw001.G.dialogueact1674	3002.22	3003.01	G	Grad	s^bk|qy^rt	+1	1	Oh , is this IBM ?
+Buw001.D.dialogueact1675	3003.3	3003.54	D	Professor	s^aa	+1	1	Yeah .
+Buw001.D.dialogueact1673	2999.49	3003.09	D	Professor	s.%-	+1	1	and {vocalsound} give it to a transcription service , uh , that will {disfmarker}
+2	Buw001.s.10	There is also work being done on the annotation of prosody.
+Buw001.G.dialogueact1747	3111.78	3113.73	G	Grad	s^bsc	+1	2	different level , prosody and all that sort of stuff .
+Buw001.A.dialogueact1761	3128.33	3132.45	A	Professor	s	+1	2	W My {disfmarker} my u feeling right now on format is you guys have been doing all the work
+3	Buw001.s.11	The corpus could be enriched with found data ( public or collected by other projects ) , if those prove appropriate for use in the project.
+Buw001.B.dialogueact2071	3690.22	3700.04	B	PhD	s	+1	2	And , I guess we just left it as {disfmarker} @ @ {comment} that {pause} if there 's found data that can be transformed for use in speech recognition easily , then of course we would do it ,
+Buw001.B.dialogueact2152	3812.19	3817.13	B	PhD	s	+1	1	but they were recorded anyway , like the congressional hearings and , you know , for legal purposes or whatever .
+Buw001.H.dialogueact2154	3816.42	3821.24	H	Postdoc	s	+1	1	But it includes like standard corpora that have been used for years in linguistics and {pause} other fields .
+5	Buw001.s.12	Finally , project web pages and mailing list are being set up and UW are going to investigate the suitability of their recording equipment.
+Buw001.A.dialogueact1605	2906.7	2909.03	A	Professor	s	+1	2	to c and I 'll put together an overall cover .
+Buw001.A.dialogueact1603	2901.87	2903.88	A	Professor	s^rt^t	+1	2	people are supposed to send me U R
+Buw001.A.dialogueact1604	2904.47	2906.29	A	Professor	s^e^rt	+1	2	for their {disfmarker} for web pages ,
+Buw001.A.dialogueact1624	2924.81	2926.68	A	Professor	s^rt	+1	1	Uh , you need to put together a mailing list .
+Buw001.D.dialogueact1830	3226.22	3229.67	D	Professor	s	+1	2	We talked about that we 're getting the recording equipment running at UW .

@@ -1,0 +1,7 @@
+Speaker me026 has been experimenting with spectral subtraction using different data window sizes.
+One possible idea is to use increasing windows as more data becomes available.
+Speaker mn049 has been working on Wiener filtering , and testing with just the base system provides 30% improvement.
+Using a second stage of filtering led to even more improvement.
+Speaker mn007 is working on spectral subtraction , still with minimal results.
+Smoothing seems to help , and implementing alongside the neural net should also be positive.
+He has also been working on noise estimation with an energy minima approach that does not require the voice activity detector.

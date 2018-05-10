@@ -1,0 +1,243 @@
+9	ES2006d.elana.s.1	The project manager opens this detailed design meeting by going over the agenda.
+ES2006d.C.dialog-act.s9553330.2	6.25	9.69	C	PM	inf	+1	1	This is our final meeting , the detailed design meeting .
+ES2006d.C.dialog-act.s9553330.5	15.79	22.11	C	PM	inf	+1	1	what we have to get through in this meeting is firstly the prototype presentation from you two ,
+ES2006d.C.dialog-act.s9553330.6	22.11	26.3	C	PM	el.sug	+1	1	so you can show us what you've been working on so diligently .
+ES2006d.B.dialog-act.s9553330.1	27.5	29.0	B	ME	ass	+1	1	It does look very cool .
+ES2006d.C.dialog-act.s9553330.8	28.96	38.81	C	PM	inf	+1	1	{vocalsound} then Cat's going to present the evaluation criteria that we're going to be evaluating this against .
+ES2006d.C.dialog-act.s9553330.9	38.81	41.7	C	PM	inf	+1	1	Then I need to say some st a few things about finance ,
+ES2006d.C.dialog-act.s9553330.10	41.7	47.9	C	PM	inf	+1	1	'cause we have to check that it's within the finance criteria .
+ES2006d.C.dialog-act.s9553330.11	47.9	58.75	C	PM	inf	+1	1	Um and then we'll be making sure that our product fits both the evaluation criteria from Cat and the financial limits .
+ES2006d.C.dialog-act.s9553330.12	58.75	66.73	C	PM	inf	+1	1	Um and then we uh will have a brief evaluation of the whole process of production and design that we've been through .
+12	ES2006d.elana.s.2	The designers present the prototype , which they decided to make the color and shape of a banana.
+ES2006d.D.dialog-act.s9553330.8	102.88	106.65	D	UI	el.sug	+1	1	so will you maybe start with like the mm the shape and things
+ES2006d.D.dialog-act.s9553330.9	106.65	113.988	D	UI	off	+1	1	and and then I will explain the the user interface th uh things , like the buttons and the scrolling things and {disfmarker}
+ES2006d.A.dialog-act.s9553330.11	113.8	126.71	A	ID	inf	+1	2	{vocalsound} Okay . So um basically going with our trend of vegetables and {vocalsound} {disfmarker} we selected the colour and approximate shape of banana .
+ES2006d.B.dialog-act.s9553330.5	124.592	128.73	B	ME	el.inf	+1	1	{vocalsound} You think bananas are a safe thing to use ?
+ES2006d.B.dialog-act.s9553330.6	128.73	130.19	B	ME	ass	+1	1	It's a bit um phallic .
+ES2006d.D.dialog-act.s9553330.11	130.896	135.856	D	UI	inf	+1	1	{vocalsound} Well , but it's it's just an a approximation . {vocalsound}
+ES2006d.B.dialog-act.s9553330.14	204.68	209.36	B	ME	ass	+1	1	so I would say that this curvy does look quite like a vegetable .
+ES2006d.D.dialog-act.s9553330.19	189.17	195.92	D	UI	inf	+1	1	{vocalsound} yeah , but um one thing we actually kind of um forgot while designing , that one side was supposed to be rounder ,
+ES2006d.B.dialog-act.s9553330.10	181.26	183.69	B	ME	el.inf	+1	1	Is it to scale , or do you think you can make it a bit smaller ?
+ES2006d.D.dialog-act.s9553330.17	184.79	186.4	D	UI	inf	+1	1	Um it could be made a bit smaller ,
+ES2006d.C.dialog-act.s9553330.57	340.61	344.7	C	PM	ass	+1	1	And it's {disfmarker} {vocalsound} with the the black and yellow you're even in the right colours .
+ES2006d.D.dialog-act.s9553330.59	346.95	351.47	D	UI	sug	+1	2	Yeah , I think um we could do l the logo in grey , as it is on the website .
+25	ES2006d.elana.s.3	They demonstrate the remote components , showing how it flips open on the side and features a LCD and scroll inside.
+ES2006d.A.dialog-act.s9553330.16	143.552	150.93	A	ID	inf	+1	1	{vocalsound} Um so basically it's the it's the flip open thing again .
+ES2006d.A.dialog-act.s9553330.19	157.7	162.53	A	ID	inf	+1	2	And it flips open on the side , so it opens like that .
+ES2006d.A.dialog-act.s9553330.20	162.53	166.24	A	ID	inf	+1	1	And we have the user interface o in here
+ES2006d.A.dialog-act.s9553330.21	166.24	171.18	A	ID	inf	+1	2	and uh {vocalsound} the the L_C_D_ and and the scroll are inside .
+ES2006d.C.dialog-act.s9553330.36	177.0	180.361	C	PM	el.inf	+1	2	And it's {disfmarker} the whole thing's made of rubber , is that {disfmarker}
+ES2006d.D.dialog-act.s9553330.24	214.32	225.49	D	UI	inf	+1	1	So {vocalsound} so uh the user interface as as we discussed last time uh mm on on the {vocalsound} on the cover we just have the very basic things .
+ES2006d.D.dialog-act.s9553330.25	225.49	230.18	D	UI	inf	+1	2	So we have that n uh channels here starting from um uh one two three {disfmarker}
+ES2006d.D.dialog-act.s9553330.27	233.2	238.91	D	UI	inf	+1	1	So it's four , up to four , up to seven , up to nine and zero , z zero here .
+ES2006d.D.dialog-act.s9553330.29	240.04	241.93	D	UI	inf	+1	2	And then , well this is on off button .
+ES2006d.D.dialog-act.s9553330.31	245.49	248.57	D	UI	inf	+1	1	and and also the colour is quite often red ,
+ES2006d.D.dialog-act.s9553330.33	251.01	254.13	D	UI	inf	+1	1	And then these ones would be for flipping the channels back and {disfmarker}
+ES2006d.D.dialog-act.s9553330.35	256.34	262.25	D	UI	inf	+1	1	And and we would also have a l little um thing saying here , previous and ne prevon prevon next .
+ES2006d.D.dialog-act.s9553330.36	263.52	265.12	D	UI	inf	+1	2	The volume is is scrolling .
+ES2006d.D.dialog-act.s9553330.37	265.12	265.98	D	UI	inf	+1	1	On the side ,
+ES2006d.D.dialog-act.s9553330.40	268.2	276.14	D	UI	inf	+1	1	And and and it's it's on the back is mm cover or back lid , because if you flip it open , you can still do the scrolling here .
+ES2006d.D.dialog-act.s9553330.44	284.8	289.27	D	UI	inf	+1	1	and and you have the mm {vocalsound} spinning wheel with options to choose .
+ES2006d.B.dialog-act.s9553330.21	296.3	298.36	B	ME	inf	+1	1	Oh , the thing we forgot was like a mute button .
+ES2006d.D.dialog-act.s9553330.48	301.54	304.51	D	UI	inf	+1	1	Well , {gap} we'll have this on the screen , on the display .
+ES2006d.B.dialog-act.s9553330.23	307.38	312.09	B	ME	sug	+1	1	On the wheel , like if you hold the wheel down then it will mute .
+ES2006d.A.dialog-act.s9553330.35	311.11	315.5	A	ID	inf	+1	1	Uh on the L_C_D_ we r you know , the main menu will have various options .
+ES2006d.D.dialog-act.s9553330.50	314.76	318.29	D	UI	inf	+1	1	yeah , the scrolling is kind of you have to scroll all the way to make it mute , right ?
+ES2006d.C.dialog-act.s9553330.54	320.38	322.7	C	PM	sug	+1	1	if it's a scroll and click so you hold it in ?
+ES2006d.C.dialog-act.s9553330.53	318.53	320.38	C	PM	sug	+1	1	But if you hold it in ,
+ES2006d.D.dialog-act.s9553330.53	326.88	331.17	D	UI	inf	+1	1	{vocalsound} And okay , so i so the the voice recognition is also just part of it .
+ES2006d.D.dialog-act.s9553330.54	331.17	332.83	D	UI	inf	+1	1	You can't really see it in the interface .
+51	ES2006d.elana.s.4	The marketing expert gives the product evaluation , which is based on the criteria of attractiveness , whether it matches operation behavior of the user , locatability , intuitiveness , ergonomic design , and how technologically innovative it is.
+ES2006d.B.dialog-act.s9553330.45	442.34	447.16	B	ME	inf	+1	1	So what we're gonna do is prefer {disfmarker} prepare the evaluation of the new design .
+ES2006d.B.dialog-act.s9553330.46	447.16	449.01	B	ME	inf	+1	1	{vocalsound} Um so we're gonna be using a seven point scale ,
+ES2006d.B.dialog-act.s9553330.47	449.01	453.14	B	ME	inf	+1	1	so one is , you know , yes , it totally meets with that requirement
+ES2006d.B.dialog-act.s9553330.48	453.14	457.06	B	ME	inf	+1	1	and seven is , no , it really doesn't , we need to go back and start again .
+ES2006d.B.dialog-act.s9553330.49	457.06	469.61	B	ME	inf	+1	1	Um , you know . Basically , what I did was I went through all the like user requirements and things that we've done and we've worked on and like made a list of them .
+ES2006d.C.dialog-act.s9553330.76	482.75	485.41	C	PM	inf	+1	1	So for each of these we need to give it a one to seven .
+ES2006d.B.dialog-act.s9553330.57	486.66	489.01	B	ME	inf	+1	1	I did have A_ , B_ , C_ , and D_ down here ,
+ES2006d.B.dialog-act.s9553330.58	489.01	493.45	B	ME	inf	+1	1	but it seems to have turned into like just bullet points .
+ES2006d.B.dialog-act.s9553330.59	493.45	498.33	B	ME	sug	+1	1	Okay . But if you can imagine that they say A_ , B_ , C_ , and D_ , then that would be really good .
+ES2006d.B.dialog-act.s9553330.71	570.75	575.21	B	ME	el.inf	+1	1	Okay um uh what I've done on the next page is I've set it up so we just put the marks in .
+ES2006d.B.dialog-act.s9553330.74	581.4	582.62	B	ME	sug	+1	1	If you take a note of them ,
+ES2006d.B.dialog-act.s9553330.84	628.91	630.98	B	ME	inf	+1	2	left-handed people can't normally write right-handed ,
+ES2006d.A.dialog-act.s9553330.58	591.81	600.81	A	ID	inf	+1	2	Um the the only thing that we were considering was that uh this thing is kind of more for right-handed people than for left-handed people ,
+ES2006d.B.dialog-act.s9553330.78	588.4	590.72	B	ME	el.ass	+1	1	Does it match the operating behaviour of the user ?
+ES2006d.D.dialog-act.s9553330.78	603.31	612.28	D	UI	sug	+1	2	so y so we we might do we might want to do like a uh another m {vocalsound} model another another version , which is like exactly the mirror image of this one .
+ES2006d.B.dialog-act.s9553330.90	648.18	651.2	B	ME	sug	+1	1	So maybe we need to put {disfmarker} that needs a little bit of investigation ,
+ES2006d.B.dialog-act.s9553330.91	651.2	652.89	B	ME	sug	+1	2	maybe give it a five , I would say ?
+ES2006d.D.dialog-act.s9553330.85	655.03	656.07	D	UI	sug	+1	2	Or maybe six ,
+ES2006d.A.dialog-act.s9553330.70	670.89	673.9	A	ID	ass	+1	3	It might be a little clumsy when when it opens up , right ,
+ES2006d.B.dialog-act.s9553330.95	686.56	689.01	B	ME	sug	+1	2	I th I think the alternative is flipping from the top .
+ES2006d.A.dialog-act.s9553330.76	689.62	693.78	A	ID	inf	+1	2	Yeah , but we {disfmarker} which makes it kind of really big , yeah .
+ES2006d.B.dialog-act.s9553330.104	723.83	728.24	B	ME	el.inf	+1	1	or are we saying we're gonna stick a locator on the T_V_ ?
+ES2006d.C.dialog-act.s9553330.115	727.33	729.26	C	PM	inf	+1	1	th there's the locator dot .
+ES2006d.D.dialog-act.s9553330.99	729.25	730.91	D	UI	inf	+1	1	Mm that you stick on T_V_ .
+ES2006d.B.dialog-act.s9553330.107	729.35	733.5	B	ME	inf	+1	1	so that means you need a {disfmarker} that does mean you need a little speaker on it though ,
+ES2006d.B.dialog-act.s9553330.109	734.32	735.68	B	ME	inf	+1	1	To make it beep .
+ES2006d.B.dialog-act.s9553330.113	743.25	744.47	B	ME	inf	+1	2	so that's seven , yeah .
+ES2006d.D.dialog-act.s9553330.105	752.41	757.61	D	UI	inf	+1	3	If {vocalsound} uh uh if this means intuitive , if it means the way people kind of are used to finding things
+ES2006d.C.dialog-act.s9553330.120	759.9	761.45	C	PM	ass	+1	2	I'd say six ,
+ES2006d.C.dialog-act.s9553330.121	761.45	768.87	C	PM	inf	+1	3	'cause the {disfmarker} I mean the the standard layout for numbers is three three three and one , rather than the way you've got it .
+ES2006d.C.dialog-act.s9553330.123	770.51	773.08	C	PM	inf	+1	4	but it's not the immediate thing that you're used to .
+ES2006d.A.dialog-act.s9553330.93	783.9	786.49	A	ID	inf	+1	3	but uh it's a good technology , I mean once they get used to it .
+ES2006d.B.dialog-act.s9553330.120	790.05	792.6	B	ME	sug	+1	2	So , should we maybe say f a five
+ES2006d.B.dialog-act.s9553330.137	834.74	841.37	B	ME	inf	+1	1	so possibly for left-handed . Investigate .
+ES2006d.C.dialog-act.s9553330.133	843.38	845.23	C	PM	ass	+1	1	But otherwise it's superb .
+ES2006d.B.dialog-act.s9553330.138	845.64	848.12	B	ME	el.ass	+1	2	So , should we give it a six ?
+ES2006d.D.dialog-act.s9553330.109	849.36	852.06	D	UI	inf	+1	2	Um uh the ergonom ergonomic design {disfmarker}
+ES2006d.D.dialog-act.s9553330.110	852.06	857.96	D	UI	inf	+1	2	well mm I mean I d uh I dunno , I mean the the repetitive stress things ,
+ES2006d.D.dialog-act.s9553330.111	857.96	863.95	D	UI	inf	+1	2	but then who would be really pushing the buttons so much on the on the remote control anyway ,
+ES2006d.A.dialog-act.s9553330.104	876.35	879.26	A	ID	inf	+1	2	And moreover it it has um {vocalsound} L_C_D_ and everything ,
+ES2006d.A.dialog-act.s9553330.105	879.26	882.66	A	ID	inf	+1	2	so that uh you know uh we minimise the pressing of the buttons anyway .
+ES2006d.B.dialog-act.s9553330.143	882.56	884.16	B	ME	inf	+1	2	Okay , so we give that a six ,
+ES2006d.C.dialog-act.s9553330.147	909.86	913.2	C	PM	inf	+1	1	G_ technologically innovative .
+ES2006d.A.dialog-act.s9553330.111	913.16	917.36	A	ID	ass	+1	1	it's the most sophisticated remote that I ever seen . {vocalsound}
+ES2006d.D.dialog-act.s9553330.118	920.95	926.51	D	UI	inf	+1	1	Well mm we have we have the sample speaker as well , which is {disfmarker} yeah , it's kind of new .
+ES2006d.C.dialog-act.s9553330.150	927.09	931.51	C	PM	inf	+1	1	All of the components have been used in other things before .
+ES2006d.B.dialog-act.s9553330.156	931.03	936.36	B	ME	inf	+1	1	They're never been used i they've never been using remote remote control before I don't think .
+ES2006d.C.dialog-act.s9553330.154	938.11	939.58	C	PM	sug	+1	2	What do you reckon , five , six ?
+ES2006d.D.dialog-act.s9553330.120	941.3	941.87	D	UI	ass	+1	2	Six .
+ES2006d.C.dialog-act.s9553330.158	959.5	961.74	C	PM	el.ass	+1	1	Put fashion in electronics .
+ES2006d.D.dialog-act.s9553330.127	967.23	970.9	D	UI	inf	+1	1	Fruit fruit and vegetables are fashionable these days , so .
+26	ES2006d.elana.s.5	They rate the product using a 7 point scale and come up with an average score of 6.5.
+ES2006d.B.dialog-act.s9553330.91	651.2	652.89	B	ME	sug	+1	2	maybe give it a five , I would say ?
+ES2006d.D.dialog-act.s9553330.85	655.03	656.07	D	UI	sug	+1	2	Or maybe six ,
+ES2006d.A.dialog-act.s9553330.70	670.89	673.9	A	ID	ass	+1	3	It might be a little clumsy when when it opens up , right ,
+ES2006d.B.dialog-act.s9553330.95	686.56	689.01	B	ME	sug	+1	2	I th I think the alternative is flipping from the top .
+ES2006d.A.dialog-act.s9553330.76	689.62	693.78	A	ID	inf	+1	2	Yeah , but we {disfmarker} which makes it kind of really big , yeah .
+ES2006d.B.dialog-act.s9553330.113	743.25	744.47	B	ME	inf	+1	2	so that's seven , yeah .
+ES2006d.D.dialog-act.s9553330.105	752.41	757.61	D	UI	inf	+1	3	If {vocalsound} uh uh if this means intuitive , if it means the way people kind of are used to finding things
+ES2006d.C.dialog-act.s9553330.120	759.9	761.45	C	PM	ass	+1	2	I'd say six ,
+ES2006d.C.dialog-act.s9553330.121	761.45	768.87	C	PM	inf	+1	3	'cause the {disfmarker} I mean the the standard layout for numbers is three three three and one , rather than the way you've got it .
+ES2006d.C.dialog-act.s9553330.123	770.51	773.08	C	PM	inf	+1	4	but it's not the immediate thing that you're used to .
+ES2006d.A.dialog-act.s9553330.93	783.9	786.49	A	ID	inf	+1	3	but uh it's a good technology , I mean once they get used to it .
+ES2006d.B.dialog-act.s9553330.120	790.05	792.6	B	ME	sug	+1	2	So , should we maybe say f a five
+ES2006d.B.dialog-act.s9553330.138	845.64	848.12	B	ME	el.ass	+1	2	So , should we give it a six ?
+ES2006d.D.dialog-act.s9553330.109	849.36	852.06	D	UI	inf	+1	2	Um uh the ergonom ergonomic design {disfmarker}
+ES2006d.D.dialog-act.s9553330.110	852.06	857.96	D	UI	inf	+1	2	well mm I mean I d uh I dunno , I mean the the repetitive stress things ,
+ES2006d.D.dialog-act.s9553330.111	857.96	863.95	D	UI	inf	+1	2	but then who would be really pushing the buttons so much on the on the remote control anyway ,
+ES2006d.A.dialog-act.s9553330.104	876.35	879.26	A	ID	inf	+1	2	And moreover it it has um {vocalsound} L_C_D_ and everything ,
+ES2006d.A.dialog-act.s9553330.105	879.26	882.66	A	ID	inf	+1	2	so that uh you know uh we minimise the pressing of the buttons anyway .
+ES2006d.B.dialog-act.s9553330.143	882.56	884.16	B	ME	inf	+1	2	Okay , so we give that a six ,
+ES2006d.C.dialog-act.s9553330.154	938.11	939.58	C	PM	sug	+1	2	What do you reckon , five , six ?
+ES2006d.D.dialog-act.s9553330.120	941.3	941.87	D	UI	ass	+1	2	Six .
+ES2006d.B.dialog-act.s9553330.169	978.91	980.33	B	ME	inf	+1	1	So , we need the average here ,
+ES2006d.D.dialog-act.s9553330.128	975.41	977.08	D	UI	ass	+1	1	So I think we've done very well ,
+ES2006d.D.dialog-act.s9553330.131	981.79	984.51	D	UI	inf	+1	1	The average is about six and something .
+ES2006d.D.dialog-act.s9553330.138	1006.139	1008.7	D	UI	ass	+1	1	{vocalsound} Six point five , yeah .
+ES2006d.B.dialog-act.s9553330.179	1010.3	1011.62	B	ME	ass	+1	1	that's pretty good , I think .
+30	ES2006d.elana.s.6	The group goes on to calculate the production cost and finds they are over the budget.
+ES2006d.C.dialog-act.s9553330.184	1105.27	1108.67	C	PM	inf	+1	1	so we've looked at the prototype presentation and the evaluation criteria .
+ES2006d.C.dialog-act.s9553330.185	1110.0	1115.02	C	PM	inf	+1	1	And now we have to calculate the production costs .
+ES2006d.C.dialog-act.s9553330.186	1115.02	1119.04	C	PM	inf	+1	1	So I've got an Excel spreadsheet to help us do that .
+ES2006d.C.dialog-act.s9553330.190	1128.67	1131.83	C	PM	inf	+1	1	Um I started filling it in ,
+ES2006d.C.dialog-act.s9553330.192	1136.15	1138.31	C	PM	inf	+1	1	No hand dynamo , right ?
+ES2006d.C.dialog-act.s9553330.193	1138.31	1140.46	C	PM	inf	+1	2	One simple battery .
+ES2006d.C.dialog-act.s9553330.196	1145.11	1149.11	C	PM	inf	+1	2	The chip , we're going for an advanced chip on print .
+ES2006d.C.dialog-act.s9553330.201	1149.11	1152.2	C	PM	inf	+1	1	We also said the sample sensor and sample speaker .
+ES2006d.C.dialog-act.s9553330.202	1153.73	1158.12	C	PM	inf	+1	2	Um single-curved surface , so that we can fold it .
+ES2006d.C.dialog-act.s9553330.203	1159.67	1162.3	C	PM	inf	+1	1	Case material we said rubber .
+ES2006d.C.dialog-act.s9553330.204	1162.3	1164.55	C	PM	inf	+1	1	I don't know what special colour means .
+ES2006d.D.dialog-act.s9553330.145	1168.94	1169.93	D	UI	inf	+1	1	I think something coloured ,
+ES2006d.B.dialog-act.s9553330.190	1173.73	1176.12	B	ME	inf	+1	1	but rubber comes coloured , doesn't it ? You know .
+ES2006d.C.dialog-act.s9553330.209	1176.79	1180.79	C	PM	sug	+1	1	{vocalsound} maybe it's like if you want titanium coloured or wood coloured , it's different .
+ES2006d.D.dialog-act.s9553330.149	1179.59	1182.58	D	UI	sug	+1	1	Or maybe maybe if you want some kind of pattern thing on it ,
+ES2006d.D.dialog-act.s9553330.152	1188.24	1189.5	D	UI	inf	+1	1	We have pushbuttons ,
+ES2006d.C.dialog-act.s9553330.215	1193.67	1196.74	C	PM	inf	+1	1	Scroll wheel with pushbutton we had , no ?
+ES2006d.D.dialog-act.s9553330.156	1199.81	1201.59	D	UI	inf	+1	1	And we have L_C_ display
+ES2006d.C.dialog-act.s9553330.217	1201.97	1204.95	C	PM	inf	+1	1	And button supplements .
+ES2006d.D.dialog-act.s9553330.159	1211.28	1217.723	D	UI	inf	+1	1	Yeah , but what do we ha we have L_C_ display , but but the wh but the s spinning wheel {disfmarker}
+ES2006d.B.dialog-act.s9553330.195	1222.29	1223.79	B	ME	inf	+1	1	We've got more than one pushbutton though ,
+ES2006d.B.dialog-act.s9553330.198	1230.51	1233.47	B	ME	inf	+1	1	That means you can only have twenty five push buttons in total doesn't it ?
+ES2006d.C.dialog-act.s9553330.226	1236.21	1237.34	C	PM	ass	+1	1	That seems unlikely .
+ES2006d.C.dialog-act.s9553330.228	1241.84	1247.18	C	PM	inf	+1	1	whether whether pushbutton means that p count by button or do we {disfmarker}
+ES2006d.D.dialog-act.s9553330.162	1244.48	1245.62	D	UI	inf	+1	1	We have to count all of them ,
+ES2006d.C.dialog-act.s9553330.229	1247.18	1248.99	C	PM	ass	+1	1	I don't think that makes sense .
+ES2006d.A.dialog-act.s9553330.145	1252.58	1255.55	A	ID	inf	+1	1	if it is pushbutton then you got a zero point five ,
+ES2006d.A.dialog-act.s9553330.146	1255.55	1262.65	A	ID	inf	+1	1	it's a scroll wheel {disfmarker} so we we've put it's pushbutton and scroll wheel and L_C_D_ display ,
+ES2006d.C.dialog-act.s9553330.235	1267.65	1271.52	C	PM	inf	+1	2	So , as we can see , that's way too expensive down here .
+ES2006d.C.dialog-act.s9553330.236	1272.86	1275.68	C	PM	inf	+1	1	Our budget's twelve point five .
+39	ES2006d.elana.s.7	They have discussion and decide to eliminate the sample speaker locator and the scroll wheel inside.
+ES2006d.B.dialog-act.s9553330.205	1275.8	1277.78	B	ME	inf	+1	2	Yeah , the sample sensor will have to go ,
+ES2006d.B.dialog-act.s9553330.206	1277.78	1279.45	B	ME	inf	+1	2	'cause that's the most expensive thing on there .
+ES2006d.C.dialog-act.s9553330.238	1279.89	1285.27	C	PM	inf	+1	1	so that has implications though for the {gap} .
+ES2006d.A.dialog-act.s9553330.150	1284.33	1286.45	A	ID	inf	+1	1	Uh it does not have for voice recognition ,
+ES2006d.A.dialog-act.s9553330.151	1286.45	1289.48	A	ID	inf	+1	1	but it does have for the feedback speaker .
+ES2006d.A.dialog-act.s9553330.152	1289.48	1292.86	A	ID	inf	+1	1	{gap} when you say {disfmarker} when you press one it says one or it says hello .
+ES2006d.B.dialog-act.s9553330.208	1292.69	1294.87	B	ME	inf	+1	1	But that's a bit of a gimmick anyway really , isn't it ?
+ES2006d.A.dialog-act.s9553330.153	1294.55	1297.03	A	ID	inf	+1	1	Mm {vocalsound} and the locator also goes away .
+ES2006d.D.dialog-act.s9553330.166	1307.06	1310.68	D	UI	inf	+1	1	Well the speaker uh the sample speaker is is expensive ,
+ES2006d.D.dialog-act.s9553330.167	1310.68	1314.83	D	UI	sug	+1	2	but we could just have some some very very easy device that just beeps .
+ES2006d.A.dialog-act.s9553330.154	1322.31	1327.77	A	ID	inf	+1	1	A also i in the case I'm not sure that you will evaluate this as a curved surface ,
+ES2006d.A.dialog-act.s9553330.155	1327.77	1331.28	A	ID	inf	+1	1	because it's just rubber , so it's probably a flat surface rubber .
+ES2006d.C.dialog-act.s9553330.247	1338.71	1340.5	C	PM	inf	+1	2	Right , so we need one fifty off .
+ES2006d.C.dialog-act.s9553330.248	1346.36	1348.27	C	PM	sug	+1	2	Take it down to just a scroll wheel .
+ES2006d.A.dialog-act.s9553330.161	1357.36	1359.03	A	ID	inf	+1	1	in the L_C_D_ we can scroll , right ?
+ES2006d.A.dialog-act.s9553330.159	1352.8	1356.95	A	ID	el.inf	+1	1	how do we how do we make a selection in uh in the L_C_D_ ?
+ES2006d.A.dialog-act.s9553330.162	1359.03	1361.92	A	ID	el.inf	+1	1	But how do we make a selection if we d cannot push the button .
+ES2006d.D.dialog-act.s9553330.174	1361.66	1362.63	D	UI	inf	+1	1	you can push this one ,
+ES2006d.D.dialog-act.s9553330.175	1362.63	1367.87	D	UI	inf	+1	1	but we don't have a pushbutton uh we ca we don't have this muting mechanism for this scrolling thing .
+ES2006d.B.dialog-act.s9553330.218	1374.16	1375.65	B	ME	inf	+1	1	So that's point three .
+ES2006d.A.dialog-act.s9553330.165	1377.05	1380.9	A	ID	inf	+1	1	and I thought we were referring to this as a scroll spinning wheel and pushbutton thing .
+ES2006d.C.dialog-act.s9553330.255	1399.68	1401.77	C	PM	inf	+1	1	The scroll wheel is on the side .
+ES2006d.C.dialog-act.s9553330.256	1411.13	1413.33	C	PM	inf	+1	2	We're point three over at the moment .
+ES2006d.B.dialog-act.s9553330.226	1415.07	1417.38	B	ME	sug	+1	2	Unless we just take off the scroll wheel altogether
+ES2006d.B.dialog-act.s9553330.227	1417.38	1419.08	B	ME	sug	+1	1	and just have pushbuttons for the volume .
+ES2006d.A.dialog-act.s9553330.171	1427.92	1432.23	A	ID	inf	+1	2	Instead of scrolling here we have two buttons here , up {disfmarker} for up and down .
+ES2006d.C.dialog-act.s9553330.263	1439.86	1441.17	C	PM	inf	+1	1	Oh look , we're way under budget
+ES2006d.B.dialog-act.s9553330.233	1444.2	1448.896	B	ME	sug	+1	1	Yeah , well we could admit to the single curve {gap} , couldn't we ? {vocalsound}
+ES2006d.C.dialog-act.s9553330.266	1447.087	1452.59	C	PM	inf	+1	1	{vocalsound} Or or that we have to have some sort of special colour .
+ES2006d.C.dialog-act.s9553330.275	1469.34	1476.01	C	PM	el.inf	+1	1	So did we lose um on our evaluation criteria , as a result of doing that ?
+ES2006d.B.dialog-act.s9553330.238	1476.24	1477.18	B	ME	inf	+1	1	No , I don't think so .
+ES2006d.A.dialog-act.s9553330.178	1478.35	1479.71	A	ID	inf	+1	1	Because we keep all the features ,
+ES2006d.A.dialog-act.s9553330.179	1479.71	1481.12	A	ID	inf	+1	1	we keep voice recognition ,
+ES2006d.A.dialog-act.s9553330.180	1481.12	1483.16	A	ID	inf	+1	1	we keep L_C_D_ display .
+ES2006d.A.dialog-act.s9553330.182	1483.29	1486.56	A	ID	inf	+1	1	instead of having scrolling we we just push the buttons .
+ES2006d.A.dialog-act.s9553330.186	1495.077	1497.07	A	ID	inf	+1	1	{vocalsound} But we lose the locator .
+ES2006d.D.dialog-act.s9553330.187	1505.12	1506.48	D	UI	inf	+1	1	so we still have the locate .
+ES2006d.C.dialog-act.s9553330.282	1498.16	1499.1	C	PM	inf	+1	2	We're gonna have a beep .
+ES2006d.D.dialog-act.s9553330.191	1522.53	1526.19	D	UI	inf	+1	1	It can come in the same colour as the the case .
+16	ES2006d.elana.s.8	The team discusses the project process- saying that they had to cut out some creativity in order to meet the budget because they had not known the cost of features beforehand.
+ES2006d.C.dialog-act.s9553330.296	1556.68	1563.57	C	PM	sug	+1	1	so it would be good if we could just have a little talk about the project itself and how it went ,
+ES2006d.C.dialog-act.s9553330.297	1563.57	1569.71	C	PM	inf	+1	1	um so that we can feed back to the management for next time they're designing a product .
+ES2006d.D.dialog-act.s9553330.195	1575.64	1580.21	D	UI	inf	+1	1	as far as creativity is concerned , yeah I think there was there was room for creativity .
+ES2006d.D.dialog-act.s9553330.196	1580.21	1586.39	D	UI	inf	+1	2	The only the only problem being that at the end we had to cut some things down because of the the budget we had .
+ES2006d.A.dialog-act.s9553330.196	1587.28	1594.33	A	ID	inf	+1	2	I think uh n one thing that was lacking uh was that we did not know what the various things cost to begin with .
+ES2006d.B.dialog-act.s9553330.255	1598.05	1604.69	B	ME	inf	+1	2	If we'd had that sheet at the beginning {gap} should've been like , okay , so we can have that lot , let's just throw it together and do what we can .
+ES2006d.C.dialog-act.s9553330.304	1612.66	1622.04	C	PM	el.ass	+1	1	But in terms of the process of um going and working individually and then coming back to a meeting , that that worked in terms of .
+ES2006d.B.dialog-act.s9553330.257	1621.01	1623.19	B	ME	ass	+1	1	I think 'cause the meetings were so regular , you know .
+ES2006d.D.dialog-act.s9553330.200	1644.85	1647.89	D	UI	ass	+1	1	Yeah , the m the means were very very good , the means we used .
+ES2006d.C.dialog-act.s9553330.310	1648.59	1652.34	C	PM	inf	+1	1	the whiteboard digital pens .
+ES2006d.C.dialog-act.s9553330.311	1652.34	1654.848	C	PM	ass	+1	1	{vocalsound} We like the pens . {vocalsound}
+ES2006d.C.dialog-act.s9553330.321	1675.77	1680.64	C	PM	ass	+1	1	But that worked well having having a whiteboard that we could draw on as well as having the PowerPoint ,
+ES2006d.C.dialog-act.s9553330.342	1769.92	1772.44	C	PM	inf	+1	1	New ideas found .
+ES2006d.C.dialog-act.s9553330.343	1772.44	1774.49	C	PM	und	+1	1	Not quite sure what about .
+ES2006d.D.dialog-act.s9553330.217	1772.6	1774.62	D	UI	inf	+1	1	Well it's it's it's pretty new ,
+ES2006d.B.dialog-act.s9553330.299	1800.85	1802.53	B	ME	inf	+1	1	I think we'd like to think the ideas were new ,
+12	ES2006d.elana.s.9	They were satisfied with the leadership but felt rushed for time.
+ES2006d.D.dialog-act.s9553330.212	1726.84	1730.38	D	UI	ass	+1	1	I was I was satisfied with with the leadership , yeah .
+ES2006d.D.dialog-act.s9553330.206	1687.78	1692.493	D	UI	inf	+1	1	Yeah , and and and this time also the time limits but actually preparing the {vocalsound} {disfmarker}
+ES2006d.B.dialog-act.s9553330.279	1708.96	1712.68	B	ME	inf	+1	1	I mean especially with that last-minute alteration .
+ES2006d.B.dialog-act.s9553330.278	1707.03	1708.96	B	ME	inf	+1	1	I mean that was fairly tight anyway ,
+ES2006d.D.dialog-act.s9553330.208	1702.79	1707.74	D	UI	inf	+1	1	But yeah , but I mean already just just preparing the slides before before the meeting , yeah .
+ES2006d.B.dialog-act.s9553330.285	1730.0	1733.15	B	ME	ass	+1	1	You weren't like a a dictating leader , so that was always good .
+ES2006d.D.dialog-act.s9553330.214	1741.8	1746.08	D	UI	ass	+1	1	And then the teamwork I think I think it worked quite quite nicely , yeah .
+ES2006d.C.dialog-act.s9553330.340	1746.02	1752.34	C	PM	el.inf	+1	1	Did anyone feel that they were getting sort of covered up and not being able to say their bit ?
+ES2006d.A.dialog-act.s9553330.217	1753.01	1755.89	A	ID	inf	+1	1	Mm . I guess it was a fairly small group ,
+ES2006d.A.dialog-act.s9553330.218	1755.89	1758.36	A	ID	inf	+1	1	so all of us got to express our opinions , yeah .
+ES2006d.D.dialog-act.s9553330.229	1861.35	1864.26	D	UI	inf	+1	1	And my main difficulty was the the time pressure .
+ES2006d.B.dialog-act.s9553330.307	1865.77	1867.95	B	ME	ass	+1	1	sometimes it's like a little bit rushed .
+13	ES2006d.elana.s.10	They finish the meeting 5 minutes early and the project manager tells them what is left to complete.
+ES2006d.C.dialog-act.s9553330.360	1827.03	1829.37	C	PM	inf	+1	1	costs are within budget ,
+ES2006d.C.dialog-act.s9553330.363	1832.76	1835.91	C	PM	inf	+1	1	One Euro left over for bits that we didn't foresee .
+ES2006d.C.dialog-act.s9553330.364	1837.54	1841.65	C	PM	inf	+1	1	Um we've evaluated the project .
+ES2006d.C.dialog-act.s9553330.366	1842.78	1845.52	C	PM	el.sug	+1	1	Can you put that in the project documents file ?
+ES2006d.C.dialog-act.s9553330.368	1847.66	1852.77	C	PM	inf	+1	1	And the process wheel didn't really have any major problems with .
+ES2006d.B.dialog-act.s9553330.311	1889.64	1891.27	B	ME	inf	+1	1	we've got like five minutes left .
+ES2006d.C.dialog-act.s9553330.376	1892.28	1895.53	C	PM	inf	+1	1	but if we've finished , then we've finished .
+ES2006d.D.dialog-act.s9553330.235	1908.33	1909.96	D	UI	be.pos	+1	1	Yeah , it was a pleasure working with you .
+ES2006d.C.dialog-act.s9553330.379	1903.61	1907.0	C	PM	inf	+1	1	So I would say that's the end of that meeting .
+ES2006d.C.dialog-act.s9553330.384	1934.7	1940.97	C	PM	inf	+1	2	Right , so we have to complete the final questionnaire and meeting summary when they send it .
+ES2006d.A.dialog-act.s9553330.237	1939.43	1940.97	A	ID	el.inf	+1	2	Was there a questionnaire already sent ?
+ES2006d.B.dialog-act.s9553330.324	1944.72	1947.33	B	ME	el.inf	+1	1	Do we have to go back into the other room or can we stay in here now ?
+ES2006d.C.dialog-act.s9553330.387	1947.56	1949.65	C	PM	inf	+1	1	I don't see why you can't stay here , really .

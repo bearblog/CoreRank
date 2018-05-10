@@ -1,0 +1,135 @@
+6	Bed016.s.1	The tourist dialogue system group of ICSI met with the sole purpose of discussing one member's thesis proposal , and upcoming presentation.
+Bed016.D.dialogueact99	190.26	194.48	D	Grad	qy^bu^d^rt	-1	0	Are we to r Just to make sure I know what 's going on , we 're talking about Robert 's thesis proposal today ?
+Bed016.C.dialogueact101	195.561	196.181	C	Grad	s	-1	0	We could .
+Bed016.C.dialogueact1109	2395.26	2404.89	C	Grad	s.%--	+1	2	But I think the argument should be {disfmarker} uh , can be made that , you know , despite the fact that this is not the most met metaphorical domain ,
+Bed016.C.dialogueact1110	2404.94	2410.62	C	Grad	s.%--	-1	0	because people interacting with HTI systems try to be straightforward and less lyrical ,
+Bed016.C.dialogueact1112	2411.29	2418.44	C	Grad	s	-1	0	construal still is , uh , you know , completely , um , key in terms of finding out any of these things ,
+Bed016.E.dialogueact1115	2420.13	2421.91	E	Professor	s	-1	0	So that 's {disfmarker} that 's {disfmarker} that 's a {disfmarker} that 's a reasonable point ,
+29	Bed016.s.2	Mn015 ran the group through the basic contents of his talk and proposal , and is looking for some feedback.
+Bed016.E.dialogueact106	199.2	202.29	E	Professor	s	+1	0	Well , you {disfmarker} you had s you said there were two things that you might wanna do .
+Bed016.E.dialogueact108	202.29	205.57	E	Professor	s.%--	+1	0	One was rehearse your i i talk {disfmarker}
+Bed016.C.dialogueact110	205.07	206.68	C	Grad	s	+1	0	Not {disfmarker} not rehearse ,
+Bed016.C.dialogueact111	206.68	209.6	C	Grad	s^df	-1	0	I mean , I have just not spent any time on it ,
+Bed016.C.dialogueact112	209.6	213.85	C	Grad	s^cs	+1	0	so I can show you what I 've got , get your input on it , and maybe some suggestions ,
+Bed016.C.dialogueact113	213.85	214.53	C	Grad	s^ba^rt	-1	0	that would be great .
+Bed016.C.dialogueact114	215.158	217.828	C	Grad	s	+1	0	And the same is true for the proposal .
+Bed016.C.dialogueact115	219.178	226.058	C	Grad	s^rt	-1	0	I will have time to do some revision and some additional stuff on various airplanes and trains .
+Bed016.C.dialogueact117	229.65	233.07	C	Grad	s^no	-1	0	I don't know how much of a chance you had to actually read it
+Bed016.C.dialogueact126	244.806	249.95	C	Grad	s	+1	2	It basically says , well " this is construal " ,
+Bed016.C.dialogueact127	249.95	260.42	C	Grad	s.%--	+1	2	and then it continues to say that one could potentially build a probabilistic relational model that has some general , domain - general rules
+Bed016.C.dialogueact128	261.4	262.92	C	Grad	s^rt	+1	0	how things are construed ,
+Bed016.C.dialogueact129	262.92	280.23	C	Grad	s	+1	2	and then the idea is to use ontology , situation , user , and discourse model to instantiate elements in the classes of the probabilistic relational model {pause} to do some inferences in terms of what is being construed as what
+Bed016.C.dialogueact131	281.681	284.391	C	Grad	s	+1	1	in our beloved tourism domain .
+Bed016.C.dialogueact213	413.73	424.24	C	Grad	s^rt	+1	2	Then I 'm also going to present a little talk at EML , about what we have done here
+Bed016.C.dialogueact215	429.18	431.6	C	Grad	s	-1	0	of course , I 'm {disfmarker} I 'm gonna start out with this slide ,
+Bed016.C.dialogueact216	432.42	435.2	C	Grad	s	-1	0	so the most relevant aspects of our stay here ,
+Bed016.C.dialogueact218	438.519	444.69	C	Grad	s	-1	0	then I 'm asking them to imagine that they 're standing somewhere in Heidelberg
+Bed016.C.dialogueact219	444.69	451.144	C	Grad	s:s	-1	0	and someone asks them in the morning {disfmarker} The Cave Forty - Five is a {disfmarker} is a well - known discotheque
+Bed016.C.dialogueact223	457.57	463.26	C	Grad	s^rt	-1	0	they 're supposed to imagine that , you know , do they think the person wants to go there , or just know where it is ?
+Bed016.C.dialogueact229	477.243	480.293	C	Grad	s	+1	0	So basically we can make a point that here is ontological knowledge
+Bed016.C.dialogueact233	496.52	498.49	C	Grad	qh^rt	+1	0	Then what have we done so far ?
+Bed016.C.dialogueact292	660.698	664.308	C	Grad	s	+1	0	Um , I will talk about our problems with the rephrasing ,
+Bed016.C.dialogueact293	664.308	665.458	C	Grad	s	-1	0	and how we solved it ,
+Bed016.C.dialogueact296	672.71	674.38	C	Grad	s	-1	0	I 'm not gonna put in the figures from Liz ,
+Bed016.C.dialogueact297	674.38	681.391	C	Grad	s	-1	0	but I thought it would interesting to , uh , um , point out that it 's basically the same .
+Bed016.C.dialogueact298	682.39	696.748	C	Grad	s	-1	0	Um , as in every human - human telephone conversation , and the human - computer telephone conversation is of course quite d quite different from , uh , some first , uh , observations .
+Bed016.C.dialogueact315	764.44	768.81	C	Grad	s	-1	0	and then I stole an X - schema from one of your talks I think .
+Bed016.A.dialogueact317	769.91	771.13	A	Grad	s:qw^rt	-1	0	I was like , " where 'd you get that ? "
+16	Bed016.s.3	The group suggested subjects he might add to his talk , but some he was uncomfortable talking about.
+Bed016.C.dialogueact334	806.44	808.88	C	Grad	qo^rt	-1	0	Anything I forgot that we should mention ?
+Bed016.C.dialogueact335	812.057	813.857	C	Grad	s	+1	1	Oh , maybe the FMRI stuff .
+Bed016.C.dialogueact336	813.857	821.677	C	Grad	qy	-1	0	Should I mention the fact that , um , we 're also actually started {disfmarker} going to start to look at people 's brains in a more direct way ?
+Bed016.A.dialogueact339	823.95	827.6	A	Grad	s^cs	-1	0	You might just wanna like , tack that on , as a comment , to something .
+Bed016.E.dialogueact343	830.54	835.06	E	Professor	s	+1	1	Well , the time to mention it , if you mention it , is when you talk about mirror neurons ,
+Bed016.E.dialogueact344	835.898	842.628	E	Professor	s	-1	0	then you should talk about the more recent stuff , about the kicking
+Bed016.E.dialogueact348	843.738	852.753	E	Professor	s	-1	0	and {disfmarker} that the plan is to see to what extent the {disfmarker} you 'll get the same phenomena with stories about this ,
+Bed016.E.dialogueact356	863.43	870.404	E	Professor	s	+1	0	Depends . I mean , there is a , um , whole language learning story ,
+Bed016.E.dialogueact361	874.97	879.39	E	Professor	s	-1	0	even on your five - layer slide , you {disfmarker} you 've got an old one that {disfmarker} that leaves that off .
+Bed016.C.dialogueact366	886.15	889.2	C	Grad	s	-1	0	And , of course , you know , the {disfmarker} the big picture is this bit .
+Bed016.C.dialogueact369	893.01	898.22	C	Grad	s	+1	0	But I don't think I {disfmarker} I am capable of {disfmarker} of do pulling this off and doing justice to the matter .
+Bed016.C.dialogueact419	993.86	999.89	C	Grad	s^am	+1	0	I mean I might even mention that this work you 're doing is sort of also with the MPI in Leipzig ,
+Bed016.A.dialogueact421	1000.82	1002.49	A	Grad	s	-1	0	It 's {disfmarker} it 's certainly related ,
+Bed016.E.dialogueact480	1091.65	1096.59	E	Professor	s	-1	0	a lot of the {disfmarker} this is interacting with , uh , people in Italy
+Bed016.E.dialogueact481	1096.59	1098.41	E	Professor	s	-1	0	but also definitely the people in Leipzig
+Bed016.E.dialogueact484	1105.76	1110.71	E	Professor	s	+1	1	the b the combination of the biology and the Leipzig connection might be interesting to these guys ,
+21	Bed016.s.4	There was one particular aspect , metaphor representation , that was considered important for addition.
+Bed016.E.dialogueact513	1161.54	1165.21	E	Professor	s	+1	1	i i it looks like the , uh , metaphor didn't get in yet .
+Bed016.C.dialogueact515	1167.28	1169.63	C	Grad	s.%-	-1	0	there is a reference to Srini {disfmarker}
+Bed016.E.dialogueact516	1169.28	1170.62	E	Professor	s^bd	-1	0	Well , s reference is one thing ,
+Bed016.E.dialogueact525	1189.51	1191.15	E	Professor	s^ba|s	-1	0	Good . I see where you have it .
+Bed016.E.dialogueact528	1199.54	1212.76	E	Professor	s^cs.%--	-1	0	But , what I meant is , I think even before you give this , to Wahlster , uh , you should ,
+Bed016.E.dialogueact531	1219.41	1231.35	E	Professor	s	-1	0	about {disfmarker} we talked about is the , um , scalability that you get by , um , combining the constructions with the general construal mechanism .
+Bed016.C.dialogueact537	1235.54	1238.89	C	Grad	h|s	-1	0	Um , but I {disfmarker} I did not focus on that aspect
+Bed016.C.dialogueact539	1244.86	1250.51	C	Grad	s	-1	0	um , it 's just underneath , uh , um , that reference to metaphor .
+Bed016.E.dialogueact553	1274.82	1275.97	E	Professor	s^aa|s^e	+1	0	yeah , it doesn't give the punch line .
+Bed016.E.dialogueact555	1277.56	1280.68	E	Professor	s^df	-1	0	Cuz let me tell the gang what I think the punch line is ,
+Bed016.E.dialogueact556	1281.01	1283.04	E	Professor	s	-1	0	because it 's actually important ,
+Bed016.E.dialogueact557	1283.72	1298.86	E	Professor	s^ba	+1	0	which is , that , the constructions , that , uh , Nancy and Keith and friends are doing , uh , are , in a way , quite general
+Bed016.E.dialogueact558	1302.54	1307.48	E	Professor	s	+1	2	but cover only base cases .
+Bed016.E.dialogueact560	1320.15	1330.11	E	Professor	s	+1	0	And the punch line is , he claimed , that if you do this right , you can get essentially orthogonality ,
+Bed016.E.dialogueact561	1330.11	1339.08	E	Professor	s	+1	0	that if you introduce a new construction at {disfmarker} at the base level , it should com uh , interact with all the metonymies and metaphors
+Bed016.E.dialogueact562	1339.08	1342.41	E	Professor	s	+1	0	so that all of the projections of it also should work .
+Bed016.D.dialogueact583	1430.03	1433.27	D	Grad	s^bu	-1	0	So with construal you don't have to have a construction for every possible thing that can fill the rule .
+Bed016.E.dialogueact584	1433.49	1433.71	E	Professor	s^aa	-1	0	Right .
+Bed016.E.dialogueact585	1438.81	1442.07	E	Professor	s	-1	0	So 's it 's {disfmarker} it {disfmarker} it 's a very big deal , i i in this framework ,
+Bed016.E.dialogueact586	1442.16	1445.52	E	Professor	s.%--	-1	0	and the thesis proposal as it stands doesn't ,
+Bed016.E.dialogueact587	1447.75	1451.33	E	Professor	fh|s	-1	0	um , I don't think , say that as clearly as it could .
+58	Bed016.s.5	Mn015 wanted a good example that highlighted the group's work , and the group discussed various possibilities.
+Bed016.E.dialogueact688	1671.36	1672.93	E	Professor	qo	+1	0	anything else you want to ask us about
+Bed016.C.dialogueact693	1681.94	1691.07	C	Grad	s	+1	0	the {disfmarker} i what would have been really nice is to find an example for all of this , uh , from our domain .
+Bed016.C.dialogueact694	1691.76	1696.44	C	Grad	s^cs	-1	0	So maybe if we w if we can make one up {pause} now , that would be c incredibly helpful .
+Bed016.A.dialogueact695	1696.07	1698.34	A	Grad	s^bu.%-	-1	0	So , w where it should illustrate
+Bed016.C.dialogueact701	1706.22	1709.25	C	Grad	s	+1	2	w Well we have , for example , a canonical use of something
+Bed016.C.dialogueact702	1709.25	1711.91	C	Grad	s	+1	2	and y it 's , you know , we have some constructions
+Bed016.C.dialogueact703	1711.91	1713.6	C	Grad	s	+1	2	and then it 's construed as something ,
+Bed016.C.dialogueact704	1713.6	1721.43	C	Grad	s	+1	2	and then we {disfmarker} we may get the same constructions with a metaphorical use that 's also relevant to the {disfmarker} to the domain .
+Bed016.E.dialogueact705	1721.89	1725.14	E	Professor	s:s	-1	0	OK , f let 's {disfmarker} let 's suppose you use " in " and " on " .
+Bed016.E.dialogueact706	1726.61	1727.85	E	Professor	s	-1	0	I mean , that 's what you started with .
+Bed016.E.dialogueact709	1730.12	1732.45	E	Professor	s^ba	-1	0	um , that 's actually a little tricky in English
+Bed016.E.dialogueact710	1732.55	1734.95	E	Professor	s	-1	0	because to some extent they 're synonyms .
+Bed016.E.dialogueact741	1786.27	1788.32	E	Professor	s	-1	0	I mean you could do something much simpler
+Bed016.E.dialogueact743	1789.02	1790.33	E	Professor	s^cs^e	-1	0	like " under the bus , " or something ,
+Bed016.C.dialogueact745	1791.15	1795.1	C	Grad	s^ng	-1	0	But it 's {disfmarker} it 's {disfmarker} unfortunately , this is not really something a tourist would ever say .
+Bed016.C.dialogueact754	1802.31	1806.16	C	Grad	s	+1	2	We had {disfmarker} we had {disfmarker} initially we 'd {disfmarker} started discussing the " out of film . "
+Bed016.C.dialogueact756	1807.04	1808.76	C	Grad	s	-1	0	And there 's a lot of " out of " analysis ,
+Bed016.C.dialogueact759	1813.21	1814.2	C	Grad	qy^rt	-1	0	could we capture that
+Bed016.C.dialogueact760	1814.81	1816.05	C	Grad	s^e.%--	-1	0	with a different construal of {disfmarker}
+Bed016.A.dialogueact762	1819.09	1822.4	A	Grad	s	+1	0	uh {disfmarker} we 've thought about it before , uh t uh {disfmarker} to use the examples in other papers ,
+Bed016.A.dialogueact763	1822.4	1824.83	A	Grad	s^ba^ng	+1	0	and it 's {disfmarker} it 's a little complicated .
+Bed016.A.dialogueact765	1825.29	1828.09	A	Grad	s^df	-1	0	Cuz you 're like , it 's a state of {disfmarker} there 's resource ,
+Bed016.A.dialogueact769	1830.97	1839.83	A	Grad	s	-1	0	the state {disfmarker} you know . You 're out of the state of having film , right ? and somehow film is standing for the re the resour the state of having some resource is just labeled as that resource .
+Bed016.F.dialogueact788	1863.21	1870.12	F	Grad	s^df	-1	0	I mean I {disfmarker} I find it sort of a little bit farfetched to say that {disfmarker} that " I 'm out of film " means that I have left the state of having film or something like that ,
+Bed016.A.dialogueact846	1932.2	1936.67	A	Grad	s	-1	0	And undoubtably there 's been reams of work about it in cognitive linguistics ,
+Bed016.E.dialogueact847	1935.4	1937.71	E	Professor	fg|s	-1	0	OK . But anyway . We 're not gonna do that between now and next week .
+Bed016.C.dialogueact873	1969.16	1973.22	C	Grad	s	-1	0	That 's {disfmarker} that 's computa should be very computational ,
+Bed016.A.dialogueact878	1973.28	1977.17	A	Grad	s	+1	0	So I would try to {disfmarker} I would stay away from one that involves weird construal stuff .
+Bed016.C.dialogueact883	1978.89	1981.26	C	Grad	s^cs	+1	0	I mean the {disfmarker} the old bakery example might be nice ,
+Bed016.C.dialogueact885	1981.26	1982.7	C	Grad	qy	+1	0	" Is there a bakery around here " .
+Bed016.C.dialogueact887	1982.84	1985.03	C	Grad	s^cs.%-	-1	0	So if you c we really just construe it as a {disfmarker}
+Bed016.E.dialogueact900	1999.93	2004.38	E	Professor	s^ar|s.%--	-1	0	No , no . The question is d do you wanna {disfmarker} do you wanna construe {disfmarker} do you wanna constr - strue
+Bed016.E.dialogueact904	2005.18	2011.8	E	Professor	s^aa|s.%-	-1	0	Exactly . It 's because do you wanna c do you want to view the bakery as a p a place that {disfmarker} that {disfmarker} i for example , if {disfmarker} y
+Bed016.E.dialogueact915	2026.7	2031.31	E	Professor	s	+1	0	and {disfmarker} there 're all sorts of reasons why you might be asking about the existence of a bakery
+Bed016.E.dialogueact921	2040.21	2044.92	E	Professor	s	+1	0	but it 's not clear that they 're mainly construal examples .
+Bed016.A.dialogueact923	2044.62	2046.64	A	Grad	s.%-	-1	0	So it 's a lot of pragmatics , there , that
+Bed016.E.dialogueact925	2046.18	2047.39	E	Professor	s^na	-1	0	There 's all sorts of stuff going on .
+Bed016.A.dialogueact927	2048.07	2049.26	A	Grad	s	-1	0	might be beyond what you want to do .
+Bed016.E.dialogueact930	2054.91	2059.9	E	Professor	s^ba	+1	0	So the metonymy thing is probably the easiest
+Bed016.C.dialogueact946	2079.38	2080.27	C	Grad	qw	+1	1	Where is the castle ?
+Bed016.C.dialogueact949	2080.52	2081.11	C	Grad	qw	+1	0	How old is it ?
+Bed016.C.dialogueact950	2081.11	2082.23	C	Grad	qw	+1	0	How much does it cost ?
+Bed016.F.dialogueact959	2097.14	2098.43	F	Grad	fg|s^ba	-1	0	Yeah , I think that 's a good example , actually .
+Bed016.C.dialogueact974	2118.69	2122.9	C	Grad	s^ng	+1	0	Well , I mean , my argument here is {disfmarker} it 's {disfmarker} it 's {disfmarker} it 's the same thing as " Plato 's on the top shelf , "
+Bed016.C.dialogueact978	2123.43	2130.82	C	Grad	s	-1	0	you know , th that you can refer to a book of Plato by using " Plato , "
+Bed016.C.dialogueact982	2133.37	2137.32	C	Grad	s	-1	0	and so you can {disfmarker} Castles have {disfmarker} as tourist sites , have admission fees ,
+Bed016.E.dialogueact994	2163.85	2170.46	E	Professor	fg|s.%--	+1	1	OK . Can we think of a nice metaphorical use of " where " in the tourist 's domain ?
+Bed016.E.dialogueact998	2187.42	2190.46	E	Professor	s^cs:s	-1	0	you {disfmarker} you can sometimes use " where " f for " when "
+Bed016.E.dialogueact1016	2216.18	2218.29	E	Professor	s	-1	0	But anyway th so there are {disfmarker} there are cases like that .
+Bed016.F.dialogueact1028	2244.22	2246.98	F	Grad	s	-1	0	doesn't nece I don't necessarily have to care about the spatial location ,
+Bed016.E.dialogueact1032	2253.27	2255.51	E	Professor	s:qw	+1	0	You know , " Where could I learn its opening hours , " or something .
+Bed016.E.dialogueact1034	2260.17	2265.23	E	Professor	s	+1	0	But that 's not metaphorical .
+Bed016.E.dialogueact1044	2289.56	2294.7	E	Professor	s	-1	0	It i But it 's a state {disfmarker} and the {disfmarker} the issue is , is that {disfmarker} it may be just a usage ,
+Bed016.E.dialogueact1046	2295.76	2297.46	E	Professor	s	-1	0	you know , that it 's not particularly metaphorical ,
+Bed016.E.dialogueact1056	2308.79	2311.2	E	Professor	s^cs^rt	-1	0	I {disfmarker} I {disfmarker} I {disfmarker} you know , " I 'm in {disfmarker} I 'm in a state of exhaustion " ?
+Bed016.E.dialogueact1057	2312.99	2313.69	E	Professor	s	-1	0	or something like that ,
+Bed016.E.dialogueact1070	2325.04	2327.64	E	Professor	s.%--	-1	0	Of course that 's {disfmarker} that {disfmarker} that 's definitely a , uh {disfmarker}
+Bed016.A.dialogueact1072	2328.14	2329.29	A	Grad	s^m^na|s^aa	+1	1	A fixed expression , yeah .

@@ -1,0 +1,78 @@
+9	ES2010b.JacquelinePalmer.s.1	The User Interface Designer presented the basic functions of the device and discussed the designs of two existing products , showing an example of the simple design that the group wants to implement.
+ES2010b.C.dialog-act.dharshi.15	230.22	238.98	C	UI	inf	+1	1	the function {vocalsound} of a remote control , as what uh we've been informed , is basically to send messages to the television set ,
+ES2010b.C.dialog-act.dharshi.16	238.98	244.57	C	UI	inf	+1	1	for example , switch it on , switch it off , go to this channel , go to channel nine , turn the volume up , etcetera .
+ES2010b.C.dialog-act.dharshi.25	285.18	292.75	C	UI	inf	+1	1	whether that means like um we can go and decide the brightness of the screen , things like that , all the more complicated functions of menus .
+ES2010b.C.dialog-act.dharshi.26	294.88	301.82	C	UI	sug	+1	1	And we can decide if that's what we want , {gap} , um if we want to include that on the remote , if that's something that would stay on the T_V_ itself , for example .
+ES2010b.C.dialog-act.dharshi.27	303.4	305.17	C	UI	inf	+1	1	These are two examples .
+ES2010b.C.dialog-act.dharshi.28	305.17	309.19	C	UI	inf	+1	1	Um and you can see on the left , it's got a lot more buttons ,
+ES2010b.C.dialog-act.dharshi.31	323.82	325.65	C	UI	inf	+1	1	And then on the right , it's a lot more simpler ,
+ES2010b.C.dialog-act.dharshi.37	349.46	352.95	C	UI	inf	+1	1	And then lastly , it's just the questions that we want to consider
+ES2010b.C.dialog-act.dharshi.38	352.95	358.45	C	UI	inf	+1	1	like what functions do we want it to include , and how simple , complex it should be ?
+16	ES2010b.JacquelinePalmer.s.2	The Marketing Expert presented feedback from users , showing that users want a simple but fancy-looking remote control and that young users want speech recognition.
+ES2010b.A.dialog-act.dharshi.59	411.2	414.03	A	PM	inf	+1	1	Now we have Courtney with the functional requirements .
+ES2010b.D.dialog-act.dharshi.6	414.75	418.55	D	ME	inf	+1	1	okay so we tested a hundred subjects in our lab ,
+ES2010b.D.dialog-act.dharshi.7	418.55	423.73	D	ME	inf	+1	1	and we just we watched them and we also made them fill out a questionnaire ,
+ES2010b.D.dialog-act.dharshi.9	429.23	431.39	D	ME	inf	+1	1	Seventy five percent think they're ugly .
+ES2010b.D.dialog-act.dharshi.10	431.39	439.16	D	ME	inf	+1	1	Eighty percent want {disfmarker} they've {disfmarker} are willing to spend more , which is good news for us um if we make it look fancier ,
+ES2010b.D.dialog-act.dharshi.15	452.01	457.488	D	ME	sug	+1	1	And we need we need it to be simple , yet it needs to be high-tech looking . So {disfmarker}
+ES2010b.A.dialog-act.dharshi.62	471.67	479.29	A	PM	el.inf	+1	1	What do you mean by um the current remote controls do not match well with the operating behaviour of the user , like they have to press the buttons .
+ES2010b.D.dialog-act.dharshi.23	478.2	481.52	D	ME	inf	+1	1	I I think it's like the engineering versus user ,
+ES2010b.D.dialog-act.dharshi.29	502.94	506.89	D	ME	inf	+1	1	{vocalsound} And so people say that they typically lose it ,
+ES2010b.D.dialog-act.dharshi.39	530.37	533.15	D	ME	inf	+1	1	and R_S_I_ , I'm not very sure what that is .
+ES2010b.B.dialog-act.dharshi.6	545.0	548.78	B	ID	el.inf	+1	1	Do we really need t to provide more information on what R_S_I_ is ?
+ES2010b.D.dialog-act.dharshi.44	549.01	550.64	D	ME	inf	+1	1	Uh yeah , that's what my web site said ,
+ES2010b.D.dialog-act.dharshi.56	591.88	595.05	D	ME	sug	+1	1	I think that we should go with something that's more user-friendly .
+ES2010b.D.dialog-act.dharshi.63	632.5	638.32	D	ME	inf	+1	1	And also we found {disfmarker} our team found that speech recognition is {disfmarker} it's like an up-and-coming thing
+ES2010b.A.dialog-act.dharshi.86	666.64	675.973	A	PM	el.inf	+1	1	{vocalsound} Didn't they {disfmarker} um didn't our rival companies manufacture a remote that you would press the button on the T_V_ and it would {disfmarker} the remote would beep so if you have lost it {disfmarker}
+ES2010b.A.dialog-act.dharshi.88	679.56	681.37	A	PM	sug	+1	1	We could definitely include that if we wanted to .
+1	ES2010b.JacquelinePalmer.s.3	She discussed including only the most basic functions in the interface.
+ES2010b.D.dialog-act.dharshi.25	486.35	493.37	D	ME	inf	+1	1	and users don't really need all of the buttons that are contained on there , because they only use ten percent of the buttons really .
+5	ES2010b.JacquelinePalmer.s.4	The Industrial Designer presented her internal design of the device and discussed the processor chip and the energy sources that will be integrated.
+ES2010b.B.dialog-act.dharshi.10	706.11	714.92	B	ID	inf	+1	1	'Kay . Uh I didn't get a chance to complete this one , 'cause some of the tools that I was given were frustrating .
+ES2010b.B.dialog-act.dharshi.14	729.82	733.92	B	ID	inf	+1	1	Um extra functions will probably need an additional chip .
+ES2010b.B.dialog-act.dharshi.20	770.32	773.01	B	ID	sug	+1	1	Um power source , I figured , batteries ,
+ES2010b.B.dialog-act.dharshi.21	776.06	781.31	B	ID	inf	+1	1	Typically a remote has either two double A_s or four triple A_s , sometimes three .
+ES2010b.B.dialog-act.dharshi.26	793.18	797.13	B	ID	sug	+1	1	so a large on-off button would probably be good .
+3	ES2010b.JacquelinePalmer.s.5	She suggested integrating an extra lightbulb that lit up when the remote was communicating with the television.
+ES2010b.B.dialog-act.dharshi.40	835.52	840.71	B	ID	sug	+1	1	Um extra bulb could just be for flashiness ,
+ES2010b.C.dialog-act.dharshi.82	867.96	873.67	C	UI	ass	+1	2	but the other bulb , I think , is good to just to indicate , I'm doing something , it's sort of like a reassurance .
+ES2010b.D.dialog-act.dharshi.75	872.84	874.49	D	ME	ass	+1	2	Like that we know the battery's working .
+6	ES2010b.JacquelinePalmer.s.6	The Project Manager gave the group new requirements for the product design.
+ES2010b.A.dialog-act.dharshi.135	962.68	963.99	A	PM	inf	+1	1	New product requirements .
+ES2010b.A.dialog-act.dharshi.136	963.99	967.11	A	PM	inf	+1	1	First it's only going to be a T_V_ remote .
+ES2010b.A.dialog-act.dharshi.142	981.03	985.95	A	PM	inf	+1	1	so we need to somehow include our colour and our company slogan on the remote .
+ES2010b.A.dialog-act.dharshi.159	1030.48	1032.81	A	PM	inf	+1	1	But it's becoming out-dated now , because of the Internet .
+ES2010b.A.dialog-act.dharshi.162	1032.81	1036.55	A	PM	inf	+1	1	Nobody needs to go to the teletext channel to check the news ,
+ES2010b.A.dialog-act.dharshi.138	970.43	972.93	A	PM	inf	+1	2	So no D_V_D_ , no TiVo , no stereo .
+4	ES2010b.JacquelinePalmer.s.7	The group discussed marketing the product to a wide range of customers.
+ES2010b.A.dialog-act.dharshi.181	1091.47	1094.15	A	PM	el.ass	+1	2	Would it just be universal for everyone , you think ?
+ES2010b.A.dialog-act.dharshi.182	1094.15	1100.576	A	PM	ass	+1	2	Because I think even if something has large buttons , as long as they are not childishly large , like even technically {disfmarker}
+ES2010b.A.dialog-act.dharshi.183	1102.32	1104.97	A	PM	ass	+1	2	non-technically challenged people are gonna use it .
+ES2010b.A.dialog-act.dharshi.194	1141.74	1146.91	A	PM	sug	+1	1	so we're going to go anywhere from kids to adult in the age range {disfmarker}
+8	ES2010b.JacquelinePalmer.s.8	They had a discussion about possibly including a locator function and speech recognition.
+ES2010b.D.dialog-act.dharshi.104	1255.7	1257.66	D	ME	sug	+1	2	we we need a like homing device .
+ES2010b.B.dialog-act.dharshi.70	1274.37	1278.25	B	ID	inf	+1	1	And on the charger , just like a phone , like you get a portable phone and it's got a charger ,
+ES2010b.B.dialog-act.dharshi.71	1278.25	1284.99	B	ID	inf	+1	1	and if you d leave your phone somewhere , you push the button to find it , and it finds th the phone beeps for you .
+ES2010b.C.dialog-act.dharshi.117	1295.92	1300.01	C	UI	inf	+1	1	Well , if you have the base , you could start putting in a charger and then you have a different kind of battery .
+ES2010b.B.dialog-act.dharshi.74	1303.44	1306.1	B	ID	inf	+1	1	Rechargeable batteries are cheaper usually .
+ES2010b.C.dialog-act.dharshi.121	1332.38	1341.28	C	UI	ass	+1	1	If we have the speech recognition then we can start aiming at a like another kind of more handicapped disabled uh demo demographic .
+ES2010b.D.dialog-act.dharshi.118	1365.28	1367.91	D	ME	inf	+1	1	It's really the people twenty five to thirty five .
+ES2010b.A.dialog-act.dharshi.242	1398.2	1402.89	A	PM	inf	+1	2	{gap} and the speech recognition could be part of the lost and found device , too .
+13	ES2010b.JacquelinePalmer.s.9	They discussed integrating the company's yellow color and logo into the design , and decreasing the number of buttons in the main interface.
+ES2010b.A.dialog-act.dharshi.264	1498.42	1503.97	A	PM	inf	+1	2	And don't forget we need to include the colour of our company and the logo .
+ES2010b.A.dialog-act.dharshi.267	1511.6	1513.84	A	PM	sug	+1	1	We could just have the logo in yellow ,
+ES2010b.A.dialog-act.dharshi.268	1513.84	1515.96	A	PM	sug	+1	1	or maybe a yellow light for the keys .
+ES2010b.C.dialog-act.dharshi.140	1525.37	1532.01	C	UI	sug	+1	1	If you have this sort of strip kind of down at the bottom {gap} the base of it , just like yellow with the R_R_ .
+ES2010b.C.dialog-act.dharshi.128	1431.0	1435.4	C	UI	el.ass	+1	1	Well , do we wanna include the numbers like zero through nine ?
+ES2010b.D.dialog-act.dharshi.129	1443.57	1444.8	D	ME	ass	+1	1	Well , we definitely need those .
+ES2010b.A.dialog-act.dharshi.270	1537.25	1541.49	A	PM	inf	+1	2	So we've simplified , we don't need all those um play , fast-forward , rewind ,
+ES2010b.A.dialog-act.dharshi.271	1543.01	1544.36	A	PM	inf	+1	2	or no menu buttons .
+ES2010b.A.dialog-act.dharshi.272	1544.36	1551.568	A	PM	inf	+1	2	So we've pretty much pared it down to on-off , volume , mute , channel up and down , um the numbers {disfmarker}
+ES2010b.D.dialog-act.dharshi.139	1574.4	1577.81	D	ME	sug	+1	1	Yeah , audi audio settings and screen settings , we need those
+ES2010b.D.dialog-act.dharshi.141	1582.71	1586.17	D	ME	el.ass	+1	1	or do we just want that accessed accessed from the television itself ?
+ES2010b.A.dialog-act.dharshi.283	1585.76	1588.09	A	PM	ass	+1	1	I think that that's fine just for the T_V_ .
+ES2010b.C.dialog-act.dharshi.154	1634.09	1637.44	C	UI	inf	+1	1	you could just double up with like the channel or the volume buttons .
+3	ES2010b.JacquelinePalmer.s.10	The Project Manager instructed the Industrial Designer to prepare the components concept , the User Interface Designer to prepare the interface concept , and the Marketing Expert to prepare a trendwatching report.
+ES2010b.A.dialog-act.dharshi.317	1728.76	1732.99	A	PM	inf	+1	2	The I_D_ is going to work on the components concept ,
+ES2010b.A.dialog-act.dharshi.318	1732.99	1736.02	A	PM	inf	+1	2	um U_I_D_ the user interface concept ,
+ES2010b.A.dialog-act.dharshi.319	1736.02	1737.83	A	PM	inf	+1	2	and you're going to do some trend watching .

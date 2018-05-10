@@ -1,0 +1,24 @@
+4	Bmr016.s.9	Participants have been slow in returning the relevant forms necessary for matching digits data with speaker IDs . Forms containing digits that were written out in English were unsuccessful for obtaining desired prosodic groupings.
+Bmr016.D.dialogueact53	105.401	106.801	D	Grad	s	+1	1	and they 're slowly s trickling in .
+Bmr016.D.dialogueact68	141.85	146.33	D	Grad	s	+1	1	and so we tried last week with them written out in English .
+Bmr016.D.dialogueact69	146.608	147.718	D	Grad	s	+1	1	And it just didn't work at all
+Bmr016.D.dialogueact70	147.838	149.628	D	Grad	s^df	+1	1	because no one grouped them together .
+2	Bmr016.s.10	Acoustic adaptation is problematic for speakers who seldom talk during meetings.
+Bmr016.G.dialogueact326	697.279	700.039	G	PhD	s	+1	1	Especially for speakers that don't talk a lot .
+Bmr016.G.dialogueact331	703.509	706.249	G	PhD	s	+1	1	so we have a problem with acoustic adaptation ,
+2	Bmr016.s.11	Speaker overlap causes recognition errors.
+Bmr016.G.dialogueact571	1121.5	1124.64	G	PhD	s	+1	1	it 's the fact that there 's overlap that causes recognition errors .
+Bmr016.G.dialogueact653	1263.51	1267.62	G	PhD	s	+1	1	so with a one - word utterance and ten insertions you know you got huge error rate .
+2	Bmr016.s.12	The lapel microphone is problematic as it picks up overlapping background speech.
+Bmr016.G.dialogueact593	1174.29	1181.55	G	PhD	s	+1	1	I guess the other neat thing is it shows for sure w that the lapel , you know within speaker is bad .
+Bmr016.G.dialogueact595	1181.55	1184.6	G	PhD	s	+1	1	And it 's bad because it picks up the overlapping speech .
+1	Bmr016.s.13	More disk space is needed.
+Bmr016.G.dialogueact929	1655.46	1657.15	G	PhD	s	+1	1	That {disfmarker} that 's why we need more disk space
+1	Bmr016.s.14	Loading long waveforms in X Waves is very time consuming.
+Bmr016.G.dialogueact1002	1769.97	1772.2	G	PhD	s	+1	1	You can't load an hour of speech into X Waves .
+1	Bmr016.s.15	The dictionary must be updated with forms introduced as part of speaker fe008's set of transcription conventions.
+Bmr016.G.dialogueact1820	3016.56	3024.19	G	PhD	s	+1	1	but if there 's things that um , we change later , then we always have to keep our {disfmarker} the dictionary up to date .
+3	Bmr016.s.16	The ongoing tightening of boundaries on time bins causes segment boundaries to change , indicating potential problems for other ongoing processing tasks.
+Bmr016.E.dialogueact2220	3753.23	3763.07	E	Postdoc	s	+1	1	Well , you know the problem {disfmarker} the problem is that some {disfmarker} some of the adjustments that they 're making are to bring {disfmarker} are to combine bins that were {disfmarker} time bins which were previously separate .
+Bmr016.B.dialogueact2267	3858.31	3867.09	B	PhD	s	+1	1	But the {disfmarker} I guess the ef the effect for you guys , because you 're pulling out the little wave forms into separate ones , that would mean these boundaries are constantly changing
+Bmr016.G.dialogueact2279	3879.49	3884.35	G	PhD	s	+1	1	but if you split inside something , you don't where the word {disfmarker} which words moved .

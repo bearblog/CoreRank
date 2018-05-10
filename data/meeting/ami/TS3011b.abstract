@@ -1,0 +1,35 @@
+4	TS3011b.vkaraisk.s.1	There are some new requirements for the project: the device will have to be for TV only , they should ignore the teletext function , as it is dated , and , also , the remote should be recognisable as a Real Reaction product.
+TS3011b.A.dialog-act.vkaraisk.41	145.53	147.06	A	PM	inf	+1	1	the new project requirements ,
+TS3011b.A.dialog-act.vkaraisk.43	150.45	156.25	A	PM	inf	+1	1	but we should not um support teletext in the remote ,
+TS3011b.A.dialog-act.vkaraisk.48	172.42	176.25	A	PM	inf	+1	1	Um the remote control should only be used for television ,
+TS3011b.A.dialog-act.vkaraisk.56	209.152	214.66	A	PM	inf	+1	1	{vocalsound} then for Roo , as well uh important , the corporate image should be recognisable in our product .
+1	TS3011b.vkaraisk.s.2	The target group will be people below 40.
+TS3011b.A.dialog-act.vkaraisk.52	187.05	193.48	A	PM	inf	+1	1	Uh the third requirement is that we should focus on customers that are younger than uh forty ,
+1	TS3011b.vkaraisk.s.3	The UI preferred an easy-to-use remote to a multi-function one.
+TS3011b.B.dialog-act.vkaraisk.48	361.07	367.63	B	UI	ass	+1	1	But my {disfmarker} in {gap} my opinion , the the easy to use R_C_ is uh the best uh possi possibility for us .
+4	TS3011b.vkaraisk.s.4	The function of the remote is relatively simple: by pressing a button a current is passed to the chip , and defines what signal is to be sent to the receiver (the TV) via infrared.
+TS3011b.C.dialog-act.vkaraisk.22	442.51	449.31	C	ID	inf	+1	1	And the m most easy way to do this is by uh sending pulses of infrared light to a T_V_ set .
+TS3011b.C.dialog-act.vkaraisk.34	466.38	468.58	C	ID	inf	+1	1	The user interface connected to a chip ,
+TS3011b.C.dialog-act.vkaraisk.35	468.58	470.55	C	ID	inf	+1	1	which is connected to the sender ,
+TS3011b.C.dialog-act.vkaraisk.36	470.55	474.84	C	ID	inf	+1	1	which generates messages using uh infrared light ,
+3	TS3011b.vkaraisk.s.5	The use of infrared , energy-efficient power source and cheap circuit was suggested.
+TS3011b.C.dialog-act.vkaraisk.69	565.34	567.9	C	ID	sug	+1	1	personally I think we should infra use infrared ,
+TS3011b.C.dialog-act.vkaraisk.72	577.08	583.72	C	ID	sug	+1	1	Uh another important point is uh we really should use uh energy uh sparse , friendly components .
+TS3011b.C.dialog-act.vkaraisk.76	602.769	608.66	C	ID	sug	+1	1	{vocalsound} Um for cost-effectiveness , we should really use a very low-cost uh circuit board ,
+2	TS3011b.vkaraisk.s.6	The remote could light up via LED's placed inside.
+TS3011b.C.dialog-act.vkaraisk.78	613.93	623.37	C	ID	sug	+1	2	And um the money we save on using this we can use uh for elaborate fancy lighting uh techniques , blinking LEDs and all that kind of fancy stuff .
+TS3011b.A.dialog-act.vkaraisk.330	2110.84	2122.9	A	PM	inf	+1	3	It should be an easy interface with not so much buttons . S just a a p a p a volume and a programme one . And um {vocalsound} um yeah , some some fancy lights .
+2	TS3011b.vkaraisk.s.7	Functions like zapping are very prevalent , as well as complaints about remotes being easy to lose.
+TS3011b.D.dialog-act.vkaraisk.31	758.51	764.42	D	ME	inf	+1	1	The buttons to zap are used the {disfmarker} about uh fifteen hundred times ,
+TS3011b.D.dialog-act.vkaraisk.35	774.06	777.86	D	ME	inf	+1	1	And uh lots of people complained they kin can't find their remote control .
+3	TS3011b.vkaraisk.s.8	It also transpires that customers like innovative technology like speech recognition.
+TS3011b.A.dialog-act.vkaraisk.173	1168.08	1172.688	A	PM	el.inf	+1	1	do you think the market would would respond to uh a simple {disfmarker}
+TS3011b.D.dialog-act.vkaraisk.71	1173.34	1181.83	D	ME	inf	+1	1	if we um include other uh innovative functions {disfmarker} {vocalsound} uh then they uh might ,
+TS3011b.D.dialog-act.vkaraisk.72	1181.83	1185.46	D	ME	inf	+1	1	'cause young people uh like new features .
+0	TS3011b.vkaraisk.s.9	The design can focus on such customer needs , like finding a mechanism to locate a lost remote.
+5	TS3011b.vkaraisk.s.10	The functions of the remote will include a back button to switch between two channels , volume , program selection , and speech recognition , with a focus on simplicity of design.
+TS3011b.A.dialog-act.vkaraisk.205	1455.29	1463.44	A	PM	inf	+1	2	but I want um the kind of functions , for example uh th the most important are volume and uh programme selecting .
+TS3011b.A.dialog-act.vkaraisk.213	1490.97	1493.37	A	PM	el.inf	+1	2	Dual channel watch .
+TS3011b.C.dialog-act.vkaraisk.276	1663.31	1671.7	C	ID	inf	+1	3	when you add uh speech recognition to your remote control , uh it's very easy to change uh the channel . That's one thing .
+TS3011b.A.dialog-act.vkaraisk.250	1688.01	1689.54	A	PM	sug	+1	2	but keep the programme and the volume ,
+TS3011b.C.dialog-act.vkaraisk.322	1910.45	1915.15	C	ID	inf	+1	1	we've decided to implement a seemingly uh easy design .

@@ -1,0 +1,33 @@
+0	Bro017.s.1	The Meeting Recorder Group of ICSI at Berkeley met without their most senior member , but attending instead was a visitor from research partner OGI.
+3	Bro017.s.2	He reported on a recent project meeting from his group's perspective.
+Bro017.B.dialogueact23	34.118	39.918	B	Professor	fg|s^rt	+1	1	And {disfmarker} and uh so , I {disfmarker} I think that Carmen and Stephane reported on uh Amsterdam meeting ,
+Bro017.B.dialogueact24	39.998	41.488	B	Professor	s^ba	+1	1	which was kind of interesting
+Bro017.B.dialogueact25	41.488	45.978	B	Professor	s^rt	+1	2	because it was for the first time we realized we are not friends really , but we are competitors .
+4	Bro017.s.3	There was much politics involved , and disagreement between groups.
+Bro017.B.dialogueact25	41.488	45.978	B	Professor	s^rt	+1	2	because it was for the first time we realized we are not friends really , but we are competitors .
+Bro017.E.dialogueact29	50.97	52.49	E	PhD	s	+1	1	It seemed like there were still some issues ,
+Bro017.E.dialogueact32	52.74	53.91	E	PhD	s^rt	+1	1	that they were trying to decide ?
+Bro017.B.dialogueact33	53.882	55.672	B	Professor	s^na	+1	2	There is a plenty of {disfmarker} there 're plenty of issues .
+2	Bro017.s.4	He also brought the ICSI members up to date with his group's latest work.
+Bro017.B.dialogueact175	460.36	471.36	B	Professor	s^rt	+1	2	So what we are doing at OGI now is uh uh uh working basically on our parts which we I think a little bit neglected ,
+Bro017.B.dialogueact228	643.025	650.635	B	Professor	s	+1	2	And then most of the effort is uh now also aimed at this e e TRAP recognition .
+2	Bro017.s.5	The ICSI group reported their most recent progress and detailed their recent findings.
+Bro017.E.dialogueact576	1550.26	1553.16	E	PhD	qw.%--	+1	2	How 's your documentation or whatever
+Bro017.E.dialogueact594	1588.39	1590.32	E	PhD	qw^rt	+1	2	So have you been running some new experiments ?
+11	Bro017.s.6	Having discussed this with the ICSI project leader , the OGI member told of some future investigation they had devised , which would look at the adjusting the importance of some features.
+Bro017.B.dialogueact611	1620.32	1622.86	B	Professor	s.%--	+1	1	So we were just discussing , since you mentioned that , in {disfmarker} it w
+Bro017.B.dialogueact613	1622.86	1634.88	B	Professor	s^rt	+1	1	driving in the car with Morgan this morning , we were discussing a good experiment for b for beginning graduate student who wants to run a lot of {disfmarker} who wants to get a lot of numbers on something
+Bro017.B.dialogueact615	1636.05	1646.2	B	Professor	s^cs	+1	1	which is , like , " imagine that you will {disfmarker} you will start putting every co any coefficient , which you are using in your vector , in some general power .
+Bro017.B.dialogueact618	1648.98	1654.15	B	Professor	s	+1	1	Like sort of you take a s power of two , or take a square root , or something .
+Bro017.B.dialogueact624	1667.25	1669.66	B	Professor	s^df	+1	1	Because uh your uh Gaussian mixture model ,
+Bro017.B.dialogueact633	1682.79	1686.27	B	Professor	s^na	+1	1	So you 're compressing the range of this coefficient , so it 's becoming less efficient .
+Bro017.B.dialogueact638	1689.42	1695.77	B	Professor	s	+1	1	Morgan was @ @ and he was {disfmarker} he was saying well this might be the alternative way how to play with a {disfmarker} with a fudge factor ,
+Bro017.B.dialogueact639	1695.77	1696.06	B	Professor	qy^d^f	+1	1	you know ,
+Bro017.B.dialogueact644	1700.57	1705.02	B	Professor	s.%--	+1	1	And I said " well in that case why don't we just start compressing individual elements , like when {disfmarker} when {disfmarker}
+Bro017.B.dialogueact648	1714.63	1718.94	B	Professor	s	+1	1	because we observed that uh higher parameters were more important than lower for recognition .
+Bro017.B.dialogueact649	1719.16	1724.16	B	Professor	s	+1	1	And basically the {disfmarker} the C - ze C - one contributes mainly slope ,
+0	Bro017.s.7	This led to a great deal of discussion.
+3	Bro017.s.8	There were also further calls for greater communication between the groups.
+Bro017.B.dialogueact1167	2783.15	2799.1	B	Professor	s	+1	1	When we talked about Aurora still I wanted to m make a plea {disfmarker} uh encourage for uh more communication between {disfmarker} between uh {pause} uh different uh parts of the distributed uh {pause} uh center .
+Bro017.B.dialogueact1168	2800.49	2806.03	B	Professor	s	+1	1	Uh even when there is absolutely nothing to {disfmarker} to s to say but the weather is good in Ore - in {disfmarker} in Berkeley .
+Bro017.B.dialogueact1169	2806.32	2811.9	B	Professor	s	+1	1	I 'm sure that it 's being appreciated in Oregon and maybe it will generate similar responses down here ,

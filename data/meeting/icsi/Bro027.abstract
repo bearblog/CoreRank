@@ -1,0 +1,61 @@
+0	Bro027.s.1	ICSI's Meeting Recorder Group at Berkeley meets to discuss , for the most part , progress on the Aurora Project.
+2	Bro027.s.2	The main areas being worked on were the voice activity detector and the tandem data streams.
+Bro027.C.dialogueact417	846.362	850.672	C	PhD	fg|s^rt^tc	+1	2	Um , I 've been playing with , first , the , um , VAD .
+Bro027.C.dialogueact418	851.68	854.91	C	PhD	fh|s	+1	2	Um , {vocalsound} so it 's exactly the same approach ,
+39	Bro027.s.3	The group discussed possible further investigations that arose from these areas , including better linking the two.
+Bro027.C.dialogueact603	1208.81	1214.59	C	PhD	s^cs	+1	1	But well , we could probably put the delta , um , {vocalsound} before on - line normalization .
+Bro027.A.dialogueact605	1215.94	1217.84	A	PhD	qw	+1	1	What if you used a smaller window for the delta ?
+Bro027.A.dialogueact608	1220.95	1222.68	A	PhD	s.%--	+1	1	I mean , I guess there 's a lot of things you could do to {disfmarker}
+Bro027.B.dialogueact615	1224.1	1228.29	B	Professor	s.%--	+1	1	So if you {disfmarker} if you put the delta before the , uh , ana on - line {disfmarker} If {disfmarker}
+Bro027.B.dialogueact618	1228.68	1230.84	B	Professor	s	+1	1	uh {disfmarker} then {disfmarker} then it could go in parallel .
+Bro027.C.dialogueact623	1231.66	1237.22	C	PhD	s^df^na	+1	1	cuz the time constant of the on - line normalization is pretty long compared to the delta window ,
+Bro027.B.dialogueact711	1379.72	1384.29	B	Professor	s^cs	+1	1	and you could experiment with cutting various pieces of these back a bit ,
+Bro027.B.dialogueact713	1385.08	1388.97	B	Professor	s	+1	1	I mean , we 're s we 're not {disfmarker} we 're not in terrible shape .
+Bro027.B.dialogueact949	1844.94	1848.15	B	Professor	qw	+1	1	Well , what 's your {disfmarker} what 's your thought about what to do next with it ?
+Bro027.C.dialogueact952	1849.06	1850.03	C	PhD	s	+1	1	I 'm surprised ,
+Bro027.C.dialogueact953	1850.03	1858.4	C	PhD	s^df	+1	1	because I expected the neural net to help more when there is more mismatch , as it was the case for the {disfmarker}
+Bro027.B.dialogueact962	1876.21	1881.91	B	Professor	s	+1	1	Well , we might {disfmarker} uh , we might have to experiment with , uh better training sets .
+Bro027.B.dialogueact966	1883.58	1891.97	B	Professor	s	+1	1	I {disfmarker} The other thing is , I mean , before you found that was the best configuration , but you might have to retest those things now that we have different {disfmarker} The rest of it is different ,
+Bro027.B.dialogueact971	1896.75	1902.3	B	Professor	qw	+1	2	For instance , what 's the effect of just putting the neural net on without the o other {disfmarker} other path ?
+Bro027.B.dialogueact973	1904.43	1906.42	B	Professor	s	+1	2	I mean , you know what the straight features do .
+Bro027.A.dialogueact1370	2796.52	2803.6	A	PhD	s	+1	1	In the , um {disfmarker} a lot of the , um {disfmarker} the Hub - five systems , um , recently have been using LDA .
+Bro027.A.dialogueact1371	2804.12	2811.32	A	PhD	s	+1	1	and {disfmarker} and they , um {disfmarker} They run LDA on the features right before they train the models .
+Bro027.D.dialogueact1376	2821.23	2824.24	D	PhD	s^ng	+1	1	Uh , this LDA is different from the LDA that you are talking about .
+Bro027.D.dialogueact1377	2824.46	2831.42	D	PhD	s^df	+1	1	The LDA that you {disfmarker} saying is , like , you take a block of features , like nine frames or something , {comment} and then do an LDA on it ,
+Bro027.D.dialogueact1380	2831.53	2835.22	D	PhD	s^df	+1	1	and then reduce the dimensionality to something like twenty - four or something like that .
+Bro027.D.dialogueact1387	2841.35	2842.56	D	PhD	s^r	+1	1	So this is a two dimensional tile .
+Bro027.D.dialogueact1388	2842.96	2845.63	D	PhD	s	+1	1	And the LDA that we are f applying is only in time ,
+Bro027.D.dialogueact1391	2848.64	2850.46	D	PhD	s	+1	1	So it 's like {disfmarker} more like a filtering in time ,
+Bro027.A.dialogueact1396	2858.87	2867.44	A	PhD	qw	+1	1	but what if you put {disfmarker} ran the other kind of LDA , uh , on your features right before they go into the HMM ?
+Bro027.C.dialogueact1404	2875.84	2880.11	C	PhD	s	+1	1	But it 's {disfmarker} it 's like a nonlinear discriminant analysis .
+Bro027.A.dialogueact1412	2881.49	2885.15	A	PhD	s	+1	1	The tandem stuff is kind of like i nonlinear LDA .
+Bro027.A.dialogueact1420	2887.44	2893.3	A	PhD	s.%--	+1	1	But I mean , w but the other features that you have , um , th the non - tandem ones ,
+Bro027.C.dialogueact1424	2894.33	2897.81	C	PhD	s	+1	1	Well , in the proposal , they were transformed u using PCA ,
+Bro027.C.dialogueact1427	2899.34	2901.94	C	PhD	s	+1	1	Yeah , it might be that LDA could be better .
+Bro027.D.dialogueact1678	3439.18	3449.91	D	PhD	s	+1	1	The uh , other thing I was wondering was , um , if the neural net , um , has any {disfmarker} because of the different noise con unseen noise conditions for the neural net ,
+Bro027.D.dialogueact1679	3449.91	3459.5	D	PhD	s^e	+1	1	where , like , you train it on those four noise conditions , while you are feeding it with , like , a additional {disfmarker} some four plus some {disfmarker} f few more conditions which it hasn't seen , actually ,
+Bro027.D.dialogueact1685	3463.88	3470.91	D	PhD	qy.%--	+1	1	instead of just h having c uh , those cleaned up t cepstrum , sh should we feed some additional information , like {disfmarker} The {disfmarker} the {disfmarker}
+Bro027.D.dialogueact1687	3472.01	3477.47	D	PhD	qy	+1	1	I mean , should we f feed the VAD flag , also , at the input so that it {disfmarker} it has some additional discriminating information at the input ?
+Bro027.D.dialogueact1691	3482.6	3485.25	D	PhD	s	+1	1	We have the VAD information also available at the back - end .
+Bro027.D.dialogueact1693	3486.23	3491.56	D	PhD	s.%--	+1	1	So if it is something the neural net is not able to discriminate the classes {disfmarker}
+Bro027.D.dialogueact1706	3507.67	3515.63	D	PhD	s	+1	1	So , by having an additional , uh , feature which says " this is speech and this is nonspeech " , I mean , it certainly helps in some unseen noise conditions for the neural net .
+Bro027.A.dialogueact1720	3535.98	3538.78	A	PhD	s^bu	+1	1	So you 're saying , feed that , also , into {pause} the neural net .
+Bro027.D.dialogueact1722	3537.91	3540.14	D	PhD	s	+1	1	Yeah . So it it 's an {disfmarker} additional discriminating information .
+Bro027.B.dialogueact1728	3544.18	3560.83	B	Professor	s^cs	+1	1	The other thing {comment} you could do is just , um , p modify the , uh , output probabilities of the {disfmarker} of the , uh , uh , um , neural net , tandem neural net , {comment} based on the fact that you have a silence probability .
+6	Bro027.s.4	They also consider how aspects of an absent member's work might be applied to the current project.
+Bro027.B.dialogueact39	74.42	77.97	B	Professor	s	+1	1	And actually it brought up a question which may be relevant to the Aurora stuff too .
+Bro027.B.dialogueact40	78.48	88.44	B	Professor	s	+1	1	Um , I know that when you figured out the filters that we 're using for the Mel scale , there was some experimentation that went on at {disfmarker} at , uh {disfmarker} at OGI .
+Bro027.B.dialogueact42	91.453	108.801	B	Professor	s	+1	1	but one of the differences that we found between the two systems that we were using , {comment} the {disfmarker} the Aurora HTK system baseline system {comment} and the system that we were {disfmarker} the {disfmarker} the uh , other system we were using , the uh , the SRI system , was that the SRI system had maybe a , um , hundred hertz high - pass .
+Bro027.B.dialogueact95	181.33	184.49	B	Professor	s	+1	1	still , it 's possible that we 're getting in some more noise .
+Bro027.B.dialogueact96	185.4	191.1	B	Professor	qy^rt	+1	1	So I wonder , is it {disfmarker} @ @ Was there {disfmarker} their experimentation with , uh , say , throwing away that filter or something ?
+Bro027.B.dialogueact185	358.66	370.77	B	Professor	s	+1	1	so I think when {disfmarker} when he gets done with his prelim study I think {vocalsound} one of the next things we 'd want to do is to take this , uh {disfmarker} uh , noise , uh , processing stuff and {disfmarker} and , uh {disfmarker} uh , synthesize some speech from it .
+9	Bro027.s.5	The meeting closed with a discussion of upcoming absences , and how meetings would continue.
+Bro027.B.dialogueact1960	4011.81	4015.18	B	Professor	s^tc.%--	+1	1	So I won't be here for {disfmarker}
+Bro027.B.dialogueact1963	4017.01	4018.68	B	Professor	h|s^rt	+1	1	Uh , I 'm leaving next Wednesday .
+Bro027.B.dialogueact1975	4029.85	4031.83	B	Professor	s	+1	1	I 'm leaving {disfmarker} leaving next Wednesday .
+Bro027.B.dialogueact1987	4040.93	4042.67	B	Professor	s	+1	1	so next week I won't ,
+Bro027.B.dialogueact1988	4043.62	4045.72	B	Professor	s	+1	1	and the week after I won't ,
+Bro027.B.dialogueact1989	4045.86	4046.89	B	Professor	s^df	+1	1	cuz I 'll be in Finland .
+Bro027.B.dialogueact1991	4049.51	4053.19	B	Professor	s	+1	1	By that time you 'll be {disfmarker} {comment} Uh , you 'll both be gone {pause} from here .
+Bro027.B.dialogueact2003	4074.31	4079.44	B	Professor	s	+1	1	So it 'll be a few weeks , really , before we have a meeting of the same cast of characters .
+Bro027.B.dialogueact2010	4091.75	4102.15	B	Professor	s	+1	1	and then uh , uh , we 'll start up again with Dave and {disfmarker} Dave and Barry and Stephane and us on the , uh , twentieth .

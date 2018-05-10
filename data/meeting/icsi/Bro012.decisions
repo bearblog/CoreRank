@@ -1,0 +1,43 @@
+6	Bro012.s.4	Everyone must be sure and use the high-pass filtering option on the groups software , to deal with irregularities between mics.
+Bro012.A.dialogueact38	119.938	128.79	A	Professor	fg|s^tc	+1	1	um The other thing that I don't know the answer to , but when people are using Feacalc here , uh whether they 're using it with the high - pass filter option or not .
+Bro012.A.dialogueact43	136.7	139.2	A	Professor	s.%--	+1	1	So when we 're doing all these things using our software there is {disfmarker}
+Bro012.A.dialogueact46	161.078	164.14	A	Professor	s	+1	1	and {vocalsound} it 's {disfmarker} it 's pretty {disfmarker} it 's not a very severe
+Bro012.A.dialogueact47	164.999	167.229	A	Professor	s	+1	1	filter . Doesn't affect speech frequencies ,
+Bro012.A.dialogueact65	203.834	209.864	A	Professor	s	+1	1	So . We {disfmarker} we {disfmarker} we want to go and check that in i for anything that we 're going to use the P D
+Bro012.A.dialogueact68	219.128	226.912	A	Professor	s	+1	1	but if we do make use of the cheap mikes , {vocalsound} uh we want to be sure to do that {disfmarker} that filtering before we {vocalsound} process it .
+16	Bro012.s.5	In order to coordinate better with OGI , some sort of source code control is required and me018 has offered to investigate , but only minimal progress can be made until after the upcoming deadline for Eurospeech.
+Bro012.A.dialogueact572	1472.51	1477.26	A	Professor	qy^rt	+1	1	Is there any further discussion about this {disfmarker} this idea of {disfmarker} of having some sort of source code control ?
+Bro012.F.dialogueact574	1480.0	1481.41	F	PhD	s.%--	+1	1	Well . For the moment they 're {disfmarker}
+Bro012.F.dialogueact577	1486.7	1488.27	F	PhD	s	+1	1	There is this Eurospeech deadline ,
+Bro012.A.dialogueact589	1512.81	1513.57	A	Professor	s^ba	+1	1	Sounds like a great idea
+Bro012.A.dialogueact590	1513.57	1519.23	A	Professor	s	+1	1	but {disfmarker} but I think that {disfmarker} that um {vocalsound} he 's saying people are sort of scrambling for a Eurospeech deadline .
+Bro012.A.dialogueact592	1519.87	1522.26	A	Professor	s	+1	1	But that 'll be uh , uh done in a week .
+Bro012.A.dialogueact593	1522.66	1525.47	A	Professor	s	+1	1	So , maybe after {vocalsound} this next one .
+Bro012.A.dialogueact649	1608.78	1613.47	A	Professor	fg|s	+1	1	Yeah . So , I mean , I {disfmarker} I think that you could certainly start looking at {disfmarker} at the issue
+Bro012.A.dialogueact650	1613.74	1624.14	A	Professor	fh|s.%--	+1	1	uh but {disfmarker} but uh {vocalsound} I think it 's probably , on s from what Stephane is saying , it 's {disfmarker} it 's unlikely to get sort of active participation from the two sides until after they 've {disfmarker}
+Bro012.B.dialogueact653	1628.2	1633.75	B	PhD	s^cs	+1	1	but I could {pause} try to look into like this uh CVS over the web .
+Bro012.B.dialogueact654	1633.88	1641.58	B	PhD	s^df	+1	1	That seems to be a very popular {vocalsound} way of {pause} people distributing changes and {disfmarker} over , you know , multiple sites and things
+Bro012.B.dialogueact656	1641.58	1649.76	B	PhD	s	+1	1	so maybe {vocalsound} if I can figure out how do that easily and then pass the information on to everybody so that it 's {vocalsound} you know , as easy to do as possible
+Bro012.B.dialogueact657	1649.76	1653.06	B	PhD	s^df	+1	1	and {disfmarker} and people don't {disfmarker} it won't interfere with {comment} their regular work ,
+Bro012.C.dialogueact663	1663.44	1666.23	C	Grad	s	+1	1	And if you 're interested in using CVS , I 've set it up here ,
+Bro012.B.dialogueact670	1670.32	1672.25	B	PhD	s	+1	1	so maybe I can ask you some questions .
+Bro012.C.dialogueact672	1672.77	1676.79	C	Grad	s	+1	1	So . I 'll be away tomorrow and Monday but I 'll be back on Tuesday or Wednesday .
+0	Bro012.s.6	When he returns me026 will help.
+6	Bro012.s.7	Also , in two weeks one of the OGI members will return , and meetings should be arranged with him before the next big project meeting.
+Bro012.A.dialogueact1047	2563.88	2566.05	A	Professor	qy^rt	+1	1	Do you remember when the next meeting is supposed to be ?
+Bro012.F.dialogueact1048	2566.46	2567.43	F	PhD	s^na	+1	1	It 's uh in June .
+Bro012.A.dialogueact1108	2694.09	2697.58	A	Professor	s	+1	1	H Hynek will be back in town uh the week after next ,
+Bro012.A.dialogueact1109	2697.95	2698.95	A	Professor	s^e	+1	1	back {disfmarker} back in the country .
+Bro012.A.dialogueact1111	2700.53	2707.32	A	Professor	s	+1	1	And start {disfmarker} start organizing uh {vocalsound} more visits and connections and so forth ,
+Bro012.A.dialogueact1115	2710.33	2711.22	A	Professor	s	+1	1	working towards June .
+10	Bro012.s.8	OGI seem to be having some good results with voice activation detection , so the group need to find out which is the best VAD and start using it.
+Bro012.A.dialogueact1054	2570.04	2577.12	A	Professor	fh|s^rt	+1	1	Um . Yeah , the other thing is that you saw that {disfmarker} that mail about uh the VAD {disfmarker} V A Ds performing quite differently ?
+Bro012.A.dialogueact1058	2581.06	2584.64	A	Professor	qo	+1	1	This {disfmarker} there was this experiment of uh " what if we just take the baseline ? "
+Bro012.A.dialogueact1062	2588.16	2591.22	A	Professor	s	+1	1	and you inc incorporate the different V A
+Bro012.A.dialogueact1063	2591.82	2596.63	A	Professor	s^ba	+1	1	And it looks like the {disfmarker} the French VAD is actually uh better {disfmarker} significantly better .
+Bro012.F.dialogueact1067	2598.79	2601.07	F	PhD	s^no	+1	1	Yeah but I don't know which VAD they use .
+Bro012.F.dialogueact1074	2615.62	2618.55	F	PhD	s	+1	1	It 's Pratibha that {disfmarker} that did this experiment .
+Bro012.F.dialogueact1076	2619.83	2624.26	F	PhD	s	+1	1	Um . We should ask which VAD she used .
+Bro012.D.dialogueact1078	2623.42	2629.77	D	PhD	s	+1	1	He {disfmarker} Actually , I think that he say with the good VAD of {disfmarker} from OGI
+Bro012.A.dialogueact1088	2651.29	2659.98	A	Professor	s	+1	1	I mean it was enough better that {disfmarker} that it would {vocalsound} uh account for a fair amount of the difference between our performance , actually .
+Bro012.A.dialogueact1092	2664.91	2666.27	A	Professor	s^cs	+1	1	So if they have a better one , we should use it .

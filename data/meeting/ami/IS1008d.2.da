@@ -1,0 +1,589 @@
+IS1008d.A.dialog-act.s9553330.1	30.73	32.96	PM	A	be.pos	-1	0	Welcome back .
+IS1008d.B.dialog-act.s9553330.1	30.61	31.95	ID	B	be.pos	-1	0	I'm sorry to be late .
+IS1008d.A.dialog-act.s9553330.2	32.96	35.2	PM	A	be.pos	-1	0	Welcome back everybody .
+IS1008d.C.dialog-act.s9553330.2	36.86	37.03	UI	C	oth	-1	0	Yeah .
+IS1008d.C.dialog-act.s9553330.3	38.19	39.28	UI	C	be.pos	-1	0	Thanks .
+IS1008d.A.dialog-act.s9553330.3	41.51	46.05	PM	A	inf	+1	0	So this meeting agenda will be the detailed design meeting .
+IS1008d.A.dialog-act.s9553330.4	48.0	54.14	PM	A	inf	+1	0	And uh opening and uh P_M_s {gap} of the meet minutes ,
+IS1008d.A.dialog-act.s9553330.5	54.14	59.87	PM	A	inf	+1	0	uh prototype presentation from uh Christine and uh Agnes .
+IS1008d.B.dialog-act.s9553330.2	60.46	61.95	ID	B	ass	-1	0	Agnes , yes .
+IS1008d.A.dialog-act.s9553330.6	61.56	61.75	PM	A	bck	-1	0	Yes
+IS1008d.A.dialog-act.s9553330.7	61.75	63.58	PM	A	inf	+1	0	and uh evaluation criteria .
+IS1008d.A.dialog-act.s9553330.8	65.09	68.64	PM	A	inf	+1	0	The finance , it's uh from my side , from the management ,
+IS1008d.A.dialog-act.s9553330.9	68.64	72.88	PM	A	inf	+1	0	and uh production evaluation . Then uh closing .
+IS1008d.A.dialog-act.s9553330.10	72.88	83.4	PM	A	inf	+1	0	So we have forty minutes to discuss and uh finalise and close the product and project and to move further , okay ,
+IS1008d.A.dialog-act.s9553330.11	83.4	84.32	PM	A	stl	-1	0	so {disfmarker}
+IS1008d.A.dialog-act.s9553330.12	88.92	94.12	PM	A	sug	+1	1	Okay , let's talk about uh maybe first uh for the prototype .
+IS1008d.C.dialog-act.s9553330.4	95.81	96.57	UI	C	off	-1	0	Mm , okay .
+IS1008d.A.dialog-act.s9553330.13	96.69	97.632	PM	A	sug	-1	0	So I handle to {disfmarker}
+IS1008d.C.dialog-act.s9553330.5	99.25	100.11	UI	C	inf	+1	1	I've done a presentation ,
+IS1008d.C.dialog-act.s9553330.6	100.11	102.54	UI	C	inf	+1	1	but it pretty much covers work that we've both done ,
+IS1008d.C.dialog-act.s9553330.7	102.54	106.57	UI	C	sug	+1	1	so if I'm missing anything , Christine can just correct me .
+IS1008d.A.dialog-act.s9553330.14	105.0	106.16	PM	A	off	-1	0	So shall I go to
+IS1008d.A.dialog-act.s9553330.15	106.16	106.56	PM	A	be.pos	-1	0	{disfmarker} sorry .
+IS1008d.B.dialog-act.s9553330.3	105.78	106.51	ID	B	be.pos	-1	0	Uh thank you ,
+IS1008d.B.dialog-act.s9553330.4	106.51	109.92	ID	B	be.neg	-1	0	so you did a PowerPoint presentation , good for you . {vocalsound}
+IS1008d.A.dialog-act.s9553330.16	107.43	108.49	PM	A	bck	-1	0	Yep . S
+IS1008d.A.dialog-act.s9553330.17	109.31	111.91	PM	A	off	-1	0	Okay , let's go to A_M_I_ .
+IS1008d.C.dialog-act.s9553330.1	110.0	110.519	UI	C	fra	-1	0	{vocalsound}
+IS1008d.C.dialog-act.s9553330.8	113.89	117.115	UI	C	ass	-1	0	It's not the biggest PowerPoint presentation in the world , but {disfmarker}
+IS1008d.B.dialog-act.s9553330.5	116.368	117.8	ID	B	fra	-1	0	{vocalsound}
+IS1008d.D.dialog-act.s9553330.1	117.12	117.84	ME	D	fra	-1	0	{vocalsound}
+IS1008d.A.dialog-act.s9553330.18	118.385	119.936	PM	A	el.inf	-1	0	{vocalsound} So in two or three or {disfmarker}
+IS1008d.B.dialog-act.s9553330.6	118.352	118.688	ID	B	fra	-1	0	{vocalsound}
+IS1008d.C.dialog-act.s9553330.9	119.88	120.06	UI	C	inf	-1	0	Three .
+IS1008d.C.dialog-act.s9553330.10	126.15	127.18	UI	C	stl	-1	0	Um .
+IS1008d.C.dialog-act.s9553330.11	128.544	129.59	UI	C	fra	-1	0	{vocalsound} No it's {disfmarker}
+IS1008d.D.dialog-act.s9553330.2	128.69	133.05	ME	D	off	-1	0	Probably . Technical pa I would think .
+IS1008d.C.dialog-act.s9553330.12	129.59	131.09	UI	C	inf	-1	0	think it's the last one .
+IS1008d.C.dialog-act.s9553330.13	132.7	133.08	UI	C	inf	-1	0	No ,
+IS1008d.C.dialog-act.s9553330.14	133.08	133.94	UI	C	fra	-1	0	then this is {vocalsound}
+IS1008d.C.dialog-act.s9553330.15	133.94	137.04	UI	C	inf	-1	0	the la yeah , that one , final design .
+IS1008d.D.dialog-act.s9553330.3	134.7	134.92	ME	D	bck	-1	0	Ha .
+IS1008d.A.dialog-act.s9553330.20	136.76	136.9	PM	A	bck	-1	0	Yeah .
+IS1008d.C.dialog-act.s9553330.16	137.04	141.23	UI	C	inf	-1	0	It is named appropriately , you just couldn't see the name .
+IS1008d.B.dialog-act.s9553330.7	138.72	139.316	ID	B	fra	-1	0	{vocalsound}
+IS1008d.D.dialog-act.s9553330.4	139.328	139.898	ME	D	fra	-1	0	{vocalsound}
+IS1008d.C.dialog-act.s9553330.17	141.23	143.28	UI	C	el.sug	-1	0	{vocalsound} Um okay , can I have the mouse ?
+IS1008d.A.dialog-act.s9553330.19	142.79	143.1	PM	A	off	-1	0	Yes .
+IS1008d.C.dialog-act.s9553330.18	145.22	145.66	UI	C	be.pos	-1	0	Thanks .
+IS1008d.C.dialog-act.s9553330.19	147.84	149.02	UI	C	stl	-1	0	Alright , so
+IS1008d.C.dialog-act.s9553330.20	151.38	158.01	UI	C	inf	+1	1	from {disfmarker} when we were discussing specifying the case in the last meeting , we decided that we wanted an ergonomic shape ,
+IS1008d.C.dialog-act.s9553330.21	158.01	160.65	UI	C	inf	+1	1	the material that we chose was wood ,
+IS1008d.C.dialog-act.s9553330.22	160.65	162.79	UI	C	inf	+1	1	and uh the colour would be customisable ,
+IS1008d.C.dialog-act.s9553330.23	162.79	164.8	UI	C	inf	+1	1	'cause you can stain the wood whatever colour .
+IS1008d.C.dialog-act.s9553330.24	165.9	167.14	UI	C	stl	-1	0	Um ,
+IS1008d.C.dialog-act.s9553330.25	167.14	174.42	UI	C	inf	+1	1	so in terms of function , you have to be able to turn the T_V_ on and off , volume and channel control , menu control , voice recognition control ,
+IS1008d.C.dialog-act.s9553330.26	174.42	178.95	UI	C	inf	+1	1	and we've incorporated the L_C_D_ screen on the flip panel as part of the design ,
+IS1008d.C.dialog-act.s9553330.27	178.95	182.51	UI	C	inf	+1	1	if we figure out it's too expensive , well then you just take it off .
+IS1008d.C.dialog-act.s9553330.28	182.51	183.41	UI	C	stl	-1	0	{vocalsound} Um , so
+IS1008d.C.dialog-act.s9553330.29	184.432	186.96	UI	C	off	-1	0	{vocalsound} to unveil our lovely product .
+IS1008d.C.dialog-act.s9553330.30	190.07	194.88	UI	C	inf	+1	1	This is our remote control , with the flip panel as you can see .
+IS1008d.D.dialog-act.s9553330.5	190.057	191.14	ME	D	fra	-1	0	{vocalsound}
+IS1008d.C.dialog-act.s9553330.31	195.54	201.35	UI	C	inf	+1	1	So if you lift up the panel , you can see the lovely yellow L_C_D_ display .
+IS1008d.C.dialog-act.s9553330.32	201.35	203.88	UI	C	ass	-1	0	{vocalsound} Um , this is actually hard to do .
+IS1008d.C.dialog-act.s9553330.33	203.88	206.22	UI	C	inf	+1	1	The yellow button you have is the on off button ,
+IS1008d.C.dialog-act.s9553330.34	206.22	207.9	UI	C	inf	+1	1	so it's really big , hard to miss .
+IS1008d.C.dialog-act.s9553330.35	208.39	215.12	UI	C	inf	+1	1	You have the the red um triangles are the toggles for changing the volume .
+IS1008d.C.dialog-act.s9553330.36	215.12	218.3	UI	C	oth	-1	0	So up {disfmarker} volume up , down {disfmarker} volume down .
+IS1008d.C.dialog-act.s9553330.37	218.3	220.36	UI	C	inf	+1	1	The green are the channel changing .
+IS1008d.C.dialog-act.s9553330.38	220.513	223.87	UI	C	inf	+1	1	{vocalsound} S And it's one of those very light , very touchable displays .
+IS1008d.C.dialog-act.s9553330.39	224.43	228.96	UI	C	inf	+1	1	And then you have the numeric pad in the dark blue at the bottom ,
+IS1008d.C.dialog-act.s9553330.40	228.96	234.83	UI	C	inf	+1	1	and on the right-hand side you have the access to the menu on the T_V_ ,
+IS1008d.C.dialog-act.s9553330.41	234.83	242.41	UI	C	inf	+1	1	and on the left-hand side you have the the the ability to turn off the voice recognition .
+IS1008d.C.dialog-act.s9553330.42	242.41	245.65	UI	C	inf	-1	0	So this is pretty much what we had on the white board the last time .
+IS1008d.A.dialog-act.s9553330.21	247.02	247.11	PM	A	bck	-1	0	Mm-hmm .
+IS1008d.C.dialog-act.s9553330.43	249.77	249.93	UI	C	el.sug	-1	0	So .
+IS1008d.B.dialog-act.s9553330.8	250.42	252.414	ID	B	fra	-1	0	Um and uh I could {disfmarker}
+IS1008d.C.dialog-act.s9553330.44	251.437	253.29	UI	C	ass	-1	0	{vocalsound} Oh yes .
+IS1008d.B.dialog-act.s9553330.9	253.01	253.48	ID	B	fra	-1	0	Yeah the d
+IS1008d.C.dialog-act.s9553330.45	253.29	258.09	UI	C	inf	+1	1	Additional feature on the back is that you can have your own customised backing
+IS1008d.C.dialog-act.s9553330.46	258.09	261.85	UI	C	inf	+1	1	and I suppose you could do the same thing on the flip case on the front .
+IS1008d.C.dialog-act.s9553330.47	261.85	265.34	UI	C	inf	-1	0	So that you can really make this a highly highly customisable remote control .
+IS1008d.B.dialog-act.s9553330.10	266.28	273.04	ID	B	inf	+1	1	We haven't um uh specified where the speaker or the microphone will be placed .
+IS1008d.B.dialog-act.s9553330.11	273.04	280.112	ID	B	inf	+1	1	That depends on the uh s design of the circuit board inside and uh what room is left um {disfmarker}
+IS1008d.C.dialog-act.s9553330.48	279.99	280.24	UI	C	ass	-1	0	Yeah .
+IS1008d.A.dialog-act.s9553330.22	281.35	286.27	PM	A	sug	+1	1	I think the microphone is on on the top , uh on the middle , the {disfmarker} under the flip .
+IS1008d.B.dialog-act.s9553330.12	283.97	284.84	ID	B	bck	-1	0	Yes , okay .
+IS1008d.B.dialog-act.s9553330.13	286.72	287.01	ID	B	bck	-1	0	Uh-huh .
+IS1008d.A.dialog-act.s9553330.23	288.04	290.61	PM	A	inf	-1	0	So that will be the safe ,
+IS1008d.A.dialog-act.s9553330.24	290.61	291.75	PM	A	fra	-1	0	so p any {disfmarker} the chip {disfmarker}
+IS1008d.A.dialog-act.s9553330.25	291.75	295.341	PM	A	inf	-1	0	it's not on the chip because you need to have microphone {gap} to {disfmarker}
+IS1008d.B.dialog-act.s9553330.14	294.87	297.15	ID	B	ass	-1	0	No , I mean it depends on the design of the circuit board .
+IS1008d.A.dialog-act.s9553330.26	297.35	297.69	PM	A	ass	-1	0	Yes .
+IS1008d.C.dialog-act.s9553330.49	298.02	299.7	UI	C	ass	+1	1	But it shouldn't be under the flip either ,
+IS1008d.C.dialog-act.s9553330.50	299.7	305.82	UI	C	inf	+1	1	because you can have the remote control closed , but you still might want to activate it by voice .
+IS1008d.A.dialog-act.s9553330.27	303.874	305.183	PM	A	fra	-1	0	{vocalsound} Uh it's it's {disfmarker}
+IS1008d.A.dialog-act.s9553330.28	305.91	307.78	PM	A	stl	-1	0	Yeah , but uh uh
+IS1008d.A.dialog-act.s9553330.29	307.78	309.91	PM	A	inf	+1	1	my opinion I think it's better under the flip
+IS1008d.A.dialog-act.s9553330.30	309.91	315.61	PM	A	inf	+1	1	because whenever you want to uh the talk , okay , so then you can speak then you can close it .
+IS1008d.A.dialog-act.s9553330.31	315.61	322.17	PM	A	inf	+1	1	But if you put it on the on the flip , okay , then uh technical I don't think it's uh feasible ,
+IS1008d.A.dialog-act.s9553330.32	322.17	324.85	PM	A	inf	+1	1	'cause most of the time you speak then it will be recognised .
+IS1008d.C.dialog-act.s9553330.51	324.72	331.32	UI	C	ass	-1	0	But if you've already got the remote control in your hand you need to open the flip to use the voice , why use the voice , why not just use your hand ?
+IS1008d.C.dialog-act.s9553330.52	331.32	338.66	UI	C	inf	+1	1	I mean the whole point of the voice is that if the remote control is sitting there and I'm too lazy to reach over and pick it up , I can just use my voice .
+IS1008d.B.dialog-act.s9553330.15	338.28	343.93	ID	B	sug	-1	0	Maybe I've got my hand in the popcorn bowl and I'm holding my cup of Coca-Cola in the other hand .
+IS1008d.C.dialog-act.s9553330.53	344.6	344.71	UI	C	ass	-1	0	Yeah .
+IS1008d.C.dialog-act.s9553330.54	344.71	348.776	UI	C	sug	-1	0	And you don't wanna let go of either one . {vocalsound}
+IS1008d.D.dialog-act.s9553330.6	345.49	350.14	ME	D	ass	-1	0	I don't wanna say . Louder . {vocalsound} Yeah .
+IS1008d.C.dialog-act.s9553330.55	348.776	350.112	UI	C	fra	-1	0	{vocalsound}
+IS1008d.C.dialog-act.s9553330.56	350.13	351.32	UI	C	inf	+1	1	I mean it doesn't have to be on the flip ,
+IS1008d.C.dialog-act.s9553330.57	351.32	352.93	UI	C	sug	+1	1	it can be on the side somewhere .
+IS1008d.D.dialog-act.s9553330.7	352.21	353.25	ME	D	sug	-1	0	Can also be on the side .
+IS1008d.A.dialog-act.s9553330.33	352.87	354.25	PM	A	und	+1	2	Yeah , the sides maybe is good .
+IS1008d.C.dialog-act.s9553330.58	353.49	353.9	UI	C	bck	-1	0	Yeah .
+IS1008d.B.dialog-act.s9553330.16	354.97	355.41	ID	B	bck	-1	0	Mm-hmm .
+IS1008d.C.dialog-act.s9553330.59	355.22	358.685	UI	C	off	-1	0	So , I mean I can pass this around if anyone wants to {disfmarker}
+IS1008d.A.dialog-act.s9553330.34	357.08	358.8	PM	A	ass	-1	0	Yes . So it's maybe good idea .
+IS1008d.B.dialog-act.s9553330.17	359.32	362.556	ID	B	sug	-1	0	Yeah , y better you pass it around with a napkin . {vocalsound}
+IS1008d.C.dialog-act.s9553330.60	359.332	360.729	UI	C	fra	-1	0	{vocalsound}
+IS1008d.D.dialog-act.s9553330.8	361.584	372.25	ME	D	inf	-1	0	{vocalsound} No , because y you can easily put a microphone on the side that would have no problem would haven't been {disfmarker} not be damaged or anything , and it'd be accessible all the time to voice .
+IS1008d.C.dialog-act.s9553330.61	362.864	364.124	UI	C	fra	-1	0	{vocalsound}
+IS1008d.C.dialog-act.s9553330.62	367.133	367.79	UI	C	bck	-1	0	{vocalsound} Yeah .
+IS1008d.A.dialog-act.s9553330.35	367.78	368.18	PM	A	bck	-1	0	Yes .
+IS1008d.A.dialog-act.s9553330.36	370.33	370.89	PM	A	bck	-1	0	Yeah {vocalsound} .
+IS1008d.C.dialog-act.s9553330.63	372.45	373.45	UI	C	ass	-1	0	Yeah , exactly .
+IS1008d.D.dialog-act.s9553330.9	375.9	376.01	ME	D	bck	-1	0	Yeah .
+IS1008d.A.dialog-act.s9553330.37	376.54	377.51	PM	A	ass	-1	0	So it's maybe good idea .
+IS1008d.A.dialog-act.s9553330.38	377.58	377.93	PM	A	fra	-1	0	S s
+IS1008d.B.dialog-act.s9553330.18	378.42	382.235	ID	B	fra	-1	0	It's um {disfmarker} It's um {disfmarker}
+IS1008d.D.dialog-act.s9553330.10	379.99	381.15	ME	D	be.pos	-1	0	Compliments to the artist .
+IS1008d.B.dialog-act.s9553330.19	383.19	386.208	ID	B	sug	+1	1	You need to work on the weight a little bit . {vocalsound}
+IS1008d.C.dialog-act.s9553330.64	385.74	388.22	UI	C	ass	-1	0	Yes .
+IS1008d.D.dialog-act.s9553330.11	385.82	386.81	ME	D	bck	-1	0	Uh {vocalsound} .
+IS1008d.A.dialog-act.s9553330.39	386.9	388.128	PM	A	bck	-1	0	Okay . S {vocalsound}
+IS1008d.A.dialog-act.s9553330.40	388.15	390.23	PM	A	fra	-1	0	I'm fine , I'm satisfi
+IS1008d.C.dialog-act.s9553330.65	388.22	389.92	UI	C	sug	+1	1	And maybe the shape of the buttons ,
+IS1008d.A.dialog-act.s9553330.41	390.23	391.09	PM	A	ass	+1	1	I'm satisfied .
+IS1008d.C.dialog-act.s9553330.66	389.92	394.354	UI	C	inf	+1	1	the little egg shapes aren't the most economical , but {disfmarker}
+IS1008d.B.dialog-act.s9553330.20	391.44	394.27	ID	B	be.pos	-1	0	{vocalsound} We're glad you're satisfied .
+IS1008d.A.dialog-act.s9553330.42	393.11	398.58	PM	A	ass	-1	0	Of course it's it's it's looks more heo heavy , but I think when it's completely {gap} maybe it's a less weight .
+IS1008d.C.dialog-act.s9553330.67	398.9	400.95	UI	C	ass	-1	0	Yeah . I mean this is plasticene .
+IS1008d.A.dialog-act.s9553330.43	401.06	401.43	PM	A	bck	-1	0	Yes .
+IS1008d.C.dialog-act.s9553330.68	400.95	402.32	UI	C	ass	-1	0	There's only so much you can do .
+IS1008d.C.dialog-act.s9553330.69	402.32	404.69	UI	C	sug	+1	1	We could have possibly made it a lot thinner as well .
+IS1008d.C.dialog-act.s9553330.70	405.316	406.384	UI	C	stl	-1	0	{vocalsound} But {disfmarker}
+IS1008d.C.dialog-act.s9553330.71	407.55	411.35	UI	C	inf	+1	1	And part of the thing is m a lot of people say that they don't like something that's too light ,
+IS1008d.C.dialog-act.s9553330.72	411.35	413.93	UI	C	inf	+1	1	because they don't feel like they have enough control over it .
+IS1008d.B.dialog-act.s9553330.21	413.84	414.22	ID	B	bck	-1	0	Mm-hmm .
+IS1008d.C.dialog-act.s9553330.73	413.93	416.33	UI	C	ass	+1	1	So I mean maybe this is excessively heavy ,
+IS1008d.C.dialog-act.s9553330.74	416.33	417.76	UI	C	inf	-1	0	but I think it needs to have some weight ,
+IS1008d.A.dialog-act.s9553330.44	418.09	418.24	PM	A	bck	-1	0	Yep .
+IS1008d.C.dialog-act.s9553330.75	417.76	420.08	UI	C	inf	-1	0	it needs to feel like you're still holding something .
+IS1008d.C.dialog-act.s9553330.76	422.076	426.89	UI	C	inf	+1	1	{vocalsound} So that's pretty much it for our presentation actually .
+IS1008d.A.dialog-act.s9553330.45	426.64	428.67	PM	A	inf	-1	0	That's your uh prototype model ?
+IS1008d.C.dialog-act.s9553330.77	428.08	428.22	UI	C	bck	-1	0	Yeah .
+IS1008d.A.dialog-act.s9553330.46	428.67	431.24	PM	A	be.pos	-1	0	Okay , that's good , thank you very much .
+IS1008d.D.dialog-act.s9553330.12	430.368	430.752	ME	D	fra	-1	0	{vocalsound}
+IS1008d.A.dialog-act.s9553330.48	431.24	432.864	PM	A	el.ass	-1	0	So any comments or uh {disfmarker}
+IS1008d.D.dialog-act.s9553330.13	433.93	441.0	ME	D	ass	+1	1	Well , the prototype is is very well within the design and ideas that we've we've talked about on the previous meetings .
+IS1008d.A.dialog-act.s9553330.47	440.9	440.99	PM	A	bck	-1	0	Okay .
+IS1008d.D.dialog-act.s9553330.14	441.0	447.248	ME	D	inf	+1	1	Now it goes into this next phase as the financial uh marketing uh {disfmarker}
+IS1008d.A.dialog-act.s9553330.49	444.488	445.712	PM	A	fra	-1	0	{vocalsound} Yes , that uh {disfmarker}
+IS1008d.A.dialog-act.s9553330.50	447.2	448.784	PM	A	fra	-1	0	So I'll come back to the {disfmarker}
+IS1008d.A.dialog-act.s9553330.51	456.944	457.542	PM	A	fra	-1	0	{gap}
+IS1008d.A.dialog-act.s9553330.52	463.71	466.89	PM	A	inf	-1	0	So evaluation criteria , I think uh that will be good ,
+IS1008d.A.dialog-act.s9553330.53	466.89	469.72	PM	A	inf	+1	1	so then let's come to the finance uh ,
+IS1008d.A.dialog-act.s9553330.55	469.72	474.7	PM	A	off	+1	1	I have some uh calculations which I made uh as for uh the budget .
+IS1008d.A.dialog-act.s9553330.56	476.39	483.57	PM	A	inf	+1	1	So here you can uh look like uh the energy {gap} and uh {gap} dynamo and uh kinetic and solar cells .
+IS1008d.A.dialog-act.s9553330.57	484.79	487.63	PM	A	inf	+1	1	Uh it's optional , somewhat optional
+IS1008d.A.dialog-act.s9553330.58	487.63	491.23	PM	A	inf	+1	1	and Ed wants the chip on print , that's what uh we were talking about that .
+IS1008d.B.dialog-act.s9553330.22	488.781	489.456	ID	B	fra	-1	0	{vocalsound}
+IS1008d.A.dialog-act.s9553330.60	492.57	501.76	PM	A	inf	+1	1	So then we have sample sensor and sample speaker , then uh we have the wood material , then special colour and push button .
+IS1008d.A.dialog-act.s9553330.61	502.87	503.89	PM	A	fra	-1	0	So it's uh {disfmarker}
+IS1008d.A.dialog-act.s9553330.62	503.89	506.28	PM	A	inf	+1	1	actually , our budget was uh twelve point five Euro ,
+IS1008d.A.dialog-act.s9553330.63	506.28	508.51	PM	A	inf	+1	1	but uh it's coming to nine point nine five Euro ,
+IS1008d.A.dialog-act.s9553330.64	508.51	511.32	PM	A	inf	+1	1	so we are under uh {disfmarker} below the budget ,
+IS1008d.A.dialog-act.s9553330.65	511.32	513.53	PM	A	inf	-1	0	okay , so still we are saving some money .
+IS1008d.A.dialog-act.s9553330.66	516.31	517.65	PM	A	ass	-1	0	I think it's a good figure .
+IS1008d.A.dialog-act.s9553330.59	517.856	521.966	PM	A	fra	-1	0	{vocalsound}
+IS1008d.B.dialog-act.s9553330.23	517.81	518.91	ID	B	ass	-1	0	Yes , great
+IS1008d.B.dialog-act.s9553330.24	518.91	521.1	ID	B	ass	-1	0	I {disfmarker} I'm surprised .
+IS1008d.D.dialog-act.s9553330.15	518.848	521.248	ME	D	fra	-1	0	{vocalsound}
+IS1008d.B.dialog-act.s9553330.25	521.1	522.992	ID	B	be.pos	-1	0	{vocalsound} Congratulations . {vocalsound}
+IS1008d.A.dialog-act.s9553330.67	521.966	522.86	PM	A	be.pos	-1	0	{vocalsound} Than thank you .
+IS1008d.A.dialog-act.s9553330.68	522.959	527.887	PM	A	fra	-1	0	{vocalsound}
+IS1008d.D.dialog-act.s9553330.16	522.93	524.98	ME	D	ass	+1	1	Well we haven't come to mine yet , so {vocalsound}
+IS1008d.B.dialog-act.s9553330.26	524.61	525.14	ID	B	ass	-1	0	Oh , okay
+IS1008d.C.dialog-act.s9553330.78	524.53	525.363	UI	C	fra	-1	0	{vocalsound}
+IS1008d.B.dialog-act.s9553330.27	525.14	529.21	ID	B	el.inf	+1	1	. It's gonna cost a long way to c you know , cost a lot of money to market it , is it ?
+IS1008d.D.dialog-act.s9553330.17	524.98	527.673	ME	D	inf	+1	1	we're gonna have a bit of difference of opinion , yes . {vocalsound}
+IS1008d.D.dialog-act.s9553330.18	527.673	530.32	ME	D	fra	-1	0	{vocalsound}
+IS1008d.A.dialog-act.s9553330.69	530.37	536.56	PM	A	sug	-1	0	So maybe it's {disfmarker} for some money we can utilise for our uh marketing , for the sales , okay , and uh {disfmarker}
+IS1008d.D.dialog-act.s9553330.19	539.488	542.63	ME	D	fra	-1	0	{vocalsound} Well , it just depends on if we're gonna add a {vocalsound} o
+IS1008d.D.dialog-act.s9553330.20	542.63	552.05	ME	D	inf	+1	1	on this pr provisionary cost analysis , we do not have a L_C_ display .
+IS1008d.D.dialog-act.s9553330.21	552.05	554.23	ME	D	inf	+1	1	L_C_ display is gonna be very expensive ,
+IS1008d.C.dialog-act.s9553330.80	554.13	556.01	UI	C	inf	+1	1	No we do , but it's not filled in .
+IS1008d.D.dialog-act.s9553330.22	554.23	554.576	ME	D	fra	-1	0	it's gonna be {disfmarker}
+IS1008d.A.dialog-act.s9553330.72	556.08	557.01	PM	A	fra	-1	0	It's not .
+IS1008d.B.dialog-act.s9553330.28	556.45	556.93	ID	B	bck	-1	0	Thirty .
+IS1008d.D.dialog-act.s9553330.23	556.01	556.73	ME	D	fra	-1	0	It's not {disfmarker} it doesn't say .
+IS1008d.C.dialog-act.s9553330.81	556.01	557.38	UI	C	inf	-1	0	It's number thirty .
+IS1008d.A.dialog-act.s9553330.70	557.01	558.28	PM	A	bck	-1	0	Yeah . Yeah .
+IS1008d.D.dialog-act.s9553330.24	556.73	558.47	ME	D	inf	+1	1	We don't have the price up there ,
+IS1008d.C.dialog-act.s9553330.82	557.38	558.37	UI	C	bck	-1	0	Oh , yeah , yeah ,
+IS1008d.A.dialog-act.s9553330.71	558.46	559.41	PM	A	bck	-1	0	Yeah . Yeah .
+IS1008d.C.dialog-act.s9553330.83	558.37	559.65	UI	C	be.pos	+1	1	you're right , sorry , yes .
+IS1008d.B.dialog-act.s9553330.30	558.87	558.96	ID	B	bck	-1	0	Yeah .
+IS1008d.D.dialog-act.s9553330.25	558.47	574.896	ME	D	inf	+1	1	okay , so if we add approximately two to three Euro per remote , now we're up around about twelve , twelve and a half as to what uh the company had initially uh requested . Um {disfmarker}
+IS1008d.B.dialog-act.s9553330.31	574.4	578.11	ID	B	sug	+1	1	So that means we can put the uh {disfmarker} the L_C_D_ in , yeah .
+IS1008d.D.dialog-act.s9553330.26	576.32	578.53	ME	D	sug	-1	0	Display in .
+IS1008d.D.dialog-act.s9553330.27	578.53	581.24	ME	D	inf	+1	1	But as far as production um I'm putting up a question
+IS1008d.D.dialog-act.s9553330.28	581.24	584.01	ME	D	inf	+1	1	because we're talking about profit also ,
+IS1008d.D.dialog-act.s9553330.29	584.01	593.25	ME	D	inf	+1	1	and in mine you'll see uh {vocalsound} the problem with uh our survey , the p the possibility that how many units can be sold , what percentage of the market , etcetera etcetera
+IS1008d.D.dialog-act.s9553330.30	593.25	596.58	ME	D	inf	-1	0	because that {gap} has to be taken in into consideration .
+IS1008d.A.dialog-act.s9553330.73	596.354	596.806	PM	A	fra	-1	0	{vocalsound}
+IS1008d.D.dialog-act.s9553330.33	597.71	604.544	ME	D	inf	+1	2	Uh this is just production cost , it is not uh advertising cost , it's not transportation cost uh {disfmarker}
+IS1008d.A.dialog-act.s9553330.74	605.67	607.96	PM	A	inf	-1	0	Yes , so still uh we have twelve point five Euro .
+IS1008d.D.dialog-act.s9553330.34	606.915	614.67	ME	D	inf	+1	2	{vocalsound} And that will inflate quite a bit the cost of the uh {disfmarker} the cost of the unit for the company .
+IS1008d.A.dialog-act.s9553330.75	609.4	609.95	PM	A	bck	-1	0	Yes .
+IS1008d.A.dialog-act.s9553330.76	610.711	611.242	PM	A	fra	-1	0	{gap}
+IS1008d.A.dialog-act.s9553330.77	611.73	612.083	PM	A	fra	-1	0	Yeah , but {disfmarker}
+IS1008d.A.dialog-act.s9553330.78	613.04	614.12	PM	A	bck	-1	0	Yes . Yep .
+IS1008d.C.dialog-act.s9553330.84	614.14	614.41	UI	C	bck	-1	0	Um-hmm .
+IS1008d.D.dialog-act.s9553330.35	614.67	621.16	ME	D	inf	+1	2	So to come up with what the company wants is a fifty million Pound profit , we're gonna have to go a long ways .
+IS1008d.A.dialog-act.s9553330.79	621.0	621.5	PM	A	ass	-1	0	Yes .
+IS1008d.A.dialog-act.s9553330.80	621.5	623.57	PM	A	inf	-1	0	This we are talking about one unit , okay ,
+IS1008d.A.dialog-act.s9553330.81	623.57	628.0	PM	A	inf	+1	1	so when it go into the quantity , okay , and the cost will come down .
+IS1008d.D.dialog-act.s9553330.36	623.098	623.94	ME	D	bck	-1	0	{vocalsound} Yes .
+IS1008d.B.dialog-act.s9553330.32	629.624	640.16	ID	B	inf	+1	1	{vocalsound} Although customisation , because this is being done , you know , the on {disfmarker} on-order basis , it might be uh the the quantity won't m won't uh
+IS1008d.D.dialog-act.s9553330.37	629.9	630.41	ME	D	ass	-1	0	Slightly .
+IS1008d.A.dialog-act.s9553330.82	636.08	636.25	PM	A	bck	-1	0	Yeah .
+IS1008d.D.dialog-act.s9553330.38	636.45	638.78	ME	D	inf	+1	2	It's gonna be very hard to reduce .
+IS1008d.C.dialog-act.s9553330.85	637.98	638.75	UI	C	bck	-1	0	Yes .
+IS1008d.B.dialog-act.s9553330.33	640.16	643.33	ID	B	inf	-1	0	the circuit board will b you're right , would be in producing quantity ,
+IS1008d.B.dialog-act.s9553330.34	643.33	647.248	ID	B	inf	-1	0	but the cost of the case would uh {vocalsound} be fixed at the {disfmarker}
+IS1008d.B.dialog-act.s9553330.35	648.52	653.15	ID	B	ass	+1	1	Uh you got some pretty cheap labour that can do this case for one Euro .
+IS1008d.D.dialog-act.s9553330.39	652.31	654.97	ME	D	ass	-1	0	That's not bad . {vocalsound}
+IS1008d.B.dialog-act.s9553330.36	653.15	653.65	ID	B	fra	-1	0	{vocalsound} That's really {disfmarker}
+IS1008d.B.dialog-act.s9553330.37	653.65	657.29	ID	B	ass	-1	0	that's the cost of the material and lab wow , that's really outstanding .
+IS1008d.A.dialog-act.s9553330.83	654.57	654.71	PM	A	bck	-1	0	Yep .
+IS1008d.A.dialog-act.s9553330.84	655.73	655.91	PM	A	bck	-1	0	Yeah .
+IS1008d.A.dialog-act.s9553330.85	658.101	658.486	PM	A	fra	-1	0	{vocalsound}
+IS1008d.A.dialog-act.s9553330.86	659.747	662.35	PM	A	ass	-1	0	{vocalsound} But anyhow , still we are under control , okay ,
+IS1008d.A.dialog-act.s9553330.87	662.35	669.76	PM	A	off	+1	4	so what uh I will do is I will try to negotiate with the vendors , okay , to get uh the production cost less , okay ,
+IS1008d.A.dialog-act.s9553330.88	669.76	677.54	PM	A	inf	+1	1	so then we can save some money , okay , to put into th our marketing or uh you know the promotions , whatever , okay ,
+IS1008d.A.dialog-act.s9553330.89	677.54	679.72	PM	A	off	-1	0	so that uh I will look after .
+IS1008d.A.dialog-act.s9553330.90	679.72	684.73	PM	A	off	+1	4	I will speak to the management and how to get uh you know some more uh cost down .
+IS1008d.D.dialog-act.s9553330.40	690.04	692.41	ME	D	sug	-1	0	If we can go to to my display .
+IS1008d.D.dialog-act.s9553330.42	693.58	695.47	ME	D	inf	-1	0	And we'll come back to yours
+IS1008d.A.dialog-act.s9553330.91	695.13	695.42	PM	A	bck	-1	0	Yes .
+IS1008d.D.dialog-act.s9553330.43	695.47	697.9	ME	D	off	-1	0	just to give everybody an idea of the market .
+IS1008d.D.dialog-act.s9553330.44	701.51	705.92	ME	D	inf	+1	1	So now I'm gonna scare everybody out of this project . {vocalsound}
+IS1008d.B.dialog-act.s9553330.38	703.892	705.28	ID	B	fra	-1	0	{vocalsound}
+IS1008d.C.dialog-act.s9553330.86	703.872	705.04	UI	C	fra	-1	0	{vocalsound}
+IS1008d.D.dialog-act.s9553330.45	708.44	711.86	ME	D	oth	-1	0	If I'm still here .
+IS1008d.A.dialog-act.s9553330.92	710.92	711.68	PM	A	el.inf	-1	0	You're in four ?
+IS1008d.D.dialog-act.s9553330.46	711.86	711.86	ME	D	fra	-1	0	{gap}
+IS1008d.D.dialog-act.s9553330.47	711.86	712.08	ME	D	inf	-1	0	Yep
+IS1008d.D.dialog-act.s9553330.49	713.49	714.55	ME	D	oth	-1	0	The four gives me {disfmarker}
+IS1008d.D.dialog-act.s9553330.50	714.55	717.3	ME	D	inf	-1	0	it's gotta be uh TrendWatch .
+IS1008d.A.dialog-act.s9553330.93	715.83	716.56	PM	A	inf	-1	0	TrendWatch .
+IS1008d.B.dialog-act.s9553330.39	717.46	719.1	ID	B	el.inf	-1	0	Is this the same one you did before ?
+IS1008d.D.dialog-act.s9553330.51	719.92	720.11	ME	D	inf	-1	0	No .
+IS1008d.B.dialog-act.s9553330.40	721.09	721.49	ID	B	ass	-1	0	Okay .
+IS1008d.D.dialog-act.s9553330.52	722.59	723.16	ME	D	inf	-1	0	It shouldn't be
+IS1008d.C.dialog-act.s9553330.87	723.21	726.28	UI	C	inf	-1	0	That's {disfmarker} no , I think it's the same one .
+IS1008d.D.dialog-act.s9553330.53	723.16	725.02	ME	D	inf	-1	0	if it's not {disfmarker} it's not the right one .
+IS1008d.D.dialog-act.s9553330.54	725.02	726.76	ME	D	inf	-1	0	No , no we g no , that's the same one .
+IS1008d.D.dialog-act.s9553330.55	726.76	728.09	ME	D	sug	-1	0	You have to go back and find another one .
+IS1008d.D.dialog-act.s9553330.56	733.83	735.33	ME	D	sug	-1	0	Whatever name it popped up under .
+IS1008d.A.dialog-act.s9553330.94	735.354	736.006	PM	A	fra	-1	0	{vocalsound}
+IS1008d.C.dialog-act.s9553330.88	737.08	737.97	UI	C	sug	-1	0	Functional .
+IS1008d.D.dialog-act.s9553330.57	736.95	739.49	ME	D	sug	-1	0	Uh functional , try functional ,
+IS1008d.D.dialog-act.s9553330.58	739.49	741.15	ME	D	inf	-1	0	it might not be it either , but we'll see .
+IS1008d.B.dialog-act.s9553330.41	741.84	742.128	ID	B	fra	-1	0	{vocalsound}
+IS1008d.C.dialog-act.s9553330.89	742.47	743.1	UI	C	ass	-1	0	It looks like it ,
+IS1008d.C.dialog-act.s9553330.90	743.1	743.784	UI	C	fra	-1	0	there's {disfmarker} {vocalsound}
+IS1008d.C.dialog-act.s9553330.91	745.03	745.37	UI	C	bck	-1	0	S Yeah .
+IS1008d.D.dialog-act.s9553330.59	744.55	745.38	ME	D	inf	-1	0	Yep , that's it .
+IS1008d.D.dialog-act.s9553330.60	745.38	747.33	ME	D	sug	-1	0	So we'll go screen by screen .
+IS1008d.A.dialog-act.s9553330.95	746.49	746.76	PM	A	bck	-1	0	Okay .
+IS1008d.D.dialog-act.s9553330.61	747.33	748.35	ME	D	fra	-1	0	Although {vocalsound}
+IS1008d.D.dialog-act.s9553330.62	748.35	758.01	ME	D	inf	+1	1	since uh we need to have some type of idea on a market uh we had independent study that says it {disfmarker} this this market has an availability to absorb eight mi eight million units per year .
+IS1008d.D.dialog-act.s9553330.63	758.01	759.19	ME	D	el.und	-1	0	Okay ?
+IS1008d.D.dialog-act.s9553330.64	759.19	762.77	ME	D	inf	+1	1	Our internal company evaluation puts it between eight to nine million
+IS1008d.D.dialog-act.s9553330.65	762.77	764.97	ME	D	inf	-1	0	which is approximately the same as the independent study .
+IS1008d.A.dialog-act.s9553330.96	765.48	766.367	PM	A	bck	-1	0	Yep . {vocalsound}
+IS1008d.D.dialog-act.s9553330.67	766.11	767.97	ME	D	sug	-1	0	So if we continue ,
+IS1008d.D.dialog-act.s9553330.68	767.97	769.76	ME	D	inf	-1	0	we'll look at the findings .
+IS1008d.D.dialog-act.s9553330.69	769.76	770.43	ME	D	sug	-1	0	Next screen .
+IS1008d.D.dialog-act.s9553330.70	773.12	780.11	ME	D	inf	+1	1	{vocalsound} Which means that uh if we have a target of two million would the company has to take twenty five percent of the market in the first year ,
+IS1008d.A.dialog-act.s9553330.97	779.68	779.96	PM	A	bck	-1	0	Mm-hmm .
+IS1008d.D.dialog-act.s9553330.71	780.11	781.44	ME	D	inf	+1	1	which is actually a tremendous amount .
+IS1008d.B.dialog-act.s9553330.42	781.44	782.927	ID	B	ass	-1	0	{vocalsound} Yeah , no kidding . {vocalsound}
+IS1008d.D.dialog-act.s9553330.72	783.0	783.83	ME	D	inf	-1	0	No kidding , yeah .
+IS1008d.B.dialog-act.s9553330.43	784.11	786.12	ID	B	sug	-1	0	Mayb maybe they already expected something .
+IS1008d.D.dialog-act.s9553330.73	785.64	786.25	ME	D	stl	-1	0	So ,
+IS1008d.D.dialog-act.s9553330.74	786.25	792.96	ME	D	sug	+1	1	if we put an inflated price of fifty Euro at a production cost that cannot exceed twenty-five Euro ,
+IS1008d.D.dialog-act.s9553330.75	792.96	796.0	ME	D	inf	-1	0	okay , we're already in that that price , okay ,
+IS1008d.A.dialog-act.s9553330.98	794.95	795.42	PM	A	ass	-1	0	Yes .
+IS1008d.D.dialog-act.s9553330.76	796.0	808.17	ME	D	inf	+1	1	with transport , promotion , labour , because we hav {gap} gi included the promotion in the cost , transport for the material to the stores or whatever how however we're gonna break this down between our our retailers .
+IS1008d.C.dialog-act.s9553330.92	801.46	801.68	UI	C	bck	-1	0	Um-hmm .
+IS1008d.D.dialog-act.s9553330.77	808.96	812.22	ME	D	inf	-1	0	Twenty-five percent of the market to get to two million units .
+IS1008d.D.dialog-act.s9553330.78	812.22	819.1	ME	D	inf	+1	2	At two million units , we have to have a profit of twenty-five Euro per unit to get to the fifty million unit Eu Euro profit .
+IS1008d.A.dialog-act.s9553330.99	817.0	817.47	PM	A	bck	-1	0	Mm-hmm .
+IS1008d.A.dialog-act.s9553330.100	818.65	818.82	PM	A	ass	-1	0	Yep .
+IS1008d.D.dialog-act.s9553330.79	819.1	819.6	ME	D	el.und	-1	0	Okay ?
+IS1008d.D.dialog-act.s9553330.80	821.08	822.82	ME	D	fra	-1	0	So , obviously we w w
+IS1008d.D.dialog-act.s9553330.81	822.82	825.46	ME	D	inf	+1	1	I just did a run down the evaluation of the form ,
+IS1008d.D.dialog-act.s9553330.82	825.46	832.58	ME	D	inf	+1	1	the fan uh the fancy stylishness of the {disfmarker} of the unit , the ease of use , speech recognition , cost , we've gone through these .
+IS1008d.D.dialog-act.s9553330.83	832.58	839.47	ME	D	inf	+1	1	Now , the company must evaluate the feasibility of being able to take enough of the market to justify in production .
+IS1008d.D.dialog-act.s9553330.84	840.59	843.2	ME	D	sug	-1	0	Or we project this over two years ,
+IS1008d.D.dialog-act.s9553330.85	843.2	848.95	ME	D	inf	+1	1	but being that the market changes very very quickly , maybe there's no more interest in buying this thing in eighteen months from now .
+IS1008d.A.dialog-act.s9553330.101	845.45	845.79	PM	A	bck	-1	0	Yes .
+IS1008d.A.dialog-act.s9553330.102	848.33	848.49	PM	A	bck	-1	0	Yep .
+IS1008d.A.dialog-act.s9553330.104	849.42	850.21	PM	A	ass	-1	0	Of course .
+IS1008d.D.dialog-act.s9553330.86	848.95	851.38	ME	D	sug	+1	1	So , now we have to come up with a decision .
+IS1008d.C.dialog-act.s9553330.93	849.59	849.84	UI	C	bck	-1	0	Mm .
+IS1008d.D.dialog-act.s9553330.87	851.38	853.68	ME	D	el.inf	+1	1	Can the company sell two million units ?
+IS1008d.A.dialog-act.s9553330.103	853.4	853.55	PM	A	bck	-1	0	Yep .
+IS1008d.D.dialog-act.s9553330.88	853.68	856.22	ME	D	el.inf	+1	1	Can it sell it for fifty Euros ?
+IS1008d.B.dialog-act.s9553330.44	855.18	858.64	ID	B	sug	-1	0	Could could I go to findings ?
+IS1008d.A.dialog-act.s9553330.105	855.81	856.14	PM	A	bck	-1	0	Yep .
+IS1008d.B.dialog-act.s9553330.45	858.64	869.13	ID	B	off	+1	1	Uh uh um I would uh like to explore the possibility of using um alternative um delivery and sales channel
+IS1008d.B.dialog-act.s9553330.46	869.13	875.37	ID	B	sug	+1	1	which would be um to use the internet for promotion and ordering
+IS1008d.A.dialog-act.s9553330.106	872.86	873.29	PM	A	bck	-1	0	Yes .
+IS1008d.C.dialog-act.s9553330.94	872.408	874.55	UI	C	ass	-1	0	{vocalsound} I was thinking the same thing , yeah .
+IS1008d.B.dialog-act.s9553330.47	875.37	880.12	ID	B	sug	+1	1	and then to drop-ship the p product to the customer's residence .
+IS1008d.C.dialog-act.s9553330.97	878.72	879.41	UI	C	ass	-1	0	Directly .
+IS1008d.B.dialog-act.s9553330.48	880.12	882.91	ID	B	inf	-1	0	That way you have no storage , you have no um {disfmarker}
+IS1008d.B.dialog-act.s9553330.49	882.91	886.21	ID	B	inf	-1	0	you do have transportation , still have the labour cost ,
+IS1008d.C.dialog-act.s9553330.95	884.57	884.88	UI	C	bck	-1	0	Um-hmm .
+IS1008d.B.dialog-act.s9553330.50	886.21	891.16	ID	B	inf	-1	0	but you don't have the transport to the uh point of sale .
+IS1008d.A.dialog-act.s9553330.107	890.85	891.27	PM	A	bck	-1	0	Yes .
+IS1008d.B.dialog-act.s9553330.51	891.16	893.22	ID	B	inf	-1	0	The point of sale is online .
+IS1008d.C.dialog-act.s9553330.96	891.14	891.44	UI	C	bck	-1	0	Yeah .
+IS1008d.A.dialog-act.s9553330.108	892.39	893.27	PM	A	oth	-1	0	To the agents .
+IS1008d.C.dialog-act.s9553330.98	894.08	894.5	UI	C	ass	-1	0	Yeah .
+IS1008d.C.dialog-act.s9553330.99	894.5	896.5	UI	C	sug	+1	1	You can do a shipping centre somewhere ,
+IS1008d.C.dialog-act.s9553330.100	896.5	901.12	UI	C	sug	+1	1	or strategically place shipping centres to minimise distance costs .
+IS1008d.B.dialog-act.s9553330.52	898.53	900.18	ID	B	ass	-1	0	Right , like Amazon .
+IS1008d.B.dialog-act.s9553330.53	900.18	901.97	ID	B	sug	+1	2	In fact , we should sell through Amazon ,
+IS1008d.A.dialog-act.s9553330.109	900.73	901.09	PM	A	bck	-1	0	Yes .
+IS1008d.A.dialog-act.s9553330.110	902.19	903.099	PM	A	sug	-1	0	Or eBay , or {disfmarker}
+IS1008d.B.dialog-act.s9553330.54	901.97	903.08	ID	B	el.ass	-1	0	don't you think ?
+IS1008d.B.dialog-act.s9553330.55	903.08	904.12	ID	B	ass	+1	2	Or eBay , yeah .
+IS1008d.A.dialog-act.s9553330.111	903.82	904.34	PM	A	bck	-1	0	Yes .
+IS1008d.C.dialog-act.s9553330.101	904.18	904.46	UI	C	bck	-1	0	Yeah .
+IS1008d.B.dialog-act.s9553330.56	906.38	907.13	ID	B	ass	-1	0	There's an idea .
+IS1008d.D.dialog-act.s9553330.89	906.375	907.114	ME	D	fra	-1	0	{gap}
+IS1008d.A.dialog-act.s9553330.112	907.28	908.19	PM	A	ass	-1	0	Yeah , that's a good idea .
+IS1008d.B.dialog-act.s9553330.57	907.13	909.984	ID	B	fra	-1	0	Going with um {disfmarker}
+IS1008d.A.dialog-act.s9553330.113	909.54	911.168	PM	A	inf	-1	0	To impro more profit and uh {disfmarker}
+IS1008d.D.dialog-act.s9553330.90	910.53	914.46	ME	D	inf	-1	0	S Upscale technology .
+IS1008d.A.dialog-act.s9553330.114	911.68	912.5	PM	A	bck	-1	0	Yeah , yes .
+IS1008d.B.dialog-act.s9553330.58	912.58	917.568	ID	B	inf	-1	0	Ah , we we're do you know , selling a unique product uh . {vocalsound}
+IS1008d.D.dialog-act.s9553330.91	914.46	914.7	ME	D	ass	-1	0	{vocalsound} Well .
+IS1008d.C.dialog-act.s9553330.102	918.6	921.66	UI	C	inf	+1	1	That actually makes more sense if we're gonna make it so highly customisable ,
+IS1008d.C.dialog-act.s9553330.103	921.66	929.21	UI	C	inf	+1	1	'cause on the web people can look at the different options they have , see maybe what other people have done , what the range of possibility as ,
+IS1008d.B.dialog-act.s9553330.59	927.6	928.29	ID	B	bck	-1	0	Mm .
+IS1008d.D.dialog-act.s9553330.92	928.5	930.25	ME	D	inf	-1	0	There are several companies that have gone that way .
+IS1008d.C.dialog-act.s9553330.104	929.21	937.1	UI	C	inf	-1	0	whereas if you're in a store , you can't {disfmarker} unless you're a highly imaginative person , you may not really know what it is you want ,
+IS1008d.B.dialog-act.s9553330.60	931.1	931.44	ID	B	bck	-1	0	Mm .
+IS1008d.C.dialog-act.s9553330.105	937.1	940.432	UI	C	inf	-1	0	whereas on the web , if you have a bunch of pictures , it can sort of trigger ideas and {disfmarker}
+IS1008d.B.dialog-act.s9553330.61	938.3	938.59	ID	B	bck	-1	0	Mm-hmm .
+IS1008d.B.dialog-act.s9553330.62	940.81	946.34	ID	B	sug	+1	1	And you can even have an {disfmarker} a movie that you can rotate the object and look at the di
+IS1008d.B.dialog-act.s9553330.63	946.34	948.94	ID	B	inf	+1	1	the only thing that you're missing really is the weight .
+IS1008d.C.dialog-act.s9553330.106	945.94	946.27	UI	C	bck	-1	0	Yeah .
+IS1008d.C.dialog-act.s9553330.107	948.25	949.4	UI	C	inf	+1	1	The weight and feel .
+IS1008d.D.dialog-act.s9553330.93	948.66	951.184	ME	D	inf	-1	0	Weight , the feel of the product , but {disfmarker}
+IS1008d.B.dialog-act.s9553330.64	950.11	950.36	ID	B	bck	-1	0	Mm .
+IS1008d.C.dialog-act.s9553330.108	950.24	950.47	UI	C	bck	-1	0	Yeah .
+IS1008d.B.dialog-act.s9553330.65	951.59	952.58	ID	B	inf	-1	0	We're getting used to that .
+IS1008d.B.dialog-act.s9553330.66	952.58	954.72	ID	B	inf	-1	0	It's not quite like trying on a shoe ,
+IS1008d.B.dialog-act.s9553330.67	954.72	960.96	ID	B	inf	+1	1	but people are getting used to buying things online that they can't touch before buying .
+IS1008d.C.dialog-act.s9553330.109	956.77	957.11	UI	C	bck	-1	0	Yeah .
+IS1008d.C.dialog-act.s9553330.110	960.04	960.27	UI	C	bck	-1	0	Yeah .
+IS1008d.D.dialog-act.s9553330.94	960.34	962.87	ME	D	inf	-1	0	There are several that have gone through with the watches , too .
+IS1008d.D.dialog-act.s9553330.95	962.87	964.2	ME	D	inf	-1	0	You can customise a watch ,
+IS1008d.D.dialog-act.s9553330.96	964.2	966.67	ME	D	inf	-1	0	you can see how it is at the f at the end of the production ,
+IS1008d.B.dialog-act.s9553330.68	965.737	967.43	ID	B	bck	-1	0	{vocalsound} Uh-huh .
+IS1008d.C.dialog-act.s9553330.111	965.48	966.03	UI	C	bck	-1	0	Mm-hmm .
+IS1008d.D.dialog-act.s9553330.97	966.67	968.428	ME	D	inf	-1	0	you can change it uh {disfmarker}
+IS1008d.D.dialog-act.s9553330.98	968.73	970.94	ME	D	inf	-1	0	There's a lot of online that's {disfmarker} that is doing this now .
+IS1008d.C.dialog-act.s9553330.112	970.19	970.62	UI	C	bck	-1	0	Yes .
+IS1008d.D.dialog-act.s9553330.99	971.23	975.03	ME	D	inf	-1	0	And when you're rotating , you'll look behind and look this way uh
+IS1008d.D.dialog-act.s9553330.100	975.03	976.1	ME	D	sug	-1	0	{disfmarker} it's possible to do with this ,
+IS1008d.D.dialog-act.s9553330.101	976.1	985.45	ME	D	inf	+1	1	maybe there's a possibility of selling more than two million units in one year , which could {vocalsound} you know , feasibili feasibility uh lower the price of the unit .
+IS1008d.A.dialog-act.s9553330.115	979.29	979.49	PM	A	bck	-1	0	Yeah .
+IS1008d.C.dialog-act.s9553330.113	985.3	985.56	UI	C	bck	-1	0	Mm-hmm .
+IS1008d.A.dialog-act.s9553330.116	987.8	988.24	PM	A	ass	-1	0	We can .
+IS1008d.B.dialog-act.s9553330.69	988.58	988.89	ID	B	ass	-1	0	Great .
+IS1008d.A.dialog-act.s9553330.117	989.94	992.0	PM	A	inf	+1	1	I don't think that's uh not possible ,
+IS1008d.A.dialog-act.s9553330.118	992.0	993.19	PM	A	fra	-1	0	it's uh {disfmarker}
+IS1008d.A.dialog-act.s9553330.119	993.19	997.8	PM	A	sug	+1	2	okay then , l uh let's wait for the production , okay , then uh you can evaluate the product ,
+IS1008d.A.dialog-act.s9553330.120	997.8	1001.92	PM	A	inf	+1	1	so how it looks like technically and uh how it look like uh the real .
+IS1008d.C.dialog-act.s9553330.114	1002.72	1004.43	UI	C	el.inf	-1	0	What turnaround time do we have ?
+IS1008d.A.dialog-act.s9553330.121	1004.81	1004.95	PM	A	fra	-1	0	T
+IS1008d.C.dialog-act.s9553330.115	1006.13	1010.26	UI	C	inf	-1	0	'Cause I mean production evaluation can be very very quick or very very long .
+IS1008d.A.dialog-act.s9553330.122	1007.88	1008.316	PM	A	fra	-1	0	Oh but {disfmarker}
+IS1008d.A.dialog-act.s9553330.123	1009.91	1011.75	PM	A	inf	-1	0	Yes it's it's very quick , of course .
+IS1008d.A.dialog-act.s9553330.124	1011.75	1014.86	PM	A	inf	-1	0	It will uh come back in two weeks , okay ,
+IS1008d.A.dialog-act.s9553330.125	1014.86	1016.81	PM	A	inf	-1	0	it will be ready in two weeks .
+IS1008d.B.dialog-act.s9553330.70	1016.25	1016.96	ID	B	ass	-1	0	Works for me .
+IS1008d.A.dialog-act.s9553330.126	1016.81	1018.0	PM	A	inf	-1	0	For evaluation , okay .
+IS1008d.B.dialog-act.s9553330.71	1018.336	1018.704	ID	B	fra	-1	0	{vocalsound}
+IS1008d.B.dialog-act.s9553330.72	1019.96	1021.85	ID	B	el.inf	-1	0	Prototypes , you mean .
+IS1008d.A.dialog-act.s9553330.127	1021.51	1024.02	PM	A	inf	-1	0	Yes , the prototype uh {disfmarker} prototype product evaluation .
+IS1008d.B.dialog-act.s9553330.73	1021.85	1022.996	ID	B	fra	-1	0	In um {disfmarker}
+IS1008d.B.dialog-act.s9553330.74	1024.1	1031.5	ID	B	sug	+1	1	We probably should do some market tests uh once we have the prototypes and do some orders and things like that and test-market it .
+IS1008d.A.dialog-act.s9553330.128	1026.07	1026.61	PM	A	bck	-1	0	Yes .
+IS1008d.A.dialog-act.s9553330.129	1027.88	1029.96	PM	A	bck	-1	0	Yes . Yes .
+IS1008d.D.dialog-act.s9553330.102	1027.49	1028.38	ME	D	ass	-1	0	Well , obviously .
+IS1008d.C.dialog-act.s9553330.116	1028.66	1028.94	UI	C	bck	-1	0	Yeah .
+IS1008d.A.dialog-act.s9553330.130	1031.79	1031.88	PM	A	bck	-1	0	Yeah .
+IS1008d.D.dialog-act.s9553330.103	1031.58	1034.35	ME	D	sug	+1	0	Mm that'd have to be thrown out on the market for people to get an idea ,
+IS1008d.A.dialog-act.s9553330.131	1034.39	1037.23	PM	A	inf	+1	0	So you can take a minimum two weeks to a maximum four weeks .
+IS1008d.D.dialog-act.s9553330.104	1034.35	1036.128	ME	D	fra	-1	0	to see {disfmarker} get get their {disfmarker}
+IS1008d.C.dialog-act.s9553330.117	1035.09	1035.48	UI	C	bck	-1	0	Mm-hmm .
+IS1008d.C.dialog-act.s9553330.118	1037.25	1044.57	UI	C	inf	+1	0	Think minimum two weeks if we're gonna develop prototypes and then try to take them to different places and see how people use {disfmarker}
+IS1008d.A.dialog-act.s9553330.132	1038.09	1038.28	PM	A	bck	-1	0	Yeah .
+IS1008d.C.dialog-act.s9553330.119	1044.57	1046.72	UI	C	inf	-1	0	it's not a trivial task .
+IS1008d.A.dialog-act.s9553330.133	1046.44	1052.05	PM	A	inf	-1	0	Yeah , because we we are not going to do it in uh our factory , okay , so we can give it a product evalua
+IS1008d.C.dialog-act.s9553330.120	1049.92	1050.79	UI	C	ass	-1	0	No no .
+IS1008d.C.dialog-act.s9553330.121	1050.79	1053.242	UI	C	inf	-1	0	We definitely shouldn't do it in our factory . {vocalsound}
+IS1008d.A.dialog-act.s9553330.134	1052.05	1053.32	PM	A	ass	-1	0	Yes , yes .
+IS1008d.B.dialog-act.s9553330.75	1052.586	1054.076	ID	B	fra	-1	0	{vocalsound}
+IS1008d.A.dialog-act.s9553330.135	1054.21	1056.73	PM	A	inf	-1	0	So we'll do it in the other place ,
+IS1008d.A.dialog-act.s9553330.136	1056.73	1058.88	PM	A	inf	-1	0	and I don't think it's take more than four weeks time .
+IS1008d.A.dialog-act.s9553330.137	1061.53	1062.1	PM	A	stl	-1	0	Or uh {disfmarker}
+IS1008d.A.dialog-act.s9553330.138	1064.03	1069.07	PM	A	inf	+1	0	Okay , so then the real production we will start once we product evaluation , okay ,
+IS1008d.A.dialog-act.s9553330.139	1069.07	1079.32	PM	A	inf	-1	0	then uh it's approve from uh the technical team and uh your team , okay , uh from the management , then we can launch in the market .
+IS1008d.A.dialog-act.s9553330.140	1081.75	1081.9	PM	A	bck	-1	0	Hm ?
+IS1008d.B.dialog-act.s9553330.76	1082.2	1083.4	ID	B	el.sug	-1	0	Any outstanding {disfmarker} {vocalsound} ?
+IS1008d.A.dialog-act.s9553330.141	1083.73	1088.95	PM	A	el.sug	-1	0	S Any any other uh questions or uh comments to be discuss ?
+IS1008d.B.dialog-act.s9553330.77	1091.53	1092.73	ID	B	fra	-1	0	No , I'm
+IS1008d.C.dialog-act.s9553330.122	1091.58	1092.06	UI	C	fra	-1	0	What ab
+IS1008d.B.dialog-act.s9553330.78	1092.73	1093.06	ID	B	be.pos	-1	0	{disfmarker} go ahead .
+IS1008d.D.dialog-act.s9553330.105	1092.25	1093.87	ME	D	ass	-1	0	I think we pretty much covered everything .
+IS1008d.A.dialog-act.s9553330.142	1094.08	1095.566	PM	A	fra	-1	0	Okay , so then uh {disfmarker}
+IS1008d.B.dialog-act.s9553330.79	1094.96	1095.89	ID	B	el.sug	-1	0	Did you have something ?
+IS1008d.C.dialog-act.s9553330.123	1095.568	1106.91	UI	C	el.inf	+1	2	{vocalsound} Well I was just wondering about if we're gonna do a product evaluation then what about time for redesign if the users come back and tell us no this is bad , this is bad , we want this done differently .
+IS1008d.A.dialog-act.s9553330.143	1109.0	1111.45	PM	A	sug	-1	0	Okay uh , let's take like this .
+IS1008d.A.dialog-act.s9553330.144	1111.45	1116.2	PM	A	sug	+1	1	Let's proceed with this model , okay , for the for the marketing direction , okay .
+IS1008d.B.dialog-act.s9553330.80	1114.224	1114.544	ID	B	fra	-1	0	{vocalsound}
+IS1008d.A.dialog-act.s9553330.145	1116.2	1121.4	PM	A	inf	+1	3	So no more changes will be made , okay , in this {disfmarker} the basic design .
+IS1008d.A.dialog-act.s9553330.146	1122.55	1123.32	PM	A	el.und	-1	0	Okay ?
+IS1008d.A.dialog-act.s9553330.147	1123.32	1127.02	PM	A	inf	+1	2	So we will introduce m this model and uh let's introduce in the market
+IS1008d.A.dialog-act.s9553330.148	1127.02	1131.57	PM	A	inf	+1	2	and let's take the feedback from the customers , then we can uh go for the
+IS1008d.B.dialog-act.s9553330.81	1132.24	1133.27	ID	B	inf	-1	0	Second generation .
+IS1008d.A.dialog-act.s9553330.149	1132.77	1133.8	PM	A	inf	+1	1	second generation .
+IS1008d.C.dialog-act.s9553330.124	1133.952	1134.704	UI	C	fra	-1	0	{vocalsound}
+IS1008d.A.dialog-act.s9553330.150	1134.89	1138.32	PM	A	inf	-1	0	Okay . There's no end , there's not limit .
+IS1008d.B.dialog-act.s9553330.82	1135.472	1136.622	ID	B	fra	-1	0	{vocalsound}
+IS1008d.C.dialog-act.s9553330.125	1137.72	1144.62	UI	C	inf	+1	2	The problem is there might not be a second generation if the first generation flops for some silly reason that we haven't thought of .
+IS1008d.A.dialog-act.s9553330.151	1138.32	1139.47	PM	A	fra	-1	0	Every every custom
+IS1008d.B.dialog-act.s9553330.83	1140.491	1141.458	ID	B	fra	-1	0	{vocalsound}
+IS1008d.D.dialog-act.s9553330.106	1140.52	1141.37	ME	D	ass	-1	0	Well , then it may not be .
+IS1008d.A.dialog-act.s9553330.152	1142.71	1142.85	PM	A	bck	-1	0	Okay .
+IS1008d.A.dialog-act.s9553330.153	1143.06	1150.65	PM	A	inf	+1	2	Well , every customer , okay , they have their own ideas , they have their own test , okay , so there's no end , there's no limit .
+IS1008d.D.dialog-act.s9553330.107	1144.27	1147.437	ME	D	sug	-1	0	Like people don't like wood . {vocalsound}
+IS1008d.C.dialog-act.s9553330.126	1152.82	1165.53	UI	C	inf	+1	2	No , but there's a difference between releasing a product that has been minimally tested and fine-tuned to suit a general range of requirements versus releasing a product that we think will work but we don't really have anything to back it up .
+IS1008d.D.dialog-act.s9553330.108	1164.301	1165.71	ME	D	inf	-1	0	{gap} very specific .
+IS1008d.A.dialog-act.s9553330.154	1165.88	1168.88	PM	A	inf	-1	0	Yeah , so that's the reason you are here for uh the design , okay ,
+IS1008d.A.dialog-act.s9553330.155	1168.88	1170.54	PM	A	el.ass	-1	0	I hope you made a good design .
+IS1008d.C.dialog-act.s9553330.127	1169.62	1172.0	UI	C	ass	-1	0	Yes , but I'm not everybody .
+IS1008d.B.dialog-act.s9553330.84	1170.8	1171.472	ID	B	fra	-1	0	{vocalsound}
+IS1008d.C.dialog-act.s9553330.128	1172.0	1176.21	UI	C	inf	+1	2	I mean the whole point of user evaluation is to see what real people need .
+IS1008d.C.dialog-act.s9553330.129	1176.21	1179.57	UI	C	inf	-1	0	We have our own motivations in mind , we have our own ideas in mind ,
+IS1008d.C.dialog-act.s9553330.130	1179.57	1181.56	UI	C	inf	-1	0	but that doesn't mean that that's what's gonna sell .
+IS1008d.A.dialog-act.s9553330.156	1181.524	1185.08	PM	A	inf	-1	0	{vocalsound} Yeah , but uh see , we ought to take a few considerations , okay ,
+IS1008d.A.dialog-act.s9553330.157	1185.08	1192.64	PM	A	inf	-1	0	one is the price consideration , one is future consideration , okay , like uh you can eat uh {disfmarker} you can all eat more chi I can eat more chilli , okay ,
+IS1008d.A.dialog-act.s9553330.158	1192.64	1195.84	PM	A	inf	-1	0	so i it's a depends on the individual taste , you know ,
+IS1008d.B.dialog-act.s9553330.85	1192.528	1193.061	ID	B	fra	-1	0	{vocalsound}
+IS1008d.A.dialog-act.s9553330.159	1195.84	1197.97	PM	A	inf	-1	0	so we have we have to balance somewhere .
+IS1008d.C.dialog-act.s9553330.131	1198.93	1199.57	UI	C	ass	-1	0	Yeah , of course .
+IS1008d.C.dialog-act.s9553330.132	1199.57	1206.88	UI	C	inf	-1	0	I'm just trying to point out that I think that your evaluation and redesign turnaround time is too short {disfmarker}
+IS1008d.C.dialog-act.s9553330.133	1206.88	1213.552	UI	C	inf	+1	3	well you have no redesign {disfmarker} not you personally , but in the project we have no redesign time and {disfmarker}
+IS1008d.A.dialog-act.s9553330.160	1209.68	1209.95	PM	A	bck	-1	0	Yes .
+IS1008d.B.dialog-act.s9553330.86	1210.32	1213.05	ID	B	inf	-1	0	Our project doesn't {disfmarker} um
+IS1008d.A.dialog-act.s9553330.161	1211.01	1211.1	PM	A	bck	-1	0	Yeah .
+IS1008d.B.dialog-act.s9553330.87	1214.34	1221.04	ID	B	el.inf	+1	1	Ed , d do you know what season of the year or time of the year is the most important for T_V_ remote control sales ?
+IS1008d.D.dialog-act.s9553330.109	1221.0	1221.22	ME	D	bck	-1	0	Hmm .
+IS1008d.B.dialog-act.s9553330.88	1222.58	1225.68	ID	B	sug	+1	1	Would it be the Christmas season by any chance ?
+IS1008d.A.dialog-act.s9553330.162	1224.69	1225.63	PM	A	inf	+1	1	The sports time .
+IS1008d.B.dialog-act.s9553330.89	1225.68	1227.18	ID	B	ass	+1	1	Sports season .
+IS1008d.B.dialog-act.s9553330.90	1228.46	1229.61	ID	B	el.inf	-1	0	Which sport season ?
+IS1008d.D.dialog-act.s9553330.110	1228.03	1232.88	ME	D	inf	+1	1	Right before the Eur {vocalsound} the World Cup . {vocalsound} World soccer . World Cup soccer ,
+IS1008d.A.dialog-act.s9553330.163	1230.27	1230.88	PM	A	inf	-1	0	Football .
+IS1008d.B.dialog-act.s9553330.91	1230.84	1232.43	ID	B	fra	-1	0	So {disfmarker} so
+IS1008d.C.dialog-act.s9553330.134	1230.92	1232.256	UI	C	bck	-1	0	Yeah . {vocalsound}
+IS1008d.D.dialog-act.s9553330.111	1232.88	1238.38	ME	D	inf	-1	0	they need those things that they have their hands g occupied and they need to be able to talk to the con remote control .
+IS1008d.A.dialog-act.s9553330.164	1233.7	1234.39	PM	A	inf	-1	0	Football .
+IS1008d.B.dialog-act.s9553330.92	1234.47	1235.896	ID	B	fra	-1	0	maybe what {vocalsound} {disfmarker}
+IS1008d.C.dialog-act.s9553330.135	1236.225	1238.025	UI	C	fra	-1	0	{vocalsound}
+IS1008d.B.dialog-act.s9553330.93	1238.62	1247.78	ID	B	sug	+1	1	So I think what we need to do is perhaps to synchronise the final {disfmarker} the the launch of a user-tested device with some {gap} special event .
+IS1008d.D.dialog-act.s9553330.112	1239.014	1239.967	ME	D	fra	-1	0	{vocalsound}
+IS1008d.A.dialog-act.s9553330.165	1244.74	1245.07	PM	A	bck	-1	0	Yes .
+IS1008d.A.dialog-act.s9553330.166	1247.31	1247.6	PM	A	bck	-1	0	Yes .
+IS1008d.B.dialog-act.s9553330.94	1247.78	1249.56	ID	B	fra	-1	0	And and then um {disfmarker}
+IS1008d.C.dialog-act.s9553330.136	1247.43	1248.53	UI	C	ass	+1	1	Yeah , that's a good idea .
+IS1008d.B.dialog-act.s9553330.95	1249.56	1253.53	ID	B	inf	-1	0	so that gives us a little more time perhaps then we anticipated ,
+IS1008d.B.dialog-act.s9553330.96	1253.53	1255.89	ID	B	inf	-1	0	because I don't know when the World Cup is ,
+IS1008d.B.dialog-act.s9553330.97	1255.89	1257.77	ID	B	inf	-1	0	but I'm sure there's gonna be one .
+IS1008d.D.dialog-act.s9553330.113	1257.057	1258.99	ME	D	sug	-1	0	{vocalsound} Or any major sports .
+IS1008d.B.dialog-act.s9553330.98	1259.29	1261.31	ID	B	inf	-1	0	Or another {gap} m major sports event .
+IS1008d.B.dialog-act.s9553330.99	1261.31	1265.33	ID	B	sug	-1	0	Probably not the um the football games coming up the end of January .
+IS1008d.B.dialog-act.s9553330.100	1265.33	1268.06	ID	B	inf	-1	0	I think that might be a little too aggressive um ,
+IS1008d.A.dialog-act.s9553330.168	1267.12	1267.36	PM	A	bck	-1	0	Yes .
+IS1008d.C.dialog-act.s9553330.137	1267.3	1267.52	UI	C	bck	-1	0	Yeah .
+IS1008d.B.dialog-act.s9553330.101	1268.06	1277.47	ID	B	sug	+1	1	but , so , I'm just ig uh pointing out a uh a strategy to uh do some additional user testing
+IS1008d.A.dialog-act.s9553330.167	1277.09	1277.6	PM	A	sug	-1	0	Research .
+IS1008d.B.dialog-act.s9553330.102	1277.47	1282.15	ID	B	sug	+1	1	pri and then to launch um at a a major sports event
+IS1008d.C.dialog-act.s9553330.138	1277.25	1277.5	UI	C	bck	-1	0	Mm-hmm .
+IS1008d.A.dialog-act.s9553330.169	1282.2	1282.47	PM	A	bck	-1	0	Yep .
+IS1008d.B.dialog-act.s9553330.103	1282.15	1284.96	ID	B	fra	-1	0	or uh perhaps to uh also {disfmarker}
+IS1008d.C.dialog-act.s9553330.139	1283.758	1286.17	UI	C	inf	+1	2	{vocalsound} That's actually good place to advertise it too .
+IS1008d.B.dialog-act.s9553330.104	1286.56	1288.24	ID	B	sug	-1	0	And to work with motion pictures .
+IS1008d.C.dialog-act.s9553330.140	1287.43	1287.74	UI	C	bck	-1	0	Yeah .
+IS1008d.B.dialog-act.s9553330.105	1288.24	1298.87	ID	B	inf	+1	2	{vocalsound} There might be some motion pictures that are coming out um {disfmarker} that are coming out on D_V_D_ that uh they need to have a m special remote control to work with it ,
+IS1008d.B.dialog-act.s9553330.106	1298.87	1303.97	ID	B	sug	-1	0	so we could maybe work out a campaign with uh with Sony Pictures for example .
+IS1008d.A.dialog-act.s9553330.170	1303.16	1303.58	PM	A	bck	-1	0	Yes .
+IS1008d.B.dialog-act.s9553330.107	1303.97	1308.22	ID	B	sug	+1	1	Maybe some management has got uh relationships there we can leverage .
+IS1008d.C.dialog-act.s9553330.141	1304.18	1304.45	UI	C	bck	-1	0	Mm-hmm .
+IS1008d.A.dialog-act.s9553330.171	1308.23	1312.38	PM	A	off	+1	2	Yes , the {disfmarker} that of course uh I will convince the management to do that , okay .
+IS1008d.B.dialog-act.s9553330.108	1312.24	1315.68	ID	B	ass	-1	0	{vocalsound} That's great . {vocalsound}
+IS1008d.C.dialog-act.s9553330.142	1316.81	1318.44	UI	C	inf	-1	0	It's just something to to keep in mind ,
+IS1008d.C.dialog-act.s9553330.143	1318.44	1319.96	UI	C	inf	-1	0	'cause it's really really important .
+IS1008d.A.dialog-act.s9553330.172	1319.054	1321.07	PM	A	ass	-1	0	{vocalsound} Sure , sure , yes .
+IS1008d.C.dialog-act.s9553330.144	1319.96	1324.68	UI	C	inf	+1	1	A lot of products have gone out there without being properly user-tested and completely flopped ,
+IS1008d.C.dialog-act.s9553330.145	1324.68	1330.33	UI	C	inf	+1	1	when in fact it gets re-released a few years down the line with proper testing and it takes off like crazy .
+IS1008d.B.dialog-act.s9553330.110	1330.84	1334.16	ID	B	inf	-1	0	Disposable diapers is an example of that in fact . {vocalsound}
+IS1008d.C.dialog-act.s9553330.146	1333.056	1334.7	UI	C	el.inf	-1	0	{vocalsound} Really ?
+IS1008d.B.dialog-act.s9553330.111	1334.16	1335.01	ID	B	inf	-1	0	Yes ,
+IS1008d.B.dialog-act.s9553330.112	1335.01	1342.81	ID	B	inf	-1	0	it is one of the first consumer products that was launched about thirty years {disfmarker} that was a disposable consumer product ,
+IS1008d.C.dialog-act.s9553330.147	1334.7	1335.864	UI	C	inf	-1	0	{vocalsound} That I didn't know . {vocalsound}
+IS1008d.B.dialog-act.s9553330.113	1342.81	1343.83	ID	B	fra	-1	0	and uh people {disfmarker}
+IS1008d.B.dialog-act.s9553330.114	1343.83	1351.94	ID	B	inf	-1	0	the market hadn't really {vocalsound} gotten on to the concept that you could use something and then throw it away , 'cause it wasn't uh {disfmarker}
+IS1008d.C.dialog-act.s9553330.148	1349.82	1350.14	UI	C	bck	-1	0	Mm-hmm .
+IS1008d.B.dialog-act.s9553330.115	1351.94	1355.9	ID	B	inf	-1	0	but then when they re-launched them thirty years later , they were virtually the same design ,
+IS1008d.A.dialog-act.s9553330.173	1355.798	1356.572	PM	A	fra	-1	0	{gap} .
+IS1008d.B.dialog-act.s9553330.116	1355.9	1362.52	ID	B	inf	-1	0	but people had gotten the throw-away , you know , paper cups and napki y all kinds of things that they hadn't um {disfmarker}
+IS1008d.B.dialog-act.s9553330.117	1362.52	1365.62	ID	B	inf	+1	1	so , you're right , timing is very important ,
+IS1008d.C.dialog-act.s9553330.149	1363.27	1363.57	UI	C	bck	-1	0	Yeah .
+IS1008d.A.dialog-act.s9553330.174	1365.43	1365.58	PM	A	bck	-1	0	Yeah .
+IS1008d.B.dialog-act.s9553330.118	1365.62	1367.17	ID	B	inf	-1	0	but I think we've got a good product .
+IS1008d.A.dialog-act.s9553330.175	1367.66	1369.01	PM	A	inf	-1	0	That's the reason Ed is here .
+IS1008d.C.dialog-act.s9553330.150	1367.54	1367.67	UI	C	bck	-1	0	Yeah .
+IS1008d.A.dialog-act.s9553330.176	1369.01	1374.33	PM	A	sug	+1	1	I think he can promote the the brand value and the product value .
+IS1008d.B.dialog-act.s9553330.119	1369.09	1369.69	ID	B	ass	-1	0	That's right .
+IS1008d.B.dialog-act.s9553330.120	1373.23	1376.471	ID	B	inf	-1	0	It's gonna be very important to the company . {vocalsound}
+IS1008d.A.dialog-act.s9553330.177	1374.33	1374.73	PM	A	bck	-1	0	Yes .
+IS1008d.A.dialog-act.s9553330.178	1377.59	1380.4	PM	A	inf	-1	0	We are behind the scene and he is the front screen , so .
+IS1008d.C.dialog-act.s9553330.151	1380.53	1380.67	UI	C	ass	-1	0	Yep .
+IS1008d.A.dialog-act.s9553330.179	1382.15	1383.12	PM	A	inf	-1	0	He's on the big screen .
+IS1008d.D.dialog-act.s9553330.114	1381.69	1385.76	ME	D	off	-1	0	Yeah , I'm the one who takes the heat .
+IS1008d.C.dialog-act.s9553330.152	1382.912	1389.264	UI	C	ass	-1	0	{vocalsound} Exactly . {vocalsound}
+IS1008d.B.dialog-act.s9553330.121	1384.32	1385.89	ID	B	be.pos	-1	0	{vocalsound} Good luck , Ed .
+IS1008d.D.dialog-act.s9553330.115	1385.76	1388.544	ME	D	inf	-1	0	{vocalsound} If it's a flop , it's the marketer . {vocalsound}
+IS1008d.B.dialog-act.s9553330.122	1388.464	1394.93	ID	B	ass	-1	0	{vocalsound} You look very relaxed , considering h you know , the uh the weight on your shoulders , yeah .
+IS1008d.D.dialog-act.s9553330.116	1388.544	1392.87	ME	D	bck	-1	0	{vocalsound} Yes . Yes .
+IS1008d.D.dialog-act.s9553330.117	1392.87	1395.632	ME	D	inf	-1	0	Stress . {vocalsound}
+IS1008d.C.dialog-act.s9553330.153	1394.16	1394.959	UI	C	fra	-1	0	{vocalsound}
+IS1008d.A.dialog-act.s9553330.180	1396.42	1399.75	PM	A	sug	+1	0	Okay , so then uh let's come to the closing
+IS1008d.A.dialog-act.s9553330.181	1399.75	1402.71	PM	A	inf	+1	0	and uh are the costs within the budget
+IS1008d.D.dialog-act.s9553330.118	1399.85	1401.755	ME	D	be.pos	-1	0	Celebration . {vocalsound}
+IS1008d.A.dialog-act.s9553330.182	1402.71	1407.98	PM	A	inf	+1	0	and uh is the product evaluated , okay , so that will uh come soon .
+IS1008d.A.dialog-act.s9553330.183	1407.98	1414.78	PM	A	be.pos	+1	0	Okay for uh {disfmarker} but our time being , so thanks for all your efforts and great work and uh great design
+IS1008d.A.dialog-act.s9553330.184	1414.78	1420.14	PM	A	sug	+1	1	and uh let's leave it to the Ed for later for once production is over
+IS1008d.A.dialog-act.s9553330.185	1420.14	1422.47	PM	A	sug	-1	0	and the meantime let's celebrate .
+IS1008d.A.dialog-act.s9553330.186	1422.47	1426.37	PM	A	be.pos	-1	0	So let's meet up uh this evening to hang up for some party .
+IS1008d.B.dialog-act.s9553330.123	1426.704	1428.114	ID	B	fra	-1	0	{vocalsound}
+IS1008d.C.dialog-act.s9553330.155	1427.04	1427.98	UI	C	fra	-1	0	{vocalsound}
+IS1008d.D.dialog-act.s9553330.119	1426.96	1428.562	ME	D	fra	-1	0	{vocalsound}
+IS1008d.B.dialog-act.s9553330.124	1429.08	1430.13	ID	B	ass	-1	0	Sounds good .
+IS1008d.A.dialog-act.s9553330.187	1429.92	1430.18	PM	A	be.pos	-1	0	'S good .
+IS1008d.B.dialog-act.s9553330.125	1430.13	1430.86	ID	B	be.pos	-1	0	Thank you .
+IS1008d.C.dialog-act.s9553330.156	1430.02	1430.33	UI	C	bck	-1	0	Okay .
+IS1008d.D.dialog-act.s9553330.120	1429.99	1430.9	ME	D	be.pos	-1	0	{vocalsound} Very good .
+IS1008d.B.dialog-act.s9553330.126	1430.86	1431.89	ID	B	be.pos	-1	0	Nice working with you .
+IS1008d.D.dialog-act.s9553330.121	1431.99	1436.47	ME	D	be.pos	-1	0	Thank you very much .
+IS1008d.A.dialog-act.s9553330.188	1433.0	1434.12	PM	A	be.pos	-1	0	Thank you .
+IS1008d.A.dialog-act.s9553330.189	1434.12	1435.16	PM	A	be.pos	-1	0	Thank you again for all .
+IS1008d.C.dialog-act.s9553330.157	1434.11	1434.43	UI	C	be.pos	-1	0	Thanks
+IS1008d.B.dialog-act.s9553330.127	1435.136	1436.008	ID	B	fra	-1	0	{vocalsound}
+IS1008d.C.dialog-act.s9553330.158	1435.696	1435.696	UI	C	fra	-1	0	{vocalsound} {gap} {vocalsound}
+IS1008d.A.dialog-act.s9553330.190	1436.39	1437.72	PM	A	be.pos	-1	0	And see you in the evening for drinks .
+IS1008d.D.dialog-act.s9553330.122	1436.47	1437.42	ME	D	be.pos	-1	0	{vocalsound} {vocalsound} Bye-bye .
+IS1008d.D.dialog-act.s9553330.123	1437.42	1438.86	ME	D	be.pos	-1	0	Yep , okay , see you later on . {vocalsound}
+IS1008d.C.dialog-act.s9553330.159	1438.38	1438.57	UI	C	be.pos	-1	0	Bye .

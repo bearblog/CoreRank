@@ -1,0 +1,658 @@
+IS1000a.C.dialog-act.vkaraisk.1	37.25	38.01	C	UI	oth	-1	0	Okay 
+IS1000a.D.dialog-act.vkaraisk.1	38.71	40.89	D	ID	inf	-1	0	Wouldn't it Okay 
+IS1000a.D.dialog-act.vkaraisk.2	40.89	41.34	D	ID	ass	-1	0	Okay 
+IS1000a.C.dialog-act.vkaraisk.2	44.93	45.83	C	UI	inf	-1	0	Well i don't think it 
+IS1000a.C.dialog-act.vkaraisk.3	45.83	48.14	C	UI	sug	-1	0	i don't think it has to be okay 
+IS1000a.C.dialog-act.vkaraisk.4	48.14	49.86	C	UI	ass	-1	0	And 
+IS1000a.C.dialog-act.vkaraisk.5	49.86	51.42	C	UI	sug	-1	0	And you have to have just an aunt 
+IS1000a.C.dialog-act.vkaraisk.6	70.02	72.86	C	UI	oth	-1	0	Okay And uh 
+IS1000a.B.dialog-act.vkaraisk.1	92.24	94.15	B	PM	stl	-1	0	So we uh we 
+IS1000a.B.dialog-act.vkaraisk.2	94.15	97.48	B	PM	sug	+1	1	we uh we wait for an uh a few minutes 
+IS1000a.C.dialog-act.vkaraisk.7	96.02	99.02	C	UI	ass	-1	0	Yeah it's it's yeah um 
+IS1000a.D.dialog-act.vkaraisk.3	98.976	100.298	D	ID	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.4	104.96	105.45	D	ID	oth	-1	0	Uses order 
+IS1000a.D.dialog-act.vkaraisk.5	105.45	108.24	D	ID	ass	-1	0	Uses order 
+IS1000a.C.dialog-act.vkaraisk.8	110.91	113.13	C	UI	sug	+1	1	That you can put in you you want actually 
+IS1000a.C.dialog-act.vkaraisk.9	114.49	114.73	C	UI	stl	-1	0	Okay 
+IS1000a.D.dialog-act.vkaraisk.6	114.31	114.5	D	ID	stl	-1	0	You read the 
+IS1000a.D.dialog-act.vkaraisk.7	114.5	116.416	D	ID	sug	-1	0	You read the them like you know 
+IS1000a.C.dialog-act.vkaraisk.10	116.89	118.65	C	UI	inf	+1	1	That's that that i've done my anyway 
+IS1000a.B.dialog-act.vkaraisk.3	122.88	126.94	B	PM	inf	-1	0	I think it should work on this Well 
+IS1000a.D.dialog-act.vkaraisk.8	122.4	123.68	D	ID	fra	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.11	126.4	126.88	C	UI	oth	-1	0	Mm 
+IS1000a.B.dialog-act.vkaraisk.4	126.94	133.43	B	PM	off	+1	1	Well i will try to Get my presentation right 
+IS1000a.C.dialog-act.vkaraisk.12	133.51	134.26	C	UI	und	-1	0	Yeah 
+IS1000a.D.dialog-act.vkaraisk.9	133.07	134.12	D	ID	und	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.5	138.26	138.75	B	PM	oth	-1	0	Uh-huh 
+IS1000a.D.dialog-act.vkaraisk.10	141.52	141.98	D	ID	stl	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.11	141.98	142.97	D	ID	inf	+1	1	Yeah 
+IS1000a.C.dialog-act.vkaraisk.13	143.39	144.61	C	UI	be.neg	-1	0	Finance 
+IS1000a.B.dialog-act.vkaraisk.6	144.84	147.15	B	PM	be.pos	-1	0	No matter 
+IS1000a.D.dialog-act.vkaraisk.12	144.85	145.11	D	ID	ass	-1	0	Okay it's yeah 
+IS1000a.D.dialog-act.vkaraisk.13	145.11	145.38	D	ID	fra	-1	0	it's yeah 
+IS1000a.D.dialog-act.vkaraisk.14	145.38	145.79	D	ID	ass	-1	0	it's yeah 
+IS1000a.B.dialog-act.vkaraisk.7	148.98	149.33	B	PM	be.pos	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.8	150.61	150.93	B	PM	stl	-1	0	Oh yeah 
+IS1000a.B.dialog-act.vkaraisk.9	150.93	151.6	B	PM	inf	-1	0	Oh yeah 
+IS1000a.D.dialog-act.vkaraisk.15	154.37	154.61	D	ID	oth	-1	0	Mm 
+IS1000a.C.dialog-act.vkaraisk.14	158.83	159.64	C	UI	ass	-1	0	See 
+IS1000a.D.dialog-act.vkaraisk.16	161.88	163.89	D	ID	sug	-1	0	And press a 
+IS1000a.C.dialog-act.vkaraisk.15	165.23	165.59	C	UI	ass	-1	0	Yeah 
+IS1000a.D.dialog-act.vkaraisk.17	165.37	166.36	D	ID	sug	-1	0	These you know 
+IS1000a.B.dialog-act.vkaraisk.10	166.09	167.57	B	PM	und	-1	0	I don't know just right 
+IS1000a.D.dialog-act.vkaraisk.18	166.36	166.72	D	ID	el.und	-1	0	you know 
+IS1000a.B.dialog-act.vkaraisk.11	167.57	168.13	B	PM	sug	-1	0	just right 
+IS1000a.C.dialog-act.vkaraisk.16	169.27	169.47	C	UI	ass	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.12	169.96	171.168	B	PM	fra	-1	0	All this one 
+IS1000a.D.dialog-act.vkaraisk.19	170.19	170.87	D	ID	ass	-1	0	All all 
+IS1000a.C.dialog-act.vkaraisk.17	171.11	172.43	C	UI	sug	+1	1	On a fine 
+IS1000a.B.dialog-act.vkaraisk.13	174.1	174.96	B	PM	ass	-1	0	But don't 
+IS1000a.B.dialog-act.vkaraisk.14	174.96	176.95	B	PM	inf	+1	1	But don't appear on the screen yeah 
+IS1000a.D.dialog-act.vkaraisk.20	176.233	177.03	D	ID	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.21	179.28	181.424	D	ID	oth	-1	0	Right 
+IS1000a.B.dialog-act.vkaraisk.15	183.66	183.87	B	PM	oth	-1	0	Oh 
+IS1000a.D.dialog-act.vkaraisk.22	184.08	186.39	D	ID	ass	-1	0	Well Amazing it's weird 
+IS1000a.D.dialog-act.vkaraisk.24	186.39	188.8	D	ID	inf	+1	1	it's weird 
+IS1000a.B.dialog-act.vkaraisk.16	188.04	189.32	B	PM	ass	-1	0	Okay Thank you 
+IS1000a.B.dialog-act.vkaraisk.17	189.32	192.49	B	PM	be.pos	-1	0	you Ah 
+IS1000a.A.dialog-act.vkaraisk.1	208.3	208.68	A	ME	oth	-1	0	About 
+IS1000a.A.dialog-act.vkaraisk.2	213.26	213.44	A	ME	ass	-1	0	Okay 
+IS1000a.B.dialog-act.vkaraisk.18	212.93	213.12	B	PM	stl	-1	0	Yes and we can clip 
+IS1000a.B.dialog-act.vkaraisk.19	213.12	215.12	B	PM	sug	-1	0	and we can clip it to know 
+IS1000a.A.dialog-act.vkaraisk.3	216.64	217.97	A	ME	ass	-1	0	Mm "'kay" mm 
+IS1000a.B.dialog-act.vkaraisk.20	216.44	216.87	B	PM	sug	-1	0	Where 
+IS1000a.B.dialog-act.vkaraisk.21	224.47	225.52	B	PM	stl	-1	0	So i think good morning everyone 
+IS1000a.B.dialog-act.vkaraisk.22	225.52	226.35	B	PM	be.pos	-1	0	think good morning everyone 
+IS1000a.B.dialog-act.vkaraisk.23	227.6	227.984	B	PM	stl	-1	0	Um 
+IS1000a.B.dialog-act.vkaraisk.24	229.22	233.5	B	PM	be.pos	+1	1	Welcome at uh at the kick-off meeting uh for uh based project i hope you will 
+IS1000a.D.dialog-act.vkaraisk.25	228.935	230.021	D	ID	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.25	233.5	235.93	B	PM	el.inf	-1	0	i hope you will uh been uh a date about it 
+IS1000a.D.dialog-act.vkaraisk.26	236.98	237.34	D	ID	inf	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.26	238.52	239.02	B	PM	ass	-1	0	Good 
+IS1000a.C.dialog-act.vkaraisk.18	238.76	239.89	C	UI	oth	-1	0	Well 
+IS1000a.B.dialog-act.vkaraisk.27	240.34	240.6	B	PM	stl	-1	0	So 
+IS1000a.B.dialog-act.vkaraisk.28	240.6	247.91	B	PM	sug	+1	1	So we will try to structure this the meeting with an uh with an agenda uh uh has presented here um 
+IS1000a.B.dialog-act.vkaraisk.29	247.91	255.03	B	PM	inf	+1	1	um after the opening we will get acquainted to each other she was our 
+IS1000a.C.dialog-act.vkaraisk.19	247.456	247.968	C	UI	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.30	255.03	257.58	B	PM	inf	+1	1	she was our roles are in this project 
+IS1000a.B.dialog-act.vkaraisk.31	258.77	260.32	B	PM	fra	-1	0	So uh um 
+IS1000a.B.dialog-act.vkaraisk.32	262.14	272.66	B	PM	inf	+1	1	We have been provided but uh some uh technical tools to uh To communicate and to Well we learn from each other's plants uh 
+IS1000a.B.dialog-act.vkaraisk.33	272.66	274.89	B	PM	off	-1	0	plants uh huh i can say um 
+IS1000a.B.dialog-act.vkaraisk.34	274.89	276.02	B	PM	stl	-1	0	say um so 
+IS1000a.B.dialog-act.vkaraisk.35	276.02	282.73	B	PM	inf	+1	1	We'll also price to uh Get acquainted to least tools so 
+IS1000a.B.dialog-act.vkaraisk.37	282.73	283.25	B	PM	stl	-1	0	least tools so there are also 
+IS1000a.B.dialog-act.vkaraisk.38	283.25	284.64	B	PM	inf	-1	0	there are also new to me i 
+IS1000a.B.dialog-act.vkaraisk.39	284.64	288.56	B	PM	inf	-1	0	new to me i don't know where you work with them before Um 
+IS1000a.B.dialog-act.vkaraisk.40	288.56	293.77	B	PM	inf	+1	1	Um then we will come to be ugly to actual project plan and all 
+IS1000a.B.dialog-act.vkaraisk.41	293.77	300.17	B	PM	el.inf	+1	1	plan and all know what i hope whole it's about uh idea new remote control we're going going to design 
+IS1000a.A.dialog-act.vkaraisk.4	298.36	298.6	A	ME	inf	-1	0	Uh-huh 
+IS1000a.C.dialog-act.vkaraisk.20	299.33	299.98	C	UI	inf	-1	0	Two 
+IS1000a.B.dialog-act.vkaraisk.42	301.7	304.58	B	PM	inf	+1	1	Uh then we will uh discuss uh 
+IS1000a.B.dialog-act.vkaraisk.43	304.58	306.72	B	PM	el.sug	-1	0	uh well what should be in uh 
+IS1000a.B.dialog-act.vkaraisk.44	306.72	313.46	B	PM	el.sug	+1	1	what should be in uh What what so what our new product should look like like and uh 
+IS1000a.B.dialog-act.vkaraisk.45	313.46	319.1	B	PM	inf	-1	0	and uh well then uh offer some twenty five minutes i hope uh okay okay 
+IS1000a.B.dialog-act.vkaraisk.46	322.58	325.67	B	PM	stl	-1	0	So um basically 
+IS1000a.B.dialog-act.vkaraisk.47	325.67	331.248	B	PM	inf	+1	1	basically this is about the uh in new remote control Um 
+IS1000a.B.dialog-act.vkaraisk.48	334.07	335.77	B	PM	fra	-1	0	We When 
+IS1000a.B.dialog-act.vkaraisk.49	335.77	339.99	B	PM	inf	+1	1	When you design a new product you off by of course want it to be original be 
+IS1000a.B.dialog-act.vkaraisk.50	339.99	340.64	B	PM	fra	-1	0	be the we want to 
+IS1000a.B.dialog-act.vkaraisk.51	340.64	342.1	B	PM	inf	+1	1	the we want to be distinguished hmmm people 
+IS1000a.B.dialog-act.vkaraisk.52	342.1	342.62	B	PM	el.ass	-1	0	hmmm people 
+IS1000a.B.dialog-act.vkaraisk.53	342.62	350.37	B	PM	inf	+1	1	hmmm people a a want to that one a look at the shelf or to think well that's the product that i need to put nice to be trendy 
+IS1000a.B.dialog-act.vkaraisk.54	350.37	352.04	B	PM	sug	+1	1	put nice to be trendy and trendy is what people 
+IS1000a.B.dialog-act.vkaraisk.55	352.04	353.65	B	PM	inf	-1	0	and trendy is what people want so they know 
+IS1000a.B.dialog-act.vkaraisk.56	353.65	355.85	B	PM	inf	-1	0	want so they know they will buy a product 
+IS1000a.B.dialog-act.vkaraisk.57	357.68	362.8	B	PM	sug	+1	1	But then it uh it also should work uh user friendly and 
+IS1000a.B.dialog-act.vkaraisk.58	362.8	373.68	B	PM	inf	-1	0	and uh all the lights people uh uh well it will not be uh Be rated very well in consumer article stuff like that 
+IS1000a.D.dialog-act.vkaraisk.27	374.247	374.802	D	ID	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.59	378.66	379.12	B	PM	stl	-1	0	So the general outline 
+IS1000a.B.dialog-act.vkaraisk.60	379.12	391.568	B	PM	inf	+1	1	the general outline of the You project will be we first uh go through a functional design phase Um 
+IS1000a.B.dialog-act.vkaraisk.61	392.96	398.25	B	PM	inf	+1	1	You all get um certain task uh in these uh in his face and 
+IS1000a.B.dialog-act.vkaraisk.62	398.25	403.1	B	PM	inf	+1	1	and uh Then we will meet again and to discuss 
+IS1000a.B.dialog-act.vkaraisk.63	403.1	405.76	B	PM	inf	+1	1	and to discuss the functional design and the 
+IS1000a.B.dialog-act.vkaraisk.64	405.76	418.83	B	PM	inf	+1	1	and the same holes for the uh It's too faces uh offer this the conceptual design And off let's have a more detailed design in 
+IS1000a.B.dialog-act.vkaraisk.66	418.83	423.98	B	PM	inf	+1	1	in which the the final project should get it's different shape 
+IS1000a.B.dialog-act.vkaraisk.67	426.45	426.79	B	PM	stl	-1	0	Alright but first 
+IS1000a.B.dialog-act.vkaraisk.68	426.79	429.45	B	PM	sug	+1	1	Alright but first we will do some uh tool training 
+IS1000a.B.dialog-act.vkaraisk.69	431.25	438.6	B	PM	inf	-1	0	In all in front of you uh you see uh they're uh No it looks and will but not not blocks and we have 
+IS1000a.B.dialog-act.vkaraisk.70	438.6	443.39	B	PM	inf	+1	1	not blocks and we have here a He he a white board 
+IS1000a.C.dialog-act.vkaraisk.21	442.8	443.41	C	UI	fra	-1	0	White or 
+IS1000a.A.dialog-act.vkaraisk.5	443.55	443.74	A	ME	bck	-1	0	Uh-huh 
+IS1000a.B.dialog-act.vkaraisk.71	445.88	448.93	B	PM	fra	-1	0	And um well it should work uh i've 
+IS1000a.B.dialog-act.vkaraisk.72	448.93	454.57	B	PM	inf	+1	1	work uh i've read it from my uh uh from from college it should work with some kind of toolbar it didn't 
+IS1000a.B.dialog-act.vkaraisk.73	454.57	456.73	B	PM	inf	+1	1	toolbar it didn't find out yet i would work but 
+IS1000a.B.dialog-act.vkaraisk.74	456.73	460.832	B	PM	el.inf	-1	0	i would work but maybe one of you did so Um 
+IS1000a.D.dialog-act.vkaraisk.28	461.0	463.1	D	ID	inf	+1	1	the documents in the shared folder 
+IS1000a.D.dialog-act.vkaraisk.29	463.1	463.33	D	ID	ass	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.75	464.26	465.55	B	PM	und	-1	0	Yes i do do 
+IS1000a.B.dialog-act.vkaraisk.76	465.55	467.41	B	PM	el.inf	-1	0	i do do we have to say something about that i. e. i. 
+IS1000a.B.dialog-act.vkaraisk.77	467.41	471.17	B	PM	inf	+1	1	that i. e. i. e. and not for little bit about this shared folder 
+IS1000a.D.dialog-act.vkaraisk.30	472.5	472.63	D	ID	stl	-1	0	Yeah i guess we'd 
+IS1000a.D.dialog-act.vkaraisk.31	472.63	476.57	D	ID	inf	+1	1	Yeah i guess we'd have a shared folder uh with the commands that can share 
+IS1000a.D.dialog-act.vkaraisk.32	476.57	478.41	D	ID	fra	-1	0	can share And uh 
+IS1000a.B.dialog-act.vkaraisk.78	478.02	478.51	B	PM	stl	-1	0	Yes well we will 
+IS1000a.B.dialog-act.vkaraisk.79	478.51	482.05	B	PM	sug	-1	0	Yes well we will then find out what how it works 
+IS1000a.D.dialog-act.vkaraisk.33	482.66	483.05	D	ID	ass	-1	0	Yes 
+IS1000a.B.dialog-act.vkaraisk.80	483.65	486.7	B	PM	stl	-1	0	Um Well this seems 
+IS1000a.B.dialog-act.vkaraisk.81	486.7	489.34	B	PM	inf	-1	0	Well this seems to me us some computer program but i didn't find 
+IS1000a.B.dialog-act.vkaraisk.82	489.34	490.47	B	PM	inf	-1	0	but i didn't find it yet 
+IS1000a.B.dialog-act.vkaraisk.83	492.0	492.87	B	PM	stl	-1	0	we'll 
+IS1000a.B.dialog-act.vkaraisk.84	492.87	493.83	B	PM	sug	-1	0	we'll come to that later 
+IS1000a.B.dialog-act.vkaraisk.85	495.3	498.25	B	PM	stl	-1	0	So Uh uh now we will try out 
+IS1000a.B.dialog-act.vkaraisk.86	498.25	500.32	B	PM	sug	+1	1	now we will try out the whiteboard we've here 
+IS1000a.B.dialog-act.vkaraisk.87	502.29	502.68	B	PM	stl	-1	0	So 
+IS1000a.B.dialog-act.vkaraisk.88	504.97	507.264	B	PM	sug	-1	0	I would suggest uh 
+IS1000a.D.dialog-act.vkaraisk.34	507.51	508.51	D	ID	sug	+1	1	It shows 
+IS1000a.B.dialog-act.vkaraisk.89	508.8	509.21	B	PM	stl	-1	0	Well yeah so um 
+IS1000a.B.dialog-act.vkaraisk.90	509.21	509.76	B	PM	ass	-1	0	yeah so um 
+IS1000a.B.dialog-act.vkaraisk.91	509.76	513.95	B	PM	sug	-1	0	yeah so um we uh if you try to just to draw on it and 
+IS1000a.B.dialog-act.vkaraisk.92	513.95	517.07	B	PM	inf	-1	0	to draw on it and then well it should be smart somewhere you hate i 
+IS1000a.B.dialog-act.vkaraisk.93	517.07	521.541	B	PM	inf	+1	1	hate i not really sure how this works but 
+IS1000a.D.dialog-act.vkaraisk.35	521.19	521.68	D	ID	stl	-1	0	Okay shall i 
+IS1000a.D.dialog-act.vkaraisk.36	521.68	522.32	D	ID	off	+1	1	Okay shall i start 
+IS1000a.A.dialog-act.vkaraisk.6	522.34	523.15	A	ME	ass	-1	0	Mm yeah 
+IS1000a.B.dialog-act.vkaraisk.94	522.85	523.19	B	PM	ass	-1	0	Yes that would be a 
+IS1000a.C.dialog-act.vkaraisk.22	522.47	522.84	C	UI	ass	-1	0	Yeah you can 
+IS1000a.B.dialog-act.vkaraisk.95	523.19	524.93	B	PM	ass	-1	0	that would be a real 
+IS1000a.C.dialog-act.vkaraisk.23	522.84	524.08	C	UI	sug	-1	0	Yeah you can zap to you know 
+IS1000a.A.dialog-act.vkaraisk.7	524.13	526.57	A	ME	inf	+1	1	I think for us is just like a normal whiteboard but are we recording 
+IS1000a.A.dialog-act.vkaraisk.8	526.57	528.7	A	ME	inf	+1	1	but are we recording what we are done 
+IS1000a.D.dialog-act.vkaraisk.37	527.85	528.13	D	ID	stl	-1	0	So 
+IS1000a.D.dialog-act.vkaraisk.38	528.13	528.72	D	ID	fra	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.24	528.85	529.09	C	UI	stl	-1	0	Now the the court so that 
+IS1000a.C.dialog-act.vkaraisk.25	529.09	530.24	C	UI	inf	-1	0	the the court so that that sense so 
+IS1000a.C.dialog-act.vkaraisk.26	530.24	531.42	C	UI	inf	-1	0	that sense so that it is going to record 
+IS1000a.A.dialog-act.vkaraisk.9	531.12	532.15	A	ME	bck	-1	0	Mm mm 
+IS1000a.C.dialog-act.vkaraisk.27	531.42	533.76	C	UI	inf	-1	0	that it is going to record this troops you're right 
+IS1000a.A.dialog-act.vkaraisk.10	533.24	535.29	A	ME	inf	-1	0	But for us it's just like a little while board 
+IS1000a.B.dialog-act.vkaraisk.96	533.61	533.85	B	PM	und	-1	0	Yeah 
+IS1000a.C.dialog-act.vkaraisk.28	534.97	535.26	C	UI	ass	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.97	536.23	536.45	B	PM	und	-1	0	"'kay" 
+IS1000a.C.dialog-act.vkaraisk.29	537.74	538.608	C	UI	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.39	539.8	540.448	D	ID	fra	-1	0	It's 
+IS1000a.A.dialog-act.vkaraisk.11	541.072	542.131	A	ME	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.40	545.11	547.792	D	ID	inf	-1	0	Actually i think i can go with the 
+IS1000a.B.dialog-act.vkaraisk.98	548.4	548.896	B	PM	fra	-1	0	You you 
+IS1000a.B.dialog-act.vkaraisk.99	551.54	552.38	B	PM	el.inf	-1	0	That doesn't it work 
+IS1000a.B.dialog-act.vkaraisk.100	553.6	554.23	B	PM	fra	-1	0	Maybe some um and maybe maybe 
+IS1000a.B.dialog-act.vkaraisk.101	554.23	556.82	B	PM	sug	+1	1	um and maybe maybe yeah maybe you can start and 
+IS1000a.A.dialog-act.vkaraisk.12	555.66	555.88	A	ME	bck	-1	0	Uh-huh 
+IS1000a.D.dialog-act.vkaraisk.41	555.73	556.98	D	ID	ass	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.102	556.82	560.96	B	PM	inf	-1	0	start and you can maybe find out Discourse right 
+IS1000a.A.dialog-act.vkaraisk.13	562.38	563.09	A	ME	oth	-1	0	Not to draw 
+IS1000a.B.dialog-act.vkaraisk.103	562.6	564.336	B	PM	stl	-1	0	So um 
+IS1000a.B.dialog-act.vkaraisk.104	565.16	566.17	B	PM	fra	-1	0	Well why don't you draw 
+IS1000a.B.dialog-act.vkaraisk.105	566.17	571.23	B	PM	sug	+1	1	why don't you draw uh Your favourite animal on the whiteboard 
+IS1000a.D.dialog-act.vkaraisk.42	566.892	568.736	D	ID	fra	-1	0	{vocalsound}
+IS1000a.A.dialog-act.vkaraisk.14	570.62	573.58	A	ME	und	-1	0	Right they are animal First of 
+IS1000a.A.dialog-act.vkaraisk.15	573.58	573.82	A	ME	be.pos	-1	0	First of 
+IS1000a.A.dialog-act.vkaraisk.16	573.82	574.68	A	ME	inf	-1	0	First of all time yeah yeah 
+IS1000a.B.dialog-act.vkaraisk.106	579.42	581.776	B	PM	und	-1	0	Oh i see uh 
+IS1000a.A.dialog-act.vkaraisk.17	580.98	581.81	A	ME	ass	-1	0	So 
+IS1000a.C.dialog-act.vkaraisk.30	584.46	584.79	C	UI	bck	-1	0	Yeah 
+IS1000a.A.dialog-act.vkaraisk.18	585.353	586.562	A	ME	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.107	585.56	588.46	B	PM	oth	-1	0	Mm Mm mm 
+IS1000a.B.dialog-act.vkaraisk.108	594.54	595.05	B	PM	sug	-1	0	So drops we will try to get a with 
+IS1000a.B.dialog-act.vkaraisk.109	595.05	597.449	B	PM	off	-1	0	we will try to get a with this 
+IS1000a.A.dialog-act.vkaraisk.19	595.69	597.19	A	ME	bck	-1	0	Uh-huh I i i live 
+IS1000a.A.dialog-act.vkaraisk.20	597.19	600.65	A	ME	be.neg	-1	0	i i live a better or 
+IS1000a.B.dialog-act.vkaraisk.110	599.006	599.712	B	PM	fra	-1	0	{vocalsound}
+IS1000a.A.dialog-act.vkaraisk.21	602.83	603.08	A	ME	ass	-1	0	We 
+IS1000a.A.dialog-act.vkaraisk.22	607.11	610.75	A	ME	inf	-1	0	Mm you know the data guess from my drawing uh better 
+IS1000a.A.dialog-act.vkaraisk.23	610.75	611.89	A	ME	be.neg	-1	0	uh better and 
+IS1000a.A.dialog-act.vkaraisk.24	611.89	612.24	A	ME	inf	-1	0	and 
+IS1000a.B.dialog-act.vkaraisk.111	614.73	614.94	B	PM	oth	-1	0	Mm 
+IS1000a.A.dialog-act.vkaraisk.25	617.71	619.08	A	ME	inf	-1	0	But you have all the way that um 
+IS1000a.C.dialog-act.vkaraisk.31	617.72	618.37	C	UI	inf	-1	0	Yeah 
+IS1000a.A.dialog-act.vkaraisk.26	619.08	619.87	A	ME	el.inf	-1	0	that um 
+IS1000a.A.dialog-act.vkaraisk.27	619.87	621.18	A	ME	ass	-1	0	that um plus side 
+IS1000a.A.dialog-act.vkaraisk.28	626.75	627.43	A	ME	stl	-1	0	Get set it to animal 
+IS1000a.A.dialog-act.vkaraisk.29	627.43	628.23	A	ME	inf	-1	0	set it to animal 
+IS1000a.D.dialog-act.vkaraisk.43	631.409	633.31	D	ID	oth	-1	0	Hmm 
+IS1000a.A.dialog-act.vkaraisk.30	634.912	636.65	A	ME	inf	-1	0	Like a cat 
+IS1000a.C.dialog-act.vkaraisk.32	637.14	637.55	C	UI	und	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.112	639.34	640.08	B	PM	inf	-1	0	It's like cats oh i guess it's cat 
+IS1000a.B.dialog-act.vkaraisk.113	640.08	641.74	B	PM	inf	-1	0	oh i guess it's cat 
+IS1000a.A.dialog-act.vkaraisk.31	641.35	641.93	A	ME	inf	-1	0	No i like 
+IS1000a.A.dialog-act.vkaraisk.32	641.93	643.35	A	ME	inf	-1	0	No i like at that 
+IS1000a.B.dialog-act.vkaraisk.114	645.03	645.8	B	PM	oth	-1	0	What 
+IS1000a.C.dialog-act.vkaraisk.33	658.87	660.22	C	UI	oth	-1	0	Oh 
+IS1000a.D.dialog-act.vkaraisk.44	661.6	662.25	D	ID	el.inf	-1	0	You want a nice 
+IS1000a.C.dialog-act.vkaraisk.34	662.65	663.75	C	UI	inf	-1	0	Yeah well 
+IS1000a.C.dialog-act.vkaraisk.35	663.75	667.23	C	UI	ass	-1	0	well i think it's fine And that don't want 
+IS1000a.C.dialog-act.vkaraisk.36	667.23	669.07	C	UI	off	-1	0	And that don't want to put it off 
+IS1000a.C.dialog-act.vkaraisk.37	671.29	673.26	C	UI	ass	-1	0	And this will have no it really the wireless 
+IS1000a.C.dialog-act.vkaraisk.38	673.26	673.41	C	UI	el.ass	-1	0	it really the wireless 
+IS1000a.C.dialog-act.vkaraisk.39	673.41	675.01	C	UI	sug	-1	0	it really the wireless 
+IS1000a.D.dialog-act.vkaraisk.45	676.24	676.965	D	ID	fra	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.40	678.79	680.79	C	UI	el.und	-1	0	No Especially 
+IS1000a.C.dialog-act.vkaraisk.41	680.79	681.73	C	UI	fra	-1	0	Especially should next 
+IS1000a.C.dialog-act.vkaraisk.42	681.73	683.56	C	UI	sug	-1	0	should next what we should take like that 
+IS1000a.A.dialog-act.vkaraisk.33	688.96	690.26	A	ME	stl	-1	0	Okay so i It's only 
+IS1000a.B.dialog-act.vkaraisk.115	688.88	690.15	B	PM	stl	-1	0	So that's to get 
+IS1000a.A.dialog-act.vkaraisk.34	690.26	691.32	A	ME	ass	-1	0	It's only gets a dog 
+IS1000a.B.dialog-act.vkaraisk.116	690.15	691.14	B	PM	inf	-1	0	that's to get all 
+IS1000a.A.dialog-act.vkaraisk.35	691.32	692.77	A	ME	inf	+1	1	gets a dog Oh yes 
+IS1000a.B.dialog-act.vkaraisk.117	691.14	691.36	B	PM	und	-1	0	all 
+IS1000a.C.dialog-act.vkaraisk.43	691.38	691.81	C	UI	stl	-1	0	So 
+IS1000a.D.dialog-act.vkaraisk.46	691.54	691.79	D	ID	oth	-1	0	Okay 
+IS1000a.B.dialog-act.vkaraisk.118	692.26	692.78	B	PM	und	-1	0	It's a dark 
+IS1000a.A.dialog-act.vkaraisk.36	692.77	694.56	A	ME	ass	-1	0	Oh yes 
+IS1000a.B.dialog-act.vkaraisk.119	694.35	694.56	B	PM	stl	-1	0	So those are that's 
+IS1000a.B.dialog-act.vkaraisk.120	694.56	696.2	B	PM	inf	-1	0	So those are that's also kind of cats isn't it 
+IS1000a.C.dialog-act.vkaraisk.44	695.69	695.84	C	UI	stl	-1	0	Although not 
+IS1000a.B.dialog-act.vkaraisk.121	696.2	696.81	B	PM	el.ass	-1	0	isn't it 
+IS1000a.C.dialog-act.vkaraisk.45	695.84	697.12	C	UI	el.inf	-1	0	Although not doesn't have a pain 
+IS1000a.A.dialog-act.vkaraisk.37	697.104	698.78	A	ME	inf	-1	0	It's it's curved tile um 
+IS1000a.B.dialog-act.vkaraisk.122	697.88	699.68	B	PM	inf	-1	0	But but the others 
+IS1000a.C.dialog-act.vkaraisk.46	698.95	701.37	C	UI	ass	-1	0	Yeah true yeah and that's all 
+IS1000a.A.dialog-act.vkaraisk.38	700.6	701.48	A	ME	ass	-1	0	Yeah 
+IS1000a.C.dialog-act.vkaraisk.47	701.37	703.28	C	UI	inf	-1	0	and that's all about circuit 
+IS1000a.A.dialog-act.vkaraisk.39	703.49	705.53	A	ME	inf	-1	0	So the cats Any guess cats 
+IS1000a.B.dialog-act.vkaraisk.123	703.29	703.47	B	PM	stl	-1	0	It's all thank you 
+IS1000a.B.dialog-act.vkaraisk.124	703.47	704.0	B	PM	be.pos	-1	0	It's all thank you but we did you 
+IS1000a.B.dialog-act.vkaraisk.125	704.0	706.66	B	PM	el.inf	-1	0	but we did you are work out course 
+IS1000a.D.dialog-act.vkaraisk.47	703.822	704.592	D	ID	fra	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.48	704.512	705.952	C	UI	fra	-1	0	{vocalsound}
+IS1000a.A.dialog-act.vkaraisk.40	705.53	708.144	A	ME	inf	-1	0	Any guess cats load up 
+IS1000a.C.dialog-act.vkaraisk.49	708.06	708.48	C	UI	ass	-1	0	Uhuh 
+IS1000a.D.dialog-act.vkaraisk.48	708.52	708.75	D	ID	stl	-1	0	Yeah i think 
+IS1000a.D.dialog-act.vkaraisk.49	708.75	712.0	D	ID	off	-1	0	Yeah i think it would go we don't have that it might 
+IS1000a.A.dialog-act.vkaraisk.41	710.34	710.67	A	ME	oth	-1	0	I think 
+IS1000a.B.dialog-act.vkaraisk.126	712.4	712.78	B	PM	ass	-1	0	Okay 
+IS1000a.D.dialog-act.vkaraisk.50	712.0	712.21	D	ID	el.ass	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.50	715.86	717.18	C	UI	inf	-1	0	You can still a text template it's not top 
+IS1000a.C.dialog-act.vkaraisk.51	717.18	717.41	C	UI	el.ass	-1	0	it's not top 
+IS1000a.C.dialog-act.vkaraisk.52	717.41	718.42	C	UI	inf	-1	0	it's not top of that 
+IS1000a.A.dialog-act.vkaraisk.42	722.42	723.78	A	ME	sug	-1	0	Yeah yeah so you 
+IS1000a.A.dialog-act.vkaraisk.43	723.78	724.13	A	ME	stl	-1	0	so you got characteristics 
+IS1000a.A.dialog-act.vkaraisk.44	724.13	729.23	A	ME	inf	-1	0	got characteristics of a toddler trendly and well and fun 
+IS1000a.A.dialog-act.vkaraisk.45	750.07	750.58	A	ME	el.inf	-1	0	What's 
+IS1000a.C.dialog-act.vkaraisk.53	750.59	751.47	C	UI	inf	+1	1	It's the costs 
+IS1000a.A.dialog-act.vkaraisk.46	753.168	757.54	A	ME	be.pos	-1	0	This is what you would the design a my marketing 
+IS1000a.A.dialog-act.vkaraisk.47	757.54	762.128	A	ME	be.neg	-1	0	my marketing 
+IS1000a.B.dialog-act.vkaraisk.127	757.81	762.76	B	PM	ass	-1	0	Yes yes yes yes yes definitely or yes well very 
+IS1000a.B.dialog-act.vkaraisk.128	762.76	766.56	B	PM	ass	-1	0	yes well very good So 
+IS1000a.A.dialog-act.vkaraisk.48	766.79	767.712	A	ME	und	-1	0	Ah 
+IS1000a.B.dialog-act.vkaraisk.129	767.71	768.778	B	PM	fra	-1	0	I suppose 
+IS1000a.C.dialog-act.vkaraisk.54	768.01	768.58	C	UI	stl	-1	0	i think you 
+IS1000a.C.dialog-act.vkaraisk.55	768.58	770.1	C	UI	sug	-1	0	i think you can put that 
+IS1000a.A.dialog-act.vkaraisk.49	775.57	776.48	A	ME	ass	-1	0	Uh-huh that's it 
+IS1000a.A.dialog-act.vkaraisk.50	780.448	784.09	A	ME	inf	+1	1	A blue and black separate 
+IS1000a.C.dialog-act.vkaraisk.56	781.049	785.605	C	UI	fra	-1	0	{vocalsound}
+IS1000a.A.dialog-act.vkaraisk.51	785.472	787.168	A	ME	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.130	785.25	786.41	B	PM	oth	-1	0	Yes 
+IS1000a.B.dialog-act.vkaraisk.131	790.23	792.47	B	PM	be.pos	-1	0	Can you can meet again after i think it's 
+IS1000a.B.dialog-act.vkaraisk.132	792.47	794.4	B	PM	ass	-1	0	it's a good one 
+IS1000a.A.dialog-act.vkaraisk.52	794.55	796.42	A	ME	be.pos	-1	0	Very we're blue separates yes 
+IS1000a.C.dialog-act.vkaraisk.57	796.464	800.422	C	UI	off	-1	0	All of that That's going to get rid of my 
+IS1000a.B.dialog-act.vkaraisk.133	798.05	798.77	B	PM	sug	-1	0	Yeah and nephew 
+IS1000a.C.dialog-act.vkaraisk.58	805.41	805.84	C	UI	und	-1	0	Uh 
+IS1000a.C.dialog-act.vkaraisk.59	809.24	810.24	C	UI	oth	-1	0	Mm hmm 
+IS1000a.B.dialog-act.vkaraisk.134	809.98	810.432	B	PM	fra	-1	0	Yeah 
+IS1000a.A.dialog-act.vkaraisk.53	813.44	814.33	A	ME	inf	-1	0	You got a lot of rain yeah you probably 
+IS1000a.B.dialog-act.vkaraisk.135	813.7	814.015	B	PM	fra	-1	0	Maybe 
+IS1000a.A.dialog-act.vkaraisk.54	814.33	815.66	A	ME	sug	-1	0	rain yeah you probably rich 
+IS1000a.C.dialog-act.vkaraisk.60	815.64	815.72	C	UI	stl	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.61	815.72	815.99	C	UI	fra	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.62	815.99	816.9	C	UI	ass	-1	0	Yeah 
+IS1000a.A.dialog-act.vkaraisk.55	817.25	817.43	A	ME	el.inf	-1	0	Huh 
+IS1000a.C.dialog-act.vkaraisk.63	817.84	817.95	C	UI	inf	-1	0	Oh 
+IS1000a.B.dialog-act.vkaraisk.136	818.54	822.24	B	PM	el.inf	-1	0	I hope you have some space in the air a beep or for for you 
+IS1000a.C.dialog-act.vkaraisk.64	820.64	821.18	C	UI	inf	-1	0	Mm 
+IS1000a.C.dialog-act.vkaraisk.65	826.41	827.56	C	UI	el.sug	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.67	827.56	827.78	C	UI	oth	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.66	828.82	831.24	C	UI	inf	-1	0	{vocalsound}
+IS1000a.A.dialog-act.vkaraisk.56	831.48	834.448	A	ME	inf	-1	0	Not a good dog 
+IS1000a.D.dialog-act.vkaraisk.51	833.632	834.0	D	ID	fra	-1	0	{vocalsound}
+IS1000a.A.dialog-act.vkaraisk.57	841.26	844.45	A	ME	el.inf	-1	0	Um I'm else 
+IS1000a.B.dialog-act.vkaraisk.137	849.43	855.952	B	PM	inf	-1	0	It's looks like it gets was been driven over 
+IS1000a.A.dialog-act.vkaraisk.58	852.608	856.93	A	ME	und	-1	0	Oh i guess 
+IS1000a.D.dialog-act.vkaraisk.52	853.593	860.58	D	ID	ass	-1	0	Yeah And we should 
+IS1000a.B.dialog-act.vkaraisk.138	857.952	859.296	B	PM	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.53	860.58	864.45	D	ID	sug	-1	0	And we should send up it's so it carries characteristics right 
+IS1000a.D.dialog-act.vkaraisk.54	864.45	865.26	D	ID	el.ass	-1	0	right 
+IS1000a.A.dialog-act.vkaraisk.59	866.37	868.254	A	ME	bck	-1	0	Uh-huh 
+IS1000a.B.dialog-act.vkaraisk.139	870.23	871.48	B	PM	oth	-1	0	Yes the most uh 
+IS1000a.D.dialog-act.vkaraisk.55	872.3	872.976	D	ID	stl	-1	0	So 
+IS1000a.B.dialog-act.vkaraisk.140	873.42	874.86	B	PM	inf	+1	1	That's that that leak that 
+IS1000a.A.dialog-act.vkaraisk.60	875.13	875.36	A	ME	ass	-1	0	Uh-huh 
+IS1000a.D.dialog-act.vkaraisk.56	875.62	876.82	D	ID	ass	-1	0	Yeah i mean 
+IS1000a.D.dialog-act.vkaraisk.57	876.82	878.88	D	ID	inf	-1	0	i mean it is they like to sleep that's 
+IS1000a.D.dialog-act.vkaraisk.58	878.88	881.92	D	ID	el.inf	-1	0	they like to sleep that's where you said you know there are like this 
+IS1000a.B.dialog-act.vkaraisk.141	886.911	893.74	B	PM	inf	-1	0	It's quite uh relaxed situation Yes 
+IS1000a.A.dialog-act.vkaraisk.61	887.616	889.12	A	ME	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.59	887.17	887.31	D	ID	oth	-1	0	Yeah 
+IS1000a.D.dialog-act.vkaraisk.60	889.04	890.704	D	ID	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.142	893.74	894.08	B	PM	ass	-1	0	Yes 
+IS1000a.A.dialog-act.vkaraisk.62	894.95	895.23	A	ME	bck	-1	0	Uh-huh 
+IS1000a.B.dialog-act.vkaraisk.143	900.608	904.592	B	PM	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.144	906.2	909.232	B	PM	ass	-1	0	That's okay 
+IS1000a.A.dialog-act.vkaraisk.63	910.08	911.104	A	ME	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.61	910.713	912.99	D	ID	inf	-1	0	He has a small legs 
+IS1000a.B.dialog-act.vkaraisk.145	912.96	913.81	B	PM	be.pos	-1	0	Thank thank you miss you 
+IS1000a.D.dialog-act.vkaraisk.62	914.06	915.28	D	ID	bck	-1	0	Yeah 
+IS1000a.D.dialog-act.vkaraisk.63	918.224	922.24	D	ID	be.pos	-1	0	Thank you my dear I think 
+IS1000a.A.dialog-act.vkaraisk.64	920.144	926.722	A	ME	inf	-1	0	Very big rats or a small cat 
+IS1000a.B.dialog-act.vkaraisk.146	919.648	923.328	B	PM	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.64	922.24	922.67	D	ID	ass	-1	0	I think 
+IS1000a.D.dialog-act.vkaraisk.65	923.449	924.14	D	ID	stl	-1	0	Oh right okay 
+IS1000a.D.dialog-act.vkaraisk.66	924.14	925.43	D	ID	und	-1	0	right okay 
+IS1000a.B.dialog-act.vkaraisk.147	927.93	934.19	B	PM	ass	-1	0	Yes this this says in uh Some contribution to our project So uh-huh 
+IS1000a.A.dialog-act.vkaraisk.65	932.88	933.19	A	ME	bck	-1	0	Okay Does it 
+IS1000a.D.dialog-act.vkaraisk.67	932.51	934.237	D	ID	fra	-1	0	And you in a in 
+IS1000a.A.dialog-act.vkaraisk.66	933.59	934.92	A	ME	sug	-1	0	Does it 
+IS1000a.B.dialog-act.vkaraisk.149	934.19	937.92	B	PM	stl	-1	0	So uh-huh Let's see which 
+IS1000a.B.dialog-act.vkaraisk.150	937.92	940.57	B	PM	el.inf	-1	0	which animal has not been drawn yeah 
+IS1000a.B.dialog-act.vkaraisk.151	952.27	952.44	B	PM	stl	-1	0	So you fold wrong 
+IS1000a.B.dialog-act.vkaraisk.152	952.44	954.11	B	PM	inf	-1	0	So you fold wrong land that um also one of 
+IS1000a.A.dialog-act.vkaraisk.67	954.579	955.315	A	ME	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.153	954.11	957.21	B	PM	off	-1	0	one of draw animals in the water 
+IS1000a.D.dialog-act.vkaraisk.68	956.47	957.86	D	ID	sug	-1	0	A bit Okay 
+IS1000a.D.dialog-act.vkaraisk.69	957.86	958.51	D	ID	und	-1	0	Okay in the water 
+IS1000a.A.dialog-act.vkaraisk.68	958.781	967.252	A	ME	fra	-1	0	{vocalsound}
+IS1000a.A.dialog-act.vkaraisk.69	968.95	969.31	A	ME	stl	-1	0	Oh like 
+IS1000a.A.dialog-act.vkaraisk.70	969.31	971.26	A	ME	inf	-1	0	like that not that is that 
+IS1000a.A.dialog-act.vkaraisk.71	971.26	972.046	A	ME	fra	-1	0	that That had 
+IS1000a.D.dialog-act.vkaraisk.70	971.35	972.64	D	ID	oth	-1	0	Mm 
+IS1000a.B.dialog-act.vkaraisk.154	971.993	977.14	B	PM	oth	-1	0	And 
+IS1000a.A.dialog-act.vkaraisk.72	972.66	973.888	A	ME	ass	-1	0	That had to guess 
+IS1000a.D.dialog-act.vkaraisk.71	973.648	978.36	D	ID	ass	-1	0	Yeah Pretty close 
+IS1000a.A.dialog-act.vkaraisk.73	975.046	978.128	A	ME	fra	-1	0	{vocalsound}
+IS1000a.C.dialog-act.vkaraisk.68	977.43	977.728	C	UI	stl	-1	0	Well 
+IS1000a.D.dialog-act.vkaraisk.72	978.36	979.02	D	ID	sug	-1	0	Pretty close maybe it would help 
+IS1000a.D.dialog-act.vkaraisk.73	979.02	980.69	D	ID	inf	-1	0	maybe it would help us 
+IS1000a.A.dialog-act.vkaraisk.74	980.0	980.37	A	ME	bck	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.155	980.64	980.94	B	PM	ass	-1	0	Yes 
+IS1000a.C.dialog-act.vkaraisk.69	981.22	983.27	C	UI	el.inf	-1	0	Yeah you to each other 
+IS1000a.D.dialog-act.vkaraisk.74	982.85	984.46	D	ID	sug	-1	0	With different pen widths 
+IS1000a.A.dialog-act.vkaraisk.75	983.722	985.74	A	ME	bck	-1	0	Uh-huh 
+IS1000a.B.dialog-act.vkaraisk.156	983.317	984.455	B	PM	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.157	987.27	987.881	B	PM	stl	-1	0	So 
+IS1000a.A.dialog-act.vkaraisk.76	993.41	993.51	A	ME	und	-1	0	But that's out 
+IS1000a.A.dialog-act.vkaraisk.77	993.51	994.17	A	ME	inf	-1	0	But that's out there 
+IS1000a.D.dialog-act.vkaraisk.75	994.15	994.24	D	ID	und	-1	0	I to shock yeah 
+IS1000a.D.dialog-act.vkaraisk.76	994.24	994.83	D	ID	inf	+1	1	I to shock yeah 
+IS1000a.D.dialog-act.vkaraisk.77	994.83	995.1	D	ID	ass	-1	0	I to shock yeah 
+IS1000a.A.dialog-act.vkaraisk.78	995.68	999.952	A	ME	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.158	996.0	996.26	B	PM	und	-1	0	we have one or 
+IS1000a.B.dialog-act.vkaraisk.159	996.26	997.86	B	PM	ass	-1	0	we have one or i got 
+IS1000a.D.dialog-act.vkaraisk.78	996.901	999.58	D	ID	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.160	997.86	998.93	B	PM	ass	-1	0	i got an eight 
+IS1000a.C.dialog-act.vkaraisk.70	999.36	999.43	C	UI	stl	-1	0	Is it a shot 
+IS1000a.C.dialog-act.vkaraisk.71	999.43	1001.28	C	UI	inf	-1	0	Is it a shot to me that 
+IS1000a.A.dialog-act.vkaraisk.79	1001.3	1001.57	A	ME	bck	-1	0	Mm 
+IS1000a.C.dialog-act.vkaraisk.72	1001.28	1005.38	C	UI	be.pos	-1	0	that you think that uh yeah i think 
+IS1000a.D.dialog-act.vkaraisk.79	1004.83	1005.49	D	ID	bck	-1	0	Uh 
+IS1000a.A.dialog-act.vkaraisk.80	1005.67	1007.39	A	ME	inf	-1	0	No it's a swordfish 
+IS1000a.B.dialog-act.vkaraisk.161	1007.632	1007.872	B	PM	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.162	1010.46	1011.43	B	PM	ass	-1	0	Well that's all 
+IS1000a.A.dialog-act.vkaraisk.81	1011.104	1011.664	A	ME	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.80	1010.87	1012.47	D	ID	inf	-1	0	You have some in the industrial yeah alright 
+IS1000a.D.dialog-act.vkaraisk.81	1012.47	1013.64	D	ID	el.ass	-1	0	yeah alright yeah 
+IS1000a.A.dialog-act.vkaraisk.82	1013.07	1014.29	A	ME	und	-1	0	So what which uh 
+IS1000a.B.dialog-act.vkaraisk.163	1012.572	1013.318	B	PM	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.82	1013.64	1014.31	D	ID	inf	-1	0	yeah i don't know 
+IS1000a.A.dialog-act.vkaraisk.83	1014.29	1016.06	A	ME	ass	-1	0	uh maybe 
+IS1000a.D.dialog-act.vkaraisk.83	1014.31	1015.02	D	ID	inf	-1	0	i don't know 
+IS1000a.A.dialog-act.vkaraisk.84	1017.36	1018.48	A	ME	inf	-1	0	And at the same one uh 
+IS1000a.D.dialog-act.vkaraisk.85	1017.6	1017.87	D	ID	oth	-1	0	Well 
+IS1000a.D.dialog-act.vkaraisk.84	1018.86	1019.04	D	ID	bck	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.164	1022.01	1024.36	B	PM	oth	-1	0	Nope still works So 
+IS1000a.B.dialog-act.vkaraisk.165	1024.36	1024.656	B	PM	stl	-1	0	So 
+IS1000a.D.dialog-act.vkaraisk.86	1023.89	1024.39	D	ID	ass	-1	0	And for so i don't know if we 
+IS1000a.D.dialog-act.vkaraisk.87	1024.39	1024.52	D	ID	stl	-1	0	for so i don't know if we 
+IS1000a.D.dialog-act.vkaraisk.88	1024.52	1027.94	D	ID	el.inf	-1	0	for so i don't know if we need to spend time on that actually 
+IS1000a.D.dialog-act.vkaraisk.89	1027.94	1028.88	D	ID	fra	-1	0	Yeah 
+IS1000a.C.dialog-act.vkaraisk.73	1028.48	1030.96	C	UI	sug	-1	0	Well well well it's thing 
+IS1000a.B.dialog-act.vkaraisk.166	1029.29	1030.06	B	PM	stl	-1	0	Well this uh 
+IS1000a.B.dialog-act.vkaraisk.167	1030.06	1033.78	B	PM	inf	-1	0	this uh this tool seen it works If that's continue 
+IS1000a.A.dialog-act.vkaraisk.85	1033.27	1033.71	A	ME	ass	-1	0	Uh-huh 
+IS1000a.D.dialog-act.vkaraisk.90	1033.04	1034.18	D	ID	ass	-1	0	Yeah exactly yeah 
+IS1000a.B.dialog-act.vkaraisk.168	1033.78	1036.8	B	PM	sug	+1	1	If that's continue to uh uh the real stuff 
+IS1000a.D.dialog-act.vkaraisk.91	1035.93	1037.38	D	ID	ass	-1	0	Well 
+IS1000a.B.dialog-act.vkaraisk.169	1039.08	1045.01	B	PM	inf	+1	1	Um mm our project uh fine as uh I think uh when we are 
+IS1000a.B.dialog-act.vkaraisk.170	1045.01	1056.44	B	PM	inf	+1	2	uh when we are and when when you are going to design where we must keep in mind gets be selling price of the product uh will be about twenty five euros well we 
+IS1000a.B.dialog-act.vkaraisk.171	1056.44	1067.25	B	PM	sug	-1	0	well we went Designing a product uh i also look at you uh well i'll keep in mind uh uh uh people up 
+IS1000a.C.dialog-act.vkaraisk.74	1059.18	1059.92	C	UI	inf	-1	0	From before 
+IS1000a.D.dialog-act.vkaraisk.92	1064.39	1064.54	D	ID	bck	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.172	1068.31	1072.91	B	PM	sug	-1	0	What to get a feeling this is a twenty five euro project uh programme 
+IS1000a.B.dialog-act.vkaraisk.173	1074.05	1074.54	B	PM	sug	-1	0	Project 
+IS1000a.D.dialog-act.vkaraisk.93	1073.59	1074.66	D	ID	inf	-1	0	The remote control yep 
+IS1000a.A.dialog-act.vkaraisk.86	1074.99	1075.36	A	ME	bck	-1	0	Mm 
+IS1000a.D.dialog-act.vkaraisk.94	1074.66	1075.04	D	ID	ass	-1	0	yep for our product 
+IS1000a.D.dialog-act.vkaraisk.95	1075.04	1075.89	D	ID	und	-1	0	for our product 
+IS1000a.B.dialog-act.vkaraisk.174	1076.13	1076.83	B	PM	ass	-1	0	Yes okay 
+IS1000a.B.dialog-act.vkaraisk.175	1076.83	1079.09	B	PM	stl	-1	0	Yes okay um more interesting for 
+IS1000a.D.dialog-act.vkaraisk.96	1078.48	1078.928	D	ID	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.176	1079.09	1086.04	B	PM	inf	+1	2	more interesting for our company course but uh profit aim about fifty million euro so 
+IS1000a.B.dialog-act.vkaraisk.177	1086.04	1087.85	B	PM	stl	-1	0	so We have 
+IS1000a.B.dialog-act.vkaraisk.178	1087.85	1095.07	B	PM	sug	-1	0	We have to sell uh quite a lot of this uh Um things Uh 
+IS1000a.B.dialog-act.vkaraisk.179	1095.07	1098.1	B	PM	inf	-1	0	Uh we we will try to uh 
+IS1000a.B.dialog-act.vkaraisk.180	1099.43	1101.18	B	PM	inf	+1	2	To get at the international market uh so will 
+IS1000a.B.dialog-act.vkaraisk.181	1101.18	1102.24	B	PM	stl	-1	0	uh so will that will do you think 
+IS1000a.B.dialog-act.vkaraisk.182	1102.24	1106.57	B	PM	inf	-1	0	that will do you think maybe you're up and uh and our um our care 
+IS1000a.C.dialog-act.vkaraisk.75	1106.68	1108.98	C	UI	oth	-1	0	Or a certain amount or maybe 
+IS1000a.B.dialog-act.vkaraisk.183	1107.91	1109.44	B	PM	inf	-1	0	Maybe some uh asian countries 
+IS1000a.B.dialog-act.vkaraisk.184	1111.01	1125.07	B	PM	inf	+1	2	Um also an important role is um The the product the production cost be maximal uh twelve uh twelve euro fifty cents 
+IS1000a.D.dialog-act.vkaraisk.97	1123.632	1128.36	D	ID	inf	-1	0	So it's a false the selling price if i am good in mathematics 
+IS1000a.B.dialog-act.vkaraisk.185	1127.6	1128.7	B	PM	ass	-1	0	Yes of course uh 
+IS1000a.B.dialog-act.vkaraisk.186	1128.7	1130.81	B	PM	stl	-1	0	of course uh um i mean we still 
+IS1000a.B.dialog-act.vkaraisk.187	1130.81	1133.36	B	PM	inf	-1	0	i mean we still have to uh to make a process huh 
+IS1000a.B.dialog-act.vkaraisk.188	1133.36	1133.55	B	PM	el.und	-1	0	huh 
+IS1000a.C.dialog-act.vkaraisk.76	1133.83	1136.924	C	UI	inf	+1	1	Yeah to say like this will really in the middle so 
+IS1000a.D.dialog-act.vkaraisk.98	1133.72	1134.32	D	ID	ass	-1	0	Of course 
+IS1000a.A.dialog-act.vkaraisk.87	1134.45	1135.403	A	ME	bck	-1	0	Uh-huh 
+IS1000a.B.dialog-act.vkaraisk.189	1134.79	1136.06	B	PM	inf	-1	0	You all have to be paid 
+IS1000a.A.dialog-act.vkaraisk.88	1136.4	1136.65	A	ME	bck	-1	0	Mm 
+IS1000a.B.dialog-act.vkaraisk.190	1138.14	1138.68	B	PM	und	-1	0	Uh excuse me 
+IS1000a.C.dialog-act.vkaraisk.77	1138.07	1138.36	C	UI	stl	-1	0	Oh yeah committee 
+IS1000a.C.dialog-act.vkaraisk.78	1138.36	1139.0	C	UI	stl	-1	0	Oh yeah committee had a selected for 
+IS1000a.C.dialog-act.vkaraisk.79	1139.0	1142.66	C	UI	inf	-1	0	had a selected for million to make a little of it would be really 
+IS1000a.D.dialog-act.vkaraisk.99	1141.94	1142.12	D	ID	oth	-1	0	Alright but it it must 
+IS1000a.D.dialog-act.vkaraisk.100	1142.12	1146.0	D	ID	be.pos	-1	0	but it it must have to i For medium 
+IS1000a.A.dialog-act.vkaraisk.89	1143.36	1143.959	A	ME	ass	-1	0	Yes 
+IS1000a.C.dialog-act.vkaraisk.80	1143.52	1144.384	C	UI	fra	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.191	1145.19	1146.7	B	PM	ass	-1	0	Yes indeed 
+IS1000a.C.dialog-act.vkaraisk.81	1145.851	1147.58	C	UI	fra	-1	0	{vocalsound}
+IS1000a.D.dialog-act.vkaraisk.101	1146.0	1146.76	D	ID	und	-1	0	medium 
+IS1000a.B.dialog-act.vkaraisk.192	1148.25	1149.52	B	PM	stl	-1	0	Tall up well i think what 
+IS1000a.B.dialog-act.vkaraisk.193	1149.52	1155.99	B	PM	inf	+1	1	well i think what when we're working on the international market uh in principle of have an of customers uh 
+IS1000a.D.dialog-act.vkaraisk.102	1149.19	1149.39	D	ID	bck	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.194	1155.99	1156.69	B	PM	stl	-1	0	of customers uh so when we have 
+IS1000a.B.dialog-act.vkaraisk.195	1156.69	1161.24	B	PM	ass	-1	0	so when we have a good product we are we could to me case this aim i think 
+IS1000a.B.dialog-act.vkaraisk.196	1162.48	1162.73	B	PM	stl	-1	0	So that's about 
+IS1000a.B.dialog-act.vkaraisk.197	1162.73	1163.79	B	PM	inf	-1	0	So that's about finance 
+IS1000a.B.dialog-act.vkaraisk.198	1165.08	1172.51	B	PM	sug	+1	1	And uh now just let's have some discussion about What is a good remote control and uh 
+IS1000a.B.dialog-act.vkaraisk.199	1172.51	1176.88	B	PM	inf	+1	1	and uh well keep in mind is this first points to have to be original to have 
+IS1000a.B.dialog-act.vkaraisk.200	1176.88	1178.11	B	PM	inf	+1	1	be original to have to be trendy have to be user-friendly 
+IS1000a.B.dialog-act.vkaraisk.201	1178.11	1179.44	B	PM	inf	+1	1	have to be user-friendly 
+IS1000a.B.dialog-act.vkaraisk.202	1182.06	1191.67	B	PM	el.sug	+1	1	Um Maybe someone can mention some additional a a prerequisites for a tooth remote control 
+IS1000a.A.dialog-act.vkaraisk.90	1190.32	1190.53	A	ME	oth	-1	0	Uh-huh 
+IS1000a.C.dialog-act.vkaraisk.82	1195.54	1197.536	C	UI	sug	+1	3	Of course it should have a on a button 
+IS1000a.A.dialog-act.vkaraisk.91	1197.71	1197.98	A	ME	bck	-1	0	Uh-huh 
+IS1000a.B.dialog-act.vkaraisk.203	1198.92	1199.57	B	PM	stl	-1	0	Yes well uh it should 
+IS1000a.B.dialog-act.vkaraisk.204	1199.57	1204.43	B	PM	sug	+1	1	well uh it should have p. d. d. d. expected functionality uh all all the remote control 
+IS1000a.A.dialog-act.vkaraisk.92	1202.62	1204.7	A	ME	bck	-1	0	Hmm Yeah 
+IS1000a.C.dialog-act.vkaraisk.83	1204.59	1205.08	C	UI	ass	-1	0	Yeah that's and that 
+IS1000a.C.dialog-act.vkaraisk.84	1205.08	1205.43	C	UI	fra	-1	0	that's and that 
+IS1000a.C.dialog-act.vkaraisk.85	1205.43	1208.93	C	UI	el.inf	-1	0	that's and that it depends what application you're using it for you 
+IS1000a.A.dialog-act.vkaraisk.93	1208.4	1208.67	A	ME	bck	-1	0	Hmm 
+IS1000a.C.dialog-act.vkaraisk.86	1208.93	1210.208	C	UI	fra	-1	0	it for you might need uh 
+IS1000a.B.dialog-act.vkaraisk.205	1210.45	1212.08	B	PM	inf	-1	0	We're we're thinking television uh 
+IS1000a.A.dialog-act.vkaraisk.94	1212.05	1212.3	A	ME	bck	-1	0	Mm 
+IS1000a.C.dialog-act.vkaraisk.87	1212.33	1214.95	C	UI	inf	+1	2	We have to have that it didn't a television set so 
+IS1000a.C.dialog-act.vkaraisk.88	1214.95	1216.03	C	UI	stl	-1	0	set so you need to a colour 
+IS1000a.A.dialog-act.vkaraisk.95	1215.71	1215.92	A	ME	bck	-1	0	Mm 
+IS1000a.C.dialog-act.vkaraisk.89	1216.03	1219.45	C	UI	sug	+1	3	you need to a colour cannot Do you need 
+IS1000a.A.dialog-act.vkaraisk.96	1217.97	1218.14	A	ME	bck	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.206	1218.97	1219.3	B	PM	bck	-1	0	Uh-huh 
+IS1000a.C.dialog-act.vkaraisk.90	1219.45	1226.73	C	UI	sug	+1	3	Do you need to mm Dolls the Close it channels enough for government great 
+IS1000a.A.dialog-act.vkaraisk.97	1226.41	1226.59	A	ME	bck	-1	0	Mm 
+IS1000a.B.dialog-act.vkaraisk.207	1225.98	1226.93	B	PM	ass	-1	0	Yes yes that 
+IS1000a.B.dialog-act.vkaraisk.208	1226.93	1228.0	B	PM	ass	-1	0	yes that that that's a any i i always makes 
+IS1000a.B.dialog-act.vkaraisk.209	1228.0	1229.13	B	PM	inf	-1	0	i always makes it an old form 
+IS1000a.B.dialog-act.vkaraisk.210	1229.13	1236.7	B	PM	inf	-1	0	it an old form remote controls that you can go channel up or down in instead of retyping the number especially when you have a lot channels 
+IS1000a.C.dialog-act.vkaraisk.91	1229.4	1229.648	C	UI	stl	-1	0	Hmm 
+IS1000a.C.dialog-act.vkaraisk.92	1230.85	1231.584	C	UI	fra	-1	0	Aren't they 
+IS1000a.A.dialog-act.vkaraisk.98	1233.47	1235.21	A	ME	bck	-1	0	Mm Mm 
+IS1000a.C.dialog-act.vkaraisk.93	1236.19	1237.424	C	UI	fra	-1	0	Yeah and 
+IS1000a.D.dialog-act.vkaraisk.103	1237.12	1240.5	D	ID	fra	+1	1	I just be for studying uh detailed discussion maybe we you have the marketing 
+IS1000a.D.dialog-act.vkaraisk.104	1240.66	1242.28	D	ID	el.inf	+1	1	we you have the marketing guy uh well uh 
+IS1000a.A.dialog-act.vkaraisk.99	1242.12	1243.02	A	ME	inf	+1	1	A marketing 
+IS1000a.C.dialog-act.vkaraisk.94	1242.55	1243.06	C	UI	inf	-1	0	Or like a big 
+IS1000a.D.dialog-act.vkaraisk.105	1242.28	1243.02	D	ID	fra	-1	0	uh so it yeah marketing 
+IS1000a.D.dialog-act.vkaraisk.106	1243.02	1245.23	D	ID	inf	-1	0	so it yeah marketing and you line you 
+IS1000a.A.dialog-act.vkaraisk.100	1244.69	1244.81	A	ME	ass	-1	0	Yeah 
+IS1000a.D.dialog-act.vkaraisk.107	1245.23	1249.22	D	ID	inf	+1	1	and you line you you user interface and design they just yeah wanted 
+IS1000a.C.dialog-act.vkaraisk.95	1247.48	1247.75	C	UI	ass	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.211	1248.08	1248.21	B	PM	ass	-1	0	Uh-huh 
+IS1000a.C.dialog-act.vkaraisk.96	1249.23	1249.46	C	UI	ass	-1	0	Yeah 
+IS1000a.D.dialog-act.vkaraisk.108	1249.22	1249.7	D	ID	fra	-1	0	they just yeah wanted 
+IS1000a.D.dialog-act.vkaraisk.109	1249.7	1251.08	D	ID	inf	-1	0	they just yeah wanted to to be sure uh items uh 
+IS1000a.C.dialog-act.vkaraisk.97	1251.08	1251.43	C	UI	und	-1	0	Sure 
+IS1000a.D.dialog-act.vkaraisk.110	1251.08	1254.59	D	ID	inf	+1	1	uh items uh the industrial designer okay 
+IS1000a.A.dialog-act.vkaraisk.101	1254.58	1254.81	A	ME	bck	-1	0	Uh-huh 
+IS1000a.B.dialog-act.vkaraisk.212	1254.96	1255.38	B	PM	ass	-1	0	Yes 
+IS1000a.C.dialog-act.vkaraisk.98	1254.645	1255.214	C	UI	fra	-1	0	Oh 
+IS1000a.D.dialog-act.vkaraisk.111	1254.59	1255.43	D	ID	stl	-1	0	okay because i i 
+IS1000a.C.dialog-act.vkaraisk.99	1255.69	1256.04	C	UI	und	-1	0	Oh 
+IS1000a.D.dialog-act.vkaraisk.112	1255.43	1257.98	D	ID	inf	-1	0	because i i don't know you drew a retriever yeah okay 
+IS1000a.C.dialog-act.vkaraisk.100	1257.17	1259.51	C	UI	inf	+1	1	I am i have to we have all 
+IS1000a.D.dialog-act.vkaraisk.113	1257.98	1258.98	D	ID	und	-1	0	yeah okay my 
+IS1000a.D.dialog-act.vkaraisk.114	1258.98	1260.01	D	ID	inf	+1	1	my isn't happy to meet you 
+IS1000a.C.dialog-act.vkaraisk.101	1259.51	1261.71	C	UI	fra	-1	0	the time 
+IS1000a.D.dialog-act.vkaraisk.115	1260.01	1261.49	D	ID	be.pos	-1	0	happy to meet you again 
+IS1000a.A.dialog-act.vkaraisk.102	1261.23	1261.57	A	ME	inf	+1	1	And uh 
+IS1000a.C.dialog-act.vkaraisk.102	1261.71	1262.89	C	UI	und	-1	0	time and 
+IS1000a.D.dialog-act.vkaraisk.116	1261.49	1262.17	D	ID	und	-1	0	again it's very 
+IS1000a.D.dialog-act.vkaraisk.117	1262.17	1264.649	D	ID	be.pos	-1	0	it's very uh 
+IS1000a.B.dialog-act.vkaraisk.213	1263.38	1264.61	B	PM	inf	+1	1	And i'm number 
+IS1000a.C.dialog-act.vkaraisk.103	1262.89	1263.97	C	UI	el.inf	-1	0	and 
+IS1000a.C.dialog-act.vkaraisk.104	1263.97	1266.37	C	UI	inf	-1	0	out of my i had to yeah well i think you you 
+IS1000a.B.dialog-act.vkaraisk.214	1266.51	1266.914	B	PM	stl	-1	0	Yeah 
+IS1000a.C.dialog-act.vkaraisk.105	1266.37	1267.4	C	UI	inf	-1	0	i think you you normally yeah okay 
+IS1000a.D.dialog-act.vkaraisk.118	1266.59	1274.43	D	ID	ass	-1	0	So yeah it is a new web page but uh yeah but uh at face to face 
+IS1000a.B.dialog-act.vkaraisk.215	1267.78	1269.01	B	PM	ass	-1	0	So 
+IS1000a.C.dialog-act.vkaraisk.106	1267.4	1267.77	C	UI	el.ass	-1	0	normally yeah okay 
+IS1000a.C.dialog-act.vkaraisk.107	1267.77	1268.99	C	UI	ass	-1	0	normally yeah okay yeah 
+IS1000a.B.dialog-act.vkaraisk.216	1272.0	1273.664	B	PM	stl	-1	0	um 
+IS1000a.B.dialog-act.vkaraisk.217	1276.44	1276.58	B	PM	fra	-1	0	So 
+IS1000a.C.dialog-act.vkaraisk.108	1277.05	1277.8	C	UI	stl	-1	0	So 
+IS1000a.D.dialog-act.vkaraisk.119	1276.896	1277.888	D	ID	stl	-1	0	So 
+IS1000a.B.dialog-act.vkaraisk.218	1277.56	1278.04	B	PM	fra	-1	0	So it's 
+IS1000a.A.dialog-act.vkaraisk.103	1278.58	1278.81	A	ME	stl	-1	0	Hmm 
+IS1000a.B.dialog-act.vkaraisk.219	1279.03	1283.77	B	PM	el.inf	+1	1	Oh yeah some other very important things to to to well 
+IS1000a.C.dialog-act.vkaraisk.109	1279.1	1279.507	C	UI	stl	-1	0	Ah 
+IS1000a.D.dialog-act.vkaraisk.120	1278.926	1279.36	D	ID	stl	-1	0	So i i 
+IS1000a.D.dialog-act.vkaraisk.121	1279.36	1279.93	D	ID	fra	-1	0	So i i 
+IS1000a.B.dialog-act.vkaraisk.220	1285.38	1289.75	B	PM	el.inf	-1	0	To specify nice first face Of of project so 
+IS1000a.B.dialog-act.vkaraisk.221	1289.75	1290.38	B	PM	stl	-1	0	so the browse function 
+IS1000a.B.dialog-act.vkaraisk.222	1290.38	1293.59	B	PM	inf	+1	2	the browse function as an answer 
+IS1000a.A.dialog-act.vkaraisk.104	1291.39	1294.21	A	ME	bck	-1	0	Mm yeah but mm 
+IS1000a.C.dialog-act.vkaraisk.110	1293.16	1301.91	C	UI	sug	+1	2	And uh You'd need the usual ones like the training the one you could mean there Well uh channel and 
+IS1000a.C.dialog-act.vkaraisk.111	1301.91	1304.55	C	UI	fra	-1	0	channel and um You know it could do 
+IS1000a.B.dialog-act.vkaraisk.223	1303.25	1304.08	B	PM	bck	-1	0	Yeah 
+IS1000a.C.dialog-act.vkaraisk.112	1304.55	1309.85	C	UI	inf	+1	1	know it could do we have i have Hmmm the teletext and all those things tomorrow 
+IS1000a.C.dialog-act.vkaraisk.113	1309.85	1312.28	C	UI	inf	+1	1	all those things tomorrow you might have a some more functions which right um 
+IS1000a.C.dialog-act.vkaraisk.114	1312.28	1314.608	C	UI	inf	-1	0	which right um so that if it so 
+IS1000a.B.dialog-act.vkaraisk.224	1313.28	1313.66	B	PM	bck	-1	0	Yes 
+IS1000a.D.dialog-act.vkaraisk.122	1313.96	1314.75	D	ID	el.inf	-1	0	Like what it's like 
+IS1000a.D.dialog-act.vkaraisk.123	1314.75	1317.71	D	ID	el.inf	-1	0	what it's like internet on the uh i don't know 
+IS1000a.A.dialog-act.vkaraisk.105	1316.4	1316.75	A	ME	bck	-1	0	Mm 
+IS1000a.C.dialog-act.vkaraisk.115	1316.1	1316.65	C	UI	inf	-1	0	Yeah i'd 
+IS1000a.C.dialog-act.vkaraisk.116	1316.65	1318.18	C	UI	inf	-1	0	Yeah i'd be or not we are looking 
+IS1000a.C.dialog-act.vkaraisk.117	1318.18	1319.58	C	UI	inf	-1	0	not we are looking for 
+IS1000a.C.dialog-act.vkaraisk.118	1320.74	1323.83	C	UI	inf	-1	0	Television things or i'd be for 
+IS1000a.C.dialog-act.vkaraisk.119	1323.83	1328.37	C	UI	inf	+1	1	for example was to redo the corner and all the stuff that coming up 
+IS1000a.D.dialog-act.vkaraisk.124	1323.92	1324.16	D	ID	bck	-1	0	Yeah 
+IS1000a.A.dialog-act.vkaraisk.106	1326.19	1326.49	A	ME	bck	-1	0	Mm 
+IS1000a.A.dialog-act.vkaraisk.107	1328.61	1331.37	A	ME	ass	+1	1	But we carry design to sum it hasn't been amended yeah 
+IS1000a.C.dialog-act.vkaraisk.121	1329.71	1329.93	C	UI	oth	-1	0	Yeah 
+IS1000a.C.dialog-act.vkaraisk.122	1331.49	1331.7	C	UI	stl	-1	0	Well it's it's 
+IS1000a.C.dialog-act.vkaraisk.123	1331.7	1337.52	C	UI	inf	-1	0	Well it's it's it's it's coming up actively the poster video recorder and all those things with it and you know 
+IS1000a.B.dialog-act.vkaraisk.225	1336.23	1337.4	B	PM	stl	-1	0	Hmm well uh i 
+IS1000a.B.dialog-act.vkaraisk.226	1337.4	1338.672	B	PM	fra	-1	0	uh i i think 
+IS1000a.B.dialog-act.vkaraisk.227	1341.49	1349.47	B	PM	sug	+1	1	Uh you you you know so you should i think i think is over uh with a special uh what what functionality 
+IS1000a.D.dialog-act.vkaraisk.125	1341.12	1342.34	D	ID	stl	-1	0	Actually yeah o. k. 
+IS1000a.C.dialog-act.vkaraisk.124	1342.11	1343.474	C	UI	fra	-1	0	Yes last thing 
+IS1000a.D.dialog-act.vkaraisk.126	1342.34	1343.132	D	ID	fra	-1	0	yeah o. k. 
+IS1000a.D.dialog-act.vkaraisk.127	1349.56	1350.04	D	ID	ass	-1	0	Of course and first before 
+IS1000a.D.dialog-act.vkaraisk.128	1350.04	1353.36	D	ID	fra	+1	2	first before um designing the for the wireless think you 
+IS1000a.D.dialog-act.vkaraisk.129	1353.36	1353.77	D	ID	stl	-1	0	for the wireless think you 
+IS1000a.D.dialog-act.vkaraisk.130	1353.77	1358.03	D	ID	sug	+1	2	for the wireless think you know what the functionalities that we need to know what are the user requirements and then 
+IS1000a.A.dialog-act.vkaraisk.108	1357.26	1358.08	A	ME	ass	-1	0	Mm yeah 
+IS1000a.D.dialog-act.vkaraisk.131	1358.03	1367.05	D	ID	inf	-1	0	and then you they need internet then would be able to to to propose something with uh a uh a t. v. although i p. but before 
+IS1000a.B.dialog-act.vkaraisk.228	1358.75	1359.13	B	PM	bck	-1	0	Uh-huh 
+IS1000a.A.dialog-act.vkaraisk.109	1359.3	1359.45	A	ME	bck	-1	0	Yeah 
+IS1000a.A.dialog-act.vkaraisk.110	1361.42	1361.6	A	ME	bck	-1	0	Mm 
+IS1000a.A.dialog-act.vkaraisk.111	1363.57	1363.76	A	ME	bck	-1	0	Yeah 
+IS1000a.A.dialog-act.vkaraisk.113	1367.4	1373.94	A	ME	inf	+1	1	But Ninety percent of the time ninety nine percent of the time you'll be using the main functions the volume the different channels so 
+IS1000a.A.dialog-act.vkaraisk.114	1373.94	1375.03	A	ME	stl	-1	0	the different channels so i didn't have a look fancy things 
+IS1000a.A.dialog-act.vkaraisk.115	1375.03	1376.55	A	ME	sug	+1	1	didn't have a look fancy things as well but the main 
+IS1000a.A.dialog-act.vkaraisk.116	1376.55	1379.69	A	ME	sug	+1	1	as well but the main controls a t. v. guide or a piece of a easy to use 
+IS1000a.B.dialog-act.vkaraisk.229	1379.07	1383.87	B	PM	inf	+1	2	Mm hmm and keep keep in mind you to use it at twenty five euro unit so 
+IS1000a.B.dialog-act.vkaraisk.230	1383.87	1391.36	B	PM	sug	+1	2	unit so uh it it it does very fancy stuff uh We we can leave it out i think so twenty 
+IS1000a.A.dialog-act.vkaraisk.117	1391.69	1391.93	A	ME	bck	-1	0	Hmm 
+IS1000a.B.dialog-act.vkaraisk.231	1391.36	1391.9	B	PM	stl	-1	0	so twenty 
+IS1000a.B.dialog-act.vkaraisk.232	1391.9	1400.04	B	PM	inf	+1	2	so twenty five euro you expect a quite as well normal but good functioning user-friendly remote control 
+IS1000a.A.dialog-act.vkaraisk.118	1396.77	1396.97	A	ME	bck	-1	0	Mm 
+IS1000a.C.dialog-act.vkaraisk.125	1400.45	1400.63	C	UI	stl	-1	0	Oh in that 
+IS1000a.C.dialog-act.vkaraisk.126	1400.63	1405.68	C	UI	sug	-1	0	Oh in that case it can be a little top that they're someone with a weighting that there's you 
+IS1000a.C.dialog-act.vkaraisk.127	1405.68	1413.136	C	UI	sug	-1	0	that there's you know You use the other therefore they customers your product to them you know 
+IS1000a.A.dialog-act.vkaraisk.119	1410.62	1410.81	A	ME	bck	-1	0	Mm 
+IS1000a.A.dialog-act.vkaraisk.120	1413.11	1415.034	A	ME	sug	-1	0	So dry get t. v. many pages 
+IS1000a.C.dialog-act.vkaraisk.128	1413.573	1418.1	C	UI	ass	-1	0	Yeah No it's okay yeah 
+IS1000a.D.dialog-act.vkaraisk.132	1413.09	1413.23	D	ID	stl	-1	0	Maybe what we 
+IS1000a.D.dialog-act.vkaraisk.133	1413.23	1420.224	D	ID	ass	-1	0	Maybe what we want to design a new one Okay 
+IS1000a.C.dialog-act.vkaraisk.129	1418.1	1418.36	C	UI	stl	-1	0	No it's okay yeah 
+IS1000a.C.dialog-act.vkaraisk.130	1418.36	1420.19	C	UI	und	-1	0	No it's okay yeah i had this tax so you need some number 
+IS1000a.C.dialog-act.vkaraisk.131	1420.19	1422.9	C	UI	sug	+1	1	so you need some number in but that's um teletext things and 
+IS1000a.D.dialog-act.vkaraisk.134	1420.5	1420.68	D	ID	bck	-1	0	Okay 
+IS1000a.C.dialog-act.vkaraisk.132	1422.9	1424.464	C	UI	fra	-1	0	things and then the um 
+IS1000a.D.dialog-act.vkaraisk.135	1424.51	1424.71	D	ID	fra	-1	0	But you the 
+IS1000a.D.dialog-act.vkaraisk.136	1424.71	1424.88	D	ID	stl	-1	0	But you the 
+IS1000a.D.dialog-act.vkaraisk.137	1424.88	1426.75	D	ID	inf	+1	1	But you the main use it draws and uh 
+IS1000a.B.dialog-act.vkaraisk.233	1425.52	1425.75	B	PM	ass	-1	0	Yes but 
+IS1000a.B.dialog-act.vkaraisk.234	1425.75	1434.05	B	PM	sug	+1	2	Yes but but but about uh about the spec uh the buttons the buttons uh that will be on it i i i think we can discuss that in a in next meeting 
+IS1000a.C.dialog-act.vkaraisk.133	1428.76	1429.13	C	UI	bck	-1	0	Yeah 
+IS1000a.C.dialog-act.vkaraisk.134	1434.24	1434.56	C	UI	und	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.235	1435.35	1439.85	B	PM	off	+1	1	Uh uh i would like to get this wrap up and 
+IS1000a.B.dialog-act.vkaraisk.236	1439.85	1441.46	B	PM	off	-1	0	this wrap up and go to the end of this meeting 
+IS1000a.C.dialog-act.vkaraisk.135	1442.0	1442.41	C	UI	ass	-1	0	{vocalsound}
+IS1000a.B.dialog-act.vkaraisk.237	1443.68	1444.122	B	PM	stl	-1	0	No 
+IS1000a.C.dialog-act.vkaraisk.136	1443.7	1444.09	C	UI	stl	-1	0	Okay we are all the mm 
+IS1000a.C.dialog-act.vkaraisk.137	1444.09	1445.75	C	UI	fra	-1	0	we are all the mm no 
+IS1000a.B.dialog-act.vkaraisk.238	1445.62	1445.85	B	PM	stl	-1	0	Well you know 
+IS1000a.D.dialog-act.vkaraisk.138	1445.31	1445.64	D	ID	ass	-1	0	Okay 
+IS1000a.B.dialog-act.vkaraisk.239	1445.85	1449.1	B	PM	inf	+1	1	Well you know now the basic basic things and 
+IS1000a.A.dialog-act.vkaraisk.121	1448.68	1448.89	A	ME	ass	-1	0	Uh-huh 
+IS1000a.C.dialog-act.vkaraisk.138	1448.28	1448.56	C	UI	ass	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.240	1451.36	1451.82	B	PM	stl	-1	0	Well just 
+IS1000a.B.dialog-act.vkaraisk.241	1451.82	1454.34	B	PM	sug	+1	1	Well just just for the next meeting now um 
+IS1000a.C.dialog-act.vkaraisk.139	1451.87	1452.14	C	UI	fra	-1	0	Well 
+IS1000a.B.dialog-act.vkaraisk.242	1457.14	1463.16	B	PM	sug	+1	2	L. o. uh You were you have to work on a designed to keep in general 
+IS1000a.B.dialog-act.vkaraisk.243	1463.16	1464.0	B	PM	sug	-1	0	keep in general i mean so 
+IS1000a.B.dialog-act.vkaraisk.244	1464.0	1469.92	B	PM	inf	+1	1	i mean so we'll we will be still select flexible with maybe adding some functions so 
+IS1000a.B.dialog-act.vkaraisk.245	1469.92	1470.32	B	PM	stl	-1	0	functions so 
+IS1000a.D.dialog-act.vkaraisk.139	1469.76	1470.2	D	ID	bck	-1	0	Uh-huh 
+IS1000a.B.dialog-act.vkaraisk.246	1471.46	1478.256	B	PM	inf	+1	2	Uh um You will we working on on Technical function design so 
+IS1000a.C.dialog-act.vkaraisk.140	1479.35	1479.83	C	UI	ass	-1	0	Yeah sure 
+IS1000a.B.dialog-act.vkaraisk.247	1480.45	1486.8	B	PM	sug	+1	2	And uh you when you add uh uh Uh well think about requirements that 
+IS1000a.A.dialog-act.vkaraisk.122	1486.87	1487.15	A	ME	und	-1	0	Uh-huh 
+IS1000a.B.dialog-act.vkaraisk.248	1486.8	1487.12	B	PM	el.und	-1	0	requirements that bill sydney and 
+IS1000a.B.dialog-act.vkaraisk.249	1487.12	1488.33	B	PM	el.ass	+1	1	bill sydney and that off or do 
+IS1000a.B.dialog-act.vkaraisk.250	1488.33	1490.21	B	PM	el.ass	+1	1	that off or do do we stay at 
+IS1000a.B.dialog-act.vkaraisk.251	1491.36	1494.83	B	PM	el.ass	+1	1	Basic basic television uh interface 
+IS1000a.C.dialog-act.vkaraisk.141	1491.35	1491.79	C	UI	fra	-1	0	Yeah 
+IS1000a.A.dialog-act.vkaraisk.123	1492.16	1492.29	A	ME	bck	-1	0	Yeah 
+IS1000a.B.dialog-act.vkaraisk.252	1497.64	1500.19	B	PM	stl	-1	0	So of uh of 
+IS1000a.B.dialog-act.vkaraisk.253	1501.36	1505.36	B	PM	sug	-1	0	I think we should know all go work uh uh at this and uh 
+IS1000a.A.dialog-act.vkaraisk.124	1505.63	1505.84	A	ME	bck	-1	0	Uh-huh 
+IS1000a.B.dialog-act.vkaraisk.254	1505.36	1510.03	B	PM	inf	+1	1	this and uh you will be informative i email one other kind of complication 
+IS1000a.A.dialog-act.vkaraisk.125	1510.0	1510.15	A	ME	ass	-1	0	Yep 
+IS1000a.C.dialog-act.vkaraisk.142	1510.78	1511.29	C	UI	ass	-1	0	The case 
+IS1000a.B.dialog-act.vkaraisk.255	1511.37	1511.56	B	PM	stl	-1	0	So next meeting 
+IS1000a.B.dialog-act.vkaraisk.256	1511.56	1513.61	B	PM	inf	+1	1	So next meeting will be in uh in thirty minutes in 
+IS1000a.D.dialog-act.vkaraisk.140	1511.51	1511.99	D	ID	ass	-1	0	Okay 
+IS1000a.B.dialog-act.vkaraisk.257	1513.61	1514.65	B	PM	sug	-1	0	minutes in your mind 

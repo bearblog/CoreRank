@@ -1,0 +1,11 @@
+Another weekly meeting on ICSI's Meeting Recorder Group at Berkeley , though the members are joined by a visiting researcher.
+The groups regulars reported progress on their work on mean subtraction , noise estimation , voice activity detection and the Vector Taylor Series.
+While on these topics , related areas discussed included recognition window length , training versus test set sizes , artificial distortion and latency concerns.
+Speaker fn002 is soon to be leaving the group , and so she will choose her best setup , run a complete set of experiments , and write up her work , procedure and results for next week.
+New filters introduced to reduce latency by mn052  , performed slightly worse than those they replaced.
+Whereas mn007 has added some latency to the process which he feels he can reduce.
+Speaker me026 has been working on mean subtraction , his most recent results are suspiciously poor , and he is attempting to integrate the method into the SmartKom system.
+Speaker mn052 has been looking at noise estimation , because he was getting better results with one data set than another.
+Speaker mn007 has been looking at VAD performance , and getting some good results , though nothing that hasn't been produced before.
+Speaker fn002 has been running VTS experiments , but her results aren't particularly impressive.
+Speaker me006 has been working on the proposal for his thesis and outlined his idea.

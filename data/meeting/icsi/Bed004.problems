@@ -1,0 +1,22 @@
+2	Bed004.s.18	After the trial run of the experiment , some minor issues , like the length of the preliminary reading and the need to order the tasks given to the subjects , were highlighted.
+Bed004.D.dialogueact149	905.56	906.83	D	Grad	s	+1	1	Five minutes is just too long .
+Bed004.B.dialogueact157	925.15	927.29	B	Professor	s^bu.%--	+1	2	S so if you just number them " one " , " two " , " three " it 's
+1	Bed004.s.19	It is also possible that the pool of subjects ends up comprising almost entirely of students; more variation in the sample is needed.
+Bed004.D.dialogueact256	1198.43	1204.11	D	Grad	s	+1	1	She also agrees that you know if it 's all just gonna be students the data is gonna be less valuable because of that
+3	Bed004.s.20	From a system design perspective , the progress so far has shown that the combinatorics of the Bayes-net even for a simple task , like the choice of Vista/Enter/Tango mode , could render it unmanageable.
+Bed004.B.dialogueact414	1654.55	1663.84	B	Professor	s^cs	+1	2	is , if we just do this , we could wind up with a huge uh , combinatoric input to the Mode thing .
+Bed004.B.dialogueact626	2371.71	2377.99	B	Professor	fh|s.%--	+1	2	uh , we have a d a technical problem with the belief - nets that we {disfmarker} we don't want all the com
+Bed004.B.dialogueact628	2378.38	2381.8	B	Professor	s^m	+1	2	too many factors if we {disfmarker} if we allow them to just go combinatorially .
+2	Bed004.s.21	The belief-net presented in the meeting is not a working Bayes-net.
+Bed004.A.dialogueact309	1371.78	1378.05	A	Grad	s	+1	3	So , what I did for this {disfmarker} this is {disfmarker} uh , a pedagogical belief - net
+Bed004.A.dialogueact383	1593.43	1595.61	A	Grad	s	+1	3	Well , this is not a working Bayes - net .
+3	Bed004.s.22	Consequently , it is as yet unclear what the decision nodes in the net are , and what values these can take.
+Bed004.B.dialogueact445	1737.17	1744.43	B	Professor	s^cs^e	+1	1	I mean , not necessarily in th in this meeting , but to try to informally think about what the decision variables are .
+Bed004.A.dialogueact605	2321.16	2323.97	A	Grad	s^bu.%-	+1	1	So the immediate problem is just deciding w which {disfmarker}
+Bed004.D.dialogueact606	2324.12	2326.05	D	Grad	s^2	+1	1	Aspects of the X - schema to add .
+1	Bed004.s.23	Even if those were decided , how to extract the necessary information from the data , would still be an open issue.
+Bed004.B.dialogueact616	2343.7	2347.35	B	Professor	s	+1	1	The harder problem is we decide what we want to use , how are we gonna get it ?
+1	Bed004.s.24	Looking at the bigger picture , the current task is yet to provide insights into more general ways to achieve linguistic deep understanding.
+Bed004.B.dialogueact766	2851.76	2853.68	B	Professor	s	+1	1	And I don't yet see how that goes .
+1	Bed004.s.25	With these intricacies in mind , it is not easy to put together a presentation of the project cohesive and attractive enough for the other research groups in the institute.
+Bed004.B.dialogueact485	1918.42	1931.07	B	Professor	fh|s	+1	1	and uh see if we can find a way to present this to this linguists group that {disfmarker} that is helpful to them .

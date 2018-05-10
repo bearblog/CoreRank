@@ -1,0 +1,24 @@
+10	Bed009.s.6	Me010 has reservation about the system developers approach to dialogue planning , and mn015 will take those concerns to a higher level.
+Bed009.F.dialogueact417	1342.22	1351.61	F	Professor	s	-1	0	So I think the idea of having a , you know , transition diagram for the grammar of conversations is a good idea .
+Bed009.F.dialogueact420	1352.49	1355.33	F	Professor	s	-1	0	And I think that we do hav definitely have to get in on it and find out {disfmarker} OK .
+Bed009.F.dialogueact422	1361.66	1368.23	F	Professor	s	+1	0	when {disfmarker} so , when you get to the tourist domain it 's not just an information retrieval system .
+Bed009.F.dialogueact428	1371.14	1373.33	F	Professor	s	+1	0	people are gonna have to think this through a bit more carefully .
+Bed009.F.dialogueact430	1373.87	1378.69	F	Professor	s.%--	-1	0	So , if it 's only like in {disfmarker} in the {disfmarker} in the film and T V thing ,
+Bed009.F.dialogueact436	1397.56	1405.69	F	Professor	s	+1	1	you know th the functional module that {disfmarker} that interacts with {disfmarker} with where the tourism g stuff is going {comment} probably is too restrictive .
+Bed009.F.dialogueact453	1449.44	1456.6	F	Professor	qy^t3	-1	0	Could you {disfmarker} could you put a message into the right place to see if we can at least ask that question ?
+Bed009.A.dialogueact458	1458.97	1461.71	A	PhD	s	-1	0	I mean nothing 's being completely settled there
+Bed009.A.dialogueact460	1461.71	1463.43	A	PhD	s	-1	0	so this is really an ongoing discussion
+Bed009.B.dialogueact473	1487.16	1488.32	B	Grad	s^cc	-1	0	I 'll {disfmarker} I 'll talk to Michael
+12	Bed009.s.7	Mn048 will investigate if changing the name of the "action planner" is possible.
+Bed009.F.dialogueact555	1725.74	1732.89	F	Professor	qy	+1	0	Would there be any chance of getting the terminology changed so that the dialogue planner was called a " dialogue planner " ?
+Bed009.F.dialogueact557	1733.05	1739.55	F	Professor	s	-1	0	Because there 's this other thing The o There 's this other thing in {disfmarker} in the tourist domain which is gonna be a route planner
+Bed009.F.dialogueact559	1739.55	1741.25	F	Professor	s	-1	0	or {disfmarker} It 's really gonna be an action planner .
+Bed009.A.dialogueact561	1745.52	1747.41	A	PhD	s	+1	1	It oughta be called a {disfmarker} a dialogue manager .
+Bed009.A.dialogueact562	1747.41	1749.08	A	PhD	s	-1	0	cuz that 's what everybody else calls it .
+Bed009.F.dialogueact568	1750.46	1757.36	F	Professor	qw^cs	-1	0	So , s So what would happen if we sent a note saying " Gee we 've talked about this and couldn't we change this uh th the whole word ? "
+Bed009.F.dialogueact569	1757.36	1759.27	F	Professor	s^df^no	-1	0	I have no idea how complicated these things are .
+Bed009.A.dialogueact571	1764.42	1767.19	A	PhD	s^arp	-1	0	Depends on who you talk to how .
+Bed009.A.dialogueact573	1768.82	1769.42	A	PhD	s^cc	-1	0	I 'll go check ,
+Bed009.A.dialogueact577	1771.03	1776.84	A	PhD	s	-1	0	and I think this is just for historical reasons within uh , the preparation phase of the project
+Bed009.A.dialogueact578	1776.84	1780.0	A	PhD	s	-1	0	and not because somebody actually believes it ought to be action planner .
+Bed009.A.dialogueact579	1780.0	1784.7	A	PhD	s	-1	0	So if there is resistance against changing it , that 's just because " Oh , We don't want to change things . "

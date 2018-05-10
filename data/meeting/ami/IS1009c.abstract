@@ -1,0 +1,86 @@
+4	IS1009c.elana.s.1	The project manager opens the meeting by going over the minutes of the last meeting.
+IS1009c.A.dialog-act.dharshi.5	49.27	56.25	A	PM	inf	+1	1	Uh first we going uh over the minutes of the last meeting , more or less .
+IS1009c.A.dialog-act.dharshi.7	56.25	66.63	A	PM	inf	+1	1	Um in the last meeting uh the marketing manager had presented uh her method of working ,
+IS1009c.A.dialog-act.dharshi.20	144.863	151.56	A	PM	inf	+1	1	{vocalsound} Our technical manager has then said that she feels it should have a chip
+IS1009c.A.dialog-act.dharshi.42	279.09	284.52	A	PM	el.ass	+1	1	Uh are we all in agreement that that's about what we discussed last time ?
+17	IS1009c.elana.s.2	The interface specialist begins her presentation by highlighting important remote functions and showing examples of remote interfaces.
+IS1009c.B.dialog-act.dharshi.13	337.56	344.0	B	UI	inf	+1	1	Now as an interface designer , I would give more emphasis on the interface , how the remote looks like
+IS1009c.B.dialog-act.dharshi.16	351.32	356.89	B	UI	inf	+1	1	Okay . Now the function of a remote is to send messages to the television .
+IS1009c.B.dialog-act.dharshi.23	395.8	398.11	B	UI	inf	+1	1	Then it should have a next button ,
+IS1009c.B.dialog-act.dharshi.27	418.1	424.59	B	UI	inf	+1	1	Then , there should be a button which can give subtitles for a particular program which is going on a television .
+IS1009c.B.dialog-act.dharshi.29	441.93	453.03	B	UI	inf	+1	1	Then there should d uh there should be some buttons which can control features like the colour , colour of the picture , the contrast , sharpness , brightness of the picture .
+IS1009c.B.dialog-act.dharshi.30	456.77	458.73	B	UI	inf	+1	1	Now there should be a memory switch .
+IS1009c.B.dialog-act.dharshi.34	482.36	488.84	B	UI	inf	+1	1	Now the most important feature I would like to have in my remote would be the speech recognition feature .
+IS1009c.B.dialog-act.dharshi.38	514.7	528.11	B	UI	inf	+1	1	for example , if you want to see {disfmarker} we if you want to see the ninth channel if you say just say ninth channel , uh th now the the {disfmarker} uh yeah , the remote will {disfmarker} automatically it will switch to the ninth channel .
+IS1009c.B.dialog-act.dharshi.41	541.18	545.27	B	UI	inf	+1	1	So this is one one of the interface which can be created .
+IS1009c.B.dialog-act.dharshi.42	547.2	552.29	B	UI	inf	+1	1	A very simple interface which has all the t uh uh important features .
+IS1009c.B.dialog-act.dharshi.44	555.73	562.63	B	UI	inf	+1	1	Then , these are some of the remotes which are different in shape and colour , but they have many buttons .
+IS1009c.B.dialog-act.dharshi.46	568.61	573.6	B	UI	inf	+1	1	So you can you can design an interface which is very simple , and which is user-friendly .
+IS1009c.B.dialog-act.dharshi.49	579.0	585.06	B	UI	inf	+1	1	Yeah , so this is one of the interface or one of the remote which has this vi voice recogniser .
+IS1009c.B.dialog-act.dharshi.53	603.35	610.14	B	UI	inf	+1	1	Yeah , now this is an interface for a chil uh for a remote uh uh which a child can use .
+IS1009c.B.dialog-act.dharshi.56	616.64	620.22	B	UI	inf	+1	1	And this comes with different colours , different shapes .
+IS1009c.B.dialog-act.dharshi.61	647.79	656.94	B	UI	inf	+1	1	Now this is a big over-sized remote which cannot be misplaced or it's impossible to misplace .
+IS1009c.B.dialog-act.dharshi.68	678.37	689.86	B	UI	sug	+1	1	And the personal preference {vocalsound} uh would be a spe uh uh to incorporate speech recognisers uh which will respond to user's voice for a particular uh function .
+5	IS1009c.elana.s.3	The group comments on her presentation , and then the industrial designer begins presenting.
+IS1009c.A.dialog-act.dharshi.87	713.67	716.81	A	PM	el.ass	+1	1	Uh any comments on uh her presentation ?
+IS1009c.D.dialog-act.dharshi.17	720.37	724.94	D	ME	inf	+1	1	Well , um looks like we still have quite a choice of things out there .
+IS1009c.D.dialog-act.dharshi.20	728.92	731.78	D	ME	sug	+1	1	But uh we're gonna have to narrow it down a little more .
+IS1009c.D.dialog-act.dharshi.29	762.54	766.69	D	ME	ass	+1	1	No , I think her presentation was good , and she really explored all the options . Yeah .
+IS1009c.C.dialog-act.dharshi.15	796.98	807.15	C	ID	off	+1	1	Um this time I'm I'm going to um concentrate more on the components and the technical side of the remote controller design .
+17	IS1009c.elana.s.4	She talks about the technical electronic components of the remote , explains how a remote works , and shows a few pictures revealing the insides of a normal remote control.
+IS1009c.C.dialog-act.dharshi.17	810.13	817.22	C	ID	inf	+1	1	I have just brief {vocalsound} uh down few uh components which we require for the remote control uh construction .
+IS1009c.C.dialog-act.dharshi.29	850.03	858.23	C	ID	inf	+1	1	like uh if we want to have different colours , blue , red , green , so uh uh we have to use uh some colouring compone compone components .
+IS1009c.C.dialog-act.dharshi.30	858.84	864.44	C	ID	inf	+1	1	And uh the second important thing is uh uh uh integrated circuit .
+IS1009c.C.dialog-act.dharshi.31	864.44	870.57	C	ID	inf	+1	1	Uh which uh we can use a highly sophisticated one because it's like the it's like the heart of the remote controller .
+IS1009c.C.dialog-act.dharshi.36	901.4	907.13	C	ID	inf	+1	1	And the uh other component we should {disfmarker} uh we have in the remote controller is a resistor
+IS1009c.C.dialog-act.dharshi.46	941.62	950.16	C	ID	inf	+1	2	uh if we will be able to make a res rechargeable battery then we sh we need not go for a high performance battery ,
+IS1009c.C.dialog-act.dharshi.75	1093.84	1096.02	C	ID	inf	+1	1	this is a normal remote controller .
+IS1009c.C.dialog-act.dharshi.79	1107.81	1112.06	C	ID	inf	+1	1	like you can see a chip there which is having eighteen pins ,
+IS1009c.C.dialog-act.dharshi.86	1135.51	1141.56	C	ID	inf	+1	1	you can see the T_A_ double one eight three five labelled uh chip um .
+IS1009c.C.dialog-act.dharshi.87	1142.74	1149.4	C	ID	inf	+1	1	Uh you can also see the uh uh the green {disfmarker} two green things are uh these are {disfmarker} they are {disfmarker} they are resistors ,
+IS1009c.C.dialog-act.dharshi.95	1168.62	1175.06	C	ID	inf	+1	1	Actually , uh building a circuit bo board is pretty pretty uh easy and also it's a it's a l l inexpensive .
+IS1009c.C.dialog-act.dharshi.114	1250.76	1260.04	C	ID	inf	+1	2	Uh b but a b a push-button requires a simple chip underneath it , but whereas a scroll wheel requires normally a regular chip which is a higher price range .
+IS1009c.C.dialog-act.dharshi.118	1282.3	1285.35	C	ID	inf	+1	1	uh or we can use solar sells .
+IS1009c.C.dialog-act.dharshi.116	1266.66	1276.68	C	ID	inf	+1	1	Uh and a as energy source we offer a basic battery , a more ingenious uh hard dynamo , um a kinetic provision of energy ,
+IS1009c.C.dialog-act.dharshi.126	1312.14	1316.0	C	ID	inf	+1	1	Like we can have a ma material such as plastic , rubber , wood , titanium ,
+IS1009c.D.dialog-act.dharshi.47	1346.48	1352.75	D	ME	el.inf	+1	1	Uh yeah , on the scroll and the push-button , um ca you can achieve scrolling by repeatedly pushing a button ?
+IS1009c.C.dialog-act.dharshi.134	1353.52	1355.97	C	ID	inf	+1	1	No , no , no , th the the the scrolling wheels are different ,
+7	IS1009c.elana.s.5	She suggests giving the remote a strong shell so it is durable , using a rechargable battery , and not adding a scroll wheel because it requires a sophisticated chip.
+IS1009c.C.dialog-act.dharshi.23	835.49	837.53	C	ID	inf	+1	1	So it should be strong .
+IS1009c.C.dialog-act.dharshi.46	941.62	950.16	C	ID	inf	+1	2	uh if we will be able to make a res rechargeable battery then we sh we need not go for a high performance battery ,
+IS1009c.C.dialog-act.dharshi.114	1250.76	1260.04	C	ID	inf	+1	2	Uh b but a b a push-button requires a simple chip underneath it , but whereas a scroll wheel requires normally a regular chip which is a higher price range .
+IS1009c.C.dialog-act.dharshi.115	1260.04	1266.66	C	ID	inf	+1	1	Like for s scrolls we have to go for a sophisticated and and k uh {vocalsound} uh uh full {disfmarker} a complete chip .
+IS1009c.C.dialog-act.dharshi.135	1355.97	1363.26	C	ID	inf	+1	1	like you can go for a sw switches like buttons or scrolls , uh {vocalsound} which which we used to do before ten ten years before , I think .
+IS1009c.C.dialog-act.dharshi.136	1363.26	1367.83	C	ID	inf	+1	1	Now , nobody uses that because you need you need a a k sophisticated chip and all .
+IS1009c.C.dialog-act.dharshi.137	1367.83	1371.72	C	ID	sug	+1	1	So I think it's better we go for uh um ordinary buttons .
+4	IS1009c.elana.s.6	The marketing expert presents , talking about user preferences for a small , simple , eye-catching , cute , appealing , and functional remote.
+IS1009c.D.dialog-act.dharshi.57	1386.41	1395.91	D	ME	inf	+1	1	Um alright , my method is uh {disfmarker} I'm interested in what the competition is doing , and wanna see how we can make ourselves different from the competition ,
+IS1009c.D.dialog-act.dharshi.63	1421.48	1426.85	D	ME	inf	+1	1	Um and my findings from this is that , you know , small is beautiful .
+IS1009c.D.dialog-act.dharshi.65	1430.16	1431.44	D	ME	inf	+1	1	Simple is beautiful .
+IS1009c.D.dialog-act.dharshi.70	1445.58	1446.76	D	ME	inf	+1	1	And eye-catching is important .
+2	IS1009c.elana.s.7	Fruit and vegetable shapes are popular this year , so a soft , spongy remote perhaps covered with cloth could make the item marketable.
+IS1009c.D.dialog-act.dharshi.81	1494.81	1499.39	D	ME	inf	+1	1	And in my research this year I found out that fruit and vegetable shapes are really popular .
+IS1009c.D.dialog-act.dharshi.83	1503.24	1509.82	D	ME	inf	+1	1	They are more back into soft feel , spongy feeling things , things with maybe a little cloth on them .
+8	IS1009c.elana.s.8	The group discusses the issues surrounding speech recognition , noting that if it is good quality it could be costly.
+IS1009c.A.dialog-act.dharshi.126	1524.85	1532.03	A	PM	sug	+1	1	And what we really have to decide in this meeting is um the concept of the remote .
+IS1009c.B.dialog-act.dharshi.88	1548.2	1551.84	B	UI	sug	+1	1	I would like to include this feature which is called as voice recogniser .
+IS1009c.B.dialog-act.dharshi.89	1559.94	1562.54	B	UI	ass	+1	1	This could be uh one feature which could be sellable .
+IS1009c.C.dialog-act.dharshi.143	1566.82	1572.87	C	ID	ass	+1	2	Yeah , but but I what I'm uh very very much doubtful how {vocalsound} how uh far it will work ,
+IS1009c.C.dialog-act.dharshi.144	1572.87	1578.09	C	ID	inf	+1	2	because a speech recogniser like i it it has its own uh uh problems , issues .
+IS1009c.C.dialog-act.dharshi.148	1588.75	1593.24	C	ID	inf	+1	2	So to get a good recogni recognising system , it's a costly thing , I think .
+IS1009c.B.dialog-act.dharshi.92	1592.7	1600.58	B	UI	inf	+1	1	it it's like your recording of uh all uh um a question already , and then you're expecting an answer from th
+IS1009c.D.dialog-act.dharshi.107	1700.12	1707.26	D	ME	sug	+1	2	Okay , so why don't we put down speech recognition if possible pending some more research from our industrial engineer on how expensive that is .
+8	IS1009c.elana.s.9	They about the power source and review the objectives of the product.
+IS1009c.A.dialog-act.dharshi.137	1626.07	1628.97	A	PM	el.sug	+1	1	What kind of energy do we foresee ?
+IS1009c.D.dialog-act.dharshi.96	1630.36	1631.93	D	ME	sug	+1	2	I think I think battery ,
+IS1009c.D.dialog-act.dharshi.97	1631.93	1633.63	D	ME	inf	+1	2	and I think we all agreed on that .
+IS1009c.D.dialog-act.dharshi.98	1633.63	1636.59	D	ME	ass	+1	2	That that's that's gonna be most cost-effective and the best thing .
+IS1009c.D.dialog-act.dharshi.100	1648.16	1652.3	D	ME	ass	+1	2	Bright , colourful , trendy trendy design , and strong .
+IS1009c.A.dialog-act.dharshi.146	1654.79	1657.39	A	PM	ass	+1	2	Trendy design , compact and strong .
+IS1009c.A.dialog-act.dharshi.152	1687.22	1689.21	A	PM	inf	+1	1	Not sure what they mean by supplements .
+IS1009c.D.dialog-act.dharshi.106	1696.94	1699.28	D	ME	inf	+1	1	Her speech recognition feature would be a supplement .
+4	IS1009c.elana.s.10	The project manager closes the meeting by telling each member what task she is to complete.
+IS1009c.A.dialog-act.dharshi.163	1738.47	1743.01	A	PM	inf	+1	2	and the marketing expert with the product evaluation .
+IS1009c.A.dialog-act.dharshi.162	1728.71	1737.24	A	PM	inf	+1	2	and uh the U_I_D_ is supposed to {vocalsound} uh come up with the user interface design ,
+IS1009c.A.dialog-act.dharshi.164	1743.01	1752.88	A	PM	inf	+1	2	In this phase , the two of you , Jana and Francine , have to work together on a prototype using modelling clay , it says here .
+IS1009c.A.dialog-act.dharshi.165	1752.88	1758.09	A	PM	inf	+1	2	{vocalsound} You will receive specific {vocalsound} instructions {vocalsound} will be sent to you by your coaches .

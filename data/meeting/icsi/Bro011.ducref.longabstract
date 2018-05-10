@@ -1,0 +1,15 @@
+The Berkeley Meeting Recorder Group met to discuss their recent progress.
+This included a recap of a meeting with one of the members of their research partner OGI.
+There were progress reports from group members working on echo cancellation , acoustic feature detection , and HTK optimization , along with discussion of many issues arising from this topics.
+The group must try to communicate more with research partners OGI.
+There have been communication problems between the group and their partners at OGI , with both groups waiting for the other to be the one to make contact.
+This has made it hard to coordinate efforts.
+When looking at articulatory features , the data will be continuous , so may need a mapping to binary decisions.
+This could end up as a huge research project by itself , so must be careful.
+Mn002 and fe002 are continuing with try to reduce delays and improve the system of the groups main digit recogniser project.
+This includes look at filers , and trying to remove noise.
+In the coming weeks they have much to try.
+Speaker Me018 has also been looking to improve results on the Aurora digit task.
+More specifically he is looking at the number of states in the HMMs representing the digits , and is interested in shortening some of them , making them more word specific and hence more accurate.
+Speaker Me026 reports his minimal progress on echo cancellation work , in that he is awaiting code along with a better understanding of the original process he is studying.
+Me006 is looking to combine previous sonorant detection work with other articulatory feature work.

@@ -1,0 +1,117 @@
+4	ES2015c.elana.s.1	The project manager opens this conceptual design meeting and gives them the agenda.
+ES2015c.A.dialog-act.dharshi.3	43.6	50.66	A	PM	be.pos	+1	1	Well , welcome to the third meeting of conceptual design .
+ES2015c.A.dialog-act.dharshi.6	60.79	72.32	A	PM	inf	+1	1	on the agenda for this , um , for this particular meeting , we'll have your three presentations on what you've done since our last meeting , after we came up with um some general ideas of our design .
+ES2015c.A.dialog-act.dharshi.7	72.32	82.8	A	PM	inf	+1	1	And , um , then we have to make some key decisions on , on our remote control concept , and how we're gonna make it , what uh materials we're gonna use , and that sort of thing .
+ES2015c.A.dialog-act.dharshi.8	82.8	85.86	A	PM	inf	+1	1	The meeting will be forty minutes long .
+37	ES2015c.elana.s.2	The industrial designer presents first and talks about the components of a remote , energy source options , and materials for the remote , case , and buttons.
+ES2015c.A.dialog-act.dharshi.9	85.86	92.14	A	PM	inf	+1	1	And um we will once again have Poppy as our first presenter .
+ES2015c.B.dialog-act.dharshi.14	134.61	138.79	B	ID	inf	+1	1	Um , first of all we have to look at how the remote control is actually made ,
+ES2015c.B.dialog-act.dharshi.16	143.27	151.44	B	ID	inf	+1	1	Um , thes main internal feature is a circuit board , which contains all the elec electronics and also the contacts with the power source .
+ES2015c.B.dialog-act.dharshi.18	155.42	164.73	B	ID	inf	+1	1	Um , there are several components of , um , the circuit board that we need to consider , where we'll be getting them from , what they'll be made of .
+ES2015c.B.dialog-act.dharshi.19	164.73	169.41	B	ID	inf	+1	1	Um , including the integrated circuit , which is also known as the chip .
+ES2015c.B.dialog-act.dharshi.25	190.2	196.1	B	ID	inf	+1	1	they're all separate , apart from the chip , which we will probable decide whether we buy a simple , a regular , advanced .
+ES2015c.B.dialog-act.dharshi.31	211.79	216.56	B	ID	inf	+1	1	so we've got flex flexibility with colours and things , with that as well .
+ES2015c.B.dialog-act.dharshi.32	217.65	221.46	B	ID	inf	+1	1	Okay , there are lots of different possibilities for the energy source .
+ES2015c.B.dialog-act.dharshi.33	221.46	223.43	B	ID	inf	+1	1	We could use a basic battery ,
+ES2015c.B.dialog-act.dharshi.36	233.68	240.37	B	ID	inf	+1	1	{vocalsound} There's a hand-powered dynamo which is a sort of thing that was used for torches fifty years ago .
+ES2015c.B.dialog-act.dharshi.38	241.5	245.08	B	ID	inf	+1	1	Kinetic energy is something that's been recently developed .
+ES2015c.B.dialog-act.dharshi.47	264.25	275.32	B	ID	inf	+1	1	Whereas kinetic energy is a new idea that's being used by some watches and other devices , where you just shake the device and it gives it power .
+ES2015c.B.dialog-act.dharshi.49	281.98	283.88	B	ID	inf	+1	1	Um , or there's solar power ,
+ES2015c.B.dialog-act.dharshi.50	283.88	292.2	B	ID	ass	+1	1	which we've been considering inside a building , which is where it's gonna be used , might not be quite so useful .
+ES2015c.B.dialog-act.dharshi.53	296.74	302.63	B	ID	inf	+1	1	Um , lots of considerations for the case , like what sort of shape it would be , curved or flat .
+ES2015c.B.dialog-act.dharshi.56	307.75	311.27	B	ID	ass	+1	1	We don't want something that's huge and you can't pick up .
+ES2015c.B.dialog-act.dharshi.64	335.41	336.46	B	ID	inf	+1	1	we could use metal ,
+ES2015c.B.dialog-act.dharshi.66	336.46	337.46	B	ID	inf	+1	1	we could use rubber
+ES2015c.B.dialog-act.dharshi.67	337.46	342.98	B	ID	ass	+1	1	which might be more um ideal for the anti-R_S_I_ .
+ES2015c.B.dialog-act.dharshi.72	359.69	365.4	B	ID	inf	+1	1	Um , titanium is not gonna be possible , even though it just it beyond our budget really .
+ES2015c.B.dialog-act.dharshi.74	369.15	372.15	B	ID	inf	+1	1	Um right our choice for buttons as well .
+ES2015c.B.dialog-act.dharshi.77	375.28	383.2	B	ID	inf	+1	1	with our research team have found some uh new multiple um option scroll buttons .
+ES2015c.B.dialog-act.dharshi.79	387.58	393.11	B	ID	inf	+1	1	they're basically quite a flexible design , modern , you don't have to use individual buttons .
+ES2015c.A.dialog-act.dharshi.29	400.16	401.93	A	PM	inf	+1	1	Um one thing with the scroll buttons though .
+ES2015c.A.dialog-act.dharshi.31	402.92	406.16	A	PM	inf	+1	1	we would have to have an L_C_D_ um
+ES2015c.A.dialog-act.dharshi.33	407.64	412.05	A	PM	inf	+1	1	and the glow in the dark thing might be difficult .
+ES2015c.B.dialog-act.dharshi.90	421.26	425.89	B	ID	inf	+1	1	Um , also we've got the integrated pushbutton , which is what we're most familiar with .
+ES2015c.B.dialog-act.dharshi.99	453.71	455.22	B	ID	inf	+1	1	{vocalsound} My personal preferences ?
+ES2015c.B.dialog-act.dharshi.100	455.22	457.43	B	ID	sug	+1	1	I think we could go for the kinetic energy source .
+ES2015c.B.dialog-act.dharshi.103	461.5	465.56	B	ID	inf	+1	1	It's not been seen before , so it could be quite a , a novelty factor ,
+ES2015c.B.dialog-act.dharshi.105	466.63	477.13	B	ID	inf	+1	1	And also energy saving 'cause you're producing the energy , you don't need an external sort of battery supply or solar panels .
+ES2015c.B.dialog-act.dharshi.108	481.14	490.34	B	ID	sug	+1	1	Rubber casing I thing would probably the best , if we're going for the anti-R_S_I_ and like more choice with um aesthetics .
+ES2015c.B.dialog-act.dharshi.111	496.67	500.32	B	ID	sug	+1	1	And probably the regular chip as opposed to the simple ,
+ES2015c.B.dialog-act.dharshi.119	553.06	559.81	B	ID	sug	+1	1	Maybe if the , um , if it was just kind of a , more of a rubber coating which was on to a case .
+ES2015c.B.dialog-act.dharshi.120	559.81	563.58	B	ID	sug	+1	1	So , it was kind of , the whole thing would be removable .
+ES2015c.B.dialog-act.dharshi.126	574.05	579.23	B	ID	inf	+1	1	you can get sort of outer casing for iPods and something , that's just {disfmarker} it's protective as well .
+ES2015c.B.dialog-act.dharshi.166	711.27	715.08	B	ID	ass	+1	1	Like if the kinetic thing , I think what's best about that is that it's instant energy .
+9	ES2015c.elana.s.3	The interface specialist presents the interface concept by explaining the difference between graphical and command interface.
+ES2015c.C.dialog-act.dharshi.46	776.55	781.9	C	UI	off	+1	1	Um , I'm just gonna go through the interface concept with yous now .
+ES2015c.C.dialog-act.dharshi.47	781.9	785.69	C	UI	off	+1	1	Uh , first of all I'll explain what a user interface is .
+ES2015c.C.dialog-act.dharshi.50	810.61	813.45	C	UI	inf	+1	1	Um , there are two types of user interfaces .
+ES2015c.C.dialog-act.dharshi.51	813.45	819.37	C	UI	inf	+1	1	There's the graphical user interface , which emphasises the use of pictures for output
+ES2015c.C.dialog-act.dharshi.52	819.37	823.75	C	UI	inf	+1	1	and a pointing device , for example a mouse for input control .
+ES2015c.C.dialog-act.dharshi.55	830.31	832.34	C	UI	inf	+1	1	I'm not really sure about the pictures that {disfmarker}
+ES2015c.C.dialog-act.dharshi.56	832.34	835.03	C	UI	inf	+1	1	maybe that's on an L_C_D_ screen .
+ES2015c.C.dialog-act.dharshi.63	859.68	866.28	C	UI	inf	+1	1	So you must , for the graphical user you must need some kind of presentation for the graphics .
+ES2015c.C.dialog-act.dharshi.71	908.69	915.15	C	UI	inf	+1	1	No I think it's to do with the actual symbols that are on the , that's on the buttons of the remote control ,
+5	ES2015c.elana.s.4	They decide the command interface is most useful for a remote because it is simpler and more user-friendly.
+ES2015c.B.dialog-act.dharshi.190	887.06	894.08	B	ID	inf	+1	1	But if we're having a simplified display anyway , w that , we probably won't have to focus so much on that .
+ES2015c.B.dialog-act.dharshi.191	894.08	896.27	B	ID	inf	+1	1	It'll be more the on the numbers and the volume .
+ES2015c.A.dialog-act.dharshi.105	896.29	897.86	A	PM	ass	+1	1	It'd be more a command interface ,
+ES2015c.C.dialog-act.dharshi.76	929.71	932.54	C	UI	sug	+1	2	I think we're gonna go with the command interface anyway ,
+ES2015c.C.dialog-act.dharshi.77	932.54	934.08	C	UI	inf	+1	2	to make it more simplistic .
+12	ES2015c.elana.s.5	The group discusses aspects of the user interface including the lighting up effect and material of the buttons.
+ES2015c.C.dialog-act.dharshi.99	1005.81	1017.35	C	UI	inf	+1	1	We , we also have to keep in mind when we're designing our , um , more user-friendly remote control , that a lot of interfaces consist of a clutter of buttons ,
+ES2015c.C.dialog-act.dharshi.102	1019.81	1023.44	C	UI	inf	+1	1	that their functions , colours and forms aren't always helpful .
+ES2015c.B.dialog-act.dharshi.199	1030.25	1034.624	B	ID	ass	+1	1	It can be a bit , yeah , overwhelming . {vocalsound}
+ES2015c.A.dialog-act.dharshi.128	1085.15	1086.73	A	PM	el.inf	+1	1	But what about the lighting up effect ?
+ES2015c.A.dialog-act.dharshi.129	1089.91	1097.44	A	PM	inf	+1	1	Um , well , um , I thought we had um decided that we would {disfmarker} if you touched one of the buttons they'd all light up .
+ES2015c.D.dialog-act.dharshi.55	1109.45	1114.36	D	ME	fra	+1	1	I kinda pictured it as kind of coming from the sides and lighting it up frontwards .
+ES2015c.B.dialog-act.dharshi.202	1119.01	1124.04	B	ID	inf	+1	1	I'd assume , like , an internal light , that comes through .
+ES2015c.B.dialog-act.dharshi.203	1124.04	1129.38	B	ID	inf	+1	1	So there would have to , have to be some parts maybe transparent around the buttons , or something .
+ES2015c.A.dialog-act.dharshi.137	1129.39	1132.03	A	PM	inf	+1	1	and well rubber is a more translucent product too ,
+ES2015c.C.dialog-act.dharshi.123	1162.73	1166.25	C	UI	sug	+1	1	Each face could have its own colour of buttons maybe ?
+ES2015c.B.dialog-act.dharshi.212	1204.78	1214.24	B	ID	inf	+1	1	'Cause if it's just like constructed in the same way as like the front cover of a mobile phone . You can like take off the hard cover and then there's the like say the buttons .
+ES2015c.B.dialog-act.dharshi.214	1215.56	1222.26	B	ID	inf	+1	1	I don't think it would matter that the buttons were bigger through the , the top casing .
+6	ES2015c.elana.s.6	The marketing expert presents on trend-watching and talks about how fruit and vegetables are an important fashion theme this year , and says the material used is expected to be spongy.
+ES2015c.D.dialog-act.dharshi.74	1287.8	1290.61	D	ME	inf	+1	1	this report is about uh trend-watching .
+ES2015c.D.dialog-act.dharshi.93	1351.02	1360.336	D	ME	inf	+1	1	And the recent fashion update , uh , according to fashion-watchers in Paris and Milan , is that fruit and vegetables will be the most important theme for clothes , shoes and furniture . {vocalsound}
+ES2015c.D.dialog-act.dharshi.94	1360.73	1365.47	D	ME	inf	+1	1	Um , also , in contra uh in contrast to last year , the feel of the material is expected to be spongy .
+ES2015c.D.dialog-act.dharshi.98	1375.33	1378.89	D	ME	inf	+1	2	um of course , as {disfmarker} we , we've already talked about the personal face-plates in this meeting ,
+ES2015c.D.dialog-act.dharshi.99	1378.89	1380.5	D	ME	off	+1	2	and I'd like to stick to that .
+ES2015c.D.dialog-act.dharshi.102	1380.5	1383.63	D	ME	ass	+1	2	The fruits and vegetable themes , I don't know if that's going to work for us .
+30	ES2015c.elana.s.7	The group discusses how they could implement these fashion trends into the design , then finalizes a few decisions about the components , materials , and energy sources.
+ES2015c.A.dialog-act.dharshi.161	1402.24	1409.53	A	PM	ass	+1	2	Yeah , it's the fruits and vegetables is the only area that I find rather jarring .
+ES2015c.D.dialog-act.dharshi.111	1418.894	1421.81	D	ME	ass	+1	2	{vocalsound} It's , it's a little {gap} but it , it's everywhere .
+ES2015c.B.dialog-act.dharshi.224	1435.68	1439.13	B	ID	ass	+1	1	I think we possibly could take a more abstract design .
+ES2015c.B.dialog-act.dharshi.225	1439.13	1443.38	B	ID	sug	+1	1	Like look at the basic shapes of different fruits and vegetables .
+ES2015c.B.dialog-act.dharshi.227	1450.12	1457.02	B	ID	sug	+1	2	I mean we don't have to make something in the shape of a strawberry , but it could have the curves of a strawberry , or something .
+ES2015c.D.dialog-act.dharshi.123	1492.32	1495.74	D	ME	inf	+1	1	I dunno if you all remember from our kickoff meeting , we talked about our favourite animals .
+ES2015c.D.dialog-act.dharshi.124	1495.74	1498.3	D	ME	sug	+1	1	So maybe there could be animal-based , you know .
+ES2015c.A.dialog-act.dharshi.198	1619.68	1623.49	A	PM	el.inf	+1	2	Energy , we've decided on kinetic , right ?
+ES2015c.B.dialog-act.dharshi.260	1657.24	1662.83	B	ID	sug	+1	1	I , I think we should just like take uh advantage of like using this to its full potential .
+ES2015c.A.dialog-act.dharshi.208	1662.74	1664.83	A	PM	sug	+1	1	It could even be one of our selling points .
+ES2015c.A.dialog-act.dharshi.219	1701.57	1703.67	A	PM	el.inf	+1	2	I think we decided on the pushbuttons , right ?
+ES2015c.A.dialog-act.dharshi.221	1705.0	1709.21	A	PM	el.inf	+1	1	Would we need a more advanced one for uh the lighting , the interior lighting system ?
+ES2015c.B.dialog-act.dharshi.279	1715.64	1717.51	B	ID	inf	+1	2	So regular chip .
+ES2015c.B.dialog-act.dharshi.275	1703.61	1704.88	B	ID	inf	+1	1	Uh , so that's the simple .
+ES2015c.D.dialog-act.dharshi.142	1722.02	1723.0	D	ME	el.inf	+1	1	is regular not simple ?
+ES2015c.B.dialog-act.dharshi.285	1725.5	1727.64	B	ID	inf	+1	1	because of the lighting that we've decided to put in as well .
+ES2015c.A.dialog-act.dharshi.231	1742.7	1746.14	A	PM	inf	+1	2	Well , I guess plastic and coated in rubber .
+ES2015c.A.dialog-act.dharshi.234	1756.41	1759.22	A	PM	inf	+1	2	yeah , interchangeable plates .
+ES2015c.A.dialog-act.dharshi.244	1796.95	1798.53	A	PM	inf	+1	1	and supplements .
+ES2015c.A.dialog-act.dharshi.245	1799.62	1800.59	A	PM	el.inf	+1	1	What's that all about ?
+ES2015c.C.dialog-act.dharshi.168	1808.45	1814.47	C	UI	inf	+1	1	what we're gonna do about the cluster of button functions , colours and forms , in the {disfmarker} in consistent use .
+ES2015c.C.dialog-act.dharshi.172	1831.66	1834.67	C	UI	inf	+1	1	We haven't really decided what to do about that .
+ES2015c.C.dialog-act.dharshi.176	1859.87	1863.68	C	UI	ass	+1	2	just just the basic button functions .
+ES2015c.A.dialog-act.dharshi.269	1924.61	1928.1	A	PM	inf	+1	1	Like we , I don't know if we can make a remote that would be universal to all the different kinds of
+ES2015c.B.dialog-act.dharshi.317	1928.84	1934.78	B	ID	inf	+1	2	So we're just going for power , channels , volume ,
+ES2015c.A.dialog-act.dharshi.278	1963.69	1964.5	A	PM	el.ass	+1	2	Should we have audio ?
+ES2015c.A.dialog-act.dharshi.285	1976.83	1981.47	A	PM	inf	+1	2	it's a problem with the international uh appeal , I think . Um , if we have audio
+ES2015c.A.dialog-act.dharshi.286	1981.47	1985.45	A	PM	inf	+1	2	because we don't know how other televisions work .
+ES2015c.B.dialog-act.dharshi.322	1996.92	2001.44	B	ID	sug	+1	3	We can just go for , make it a selling point that it is just the basic .
+ES2015c.D.dialog-act.dharshi.174	1990.31	1994.82	D	ME	sug	+1	2	'cause it , {vocalsound} mm it is a good sales ploy to say , aren't you annoyed with remote controls that have all these buttons .
+6	ES2015c.elana.s.8	The project manager closes the meeting , stating what each member's next task will be.
+ES2015c.A.dialog-act.dharshi.292	2005.33	2008.57	A	PM	inf	+1	1	And , okay , in closing , 'cause we only have five minutes .
+ES2015c.A.dialog-act.dharshi.294	2011.58	2017.2	A	PM	inf	+1	2	Um , you'll be working , Poppy will be working on the look-and-feel design .
+ES2015c.A.dialog-act.dharshi.299	2024.73	2027.19	A	PM	inf	+1	2	And you'll be evaluating the product .
+ES2015c.A.dialog-act.dharshi.298	2020.41	2024.73	A	PM	inf	+1	2	and um the user interface design , so this is where the trendy stuff comes in .
+ES2015c.A.dialog-act.dharshi.301	2030.22	2034.46	A	PM	inf	+1	2	Poppy and Tara will have to work together , using modelling clay .
+ES2015c.A.dialog-act.dharshi.302	2035.04	2040.53	A	PM	inf	+1	2	And , um , your personal coach will give you the rest of the information of what needs to happen .

@@ -1,0 +1,26 @@
+The Berkeley Meeting Recorder group discussed research aims and corresponding concerns for future data collection.
+It was agreed that a substantial amount of meeting data is required from different domains , and comprising several speakers , to perform the types of discourse and acoustic analyses desired.
+Ongoing efforts by speaker mn005 to automatically  detect regions of speaker overlap were considered.
+It was suggested that speaker mn005 focus on a small set of acoustic parameters , e.g . energy and harmonics-related features , to distinguish regions of overlap from those containing the speech of just one speaker.
+Disk space issues were discussed.
+And , finally , the problem of speaker anonymization was explored.
+Recordings must be of existing meetings that are conducted in English.
+Participants should ideally consist of professors and doctoral students , but no undergraduate students , who are willing to record their meetings at ICSI.
+The Meeting Recorder corpus should comprise data from a large number of speakers representing different domains.
+Attempts should also be made to optimize the speaker population for generating good language models.
+Speaker me011 will pursue volunteers from the Haas Business School to record their weekly meetings at ICSI.
+A tentative decision was made to offer participants a recorded version of their meeting on a cd rom once the transcript screening phase is complete for that meeting.
+Non-native speakers with a low proficiency in English are problematic for language modelling.
+The prospect of creating another recording setup requires the elimination certain more complicated dimensions of the existing setup , e.g . the use of close-talking and far-field microphones.
+Speaker anonymization poses problems for the transcription proccess , and also discourse analysis , as it makes it more difficult to track who is speaking and to whom a particular utterance is being addressed.
+As the current version of transcriptions does not include speaker identification labels , no multiple speaker transcription conventions are in use.
+Research aims and corresponding concerns for future data collection were discussed.
+A student researcher will be working with speaker fe016 to investigate different strategies for automatically summarizing meetings , and identifying discussional 'hotspots'.
+Efforts by speaker mn005 are ongoing to detect regions of speaker overlap in the signal.
+A total of 230 regions of overlapping speech have been manually transcribed for a subset of meeting data.
+Supervised clustering and neural networks are being considered as means for classifying overlap.
+It was suggested that speaker mn005 focus on a small set of acoustic parameters , e.g . energy and harmonics-related features , to use the mixed signal to distinguish regions of overlap from those containing the speech of just one speaker.
+Future work may also involve focussing on additional signals , and using a Markov model to analyze acoustic parameters over larger time frames.
+Beam-forming was suggested as an alternate method of detecting overlapping speech.
+Efforts are ongoing to select an optimal method for anonymizing speakers.
+More disk space is gradually being made available for the storage of new Meeting Recorder data.

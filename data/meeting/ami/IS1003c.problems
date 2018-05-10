@@ -1,0 +1,61 @@
+51	IS1003c.rdhillon.s.17	Using speech recognition in the remote.
+IS1003c.A.dialog-act.vkaraisk.29	253.28	265.11	A	PM	inf	+1	2	but as the um expert told us , most of the people want to use the remote control to zap t to zap between channels .
+IS1003c.A.dialog-act.vkaraisk.28	247.38	253.28	A	PM	inf	+1	2	because for the intelligent controller , {vocalsound} you said that we can use the voice recognition or the gesture recognition ,
+IS1003c.A.dialog-act.vkaraisk.30	265.11	267.84	A	PM	el.inf	+1	2	Do you think they will be able to use gestures ?
+IS1003c.A.dialog-act.vkaraisk.31	267.84	276.55	A	PM	ass	+1	2	Because , if they do all the time the same gesture , as you said previously in the last meeting , maybe they will get injuries because of that ?
+IS1003c.A.dialog-act.vkaraisk.32	276.55	283.54	A	PM	ass	+1	2	or if you say channel three channel three two three four six five , I think they will be bored after a while .
+IS1003c.C.dialog-act.vkaraisk.54	284.71	292.88	C	UI	ass	+1	2	Uh I think some time it's very uh convenient to use voice interface and gesture interface than use button .
+IS1003c.C.dialog-act.vkaraisk.55	292.88	302.29	C	UI	inf	+1	2	For example , if you cannot find your uh {vocalsound} controller , you can just uh {vocalsound} just just uh speak something such as , yeah , one two .
+IS1003c.A.dialog-act.vkaraisk.38	301.55	305.63	A	PM	inf	+1	2	but suppose you got a cold . You have a mute remote controller .
+IS1003c.D.dialog-act.vkaraisk.16	308.44	315.69	D	ME	el.ass	+1	2	but how how is {disfmarker} how risky is it to trust like speech recognition or gesture recognition ?
+IS1003c.C.dialog-act.vkaraisk.59	315.85	323.792	C	UI	ass	+1	2	For limited vocabulary speech recognition is very reliable and for s limited vocabulary gesture recognition is also very {disfmarker}
+IS1003c.A.dialog-act.vkaraisk.41	323.59	334.62	A	PM	el.inf	+1	2	but suppose you have a family watching T_V_ , and if they want to use their private remote control in the same time , do you think it will work ? Everybody wanting to change channel in the same time ?
+IS1003c.A.dialog-act.vkaraisk.45	343.75	348.14	A	PM	inf	+1	2	so they say oh channel four channel three channel four channel three all the time ,
+IS1003c.C.dialog-act.vkaraisk.67	360.28	362.82	C	UI	ass	+1	2	that's that's the advantage of intelligent controller .
+IS1003c.C.dialog-act.vkaraisk.68	362.82	366.64	C	UI	inf	+1	2	Even you h you have the controller , I can {vocalsound} I can say channel three ,
+IS1003c.D.dialog-act.vkaraisk.29	367.25	369.44	D	ME	ass	+1	2	No , but this is disadvant disadvantage .
+IS1003c.B.dialog-act.vkaraisk.20	371.35	375.52	B	ID	sug	+1	2	And mayb maybe we can have the switching mode to pass from you know voice controller to
+IS1003c.A.dialog-act.vkaraisk.57	377.34	379.23	A	PM	el.inf	+1	2	How how much will it cost ?
+IS1003c.B.dialog-act.vkaraisk.23	380.29	381.15	B	ID	inf	+1	2	more expensive maybe .
+IS1003c.C.dialog-act.vkaraisk.77	393.81	397.07	C	UI	inf	+1	2	we don't have to do some basic research on this field .
+IS1003c.B.dialog-act.vkaraisk.25	424.44	427.0	B	ID	ass	+1	2	y y you have also the language problem ,
+IS1003c.B.dialog-act.vkaraisk.28	428.75	430.51	B	ID	inf	+1	2	'Cause it it have to be universal ,
+IS1003c.C.dialog-act.vkaraisk.88	431.4	432.79	C	UI	inf	+1	2	The vocabulary is very small ,
+IS1003c.A.dialog-act.vkaraisk.69	434.07	439.77	A	PM	inf	+1	2	but there is one problem that uh Baba talked about is the international
+IS1003c.A.dialog-act.vkaraisk.73	447.7	450.61	A	PM	inf	+1	2	The recognition system will be able to understand French .
+IS1003c.D.dialog-act.vkaraisk.38	456.14	457.77	D	ME	sug	+1	2	this could be downloaded by the web maybe ,
+IS1003c.A.dialog-act.vkaraisk.77	479.48	482.8	A	PM	el.inf	+1	2	And with no increase in the pri production price of the remote control ?
+IS1003c.C.dialog-act.vkaraisk.107	506.87	513.728	C	UI	inf	+1	2	Even for each f for even for different family we have to do d yeah we would we have to do adaptation to {disfmarker}
+IS1003c.A.dialog-act.vkaraisk.81	514.18	515.32	A	PM	ass	+1	2	Seems to be quite complex .
+IS1003c.C.dialog-act.vkaraisk.113	532.62	535.79	C	UI	inf	+1	2	It it just {disfmarker} the microphone is embedded in the controller .
+IS1003c.A.dialog-act.vkaraisk.93	552.2	558.78	A	PM	el.inf	+1	2	but wha what is the use of voice or gesture recognition if you have a remote control li like this , if you have an object .
+IS1003c.A.dialog-act.vkaraisk.94	558.78	563.34	A	PM	sug	+1	2	If you want to use voice or gesture you need to be free , without any object .
+IS1003c.A.dialog-act.vkaraisk.100	588.09	591.02	A	PM	sug	+1	2	you {disfmarker} so you can build a kind of black box
+IS1003c.A.dialog-act.vkaraisk.101	591.02	595.83	A	PM	sug	+1	2	and put it on T_V_ and just to recognize gestures and voice .
+IS1003c.D.dialog-act.vkaraisk.54	603.95	607.79	D	ME	el.sug	+1	2	do you think it should be only voice recognition and gesture recognition ?
+IS1003c.C.dialog-act.vkaraisk.128	611.97	615.93	C	UI	sug	+1	2	think it {disfmarker} we should give the uh flexibility to the user
+IS1003c.C.dialog-act.vkaraisk.131	617.83	620.57	C	UI	sug	+1	2	You can see {disfmarker} they can switch form one modality to another .
+IS1003c.D.dialog-act.vkaraisk.61	622.34	623.64	D	ME	ass	+1	2	It's a bit risky risky .
+IS1003c.B.dialog-act.vkaraisk.61	626.66	630.29	B	ID	ass	+1	2	But I think that , you know , switching from one country to to another will be a problem ,
+IS1003c.D.dialog-act.vkaraisk.67	665.39	670.88	D	ME	inf	+1	2	I'm sure if the user pays the same price , he's happy to have recognition .
+IS1003c.A.dialog-act.vkaraisk.113	678.26	680.77	A	PM	sug	+1	3	I think it would be better not to do any intelligent controller
+IS1003c.A.dialog-act.vkaraisk.114	680.77	683.37	A	PM	sug	+1	2	and to stay with the Google controller or a fancy controller .
+IS1003c.A.dialog-act.vkaraisk.115	684.47	687.75	A	PM	sug	+1	2	Maybe try to mix the Google controller and the fancy controller ?
+IS1003c.C.dialog-act.vkaraisk.156	768.41	777.08	C	UI	inf	+1	2	but with the features of our controller such as you have the feature of voice recognition in your mobile but you seldom use it , your mobile ,
+IS1003c.C.dialog-act.vkaraisk.159	782.94	785.52	C	UI	ass	+1	2	the feature is not one hundred percent reliable ,
+IS1003c.C.dialog-act.vkaraisk.160	785.52	790.93	C	UI	ass	+1	2	but it's a feature to distinguish our product from our {disfmarker} from other products .
+IS1003c.A.dialog-act.vkaraisk.122	792.09	799.5	A	PM	inf	+1	2	but w we we want something th that works all the time , every day , every hour , for everyone .
+IS1003c.B.dialog-act.vkaraisk.242	1600.24	1611.55	B	ID	ass	+1	2	the problem is I I'm we can infer i if you have v voice control why not to put it directly on the the T_V_ , so speak directly to the T_V_ and you don't need a remote control actually ,
+IS1003c.B.dialog-act.vkaraisk.255	1704.14	1709.97	B	ID	sug	+1	2	Even it is for s just some kids , you know , switching channels one two three four .
+IS1003c.A.dialog-act.vkaraisk.226	1697.7	1703.06	A	PM	el.inf	+1	2	commands , words and use them when you don't want to use your fingers .
+IS1003c.B.dialog-act.vkaraisk.257	1712.35	1714.94	B	ID	sug	+1	2	Not very complex commands , but easy commands ,
+IS1003c.B.dialog-act.vkaraisk.260	1721.83	1722.86	B	ID	inf	+1	3	Yeah , simple ones
+8	IS1003c.rdhillon.s.18	Whether to have a case that is made of wood or is spongy.
+IS1003c.D.dialog-act.vkaraisk.164	1444.61	1448.63	D	ME	ass	+1	2	this is this maybe doesn't really fit with the wooden design .
+IS1003c.B.dialog-act.vkaraisk.199	1450.96	1454.83	B	ID	el.inf	+1	2	but the problem is which kind of material do you need to to be spongy ?
+IS1003c.D.dialog-act.vkaraisk.168	1458.76	1463.51	D	ME	inf	+1	2	plastic-like , but rubber , mayb maybe , you know , rubber-like uh
+IS1003c.A.dialog-act.vkaraisk.203	1526.53	1528.16	A	PM	el.ass	+1	2	Something spongy . {vocalsound}
+IS1003c.B.dialog-act.vkaraisk.217	1529.712	1530.56	B	ID	ass	+1	2	{vocalsound} No wood
+IS1003c.B.dialog-act.vkaraisk.220	1535.77	1538.55	B	ID	sug	+1	2	I think we can have wood for example in the bottom and , you know .
+IS1003c.A.dialog-act.vkaraisk.206	1540.8	1542.15	A	PM	inf	+1	2	It's it's natural .
+IS1003c.A.dialog-act.vkaraisk.208	1544.07	1545.54	A	PM	ass	+1	3	so maybe we can stay with wood .

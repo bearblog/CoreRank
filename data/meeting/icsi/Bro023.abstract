@@ -1,0 +1,44 @@
+2	Bro023.s.1	The ICSI Meeting Recorder Group of Berkeley met for the first time in two weeks.
+Bro023.A.dialogueact54	71.778	75.468	A	PhD	fg|s^tc	+1	1	So , um , {vocalsound} {comment} I guess we got lots to catch up on .
+Bro023.A.dialogueact55	75.468	77.008	A	PhD	s^df	+1	1	And we haven't met for a couple of weeks .
+3	Bro023.s.2	Group members reported their progress in the areas of spectral subtraction , Wiener filtering and noise estimation.
+Bro023.E.dialogueact65	97.94	114.7	E	Grad	fg|s	+1	2	So , um , since we 're looking at putting this , um {disfmarker} mean log m magnitude spectral subtraction , um , into the SmartKom system , I I did a test seeing if , um , it would work using past only {comment} and plus the present to calculate the mean .
+Bro023.B.dialogueact289	794.013	795.853	B	PhD	s	+1	2	So I 've been working on that Wiener filtering .
+Bro023.D.dialogueact823	1898.37	1902.68	D	PhD	s	+1	2	So , {vocalsound} I 've been , uh , working still on the spectral subtraction .
+20	Bro023.s.3	They also discusses topics relating to the rules and preferences of the project they are working on , including single vs multiple passes.
+Bro023.C.dialogueact246	575.264	577.874	C	Professor	s^no	+1	1	I don't know much about {disfmarker} as much as I should about the rest of the system
+Bro023.C.dialogueact250	598.577	608.376	C	Professor	s.%--	+1	1	But if you did first pass with , um , the {disfmarker} with {disfmarker} either without the mean sub subtraction or with a {disfmarker} a very short time one ,
+Bro023.C.dialogueact251	609.262	634.423	C	Professor	s	+1	1	and then , um , once you , uh , actually had the whole utterance in , if you did , um , the , uh , uh , longer time version then , based on everything that you had , um , and then at that point only used it to distinguish between , you know , top N , um , possible utterances or something , you {disfmarker} you might {disfmarker} it might not take very much time .
+Bro023.C.dialogueact252	634.974	644.924	C	Professor	s	+1	1	I mean , I know in the large vocabulary stu uh , uh , systems , people were evaluating on in the past , some people really pushed everything in to make it in one pass
+Bro023.C.dialogueact253	644.924	647.294	C	Professor	s	+1	1	but other people didn't and had multiple passes .
+Bro023.C.dialogueact255	649.55	658.17	C	Professor	s:s	+1	1	the argument , um , against multiple passes was u u has often been " but we want to this to be r you know {disfmarker} have a nice interactive response " .
+Bro023.C.dialogueact256	658.637	662.827	C	Professor	s:s^bk	+1	1	And the counterargument to that which , say , uh , BBN I think had , {comment} was " yeah ,
+Bro023.C.dialogueact257	662.827	667.177	C	Professor	s:s	+1	1	but our second responses are {disfmarker} second , uh , passes and third passes are really , really fast " .
+Bro023.C.dialogueact537	1309.67	1310.3	C	Professor	qy^rt	+1	1	do we know yet ?
+Bro023.C.dialogueact538	1310.3	1313.28	C	Professor	s^e	+1	1	about {disfmarker} as far as what they 're {disfmarker} what the rules are going to be and what we can use ?
+Bro023.D.dialogueact540	1312.67	1317.33	D	PhD	s	+1	1	so actually I received a {disfmarker} a new document , describing this .
+Bro023.D.dialogueact542	1317.33	1324.89	D	PhD	s	+1	1	And what they did finally is to , mmm , uh , not to align the utterances but to perform recognition ,
+Bro023.D.dialogueact543	1326.07	1329.13	D	PhD	fh|s^e	+1	1	um , only on the close - talking microphone ,
+Bro023.D.dialogueact544	1330.36	1336.24	D	PhD	s	+1	1	and to take the result of the recognition to get the boundaries uh , of speech .
+Bro023.C.dialogueact553	1348.83	1349.85	C	Professor	s^bk|s	+1	1	Oh , so they will send files
+Bro023.C.dialogueact554	1349.85	1351.74	C	Professor	qy^d^rt	+1	1	so everybody will have the same boundaries to work with ?
+Bro023.D.dialogueact555	1350.01	1350.26	D	PhD	s^aa	+1	1	Yeah .
+Bro023.C.dialogueact1445	3263.91	3269.03	C	Professor	s	+1	2	all of that sort of stuff is things that they 're debating in their standards committee .
+Bro023.C.dialogueact1444	3261.84	3263.49	C	Professor	s.%--	+1	2	And {disfmarker} and that 's sort of one of the {disfmarker}
+Bro023.C.dialogueact1365	3127.86	3136.16	C	Professor	s^df	+1	2	Because if we completely ignore latency , and then we discover that we really have to do something about it , we 're going to be {disfmarker} find ourselves in a bind .
+7	Bro023.s.4	A number of the group also took time to explain the basics of their approaches to the group.
+Bro023.A.dialogueact604	1443.69	1445.95	A	PhD	qy^rt	+1	1	Can I ask just a {disfmarker} a high level question ?
+Bro023.A.dialogueact605	1446.22	1451.26	A	PhD	qy^co	+1	1	Can you just say like one or two sentences about Wiener filtering and why {disfmarker} why are people doing that ?
+Bro023.B.dialogueact611	1461.43	1468.28	B	PhD	s	+1	1	I mean , so the basic principle of Wiener filter is like you try to minimize the , uh , d uh , difference between the noisy signal and the clean signal
+Bro023.D.dialogueact1504	3417.16	3425.08	D	PhD	s	+1	2	and for this I u simply used some code that , uh , {vocalsound} I had from {disfmarker} from Belgium ,
+Bro023.D.dialogueact1505	3426.63	3431.16	D	PhD	s^e	+1	2	which is technique that , um , takes a bunch of frame ,
+Bro023.D.dialogueact1507	3434.06	3441.83	D	PhD	s^e	+1	2	and for each frequency bands of this frame , takes a look at the minima of the energy .
+Bro023.D.dialogueact1508	3442.74	3449.67	D	PhD	s^rt	+1	2	And then average these minima and take this as an {disfmarker} an energy estimate of the noise for this particular frequency band .
+7	Bro023.s.5	There are hopes that a visitor coming for three weeks , may lead to a longer term collaboration.
+Bro023.A.dialogueact9	24.513	25.223	A	PhD	qy^d^rt	+1	1	Just for a visit ?
+Bro023.C.dialogueact12	25.92	26.61	C	Professor	h|s^am	+1	1	Uh , we 'll see .
+Bro023.C.dialogueact13	27.24	30.03	C	Professor	s^df	+1	1	We might {disfmarker} might end up with some longer collaboration or something .
+Bro023.C.dialogueact15	30.19	32.88	C	Professor	s	+1	1	So he 's gonna look in on everything we 're doing
+Bro023.C.dialogueact18	32.88	35.435	C	Professor	s	+1	1	and give us his {disfmarker} his thoughts .
+Bro023.C.dialogueact3	12.72	19.32	C	Professor	s	+1	1	And uh Hans - uh , Hans - Guenter will be here , um , I think by next {disfmarker} next Tuesday or so .
+Bro023.C.dialogueact6	21.28	22.93	C	Professor	s	+1	1	So he 's {disfmarker} he 's going to be here for about three weeks ,

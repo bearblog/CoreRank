@@ -1,0 +1,47 @@
+0	Bmr024.s.1	This meeting mainly outlines the progress of the meeting recorder project.
+9	Bmr024.s.2	In particular , the group discuss their preparation of materials for the transcriptions of digits by IBM , and also the human transcribers who are working towards preparing the set of 20 for the DARPA meeting.
+Bmr024.D.dialogueact104	224.736	229.438	D	Professor	s^cs^t^tc	+1	2	Well , maybe uh , since that {disfmarker} that was a pretty short one , maybe we should talk about the IBM transcription status .
+Bmr024.F.dialogueact108	232.264	239.213	F	Grad	s	+1	2	So , we , uh {disfmarker} we did another version of the beeps , where we separated each beeps with a spoken digit .
+Bmr024.A.dialogueact233	440.033	444.043	A	Postdoc	s	+1	2	I {disfmarker} I hire {disfmarker} I 've hired two extra people already , expect to hire two more .
+Bmr024.A.dialogueact236	450.586	455.01	A	Postdoc	s	+1	2	which are now being edited by my head transcriber , {vocalsound} in terms of spelling errors and all that .
+Bmr024.A.dialogueact237	455.01	460.787	A	Postdoc	s	+1	2	She 's also checking through and mar and {disfmarker} {vocalsound} and monitoring , um , the transcription of another transcriber .
+Bmr024.A.dialogueact243	473.203	481.438	A	Postdoc	s	+1	2	And {disfmarker} and you indicated to me that we have a g a goal now , {vocalsound} for the {disfmarker} for the , um , {nonvocalsound} {vocalsound} the , uh , DARPA demo , of twenty hours .
+Bmr024.A.dialogueact244	481.805	489.323	A	Postdoc	s	+1	2	So , I 'm gonna go up to twenty hours , be sure that everything gets processed , and released , and {disfmarker} {pause} {comment} and that 's {disfmarker} that 's what my goal is .
+Bmr024.D.dialogueact248	494.704	506.687	D	Professor	s	+1	2	But I guess the other thing is that , um , that {disfmarker} that 's kinda twenty hours ASAP because the longer before the demo we actually have the twenty hours , the more time it 'll be for people to actually do cool things with it .
+Bmr024.D.dialogueact263	522.718	536.289	D	Professor	fg|qy^d^rt	+1	4	Yeah , I mean , I guess the {disfmarker} So the difference if {disfmarker} if , um , if the IBM stuff works out , the difference in the job would be that they p primarily would be checking through things that were already done by someone else ?
+3	Bmr024.s.3	Other discussion focuses on the re-evaluation of recognition without cheating on segmentation , and also how SRI recognition can be improved , especially for the female group.
+Bmr024.B.dialogueact1173	2094.3	2097.59	B	PhD	s^na	+1	3	N I 'm successfully , uh , increasing the error rate .
+Bmr024.D.dialogueact1430	2588.92	2593.64	D	Professor	s	+1	3	We 've always viewed it , anyway , as the major difference between the two , is actually in the smoothing ,
+Bmr024.D.dialogueact1432	2594.26	2606.48	D	Professor	s	+1	3	that the {disfmarker} that the , um , {vocalsound} PLP , and {disfmarker} and the reason PLP has been advantageous in , uh , slightly noisy situations is because , {vocalsound} PLP does the smoothing at the end by an auto - regressive model ,
+6	Bmr024.s.4	A number of issues regarding the management of data are addressed by the group:
+Bmr024.F.dialogueact523	1085.33	1090.67	F	Grad	s	+1	4	and the , uh {disfmarker} Porzel {disfmarker} and the , uh , SmartKom group are collecting some dialogues .
+Bmr024.D.dialogueact740	1433.03	1434.93	D	Professor	s	+1	4	I mean , I don't care what directory tree you have it under .
+Bmr024.F.dialogueact733	1424.34	1427.23	F	Grad	fg|s^df	+1	4	Well , but {disfmarker} but , {vocalsound} I put it under the same directory tree .
+Bmr024.F.dialogueact728	1412.71	1419.75	F	Grad	s^cs	+1	4	and just simply in the file you mark somewhere that this is this type of interaction , rather than another type of interaction .
+Bmr024.F.dialogueact809	1526.81	1530.8	F	Grad	s	+1	3	We 're about {disfmarker} we 're about half {disfmarker} halfway through our disk right now .
+Bmr024.A.dialogueact1144	2053.67	2059.97	A	Postdoc	s^df	+1	4	Well , but you can have it NW archive to {disfmarker} you can have , {vocalsound} uh , a non - backed - up disk NW archived ,
+7	Bmr024.s.5	The inclusion of different data types in the corpus , and the storage and back-up of the group's data.
+Bmr024.F.dialogueact523	1085.33	1090.67	F	Grad	s	+1	4	and the , uh {disfmarker} Porzel {disfmarker} and the , uh , SmartKom group are collecting some dialogues .
+Bmr024.D.dialogueact717	1398.95	1402.29	D	Professor	s.%--	+1	2	It 's just that it 's , you know , different directory , it 's called something different , it 's {disfmarker}
+Bmr024.F.dialogueact728	1412.71	1419.75	F	Grad	s^cs	+1	4	and just simply in the file you mark somewhere that this is this type of interaction , rather than another type of interaction .
+Bmr024.D.dialogueact740	1433.03	1434.93	D	Professor	s	+1	4	I mean , I don't care what directory tree you have it under .
+Bmr024.F.dialogueact733	1424.34	1427.23	F	Grad	fg|s^df	+1	4	Well , but {disfmarker} but , {vocalsound} I put it under the same directory tree .
+Bmr024.F.dialogueact809	1526.81	1530.8	F	Grad	s	+1	3	We 're about {disfmarker} we 're about half {disfmarker} halfway through our disk right now .
+Bmr024.A.dialogueact1144	2053.67	2059.97	A	Postdoc	s^df	+1	4	Well , but you can have it NW archive to {disfmarker} you can have , {vocalsound} uh , a non - backed - up disk NW archived ,
+5	Bmr024.s.6	Progress has been made in naming conventions , with file reorganisation to be done at a later date , however this was not discussed fully due to Chuck's absence.
+Bmr024.D.dialogueact62	141.921	152.836	D	Professor	qy^cs^d^rt	+1	2	but {disfmarker} but , uh , probably , if we had to pick something {pause} that we would talk on for ten minutes or so while they 're coming here . Or I guess it would be , you think , reorganization status ,
+Bmr024.F.dialogueact65	154.147	157.098	F	Grad	s	+1	2	I mean , I think , Chuck was the one who added out the agenda item .
+Bmr024.F.dialogueact66	157.098	159.338	F	Grad	s	+1	2	I don't really have anything to say other than that we still haven't done it .
+Bmr024.F.dialogueact93	207.39	211.46	F	Grad	s	+1	2	So , naming conventions and things like that , that I 've been trying to keep actually up to date .
+Bmr024.F.dialogueact95	212.83	215.51	F	Grad	s	+1	2	And I 've been sharing them with U - d UW folks also .
+4	Bmr024.s.7	Finally , Absinthe is now up and running with improved performance.
+Bmr024.D.dialogueact1534	2876.75	2878.77	D	Professor	qy^tc.%--	+1	2	So , is there something quick about Absinthe {pause} that you {disfmarker} ?
+Bmr024.F.dialogueact1538	2886.27	2891.37	F	Grad	s	+1	2	and got {vocalsound} {vocalsound} a speedup roughly proportional to the number of processors times the clock cycle .
+Bmr024.F.dialogueact1549	2901.78	2908.68	F	Grad	s	+1	2	But the {disfmarker} what it means is that it 's likely that for net training and forward passes , we 'll {disfmarker} Absinthe will be a good machine .
+Bmr024.F.dialogueact1550	2909.26	2912.11	F	Grad	s	+1	2	Especially if we get a few more processors and upgrade the processors .
+5	Bmr024.s.8	Discussion of demos for the July DARPA meeting were left to the individuals concerned.
+Bmr024.D.dialogueact1592	2962.19	2965.35	D	Professor	s^t^tc	+1	1	So I guess the other thing that we were gonna talk about is {disfmarker} is , uh , demo .
+Bmr024.D.dialogueact1593	2966.25	2977.4	D	Professor	fh|s.%-	+1	1	And , um , so , these are the demos for the {pause} uh , July , uh , meeting {pause} and , um {disfmarker} DARPA mee
+Bmr024.D.dialogueact1604	2986.11	2990.29	D	Professor	s^cs.%--	+1	2	but maybe , uh {disfmarker} maybe we 'll just put that off for now , given that {disfmarker}
+Bmr024.D.dialogueact1605	2991.56	2993.81	D	Professor	s^cs	+1	1	But I think maybe we should have a {disfmarker} a sub - meeting ,
+Bmr024.D.dialogueact1606	2993.81	3002.33	D	Professor	s^cs	+1	2	I think , uh , probably , uh , Adam and {disfmarker} and , uh , Chuck and me should talk about {disfmarker} should get together and talk about that sometime soon .

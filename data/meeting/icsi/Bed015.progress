@@ -1,0 +1,25 @@
+1	Bed015.s.26	The revised semantic specification and construction formalism are more stable than the previous versions.
+Bed015.F.dialogueact44	79.533	81.283	F	Grad	s	+1	1	it 's only slightly more stable than it was before .
+3	Bed015.s.27	In the latter , we find both construction types and meaning types along with formal considerations like verb subcategorisation , or the ones a "directed motion" construction would dictate.
+Bed015.F.dialogueact69	137.4	138.91	F	Grad	s	+1	2	So they could all have a type at the beginning .
+Bed015.F.dialogueact107	247.143	251.19	F	Grad	s	+1	1	And usually it has formal um , considerations that will go along with it .
+Bed015.F.dialogueact284	666.788	670.048	F	Grad	s	+1	1	Well , right now it 's a c uh contr construction type and meaning type .
+1	Bed015.s.28	Semantic constraints also come into play.
+Bed015.F.dialogueact149	389.681	392.451	F	Grad	s^bk|s	+1	2	OK , and then again semantic constraints here are just {disfmarker} are just bindings .
+13	Bed015.s.29	The semantic specification , on the other hand , is split into three levels: "scenario" is a list of schemas and bindings between them , which describes the current event in terms of Source-Path-Goal , Container , etc.; "referent" is about the entities in the discourse and includes grammatical information and pointers to the ontology; "discourse segment" comprises utterance-specific things.
+Bed015.F.dialogueact1022	2193.69	2196.79	F	Grad	s	+1	2	So you see it 's " scenario " , " referent " and " discourse segment " .
+Bed015.F.dialogueact1025	2201.05	2209.19	F	Grad	s|qy^d^f^g^rt	+1	2	And actually it 's just a list of various slots from which you would draw {disfmarker} draw in order to paint your picture , a bunch of frames , bi and bindings , right ?
+Bed015.F.dialogueact1034	2224.09	2232.1	F	Grad	s	+1	1	And this is intended to be grammatically specifiable information about a referent {disfmarker} uh , you know , about some entity that you were going to talk about .
+Bed015.F.dialogueact1041	2243.63	2245.87	F	Grad	s	+1	1	Basically , it could be a pointer to ontology .
+Bed015.F.dialogueact1055	2284.84	2292.21	F	Grad	s	+1	1	So , th the {disfmarker} the big com and {disfmarker} and finally " discourse segment " is about {vocalsound} sort of speech - act - y information structure - y ,
+Bed015.F.dialogueact1056	2292.21	2294.27	F	Grad	s	+1	1	like utterance - specific kinds of things .
+Bed015.F.dialogueact1159	2552.0	2556.33	F	Grad	s	+1	1	Um , mostly the top one is sort of image schematic .
+Bed015.F.dialogueact1165	2566.8	2569.88	F	Grad	s	+1	1	like a container or sort of support - ish .
+Bed015.F.dialogueact1167	2573.93	2575.99	F	Grad	s	+1	1	like " source , path , goal " is often thought of that way
+Bed015.E.dialogueact1245	2752.47	2753.56	E	Grad	s^rt	+1	2	The " scenario " box ,
+Bed015.E.dialogueact1253	2761.68	2767.65	E	Grad	s	+1	1	" part of what I 'm going to hand you is a whole bunch of s uh , schemas , image , and X - schemas .
+Bed015.E.dialogueact1383	3074.39	3076.83	E	Grad	s	+1	1	which just tells you how various {disfmarker} what schemas you 're using
+Bed015.E.dialogueact1385	3078.28	3081.57	E	Grad	s.%--	+1	1	And I guess that some of the discourse segment stuff {disfmarker}
+2	Bed015.s.30	Apart from the presentation , JavaBayes can now run through the modified web page of the project.
+Bed015.A.dialogueact2047	4342.82	4347.27	A	Grad	fh|s^ft.%--	+1	1	Um , thanks to Eva on our web site we can now ,
+Bed015.A.dialogueact2050	4356.57	4363.8	A	Grad	s	+1	1	she modified the GUI so it has now a m a m a button menu item for saving it into the embedded JavaBayes format .

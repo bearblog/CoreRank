@@ -1,0 +1,35 @@
+6	Bro028.s.10	Speaker mn007 has been working on the tandem network approach , and the current results are good.
+Bro028.D.dialogueact75	148.116	151.576	D	PhD	fg|s^rt^t^tc	+1	3	Uh , yeah . So , the second thing is the system that we have currently .
+Bro028.D.dialogueact76	152.77	157.125	D	PhD	s	+1	3	Oh , yes . We have , like , a system that gives sixty - two percent improvement ,
+Bro028.D.dialogueact77	157.125	161.23	D	PhD	s.%--	+1	3	but {vocalsound} if you want to stick to the {disfmarker} {vocalsound} this latency {disfmarker}
+Bro028.D.dialogueact78	161.777	163.407	D	PhD	s	+1	3	Well , it has a latency of two thirty ,
+Bro028.D.dialogueact79	163.407	171.685	D	PhD	s^bd	+1	3	but {vocalsound} if you want also to stick to the number {vocalsound} of features that {disfmarker} limit it to sixty , {vocalsound} then we go a little bit down
+Bro028.D.dialogueact80	171.685	173.375	D	PhD	s^df	+1	3	but it 's still sixty - one percent .
+6	Bro028.s.11	He has found a good way of calculating the silence probabilities , that does not increase insertions.
+Bro028.D.dialogueact120	255.349	258.259	D	PhD	s^bk|s^rt	+1	1	Yeah , there were small tricks to make this tandem network work .
+Bro028.D.dialogueact122	263.314	271.184	D	PhD	s	+1	1	and one of the trick was to , {vocalsound} um , use {vocalsound} some kind of hierarchical structure
+Bro028.D.dialogueact123	271.184	276.914	D	PhD	s	+1	1	where {pause} the silence probability is not computed by {pause} the final tandem network but by the VAD network .
+Bro028.D.dialogueact125	279.535	285.987	D	PhD	s^rt	+1	1	so apparently it looks better when , {vocalsound} uh , we use the silence probability from the VAD network
+Bro028.D.dialogueact180	411.934	417.925	D	PhD	s	+1	1	Actually plugging in the tandem network was increasing , I {disfmarker} I {disfmarker} I think , the number of insertions .
+Bro028.D.dialogueact184	424.81	427.71	D	PhD	s	+1	1	and then just using the {disfmarker} the other silence probability helps .
+17	Bro028.s.12	He also attempted to transcribe data himself , to establish a human performance level.
+Bro028.D.dialogueact272	630.825	635.37	D	PhD	fg|s^t^tc	+1	2	Yeah . The last thing is that I think we are getting close to human performance .
+Bro028.D.dialogueact273	636.195	638.245	D	PhD	s^bd^df	+1	2	Well , that 's something I would like to investigate further ,
+Bro028.D.dialogueact276	641.31	649.556	D	PhD	s	+1	2	I did , like , um {disfmarker} I did , uh , listen to the m most noisy utterances of the SpeechDat - Car Italian
+Bro028.D.dialogueact277	649.656	651.649	D	PhD	s	+1	2	and tried to transcribe them .
+Bro028.B.dialogueact279	653.293	654.553	B	Professor	s^bu	+1	2	So this is a particular human .
+Bro028.B.dialogueact280	654.633	656.033	B	Professor	s^bu^e	+1	2	This is {disfmarker} this i this is Stephane .
+Bro028.D.dialogueact284	657.001	658.881	D	PhD	s^bd	+1	2	that 's the {disfmarker} the flaw of the experiment .
+Bro028.D.dialogueact289	663.336	672.748	D	PhD	s^df	+1	2	but still , uh , {vocalsound} what happens is {disfmarker} is that , {vocalsound} uh , the digit error rate on this is around one percent ,
+Bro028.D.dialogueact291	673.329	675.829	D	PhD	s^df^e	+1	2	while our system is currently at seven percent .
+Bro028.D.dialogueact292	676.92	684.627	D	PhD	fh|s.%--	+1	2	Um , but what happens also is that if I listen to the , um {disfmarker} {nonvocalsound} a re - synthesized version of the speech
+Bro028.D.dialogueact293	685.316	692.33	D	PhD	s.%--	+1	2	and {pause} I re - synthesized this using a white noise that 's filtered by a LPC , uh , filter {disfmarker}
+Bro028.D.dialogueact296	694.57	697.29	D	PhD	s	+1	2	well , you can argue , that , uh {disfmarker} that this is not speech ,
+Bro028.D.dialogueact298	697.29	699.77	D	PhD	s	+1	2	so the ear is not trained to recognize this .
+Bro028.D.dialogueact299	699.77	701.76	D	PhD	s	+1	2	But s actually it sound like {pause} whispering ,
+Bro028.B.dialogueact447	1062.3	1063.71	B	Professor	fg|s^bd	+1	2	Yeah . I mean , it 's probably not worth your time .
+Bro028.B.dialogueact448	1063.71	1064.84	B	Professor	s^df^e	+1	2	It 's {disfmarker} it 's a side thing
+Bro028.B.dialogueact449	1064.84	1066.33	B	Professor	s^df^e	+1	2	and {disfmarker} and {disfmarker} and there 's a lot to do .
+2	Bro028.s.13	Speaker me018 is working on Mississippi Sate recognizer for dealing with the Wall Street Journal Data.
+Bro028.B.dialogueact497	1176.05	1185.15	B	Professor	s^cs^rt^t^tc	+1	2	Um , while we 're still on Aurora stuff {pause} maybe you can talk a little about the status with the , uh , {vocalsound} Wall Street Journal {vocalsound} things for it .
+Bro028.A.dialogueact498	1185.49	1191.01	A	PhD	s	+1	2	So I 've , um , downloaded , uh , a couple of things from Mississippi State .

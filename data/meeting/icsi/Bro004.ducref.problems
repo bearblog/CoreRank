@@ -1,0 +1,16 @@
+Incorrect assumptions were made when considering the on-line
+normalization for the main task .  members used different values to a
+previous study , and whilst it was believed not to make a difference,
+it does , so networks are being retrained.
+Currently working with noise conditions being the same in training and
+test data , but there is nothing which matches the noise on the Italian
+test data.
+In fact no other language matches the noise from Aurora
+data.
+Spanish was being used to train for Italian as it was assumed they
+were the most similar , but that may not be as close a match as
+thought.
+OGI have an interesting approach to Voice Activation Detection for
+removing blocks of silence , that shows good results , but currently the
+word model being used is too poor to make good use of this and no one
+is working on improving it.

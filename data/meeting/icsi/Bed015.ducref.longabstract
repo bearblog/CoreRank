@@ -1,0 +1,30 @@
+The discussion concerned the revised semantic specification and the construction formalism.
+The different levels of the latter focus on what construction types are encountered and what bindings there are between them.
+The notation maintains properties of both dependency and constituent-based grammars.
+The encoding of features is still incomplete: frame profiles , focus , adjectives , nominal expressions are phenomena in the process of being integrated.
+Similarly , ways to handle mental spaces will have to be added on top.
+On the other hand , the semantic specification structures information in terms of "scenario" , "referent" and "discourse segment".
+Each category comprises a number of slots filled in by information derived from the utterance.
+It is , essentially , a toolkit with which to create semantic constructions , as well as the bindings between them and with the ontology.
+Among the issues still being defined , mental spaces and context ( eg pronoun references ) present similarities that can be echoed in the specification.
+Work on both of these formalisms will continue with circumscription of the construction space that will be studied in more detail.
+Work on construal will use Bayes-nets , which will be fed information from other modules and implement general rules to infer how utterances are construed.
+The semantic specification requires some adjustments.
+Amongst other things "cause" has to be added as another X-schema.
+Linguistic hedging will also be encoded as a demarcation of evidentiality or speaker confidence.
+Mental spaces can be tackled with mechanisms that can also deal with context issues ( time , space etc . ): creating a base space and rules of interaction with other interconnected spaces.
+However , the complexity of these mechanisms has to be bound as well: it is necessary to define the range of constructions to be studied.
+Given the domains currently used ( tourist , child language learning ) , some features , like speaker attitude , are not of equal importance at this stage.
+On the other hand , it was decided for the inheritance between constructions to be left out for now , as the notation can be rendered more elegant later on.
+Finally , a preliminary presentation on the idea of how to use Bayes-nets for construal will take place in the next meeting.
+The construction formalism is not yet complete as to the semantic constraints -the terminology has also been met with objections- and does not deal with mental spaces.
+On their own , constructions can only give limited information regarding mental spaces: forms can provide cues to create a different mental space , but the semantic nuances are defined by context.
+It is not decided at this stage whether the necessary values should be coded within the construction or as part of construal.
+Other issues concern focus and stress: focus is seen as an information structure device , but there has been no suggestion as to how to predict its effects or break it down in possible focused elements; as to stress , it may not be useful as a form value , as it shows the focus exponent , but not what the focus is on.
+Moving to the semantic specification , the analysis still needs mechanisms to deal with causality , as well as mental spaces and bindings between them.
+Additionally , how referring expressions are linked to referents or even how mental spaces affect this linking are still to lay down in detail.
+The revised semantic specification and construction formalism are more stable than the previous versions.
+In the latter , we find both construction types and meaning types along with formal considerations like verb subcategorisation , or the ones a "directed motion" construction would dictate.
+Semantic constraints also come into play.
+The semantic specification , on the other hand , is split into three levels: "scenario" is a list of schemas and bindings between them , which describes the current event in terms of Source-Path-Goal , Container , etc.; "referent" is about the entities in the discourse and includes grammatical information and pointers to the ontology; "discourse segment" comprises utterance-specific things.
+Apart from the presentation , JavaBayes can now run through the modified web page of the project.

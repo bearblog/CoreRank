@@ -1,0 +1,38 @@
+2	Bed005.s.1	The data collection running in parallel with the project can start shortly with recruiting subjects.
+Bed005.B.dialogueact19	171.813	190.084	B	Professor	s:s	+1	2	What we think is gonna happen is that , uh , in parallel starting about now {vocalsound} we 're gonna get Fey {vocalsound} to , where you 're working with me and Robert , draft a note that we 're gonna send out to various CogSci c and other classes saying , " here 's an opportunity to be a subject .
+Bed005.B.dialogueact31	227.992	235.053	B	Professor	s	+1	3	But what I 'd like to do , if it 's O K , {vocalsound} is to s to , as I say , start the recruiting in parallel and possibly start running subjects next week .
+3	Bed005.s.2	Meanwhile , the german parser now works with english sentences.
+Bed005.C.dialogueact124	454.962	460.472	C	Grad	s	+1	3	And , um {disfmarker} and now it 's {disfmarker} We have a complete English parser that does everything the German parser does .
+Bed005.C.dialogueact232	647.44	649.02	C	Grad	s^rt	+1	2	And it still is , now in English .
+Bed005.B.dialogueact914	2345.79	2347.95	B	Professor	s	+1	4	That , these guys did in a {disfmarker} in a day .
+4	Bed005.s.3	The parser's output modifies the XML used by the system to initiate actions and generate responses.
+Bed005.D.dialogueact256	699.25	703.68	D	Grad	qy^bu^d^rt	+1	1	One thing I was wondering , was , those functions there , are those things that modify the M - three - L basically ?
+Bed005.D.dialogueact395	1081.79	1089.25	D	Grad	s	+1	2	I think each of those functions act on the current XML structure , and change it in some way , for example , by adding a {disfmarker} a l a field to it , or something .
+Bed005.B.dialogueact401	1091.61	1096.87	B	Professor	s	+1	2	there were other actions uh , that {disfmarker} that s seemed to step {disfmarker} state variables somewhere ,
+Bed005.B.dialogueact911	2335.06	2340.37	B	Professor	s	+1	1	which , in German , uh , takes these t sentence templates and produces XML structures .
+3	Bed005.s.4	The XML for Map requests also comprise a route , route elements and points of interest along the way.
+Bed005.C.dialogueact560	1447.3	1448.51	C	Grad	s^rt	+1	1	Uh {disfmarker} You {disfmarker} you have a route ,
+Bed005.C.dialogueact562	1451.08	1456.71	C	Grad	s:s	+1	1	And every {disfmarker} every element of that e r r f of that {disfmarker} Every segment we call a " route element " .
+Bed005.C.dialogueact565	1464.57	1467.91	C	Grad	s	+1	1	where y where {pause} you sort of end , and some points of interest along the way .
+1	Bed005.s.5	It is at this level that Enter/Vista/Approach tags will be added as action modes.
+Bed005.C.dialogueact570	1487.4	1497.59	C	Grad	s^rt:s^rt	+1	1	is one , um , {vocalsound} {vocalsound} Also allocating , uh , some tags for our Action Schema Enter - Vista - Approach ,
+1	Bed005.s.6	As the project evolves , further enrichment of the ontology ( actions , linguistic features ) will be necessary.
+Bed005.B.dialogueact655	1715.98	1717.97	B	Professor	s	+1	1	Uh , at some point we 're going to have to worry about the language end .
+2	Bed005.s.7	Similarly , object representations will include an EVA vector.
+Bed005.B.dialogueact1266	3208.26	3214.81	B	Professor	s:s	+1	1	Eh {disfmarker} so , you {disfmarker} you {disfmarker} you may or {disfmarker} So , then you 'd have this little vector of , um , you know , Approach Mode or EVA Mode .
+Bed005.B.dialogueact1277	3234.7	3240.04	B	Professor	s:s	+1	1	It 's part of what you know about {disfmarker} a {disfmarker} an object , {vocalsound} is its EVA vector .
+3	Bed005.s.8	This can be incorporated in the database entry for a particular building or inherited from the ontology of the building type.
+Bed005.B.dialogueact1268	3219.01	3221.19	B	Professor	s	+1	1	If you know it for a specific landmark you put it there .
+Bed005.B.dialogueact1269	3221.74	3225.6	B	Professor	s	+1	1	If you don't , you just go up the hierarchy to the first place you find one .
+Bed005.B.dialogueact1397	3542.1	3546.85	B	Professor	s:s^fe	+1	1	If it 's that type of thing , and we want its EVA vector , pppt - pppt ! {comment} it 's that . "
+2	Bed005.s.9	These elements will constitute only a small part of the inputs of the Bayes-net that determines the action mode.
+Bed005.D.dialogueact996	2536.73	2540.52	D	Grad	s^rt	+1	1	the typical example is that , um , these are all a bunch of cues for something ,
+Bed005.D.dialogueact997	2540.72	2542.74	D	Grad	s	+1	1	and this is a certain effect that we 'd like to conclude .
+1	Bed005.s.10	The actual number of the inputs can create a combinatorial explosion when setting the probabilities.
+Bed005.D.dialogueact1048	2622.41	2624.89	D	Grad	s	+1	2	And , that 's a lot of probabilities to put here , which is kind of a pain .
+4	Bed005.s.11	Noisy-OR's can help avoid this by simplifying the probability tables and applying a deterministic function to produce their complete version.
+Bed005.D.dialogueact1049	2625.51	2630.35	D	Grad	fh|s	+1	3	So {pause} Noisy - ORs are a way to , uh , {vocalsound} sort of deal with this .
+Bed005.D.dialogueact1084	2751.93	2753.96	D	Grad	s	+1	1	So we come up with these l little tables for each of those
+Bed005.D.dialogueact1086	2756.25	2760.88	D	Grad	s^df	+1	1	And the final thing is that , um {disfmarker} {vocalsound} {vocalsound} this is a deterministic function of these ,
+Bed005.B.dialogueact1094	2799.32	2802.35	B	Professor	s^e	+1	1	Th - c the full conditional probability table {disfmarker} with some function .
+0	Bed005.s.12	In any case , further to fulfilling the basic requirements ( translating the parser and the generator into english ) , the project is entirely open-ended in terms of focus of research.

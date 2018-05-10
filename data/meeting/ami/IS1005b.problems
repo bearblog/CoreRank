@@ -1,0 +1,29 @@
+3	IS1005b.rdhillon.s.14	Cost of adding speech recognition to a remote.
+IS1005b.B.dialog-act.dharshi.10	484.32	487.88	B	ID	ass	+1	1	And speech recognition in remote unit , it will be very e expensive .
+IS1005b.B.dialog-act.dharshi.83	1126.35	1132.8	B	ID	sug	+1	2	But the speech recognition we have to compare whether the price and the {disfmarker} what does it offer , you know .
+IS1005b.B.dialog-act.dharshi.88	1160.6	1165.27	B	ID	ass	+1	1	If we decide to use the speech recognition , then we probably could struggle
+3	IS1005b.rdhillon.s.15	Whether using radio waves will interfere with other technology a user owns.
+IS1005b.D.dialog-act.dharshi.68	766.4	772.04	D	ME	el.inf	+1	2	Do you think radio waves um will interfere with other appliances in the home ?
+IS1005b.C.dialog-act.dharshi.43	773.42	775.89	C	UI	inf	+1	2	Uh , I don't think so ,
+IS1005b.A.dialog-act.dharshi.39	813.23	820.9	A	PM	el.inf	+1	2	And what happen with uh radio waves when two neighbours have the same {disfmarker} have our remote control , for example ?
+1	IS1005b.rdhillon.s.16	Cost of infra-red components.
+IS1005b.B.dialog-act.dharshi.105	1230.27	1232.95	B	ID	ass	+1	1	And the price is fairly cheap for this .
+2	IS1005b.rdhillon.s.17	How to minimize the number of buttons on the remote while having buttons to access channels.
+IS1005b.B.dialog-act.dharshi.128	1527.56	1532.71	B	ID	el.ass	+1	2	will we use only two buttons , or or like numbered buttons ?
+IS1005b.B.dialog-act.dharshi.130	1538.16	1542.11	B	ID	inf	+1	2	Because it's many buttons and we were speaking about lowering the number .
+1	IS1005b.rdhillon.s.18	Whether to include lesser used functions in the remote.
+IS1005b.D.dialog-act.dharshi.120	1744.8	1751.93	D	ME	sug	+1	2	I mean there's always {disfmarker} we can always have these l less often used functions hidden somewhere ,
+5	IS1005b.rdhillon.s.19	Whether to have a power button.
+IS1005b.B.dialog-act.dharshi.170	1810.58	1813.6	B	ID	el.ass	+1	1	{vocalsound} This I was thinking . Do we need a power button at all ?
+IS1005b.D.dialog-act.dharshi.134	1828.88	1833.93	D	ME	inf	+1	2	Uh , well I think when they say power button they mean to turn the T_V_ on and off .
+IS1005b.B.dialog-act.dharshi.171	1813.6	1818.04	B	ID	sug	+1	2	Should should shouldn't we do it like sleep mode after five minutes of not using it ?
+IS1005b.B.dialog-act.dharshi.191	1926.42	1931.168	B	ID	el.ass	+1	2	Should we make it a button , or some some something which would be {disfmarker}
+IS1005b.C.dialog-act.dharshi.110	1933.65	1935.2	C	UI	ass	+1	3	A button is better .
+5	IS1005b.rdhillon.s.20	Whether to have a timer feature.
+IS1005b.D.dialog-act.dharshi.155	1968.32	1973.05	D	ME	el.ass	+1	2	What about things like the clock and um timers ?
+IS1005b.A.dialog-act.dharshi.192	2010.0	2016.08	A	PM	inf	+1	3	If we if we add the time , we have to have maybe a bigger display or something like that ,
+IS1005b.A.dialog-act.dharshi.194	2017.71	2023.25	A	PM	el.ass	+1	2	I mean , are users wants to have the time on the on the remote ?
+IS1005b.D.dialog-act.dharshi.157	2025.2	2026.59	D	ME	ass	+1	3	Probably not .
+IS1005b.A.dialog-act.dharshi.197	2027.86	2031.24	A	PM	ass	+1	3	W In my opinion we should have only useful thing
+1	IS1005b.rdhillon.s.21	Whether to have a display function.
+IS1005b.A.dialog-act.dharshi.192	2010.0	2016.08	A	PM	inf	+1	3	If we if we add the time , we have to have maybe a bigger display or something like that ,

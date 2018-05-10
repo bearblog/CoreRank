@@ -1,0 +1,10 @@
+A 'no-frills' recognizer , trained on Switchboard acoustic models and both Switchboard and Broadcast News language models , was used to test data for one transcribed meeting.
+Despite a glitch affecting the synchronized output of remaining data , recognition results for the first 20 minutes were very positive.
+The recognizer was successful in making accurate gender distinctions among speakers.
+It is anticipated that subsequent forced alignment procedures will also generate good results , enabling the group to analyze other types of signal information , such as prosody and overlapping speech segments.
+Future work will involve getting assessments of forced aligned data from linguists on the accuracy of time marks.
+The collection of Meeting Recorder data is ongoing , and will include meetings by the Berkeley Even Deeper Understanding research group.
+Transcriptions are also ongoing , with nearly 10 hours of Meeting Recorder data transcribed so far.
+Future work will involve working out a system for getting subjects to approve transcriptions so that confidentiality agreements are upheld and data may be shared with other research groups.
+A visiting student from Norway is working with a member of ICSI to conduct a related project on echo cancellation for handling segments of overlapping speech.
+Finally , the group is expecting a visit from a representative of NIST.

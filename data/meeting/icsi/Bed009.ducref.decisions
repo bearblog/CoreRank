@@ -1,0 +1,7 @@
+The group set a date for assessing SmartKom plans.
+It was decided that SmartKom's action plans should be represented in XML as a state transition network.
+It was proposed that the term 'dialogue planner' should replace 'dialogue manager'.
+Prolog will be phased out completely and replaced by Java code.
+The dialogue manager must be capable of changing states , i.e . go from being event driven to answering a question from a planning module.
+SmartKom should feature a well defined core interface , with domain-specific information kept external.
+A syntactic analysis component that performs chunk parsing will be added to the system.

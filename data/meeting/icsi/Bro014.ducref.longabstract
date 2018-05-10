@@ -1,0 +1,17 @@
+The ICSI Meeting Recorder Group at Berkeley met to discuss progress on their main project , Aurora.
+They discussed a conference call with project partners , there have been some developments that should help speed up experiments , along with some progress made in the current area they are looking , voiced/unvoiced detection.
+A number of other members of the group also reported the progress they were making on their work.
+Me018 will mail people with details about changes to their system in order to run code on the IBM Linux machine , along with the name of the machine.
+Mn007 is going to try and convince OGI to use his new filters , and enquire as to the setting of a standard for the system.
+There was a conference call for the Aurora Project , but no one from ICSI was involved.
+Not only are the group unsure what if anything was decided , but project changes are being considered including changing the baseline and improvement weighting , though everyone has their own opinion on these matters.
+The group needs more female voices in the Meeting Recorder data , though fn002 does not consider herself very suitable.
+Me018 has been attempting to make experimentation faster by reducing the iterations in the HTK training.
+These will can be reset once the system is finalised.
+He then wants to try and improve accuracy may increasing the number of Gaussian mixtures in the models.
+Mn007 reported OGI's work on spectral subtraction , as well as his testing his new filter.
+The latency is reduced , and improvement increased on well matched case , though decreased on mis-matched.
+Along with fn002 he has been looking into voiced/unvoiced detection , and they are still looking for features.
+So far they are using features which approximate important details , and they seem reasonably robust on noise.
+Me026 has decided against using the exact method of reverberation cancellation he previously discussed , because its output does not fit the current system.
+Me006 has been reading on a slight tangent looking at classic work on modulation spectrum , which has inspired some ideas for input.

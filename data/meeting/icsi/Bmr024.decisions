@@ -1,0 +1,43 @@
+4	Bmr024.s.9	A number of data issues were resolved:
+Bmr024.F.dialogueact523	1085.33	1090.67	F	Grad	s	+1	4	and the , uh {disfmarker} Porzel {disfmarker} and the , uh , SmartKom group are collecting some dialogues .
+Bmr024.D.dialogueact740	1433.03	1434.93	D	Professor	s	+1	4	I mean , I don't care what directory tree you have it under .
+Bmr024.F.dialogueact733	1424.34	1427.23	F	Grad	fg|s^df	+1	4	Well , but {disfmarker} but , {vocalsound} I put it under the same directory tree .
+Bmr024.F.dialogueact728	1412.71	1419.75	F	Grad	s^cs	+1	4	and just simply in the file you mark somewhere that this is this type of interaction , rather than another type of interaction .
+24	Bmr024.s.10	After discussing the human-computer interaction Smartkom data , the group decide that different types of data can be included in the meeting corpus , but that it should be structured into different directories according to data type.
+Bmr024.F.dialogueact523	1085.33	1090.67	F	Grad	s	+1	4	and the , uh {disfmarker} Porzel {disfmarker} and the , uh , SmartKom group are collecting some dialogues .
+Bmr024.F.dialogueact526	1090.67	1096.95	F	Grad	s	+1	1	Basically they have one person sitting in here , looking at a picture , and a wizard sitting in another room somewhere .
+Bmr024.F.dialogueact527	1097.69	1099.72	F	Grad	fh|s	+1	1	And , uh , they 're doing a travel task .
+Bmr024.F.dialogueact530	1105.9	1111.54	F	Grad	s	+1	1	but it starts where the wizard is pretending to be a computer and it goes through a , uh , {vocalsound} speech generation system .
+Bmr024.F.dialogueact538	1123.48	1125.05	F	Grad	qy	+1	1	Should this be part of the corpus or not ?
+Bmr024.F.dialogueact539	1126.15	1133.23	F	Grad	s	+1	1	And my attitude was yes , because there might be people who are using this corpus for {pause} acoustics , as opposed to just for language .
+Bmr024.I.dialogueact552	1161.03	1169.57	I	PhD	s^cs	+1	1	We simulate a computer breakdown halfway through the session , and so then after that , the person 's told that they 're now talking to a , uh {disfmarker} to a human .
+Bmr024.F.dialogueact557	1170.24	1172.55	F	Grad	s^t3	+1	1	But of course they don't know that it 's the same person both times .
+Bmr024.F.dialogueact586	1206.57	1212.99	F	Grad	s	+1	1	and I said , " well that 's silly , if {disfmarker} if we 're gonna try to do it for a corpus , there might be people who are interested in acoustics . "
+Bmr024.D.dialogueact658	1288.37	1290.44	D	Professor	s	+1	1	I {disfmarker} I would not say it was part of the meetings corpus .
+Bmr024.F.dialogueact664	1297.33	1303.95	F	Grad	fg|s	+1	1	So it 's {disfmarker} It {disfmarker} it {disfmarker} I guess it {disfmarker} the {disfmarker} begs the question of what is the meeting corpus .
+Bmr024.D.dialogueact666	1309.0	1315.43	D	Professor	s	+1	1	I think it 's {disfmarker} I {disfmarker} I think {disfmarker} I th think the idea of two or more people conversing with one another is key .
+Bmr024.F.dialogueact667	1316.26	1318.36	F	Grad	s	+1	1	Well , this has two or more people conversing with each other .
+Bmr024.F.dialogueact686	1333.78	1342.81	F	Grad	qr^d^rt	+1	1	we give everyone who 's involved as their own user ID , give it session I Ds , {vocalsound} let all the tools that handle Meeting Recorder handle it , or do we wanna special case it ?
+Bmr024.I.dialogueact688	1344.82	1351.66	I	PhD	s	+1	1	Well , it {disfmarker} it makes sense to handle it with the same infrastructure , since we don't want to duplicate things unnecessarily .
+Bmr024.I.dialogueact692	1351.66	1355.74	I	PhD	s^cs	+1	1	But as far as distributing it , we shouldn't label it as part of this meeting corpus .
+Bmr024.A.dialogueact699	1362.39	1364.47	A	Postdoc	s	+1	1	Because we have , like , meetings that have a reason .
+Bmr024.A.dialogueact701	1366.64	1370.06	A	Postdoc	s	+1	1	And {disfmarker} and those {disfmarker} and this sounds like it 's more of an experimental setup .
+Bmr024.D.dialogueact703	1369.6	1375.05	D	Professor	s	+1	1	It 's scenario - based , it 's {disfmarker} it 's human - computer interface {disfmarker} {vocalsound} it 's really pretty different .
+Bmr024.D.dialogueact717	1398.95	1402.29	D	Professor	s.%--	+1	2	It 's just that it 's , you know , different directory , it 's called something different , it 's {disfmarker}
+Bmr024.F.dialogueact728	1412.71	1419.75	F	Grad	s^cs	+1	4	and just simply in the file you mark somewhere that this is this type of interaction , rather than another type of interaction .
+Bmr024.D.dialogueact730	1419.28	1422.43	D	Professor	s	+1	1	Well , I don I wouldn't call reading digits " meetings " .
+Bmr024.F.dialogueact733	1424.34	1427.23	F	Grad	fg|s^df	+1	4	Well , but {disfmarker} but , {vocalsound} I put it under the same directory tree .
+Bmr024.D.dialogueact740	1433.03	1434.93	D	Professor	s	+1	4	I mean , I don't care what directory tree you have it under .
+1	Bmr024.s.11	Some of the data storage problems can be overcome by backing up using the NW archive.
+Bmr024.A.dialogueact1144	2053.67	2059.97	A	Postdoc	s^df	+1	4	Well , but you can have it NW archive to {disfmarker} you can have , {vocalsound} uh , a non - backed - up disk NW archived ,
+1	Bmr024.s.12	However , file reorganisation will be left until just before zero-level back up.
+Bmr024.A.dialogueact72	170.671	179.067	A	Postdoc	s	+1	1	And I {disfmarker} and I think a crucial part of that is the idea of {disfmarker} of not wanting to do it until right before the next level zero back - up so that there won't be huge number of {disfmarker} of added ,
+4	Bmr024.s.13	The group decide to use IBM transcription of the digits , in addition to automatic methods.
+Bmr024.F.dialogueact364	780.765	782.835	F	Grad	fh|s^cs	+1	3	Um , or we could try some automated methods .
+Bmr024.F.dialogueact365	784.798	791.495	F	Grad	s^cs	+1	3	And my {disfmarker} my tendency right now is , well , if IBM comes back with this meeting and the transcript is good , just let them do it .
+Bmr024.D.dialogueact263	522.718	536.289	D	Professor	fg|qy^d^rt	+1	4	Yeah , I mean , I guess the {disfmarker} So the difference if {disfmarker} if , um , if the IBM stuff works out , the difference in the job would be that they p primarily would be checking through things that were already done by someone else ?
+Bmr024.F.dialogueact361	773.862	775.552	F	Grad	s^cs	+1	3	We could let IBM transcribe it .
+1	Bmr024.s.14	If IBM methods work , transcribers will check and comment these.
+Bmr024.D.dialogueact263	522.718	536.289	D	Professor	fg|qy^d^rt	+1	4	Yeah , I mean , I guess the {disfmarker} So the difference if {disfmarker} if , um , if the IBM stuff works out , the difference in the job would be that they p primarily would be checking through things that were already done by someone else ?
+1	Bmr024.s.15	Discussion of demos for the July meeting has been postponed: the individuals concerned will meet independently.
+Bmr024.D.dialogueact1604	2986.11	2990.29	D	Professor	s^cs.%--	+1	2	but maybe , uh {disfmarker} maybe we 'll just put that off for now , given that {disfmarker}

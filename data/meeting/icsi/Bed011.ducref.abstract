@@ -1,0 +1,9 @@
+The main focus of the meeting was firstly on the structure of the belief-net , its decision nodes and the parameters that influence them , and secondly , on the design of the data collection tasks.
+For the latter , there are already 30 subjects lined up and more are expected to be recruited off campus.
+It was agreed that making subjects select from categories of tasks , such as "big place" , "service" , etc . could provide a better range of data.
+The duration of each dialogue will probably be no more than 10 minutes.
+On the other hand , the organisation of the intermediate nodes of the belief-net and their properties is almost complete , although no conditional probabilities have been inserted yet.
+These nodes represent decisions that will function as parameters to action calls in the system.
+Their values will either be inferred from the user-system interaction , or -as a last resort- requested directly from the user.
+Finally , as to the semantic and syntactic constructions , work will start with more general and brief descriptions , before moving to exhaustive analysis of at least a subset.
+Similarly , the construction parser that is to be built within a year is expected to be relatively basic , yet robust.

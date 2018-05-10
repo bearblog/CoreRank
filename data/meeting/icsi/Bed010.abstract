@@ -1,0 +1,35 @@
+0	Bed010.s.1	The translation of SmartKom to english is in its final stages.
+0	Bed010.s.2	The synthesis module will be the last one to do , after the english syntax trees are completed.
+3	Bed010.s.3	The system is still buggy and unstable , but it will soon be ready for a demonstration.
+Bed010.E.dialogueact77	270.13	281.93	E	Grad	s	+1	2	Right now it 's brittle and you need to ch start it up and then make ts twenty changes on {disfmarker} on {disfmarker} on {disfmarker} on seventeen modules before they actually can stomach it , anything .
+Bed010.E.dialogueact217	634.286	636.316	E	Grad	s	+1	1	we can even make a {disfmarker} sort of an internal demo ,
+Bed010.E.dialogueact276	766.22	776.255	E	Grad	h|s	+1	2	Um . {vocalsound} Well it was just amazing to {disfmarker} to see uh how {disfmarker} how instable the whole thing is ,
+2	Bed010.s.4	This is the first of two working demos required for the project.
+Bed010.C.dialogueact147	446.27	449.75	C	Professor	s^ar|s^df	+1	1	n no , to just get the dem get the demos they need .
+Bed010.C.dialogueact170	508.82	515.38	C	Professor	s	+1	1	So th the demo the demo requirements for this Fall are sort of taken care of as of later this week or something .
+1	Bed010.s.5	Further than that , there are no restrictions on the focus of the research or its possible applications.
+Bed010.C.dialogueact256	714.182	721.67	C	Professor	s	+1	2	But , more focused on uh an idealized version than just getting the demo out .
+2	Bed010.s.6	For example , issues like spatial descriptions could be investigated.
+Bed010.C.dialogueact817	2317.67	2329.55	C	Professor	fh|s	+1	1	And so these issues about uh , reference , and {disfmarker} spatial {comment} reference , discourse reference , uh - uh - uh - uh {comment} all this sort of stuff , uh , deixis which is part of what you were talking about ,
+Bed010.C.dialogueact821	2337.5	2338.39	C	Professor	s^co	+1	1	So we gotta do all this .
+2	Bed010.s.7	The variety of linguistic conventions seem to develop around an ego/allo-centric and a proximal/distal paradigm.
+Bed010.E.dialogueact675	2014.78	2019.77	E	Grad	s	+1	1	On this scale , you have it either be ego or allocentric .
+Bed010.C.dialogueact803	2271.91	2283.8	C	Professor	s	+1	1	So in addition to e ego and allocentric uh which appear all over the place , you also apparently have this proximal - distal thing which is very deeply uh embedded .
+1	Bed010.s.8	The latter is also reflected in neuro-physiological data.
+Bed010.C.dialogueact710	2058.61	2074.26	C	Professor	fg|s	+1	1	By the way , there {disfmarker} something that I didn't know until about a week ago or so , is apparently , there are separate brain areas for things within reach , and things that are out of reach .
+1	Bed010.s.9	From an engineering perspective , the belief-net for the AVE task should be completed within a few weeks.
+Bed010.C.dialogueact981	2803.48	2827.99	C	Professor	fh|s^t	+1	2	so , I think as far as this group goes , um , it 's certainly worth continuing for the next few weeks to get closure on the uh belief - net and the ideas that are involved in that , and what are th what are the concepts .
+1	Bed010.s.10	The majority of the nodes are already there.
+Bed010.C.dialogueact317	1070.4	1083.44	C	Professor	s	+1	2	and we went through this , and , I think , more or less convinced ourselves that at least the vast majority of the nodes that we needed for the demo level we were thinking of , were in there .
+1	Bed010.s.11	This leaves the dependencies between them and the rules of computation to be set.
+Bed010.C.dialogueact329	1157.47	1162.39	C	Professor	fh|qw	+1	1	OK ? What all {disfmarker} you know , what are the considerations and how and what are the ways in which they relate .
+3	Bed010.s.12	Since the whole system is going to be re-designed , there are major decisions to be taken regarding the parser and the ontology , as well as what can be re-used from past EML projects.
+Bed010.C.dialogueact824	2344.98	2349.09	C	Professor	s:s	+1	2	So " OK , we 're not using their system . That means we need our system . "
+Bed010.C.dialogueact832	2377.4	2383.62	C	Professor	s	+1	1	But to do that we 're gonna need to make some decisions like ontology ,
+Bed010.C.dialogueact838	2412.37	2423.96	C	Professor	qy	+1	1	i Does uh either the uh SmartKom project or one of the projects at EML have something that we can just p pull out , for that .
+1	Bed010.s.13	In parallel , another team is working on formalisation and notation.
+Bed010.C.dialogueact183	543.86	552.48	C	Professor	fh|s	+1	1	so The idea is there 's this uh , other subgroup that 's worrying about formalizing the nota getting a notation .
+3	Bed010.s.14	Finally , more ideas are expected to come from students and their research.
+Bed010.C.dialogueact977	2792.57	2798.03	C	Professor	s	+1	1	Oh there 's yet another one of the incoming first {disfmarker} {comment} incoming first - year graduate students who 's expressed interest ,
+Bed010.C.dialogueact964	2765.26	2772.69	C	Professor	s	+1	1	And actually I talked today to a uh undergraduate who wants to do an honors thesis on this .
+Bed010.C.dialogueact940	2715.42	2732.02	C	Professor	s^t	+1	1	And , while we 're at this level , uh , there 's at least one new doctoral student in computer science who will be joining the project , either next week or the first of August , depending on the blandishments of Microsoft .

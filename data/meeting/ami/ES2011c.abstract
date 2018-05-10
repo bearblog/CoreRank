@@ -1,0 +1,110 @@
+3	ES2011c.JacquelinePalmer.s.1	The Project Manager reviewed the minutes from the previous meeting.
+ES2011c.A.dialog-act.dharshi.5	88.02	92.44	A	PM	off	+1	1	Um , I'll just review what we did in our last meeting .
+ES2011c.A.dialog-act.dharshi.6	92.44	96.77	A	PM	inf	+1	1	Um , {vocalsound} under marketing we targeted our audience ,
+ES2011c.A.dialog-act.dharshi.9	106.13	112.36	A	PM	inf	+1	1	Um , then we considered some design options with how it should look ,
+10	ES2011c.JacquelinePalmer.s.2	The Industrial Designer gave her presentation on components and discussed which would have to be custom-made and which were standard.
+ES2011c.B.dialog-act.dharshi.5	161.56	165.68	B	ID	inf	+1	1	So I've been looking at the components design .
+ES2011c.B.dialog-act.dharshi.8	175.35	181.0	B	ID	inf	+1	1	Um , so we need some custom design parts , and other parts we'll just use standard .
+ES2011c.B.dialog-act.dharshi.9	181.0	184.45	B	ID	inf	+1	1	Um , I assume we'll be custom designing our case ,
+ES2011c.B.dialog-act.dharshi.11	190.16	193.04	B	ID	inf	+1	1	And we'll need to custom desi design a circuit board ,
+ES2011c.B.dialog-act.dharshi.14	204.39	209.37	B	ID	inf	+1	1	Um , standard parts include the buttons and the wheels , um the iPod-style wheel .
+ES2011c.B.dialog-act.dharshi.17	216.71	222.18	B	ID	inf	+1	1	And al we also need a beeper or buzzer or other sort of noise thing for locating the remote .
+ES2011c.B.dialog-act.dharshi.20	229.14	231.34	B	ID	sug	+1	1	Um , I'd recommend against titanium
+ES2011c.B.dialog-act.dharshi.22	235.18	240.99	B	ID	inf	+1	1	Um , and the rubber case requires rubber buttons , so if we definitely want plastic buttons , we shouldn't have a rubber case .
+ES2011c.B.dialog-act.dharshi.25	246.304	248.87	B	ID	ass	+1	1	{vocalsound} Uh , well we can use wood .
+ES2011c.B.dialog-act.dharshi.26	248.87	251.22	B	ID	ass	+1	1	{vocalsound} I don't know why we'd want to .
+2	ES2011c.JacquelinePalmer.s.3	She also discussed the various materials and chips available.
+ES2011c.B.dialog-act.dharshi.19	225.19	229.14	B	ID	inf	+1	1	Um , we can use rubber , plastic , wood or titanium .
+ES2011c.B.dialog-act.dharshi.27	251.22	257.23	B	ID	inf	+1	1	Um and also we should note that if we want an iPod-style wheel button , it's gonna require a m qu slightly more expensive chip .
+10	ES2011c.JacquelinePalmer.s.4	The Marketing Expert presented current trends in the market and in fashion.
+ES2011c.D.dialog-act.dharshi.4	279.28	282.56	D	ME	off	+1	1	Um , can I do next ? 'Cause I have to say something about the material
+ES2011c.D.dialog-act.dharshi.9	318.7	325.71	D	ME	inf	+1	1	and the findings are that the first thing to aim for is a fashion uh , fancy look and feel .
+ES2011c.D.dialog-act.dharshi.10	325.71	331.85	D	ME	inf	+1	1	Um . Next comes technologic technology and the innovations to do with that .
+ES2011c.D.dialog-act.dharshi.11	331.85	338.07	D	ME	inf	+1	1	And th last thing is the easy to use um factor .
+ES2011c.D.dialog-act.dharshi.14	347.27	362.77	D	ME	inf	+1	2	Um , our fashion-watchers in Milan and Paris have decided , well noticed , that f the fruit and vegetable theme is the {vocalsound} is the current trend
+ES2011c.D.dialog-act.dharshi.18	374.65	378.84	D	ME	inf	+1	2	So we want to put the fashion electronics , we need to go fruit and vegetables .
+ES2011c.D.dialog-act.dharshi.19	378.84	382.21	D	ME	inf	+1	2	And also go for a spongy feel ,
+ES2011c.D.dialog-act.dharshi.25	395.48	400.52	D	ME	inf	+1	2	I don't know how spongy can be achieved but apparently that's the way to go .
+ES2011c.D.dialog-act.dharshi.26	401.62	410.59	D	ME	ass	+1	2	Um . I I have been thinking about this fruit and vegetable thing and I prefer fruits to vegetables ,
+ES2011c.D.dialog-act.dharshi.33	425.21	431.01	D	ME	ass	+1	2	should we print the fruit stuff , or should the actual remote look like a fruit ?
+6	ES2011c.JacquelinePalmer.s.5	She discussed the current fruits and vegetables trend and the trend toward softer , spongier materials.
+ES2011c.D.dialog-act.dharshi.14	347.27	362.77	D	ME	inf	+1	2	Um , our fashion-watchers in Milan and Paris have decided , well noticed , that f the fruit and vegetable theme is the {vocalsound} is the current trend
+ES2011c.D.dialog-act.dharshi.18	374.65	378.84	D	ME	inf	+1	2	So we want to put the fashion electronics , we need to go fruit and vegetables .
+ES2011c.D.dialog-act.dharshi.19	378.84	382.21	D	ME	inf	+1	2	And also go for a spongy feel ,
+ES2011c.D.dialog-act.dharshi.25	395.48	400.52	D	ME	inf	+1	2	I don't know how spongy can be achieved but apparently that's the way to go .
+ES2011c.D.dialog-act.dharshi.26	401.62	410.59	D	ME	ass	+1	2	Um . I I have been thinking about this fruit and vegetable thing and I prefer fruits to vegetables ,
+ES2011c.D.dialog-act.dharshi.33	425.21	431.01	D	ME	ass	+1	2	should we print the fruit stuff , or should the actual remote look like a fruit ?
+16	ES2011c.JacquelinePalmer.s.6	The User Interface Designer discussed the look of the remote with the group.
+ES2011c.C.dialog-act.dharshi.23	519.6	531.76	C	UI	inf	+1	1	we're gonna try to talk about , um {vocalsound} what kind of uh {disfmarker} how people are actually going to be using this iPod-ish remote control , based on fruit vegetable design .
+ES2011c.C.dialog-act.dharshi.24	531.76	539.16	C	UI	inf	+1	1	And , um , basically , so , this is a touched ba a touch-based graphical interface system .
+ES2011c.C.dialog-act.dharshi.25	539.16	542.34	C	UI	inf	+1	1	{vocalsound} Uh , so people are going to be looking at this little screen .
+ES2011c.C.dialog-act.dharshi.27	543.29	545.59	C	UI	el.inf	+1	2	I mean I assume , are we still on the screen idea ?
+ES2011c.C.dialog-act.dharshi.30	560.24	561.79	C	UI	ass	+1	2	it seems like you would need a screen .
+ES2011c.D.dialog-act.dharshi.44	581.69	584.9	D	ME	inf	+1	2	But the screen can come up on the telly , the {disfmarker} she said .
+ES2011c.C.dialog-act.dharshi.42	588.52	590.52	C	UI	ass	+1	2	Okay so if we're not gonna have a screen {disfmarker} I think {disfmarker}
+ES2011c.C.dialog-act.dharshi.44	593.34	596.33	C	UI	el.ass	+1	2	So basically it's just gonna be a wheel then ?
+ES2011c.C.dialog-act.dharshi.61	627.43	630.24	C	UI	inf	+1	2	I guess that's wh why I was thinking you may need to have some kind of a screen
+ES2011c.C.dialog-act.dharshi.63	631.75	634.96	C	UI	inf	+1	2	So that people can go arou go back and forth and choose if {disfmarker}
+ES2011c.C.dialog-act.dharshi.67	638.38	643.52	C	UI	sug	+1	2	I can see like some kind of a thing where like you sort of have like the number come up on the T_V_ like what channel you're on .
+ES2011c.C.dialog-act.dharshi.74	664.6	670.83	C	UI	sug	+1	1	I mean so you basically just kinda need to figure out like what kind of , you know , range we need to have on the wheel ,
+ES2011c.B.dialog-act.dharshi.53	743.14	746.16	B	ID	inf	+1	2	You have to get a {disfmarker} an advanced chip if you wanna have a screen in ,
+ES2011c.B.dialog-act.dharshi.54	746.16	749.64	B	ID	inf	+1	2	which is more expensive than the regular chip , which is more expensive than the minimal .
+ES2011c.C.dialog-act.dharshi.98	763.07	767.06	C	UI	inf	+1	2	that , like , then you hit that and then you can {disfmarker} it brings up like the menu on the T_V_
+ES2011c.C.dialog-act.dharshi.104	781.45	783.85	C	UI	ass	+1	2	Yeah , well we don't want the screen I guess ,
+11	ES2011c.JacquelinePalmer.s.7	They discussed including a touch-based graphical user interface but noted that it was unnecessary and costly.
+ES2011c.C.dialog-act.dharshi.27	543.29	545.59	C	UI	el.inf	+1	2	I mean I assume , are we still on the screen idea ?
+ES2011c.C.dialog-act.dharshi.30	560.24	561.79	C	UI	ass	+1	2	it seems like you would need a screen .
+ES2011c.D.dialog-act.dharshi.44	581.69	584.9	D	ME	inf	+1	2	But the screen can come up on the telly , the {disfmarker} she said .
+ES2011c.C.dialog-act.dharshi.42	588.52	590.52	C	UI	ass	+1	2	Okay so if we're not gonna have a screen {disfmarker} I think {disfmarker}
+ES2011c.C.dialog-act.dharshi.44	593.34	596.33	C	UI	el.ass	+1	2	So basically it's just gonna be a wheel then ?
+ES2011c.C.dialog-act.dharshi.61	627.43	630.24	C	UI	inf	+1	2	I guess that's wh why I was thinking you may need to have some kind of a screen
+ES2011c.C.dialog-act.dharshi.63	631.75	634.96	C	UI	inf	+1	2	So that people can go arou go back and forth and choose if {disfmarker}
+ES2011c.C.dialog-act.dharshi.80	701.01	708.28	C	UI	inf	+1	2	And then there's also the concern about you know um {vocalsound} how do you get to the menu if you wanna change the brightness of your television ,
+ES2011c.B.dialog-act.dharshi.53	743.14	746.16	B	ID	inf	+1	2	You have to get a {disfmarker} an advanced chip if you wanna have a screen in ,
+ES2011c.B.dialog-act.dharshi.54	746.16	749.64	B	ID	inf	+1	2	which is more expensive than the regular chip , which is more expensive than the minimal .
+ES2011c.C.dialog-act.dharshi.104	781.45	783.85	C	UI	ass	+1	2	Yeah , well we don't want the screen I guess ,
+3	ES2011c.JacquelinePalmer.s.8	They discussed using the menu function on the television instead.
+ES2011c.C.dialog-act.dharshi.67	638.38	643.52	C	UI	sug	+1	2	I can see like some kind of a thing where like you sort of have like the number come up on the T_V_ like what channel you're on .
+ES2011c.C.dialog-act.dharshi.98	763.07	767.06	C	UI	inf	+1	2	that , like , then you hit that and then you can {disfmarker} it brings up like the menu on the T_V_
+ES2011c.D.dialog-act.dharshi.72	1004.64	1008.02	D	ME	inf	+1	1	But also if you have it on the screen you can actually write everything out ,
+4	ES2011c.JacquelinePalmer.s.9	The group discussed how the menu function would be programmed.
+ES2011c.C.dialog-act.dharshi.80	701.01	708.28	C	UI	inf	+1	2	And then there's also the concern about you know um {vocalsound} how do you get to the menu if you wanna change the brightness of your television ,
+ES2011c.A.dialog-act.dharshi.98	935.86	945.25	A	PM	sug	+1	1	So I guess we have to look into the , um , like , the programming , how this {disfmarker} how they actually programme these things , and if that's {disfmarker}
+ES2011c.B.dialog-act.dharshi.67	944.02	945.82	B	ID	el.inf	+1	1	Oh how they make the menu show up on the T_V_ ?
+ES2011c.B.dialog-act.dharshi.70	949.18	952.97	B	ID	inf	+1	1	I believe it's ins it's gotta be inside the T_V_ , not inside the remote .
+12	ES2011c.JacquelinePalmer.s.10	The group then talked about the casing of the device , and decided that there would be a changeable outer casing.
+ES2011c.A.dialog-act.dharshi.67	806.69	812.71	A	PM	inf	+1	1	I mean , if you're thinking of the design of it now , like the a you know , physical attributes ,
+ES2011c.A.dialog-act.dharshi.70	819.77	824.19	A	PM	el.sug	+1	1	I mean are you you gonna have any buttons on that besides power and this thing ?
+ES2011c.A.dialog-act.dharshi.75	834.74	840.02	A	PM	el.ass	+1	1	So can we imagine that this would be smaller than the remote controls that you showed us before .
+ES2011c.C.dialog-act.dharshi.116	841.25	850.28	C	UI	sug	+1	1	Like , I think we're looking at something that could be , like like even maybe like a cir I'm f I'm seeing almost like a circular sort of like handheld like thing .
+ES2011c.B.dialog-act.dharshi.61	870.36	875.17	B	ID	inf	+1	1	W when we had the wheely remote control , we {disfmarker} it was on the top I think , if you held it like that .
+ES2011c.A.dialog-act.dharshi.86	892.13	898.73	A	PM	sug	+1	1	What if , um , you had like a b a cover that went over buttons that you don't use very much ?
+ES2011c.D.dialog-act.dharshi.92	1118.51	1123.85	D	ME	sug	+1	1	um you could just have covers and then your mobile f it's like a mobile phone thing .
+ES2011c.A.dialog-act.dharshi.135	1159.92	1164.29	A	PM	sug	+1	2	and then there's more of a hard plastic thing where that thing is .
+ES2011c.A.dialog-act.dharshi.136	1164.29	1171.7	A	PM	sug	+1	4	And on that hard plastic thing you can change either the colour or the fruit or vegetable that's on there .
+ES2011c.D.dialog-act.dharshi.110	1219.89	1222.42	D	ME	sug	+1	3	Because I was thinking if you have a cover for the squashy bit ,
+ES2011c.C.dialog-act.dharshi.216	1272.35	1275.13	C	UI	el.inf	+1	4	oh so so you're saying the squishy part's like detachable ,
+ES2011c.C.dialog-act.dharshi.218	1275.97	1284.0	C	UI	sug	+1	4	so so maybe one you know {disfmarker} you can have like the broccoli squishy thing , and then you could have like the banana squishy thing {vocalsound}
+5	ES2011c.JacquelinePalmer.s.11	They discussed including fruit colors in addition to the company colors.
+ES2011c.B.dialog-act.dharshi.98	1126.89	1134.62	B	ID	sug	+1	2	You could do like the computers where they have like the grapefruit , apple machine and they have like the blueberry , like all the colours are named after fruits .
+ES2011c.A.dialog-act.dharshi.136	1164.29	1171.7	A	PM	sug	+1	4	And on that hard plastic thing you can change either the colour or the fruit or vegetable that's on there .
+ES2011c.C.dialog-act.dharshi.218	1275.97	1284.0	C	UI	sug	+1	4	so so maybe one you know {disfmarker} you can have like the broccoli squishy thing , and then you could have like the banana squishy thing {vocalsound}
+ES2011c.C.dialog-act.dharshi.231	1348.04	1349.86	C	UI	el.sug	+1	1	So where are the fruit and vegetables now ?
+ES2011c.B.dialog-act.dharshi.120	1351.16	1357.08	B	ID	sug	+1	1	I guess they would be either in the colour of that plastic face on the front , or in the colour of the squishy thing underneath .
+5	ES2011c.JacquelinePalmer.s.12	Some part of the casing will be made of a spongy material.
+ES2011c.C.dialog-act.dharshi.187	1085.0	1089.87	C	UI	sug	+1	2	But what if we ha what if we had like a spongy sort of like stress balley kinda {disfmarker}
+ES2011c.A.dialog-act.dharshi.133	1152.88	1157.82	A	PM	sug	+1	2	If you have like that stress ball material kind of as what you're actually holding in your hand ,
+ES2011c.D.dialog-act.dharshi.110	1219.89	1222.42	D	ME	sug	+1	3	Because I was thinking if you have a cover for the squashy bit ,
+ES2011c.C.dialog-act.dharshi.216	1272.35	1275.13	C	UI	el.inf	+1	4	oh so so you're saying the squishy part's like detachable ,
+ES2011c.C.dialog-act.dharshi.218	1275.97	1284.0	C	UI	sug	+1	4	so so maybe one you know {disfmarker} you can have like the broccoli squishy thing , and then you could have like the banana squishy thing {vocalsound}
+9	ES2011c.JacquelinePalmer.s.13	The group also discussed energy source options and chips.
+ES2011c.B.dialog-act.dharshi.123	1381.79	1384.21	B	ID	inf	+1	1	I think the batteries would have to go right under the plastic case .
+ES2011c.B.dialog-act.dharshi.133	1444.71	1450.33	B	ID	inf	+1	1	Uh we actually had an option of batteries , solar power , and um a dynamo ,
+ES2011c.D.dialog-act.dharshi.153	1451.8	1456.6	D	ME	inf	+1	1	Oh , a dynamo is {disfmarker} ah , {vocalsound} it's a bicycle . It's a bicycle mechanism .
+ES2011c.B.dialog-act.dharshi.137	1461.55	1467.07	B	ID	inf	+1	1	Yeah , the other one was the other one was a kinetic thing where you'd basically have to wind it yourself .
+ES2011c.B.dialog-act.dharshi.138	1467.07	1469.2	B	ID	inf	+1	1	So I sort of picked battery .
+ES2011c.D.dialog-act.dharshi.157	1480.32	1489.92	D	ME	inf	+1	1	No . But dynamo {disfmarker} the the fact with dynamo is , the moment you move it , it c it {vocalsound} creates energy on its own .
+ES2011c.D.dialog-act.dharshi.159	1491.53	1497.79	D	ME	inf	+1	1	So if you throw it , it's gonna store loads of energy , and you don't need to buy a battery 'cause they're quite f I find them annoying .
+ES2011c.D.dialog-act.dharshi.160	1497.79	1499.69	D	ME	sug	+1	2	But we need to find cost .
+ES2011c.B.dialog-act.dharshi.147	1524.91	1527.33	B	ID	inf	+1	1	Like the chip is probably the most expensive part .
+0	ES2011c.JacquelinePalmer.s.14	The Project Manager instructed the User Interface Designer and the Industrial Designer to construct the prototype and the Marketing Expert to work on the prototype evaluation.

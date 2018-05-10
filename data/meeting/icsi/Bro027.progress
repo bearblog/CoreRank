@@ -1,0 +1,34 @@
+11	Bro027.s.12	Speaker mn007 has been implementing a new voice activity detector on noise compensated data , and it performs much better.
+Bro027.C.dialogueact417	846.362	850.672	C	PhD	fg|s^rt^tc	+1	2	Um , I 've been playing with , first , the , um , VAD .
+Bro027.C.dialogueact418	851.68	854.91	C	PhD	fh|s	+1	2	Um , {vocalsound} so it 's exactly the same approach ,
+Bro027.C.dialogueact419	854.91	863.248	C	PhD	s	+1	1	but the features that the VAD neural network use are , uh , MFCC after noise compensation .
+Bro027.C.dialogueact423	869.43	871.9	C	PhD	s	+1	1	Before it was just P L
+Bro027.D.dialogueact428	877.22	879.07	D	PhD	s	+1	1	I mean , it was just the noisy features I guess .
+Bro027.C.dialogueact460	943.1	948.05	C	PhD	s^rt	+1	1	It 's based on the system that has a fifty - three point sixty - six percent improvement .
+Bro027.C.dialogueact465	957.98	960.9	C	PhD	s^e	+1	1	Which now is based on , uh , cleaned features .
+Bro027.B.dialogueact466	960.165	961.495	B	Professor	s	+1	1	And , it 's a l it 's a lot better .
+Bro027.A.dialogueact720	1393.21	1399.15	A	PhD	qw	+1	1	Where {disfmarker} where is this {disfmarker} where is this fifty - seven point O two in {disfmarker} in comparison to the last evaluation ?
+Bro027.B.dialogueact721	1399.48	1402.17	B	Professor	s	+1	1	Well , it 's {disfmarker} I think it 's better than anything , uh , anybody got .
+Bro027.C.dialogueact724	1403.61	1406.58	C	PhD	s	+1	1	The best was fifty - four point five .
+7	Bro027.s.13	He has also been working on the tandem neural network.
+Bro027.C.dialogueact823	1576.52	1582.38	C	PhD	fh|s	+1	1	Uh , but I started to play with the , um , {vocalsound} {vocalsound} uh , tandem neural network .
+Bro027.C.dialogueact825	1585.79	1592.02	C	PhD	s	+1	1	I just did the configuration that 's very similar to what we did for the February proposal .
+Bro027.C.dialogueact828	1596.51	1602.66	C	PhD	s^rt	+1	1	So . There is a f a first feature stream that use uh straight MFCC features .
+Bro027.C.dialogueact831	1605.39	1615.03	C	PhD	s	+1	1	And the other stream is the output of a neural network , using as input , also , these , um , cleaned MFCC .
+Bro027.C.dialogueact857	1660.01	1664.2	C	PhD	s	+1	1	Well , it improves on the well - matched and the mismatched conditions ,
+Bro027.C.dialogueact858	1664.2	1667.97	C	PhD	s^rt	+1	1	but it get worse on the highly mismatched .
+Bro027.B.dialogueact866	1689.75	1691.49	B	Professor	qy^d^rt	+1	2	You 're just using the full ninety features ?
+3	Bro027.s.14	Speaker me013 , along with a student , submitted work on reverberation for a speech workshop.
+Bro027.B.dialogueact18	34.0	41.14	B	Professor	fh|s.%-	+1	1	Um , I can say about {disfmarker} just q just quickly to get through it , that Dave and I submitted this ASRU .
+Bro027.B.dialogueact25	49.02	51.61	B	Professor	s	+1	1	I mean , basically we 're dealing with rever reverberation ,
+Bro027.B.dialogueact26	52.34	56.67	B	Professor	fh|s	+1	1	and , um , when we deal with pure reverberation , the technique he 's using works really , really well .
+9	Bro027.s.15	Speaker me018 has downloaded and compiled the software he was asked to work with in the previous meeting.
+Bro027.A.dialogueact243	524.29	532.31	A	PhD	s^tc	+1	1	I , um {disfmarker} {vocalsound} uh , started working on the uh {disfmarker} Mississippi State recognizer .
+Bro027.A.dialogueact245	533.01	538.0	A	PhD	fh|s	+1	1	So , I got in touch with Joe and {disfmarker} and , uh , from your email and things like that .
+Bro027.A.dialogueact247	538.0	540.07	A	PhD	s	+1	1	And , uh , they added me to the list {disfmarker}
+Bro027.A.dialogueact248	540.5	541.67	A	PhD	s^e	+1	1	uh , the mailing list .
+Bro027.A.dialogueact251	541.67	545.02	A	PhD	s	+1	1	And he gave me all of the pointers and everything that I needed .
+Bro027.A.dialogueact252	545.02	546.93	A	PhD	s.%--	+1	1	And so I downloaded the , um {disfmarker}
+Bro027.A.dialogueact253	547.27	549.95	A	PhD	s	+1	1	There were two things , uh , that they had to download .
+Bro027.A.dialogueact256	558.69	561.6	A	PhD	s	+1	1	So I downloaded the software and compiled all of that .
+Bro027.A.dialogueact257	561.67	563.31	A	PhD	s	+1	1	And it compiled fine .

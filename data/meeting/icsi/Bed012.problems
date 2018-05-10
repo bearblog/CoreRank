@@ -1,0 +1,20 @@
+4	Bed012.s.14	Any set of inputs will provide either the whole range of output values of the Bayes-net or an a priori selection of those outputs.
+Bed012.B.dialogueact93	377.22	384.11	B	Grad	s^df	+1	1	As , if I understand it correctly , it always gives you all the posterior probabilities for all the values of all decision nodes .
+Bed012.B.dialogueact186	764.56	771.19	B	Grad	s^bs	+1	2	So , it {disfmarker} n I mean {disfmarker} a All I 'm saying is , whatever our input is , we 're always gonna get the full output .
+Bed012.B.dialogueact390	1213.8	1224.66	B	Grad	s	+1	2	What {disfmarker} what {disfmarker} what I am thinking , or what we 're about to propose here is we 're always gonna get the whole list of values and their posterior probabilities .
+Bed012.A.dialogueact539	1677.24	1680.99	A	Grad	s^df	+1	2	Cuz , that 's what {disfmarker} I mean , in the Bayes - net you always ask for the posterior probability of a specific node .
+3	Bed012.s.15	In both cases , what is needed is a way to single out the appropriate outputs for any given context.
+Bed012.B.dialogueact101	411.272	414.28	B	Grad	s	+1	1	and the question is what to do with it ,
+Bed012.B.dialogueact391	1225.15	1228.88	B	Grad	s	+1	1	And now we need an expert system or belief - net or something that interprets that ,
+Bed012.D.dialogueact558	1712.61	1715.03	D	Grad	s^ng	+1	1	Well , eventually , you still have to pick out which ones you look at .
+3	Bed012.s.16	For example , in the case of a "where is" question , whether the prevalent output should be "Go-there" or "Info-on" or even a third option has to be computed somehow.
+Bed012.B.dialogueact138	513.229	518.51	B	Grad	s:qw	+1	1	So the person said , um , " Where is X ? "
+Bed012.B.dialogueact140	520.16	526.767	B	Grad	s:qy	+1	1	we want to know , um , is {disfmarker} Does he want info ?
+Bed012.B.dialogueact143	531.72	532.76	B	Grad	s^e:qy	+1	1	Or does he want to go there ?
+0	Bed012.s.17	In any case , there are many input values that have not been entered in the Bayes-net at this stage.
+2	Bed012.s.18	Furthermore , no inputs for the Ontology and Discourse can be built in yet , as they involve research that will be carried out in the future.
+Bed012.B.dialogueact775	2204.37	2206.59	B	Grad	s^cc	+1	1	Yeah , I can worry about the ontology interface
+Bed012.B.dialogueact776	2206.59	2209.45	B	Grad	s^co	+1	1	and you can {disfmarker} Keith can worry about the discourse .
+2	Bed012.s.19	Finally , there has been a problem with adding probabilities in a net created with the Hugin software , but this should be overcome very shortly.
+Bed012.C.dialogueact583	1800.23	1802.58	C	Grad	s^t^tc	+1	1	Also , I 'm somewhat boggled by that Hugin software .
+Bed012.C.dialogueact585	1804.35	1808.15	C	Grad	s	+1	1	I can't figure out how to get the probabilities into it .

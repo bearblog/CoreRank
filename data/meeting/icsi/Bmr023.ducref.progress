@@ -1,0 +1,10 @@
+Experimentation is taking place using different front-ends with the SRI recogniser.
+This is not yet complete , but PLP results are improving to match those of MFCC , with vocal tract length normalisation working "beautifully" on a training set of 24 hours , and giving overall improvement of between 3 and 5%.
+Thilo's automatic segmenter is now working , and although it has low precision , this is mediated by the high recall.
+The group will send IBM another sample file to check that the beep problems are fixed , and this should take 2-3 weeks.
+Progress on transcriptions has been made on 5 "set one" meetings , and two more transcribers set on.
+Pre-segmentation has proved useful.
+Meeting Recorder data of the 62 hours of meetings already analysed has been organised into a spreadsheet with the aim to make this available over the WWW.
+Classifier segmentation is expected to give better results from more data: currently "cheating" using word features for forced alignment , but looking to use other data such as "spurts".
+Prosodaic features looking promising for identifying interruptions.
+Generally the ICSI data offers better pitch features and vowel voicing than the Switchboard corpus due to the use of close talking mikes rather than telephone handsets.

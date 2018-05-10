@@ -1,0 +1,7 @@
+There was a demonstration of the structure and the function of a toy version of the belief-net for the intentionality task.
+The features nodes include things like prosody , discourse , verb choice , "landmark-iness" of a building , time of day and whether the admission fee was discussed.
+The values these nodes take feed into the middle layer nodes identified as hidden variables of the user/device interaction , such as whether the user is on tour , running an errand or in a hurry.
+These , in turn , help infer whether the user wants to see , enter or simply approach a building.
+The set of features nodes is derived from linguistic cues , world knowledge and discourse history.
+SmartKom , although it does not code for intentions as specified in this task , provides a model of the discourse , which can be useful for the detection of features through querying and anaphora resolution.
+Experiments for the collection of new data will start soon , since someone who will recruit subjects and help run the experiments has already been hired and the designing of the experiments has also progressed significantly.

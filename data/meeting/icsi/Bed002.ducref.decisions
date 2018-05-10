@@ -1,0 +1,10 @@
+Inferring intentions in a navigational context is an appropriate task both in project and real-world terms.
+Its goals are clearly defined and contributre to a smarter system.
+Although there are some preliminary data to work on , task-specific experiments and recordings will take place.
+The XML format is going to be used has not been defined , although the SmartKom data can be used as a foundation.
+In the first instance , the group will have to decide on the software package to be used for the creation and manipulation of the belief-nets.
+Stability and ease-of-use -in addition to ability to handle XML- of the package are the focus at this stage , instead of the ability to handle large amounts of data.
+Experts in Bayes nets within ICSI can be consulted on the matter.
+The decision will be presented in the next meeting along with a first schema of the belief-nets themselves.
+Possible intermediate nodes can be added to the nets after this.
+The hypothesis that a set of features from which intentions can be derived exists has to be assessed , before moving on to how to extract these features from the data automatically.

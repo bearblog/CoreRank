@@ -1,0 +1,3 @@
+There is no channel identifier to help in encoding speaker overlaps.
+Speech uttered while laughing is problematic for ASR.
+So far , speaker mn005's attempts to detect speaker overlap have been unsuccessful , as it has not been possible to normalize energy as a reliable indicator of overlap.

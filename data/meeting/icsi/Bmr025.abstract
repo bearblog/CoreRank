@@ -1,0 +1,50 @@
+0	Bmr025.s.1	This meeting of the Berkley Meeting Recorder group charts the progress of their project and covers ongoing issues as well as some new ones.
+1	Bmr025.s.2	The most pressing issue concerns the demos which the group are preparing for the DARPA meeting next month.
+Bmr025.B.dialogueact88	152.36	152.93	B	Professor	s^rt^t	+1	2	DARPA demos ,
+7	Bmr025.s.3	Here they discuss the querying and indexing tool which is progressing well albeit with a few front-end issues , and also the transcriber tool.
+Bmr025.H.dialogueact119	233.196	235.906	H	Grad	s	+1	3	but it does mean you need to be running a web server .
+Bmr025.H.dialogueact121	236.76	238.69	H	Grad	s	+1	3	And so it {disfmarker} it 's pretty big and complex .
+Bmr025.H.dialogueact122	239.424	241.674	H	Grad	fh|s	+1	3	Uh and it would be difficult to port to Windows
+Bmr025.H.dialogueact125	244.967	250.614	H	Grad	s	+1	3	Uh the other option is Dan did the Tcl - TK THISL GUI front - end for Broadcast News
+Bmr025.H.dialogueact95	171.4	176.37	H	Grad	s	+1	2	And so I 've written some tools to convert everything into the right for file formats .
+Bmr025.H.dialogueact96	176.774	181.7	H	Grad	s	+1	2	And the command line version of the indexing and the querying is now working .
+Bmr025.G.dialogueact337	669.18	679.334	G	PhD	s^cs	+1	2	So another idea I w t had just now actually for the demo was whether it might be of interest to sh to show some of the prosody uh {vocalsound} work that Don 's been doing .
+3	Bmr025.s.4	Transcription is progressing well , with new people hired , and double checking almost complete.
+Bmr025.A.dialogueact14	39.458	41.398	A	Postdoc	s^rt	+1	2	Um I hired several more transcribers ,
+Bmr025.A.dialogueact15	41.398	42.628	A	Postdoc	s	+1	2	They 're making great progress .
+Bmr025.A.dialogueact21	49.73	52.87	A	Postdoc	s	+1	2	uh I 've been uh finishing up the uh double checking .
+2	Bmr025.s.5	Work is also going on in parallel with IBM.
+Bmr025.F.dialogueact80	140.58	141.72	F	PhD	s	+1	2	We 're sort of doing things in parallel ,
+Bmr025.H.dialogueact84	144.17	146.06	H	Grad	s^e	+1	3	especially for the information retrieval stuff .
+4	Bmr025.s.6	Additionally , the group have progressed further with data storage issues , with backing-up their data now regarded as a priority , and more disk space required.
+Bmr025.H.dialogueact601	1044.93	1051.23	H	Grad	s	+1	2	Um I spoke with Dave Johnson about putting all the Meeting Recorder stuff on non - backed - up disk to save the overhead of backup
+Bmr025.H.dialogueact622	1108.96	1119.43	H	Grad	fh|s	+1	4	And uh , so the only issue here is the timing between getting more disks and uh recording meetings .
+Bmr025.B.dialogueact623	1120.09	1129.31	B	Professor	s^bu	+1	4	So I guess the idea is that we would be reserving the non - backed - up space for things that took less than twenty - four hours to recreate or something like that ,
+Bmr025.H.dialogueact624	1129.13	1133.34	H	Grad	s^na	+1	4	Things that are recreatable easily and also {disfmarker} Yeah , basically things that are recreatable .
+4	Bmr025.s.7	Tools for accessing key file information have been developed which should ensure all meeting information is present.
+Bmr025.H.dialogueact403	777.83	779.93	H	Grad	s	+1	2	So I 've been doing a bunch of XML tools
+Bmr025.H.dialogueact528	936.67	939.96	H	Grad	s^rt	+1	5	Yeah and then the other thing also that Thilo noticed is , on the microphone ,
+Bmr025.H.dialogueact502	904.648	908.728	H	Grad	s^df	+1	5	I mean this is why I wanna use a g a tool to do it rather than the plain text
+Bmr025.H.dialogueact558	978.808	982.835	H	Grad	s^e	+1	5	the {disfmarker} the one that shows up here , {comment} that will flash yellow if the mike isn't connected .
+11	Bmr025.s.8	The collection of CrossPad note-taking data will be pursued in future meetings.
+Bmr025.B.dialogueact677	1231.22	1231.42	B	Professor	s^ba	+1	1	Good . CrossPads ?
+Bmr025.H.dialogueact680	1238.13	1242.1	H	Grad	s^e:qy	+1	1	who basically said " if you 're not using them , could you return them ? "
+Bmr025.H.dialogueact685	1253.42	1254.72	H	Grad	s^nd	+1	2	We {disfmarker} we used them a couple times ,
+Bmr025.B.dialogueact838	1565.58	1570.41	B	Professor	s^cs	+1	2	we {disfmarker} we get somebody to buy into the idea of doing this as part of the task .
+Bmr025.B.dialogueact841	1571.38	1579.31	B	Professor	s	+1	2	uh part of the reason {disfmarker} I think part of the reason that Adam was so interested in uh the SpeechCorder sort of f idea from the beginning is he said from the beginning he hated taking notes
+Bmr025.E.dialogueact864	1636.25	1640.92	E	PhD	s^cs	+1	2	Well if you wanted to do that maybe the right architecture for it is to get a PDA with a wireless card .
+Bmr025.E.dialogueact865	1641.32	1645.99	E	PhD	s	+1	2	And {disfmarker} and that way you can synchronize very easily with the {disfmarker} the {disfmarker} the meeting
+Bmr025.H.dialogueact885	1680.19	1684.09	H	Grad	s^cs	+1	2	I mean for what {disfmarker} what you 've been describing buttons would be even more convenient than anything else ,
+Bmr025.G.dialogueact964	1800.31	1802.0	G	PhD	s^cs	+1	3	Maybe we could do like a student project ,
+Bmr025.G.dialogueact966	1802.0	1807.05	G	PhD	s^ba	+1	3	you know , maybe someone who wants to do this as their main like s project for something would be cool .
+Bmr025.H.dialogueact969	1808.71	1812.13	H	Grad	s^cs	+1	3	I mean if we had them out and sitting on the table people might use them a little more
+9	Bmr025.s.9	Finally , other progress made includes getting the ChannelTrans interface working , ordering more wireless microphones , and analysing recognition runs.
+Bmr025.A.dialogueact657	1195.65	1201.63	A	Postdoc	s^bu^rt	+1	2	I know that uh that Thilo you were , um , bringing the Channeltrans interface onto the Windows machine ?
+Bmr025.D.dialogueact658	1202.46	1203.89	D	PhD	s	+1	2	Yeah it 's {disfmarker} it {disfmarker} Basically it 's done ,
+Bmr025.H.dialogueact1003	1849.64	1853.05	H	Grad	s^cc	+1	2	And then at the same time I 'll probably rewire the room as per Jane 's suggestion
+Bmr025.H.dialogueact1000	1842.84	1847.02	H	Grad	fh|s	+1	2	W uh {disfmarker} {comment} We ordered uh more wireless ,
+Bmr025.H.dialogueact1004	1853.05	1859.9	H	Grad	s^df	+1	2	so that uh the first N channels are wireless , eh are the m the close - talking and the next N are far - field .
+Bmr025.B.dialogueact1020	1884.11	1893.79	B	Professor	s	+1	2	I mean there 's {disfmarker} there 's all this stuff going on uh between uh Andreas and {disfmarker} and {disfmarker} and Dave and Chuck and others with various kinds of runs
+Bmr025.B.dialogueact1021	1893.79	1896.21	B	Professor	fh|s^e	+1	2	uh um {disfmarker} recognition runs ,
+Bmr025.B.dialogueact1022	1896.21	1897.92	B	Professor	s	+1	2	trying to figure things out about the features
+Bmr025.B.dialogueact1023	1897.92	1899.98	B	Professor	s	+1	2	but it 's {disfmarker} it 's all sort of in process ,

@@ -1,0 +1,144 @@
+21	Bro014.s.9	Me018 has been attempting to make experimentation faster by reducing the iterations in the HTK training.
+Bro014.C.dialogueact35	65.201	67.901	C	PhD	s	+1	2	I have something just fairly brief to report on .
+Bro014.C.dialogueact41	79.912	84.002	C	PhD	s	+1	1	so what I was started playing with was the {disfmarker} th again , this is the HTK back - end .
+Bro014.C.dialogueact43	86.644	95.81	C	PhD	s	+1	1	I was curious because the way that they train up the models , {vocalsound} they go through about four sort of rounds of {disfmarker} of training .
+Bro014.C.dialogueact47	110.623	115.653	C	PhD	s	+1	1	you know , that 's part of what takes so long to train the {disfmarker} the {disfmarker} the back - end for this .
+Bro014.C.dialogueact59	128.612	131.452	C	PhD	s	+1	1	The first one is three , then seven , seven , and seven .
+Bro014.C.dialogueact60	131.948	138.598	C	PhD	s^e	+1	1	And what these numbers refer to is the number of times that the , uh , HMM re - estimation is run .
+Bro014.C.dialogueact80	182.301	188.931	C	PhD	fh|s	+1	1	uh , I wanted to first test to see if we actually need to do {pause} this many iterations early on .
+Bro014.C.dialogueact83	191.114	200.374	C	PhD	fh|s	+1	1	um , I {disfmarker} I ran a couple of experiments where I {vocalsound} reduced that to l to be three , two , two , {vocalsound} uh , five , I think ,
+Bro014.C.dialogueact84	200.374	202.734	C	PhD	s	+1	1	and I got almost the exact same results .
+Bro014.C.dialogueact85	203.232	205.212	C	PhD	s	+1	2	And {disfmarker} but it runs much much faster .
+Bro014.C.dialogueact88	207.352	213.042	C	PhD	s	+1	2	I {disfmarker} I think m {pause} it only took something like , uh , three or four hours to do the full training ,
+Bro014.C.dialogueact91	214.225	217.275	C	PhD	qw^rt	+1	2	as opposed to wh what , sixteen hours or something like that ?
+Bro014.C.dialogueact98	223.652	228.842	C	PhD	s	+1	1	even we don't do anything else , doing something like this could allow us to turn experiments around a lot faster .
+Bro014.C.dialogueact104	236.524	239.614	C	PhD	s^e	+1	1	I mean , it 's like one little text file you edit and change those numbers ,
+Bro014.C.dialogueact129	263.845	266.925	C	PhD	s	+1	1	So we could do a lot more experiments and throw a lot more stuff in there .
+Bro014.C.dialogueact133	268.069	274.239	C	PhD	s^bk|s^rt	+1	2	Oh , the other thing that I did was , um , {vocalsound} I compiled {pause} the HTK stuff for the Linux boxes .
+Bro014.C.dialogueact134	274.695	277.517	C	PhD	s	+1	1	So we have this big thing that we got from IBM ,
+Bro014.C.dialogueact135	277.667	279.767	C	PhD	s^e	+1	1	which is a five - processor machine .
+Bro014.C.dialogueact136	280.252	281.152	C	PhD	s^e	+1	1	Really fast ,
+Bro014.C.dialogueact137	281.372	282.422	C	PhD	s	+1	1	but it 's running Linux .
+Bro014.C.dialogueact138	282.772	286.562	C	PhD	s	+1	1	So , you can now run your experiments on that machine
+2	Bro014.s.10	These will can be reset once the system is finalised.
+Bro014.B.dialogueact99	229.013	231.773	B	Professor	s.%--	+1	1	And then when you have your final thing , do a full one , so it 's {disfmarker}
+Bro014.C.dialogueact100	230.439	232.739	C	PhD	s	+1	1	And when you have your final thing , we go back to this .
+3	Bro014.s.11	He then wants to try and improve accuracy may increasing the number of Gaussian mixtures in the models.
+Bro014.C.dialogueact162	342.604	346.654	C	PhD	s	+1	1	So after I did that , then what I wanted to do {comment} was try {pause} increasing the number of mixtures ,
+Bro014.C.dialogueact163	346.654	350.371	C	PhD	s^df	+1	1	just to see , um {disfmarker} see how {disfmarker} how that affects performance .
+Bro014.B.dialogueact166	351.433	357.753	B	Professor	fg|s^cs	+1	1	Yeah . In fact , you could do something like {pause} keep exactly the same procedure and then add a fifth thing onto it
+20	Bro014.s.12	Mn007 reported OGI's work on spectral subtraction , as well as his testing his new filter.
+Bro014.A.dialogueact675	1400.26	1404.12	A	PhD	s.%--	+1	3	So what happened since , um , {vocalsound} last week is {disfmarker}
+Bro014.A.dialogueact676	1405.02	1409.85	A	PhD	s^rt	+1	2	well , from OGI , these experiments on {pause} putting VAD on the baseline .
+Bro014.A.dialogueact677	1411.29	1418.22	A	PhD	s	+1	1	And these experiments also are using , uh , some kind of noise compensation ,
+Bro014.A.dialogueact678	1418.22	1419.36	A	PhD	s	+1	1	so spectral subtraction ,
+Bro014.A.dialogueact679	1420.43	1425.59	A	PhD	s	+1	1	and putting on - line normalization , um , just after this .
+Bro014.A.dialogueact680	1426.01	1429.66	A	PhD	s	+1	1	So I think spectral subtraction , LDA filtering , and on - line normalization ,
+Bro014.A.dialogueact681	1429.66	1435.85	A	PhD	s^e	+1	1	so which is similar to {vocalsound} the pro proposal - one , but with {pause} spectral subtraction in addition ,
+Bro014.A.dialogueact682	1436.38	1441.56	A	PhD	s	+1	1	and it seems that on - line normalization doesn't help further when you have spectral subtraction .
+Bro014.A.dialogueact696	1479.1	1481.05	A	PhD	s.%--	+1	2	And what 's happened here is that we {disfmarker}
+Bro014.A.dialogueact697	1481.05	1490.29	A	PhD	s^rt	+1	2	so we have this kind of new , um , reference system which {vocalsound} use a nice {disfmarker} a {disfmarker} a clean downsampling - upsampling ,
+Bro014.A.dialogueact698	1490.92	1494.51	A	PhD	s^e	+1	2	which use a new filter {vocalsound} that 's much shorter
+Bro014.A.dialogueact699	1495.09	1499.18	A	PhD	s^e	+1	2	and which also cuts the frequency below sixty - four hertz ,
+Bro014.B.dialogueact702	1502.53	1504.92	B	Professor	qy^bu^rt	+1	2	When you say " we have that " , does Sunil have it now , too ,
+Bro014.A.dialogueact705	1505.38	1505.57	A	PhD	s^ar	+1	2	No .
+Bro014.A.dialogueact708	1506.82	1507.93	A	PhD	s^df^rt	+1	2	Because we 're still testing .
+Bro014.A.dialogueact712	1519.4	1522.97	A	PhD	fh|s^rt	+1	2	Um , it seems to improve on the well - matched case ,
+Bro014.A.dialogueact713	1524.79	1530.85	A	PhD	fh|s^rt	+1	2	um , {vocalsound} but it 's a little bit worse on the mismatch and highly - mismatched {disfmarker}
+Bro014.B.dialogueact726	1562.78	1563.96	B	Professor	s.%--	+1	2	But it has the , uh {disfmarker}
+Bro014.B.dialogueact727	1565.24	1566.46	B	Professor	s	+1	2	the latencies are much shorter .
+Bro014.A.dialogueact745	1607.07	1607.77	A	PhD	s^m^na	+1	2	Latency is short {disfmarker}
+9	Bro014.s.13	The latency is reduced , and improvement increased on well matched case , though decreased on mis-matched.
+Bro014.A.dialogueact696	1479.1	1481.05	A	PhD	s.%--	+1	2	And what 's happened here is that we {disfmarker}
+Bro014.A.dialogueact697	1481.05	1490.29	A	PhD	s^rt	+1	2	so we have this kind of new , um , reference system which {vocalsound} use a nice {disfmarker} a {disfmarker} a clean downsampling - upsampling ,
+Bro014.A.dialogueact698	1490.92	1494.51	A	PhD	s^e	+1	2	which use a new filter {vocalsound} that 's much shorter
+Bro014.A.dialogueact699	1495.09	1499.18	A	PhD	s^e	+1	2	and which also cuts the frequency below sixty - four hertz ,
+Bro014.A.dialogueact712	1519.4	1522.97	A	PhD	fh|s^rt	+1	2	Um , it seems to improve on the well - matched case ,
+Bro014.A.dialogueact713	1524.79	1530.85	A	PhD	fh|s^rt	+1	2	um , {vocalsound} but it 's a little bit worse on the mismatch and highly - mismatched {disfmarker}
+Bro014.B.dialogueact726	1562.78	1563.96	B	Professor	s.%--	+1	2	But it has the , uh {disfmarker}
+Bro014.B.dialogueact727	1565.24	1566.46	B	Professor	s	+1	2	the latencies are much shorter .
+Bro014.A.dialogueact745	1607.07	1607.77	A	PhD	s^m^na	+1	2	Latency is short {disfmarker}
+30	Bro014.s.14	Along with fn002 he has been looking into voiced/unvoiced detection , and they are still looking for features.
+Bro014.B.dialogueact802	1730.2	1735.02	B	Professor	qy^bu^rt	+1	2	There was a {vocalsound} start of some effort on something related to voicing or something .
+Bro014.A.dialogueact806	1738.49	1745.28	A	PhD	s	+1	2	So basically we try to , {vocalsound} {vocalsound} uh , find {vocalsound} good features that could be used for voicing detection ,
+Bro014.A.dialogueact811	1752.23	1756.67	A	PhD	s	+1	1	we {disfmarker} w basically we are still playing with Matlab to {disfmarker} {vocalsound} to look at {disfmarker} at what happened ,
+Bro014.C.dialogueact815	1757.21	1758.83	C	PhD	qw^rt	+1	2	what sorts of features are you looking at ?
+Bro014.A.dialogueact817	1759.0	1767.79	A	PhD	s^rt	+1	2	So we would be looking at , um , the {pause} variance of the spectrum of the excitation ,
+Bro014.A.dialogueact820	1769.86	1772.0	A	PhD	s^e^rt	+1	2	which is {disfmarker} should be high for voiced sounds .
+Bro014.A.dialogueact895	1897.7	1904.02	A	PhD	s^bk|s.%--	+1	1	Yeah . Hopefully , I think what we want to have is to put these features in s some kind of ,
+Bro014.A.dialogueact891	1891.38	1894.18	A	PhD	s	+1	1	Right now we just are trying to find some features .
+Bro014.A.dialogueact897	1906.2	1909.23	A	PhD	fh|s	+1	1	well , to {disfmarker} to obtain a statistical model on these features
+Bro014.A.dialogueact898	1909.23	1911.2	A	PhD	s^rt	+1	1	and to {disfmarker} or just to use a neural network
+Bro014.C.dialogueact914	1930.32	1933.89	C	PhD	s^df	+1	2	really that 's sort of a cartoon picture about what 's voiced and unvoiced .
+Bro014.B.dialogueact932	1993.23	1997.13	B	Professor	s	+1	2	and seeing if you add them onto the feature vector does that make things better or worse in noise ,
+Bro014.B.dialogueact930	1987.2	1990.63	B	Professor	s	+1	2	So , I mean , looking at different statistical measures of that difference ,
+Bro014.B.dialogueact929	1974.8	1986.23	B	Professor	qw	+1	2	another way of looking at it is what characterization {vocalsound} of the difference between {pause} the raw data {pause} and this smooth version {pause} is something that you 're missing that could help ?
+Bro014.B.dialogueact934	1998.8	2004.31	B	Professor	s	+1	2	the way I 'm looking at it is not so much you 're trying to f find the best {disfmarker} the world 's best voiced - unvoiced , uh , uh , classifier ,
+Bro014.B.dialogueact937	2004.31	2010.08	B	Professor	s	+1	2	but it 's more that , {vocalsound} you know , uh , uh , try some different statistical characterizations of that difference back to the raw data
+Bro014.B.dialogueact962	2062.81	2066.58	B	Professor	s^e	+1	2	that {disfmarker} that in fact , well , the data itself is {disfmarker} {vocalsound} that you 're working with is not perfect .
+Bro014.B.dialogueact965	2066.58	2069.44	B	Professor	fh|s	+1	2	So , what I 'm saying is maybe that 's not a killer
+Bro014.B.dialogueact966	2069.61	2072.27	B	Professor	s^df	+1	2	because you 're just getting some characterization ,
+Bro014.B.dialogueact967	2072.27	2075.1	B	Professor	s^e	+1	2	one that 's driven by your intuition about voiced - unvoiced certainly ,
+Bro014.B.dialogueact976	2102.31	2104.74	B	Professor	s	+1	2	and , you know {disfmarker} and you 're not getting the excitation anyway , you know .
+Bro014.B.dialogueact1253	2528.49	2536.24	B	Professor	s	+1	2	And so this is saying , well , if you really do have that {vocalsound} sort of vocal tract envelope , and you subtract that off , what you get is the excitation .
+Bro014.B.dialogueact1254	2536.55	2538.74	B	Professor	s	+1	2	And I call that lies because you don't really have that ,
+Bro014.B.dialogueact1258	2545.39	2547.49	B	Professor	s^df	+1	2	so you 're not really getting the vocal excitation .
+Bro014.B.dialogueact1260	2547.96	2554.48	B	Professor	s^df	+1	2	That 's why I was going to the {disfmarker} why I was referring to it in a more {disfmarker} {vocalsound} a more , uh , {vocalsound} uh , {vocalsound} conservative way ,
+Bro014.B.dialogueact1261	2554.48	2555.54	B	Professor	s.%--	+1	2	when I was saying " well , it 's {disfmarker}
+Bro014.B.dialogueact1263	2555.88	2556.48	B	Professor	s	+1	2	it 's the excitation " .
+Bro014.B.dialogueact1264	2556.48	2557.64	B	Professor	s	+1	2	But it 's not really the excitation .
+Bro014.B.dialogueact1285	2590.21	2591.76	B	Professor	s	+1	2	well , you don't really get the excitation ,
+Bro014.B.dialogueact1286	2591.76	2593.08	B	Professor	s	+1	2	but you get something related to it .
+33	Bro014.s.15	So far they are using features which approximate important details , and they seem reasonably robust on noise.
+Bro014.C.dialogueact815	1757.21	1758.83	C	PhD	qw^rt	+1	2	what sorts of features are you looking at ?
+Bro014.A.dialogueact817	1759.0	1767.79	A	PhD	s^rt	+1	2	So we would be looking at , um , the {pause} variance of the spectrum of the excitation ,
+Bro014.A.dialogueact820	1769.86	1772.0	A	PhD	s^e^rt	+1	2	which is {disfmarker} should be high for voiced sounds .
+Bro014.B.dialogueact831	1787.52	1799.48	B	Professor	s	+1	1	what yo what you 're calling the excitation , as I recall , is you 're subtracting the {disfmarker} the , um {disfmarker} the mel {disfmarker} mel {disfmarker} {vocalsound} mel filter , uh , spectrum from the FFT spectrum .
+Bro014.B.dialogueact842	1803.06	1804.65	B	Professor	s	+1	1	So it 's {disfmarker} it 's not really an excitation ,
+Bro014.B.dialogueact843	1804.65	1807.5	B	Professor	s	+1	1	but it 's something that hopefully tells you something about the excitation .
+Bro014.A.dialogueact845	1807.66	1808.2	A	PhD	s^aa	+1	1	Yeah , that 's right .
+Bro014.C.dialogueact914	1930.32	1933.89	C	PhD	s^df	+1	2	really that 's sort of a cartoon picture about what 's voiced and unvoiced .
+Bro014.B.dialogueact929	1974.8	1986.23	B	Professor	qw	+1	2	another way of looking at it is what characterization {vocalsound} of the difference between {pause} the raw data {pause} and this smooth version {pause} is something that you 're missing that could help ?
+Bro014.B.dialogueact930	1987.2	1990.63	B	Professor	s	+1	2	So , I mean , looking at different statistical measures of that difference ,
+Bro014.B.dialogueact932	1993.23	1997.13	B	Professor	s	+1	2	and seeing if you add them onto the feature vector does that make things better or worse in noise ,
+Bro014.B.dialogueact934	1998.8	2004.31	B	Professor	s	+1	2	the way I 'm looking at it is not so much you 're trying to f find the best {disfmarker} the world 's best voiced - unvoiced , uh , uh , classifier ,
+Bro014.B.dialogueact937	2004.31	2010.08	B	Professor	s	+1	2	but it 's more that , {vocalsound} you know , uh , uh , try some different statistical characterizations of that difference back to the raw data
+Bro014.B.dialogueact962	2062.81	2066.58	B	Professor	s^e	+1	2	that {disfmarker} that in fact , well , the data itself is {disfmarker} {vocalsound} that you 're working with is not perfect .
+Bro014.B.dialogueact965	2066.58	2069.44	B	Professor	fh|s	+1	2	So , what I 'm saying is maybe that 's not a killer
+Bro014.B.dialogueact966	2069.61	2072.27	B	Professor	s^df	+1	2	because you 're just getting some characterization ,
+Bro014.B.dialogueact967	2072.27	2075.1	B	Professor	s^e	+1	2	one that 's driven by your intuition about voiced - unvoiced certainly ,
+Bro014.B.dialogueact976	2102.31	2104.74	B	Professor	s	+1	2	and , you know {disfmarker} and you 're not getting the excitation anyway , you know .
+Bro014.B.dialogueact1253	2528.49	2536.24	B	Professor	s	+1	2	And so this is saying , well , if you really do have that {vocalsound} sort of vocal tract envelope , and you subtract that off , what you get is the excitation .
+Bro014.B.dialogueact1254	2536.55	2538.74	B	Professor	s	+1	2	And I call that lies because you don't really have that ,
+Bro014.B.dialogueact1258	2545.39	2547.49	B	Professor	s^df	+1	2	so you 're not really getting the vocal excitation .
+Bro014.B.dialogueact1260	2547.96	2554.48	B	Professor	s^df	+1	2	That 's why I was going to the {disfmarker} why I was referring to it in a more {disfmarker} {vocalsound} a more , uh , {vocalsound} uh , {vocalsound} conservative way ,
+Bro014.B.dialogueact1261	2554.48	2555.54	B	Professor	s.%--	+1	2	when I was saying " well , it 's {disfmarker}
+Bro014.B.dialogueact1263	2555.88	2556.48	B	Professor	s	+1	2	it 's the excitation " .
+Bro014.B.dialogueact1264	2556.48	2557.64	B	Professor	s	+1	2	But it 's not really the excitation .
+Bro014.B.dialogueact1285	2590.21	2591.76	B	Professor	s	+1	2	well , you don't really get the excitation ,
+Bro014.B.dialogueact1286	2591.76	2593.08	B	Professor	s	+1	2	but you get something related to it .
+Bro014.C.dialogueact1316	2625.3	2626.51	C	PhD	qy^bu^d.%--	+1	1	And so you said this is pretty {disfmarker}
+Bro014.C.dialogueact1317	2626.51	2629.32	C	PhD	qy^rt	+1	1	doing this kind of thing is pretty robust to noise ?
+Bro014.A.dialogueact1318	2629.65	2630.66	A	PhD	s^na	+1	1	It seems ,
+Bro014.A.dialogueact1319	2630.66	2630.86	A	PhD	s^aa	+1	1	yeah .
+Bro014.A.dialogueact1329	2639.97	2648.69	A	PhD	s.%--	+1	1	So if {disfmarker} if you take this frame , {vocalsound} uh , from the noisy utterance and the same frame from the clean utterance {disfmarker}
+Bro014.C.dialogueact1331	2649.05	2650.51	C	PhD	qy^2	+1	1	You end up with a similar difference
+7	Bro014.s.16	Me026 has decided against using the exact method of reverberation cancellation he previously discussed , because its output does not fit the current system.
+Bro014.D.dialogueact1501	2950.78	2952.4	D	Grad	h|s^nd	+1	2	N um , not not not much is new .
+Bro014.D.dialogueact1503	2952.4	2969.89	D	Grad	s	+1	1	So when I talked about what I 'm planning to do last time , {vocalsound} I said I was , um , going to use Avendano 's method of , um , {vocalsound} using a transformation , um , {vocalsound} to map from long analysis frames which are used for removing reverberation to short analysis frames for feature calculation .
+Bro014.D.dialogueact1506	2976.91	2981.02	D	Grad	fh|s	+1	1	but , uh , um , I decided {vocalsound} not to do that after all
+Bro014.D.dialogueact1507	2981.02	2990.3	D	Grad	s^df	+1	1	because I {disfmarker} I realized to use it I 'd need to have these short analysis frames get plugged directly into the feature computation somehow
+Bro014.D.dialogueact1509	2990.3	2997.16	D	Grad	s^df	+1	1	and right now I think our feature computation is set to up to , um , {vocalsound} take , um , audio as input , in general .
+Bro014.D.dialogueact1510	2997.61	3002.24	D	Grad	s^cc	+1	1	So I decided that I {disfmarker} I 'll do the reverberation removal on the long analysis windows
+Bro014.D.dialogueact1511	3002.24	3003.91	D	Grad	s^cc	+1	1	and then just re - synthesize audio
+10	Bro014.s.17	Me006 has been reading on a slight tangent looking at classic work on modulation spectrum , which has inspired some ideas for input.
+Bro014.B.dialogueact1554	3084.3	3086.3	B	Professor	qo	+1	2	Um , anything to {pause} add ?
+Bro014.E.dialogueact1556	3086.85	3089.09	E	Grad	s	+1	2	Well , I 've been continuing reading .
+Bro014.E.dialogueact1557	3089.09	3091.66	E	Grad	s	+1	2	I went off on a little tangent this past week ,
+Bro014.E.dialogueact1559	3092.76	3096.73	E	Grad	s^e	+1	1	looking at , uh , {vocalsound} uh , modulation s spectrum stuff ,
+Bro014.E.dialogueact1561	3098.1	3102.46	E	Grad	s	+1	1	and {disfmarker} and learning a bit about what {disfmarker} what , um {disfmarker} what it is ,
+Bro014.E.dialogueact1563	3105.71	3115.73	E	Grad	s^rt	+1	1	And I found some {disfmarker} {vocalsound} some , uh , neat papers , {vocalsound} um , historical papers from , {vocalsound} um , {vocalsound} Kanedera , Hermansky , and Arai .
+Bro014.E.dialogueact1565	3116.27	3125.76	E	Grad	s.%--	+1	1	And they {disfmarker} they did a lot of experiments where th where , {vocalsound} um , they take speech {vocalsound} and , um , e they modify {vocalsound} the , uh {disfmarker}
+Bro014.E.dialogueact1566	3125.98	3133.3	E	Grad	s	+1	1	they {disfmarker} they {disfmarker} they measure the relative importance of having different , um , portions of the modulation spectrum intact .
+Bro014.E.dialogueact1567	3133.87	3143.35	E	Grad	s^rt	+1	1	And they find that the {disfmarker} the spectrum between one and sixteen hertz in the modulation {vocalsound} is , uh {disfmarker} is im important for speech recognition .
+Bro014.E.dialogueact1583	3164.79	3171.07	E	Grad	fg|s^cs	+1	1	Um , I was thinking more like using them as {disfmarker} as the inputs to {disfmarker} to the detectors .

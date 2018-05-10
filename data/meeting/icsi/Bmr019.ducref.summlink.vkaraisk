@@ -1,0 +1,68 @@
+I just remember you saying you got them to be cheap on purpose .
+Wha - what 's TI - digits ?
+which is a um , I think was both a {disfmarker} a pruning {pause} problem
+and possibly a problem with needing constraints on word locations .
+Whereas , I took out {pause} the ones that I noticed that were blatant {disfmarker} that were correctable .
+And then there 's a {disfmarker} then there 's a process where you now determine the spurts .
+Uh , but the other is that , um , the digits {vocalsound} recorded here in this room with these close mikes , i uh , are actually a lot harder than the {pause} studio - recording TI - digits .
+So , I think we have a version that 's pretty good for the native speakers .
+Uh , one is {pause} anything that , um , {vocalsound} anybody has to say about Saturday ?
+Two items , which was , uh , digits and possibly stuff on {disfmarker} on , uh , forced alignment ,
+I {disfmarker} I transcribed it off of the mixed channel entirely ,
+it 's the num it 's the amount of data per speaker .
+It might be interesting to do that .
+And then also , ca the pruning , of course , was too {disfmarker} too severe .
+Tha - There are some cases like where the {disfmarker} the wrong speaker {disfmarker} uh , these ca Not a lot , but where the {disfmarker} the wrong person {disfmarker} the {disfmarker} the speech is addre attached to the wrong speaker
+Point six , I believe , is what you get with both , uh , means and variance adaptation .
+And aren't these pretty bad microphones ?
+but were {disfmarker} were you intending to do a Eurospeech submission ,
+And {pause} I tried both means adaptation and means and variances ,
+is i does it have to be Waves ? Because if we could benefit from what you did , incorporate that into the present transcripts , {comment} that would help .
+and I was able to {disfmarker} you know , an and this meant that there were some speaker identif identifications
+Like , it gives you some weird alignments ,
+Actually if you run , though , on a close - talking mike over the whole meeting , during all those silences , you get , like , four hundred percent word error .
+Well , I th I 'm thinking just ch e e incorporating it into the representation .
+So just sort of working through a bunch of debugging kinds of issues .
+I guess the other thing , {vocalsound} which I came unprepared for , uh , {vocalsound} is , uh , to dis s s see if there 's anything anybody wants to discuss about the Saturday meeting .
+OK . So the s the {disfmarker} the next thing we had on the agenda was something about alignments ?
+The other thing that {disfmarker} that , uh {disfmarker} of course , what Barry was looking at was {disfmarker} was just that ,
+I could {disfmarker} and they are using a system that 's , um {disfmarker} you know , h is actually trained on digits ,
+Try to create a paper out of that .
+Right . So we {disfmarker} we could probably do an extraction that was roughly equivalent .
+We were {disfmarker} I guess the other thing we 're {disfmarker} we 're {disfmarker} I should say is that we 're gonna , um try {disfmarker} compare this type of overlap analysis to Switchboard ,
+and CallHome ,
+uh , I mean , there the point of interest to the group was primarily that , um , {vocalsound} the , uh {disfmarker} the system that we had that was based on H T K , that 's used by , you know , {pause} all the participants in Aurora , {vocalsound} was so much worse {vocalsound} than the {disfmarker} than the S R
+and {disfmarker} and {disfmarker} W we {disfmarker} we were able to get some definite improvement on the forced alignments by looking at them first and then realizing the kinds of errors {pause} that were occurring
+And then {vocalsound} you extract the individual channels again ,
+but {disfmarker} but it does seem more natural to give a backchannel when {disfmarker} when you 're somehow involved in the topic ,
+You know , that 's {disfmarker} that 's pretty solid , on the segmentation {pause} stuff .
+I mean , u um , Mari was asking {disfmarker} was trying to come up with something like an agenda
+So it would probably do even a little better still
+Yep .
+I used it in Transcriber
+So , {vocalsound} we would need a hand - marked , um , {vocalsound} word - level alignments
+I think Transcriber , uh , outputs CTM .
+I mean that it was basically {disfmarker} the only thing that was even slightly surprising was that the lapel did so well .
+and then I hand - marked it myself so that we do have , uh , the beginning and ending of individual utterances .
+But , I guess Andreas tried adapting both the foreground and a background generic speaker ,
+And the Aurora folks here will {disfmarker} will definitely get something in on Aurora ,
+Um , so , and then there 's a background speech model .
+the near versus far .
+And as Morgan pointed out , that there are actually some advantages to it in terms of breath noises and clothes rustling {pause} if no one else is talking .
+and tune the parameters of the {disfmarker} of the model , uh , to op to get the best {pause} performance .
+And also I went back to the original one that I first transcribed and {disfmarker} and did it w uh , w uh , utterance by utterance for that particular one .
+you know , as Liz said the {disfmarker} we f enforce the fact that , uh , the foreground speech has to be continuous .
+we basically also made noise models for the different {disfmarker} sort of grouped some of the {pause} mouth noises together .
+Um , and the good thing is that we have {disfmarker} It 's sort of a beginning of what Don can use to link the prosodic features from each file to each other .
+And then , um , {vocalsound} from the point of view of the front - end research , it would be s uh , substituting for HTK .
+use that as the starting models for your speaker adaptation .
+Um , and inside the words or between the words you now have begin and end {pause} tags for overlaps .
+I mean , we convert it to this format that the , um , NIST scoring tool unders uh , CTM . Conversation Time - Marked file .
+Yeah , the {disfmarker} the {disfmarker} the cumbersome thing is {disfmarker} is , um {disfmarker} is that you actually have to dump out little {disfmarker} little files .
+Uh , you {disfmarker} you and , uh {disfmarker} and Dan have {disfmarker} have a paper that {disfmarker} that 's going in .
+Hav - Have you ever t {vocalsound} Have you ever tried this exact same recognizer out on the actual TI - digits test set ?
+we want to {vocalsound} have the ability to feed it different features .
+It 's wide - band , yeah .
+so that these numbers were comparable
+By the way , I think we can improve these numbers if we care to compr improve them {vocalsound} by , um , {vocalsound} not starting with the Switchboard models but by taking the Switchboard models and doing supervised adaptation on a small amount of digit data collected in this setting .
+So for each segment that you want to recognize {vocalsound} you have to {pause} dump out {pause} a separate file .

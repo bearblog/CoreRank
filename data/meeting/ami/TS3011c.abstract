@@ -1,0 +1,44 @@
+3	TS3011c.vkaraisk.s.1	For the conceptual design , the marketing expert talked about the public's preference for looks over technological innovation; however , they both seem to be more important than ease of use.
+TS3011c.D.dialog-act.vkaraisk.21	276.75	278.15	D	ME	inf	+1	1	Ease of use is important ,
+TS3011c.D.dialog-act.vkaraisk.22	278.15	281.9	D	ME	inf	+1	1	but uh innovation is more important ,
+TS3011c.D.dialog-act.vkaraisk.23	281.9	286.45	D	ME	inf	+1	1	and a fancy look and feel is uh even more important .
+4	TS3011c.vkaraisk.s.2	The current fashion among younger people favours bright colours and fruit and vegetable themes and spongy materials: pertinent exchangeable fronts can express such trends on the remote , and could also provide themes for other target groups.
+TS3011c.D.dialog-act.vkaraisk.24	286.45	297.71	D	ME	inf	+1	1	And uh some fashion watchers have found out that the young target group likes fruit and vegetables in their uh clothes , shoes and furniture ,
+TS3011c.D.dialog-act.vkaraisk.25	297.71	300.69	D	ME	inf	+1	1	and that they want spongy material .
+TS3011c.D.dialog-act.vkaraisk.54	432.03	436.53	D	ME	sug	+1	2	or uh like cell phones , exch exchangeable covers .
+TS3011c.A.dialog-act.vkaraisk.59	448.1	454.19	A	PM	sug	+1	2	You could make a few v very colourful ones , and uh a very traditional co cover .
+2	TS3011c.vkaraisk.s.3	They could also add some rubber to provide easy grip of the device.
+TS3011c.A.dialog-act.vkaraisk.52	400.59	401.46	A	PM	sug	+1	1	maybe it rubber
+TS3011c.A.dialog-act.vkaraisk.85	627.22	632.94	A	PM	sug	+1	1	And what I'm thinking about , maybe um we should make very light but um uh a grip
+3	TS3011c.vkaraisk.s.4	Cases can be flat , single- or double-curved.
+TS3011c.C.dialog-act.vkaraisk.76	750.0	757.39	C	ID	inf	+1	1	We have the uncurved or flat case . Uh that's the most common uh remote con control form uh
+TS3011c.C.dialog-act.vkaraisk.80	763.347	765.56	C	ID	inf	+1	1	{vocalsound} We have uh a curved one .
+TS3011c.C.dialog-act.vkaraisk.85	777.22	779.11	C	ID	inf	+1	1	which is curved in three dimension .
+3	TS3011c.vkaraisk.s.5	They can be made of plastic , rubber , wood or titanium.
+TS3011c.C.dialog-act.vkaraisk.91	801.42	802.8	C	ID	inf	+1	1	We can use plastic ,
+TS3011c.C.dialog-act.vkaraisk.97	811.07	814.08	C	ID	inf	+1	1	We can use wood and titanium .
+TS3011c.C.dialog-act.vkaraisk.95	807.81	809.36	C	ID	inf	+1	1	uh which is the same for rubber ,
+3	TS3011c.vkaraisk.s.6	Hand or kinetic dynamos , batteries , and solar cells can be used as energy sources.
+TS3011c.C.dialog-act.vkaraisk.103	833.89	841.61	C	ID	inf	+1	1	we even seem to have uh hand dyn dynamos for uh powering our uh {vocalsound} remote controls .
+TS3011c.C.dialog-act.vkaraisk.110	856.41	859.35	C	ID	inf	+1	1	Uh there's there's also a kinetic energy supply .
+TS3011c.C.dialog-act.vkaraisk.137	970.29	973.82	C	ID	inf	+1	1	And we of course have the traditional uh solar power ,
+5	TS3011c.vkaraisk.s.7	Possible interfaces are push buttons , scroll wheels , and LCDs . A way to make this device different would be to use a scroll-wheel on the side with integrated button for volume control and mute.
+TS3011c.C.dialog-act.vkaraisk.139	986.45	990.38	C	ID	inf	+1	1	um of course we have the push-buttons
+TS3011c.C.dialog-act.vkaraisk.141	990.38	992.92	C	ID	inf	+1	1	and uh we also have scroll-wheels .
+TS3011c.C.dialog-act.vkaraisk.146	1001.76	1008.72	C	ID	inf	+1	1	Um {vocalsound} uh in the indicators we have the L_C_D_ displays ,
+TS3011c.A.dialog-act.vkaraisk.135	1102.87	1107.888	A	PM	sug	+1	1	this is my volume button . And I can either on this side or this side um {disfmarker}
+TS3011c.A.dialog-act.vkaraisk.136	1109.28	1111.31	A	PM	sug	+1	1	And click it to muten the device .
+1	TS3011c.vkaraisk.s.8	Speech recognition can be implemented by adding a sample sensor and speaker on the remote.
+TS3011c.C.dialog-act.vkaraisk.210	1252.03	1255.89	C	ID	inf	+1	1	And there is something like a sample sensor and sample speaker ,
+1	TS3011c.vkaraisk.s.9	The final decisions also included combined battery with solar cells.
+TS3011c.A.dialog-act.vkaraisk.260	1817.48	1819.47	A	PM	inf	+1	2	Traditional batteries uh and solar .
+9	TS3011c.vkaraisk.s.10	The team will design a single-curved device with a scroll wheel and speech recognition , in black and yellow , the company colours.
+TS3011c.A.dialog-act.vkaraisk.189	1492.75	1495.93	A	PM	el.ass	+1	2	But but do we want the curved uh uh design ,
+TS3011c.C.dialog-act.vkaraisk.282	1518.0	1521.13	C	ID	ass	+1	2	So I think this is the best of two worlds .
+TS3011c.C.dialog-act.vkaraisk.297	1591.37	1601.52	C	ID	sug	+1	1	Um I suggest we use the the sensor sample . Uh the sample sensor and sample speaker . Um with a with a regular chip .
+TS3011c.B.dialog-act.vkaraisk.136	1604.93	1607.39	B	UI	sug	+1	2	And and the scroll uh scroll-wheels .
+TS3011c.A.dialog-act.vkaraisk.244	1738.43	1741.15	A	PM	inf	+1	1	Uh you talked about it before , the colours , grey and yellow .
+TS3011c.A.dialog-act.vkaraisk.259	1809.17	1812.3	A	PM	inf	+1	2	The casing is curved , single-curved .
+TS3011c.C.dialog-act.vkaraisk.353	1867.46	1872.41	C	ID	sug	+1	1	and I think we should use the company colours . Something like black and red . {gap} uh black and yellow .
+TS3011c.A.dialog-act.vkaraisk.289	1984.74	1986.09	A	PM	ass	+1	2	The scroll-heel . Yes ,
+TS3011c.A.dialog-act.vkaraisk.290	1986.09	1988.07	A	PM	inf	+1	1	the voice recognition we already decided .

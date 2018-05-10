@@ -1,0 +1,47 @@
+15	Bro003.s.1	The main topics discussed were arrangements and objectives of an
+upcoming field trip to visit research partners OGI; a number of
+members reported their progress to date; if there are any tasks that
+one member can help others with; an overall description of the Cube
+project , a multi-lingual speech recognition system for use by the
+cellular phone industry , along with consideration of some of the
+issues therein , specifically disk and resource issues.
+Bro003.F.dialogueact26	386.198	391.725	F	Professor	fh|s^co^t	+1	2	Um , We should talk a little bit about the plans for the uh {disfmarker} the field trip next week .
+Bro003.F.dialogueact28	398.0	401.52	F	Professor	fh|s	+1	2	And uh {disfmarker} mostly uh First though about the logistics for it .
+Bro003.F.dialogueact29	402.19	405.7	F	Professor	s^co^t	+1	1	Then maybe later on in the meeting we should talk about what we actually you know , might accomplish .
+Bro003.F.dialogueact32	408.8	416.206	F	Professor	fh|s^co^t	+1	1	Uh , in and {pause} kind of go around {disfmarker} see what people have been doing {disfmarker} talk about that , {pause} a r progress report . Um , Essentially .
+Bro003.F.dialogueact33	416.88	424.79	F	Professor	fh|s^t	+1	1	Um {disfmarker} And then uh {disfmarker} Another topic I had was that uh {disfmarker} uh {disfmarker} Uh {disfmarker} Dave here had uh said uh " Give me something to do . "
+Bro003.F.dialogueact35	428.421	430.091	F	Professor	s^co^t	+1	1	And so maybe we can discuss that a little bit .
+Bro003.F.dialogueact40	444.948	452.058	F	Professor	fh|s^co^t	+1	1	uh , and uh , then uh , talk a little bit about {disfmarker} about disks and resource {disfmarker} resource issues that {disfmarker} that 's starting to get worked out .
+Bro003.A.dialogueact232	876.545	880.705	A	PhD	qy^rt	+1	1	Did you {pause} happen to find out anything about the OGI multilingual database ?
+Bro003.G.dialogueact238	891.452	896.892	G	PhD	s^e	+1	1	One they call the multi - language database , and another one is a twenty - two language , something like that .
+Bro003.G.dialogueact239	897.322	899.352	G	PhD	s^e	+1	1	But it 's also telephone speech .
+Bro003.G.dialogueact262	966.422	976.752	G	PhD	s^cs	+1	1	Well , actually , for the moment if we w do not want to use these phone databases , we {disfmarker} we already have uh {disfmarker} English , Spanish and French uh , with microphone speech .
+Bro003.G.dialogueact273	989.956	993.626	G	PhD	h|s^rt	+1	1	Uh , actually , these three databases are um generic databases .
+Bro003.G.dialogueact275	994.032	1007.11	G	PhD	s^e	+1	1	So w f for {disfmarker} for uh Italian , which is close to Spanish , French and , i i uh , TI - digits we have both uh , digits {pause} training data and also {pause} more general training data .
+Bro003.F.dialogueact277	1009.7	1016.47	F	Professor	s^cs	+1	1	Well , we also have this Broadcast News that we were talking about taking off the disk , which is {disfmarker} {vocalsound} is microphone data for {disfmarker} for English .
+Bro003.G.dialogueact279	1016.55	1019.13	G	PhD	s^bk|s^cs	+1	1	Yeah , perhaps {disfmarker} yeah , there is also TIMIT .
+8	Bro003.s.2	Essentially the cube consists of three dimension: input features;
+training corpus; and test corpus.
+Bro003.C.dialogueact452	1503.04	1505.98	C	Grad	s	+1	3	Well , the inputs are one dimension of the cube ,
+Bro003.F.dialogueact617	1880.28	1883.42	F	Professor	s	+1	1	So , a a actually {disfmarker} maybe {disfmarker} now you 've got me sort of intrigued .
+Bro003.F.dialogueact619	1886.07	1887.56	F	Professor	qy^co^rt	+1	1	Can you describe what {disfmarker} what 's on the cube ?
+Bro003.C.dialogueact655	1919.08	1922.38	C	Grad	s	+1	1	basically , the {disfmarker} the cube will have three dimensions .
+Bro003.C.dialogueact656	1922.68	1926.56	C	Grad	s^e	+1	1	The first dimension is the {disfmarker} the features that we 're going to use .
+Bro003.C.dialogueact657	1928.32	1934.41	C	Grad	s^e^rt	+1	1	And the second dimension , um , is the training corpus .
+Bro003.C.dialogueact658	1935.56	1938.39	C	Grad	s^e	+1	1	And that 's the training on the discriminant neural net .
+Bro003.C.dialogueact671	1968.83	1970.78	C	Grad	s	+1	1	And then , there 's the testing corpus .
+12	Bro003.s.3	Most important concerns are which
+combinations of features to use , and what combinations of languages
+and broad/specific corpora to use for the training
+Bro003.C.dialogueact452	1503.04	1505.98	C	Grad	s	+1	3	Well , the inputs are one dimension of the cube ,
+Bro003.C.dialogueact454	1506.06	1517.34	C	Grad	s^e	+1	2	which , um , we 've talked about it being , uh , PLP , um , M F C Cs , um , J - JRASTA , JRASTA - LDA {disfmarker}
+Bro003.C.dialogueact748	2119.21	2130.48	C	Grad	fh|s	+1	1	Um , for the training corpus {disfmarker} corpus , um , we have , um , the {disfmarker} the d {pause} digits {nonvocalsound} from the various languages .
+Bro003.F.dialogueact949	2499.4	2506.81	F	Professor	s	+1	1	So that 's , uh , three hundred and forty - three , uh , {vocalsound} different systems that are going to be developed .
+Bro003.F.dialogueact948	2496.75	2499.4	F	Professor	s^co	+1	1	something like seven things in each , uh {disfmarker} each column .
+Bro003.F.dialogueact1423	3499.48	3507.8	F	Professor	s	+1	2	So it seems like there 's {disfmarker} there 's some peculiarities of the , uh {disfmarker} of each of these dimensions that are getting sorted out .
+Bro003.F.dialogueact1424	3508.54	3518.48	F	Professor	s	+1	3	And then , um , if {disfmarker} if you work on getting the , uh , assembly lines together , and then the {disfmarker} the pieces sort of get ready to go into the assembly line
+Bro003.F.dialogueact1429	3531.08	3534.34	F	Professor	s^ba	+1	3	What 's {disfmarker} what 's great about this is it sets it up in a very systematic way ,
+Bro003.F.dialogueact1430	3534.58	3541.38	F	Professor	s^cs	+1	3	so that , uh , once these {disfmarker} all of these , you know , mundane but real problems get sorted out , we can just start turning the crank
+Bro003.F.dialogueact1456	3576.5	3603.05	F	Professor	fh|s	+1	4	And , uh , the thing is that once you get a better handle on how much you can realistically do , uh , um , {vocalsound} concurrently on different machines , different SPERTs , and so forth , uh , and you see how long it takes on what machine and so forth , you can stand back from it and say , " OK , if we look at all these combinations we 're talking about , and combinations of combinations , and so forth , " you 'll probably find you can't do it all .
+Bro003.F.dialogueact1460	3604.1	3608.52	F	Professor	s^co	+1	2	so then at that point , uh , we should sort out which ones do we throw away .
+Bro003.F.dialogueact1461	3608.63	3611.59	F	Professor	s^e	+1	2	Which of the combinations across {disfmarker} you know , what are the most likely ones ,

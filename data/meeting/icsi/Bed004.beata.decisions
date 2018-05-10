@@ -1,0 +1,23 @@
+5	Bed004.s.4	The introduction needs to be shortened and streamlined.
+Bed004.D.dialogueact107	584.565	586.465	D	Grad	s^rt	+1	0	The reading was five minutes , exactly .
+Bed004.D.dialogueact148	904.71	905.56	D	Grad	s^cs	-1	0	The reading needs to be shorter .
+Bed004.D.dialogueact149	905.56	906.83	D	Grad	s	+1	1	Five minutes is just too long .
+Bed004.D.dialogueact162	934.083	936.543	D	Grad	fh|s^cs^rt	-1	0	And we need a better introduction for the wizard .
+Bed004.D.dialogueact163	936.543	943.023	D	Grad	s	+1	0	That is something that Fey actually thought of a {disfmarker} in the last second that sh the system should introduce itself , when it 's called .
+5	Bed004.s.5	A graduate student will be hired to oversee further testing.
+Bed004.B.dialogueact205	1054.15	1063.63	B	Professor	fh|s^t	-1	0	So {pause} first of all , I agree that um we should hire Fey , and start paying her .
+Bed004.B.dialogueact206	1063.62	1065.88	B	Professor	s	-1	0	Probably pay for the time she 's put in as well .
+Bed004.B.dialogueact209	1071.43	1075.79	B	Professor	qw	-1	0	I mean , you know what exactly do we do to {disfmarker} to put her on the payroll in some way ?
+Bed004.B.dialogueact244	1149.44	1160.67	B	Professor	fh|s	+1	1	Um {pause} And also if she 's willing to take on the job of organizing all those subjects and stuff that would be wonderful .
+Bed004.B.dialogueact246	1161.69	1167.45	B	Professor	fh|s	-1	0	And , uh she 's {disfmarker} actually she 's going to graduate school in a kind of an experimental paradigm ,
+5	Bed004.s.6	In a forthcoming meeting , the refinement of the test data and the technicalities of the testing process will be discussed.
+Bed004.D.dialogueact255	1187.33	1197.82	D	Grad	fh|s	+1	0	And um I told her that we gonna um figure out a meeting time in the near future to refine the tasks and s look for the potential sources to find people .
+Bed004.D.dialogueact256	1198.43	1204.11	D	Grad	s	+1	1	She also agrees that you know if it 's all just gonna be students the data is gonna be less valuable because of that
+Bed004.B.dialogueact273	1243.45	1252.34	B	Professor	fh|s^cs^t	+1	0	Um . Now , {pause} I signed us up for the Wednesday slot , and part of what we should do is this .
+Bed004.B.dialogueact276	1253.19	1258.64	B	Professor	s	+1	1	my idea on that was {pause} uh , partly we 'll talk about system stuff for the computer scientists ,
+Bed004.B.dialogueact277	1258.64	1271.51	B	Professor	s	+1	1	but partly I did want it to get the linguists involved in some of this issue about what the task is and all {disfmarker} um you know , what the dialogue is , and what 's going on linguistically ,
+4	Bed004.s.7	Linguistic expertise and world knowledge is needed to improve the system.
+Bed004.B.dialogueact277	1258.64	1271.51	B	Professor	s	+1	1	but partly I did want it to get the linguists involved in some of this issue about what the task is and all {disfmarker} um you know , what the dialogue is , and what 's going on linguistically ,
+Bed004.B.dialogueact278	1272.11	1275.41	B	Professor	s	+1	0	because to the extent that we can get them contributing ,
+Bed004.B.dialogueact281	1277.86	1280.89	B	Professor	s	-1	0	So this issue about you know re - formulating things ,
+Bed004.B.dialogueact282	1280.89	1284.67	B	Professor	s^cs	-1	0	maybe we can get some of the linguists sufficiently interested that they 'll help us with it ,

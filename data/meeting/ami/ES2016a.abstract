@@ -1,0 +1,126 @@
+21	ES2016a.rdhillon.s.1	The project manager opened the meeting and had the team members introduce themselves and describe their roles in the upcoming project.
+ES2016a.A.dialog-act.vkaraisk.8	70.24	75.1	A	PM	inf	+1	1	Uh as you all know we're here to create a brand new fantastic remote .
+ES2016a.A.dialog-act.vkaraisk.9	75.1	78.09	A	PM	inf	+1	1	Uh I'm Nick Debusk ,
+ES2016a.A.dialog-act.vkaraisk.10	78.09	80.27	A	PM	inf	+1	1	I'm the Project Manager .
+ES2016a.A.dialog-act.vkaraisk.11	80.27	92.09	A	PM	sug	+1	1	Uh we'll just get started with everyone kind of letting each other know who they are and what you're doing , what your what your role is um .
+ES2016a.D.dialog-act.vkaraisk.3	94.89	96.66	D	ME	inf	+1	1	{vocalsound} I am Corinne Whiting
+ES2016a.D.dialog-act.vkaraisk.4	96.66	99.45	D	ME	inf	+1	1	and I will be the Marketing Expert
+ES2016a.D.dialog-act.vkaraisk.6	103.0	110.93	D	ME	inf	+1	1	In the function design phase I will be talking about user requirement specification ,
+ES2016a.D.dialog-act.vkaraisk.9	117.9	122.55	D	ME	inf	+1	1	In the conceptual design phase I will be dealing with trend watching
+ES2016a.D.dialog-act.vkaraisk.11	125.21	132.21	D	ME	inf	+1	1	And then finally in the um detailed design phase I will be doing product evaluation
+ES2016a.C.dialog-act.vkaraisk.1	140.03	140.7	C	UI	inf	+1	1	, I'm Ryan .
+ES2016a.C.dialog-act.vkaraisk.3	140.7	143.23	C	UI	inf	+1	1	Um I'm the User Interface Designer .
+ES2016a.C.dialog-act.vkaraisk.4	143.23	148.49	C	UI	inf	+1	1	Um likewise I've three different roles for each stage of design .
+ES2016a.C.dialog-act.vkaraisk.5	148.49	153.65	C	UI	inf	+1	1	Um the functional design is looking at the tex technical functions of a remote control .
+ES2016a.C.dialog-act.vkaraisk.6	153.65	157.47	C	UI	inf	+1	1	Um in the concept design , the user interface ,
+ES2016a.C.dialog-act.vkaraisk.8	160.23	164.84	C	UI	inf	+1	1	And the detailed design um {vocalsound} sort of like the user interface design ,
+ES2016a.B.dialog-act.vkaraisk.2	173.43	174.45	B	ID	inf	+1	1	{vocalsound} I'm Manuel
+ES2016a.B.dialog-act.vkaraisk.3	174.45	180.16	B	ID	inf	+1	1	and I'm the Industrial Designer in in this project um .
+ES2016a.B.dialog-act.vkaraisk.4	180.16	184.77	B	ID	inf	+1	1	In the functional design phase I'm {disfmarker} I'll be dealing mostly with the requirements ,
+ES2016a.B.dialog-act.vkaraisk.5	184.77	192.01	B	ID	inf	+1	1	um we'll discuss what the prog what functions the the product has to fulfil and so and so on .
+ES2016a.B.dialog-act.vkaraisk.7	195.3	204.03	B	ID	inf	+1	1	Um um in the conceptual design um I'll be pro mostly dealing with properties and materials um of our product .
+ES2016a.B.dialog-act.vkaraisk.8	204.03	212.79	B	ID	inf	+1	1	And uh the detailed design {disfmarker} in the detailed design I'll be concerned with the look and feel of the product itself ,
+8	ES2016a.rdhillon.s.2	The project manager then described the upcoming project.
+ES2016a.A.dialog-act.vkaraisk.17	228.13	238.69	A	PM	inf	+1	1	our our agenda is the opening , uh acquaintance which we've kinda done . Uh tool training , project plan discussion and then closing .
+ES2016a.A.dialog-act.vkaraisk.20	245.04	248.19	A	PM	inf	+1	1	we are putting together a new remote control .
+ES2016a.A.dialog-act.vkaraisk.21	248.19	251.5	A	PM	inf	+1	1	Um we want it to be something original .
+ES2016a.A.dialog-act.vkaraisk.22	251.5	257.06	A	PM	inf	+1	1	Um of course we're a {disfmarker} not only a electronics company but a
+ES2016a.A.dialog-act.vkaraisk.23	258.28	261.9	A	PM	inf	+1	1	fashion um conscious electronics company ,
+ES2016a.A.dialog-act.vkaraisk.24	261.9	265.59	A	PM	inf	+1	1	so we want it to be trendy um
+ES2016a.A.dialog-act.vkaraisk.25	265.59	267.55	A	PM	inf	+1	1	and we want it to be easy to use .
+ES2016a.A.dialog-act.vkaraisk.26	269.072	278.53	A	PM	inf	+1	1	{vocalsound} Um we've got the functional design , conceptual design and detailed design
+35	ES2016a.rdhillon.s.3	The team then discussed their experiences with remote controls.
+ES2016a.A.dialog-act.vkaraisk.31	312.72	319.34	A	PM	sug	+1	1	let's just throw out some ideas of what kind of remote control we want to have ,
+ES2016a.A.dialog-act.vkaraisk.32	319.34	321.89	A	PM	sug	+1	1	and then we can go into how we're gonna design it
+ES2016a.C.dialog-act.vkaraisk.17	329.59	331.08	C	UI	fra	+1	1	function of remote control is just just {disfmarker}
+ES2016a.C.dialog-act.vkaraisk.19	331.25	333.32	C	UI	inf	+1	1	change channels is its main function .
+ES2016a.A.dialog-act.vkaraisk.35	333.75	338.55	A	PM	el.ass	+1	1	we want it to be um a T_V_ remote or {disfmarker}
+ES2016a.A.dialog-act.vkaraisk.36	338.55	343.05	A	PM	el.ass	+1	1	I I mean do we want it to to do other things besides just be a a television remote ?
+ES2016a.C.dialog-act.vkaraisk.21	343.5	348.89	C	UI	sug	+1	1	I suppose you c try make it a universal remote
+ES2016a.C.dialog-act.vkaraisk.26	356.43	361.57	C	UI	inf	+1	1	But , you know , they all sorta have the same role changing channels , volumes and then programming .
+ES2016a.C.dialog-act.vkaraisk.27	365.94	368.08	C	UI	inf	+1	1	I think they all work on the same prin principle as well
+ES2016a.C.dialog-act.vkaraisk.34	391.44	395.01	C	UI	inf	+1	1	Um one thing I thought of with the remote control is you always lose 'em .
+ES2016a.C.dialog-act.vkaraisk.35	396.55	401.79	C	UI	ass	+1	1	So if there's a g a way of finding it quite easily , I thought that'd be quite good quite a good feature .
+ES2016a.A.dialog-act.vkaraisk.45	400.16	404.45	A	PM	sug	+1	1	So we should we should set our remote control up to where it has a uh
+ES2016a.A.dialog-act.vkaraisk.46	407.43	408.83	A	PM	sug	+1	1	like a tracking device
+ES2016a.C.dialog-act.vkaraisk.38	410.89	411.6	C	UI	sug	+1	1	you could whistle
+ES2016a.C.dialog-act.vkaraisk.39	411.6	412.49	C	UI	sug	+1	1	or make a noise
+ES2016a.A.dialog-act.vkaraisk.49	413.34	415.55	A	PM	sug	+1	1	there's a button on the T_V_ that you press
+ES2016a.C.dialog-act.vkaraisk.40	412.49	413.26	C	UI	sug	+1	1	and it'd beep .
+ES2016a.C.dialog-act.vkaraisk.42	422.66	428.32	C	UI	inf	+1	2	Generally , all remotes are sort of quite similar in their appearance .
+ES2016a.A.dialog-act.vkaraisk.54	430.67	433.48	A	PM	inf	+1	1	so they're kinda like long and rectangular .
+ES2016a.A.dialog-act.vkaraisk.55	433.48	435.46	A	PM	el.ass	+1	2	Do we want something crazy ?
+ES2016a.A.dialog-act.vkaraisk.57	435.75	438.63	A	PM	el.ass	+1	2	we want something new that's gonna stand out .
+ES2016a.C.dialog-act.vkaraisk.48	441.45	443.98	C	UI	sug	+1	2	Maybe sorta spherical or something . A ball .
+ES2016a.D.dialog-act.vkaraisk.25	444.77	445.97	D	ME	sug	+1	1	Maybe like user-friendly ,
+ES2016a.D.dialog-act.vkaraisk.28	448.2	450.73	D	ME	sug	+1	1	where you can use both hands , like a little keyboard type thing .
+ES2016a.C.dialog-act.vkaraisk.51	451.05	456.49	C	UI	inf	+1	1	I thought maybe , because people always tend to throw a remote control about the place to one another {disfmarker}
+ES2016a.C.dialog-act.vkaraisk.53	458.48	460.79	C	UI	sug	+1	1	and maybe the actual controls are inside or something .
+ES2016a.B.dialog-act.vkaraisk.19	464.43	469.53	B	ID	inf	+1	1	you can't have it be any form and fulfil all functions at the same time ,
+ES2016a.B.dialog-act.vkaraisk.20	469.53	471.48	B	ID	inf	+1	1	so there are always the {disfmarker} some restrictions
+ES2016a.B.dialog-act.vkaraisk.22	473.95	479.86	B	ID	el.sug	+1	2	Um however um one question is how stable is that thing supposed to be ,
+ES2016a.B.dialog-act.vkaraisk.25	485.14	486.28	B	ID	el.sug	+1	1	How sturdy is it gonna be ?
+ES2016a.A.dialog-act.vkaraisk.63	498.24	504.35	A	PM	sug	+1	1	we want it to to hold up to somebody's child , you know , throwing it across the room
+ES2016a.A.dialog-act.vkaraisk.66	506.21	511.26	A	PM	sug	+1	1	so ball-shaped , uh you know , if it were ball-shaped maybe ,
+ES2016a.C.dialog-act.vkaraisk.57	511.16	512.34	C	UI	sug	+1	1	It could be cased on the outside
+ES2016a.C.dialog-act.vkaraisk.58	512.34	514.33	C	UI	sug	+1	1	and t everything could be inside .
+ES2016a.A.dialog-act.vkaraisk.70	518.45	521.64	A	PM	sug	+1	1	we want it to be modern , fun , sturdy ,
+10	ES2016a.rdhillon.s.4	They also discussed the project budget and which features they would like to see in the remote control they are to create.
+ES2016a.A.dialog-act.vkaraisk.77	572.5	577.45	A	PM	inf	+1	2	It's something that we're supposed to sell for about twenty five Euros
+ES2016a.A.dialog-act.vkaraisk.79	583.5	591.13	A	PM	inf	+1	1	goals for profits are I think somewhere around uh fifty million Euros , what they wanna make on it , so .
+ES2016a.D.dialog-act.vkaraisk.32	596.07	600.37	D	ME	inf	+1	1	Also since we're partners of the International Remote Control Association ,
+ES2016a.D.dialog-act.vkaraisk.33	600.37	603.73	D	ME	sug	+1	1	maybe we wanna make it something that would globally appeal .
+ES2016a.A.dialog-act.vkaraisk.84	616.22	625.62	A	PM	sug	+1	2	marketing , you could s find out what is the most universally um appealing {vocalsound} remote control out there .
+ES2016a.D.dialog-act.vkaraisk.36	627.66	633.95	D	ME	sug	+1	1	And maybe as far as design goes , maybe we could have different ones for different target audiences ,
+ES2016a.C.dialog-act.vkaraisk.73	724.01	727.6	C	UI	inf	+1	1	I think , sometimes remotes have too many buttons ,
+ES2016a.C.dialog-act.vkaraisk.74	727.6	729.84	C	UI	sug	+1	1	so maybe as simple as possible ,
+ES2016a.C.dialog-act.vkaraisk.75	729.84	731.67	C	UI	sug	+1	1	um as few buttons inside as possible .
+ES2016a.C.dialog-act.vkaraisk.78	737.48	742.86	C	UI	sug	+1	1	if it had like if some kind of like light or something or lights around it .
+47	ES2016a.rdhillon.s.5	The team discussed universal usage , how to find remotes when misplaced , shapes and colors , ball shaped remotes , marketing strategies , keyboards on remotes , and remote sizes.
+ES2016a.A.dialog-act.vkaraisk.87	665.12	667.28	A	PM	el.sug	+1	1	Do you guys have any ideas for what it should look like ?
+ES2016a.A.dialog-act.vkaraisk.90	676.22	678.65	A	PM	sug	+1	2	We want it to be a b a ball ,
+ES2016a.C.dialog-act.vkaraisk.62	677.99	679.97	C	UI	off	+1	1	I could draw sorta the ball idea .
+ES2016a.C.dialog-act.vkaraisk.65	699.56	701.62	C	UI	sug	+1	1	this is where it's connected together ,
+ES2016a.C.dialog-act.vkaraisk.66	701.62	706.1	C	UI	sug	+1	2	and then when you open it out , it could fol it could be maybe flip , like a flip phone ,
+ES2016a.C.dialog-act.vkaraisk.68	710.66	713.35	C	UI	sug	+1	2	Maybe a hinge that'll have to be the strongest part of it .
+ES2016a.B.dialog-act.vkaraisk.35	764.11	765.76	B	ID	ass	+1	2	um {disfmarker} the ball is a nice idea
+ES2016a.B.dialog-act.vkaraisk.36	765.76	767.68	B	ID	inf	+1	2	because of it's stability really ,
+ES2016a.B.dialog-act.vkaraisk.42	778.81	783.08	B	ID	ass	+1	2	Also also you risk the hinges here . That's that's um a problem .
+ES2016a.B.dialog-act.vkaraisk.39	770.87	775.06	B	ID	sug	+1	2	so we'd have to have it flat on one side at least , down here somewhere ,
+ES2016a.B.dialog-act.vkaraisk.44	789.69	792.19	B	ID	ass	+1	2	but that's of course a weak point , yeah .
+ES2016a.A.dialog-act.vkaraisk.98	811.26	817.05	A	PM	el.ass	+1	2	I mean would we just have a flat spot on the bottom of the ball ?
+ES2016a.B.dialog-act.vkaraisk.55	842.67	845.65	B	ID	ass	+1	1	The shape is perhaps not the most ideal .
+ES2016a.B.dialog-act.vkaraisk.57	847.42	854.05	B	ID	sug	+1	2	there must be a compromise between um stability and design here , so .
+ES2016a.C.dialog-act.vkaraisk.101	857.58	860.82	C	UI	inf	+1	2	I can't think of anything other than a long rectangle for remote ,
+ES2016a.A.dialog-act.vkaraisk.107	866.68	867.59	A	PM	ass	+1	2	it's not innovative ,
+ES2016a.A.dialog-act.vkaraisk.110	868.75	869.9	A	PM	inf	+1	2	everybody does long remote
+ES2016a.D.dialog-act.vkaraisk.50	882.14	886.81	D	ME	sug	+1	1	My idea was just to have it be kind of like a
+ES2016a.D.dialog-act.vkaraisk.51	888.07	890.89	D	ME	sug	+1	2	keyboard type shape , you know , like video games
+ES2016a.D.dialog-act.vkaraisk.55	894.82	897.15	D	ME	sug	+1	1	We could also try to do the hinge thing ,
+ES2016a.D.dialog-act.vkaraisk.56	897.15	900.42	D	ME	sug	+1	1	so it could like flip out that way .
+ES2016a.C.dialog-act.vkaraisk.110	931.01	933.34	C	UI	sug	+1	1	but something that would maybe fit in the hand easier .
+ES2016a.C.dialog-act.vkaraisk.108	922.18	928.11	C	UI	fra	+1	1	I mean maybe design something , that's sort of like {vocalsound}
+ES2016a.A.dialog-act.vkaraisk.121	951.7	959.62	A	PM	ass	+1	2	So perhaps the the joystick {disfmarker} the the keyboard idea might work better .
+ES2016a.A.dialog-act.vkaraisk.118	941.66	943.73	A	PM	ass	+1	2	Because even {disfmarker} I suppose even with the ball
+ES2016a.C.dialog-act.vkaraisk.113	945.52	947.97	C	UI	ass	+1	2	it still not the ho easiest thing to hold , yeah .
+ES2016a.C.dialog-act.vkaraisk.119	967.34	971.52	C	UI	sug	+1	1	I think it's definitely got to be a a one-handed a one-handed job .
+ES2016a.B.dialog-act.vkaraisk.65	993.04	995.08	B	ID	ass	+1	1	if it's small it probably looks better ,
+ES2016a.B.dialog-act.vkaraisk.67	996.62	997.93	B	ID	ass	+1	1	may not be th as functional .
+ES2016a.A.dialog-act.vkaraisk.134	1044.86	1048.2	A	PM	sug	+1	1	say we went with the ball the ball function
+ES2016a.A.dialog-act.vkaraisk.135	1048.2	1059.99	A	PM	sug	+1	1	um , but maybe we give it sort of grips along the side s um
+ES2016a.A.dialog-act.vkaraisk.136	1059.99	1063.72	A	PM	ass	+1	1	to make it easier to hold on to .
+ES2016a.A.dialog-act.vkaraisk.145	1096.72	1102.02	A	PM	inf	+1	2	But if we're gonna make it flat on the bottom , then that eliminates our ball anyways .
+ES2016a.A.dialog-act.vkaraisk.150	1125.06	1126.92	A	PM	ass	+1	2	And then we have the problem with the hinge .
+ES2016a.B.dialog-act.vkaraisk.70	1132.32	1138.04	B	ID	ass	+1	2	The question is also , I dunno , d do you really always want to open that thing when you have to use it ?
+ES2016a.A.dialog-act.vkaraisk.158	1176.91	1180.95	A	PM	sug	+1	3	so then we forget the ball .
+ES2016a.A.dialog-act.vkaraisk.161	1186.28	1189.35	A	PM	inf	+1	2	So we've got our sort of keyboard kind .
+ES2016a.B.dialog-act.vkaraisk.82	1216.1	1219.28	B	ID	el.inf	+1	1	Question is what makes those game pads functional ?
+ES2016a.B.dialog-act.vkaraisk.84	1219.4	1222.88	B	ID	inf	+1	1	I think that's pretty much the form for full hand .
+ES2016a.B.dialog-act.vkaraisk.85	1222.88	1226.85	B	ID	inf	+1	1	So it's a round shape underneath that makes it comfy ,
+ES2016a.B.dialog-act.vkaraisk.89	1229.66	1235.16	B	ID	inf	+1	1	Except for that I think we'll not {disfmarker} probably not get a get away from some longer design .
+ES2016a.B.dialog-act.vkaraisk.94	1245.82	1248.48	B	ID	inf	+1	1	and {disfmarker} Batteries go weak as well ,
+ES2016a.A.dialog-act.vkaraisk.176	1261.8	1266.8	A	PM	el.ass	+1	1	Is it possible to have it to where it would work with a like a sensor on either side ?
+ES2016a.A.dialog-act.vkaraisk.177	1268.0	1270.29	A	PM	inf	+1	1	So that either way you're pointing it it would work .
+ES2016a.B.dialog-act.vkaraisk.100	1269.91	1274.73	B	ID	ass	+1	1	O of course the more technology you stick in that , the more it'll cost , so .
+ES2016a.B.dialog-act.vkaraisk.105	1295.55	1298.86	B	ID	inf	+1	1	but um it's rather about an instinctual thing ,
+ES2016a.B.dialog-act.vkaraisk.110	1302.92	1311.15	B	ID	ass	+1	1	Otherwise the design of {disfmarker} or the the point of putting two sensors on both sides um would probably work .

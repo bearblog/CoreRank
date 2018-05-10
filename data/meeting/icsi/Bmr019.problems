@@ -1,0 +1,28 @@
+0	Bmr019.s.11	Digits training needs to be performed on a larger data set.
+2	Bmr019.s.12	A significant loss in recognition resulted from not having included the type of phone-loop adaptation found in the SRI system.
+Bmr019.B.dialogueact145	247.411	250.991	B	Professor	s	+1	1	Um , also you had the adaptation in the SRI system , which we didn't have in this .
+Bmr019.F.dialogueact155	264.75	268.3	F	PhD	s	+1	1	So there was a significant loss from not doing the adaptation .
+1	Bmr019.s.13	Recognition performance was worse for digits recorded in closed microphone conditions versus those recorded in a studio ( e.g . TI-digits ).
+Bmr019.B.dialogueact205	384.422	395.563	B	Professor	s	+1	3	Uh , but the other is that , um , the digits {vocalsound} recorded here in this room with these close mikes , i uh , are actually a lot harder than the {pause} studio - recording TI - digits .
+4	Bmr019.s.14	A mismatch between the manner in which data were collected and the models used for doing recognition---e.g . bandwidth parameterization and the use of near- versus far-field microphones---was identified.
+Bmr019.B.dialogueact205	384.422	395.563	B	Professor	s	+1	3	Uh , but the other is that , um , the digits {vocalsound} recorded here in this room with these close mikes , i uh , are actually a lot harder than the {pause} studio - recording TI - digits .
+Bmr019.F.dialogueact240	479.25	489.66	F	PhD	s	+1	1	I suspect that to get sort of the last bit out of these higher - quality recordings you would have to in fact , uh , use models that , uh , were trained on wider - band data .
+Bmr019.F.dialogueact361	744.345	750.595	F	PhD	s	+1	1	That 's where the most m acoustic mismatch is between the currently used models and the {disfmarker} the r the set up here .
+Bmr019.B.dialogueact411	810.93	812.02	B	Professor	s	+1	1	the near versus far .
+1	Bmr019.s.15	Too little data per speaker can have a negative effect on VTL estimation.
+Bmr019.F.dialogueact287	560.942	568.312	F	PhD	s^e	+1	2	If you have only one utterance per speaker you might actually screw up on estimating the {disfmarker} the warping , uh , factor .
+1	Bmr019.s.16	The PZM channel selected for obtaining digits data was too far away from most of the speakers.
+Bmr019.E.dialogueact547	1066.65	1069.24	E	Grad	s^df	+1	1	Because it 's further away from most of the people reading digits .
+4	Bmr019.s.17	Current speech alignment techniques assume that foreground speech must be continuous and , barring some isolated words and backchannels , can not cope with overlapping background speech.
+Bmr019.F.dialogueact701	1467.78	1474.79	F	PhD	s	+1	1	you know , as Liz said the {disfmarker} we f enforce the fact that , uh , the foreground speech has to be continuous .
+Bmr019.A.dialogueact707	1495.69	1504.25	A	PhD	s.%--	+1	1	things like words that do occur just by themselves {pause} a alone , like backchannels or something that we did allow to have background speech around it {disfmarker}
+Bmr019.A.dialogueact709	1504.6	1505.8	A	PhD	s	+1	1	those would be able to do that ,
+Bmr019.A.dialogueact711	1505.8	1507.56	A	PhD	s	+1	1	but the rest would be constrained .
+5	Bmr019.s.18	Performing adaptations on both the foreground and background speaker produced a new variety of misalignments , a problem resulting , in part , from the fact that background speakers often match better to foreground conditionss.
+Bmr019.A.dialogueact736	1571.17	1574.39	A	PhD	s^cs^rt	+1	1	We probably want to adapt at least the foreground speaker .
+Bmr019.A.dialogueact737	1574.39	1579.01	A	PhD	s	+1	1	But , I guess Andreas tried adapting both the foreground and a background generic speaker ,
+Bmr019.A.dialogueact738	1579.01	1582.41	A	PhD	s^ba	+1	1	and that 's actually a little bit of a f funky model .
+Bmr019.A.dialogueact739	1582.41	1584.19	A	PhD	s	+1	1	Like , it gives you some weird alignments ,
+Bmr019.A.dialogueact740	1584.19	1588.24	A	PhD	s^df	+1	1	just because often the background speakers match better to the foreground than the foreground speaker .
+1	Bmr019.s.19	Transcribers occasionally misidentified speakers and omitted backchannels that were more hidden in the mixed signal.
+Bmr019.A.dialogueact1679	3171.04	3180.63	A	PhD	s	+1	1	Tha - There are some cases like where the {disfmarker} the wrong speaker {disfmarker} uh , these ca Not a lot , but where the {disfmarker} the wrong person {disfmarker} the {disfmarker} the speech is addre attached to the wrong speaker

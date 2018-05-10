@@ -1,0 +1,8 @@
+Curent navigation systems do not provide for the user's particular intentions when asking for directions.
+They always compute the shortest path between source and destination.
+The SmartKom parser , for example , does not mark up data with features adequate for the inference of these intentions.
+Although it is understandable that language , discourse and situation features will play a role in how they are weighed , the exact nature of those features is unclear.
+Also hard to evaluate at this stage , is how the assumed features will combine in a belief-net , in order to provide the conditional probabilities of the users' intentions.
+Even if these problems are solved , extracting the features from the data may prove to be a bottleneck.
+The existing data are appropriate only for preliminary work , as they don't include intention-related information.
+On the other hand , the details of the experiments that will have to be designed to get more appropriate data are not clearcut and are yet to be settled.

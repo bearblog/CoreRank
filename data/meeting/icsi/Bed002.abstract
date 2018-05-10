@@ -1,0 +1,42 @@
+1	Bed002.s.1	The initial task of the EDU group is to work on inferring intentions through context.
+Bed002.C.dialogueact202	685.92	692.787	C	Professor	s	+1	1	Oh , this was about {pause} um , inferring intentions from features in context , and the words ,
+5	Bed002.s.2	In the navigational paradigm used for the task , these intentions are to "see" to "enter" or to "get to the closest point of" a building.
+Bed002.B.dialogueact245	824.32	830.38	B	Grad	s	+1	2	So , {vocalsound} what we found interesting is , first of all , intentions differ .
+Bed002.B.dialogueact246	831.525	833.985	B	Grad	s	+1	2	Maybe you want to enter a building .
+Bed002.B.dialogueact247	834.955	836.235	B	Grad	s	+1	2	Maybe you want to see it ,
+Bed002.B.dialogueact249	838.243	841.883	B	Grad	s	+1	2	Or maybe you actually want to come as close as possible to the building .
+Bed002.B.dialogueact263	886.1	895.612	B	Grad	s.%--	+1	2	If you don't have the intention of entering your building , but you know that something is really close to it , and you just want to approach it , or get to that building .
+1	Bed002.s.3	There will be purpose-designed experiments carried out.
+Bed002.B.dialogueact665	2006.87	2015.93	B	Grad	s	+1	2	But , um , since we are designing a {disfmarker} a {disfmarker} a {disfmarker} an , compared to this , even bigger data collection effort , {comment} um , we will definitely take care to put it in there ,
+8	Bed002.s.4	However , the starting point is , through the use of existing data , to determine possible linguistic , discourse or situation features that define intentionality.
+Bed002.B.dialogueact310	1028.61	1032.34	B	Grad	s	+1	1	um , we can look at some factors that may make a difference .
+Bed002.B.dialogueact321	1062.53	1071.48	B	Grad	fh|s	+1	1	Um . Sometimes I found in the {disfmarker} Uh , looking at the data , in a superficial way , I found some s sort of modifiers that {disfmarker} that m may also give us a hint ,
+Bed002.B.dialogueact326	1082.3	1086.9	B	Grad	s	+1	1	And this leads us straight to the context which also should be considered .
+Bed002.B.dialogueact349	1157.03	1161.24	B	Grad	s^cc^rt	+1	1	And I will try to {disfmarker} to sort of come up with a list of factors that we need to get out of there ,
+Bed002.C.dialogueact387	1309.35	1310.64	C	Professor	s	+1	2	there 's gonna be contextual things ,
+Bed002.C.dialogueact388	1310.64	1311.84	C	Professor	s	+1	2	there 're gonna be linguistic things ,
+Bed002.C.dialogueact389	1311.84	1313.14	C	Professor	s	+1	2	there 're gonna be discourse things ,
+Bed002.C.dialogueact968	2685.97	2690.51	C	Professor	qh	+1	3	The issue is , can we find a way to , basically , featurize it
+5	Bed002.s.5	These may include the type of building , time of day , particular phrases used or whether the user is a tourist or a native.
+Bed002.C.dialogueact203	692.997	696.317	C	Professor	s^e.%-	+1	1	like " s go to see " , or " visit " , or some
+Bed002.B.dialogueact314	1037.88	1040.58	B	Grad	s:qw	+1	1	This is of course a crucial factor , " what type of object is it ? "
+Bed002.B.dialogueact320	1055.64	1061.81	B	Grad	s	+1	1	Then of course the {disfmarker} the actual phrases may give us some idea of what the person wants .
+Bed002.C.dialogueact419	1409.34	1417.31	C	Professor	s	+1	1	Oh , another thing you want is some information abou I think , about the time of day .
+Bed002.C.dialogueact1010	2778.09	2785.71	C	Professor	s	+1	1	So if it turns out that , whatever it is , you want to know whether the person 's uh , a tourist or not , OK ? that becomes a feature .
+3	Bed002.s.6	Initially , these features will be hand-coded , but the goal is to find ways of extracting them automatically from the XML data.
+Bed002.C.dialogueact607	1864.28	1870.79	C	Professor	s	+1	1	and we 're able to , by hand , extract the features to put in the belief - net .
+Bed002.C.dialogueact612	1894.63	1900.85	C	Professor	s	+1	3	If that goes well , then we can start worrying about how we would extract them .
+Bed002.F.dialogueact1227	3454.54	3457.84	F	Grad	s^bu	+1	1	So we 'll be like , hand , uh , doing all the probabilities .
+7	Bed002.s.7	Consequently , they will be fed into a belief-net -implemented on a software package like JavaBayes- and the conditional probability of each intention calculated.
+Bed002.B.dialogueact355	1184.86	1197.62	B	Grad	s	+1	1	if we feed it through a belief - net or {disfmarker} or something along those lines . We 'd get an inferred intention , we {disfmarker} we produce a structure that differentiates between the Vista , the Enter , and the , um , Tango mode .
+Bed002.C.dialogueact391	1316.54	1320.38	C	Professor	s	+1	1	And , my idea on how to combine them is with a belief - net ,
+Bed002.C.dialogueact406	1359.88	1365.7	C	Professor	s	+1	1	which is going to have as output , the conditional pr probability of one of three things ,
+Bed002.C.dialogueact604	1850.29	1861.27	C	Professor	s^rt	+1	1	but the idea is to take as a first goal , see if we could actually build a belief - net that would make this three way distinction uh , in a plausible way ,
+Bed002.C.dialogueact609	1871.57	1881.85	C	Professor	s^e:s	+1	1	here 're the things which , if you get them out of {disfmarker} out of the language and discourse , and put them into the belief - net , it would tell you which of these three uh , intentions is most likely . "
+Bed002.C.dialogueact623	1927.57	1937.42	C	Professor	s	+1	1	I think that , uh , if we can get the information , a belief - net is a perfectly good way of doing the inferential combination of it .
+Bed002.C.dialogueact1023	2840.32	2842.02	C	Professor	s^e	+1	1	JavaBayes or something ?
+4	Bed002.s.8	A prototype system will be put together to test hypotheses regarding both the exact nature of the features and how intentions are derived from them.
+Bed002.C.dialogueact435	1463.62	1468.34	C	Professor	s	+1	1	So one thing you could do is build a little system that , said , " whenever you got a question like that I 've got one of three answers .
+Bed002.B.dialogueact765	2226.24	2235.18	B	Grad	s	+1	1	u u Sort of I 'm , at the moment , curious and I 'm {disfmarker} I 'm {disfmarker} s w want to approach it from the end where we can s sort of start with this toy system that we can play around with ,
+Bed002.C.dialogueact1017	2808.11	2818.03	C	Professor	s	+1	3	and then in the longer run , you would figure out how you could derive them . From previous discourse or w any anything else you knew .
+Bed002.C.dialogueact1184	3334.76	3343.07	C	Professor	s	+1	1	And , then as soon as we have it , I think we should start trying to populate it for this problem .

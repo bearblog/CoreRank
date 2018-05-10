@@ -1,0 +1,32 @@
+1	Bed011.s.23	A detailed diagram of the EVA belief-net was presented and some of the intermediate nodes and their properties were discussed in depth.
+Bed011.C.dialogueact26	141.4	148.11	C	Grad	s	+1	1	So what I 've tried to do here is list all the decision nodes that we have identified on this {pause} side .
+14	Bed011.s.24	Some of the key features and properties are: "Go-there" , which is binary , and defined by the user , situation , ontology and discourse models; "timing" ( current/next tour ); "reason" ( business , sight-seeing , socialising ); "transport"; "length of tour"; "costs"; "entity" ( open , accessible ) etc.
+Bed011.C.dialogueact161	639.88	646.66	C	Grad	s	+1	1	we get to the uh {disfmarker} uh belief - net just focusing on {disfmarker} on the g Go - there node .
+Bed011.C.dialogueact180	743.06	747.28	C	Grad	s	+1	1	everything that comes from situation , everything that comes from user goes with the sub - U ,
+Bed011.C.dialogueact181	747.7	760.614	C	Grad	s	+1	1	and whatever we specify for the so - called " Keith node " , or the discourse , what comes from the {disfmarker} um {disfmarker} parser , construction parser , um will contribute to the D and the ontology to the sub - O node .
+Bed011.C.dialogueact539	1859.22	1861.34	C	Grad	s	+1	1	I mean , Go - there is {disfmarker} is a yes or no .
+Bed011.C.dialogueact545	1871.24	1876.56	C	Grad	s	+1	1	um , timing was um {disfmarker} I have these three .
+Bed011.C.dialogueact547	1879.74	1883.14	C	Grad	qy^d^rt	+1	1	Now , later on the same tour , sometimes on the next tour .
+Bed011.C.dialogueact612	1985.3	1988.28	C	Grad	s.%--	+1	1	Um , the reason why {disfmarker} why do we go there in the first place
+Bed011.C.dialogueact613	1988.85	1994.61	C	Grad	s	+1	1	IE uh {disfmarker} it 's either uh {disfmarker} for sightseeing , for meeting people , for running errands , or doing business .
+Bed011.C.dialogueact682	2123.15	2125.55	C	Grad	fh|s^rt	+1	1	Um , " mode " ,
+Bed011.C.dialogueact741	2226.18	2232.76	C	Grad	s^bk|s^rt	+1	1	OK , " Length " is um , you wanna get this over with as fast as possible ,
+Bed011.C.dialogueact780	2339.01	2343.68	C	Grad	s	+1	1	And , Timing , uh , uh , Length would definitely be part of it ,
+Bed011.C.dialogueact781	2344.12	2344.83	C	Grad	qh^rt	+1	1	" Costs " ,
+Bed011.C.dialogueact874	2546.89	2553.55	C	Grad	s	+1	1	And . if I care about it being open , accessible or not , I don't think there 's any middle ground there .
+Bed011.C.dialogueact871	2541.09	2542.28	C	Grad	s^rt^tc	+1	1	Um {disfmarker} " Object information " ,
+1	Bed011.s.25	The data collection that will provide relevant dialogues is moving along , with thirty subjects already lined up.
+Bed011.C.dialogueact133	573.04	578.133	C	Grad	qy^bu^d^rt	+1	2	And um {disfmarker} And Fey has some thirty subjects lined up ?
+3	Bed011.s.26	They will be given a reading task , which will include some german proper names , and a series of tasks from the tourist domain to choose from.
+Bed011.C.dialogueact88	455.023	460.733	C	Grad	s	+1	1	Then {disfmarker} then they will read uh {disfmarker} a task where lots of German words are sort of thrown in between .
+Bed011.C.dialogueact89	462.11	465.5	C	Grad	s	+1	1	And um {disfmarker} and they have to read isolated proper names
+Bed011.C.dialogueact99	475.454	489.87	C	Grad	s	+1	3	And um {disfmarker} And then they gonna have to f um um choose from one of these tasks , which are listed here .
+4	Bed011.s.27	In order to get directions , they will then communicate with a computer system and a human operator , using a sketchy map as an aid.
+Bed011.C.dialogueact103	501.79	504.92	C	Grad	h|s	+1	1	and um {disfmarker} and they have a map .
+Bed011.C.dialogueact106	507.56	509.26	C	Grad	s	+1	1	Very sketchy , simplified map .
+Bed011.C.dialogueact108	511.91	516.47	C	Grad	s^j	+1	1	And then they call this computer system that works perfectly , and understands everything .
+Bed011.C.dialogueact125	551.043	554.063	C	Grad	s	+1	1	And Fey comes on the phone as a human operator .
+1	Bed011.s.28	A different set of data are already available from the SmartKom system and similar sources.
+Bed011.C.dialogueact959	2780.57	2781.17	C	Grad	s	+1	1	Dialogues . SmartKom {disfmarker}
+1	Bed011.s.29	A preliminary study using this data has shown that a large number of syntactic and semantic constructions can be derived from a small sample.
+Bed011.B.dialogueact333	1336.06	1342.33	B	Grad	s	+1	1	and I looked at one of them which was about ten sentences , found fifteen , twenty different construction types that we would have to look for and so on

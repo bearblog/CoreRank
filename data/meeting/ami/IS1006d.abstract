@@ -1,0 +1,49 @@
+1	IS1006d.vkaraisk.s.1	This last meeting started with the presentation of a remote control prototype.
+IS1006d.A.dialog-act.s9553330.15	86.0	91.65	A	PM	sug	+1	1	Okay . So first , {vocalsound} let's uh see the prototype .
+7	IS1006d.vkaraisk.s.2	It has on-off and volume buttons , an LCD screen (it can be active or switched off) in various colours , which largely replaces the use of push buttons , and a jog-wheel for navigation and option selection in the menus presented on the LCD.
+IS1006d.C.dialog-act.s9553330.20	274.55	286.98	C	ID	inf	+1	1	And so , we have buttons and using L_C_D_ , or like you can use this {vocalsound} jog wheel and select which ever option on the L_C_D_ , and then do on and off . {vocalsound}
+IS1006d.C.dialog-act.s9553330.22	289.48	295.31	C	ID	inf	+1	1	So , you you can press these buttons to increase or decrease the volume .
+IS1006d.C.dialog-act.s9553330.45	390.22	396.93	C	ID	inf	+1	1	And you can choose colours on your day for each day , or even many colours .
+IS1006d.C.dialog-act.s9553330.46	400.92	401.74	C	ID	inf	+1	1	For the L_C_D_ .
+IS1006d.B.dialog-act.s9553330.77	840.85	844.47	B	UI	inf	+1	1	It's a jog dial for controlling the cursor on the L_C_D_ screen .
+IS1006d.A.dialog-act.s9553330.207	1272.51	1273.54	A	PM	inf	+1	1	The scroll-wheel , okay .
+IS1006d.C.dialog-act.s9553330.217	1279.45	1282.54	C	ID	inf	+1	1	One L_C_D_ displayed .
+3	IS1006d.vkaraisk.s.3	It also includes speech recognition as an alternative interface , which also serves as mechanism for locating the device.
+IS1006d.C.dialog-act.s9553330.24	306.3	309.03	C	ID	inf	+1	1	And we have speech recognition .
+IS1006d.C.dialog-act.s9553330.28	320.14	324.12	C	ID	inf	+1	1	And we want to do the location basically using speech recogniser .
+IS1006d.C.dialog-act.s9553330.194	1186.92	1192.688	C	ID	inf	+1	1	And then we have the t sample speaker sensor for speech recognition . {vocalsound}
+0	IS1006d.vkaraisk.s.4	It was designed to be powered by a single battery.
+5	IS1006d.vkaraisk.s.5	The casing will be made of titanium with rubber strawberries following the fruit and veg fashion.
+IS1006d.C.dialog-act.s9553330.38	358.48	361.79	C	ID	inf	+1	1	{vocalsound} Material , we want to stick to titanium .
+IS1006d.A.dialog-act.s9553330.55	428.13	430.395	A	PM	el.inf	+1	2	wh what are the strawberries for ? {vocalsound}
+IS1006d.C.dialog-act.s9553330.137	920.69	922.36	C	ID	inf	+1	1	The case is silver titanium , no ?
+IS1006d.C.dialog-act.s9553330.147	973.95	981.14	C	ID	sug	+1	1	So , maybe think we can have rubber or some sponges , stuff for strawberries and different colours .
+IS1006d.C.dialog-act.s9553330.204	1232.85	1233.52	C	ID	inf	+1	1	Titanium .
+21	IS1006d.vkaraisk.s.6	The prototype was evaluated on a scale of 1(excellent)-7(very bad) in terms of fancifulness , technology , robustness , usefulness , size , colour and shape and customizability: the average mark was 2.17; the team were satisfied with their prototype , although after costs were calculated it proved very expensive.
+IS1006d.A.dialog-act.s9553330.70	499.59	504.951	A	PM	sug	+1	1	let's see if uh th it's meet the evaluation criterium . {vocalsound}
+IS1006d.D.dialog-act.s9553330.69	563.1	568.1	D	ME	inf	+1	1	so what I propose is that we are going to to have this scale from one to seven .
+IS1006d.D.dialog-act.s9553330.70	568.1	575.03	D	ME	inf	+1	1	One meaning that , ye yes uh it fulfils uh the the criterion , whatever it is .
+IS1006d.D.dialog-act.s9553330.83	631.22	633.328	D	ME	el.ass	+1	1	what do you think , is it fancy ? {vocalsound}
+IS1006d.D.dialog-act.s9553330.101	668.73	671.48	D	ME	oth	+1	1	So here , two . Up .
+IS1006d.D.dialog-act.s9553330.102	671.48	673.32	D	ME	inf	+1	1	Then we have uh technology .
+IS1006d.D.dialog-act.s9553330.110	690.04	692.08	D	ME	ass	+1	1	d I think it's a one for that , at least .
+IS1006d.D.dialog-act.s9553330.112	695.01	696.63	D	ME	inf	+1	1	Robustness , uh-huh .
+IS1006d.A.dialog-act.s9553330.95	732.28	733.76	A	PM	ass	+1	1	It's um robust , yeah .
+IS1006d.D.dialog-act.s9553330.127	738.21	743.73	D	ME	el.ass	+1	1	Well , so the question is does it have uh the minimum requirement of re remote control ?
+IS1006d.D.dialog-act.s9553330.159	857.11	858.697	D	ME	inf	+1	1	Okay , two . {vocalsound}
+IS1006d.D.dialog-act.s9553330.160	859.416	862.27	D	ME	inf	+1	1	{vocalsound} So size and weight .
+IS1006d.D.dialog-act.s9553330.171	896.9	898.66	D	ME	inf	+1	1	Up to three for that ,
+IS1006d.D.dialog-act.s9553330.173	903.79	905.53	D	ME	inf	+1	1	Colour and shape .
+IS1006d.D.dialog-act.s9553330.191	1029.74	1032.12	D	ME	inf	+1	1	I suggested three .
+IS1006d.D.dialog-act.s9553330.196	1041.83	1044.16	D	ME	inf	+1	1	And uh the last one is adaptive .
+IS1006d.A.dialog-act.s9553330.160	1077.19	1079.168	A	PM	inf	+1	1	Okay . {vocalsound} Let's go for one . {vocalsound}
+IS1006d.D.dialog-act.s9553330.212	1082.18	1084.448	D	ME	inf	+1	1	Now we have to do the average . {vocalsound}
+IS1006d.D.dialog-act.s9553330.215	1093.26	1095.15	D	ME	inf	+1	1	Two point one seven .
+IS1006d.A.dialog-act.s9553330.166	1117.86	1123.03	A	PM	inf	+1	1	So now , it has to fulfil the {vocalsound} financial criterium ?
+IS1006d.D.dialog-act.s9553330.304	1361.63	1363.21	D	ME	inf	+1	2	So we are at seventeen dot eight .
+5	IS1006d.vkaraisk.s.7	Finally , the team evaluated the whole process: they deemed themselves a good team , they found there was plenty of room for creativity and they liked the project manager's leadership.
+IS1006d.D.dialog-act.s9553330.373	1613.44	1615.056	D	ME	ass	+1	1	Project evaluation , good . {vocalsound}
+IS1006d.A.dialog-act.s9553330.292	1625.38	1629.7	A	PM	el.ass	+1	1	Mm . See mm how {disfmarker} {vocalsound} Are we a good team ? Mm .
+IS1006d.A.dialog-act.s9553330.296	1639.56	1641.32	A	PM	el.ass	+1	1	Is there enough room for creativity ?
+IS1006d.B.dialog-act.s9553330.158	1642.03	1643.04	B	UI	ass	+1	1	Yeah , yeah .
+IS1006d.D.dialog-act.s9553330.382	1657.2	1659.18	D	ME	ass	+1	1	Team-work , very strong , I would say .

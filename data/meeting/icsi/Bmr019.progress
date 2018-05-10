@@ -1,0 +1,39 @@
+1	Bmr019.s.20	Good recognition performance was achieved with the lapel microphones.
+Bmr019.E.dialogueact90	121.753	127.063	E	Grad	s	+1	1	I mean that it was basically {disfmarker} the only thing that was even slightly surprising was that the lapel did so well .
+4	Bmr019.s.21	The recognizer performed well on time-aligned segments labelled as 'non-overlap' ( i.e . one person talking ) , while segments labelled as 'overlap' ( i.e . multiple speakers talking at the same time ) yielded poor results.
+Bmr019.A.dialogueact503	989.34	994.01	A	PhD	s	+1	1	In the H L T paper we took {pause} segments that are channel {disfmarker} time - aligned ,
+Bmr019.A.dialogueact506	998.296	1003.19	A	PhD	s:s	+1	1	and we took cases where the transcribers said there was only one person talking here ,
+Bmr019.A.dialogueact508	1007.37	1008.77	A	PhD	s:s	+1	1	and called that " non - overlap " .
+Bmr019.A.dialogueact514	1013.27	1017.04	A	PhD	s	+1	1	The bad numbers were from {pause} the segments where there was overlap .
+1	Bmr019.s.22	Future recognition efforts will include looking at reverberation.
+Bmr019.B.dialogueact613	1208.16	1219.72	B	Professor	s	+1	1	And then , um , uh , also Dave is {disfmarker} is thinking about using the data in different ways , uh , to {vocalsound} um , uh , explicitly work on reverberation
+1	Bmr019.s.23	Forced alignment improvements were gained by examining the types of errors generated and making the necessary adjustments.
+Bmr019.A.dialogueact667	1351.96	1365.35	A	PhD	s	+1	2	and {disfmarker} and {disfmarker} W we {disfmarker} we were able to get some definite improvement on the forced alignments by looking at them first and then realizing the kinds of errors {pause} that were occurring
+3	Bmr019.s.24	More accurate alignments were achieved by significantly increasing the pruning value.
+Bmr019.A.dialogueact686	1431.35	1434.07	A	PhD	s^ng.%--	+1	1	Actually it was better with {disfmarker} slightly better or about th
+Bmr019.F.dialogueact694	1445.01	1452.15	F	PhD	fg|s	+1	1	Um , but it turned out for {disfmarker} for {disfmarker} to get accurate alignments it was really important to open up the pruning significantly .
+Bmr019.F.dialogueact699	1461.22	1464.84	F	PhD	s	+1	1	Um , {vocalsound} so that was one big factor that helped improve things
+3	Bmr019.s.25	Future alignment efforts will include cloning the reject model , and adapting it to both the foreground and background speaker.
+Bmr019.F.dialogueact749	1599.43	1608.09	F	PhD	s	+1	1	And you {disfmarker} and what we wanted to try with {disfmarker} you know , once we have this paper written and have a little more time , {vocalsound} uh , t cloning that reject model
+Bmr019.F.dialogueact750	1608.09	1613.65	F	PhD	s	+1	1	and then one copy of it would be adapted to the foreground speaker to capture the rejects in the foreground ,
+Bmr019.F.dialogueact752	1614.72	1617.66	F	PhD	s	+1	1	and the other copy would be adapted to the background speaker .
+2	Bmr019.s.26	Members of the group will also compare Meeting Recorder data with other corpora ( e.g . Switchboard ) to determine whether speaker overlap is a feature that is more specific to meetings versus other modes of spoken interaction.
+Bmr019.A.dialogueact1063	2190.27	2198.56	A	PhD	s	+1	1	We were {disfmarker} I guess the other thing we 're {disfmarker} we 're {disfmarker} I should say is that we 're gonna , um try {disfmarker} compare this type of overlap analysis to Switchboard ,
+Bmr019.A.dialogueact1067	2200.3	2208.19	A	PhD	qrr	+1	1	where we have both sides , so that we can try to answer this question of , you know , {vocalsound} is there really more overlap in meetings or is it just because we don't have the other channel in Switchboard
+1	Bmr019.s.27	A cursory analysis of background speech revealed that backchannels frequently occurred after a question was asked.
+Bmr019.C.dialogueact992	2067.79	2079.62	C	Postdoc	s	+1	1	When I was looking at these backchannels , they were turning up usually {disfmarker} {vocalsound} very often in {disfmarker} w well , I won't say " usually " {disfmarker} but anyway , very often , I picked them up in a channel {vocalsound} w which was the person who had asked a question .
+2	Bmr019.s.28	Backchannels also featured a high proportion of 'yeahs' and a substantially fewer 'uh-huhs'.
+Bmr019.A.dialogueact1035	2135.44	2137.87	A	PhD	s^ng:s	+1	1	But there are fewer {disfmarker} I think there are fewer " uh - huhs " .
+Bmr019.A.dialogueact1044	2157.86	2159.22	A	PhD	s:s	+1	1	And " yeah " is way up there ,
+3	Bmr019.s.29	Several group members are preparing Eurospeech submissions.
+Bmr019.A.dialogueact1098	2253.14	2255.26	A	PhD	s	+1	1	and I figured {vocalsound} we 'll try ,
+Bmr019.B.dialogueact1484	2915.37	2920.2	B	Professor	s	+1	1	Uh , you {disfmarker} you and , uh {disfmarker} and Dan have {disfmarker} have a paper that {disfmarker} that 's going in .
+Bmr019.B.dialogueact1491	2925.78	2929.34	B	Professor	s	+1	1	And the Aurora folks here will {disfmarker} will definitely get something in on Aurora ,
+7	Bmr019.s.30	Speakers fe016 and mn017 are preparing a paper about the 'spurt' format , wherein spurts from individual channels---i.e . continuous speech regions delineated by pauses---will be extracted , merged with alignments from different channels , and time-aligned.
+Bmr019.A.dialogueact1099	2255.26	2261.63	A	PhD	s.%--	+1	1	because that 'll at least get us to the point where we have {disfmarker} We have this really nice database format that Andreas and I were working out that {disfmarker}
+Bmr019.F.dialogueact1103	2266.7	2268.88	F	PhD	s	+1	1	It 's the {disfmarker} it 's the spurt format .
+Bmr019.A.dialogueact1105	2270.96	2275.47	A	PhD	s^df	+1	1	I was trying to find what 's a word for {pause} a continuous region with {pause} pauses around it ?
+Bmr019.F.dialogueact1198	2411.43	2414.93	F	PhD	s	+1	1	And then we merge all the alignments from the various channels
+Bmr019.F.dialogueact1199	2414.93	2416.39	F	PhD	s	+1	1	and we sort them by time .
+Bmr019.F.dialogueact1211	2457.23	2462.6	F	PhD	s	+1	1	And so you extract the individual channels , uh , one sp spurt by spurt as it were .
+Bmr019.F.dialogueact1212	2463.17	2468.76	F	PhD	s	+1	1	Um , and inside the words or between the words you now have begin and end {pause} tags for overlaps .

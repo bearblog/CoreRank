@@ -1,0 +1,11 @@
+Group members reported on their work progress.
+The new features for the voiced/unvoiced recognition experiment only improved results marginally.
+The energy was included in the inputs , but not the spectral slope , which is also a voicedness factor.
+Alternative combinations of inputs will be implemented.
+A second ongoing task concerns the ascertainment of the complete set of dynamic acoustic events sufficient for phone or word recognition , at least in the TIMIT corpus.
+A test comparing recurrent neural nets with Support Vector Machines for detection of phonological features in MFCC's is also going to be run as part of a class project.
+SVM's work like a condensed "nearest neighbour" and are reputed to learn patterns with less training data.
+Another comparison project in progress is the one between PLP amd mel cepstrum for SRI; it is also proceeding with various checks being considered.
+It is generally accepted that PLP is more noise robust.
+A final report summarised how the mean subtraction method shrank the error rates for the digit recognition.
+This achievement suggests that the method should also be tried on better systems like SRI.

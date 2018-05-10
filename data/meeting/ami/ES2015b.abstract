@@ -1,0 +1,121 @@
+2	ES2015b.elana.s.1	The project manager opens the meeting , asking the industrial designer to present first.
+ES2015b.A.dialog-act.dharshi.5	60.3	64.34	A	PM	be.pos	+1	1	welcome back fro to the second meeting .
+ES2015b.A.dialog-act.dharshi.14	87.14	91.6	A	PM	inf	+1	1	the first presentation we'll be looking at is Poppy's presentation .
+14	ES2015b.elana.s.2	The industrial designer begins talking about the functional aspect of the working design and features to make the product unique , such as visibility in the dark , locator alarm , and environmentally-friendly materials.
+ES2015b.B.dialog-act.dharshi.19	137.28	142.45	B	ID	inf	+1	1	Um , so I was looking at how we're going to go about the working design ,
+ES2015b.B.dialog-act.dharshi.29	169.16	179.03	B	ID	inf	+1	1	Uh , on a functional side of things , we found out that wh from our previous meeting , we decided that there're certain points that will make our product unique .
+ES2015b.B.dialog-act.dharshi.30	179.03	183.18	B	ID	inf	+1	1	Um , one is the visibility in the dark ,
+ES2015b.B.dialog-act.dharshi.33	191.06	192.8	B	ID	sug	+1	1	And we could use illuminated buttons ,
+ES2015b.B.dialog-act.dharshi.37	201.98	203.87	B	ID	sug	+1	1	Or we could use fluorescent materials
+ES2015b.B.dialog-act.dharshi.39	210.27	214.35	B	ID	sug	+1	1	Um , also we could use um an alarm .
+ES2015b.B.dialog-act.dharshi.40	214.35	222.87	B	ID	inf	+1	1	So if we lost the um remote control , perhaps there could be a button on the television set itself , which you could press ,
+ES2015b.B.dialog-act.dharshi.47	234.09	242.08	B	ID	inf	+1	2	Um , another thing I think we d missed out on on the last meeting was the fact that we should consider the environmental impact of our design .
+ES2015b.B.dialog-act.dharshi.90	454.61	459.72	B	ID	inf	+1	1	Um also there is um components .
+ES2015b.B.dialog-act.dharshi.92	462.45	464.43	B	ID	inf	+1	1	But I haven't put this plan together yet .
+ES2015b.B.dialog-act.dharshi.96	468.89	471.86	B	ID	inf	+1	1	This would actually show the circuit diagram .
+ES2015b.B.dialog-act.dharshi.97	471.86	476.26	B	ID	inf	+1	1	Although I haven't come up with the final circuit yet .
+ES2015b.B.dialog-act.dharshi.100	483.82	485.63	B	ID	inf	+1	1	I it just shows what sort of energy source .
+ES2015b.B.dialog-act.dharshi.101	485.63	486.61	B	ID	inf	+1	1	It could be a battery ,
+7	ES2015b.elana.s.3	To make an environmental impact , they could use smart materials that can be heated and cooled so that the individual components easily separate to be reused or recycled.
+ES2015b.B.dialog-act.dharshi.47	234.09	242.08	B	ID	inf	+1	2	Um , another thing I think we d missed out on on the last meeting was the fact that we should consider the environmental impact of our design .
+ES2015b.B.dialog-act.dharshi.48	242.08	256.11	B	ID	inf	+1	1	Um , from previous researches I've carried out on other projects , um we've learnt about smart materials where um um specific alloys of metals have a shape memory .
+ES2015b.B.dialog-act.dharshi.49	256.11	263.82	B	ID	inf	+1	1	So they can be heated and um and cooled , and they change the shape of um the metal .
+ES2015b.B.dialog-act.dharshi.51	270.63	280.13	B	ID	inf	+1	1	So um , the benefits of this for our product would be that when it came to the end of its product life , if it was heated , um everything would spring apart .
+ES2015b.B.dialog-act.dharshi.52	280.13	287.44	B	ID	inf	+1	1	So , all the um individual components could be easily separated , and then some could be reused , some could be recycled ,
+ES2015b.B.dialog-act.dharshi.67	341.47	346.19	B	ID	inf	+1	1	I mean , the user would return the p product to the company ,
+ES2015b.B.dialog-act.dharshi.68	346.19	350.12	B	ID	inf	+1	1	'cause it's the product's responsibility to get rid of what they've made .
+14	ES2015b.elana.s.4	The group asks some questions about this idea and then the interface designer presents about technical functions , explaining the difference between a multifunctional and single function remote.
+ES2015b.A.dialog-act.dharshi.32	375.69	380.8	A	PM	el.inf	+1	1	Would we be the company that would break down these , or uh metals ?
+ES2015b.A.dialog-act.dharshi.37	400.46	408.87	A	PM	inf	+1	1	One thing we have to consider is our uh one hundred percent um turnover goal that we have for our financial sector .
+ES2015b.A.dialog-act.dharshi.38	408.87	414.71	A	PM	sug	+1	3	Um , so we'll have to investigate how much that will cost us , cost the company ,
+ES2015b.A.dialog-act.dharshi.56	511.47	515.16	A	PM	inf	+1	1	And , um , the next presenter will be Tara .
+ES2015b.C.dialog-act.dharshi.21	614.8	617.43	C	UI	inf	+1	1	There're two functional design options .
+ES2015b.C.dialog-act.dharshi.22	617.43	623.27	C	UI	inf	+1	1	A multifunctional remote control , which can be used for several entertainment devices .
+ES2015b.C.dialog-act.dharshi.23	623.27	629.831	C	UI	inf	+1	1	And a single function remote control , used specifically for the television . {vocalsound}
+ES2015b.C.dialog-act.dharshi.27	637.7	645.29	C	UI	inf	+1	1	Um , multifunctional controls can be difficult to use , as the multitude of buttons can be confusing .
+ES2015b.C.dialog-act.dharshi.28	646.68	655.03	C	UI	inf	+1	1	A single function remote control is simpler to use , but it means you have to have other remote controls for your other entertainment devices .
+ES2015b.C.dialog-act.dharshi.29	669.3	675.29	C	UI	ass	+1	1	Um , I think that a single function remote control would be preferable ,
+ES2015b.C.dialog-act.dharshi.32	677.96	684.11	C	UI	inf	+1	1	It'd be more compatible with a range of television sets , making it more internationally sellable .
+ES2015b.C.dialog-act.dharshi.35	693.72	697.72	C	UI	inf	+1	1	And it would be more profitable as it would be more simplistic .
+ES2015b.C.dialog-act.dharshi.37	697.72	699.93	C	UI	inf	+1	1	And less functions would have to be included .
+ES2015b.C.dialog-act.dharshi.38	701.28	703.73	C	UI	inf	+1	1	So it would be cheaper to make .
+6	ES2015b.elana.s.5	The group discusses the two types and decides that a single function design is more suitable for the budget.
+ES2015b.D.dialog-act.dharshi.13	717.712	725.26	D	ME	el.inf	+1	1	{vocalsound} So as far as we know , um , a single function television remote control is us usable internationally ?
+ES2015b.B.dialog-act.dharshi.114	755.44	763.43	B	ID	inf	+1	1	Um , {vocalsound} I was just wondering about the , what , what Genevieve said before , about having like some hidden controls like having the outer casing .
+ES2015b.B.dialog-act.dharshi.115	763.43	771.44	B	ID	inf	+1	1	And that would probably , um , I d , well well what you said before about it being a more profitable simplistic design .
+ES2015b.A.dialog-act.dharshi.63	749.78	754.99	A	PM	el.ass	+1	1	Does anyone object and , and find the multifunctional might be a better way to go ?
+ES2015b.D.dialog-act.dharshi.20	780.91	789.48	D	ME	inf	+1	2	because we're trying to do so much , that if we're trying to make a unique , user-friendly , dadada , and it's also multi also multifunctional , um , we're gonna go over budget for one thing .
+ES2015b.C.dialog-act.dharshi.50	792.19	798.21	C	UI	inf	+1	2	And with this we'll have more room in the budget probably to make a more original design .
+19	ES2015b.elana.s.6	The marketing expert presents on user requirements by using research done on remote control users.
+ES2015b.D.dialog-act.dharshi.34	850.52	855.48	D	ME	off	+1	1	Okay . So I'll be discussing the functional requirements of this remote control .
+ES2015b.D.dialog-act.dharshi.40	878.69	885.23	D	ME	inf	+1	1	Um , I've done some marketing research , a lot of interviews with remote control users , um , and some internet research .
+ES2015b.D.dialog-act.dharshi.43	889.48	892.33	D	ME	inf	+1	1	and firstly I wanted to remind you about our company motto and purpose .
+ES2015b.D.dialog-act.dharshi.44	892.33	895.81	D	ME	inf	+1	1	So we believe in providing international market with fashionable products .
+ES2015b.D.dialog-act.dharshi.45	895.81	898.97	D	ME	inf	+1	1	Um , hence our motto , we put the fashion in electronics .
+ES2015b.D.dialog-act.dharshi.47	901.64	907.27	D	ME	sug	+1	1	Um , and we should also be looking to trends in clothing and interior design . Not just in electronic fashion .
+ES2015b.D.dialog-act.dharshi.50	918.59	921.23	D	ME	inf	+1	1	Any trends that are going on in , in the public , even media ,
+ES2015b.D.dialog-act.dharshi.54	931.62	935.02	D	ME	inf	+1	1	Um , seventy five percent of users of remote controls find them ugly .
+ES2015b.D.dialog-act.dharshi.57	942.41	946.18	D	ME	inf	+1	1	Eighty percent of users would spend more money when a remote control would look fancy .
+ES2015b.D.dialog-act.dharshi.58	946.18	949.57	D	ME	inf	+1	1	Current remote controls do not match well the operating behaviour of the user .
+ES2015b.D.dialog-act.dharshi.62	970.22	973.42	D	ME	inf	+1	1	Um , seventy five percent of remote control users said that they zap a lot .
+ES2015b.D.dialog-act.dharshi.65	977.57	981.67	D	ME	inf	+1	1	Um , and fifty percent of users say they only use ten percent of the buttons .
+ES2015b.D.dialog-act.dharshi.69	1005.38	1011.82	D	ME	off	+1	1	And actually to go with that , I'm gonna give you some statistics on the uh relevancy of the buttons , how much they're used .
+ES2015b.D.dialog-act.dharshi.76	1029.95	1033.63	D	ME	inf	+1	1	Channel selection is used a hundred and sixty eight times on average per hour .
+ES2015b.D.dialog-act.dharshi.90	1067.29	1070.57	D	ME	inf	+1	1	Teletext , um , now I'm not too clear on what that is .
+ES2015b.D.dialog-act.dharshi.106	1119.9	1122.05	D	ME	inf	+1	1	Um , and has a r a high relevance of six point five .
+ES2015b.D.dialog-act.dharshi.117	1156.96	1158.39	D	ME	inf	+1	1	Remote controls are often lost somewhere .
+ES2015b.D.dialog-act.dharshi.123	1170.81	1173.77	D	ME	oth	+1	1	Um , remote controls are bad for R_S_I_ .
+ES2015b.D.dialog-act.dharshi.165	1341.83	1347.96	D	ME	inf	+1	1	Um an L_C_D_ screen though might be something that , you know , you can shift through pages kind of li the way this PowerPoint is working .
+13	ES2015b.elana.s.7	She summarizes these findings andexplains her personal preference for a user-friendly , unique design since certain features could be too complex.
+ES2015b.A.dialog-act.dharshi.82	986.64	991.09	A	PM	sug	+1	1	so it might be very appealing if , um , we have very concise buttons .
+ES2015b.A.dialog-act.dharshi.83	991.09	998.0	A	PM	sug	+1	1	And another thing with um lots of surfing , we'd probably have to work on something that could be um a lot more durable ,
+ES2015b.D.dialog-act.dharshi.107	1122.05	1126.38	D	ME	inf	+1	1	So it looks like something that we're gonna want to do some research on and include on our remote control .
+ES2015b.D.dialog-act.dharshi.131	1193.71	1197.44	D	ME	sug	+1	1	But we'll have to also avoid , you know , buttons responding to the slightest touch as well .
+ES2015b.D.dialog-act.dharshi.144	1236.62	1239.37	D	ME	sug	+1	1	So I guess we're gonna have to figure out what age group we're , we're targeting ,
+ES2015b.D.dialog-act.dharshi.145	1239.37	1242.26	D	ME	sug	+1	1	and if and if voice recognition is something we wanna look into .
+ES2015b.D.dialog-act.dharshi.185	1415.86	1418.86	D	ME	sug	+1	1	Um , I think our priority really should be unique design .
+ES2015b.D.dialog-act.dharshi.188	1422.34	1427.35	D	ME	sug	+1	1	so uh in my opinion it should be , um , user-friendly and unique .
+ES2015b.D.dialog-act.dharshi.190	1432.5	1436.07	D	ME	inf	+1	1	Um , I th myself , voice recognition kind of scares me off .
+ES2015b.D.dialog-act.dharshi.194	1443.38	1447.39	D	ME	sug	+1	1	I mean if we wanted to concentrate on fifteen to twenty five years olds , we could go for the fancy stuff .
+ES2015b.D.dialog-act.dharshi.195	1447.39	1451.69	D	ME	sug	+1	1	But if we wanna make fifty million , and and have everyone want this remote control , we should maybe
+ES2015b.D.dialog-act.dharshi.196	1453.04	1454.13	D	ME	sug	+1	1	stick to the basics .
+ES2015b.D.dialog-act.dharshi.201	1477.0	1481.79	D	ME	sug	+1	1	Um , so I I think , I think the older generations we should be catering to a bit more .
+7	ES2015b.elana.s.8	The project manager receives some decision-affecting information from management , which she shares with the group.
+ES2015b.A.dialog-act.dharshi.130	1508.07	1520.83	A	PM	inf	+1	1	Before we go into uh more discussion on {gap} we want this design to look like , I've received some information from the management that will affect some of our decisions .
+ES2015b.A.dialog-act.dharshi.131	1520.83	1540.74	A	PM	inf	+1	2	Um , for one thing , because {disfmarker} Having controls with D_V_D_ , V_C_R_ , that sort of thing , would really complicate the design of the remote control . Um , we've decided not to include them and make it a specific , just a specific television um function .
+ES2015b.A.dialog-act.dharshi.132	1540.74	1546.08	A	PM	ass	+1	1	Which is good as , as we've sort of decided that we would like to go with that anyway .
+ES2015b.A.dialog-act.dharshi.135	1550.98	1561.78	A	PM	inf	+1	2	Another thing that might um affect other decisions is that um the management feels that teletext is outdated , because more people are using the internet now .
+ES2015b.A.dialog-act.dharshi.150	1630.18	1637.87	A	PM	inf	+1	2	So , um , all the remote controls must have our um {disfmarker} We'll incorporate our logo and colour in in some way .
+ES2015b.A.dialog-act.dharshi.156	1662.97	1668.98	A	PM	inf	+1	1	but for the purposes of this meeting I , I wasn't offered a , like a type of logo or colour ,
+ES2015b.D.dialog-act.dharshi.213	1673.54	1676.006	D	ME	inf	+1	1	It's probably R_ R_R_ in yellow . {vocalsound}
+30	ES2015b.elana.s.9	They have a discussion about the remote control functions and close the meeting.
+ES2015b.A.dialog-act.dharshi.163	1686.66	1698.77	A	PM	sug	+1	1	Um , so , now we need to discuss , um and come to a decision on our remote control functions , of , of how this is going to be .
+ES2015b.D.dialog-act.dharshi.216	1720.22	1723.67	D	ME	el.inf	+1	1	Are we going to write off the L_C_D_ option ?
+ES2015b.C.dialog-act.dharshi.104	1733.35	1739.26	C	UI	inf	+1	1	I don't use teletext that much , but if it was on your T_V_ , you'd want to be able to use it ,
+ES2015b.A.dialog-act.dharshi.177	1761.63	1762.8	A	PM	inf	+1	1	It was a management decision ,
+ES2015b.A.dialog-act.dharshi.178	1762.8	1765.06	A	PM	inf	+1	1	so it's , it's pretty much out of our hands at this point .
+ES2015b.D.dialog-act.dharshi.222	1771.86	1775.85	D	ME	sug	+1	1	Um , well I guess , just from my findings it looks like we wanna minimise buttons .
+ES2015b.A.dialog-act.dharshi.182	1788.99	1792.89	A	PM	sug	+1	2	I think we should definitely go ahead with the alarm system idea that you had .
+ES2015b.C.dialog-act.dharshi.119	1809.92	1815.14	C	UI	el.inf	+1	1	Would you be able to , um , put the little device anywhere ?
+ES2015b.C.dialog-act.dharshi.126	1834.21	1837.53	C	UI	inf	+1	1	so it would need to be something that you could stick somewhere , or something .
+ES2015b.A.dialog-act.dharshi.195	1850.59	1856.76	A	PM	inf	+1	1	It would be able to use the same reception on the remote c control I guess , but the actual device would have to have its own infrared signaller .
+ES2015b.B.dialog-act.dharshi.236	1881.37	1884.6	B	ID	off	+1	2	So , mm , more research into that one .
+ES2015b.C.dialog-act.dharshi.130	1858.24	1859.88	C	UI	el.inf	+1	2	Would it need a battery then ?
+ES2015b.A.dialog-act.dharshi.210	1893.35	1899.3	A	PM	inf	+1	2	um , the glow-in-the-dark , fluorescent , whatever , system , um is a go ahead .
+ES2015b.D.dialog-act.dharshi.234	1914.66	1918.2	D	ME	sug	+1	1	Um right , if w if we're minimising buttons , we might be able to make them actually larger .
+ES2015b.A.dialog-act.dharshi.220	1968.3	1980.88	A	PM	sug	+1	2	We could , may , possibly , sorry , incorporate them both so that the buttons could maybe be in the shape of the numbers themselves and be made out of some glow-in-the-dark material .
+ES2015b.D.dialog-act.dharshi.241	1940.8	1944.62	D	ME	inf	+1	1	I just thought that {gap} it , it might be sucking more battery power , if there , if it is a light up .
+ES2015b.B.dialog-act.dharshi.246	1953.83	1958.91	B	ID	inf	+1	1	Um , so like big b um buttons , {gap} for people you are visually impaired .
+ES2015b.D.dialog-act.dharshi.247	1993.54	2000.48	D	ME	inf	+1	1	I guess the other option , referring to the battery thing is , you know how cellphones will t light up for fifteen seconds or something , when you're s and then it goes ,
+ES2015b.D.dialog-act.dharshi.256	2040.54	2046.8	D	ME	inf	+1	1	Um , if instead of a constant light up on the , on the remote control , if it lights up for ten seconds when it's touched again .
+ES2015b.A.dialog-act.dharshi.234	2061.03	2061.87	A	PM	ass	+1	1	That's probably feasible .
+ES2015b.A.dialog-act.dharshi.246	2093.64	2099.67	A	PM	el.ass	+1	1	Um , did we want to go for the glow-in-the-dark look ?
+ES2015b.A.dialog-act.dharshi.247	2099.67	2102.39	A	PM	el.ass	+1	1	Or did we want to go for the lighting up instantly ?
+ES2015b.A.dialog-act.dharshi.251	2104.49	2113.99	A	PM	inf	+1	1	Because it might , for , for our design purposes , I mean , the lighting up thing might be better because glow-in-the-dark material has a funny kinda colour .
+ES2015b.D.dialog-act.dharshi.270	2118.37	2120.49	D	ME	inf	+1	1	it might be perceived as tacky , glow-in-the-dark .
+ES2015b.D.dialog-act.dharshi.279	2183.86	2188.76	D	ME	sug	+1	1	Yeah well , I was just gonna throw out there the thought about um personalising the remote control .
+ES2015b.D.dialog-act.dharshi.281	2191.74	2196.38	D	ME	sug	+1	1	So I I dunno if there's something that diff , you know like five different face plates .
+ES2015b.C.dialog-act.dharshi.170	2213.99	2218.54	C	UI	ass	+1	1	and then that would be uh more profitable like as a sideline to the remote as well .
+ES2015b.D.dialog-act.dharshi.296	2220.02	2223.72	D	ME	sug	+1	3	You could start out with three , and if , if we hit it big then we can add some on .
+ES2015b.B.dialog-act.dharshi.304	2252.33	2255.98	B	ID	inf	+1	2	Um , the environmental factor , we didn't bring that up again .
+ES2015b.A.dialog-act.dharshi.287	2256.76	2258.67	A	PM	sug	+1	3	We'll have to do more research .

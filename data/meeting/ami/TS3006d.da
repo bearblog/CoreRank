@@ -1,0 +1,1772 @@
+TS3006d.A.dialog-act.dharshi.1	2.42	7.24	A	PM	off	+1	1	Okay . Uh first of all I'll start with the costs ,
+TS3006d.D.dialog-act.dharshi.1	3.356	4.074	D	ME	fra	-1	0	{gap} .
+TS3006d.A.dialog-act.dharshi.2	7.24	11.02	A	PM	inf	+1	1	because that's going to influence our design .
+TS3006d.B.dialog-act.dharshi.1	7.1	7.824	B	UI	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.2	8.72	9.29	B	UI	ass	-1	0	Oh no .
+TS3006d.D.dialog-act.dharshi.2	10.36	11.648	D	ME	ass	-1	0	Oh , {gap} . {vocalsound}
+TS3006d.A.dialog-act.dharshi.3	11.02	12.01	A	PM	stl	-1	0	If you {disfmarker}
+TS3006d.A.dialog-act.dharshi.4	12.01	14.32	A	PM	el.inf	-1	0	Don't know if you al already had a look or not ?
+TS3006d.B.dialog-act.dharshi.3	14.67	17.3	B	UI	inf	-1	0	No n I I already did it .
+TS3006d.C.dialog-act.dharshi.1	14.46	16.09	C	ID	el.inf	-1	0	Did you do your questionnaire already ?
+TS3006d.D.dialog-act.dharshi.3	15.04	15.58	D	ME	inf	-1	0	No .
+TS3006d.B.dialog-act.dharshi.4	17.3	18.06	B	UI	inf	-1	0	It's not much .
+TS3006d.B.dialog-act.dharshi.5	18.06	19.67	B	UI	inf	-1	0	It's just one question .
+TS3006d.A.dialog-act.dharshi.5	18.6	20.45	A	PM	inf	+1	2	Because we have a problem .
+TS3006d.C.dialog-act.dharshi.2	18.78	19.492	C	ID	fra	-1	0	Uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.4	18.95	19.09	D	ME	fra	-1	0	Oh .
+TS3006d.D.dialog-act.dharshi.5	20.636	21.488	D	ME	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.6	23.16	26.2	A	PM	inf	-1	0	If you look closely , you can see .
+TS3006d.B.dialog-act.dharshi.6	25.04	25.23	B	UI	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.3	25.96	27.178	C	ID	fra	-1	0	It wants {disfmarker}
+TS3006d.A.dialog-act.dharshi.9	29.85	35.76	A	PM	inf	-1	0	Um I already took the liberty to make some suggestions .
+TS3006d.A.dialog-act.dharshi.8	37.048	38.085	A	PM	fra	-1	0	{gap} .
+TS3006d.A.dialog-act.dharshi.7	39.42	41.296	A	PM	fra	-1	0	{gap} .
+TS3006d.A.dialog-act.dharshi.10	47.455	54.49	A	PM	inf	-1	0	{vocalsound} At the moment we have fifteen buttons , one L_C_D_ screen , one advanced chip-on-print .
+TS3006d.A.dialog-act.dharshi.11	54.49	58.58	A	PM	inf	-1	0	We use a uh sensor , that's for the speech .
+TS3006d.A.dialog-act.dharshi.12	58.58	60.89	A	PM	inf	-1	0	Uh we use kinetic energy .
+TS3006d.A.dialog-act.dharshi.13	63.1	67.11	A	PM	inf	-1	0	And we wanted uh the buttons in a special colour .
+TS3006d.A.dialog-act.dharshi.14	68.75	71.66	A	PM	el.sug	-1	0	Okay . What's the first thing we should drop ?
+TS3006d.A.dialog-act.dharshi.15	71.66	73.23	A	PM	sug	-1	0	The special colour of the buttons ?
+TS3006d.B.dialog-act.dharshi.7	74.89	78.684	B	UI	ass	-1	0	No that's that's for the trendy uh feel and look . So {disfmarker}
+TS3006d.A.dialog-act.dharshi.16	77.31	77.82	A	PM	ass	-1	0	Okay .
+TS3006d.A.dialog-act.dharshi.17	79.09	80.002	A	PM	stl	-1	0	Uh {disfmarker}
+TS3006d.C.dialog-act.dharshi.4	78.89	80.65	C	ID	ass	-1	0	Yeah but everything is .
+TS3006d.A.dialog-act.dharshi.18	80.82	84.91	A	PM	sug	-1	0	Should we switch to a hand dynamo ?
+TS3006d.B.dialog-act.dharshi.8	83.67	84.974	B	UI	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.19	84.91	89.71	A	PM	inf	-1	0	Uh that's the still the same idea as the kinetic energy because you have to use it and do things .
+TS3006d.D.dialog-act.dharshi.6	85.06	85.44	D	ME	ass	-1	0	No .
+TS3006d.B.dialog-act.dharshi.9	88.54	90.192	B	UI	fra	-1	0	Yeah , b but {disfmarker}
+TS3006d.D.dialog-act.dharshi.7	89.28	90.86	D	ME	ass	-1	0	Yeah but young people like that .
+TS3006d.A.dialog-act.dharshi.20	91.34	91.99	A	PM	sug	-1	0	Batteries ?
+TS3006d.D.dialog-act.dharshi.8	90.86	92.64	D	ME	sug	-1	0	So just do normal battery .
+TS3006d.A.dialog-act.dharshi.21	92.86	93.65	A	PM	ass	-1	0	Batteries .
+TS3006d.B.dialog-act.dharshi.10	92.95	94.23	B	UI	ass	-1	0	I think the battery option .
+TS3006d.C.dialog-act.dharshi.5	93.07	94.74	C	ID	ass	-1	0	Just a normal battery then , yeah .
+TS3006d.D.dialog-act.dharshi.9	94.52	94.91	D	ME	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.22	97.66	98.43	A	PM	fra	-1	0	{gap} .
+TS3006d.D.dialog-act.dharshi.10	100.01	102.16	D	ME	el.inf	+1	2	It has to be twelve and a half .
+TS3006d.A.dialog-act.dharshi.23	101.89	102.25	A	PM	inf	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.11	102.16	104.092	D	ME	el.inf	-1	0	Or not ? {vocalsound}
+TS3006d.B.dialog-act.dharshi.11	103.05	103.714	B	UI	oth	-1	0	Oh . {vocalsound}
+TS3006d.A.dialog-act.dharshi.24	104.09	104.933	A	PM	stl	-1	0	So {disfmarker}
+TS3006d.C.dialog-act.dharshi.6	103.7	104.89	C	ID	oth	-1	0	Oh my goodness .
+TS3006d.A.dialog-act.dharshi.25	105.99	108.8	A	PM	sug	+1	2	You're going to redesign something .
+TS3006d.D.dialog-act.dharshi.12	106.032	110.22	D	ME	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.12	107.56	108.24	B	UI	ass	-1	0	Oh no .
+TS3006d.A.dialog-act.dharshi.26	108.8	113.87	A	PM	inf	+1	2	Okay , so we're at twenty five .
+TS3006d.D.dialog-act.dharshi.13	112.68	113.825	D	ME	bck	-1	0	Uh , yeah . {vocalsound}
+TS3006d.A.dialog-act.dharshi.27	113.87	114.598	A	PM	stl	-1	0	{vocalsound} Um {disfmarker}
+TS3006d.A.dialog-act.dharshi.29	115.58	119.23	A	PM	el.sug	+1	1	Do we keep the shape doubly curved or g do we go for single curved ?
+TS3006d.C.dialog-act.dharshi.7	120.5	123.79	C	ID	sug	+1	1	Well I guess i we'll have to go for single curve then .
+TS3006d.C.dialog-act.dharshi.8	123.79	125.54	C	ID	sug	+1	1	I mean we have to drop on everything .
+TS3006d.A.dialog-act.dharshi.28	125.99	127.66	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.A.dialog-act.dharshi.30	127.66	128.54	A	PM	stl	-1	0	{vocalsound} Uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.14	127.52	137.34	D	ME	sug	-1	0	But we can keep it single curved with uh top view still curved , but from the side it's it's flat ,
+TS3006d.C.dialog-act.dharshi.9	137.4	137.86	C	ID	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.15	137.34	139.62	D	ME	stl	-1	0	and the screen screen is just {disfmarker}
+TS3006d.D.dialog-act.dharshi.16	139.62	142.442	D	ME	inf	-1	0	Well you just have to hold it like this then . So {disfmarker}
+TS3006d.A.dialog-act.dharshi.31	142.085	143.53	A	PM	ass	-1	0	{vocalsound} Yeah .
+TS3006d.A.dialog-act.dharshi.32	143.53	145.5	A	PM	stl	-1	0	Um {disfmarker}
+TS3006d.C.dialog-act.dharshi.10	143.47	144.5	C	ID	fra	-1	0	How about {disfmarker}
+TS3006d.C.dialog-act.dharshi.11	144.5	145.0	C	ID	be.pos	-1	0	Sorry .
+TS3006d.A.dialog-act.dharshi.33	145.5	156.43	A	PM	sug	+1	2	Uh another option I saw was to drop the buttons one through nine , so you can't directly access a channel , but instead use only the up and down arrows .
+TS3006d.A.dialog-act.dharshi.34	156.43	159.95	A	PM	inf	-1	0	That would skip nine buttons and four and a half Euros .
+TS3006d.C.dialog-act.dharshi.12	156.17	157.19	C	ID	ass	-1	0	That's what I was thinking .
+TS3006d.B.dialog-act.dharshi.13	157.11	157.54	B	UI	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.17	160.16	161.33	D	ME	ass	-1	0	Alright .
+TS3006d.A.dialog-act.dharshi.35	161.27	161.66	A	PM	el.ass	-1	0	Yeah ?
+TS3006d.C.dialog-act.dharshi.13	161.43	161.66	C	ID	fra	-1	0	A a
+TS3006d.D.dialog-act.dharshi.18	161.33	163.37	D	ME	sug	-1	0	Let's do it then . Yeah .
+TS3006d.A.dialog-act.dharshi.36	163.05	164.562	A	PM	fra	-1	0	Uh then we have left {disfmarker}
+TS3006d.B.dialog-act.dharshi.14	163.6	166.42	B	UI	ass	+1	2	But we don't have any basic options any more .
+TS3006d.D.dialog-act.dharshi.19	163.37	164.019	D	ME	fra	-1	0	{gap} we {disfmarker}
+TS3006d.D.dialog-act.dharshi.20	165.738	166.558	D	ME	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.37	166.63	167.83	A	PM	ass	-1	0	Uh yeah . We do .
+TS3006d.C.dialog-act.dharshi.14	168.06	172.64	C	ID	inf	-1	0	And uh 'cause then they don't have to n They don't need special colour as well .
+TS3006d.D.dialog-act.dharshi.21	168.42	169.02	D	ME	inf	-1	0	F_ eight .
+TS3006d.A.dialog-act.dharshi.38	172.5	173.85	A	PM	ass	+1	1	They don't need special colours .
+TS3006d.A.dialog-act.dharshi.39	173.85	179.02	A	PM	ass	-1	0	Fine . That's more like it .
+TS3006d.D.dialog-act.dharshi.22	176.236	177.18	D	ME	bck	-1	0	{vocalsound} Yeah .
+TS3006d.B.dialog-act.dharshi.15	176.873	177.943	B	UI	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.40	179.02	180.57	A	PM	el.sug	-1	0	{vocalsound} You were saying something .
+TS3006d.C.dialog-act.dharshi.15	180.52	185.33	C	ID	inf	+1	1	That was exactly my point . Like let's drop all the buttons , and just make one
+TS3006d.A.dialog-act.dharshi.41	182.21	182.66	A	PM	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.16	185.33	190.87	C	ID	ass	+1	2	{disfmarker} I mean we're gonna use the L_C_D_ screen anyway . So we'll just have to use it for everything .
+TS3006d.A.dialog-act.dharshi.42	188.09	188.56	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.A.dialog-act.dharshi.43	190.71	191.08	A	PM	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.17	190.87	195.677	C	ID	inf	-1	0	And then you can make an overview of channels in the screen , and select a channel , click {disfmarker}
+TS3006d.A.dialog-act.dharshi.44	194.73	197.13	A	PM	ass	-1	0	Yeah , some more menu options . Yeah .
+TS3006d.A.dialog-act.dharshi.45	197.13	199.35	A	PM	sug	-1	0	Okay so maybe we can drop few more buttons .
+TS3006d.C.dialog-act.dharshi.18	196.915	197.517	C	ID	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.46	199.35	201.09	A	PM	stl	-1	0	But um {disfmarker}
+TS3006d.A.dialog-act.dharshi.47	201.09	202.2	A	PM	oth	-1	0	Now let's look .
+TS3006d.B.dialog-act.dharshi.16	201.92	203.17	B	UI	ass	-1	0	Yeah we c could {disfmarker}
+TS3006d.B.dialog-act.dharshi.17	203.17	207.96	B	UI	ass	-1	0	We only need the the the the the menu arrow arrow button uh thing .
+TS3006d.B.dialog-act.dharshi.18	207.96	211.77	B	UI	ass	-1	0	Everything you can do with with the menu . So {disfmarker} With the display .
+TS3006d.C.dialog-act.dharshi.19	207.827	208.239	C	ID	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.48	210.32	210.74	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.C.dialog-act.dharshi.20	211.13	211.32	C	ID	ass	-1	0	Yeah
+TS3006d.C.dialog-act.dharshi.21	211.32	213.97	C	ID	sug	+1	2	we need one integrated button for everything then .
+TS3006d.B.dialog-act.dharshi.19	213.71	214.0	B	UI	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.23	214.87	215.56	D	ME	sug	-1	0	The joystick .
+TS3006d.A.dialog-act.dharshi.49	215.774	218.401	A	PM	stl	-1	0	{vocalsound} Uh {disfmarker}
+TS3006d.C.dialog-act.dharshi.22	215.81	216.96	C	ID	ass	-1	0	Yeah . Kind of .
+TS3006d.C.dialog-act.dharshi.23	216.96	218.331	C	ID	fra	-1	0	I was {disfmarker} Because {disfmarker}
+TS3006d.D.dialog-act.dharshi.24	217.975	218.744	D	ME	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.50	219.63	222.229	A	PM	inf	-1	0	Yeah , scroll-wheel , push-button uh {disfmarker}
+TS3006d.C.dialog-act.dharshi.24	219.27	219.64	C	ID	stl	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.25	222.4	224.28	C	ID	stl	-1	0	If you if you go to {disfmarker}
+TS3006d.D.dialog-act.dharshi.25	222.39	224.89	D	ME	ass	+1	2	Integrated scroll-wheel push-button , yeah .
+TS3006d.C.dialog-act.dharshi.26	224.28	226.83	C	ID	inf	-1	0	If you go to our uh view ,
+TS3006d.C.dialog-act.dharshi.27	226.83	231.98	C	ID	inf	-1	0	like you {disfmarker} if you are in the sound system there , uh and you wanna adjust the treble for instance ,
+TS3006d.A.dialog-act.dharshi.55	229.69	230.08	A	PM	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.54	231.83	232.14	A	PM	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.28	231.98	234.2	C	ID	inf	-1	0	this is just uh an example ,
+TS3006d.A.dialog-act.dharshi.53	233.85	234.26	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.C.dialog-act.dharshi.29	234.2	238.65	C	ID	inf	-1	0	y y you wanna see a bar on which you can adjust it from zero to ten for example .
+TS3006d.A.dialog-act.dharshi.52	237.14	237.56	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.A.dialog-act.dharshi.51	238.6	238.91	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.C.dialog-act.dharshi.30	239.04	242.93	C	ID	inf	-1	0	But you want a sound preview of how it's gonna sound ,
+TS3006d.A.dialog-act.dharshi.56	243.32	243.83	A	PM	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.31	242.93	243.17	C	ID	el.ass	-1	0	right ?
+TS3006d.C.dialog-act.dharshi.32	243.17	251.26	C	ID	inf	-1	0	So you wanna click on it , activate it , whe and when you move it , hear the difference of the treble coming out or going into the sound .
+TS3006d.A.dialog-act.dharshi.57	249.38	249.7	A	PM	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.33	251.26	255.79	C	ID	sug	-1	0	So you'll you'll need a a kind of a joystick uh button .
+TS3006d.D.dialog-act.dharshi.26	254.38	254.62	D	ME	ass	-1	0	Yeah
+TS3006d.D.dialog-act.dharshi.27	254.62	257.55	D	ME	sug	-1	0	or or the integrated scroll-wheel push-button .
+TS3006d.C.dialog-act.dharshi.34	257.4	257.75	C	ID	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.28	257.55	259.09	D	ME	inf	-1	0	So that's kind of on your mouse
+TS3006d.D.dialog-act.dharshi.29	259.09	262.53	D	ME	inf	-1	0	and then you can click it , adjust it , click again and then you're out of it .
+TS3006d.C.dialog-act.dharshi.35	262.56	263.25	C	ID	ass	-1	0	Exactly .
+TS3006d.D.dialog-act.dharshi.30	262.53	263.67	D	ME	stl	-1	0	But you still {disfmarker}
+TS3006d.D.dialog-act.dharshi.31	263.67	265.548	D	ME	stl	-1	0	But you then still need to have {disfmarker}
+TS3006d.D.dialog-act.dharshi.32	266.81	272.14	D	ME	inf	-1	0	Well you can use the scroll-wheel as well for um maybe for the channels .
+TS3006d.D.dialog-act.dharshi.33	272.14	273.532	D	ME	stl	-1	0	But you still um {disfmarker}
+TS3006d.C.dialog-act.dharshi.36	273.94	274.73	C	ID	ass	-1	0	Yeah it's r Yeah .
+TS3006d.D.dialog-act.dharshi.34	275.12	279.09	D	ME	sug	-1	0	You still have to have some some button in the menu to go back .
+TS3006d.B.dialog-act.dharshi.20	277.45	278.99	B	UI	stl	-1	0	So you do one inte
+TS3006d.B.dialog-act.dharshi.21	278.99	282.57	B	UI	sug	-1	0	You can do one integrated scroll-wheel push-button .
+TS3006d.D.dialog-act.dharshi.35	282.02	282.42	D	ME	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.22	282.57	284.7	B	UI	sug	-1	0	And then just drop all the other buttons .
+TS3006d.A.dialog-act.dharshi.58	285.06	285.79	A	PM	ass	-1	0	Uh yeah .
+TS3006d.D.dialog-act.dharshi.36	285.58	286.42	D	ME	ass	-1	0	Well not all .
+TS3006d.B.dialog-act.dharshi.23	286.48	294.86	B	UI	inf	+1	2	But but th the cost of one integrated button is far more than a few extra push-buttons .
+TS3006d.D.dialog-act.dharshi.37	286.42	288.23	D	ME	ass	-1	0	Not s not sound I guess .
+TS3006d.C.dialog-act.dharshi.37	288.797	290.0	C	ID	oth	-1	0	{vocalsound} No .
+TS3006d.A.dialog-act.dharshi.59	294.89	295.67	A	PM	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.60	295.67	296.41	A	PM	stl	-1	0	It's uh {disfmarker}
+TS3006d.A.dialog-act.dharshi.61	296.41	300.22	A	PM	inf	-1	0	One integrated button is five times the cost of a normal button .
+TS3006d.D.dialog-act.dharshi.38	298.726	299.099	D	ME	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.24	299.5	300.82	B	UI	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.39	300.18	300.55	D	ME	bck	-1	0	Mm .
+TS3006d.A.dialog-act.dharshi.62	301.03	301.633	A	PM	stl	-1	0	So {disfmarker}
+TS3006d.B.dialog-act.dharshi.25	300.82	304.54	B	UI	fra	-1	0	So we have to to make it s uh more uh {disfmarker} It has to be {disfmarker}
+TS3006d.A.dialog-act.dharshi.63	303.12	309.25	A	PM	sug	-1	0	You could also drop j three more of these , without losing much functionality .
+TS3006d.A.dialog-act.dharshi.64	309.25	310.79	A	PM	sug	-1	0	You just drop the Okay and the Back .
+TS3006d.D.dialog-act.dharshi.40	308.84	309.28	D	ME	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.41	309.28	310.93	D	ME	stl	-1	0	Wh wh what what what is the
+TS3006d.D.dialog-act.dharshi.42	310.93	313.91	D	ME	el.inf	-1	0	what is the uh sample sensor sample speaker ?
+TS3006d.A.dialog-act.dharshi.65	313.32	314.31	A	PM	inf	-1	0	Oh , that's for the speech .
+TS3006d.D.dialog-act.dharshi.43	315.07	316.11	D	ME	el.inf	-1	0	Speech recognition .
+TS3006d.A.dialog-act.dharshi.66	315.95	316.26	A	PM	inf	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.26	316.99	319.105	B	UI	sug	+1	2	Could drop the speech recognition . {vocalsound}
+TS3006d.D.dialog-act.dharshi.44	317.13	317.67	D	ME	bck	-1	0	Right .
+TS3006d.A.dialog-act.dharshi.67	318.03	319.7	A	PM	el.ass	-1	0	S s Drop speech recognition ?
+TS3006d.C.dialog-act.dharshi.38	318.122	318.797	C	ID	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.39	319.86	320.348	C	ID	fra	-1	0	No but {disfmarker}
+TS3006d.A.dialog-act.dharshi.68	321.6	323.483	A	PM	ass	-1	0	Yeah that's possible . {vocalsound}
+TS3006d.B.dialog-act.dharshi.27	321.88	322.47	B	UI	fra	-1	0	We we d
+TS3006d.C.dialog-act.dharshi.40	322.46	327.91	C	ID	ass	-1	0	Yeah it's it's expensive , but uh we never considered the possibilities of uh speech recognition .
+TS3006d.C.dialog-act.dharshi.41	327.91	332.14	C	ID	inf	-1	0	'Cause it can take the function of a lot of uh uh buttons .
+TS3006d.A.dialog-act.dharshi.69	330.77	332.12	A	PM	inf	-1	0	Buttons .
+TS3006d.D.dialog-act.dharshi.45	331.48	332.11	D	ME	bck	-1	0	Buttons .
+TS3006d.A.dialog-act.dharshi.70	332.12	333.92	A	PM	ass	-1	0	That's not very easy to use .
+TS3006d.B.dialog-act.dharshi.28	332.2	332.46	B	UI	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.42	332.64	332.72	C	ID	fra	-1	0	I
+TS3006d.D.dialog-act.dharshi.46	333.96	336.81	D	ME	bck	-1	0	No , it can be disturbed by by noise and
+TS3006d.C.dialog-act.dharshi.43	334.77	335.2	C	ID	bck	-1	0	No .
+TS3006d.A.dialog-act.dharshi.71	338.455	339.014	A	PM	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.44	338.02	341.46	C	ID	ass	-1	0	Yeah but lets just say that the speech recognition works .
+TS3006d.D.dialog-act.dharshi.47	338.15	339.38	D	ME	ass	-1	0	stuff like that .
+TS3006d.D.dialog-act.dharshi.48	339.38	341.91	D	ME	off	-1	0	Let let let me see what's more what's more popular .
+TS3006d.D.dialog-act.dharshi.49	341.91	349.04	D	ME	inf	-1	0	I guess the the screen was more popular than um than the speech recognition .
+TS3006d.B.dialog-act.dharshi.29	348.74	349.23	B	UI	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.50	349.04	350.82	D	ME	off	-1	0	I have to look on that . Let me see .
+TS3006d.D.dialog-act.dharshi.51	353.292	353.788	D	ME	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.52	355.85	357.98	D	ME	ass	-1	0	Uh well no I was wrong .
+TS3006d.A.dialog-act.dharshi.72	357.033	358.237	A	PM	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.53	357.98	363.37	D	ME	inf	+1	2	There are more people who like speech recognition than an L_C_D_ screen .
+TS3006d.A.dialog-act.dharshi.73	362.21	362.44	A	PM	bck	-1	0	Yep .
+TS3006d.A.dialog-act.dharshi.74	363.54	363.92	A	PM	ass	-1	0	Okay .
+TS3006d.A.dialog-act.dharshi.75	363.92	370.19	A	PM	ass	-1	0	Because if you d lose the L_C_D_ screen , we {vocalsound} need a lot of {disfmarker}
+TS3006d.D.dialog-act.dharshi.54	364.79	365.587	D	ME	fra	-1	0	But if it {disfmarker}
+TS3006d.D.dialog-act.dharshi.56	366.667	369.29	D	ME	fra	-1	0	{vocalsound} But it it {disfmarker} it's a it's a both a hypers
+TS3006d.B.dialog-act.dharshi.30	368.52	370.06	B	UI	ass	-1	0	We lose our whole concept .
+TS3006d.A.dialog-act.dharshi.76	370.19	371.07	A	PM	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.31	370.06	372.42	B	UI	stl	-1	0	Uh so {disfmarker} No we just {disfmarker}
+TS3006d.A.dialog-act.dharshi.77	371.07	372.52	A	PM	ass	-1	0	We need a lot of extra buttons .
+TS3006d.D.dialog-act.dharshi.57	371.4	372.51	D	ME	fra	-1	0	No , but {disfmarker}
+TS3006d.B.dialog-act.dharshi.32	372.42	373.39	B	UI	sug	-1	0	We keep the L_C_D_ .
+TS3006d.D.dialog-act.dharshi.58	372.51	374.37	D	ME	ass	-1	0	Well we Yeah we keep the screen .
+TS3006d.D.dialog-act.dharshi.59	374.37	379.94	D	ME	inf	-1	0	I mean it's it's about the same . Eight one to ninety one percent , uh sixty six to seventy six .
+TS3006d.A.dialog-act.dharshi.78	378.25	378.64	A	PM	ass	-1	0	Okay
+TS3006d.C.dialog-act.dharshi.45	378.1	382.96	C	ID	inf	-1	0	We uh we we haven't really integrated this {disfmarker} the speech into the system ,
+TS3006d.A.dialog-act.dharshi.79	378.64	379.88	A	PM	sug	-1	0	so we drop the speech .
+TS3006d.C.dialog-act.dharshi.46	382.96	386.09	C	ID	sug	-1	0	so we can might as well s drop that . {gap}
+TS3006d.A.dialog-act.dharshi.80	384.52	386.12	A	PM	el.ass	-1	0	And drop it yeah ?
+TS3006d.B.dialog-act.dharshi.34	385.43	385.77	B	UI	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.60	385.4	386.97	D	ME	ass	+1	2	Yeah . Let's drop the speech .
+TS3006d.A.dialog-act.dharshi.81	386.12	386.49	A	PM	ass	-1	0	Okay .
+TS3006d.A.dialog-act.dharshi.82	386.49	389.72	A	PM	inf	-1	0	S Fo Four less Euros .
+TS3006d.A.dialog-act.dharshi.83	389.72	392.49	A	PM	inf	-1	0	So we still have three and a half Euro to lose .
+TS3006d.B.dialog-act.dharshi.33	389.808	390.392	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.61	389.37	390.39	D	ME	inf	-1	0	Sixteen Euros .
+TS3006d.C.dialog-act.dharshi.47	392.935	394.72	C	ID	sug	-1	0	{vocalsound} We need to lose some buttons .
+TS3006d.D.dialog-act.dharshi.62	393.47	393.97	D	ME	fra	-1	0	But y y
+TS3006d.A.dialog-act.dharshi.84	394.69	395.0	A	PM	ass	-1	0	Yeah
+TS3006d.A.dialog-act.dharshi.85	395.0	403.3	A	PM	sug	+1	1	if you lose the the Back , the Okay button {disfmarker} Uh v let's say we only have the four arrows , and the Menu button .
+TS3006d.D.dialog-act.dharshi.63	402.19	402.55	D	ME	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.64	403.73	404.97	D	ME	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.86	404.83	405.649	A	PM	fra	-1	0	Then you're {disfmarker}
+TS3006d.D.dialog-act.dharshi.65	404.97	407.228	D	ME	fra	-1	0	And then and then use um {disfmarker}
+TS3006d.A.dialog-act.dharshi.87	406.586	408.63	A	PM	inf	-1	0	{vocalsound} Oh and the power button we have also .
+TS3006d.D.dialog-act.dharshi.66	409.04	409.38	D	ME	fra	-1	0	The the {disfmarker}
+TS3006d.D.dialog-act.dharshi.68	409.38	409.71	D	ME	ass	-1	0	Okay .
+TS3006d.D.dialog-act.dharshi.69	409.71	413.72	D	ME	sug	-1	0	And the menu button does also does the okay function then .
+TS3006d.A.dialog-act.dharshi.88	413.37	413.78	A	PM	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.70	413.72	415.984	D	ME	fra	-1	0	And then when you in the menu {disfmarker}
+TS3006d.A.dialog-act.dharshi.89	416.92	418.15	A	PM	inf	-1	0	So that's one Euro .
+TS3006d.D.dialog-act.dharshi.71	417.4	419.47	D	ME	fra	-1	0	S so so you activate the menu .
+TS3006d.B.dialog-act.dharshi.35	419.97	426.87	B	UI	sug	-1	0	If we do uh two integrated scroll-wheel push-buttons , we can drop all the the push-buttons .
+TS3006d.A.dialog-act.dharshi.90	423.776	424.44	A	PM	bck	-1	0	{vocalsound} Yeah .
+TS3006d.A.dialog-act.dharshi.91	427.03	427.55	A	PM	ass	-1	0	Yeah ?
+TS3006d.A.dialog-act.dharshi.92	427.55	428.292	A	PM	fra	-1	0	And {gap} {disfmarker}
+TS3006d.B.dialog-act.dharshi.36	427.51	431.93	B	UI	sug	+1	2	With with one uh integrated button we can uh do the whole menu thing .
+TS3006d.B.dialog-act.dharshi.37	431.93	435.0	B	UI	sug	-1	0	With the other , we can do the the channel , the volume , et cetera .
+TS3006d.D.dialog-act.dharshi.72	431.62	432.753	D	ME	ass	-1	0	Yeah yeah . {vocalsound}
+TS3006d.D.dialog-act.dharshi.73	435.14	436.61	D	ME	ass	-1	0	Yeah . {gap} .
+TS3006d.A.dialog-act.dharshi.93	436.17	440.89	A	PM	inf	-1	0	That would save zero point two Euros compared to {disfmarker}
+TS3006d.A.dialog-act.dharshi.94	440.89	441.23	A	PM	ass	-1	0	No .
+TS3006d.B.dialog-act.dharshi.38	441.4	443.09	B	UI	ass	-1	0	No it's three Euros .
+TS3006d.B.dialog-act.dharshi.39	443.09	443.836	B	UI	el.inf	-1	0	No ? Um {disfmarker}
+TS3006d.A.dialog-act.dharshi.95	445.34	445.59	A	PM	inf	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.96	445.59	451.45	A	PM	inf	-1	0	To This together is more expensive than {disfmarker} Oof , it's almost the same as t keeping this .
+TS3006d.B.dialog-act.dharshi.40	445.56	447.16	B	UI	ass	-1	0	No it's it's n Yeah .
+TS3006d.B.dialog-act.dharshi.41	447.94	449.826	B	UI	ass	-1	0	Yeah yeah yeah . {vocalsound}
+TS3006d.A.dialog-act.dharshi.97	451.45	453.2	A	PM	sug	-1	0	And we can drop these two .
+TS3006d.D.dialog-act.dharshi.74	451.09	451.8	D	ME	ass	-1	0	Well okay .
+TS3006d.B.dialog-act.dharshi.42	451.88	452.556	B	UI	fra	-1	0	It's the {disfmarker}
+TS3006d.D.dialog-act.dharshi.75	451.8	458.09	D	ME	inf	-1	0	For example if you have f f four buttons , {vocalsound} channel up and down , uh volume left right {disfmarker}
+TS3006d.A.dialog-act.dharshi.98	457.09	457.6	A	PM	bck	-1	0	Volume .
+TS3006d.D.dialog-act.dharshi.76	458.09	460.57	D	ME	sug	-1	0	Okay , I've {disfmarker} I think we have to keep that .
+TS3006d.A.dialog-act.dharshi.99	460.22	461.32	A	PM	inf	-1	0	And the power button .
+TS3006d.D.dialog-act.dharshi.77	460.57	461.55	D	ME	stl	-1	0	And then {disfmarker}
+TS3006d.D.dialog-act.dharshi.78	461.55	463.03	D	ME	ass	-1	0	and the power button . So that's five .
+TS3006d.A.dialog-act.dharshi.100	464.16	465.34	A	PM	inf	-1	0	That's the basic .
+TS3006d.D.dialog-act.dharshi.79	465.01	468.02	D	ME	inf	-1	0	That's basic . That that's what you need anyway .
+TS3006d.D.dialog-act.dharshi.80	468.02	475.09	D	ME	sug	-1	0	And then for the menu , um you can have a button that activates menu .
+TS3006d.D.dialog-act.dharshi.81	476.77	481.7	D	ME	sug	-1	0	Or d or do we just integrate an an an scroll-wheel with a push-button .
+TS3006d.D.dialog-act.dharshi.82	481.7	486.43	D	ME	inf	-1	0	And then if the moment you use the scroll-wheel , the the the menu gets activated ,
+TS3006d.D.dialog-act.dharshi.83	486.43	491.25	D	ME	inf	-1	0	and then you can scroll , choose an option , click on it , it goes into an feature .
+TS3006d.D.dialog-act.dharshi.84	491.25	494.04	D	ME	inf	-1	0	Click on it again , selects features , scroll , adjust it .
+TS3006d.D.dialog-act.dharshi.85	494.04	495.44	D	ME	inf	-1	0	Click again , it's okay .
+TS3006d.D.dialog-act.dharshi.86	495.44	498.04	D	ME	inf	-1	0	Then you only need one button to move back .
+TS3006d.D.dialog-act.dharshi.87	498.64	507.61	D	ME	inf	-1	0	Or or under each option , you set a {disfmarker} you set an a screen thing what says back , and you select that one , click again , and you go one step back .
+TS3006d.D.dialog-act.dharshi.88	507.61	512.11	D	ME	inf	-1	0	And in that menu , scroll , click , one step back .
+TS3006d.B.dialog-act.dharshi.43	509.301	510.404	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.89	512.11	519.0	D	ME	inf	-1	0	So that then you need five buttons , and one integrated scroll-wheel push-button .
+TS3006d.A.dialog-act.dharshi.101	514.66	514.94	A	PM	bck	-1	0	Yep .
+TS3006d.A.dialog-act.dharshi.102	520.14	522.68	A	PM	stl	-1	0	Okay th that's {disfmarker}
+TS3006d.D.dialog-act.dharshi.90	520.11	521.93	D	ME	ass	-1	0	But we can't drop three buttons .
+TS3006d.C.dialog-act.dharshi.48	520.11	522.851	C	ID	fra	-1	0	Which {gap} {disfmarker} That's even {disfmarker}
+TS3006d.D.dialog-act.dharshi.91	521.93	524.71	D	ME	fra	-1	0	But I see that's {disfmarker}
+TS3006d.A.dialog-act.dharshi.103	522.68	525.14	A	PM	inf	-1	0	Yeah that's one Euro more expensive .
+TS3006d.D.dialog-act.dharshi.92	524.71	525.23	D	ME	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.49	525.58	526.263	C	ID	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.93	525.23	526.79	D	ME	ass	-1	0	So {gap} {disfmarker} {vocalsound} that's not a good idea .
+TS3006d.A.dialog-act.dharshi.104	526.38	527.71	A	PM	ass	-1	0	That's not an option .
+TS3006d.D.dialog-act.dharshi.94	529.35	531.39	D	ME	el.inf	-1	0	Because which buttons do we have now ?
+TS3006d.D.dialog-act.dharshi.95	531.39	534.94	D	ME	inf	-1	0	Those five which I mentioned , and then menu , and then {disfmarker}
+TS3006d.A.dialog-act.dharshi.105	534.45	535.4	A	PM	inf	-1	0	Menu , power .
+TS3006d.D.dialog-act.dharshi.97	536.03	536.49	D	ME	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.98	536.49	538.94	D	ME	inf	-1	0	F of the four things ?
+TS3006d.A.dialog-act.dharshi.106	538.06	538.89	A	PM	ass	-1	0	Four arrows ?
+TS3006d.D.dialog-act.dharshi.99	538.94	539.49	D	ME	ass	-1	0	Yeah ,
+TS3006d.D.dialog-act.dharshi.100	539.49	540.15	D	ME	inf	-1	0	th power .
+TS3006d.A.dialog-act.dharshi.107	540.29	541.44	A	PM	ass	-1	0	Power .
+TS3006d.A.dialog-act.dharshi.108	541.44	542.46	A	PM	stl	-1	0	Uh {disfmarker}
+TS3006d.C.dialog-act.dharshi.50	542.297	544.19	C	ID	sug	-1	0	{vocalsound} Yeah , if you if you go to eight {disfmarker}
+TS3006d.D.dialog-act.dharshi.101	542.008	543.48	D	ME	el.inf	-1	0	{vocalsound} Which more ?
+TS3006d.C.dialog-act.dharshi.51	544.19	545.404	C	ID	inf	-1	0	I don't know how to {disfmarker}
+TS3006d.A.dialog-act.dharshi.109	545.66	546.54	A	PM	ass	-1	0	Yeah . Okay .
+TS3006d.A.dialog-act.dharshi.110	546.54	548.98	A	PM	inf	-1	0	So four arrows ?
+TS3006d.D.dialog-act.dharshi.102	548.32	549.38	D	ME	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.111	548.98	552.0	A	PM	inf	-1	0	Uh power I believe ?
+TS3006d.D.dialog-act.dharshi.103	549.38	550.23	D	ME	bck	-1	0	Power .
+TS3006d.D.dialog-act.dharshi.104	550.23	551.46	D	ME	ass	-1	0	Th Yeah that's five .
+TS3006d.A.dialog-act.dharshi.112	552.0	552.894	A	PM	stl	-1	0	{vocalsound} Uh {disfmarker}
+TS3006d.A.dialog-act.dharshi.113	554.18	558.47	A	PM	inf	-1	0	We have a Back and a Okay button .
+TS3006d.D.dialog-act.dharshi.108	558.42	560.72	D	ME	ass	-1	0	Yeah , okay that's seven ,
+TS3006d.A.dialog-act.dharshi.120	560.72	562.71	A	PM	inf	-1	0	And the Menu .
+TS3006d.D.dialog-act.dharshi.109	560.72	563.09	D	ME	inf	-1	0	and one to activate the menu , yeah .
+TS3006d.D.dialog-act.dharshi.110	563.09	564.63	D	ME	ass	-1	0	So okay that's eight .
+TS3006d.D.dialog-act.dharshi.111	564.63	565.78	D	ME	ass	-1	0	Well we can't reduce that .
+TS3006d.D.dialog-act.dharshi.112	565.78	567.06	D	ME	inf	-1	0	We we keep the display .
+TS3006d.A.dialog-act.dharshi.121	568.62	576.412	A	PM	inf	-1	0	Yeah , and even if we drop three buttons from here , we still have to make some adjustments around here . So {disfmarker}
+TS3006d.D.dialog-act.dharshi.113	568.25	569.23	D	ME	stl	-1	0	Oh , well okay .
+TS3006d.D.dialog-act.dharshi.114	577.17	577.53	D	ME	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.114	577.844	579.818	A	PM	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.54	578.83	579.3	C	ID	ass	-1	0	Yeah ,
+TS3006d.C.dialog-act.dharshi.55	579.3	582.57	C	ID	inf	-1	0	we need the chip for the for the L_C_ display .
+TS3006d.D.dialog-act.dharshi.105	580.647	581.356	D	ME	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.122	581.55	582.94	A	PM	ass	-1	0	The L_C_D_ ? Yeah .
+TS3006d.B.dialog-act.dharshi.48	583.56	584.17	B	UI	stl	-1	0	Let's make the {disfmarker}
+TS3006d.B.dialog-act.dharshi.49	584.17	585.94	B	UI	sug	-1	0	Let's make the case plastic .
+TS3006d.D.dialog-act.dharshi.115	583.7	585.363	D	ME	ass	-1	0	Yeah well we need the advanced {disfmarker}
+TS3006d.A.dialog-act.dharshi.127	589.52	591.08	A	PM	ass	-1	0	Then I rather make it wood .
+TS3006d.D.dialog-act.dharshi.106	589.41	590.71	D	ME	fra	-1	0	Instead of r
+TS3006d.A.dialog-act.dharshi.128	591.08	596.57	A	PM	inf	-1	0	Because then also it's good in the market with the forty five plus uh people .
+TS3006d.B.dialog-act.dharshi.52	593.89	594.33	B	UI	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.57	595.79	596.13	C	ID	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.58	596.88	597.09	C	ID	bck	-1	0	True .
+TS3006d.D.dialog-act.dharshi.116	596.82	598.73	D	ME	ass	-1	0	Yeah but but that's not our market .
+TS3006d.B.dialog-act.dharshi.44	597.85	598.279	B	UI	fra	-1	0	But {disfmarker}
+TS3006d.A.dialog-act.dharshi.129	599.14	603.24	A	PM	ass	-1	0	No that {disfmarker} maybe not . But maybe it's better than plastic anyway .
+TS3006d.D.dialog-act.dharshi.117	604.51	606.773	D	ME	ass	-1	0	Ah no , hard plastic . {vocalsound}
+TS3006d.B.dialog-act.dharshi.53	607.35	609.22	B	UI	sug	-1	0	Plastic with a with a special colour .
+TS3006d.C.dialog-act.dharshi.59	607.193	607.99	C	ID	oth	-1	0	{vocalsound} Oh .
+TS3006d.B.dialog-act.dharshi.54	609.22	613.85	B	UI	sug	-1	0	A woo wood uh wood uh wood colour .
+TS3006d.D.dialog-act.dharshi.118	609.3	611.09	D	ME	ass	-1	0	Yeah , plastic with special colour .
+TS3006d.A.dialog-act.dharshi.130	611.41	613.91	A	PM	el.ass	-1	0	Yeah ? {vocalsound}
+TS3006d.D.dialog-act.dharshi.119	612.09	615.67	D	ME	stl	-1	0	{vocalsound} No but I I {disfmarker}
+TS3006d.A.dialog-act.dharshi.131	613.91	615.128	A	PM	ass	-1	0	Yeah okay uh {disfmarker}
+TS3006d.B.dialog-act.dharshi.55	613.85	616.146	B	UI	inf	-1	0	{vocalsound} That's an option . {vocalsound}
+TS3006d.D.dialog-act.dharshi.120	615.67	617.83	D	ME	ass	-1	0	Because we have to use the special colour anyway .
+TS3006d.D.dialog-act.dharshi.121	617.83	620.59	D	ME	inf	-1	0	You forgot that .
+TS3006d.B.dialog-act.dharshi.56	618.85	619.17	B	UI	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.132	619.64	620.68	A	PM	ass	-1	0	Yep . Yeah , yeah .
+TS3006d.B.dialog-act.dharshi.57	620.63	622.1	B	UI	fra	-1	0	So we do one one s
+TS3006d.D.dialog-act.dharshi.122	620.59	622.02	D	ME	sug	+1	2	{vocalsound} So let's go for the plastic .
+TS3006d.B.dialog-act.dharshi.58	622.1	622.33	B	UI	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.133	622.64	624.15	A	PM	ass	-1	0	Yeah , okay . Plastic .
+TS3006d.D.dialog-act.dharshi.123	625.18	629.54	D	ME	inf	-1	0	And since it's not kinetic , it doesn't have to flip around that much ?
+TS3006d.A.dialog-act.dharshi.134	628.38	631.404	A	PM	ass	-1	0	Uh that's easy because plastic is free . {vocalsound}
+TS3006d.C.dialog-act.dharshi.60	629.81	630.36	C	ID	bck	-1	0	Hmm .
+TS3006d.A.dialog-act.dharshi.116	632.73	633.215	A	PM	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.59	632.28	632.56	B	UI	bck	-1	0	Hmm .
+TS3006d.D.dialog-act.dharshi.124	632.73	634.34	D	ME	inf	-1	0	We still have problem of two Euros .
+TS3006d.A.dialog-act.dharshi.135	634.86	635.65	A	PM	ass	-1	0	Yeah , okay .
+TS3006d.A.dialog-act.dharshi.136	635.65	637.756	A	PM	fra	-1	0	Uh if we dropped uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.107	636.588	636.859	D	ME	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.60	637.92	640.29	B	UI	ass	-1	0	No the buttons , those are really needed .
+TS3006d.A.dialog-act.dharshi.137	640.77	641.02	A	PM	el.ass	-1	0	Yeah ?
+TS3006d.B.dialog-act.dharshi.61	641.34	643.004	B	UI	fra	-1	0	Yeah th th it's it's uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.125	641.2	642.37	D	ME	ass	-1	0	Yeah we can't drop them .
+TS3006d.B.dialog-act.dharshi.62	645.05	647.395	B	UI	inf	-1	0	An advanced chip-on-print . {vocalsound}
+TS3006d.A.dialog-act.dharshi.138	646.839	648.78	A	PM	ass	-1	0	{vocalsound} You still need that .
+TS3006d.C.dialog-act.dharshi.61	646.81	647.47	C	ID	ass	-1	0	Yeah uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.126	646.822	650.64	D	ME	el.inf	-1	0	{vocalsound} Do we really need that advanced chip for an L_C_D_ display ?
+TS3006d.C.dialog-act.dharshi.63	647.95	648.722	C	ID	fra	-1	0	You {disfmarker} uh uh {disfmarker}
+TS3006d.C.dialog-act.dharshi.62	650.62	651.35	C	ID	inf	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.64	651.35	662.2	C	ID	inf	-1	0	So the other option would be to go for the the sample speaker , and {disfmarker} Which can use a regular chip , wh which is six Euros in total .
+TS3006d.A.dialog-act.dharshi.115	660.919	661.8	A	PM	fra	-1	0	{vocalsound} S
+TS3006d.C.dialog-act.dharshi.65	662.2	663.07	C	ID	el.ass	-1	0	That doesn't matter .
+TS3006d.D.dialog-act.dharshi.127	663.44	667.31	D	ME	ass	-1	0	Oh . I rather keep I rather keep the display .
+TS3006d.A.dialog-act.dharshi.139	664.53	665.93	A	PM	fra	-1	0	No , I keep the re
+TS3006d.A.dialog-act.dharshi.140	665.93	669.731	A	PM	ass	-1	0	Yeah . Yeah . Because we already designed for it . So {disfmarker}
+TS3006d.C.dialog-act.dharshi.66	666.44	666.87	C	ID	ass	-1	0	Well yeah .
+TS3006d.D.dialog-act.dharshi.128	667.31	670.62	D	ME	inf	+1	2	So the only option is an hand dynamo .
+TS3006d.C.dialog-act.dharshi.67	669.75	670.35	C	ID	ass	-1	0	Exactly .
+TS3006d.B.dialog-act.dharshi.63	670.845	673.152	B	UI	ass	-1	0	{vocalsound} Oh that {disfmarker}
+TS3006d.A.dialog-act.dharshi.141	672.43	673.89	A	PM	ass	-1	0	Yeah and something else .
+TS3006d.C.dialog-act.dharshi.69	673.938	675.56	C	ID	stl	-1	0	{vocalsound} Yeah but the {disfmarker}
+TS3006d.D.dialog-act.dharshi.129	674.0	676.08	D	ME	ass	-1	0	Oh no tha Oh that's one Euro , right .
+TS3006d.C.dialog-act.dharshi.70	675.56	680.63	C	ID	el.inf	-1	0	uh can't we f uh fit all the buttons in an intreg integrated scroll push-button
+TS3006d.C.dialog-act.dharshi.68	680.63	682.83	C	ID	inf	-1	0	? 'Cause that will save us one and a half Euro already .
+TS3006d.C.dialog-act.dharshi.71	684.03	684.72	C	ID	fra	-1	0	And then if w
+TS3006d.D.dialog-act.dharshi.130	684.25	689.77	D	ME	ass	-1	0	And then integrated s Yeah but that would make it not so easy to use .
+TS3006d.A.dialog-act.dharshi.142	687.97	690.57	A	PM	fra	-1	0	No y you would rec
+TS3006d.D.dialog-act.dharshi.131	689.77	692.252	D	ME	ass	-1	0	I mean it's not that important , easy to use , but {disfmarker}
+TS3006d.A.dialog-act.dharshi.143	692.62	694.859	A	PM	fra	-1	0	Then you have {disfmarker}
+TS3006d.C.dialog-act.dharshi.72	693.5	697.29	C	ID	ass	-1	0	Th then we have to scroll through a lot of menus to be able to get where you want , huh ?
+TS3006d.A.dialog-act.dharshi.144	696.92	700.14	A	PM	ass	-1	0	Then you still need two additional buttons I believe .
+TS3006d.C.dialog-act.dharshi.73	697.29	697.742	C	ID	fra	-1	0	And uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.132	697.29	697.98	D	ME	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.145	700.14	701.42	A	PM	inf	-1	0	For the volume .
+TS3006d.C.dialog-act.dharshi.75	700.25	703.85	C	ID	ass	-1	0	Yeah d at l Yeah . At least one for power .
+TS3006d.A.dialog-act.dharshi.146	701.42	702.53	A	PM	ass	-1	0	You can use those {disfmarker} Yeah .
+TS3006d.B.dialog-act.dharshi.45	703.73	704.83	B	UI	fra	-1	0	But the {disfmarker}
+TS3006d.A.dialog-act.dharshi.147	704.29	705.69	A	PM	ass	-1	0	Oh yeah and power .
+TS3006d.A.dialog-act.dharshi.148	705.69	708.672	A	PM	inf	-1	0	That's three buttons and this would cost {disfmarker}
+TS3006d.C.dialog-act.dharshi.76	705.85	706.19	C	ID	oth	-1	0	Oh .
+TS3006d.C.dialog-act.dharshi.77	707.8	710.1	C	ID	inf	-1	0	Yeah it's just as expensive as what we have now .
+TS3006d.B.dialog-act.dharshi.64	709.3	714.49	B	UI	el.inf	-1	0	But the integrated uh button ? How many func functions can it uh have ?
+TS3006d.A.dialog-act.dharshi.149	710.21	710.64	A	PM	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.150	715.27	717.47	A	PM	inf	-1	0	Three . Up , down , Okay .
+TS3006d.C.dialog-act.dharshi.78	716.8	717.9	C	ID	ass	-1	0	Yeah endlessly .
+TS3006d.C.dialog-act.dharshi.79	717.9	721.99	C	ID	inf	-1	0	I mean it can be a power button as soon as it powered on .
+TS3006d.B.dialog-act.dharshi.65	718.54	718.91	B	UI	bck	-1	0	Okay .
+TS3006d.C.dialog-act.dharshi.80	721.99	725.12	C	ID	inf	-1	0	You can go into you in you main menu ,
+TS3006d.D.dialog-act.dharshi.133	722.02	724.29	D	ME	inf	-1	0	You you press it for like three seconds .
+TS3006d.C.dialog-act.dharshi.81	725.12	730.88	C	ID	inf	-1	0	you can choose uh flip channel , uh you can choose sound options , any options .
+TS3006d.D.dialog-act.dharshi.134	730.39	734.64	D	ME	ass	-1	0	Then then then you should do everything in the menu . On the screen .
+TS3006d.C.dialog-act.dharshi.82	733.57	733.85	C	ID	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.151	735.09	738.58	A	PM	ass	-1	0	Yeah , okay . It would save enough {disfmarker}
+TS3006d.C.dialog-act.dharshi.83	734.847	736.46	C	ID	ass	-1	0	{vocalsound} Maybe we should .
+TS3006d.C.dialog-act.dharshi.84	736.46	739.48	C	ID	inf	-1	0	'Cause we don't have money and w we want the screen .
+TS3006d.A.dialog-act.dharshi.152	738.58	744.52	A	PM	ass	-1	0	Yeah you can choose this , drop these , then we have a half Euro left .
+TS3006d.D.dialog-act.dharshi.135	742.91	744.156	D	ME	ass	-1	0	Yeah . {vocalsound}
+TS3006d.A.dialog-act.dharshi.153	744.52	747.56	A	PM	sug	-1	0	{vocalsound} So we can maybe still use power button .
+TS3006d.D.dialog-act.dharshi.136	748.588	751.46	D	ME	ass	-1	0	{vocalsound} Yeah , but we'd {disfmarker} {vocalsound} Alright .
+TS3006d.A.dialog-act.dharshi.154	749.58	749.89	A	PM	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.85	752.32	753.65	C	ID	ass	-1	0	I guess we have to .
+TS3006d.D.dialog-act.dharshi.137	752.77	756.21	D	ME	inf	-1	0	It s it saves us four Euros and it costs us two and a half .
+TS3006d.D.dialog-act.dharshi.138	758.82	760.26	D	ME	oth	-1	0	So let's see ,
+TS3006d.D.dialog-act.dharshi.139	760.26	762.53	D	ME	inf	-1	0	we we drop the price by one and a half .
+TS3006d.A.dialog-act.dharshi.157	760.81	763.21	A	PM	ass	-1	0	Yeah . You see ?
+TS3006d.C.dialog-act.dharshi.86	760.36	761.765	C	ID	fra	-1	0	We'll we'll be on {disfmarker}
+TS3006d.D.dialog-act.dharshi.140	762.53	764.14	D	ME	inf	-1	0	But we still have thirteen left .
+TS3006d.A.dialog-act.dharshi.158	763.21	765.25	A	PM	el.inf	-1	0	Oh still {disfmarker} Yeah ?
+TS3006d.A.dialog-act.dharshi.159	765.25	767.09	A	PM	ass	-1	0	Oh then I miscalculated . Oh yeah .
+TS3006d.D.dialog-act.dharshi.141	767.32	770.94	D	ME	inf	-1	0	Thirteen . So still half . {vocalsound}
+TS3006d.A.dialog-act.dharshi.155	768.48	771.01	A	PM	oth	-1	0	{vocalsound} Shit .
+TS3006d.A.dialog-act.dharshi.160	771.01	776.55	A	PM	sug	-1	0	Drop the special colour . {vocalsound}
+TS3006d.D.dialog-act.dharshi.142	770.94	773.22	D	ME	ass	-1	0	There goes the special co {vocalsound}
+TS3006d.B.dialog-act.dharshi.66	771.692	773.63	B	UI	ass	-1	0	{vocalsound} Oh no .
+TS3006d.D.dialog-act.dharshi.143	773.22	777.73	D	ME	ass	-1	0	Well {disfmarker} {vocalsound} That would make it less appealing . So that's no option .
+TS3006d.A.dialog-act.dharshi.161	777.93	779.14	A	PM	ass	-1	0	{vocalsound} 'Kay .
+TS3006d.A.dialog-act.dharshi.162	779.14	780.66	A	PM	el.sug	-1	0	What else ?
+TS3006d.A.dialog-act.dharshi.163	780.66	781.33	A	PM	sug	-1	0	Uncurved ?
+TS3006d.B.dialog-act.dharshi.67	781.34	783.53	B	UI	ass	-1	0	No no , it has to be um curved .
+TS3006d.D.dialog-act.dharshi.144	782.71	785.69	D	ME	el.inf	-1	0	We sure about the advanced chip we need for the display ?
+TS3006d.A.dialog-act.dharshi.164	785.63	785.99	A	PM	inf	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.87	785.69	786.86	C	ID	inf	-1	0	Yeah it says right here .
+TS3006d.A.dialog-act.dharshi.165	788.59	792.604	A	PM	ass	-1	0	{vocalsound} They made it very easy for us . {vocalsound}
+TS3006d.B.dialog-act.dharshi.68	789.45	790.07	B	UI	ass	-1	0	Okay .
+TS3006d.D.dialog-act.dharshi.145	790.63	793.95	D	ME	ass	-1	0	Well yeah . {vocalsound} {gap} yeah .
+TS3006d.D.dialog-act.dharshi.146	793.95	797.09	D	ME	ass	-1	0	We made it hard for ourselves with the display , but it's a cool feature .
+TS3006d.A.dialog-act.dharshi.166	795.96	805.217	A	PM	ass	-1	0	Ah , I don't think I can s uh persuade the management to say , this is better for the market so you sell more than {disfmarker} {vocalsound}
+TS3006d.D.dialog-act.dharshi.147	802.158	803.9	D	ME	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.69	803.08	803.37	B	UI	stl	-1	0	Okay .
+TS3006d.B.dialog-act.dharshi.70	803.37	805.978	B	UI	sug	-1	0	Wh what we could do is um {disfmarker}
+TS3006d.B.dialog-act.dharshi.71	807.0	812.02	B	UI	sug	+1	1	drop the the special colour , and uh do the special colour for the buttons .
+TS3006d.C.dialog-act.dharshi.88	806.952	807.327	C	ID	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.89	808.98	809.75	C	ID	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.167	811.42	812.36	A	PM	bck	-1	0	Buttons .
+TS3006d.A.dialog-act.dharshi.168	812.36	813.19	A	PM	stl	-1	0	That's {disfmarker}
+TS3006d.A.dialog-act.dharshi.169	813.19	815.07	A	PM	ass	-1	0	Oh yeah since we only have one button .
+TS3006d.B.dialog-act.dharshi.72	815.4	817.5	B	UI	bck	-1	0	Yeah . {vocalsound}
+TS3006d.C.dialog-act.dharshi.90	815.308	816.972	C	ID	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.170	816.055	817.436	A	PM	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.148	816.21	818.97	D	ME	el.inf	-1	0	Yeah but I mean what is meant by special colour ?
+TS3006d.A.dialog-act.dharshi.171	819.81	822.23	A	PM	stl	-1	0	I just m I don't {disfmarker} I think {disfmarker}
+TS3006d.B.dialog-act.dharshi.73	819.95	823.18	B	UI	inf	-1	0	Just something else than than black or white I think .
+TS3006d.A.dialog-act.dharshi.173	822.23	824.97	A	PM	inf	-1	0	Uh yeah it's {disfmarker} I think it's grey , regular .
+TS3006d.D.dialog-act.dharshi.149	826.69	828.31	D	ME	ass	-1	0	S yeah . Alright .
+TS3006d.A.dialog-act.dharshi.174	828.24	829.14	A	PM	inf	-1	0	Grey and rubber .
+TS3006d.C.dialog-act.dharshi.91	829.11	833.52	C	ID	ass	-1	0	But we definitely want the thing to be a special colour though .
+TS3006d.A.dialog-act.dharshi.175	830.38	831.09	A	PM	inf	-1	0	Of plastic .
+TS3006d.B.dialog-act.dharshi.74	831.87	832.21	B	UI	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.150	832.37	833.22	D	ME	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.92	833.52	833.67	C	ID	oth	-1	0	{vocalsound} Damn .
+TS3006d.D.dialog-act.dharshi.151	833.22	838.69	D	ME	ass	-1	0	So I rather have an hand dynamo {vocalsound} than than drop the colour .
+TS3006d.A.dialog-act.dharshi.119	835.568	836.806	A	PM	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.46	835.782	838.859	B	UI	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.95	836.18	836.57	C	ID	ass	-1	0	Yeah
+TS3006d.C.dialog-act.dharshi.96	836.57	837.538	C	ID	fra	-1	0	and then {vocalsound} {disfmarker}
+TS3006d.A.dialog-act.dharshi.176	838.36	838.73	A	PM	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.93	838.32	839.89	C	ID	ass	-1	0	Yeah yeah yeah yeah .
+TS3006d.D.dialog-act.dharshi.152	838.69	840.57	D	ME	ass	-1	0	You can still play with it then I guess .
+TS3006d.D.dialog-act.dharshi.153	840.57	841.45	D	ME	ass	-1	0	I don't know .
+TS3006d.A.dialog-act.dharshi.177	841.12	841.44	A	PM	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.154	841.45	846.9	D	ME	ass	-1	0	Yeah , but a hand dynamo costs a lot of energy to keep the screen working . So I guess that isn't an option .
+TS3006d.B.dialog-act.dharshi.75	846.48	848.204	B	UI	ass	-1	0	The display {disfmarker} {vocalsound}
+TS3006d.C.dialog-act.dharshi.97	848.18	851.69	C	ID	ass	-1	0	Well , you only have to power it up when you wanna use it .
+TS3006d.D.dialog-act.dharshi.155	848.31	848.87	D	ME	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.47	849.47	849.963	B	UI	fra	-1	0	The {disfmarker}
+TS3006d.B.dialog-act.dharshi.76	852.51	856.738	B	UI	ass	-1	0	But if you have to power the for ten minutes , {vocalsound} then the {disfmarker}
+TS3006d.D.dialog-act.dharshi.156	852.41	852.8	D	ME	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.98	853.01	853.6	C	ID	ass	-1	0	I don't know .
+TS3006d.D.dialog-act.dharshi.157	855.196	857.67	D	ME	bck	-1	0	{vocalsound} Yeah .
+TS3006d.A.dialog-act.dharshi.178	855.9	863.45	A	PM	ass	-1	0	No I don't think the current status of uh chips are pretty uh energy conserving , no .
+TS3006d.C.dialog-act.dharshi.52	857.137	858.107	C	ID	fra	-1	0	{gap} .
+TS3006d.B.dialog-act.dharshi.77	861.67	862.0	B	UI	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.158	863.71	864.83	D	ME	ass	-1	0	Yeah true .
+TS3006d.C.dialog-act.dharshi.99	864.52	864.86	C	ID	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.159	864.83	866.67	D	ME	sug	+1	1	Let's let's go for the hand dynamo then .
+TS3006d.A.dialog-act.dharshi.179	866.59	868.19	A	PM	ass	-1	0	Yeah hand dynamo ?
+TS3006d.A.dialog-act.dharshi.180	868.19	869.8	A	PM	el.ass	-1	0	Do you want an extra button ?
+TS3006d.A.dialog-act.dharshi.118	870.44	871.821	A	PM	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.160	870.36	871.47	D	ME	stl	-1	0	Or or do we {disfmarker}
+TS3006d.D.dialog-act.dharshi.161	871.47	874.607	D	ME	sug	-1	0	Or do we do uncurved and flat ? Instead of {disfmarker}
+TS3006d.A.dialog-act.dharshi.117	873.982	874.852	A	PM	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.79	874.82	877.44	B	UI	ass	-1	0	No no it has to be curved .
+TS3006d.C.dialog-act.dharshi.100	876.59	877.1	C	ID	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.162	876.36	879.04	D	ME	ass	+1	1	Yeah it has to be curved and has to have that colour .
+TS3006d.B.dialog-act.dharshi.78	877.44	877.67	B	UI	bck	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.80	878.53	882.17	B	UI	sug	-1	0	Just put a special special colour of the buttons , or something .
+TS3006d.C.dialog-act.dharshi.101	878.93	879.83	C	ID	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.163	879.04	879.76	D	ME	ass	-1	0	And a screen .
+TS3006d.C.dialog-act.dharshi.102	879.83	881.28	C	ID	ass	-1	0	Yeah . That's the most import
+TS3006d.A.dialog-act.dharshi.181	882.69	883.65	A	PM	el.ass	-1	0	Yep ?
+TS3006d.A.dialog-act.dharshi.182	883.65	885.57	A	PM	el.ass	-1	0	Instead of an additional power button ?
+TS3006d.B.dialog-act.dharshi.81	884.01	885.68	B	UI	sug	-1	0	Yeah or spe special form ?
+TS3006d.D.dialog-act.dharshi.164	884.19	884.8	D	ME	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.165	886.14	887.32	D	ME	fra	-1	0	S what what is special f
+TS3006d.D.dialog-act.dharshi.166	887.32	888.77	D	ME	ass	-1	0	Oh yeah , special form .
+TS3006d.A.dialog-act.dharshi.183	888.76	890.05	A	PM	bck	-1	0	Yeah ?
+TS3006d.D.dialog-act.dharshi.167	888.77	889.72	D	ME	ass	-1	0	Maybe that's nicer .
+TS3006d.A.dialog-act.dharshi.184	890.05	891.148	A	PM	el.inf	-1	0	It's for scroll {disfmarker}
+TS3006d.B.dialog-act.dharshi.82	891.8	892.26	B	UI	inf	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.185	892.84	893.361	A	PM	fra	-1	0	Without {disfmarker}
+TS3006d.D.dialog-act.dharshi.168	892.65	895.05	D	ME	ass	-1	0	But we don't have any buttons .
+TS3006d.C.dialog-act.dharshi.103	895.15	896.058	C	ID	fra	-1	0	We only have {disfmarker}
+TS3006d.D.dialog-act.dharshi.169	895.05	895.62	D	ME	stl	-1	0	{vocalsound} So do {disfmarker}
+TS3006d.B.dialog-act.dharshi.83	896.02	899.436	B	UI	ass	-1	0	Yeah . But it's it's for the integrated button , I think also . Or {disfmarker}
+TS3006d.D.dialog-act.dharshi.170	895.62	897.48	D	ME	sug	-1	0	d Uh make it a special colour then .
+TS3006d.C.dialog-act.dharshi.104	899.72	900.339	C	ID	fra	-1	0	Yeah but {disfmarker}
+TS3006d.D.dialog-act.dharshi.172	899.56	899.79	D	ME	ass	-1	0	Yeah
+TS3006d.D.dialog-act.dharshi.173	899.79	901.47	D	ME	sug	-1	0	ma make it a special colour then .
+TS3006d.A.dialog-act.dharshi.186	900.9	904.476	A	PM	ass	+1	1	Yeah but it's just a scroll-wheel which you can push down . So {disfmarker}
+TS3006d.B.dialog-act.dharshi.84	902.67	904.16	B	UI	ass	-1	0	Yeah . Okay . Yeah .
+TS3006d.D.dialog-act.dharshi.175	905.04	909.5	D	ME	sug	+1	1	Okay . Make it a special colour and then it look fancy .
+TS3006d.A.dialog-act.dharshi.187	905.79	906.1	A	PM	el.ass	-1	0	Yeah ?
+TS3006d.A.dialog-act.dharshi.188	908.78	909.58	A	PM	stl	-1	0	So {disfmarker}
+TS3006d.B.dialog-act.dharshi.85	908.43	908.93	B	UI	bck	-1	0	Yep .
+TS3006d.A.dialog-act.dharshi.189	909.58	912.08	A	PM	inf	+1	0	Woah we're within budget .
+TS3006d.D.dialog-act.dharshi.174	909.5	910.13	D	ME	stl	-1	0	{vocalsound} So {disfmarker}
+TS3006d.D.dialog-act.dharshi.176	911.26	912.36	D	ME	ass	-1	0	{vocalsound} Yeah .
+TS3006d.A.dialog-act.dharshi.190	912.08	915.011	A	PM	ass	-1	0	{vocalsound} It's a miracle . {vocalsound}
+TS3006d.B.dialog-act.dharshi.86	912.19	912.86	B	UI	stl	-1	0	Oh just {disfmarker}
+TS3006d.D.dialog-act.dharshi.177	912.36	913.87	D	ME	sug	-1	0	Let's let's save it .
+TS3006d.B.dialog-act.dharshi.87	912.86	917.05	B	UI	sug	+1	0	oh ma make it two special colours , but we only have one button .
+TS3006d.D.dialog-act.dharshi.178	916.14	916.6	D	ME	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.88	917.05	917.58	B	UI	ass	-1	0	Okay .
+TS3006d.D.dialog-act.dharshi.179	917.76	918.64	D	ME	sug	-1	0	Let's do it like this ,
+TS3006d.D.dialog-act.dharshi.180	918.64	922.988	D	ME	ass	-1	0	I mean , because it does not lose our identity of the product as we {disfmarker}
+TS3006d.A.dialog-act.dharshi.191	919.22	919.47	A	PM	ass	-1	0	Yeah ?
+TS3006d.A.dialog-act.dharshi.192	923.035	924.2	A	PM	ass	-1	0	{vocalsound} Okay .
+TS3006d.A.dialog-act.dharshi.193	924.2	925.51	A	PM	stl	-1	0	Um , well {disfmarker}
+TS3006d.A.dialog-act.dharshi.194	927.55	930.0	A	PM	inf	-1	0	{gap} . 'Kay , this was old .
+TS3006d.C.dialog-act.dharshi.105	931.39	934.996	C	ID	ass	-1	0	Well we come back to the drawing board then , huh ? {vocalsound}
+TS3006d.B.dialog-act.dharshi.89	933.78	936.09	B	UI	ass	-1	0	Yeah . {vocalsound} Okay .
+TS3006d.D.dialog-act.dharshi.181	933.74	938.864	D	ME	ass	-1	0	{vocalsound} Yeah all your designs are uh pretty much {disfmarker}
+TS3006d.A.dialog-act.dharshi.197	934.56	935.84	A	PM	ass	-1	0	Yeah back to work
+TS3006d.A.dialog-act.dharshi.196	935.84	935.84	A	PM	unset	-1	0	.
+TS3006d.A.dialog-act.dharshi.195	935.84	937.918	A	PM	stl	-1	0	Uh {disfmarker}
+TS3006d.C.dialog-act.dharshi.106	935.852	937.171	C	ID	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.198	938.66	940.6	A	PM	oth	-1	0	Did I save it ?
+TS3006d.C.dialog-act.dharshi.107	938.56	942.25	C	ID	ass	+1	1	It's silly 'cause we we should have had this meeting before we start drawing .
+TS3006d.A.dialog-act.dharshi.199	942.27	943.81	A	PM	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.182	942.27	944.476	D	ME	ass	-1	0	Yeah but that but that's the fun part of it . {vocalsound}
+TS3006d.A.dialog-act.dharshi.200	943.81	948.791	A	PM	inf	-1	0	{vocalsound} I I wanted to go , but I wasn't allowed . So {disfmarker} {vocalsound}
+TS3006d.C.dialog-act.dharshi.108	944.82	945.42	C	ID	ass	-1	0	Oh yeah ?
+TS3006d.C.dialog-act.dharshi.109	947.036	948.11	C	ID	ass	-1	0	{gap} okay .
+TS3006d.D.dialog-act.dharshi.183	948.3	948.9	D	ME	stl	-1	0	Alright .
+TS3006d.A.dialog-act.dharshi.201	950.34	953.95	A	PM	inf	-1	0	Uh I just forgot to save this .
+TS3006d.A.dialog-act.dharshi.202	953.95	954.64	A	PM	oth	-1	0	Just a minute .
+TS3006d.A.dialog-act.dharshi.203	956.686	958.525	A	PM	fra	-1	0	{vocalsound} {vocalsound}
+TS3006d.A.dialog-act.dharshi.204	961.167	962.238	A	PM	fra	-1	0	{gap} .
+TS3006d.D.dialog-act.dharshi.184	969.36	971.41	D	ME	el.inf	-1	0	Yeah what's the next uh phase ?
+TS3006d.A.dialog-act.dharshi.205	971.6	974.636	A	PM	inf	-1	0	Yeah , this the last phase of course , so {disfmarker}
+TS3006d.D.dialog-act.dharshi.185	974.69	976.0	D	ME	inf	-1	0	Uh the agenda .
+TS3006d.D.dialog-act.dharshi.186	977.16	978.46	D	ME	inf	-1	0	By your humble P_M_ .
+TS3006d.A.dialog-act.dharshi.206	978.85	979.34	A	PM	oth	-1	0	Hmm .
+TS3006d.A.dialog-act.dharshi.207	980.403	986.0	A	PM	oth	-1	0	{vocalsound} Oh .
+TS3006d.D.dialog-act.dharshi.187	980.364	985.516	D	ME	ass	-1	0	{vocalsound} Oh f {vocalsound} Frustrated . {vocalsound} Alright . {vocalsound}
+TS3006d.A.dialog-act.dharshi.208	987.17	988.965	A	PM	stl	-1	0	Okay . Um {disfmarker} {vocalsound}
+TS3006d.D.dialog-act.dharshi.188	986.75	987.22	D	ME	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.209	989.76	994.35	A	PM	inf	+1	0	Well we first should have had a uh prototype presentation .
+TS3006d.A.dialog-act.dharshi.211	994.35	1000.41	A	PM	inf	+1	0	But well as you saw that hadn't made no sense , because we had to drop it .
+TS3006d.C.dialog-act.dharshi.110	996.909	997.209	C	ID	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.111	998.29	999.77	C	ID	ass	-1	0	Drop everything . Yeah .
+TS3006d.D.dialog-act.dharshi.189	998.8	999.63	D	ME	ass	-1	0	Drop , yeah .
+TS3006d.A.dialog-act.dharshi.212	1000.41	1002.499	A	PM	stl	-1	0	Uh {disfmarker} {vocalsound}
+TS3006d.C.dialog-act.dharshi.112	1001.7	1006.342	C	ID	el.inf	-1	0	We went straight into finance ? {vocalsound}
+TS3006d.A.dialog-act.dharshi.213	1003.41	1004.86	A	PM	inf	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.90	1003.094	1004.622	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.190	1003.336	1005.851	D	ME	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.214	1004.86	1006.79	A	PM	inf	-1	0	{vocalsound} Yeah it was more important , so I just
+TS3006d.D.dialog-act.dharshi.191	1005.851	1007.63	D	ME	ass	-1	0	{vocalsound} Yeah . Yeah .
+TS3006d.C.dialog-act.dharshi.113	1006.44	1006.78	C	ID	fra	-1	0	For {disfmarker}
+TS3006d.C.dialog-act.dharshi.114	1006.78	1007.25	C	ID	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.215	1007.85	1009.71	A	PM	inf	-1	0	pushed up the agenda .
+TS3006d.C.dialog-act.dharshi.115	1007.97	1008.14	C	ID	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.216	1009.71	1010.48	A	PM	stl	-1	0	Uh ,
+TS3006d.A.dialog-act.dharshi.217	1012.13	1013.74	A	PM	inf	-1	0	evaluation criteria .
+TS3006d.A.dialog-act.dharshi.218	1013.74	1016.23	A	PM	el.inf	-1	0	You have t produced something about that ?
+TS3006d.D.dialog-act.dharshi.192	1014.84	1018.6	D	ME	inf	-1	0	Yeah that that's {disfmarker} Yeah . I uh I sure did .
+TS3006d.D.dialog-act.dharshi.193	1018.6	1020.89	D	ME	inf	-1	0	And it combines with product evaluation .
+TS3006d.D.dialog-act.dharshi.194	1020.89	1022.411	D	ME	stl	-1	0	Uh so {disfmarker}
+TS3006d.A.dialog-act.dharshi.219	1022.19	1024.34	A	PM	el.inf	-1	0	Uh you put it in the {gap} .
+TS3006d.D.dialog-act.dharshi.195	1023.62	1026.19	D	ME	inf	+1	1	We all have to keep in mind what has changed now .
+TS3006d.D.dialog-act.dharshi.196	1026.19	1034.22	D	ME	inf	+1	1	So what we have left on the {disfmarker} Because evaluation is based on the initial uh user requirements .
+TS3006d.A.dialog-act.dharshi.220	1028.24	1028.6	A	PM	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.197	1034.22	1034.67	D	ME	stl	-1	0	Alright .
+TS3006d.A.dialog-act.dharshi.221	1035.74	1036.11	A	PM	inf	-1	0	F_ five .
+TS3006d.D.dialog-act.dharshi.198	1035.622	1037.628	D	ME	off	-1	0	{vocalsound} Let's make it big . {vocalsound}
+TS3006d.D.dialog-act.dharshi.199	1039.02	1039.902	D	ME	stl	-1	0	Um {disfmarker}
+TS3006d.D.dialog-act.dharshi.200	1041.08	1046.4	D	ME	inf	+1	1	Well we evaluate uh the design with a seven point scale , as following .
+TS3006d.D.dialog-act.dharshi.201	1046.4	1050.01	D	ME	inf	-1	0	Well the remote controls according criteria blah blah blah .
+TS3006d.D.dialog-act.dharshi.202	1050.01	1052.85	D	ME	inf	-1	0	True or false , and then on a scale of seven points ,
+TS3006d.D.dialog-act.dharshi.203	1052.85	1056.01	D	ME	inf	-1	0	a {gap} scale , as we all know it .
+TS3006d.C.dialog-act.dharshi.116	1053.5	1053.86	C	ID	bck	-1	0	Mm-hmm .
+TS3006d.A.dialog-act.dharshi.222	1055.068	1056.028	A	PM	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.91	1054.728	1055.25	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.204	1056.01	1057.084	D	ME	stl	-1	0	Um {disfmarker}
+TS3006d.D.dialog-act.dharshi.205	1058.0	1065.29	D	ME	inf	+1	1	Well the criteria are based on the user requirements , uh the trends from the marketing research , and the marketing strategy of the company itself .
+TS3006d.D.dialog-act.dharshi.206	1068.4	1071.26	D	ME	inf	-1	0	Um well they are in a Word document ,
+TS3006d.D.dialog-act.dharshi.207	1071.26	1074.04	D	ME	off	-1	0	which I will open now .
+TS3006d.A.dialog-act.dharshi.223	1072.91	1073.51	A	PM	inf	-1	0	Alt up
+TS3006d.D.dialog-act.dharshi.208	1074.04	1075.44	D	ME	ass	-1	0	{vocalsound} Yeah .
+TS3006d.D.dialog-act.dharshi.209	1075.44	1076.63	D	ME	inf	-1	0	I don't know it's open yet .
+TS3006d.D.dialog-act.dharshi.210	1076.63	1076.83	D	ME	ass	-1	0	No .
+TS3006d.D.dialog-act.dharshi.211	1081.22	1085.38	D	ME	inf	+1	1	And we all have to uh agree on a certain level .
+TS3006d.D.dialog-act.dharshi.212	1085.38	1085.91	D	ME	el.inf	-1	0	What's this ?
+TS3006d.A.dialog-act.dharshi.224	1086.889	1090.233	A	PM	ass	-1	0	{vocalsound} Freaky . {vocalsound}
+TS3006d.D.dialog-act.dharshi.213	1087.37	1089.04	D	ME	inf	-1	0	Oh . I don't know .
+TS3006d.D.dialog-act.dharshi.214	1089.04	1089.916	D	ME	stl	-1	0	Um {disfmarker}
+TS3006d.D.dialog-act.dharshi.215	1091.55	1097.34	D	ME	el.ass	+1	1	Well the first point is the remote control matches the operating behaviour of the young user .
+TS3006d.D.dialog-act.dharshi.216	1097.34	1101.61	D	ME	inf	-1	0	So that means the operating behaviour was using quite a lot of functions .
+TS3006d.D.dialog-act.dharshi.217	1103.34	1104.68	D	ME	el.ass	-1	0	How do you think about that ?
+TS3006d.C.dialog-act.dharshi.117	1105.621	1107.99	C	ID	ass	+1	1	{vocalsound} I think it does .
+TS3006d.C.dialog-act.dharshi.118	1107.99	1114.39	C	ID	inf	+1	1	Because the operating {gap} behaviour of the young user was also defined in colour and shape and the use of L_C_D_ ,
+TS3006d.A.dialog-act.dharshi.225	1114.54	1114.92	A	PM	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.119	1114.39	1114.73	C	ID	el.ass	-1	0	right ?
+TS3006d.A.dialog-act.dharshi.226	1114.92	1117.998	A	PM	ass	-1	0	Uh , of course we dropped a little bit of those uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.218	1115.38	1115.75	D	ME	ass	-1	0	Yeah
+TS3006d.D.dialog-act.dharshi.219	1115.75	1116.36	D	ME	fra	-1	0	the us u
+TS3006d.D.dialog-act.dharshi.220	1117.45	1117.71	D	ME	stl	-1	0	It it {disfmarker}
+TS3006d.C.dialog-act.dharshi.120	1117.97	1118.36	C	ID	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.221	1117.71	1122.91	D	ME	inf	-1	0	it's it's mainly con mainly concentrating on a lot of functions , in this question .
+TS3006d.A.dialog-act.dharshi.227	1121.67	1122.06	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.D.dialog-act.dharshi.222	1122.91	1124.396	D	ME	el.ass	-1	0	So do you think {disfmarker}
+TS3006d.C.dialog-act.dharshi.121	1124.05	1128.938	C	ID	ass	-1	0	Well , we have extended menus , on the on the L_C_D_ screen . So {disfmarker}
+TS3006d.D.dialog-act.dharshi.223	1126.91	1127.41	D	ME	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.224	1127.41	1128.03	D	ME	stl	-1	0	You can you can ma
+TS3006d.B.dialog-act.dharshi.92	1128.32	1128.77	B	UI	bck	-1	0	Yep .
+TS3006d.D.dialog-act.dharshi.225	1128.03	1131.19	D	ME	ass	-1	0	Yeah , you can make a lot of extended menus . That's true .
+TS3006d.D.dialog-act.dharshi.226	1131.19	1136.43	D	ME	inf	-1	0	I mean the the possibilities are almost unlimited , to to build in menus in the screen .
+TS3006d.C.dialog-act.dharshi.122	1134.602	1134.74	C	ID	fra	-1	0	{vocalsound} I
+TS3006d.C.dialog-act.dharshi.123	1136.061	1137.33	C	ID	ass	-1	0	{gap} No .
+TS3006d.D.dialog-act.dharshi.227	1137.82	1142.97	D	ME	el.ass	-1	0	So on a scale from one to seven , what do you think ?
+TS3006d.B.dialog-act.dharshi.93	1142.4	1143.22	B	UI	ass	-1	0	Two or three .
+TS3006d.B.dialog-act.dharshi.94	1144.31	1145.19	B	UI	ass	-1	0	Two or three .
+TS3006d.D.dialog-act.dharshi.228	1143.92	1144.18	D	ME	und	-1	0	Huh ?
+TS3006d.D.dialog-act.dharshi.229	1145.26	1146.7	D	ME	el.ass	-1	0	Two or three ? Something like that ?
+TS3006d.A.dialog-act.dharshi.228	1146.87	1147.32	A	PM	ass	-1	0	Two .
+TS3006d.C.dialog-act.dharshi.124	1147.07	1147.51	C	ID	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.230	1146.7	1148.57	D	ME	inf	-1	0	Well we have to choose one .
+TS3006d.D.dialog-act.dharshi.231	1148.57	1151.72	D	ME	el.ass	-1	0	So uh what do you say ?
+TS3006d.A.dialog-act.dharshi.229	1151.39	1153.92	A	PM	sug	-1	0	Uh y we should fill this in now .
+TS3006d.D.dialog-act.dharshi.232	1151.72	1152.55	D	ME	ass	-1	0	I agree on two .
+TS3006d.A.dialog-act.dharshi.230	1153.92	1155.19	A	PM	ass	-1	0	Yeah okay .
+TS3006d.D.dialog-act.dharshi.233	1153.63	1155.07	D	ME	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.231	1155.19	1155.725	A	PM	stl	-1	0	Uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.234	1155.07	1157.521	D	ME	ass	-1	0	I uh I say two , personally . But {disfmarker}
+TS3006d.A.dialog-act.dharshi.232	1157.76	1162.59	A	PM	ass	-1	0	Yeah in the new design I s would say it's three . But now , in original design I say two .
+TS3006d.B.dialog-act.dharshi.95	1157.41	1157.79	B	UI	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.125	1158.1	1159.06	C	ID	ass	-1	0	Yeah alright .
+TS3006d.D.dialog-act.dharshi.235	1162.22	1165.12	D	ME	ass	-1	0	Yeah well we have to evaluate I guess what we have now .
+TS3006d.A.dialog-act.dharshi.233	1165.63	1166.83	A	PM	ass	-1	0	Okay then I say three .
+TS3006d.D.dialog-act.dharshi.236	1167.17	1167.92	D	ME	ass	-1	0	Yeah ? You say three ,
+TS3006d.C.dialog-act.dharshi.126	1167.75	1168.65	C	ID	ass	-1	0	Yeah yeah .
+TS3006d.D.dialog-act.dharshi.237	1167.92	1170.0	D	ME	ass	-1	0	and you you said al also three ?
+TS3006d.B.dialog-act.dharshi.97	1170.36	1170.48	B	UI	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.238	1170.0	1170.81	D	ME	el.ass	-1	0	Three ?
+TS3006d.D.dialog-act.dharshi.239	1170.81	1175.34	D	ME	ass	+1	1	Okay well I say still two , but it has to be three then .
+TS3006d.A.dialog-act.dharshi.234	1172.821	1177.1	A	PM	ass	-1	0	{vocalsound} Hey , you're marketing , eh . {vocalsound}
+TS3006d.B.dialog-act.dharshi.96	1175.251	1176.668	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.240	1175.34	1177.25	D	ME	ass	-1	0	Yeah I know .
+TS3006d.D.dialog-act.dharshi.241	1177.25	1182.62	D	ME	inf	-1	0	So it's made bold . But it's {disfmarker} nah , it's not very clear on the sc
+TS3006d.A.dialog-act.dharshi.235	1179.23	1181.25	A	PM	sug	-1	0	Hmm . M maybe underline .
+TS3006d.B.dialog-act.dharshi.98	1181.68	1182.69	B	UI	sug	-1	0	Or give it a colour .
+TS3006d.D.dialog-act.dharshi.242	1182.62	1184.15	D	ME	ass	-1	0	Maybe other colour , yeah .
+TS3006d.D.dialog-act.dharshi.243	1184.15	1184.75	D	ME	ass	-1	0	That's better .
+TS3006d.A.dialog-act.dharshi.236	1185.788	1188.01	A	PM	sug	-1	0	{vocalsound} Red . {vocalsound}
+TS3006d.D.dialog-act.dharshi.244	1186.07	1186.64	D	ME	stl	-1	0	Uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.245	1188.31	1190.21	D	ME	ass	-1	0	Yeah . Alright .
+TS3006d.D.dialog-act.dharshi.246	1190.21	1192.19	D	ME	ass	-1	0	Oh , it doesn't have to be bold anymore .
+TS3006d.A.dialog-act.dharshi.237	1192.257	1200.13	A	PM	ass	-1	0	{vocalsound} Oh yeah very true .
+TS3006d.B.dialog-act.dharshi.99	1193.083	1194.163	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.247	1193.189	1194.28	D	ME	ass	-1	0	{vocalsound} Alright .
+TS3006d.D.dialog-act.dharshi.249	1195.9	1197.56	D	ME	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.100	1196.87	1198.764	B	UI	ass	-1	0	Yeah true one . {vocalsound}
+TS3006d.D.dialog-act.dharshi.250	1197.56	1202.611	D	ME	fra	-1	0	Um well the remote control has {disfmarker} {vocalsound} Wha {vocalsound}
+TS3006d.A.dialog-act.dharshi.238	1200.13	1205.66	A	PM	inf	-1	0	{vocalsound} He types everything . {vocalsound}
+TS3006d.C.dialog-act.dharshi.127	1201.004	1205.31	C	ID	ass	-1	0	{vocalsound} Definitely one . It has to be .
+TS3006d.B.dialog-act.dharshi.101	1203.7	1203.98	B	UI	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.248	1203.791	1204.3	D	ME	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.251	1206.02	1209.24	D	ME	el.ass	+1	1	The remote control has irrelevant or less used functions .
+TS3006d.D.dialog-act.dharshi.252	1209.24	1211.53	D	ME	inf	-1	0	For example audio settings and screen settings .
+TS3006d.B.dialog-act.dharshi.102	1210.44	1213.42	B	UI	ass	-1	0	It hides uh basic functions . {vocalsound}
+TS3006d.A.dialog-act.dharshi.239	1211.055	1216.376	A	PM	ass	-1	0	{vocalsound} Everything . {vocalsound} You don't use anything else . {vocalsound}
+TS3006d.D.dialog-act.dharshi.253	1211.609	1220.8	D	ME	ass	+1	1	{vocalsound} Yeah . Well , yeah . So it it's a very true point . I mean it hides all those function .
+TS3006d.C.dialog-act.dharshi.128	1212.189	1218.04	C	ID	be.pos	-1	0	{vocalsound} You're not gonna find them .
+TS3006d.A.dialog-act.dharshi.240	1218.9	1220.85	A	PM	ass	-1	0	Yeah . Yeah okay . Yeah .
+TS3006d.B.dialog-act.dharshi.103	1220.8	1221.41	B	UI	ass	-1	0	Yeah true .
+TS3006d.D.dialog-act.dharshi.255	1220.8	1222.36	D	ME	inf	-1	0	But , I mean uh they're hidden in the screen .
+TS3006d.D.dialog-act.dharshi.256	1222.36	1225.98	D	ME	inf	-1	0	If you don't want to use them , you don't s you s just scroll over them .
+TS3006d.D.dialog-act.dharshi.257	1225.98	1226.78	D	ME	inf	-1	0	And you place them {disfmarker}
+TS3006d.A.dialog-act.dharshi.241	1227.39	1227.65	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.D.dialog-act.dharshi.258	1227.602	1229.37	D	ME	inf	-1	0	{vocalsound} F I don't know where .
+TS3006d.D.dialog-act.dharshi.259	1229.37	1232.21	D	ME	ass	-1	0	So that's very true , I guess , for our case .
+TS3006d.C.dialog-act.dharshi.129	1233.34	1235.62	C	ID	ass	-1	0	Yeah the next {disfmarker} Not so much so .
+TS3006d.D.dialog-act.dharshi.260	1233.28	1235.32	D	ME	inf	-1	0	Uh the second point .
+TS3006d.D.dialog-act.dharshi.262	1235.32	1238.09	D	ME	el.ass	+1	1	It shows the relevant and most used functions .
+TS3006d.A.dialog-act.dharshi.242	1238.0	1238.8	A	PM	bck	-1	0	Nope .
+TS3006d.D.dialog-act.dharshi.263	1238.09	1238.89	D	ME	inf	-1	0	Power button .
+TS3006d.D.dialog-act.dharshi.264	1240.06	1241.5	D	ME	el.inf	-1	0	Do we ha still have a power button ?
+TS3006d.A.dialog-act.dharshi.243	1241.38	1244.54	A	PM	sug	-1	0	Uh check with the Excel sheet .
+TS3006d.D.dialog-act.dharshi.265	1241.5	1243.37	D	ME	inf	-1	0	Well yeah the button's integrated , huh ?
+TS3006d.B.dialog-act.dharshi.104	1243.626	1245.952	B	UI	fra	-1	0	{vocalsound} I think we are {disfmarker}
+TS3006d.C.dialog-act.dharshi.130	1243.58	1244.03	C	ID	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.131	1245.21	1246.85	C	ID	ass	-1	0	Yeah it's uh it's integrated .
+TS3006d.D.dialog-act.dharshi.266	1246.01	1246.81	D	ME	ass	-1	0	Yeah we dropped it .
+TS3006d.D.dialog-act.dharshi.267	1246.81	1249.33	D	ME	stl	-1	0	You j you just push it in for {disfmarker}
+TS3006d.B.dialog-act.dharshi.105	1247.64	1248.08	B	UI	stl	-1	0	It's in {disfmarker}
+TS3006d.B.dialog-act.dharshi.106	1248.08	1249.65	B	UI	ass	-1	0	Oh yeah it was integrateds . Yeah .
+TS3006d.A.dialog-act.dharshi.244	1249.15	1250.18	A	PM	ass	-1	0	Yeah integrate it .
+TS3006d.D.dialog-act.dharshi.268	1249.33	1253.25	D	ME	inf	-1	0	Yeah just just push it in for th for three seconds or something , and then {disfmarker}
+TS3006d.A.dialog-act.dharshi.245	1252.91	1253.27	A	PM	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.132	1252.55	1255.03	C	ID	ass	-1	0	E exactly just like a m mobile .
+TS3006d.D.dialog-act.dharshi.269	1253.25	1254.27	D	ME	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.270	1254.27	1256.4	D	ME	ass	-1	0	I don't know . {vocalsound}
+TS3006d.A.dialog-act.dharshi.246	1254.94	1257.676	A	PM	ass	-1	0	Just go scrolling and it will activate . {vocalsound}
+TS3006d.B.dialog-act.dharshi.107	1256.53	1257.051	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.271	1256.4	1257.6	D	ME	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.272	1257.6	1260.91	D	ME	inf	-1	0	Um it shows the relevant and most used functions .
+TS3006d.C.dialog-act.dharshi.133	1258.788	1259.724	C	ID	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.134	1261.052	1261.798	C	ID	fra	-1	0	{gap} .
+TS3006d.D.dialog-act.dharshi.273	1262.84	1263.92	D	ME	stl	-1	0	Yeah uh on the other {disfmarker}
+TS3006d.D.dialog-act.dharshi.274	1263.92	1266.92	D	ME	ass	-1	0	uh on one side I would say yes , and the other side I would say no .
+TS3006d.D.dialog-act.dharshi.275	1268.07	1269.98	D	ME	ass	-1	0	So it's {disfmarker} I don't know .
+TS3006d.A.dialog-act.dharshi.247	1269.95	1274.141	A	PM	ass	-1	0	It shows the most used functions and they are relevant , but {disfmarker}
+TS3006d.B.dialog-act.dharshi.108	1272.75	1276.69	B	UI	el.inf	-1	0	Can you uh change channels directly with with just one button ?
+TS3006d.D.dialog-act.dharshi.276	1273.44	1274.01	D	ME	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.109	1276.69	1280.38	B	UI	inf	-1	0	No , you have to scroll through the menu , before
+TS3006d.D.dialog-act.dharshi.278	1278.05	1279.72	D	ME	fra	-1	0	With the scroll butt
+TS3006d.D.dialog-act.dharshi.277	1279.72	1281.37	D	ME	ass	-1	0	Yeah and then say channel .
+TS3006d.D.dialog-act.dharshi.279	1281.37	1281.9	D	ME	fra	-1	0	And then {disfmarker}
+TS3006d.B.dialog-act.dharshi.110	1281.37	1283.731	B	UI	ass	-1	0	Yeah . So it's it's not {disfmarker}
+TS3006d.C.dialog-act.dharshi.135	1282.42	1288.46	C	ID	sug	-1	0	Well uh we should b build it so that if you don't kind of push into the menu or something , if {disfmarker}
+TS3006d.C.dialog-act.dharshi.136	1288.46	1289.95	C	ID	sug	-1	0	When it's on , yeah , it's turned on ,
+TS3006d.A.dialog-act.dharshi.248	1289.52	1291.867	A	PM	el.inf	-1	0	You say you double click on the {disfmarker}
+TS3006d.D.dialog-act.dharshi.280	1289.43	1290.02	D	ME	und	-1	0	Hmm ?
+TS3006d.C.dialog-act.dharshi.137	1291.47	1295.81	C	ID	sug	+1	1	It automatically has the the programme and the volume function ,
+TS3006d.D.dialog-act.dharshi.281	1291.91	1292.27	D	ME	inf	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.138	1295.81	1298.24	C	ID	sug	-1	0	but as soon as you click it you go into the menu or some {gap} {disfmarker}
+TS3006d.C.dialog-act.dharshi.139	1298.24	1298.5	C	ID	stl	-1	0	Of you {disfmarker}
+TS3006d.D.dialog-act.dharshi.282	1297.88	1298.22	D	ME	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.140	1298.5	1299.45	C	ID	sug	-1	0	Or you double click it .
+TS3006d.D.dialog-act.dharshi.283	1299.14	1302.77	D	ME	el.inf	-1	0	But but how do you change from volume to channel ?
+TS3006d.A.dialog-act.dharshi.249	1303.812	1305.25	A	PM	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.141	1303.81	1305.54	C	ID	inf	-1	0	No because it has four arrows ,
+TS3006d.C.dialog-act.dharshi.142	1305.54	1305.95	C	ID	el.inf	-1	0	right ?
+TS3006d.A.dialog-act.dharshi.250	1306.25	1307.37	A	PM	inf	-1	0	No , not anymore .
+TS3006d.B.dialog-act.dharshi.111	1306.52	1307.917	B	UI	inf	-1	0	No . {vocalsound}
+TS3006d.D.dialog-act.dharshi.284	1306.79	1307.797	D	ME	inf	-1	0	No . {vocalsound}
+TS3006d.A.dialog-act.dharshi.251	1307.37	1310.87	A	PM	inf	-1	0	Because he's {gap} now have a scroll-wheel that you can push in .
+TS3006d.C.dialog-act.dharshi.143	1307.78	1308.49	C	ID	ass	-1	0	Oh yeah .
+TS3006d.B.dialog-act.dharshi.112	1309.22	1309.53	B	UI	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.252	1311.44	1312.76	A	PM	inf	-1	0	Like on the the mouse .
+TS3006d.C.dialog-act.dharshi.144	1311.21	1314.98	C	ID	inf	-1	0	Yeah I was thinking still about our uh integrated joystick .
+TS3006d.D.dialog-act.dharshi.285	1314.83	1318.82	D	ME	inf	-1	0	No we have n we have no buttons left . So {vocalsound}
+TS3006d.C.dialog-act.dharshi.145	1318.56	1319.4	C	ID	fra	-1	0	Say .
+TS3006d.D.dialog-act.dharshi.286	1318.82	1321.35	D	ME	inf	-1	0	the joystick was not an option .
+TS3006d.C.dialog-act.dharshi.146	1320.79	1322.57	C	ID	ass	-1	0	Yeah that is a bummer .
+TS3006d.D.dialog-act.dharshi.287	1321.35	1325.28	D	ME	stl	-1	0	So {disfmarker} {vocalsound} so you hav {vocalsound}
+TS3006d.A.dialog-act.dharshi.253	1323.06	1326.438	A	PM	bck	-1	0	Yeah . {vocalsound}
+TS3006d.D.dialog-act.dharshi.288	1325.28	1326.94	D	ME	inf	-1	0	So you you have to double-click ,
+TS3006d.D.dialog-act.dharshi.289	1326.94	1329.34	D	ME	inf	-1	0	I mean , for , I mean , uh volume ,
+TS3006d.A.dialog-act.dharshi.254	1328.72	1330.51	A	PM	ass	-1	0	To get into menu . Yeah .
+TS3006d.D.dialog-act.dharshi.290	1329.34	1332.97	D	ME	inf	-1	0	and three double click for the menu , or something .
+TS3006d.B.dialog-act.dharshi.113	1331.334	1332.99	B	UI	ass	-1	0	{vocalsound} Oh no .
+TS3006d.A.dialog-act.dharshi.255	1331.836	1338.311	A	PM	be.pos	-1	0	{vocalsound} Or hold it ten seconds . {vocalsound}
+TS3006d.C.dialog-act.dharshi.147	1332.46	1337.08	C	ID	be.pos	-1	0	{vocalsound} We'll make it a Morse code .
+TS3006d.D.dialog-act.dharshi.291	1332.97	1334.17	D	ME	ass	-1	0	{vocalsound} Yeah .
+TS3006d.D.dialog-act.dharshi.292	1334.17	1336.79	D	ME	be.pos	-1	0	{vocalsound} Yeah . Yeah . Alright .
+TS3006d.B.dialog-act.dharshi.114	1336.948	1337.582	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.293	1336.99	1340.11	D	ME	inf	-1	0	But but ease of use was not very important , may I remind you .
+TS3006d.A.dialog-act.dharshi.256	1339.67	1343.182	A	PM	ass	-1	0	No no no . Uh it should be trendy . {vocalsound}
+TS3006d.D.dialog-act.dharshi.294	1340.11	1341.46	D	ME	stl	-1	0	So that's {disfmarker}
+TS3006d.B.dialog-act.dharshi.115	1341.372	1344.092	B	UI	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.148	1341.897	1343.022	C	ID	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.295	1341.46	1343.2	D	ME	ass	-1	0	Yeah but that that's not a question .
+TS3006d.C.dialog-act.dharshi.149	1343.697	1344.147	C	ID	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.296	1343.2	1347.08	D	ME	inf	-1	0	Uh the remote control shows the relevant and most used functions .
+TS3006d.B.dialog-act.dharshi.116	1345.844	1346.618	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.297	1347.08	1348.78	D	ME	ass	-1	0	Well I think it's pretty much in the middle .
+TS3006d.A.dialog-act.dharshi.257	1348.96	1350.24	A	PM	ass	-1	0	Yeah . Four .
+TS3006d.D.dialog-act.dharshi.298	1350.19	1354.601	D	ME	ass	-1	0	You have to search for them in in the in the s in the screen , in the menu . So {disfmarker}
+TS3006d.A.dialog-act.dharshi.258	1352.03	1353.32	A	PM	ass	-1	0	Yeah , im {disfmarker} in the menu .
+TS3006d.B.dialog-act.dharshi.117	1355.17	1356.556	B	UI	ass	-1	0	Seven . {vocalsound}
+TS3006d.C.dialog-act.dharshi.150	1354.75	1355.28	C	ID	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.299	1355.47	1357.946	D	ME	ass	-1	0	So maybe it's more like a f a five . Or {disfmarker}
+TS3006d.B.dialog-act.dharshi.118	1357.48	1358.45	B	UI	ass	-1	0	Yeah . Five .
+TS3006d.C.dialog-act.dharshi.151	1357.71	1359.87	C	ID	ass	-1	0	Yeah I would go for five or six , yeah .
+TS3006d.D.dialog-act.dharshi.300	1359.89	1360.73	D	ME	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.301	1360.73	1361.66	D	ME	el.ass	-1	0	Five or six ?
+TS3006d.A.dialog-act.dharshi.259	1361.93	1362.39	A	PM	ass	-1	0	Five .
+TS3006d.B.dialog-act.dharshi.119	1363.85	1364.84	B	UI	ass	-1	0	Five . Yep .
+TS3006d.C.dialog-act.dharshi.152	1363.55	1365.06	C	ID	ass	+1	1	Okay five .
+TS3006d.D.dialog-act.dharshi.302	1364.43	1366.26	D	ME	ass	-1	0	Five ? Alright .
+TS3006d.C.dialog-act.dharshi.153	1365.06	1366.29	C	ID	ass	-1	0	Let's not diss our remote .
+TS3006d.B.dialog-act.dharshi.120	1366.3	1367.404	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.303	1366.26	1366.76	D	ME	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.260	1369.23	1375.628	A	PM	ass	-1	0	It's the weirdest remote control I've ever seen . So {disfmarker} {vocalsound}
+TS3006d.D.dialog-act.dharshi.304	1371.27	1372.025	D	ME	oth	-1	0	Oh . {vocalsound}
+TS3006d.D.dialog-act.dharshi.305	1374.48	1374.9	D	ME	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.154	1375.22	1375.76	C	ID	ass	-1	0	Yep .
+TS3006d.C.dialog-act.dharshi.155	1377.37	1379.964	C	ID	ass	-1	0	Just one button . {vocalsound}
+TS3006d.A.dialog-act.dharshi.261	1378.17	1382.82	A	PM	ass	-1	0	{vocalsound} Well it's different . {vocalsound}
+TS3006d.D.dialog-act.dharshi.306	1378.588	1381.24	D	ME	stl	-1	0	{vocalsound} Yeah . Alright .
+TS3006d.D.dialog-act.dharshi.307	1381.24	1388.49	D	ME	el.ass	+1	1	Uh the the remote control makes use of technolog technological innovation like L_C_D_ screen and speech recognition .
+TS3006d.C.dialog-act.dharshi.156	1382.29	1383.22	C	ID	ass	-1	0	But {disfmarker} Uh yep .
+TS3006d.A.dialog-act.dharshi.262	1387.25	1387.93	A	PM	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.308	1388.49	1393.34	D	ME	ass	-1	0	Well yeah but we dropped the speech recognition . But it has at least one innovation .
+TS3006d.A.dialog-act.dharshi.263	1390.63	1391.682	A	PM	bck	-1	0	Yeah , it's still {disfmarker}
+TS3006d.A.dialog-act.dharshi.264	1394.49	1395.48	A	PM	ass	+1	1	Yeah , I say two .
+TS3006d.B.dialog-act.dharshi.121	1396.32	1396.67	B	UI	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.157	1395.822	1398.75	C	ID	ass	-1	0	{vocalsound} We still have the fruit and vegetable print .
+TS3006d.D.dialog-act.dharshi.309	1395.94	1396.99	D	ME	ass	-1	0	I say two then .
+TS3006d.A.dialog-act.dharshi.265	1399.6	1402.289	A	PM	ass	-1	0	Oh , that's the next . {vocalsound}
+TS3006d.D.dialog-act.dharshi.310	1399.54	1404.11	D	ME	ass	-1	0	Yeah but {disfmarker} {vocalsound} that that's not that's not this question . Uh thi uh that's the other question .
+TS3006d.C.dialog-act.dharshi.158	1400.07	1403.64	C	ID	ass	-1	0	Fr Oh I mean the {disfmarker} Oh never mind .
+TS3006d.C.dialog-act.dharshi.159	1403.64	1404.48	C	ID	ass	-1	0	I'm a bit lost .
+TS3006d.A.dialog-act.dharshi.266	1404.496	1405.232	A	PM	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.311	1404.99	1405.51	D	ME	inf	-1	0	This one .
+TS3006d.B.dialog-act.dharshi.122	1405.71	1407.77	B	UI	ass	-1	0	I think a two . No .
+TS3006d.A.dialog-act.dharshi.267	1406.92	1407.24	A	PM	ass	-1	0	Two .
+TS3006d.D.dialog-act.dharshi.312	1407.25	1408.97	D	ME	ass	-1	0	Two yeah .
+TS3006d.C.dialog-act.dharshi.160	1408.565	1409.368	C	ID	fra	-1	0	{gap} .
+TS3006d.B.dialog-act.dharshi.123	1409.37	1409.53	B	UI	bck	-1	0	Yep .
+TS3006d.D.dialog-act.dharshi.313	1408.97	1412.57	D	ME	ass	-1	0	I think L_C_D_'s more useful than speech {disfmarker}
+TS3006d.A.dialog-act.dharshi.268	1412.37	1414.01	A	PM	ass	-1	0	Yeah definitely .
+TS3006d.D.dialog-act.dharshi.314	1412.57	1413.73	D	ME	oth	-1	0	What ?
+TS3006d.D.dialog-act.dharshi.315	1413.73	1415.11	D	ME	oth	-1	0	Oh not the bold one .
+TS3006d.C.dialog-act.dharshi.161	1415.75	1417.32	C	ID	ass	-1	0	It's way more practical , yeah .
+TS3006d.D.dialog-act.dharshi.316	1417.84	1420.29	D	ME	stl	-1	0	Right .
+TS3006d.D.dialog-act.dharshi.317	1420.29	1426.57	D	ME	inf	+1	1	Okay , it has a fancy look and feel by using fruit and vegetable prints , primary colours and sponge-like material .
+TS3006d.C.dialog-act.dharshi.162	1426.93	1427.45	C	ID	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.318	1426.57	1433.8	D	ME	ass	+1	1	{vocalsound} It should have been two questions . {vocalsound} I realise now , because {vocalsound} sponge-like material is dropped .
+TS3006d.A.dialog-act.dharshi.269	1427.98	1430.604	A	PM	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.319	1433.8	1435.017	D	ME	ass	-1	0	But the look and feel {disfmarker}
+TS3006d.A.dialog-act.dharshi.270	1436.22	1438.32	A	PM	el.inf	-1	0	You still have rubber d Or no .
+TS3006d.C.dialog-act.dharshi.163	1436.29	1437.51	C	ID	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.164	1437.51	1443.89	C	ID	ass	+1	1	So we still uh we still have the primary colours . But only on the on the outside , not on the button .
+TS3006d.B.dialog-act.dharshi.124	1438.29	1439.45	B	UI	inf	-1	0	No you got a plastic .
+TS3006d.D.dialog-act.dharshi.320	1439.96	1440.32	D	ME	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.271	1440.64	1440.87	A	PM	bck	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.125	1441.36	1441.63	B	UI	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.321	1444.09	1446.37	D	ME	ass	-1	0	The button has also colour . Yeah .
+TS3006d.A.dialog-act.dharshi.272	1445.96	1446.87	A	PM	inf	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.165	1445.67	1446.62	C	ID	el.inf	-1	0	Yeah ?
+TS3006d.A.dialog-act.dharshi.273	1446.87	1448.816	A	PM	inf	-1	0	{vocalsound} The one button we have . {vocalsound}
+TS3006d.C.dialog-act.dharshi.166	1446.62	1447.25	C	ID	ass	-1	0	Okay .
+TS3006d.D.dialog-act.dharshi.322	1447.551	1449.9	D	ME	ass	-1	0	{vocalsound} Yeah . The one .
+TS3006d.C.dialog-act.dharshi.167	1448.35	1449.51	C	ID	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.168	1449.51	1453.57	C	ID	el.inf	+1	1	Yeah still we we dropped also on the the double uh curve .
+TS3006d.A.dialog-act.dharshi.274	1453.82	1457.29	A	PM	sug	-1	0	Yeah you could check with the Excel sheet .
+TS3006d.D.dialog-act.dharshi.323	1454.23	1454.91	D	ME	bck	-1	0	Mm mm .
+TS3006d.B.dialog-act.dharshi.126	1456.01	1458.22	B	UI	inf	-1	0	Yeah . You only have one {disfmarker} Yeah .
+TS3006d.D.dialog-act.dharshi.325	1456.74	1459.03	D	ME	inf	-1	0	Yeah we have single curve now ,
+TS3006d.C.dialog-act.dharshi.169	1459.01	1460.48	C	ID	inf	-1	0	And and colour .
+TS3006d.D.dialog-act.dharshi.326	1459.03	1463.05	D	ME	inf	-1	0	and no and no material
+TS3006d.C.dialog-act.dharshi.170	1461.83	1462.5	C	ID	ass	-1	0	Yeah . S
+TS3006d.D.dialog-act.dharshi.324	1463.05	1465.57	D	ME	el.ass	+1	1	. So maybe in the middle or something .
+TS3006d.A.dialog-act.dharshi.275	1465.03	1465.63	A	PM	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.127	1464.82	1465.88	B	UI	ass	-1	0	Four . Yeah .
+TS3006d.C.dialog-act.dharshi.171	1466.26	1466.84	C	ID	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.327	1467.29	1468.59	D	ME	fra	-1	0	Yeah , I mean it's
+TS3006d.A.dialog-act.dharshi.276	1468.77	1469.68	A	PM	ass	-1	0	Yeah or three .
+TS3006d.C.dialog-act.dharshi.172	1469.805	1470.893	C	ID	stl	-1	0	{vocalsound} Uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.328	1470.56	1471.59	D	ME	ass	-1	0	worth the {disfmarker} Yeah .
+TS3006d.A.dialog-act.dharshi.277	1471.5	1472.35	A	PM	ass	-1	0	We have something .
+TS3006d.C.dialog-act.dharshi.173	1471.75	1474.49	C	ID	ass	+1	1	Actually we d we didn't do so well on this one .
+TS3006d.C.dialog-act.dharshi.174	1474.49	1480.81	C	ID	ass	-1	0	Because it's basically an old one , uh with little curve on the side , and in a different colour .
+TS3006d.C.dialog-act.dharshi.175	1480.81	1482.71	C	ID	ass	-1	0	Still , it's still hard .
+TS3006d.D.dialog-act.dharshi.329	1482.07	1482.46	D	ME	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.176	1482.71	1487.55	C	ID	ass	+1	1	I mean the sponge-like and the three D_ shape , that would give it something young and fresh .
+TS3006d.A.dialog-act.dharshi.278	1486.99	1487.8	A	PM	ass	-1	0	New . Yeah .
+TS3006d.D.dialog-act.dharshi.330	1488.41	1491.39	D	ME	ass	-1	0	Yeah . But then we would have to drop the screen .
+TS3006d.B.dialog-act.dharshi.128	1490.67	1492.342	B	UI	inf	-1	0	Red . {vocalsound}
+TS3006d.D.dialog-act.dharshi.331	1491.39	1492.16	D	ME	ass	-1	0	Oh red .
+TS3006d.D.dialog-act.dharshi.332	1493.22	1493.43	D	ME	stl	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.279	1493.8	1496.369	A	PM	ass	-1	0	You like both . {vocalsound}
+TS3006d.D.dialog-act.dharshi.333	1494.477	1497.28	D	ME	ass	-1	0	{vocalsound} Yeah . {vocalsound} I like bold .
+TS3006d.A.dialog-act.dharshi.280	1497.74	1498.175	A	PM	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.334	1499.41	1502.604	D	ME	el.ass	+1	1	Uh the remote control displays the corporate logo . {vocalsound}
+TS3006d.A.dialog-act.dharshi.281	1502.8	1504.14	A	PM	ass	-1	0	Um oh yeah .
+TS3006d.B.dialog-act.dharshi.129	1503.004	1503.372	B	UI	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.130	1504.57	1506.572	B	UI	ass	-1	0	Mm yeah yeah . {vocalsound}
+TS3006d.C.dialog-act.dharshi.177	1504.89	1505.64	C	ID	ass	-1	0	Of course .
+TS3006d.A.dialog-act.dharshi.283	1505.404	1509.28	A	PM	fra	-1	0	{vocalsound} I just couldn't {disfmarker}
+TS3006d.D.dialog-act.dharshi.335	1505.748	1507.45	D	ME	bck	-1	0	{vocalsound} Yeah .
+TS3006d.C.dialog-act.dharshi.178	1506.405	1507.23	C	ID	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.336	1507.45	1513.333	D	ME	sug	-1	0	{vocalsound} You just have to draw it . {vocalsound}
+TS3006d.A.dialog-act.dharshi.284	1509.28	1510.26	A	PM	oth	-1	0	{vocalsound} Um , just one minute .
+TS3006d.B.dialog-act.dharshi.131	1510.95	1512.636	B	UI	inf	-1	0	It's the white part uh {disfmarker}
+TS3006d.C.dialog-act.dharshi.179	1510.52	1511.44	C	ID	stl	-1	0	Yeah but it {disfmarker}
+TS3006d.C.dialog-act.dharshi.180	1511.44	1519.928	C	ID	inf	-1	0	be because uh we couldn't hardly draw on the b s on the lower half of the screen , we could not make it big enough to actually draw in the {disfmarker}
+TS3006d.A.dialog-act.dharshi.282	1518.803	1519.807	A	PM	fra	-1	0	{gap} .
+TS3006d.B.dialog-act.dharshi.132	1519.75	1521.78	B	UI	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.337	1520.22	1520.7	D	ME	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.285	1522.2	1522.963	A	PM	fra	-1	0	So {disfmarker}
+TS3006d.B.dialog-act.dharshi.133	1521.78	1523.021	B	UI	fra	-1	0	We have a we have a {disfmarker}
+TS3006d.C.dialog-act.dharshi.181	1521.77	1525.045	C	ID	inf	-1	0	So I mean I wanted to put digits on the buttons as well . But {disfmarker}
+TS3006d.D.dialog-act.dharshi.338	1524.98	1530.29	D	ME	ass	+1	1	But there's uh enough space for the corporate logo . I mean , {vocalsound} if there's only one thing .
+TS3006d.C.dialog-act.dharshi.182	1528.53	1531.14	C	ID	ass	-1	0	Hell yeah . If we have only one button .
+TS3006d.D.dialog-act.dharshi.339	1531.28	1535.33	D	ME	ass	-1	0	Yeah . So I will say that is very true .
+TS3006d.A.dialog-act.dharshi.286	1535.806	1536.575	A	PM	fra	-1	0	{gap} .
+TS3006d.B.dialog-act.dharshi.134	1536.79	1537.41	B	UI	bck	-1	0	Mm-hmm .
+TS3006d.C.dialog-act.dharshi.184	1537.15	1541.94	C	ID	ass	+1	1	And even the shape we have now uh simulates kind of an R_ and the reversed R_ ,
+TS3006d.B.dialog-act.dharshi.135	1542.237	1542.908	B	UI	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.185	1541.94	1544.66	C	ID	el.ass	-1	0	doesn't it ?
+TS3006d.D.dialog-act.dharshi.340	1542.313	1544.62	D	ME	ass	-1	0	{vocalsound} Yeah .
+TS3006d.C.dialog-act.dharshi.186	1544.66	1545.635	C	ID	fra	-1	0	{vocalsound} So {disfmarker}
+TS3006d.D.dialog-act.dharshi.341	1544.62	1547.54	D	ME	el.ass	+1	1	{vocalsound} The remote control is easy to use .
+TS3006d.D.dialog-act.dharshi.342	1547.54	1550.12	D	ME	ass	-1	0	Well I would say {disfmarker} {vocalsound}
+TS3006d.C.dialog-act.dharshi.187	1549.34	1550.02	C	ID	ass	-1	0	No .
+TS3006d.D.dialog-act.dharshi.343	1550.12	1555.93	D	ME	ass	+1	1	Skill , uh I would say six , or something . I don't think it's easy to use , or not so .
+TS3006d.C.dialog-act.dharshi.188	1554.935	1560.82	C	ID	ass	+1	1	{vocalsound} The only e the only thing easy about it is that you don't have to move your fingers . 'Cause it has only one button .
+TS3006d.B.dialog-act.dharshi.136	1556.16	1556.6	B	UI	fra	-1	0	Ah i
+TS3006d.D.dialog-act.dharshi.344	1559.57	1560.08	D	ME	bck	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.137	1560.07	1563.85	B	UI	ass	-1	0	And that you only have to control one button . {vocalsound}
+TS3006d.C.dialog-act.dharshi.189	1562.84	1563.68	C	ID	ass	-1	0	Yeah exactly .
+TS3006d.D.dialog-act.dharshi.345	1562.722	1563.93	D	ME	ass	-1	0	{vocalsound} Yeah .
+TS3006d.D.dialog-act.dharshi.347	1563.93	1565.86	D	ME	ass	-1	0	It it it has a nice screen .
+TS3006d.D.dialog-act.dharshi.348	1565.86	1567.29	D	ME	fra	-1	0	But {disfmarker} Yeah .
+TS3006d.B.dialog-act.dharshi.138	1567.54	1569.463	B	UI	ass	-1	0	It gives visual feedback . So {disfmarker}
+TS3006d.D.dialog-act.dharshi.349	1569.13	1571.67	D	ME	ass	+1	1	Yeah . Well I I would say a five or a six .
+TS3006d.B.dialog-act.dharshi.139	1572.43	1575.187	B	UI	ass	-1	0	I think a five . Five . {vocalsound}
+TS3006d.C.dialog-act.dharshi.190	1572.001	1573.36	C	ID	ass	-1	0	{vocalsound} I would say six .
+TS3006d.D.dialog-act.dharshi.350	1574.21	1577.0	D	ME	el.ass	-1	0	What do you say ? Easy to use ? Five or a six ?
+TS3006d.C.dialog-act.dharshi.191	1575.04	1577.27	C	ID	ass	+1	1	It's really not easy to use .
+TS3006d.B.dialog-act.dharshi.140	1576.022	1576.656	B	UI	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.287	1577.46	1578.48	A	PM	ass	-1	0	No not anymore .
+TS3006d.B.dialog-act.dharshi.141	1577.215	1577.587	B	UI	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.192	1577.27	1578.757	C	ID	fra	-1	0	'Cause you're putting everything {disfmarker}
+TS3006d.D.dialog-act.dharshi.351	1579.12	1580.28	D	ME	ass	-1	0	So a six , more .
+TS3006d.A.dialog-act.dharshi.288	1580.21	1580.51	A	PM	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.352	1581.37	1584.535	D	ME	ass	-1	0	Yeah , uh I would go for the six too . So {disfmarker}
+TS3006d.B.dialog-act.dharshi.142	1583.17	1584.14	B	UI	ass	-1	0	Okay . Yeah .
+TS3006d.C.dialog-act.dharshi.193	1586.73	1589.23	C	ID	ass	-1	0	Most votes count . Um {disfmarker}
+TS3006d.A.dialog-act.dharshi.289	1588.94	1590.836	A	PM	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.353	1588.799	1589.209	D	ME	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.143	1590.492	1590.748	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.369	1591.08	1594.04	D	ME	inf	-1	0	Um well , another question ,
+TS3006d.B.dialog-act.dharshi.145	1591.87	1593.23	B	UI	ass	-1	0	Yeah that looks uh great .
+TS3006d.D.dialog-act.dharshi.354	1594.04	1596.14	D	ME	el.ass	+1	1	uh the remote control is durable .
+TS3006d.B.dialog-act.dharshi.144	1594.646	1595.019	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.355	1596.14	1597.71	D	ME	inf	-1	0	I don't know if that's the correct word .
+TS3006d.B.dialog-act.dharshi.146	1597.09	1598.125	B	UI	ass	-1	0	Yeah . Nah {disfmarker}
+TS3006d.C.dialog-act.dharshi.194	1597.62	1602.1	C	ID	ass	+1	1	Definitely in casing , 'cause we have a hard plastic
+TS3006d.D.dialog-act.dharshi.356	1597.71	1598.228	D	ME	fra	-1	0	But uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.357	1598.7	1600.81	D	ME	el.ass	-1	0	In use , both battery as casing ?
+TS3006d.C.dialog-act.dharshi.195	1602.1	1603.3	C	ID	ass	-1	0	{disfmarker} Yeah .
+TS3006d.C.dialog-act.dharshi.196	1603.3	1607.33	C	ID	ass	+1	1	Yeah because the the batteries , those thingies last forever .
+TS3006d.D.dialog-act.dharshi.358	1602.93	1603.25	D	ME	el.ass	-1	0	Yeah ?
+TS3006d.D.dialog-act.dharshi.359	1607.73	1609.09	D	ME	ass	-1	0	True , true .
+TS3006d.C.dialog-act.dharshi.197	1608.51	1612.25	C	ID	ass	-1	0	And the the casing , hard plastic also lasts forever .
+TS3006d.D.dialog-act.dharshi.360	1609.09	1610.59	D	ME	ass	-1	0	And the casing is plastic , {gap} ?
+TS3006d.B.dialog-act.dharshi.147	1612.33	1612.72	B	UI	bck	-1	0	Yep .
+TS3006d.D.dialog-act.dharshi.361	1612.5	1617.3	D	ME	ass	+1	1	Yeah . If you don't drop it too much , it's uh should last pretty long .
+TS3006d.A.dialog-act.dharshi.290	1613.26	1613.65	A	PM	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.198	1615.66	1618.01	C	ID	ass	-1	0	So I would go for one .
+TS3006d.D.dialog-act.dharshi.362	1618.64	1619.03	D	ME	el.ass	-1	0	Yeah ?
+TS3006d.D.dialog-act.dharshi.363	1619.03	1624.15	D	ME	ass	+1	1	But uh I think rubber compared is better . So I think a two is more appropriate
+TS3006d.B.dialog-act.dharshi.148	1620.94	1621.97	B	UI	bck	-1	0	Yeah . S
+TS3006d.A.dialog-act.dharshi.291	1623.836	1626.01	A	PM	fra	-1	0	{vocalsound} {vocalsound}
+TS3006d.B.dialog-act.dharshi.149	1623.63	1623.95	B	UI	bck	-1	0	Yep .
+TS3006d.C.dialog-act.dharshi.199	1624.35	1625.33	C	ID	ass	-1	0	Okay yeah .
+TS3006d.D.dialog-act.dharshi.364	1625.2	1625.681	D	ME	fra	-1	0	than {disfmarker}
+TS3006d.B.dialog-act.dharshi.150	1627.53	1628.684	B	UI	oth	-1	0	Wow . {vocalsound}
+TS3006d.D.dialog-act.dharshi.365	1630.55	1632.93	D	ME	ass	-1	0	Yeah . Logo .
+TS3006d.A.dialog-act.dharshi.292	1631.634	1632.61	A	PM	bck	-1	0	{vocalsound} Yeah .
+TS3006d.B.dialog-act.dharshi.151	1631.661	1632.972	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.366	1632.93	1634.57	D	ME	ass	+1	1	Okay I will go {disfmarker} go for two .
+TS3006d.D.dialog-act.dharshi.367	1636.285	1638.01	D	ME	inf	-1	0	{vocalsound} Uh the last one ?
+TS3006d.D.dialog-act.dharshi.368	1638.01	1642.51	D	ME	el.ass	+1	1	The remote control's a good example for company's motto , we put the fashion in electronics .
+TS3006d.C.dialog-act.dharshi.200	1640.443	1641.05	C	ID	fra	-1	0	{vocalsound} Oh .
+TS3006d.C.dialog-act.dharshi.201	1644.04	1644.84	C	ID	ass	-1	0	No m
+TS3006d.B.dialog-act.dharshi.152	1644.71	1647.92	B	UI	be.pos	-1	0	No we put the electronics into the fashion . {vocalsound}
+TS3006d.A.dialog-act.dharshi.293	1645.948	1653.27	A	PM	be.pos	-1	0	{vocalsound} Yeah well {disfmarker} yeah .
+TS3006d.C.dialog-act.dharshi.202	1646.604	1652.98	C	ID	stl	-1	0	{vocalsound} I would g
+TS3006d.D.dialog-act.dharshi.370	1646.719	1653.257	D	ME	be.pos	-1	0	{vocalsound} {gap} uh {disfmarker} {gap} turn around . Yeah . But um {disfmarker}
+TS3006d.C.dialog-act.dharshi.203	1652.98	1653.95	C	ID	ass	-1	0	I would go for four .
+TS3006d.A.dialog-act.dharshi.294	1654.66	1655.222	A	PM	ass	-1	0	No {disfmarker}
+TS3006d.D.dialog-act.dharshi.371	1654.58	1654.98	D	ME	el.ass	-1	0	Yeah ?
+TS3006d.C.dialog-act.dharshi.204	1655.23	1660.3	C	ID	ass	+1	1	Because we kind of tried to but we kind of failed with the budget that we have .
+TS3006d.D.dialog-act.dharshi.372	1655.94	1656.652	D	ME	fra	-1	0	It's not {disfmarker}
+TS3006d.D.dialog-act.dharshi.373	1658.609	1661.35	D	ME	ass	-1	0	{vocalsound} Yeah , true .
+TS3006d.A.dialog-act.dharshi.295	1661.34	1661.93	A	PM	ass	-1	0	Yeah okay .
+TS3006d.D.dialog-act.dharshi.374	1662.87	1664.42	D	ME	ass	-1	0	So a four .
+TS3006d.D.dialog-act.dharshi.375	1664.42	1666.57	D	ME	stl	-1	0	It's {disfmarker} {vocalsound} it g
+TS3006d.D.dialog-act.dharshi.376	1666.57	1670.24	D	ME	ass	-1	0	it g goes , it's not the best we could do , I guess .
+TS3006d.C.dialog-act.dharshi.205	1669.3	1669.76	C	ID	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.377	1670.24	1674.728	D	ME	ass	+1	1	But it all has to do with the budget , because it's it's not the bad idea we had , so {disfmarker}
+TS3006d.C.dialog-act.dharshi.206	1674.53	1676.14	C	ID	ass	-1	0	Yeah . Yeah yeah .
+TS3006d.B.dialog-act.dharshi.153	1675.92	1677.26	B	UI	ass	+1	1	Yeah , four is okay .
+TS3006d.D.dialog-act.dharshi.378	1676.39	1677.36	D	ME	ass	-1	0	Alright , yeah .
+TS3006d.D.dialog-act.dharshi.379	1679.0	1679.42	D	ME	stl	-1	0	Right .
+TS3006d.A.dialog-act.dharshi.296	1679.78	1680.612	A	PM	stl	-1	0	So {disfmarker}
+TS3006d.C.dialog-act.dharshi.207	1681.89	1682.48	C	ID	el.inf	-1	0	That's it .
+TS3006d.D.dialog-act.dharshi.380	1681.47	1686.44	D	ME	inf	+1	1	So if I understood it right , we have to count these numbers .
+TS3006d.A.dialog-act.dharshi.297	1686.85	1687.93	A	PM	oth	-1	0	Ooh .
+TS3006d.A.dialog-act.dharshi.298	1687.93	1689.78	A	PM	el.inf	-1	0	And {disfmarker} Yeah ? What ?
+TS3006d.D.dialog-act.dharshi.381	1688.22	1688.842	D	ME	stl	-1	0	Uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.382	1689.86	1691.09	D	ME	inf	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.383	1691.09	1692.709	D	ME	oth	-1	0	Mm-hmm . Oh {disfmarker}
+TS3006d.A.dialog-act.dharshi.299	1693.86	1694.07	A	PM	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.384	1694.44	1696.79	D	ME	oth	-1	0	Oh {disfmarker} Alright .
+TS3006d.D.dialog-act.dharshi.385	1696.79	1697.93	D	ME	oth	-1	0	Word document , the {disfmarker}
+TS3006d.A.dialog-act.dharshi.300	1697.81	1698.08	A	PM	inf	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.301	1698.08	1698.605	A	PM	fra	-1	0	That {disfmarker}
+TS3006d.D.dialog-act.dharshi.386	1697.93	1699.47	D	ME	inf	-1	0	Yeah we have to count them .
+TS3006d.A.dialog-act.dharshi.302	1699.91	1701.26	A	PM	ass	-1	0	Count them .
+TS3006d.A.dialog-act.dharshi.303	1701.26	1702.412	A	PM	el.inf	-1	0	Add them ? Or {disfmarker}
+TS3006d.D.dialog-act.dharshi.387	1700.9	1701.471	D	ME	stl	-1	0	Uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.388	1702.36	1707.43	D	ME	inf	+1	1	Yeah just add them and then uh divide them .
+TS3006d.A.dialog-act.dharshi.304	1705.36	1709.4	A	PM	sug	-1	0	Could somebody start calculator ? {vocalsound}
+TS3006d.D.dialog-act.dharshi.389	1707.43	1707.71	D	ME	ass	-1	0	{vocalsound} Yeah .
+TS3006d.D.dialog-act.dharshi.390	1709.7	1710.73	D	ME	fra	-1	0	Mm . {vocalsound}
+TS3006d.C.dialog-act.dharshi.208	1710.82	1713.861	C	ID	ass	-1	0	Ah we can do the math . Uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.391	1710.73	1712.7	D	ME	stl	-1	0	I all made it po I I all made it
+TS3006d.B.dialog-act.dharshi.154	1711.916	1712.706	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.392	1712.7	1717.33	D	ME	inf	+1	1	I all made it possible uh for a positive questions , so we can count it .
+TS3006d.A.dialog-act.dharshi.305	1716.0	1716.29	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.D.dialog-act.dharshi.393	1717.33	1720.1	D	ME	inf	-1	0	I mean if you have reversed question , you have to reverse the scale ,
+TS3006d.A.dialog-act.dharshi.306	1718.48	1720.96	A	PM	ass	-1	0	Yeah , yeah . You have to {disfmarker}
+TS3006d.D.dialog-act.dharshi.394	1720.1	1722.24	D	ME	stl	-1	0	uh {disfmarker} Yes .
+TS3006d.A.dialog-act.dharshi.307	1720.96	1721.81	A	PM	ass	-1	0	'Kay .
+TS3006d.A.dialog-act.dharshi.308	1721.81	1723.324	A	PM	fra	-1	0	So four and {disfmarker} {vocalsound}
+TS3006d.C.dialog-act.dharshi.209	1721.46	1721.8	C	ID	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.210	1723.84	1725.3	C	ID	el.inf	-1	0	Did you make this questionnaire or what ?
+TS3006d.D.dialog-act.dharshi.395	1725.62	1725.97	D	ME	inf	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.396	1727.196	1729.228	D	ME	be.pos	-1	0	{vocalsound} Thanks . {vocalsound}
+TS3006d.A.dialog-act.dharshi.309	1728.645	1729.93	A	PM	ass	-1	0	{vocalsound} Nice work .
+TS3006d.B.dialog-act.dharshi.155	1729.75	1730.21	B	UI	stl	-1	0	Okay .
+TS3006d.C.dialog-act.dharshi.211	1730.13	1730.53	C	ID	fra	-1	0	Oh .
+TS3006d.B.dialog-act.dharshi.156	1731.3	1732.17	B	UI	inf	-1	0	Three plus ?
+TS3006d.C.dialog-act.dharshi.212	1730.831	1731.318	C	ID	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.213	1732.44	1734.35	C	ID	ass	-1	0	I wouldn't be able to do it that fast .
+TS3006d.A.dialog-act.dharshi.310	1733.21	1733.65	A	PM	inf	-1	0	O one .
+TS3006d.B.dialog-act.dharshi.157	1734.34	1734.91	B	UI	ass	-1	0	Plus one .
+TS3006d.A.dialog-act.dharshi.311	1735.23	1735.99	A	PM	inf	-1	0	Plus five .
+TS3006d.B.dialog-act.dharshi.158	1736.56	1737.38	B	UI	ass	-1	0	Plus five ?
+TS3006d.D.dialog-act.dharshi.397	1737.596	1741.15	D	ME	oth	-1	0	{vocalsound} Oh {disfmarker} Easy .
+TS3006d.A.dialog-act.dharshi.312	1738.13	1739.238	A	PM	oth	-1	0	Bo {vocalsound}
+TS3006d.D.dialog-act.dharshi.398	1741.15	1742.19	D	ME	el.inf	-1	0	{vocalsound} Question number four , yeah ?
+TS3006d.A.dialog-act.dharshi.313	1743.12	1744.45	A	PM	inf	-1	0	Uh two .
+TS3006d.D.dialog-act.dharshi.399	1743.96	1744.642	D	ME	ass	-1	0	Yeah . {vocalsound}
+TS3006d.A.dialog-act.dharshi.314	1746.3	1746.85	A	PM	inf	-1	0	Four .
+TS3006d.B.dialog-act.dharshi.159	1746.46	1748.76	B	UI	oth	-1	0	Oh . Wait a second . Oh . {vocalsound}
+TS3006d.C.dialog-act.dharshi.214	1746.15	1746.4	C	ID	fra	-1	0	F
+TS3006d.A.dialog-act.dharshi.315	1748.676	1749.087	A	PM	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.160	1748.76	1749.74	B	UI	ass	-1	0	It's it's gone wrong .
+TS3006d.D.dialog-act.dharshi.400	1749.311	1750.76	D	ME	el.ass	-1	0	{vocalsound} How hard is it ?
+TS3006d.B.dialog-act.dharshi.161	1751.16	1752.45	B	UI	sug	-1	0	Okay . It's your turn .
+TS3006d.C.dialog-act.dharshi.215	1752.22	1753.52	C	ID	ass	-1	0	Pretty difficult .
+TS3006d.D.dialog-act.dharshi.401	1752.121	1754.14	D	ME	fra	-1	0	{vocalsound} Yeah just use {disfmarker}
+TS3006d.A.dialog-act.dharshi.316	1753.42	1754.44	A	PM	sug	-1	0	Start over ?
+TS3006d.B.dialog-act.dharshi.162	1753.5	1757.08	B	UI	inf	-1	0	No it's if you press twice on the plus button , then you get s s
+TS3006d.D.dialog-act.dharshi.402	1754.14	1756.11	D	ME	stl	-1	0	Oh there tho uh there's no n
+TS3006d.D.dialog-act.dharshi.403	1756.11	1757.5	D	ME	ass	-1	0	There's no num pads .
+TS3006d.A.dialog-act.dharshi.317	1757.02	1757.49	A	PM	fra	-1	0	You can {disfmarker}
+TS3006d.A.dialog-act.dharshi.318	1757.49	1758.742	A	PM	ass	-1	0	Oh yeah . {vocalsound}
+TS3006d.B.dialog-act.dharshi.163	1757.43	1760.343	B	UI	ass	-1	0	No . That's why it's uh {disfmarker} {vocalsound}
+TS3006d.D.dialog-act.dharshi.404	1759.98	1762.647	D	ME	ass	-1	0	{vocalsound} It's a it's a bit uh {disfmarker} {vocalsound}
+TS3006d.C.dialog-act.dharshi.216	1761.52	1762.86	C	ID	sug	-1	0	Just type in the digits .
+TS3006d.C.dialog-act.dharshi.217	1762.86	1764.63	C	ID	inf	-1	0	They're all one digit numbers right ?
+TS3006d.C.dialog-act.dharshi.218	1764.63	1765.94	C	ID	inf	+1	1	And then you can count them together .
+TS3006d.D.dialog-act.dharshi.405	1765.95	1766.84	D	ME	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.406	1766.84	1769.13	D	ME	ass	-1	0	I think you can just count them by a {disfmarker}
+TS3006d.B.dialog-act.dharshi.164	1767.47	1769.19	B	UI	ass	-1	0	Just count it to {disfmarker} {vocalsound} Yeah .
+TS3006d.D.dialog-act.dharshi.407	1769.13	1770.82	D	ME	sug	-1	0	Um let's move over .
+TS3006d.A.dialog-act.dharshi.319	1770.4	1774.17	A	PM	inf	-1	0	Okay . Three , four , nine .
+TS3006d.D.dialog-act.dharshi.408	1770.82	1773.71	D	ME	inf	-1	0	Three , plus one , four . Nine .
+TS3006d.A.dialog-act.dharshi.320	1777.17	1777.973	A	PM	stl	-1	0	Uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.409	1777.39	1778.81	D	ME	el.inf	-1	0	Uh , yeah . Are you here ?
+TS3006d.C.dialog-act.dharshi.219	1778.95	1780.14	C	ID	bck	-1	0	Eleven .
+TS3006d.D.dialog-act.dharshi.410	1778.81	1780.17	D	ME	inf	-1	0	Eleven .
+TS3006d.A.dialog-act.dharshi.321	1779.55	1780.84	A	PM	bck	-1	0	Eleven ,
+TS3006d.C.dialog-act.dharshi.220	1780.14	1780.83	C	ID	bck	-1	0	Fifteen .
+TS3006d.D.dialog-act.dharshi.411	1780.17	1780.9	D	ME	inf	-1	0	Fifteen .
+TS3006d.A.dialog-act.dharshi.322	1780.84	1781.6	A	PM	bck	-1	0	fifteen .
+TS3006d.B.dialog-act.dharshi.165	1783.95	1784.79	B	UI	inf	-1	0	Sixteen .
+TS3006d.C.dialog-act.dharshi.221	1784.33	1785.04	C	ID	bck	-1	0	Sixteen .
+TS3006d.D.dialog-act.dharshi.412	1784.7	1785.63	D	ME	bck	-1	0	Sixteen , yeah .
+TS3006d.C.dialog-act.dharshi.222	1787.41	1788.26	C	ID	inf	-1	0	Seventeen .
+TS3006d.A.dialog-act.dharshi.323	1788.58	1789.46	A	PM	bck	-1	0	Seventeen .
+TS3006d.D.dialog-act.dharshi.413	1788.73	1789.97	D	ME	ass	-1	0	No sixteen .
+TS3006d.D.dialog-act.dharshi.414	1789.97	1792.14	D	ME	inf	-1	0	Uh sixteen plus six .
+TS3006d.C.dialog-act.dharshi.223	1790.7	1791.42	C	ID	el.inf	-1	0	Oh what ?
+TS3006d.B.dialog-act.dharshi.166	1791.46	1793.898	B	UI	inf	-1	0	Twenty two . {vocalsound}
+TS3006d.A.dialog-act.dharshi.324	1792.09	1794.332	A	PM	fra	-1	0	S Uh {disfmarker}
+TS3006d.C.dialog-act.dharshi.224	1792.112	1795.44	C	ID	ass	-1	0	{vocalsound} How hard is this ? {vocalsound}
+TS3006d.D.dialog-act.dharshi.415	1792.14	1792.8	D	ME	ass	-1	0	Twenty two .
+TS3006d.D.dialog-act.dharshi.418	1794.3	1794.88	D	ME	inf	-1	0	Twenty two ,
+TS3006d.D.dialog-act.dharshi.419	1794.88	1796.07	D	ME	el.ass	-1	0	yeah ?
+TS3006d.B.dialog-act.dharshi.167	1795.62	1797.48	B	UI	inf	-1	0	Twenty four . Twenty six .
+TS3006d.C.dialog-act.dharshi.225	1795.44	1796.26	C	ID	ass	-1	0	Never mind .
+TS3006d.C.dialog-act.dharshi.227	1796.26	1798.22	C	ID	inf	-1	0	Twenty four . Twenty eight .
+TS3006d.D.dialog-act.dharshi.417	1796.07	1796.2	D	ME	fra	-1	0	Tw
+TS3006d.B.dialog-act.dharshi.168	1798.93	1801.46	B	UI	be.pos	-1	0	Oh , sorry . {gap} .
+TS3006d.D.dialog-act.dharshi.420	1798.96	1800.7	D	ME	stl	-1	0	Twenty {disfmarker}
+TS3006d.D.dialog-act.dharshi.421	1800.7	1801.4	D	ME	inf	-1	0	Twenty eight .
+TS3006d.A.dialog-act.dharshi.325	1801.73	1803.53	A	PM	inf	-1	0	That was the last one . That was that .
+TS3006d.B.dialog-act.dharshi.169	1801.46	1802.08	B	UI	oth	-1	0	{vocalsound} Oh my .
+TS3006d.C.dialog-act.dharshi.228	1802.85	1803.47	C	ID	el.inf	-1	0	Twenty eight .
+TS3006d.A.dialog-act.dharshi.326	1803.53	1804.73	A	PM	inf	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.170	1803.72	1804.56	B	UI	ass	-1	0	Okay . Twenty eight .
+TS3006d.A.dialog-act.dharshi.327	1804.73	1806.79	A	PM	inf	-1	0	So divided by nine .
+TS3006d.D.dialog-act.dharshi.422	1804.95	1805.77	D	ME	ass	-1	0	Twen Uh okay .
+TS3006d.D.dialog-act.dharshi.423	1806.87	1808.29	D	ME	ass	-1	0	By nine .
+TS3006d.B.dialog-act.dharshi.171	1808.03	1808.52	B	UI	bck	-1	0	Hmm .
+TS3006d.D.dialog-act.dharshi.424	1808.29	1812.2	D	ME	inf	+1	1	That's uh three uh {disfmarker} {vocalsound} Or le less than a three .
+TS3006d.A.dialog-act.dharshi.328	1810.83	1811.561	A	PM	stl	-1	0	So {disfmarker}
+TS3006d.C.dialog-act.dharshi.229	1811.12	1812.12	C	ID	stl	-1	0	Yeah the lower the {disfmarker}
+TS3006d.C.dialog-act.dharshi.230	1812.12	1813.81	C	ID	el.inf	-1	0	The lower the score the better , right ?
+TS3006d.A.dialog-act.dharshi.329	1814.0	1814.62	A	PM	inf	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.425	1814.26	1815.22	D	ME	inf	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.426	1815.22	1816.56	D	ME	inf	-1	0	Twenty eight
+TS3006d.C.dialog-act.dharshi.231	1815.81	1816.586	C	ID	fra	-1	0	Yeah but {disfmarker}
+TS3006d.A.dialog-act.dharshi.330	1817.4	1818.55	A	PM	inf	-1	0	Divided by nine .
+TS3006d.D.dialog-act.dharshi.427	1817.74	1820.14	D	ME	ass	-1	0	di divided by nine
+TS3006d.A.dialog-act.dharshi.331	1819.84	1821.96	A	PM	fra	-1	0	So thr t two .
+TS3006d.D.dialog-act.dharshi.428	1820.14	1825.08	D	ME	inf	+1	2	makes three point one one one one one one one .
+TS3006d.A.dialog-act.dharshi.332	1824.38	1825.87	A	PM	ass	+1	1	So we're better than average .
+TS3006d.C.dialog-act.dharshi.232	1825.46	1826.017	C	ID	fra	-1	0	But {disfmarker}
+TS3006d.D.dialog-act.dharshi.429	1826.14	1826.821	D	ME	ass	-1	0	Yeah . {vocalsound}
+TS3006d.C.dialog-act.dharshi.233	1826.82	1831.07	C	ID	el.ass	+1	1	I Are you sure we {disfmarker} this number actually tells us somethings ?
+TS3006d.A.dialog-act.dharshi.333	1829.96	1832.2	A	PM	ass	-1	0	No . {vocalsound}
+TS3006d.C.dialog-act.dharshi.234	1831.07	1838.85	C	ID	ass	+1	1	I don't think so because some questions are related to positive issues and some to negative .
+TS3006d.D.dialog-act.dharshi.430	1830.767	1831.403	D	ME	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.172	1833.29	1835.61	B	UI	bck	-1	0	Some questions are {disfmarker} Yeah .
+TS3006d.C.dialog-act.dharshi.235	1838.85	1844.36	C	ID	inf	-1	0	So if you give a true to a positive , it actually means that the low {disfmarker} the lower the better .
+TS3006d.C.dialog-act.dharshi.236	1844.36	1846.688	C	ID	inf	-1	0	But if you give true to a negative question {disfmarker}
+TS3006d.D.dialog-act.dharshi.431	1846.36	1849.14	D	ME	ass	+1	1	Yeah , but there are no negative questions I guess .
+TS3006d.C.dialog-act.dharshi.237	1848.56	1848.81	C	ID	el.inf	-1	0	No ?
+TS3006d.D.dialog-act.dharshi.432	1849.14	1852.27	D	ME	inf	-1	0	Good example . Durable use .
+TS3006d.C.dialog-act.dharshi.238	1850.82	1853.18	C	ID	ass	-1	0	Durable , that's good .
+TS3006d.D.dialog-act.dharshi.433	1852.27	1855.57	D	ME	inf	-1	0	Easy to use . This {gap} is good .
+TS3006d.C.dialog-act.dharshi.239	1853.18	1854.338	C	ID	ass	-1	0	Easy to use . {vocalsound}
+TS3006d.D.dialog-act.dharshi.434	1855.57	1858.41	D	ME	inf	-1	0	Fancy look and feel , that's good .
+TS3006d.C.dialog-act.dharshi.240	1857.26	1859.41	C	ID	ass	-1	0	Yeah . {gap} .
+TS3006d.D.dialog-act.dharshi.435	1858.41	1861.84	D	ME	inf	-1	0	Technology innovation was good , because of a marketing uh requirement .
+TS3006d.C.dialog-act.dharshi.241	1859.41	1860.03	C	ID	ass	-1	0	Also good .
+TS3006d.C.dialog-act.dharshi.242	1862.03	1862.54	C	ID	ass	-1	0	Yeah okay .
+TS3006d.D.dialog-act.dharshi.436	1861.84	1864.12	D	ME	inf	-1	0	Re relevant most used function .
+TS3006d.C.dialog-act.dharshi.243	1863.66	1864.76	C	ID	ass	-1	0	I guess you did do it .
+TS3006d.D.dialog-act.dharshi.437	1864.12	1868.75	D	ME	inf	-1	0	And hides these functions . {vocalsound} That was also a good thing .
+TS3006d.B.dialog-act.dharshi.173	1869.13	1869.8	B	UI	ass	-1	0	Oh yeah . Yeah .
+TS3006d.C.dialog-act.dharshi.244	1869.75	1870.933	C	ID	ass	-1	0	Oh yeah yeah . No {disfmarker}
+TS3006d.D.dialog-act.dharshi.438	1870.0	1873.36	D	ME	inf	-1	0	And then matches the opera of the {gap} user was also a good thing .
+TS3006d.B.dialog-act.dharshi.174	1872.62	1872.83	B	UI	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.245	1873.18	1874.22	C	ID	ass	-1	0	Okay . Okay .
+TS3006d.D.dialog-act.dharshi.439	1873.36	1877.052	D	ME	ass	+1	1	So it were all positive questions , by uh by purpose . So {disfmarker}
+TS3006d.C.dialog-act.dharshi.246	1875.19	1876.1	C	ID	ass	+1	1	Yeah true .
+TS3006d.D.dialog-act.dharshi.440	1878.09	1881.39	D	ME	ass	+1	1	Yes , so the {disfmarker} It tells us something , yes .
+TS3006d.D.dialog-act.dharshi.441	1881.39	1887.81	D	ME	ass	-1	0	Becau But the picture would be a lot different if we didn't have to drop those uh those things , I guess .
+TS3006d.B.dialog-act.dharshi.175	1881.97	1882.7	B	UI	ass	-1	0	Oh great .
+TS3006d.A.dialog-act.dharshi.334	1886.03	1887.15	A	PM	ass	-1	0	Things , yeah .
+TS3006d.C.dialog-act.dharshi.247	1887.05	1888.98	C	ID	ass	-1	0	Yeah definitely definitely .
+TS3006d.A.dialog-act.dharshi.335	1888.82	1889.46	A	PM	bck	-1	0	Okay .
+TS3006d.C.dialog-act.dharshi.248	1888.98	1892.46	C	ID	ass	-1	0	Because now it's just an average {disfmarker} It's remote .
+TS3006d.D.dialog-act.dharshi.442	1891.63	1892.3	D	ME	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.443	1892.3	1894.587	D	ME	ass	-1	0	Nah it it's it's better than average , but {disfmarker}
+TS3006d.C.dialog-act.dharshi.249	1894.7	1896.38	C	ID	ass	-1	0	Yeah okay because of the L_C_D_ screen .
+TS3006d.C.dialog-act.dharshi.250	1896.38	1900.23	C	ID	ass	-1	0	But uh it looks and stuff , it still uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.444	1896.39	1897.05	D	ME	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.445	1897.05	1897.63	D	ME	fra	-1	0	So th
+TS3006d.A.dialog-act.dharshi.339	1897.57	1899.21	A	PM	ass	-1	0	It's still {disfmarker} yeah .
+TS3006d.D.dialog-act.dharshi.446	1899.41	1900.16	D	ME	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.338	1900.2	1901.79	A	PM	ass	-1	0	Has some shortcomings .
+TS3006d.C.dialog-act.dharshi.251	1900.23	1903.4	C	ID	ass	+1	0	it's not , it's not really eye-catching , except for the colour .
+TS3006d.D.dialog-act.dharshi.447	1902.52	1903.91	D	ME	bck	-1	0	No .
+TS3006d.A.dialog-act.dharshi.336	1903.081	1903.649	A	PM	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.448	1903.91	1904.82	D	ME	ass	-1	0	The colour and the screen .
+TS3006d.C.dialog-act.dharshi.252	1905.03	1905.41	C	ID	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.337	1905.957	1906.225	A	PM	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.340	1908.16	1914.44	A	PM	inf	-1	0	Okay so {disfmarker} {vocalsound} Um this we had , this we had .
+TS3006d.A.dialog-act.dharshi.341	1914.44	1917.58	A	PM	inf	-1	0	We have to do a product evaluation .
+TS3006d.C.dialog-act.dharshi.253	1914.12	1915.39	C	ID	inf	-1	0	Product evaluation .
+TS3006d.A.dialog-act.dharshi.342	1917.58	1919.62	A	PM	inf	-1	0	{vocalsound} Uh prototype presentation we dropped .
+TS3006d.A.dialog-act.dharshi.343	1919.62	1923.1	A	PM	inf	-1	0	So {disfmarker} Uh the finance we looked .
+TS3006d.A.dialog-act.dharshi.344	1923.1	1924.71	A	PM	inf	-1	0	We have redesigned .
+TS3006d.A.dialog-act.dharshi.345	1924.71	1927.324	A	PM	inf	-1	0	Uh not on that , but {disfmarker}
+TS3006d.D.dialog-act.dharshi.449	1927.42	1932.567	D	ME	sug	+1	1	Yeah we we have to maybe if we have to redesign it on this {disfmarker} {vocalsound}
+TS3006d.A.dialog-act.dharshi.346	1929.482	1936.941	A	PM	sug	-1	0	{vocalsound} So you can just make one big L_C_D_ screen . {vocalsound}
+TS3006d.B.dialog-act.dharshi.176	1929.128	1933.135	B	UI	sug	-1	0	{vocalsound} Okay it's your turn now . {vocalsound}
+TS3006d.C.dialog-act.dharshi.254	1930.39	1931.12	C	ID	sug	-1	0	Shall we try ?
+TS3006d.D.dialog-act.dharshi.450	1935.399	1939.02	D	ME	ass	-1	0	{vocalsound} With some casing around it , yeah .
+TS3006d.C.dialog-act.dharshi.255	1936.33	1937.52	C	ID	oth	-1	0	Black .
+TS3006d.C.dialog-act.dharshi.256	1938.93	1942.45	C	ID	el.ass	+1	1	Okay uh we're still gonna go for the fancy colours ?
+TS3006d.A.dialog-act.dharshi.347	1941.98	1943.027	A	PM	ass	-1	0	Yeah uh {disfmarker}
+TS3006d.B.dialog-act.dharshi.177	1942.39	1942.73	B	UI	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.257	1942.45	1944.86	C	ID	el.ass	-1	0	But are we gonna stick with the green or are we gonna do blue ?
+TS3006d.D.dialog-act.dharshi.451	1942.3	1942.64	D	ME	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.178	1944.5	1950.46	B	UI	sug	+1	1	Yeah we we can just uh use this one . And then uh over-paint it with uh uh the green uh {disfmarker}
+TS3006d.A.dialog-act.dharshi.348	1948.49	1952.05	A	PM	inf	+1	1	The the button has a special colour , the frame has a special colour .
+TS3006d.D.dialog-act.dharshi.452	1949.23	1949.6	D	ME	bck	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.179	1950.46	1953.82	B	UI	inf	-1	0	he only needs one button .
+TS3006d.C.dialog-act.dharshi.258	1952.85	1954.723	C	ID	ass	-1	0	One scroll button and {disfmarker}
+TS3006d.A.dialog-act.dharshi.349	1953.4	1956.26	A	PM	inf	-1	0	It's plastic . {vocalsound} And single curved .
+TS3006d.B.dialog-act.dharshi.180	1953.82	1954.23	B	UI	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.181	1954.23	1956.273	B	UI	sug	-1	0	Or we have to delete this one or {disfmarker}
+TS3006d.D.dialog-act.dharshi.453	1956.41	1956.76	D	ME	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.350	1957.31	1962.66	A	PM	sug	+1	1	Oh and you might want to add a uh infrared LED .
+TS3006d.B.dialog-act.dharshi.182	1963.532	1966.079	B	UI	ass	-1	0	{vocalsound} Oh {disfmarker} oh no . {vocalsound}
+TS3006d.D.dialog-act.dharshi.454	1963.88	1964.38	D	ME	ass	-1	0	Oh yeah .
+TS3006d.A.dialog-act.dharshi.351	1964.636	1967.75	A	PM	inf	-1	0	{vocalsound} Otherwise it uh doesn't function uh so well .
+TS3006d.C.dialog-act.dharshi.259	1965.44	1966.13	C	ID	el.inf	-1	0	For what ?
+TS3006d.B.dialog-act.dharshi.183	1967.18	1967.72	B	UI	bck	-1	0	Okay .
+TS3006d.D.dialog-act.dharshi.455	1968.16	1968.25	D	ME	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.352	1970.268	1970.7	A	PM	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.184	1969.94	1971.123	B	UI	fra	-1	0	So that's {disfmarker}
+TS3006d.D.dialog-act.dharshi.456	1970.388	1972.22	D	ME	el.inf	-1	0	{vocalsound} Do we have to do other things ?
+TS3006d.A.dialog-act.dharshi.353	1972.8	1982.26	A	PM	off	+1	1	Well I have to um um make an uh report of every decision we made so far .
+TS3006d.D.dialog-act.dharshi.457	1972.89	1974.46	D	ME	el.inf	-1	0	Or just redesign ?
+TS3006d.D.dialog-act.dharshi.458	1978.536	1979.305	D	ME	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.459	1981.29	1982.2	D	ME	ass	-1	0	Alright .
+TS3006d.A.dialog-act.dharshi.354	1982.26	1987.41	A	PM	inf	+1	1	And I try to get chip just before uh I uh receive the Excel sheet .
+TS3006d.D.dialog-act.dharshi.460	1986.67	1988.08	D	ME	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.355	1987.41	1988.38	A	PM	fra	-1	0	So I {disfmarker}
+TS3006d.D.dialog-act.dharshi.461	1988.08	1989.57	D	ME	el.inf	-1	0	So you made a start , right ?
+TS3006d.A.dialog-act.dharshi.356	1989.5	1991.11	A	PM	inf	-1	0	Yeah I'm I'm somewhere ,
+TS3006d.A.dialog-act.dharshi.357	1991.11	1992.15	A	PM	sug	+1	1	but maybe you can help me .
+TS3006d.C.dialog-act.dharshi.260	1991.34	1992.65	C	ID	sug	-1	0	Should give it some time ?
+TS3006d.D.dialog-act.dharshi.462	1992.43	1992.97	D	ME	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.261	1993.54	1994.29	C	ID	ass	-1	0	Yay .
+TS3006d.A.dialog-act.dharshi.358	1994.86	1995.545	A	PM	stl	-1	0	Uh {disfmarker}
+TS3006d.B.dialog-act.dharshi.185	1994.98	1997.94	B	UI	el.inf	+1	1	Okay , but how do we make the the scroll uh button ?
+TS3006d.A.dialog-act.dharshi.359	1997.03	1998.252	A	PM	inf	-1	0	I was here . So {disfmarker}
+TS3006d.B.dialog-act.dharshi.186	1997.94	1999.98	B	UI	inf	-1	0	It's just one {disfmarker}
+TS3006d.C.dialog-act.dharshi.262	1998.91	2000.54	C	ID	off	-1	0	Have to take this away also .
+TS3006d.D.dialog-act.dharshi.463	1999.15	1999.67	D	ME	ass	-1	0	Alright .
+TS3006d.B.dialog-act.dharshi.187	1999.98	2000.29	B	UI	ass	-1	0	yeah .
+TS3006d.A.dialog-act.dharshi.360	2001.23	2001.986	A	PM	fra	-1	0	Ah {disfmarker} {vocalsound}
+TS3006d.C.dialog-act.dharshi.263	2002.35	2004.012	C	ID	el.inf	-1	0	And this um {disfmarker}
+TS3006d.B.dialog-act.dharshi.188	2003.42	2007.112	B	UI	inf	-1	0	Uh that's the infrared uh {vocalsound} thing . {vocalsound}
+TS3006d.C.dialog-act.dharshi.264	2005.89	2007.48	C	ID	ass	-1	0	Oh yeah , of course .
+TS3006d.D.dialog-act.dharshi.464	2006.03	2012.68	D	ME	oth	+1	1	The the target group has a weak spot for fruit and vegetables , like primary colours , spongy shape .
+TS3006d.B.dialog-act.dharshi.189	2007.19	2007.58	B	UI	stl	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.267	2007.48	2009.95	C	ID	oth	-1	0	Um pen yeah ?
+TS3006d.C.dialog-act.dharshi.268	2009.95	2012.31	C	ID	oth	-1	0	Format .
+TS3006d.C.dialog-act.dharshi.269	2012.31	2014.91	C	ID	oth	-1	0	Current colour red .
+TS3006d.D.dialog-act.dharshi.465	2012.68	2016.43	D	ME	oth	-1	0	The playfulness , we decided to use kinetic energy as a power sour
+TS3006d.C.dialog-act.dharshi.270	2014.91	2019.04	C	ID	oth	-1	0	Oh {disfmarker} Yeah we did our special colour for the {disfmarker}
+TS3006d.B.dialog-act.dharshi.190	2017.28	2017.53	B	UI	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.466	2017.88	2018.32	D	ME	ass	-1	0	Okay .
+TS3006d.C.dialog-act.dharshi.271	2019.04	2021.74	C	ID	oth	-1	0	Line widths , now that's a ten .
+TS3006d.D.dialog-act.dharshi.467	2019.28	2020.61	D	ME	ass	-1	0	That's conceptual , yes .
+TS3006d.A.dialog-act.dharshi.361	2023.22	2027.663	A	PM	ass	-1	0	That's enough to get started with , so {disfmarker} {vocalsound} {vocalsound}
+TS3006d.B.dialog-act.dharshi.191	2024.39	2027.01	B	UI	inf	-1	0	Yeah . Um , uh it's just a scroll {disfmarker}
+TS3006d.D.dialog-act.dharshi.468	2025.17	2025.57	D	ME	bck	-1	0	Mm .
+TS3006d.C.dialog-act.dharshi.272	2025.79	2027.52	C	ID	ass	-1	0	It's gonna be one str scroll .
+TS3006d.B.dialog-act.dharshi.192	2027.01	2029.34	B	UI	el.sug	+1	1	Yeah , is it's horizontal or vertical ?
+TS3006d.D.dialog-act.dharshi.469	2026.77	2028.342	D	ME	el.inf	-1	0	How many pages ? {vocalsound}
+TS3006d.A.dialog-act.dharshi.362	2028.45	2032.24	A	PM	inf	-1	0	Uh , I just took one for every step and then a conclusion .
+TS3006d.B.dialog-act.dharshi.193	2030.95	2031.464	B	UI	sug	-1	0	I think {disfmarker}
+TS3006d.D.dialog-act.dharshi.470	2030.58	2031.14	D	ME	ass	-1	0	Alright .
+TS3006d.D.dialog-act.dharshi.471	2031.14	2033.1	D	ME	el.inf	-1	0	Y you have you have done the first two .
+TS3006d.C.dialog-act.dharshi.273	2031.75	2033.73	C	ID	ass	-1	0	Horizontal's easier too ,
+TS3006d.A.dialog-act.dharshi.363	2033.26	2033.59	A	PM	inf	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.274	2033.73	2034.511	C	ID	fra	-1	0	'cause you can {disfmarker}
+TS3006d.D.dialog-act.dharshi.472	2033.94	2034.2	D	ME	ass	-1	0	Okay ,
+TS3006d.D.dialog-act.dharshi.473	2034.2	2035.605	D	ME	el.inf	-1	0	and and the look and feel is {disfmarker}
+TS3006d.B.dialog-act.dharshi.194	2034.73	2035.02	B	UI	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.275	2035.44	2037.28	C	ID	el.ass	-1	0	Is it more natural than this ?
+TS3006d.A.dialog-act.dharshi.364	2036.11	2040.93	A	PM	off	+1	1	Well I think I have to make a p an issue called finance .
+TS3006d.B.dialog-act.dharshi.195	2037.0	2037.69	B	UI	ass	-1	0	Yeah , yeah .
+TS3006d.C.dialog-act.dharshi.276	2039.12	2040.16	C	ID	fra	-1	0	So let's say {disfmarker}
+TS3006d.C.dialog-act.dharshi.278	2040.16	2041.16	C	ID	oth	-1	0	Whoops . 'Kay .
+TS3006d.D.dialog-act.dharshi.474	2042.89	2043.23	D	ME	bck	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.196	2043.93	2045.49	B	UI	ass	-1	0	Yes .
+TS3006d.C.dialog-act.dharshi.279	2044.62	2047.789	C	ID	ass	-1	0	Basically . {vocalsound}
+TS3006d.B.dialog-act.dharshi.197	2045.49	2047.164	B	UI	fra	-1	0	{vocalsound} It doesn't look like uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.475	2046.18	2048.347	D	ME	inf	-1	0	The items we had to drop . {vocalsound}
+TS3006d.A.dialog-act.dharshi.365	2047.83	2048.14	A	PM	bck	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.198	2048.33	2050.44	B	UI	fra	-1	0	Uh it {disfmarker} it's it's not {disfmarker} Yeah .
+TS3006d.B.dialog-act.dharshi.199	2052.67	2056.03	B	UI	ass	+1	1	It's not very fashionable anymore . But uh it's okay .
+TS3006d.C.dialog-act.dharshi.280	2056.25	2057.51	C	ID	ass	-1	0	It's really ugly .
+TS3006d.B.dialog-act.dharshi.200	2057.45	2058.11	B	UI	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.476	2057.65	2059.48	D	ME	el.inf	-1	0	Where did we start with price ?
+TS3006d.B.dialog-act.dharshi.201	2059.58	2061.618	B	UI	sug	-1	0	Maybe m make it bigger ? Or {disfmarker}
+TS3006d.D.dialog-act.dharshi.477	2059.48	2060.69	D	ME	inf	-1	0	Twenty six and a half .
+TS3006d.A.dialog-act.dharshi.366	2061.39	2062.563	A	PM	bck	-1	0	Mm-hmm . {vocalsound}
+TS3006d.D.dialog-act.dharshi.478	2061.46	2061.86	D	ME	el.inf	-1	0	Or not ?
+TS3006d.D.dialog-act.dharshi.479	2064.12	2064.94	D	ME	el.inf	-1	0	Or twenty six ?
+TS3006d.D.dialog-act.dharshi.480	2064.94	2067.61	D	ME	ass	-1	0	Something like that .
+TS3006d.B.dialog-act.dharshi.202	2069.8	2070.14	B	UI	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.203	2071.64	2074.06	B	UI	ass	-1	0	That looks little bit more uh {disfmarker}
+TS3006d.B.dialog-act.dharshi.204	2075.4	2082.508	B	UI	sug	+1	1	Maybe that's a s a special colour for it . So we can make it uh special ? {vocalsound}
+TS3006d.C.dialog-act.dharshi.282	2075.48	2076.355	C	ID	fra	-1	0	Oh {disfmarker} {vocalsound}
+TS3006d.D.dialog-act.dharshi.481	2077.81	2077.98	D	ME	el.inf	-1	0	This ?
+TS3006d.C.dialog-act.dharshi.281	2081.95	2082.54	C	ID	el.inf	-1	0	What do you mean ?
+TS3006d.C.dialog-act.dharshi.283	2083.82	2085.41	C	ID	el.sug	-1	0	Like a other colour than this one ?
+TS3006d.B.dialog-act.dharshi.206	2084.986	2086.76	B	UI	sug	-1	0	{vocalsound} Or or speckles in it ?
+TS3006d.B.dialog-act.dharshi.207	2086.76	2087.708	B	UI	ass	-1	0	I dunno . Uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.482	2089.3	2090.24	D	ME	ass	-1	0	Speckles ?
+TS3006d.B.dialog-act.dharshi.205	2090.044	2090.907	B	UI	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.285	2091.12	2092.47	C	ID	stl	-1	0	Yeah can we do it uh
+TS3006d.C.dialog-act.dharshi.284	2092.47	2094.89	C	ID	el.inf	+1	1	{disfmarker} uh can we do a print ?
+TS3006d.B.dialog-act.dharshi.208	2095.63	2095.82	B	UI	fra	-1	0	..$
+TS3006d.B.dialog-act.dharshi.209	2095.63	2096.44	B	UI	inf	+1	1	I'm not sure .
+TS3006d.A.dialog-act.dharshi.367	2097.2	2097.33	A	PM	fra	-1	0	... .
+TS3006d.A.dialog-act.dharshi.368	2097.2	2099.914	A	PM	inf	-1	0	I don't think so , if you see the options . But {disfmarker}
+TS3006d.C.dialog-act.dharshi.286	2096.76	2098.24	C	ID	el.inf	-1	0	I think we have to choose , yeah ?
+TS3006d.D.dialog-act.dharshi.483	2098.66	2099.299	D	ME	stl	-1	0	Uh {disfmarker}
+TS3006d.C.dialog-act.dharshi.287	2102.85	2105.3	C	ID	inf	-1	0	Okay special colour . We do have special colour .
+TS3006d.B.dialog-act.dharshi.210	2106.96	2109.756	B	UI	ass	-1	0	Yeah red is already a special colour , I think . So {disfmarker}
+TS3006d.C.dialog-act.dharshi.288	2106.68	2108.215	C	ID	fra	-1	0	Does it mean uh that {disfmarker}
+TS3006d.B.dialog-act.dharshi.211	2111.671	2114.012	B	UI	ass	-1	0	{vocalsound} It's not very special , but uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.485	2112.16	2113.852	D	ME	bck	-1	0	Yeah . {vocalsound}
+TS3006d.C.dialog-act.dharshi.289	2113.59	2116.1	C	ID	sug	+1	1	Shall we just give it some dots to make it look pretty ?
+TS3006d.B.dialog-act.dharshi.212	2116.28	2116.55	B	UI	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.213	2117.61	2122.06	B	UI	sug	-1	0	Just uh put the purple uh purple on it . {vocalsound}
+TS3006d.C.dialog-act.dharshi.290	2117.41	2118.42	C	ID	be.pos	-1	0	Purdy .
+TS3006d.D.dialog-act.dharshi.486	2117.65	2119.29	D	ME	ass	-1	0	Yeah . Some some big dots .
+TS3006d.C.dialog-act.dharshi.291	2120.16	2120.62	C	ID	el.ass	-1	0	Purple ?
+TS3006d.B.dialog-act.dharshi.214	2122.06	2122.77	B	UI	inf	-1	0	That's trendy .
+TS3006d.C.dialog-act.dharshi.292	2123.7	2124.76	C	ID	ass	-1	0	Yeah yeah .
+TS3006d.D.dialog-act.dharshi.487	2123.28	2123.61	D	ME	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.293	2128.77	2130.73	C	ID	be.pos	-1	0	Oh no my remote has acne .
+TS3006d.D.dialog-act.dharshi.484	2128.98	2129.06	D	ME	fra	-1	0	... .
+TS3006d.D.dialog-act.dharshi.488	2128.98	2131.35	D	ME	el.inf	+1	1	We have the original balance sheet , or {disfmarker}
+TS3006d.A.dialog-act.dharshi.373	2130.91	2132.005	A	PM	inf	-1	0	Yeah . {vocalsound}
+TS3006d.B.dialog-act.dharshi.215	2130.586	2132.358	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.489	2131.35	2131.75	D	ME	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.216	2132.47	2132.85	B	UI	oth	-1	0	Woah .
+TS3006d.C.dialog-act.dharshi.294	2132.72	2136.26	C	ID	ass	-1	0	No . That's why we have that button .
+TS3006d.A.dialog-act.dharshi.372	2134.364	2135.212	A	PM	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.371	2141.967	2142.369	A	PM	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.217	2142.492	2145.08	B	UI	ass	-1	0	{vocalsound} Oh yeah .
+TS3006d.C.dialog-act.dharshi.295	2146.36	2147.77	C	ID	ass	-1	0	It's so cute .
+TS3006d.B.dialog-act.dharshi.218	2148.12	2148.4	B	UI	bck	-1	0	Hmm .
+TS3006d.B.dialog-act.dharshi.219	2149.39	2149.99	B	UI	oth	-1	0	Oh what ?
+TS3006d.C.dialog-act.dharshi.296	2150.71	2150.91	C	ID	oth	-1	0	Doh .
+TS3006d.D.dialog-act.dharshi.490	2151.63	2153.66	D	ME	oth	-1	0	Woah .
+TS3006d.B.dialog-act.dharshi.220	2152.203	2153.44	B	UI	fra	-1	0	{gap} ?
+TS3006d.D.dialog-act.dharshi.491	2153.66	2154.31	D	ME	sug	-1	0	{vocalsound} Just cut .
+TS3006d.D.dialog-act.dharshi.492	2157.11	2157.86	D	ME	inf	-1	0	Control Z_ .
+TS3006d.B.dialog-act.dharshi.221	2162.27	2163.474	B	UI	ass	-1	0	Oh no . {vocalsound}
+TS3006d.C.dialog-act.dharshi.297	2164.27	2165.19	C	ID	el.inf	-1	0	Is that that ?
+TS3006d.A.dialog-act.dharshi.369	2165.618	2166.655	A	PM	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.493	2165.388	2168.8	D	ME	inf	-1	0	{vocalsound} Yeah .
+TS3006d.B.dialog-act.dharshi.222	2166.99	2168.23	B	UI	ass	-1	0	No no .
+TS3006d.B.dialog-act.dharshi.223	2168.23	2168.56	B	UI	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.494	2168.8	2169.12	D	ME	ass	-1	0	{vocalsound} Yeah .
+TS3006d.C.dialog-act.dharshi.298	2169.94	2172.45	C	ID	el.inf	-1	0	How the {disfmarker} We {disfmarker} did we do that ?
+TS3006d.B.dialog-act.dharshi.224	2170.94	2173.064	B	UI	el.inf	-1	0	Oh it's it's just one computer ? Or {disfmarker}
+TS3006d.D.dialog-act.dharshi.495	2172.4	2173.76	D	ME	inf	-1	0	Just dual screen .
+TS3006d.A.dialog-act.dharshi.370	2174.088	2174.791	A	PM	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.225	2174.6	2174.88	B	UI	ass	-1	0	No .
+TS3006d.B.dialog-act.dharshi.226	2177.08	2179.772	B	UI	el.inf	-1	0	But can we delete it , just with delete ? Or {disfmarker}
+TS3006d.C.dialog-act.dharshi.299	2180.26	2181.24	C	ID	sug	-1	0	We can try .
+TS3006d.A.dialog-act.dharshi.374	2181.513	2182.048	A	PM	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.300	2183.01	2185.88	C	ID	inf	-1	0	That doesn't respond also to the undo .
+TS3006d.C.dialog-act.dharshi.301	2185.88	2187.141	C	ID	ass	-1	0	It looks like it's {disfmarker}
+TS3006d.B.dialog-act.dharshi.227	2187.57	2189.46	B	UI	ass	-1	0	Crashed . {vocalsound}
+TS3006d.B.dialog-act.dharshi.228	2189.46	2190.06	B	UI	ass	-1	0	Oh , no .
+TS3006d.C.dialog-act.dharshi.302	2189.39	2190.652	C	ID	ass	-1	0	No , {gap} {disfmarker}
+TS3006d.D.dialog-act.dharshi.496	2190.095	2192.09	D	ME	ass	-1	0	{vocalsound} Very nice .
+TS3006d.B.dialog-act.dharshi.230	2191.36	2191.71	B	UI	bck	-1	0	Okay .
+TS3006d.C.dialog-act.dharshi.304	2191.98	2193.78	C	ID	el.sug	-1	0	{vocalsound} Where do you want some more dots ?
+TS3006d.A.dialog-act.dharshi.375	2193.063	2194.257	A	PM	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.229	2194.23	2196.49	B	UI	sug	-1	0	Yeah , over here . {vocalsound}
+TS3006d.A.dialog-act.dharshi.376	2195.376	2195.712	A	PM	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.379	2196.64	2199.49	A	PM	ass	-1	0	You can't even draw anymore .
+TS3006d.B.dialog-act.dharshi.231	2196.49	2196.63	B	UI	und	-1	0	Hmm ?
+TS3006d.D.dialog-act.dharshi.497	2198.462	2201.51	D	ME	stl	-1	0	{vocalsound} Yeah . Y y you you {vocalsound}
+TS3006d.B.dialog-act.dharshi.232	2199.49	2200.0	B	UI	el.inf	-1	0	What's this ?
+TS3006d.A.dialog-act.dharshi.380	2199.49	2202.13	A	PM	be.pos	-1	0	Even children can draw . {vocalsound}
+TS3006d.D.dialog-act.dharshi.498	2201.51	2202.95	D	ME	ass	-1	0	you push the button or something .
+TS3006d.D.dialog-act.dharshi.499	2202.95	2203.288	D	ME	el.inf	-1	0	Or {disfmarker}
+TS3006d.A.dialog-act.dharshi.381	2203.91	2207.307	A	PM	sug	-1	0	Can you just push pen and then keep on {disfmarker}
+TS3006d.B.dialog-act.dharshi.234	2204.8	2205.53	B	UI	ass	-1	0	Oh yeah .
+TS3006d.B.dialog-act.dharshi.233	2206.65	2209.08	B	UI	inf	-1	0	Oh that's the select button .
+TS3006d.A.dialog-act.dharshi.382	2209.32	2209.58	A	PM	bck	-1	0	Hmm .
+TS3006d.B.dialog-act.dharshi.235	2209.08	2209.772	B	UI	fra	-1	0	It's uh {disfmarker}
+TS3006d.C.dialog-act.dharshi.305	2219.01	2221.79	C	ID	ass	+1	1	Okay , it's not the prettiest , I know .
+TS3006d.B.dialog-act.dharshi.236	2222.57	2223.486	B	UI	ass	-1	0	No , it looks {disfmarker}
+TS3006d.C.dialog-act.dharshi.306	2222.97	2224.49	C	ID	ass	-1	0	It's not so random huh ?
+TS3006d.D.dialog-act.dharshi.500	2223.13	2224.1	D	ME	ass	-1	0	Lot of options .
+TS3006d.A.dialog-act.dharshi.377	2224.579	2225.148	A	PM	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.237	2224.52	2225.24	B	UI	ass	-1	0	It's okay .
+TS3006d.B.dialog-act.dharshi.238	2227.9	2231.647	B	UI	ass	-1	0	Specially the the R_ . {vocalsound}
+TS3006d.C.dialog-act.dharshi.303	2227.788	2228.54	C	ID	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.307	2229.939	2230.577	C	ID	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.501	2229.9	2232.42	D	ME	ass	-1	0	Yeah , the R_ and another R_ .
+TS3006d.C.dialog-act.dharshi.308	2231.85	2232.57	C	ID	ass	-1	0	Yeah okay .
+TS3006d.D.dialog-act.dharshi.502	2232.42	2233.96	D	ME	el.inf	-1	0	It's called the Real Remote , right ?
+TS3006d.A.dialog-act.dharshi.383	2234.41	2234.72	A	PM	inf	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.503	2235.51	2238.6	D	ME	sug	+1	1	Maybe maybe it c it can say that . The Real Remote .
+TS3006d.A.dialog-act.dharshi.384	2239.46	2239.68	A	PM	ass	-1	0	Yeah
+TS3006d.A.dialog-act.dharshi.385	2239.68	2242.55	A	PM	sug	-1	0	just on the the m um the L_C_D_ display .
+TS3006d.D.dialog-act.dharshi.504	2242.464	2246.244	D	ME	ass	-1	0	{vocalsound} Yeah . {vocalsound} Welcome . {vocalsound}
+TS3006d.A.dialog-act.dharshi.386	2246.58	2249.388	A	PM	be.pos	-1	0	This is your Real Remote . {vocalsound}
+TS3006d.C.dialog-act.dharshi.309	2246.2	2248.03	C	ID	sug	-1	0	We can make a l a logo .
+TS3006d.D.dialog-act.dharshi.505	2247.615	2250.55	D	ME	be.pos	-1	0	{vocalsound} Yeah . {vocalsound} Yeah .
+TS3006d.C.dialog-act.dharshi.310	2250.16	2254.16	C	ID	sug	-1	0	Like uh {gap} put it like the shape .
+TS3006d.A.dialog-act.dharshi.387	2251.35	2251.7	A	PM	bck	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.239	2257.01	2259.86	B	UI	fra	-1	0	D designed by {disfmarker} {vocalsound}
+TS3006d.C.dialog-act.dharshi.311	2259.18	2259.99	C	ID	ass	-1	0	Something like that .
+TS3006d.B.dialog-act.dharshi.240	2259.86	2260.74	B	UI	bck	-1	0	Okay .
+TS3006d.C.dialog-act.dharshi.312	2259.99	2261.516	C	ID	fra	-1	0	I mean it's not too uh {disfmarker}
+TS3006d.C.dialog-act.dharshi.313	2266.21	2267.67	C	ID	el.inf	-1	0	That's not their logo , is it ?
+TS3006d.B.dialog-act.dharshi.241	2268.49	2268.82	B	UI	inf	-1	0	No .
+TS3006d.B.dialog-act.dharshi.242	2270.22	2270.93	B	UI	fra	-1	0	Do they have a lo {disfmarker}
+TS3006d.B.dialog-act.dharshi.243	2270.93	2271.89	B	UI	ass	-1	0	Oh , the {disfmarker} here .
+TS3006d.B.dialog-act.dharshi.244	2271.89	2273.12	B	UI	inf	-1	0	This i this is the logo .
+TS3006d.C.dialog-act.dharshi.314	2273.2	2273.95	C	ID	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.245	2274.04	2275.843	B	UI	inf	-1	0	Two R_s and a one {disfmarker}
+TS3006d.C.dialog-act.dharshi.315	2273.95	2274.349	C	ID	fra	-1	0	It's a {disfmarker}
+TS3006d.A.dialog-act.dharshi.388	2275.4	2275.86	A	PM	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.389	2275.86	2280.38	A	PM	sug	-1	0	You can just reuse that , because the name is the same . Initials .
+TS3006d.B.dialog-act.dharshi.246	2279.196	2279.643	B	UI	fra	-1	0	{gap} .
+TS3006d.C.dialog-act.dharshi.316	2278.929	2279.454	C	ID	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.506	2279.28	2281.52	D	ME	sug	-1	0	You can copy and paste the picture if you want .
+TS3006d.C.dialog-act.dharshi.317	2282.83	2284.14	C	ID	fra	-1	0	How {gap} {disfmarker}
+TS3006d.C.dialog-act.dharshi.318	2284.14	2286.25	C	ID	el.ass	+1	1	Shall we do the logo in black or not ?
+TS3006d.A.dialog-act.dharshi.390	2286.26	2286.89	A	PM	bck	-1	0	Mm .
+TS3006d.B.dialog-act.dharshi.247	2286.8	2287.26	B	UI	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.507	2287.39	2287.73	D	ME	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.508	2292.524	2297.22	D	ME	ass	-1	0	{vocalsound} What is that ? Look more {disfmarker} Looks more like a campfire .
+TS3006d.B.dialog-act.dharshi.248	2297.372	2298.117	B	UI	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.319	2298.908	2302.56	C	ID	be.pos	-1	0	{vocalsound} Are you dissing my drawing ?
+TS3006d.C.dialog-act.dharshi.320	2302.56	2303.07	C	ID	el.inf	-1	0	{vocalsound} This one ?
+TS3006d.D.dialog-act.dharshi.509	2303.49	2304.854	D	ME	inf	-1	0	Yeah . {vocalsound}
+TS3006d.C.dialog-act.dharshi.321	2305.28	2306.743	C	ID	ass	-1	0	It looks like a ribbon . {vocalsound}
+TS3006d.D.dialog-act.dharshi.510	2306.598	2307.73	D	ME	ass	-1	0	{gap} . Yeah .
+TS3006d.B.dialog-act.dharshi.249	2308.88	2309.35	B	UI	bck	-1	0	Okay .
+TS3006d.C.dialog-act.dharshi.322	2316.15	2317.61	C	ID	el.sug	-1	0	So who wants to draw ?
+TS3006d.C.dialog-act.dharshi.323	2317.61	2318.88	C	ID	ass	-1	0	This is actually quite fun .
+TS3006d.C.dialog-act.dharshi.324	2318.88	2320.11	C	ID	el.sug	-1	0	Do we need to do anything ?
+TS3006d.B.dialog-act.dharshi.250	2323.92	2326.35	B	UI	el.ass	-1	0	Are we uh ready ? Uh {disfmarker} Or {disfmarker}
+TS3006d.C.dialog-act.dharshi.325	2323.55	2325.19	C	ID	inf	-1	0	I hear you people are typing .
+TS3006d.D.dialog-act.dharshi.511	2327.79	2328.79	D	ME	inf	-1	0	Type in your report .
+TS3006d.C.dialog-act.dharshi.326	2329.5	2330.31	C	ID	ass	-1	0	Oh , okay .
+TS3006d.D.dialog-act.dharshi.512	2332.08	2334.697	D	ME	inf	-1	0	I don't see any new messages . So {disfmarker}
+TS3006d.A.dialog-act.dharshi.391	2334.359	2339.4	A	PM	ass	-1	0	{vocalsound} Luckily .
+TS3006d.D.dialog-act.dharshi.513	2335.66	2336.4	D	ME	und	-1	0	Hmm ?
+TS3006d.D.dialog-act.dharshi.514	2336.4	2337.17	D	ME	ass	-1	0	Luckily , yeah .
+TS3006d.B.dialog-act.dharshi.251	2337.41	2339.46	B	UI	el.inf	+1	0	Is this uh the last assignment ? Or {disfmarker}
+TS3006d.A.dialog-act.dharshi.392	2339.4	2342.0	A	PM	inf	-1	0	{vocalsound} {vocalsound} Yeah , it's uh
+TS3006d.B.dialog-act.dharshi.252	2341.39	2342.27	B	UI	ass	-1	0	Final {disfmarker} {vocalsound}
+TS3006d.A.dialog-act.dharshi.393	2342.0	2342.29	A	PM	ass	-1	0	{disfmarker} Yeah .
+TS3006d.C.dialog-act.dharshi.327	2342.59	2343.44	C	ID	inf	-1	0	It's almost four .
+TS3006d.D.dialog-act.dharshi.516	2345.04	2348.252	D	ME	el.inf	-1	0	What time do we have to deliver the report ? Four o'clock or {disfmarker}
+TS3006d.C.dialog-act.dharshi.328	2347.26	2349.54	C	ID	el.inf	-1	0	{vocalsound} At four , yeah , {gap} ?
+TS3006d.D.dialog-act.dharshi.517	2349.32	2350.44	D	ME	el.inf	-1	0	Or before that ?
+TS3006d.A.dialog-act.dharshi.394	2355.49	2358.71	A	PM	oth	-1	0	Okay . And copy this .
+TS3006d.D.dialog-act.dharshi.518	2356.22	2357.87	D	ME	fra	-1	0	Just compare uh {disfmarker}
+TS3006d.A.dialog-act.dharshi.395	2358.71	2359.52	A	PM	oth	-1	0	Just a minute .
+TS3006d.C.dialog-act.dharshi.329	2360.29	2361.71	C	ID	ass	-1	0	This is really bizarre .
+TS3006d.A.dialog-act.dharshi.397	2362.8	2363.396	A	PM	fra	-1	0	It's {disfmarker}
+TS3006d.C.dialog-act.dharshi.330	2363.15	2367.06	C	ID	ass	-1	0	It looks like there's a {disfmarker} It looks like a butterfly .
+TS3006d.B.dialog-act.dharshi.254	2365.63	2367.18	B	UI	ass	-1	0	Um bug . Bug .
+TS3006d.A.dialog-act.dharshi.398	2367.48	2368.914	A	PM	inf	-1	0	It's somewhere {disfmarker}
+TS3006d.A.dialog-act.dharshi.399	2370.01	2372.2	A	PM	inf	-1	0	I d It isn't inside .
+TS3006d.B.dialog-act.dharshi.256	2370.04	2372.141	B	UI	inf	-1	0	No it's in inside the {disfmarker}
+TS3006d.C.dialog-act.dharshi.331	2370.037	2370.873	C	ID	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.407	2372.2	2374.38	A	PM	inf	-1	0	Yeah , and don't know how it's {disfmarker} or eject it .
+TS3006d.D.dialog-act.dharshi.522	2373.2	2375.07	D	ME	inf	-1	0	No it's on the on the beamer I guess .
+TS3006d.B.dialog-act.dharshi.257	2375.33	2379.002	B	UI	fra	-1	0	No it {disfmarker} Oh . {vocalsound}
+TS3006d.A.dialog-act.dharshi.408	2376.48	2377.31	A	PM	el.inf	-1	0	From up there ?
+TS3006d.C.dialog-act.dharshi.332	2376.19	2378.51	C	ID	ass	-1	0	No , but it i It's not a bu a beamer .
+TS3006d.A.dialog-act.dharshi.409	2378.49	2378.78	A	PM	bck	-1	0	No .
+TS3006d.C.dialog-act.dharshi.333	2378.51	2381.72	C	ID	inf	-1	0	B It's a normal T_V_ screen , kind of thing .
+TS3006d.A.dialog-act.dharshi.410	2381.78	2383.21	A	PM	inf	-1	0	Yeah it's somewhere in here .
+TS3006d.B.dialog-act.dharshi.258	2381.68	2383.51	B	UI	inf	-1	0	Hey , you've got it uh read only .
+TS3006d.B.dialog-act.dharshi.259	2383.51	2384.476	B	UI	sug	-1	0	So you have to uh {disfmarker}
+TS3006d.A.dialog-act.dharshi.411	2385.36	2386.33	A	PM	sug	-1	0	Save copy .
+TS3006d.D.dialog-act.dharshi.523	2387.67	2388.61	D	ME	ass	-1	0	Yeah . Strange .
+TS3006d.D.dialog-act.dharshi.524	2389.78	2394.34	D	ME	ass	-1	0	This something what's projection from behind , I guess .
+TS3006d.A.dialog-act.dharshi.412	2391.74	2393.3	A	PM	bck	-1	0	Yeah . {vocalsound}
+TS3006d.B.dialog-act.dharshi.253	2392.115	2392.823	B	UI	fra	-1	0	{gap} .
+TS3006d.A.dialog-act.dharshi.396	2395.876	2397.804	A	PM	fra	-1	0	{gap} .
+TS3006d.B.dialog-act.dharshi.260	2396.04	2398.236	B	UI	fra	-1	0	It's too uh {disfmarker} {vocalsound}
+TS3006d.C.dialog-act.dharshi.334	2399.6	2399.99	C	ID	oth	-1	0	Oh .
+TS3006d.C.dialog-act.dharshi.335	2401.46	2403.47	C	ID	inf	-1	0	Yeah there is some kind of projection I think .
+TS3006d.A.dialog-act.dharshi.413	2403.25	2403.97	A	PM	bck	-1	0	Yes .
+TS3006d.D.dialog-act.dharshi.525	2403.4	2403.83	D	ME	ass	-1	0	Yeah
+TS3006d.D.dialog-act.dharshi.526	2403.83	2406.18	D	ME	inf	-1	0	it it's a beamer , but then with a {disfmarker}
+TS3006d.C.dialog-act.dharshi.336	2406.04	2408.17	C	ID	inf	-1	0	With a with a mirror , huh ? Or something .
+TS3006d.D.dialog-act.dharshi.527	2406.18	2409.67	D	ME	ass	-1	0	within a mirror , yeah .
+TS3006d.A.dialog-act.dharshi.406	2408.616	2410.924	A	PM	fra	-1	0	{gap} {vocalsound} {gap} .
+TS3006d.C.dialog-act.dharshi.337	2408.17	2408.37	C	ID	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.528	2409.67	2412.49	D	ME	inf	-1	0	So it looks like a big screen , but {gap} {disfmarker} in fact it isn't .
+TS3006d.C.dialog-act.dharshi.338	2413.17	2415.89	C	ID	el.sug	-1	0	So are we gonna change anything to this ?
+TS3006d.B.dialog-act.dharshi.261	2413.8	2414.279	B	UI	fra	-1	0	It is {disfmarker}
+TS3006d.C.dialog-act.dharshi.339	2415.89	2417.233	C	ID	fra	-1	0	I mean is it gonna {disfmarker}
+TS3006d.D.dialog-act.dharshi.529	2416.57	2418.49	D	ME	inf	+1	1	Well it's it's single single curved .
+TS3006d.A.dialog-act.dharshi.414	2417.12	2418.892	A	PM	fra	-1	0	Well {disfmarker} {vocalsound}
+TS3006d.B.dialog-act.dharshi.262	2418.05	2419.82	B	UI	ass	-1	0	It's now single curved . So {disfmarker}
+TS3006d.B.dialog-act.dharshi.263	2421.23	2422.93	B	UI	inf	-1	0	It's flat . Oh no .
+TS3006d.C.dialog-act.dharshi.340	2420.91	2422.93	C	ID	ass	-1	0	This is gonna be flat . Yeah exactly .
+TS3006d.D.dialog-act.dharshi.530	2420.66	2422.88	D	ME	inf	-1	0	Th this is flat . Yeah .
+TS3006d.A.dialog-act.dharshi.405	2423.116	2423.98	A	PM	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.264	2425.31	2426.37	B	UI	ass	-1	0	Okay . It doesn't matter .
+TS3006d.B.dialog-act.dharshi.265	2426.37	2427.307	B	UI	fra	-1	0	It's it's {vocalsound} {disfmarker}
+TS3006d.D.dialog-act.dharshi.531	2426.55	2430.41	D	ME	ass	+1	1	But it's it's better to have in the front , this kind of shape , because it looks nice .
+TS3006d.A.dialog-act.dharshi.404	2430.981	2432.063	A	PM	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.532	2434.79	2436.84	D	ME	inf	-1	0	I mean you see more of this than of that .
+TS3006d.C.dialog-act.dharshi.341	2438.23	2438.81	C	ID	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.533	2443.03	2444.14	D	ME	ass	-1	0	Yeah , more like that .
+TS3006d.C.dialog-act.dharshi.342	2444.94	2446.02	C	ID	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.343	2447.75	2449.456	C	ID	fra	-1	0	And this is also gonna be {disfmarker}
+TS3006d.D.dialog-act.dharshi.534	2452.383	2452.793	D	ME	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.535	2457.52	2460.118	D	ME	ass	-1	0	It's not very uh ideal . {vocalsound}
+TS3006d.C.dialog-act.dharshi.344	2460.55	2460.91	C	ID	ass	-1	0	Nope .
+TS3006d.D.dialog-act.dharshi.536	2462.42	2463.18	D	ME	sug	-1	0	Do like this .
+TS3006d.C.dialog-act.dharshi.345	2462.94	2465.58	C	ID	ass	-1	0	But sometimes then uh all of a sudden it does work .
+TS3006d.D.dialog-act.dharshi.537	2465.94	2466.37	D	ME	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.538	2469.27	2469.93	D	ME	el.inf	-1	0	What's this ?
+TS3006d.B.dialog-act.dharshi.266	2470.851	2473.5	B	UI	inf	-1	0	{vocalsound} That's the detector uh for the {disfmarker}
+TS3006d.D.dialog-act.dharshi.539	2473.99	2474.36	D	ME	oth	-1	0	Ooh .
+TS3006d.B.dialog-act.dharshi.267	2474.492	2477.606	B	UI	stl	-1	0	{vocalsound} Okay . {vocalsound}
+TS3006d.C.dialog-act.dharshi.346	2477.621	2478.959	C	ID	fra	-1	0	{vocalsound} Maybe {disfmarker}
+TS3006d.D.dialog-act.dharshi.540	2478.3	2480.14	D	ME	ass	-1	0	But I don't see a detector over there .
+TS3006d.B.dialog-act.dharshi.268	2480.06	2481.11	B	UI	ass	-1	0	Yeah . I don't know .
+TS3006d.C.dialog-act.dharshi.347	2480.33	2481.27	C	ID	stl	-1	0	{vocalsound} No it's {disfmarker}
+TS3006d.C.dialog-act.dharshi.348	2481.27	2483.38	C	ID	inf	-1	0	I think you only need two points .
+TS3006d.C.dialog-act.dharshi.349	2483.38	2483.89	C	ID	inf	-1	0	Or not .
+TS3006d.C.dialog-act.dharshi.350	2485.92	2486.39	C	ID	fra	-1	0	No , you sh
+TS3006d.D.dialog-act.dharshi.541	2486.07	2491.19	D	ME	inf	-1	0	I thought it was a kind of thing to put it on , and then draw right lines or something .
+TS3006d.B.dialog-act.dharshi.269	2489.99	2492.764	B	UI	ass	-1	0	Maybe that's why it's it's not working , because it's more {disfmarker}
+TS3006d.C.dialog-act.dharshi.351	2493.25	2495.95	C	ID	ass	-1	0	Slanted yeah .
+TS3006d.D.dialog-act.dharshi.521	2492.88	2493.783	D	ME	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.270	2494.34	2494.55	B	UI	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.352	2495.95	2496.29	C	ID	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.542	2495.49	2496.48	D	ME	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.543	2496.48	2499.837	D	ME	ass	-1	0	{vocalsound} Or just messed it up . {vocalsound}
+TS3006d.B.dialog-act.dharshi.255	2499.288	2499.847	B	UI	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.353	2500.0	2501.0	C	ID	ass	-1	0	Well maybe .
+TS3006d.B.dialog-act.dharshi.271	2501.73	2503.55	B	UI	ass	-1	0	Oh . {vocalsound} Oh yeah .
+TS3006d.D.dialog-act.dharshi.544	2502.124	2507.292	D	ME	ass	-1	0	{vocalsound} Yeah . {vocalsound}
+TS3006d.C.dialog-act.dharshi.354	2503.52	2506.54	C	ID	ass	-1	0	Yeah it it matters for the aim of this thing .
+TS3006d.B.dialog-act.dharshi.272	2505.72	2506.15	B	UI	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.545	2508.57	2510.807	D	ME	ass	-1	0	Yeah but it wasn't good . {vocalsound}
+TS3006d.B.dialog-act.dharshi.273	2514.5	2518.45	B	UI	inf	-1	0	You've to make it s uh ninety degrees .
+TS3006d.D.dialog-act.dharshi.546	2518.73	2521.76	D	ME	ass	-1	0	Yeah it it has to touch the corners , I guess .
+TS3006d.D.dialog-act.dharshi.547	2521.76	2528.35	D	ME	ass	-1	0	But th this one wasn't good , because if I was drawing here , I drew a line and then it came over here .
+TS3006d.A.dialog-act.dharshi.415	2526.709	2533.75	A	PM	sug	-1	0	{vocalsound} Um now you probably have to recalibrate .
+TS3006d.B.dialog-act.dharshi.275	2532.14	2533.82	B	UI	fra	-1	0	You have {disfmarker} {vocalsound}
+TS3006d.D.dialog-act.dharshi.520	2533.096	2534.634	D	ME	fra	-1	0	{vocalsound}
+TS3006d.A.dialog-act.dharshi.416	2533.75	2536.55	A	PM	inf	-1	0	Oh , five minutes to the end of the meeting .
+TS3006d.B.dialog-act.dharshi.274	2535.99	2537.08	B	UI	ass	-1	0	Oh we're always long .
+TS3006d.D.dialog-act.dharshi.548	2535.62	2535.99	D	ME	oth	-1	0	Oh .
+TS3006d.A.dialog-act.dharshi.417	2536.55	2541.45	A	PM	inf	-1	0	{vocalsound} And the recalibration is done using this icon here .
+TS3006d.B.dialog-act.dharshi.276	2541.86	2542.2	B	UI	ass	-1	0	Yeah ,
+TS3006d.B.dialog-act.dharshi.277	2542.2	2544.23	B	UI	el.inf	-1	0	can we t can we get to that @ i
+TS3006d.D.dialog-act.dharshi.549	2541.94	2542.48	D	ME	oth	-1	0	Ooh .
+TS3006d.A.dialog-act.dharshi.403	2544.94	2545.609	A	PM	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.278	2545.38	2547.772	B	UI	ass	-1	0	Oh it's not working anymore . {vocalsound}
+TS3006d.A.dialog-act.dharshi.418	2547.88	2550.459	A	PM	fra	-1	0	Yeah well I just {disfmarker}
+TS3006d.D.dialog-act.dharshi.550	2547.817	2552.19	D	ME	ass	-1	0	{vocalsound} Yeah yeah , it's it's okay . It's working again .
+TS3006d.C.dialog-act.dharshi.355	2548.498	2549.1	C	ID	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.279	2549.45	2551.51	B	UI	ass	-1	0	Oh yeah yeah yeah yeah , it's it's working , it's working .
+TS3006d.A.dialog-act.dharshi.420	2552.766	2557.82	A	PM	ass	-1	0	{vocalsound} {vocalsound} Okay .
+TS3006d.C.dialog-act.dharshi.356	2552.7	2553.481	C	ID	bck	-1	0	Yeah . {vocalsound}
+TS3006d.B.dialog-act.dharshi.280	2553.423	2554.68	B	UI	bck	-1	0	{gap} {disfmarker} Yeah .
+TS3006d.D.dialog-act.dharshi.551	2553.37	2554.48	D	ME	ass	-1	0	It's better than before .
+TS3006d.B.dialog-act.dharshi.281	2556.78	2557.9	B	UI	ass	-1	0	We're improving uh {disfmarker} Yeah .
+TS3006d.D.dialog-act.dharshi.552	2556.47	2556.83	D	ME	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.421	2557.82	2558.53	A	PM	sug	-1	0	You go ahead .
+TS3006d.B.dialog-act.dharshi.282	2558.99	2559.27	B	UI	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.553	2558.92	2560.73	D	ME	ass	-1	0	Yeah that's improved uh pretty much .
+TS3006d.C.dialog-act.dharshi.357	2561.72	2564.13	C	ID	ass	-1	0	Yeah it's only a bit like to that side ,
+TS3006d.C.dialog-act.dharshi.358	2564.13	2566.36	C	ID	inf	-1	0	but that is that one by the way .
+TS3006d.D.dialog-act.dharshi.554	2563.65	2563.97	D	ME	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.555	2565.79	2567.984	D	ME	fra	-1	0	Yeah but it's better , it's better {disfmarker}
+TS3006d.B.dialog-act.dharshi.283	2566.64	2567.174	B	UI	fra	-1	0	No it {disfmarker}
+TS3006d.C.dialog-act.dharshi.359	2566.36	2570.66	C	ID	inf	-1	0	'Cause this one makes the angle either like this .
+TS3006d.C.dialog-act.dharshi.360	2570.66	2575.25	C	ID	inf	-1	0	So i if I change this , it will go there , if I change that , will go there .
+TS3006d.D.dialog-act.dharshi.556	2573.3	2573.6	D	ME	bck	-1	0	Mm .
+TS3006d.D.dialog-act.dharshi.557	2575.01	2576.96	D	ME	ass	-1	0	No . It's better than it was I guess .
+TS3006d.C.dialog-act.dharshi.361	2577.21	2578.5	C	ID	bck	-1	0	Mm-hmm .
+TS3006d.C.dialog-act.dharshi.362	2578.5	2581.33	C	ID	off	-1	0	I will take this away 'cause it looks messy .
+TS3006d.D.dialog-act.dharshi.558	2580.33	2581.46	D	ME	ass	-1	0	{vocalsound} Silly .
+TS3006d.D.dialog-act.dharshi.559	2586.35	2589.7	D	ME	ass	-1	0	Yeah . Works pretty well .
+TS3006d.D.dialog-act.dharshi.560	2589.7	2591.71	D	ME	el.inf	-1	0	Five minutes before the meeting's over .
+TS3006d.A.dialog-act.dharshi.422	2590.93	2592.78	A	PM	inf	-1	0	Yeah . Yeah .
+TS3006d.D.dialog-act.dharshi.561	2591.71	2592.56	D	ME	el.inf	-1	0	And then ?
+TS3006d.A.dialog-act.dharshi.423	2592.78	2595.86	A	PM	off	-1	0	Then I have to uh uh write this ,
+TS3006d.D.dialog-act.dharshi.562	2592.56	2593.675	D	ME	el.inf	-1	0	We have to present {disfmarker}
+TS3006d.A.dialog-act.dharshi.424	2595.86	2601.27	A	PM	inf	+1	0	and I don't know if you have to present , because I didn't receive any information about that so far .
+TS3006d.D.dialog-act.dharshi.563	2600.88	2601.4	D	ME	ass	-1	0	Alright .
+TS3006d.C.dialog-act.dharshi.363	2601.56	2602.28	C	ID	ass	-1	0	Maybe we will .
+TS3006d.A.dialog-act.dharshi.425	2602.32	2604.46	A	PM	ass	-1	0	Maybe we get a a final mail .
+TS3006d.D.dialog-act.dharshi.564	2602.49	2603.66	D	ME	stl	-1	0	So it {disfmarker} after the {disfmarker}
+TS3006d.D.dialog-act.dharshi.565	2603.66	2606.364	D	ME	el.inf	-1	0	after after these five minutes , you have to {disfmarker}
+TS3006d.A.dialog-act.dharshi.426	2605.51	2606.93	A	PM	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.427	2606.93	2609.4	A	PM	inf	+1	1	{vocalsound} Yeah , I have still ten minutes to finish the report .
+TS3006d.C.dialog-act.dharshi.364	2608.31	2609.39	C	ID	el.inf	-1	0	What's this anyway ?
+TS3006d.B.dialog-act.dharshi.284	2609.55	2611.788	B	UI	inf	-1	0	So cake . {vocalsound}
+TS3006d.D.dialog-act.dharshi.566	2610.03	2611.72	D	ME	ass	-1	0	Alright .
+TS3006d.D.dialog-act.dharshi.567	2611.72	2616.06	D	ME	el.inf	-1	0	After after that five minutes , you have ten minutes to finish it , or {disfmarker}
+TS3006d.C.dialog-act.dharshi.365	2613.24	2614.75	C	ID	ass	-1	0	It looks like candle wax .
+TS3006d.A.dialog-act.dharshi.428	2615.21	2615.45	A	PM	inf	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.568	2616.06	2616.55	D	ME	ass	-1	0	Alright .
+TS3006d.D.dialog-act.dharshi.569	2616.55	2617.372	D	ME	el.inf	-1	0	And we uh {disfmarker}
+TS3006d.A.dialog-act.dharshi.429	2617.73	2621.52	A	PM	sug	-1	0	And you can uh just uh relax and uh have cup of coffee or {disfmarker}
+TS3006d.D.dialog-act.dharshi.570	2620.38	2621.665	D	ME	ass	-1	0	Right . Chill . {vocalsound}
+TS3006d.A.dialog-act.dharshi.431	2621.52	2624.75	A	PM	inf	-1	0	oh no , they don't have beer here so you can't celebrate .
+TS3006d.D.dialog-act.dharshi.571	2623.14	2623.72	D	ME	bck	-1	0	Huh .
+TS3006d.A.dialog-act.dharshi.430	2624.75	2628.26	A	PM	sug	+1	0	You can just if you ma finish my presentation please .
+TS3006d.A.dialog-act.dharshi.432	2629.66	2630.43	A	PM	inf	-1	0	Uh over there .
+TS3006d.D.dialog-act.dharshi.572	2629.75	2631.05	D	ME	und	-1	0	Uh {disfmarker} Yeah ?
+TS3006d.A.dialog-act.dharshi.433	2631.46	2633.11	A	PM	inf	-1	0	The presentation is still open .
+TS3006d.A.dialog-act.dharshi.434	2633.11	2635.396	A	PM	sug	-1	0	So if you finish that then you'll see uh {disfmarker}
+TS3006d.A.dialog-act.dharshi.435	2637.36	2638.23	A	PM	inf	-1	0	Yeah next .
+TS3006d.D.dialog-act.dharshi.573	2638.45	2639.33	D	ME	ass	-1	0	Next slide .
+TS3006d.A.dialog-act.dharshi.436	2640.83	2643.82	A	PM	inf	+1	1	Oh yeah , we have to do the project uh evaluation .
+TS3006d.A.dialog-act.dharshi.437	2643.82	2645.89	A	PM	sug	-1	0	Just uh do that quickly .
+TS3006d.D.dialog-act.dharshi.574	2645.3	2646.6	D	ME	ass	-1	0	Yeah ?
+TS3006d.A.dialog-act.dharshi.438	2645.89	2646.38	A	PM	stl	-1	0	Uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.575	2646.6	2647.34	D	ME	el.inf	-1	0	How do you do it ?
+TS3006d.A.dialog-act.dharshi.439	2647.49	2651.451	A	PM	inf	-1	0	Uh well basically what that says , we discuss it and um {disfmarker}
+TS3006d.D.dialog-act.dharshi.576	2652.097	2653.51	D	ME	ass	-1	0	{vocalsound} Alright .
+TS3006d.A.dialog-act.dharshi.440	2652.62	2656.27	A	PM	el.ass	+1	1	So how were {disfmarker} did the project process uh go ?
+TS3006d.A.dialog-act.dharshi.441	2656.27	2659.94	A	PM	el.ass	+1	1	Did you , were you all pleased with the process as it was ?
+TS3006d.A.dialog-act.dharshi.442	2659.94	2660.7	A	PM	fra	-1	0	Or are there uh {disfmarker}
+TS3006d.C.dialog-act.dharshi.366	2660.08	2664.21	C	ID	el.inf	-1	0	Uh th uh do you mean the the interaction between us ? Or {disfmarker}
+TS3006d.A.dialog-act.dharshi.443	2663.04	2666.79	A	PM	inf	-1	0	Yeah the interaction and the steps we followed , and and so forth .
+TS3006d.C.dialog-act.dharshi.367	2666.89	2671.76	C	ID	ass	+1	1	Yeah well at first I was really stressed . Because it went a bit fast .
+TS3006d.A.dialog-act.dharshi.402	2669.596	2669.868	A	PM	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.577	2670.01	2670.672	D	ME	bck	-1	0	Yeah . {vocalsound}
+TS3006d.C.dialog-act.dharshi.368	2671.76	2678.98	C	ID	ass	+1	1	But then as I knew the tempo that I had to be on , the second time I think I did a bit better .
+TS3006d.D.dialog-act.dharshi.578	2678.27	2678.73	D	ME	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.444	2678.77	2679.02	A	PM	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.369	2678.98	2681.145	C	ID	fra	-1	0	And the third time yeah , I mean {disfmarker}
+TS3006d.D.dialog-act.dharshi.579	2680.45	2683.72	D	ME	ass	-1	0	And we move more to to working together as team ,
+TS3006d.B.dialog-act.dharshi.285	2681.03	2681.44	B	UI	bck	-1	0	No .
+TS3006d.A.dialog-act.dharshi.445	2683.95	2684.35	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.D.dialog-act.dharshi.580	2683.72	2691.26	D	ME	ass	+1	1	because at first you you make your individual contribution , and then come here , and you have no idea what the others have to make .
+TS3006d.A.dialog-act.dharshi.401	2689.083	2690.254	A	PM	fra	-1	0	{vocalsound} {gap} .
+TS3006d.B.dialog-act.dharshi.286	2689.41	2689.86	B	UI	bck	-1	0	No .
+TS3006d.C.dialog-act.dharshi.370	2690.63	2691.6	C	ID	ass	-1	0	Yeah , yeah yeah yeah .
+TS3006d.D.dialog-act.dharshi.581	2691.26	2698.98	D	ME	ass	+1	1	And then finally you have some idea , okay this is gonna w this is what we gonna make together and okay I will arrange this and you will arrange that ,
+TS3006d.A.dialog-act.dharshi.446	2697.76	2698.14	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.D.dialog-act.dharshi.582	2698.98	2705.712	D	ME	ass	+1	1	and you have a k a kind of idea what you can expect on the next half hour when you have to work on your own . So {disfmarker}
+TS3006d.B.dialog-act.dharshi.287	2706.78	2707.2	B	UI	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.371	2706.71	2707.406	C	ID	fra	-1	0	Yeah we {disfmarker}
+TS3006d.D.dialog-act.dharshi.583	2706.69	2711.03	D	ME	ass	+1	2	The process , I mean , the interaction between us became better and better I guess .
+TS3006d.A.dialog-act.dharshi.447	2710.85	2711.18	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.B.dialog-act.dharshi.288	2710.44	2712.59	B	UI	ass	+1	2	Yeah . Especially after the first meeting .
+TS3006d.C.dialog-act.dharshi.372	2711.15	2711.6	C	ID	bck	-1	0	Mm-hmm .
+TS3006d.B.dialog-act.dharshi.289	2713.11	2713.811	B	UI	fra	-1	0	And {disfmarker}
+TS3006d.D.dialog-act.dharshi.584	2713.03	2715.17	D	ME	stl	-1	0	Yeah , especially if f f if you see {disfmarker} uh you se
+TS3006d.D.dialog-act.dharshi.585	2715.17	2719.97	D	ME	ass	-1	0	you saw the largest difference from the first to the second meeting I guess .
+TS3006d.B.dialog-act.dharshi.290	2718.2	2718.37	B	UI	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.373	2718.61	2719.9	C	ID	ass	-1	0	Yeah . Definitely .
+TS3006d.A.dialog-act.dharshi.448	2720.71	2723.21	A	PM	el.ass	-1	0	Okay and was that due to my leadership ?
+TS3006d.A.dialog-act.dharshi.400	2724.105	2725.888	A	PM	fra	-1	0	{vocalsound}
+TS3006d.B.dialog-act.dharshi.291	2723.95	2725.848	B	UI	be.pos	-1	0	Yeah yeah yeah . {vocalsound}
+TS3006d.D.dialog-act.dharshi.519	2724.524	2725.484	D	ME	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.374	2725.39	2729.24	C	ID	ass	+1	1	Well you did become more assertive the the second time round , so that {disfmarker}
+TS3006d.A.dialog-act.dharshi.449	2728.78	2729.0	A	PM	el.ass	-1	0	Yeah ?
+TS3006d.B.dialog-act.dharshi.292	2729.26	2729.49	B	UI	ass	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.375	2729.24	2732.71	C	ID	ass	-1	0	Yeah . You were more in charge kind of thing .
+TS3006d.A.dialog-act.dharshi.450	2730.18	2730.61	A	PM	el.ass	-1	0	That okay ?
+TS3006d.D.dialog-act.dharshi.586	2729.74	2730.08	D	ME	ass	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.451	2732.796	2735.35	A	PM	ass	-1	0	{vocalsound} Okay .
+TS3006d.A.dialog-act.dharshi.452	2735.35	2739.16	A	PM	el.ass	+1	2	Um was there uh enough room for creativity ?
+TS3006d.C.dialog-act.dharshi.376	2739.39	2740.21	C	ID	ass	-1	0	I guess so .
+TS3006d.D.dialog-act.dharshi.587	2739.92	2740.31	D	ME	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.293	2740.74	2741.11	B	UI	ass	-1	0	Yeah
+TS3006d.B.dialog-act.dharshi.294	2741.11	2745.28	B	UI	ass	+1	2	but only the the financial parts uh {disfmarker}
+TS3006d.C.dialog-act.dharshi.377	2741.21	2741.846	C	ID	fra	-1	0	I mean {disfmarker}
+TS3006d.D.dialog-act.dharshi.588	2744.36	2746.6	D	ME	ass	-1	0	Li Limiteded afterwards ,
+TS3006d.B.dialog-act.dharshi.295	2745.28	2745.64	B	UI	ass	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.589	2746.6	2753.31	D	ME	ass	-1	0	but {disfmarker} If if you don't take that into account , there's plenty of room for creativ creativity .
+TS3006d.C.dialog-act.dharshi.56	2751.45	2751.97	C	ID	fra	-1	0	I
+TS3006d.D.dialog-act.dharshi.590	2753.31	2760.7	D	ME	ass	+1	2	Also not only the drawing and the the making of the thing itself , but also in explaining it to the other people , by means of uh
+TS3006d.C.dialog-act.dharshi.378	2761.0	2762.6	C	ID	ass	-1	0	We were pretty democratic .
+TS3006d.D.dialog-act.dharshi.591	2761.7	2764.92	D	ME	ass	+1	2	the the board and uh PowerPoint and Word and stuff like that .
+TS3006d.A.dialog-act.dharshi.453	2764.48	2769.4	A	PM	el.ass	+1	2	So and the {disfmarker} uh about the board {gap} digital pen ?
+TS3006d.A.dialog-act.dharshi.454	2769.4	2771.653	A	PM	el.ass	-1	0	Uh was that helpful or {disfmarker}
+TS3006d.C.dialog-act.dharshi.379	2770.36	2770.47	C	ID	bck	-1	0	Yeah .
+TS3006d.A.dialog-act.dharshi.455	2772.74	2773.13	A	PM	oth	-1	0	Ooh .
+TS3006d.D.dialog-act.dharshi.592	2772.53	2775.34	D	ME	ass	-1	0	Mm uh I think in in essence
+TS3006d.A.dialog-act.dharshi.126	2773.754	2774.165	A	PM	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.593	2776.43	2779.17	D	ME	ass	+1	2	the digital pen is better than the SMARTboard .
+TS3006d.D.dialog-act.dharshi.594	2779.17	2781.23	D	ME	ass	+1	2	Because it it it just works better .
+TS3006d.A.dialog-act.dharshi.456	2781.3	2784.133	A	PM	ass	-1	0	Yeah it works . {vocalsound}
+TS3006d.D.dialog-act.dharshi.595	2781.23	2782.63	D	ME	stl	-1	0	I mean uh uh I've made {disfmarker}
+TS3006d.D.dialog-act.dharshi.596	2782.63	2786.05	D	ME	inf	-1	0	yeah , uh I've made several notes just to test it ,
+TS3006d.D.dialog-act.dharshi.597	2786.05	2791.42	D	ME	inf	-1	0	and and just put the pen in into it , and then it came onto my screen and it looked perfectly .
+TS3006d.B.dialog-act.dharshi.296	2791.07	2791.53	B	UI	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.598	2791.42	2795.58	D	ME	ass	-1	0	So it it's better a better device than uh
+TS3006d.A.dialog-act.dharshi.457	2792.15	2792.5	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.C.dialog-act.dharshi.380	2796.537	2798.35	C	ID	ass	-1	0	{vocalsound} Maybe {disfmarker} Yeah .
+TS3006d.D.dialog-act.dharshi.599	2796.63	2797.74	D	ME	ass	-1	0	than the screen .
+TS3006d.D.dialog-act.dharshi.600	2797.74	2801.205	D	ME	ass	+1	2	But the screen is useful , in essence , but it doesn't work that well . {vocalsound}
+TS3006d.C.dialog-act.dharshi.381	2800.89	2801.67	C	ID	stl	-1	0	It's uh it's {disfmarker}
+TS3006d.C.dialog-act.dharshi.382	2801.67	2805.86	C	ID	ass	-1	0	The the pen is more intuitive , 'cause we're all used to writing with pen .
+TS3006d.A.dialog-act.dharshi.458	2804.406	2806.24	A	PM	bck	-1	0	{vocalsound} Use the pen .
+TS3006d.C.dialog-act.dharshi.383	2805.86	2814.17	C	ID	inf	+1	2	And uh as I said , uh I uh have no idea how PowerPoint works , so will take me half a day to be able to make a normal PowerPoint presentation .
+TS3006d.D.dialog-act.dharshi.601	2805.835	2806.32	D	ME	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.602	2813.15	2813.62	D	ME	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.384	2814.17	2819.27	C	ID	ass	-1	0	But once I get to know the program probably , I mean , it looks better , you know .
+TS3006d.C.dialog-act.dharshi.385	2819.27	2820.54	C	ID	ass	-1	0	Or uh something like that .
+TS3006d.C.dialog-act.dharshi.386	2820.54	2821.02	C	ID	ass	-1	0	You can
+TS3006d.C.dialog-act.dharshi.388	2822.5	2824.64	C	ID	ass	-1	0	give it a kind of a home style ,
+TS3006d.C.dialog-act.dharshi.389	2824.64	2828.43	C	ID	ass	-1	0	like we have i the the logo and everything .
+TS3006d.A.dialog-act.dharshi.459	2827.96	2828.47	A	PM	ass	-1	0	Yeah yeah .
+TS3006d.C.dialog-act.dharshi.390	2828.43	2830.52	C	ID	oth	-1	0	And {disfmarker} I don't know .
+TS3006d.D.dialog-act.dharshi.603	2829.47	2829.78	D	ME	bck	-1	0	Yep .
+TS3006d.A.dialog-act.dharshi.460	2833.13	2834.931	A	PM	oth	-1	0	Blink . Oh . {vocalsound}
+TS3006d.D.dialog-act.dharshi.604	2834.4	2835.78	D	ME	inf	-1	0	Warning . Finish meeting now .
+TS3006d.B.dialog-act.dharshi.297	2834.98	2835.7	B	UI	bck	+1	0	Finish meeting .
+TS3006d.A.dialog-act.dharshi.461	2835.51	2840.42	A	PM	el.ass	+1	1	Okay , are are there {vocalsound} any new ideas about this ?
+TS3006d.A.dialog-act.dharshi.462	2840.42	2841.587	A	PM	inf	-1	0	All I think {disfmarker}
+TS3006d.D.dialog-act.dharshi.605	2842.26	2843.01	D	ME	stl	-1	0	Well , it {disfmarker}
+TS3006d.A.dialog-act.dharshi.463	2842.26	2843.61	A	PM	inf	-1	0	I didn't really receive , yeah .
+TS3006d.D.dialog-act.dharshi.606	2843.01	2850.57	D	ME	ass	+1	1	It's use especially useful , I guess , to to evaluate designs and graph graphical stuff .
+TS3006d.A.dialog-act.dharshi.464	2850.884	2852.71	A	PM	fra	-1	0	{vocalsound} Uh uh w uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.607	2851.9	2852.47	D	ME	stl	-1	0	And and
+TS3006d.A.dialog-act.dharshi.465	2852.71	2853.794	A	PM	be.pos	-1	0	S sorry uh {disfmarker}
+TS3006d.D.dialog-act.dharshi.608	2854.63	2856.28	D	ME	ass	-1	0	the {gap} screen and stuff like that .
+TS3006d.A.dialog-act.dharshi.466	2856.74	2857.03	A	PM	bck	-1	0	Mm-hmm .
+TS3006d.B.dialog-act.dharshi.298	2856.84	2859.43	B	UI	ass	+1	2	I think the PowerPoint is is too limited .
+TS3006d.B.dialog-act.dharshi.299	2859.43	2862.45	B	UI	ass	-1	0	You can't uh draw easy in in PowerPoint .
+TS3006d.B.dialog-act.dharshi.300	2862.45	2864.21	B	UI	stl	-1	0	It has to be uh {disfmarker} yeah .
+TS3006d.B.dialog-act.dharshi.301	2864.21	2868.269	B	UI	ass	-1	0	The drawing board has to be integrated into PowerPoint , so that you can just easily {disfmarker}
+TS3006d.D.dialog-act.dharshi.609	2868.35	2868.7	D	ME	ass	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.51	2869.14	2869.636	B	UI	fra	-1	0	{vocalsound}
+TS3006d.C.dialog-act.dharshi.391	2869.14	2876.0	C	ID	ass	+1	2	Yeah the the the problem with PowerPoint for me is that you have to i put in the pre-made chunks c as well .
+TS3006d.A.dialog-act.dharshi.467	2876.07	2876.57	A	PM	bck	-1	0	Yeah .
+TS3006d.B.dialog-act.dharshi.302	2875.62	2875.93	B	UI	bck	-1	0	Yeah .
+TS3006d.C.dialog-act.dharshi.392	2876.0	2881.47	C	ID	ass	-1	0	You know , you can draw something on the sketch-board and then take it there , or whatever .
+TS3006d.D.dialog-act.dharshi.610	2877.59	2878.06	D	ME	bck	-1	0	Yeah .
+TS3006d.D.dialog-act.dharshi.611	2881.71	2888.108	D	ME	ass	+1	2	Yeah . But it it's useful to to show something to to an {disfmarker} a small audience , and then to {disfmarker}
+TS3006d.B.dialog-act.dharshi.303	2885.96	2889.746	B	UI	ass	-1	0	Yeah just for text , for text it's uh it's okay . But {disfmarker}
+TS3006d.D.dialog-act.dharshi.612	2889.56	2894.026	D	ME	ass	-1	0	Yeah . These these kind of screens this size are useful to discuss things . So {disfmarker}
+TS3006d.A.dialog-act.dharshi.468	2894.707	2897.38	A	PM	oth	-1	0	{vocalsound} Oh .
+TS3006d.B.dialog-act.dharshi.50	2894.508	2894.876	B	UI	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.613	2895.76	2897.66	D	ME	sug	+1	0	Yes . Check your email .
+TS3006d.A.dialog-act.dharshi.469	2897.38	2902.934	A	PM	sug	+1	0	Uh we should uh enter our questionnaire . {vocalsound} {vocalsound}
+TS3006d.A.dialog-act.dharshi.123	2904.316	2906.124	A	PM	fra	-1	0	{vocalsound}
+TS3006d.D.dialog-act.dharshi.614	2904.124	2909.756	D	ME	inf	-1	0	{vocalsound} {gap} {vocalsound} You also . {vocalsound}
+TS3006d.B.dialog-act.dharshi.304	2909.39	2909.81	B	UI	bck	-1	0	'Kay .
+TS3006d.A.dialog-act.dharshi.470	2916.02	2916.4	A	PM	bck	-1	0	Ah .
+TS3006d.A.dialog-act.dharshi.124	2921.132	2923.11	A	PM	oth	-1	0	{vocalsound} {vocalsound} Woah .
+TS3006d.C.dialog-act.dharshi.393	2927.63	2928.25	C	ID	ass	-1	0	Alright .
+TS3006d.D.dialog-act.dharshi.615	2927.7	2928.25	D	ME	ass	-1	0	Right .
+TS3006d.A.dialog-act.dharshi.471	2929.69	2931.87	A	PM	ass	-1	0	Okay . Uh okay .
+TS3006d.B.dialog-act.dharshi.305	2931.33	2931.72	B	UI	ass	-1	0	Okay .
+TS3006d.C.dialog-act.dharshi.394	2932.17	2932.69	C	ID	ass	-1	0	Alright .
+TS3006d.D.dialog-act.dharshi.616	2934.36	2935.46	D	ME	ass	-1	0	Yes boss .
+TS3006d.C.dialog-act.dharshi.395	2937.28	2940.53	C	ID	be.pos	-1	0	Well , s see you in a second huh ? {gap} .
+TS3006d.A.dialog-act.dharshi.472	2937.94	2940.305	A	PM	be.pos	-1	0	That's the management . {vocalsound}
+TS3006d.D.dialog-act.dharshi.617	2939.843	2944.34	D	ME	be.pos	-1	0	{vocalsound} Well see you soon .
+TS3006d.B.dialog-act.dharshi.306	2942.14	2942.4	B	UI	bck	-1	0	Oh .
+TS3006d.A.dialog-act.dharshi.473	2943.26	2943.81	A	PM	be.pos	-1	0	Hope so .
+TS3006d.B.dialog-act.dharshi.307	2943.15	2943.54	B	UI	bck	-1	0	Okay .
+TS3006d.D.dialog-act.dharshi.618	2944.34	2944.6	D	ME	ass	-1	0	{vocalsound} Yeah .
+TS3006d.A.dialog-act.dharshi.125	2946.22	2947.964	A	PM	stl	-1	0	Um {disfmarker} {vocalsound}
+TS3006d.C.dialog-act.dharshi.396	2946.9	2949.26	C	ID	inf	-1	0	Yeah {vocalsound} we have to pull it this way , huh ?
+TS3006d.C.dialog-act.dharshi.397	2949.26	2949.5	C	ID	oth	-1	0	Wait .

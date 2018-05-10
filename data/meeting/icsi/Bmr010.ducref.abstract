@@ -1,0 +1,4 @@
+The Berkeley Meeting Recorder group talked about the ongoing transcription effort and issues related to the Transcriber tool , which despite its limitations for capturing tight time markings for overlapping speech , will continue to remain in use.
+Speaker mn014 explained his efforts to pre-segment the signal into speech and non-speech portions for facilitating transcriptions.
+Recording equipment and procedures were discussed , with a focus on audible breathing and the need for standards in microphone wear and use.
+And , finally , it was determined that speaker mn005's efforts to detect speaker overlap using energy should instead be focussed on pitch- and harmonicity-related features or be guided by a non-featural , statistical approach , i.e . via the use of Markov models.

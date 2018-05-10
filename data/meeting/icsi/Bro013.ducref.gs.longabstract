@@ -1,0 +1,19 @@
+The Main purpose of the meeting of ICSI's Meeting Recorder Group at Berkeley was to discuss the recent progress of it's members.
+This includes reports on the progress of the groups main digit recogniser project , with interest on voice-activity detectors and voiced/unvoiced detection , work on acoustic feature detection , and research into dealing with reverberation.
+There was also talk of comparing different recognition systems and training datasets , and a discussion of the pronunciation of the digit zero for the recording at the end of the meeting.
+In his next status report , me026 will summarise the work he has been researching.
+The digit recognition system is still not working well enough , they must get better results if they want to publish and be noticed.
+They have not really made many improvements , which may be due to their comparatively small training set , or the conditions the data is recorded under.
+The new VAD is quite a large network , and adds a delay to the process.
+This caused OGI to drop it , though speaker mn007 is assuming that a smaller and equally effective system can be developed.
+The alternative is to get yet another VAD form somewhere else , though it's not clear if they will even be required in the final system.
+There are some problems with the voiced/unvoiced feature detection , because some pitches are slipping through the filtering.
+The group have been comparing their recognition system to a few others , and theirs has not come off favourably.
+There could be many reasons for this , including smaller training set , more realistic data , or older technology.
+Speaker mn007 has put the best voice activity detector into the system , to great improvements along with designing new filters that run at the correct latency.
+Speaker fn002 has started to find parameters for voiced/unvoiced feature detection , and has found some classic ones , although there are other things she wishes to look at.
+Me013 offers a few ideas of simple things she may want to try , as he is not confident with everything she is trying.
+Speaker me006 is continuing with the idea of extending work on acoustic feature detection.
+He is continuing to read , and has discussed the suitability of factorial HMMs with a colleague.
+Speaker me026 has been learning more about previous work on reverberation , and is ready to start with a re-implementation of the theory.
+From there he wants to extend the work to look at time-varying reverb.

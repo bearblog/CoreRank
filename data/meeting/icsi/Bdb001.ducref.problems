@@ -1,0 +1,8 @@
+Choosing a project-specific format for the representation of the data might not be optimal for future work.
+On the other hand , it is not yet clear whether a more standardised , but generic technology , like that of the ATLAS project , can accommodate all the requirements of speech analysis.
+Regardless of the particular format , including all annotations ( sentences , words , phones , frames , etc ) in one file could result in unmanageable file sizes.
+Searching , updating or simply parsing a file for a simple task can become an unwieldy process.
+Even P-files , which are only for frame-level annotation , may be too verbose for the amount of data resulting from hour-long recordings.
+The actual mapping of word-level transcriptions to frame-level representations is expected to be problematic anyway.
+Likewise , problems will arise if , in the future , slightly different transcripts of the same data are annotated in formats that do not include time-marks.
+Trying to merge such annotations later will not be easy , because of the combination of transcription discrepancies with the loss of the underlying connection offered by the time-marks.

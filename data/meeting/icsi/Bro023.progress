@@ -1,0 +1,63 @@
+14	Bro023.s.9	Speaker me026 has been experimenting with spectral subtraction using different data window sizes.
+Bro023.A.dialogueact61	91.751	93.901	A	PhD	qw^co	+1	1	why don't we {disfmarker} why don't we start with you , Dave ,
+Bro023.E.dialogueact65	97.94	114.7	E	Grad	fg|s	+1	2	So , um , since we 're looking at putting this , um {disfmarker} mean log m magnitude spectral subtraction , um , into the SmartKom system , I I did a test seeing if , um , it would work using past only {comment} and plus the present to calculate the mean .
+Bro023.E.dialogueact66	114.7	124.104	E	Grad	s	+1	1	So , I did a test , um , {vocalsound} where I used twelve seconds from the past and the present frame to , um , calculate the mean .
+Bro023.E.dialogueact72	130.99	134.52	E	Grad	s^na	+1	1	Twelve seconds , um , counting back from the end of the current frame ,
+Bro023.E.dialogueact75	134.96	137.67	E	Grad	s	+1	1	So it was , um , twen I think it was twenty - one frames
+Bro023.E.dialogueact79	140.11	146.57	E	Grad	s^rt	+1	1	And compared to , um , do using a twelve second centered window , I think there was a drop in performance
+Bro023.E.dialogueact80	146.63	147.66	E	Grad	s	+1	1	but it was just a slight drop .
+Bro023.E.dialogueact92	168.67	172.2	E	Grad	s	+1	1	So say twe twelve seconds in the earlier test seemed like a good length of time ,
+Bro023.E.dialogueact93	172.66	174.91	E	Grad	qw	+1	1	but what happens if you have less than twelve seconds ?
+Bro023.E.dialogueact95	178.07	185.4	E	Grad	s	+1	1	So I w bef before , um {disfmarker} Back in May , I did some experiments using , say , two seconds , or four seconds , or six seconds .
+Bro023.E.dialogueact96	185.74	192.81	E	Grad	s	+1	1	In those I trained the models using mean subtraction with the means calculated over two seconds , or four seconds , or six seconds .
+Bro023.E.dialogueact98	195.864	199.124	E	Grad	s	+1	1	here , I was curious , what if I trained the models using twelve seconds
+Bro023.E.dialogueact99	199.434	205.164	E	Grad	s	+1	1	but I f I gave it a situation where the test set I was {disfmarker} subtracted using two seconds , or four seconds , or six seconds .
+Bro023.E.dialogueact106	224.415	230.615	E	Grad	s	+1	1	And it seems like it {disfmarker} it {disfmarker} it hurts compared to if you actually train the models {comment} using th that same length of time
+9	Bro023.s.10	One possible idea is to use increasing windows as more data becomes available.
+Bro023.C.dialogueact117	270.046	274.606	C	Professor	qw	+1	1	I mean , why would you do it , if you knew that you were going to have short windows in testing .
+Bro023.A.dialogueact119	273.847	278.867	A	PhD	s	+1	1	Yeah , it seems like for your {disfmarker} I mean , in normal situations you would never get twelve seconds of speech ,
+Bro023.C.dialogueact135	298.06	310.759	C	Professor	s	+1	1	The other thing , um , which maybe relates a little bit to something else we 've talked about in terms of windowing and so on is , that , um , I wonder if you trained with twelve seconds , and then when you were two seconds in you used two seconds ,
+Bro023.C.dialogueact136	310.759	312.989	C	Professor	s	+1	1	and when you were four seconds in , you used four seconds ,
+Bro023.C.dialogueact137	312.989	313.629	C	Professor	s.%--	+1	1	and when you were six {disfmarker}
+Bro023.C.dialogueact138	313.629	315.699	C	Professor	s	+1	1	and you basically build up to the twelve seconds .
+Bro023.C.dialogueact139	315.699	318.209	C	Professor	s	+1	1	So that if you have very long utterances you have the best ,
+Bro023.C.dialogueact141	318.79	321.33	C	Professor	s	+1	1	but if you have shorter utterances you use what you can .
+Bro023.E.dialogueact143	322.363	325.023	E	Grad	s	+1	1	And that 's actually what we 're planning to do in
+12	Bro023.s.11	Speaker mn049 has been working on Wiener filtering , and testing with just the base system provides 30% improvement.
+Bro023.A.dialogueact285	786.046	787.676	A	PhD	fh|qy^co^rt^tc	+1	1	uh , do you wanna go , Sunil ?
+Bro023.B.dialogueact289	794.013	795.853	B	PhD	s	+1	2	So I 've been working on that Wiener filtering .
+Bro023.B.dialogueact292	798.654	805.454	B	PhD	s	+1	1	found that , uh , s single {disfmarker} like , I just do a s normal Wiener filtering , like the standard method of Wiener filtering .
+Bro023.B.dialogueact293	806.294	810.194	B	PhD	s.%--	+1	1	And that doesn't actually give me any improvement over like {disfmarker}
+Bro023.B.dialogueact294	810.264	812.504	B	PhD	s	+1	1	I mean , uh , b it actually improves over the baseline
+Bro023.B.dialogueact295	812.504	815.584	B	PhD	s	+1	1	but it 's not like {disfmarker} it doesn't meet something like fifty percent or something .
+Bro023.A.dialogueact297	817.32	819.32	A	PhD	qy^bu^d^rt	+1	1	Improves over the base line MFCC system ?
+Bro023.B.dialogueact303	821.62	824.49	B	PhD	s	+1	1	So that 's {disfmarker} The improvement is somewhere around , like , thirty percent over the baseline .
+Bro023.C.dialogueact304	824.86	827.12	C	Professor	qy^rt	+1	1	Is that using {disfmarker} in combination with something else ?
+Bro023.B.dialogueact305	827.187	827.447	B	PhD	s^ar	+1	1	No ,
+Bro023.B.dialogueact307	827.447	829.167	B	PhD	s^nd	+1	1	just {disfmarker} just one stage Wiener filter
+Bro023.B.dialogueact308	829.167	830.367	B	PhD	s^e	+1	1	which is a standard Wiener filter .
+4	Bro023.s.12	Using a second stage of filtering led to even more improvement.
+Bro023.B.dialogueact461	1106.77	1110.04	B	PhD	fh|s	+1	1	uh , I ran this stuff with one more stage of Wiener filtering on it
+Bro023.B.dialogueact466	1131.76	1138.91	B	PhD	fh|s.%--	+1	1	And so by adding another stage of Wiener filtering , the results on the SpeechDat - Car was like ,
+Bro023.B.dialogueact462	1110.04	1124.29	B	PhD	s	+1	1	but the second time , what I did was I {disfmarker} estimated the new Wiener filter based on the cleaned up speech , and did , uh , smoothing in the frequency to {disfmarker} to reduce the variance {disfmarker}
+Bro023.B.dialogueact470	1142.17	1145.5	B	PhD	s	+1	1	But the overall improvement was like fifty - six point four six .
+4	Bro023.s.13	Speaker mn007 is working on spectral subtraction , still with minimal results.
+Bro023.A.dialogueact821	1896.16	1896.84	A	PhD	qy^co^rt^tc	+1	1	Do you wanna go , Stephane ?
+Bro023.D.dialogueact823	1898.37	1902.68	D	PhD	s	+1	2	So , {vocalsound} I 've been , uh , working still on the spectral subtraction .
+Bro023.D.dialogueact825	1905.42	1913.72	D	PhD	s	+1	1	So to r to remind you {vocalsound} {vocalsound} a little bit of {disfmarker} of what I did before , is just {vocalsound} to apply some spectral subtraction with an overestimation factor
+Bro023.D.dialogueact843	1962.2	1973.12	D	PhD	fh|s	+1	1	Um , doing just this , uh , either on the FFT bins or on the mel bands , um , t doesn't yield any improvement
+8	Bro023.s.14	Smoothing seems to help , and implementing alongside the neural net should also be positive.
+Bro023.D.dialogueact992	2356.04	2362.86	D	PhD	s	+1	1	Well , actually I tried , {vocalsound} something else based on this , um , is to {disfmarker} to put some smoothing ,
+Bro023.D.dialogueact993	2363.62	2368.45	D	PhD	fh|s^df	+1	1	um , because it seems to {disfmarker} to help or it seems to help the Wiener filtering
+Bro023.D.dialogueact997	2371.61	2376.16	D	PhD	s	+1	1	So what I did is , uh , some kind of nonlinear smoothing .
+Bro023.D.dialogueact1025	2490.05	2493.73	D	PhD	fh|s^df^rt	+1	1	uh , although I 've just {disfmarker} just tested on Italian and Finnish .
+Bro023.D.dialogueact1026	2495.32	2500.82	D	PhD	s	+1	1	And on Italian it seems {disfmarker} my result seems to be a little bit better than the Wiener filtering ,
+Bro023.C.dialogueact1183	2747.88	2756.17	C	Professor	s^bu	+1	1	Well , none of these systems , by the way , have {disfmarker} I mean , y you both are {disfmarker} are working with , um , our system that does not have the neural net ,
+Bro023.C.dialogueact1190	2759.42	2766.1	C	Professor	s^bu	+1	1	So one would hope , presumably , that the neural net part of it would {disfmarker} would improve things further as {disfmarker} as they did before .
+Bro023.D.dialogueact1191	2766.93	2767.16	D	PhD	s^aa	+1	1	Yeah .
+5	Bro023.s.15	He has also been working on noise estimation with an energy minima approach that does not require the voice activity detector.
+Bro023.D.dialogueact1502	3401.7	3413.12	D	PhD	s^tc	+1	1	The second thing I was working on is to , um , try to look at noise estimation , {comment} mmm , and using some technique that doesn't need voice activity detection .
+Bro023.D.dialogueact1504	3417.16	3425.08	D	PhD	s	+1	2	and for this I u simply used some code that , uh , {vocalsound} I had from {disfmarker} from Belgium ,
+Bro023.D.dialogueact1505	3426.63	3431.16	D	PhD	s^e	+1	2	which is technique that , um , takes a bunch of frame ,
+Bro023.D.dialogueact1507	3434.06	3441.83	D	PhD	s^e	+1	2	and for each frequency bands of this frame , takes a look at the minima of the energy .
+Bro023.D.dialogueact1508	3442.74	3449.67	D	PhD	s^rt	+1	2	And then average these minima and take this as an {disfmarker} an energy estimate of the noise for this particular frequency band .

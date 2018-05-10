@@ -1,0 +1,8 @@
+Speaker me026 has been trying mean subtraction on the SRI system , with good improvement for the far mike , though worse on near mike.
+This contradicts previous findings for HTK , though he has some theories to explain the difference.
+Has also been working on different phase normalization techniques , with no luck.
+Speaker Mn007 has also been looking at differences , differences between the SRI system and the groups Aurora project , and again , there are a number of possible explanations.
+He has also been looking at a problem with the VAD and SNR.
+Mn052 has sorted bugs in implementation of wiener filtering , and has been investigating smoothing and also SNR.
+Fn002 is ready to run experiment investigating VTS in the cepstral domain.
+Speaker me006 is still working on his proposal.

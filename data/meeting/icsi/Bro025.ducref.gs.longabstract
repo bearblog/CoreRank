@@ -1,0 +1,9 @@
+ICSI's Meeting Recorder Group have returned from a meeting with some important decisions to make.
+They have developed a piece of software which allows them to implement their two main approaches to dealing with noise.
+The base rate is currently set at the second best rate as of the last project evaluation , and it does not yet include everything the group have been working on.
+With this in mind , they have decided to set most things , and concentrate on studying only a few key aspects , the neural network , the voice activity detector , and the noise estimation.
+By the time a senior member of their research partners OGI returns , they want to have a firm plan of what they will be doing.
+System latency is still an issue , but limits have still not been set by the project heads.
+The group have encountered problems with frame-dropping , and will need to bear that in mind since their neural network would come after that stage.
+While deciding which of two approaches to finally adopt , the group put together one piece of software for all to use that implements both spectral subtraction and wiener filtering.
+Speaker me026 has done his quals , and is looking at some of the feedback he received.

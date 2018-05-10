@@ -1,0 +1,67 @@
+17	Bro028.s.7	It is only a minor problem that the latency limit has been set below the current systems level , and also keeping the number of features within limits only drops performance a little.
+Bro028.D.dialogueact31	74.132	77.602	D	PhD	s	+1	2	Uh , yeah . There were like two hours of {pause} discussions ,
+Bro028.D.dialogueact32	78.69	82.264	D	PhD	s	+1	2	and then suddenly , {vocalsound} uh , people were tired , I guess ,
+Bro028.D.dialogueact33	82.264	84.698	D	PhD	s	+1	2	and they decided on {nonvocalsound} a number ,
+Bro028.D.dialogueact34	85.578	86.488	D	PhD	s^e^rt	+1	2	two hundred and twenty ,
+Bro028.D.dialogueact36	89.003	90.613	D	PhD	s^e	+1	2	included e including everything .
+Bro028.D.dialogueact40	100.42	104.51	D	PhD	s	+1	2	So , currently d uh , we have system that has two hundred and thirty .
+Bro028.B.dialogueact47	111.125	112.975	B	Professor	s^bu	+1	2	we have to reduce it by ten milliseconds somehow .
+Bro028.D.dialogueact50	114.32	115.75	D	PhD	s^ba	+1	2	That 's not a problem , I {disfmarker} I guess .
+Bro028.B.dialogueact53	118.659	122.397	B	Professor	s^bu	+1	2	W It 's {disfmarker} it 's p d primary {disfmarker} primarily determined by the VAD at this point ,
+Bro028.B.dialogueact57	123.654	125.604	B	Professor	s^cs	+1	2	S so we can make the VAD a little shorter .
+Bro028.B.dialogueact61	126.397	129.717	B	Professor	s^cs	+1	2	Yeah . We probably should do that pretty soon so that we don't get used to it being a certain way .
+Bro028.D.dialogueact75	148.116	151.576	D	PhD	fg|s^rt^t^tc	+1	3	Uh , yeah . So , the second thing is the system that we have currently .
+Bro028.D.dialogueact76	152.77	157.125	D	PhD	s	+1	3	Oh , yes . We have , like , a system that gives sixty - two percent improvement ,
+Bro028.D.dialogueact77	157.125	161.23	D	PhD	s.%--	+1	3	but {vocalsound} if you want to stick to the {disfmarker} {vocalsound} this latency {disfmarker}
+Bro028.D.dialogueact78	161.777	163.407	D	PhD	s	+1	3	Well , it has a latency of two thirty ,
+Bro028.D.dialogueact79	163.407	171.685	D	PhD	s^bd	+1	3	but {vocalsound} if you want also to stick to the number {vocalsound} of features that {disfmarker} limit it to sixty , {vocalsound} then we go a little bit down
+Bro028.D.dialogueact80	171.685	173.375	D	PhD	s^df	+1	3	but it 's still sixty - one percent .
+16	Bro028.s.8	A more significant problem is that the tandem approach may not fit in the memory space allowed , and removing it drops performance more.
+Bro028.D.dialogueact81	174.569	179.399	D	PhD	s	+1	1	Uh , and if we drop the tandem network , then we have fifty - seven percent .
+Bro028.B.dialogueact82	180.44	184.01	B	Professor	qy^bu^d^rt	+1	1	Uh , but th the two th two thirty includes the tandem network ?
+Bro028.B.dialogueact85	186.984	192.104	B	Professor	qy	+1	1	And i is the tandem network , uh , small enough that it will fit on the terminal size
+Bro028.D.dialogueact86	192.03	193.26	D	PhD	s^ar|s^nd	+1	1	Uh , no , I don't think so .
+Bro028.D.dialogueact91	197.616	206.32	D	PhD	s	+1	1	It 's still {disfmarker} in terms of computation , if we use , like , their way of computing the {disfmarker} the maps {disfmarker} the {disfmarker} the MIPs , {vocalsound} I think it fits ,
+Bro028.D.dialogueact94	206.32	208.82	D	PhD	s	+1	1	but it 's , uh , m mainly a problem of memory .
+Bro028.D.dialogueact97	211.539	214.239	D	PhD	s^no	+1	1	and I don't know how much {pause} this can be discussed or not ,
+Bro028.D.dialogueact98	215.529	216.909	D	PhD	s	+1	1	because it 's {disfmarker} it could be in ROM ,
+Bro028.D.dialogueact99	216.909	218.899	D	PhD	s	+1	1	so it 's maybe not that expensive .
+Bro028.B.dialogueact101	219.881	221.551	B	Professor	qw.%-	+1	2	Ho - how much memory d ? H how many {disfmarker} ?
+Bro028.D.dialogueact102	220.214	222.714	D	PhD	s^no	+1	2	I d I d uh , I {disfmarker} I don't kn remember exactly ,
+Bro028.B.dialogueact105	225.675	226.825	B	Professor	s^bk|s^na	+1	2	Yeah . I 'd like to {pause} see that ,
+Bro028.B.dialogueact106	226.825	228.965	B	Professor	s^df	+1	2	cuz maybe I could think a little bit about it ,
+Bro028.B.dialogueact107	228.965	231.691	B	Professor	s^am^cs	+1	2	cuz we {vocalsound} maybe we could make it a little smaller
+Bro028.B.dialogueact110	234.444	236.694	B	Professor	s	+1	2	Uh , I 'd like to see how far off we are .
+Bro028.B.dialogueact112	237.33	243.056	B	Professor	s^bu	+1	2	But I guess it 's still within their rules to have {disfmarker} have it on the , uh , t uh , server side .
+31	Bro028.s.9	Some of the group had issues with mn007's approach to human performance testing , but this was considered more of a side issue.
+Bro028.D.dialogueact272	630.825	635.37	D	PhD	fg|s^t^tc	+1	2	Yeah . The last thing is that I think we are getting close to human performance .
+Bro028.D.dialogueact273	636.195	638.245	D	PhD	s^bd^df	+1	2	Well , that 's something I would like to investigate further ,
+Bro028.D.dialogueact276	641.31	649.556	D	PhD	s	+1	2	I did , like , um {disfmarker} I did , uh , listen to the m most noisy utterances of the SpeechDat - Car Italian
+Bro028.D.dialogueact277	649.656	651.649	D	PhD	s	+1	2	and tried to transcribe them .
+Bro028.B.dialogueact279	653.293	654.553	B	Professor	s^bu	+1	2	So this is a particular human .
+Bro028.B.dialogueact280	654.633	656.033	B	Professor	s^bu^e	+1	2	This is {disfmarker} this i this is Stephane .
+Bro028.D.dialogueact284	657.001	658.881	D	PhD	s^bd	+1	2	that 's the {disfmarker} the flaw of the experiment .
+Bro028.D.dialogueact292	676.92	684.627	D	PhD	fh|s.%--	+1	2	Um , but what happens also is that if I listen to the , um {disfmarker} {nonvocalsound} a re - synthesized version of the speech
+Bro028.D.dialogueact293	685.316	692.33	D	PhD	s.%--	+1	2	and {pause} I re - synthesized this using a white noise that 's filtered by a LPC , uh , filter {disfmarker}
+Bro028.D.dialogueact291	673.329	675.829	D	PhD	s^df^e	+1	2	while our system is currently at seven percent .
+Bro028.D.dialogueact289	663.336	672.748	D	PhD	s^df	+1	2	but still , uh , {vocalsound} what happens is {disfmarker} is that , {vocalsound} uh , the digit error rate on this is around one percent ,
+Bro028.D.dialogueact296	694.57	697.29	D	PhD	s	+1	2	well , you can argue , that , uh {disfmarker} that this is not speech ,
+Bro028.D.dialogueact298	697.29	699.77	D	PhD	s	+1	2	so the ear is not trained to recognize this .
+Bro028.D.dialogueact299	699.77	701.76	D	PhD	s	+1	2	But s actually it sound like {pause} whispering ,
+Bro028.B.dialogueact303	704.734	705.454	B	Professor	s	+1	1	There 's two problems there .
+Bro028.B.dialogueact304	705.454	713.911	B	Professor	s	+1	1	I mean {disfmarker} I mean , so {disfmarker} so the first is {vocalsound} that by doing LPC - twelve with synthesized speech w like you 're saying , uh , it 's {disfmarker} {vocalsound} i i you 're {disfmarker} you 're adding other degradation .
+Bro028.B.dialogueact307	714.586	715.726	B	Professor	s^e	+1	1	So it 's not just the noise
+Bro028.B.dialogueact308	715.726	717.996	B	Professor	s^e	+1	1	but you 're adding in fact some degradation
+Bro028.B.dialogueact309	717.996	719.706	B	Professor	s^df^e	+1	1	because it 's only an approximation .
+Bro028.B.dialogueact311	721.095	731.282	B	Professor	s	+1	1	and the second thing is {disfmarker} which is m maybe more interesting {disfmarker} is that , um , {comment} {vocalsound} if you do it with whispered speech , you get this number .
+Bro028.B.dialogueact312	731.844	736.684	B	Professor	qh^cs	+1	1	What if you had {pause} done analysis {comment} re - synthesis and taken the pitch as well ?
+Bro028.B.dialogueact314	738.012	739.282	B	Professor	s	+1	1	So now you put the pitch in .
+Bro028.B.dialogueact316	741.03	742.37	B	Professor	qh	+1	1	What would the percentage be then ?
+Bro028.B.dialogueact318	743.97	744.77	B	Professor	s	+1	1	See , that 's the question .
+Bro028.B.dialogueact321	750.699	753.892	B	Professor	s	+1	1	That would say at least for people , having the pitch is really , really important ,
+Bro028.B.dialogueact344	808.398	813.82	B	Professor	s^ba	+1	1	I mean , th the thing is LPC is not a {disfmarker} a really great representation of speech .
+Bro028.B.dialogueact415	991.163	992.363	B	Professor	s^bd^no	+1	1	uh , but i I don't know .
+Bro028.B.dialogueact417	992.363	994.003	B	Professor	s	+1	1	I do don't wanna take you away from other things .
+Bro028.B.dialogueact447	1062.3	1063.71	B	Professor	fg|s^bd	+1	2	Yeah . I mean , it 's probably not worth your time .
+Bro028.B.dialogueact448	1063.71	1064.84	B	Professor	s^df^e	+1	2	It 's {disfmarker} it 's a side thing
+Bro028.B.dialogueact449	1064.84	1066.33	B	Professor	s^df^e	+1	2	and {disfmarker} and {disfmarker} and there 's a lot to do .

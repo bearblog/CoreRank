@@ -1,0 +1,23 @@
+2	Bed014.s.19	As the translation of the german SmartKom into English moves on , the generation rules may prove difficult to tackle for someone without experience in functional programming , as they are written in LISP.
+Bed014.E.dialogueact144	333.246	335.476	E	Grad	s^e^na	+1	1	That 's the LISP - type scheme .
+Bed014.D.dialogueact151	352.345	356.675	D	Grad	s^ng^rt	+1	1	Well , I guess if you 're not used to functional programming , Scheme can be completely incomprehensible .
+5	Bed014.s.20	As far as the construction analysis is concerned , the two problems that will need to be solved are to identify the couplings between constructions in different mental spaces and to define how inferences will work in the belief-net from a technical point of view.
+Bed014.C.dialogueact327	727.65	740.713	C	Professor	s.%--	+1	1	one of the things I w would like to do over the next , uh , month , it may take more , {comment} is to st understand to what extent we can not only figure out the constructions for them for multiple worlds
+Bed014.C.dialogueact329	743.187	753.147	C	Professor	s	+1	1	uh sort of what the formalism will look like and where the slots and fillers will be , but also what that would translate into in terms of belief - net and the inferences .
+Bed014.C.dialogueact334	787.211	792.58	C	Professor	s	+1	1	One is the linguistic part of what are the couplings
+Bed014.C.dialogueact335	792.58	797.24	C	Professor	s	+1	1	and {disfmarker} and when you have a certain , uh , construction , that implies certain couplings and other couplings ,
+Bed014.C.dialogueact338	801.945	807.915	C	Professor	s	+1	1	and then we have this inference problem of exactly technically how does the belief - net work
+4	Bed014.s.21	Additionally , in the example "Where is X?" construction , the ambiguity ( Location or Path ) could be coded either in the semantics of the construction or as if determined by context.
+Bed014.A.dialogueact469	1104.28	1108.82	A	Grad	s	+1	3	The question of whether the polysemy is sort of like in the construction or pragmatic .
+Bed014.A.dialogueact481	1119.38	1124.96	A	Grad	s	+1	1	The question is whether the construction is semantic or like ambiguous between asking for location and asking for path .
+Bed014.A.dialogueact532	1221.26	1224.68	A	Grad	s	+1	3	Well the question is basically , is this conventional or conversational implicature ?
+Bed014.C.dialogueact703	1729.84	1733.05	C	Professor	s	+1	3	I mean it {disfmarker} th {vocalsound} I can thi I can think of arguments in either direction on that .
+1	Bed014.s.22	The former could mean creating a different construction for every slight pragmatic variation.
+Bed014.C.dialogueact504	1169.02	1182.46	C	Professor	s	+1	1	So I a I I th I agree with you that , um , it 's a disaster to try to make separate constructions for every uh , pragmatic reading ,
+2	Bed014.s.23	On the other hand , some of the belief-net probabilities could be instantiated in the lexicon.
+Bed014.C.dialogueact506	1182.46	1187.31	C	Professor	s	+1	1	although there are some that will need to be there .
+Bed014.C.dialogueact717	1785.29	1796.37	C	Professor	s	+1	1	so you could just as well tag the lexical construction with the fact that it 's a uh , you know , thirty percent increase in probability of entering .
+0	Bed014.s.24	Specifying which approach to take when linking the ontology and the discourse history has also proven not to be straightforward.
+2	Bed014.s.25	Finally , it is still undecided where construal comes in , which would help delimit the constructions as well.
+Bed014.C.dialogueact775	1952.79	1963.79	C	Professor	s	+1	1	uh , this is {disfmarker} this is , speaking of hard problems , {comment} this is a very good time um , to start trying to make explicit where construal comes in
+Bed014.C.dialogueact776	1963.79	1970.2	C	Professor	s	+1	1	and {disfmarker} you know , where c where the construction per - se ends {pause} and where construal comes in ,

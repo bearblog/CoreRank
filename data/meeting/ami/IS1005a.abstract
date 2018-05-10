@@ -1,0 +1,39 @@
+10	IS1005a.rdhillon.s.1	The project manager opened the meeting and had the team members introduce themselves by name and their role in the project.
+IS1005a.A.dialog-act.dharshi.4	65.25	72.62	A	PM	inf	+1	1	Uh , we are actually doing this meeting to start a new project which is about designing a remote control .
+IS1005a.A.dialog-act.dharshi.5	72.62	77.54	A	PM	inf	+1	1	So I'm going to be the project manager of this uh project .
+IS1005a.A.dialog-act.dharshi.7	80.79	82.44	A	PM	inf	+1	1	I'm Fabien Cardinaux
+IS1005a.A.dialog-act.dharshi.8	82.44	87.65	A	PM	sug	+1	1	and uh I I guess you can present yourself .
+IS1005a.B.dialog-act.dharshi.3	90.3	91.81	B	ID	inf	+1	1	so my name is Petre {gap} .
+IS1005a.B.dialog-act.dharshi.6	99.56	102.41	B	ID	inf	+1	1	Uh , in the project I'm supposed to be the technic .
+IS1005a.D.dialog-act.dharshi.3	104.28	107.23	D	ME	inf	+1	1	'Kay . So my name's Bob Morris .
+IS1005a.D.dialog-act.dharshi.4	107.23	110.87	D	ME	inf	+1	1	I'm the Marketing Expert for this project .
+IS1005a.C.dialog-act.dharshi.2	112.53	114.22	C	UI	inf	+1	1	My name is Hamed Getabdar ,
+IS1005a.C.dialog-act.dharshi.3	114.22	119.44	C	UI	inf	+1	1	and uh I'm going to be Interface Designer in this project .
+9	IS1005a.rdhillon.s.2	The project manager introduced the upcoming project to the team and then had the team members participate in a tool training exercise in which each member drew his favorite animal on the white board and discussed what he liked about the animal.
+IS1005a.A.dialog-act.dharshi.16	145.55	147.57	A	PM	inf	+1	1	We are talking about the project plan ,
+IS1005a.A.dialog-act.dharshi.20	160.61	167.24	A	PM	inf	+1	1	Um . So what is the goal of this project ? Is to design a new remote control .
+IS1005a.A.dialog-act.dharshi.30	205.05	213.36	A	PM	inf	+1	1	So it's more like we are going to do inv individual work all in o in o our specialities
+IS1005a.A.dialog-act.dharshi.31	213.36	219.45	A	PM	inf	+1	1	and we are going to meet each other quite often to discuss and to find a good way .
+IS1005a.A.dialog-act.dharshi.34	237.71	248.2	A	PM	inf	+1	1	Um so now we are going to to get used t to to the tools we are going to use all {disfmarker} during all this project .
+IS1005a.A.dialog-act.dharshi.37	256.33	266.72	A	PM	inf	+1	1	For example we can try to write what is our our favourite animal and write the f our favourite characteristics about it .
+IS1005a.A.dialog-act.dharshi.41	310.27	313.63	A	PM	inf	+1	1	So I will ask you all to do the same .
+IS1005a.B.dialog-act.dharshi.13	322.44	324.59	B	ID	el.ass	+1	1	Well sh should I draw the picture of the animal ?
+IS1005a.A.dialog-act.dharshi.43	325.0	328.3	A	PM	ass	+1	1	Yeah , yeah , you can draw the picture , of course {vocalsound} .
+4	IS1005a.rdhillon.s.3	The project manager also discussed selling prices and the project budget.
+IS1005a.A.dialog-act.dharshi.60	615.87	626.4	A	PM	inf	+1	2	Uh we are going to to sell {disfmarker} we want to sell uh this remote control for twenty five Euro Euro .
+IS1005a.A.dialog-act.dharshi.61	626.4	634.06	A	PM	inf	+1	1	And uh our expected profit will be around fifty million Euro .
+IS1005a.A.dialog-act.dharshi.62	635.41	641.6	A	PM	inf	+1	2	And uh we are trying to to have a market all around the world .
+IS1005a.A.dialog-act.dharshi.67	653.05	660.81	A	PM	inf	+1	2	We expect a production cost of maximum uh twelve point fifty Euro .
+12	IS1005a.rdhillon.s.4	The team then discussed their experiences with remotes , focusing on various features they would like to see in the remote they will produce , as well as features they find unappealing in current remotes.
+IS1005a.A.dialog-act.dharshi.69	671.54	682.16	A	PM	sug	+1	1	Um , so we can start today to have a first idea of what we want to do what are our experiments with remote control , and any idea ?
+IS1005a.D.dialog-act.dharshi.33	697.12	705.09	D	ME	inf	+1	1	Well , from experience , um I've had remote controls in the past that have had very {disfmarker} they've had lots and lots of buttons and they've been very small ,
+IS1005a.D.dialog-act.dharshi.34	705.09	710.81	D	ME	inf	+1	1	and it's been very hard to to to use , because there's so many buttons ,
+IS1005a.D.dialog-act.dharshi.38	720.22	728.41	D	ME	inf	+1	1	you know , on a T_V_ remote you only ever use , mostly , you know , f four or f six buttons . Um .
+IS1005a.B.dialog-act.dharshi.54	738.73	744.66	B	ID	inf	+1	1	Uh first would be that in current remote controls there is no back light {vocalsound} ,
+IS1005a.B.dialog-act.dharshi.55	744.66	755.09	B	ID	sug	+1	1	so if you are if you are uh playing with this in the dark room it's it's probably worth to to have something like uh back light .
+IS1005a.B.dialog-act.dharshi.59	769.89	779.97	B	ID	inf	+1	1	And the second thing , f second point from me would be that in a normal remote control there is uh {disfmarker} there are two buttons for volume control .
+IS1005a.B.dialog-act.dharshi.60	779.97	783.26	B	ID	sug	+1	1	But I prefer like a potential-meter or something like .
+IS1005a.A.dialog-act.dharshi.78	800.943	811.22	A	PM	el.ass	+1	1	{gap} Are you not afraid that if you take your remote control you can move the slide and it could {gap} {disfmarker} the the volume can go up very quickly
+IS1005a.B.dialog-act.dharshi.69	833.36	836.85	B	ID	sug	+1	1	Yeah but we can we can think of these things afterwards ,
+IS1005a.C.dialog-act.dharshi.41	842.62	847.81	C	UI	ass	+1	1	I uh I prefer um remote control working with radio waves ,
+IS1005a.C.dialog-act.dharshi.42	847.81	858.41	C	UI	inf	+1	1	because remote control working with infra-red rays you should you should you should keep it in a specific direction and then try it hard to tune {gap} .

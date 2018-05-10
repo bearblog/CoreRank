@@ -1,0 +1,29 @@
+0	TS3003d.vkaraisk.s.21	The final cost of the prototype was probably slightly over the specified 12.50 Euros.
+4	TS3003d.vkaraisk.s.22	Raising the budget was not an option , although it was promoted as an idea throughout the meeting.
+TS3003d.D.dialog-act.vkaraisk.43	829.5	834.39	D	ME	sug	+1	1	maybe it's feasible to just put the price of the remote up a little .
+TS3003d.A.dialog-act.vkaraisk.152	838.49	842.16	A	PM	ass	+1	1	but uh we have to stick to the twelve and a half Euros .
+TS3003d.D.dialog-act.vkaraisk.79	1380.97	1382.35	D	ME	ass	+1	1	I'd rather just go to the board
+TS3003d.D.dialog-act.vkaraisk.80	1382.35	1387.82	D	ME	ass	+1	1	and get us to spend {vocalsound} eighteen dollars a a remote .
+3	TS3003d.vkaraisk.s.23	It is not clear whether the budget will allow for a docking station to be produced along with the remote , as it isn't included in the costing sheet.
+TS3003d.D.dialog-act.vkaraisk.36	745.39	746.89	D	ME	inf	+1	1	Only the docking station , I guess .
+TS3003d.C.dialog-act.vkaraisk.51	749.86	754.02	C	ID	inf	+1	1	Which isn't the {disfmarker} the docking station isn't even in this c s schematic .
+TS3003d.C.dialog-act.vkaraisk.53	755.88	757.99	C	ID	inf	+1	1	it's not even taken into the price .
+10	TS3003d.vkaraisk.s.24	The non-standard interface (few buttons , scrollwheel) makes the remote unsuitable for older people - the original target group.
+TS3003d.D.dialog-act.vkaraisk.65	1076.92	1081.97	D	ME	ass	+1	2	But then again that would be d j just pretty much not an option for older people ,
+TS3003d.D.dialog-act.vkaraisk.66	1081.97	1083.76	D	ME	inf	+1	2	who don't even know what a scroll-wheel is .
+TS3003d.D.dialog-act.vkaraisk.68	1096.36	1100.54	D	ME	inf	+1	2	With only five buttons on it . And a scroll-wheel .
+TS3003d.D.dialog-act.vkaraisk.67	1085.36	1093.49	D	ME	inf	+1	2	Holding a remote with {vocalsound} which they expect to have like ten buttons for the numbers one to zero .
+TS3003d.A.dialog-act.vkaraisk.200	1101.86	1114.59	A	PM	sug	+1	2	I think if you make a good advertisement uh on television and in the in the guide , you can explain to the people how to use the scroll wheel .
+TS3003d.D.dialog-act.vkaraisk.87	1459.59	1464.82	D	ME	inf	+1	1	This will really require a lot of marketing to get this to sell .
+TS3003d.D.dialog-act.vkaraisk.88	1467.99	1472.97	D	ME	inf	+1	2	'Cause if older people like familiar forms and familiar stuff .
+TS3003d.D.dialog-act.vkaraisk.89	1472.97	1474.26	D	ME	inf	+1	2	This is not familiar for them .
+TS3003d.B.dialog-act.vkaraisk.126	1479.23	1482.45	B	UI	inf	+1	2	But they know the scroll-buttons from uh old radios .
+TS3003d.B.dialog-act.vkaraisk.127	1482.45	1486.9	B	UI	inf	+1	2	Uh they cal also uh buttons like that for uh changing uh channels .
+7	TS3003d.vkaraisk.s.25	It was suspected that many would not know how to use a scrollwheel , even though it does resemble a radio tuning button.
+TS3003d.D.dialog-act.vkaraisk.65	1076.92	1081.97	D	ME	ass	+1	2	But then again that would be d j just pretty much not an option for older people ,
+TS3003d.D.dialog-act.vkaraisk.66	1081.97	1083.76	D	ME	inf	+1	2	who don't even know what a scroll-wheel is .
+TS3003d.A.dialog-act.vkaraisk.200	1101.86	1114.59	A	PM	sug	+1	2	I think if you make a good advertisement uh on television and in the in the guide , you can explain to the people how to use the scroll wheel .
+TS3003d.B.dialog-act.vkaraisk.126	1479.23	1482.45	B	UI	inf	+1	2	But they know the scroll-buttons from uh old radios .
+TS3003d.B.dialog-act.vkaraisk.127	1482.45	1486.9	B	UI	inf	+1	2	Uh they cal also uh buttons like that for uh changing uh channels .
+TS3003d.D.dialog-act.vkaraisk.88	1467.99	1472.97	D	ME	inf	+1	2	'Cause if older people like familiar forms and familiar stuff .
+TS3003d.D.dialog-act.vkaraisk.89	1472.97	1474.26	D	ME	inf	+1	2	This is not familiar for them .

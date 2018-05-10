@@ -1,0 +1,19 @@
+5	Bmr015.s.1	Topics discussed by the Berkeley Meeting Recorder group included the status of the first test set of digits data , naming conventions for files , speaker identification tags , and encoding files with details about the recording.
+Bmr015.B.dialogueact59	70.761	72.121	B	Grad	s^na	+1	1	I have a short thing about digits
+Bmr015.B.dialogueact60	72.121	74.731	B	Grad	s	+1	2	and then uh I wanna talk a little bit about naming conventions ,
+Bmr015.B.dialogueact77	97.06	101.65	B	Grad	s^t^tc	+1	2	So the only thing I wanna say about digits is , we are pretty much done with the first test set .
+Bmr015.A.dialogueact503	821.309	824.259	A	Professor	qy^bu^d^rt^t^tc	+1	2	Uh , the last one was {disfmarker} that you had there , {comment} was about naming ?
+Bmr015.B.dialogueact564	963.344	975.033	B	Grad	s	+1	2	We want some way of specifying , more than looking in the " key " file , what channel and what mike . What channel , what mike , and what broadcaster .
+9	Bmr015.s.2	The group also discussed a proposal for a grant from the NSF's ITR ( Information Technology Research ) program , transcriptions , and efforts by speaker mn005 to detect speaker overlap using harmonicity-related features.
+Bmr015.A.dialogueact51	58.642	63.472	A	Professor	h|s^na	+1	1	Uh , right , so {disfmarker} so I {disfmarker} I was just gonna talk briefly about the NSF ITR .
+Bmr015.A.dialogueact239	378.573	383.873	A	Professor	fg|s^t^tc	+1	1	OK , so uh e l I guess , let me , uh , get my {disfmarker} my short thing out about the NSF .
+Bmr015.A.dialogueact282	446.688	450.343	A	Professor	s	+1	2	so this was , uh , a , uh , proposal that we put in
+Bmr015.A.dialogueact287	462.702	467.062	A	Professor	s	+1	2	so is i for {disfmarker} it was a {vocalsound} proposal for the ITR program ,
+Bmr015.A.dialogueact585	1012.12	1016.63	A	Professor	fh|qw^t^tc	+1	1	Um , {pause} {vocalsound} since we have such a short agenda list I guess I wi I will ask how {disfmarker} how are the transcriptions going ?
+Bmr015.C.dialogueact686	1275.96	1288.64	C	PhD	s	+1	2	And {disfmarker} and I 'm tried to {disfmarker} to , uh , adjust the {disfmarker} to {disfmarker} to improve , eh , an harmonicity , eh , detector that , eh , I {disfmarker} I implement .
+Bmr015.C.dialogueact695	1299.33	1319.4	C	PhD	s	+1	2	eh , and now I 'm {disfmarker} I 'm {disfmarker} I 'm trying to {disfmarker} to find , eh , some kind of a , um {disfmarker} {vocalsound} of h of help , eh , using the energy to {disfmarker} to distinguish between possible harmonics , and {disfmarker} and other fre frequency peaks , that , eh , corres not harmonics .
+Bmr015.A.dialogueact809	1605.75	1614.36	A	Professor	s	+1	2	You 're trying distinguish between the case where there is , uh {disfmarker} where {disfmarker} where there are more than {disfmarker} uh , where there 's more than one speaker
+Bmr015.A.dialogueact810	1616.39	1618.14	A	Professor	s	+1	2	and the case where there 's only one speaker .
+2	Bmr015.s.3	Particular focus was paid to questions about transcription procedures , i.e . how to deal with overlooked backchannels , and audible breaths.
+Bmr015.F.dialogueact992	2028.15	2031.51	F	Postdoc	s^t^tc	+1	1	that there 's one third thing I wanted to {disfmarker} to ex raise as a to as an issue
+Bmr015.F.dialogueact993	2031.52	2033.92	F	Postdoc	s	+1	1	which is , um , how to handle breaths .

@@ -1,0 +1,8 @@
+Speaker mn014's efforts to detect speech/non-speech portions in the mixed signal ( using an HMM-based detector with Gaussian mixtures ) have produced pre-segmentations that facilitate the transcription effort.
+Speaker mn014 also trained the system to identify speech from loud versus quiet speakers.
+Such pre-segmentation modifications allow the experimenter to specify the minimum length of speech and silence portions desired , and also facilitate the identification of pauses and utterance boundaries.
+The transcriber pool is making quick progress , and may be used in the future to perform other types of coding , e.g . a more detailed analysis of speaker overlap.
+Transcribers are coding non-speech gestures , such as audible breaths and laughter , both of which are useful for improving recognition results.
+Recent modifications to the Transcriber tool allow transcribers to listen to speech from different channels , as well as helping to preserve portions of overlapping speech , and enabling the creation of different output files for each channel for a cleaner and more segmentable transcript.
+The Praat software package was discussed as an alternative transcription tool capable of representing multiple channels of speech.
+Cross-correlation was discussed as a means of enabling speaker identification , and may be integrated into future work.

@@ -1,0 +1,8 @@
+The initial task of the EDU group is to work on inferring intentions through context.
+In the navigational paradigm used for the task , these intentions are to "see" to "enter" or to "get to the closest point of" a building.
+There will be purpose-designed experiments carried out.
+However , the starting point is , through the use of existing data , to determine possible linguistic , discourse or situation features that define intentionality.
+These may include the type of building , time of day , particular phrases used or whether the user is a tourist or a native.
+Initially , these features will be hand-coded , but the goal is to find ways of extracting them automatically from the XML data.
+Consequently , they will be fed into a belief-net -implemented on a software package like JavaBayes- and the conditional probability of each intention calculated.
+A prototype system will be put together to test hypotheses regarding both the exact nature of the features and how intentions are derived from them.

@@ -1,0 +1,22 @@
+1	Bmr011.s.6	Use of dissimilar microphones adds an extra , unwanted variable to individual speaker recordings.
+Bmr011.A.dialogueact106	202.015	208.435	A	PhD	s	+1	1	it adds this extra , you know , vari variable for each speaker to {disfmarker} to deal with when the microphones aren't similar .
+3	Bmr011.s.7	Similarly , differences in the type of recording equipment used and the manner in which microphones are worn by speakers causes problems for the transcription effort.
+Bmr011.A.dialogueact153	271.231	277.821	A	PhD	s^cs	+1	2	But if we could actually standardize , you know , the {disfmarker} the microphones , uh , as much as possible that would be really helpful .
+Bmr011.G.dialogueact216	385.61	387.37	G	Postdoc	s	+1	2	It 's the equipment and also how it 's worn .
+Bmr011.G.dialogueact235	404.41	407.23	G	Postdoc	s	+1	2	it 's really {disfmarker} {nonvocalsound} it makes a big difference from the transcribers ' point of view
+7	Bmr011.s.8	Setting up a microphone array and performing video recordings ( in a possible collaboration with NIST ) are problematic due to the types of changes in infrastructure they require.
+Bmr011.B.dialogueact641	1384.45	1389.12	B	Professor	s	+1	1	but if you 're d i the kind of person who 's doing array processing you actually care about funny little times .
+Bmr011.B.dialogueact642	1389.73	1394.45	B	Professor	s^rt	+1	1	And {disfmarker} and so you actually wou would want to have a completely different set up than we have ,
+Bmr011.E.dialogueact673	1439.63	1442.44	E	PhD	qy^rt	+1	1	Is there an interest in getting video recordings for these meetings ?
+Bmr011.H.dialogueact677	1444.19	1446.83	H	Grad	s^aa|s	+1	1	Yes , absolutely . But it 's exactly the same problem ,
+Bmr011.H.dialogueact678	1447.99	1450.11	H	Grad	s	+1	1	that you have an infrastructure problem ,
+Bmr011.B.dialogueact470	907.411	908.401	B	Professor	s	+1	1	They were interested in ours .
+Bmr011.B.dialogueact469	905.351	907.411	B	Professor	s	+1	1	And , uh , it is related to ours .
+5	Bmr011.s.9	IBM's single-channel approach to transcriptions may pose problems for the post-processing of waveforms and forced alignments , as the group foresees difficulties in referencing chopped segments back to the original times/locations from which they were extracted.
+Bmr011.E.dialogueact916	1947.11	1948.64	E	PhD	qy^d	+1	1	But there could be problems , right ? with that .
+Bmr011.A.dialogueact1058	2204.18	2209.86	A	PhD	s	+1	1	then for forced alignment we actually don't know where {disfmarker} you know , in the signal the transcriber heard that word .
+Bmr011.A.dialogueact1085	2259.01	2261.24	A	PhD	s	+1	1	Th - but there 's going to be a real problem ,
+Bmr011.A.dialogueact1086	2261.76	2271.39	A	PhD	s	+1	1	uh , even if we chop up based on speech silence these , uh , the transcripts from I B M , we don't actually know where the words were ,
+Bmr011.A.dialogueact1088	2271.47	2272.59	A	PhD	s^e	+1	1	which segment they belonged to .
+1	Bmr011.s.10	Another post-processing problem involves cross-talk , and , in particular , situations in which a speaker whose contributions to the discussion are relatively sparse but whose microphone picks up signals from the other speakers.
+Bmr011.E.dialogueact1756	3365.38	3373.05	E	PhD	qy^bu^rt	+1	1	So the problem is like , uh , on the microphone of somebody who 's not talking they 're picking up signals from other people {comment} and that 's {vocalsound} causing problems ?

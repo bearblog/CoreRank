@@ -1,0 +1,12 @@
+3	Bmr013.s.6	The group decided to delegate the extraction of digits to the transcriber pool.
+Bmr013.F.dialogueact60	254.563	258.263	F	Grad	qr	+1	1	And so the {disfmarker} the question is , should we have the transcribers do that or should we just do it ?
+Bmr013.B.dialogueact69	273.878	280.028	B	Postdoc	s^ba^na	+1	1	and I think it 's a {disfmarker} it 's a fine idea partly because , um , it 's not un unrelated to their present skill set ,
+Bmr013.F.dialogueact194	581.101	586.322	F	Grad	s^cc	+1	1	And then , hand off to Jane , and the transcribers to do the actual extraction of the digits .
+3	Bmr013.s.7	A tentative decision was also made to delegate transcribers with the task of labelling a subset of digits or Switchboard data for fine-grained acoustic-phonetic features.
+Bmr013.D.dialogueact438	1257.38	1264.3	D	PhD	fg|s.%--	+1	1	Well , you know , um {disfmarker} I mean if we 're talking about , having the , annotators annotate these kinds of features , it seems like ,
+Bmr013.C.dialogueact466	1312.83	1318.91	C	Professor	fg|s	+1	1	So I mean i we 'll see wha how much we can , uh , get the people to do , and how much money we 'll have and all this sort of thing ,
+Bmr013.C.dialogueact515	1418.61	1424.8	C	Professor	s^cs	+1	3	So , I mean another way to look at this is to , is to , uh , do some stuff on Switchboard which has all this other , stuff to it .
+3	Bmr013.s.8	Speaker fe008 will run selected Meeting Recorder data through channelize and determine whether the resulting units are of a sufficient length.
+Bmr013.A.dialogueact643	1732.69	1737.23	A	PhD	s^cs	+1	1	It seems to me that it would be good to have , a few minutes from {disfmarker} from different meetings ,
+Bmr013.B.dialogueact854	2194.52	2205.4	B	Postdoc	s^cc	+1	1	So , as a first pass through , a first chance without having to do a lot of hand - editing , what we 're gonna do , is , I 'll run it through channelize , give them those data after I 've done the editing process and be sure it 's clean .
+Bmr013.B.dialogueact857	2210.82	2215.89	B	Postdoc	s	+1	1	And then we 'll see if the units that we 're getting , uh , with the {disfmarker} at that level , are sufficient .

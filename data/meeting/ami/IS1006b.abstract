@@ -1,0 +1,237 @@
+8	IS1006b.rdhillon.s.1	The project manager opened the meeting and stated the agenda to the team members.
+IS1006b.A.dialog-act.vkaraisk.2	27.84	32.46	A	PM	el.inf	+1	1	I hope you're ready for this uh functional design meeting .
+IS1006b.A.dialog-act.vkaraisk.4	37.46	40.47	A	PM	inf	+1	1	I will take the minutes
+IS1006b.A.dialog-act.vkaraisk.5	40.47	43.24	A	PM	inf	+1	1	you mm you three are going to do presentation .
+IS1006b.A.dialog-act.vkaraisk.6	44.37	51.83	A	PM	inf	+1	1	Um uh we want to know {disfmarker} to {disfmarker} at the end to know the new project's requirement
+IS1006b.A.dialog-act.vkaraisk.8	52.99	58.32	A	PM	el.inf	+1	1	we need uh to know the the user uh needs
+IS1006b.A.dialog-act.vkaraisk.10	62.66	66.24	A	PM	el.sug	+1	1	we want to know how it going to work
+IS1006b.A.dialog-act.vkaraisk.12	69.19	73.6	A	PM	inf	+1	1	third part {vocalsound} uh I don't remember {vocalsound}
+IS1006b.A.dialog-act.vkaraisk.18	92.22	94.1	A	PM	sug	+1	1	let's go for the three presentations ,
+35	IS1006b.rdhillon.s.2	The marketing expert discussed the findings of a survey which indicated that current remotes are ugly , difficult to use , have a number of unused buttons , frustrate users when misplaced , and contribute to RSI.
+IS1006b.A.dialog-act.vkaraisk.19	94.1	97.47	A	PM	sug	+1	1	so first um Marketing Expert .
+IS1006b.D.dialog-act.vkaraisk.18	121.2	124.83	D	ME	inf	+1	1	So as you know , you {disfmarker} I think you already know me , Sammy Benjo .
+IS1006b.D.dialog-act.vkaraisk.19	124.83	126.26	D	ME	inf	+1	1	I am the expert in marketing
+IS1006b.D.dialog-act.vkaraisk.20	126.26	134.71	D	ME	off	+1	1	and I want to tell you about what people uh s want and uh like and dislike in remote controls ,
+IS1006b.D.dialog-act.vkaraisk.32	160.17	171.72	D	ME	sug	+1	1	what I suggest is that uh instead of deciding ourself what what could be and what should be a good uh remote control , let's ask people who are users of remote controls
+IS1006b.D.dialog-act.vkaraisk.34	174.12	174.69	D	ME	el.inf	+1	1	what they like ,
+IS1006b.D.dialog-act.vkaraisk.35	174.69	176.28	D	ME	el.inf	+1	1	what they don't like
+IS1006b.D.dialog-act.vkaraisk.40	183.14	190.42	D	ME	inf	+1	1	So we've we've conducted a a survey on on the use of uh remote controls
+IS1006b.D.dialog-act.vkaraisk.44	203.45	209.25	D	ME	inf	+1	1	what we found was that uh there are several things that the user don't like in remote controls .
+IS1006b.D.dialog-act.vkaraisk.45	210.44	213.8	D	ME	inf	+1	1	First of all , they find it very ugly . {vocalsound}
+IS1006b.D.dialog-act.vkaraisk.47	218.05	221.81	D	ME	ass	+1	1	uh they're not nice colour , not nice shape ,
+IS1006b.D.dialog-act.vkaraisk.48	221.81	223.54	D	ME	ass	+1	1	I mean they're all the same ,
+IS1006b.D.dialog-act.vkaraisk.50	227.8	229.07	D	ME	ass	+1	1	Um what is interesting
+IS1006b.D.dialog-act.vkaraisk.51	229.07	236.58	D	ME	inf	+1	1	is that in fact it seems that they were {disfmarker} people are ready to pay for nice and look {disfmarker} and fancy looking uh remote control ,
+IS1006b.D.dialog-act.vkaraisk.52	236.58	243.24	D	ME	sug	+1	1	so I think we should probably spend lots of time in {disfmarker} and effort in that um .
+IS1006b.D.dialog-act.vkaraisk.54	248.96	258.09	D	ME	inf	+1	1	and it it {disfmarker} the the current uh facilities that they offer do not match what people really want to use their remote controls .
+IS1006b.D.dialog-act.vkaraisk.53	243.72	248.96	D	ME	inf	+1	1	And the other thing is that uh the the current remote controls are not so easy to use
+IS1006b.D.dialog-act.vkaraisk.55	259.07	262.99	D	ME	inf	+1	1	For instance uh we see that uh they zap very often
+IS1006b.D.dialog-act.vkaraisk.56	262.99	267.24	D	ME	ass	+1	1	so I think this is a very uh important uh functionality
+IS1006b.D.dialog-act.vkaraisk.58	273.04	277.72	D	ME	inf	+1	1	And most of the buttons uh on uh current remote controls are not used ,
+IS1006b.D.dialog-act.vkaraisk.59	277.72	287.92	D	ME	sug	+1	1	so I think we should design something where some of the buttons which are those that are used should be easier to see and use than others that only a couple of people are using .
+IS1006b.D.dialog-act.vkaraisk.62	294.48	298.6	D	ME	inf	+1	1	people are very frustrated w with their {vocalsound} remote controls
+IS1006b.D.dialog-act.vkaraisk.63	298.6	304.5	D	ME	inf	+1	1	and they for instance uh they don't even find it {vocalsound}
+IS1006b.D.dialog-act.vkaraisk.64	304.5	308.9	D	ME	inf	+1	1	it's {vocalsound} it's often lost somewhere in the in the {disfmarker} in your home
+IS1006b.D.dialog-act.vkaraisk.66	310.46	316.08	D	ME	sug	+1	1	Maybe if we have something where we could {vocalsound} ask the remote control please , where are you ?
+IS1006b.D.dialog-act.vkaraisk.67	316.08	324.48	D	ME	inf	+1	1	{vocalsound} Like uh something to to {disfmarker} like t I think phones . Some of the phones have some of this kind of s functionality .
+IS1006b.D.dialog-act.vkaraisk.71	333.24	336.76	D	ME	inf	+1	1	And because of the fact that there are so many buttons in these remote controls
+IS1006b.D.dialog-act.vkaraisk.74	336.76	337.83	D	ME	inf	+1	1	that nobody use ,
+IS1006b.D.dialog-act.vkaraisk.73	340.38	346.96	D	ME	inf	+1	1	so most of the the people say they they don't know how to {disfmarker} they {disfmarker} to use properly their r remote controls .
+IS1006b.D.dialog-act.vkaraisk.75	347.58	349.77	D	ME	inf	+1	1	And uh they are bad for R_S_I_
+IS1006b.D.dialog-act.vkaraisk.76	349.77	354.52	D	ME	el.inf	+1	1	but uh I don't remember what is R_S_I_ .
+IS1006b.C.dialog-act.vkaraisk.19	366.88	371.52	C	ID	inf	+1	1	Yeah , it's electromagnetic waves or something kind of maybe uh effect .
+IS1006b.D.dialog-act.vkaraisk.87	384.26	385.93	D	ME	sug	+1	1	but we have to take this into account .
+IS1006b.D.dialog-act.vkaraisk.109	450.08	454.28	D	ME	inf	+1	1	now I remember what is R_S_I_ {vocalsound}
+IS1006b.D.dialog-act.vkaraisk.110	454.28	457.13	D	ME	inf	+1	1	it's repetitivity stress injury .
+36	IS1006b.rdhillon.s.3	The marketing expert also stated that young users like speech recognition and that users in general want buttons for power , channel selection , volume control , and a few lesser used settings.
+IS1006b.D.dialog-act.vkaraisk.95	403.25	404.83	D	ME	inf	+1	1	So we've listed a couple of uh
+IS1006b.B.dialog-act.vkaraisk.13	405.49	405.8	B	UI	inf	+1	1	Functions .
+IS1006b.D.dialog-act.vkaraisk.97	406.85	415.78	D	ME	inf	+1	1	that may be uh used by u the user in the current uh available uh remote controls
+IS1006b.D.dialog-act.vkaraisk.100	419.19	420.88	D	ME	ass	+1	1	but what is important
+IS1006b.D.dialog-act.vkaraisk.101	420.88	424.95	D	ME	inf	+1	1	is to understand that the power button is not used often
+IS1006b.D.dialog-act.vkaraisk.102	424.95	429.33	D	ME	inf	+1	1	because in general you {vocalsound} use it only once per session ,
+IS1006b.D.dialog-act.vkaraisk.103	429.33	431.944	D	ME	inf	+1	1	but it is very relevant . {vocalsound}
+IS1006b.D.dialog-act.vkaraisk.104	431.96	434.76	D	ME	inf	+1	1	People want to have a power button .
+IS1006b.D.dialog-act.vkaraisk.105	434.76	438.82	D	ME	inf	+1	1	Channel selection is uh o often used {disfmarker} very often used
+IS1006b.D.dialog-act.vkaraisk.116	470.94	472.98	D	ME	inf	+1	1	Volume is not often used
+IS1006b.D.dialog-act.vkaraisk.117	472.98	476.24	D	ME	inf	+1	1	but people uh want to have control on volume
+IS1006b.D.dialog-act.vkaraisk.119	478.5	487.41	D	ME	inf	+1	1	And n then you have things which are very much less often used like the settings . Audio settings , screen settings , even teletext and channel settings .
+IS1006b.D.dialog-act.vkaraisk.120	487.5	489.63	D	ME	inf	+1	1	All of them . they're not often used
+IS1006b.D.dialog-act.vkaraisk.121	489.63	491.8	D	ME	inf	+1	1	and they are s more or less relevant .
+IS1006b.D.dialog-act.vkaraisk.122	491.8	495.44	D	ME	inf	+1	1	It seems that people find teletext teletext uh relevant ,
+IS1006b.D.dialog-act.vkaraisk.124	497.22	501.98	D	ME	inf	+1	1	but seems that it's average relevant at least , so .
+IS1006b.A.dialog-act.vkaraisk.40	501.9	507.14	A	PM	inf	+1	2	I have been told that we uh don't consider teletext ,
+IS1006b.A.dialog-act.vkaraisk.41	507.14	510.37	A	PM	inf	+1	2	that it's out of date now because of internet .
+IS1006b.D.dialog-act.vkaraisk.130	531.39	534.23	D	ME	ass	+1	1	if if there are good reason not to put teletext it's okay
+IS1006b.D.dialog-act.vkaraisk.136	552.61	561.45	D	ME	inf	+1	1	One of the thing {disfmarker} the trend uh that uh you are probably aware of is the possibility {disfmarker} the eventual possibility of having speech recognition in your remote control ,
+IS1006b.D.dialog-act.vkaraisk.137	561.45	564.45	D	ME	inf	+1	1	so you wouldn't have to tap tap in your buttons
+IS1006b.D.dialog-act.vkaraisk.138	564.45	570.17	D	ME	inf	+1	1	but just tell your remote control or whatever you need you have what you want .
+IS1006b.D.dialog-act.vkaraisk.139	570.47	578.8	D	ME	inf	+1	1	So we've conducted a survey about uh whether people would like or not to have uh this kind of uh functionality in their remote control
+IS1006b.D.dialog-act.vkaraisk.140	578.8	582.05	D	ME	inf	+1	1	and as we can see it really depends on the age .
+IS1006b.D.dialog-act.vkaraisk.141	582.05	586.29	D	ME	inf	+1	1	Young people , probably because it's a buzz word , find it very relevant .
+IS1006b.D.dialog-act.vkaraisk.142	587.39	594.66	D	ME	inf	+1	1	And uh as the age goes up {vocalsound} the {vocalsound} the relevance goes down .
+IS1006b.D.dialog-act.vkaraisk.143	594.66	601.35	D	ME	inf	+1	1	{vocalsound} So now it really depends on the kind of uh targeting uh wha who are we targeting with this remote control ?
+IS1006b.D.dialog-act.vkaraisk.144	601.35	605.24	D	ME	sug	+1	1	I think if we are targeting young people then uh it's probably something we have to consider .
+IS1006b.D.dialog-act.vkaraisk.145	605.53	611.76	D	ME	inf	+1	1	If we are targeting you very old people this is something they really don't know why they {disfmarker} this should be
+IS1006b.D.dialog-act.vkaraisk.152	621.4	623.52	D	ME	inf	+1	1	so that's basically my findings .
+IS1006b.B.dialog-act.vkaraisk.19	634.26	636.91	B	UI	el.sug	+1	1	should we aim at the young people or not ?
+IS1006b.D.dialog-act.vkaraisk.159	636.71	639.38	D	ME	sug	+1	1	I think we should aim at the young people .
+IS1006b.D.dialog-act.vkaraisk.160	639.38	646.51	D	ME	inf	+1	1	But uh I think they are {disfmarker} they are those uh who might be more interested in a in a new device .
+IS1006b.D.dialog-act.vkaraisk.161	646.51	651.1	D	ME	inf	+1	1	In general the the early adopters of a new device are young people ,
+IS1006b.D.dialog-act.vkaraisk.163	655.02	657.04	D	ME	inf	+1	1	Then teletext is useless for them I think ,
+IS1006b.D.dialog-act.vkaraisk.165	657.77	662.44	D	ME	inf	+1	1	Because they they have other means of finding their information . Yeah .
+78	IS1006b.rdhillon.s.4	The user interface designer presented existing remotes to exemplify the need for simpler designs , discussed the use of components such as titanium and a back-lit LCD screen , and discussed other features to consider such as color options.
+IS1006b.B.dialog-act.vkaraisk.30	722.59	724.03	B	UI	inf	+1	1	my name is Mark Dwight ,
+IS1006b.B.dialog-act.vkaraisk.31	724.03	729.69	B	UI	inf	+1	1	and um I am responsible for User Interface Design .
+IS1006b.B.dialog-act.vkaraisk.32	729.69	737.55	B	UI	inf	+1	1	However , uh mm Project Manager asked me to give you some presentation about technical functions design .
+IS1006b.B.dialog-act.vkaraisk.34	741.51	749.79	B	UI	off	+1	1	that's gonna be less technical functions but more User Interface and current intentions and everything which is linked with this .
+IS1006b.B.dialog-act.vkaraisk.36	752.44	757.74	B	UI	ass	+1	1	And uh a general method which is {disfmarker} seems to be very useful for our task
+IS1006b.B.dialog-act.vkaraisk.38	761.72	764.28	B	UI	sug	+1	1	We should never complicate things too much .
+IS1006b.B.dialog-act.vkaraisk.39	764.28	770.01	B	UI	sug	+1	1	We should only make a remote control , nothing more . Nothing more than this , just a remote control .
+IS1006b.B.dialog-act.vkaraisk.40	771.3	776.21	B	UI	ass	+1	1	'Cause current remote controls they are never easy enough to use .
+IS1006b.B.dialog-act.vkaraisk.42	782.25	783.75	B	UI	inf	+1	1	So here is this remote control .
+IS1006b.B.dialog-act.vkaraisk.43	786.14	788.0	B	UI	inf	+1	1	It's quite a standard one ,
+IS1006b.B.dialog-act.vkaraisk.44	788.0	790.72	B	UI	inf	+1	1	but it's not from a T_V_ ,
+IS1006b.B.dialog-act.vkaraisk.45	790.72	797.78	B	UI	inf	+1	1	it's from a much easier device like air conditioning or something .
+IS1006b.B.dialog-act.vkaraisk.46	797.78	802.03	B	UI	sug	+1	1	But you know , we can use it for a T_V_ easily .
+IS1006b.B.dialog-act.vkaraisk.47	803.32	812.84	B	UI	sug	+1	1	Only buttons we need is on off , volume , channels and maybe some options or something else ,
+IS1006b.D.dialog-act.vkaraisk.181	822.92	828.47	D	ME	ass	+1	1	I would say the simplest one as long as there are the uh {disfmarker} I find the buttons that I need every time I need a button .
+IS1006b.C.dialog-act.vkaraisk.45	830.58	833.49	C	ID	sug	+1	1	Maybe it can be yeah middle of {disfmarker} like , between those two
+IS1006b.B.dialog-act.vkaraisk.49	816.23	817.55	B	UI	el.ass	+1	1	compared to this one
+IS1006b.B.dialog-act.vkaraisk.57	850.93	857.33	B	UI	inf	+1	1	Our question of the style , we should remember that our company
+IS1006b.B.dialog-act.vkaraisk.58	858.53	860.85	B	UI	inf	+1	1	puts fashion into electronics
+IS1006b.B.dialog-act.vkaraisk.69	893.25	900.59	B	UI	sug	+1	1	For personal preferences I think that to make a baby-proof remote control it got to be a titanium .
+IS1006b.B.dialog-act.vkaraisk.72	909.01	910.05	B	UI	inf	+1	1	It is unbreakable
+IS1006b.B.dialog-act.vkaraisk.73	910.05	912.65	B	UI	inf	+1	1	and it is very universal .
+IS1006b.B.dialog-act.vkaraisk.74	916.01	919.12	B	UI	sug	+1	1	W we'll have a screen with a back light
+IS1006b.B.dialog-act.vkaraisk.75	919.12	920.57	B	UI	sug	+1	1	which can change colours ,
+IS1006b.B.dialog-act.vkaraisk.76	921.73	924.96	B	UI	sug	+1	1	and we can put all the options into this screen .
+IS1006b.B.dialog-act.vkaraisk.77	924.96	926.92	B	UI	sug	+1	1	We'll need only few buttons .
+IS1006b.B.dialog-act.vkaraisk.78	926.92	930.81	B	UI	sug	+1	1	All the other things can be controlled through the screen .
+IS1006b.B.dialog-act.vkaraisk.79	933.44	936.42	B	UI	sug	+1	1	And all these buttons should be easy to find and to click ,
+IS1006b.B.dialog-act.vkaraisk.85	956.63	965.52	B	UI	sug	+1	1	I would propose this concept for design , just few buttons , a screen with a back light which can change colours , titanium
+IS1006b.B.dialog-act.vkaraisk.89	974.38	976.37	B	UI	sug	+1	1	We need power and volume .
+IS1006b.B.dialog-act.vkaraisk.90	977.49	981.13	B	UI	sug	+1	1	And let us include two nice features into this device ,
+IS1006b.B.dialog-act.vkaraisk.91	981.13	984.71	B	UI	sug	+1	1	first , power on and off can be made fully automatic .
+IS1006b.B.dialog-act.vkaraisk.92	986.58	988.98	B	UI	inf	+1	1	When you go to the sofa , take your control
+IS1006b.B.dialog-act.vkaraisk.93	988.98	990.35	B	UI	inf	+1	1	and point it to the T_V_ ,
+IS1006b.B.dialog-act.vkaraisk.94	993.52	994.61	B	UI	inf	+1	1	the T_V_ turns on .
+IS1006b.D.dialog-act.vkaraisk.192	995.31	996.54	D	ME	el.inf	+1	1	And when does it turn off ?
+IS1006b.B.dialog-act.vkaraisk.95	997.56	999.18	B	UI	inf	+1	1	When you don't touch the control
+IS1006b.B.dialog-act.vkaraisk.97	1001.42	1002.92	B	UI	inf	+1	1	For for enough time
+IS1006b.B.dialog-act.vkaraisk.100	1012.38	1016.87	B	UI	sug	+1	1	And another nice feature that I would like to implement is uh volume control .
+IS1006b.B.dialog-act.vkaraisk.101	1016.87	1020.11	B	UI	inf	+1	1	Suppose you set u you set up some volume
+IS1006b.B.dialog-act.vkaraisk.102	1020.11	1025.13	B	UI	inf	+1	1	and then you move out or you move to the other corner of the room
+IS1006b.B.dialog-act.vkaraisk.103	1025.13	1026.59	B	UI	inf	+1	1	and take your control with you .
+IS1006b.B.dialog-act.vkaraisk.104	1028.4	1037.26	B	UI	sug	+1	1	Like , you want to to change the chair or you want to move to the armchair from the sofa or something , and then the volume changes .
+IS1006b.D.dialog-act.vkaraisk.199	1047.84	1049.56	D	ME	ass	+1	1	Uh I'm not sure about the screen ,
+IS1006b.D.dialog-act.vkaraisk.198	1041.01	1046.31	D	ME	inf	+1	1	According to your distance to {disfmarker} and the angle maybe , if you have a stereo system .
+IS1006b.D.dialog-act.vkaraisk.200	1049.56	1052.39	D	ME	el.inf	+1	1	wha what is the use usefulness of the screen ?
+IS1006b.D.dialog-act.vkaraisk.201	1052.39	1054.03	D	ME	el.inf	+1	1	Uh is it a touch screen by the way ?
+IS1006b.B.dialog-act.vkaraisk.110	1055.07	1060.04	B	UI	inf	+1	1	I think it can be just a menu which can be controlled with a left , right , up , down and enter .
+IS1006b.D.dialog-act.vkaraisk.203	1061.52	1065.408	D	ME	el.inf	+1	1	but uh it has to be with an back light somehow . {gap}
+IS1006b.B.dialog-act.vkaraisk.119	1090.53	1091.87	B	UI	inf	+1	1	So basically that's it .
+IS1006b.A.dialog-act.vkaraisk.76	1092.592	1096.93	A	PM	inf	+1	1	{vocalsound} Um I see that you target uh several s application not only T_V_
+IS1006b.A.dialog-act.vkaraisk.77	1096.93	1101.95	A	PM	inf	+1	2	but i like we talk about um universal uh remote control .
+IS1006b.B.dialog-act.vkaraisk.120	1102.32	1103.35	B	UI	inf	+1	1	Can be easily done ,
+IS1006b.A.dialog-act.vkaraisk.85	1129.81	1139.21	A	PM	inf	+1	2	Since we were targeting a really soon uh uh date for the the the um i issuing of this uh remote control
+IS1006b.A.dialog-act.vkaraisk.86	1139.21	1141.94	A	PM	ass	+1	3	I think we will only concentrate on T_V_ for the moment
+IS1006b.A.dialog-act.vkaraisk.87	1141.94	1146.56	A	PM	sug	+1	3	and then maybe m make it more generalised {disfmarker} yeah .
+IS1006b.B.dialog-act.vkaraisk.133	1144.55	1146.15	B	UI	inf	+1	1	but it's quite universal you know .
+IS1006b.B.dialog-act.vkaraisk.134	1146.98	1148.8	B	UI	sug	+1	1	We can just extend it to any device .
+IS1006b.D.dialog-act.vkaraisk.207	1148.58	1154.03	D	ME	el.sug	+1	2	for instance if I want to go to {disfmarker} directly to channel twenty five , how would I do {disfmarker} can I do that with this ?
+IS1006b.D.dialog-act.vkaraisk.210	1157.79	1160.14	D	ME	inf	+1	2	You know these days we have hundreds of channels ,
+IS1006b.B.dialog-act.vkaraisk.137	1164.464	1167.42	B	UI	inf	+1	1	{vocalsound} In fact I would propose another solution .
+IS1006b.B.dialog-act.vkaraisk.138	1167.42	1170.7	B	UI	inf	+1	2	Basically you use just four or five channels ,
+IS1006b.B.dialog-act.vkaraisk.142	1173.99	1181.78	B	UI	sug	+1	1	set up your T_V_ set like channels that you use they're one , two , three and five ,
+IS1006b.B.dialog-act.vkaraisk.143	1181.78	1184.35	B	UI	inf	+1	1	and you will never have to go to a twenty fives channel .
+IS1006b.C.dialog-act.vkaraisk.60	1204.27	1207.53	C	ID	sug	+1	1	But even we can have some uh L_C_D_ display ,
+IS1006b.C.dialog-act.vkaraisk.61	1207.53	1211.27	C	ID	sug	+1	1	like you can uh de you can just button the number
+IS1006b.D.dialog-act.vkaraisk.220	1211.4	1216.26	D	ME	inf	+1	2	One thing is that as I said in my presentation people really do like to z zap .
+IS1006b.D.dialog-act.vkaraisk.221	1216.26	1223.7	D	ME	inf	+1	2	So even if they are only watching four or five channels , I think they want to zap out of the one hundred channels ,
+IS1006b.A.dialog-act.vkaraisk.91	1226.7	1229.66	A	PM	inf	+1	1	on zap it's only next next next next next , yeah .
+IS1006b.C.dialog-act.vkaraisk.71	1238.36	1241.31	C	ID	sug	+1	1	But otherwise like we can put some display on numbers
+IS1006b.B.dialog-act.vkaraisk.145	1230.04	1234.71	B	UI	inf	+1	1	Mm . We got these buttons here . Next next .
+IS1006b.A.dialog-act.vkaraisk.93	1247.33	1251.69	A	PM	sug	+1	1	Maybe we can make uh different modes for each button
+IS1006b.A.dialog-act.vkaraisk.94	1251.69	1253.87	A	PM	sug	+1	1	and you can change mode {disfmarker} zapping mode or
+IS1006b.C.dialog-act.vkaraisk.79	1258.18	1260.74	C	ID	inf	+1	1	but since we are focusing only on T_V_ remote controls
+IS1006b.C.dialog-act.vkaraisk.80	1260.74	1263.56	C	ID	sug	+1	1	so we can have more functions for T_V_
+IS1006b.B.dialog-act.vkaraisk.147	1271.6	1275.21	B	UI	el.ass	+1	1	Could we carry out some research if we w really need this ,
+IS1006b.B.dialog-act.vkaraisk.148	1275.21	1279.89	B	UI	el.inf	+1	1	like how many people really need to go to channel number twenty five and then to sixty four ?
+IS1006b.D.dialog-act.vkaraisk.235	1286.16	1289.712	D	ME	off	+1	1	{vocalsound} I'll check in my department if there's someone specialist in that . {vocalsound}
+54	IS1006b.rdhillon.s.5	The industrial designer discussed the interior workings of a remote and how to handle universal capability and speech recognition.
+IS1006b.C.dialog-act.vkaraisk.89	1327.82	1330.95	C	ID	inf	+1	1	Uh as you know , I am mister Ramaro .
+IS1006b.C.dialog-act.vkaraisk.90	1330.95	1336.28	C	ID	inf	+1	1	I am an expert in uh industrial design of all electronic devices
+IS1006b.C.dialog-act.vkaraisk.92	1343.94	1349.86	C	ID	off	+1	1	{vocalsound} So now I'll briefly describe the working design of our remote control .
+IS1006b.C.dialog-act.vkaraisk.94	1354.62	1366.04	C	ID	inf	+1	1	as you know the basic function of remote control is sending some message to the the device , like T_V_ or V_C_R_ or D_V_D_ player etcetera .
+IS1006b.C.dialog-act.vkaraisk.96	1374.81	1383.589	C	ID	inf	+1	1	So we need to have some energy source to do what {disfmarker} to do the functions , what we want on this portable device . {vocalsound}
+IS1006b.C.dialog-act.vkaraisk.98	1386.32	1389.06	C	ID	inf	+1	1	so to do these functions we need an interface ,
+IS1006b.C.dialog-act.vkaraisk.99	1389.06	1395.99	C	ID	inf	+1	1	which basically some kind of pressing buttons or keys or like moving jack or something like that .
+IS1006b.C.dialog-act.vkaraisk.100	1396.43	1402.96	C	ID	inf	+1	1	And then these messages {disfmarker} these key buttons can be transferred into some kind of message
+IS1006b.C.dialog-act.vkaraisk.101	1402.96	1406.01	C	ID	inf	+1	1	and then it will process by the chip
+IS1006b.C.dialog-act.vkaraisk.102	1406.01	1410.77	C	ID	inf	+1	1	and then it will generate some information to the main device .
+IS1006b.C.dialog-act.vkaraisk.107	1431.33	1436.19	C	ID	inf	+1	1	uh since we are focusing on our interface device {gap} remote control
+IS1006b.C.dialog-act.vkaraisk.108	1437.78	1441.19	C	ID	inf	+1	1	mainly the energy source like the battery
+IS1006b.C.dialog-act.vkaraisk.111	1441.19	1448.31	C	ID	inf	+1	1	and then we have user interface like uh the keypad and you know buttons we want ,
+IS1006b.C.dialog-act.vkaraisk.115	1459.24	1462.09	C	ID	sug	+1	1	we ought to have some kind of processor
+IS1006b.C.dialog-act.vkaraisk.118	1466.75	1470.46	C	ID	inf	+1	1	And then we'll have the infrared L_E_D_ source
+IS1006b.C.dialog-act.vkaraisk.120	1473.97	1479.47	C	ID	inf	+1	1	Then we'll have switch in our main uh um device to do particular operations ,
+IS1006b.C.dialog-act.vkaraisk.121	1479.47	1483.7	C	ID	sug	+1	1	and we ought to do different codes for different T_V_s ,
+IS1006b.A.dialog-act.vkaraisk.107	1491.36	1494.83	A	PM	inf	+1	1	To make it quite uh an universal uh device uh .
+IS1006b.C.dialog-act.vkaraisk.124	1494.62	1498.46	C	ID	inf	+1	1	because the people don't use one particular brand so
+IS1006b.C.dialog-act.vkaraisk.126	1503.12	1505.65	C	ID	sug	+1	1	So we need to check their specifications
+IS1006b.C.dialog-act.vkaraisk.129	1511.48	1513.9	C	ID	sug	+1	1	So we need to have particular encryption codes .
+IS1006b.C.dialog-act.vkaraisk.136	1535.01	1540.03	C	ID	off	+1	1	so I'll input the connections to all this components .
+IS1006b.C.dialog-act.vkaraisk.138	1547.5	1552.16	C	ID	sug	+1	1	so if you want to add some more components we can incorporate them .
+IS1006b.A.dialog-act.vkaraisk.112	1549.82	1557.29	A	PM	sug	+1	1	Mm-hmm . And from from the discussion we had do you {disfmarker} can you make it on the whiteboard , or {disfmarker} mm .
+IS1006b.C.dialog-act.vkaraisk.142	1565.85	1570.71	C	ID	inf	+1	1	and also Marketing Expert for the speech recognition is really handy ,
+IS1006b.C.dialog-act.vkaraisk.143	1571.43	1577.95	C	ID	sug	+1	2	we can have another , like uh s simple speech recogniser on our D_S_B_ chip .
+IS1006b.C.dialog-act.vkaraisk.149	1588.66	1596.24	C	ID	sug	+1	1	and we can have some speech recognition and in our g generally small digital signal processing chip
+IS1006b.C.dialog-act.vkaraisk.150	1596.24	1601.59	C	ID	sug	+1	1	so that and we will put uh the small uh simple speech recogniser
+IS1006b.C.dialog-act.vkaraisk.160	1618.7	1626.44	C	ID	inf	+1	2	you can find even simple mobile device like any mobile brand you can have these voice dialers or these things , yeah .
+IS1006b.D.dialog-act.vkaraisk.241	1624.82	1631.05	D	ME	inf	+1	2	Think of a all these young people who would love to say that this remote control only works for them ,
+IS1006b.A.dialog-act.vkaraisk.121	1635.86	1638.01	A	PM	el.inf	+1	1	And what about the price of this component ?
+IS1006b.C.dialog-act.vkaraisk.164	1638.79	1643.85	C	ID	inf	+1	1	Uh maybe we can make uh it in five Euros and even less than that ,
+IS1006b.D.dialog-act.vkaraisk.248	1671.22	1676.56	D	ME	el.ass	+1	2	The user uh will just be able to say uh please can you uh pump up the vo pump up the volume
+IS1006b.D.dialog-act.vkaraisk.249	1676.56	1680.81	D	ME	el.ass	+1	2	or or it will be something like volume , up , down .
+IS1006b.C.dialog-act.vkaraisk.183	1698.7	1703.15	C	ID	sug	+1	1	And then we can have channel they can say , okay I want eight ,
+IS1006b.C.dialog-act.vkaraisk.187	1711.31	1714.45	C	ID	sug	+1	1	we don't want like B_B_C_ or C_N_N_ or something else
+IS1006b.C.dialog-act.vkaraisk.189	1715.11	1716.65	C	ID	ass	+1	1	it will be complicated
+IS1006b.D.dialog-act.vkaraisk.257	1744.8	1751.02	D	ME	sug	+1	1	First of all I I think this is not uh functionality that it is going to be instead of using the buttons .
+IS1006b.C.dialog-act.vkaraisk.194	1757.96	1763.86	C	ID	sug	+1	1	actually we we can have one switch to like uh switch on , on and off , this {gap} processor
+IS1006b.B.dialog-act.vkaraisk.169	1796.3	1799.65	B	UI	el.ass	+1	1	Did you consider the r gest uh gesture recognition ?
+IS1006b.B.dialog-act.vkaraisk.170	1799.65	1804.91	B	UI	sug	+1	1	Like , if I want to put volume up I like do {disfmarker} mm I take my remote control do like {disfmarker} something like
+IS1006b.B.dialog-act.vkaraisk.171	1806.41	1806.91	B	UI	sug	+1	1	roll 'em up
+IS1006b.B.dialog-act.vkaraisk.172	1806.91	1807.71	B	UI	sug	+1	1	or roll 'em down .
+IS1006b.D.dialog-act.vkaraisk.263	1809.119	1811.31	D	ME	ass	+1	1	{vocalsound} Very expensive ,
+IS1006b.C.dialog-act.vkaraisk.210	1820.07	1823.02	C	ID	ass	+1	2	even automatic on off is also a bit problematic ,
+IS1006b.C.dialog-act.vkaraisk.212	1826.25	1831.71	C	ID	inf	+1	1	like so suppose people are really uh they just uh they don't touch the remote
+IS1006b.C.dialog-act.vkaraisk.213	1831.71	1836.37	C	ID	inf	+1	1	and mm y you don't know how much time you need to switch on or switch off
+IS1006b.D.dialog-act.vkaraisk.268	1842.23	1845.7	D	ME	inf	+1	2	So in in a given room there might be more than one remote control .
+IS1006b.D.dialog-act.vkaraisk.269	1845.7	1851.01	D	ME	sug	+1	2	We would uh have each one and uh with our own personal uh settings .
+IS1006b.C.dialog-act.vkaraisk.216	1851.32	1855.12	C	ID	ass	+1	1	Yeah that can be possible , especially for power settings ,
+IS1006b.C.dialog-act.vkaraisk.217	1855.12	1862.544	C	ID	fra	+1	1	so user can say okay , suppose they're watching a tennis match or something then they can say okay uh after one hour I {disfmarker}
+IS1006b.C.dialog-act.vkaraisk.167	1652.11	1659.14	C	ID	inf	+1	2	because we have only very few words like like power , switch on or some like
+IS1006b.C.dialog-act.vkaraisk.180	1689.48	1691.49	C	ID	sug	+1	2	so we try to only recognise those words
+IS1006b.C.dialog-act.vkaraisk.181	1691.49	1695.69	C	ID	sug	+1	2	and and because we can't really say user to say same wording
+20	IS1006b.rdhillon.s.6	After the project manager's closing , the project manager recapped some decisions and the team discussed how to handle the issue of locating a remote when misplaced.
+IS1006b.A.dialog-act.vkaraisk.156	1915.37	1918.36	A	PM	sug	+1	1	we're now going to l have the lunch break .
+IS1006b.A.dialog-act.vkaraisk.157	1919.584	1925.14	A	PM	sug	+1	1	{vocalsound} Then we will work again for thirty minutes individual work ,
+IS1006b.A.dialog-act.vkaraisk.158	1925.14	1934.02	A	PM	sug	+1	1	and um {vocalsound} we will uh meet again for the next meeting ,
+IS1006b.A.dialog-act.vkaraisk.159	1934.02	1946.04	A	PM	inf	+1	1	and uh in this one want to to be more focused on the individual actions the um {disfmarker} on the components
+IS1006b.A.dialog-act.vkaraisk.161	1953.78	1958.45	A	PM	sug	+1	2	you will focus on the component concept um
+IS1006b.A.dialog-act.vkaraisk.162	1960.49	1967.63	A	PM	sug	+1	2	uh of course the U_I_D_ Mark will be uh focused on the user interface concept
+IS1006b.A.dialog-act.vkaraisk.163	1967.63	1975.18	A	PM	sug	+1	2	and uh our m Market Expert Sammy Benjo uh on the trend watching .
+IS1006b.A.dialog-act.vkaraisk.165	1979.99	1986.65	A	PM	inf	+1	1	of course like before specific instruction will be sent to you by your personal personal coach .
+IS1006b.A.dialog-act.vkaraisk.168	1989.88	1997.19	A	PM	sug	+1	3	And we have um maybe we have to {disfmarker} we say , only for T_V_ , not teletext ?
+IS1006b.A.dialog-act.vkaraisk.169	1997.19	2003.36	A	PM	ass	+1	2	Uh I think automatic on off control uh it's not possible .
+IS1006b.C.dialog-act.vkaraisk.234	2013.17	2015.67	C	ID	ass	+1	1	But speech recogniser can be possible .
+IS1006b.B.dialog-act.vkaraisk.179	2027.19	2036.5	B	UI	el.ass	+1	1	Uh , should it be equipped with the uh , with uh speakers ?
+IS1006b.B.dialog-act.vkaraisk.180	2038.42	2040.67	B	UI	sug	+1	2	Like , you want to find it , you shout
+IS1006b.B.dialog-act.vkaraisk.182	2043.37	2045.728	B	UI	sug	+1	2	and it answers is I'm here ? Or {disfmarker}
+IS1006b.D.dialog-act.vkaraisk.286	2052.29	2055.21	D	ME	ass	+1	2	But that's ex that's expensive . Uh .
+IS1006b.B.dialog-act.vkaraisk.183	2048.92	2049.71	B	UI	und	+1	2	Just beeps ?
+IS1006b.D.dialog-act.vkaraisk.288	2061.96	2065.21	D	ME	inf	+1	2	I I heard of devices where you just uh whistle them
+IS1006b.D.dialog-act.vkaraisk.290	2066.53	2070.63	D	ME	inf	+1	2	because of the the frequency they they just answer to that .
+IS1006b.D.dialog-act.vkaraisk.294	2074.66	2076.27	D	ME	el.inf	+1	2	You can clap . Can you ?
+IS1006b.C.dialog-act.vkaraisk.245	2091.86	2093.37	C	ID	ass	+1	1	But it's a good feature I guess yeah

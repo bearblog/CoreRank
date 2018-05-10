@@ -1,0 +1,6 @@
+Although the parser has been modified to work with english , the details of its internal workings ( calling functions , setting discourse variables , generating actions ) are not yet clear.
+Understanding the parsed data is helped by the database of objects , people and events accompanying the system , but the mapping of referring expressions to database objects can still be a hurdle.
+On a different level , the Bayes-net used to generate the different action modes can easily become unmanageable as the number of features to be taken into account increases.
+This can be tackled with the use of the Noisy-OR technique.
+The deterministic functions this requires cannot be introduced directly into JavaBayes , although some runaround ways can be implemented.
+A final , high-level issue , that has not been dealt with yet , is the definition of the constructions and the construction grammar framework analysis behind the whole enterprise.

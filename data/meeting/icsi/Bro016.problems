@@ -1,0 +1,65 @@
+46	Bro016.s.8	The main project the group is working on , Aurora , has a number of rules attaches as to what developers can and cannot play with , but this needs to be clarified.
+Bro016.E.dialogueact68	180.33	191.416	E	Professor	fh|s	+1	1	Uh , so the next question to ask , which is I think the one that {disfmarker} that {disfmarker} that Andreas was dre addressing himself to in the lunch meeting , is , um , we 're not supposed to adjust the back - end ,
+Bro016.E.dialogueact69	191.836	194.046	E	Professor	s	+1	1	but anybody using the system would .
+Bro016.E.dialogueact72	196.541	202.427	E	Professor	qw	+1	1	if you were just adjusting the back - end , how much better would you do , uh , in noise ?
+Bro016.E.dialogueact73	203.209	210.149	E	Professor	s^df	+1	1	Uh , because the language scaling and insertion penalties and so forth are probably set to be about right for mel cepstrum .
+Bro016.E.dialogueact75	211.303	217.026	E	Professor	fh|s	+1	1	But , um , they 're probably not at all set right for these things ,
+Bro016.E.dialogueact303	772.06	776.036	E	Professor	s^df	+1	2	As for these other things , it may turn out that , uh , {vocalsound} it 's kind of reasonable .
+Bro016.E.dialogueact305	777.169	780.479	E	Professor	s	+1	2	I mean , Andreas gave a very reasonable response ,
+Bro016.E.dialogueact306	780.479	783.579	E	Professor	s	+1	2	and he 's probably not gonna be the only one who 's gonna say this in the future {disfmarker}
+Bro016.E.dialogueact308	784.189	791.795	E	Professor	s	+1	2	people {disfmarker} people within this tight - knit community who are doing this evaluation {vocalsound} are accepting , uh , more or less , that these are the rules .
+Bro016.E.dialogueact310	792.429	800.039	E	Professor	s	+1	2	But , people outside of it who look in at the broader picture are certainly gonna say " Well , wait a minute . You 're doing all this standing on your head , uh , on the front - end ,
+Bro016.E.dialogueact311	800.039	804.119	E	Professor	s	+1	2	when all you could do is just adjust this in the back - end with one s one knob . "
+Bro016.E.dialogueact314	805.311	809.797	E	Professor	s^co	+1	2	so we have to at least , I think , determine that that 's not true ,
+Bro016.E.dialogueact320	817.767	827.464	E	Professor	s	+1	2	And as you say {disfmarker} as you point out {disfmarker} finding ways to then compensate for that in the front - end {vocalsound} also then becomes a priority for this particular test ,
+Bro016.E.dialogueact476	1171.35	1172.04	E	Professor	qy^d^rt	+1	2	that 's permitted ?
+Bro016.B.dialogueact478	1179.27	1179.48	B	PhD	fh	+1	2	Well ,
+Bro016.B.dialogueact479	1180.07	1181.46	B	PhD	s^na	+1	2	OGI does {disfmarker} did that .
+Bro016.B.dialogueact481	1185.46	1190.78	B	PhD	s^bu^e	+1	2	At some point they did that for {disfmarker} for the voice activity detector .
+Bro016.E.dialogueact492	1211.5	1219.05	E	Professor	s.%--	+1	2	The rules as I understand it , is that in principle the Italian and the Spanish and the English {disfmarker}
+Bro016.E.dialogueact494	1219.87	1224.85	E	Professor	s^bsc^rt	+1	2	Italian and the Finnish and the English ? {disfmarker} were development data
+Bro016.B.dialogueact496	1225.4	1226.29	B	PhD	s	+1	2	And Spanish , yeah .
+Bro016.E.dialogueact497	1225.53	1226.99	E	Professor	s^e	+1	2	on which you could adjust things .
+Bro016.E.dialogueact498	1227.9	1231.75	E	Professor	s	+1	2	And the {disfmarker} and the German and Danish were the evaluation data .
+Bro016.E.dialogueact500	1232.61	1236.4	E	Professor	s	+1	2	And then when they finally actually evaluated things they used everything .
+Bro016.E.dialogueact511	1254.07	1264.97	E	Professor	s	+1	2	it {disfmarker} it doesn't appear that there 's strong evidence that even though things were somewhat tuned on those three or four languages , that {disfmarker} that going to a different language really hurt you .
+Bro016.E.dialogueact512	1264.97	1266.93	E	Professor	s	+1	2	And the noises were not exactly the same .
+Bro016.E.dialogueact516	1271.44	1273.62	E	Professor	s	+1	2	I mean they were different drives .
+Bro016.B.dialogueact517	1272.75	1273.64	B	PhD	s^2	+1	2	Different cars .
+Bro016.E.dialogueact523	1278.62	1281.45	E	Professor	s^e.%--	+1	2	It 's tuned more than , you know , a {disfmarker} a {disfmarker} a {disfmarker} a {disfmarker}
+Bro016.E.dialogueact525	1282.03	1286.31	E	Professor	s	+1	2	You 'd really like to have something that needed no particular noise at all ,
+Bro016.E.dialogueact528	1290.27	1292.6	E	Professor	s	+1	2	But that 's not really what this contest is .
+Bro016.E.dialogueact533	1297.03	1300.95	E	Professor	s	+1	3	That 's something I 'd like to understand before we actually use something from it ,
+Bro016.F.dialogueact535	1301.59	1308.95	F	PhD	s	+1	2	it 's probably something that , mmm , the {disfmarker} you know , the , uh , experiment designers didn't really think about ,
+Bro016.F.dialogueact536	1308.95	1319.73	F	PhD	s^df	+1	2	because I think most people aren't doing trained systems , or , you know , uh , systems that are like ours , where you actually use the data to build models .
+Bro016.F.dialogueact537	1319.73	1322.04	F	PhD	s^df	+1	2	I mean , they just {pause} doing signal - processing .
+Bro016.E.dialogueact541	1322.97	1325.58	E	Professor	s^arp	+1	2	except that , uh , that 's what we used in Aurora one ,
+Bro016.E.dialogueact542	1326.16	1329.14	E	Professor	s	+1	2	and then they designed the things for Aurora - two knowing that we were doing that .
+Bro016.F.dialogueact546	1331.46	1332.8	F	PhD	s^bu	+1	2	And they didn't forbid us {disfmarker}
+Bro016.F.dialogueact548	1333.13	1335.38	F	PhD	qy^bu^d^e^rt	+1	2	to build models on the data ?
+Bro016.E.dialogueact549	1335.47	1335.81	E	Professor	s^aa	+1	2	No .
+Bro016.E.dialogueact550	1336.23	1337.64	E	Professor	s.%--	+1	2	But , I think {disfmarker} I think that it {disfmarker} it {disfmarker}
+Bro016.E.dialogueact551	1338.23	1349.73	E	Professor	s	+1	2	it probably would be the case that if , say , we trained on Italian , uh , data and then , uh , we tested on Danish data and it did terribly , uh , that {disfmarker} that it would look bad .
+Bro016.E.dialogueact552	1349.73	1351.25	E	Professor	s	+1	2	And I think someone would notice
+Bro016.E.dialogueact563	1372.56	1373.7	E	Professor	s	+1	4	Maybe {disfmarker} that 's maybe a topic {disfmarker}
+Bro016.E.dialogueact564	1374.16	1375.82	E	Professor	s^e	+1	4	Especially if you talk with him when I 'm not here ,
+Bro016.E.dialogueact565	1375.82	1377.75	E	Professor	s^co	+1	4	that 's a topic you should discuss with Hynek
+Bro016.E.dialogueact566	1377.8	1379.61	E	Professor	s^df	+1	4	to , you know , double check it 's OK .
+8	Bro016.s.9	The rules are adhered to in the small community , but make no sense from a broader research perspective.
+Bro016.E.dialogueact303	772.06	776.036	E	Professor	s^df	+1	2	As for these other things , it may turn out that , uh , {vocalsound} it 's kind of reasonable .
+Bro016.E.dialogueact305	777.169	780.479	E	Professor	s	+1	2	I mean , Andreas gave a very reasonable response ,
+Bro016.E.dialogueact306	780.479	783.579	E	Professor	s	+1	2	and he 's probably not gonna be the only one who 's gonna say this in the future {disfmarker}
+Bro016.E.dialogueact308	784.189	791.795	E	Professor	s	+1	2	people {disfmarker} people within this tight - knit community who are doing this evaluation {vocalsound} are accepting , uh , more or less , that these are the rules .
+Bro016.E.dialogueact310	792.429	800.039	E	Professor	s	+1	2	But , people outside of it who look in at the broader picture are certainly gonna say " Well , wait a minute . You 're doing all this standing on your head , uh , on the front - end ,
+Bro016.E.dialogueact311	800.039	804.119	E	Professor	s	+1	2	when all you could do is just adjust this in the back - end with one s one knob . "
+Bro016.E.dialogueact314	805.311	809.797	E	Professor	s^co	+1	2	so we have to at least , I think , determine that that 's not true ,
+Bro016.E.dialogueact320	817.767	827.464	E	Professor	s	+1	2	And as you say {disfmarker} as you point out {disfmarker} finding ways to then compensate for that in the front - end {vocalsound} also then becomes a priority for this particular test ,
+8	Bro016.s.10	While writing their report , mn007 and fn002 have noticed some tables contain only partial results , and there are things they do not recall the reasoning behind.
+Bro016.F.dialogueact447	1089.27	1094.09	F	PhD	qy^rt	+1	1	Are you discovering anything , uh , that makes you scratch your head as you write this report ,
+Bro016.F.dialogueact448	1094.09	1095.4	F	PhD	s^e	+1	1	like why did we do that ,
+Bro016.F.dialogueact449	1095.4	1097.1	F	PhD	s^e	+1	1	or why didn't we do this ,
+Bro016.B.dialogueact450	1096.08	1096.95	B	PhD	h	+1	1	Uh .
+Bro016.B.dialogueact452	1098.31	1098.53	B	PhD	s^aa	+1	1	Yeah .
+Bro016.B.dialogueact455	1102.8	1108.11	B	PhD	s^e	+1	1	Actually , there were some tables that were also with partial results .
+Bro016.B.dialogueact456	1108.47	1109.26	B	PhD	s	+1	1	We just noticed that ,
+Bro016.B.dialogueact457	1110.93	1115.54	B	PhD	s^e	+1	1	wh while gathering the result that for some conditions we didn't have everything .

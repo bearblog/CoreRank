@@ -1,0 +1,9 @@
+A native english speaker will have to oversee the generator translation and resolve any grammar issues that may arise.
+A few issues regarding the ongoing development of the project came into focus.
+The current M3L specifications are incomplete as to tourist path information and intention recognition.
+The current parser itself extracts no syntactic information.
+A more sophisticated parser is needed , yet most of the available ones would not satisfy the speed requirements of the project.
+The belief-net whose inputs include the parse , is not fully instantiated yet: some rules of combination and conditional probabilities are not there yet.
+Also underspecified are the details of the interaction between different modules: the dialogue manager and action planner , although separate modules , need to interact closely and update each other's state.
+The current dialogue manager is also designed with a much narrower domain in mind.
+Finally , some ambiguities and other terminology issues were identified , although it is not clear how difficult changes may be.

@@ -1,0 +1,11 @@
+Digit and beeps have been re-recorded by Chuck to aid IBM transcription , and enable alignment.
+The group discuss the extent to which digits can be automatically transcribed , including their experimentation with forced alignment and speech recognition.
+Transcription is progressing well: two transcribers hired and and two more will be hired soon.
+Five "set 2" meetings are being edited by the head transcriber , and "set 3" are being prepared , with the aim of having 20 available for the DARPA demo.
+Pre-segmentation is very useful , with visual information desirable for transcription of backchannel behaviour.
+Now Thilo's segmenter is working , the group discuss re-evaluation of recognition without cheating on the segmentation , possibly using time-constrained alignment.
+Also , they discuss the use of recogniser alignment to train the speech detector.
+The group discuss possible ways to improve the SRI recognition error rate , suggestions include use of low-pass filter , or retraining models.
+Differences in smoothing are proposed to be mainly responsible for the difference between the male and female results.
+File reorganisation was discussed briefly as Chuck was not present , however progress has been made in sharing file naming conventions with UW.
+Also , the Absinthe machine is now working well , and has speeded up in proportion to its extra processors.

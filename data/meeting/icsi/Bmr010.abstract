@@ -1,0 +1,26 @@
+4	Bmr010.s.1	The Berkeley Meeting Recorder group talked about the ongoing transcription effort and issues related to the Transcriber tool , which despite its limitations for capturing tight time markings for overlapping speech , will continue to remain in use.
+Bmr010.F.dialogueact28	37.968	41.128	F	Postdoc	s	+1	1	Well , um , I can {pause} give you an update on the {pause} transcription effort .
+Bmr010.F.dialogueact239	467.798	472.7	F	Postdoc	s	+1	1	because at present , {nonvocalsound} {vocalsound} um , because {nonvocalsound} of the limitations of {vocalsound} th the interface we 're using ,
+Bmr010.F.dialogueact240	472.98	482.086	F	Postdoc	s	+1	1	overlaps are , uh , not being {nonvocalsound} encoded by {nonvocalsound} the transcribers in as complete {nonvocalsound} and , uh , detailed a way as it might be ,
+Bmr010.A.dialogueact322	659.925	666.275	A	Grad	s	+1	2	What our decision was is that {pause} we 'll go ahead with what we have with a not very fine time scale on the overlaps .
+3	Bmr010.s.2	Speaker mn014 explained his efforts to pre-segment the signal into speech and non-speech portions for facilitating transcriptions.
+Bmr010.F.dialogueact34	57.342	62.932	F	Postdoc	s	+1	2	The {disfmarker} we have great {disfmarker} great , uh , p steps forward in terms of the nonspeech - speech pre - segmenting of the signal .
+Bmr010.C.dialogueact122	245.001	255.361	C	PhD	h|s^rt	+1	2	Um , so , uh , what we basically did so far was using the mixed file to {disfmarker} to detect s speech or nonspeech {pause} portions in that .
+Bmr010.F.dialogueact203	414.922	417.012	F	Postdoc	s^arp	+1	2	But {nonvocalsound} it {disfmarker} it saves so much time {disfmarker} the {disfmarker} the {nonvocalsound} transcribers
+5	Bmr010.s.3	Recording equipment and procedures were discussed , with a focus on audible breathing and the need for standards in microphone wear and use.
+Bmr010.F.dialogueact30	42.04	47.13	F	Postdoc	fh|s^rt^t	+1	1	Uh , maybe {nonvocalsound} raise the issue of microphone , uh , um procedures
+Bmr010.G.dialogueact624	1185.73	1187.29	G	Professor	qo^cs	+1	1	Well , let 's {disfmarker} why don't we talk about microphone issues ?
+Bmr010.G.dialogueact678	1285.06	1296.19	G	Professor	s	+1	2	But I {disfmarker} I think that it {disfmarker} it doesn't hurt , uh , the naturalness of the situation to try to have people {pause} wear the microphones properly , if possible ,
+Bmr010.B.dialogueact706	1352.65	1357.86	B	PhD	s	+1	2	So , anything to reduce breathing is {disfmarker} is {disfmarker} is a good thing .
+Bmr010.A.dialogueact711	1363.56	1368.57	A	Grad	s	+1	2	So you want it enough to the side so that when you exhale through your nose , it doesn't {disfmarker} the wind doesn't hit the mike .
+10	Bmr010.s.4	And , finally , it was determined that speaker mn005's efforts to detect speaker overlap using energy should instead be focussed on pitch- and harmonicity-related features or be guided by a non-featural , statistical approach , i.e . via the use of Markov models.
+Bmr010.G.dialogueact1305	2461.96	2469.34	G	Professor	s	+1	2	But , I mean , the other things that we talked about is , uh , {vocalsound} pitch - related things and harmonicity - related things ,
+Bmr010.G.dialogueact1318	2498.69	2500.75	G	Professor	s^e	+1	1	You know , have a {disfmarker} have a couple Markov models
+Bmr010.G.dialogueact1312	2483.76	2487.19	G	Professor	s	+1	1	which is to say , don't worry so much about the , uh , features .
+Bmr010.G.dialogueact1321	2501.5	2507.26	G	Professor	s	+1	1	and , uh , try to indi try to determine , you know , w when is th when are you in an overlap , when are you not in an overlap .
+Bmr010.G.dialogueact1323	2507.81	2512.47	G	Professor	s	+1	1	And let the , uh , uh , statistical system {pause} determine what 's the right way to look at the data .
+Bmr010.D.dialogueact1353	2577.45	2588.53	D	PhD	s	+1	2	And I hope the {disfmarker} the next week I will have , eh , some results and we {disfmarker} we will show {disfmarker} we will see , eh , the {disfmarker} the parameter {disfmarker} the pitch , {vocalsound} eh , tracking in {disfmarker} with the program .
+Bmr010.G.dialogueact1499	2805.92	2812.1	G	Professor	s	+1	1	uh , the {disfmarker} has {disfmarker} has , uh , been exploring , uh , e largely the energy issue
+Bmr010.G.dialogueact1488	2794.67	2798.81	G	Professor	s.%--	+1	2	So far , um , uh , Jose has {disfmarker} has been {disfmarker}
+Bmr010.G.dialogueact1518	2851.77	2858.28	G	Professor	s^cs	+1	1	but it may be {disfmarker} given that you have a limited time here , it {disfmarker} it just may not be the best thing to {disfmarker} {vocalsound} to {disfmarker} to focus on for the remaining of it .
+Bmr010.G.dialogueact1528	2870.54	2872.86	G	Professor	s	+1	1	Th - they were suggesting going to Markov models ,

@@ -1,0 +1,29 @@
+The main focus of the meeting was firstly on the structure of the belief-net , its decision nodes and the parameters that influence them , and secondly , on the design of the data collection tasks.
+For the latter , there are already 30 subjects lined up and more are expected to be recruited off campus.
+It was agreed that making subjects select from categories of tasks , such as "big place" , "service" , etc . could provide a better range of data.
+The duration of each dialogue will probably be no more than 10 minutes.
+On the other hand , the organisation of the intermediate nodes of the belief-net and their properties is almost complete , although no conditional probabilities have been inserted yet.
+These nodes represent decisions that will function as parameters to action calls in the system.
+Their values will either be inferred from the user-system interaction , or -as a last resort- requested directly from the user.
+Finally , as to the semantic and syntactic constructions , work will start with more general and brief descriptions , before moving to exhaustive analysis of at least a subset.
+Similarly , the construction parser that is to be built within a year is expected to be relatively basic , yet robust.
+As the data collection is ready to start , it was agreed that for the first ten subjects the interaction with the system/instructor will be along the lines of a basic response system.
+Tasks will be divided in categories ( "tour" , "attend" etc ) and subjects are going to be asked to choose no more than one task out of each category .
+This first run will probably take a couple of weeks , but the first results ( audio files and selected highlights ) will be discussed shortly , in order to decide whether more detail ( complex spatial relationships , temporal planning etc ) should be included in the design or particular constructions be elicited.
+Regarding the completion of the belief-net , the remaining details , mainly the properties of the ontology and discourse nodes , should be added.
+After building in the conditional probability tables , a working prototype of the net will be ready.
+Finally , the initial work on constructions should focus on a general overview of the dialogues with brief descriptions.
+Further analysis will follow from there in a top-down fashion.
+Although there is an effort to include some of the key features of the belief-net in the design of the data gathering , not all of them can be built in.
+The tasks that the subjects will have to carry out will be categorised in ways that will indicate EVA intentions , however , this approach may limit the variety of possible constructions used within a single category of entities.
+On the other hand , generating more diverse dialogues may have an adverse effect from a speech recognition perspective.
+A minor problem has arisen with the laboratory where recordings are supposed to take place , but this is currently being sorted out.
+As regards the completion of the belief-net , no work has been done on the CPT's yet.
+Finally , it was noted that although a general overview of the pertinent constructions is attainable , no more than ten of them can be analysed in detail with the summer months.
+A detailed diagram of the EVA belief-net was presented and some of the intermediate nodes and their properties were discussed in depth.
+Some of the key features and properties are: "Go-there" , which is binary , and defined by the user , situation , ontology and discourse models; "timing" ( current/next tour ); "reason" ( business , sight-seeing , socialising ); "transport"; "length of tour"; "costs"; "entity" ( open , accessible ) etc.
+The data collection that will provide relevant dialogues is moving along , with thirty subjects already lined up.
+They will be given a reading task , which will include some german proper names , and a series of tasks from the tourist domain to choose from.
+In order to get directions , they will then communicate with a computer system and a human operator , using a sketchy map as an aid.
+A different set of data are already available from the SmartKom system and similar sources.
+A preliminary study using this data has shown that a large number of syntactic and semantic constructions can be derived from a small sample.

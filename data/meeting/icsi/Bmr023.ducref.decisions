@@ -1,0 +1,7 @@
+The group discussed how the digits should be recorded in the meeting.
+In the end they decided to record these in unison for all of the meeting participants as a whole.
+To improve the performance of Thilo's automatic segmenter , this is going to be retrained and adapted to run with Thilo's posteriors and speaker background models.
+Regarding transcription , no new transcribers will be employed until situation regarding IBM is clarified.
+Legal issues surrounding the approval and signing off of transcripts by participants has proved to be very complicated , and so will be sorted out off line by those involved by July.
+After finding discrepancies with the CMU researchers , the ICSI group have decided to tune the size of their Gaussian system.
+After raising the difficulty of checking for bugs in their generation of tandem features , they decide to check with Stephane who has more experience of these procedures.

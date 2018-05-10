@@ -1,0 +1,19 @@
+The Meeting Recorder group at Berkeley met to discuss recent progress.
+Of greatest interest was the progress on improving the latency and performance of their recogniser.
+There was also concern over overlap of work with partners OGI , and a lack of a good example of room reverberation for demonstrations.
+Everyone must be sure and use the high-pass filtering option on the groups software , to deal with irregularities between mics.
+In order to coordinate better with OGI , some sort of source code control is required and me018 has offered to investigate , but only minimal progress can be made until after the upcoming deadline for Eurospeech.
+When he returns me026 will help.
+Also , in two weeks one of the OGI members will return , and meetings should be arranged with him before the next big project meeting.
+OGI seem to be having some good results with voice activation detection , so the group need to find out which is the best VAD and start using it.
+The is a waveform example of room reverberation on the groups website that was used in a presentation.
+It turns out that it is a good example of many things , but not the reverb it is supposed to contain.
+Need to find a better example , maybe by just looking at a closer section of waveform.
+Minor experimenting found that by dropping the self-loop transition in the HMMs by just 0.1% can increase performance by 10% , but the rules of the task forbid this change.
+There is some confusion over what the results produced mean , since it appears they are weighted , which biases improvements in some cases quite heavily.
+Speaker me013 is worried that his groups work on spectral subtraction overlaps with that of OGI , and that it may be time better spent on other tasks.
+Speaker mn007 and fn002 have been working on improving the recogniser performance as well as reducing it's latency.
+Work on new filters has reduced latency , but made no improvement , though a slight reduction in performance occurred in the well matched case.
+Also tried adding some spectral subtraction , but it doesn't work will with on-line normalization and at this stage is just hurting results.
+They have also been considering the possibility of using a second stream of data looking at the voicedness of the data , which would draw some ideas from previous work.
+Me018 has been looking at the baseline system and feels it may be possible to decrease the run time of experiments by decreasing the iteration , and he has also got the five processor Linux machine capable of running HTKs.

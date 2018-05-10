@@ -1,0 +1,27 @@
+An idea for future work was suggested during the visit of the german project manager: the possibility to use the same system for language generation.
+Having a system able to ask questions could contribute significantly to training the belief-net.
+Setting up certain inputs in the Bayes-net would imply certain intentions , which would trigger dialogues.
+There is potential to make a conference paper out of presenting the current work and the project aspirations within a parsing paradigm.
+The focus should be the Bayes-net , to which all other modules interface.
+Situation , User , Discourse and Ontology feed into the net to infer user intentions.
+Someone asking where the castle is after having asked about the admission fee , indicates that -given that the castle is open to tourists- they want to go there , as opposed to knowing its whereabouts.
+It was suggested that they start analysing what the Discourse and Ontology would give as inputs to the Bayes-net by working on simple utterances like "where is X?".
+With this addition , all input layers of the net would be functioning.
+Although this function would be limited , it would allow for the Bayes-net to be tested in its entirety and , henceforth , extended.
+The possibility of incorporating language generation into the system will have to be discussed further.
+Similarly , as no one could recall some of the points of the conference call , the group will have to meet again and define the exact structure and content of the paper they are going to submit.
+The Bayes-net is going to be the focus of the presentation.
+In order to complete a functioning prototype of the belief-net , it was decided to start expanding the Ontology and Discourse nodes by working with a simple construction , like "where is X?".
+A robust analysis of such a basic utterance will indicate what the limits of the information derived from the construction are , as well as ways to design the whole module and fit other constructions in.
+The idea to create a language generation module for the system , along with the language understanding , was met with interest , although it was made clear that generation is not just the inverse of understanding.
+Understanding what a construction entails does not mean the system can use the construction in all appropriate circumstances.
+A dialogue producing system would be useful for training the system further , even though the number of input permutations could render the process computationally unwieldy.
+Regarding the conference paper , it was noted that at this stage they have not completed any big parts of the system and there is no evaluation.
+Similarly , the length of the paper would not allow for presentation of the formalism in detail.
+The focus would have to be on cognitive motivations of the research , and not on system design , anyway.
+Such motivations also apply to the belief-net: there are various direct or indirect ways to link features of the Ontology or Discourse with specific intentions.
+The originating observation behind the whole project is that utterances like "Where is X?" are seemingly unambiguous , but , in context , they can acquire much more complex interpretations.
+The SmartKom prototype was in need of de-bugging , which is now on its way.
+Similarly , the work on XML is going to be finished within a day.
+On the other hand , the data recording has started: almost twenty subjects have already taken part and the transcription of the recordings is running in parallel.
+Meanwhile a new person , who is also a possible replacement for the wizard's task in the data collection , has been hired.

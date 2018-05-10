@@ -1,0 +1,49 @@
+1	Bmr005.s.11	The sidetrack discussion on the legal implications of the use of names
+was delayed until another time.
+Bmr005.E.dialogueact282	1074.81	1077.9	E	Professor	s^tc	+1	0	But a actually , I 'm sorry . I really would like to push {disfmarker} finish this off .
+10	Bmr005.s.12	It was decided that progress on the marking of overlaps would be
+increased if focus was kept on the events of interest , rather than all
+possible events , as was unecessarily being marked.
+Bmr005.E.dialogueact686	2107.97	2111.49	E	Professor	fh|s	-1	0	Um , obviously this is very , very time - consuming , and you 're finding lots of things
+Bmr005.E.dialogueact688	2114.56	2118.87	E	Professor	s.%--	-1	0	but in the interests of making progress , uh might I s
+Bmr005.E.dialogueact689	2118.87	2123.71	E	Professor	qw^cs	-1	0	how {disfmarker} how would it affect your time if you only marked speaker overlaps ?
+Bmr005.E.dialogueact692	2125.32	2127.17	E	Professor	s^co	-1	0	Do not mark any other events ,
+Bmr005.E.dialogueact696	2128.25	2130.02	E	Professor	qy	-1	0	Do you think that would speed it up quite a bit ?
+Bmr005.D.dialogueact712	2159.02	2159.32	D	PhD	s^aa^r	-1	0	Yeah sure .
+Bmr005.E.dialogueact713	2159.53	2160.85	E	Professor	s^ba	+1	1	Then I think it 's a good idea .
+Bmr005.E.dialogueact727	2184.27	2186.02	E	Professor	s^ba	-1	0	and it 's a g worthwhile thing to study ,
+Bmr005.E.dialogueact728	2186.32	2189.63	E	Professor	s	-1	0	but obviously it takes a lot of time to mark all of these things .
+Bmr005.E.dialogueact730	2190.06	2197.44	E	Professor	s	-1	0	Whereas th i I would think that uh you {disfmarker} we can study more or less as a distinct phenomenon the overlapping of people talking .
+0	Bmr005.s.13	The group members will continue discussion with other colleagues
+regarding their holding meetings in the recording room.
+12	Bmr005.s.14	One member of the group has previous experience with energy detectors
+using median filters , to help with overlap detection , and will attempt
+to recall his past work in relation to the groups current needs.
+Bmr005.B.dialogueact835	2416.67	2418.55	B	Postdoc	s^t.%-	-1	0	Another thing we discussed was um that {disfmarker}
+Bmr005.B.dialogueact842	2424.36	2431.64	B	Postdoc	s^bu	-1	0	Was that um there m {pause} there was this already a script I believe uh that Dan had written , {comment} that uh handle bleedthrough ,
+Bmr005.B.dialogueact843	2431.64	2437.08	B	Postdoc	fh|s^df	-1	0	I mean cuz you have this {disfmarker} this close {disfmarker} you have contamination from other people who speak loudly .
+Bmr005.G.dialogueact847	2444.06	2445.41	G	Grad	s^e	-1	0	It 's a cross - correlation filter .
+Bmr005.A.dialogueact864	2490.66	2496.51	A	PhD	s	-1	0	You know , I did {disfmarker} I did uh something almost identical to this at one of my previous jobs , and it works pretty well .
+Bmr005.A.dialogueact865	2496.77	2501.94	A	PhD	s	-1	0	I mean , i almost exactly what you described , an energy detector with a median filter , you look for runs .
+Bmr005.A.dialogueact871	2509.04	2516.7	A	PhD	s^cs	-1	0	And so I think doing that to generate these possibilities and then going through and saying yes or no on them would be a quick way to {disfmarker} to do it .
+Bmr005.A.dialogueact877	2523.85	2524.81	A	PhD	s	-1	0	It was when I was working for the government .
+Bmr005.G.dialogueact890	2536.97	2541.09	G	Grad	qw	-1	0	Although if you {disfmarker} if you have some parameters like what 's a good window size for the median filter {disfmarker}
+Bmr005.A.dialogueact891	2542.42	2543.59	A	PhD	h|s^no	-1	0	Oh ! {comment} I have to remember .
+Bmr005.A.dialogueact892	2543.81	2544.54	A	PhD	s^cc	-1	0	I 'll think about it ,
+Bmr005.A.dialogueact893	2544.54	2545.45	A	PhD	s^cc^e	-1	0	and try to remember .
+8	Bmr005.s.15	Another member wishes the group to reconsider the party line that they
+won't do any block echo cancellation.
+Bmr005.E.dialogueact1046	2867.74	2877.22	E	Professor	s^cs	+1	1	I mean , one of the things I wanted to do , uh , that I I talked to {disfmarker} to Don about , is one of the possible things he could do or m also , we could have someone else do it , is to do block echo cancellation ,
+Bmr005.E.dialogueact1049	2877.76	2881.78	E	Professor	s^df	-1	0	to try to get rid of some of the effects of the {disfmarker} the {disfmarker} the far - field effects .
+Bmr005.E.dialogueact1051	2882.31	2889.12	E	Professor	fh|s	-1	0	Um , I mean we have {disfmarker} the party line has been that echo cancellation is not the right way to handle the situation
+Bmr005.E.dialogueact1056	2909.39	2919.38	E	Professor	s	+1	0	and so the tack that we 've taken is more " lets come up with feature approaches and multi - stream approaches and so forth , that will be robust to it for the recognizer and not try to create a clean signal " .
+Bmr005.E.dialogueact1059	2921.37	2925.88	E	Professor	s	-1	0	But it occurred to me a few months ago that uh party lines are always , you know , sort of dangerous .
+Bmr005.E.dialogueact1060	2925.88	2928.42	E	Professor	s^cs	-1	0	It 's good {disfmarker} {vocalsound} good to sort of test them , actually .
+Bmr005.E.dialogueact1061	2928.42	2934.88	E	Professor	s	-1	0	And so we haven't had anybody try to do a good serious job on echo cancellation and we should know how well that can do .
+Bmr005.E.dialogueact1062	2934.95	2945.09	E	Professor	fh|s^cs	+1	1	So that 's something I 'd like somebody to do at some point , just take these digits , take the far - field mike signal , and the close uh mike signal , and apply really good echo cancellation .
+4	Bmr005.s.16	The person responsible for the acoustics on the project will be
+responsible for the digit taks.
+Bmr005.G.dialogueact1022	2819.24	2822.61	G	Grad	s	-1	0	is I have a bunch of scripts to help with the transcription of the digits .
+Bmr005.G.dialogueact1024	2823.09	2826.77	G	Grad	s	-1	0	We don't have to hand - transcribe the digits because we 're reading them and I have those .
+Bmr005.G.dialogueact1031	2840.52	2841.81	G	Grad	qy^rt	-1	0	I mean , is it something of interest ?
+Bmr005.E.dialogueact1033	2842.48	2848.38	E	Professor	fh|s	+1	1	Yeah , whoever we have working on the acoustics for the Meeting Recorder are gonna start with that .

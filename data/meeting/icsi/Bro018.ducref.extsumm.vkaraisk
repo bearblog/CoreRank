@@ -1,0 +1,163 @@
+Well eh you know that I work {disfmarker} I begin to work with a new feature to detect voice - unvoice .
+What I trying two MLP to {disfmarker} to the {disfmarker} with this new feature and the fifteen feature uh from the eh bus base system
+yeah the Aurora system with the new filter , VAD or something like that .
+And I 'm trying two MLP , one one that only have t three output ,
+voice , unvoice , and silence ,
+and other one that have fifty - six output .
+The probabilities of the allophone .
+and only have result with {disfmarker} with the MLP with the three output .
+And , well , the result are li a little bit better , but more or less similar .
+What {disfmarker} what feeds the uh {disfmarker} the three - output net ?
+The inputs are the fifteen {disfmarker} the fifteen uh bases feature .
+And the other three features are R , the variance of the difference between the two spectrum ,
+the variance of the auto - correlation function , except the {disfmarker} the first point , because half the height value is R - zero
+and also R - zero ,
+I mean usually for voiced - unvoiced you 'd do {disfmarker} yeah , you 'd do something {disfmarker} you 'd do energy
+So if it 's {disfmarker} if it 's um {disfmarker} if it 's low energy uh but the {disfmarker} but the spectrum looks like that or like that , it 's probably silence .
+Uh but if it 's low energy and the spectrum looks like that , it 's probably unvoiced .
+Well , I can also th use this .
+if you were to sum up the probabilities for the voiced and for the unvoiced and for the silence here , we 've found in the past you 'll do better at voiced - unvoiced - silence than you do with this one .
+So just having the three output thing doesn't {disfmarker} doesn't really buy you anything .
+The issue is what you feed it .
+And so the kind of thing that {disfmarker} that she was talking about before , was looking at something uh ab um {disfmarker} something uh about the difference between the {disfmarker} the uh um log FFT uh log power uh and the log magnitude uh F F - spectrum uh and the um uh filter bank .
+So the particular measure that she chose was the variance of this m of this difference ,
+but that might not be the right number .
+or maybe there 's something else that {disfmarker} that one could use ,
+uh What about it you skip all the {disfmarker} all the really clever things , and just fed the log magnitude spectrum into this ?
+especially if you do this over multiple frames ?
+but uh in fact , you know maybe just feeding this in or {disfmarker} or feeding both of them in
+How long does it take , Carmen , to train up one of these nets ?
+Mmm , one day or less .
+Fif - fifty - six percent accurate for v voice - unvoice
+But I think that fifty - five was for the {disfmarker} when the output are the fifty - six phone .
+I think that {disfmarker} I {disfmarker} I {disfmarker} I think that for the other one , for the three output , is sixty sixty - two , sixty three more or less .
+That 's pretty bad .
+Yeah , because it 's noise also .
+If you 're getting fifty - six here , try adding together the probabilities of all of the voiced phones here and all of the unvoiced phones
+and see what you get then .
+Given this {disfmarker} this uh regular old net that 's just for choosing for other purposes , uh add up the probabilities of the different subclasses and see {disfmarker} see how well you do .
+Uh and that {disfmarker} you know anything that you do over here should be at least as good as that .
+Oh . So , this is trained on TIMIT .
+Noisy TIMIT .
+and also mmm I {disfmarker} H Hynek last week say that if I have time I can to begin to {disfmarker} to study
+well seriously the France Telecom proposal
+to look at the code
+because maybe that we can have some ideas
+I don't know why they have some constant in the expression of the lower energy .
+So y you 're restricted to being positive .
+And this sort of smooths it for very small energies .
+Uh , why they chose sixty - four and something else , that was probably just experimental .
+Well . I {disfmarker} I will look to try if I move this parameter in their code what happens ,
+Yeah , I was just gonna say maybe it has something to do with hardware ,
+Um , people are less consistent about going to ICASSP
+and I think it 's still {disfmarker} it 's still a reasonable forum for students to {disfmarker} to present things .
+Uh , it 's {disfmarker} I think for engineering students of any kind , I think it 's {disfmarker} it 's if you haven't been there much , it 's good to go to ,
+But I think for {disfmarker} for sort of dyed - in - the - wool speech people , um I think that ICSLP and Eurospeech are much more targeted .
+Wanna talk a little bit about what we were talking about this morning ?
+So . I {disfmarker} I guess some of the progress , I {disfmarker} I 've been getting a {disfmarker} getting my committee members for the quals .
+So i i the idea is if we get good phone recognition results , {vocalsound} using um these set of acoustic events , {vocalsound} then {vocalsound} um that {disfmarker} that says that these acoustic events are g sufficient to cover {vocalsound} a set of phones ,
+and um {vocalsound} {vocalsound} we 're {disfmarker} we 're {disfmarker} we 're {vocalsound} thinking about a way to test the completeness of a {disfmarker} a set of um dynamic uh events .
+And so Morgan and I were uh discussing {vocalsound} um s uh s a form of a cheating experiment {vocalsound} where we get {disfmarker} {vocalsound} um we have uh {vocalsound} um a chosen set of features , or acoustic events ,
+at least found in TIMIT .
+The {disfmarker} the other thing I was suggesting , though , is that given that you 're talking about binary features , uh , maybe the first thing to do is just to count
+and uh count co - occurrences and get probabilities for a discrete HMM
+and that would give you the likelihood of the {disfmarker} of the event given the phone .
+I mean , it 'd be on the simple side ,
+And then the other thing that we were discussing was {disfmarker} was um {vocalsound} OK , how do you get the {disfmarker} your training data .
+So , it seems to me that the only reasonable starting point is uh to automatically translate the uh current TIMIT markings into the markings you want .
+And uh {vocalsound} it won't have the kind of characteristic that you 'd like , of catching funny kind of things that maybe aren't there from these automatic markings ,
+It 's probably a good place to start .
+just to {disfmarker} again , just to see if that information is sufficient to uh determine the phones .
+OK , and you were saying something {disfmarker} starting to say something else about your {disfmarker} your class project , or {disfmarker} ?
+So for my class project I 'm {vocalsound} um {vocalsound} {vocalsound} I 'm tinkering with uh support vector machines ?
+And so I 'm gonna apply that to {vocalsound} um compare it with the results by um King and Taylor who did {vocalsound} um these
+using recurrent neural nets , they recognized {vocalsound} um {vocalsound} a set of phonological features
+and made a mapping from the MFCC 's to these phonological features ,
+So what 's the advantage of support vector machines ?
+and um so if you {disfmarker} if you give it less data it still does a reasonable job {vocalsound} in learning the {disfmarker} the patterns .
+So , {vocalsound} the {disfmarker} the simple idea behind a support vector machine is {vocalsound} um , {vocalsound} you have {disfmarker} you have this feature space ,
+what it {disfmarker} i at the end of the day , what it actually does is {vocalsound} it picks {vocalsound} those examples of the features that are closest to the separating boundary ,
+and remembers those
+So , given these {vocalsound} um these features , or {disfmarker} or these {disfmarker} these examples , {pause} um , {pause} critical examples , {vocalsound} which they call support f support vectors , {vocalsound} then um {vocalsound} given a new example , {vocalsound} if the new example falls {vocalsound} um away from the boundary in one direction then it 's classified as being a part of this particular class
+So rather than doing nearest neighbor where you compare to every single one , you just pick a few critical ones ,
+I it can be a {disfmarker} a reduced um {vocalsound} parameterization of {disfmarker} of the {disfmarker} the model by just keeping {vocalsound} certain selected examples .
+Well , basically , it 's {disfmarker} it 's um {vocalsound} you {disfmarker} you get a distance measure at the end of the day ,
+and then that distance measure is {disfmarker} is um {disfmarker} {vocalsound} is translated to a zero or one .
+Cuz actually Mississippi State people did use support vector machines for uh uh speech recognition and they were using it to estimate probabilities .
+But you have the distances to work with .
+I 'm just doing {vocalsound} detection of phonological features .
+So uh for example , {vocalsound} this {disfmarker} this uh feature set called the uh sound patterns of English {vocalsound} um is just a bunch of {vocalsound} um {vocalsound} binary valued features .
+Did you find any more mistakes in their tables ?
+Uh I haven't gone through the entire table , {pause} yet .
+yesterday I brought Chuck {vocalsound} the table
+and I was like , " wait , this {disfmarker} is {disfmarker} Is the mapping from N to {disfmarker} to this phonological feature called um " coronal " ,
+is {disfmarker} is {disfmarker} should it be {disfmarker} shouldn't it be a one ?
+wh I 'm {disfmarker} what is the task for the class project ?
+um to come up with a mapping from um MFCC 's or s some feature set , {vocalsound} um to {vocalsound} uh w to whether there 's existence of a particular phonological feature .
+but I was gonna ask about the {disfmarker} {vocalsound} the um {vocalsound} changes to the data in comparing PLP and mel cepstrum for the SRI system .
+So we talked on the phone about this , that {disfmarker} that there was still a difference of a {disfmarker} of a few percent
+And I was asking if you were going to do {disfmarker} {vocalsound} redo it uh for PLP with the normalization done as it had been done for the mel cepstrum .
+no I haven't had a chance to do that .
+What I 've been doing is {vocalsound} uh {vocalsound} trying to figure out {disfmarker}
+well it seems like there 's a bug ,
+So what I was working on is um just going through and checking the headers of the wavefiles ,
+to see if maybe there was a um {disfmarker} a certain type of compression or something that was done that my script wasn't catching .
+Looking at all the sampling rates to make sure all the sampling rates were what {disfmarker} eight K , what I was assuming they were ,
+the {disfmarker} I sh think they should be {vocalsound} roughly equivalent ,
+I mean again the Cambridge folk found the PLP actually to be a little better .
+And um his uh {disfmarker} the way that the {disfmarker} {vocalsound} {comment} S R I system looks like it works is that it reads the wavefiles directly ,
+And , so there 's no place where these {disfmarker} where the cepstral files are stored , anywhere that I can go look at and compare to the PLP ones ,
+so whereas with our features , he 's actually storing the cepstrum on disk , and he reads those in .
+so i I {disfmarker} I don't know if that {disfmarker} it probably doesn't mess it up ,
+but {disfmarker} the {disfmarker} the {disfmarker} the two processes that happen are a little different .
+So one thing that I did notice , yesterday I was studying the um {disfmarker} the uh RASTA code
+and it looks like we don't have any way to um control the frequency range that we use in our analysis .
+We basically {disfmarker} it looks to me like we do the FFT , um and then we just take all the bins
+So , the F F T is on everything ,
+but the filters
+for instance , ignore the {disfmarker} the lowest bins and the highest bins .
+So you can specify a different number of filters , and whatever {vocalsound} um uh you specify , the last ones are gonna be ignored .
+So that {disfmarker} that 's a way that you sort of change what the {disfmarker} what the bandwidth is .
+Another thing I was thinking about was um is there a {disfmarker}
+I was wondering if there 's maybe um {vocalsound} certain settings of the parameters when you compute PLP which would basically cause it to output mel cepstrum .
+and compare that directly to {disfmarker}
+what you can do is um you can definitely change the {disfmarker} the filter bank from being uh a uh trapezoidal integration to a {disfmarker} a {disfmarker} a triangular one ,
+which is what the typical mel {disfmarker} mel cepstral uh filter bank does .
+I mean {vocalsound} the fundamental d d difference that we 've seen any kind of difference from before , which is actually an advantage for the P L P i uh , I think , is that the {disfmarker} the smoothing at the end is auto - regressive instead of being cepstral {disfmarker} uh , {comment} from cepstral truncation .
+So um it 's a little more noise robust .
+One of the things that I did notice was that the um log likelihoods coming out of the log recognizer from the PLP data were much lower , much smaller ,
+than for the mel cepstral stuff , and that the average amount of pruning that was happening was therefore a little bit higher for the PLP features .
+So , since he used the same exact pruning thresholds for both , I was wondering if it could be that we 're getting more pruning .
+Oh well that 's {disfmarker} {vocalsound} That 's a pretty good {comment} point right there .
+I would think that you might wanna do something like uh you know , look at a few points to see where you are starting to get significant search errors .
+Well , what I was gonna do is I was gonna take um a couple of the utterances that he had run through ,
+then run them through again
+but modify the pruning threshold and see if it you know , affects the score .
+And the uh the {disfmarker} the run time of the recognizer on the PLP features is longer
+which sort of implies that the networks are bushier ,
+which goes along with the fact that the matches aren't as good .
+There 's lots of little differences .
+That 's {disfmarker} as far as my stuff goes ,
+well I {vocalsound} tried this mean subtraction method .
+And I calculate um {vocalsound} the spectral mean , {vocalsound} of the log magnitude spectrum {pause} over that N .
+I use that to normalize the s the current center frame {vocalsound} by mean subtraction .
+And um {vocalsound} the {disfmarker} I tried that with HDK ,
+the Aurora setup of HDK training on clean TI - digits ,
+um {vocalsound} where I just used the simulated impulse response um {vocalsound} the error rate went from something like eighty it was from something like eighteen percent {vocalsound} to um four percent .
+And on meeting rec recorder far mike digits , mike {disfmarker} on channel F , it went from um {vocalsound} {vocalsound} forty - one percent error to eight percent error .
+Oh um actually um Adam ran the SRI recognizer .
+He did one PZM channel and one PDA channel .
+I think it was about five percent error for the PZM channel .
+So why were you getting forty - one here ?
+Uh , clean TI - digits is , like , pretty pristine {vocalsound} training data ,
+So probably it should be something we should try then is to {disfmarker} is to see if {disfmarker} is {vocalsound} at some point just to take {disfmarker} i to transform the data
+and then {disfmarker} {vocalsound} and then uh use th use it for the SRI system .
+It was {disfmarker} it was getting one percent or something on the near field .
+Actually one percent is sort of {disfmarker} you know , sort of in a reasonable range .
+And uh so the {disfmarker} the four or five percent or something is {disfmarker} is {disfmarker} is quite poor .
+but then you have something like spectral slope , which is you get like R - one ov over R - zero or something like that .
+I don't use that {disfmarker}
+That is like the energy with these three feature ,
+and uh you might get uh something better .
+I think it 's in the uh uh uh the filters .
+and um {vocalsound} it {disfmarker} it helped

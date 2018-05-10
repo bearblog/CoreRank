@@ -1,0 +1,6 @@
+The is a waveform example of room reverberation on the groups website that was used in a presentation.
+It turns out that it is a good example of many things , but not the reverb it is supposed to contain.
+Need to find a better example , maybe by just looking at a closer section of waveform.
+Minor experimenting found that by dropping the self-loop transition in the HMMs by just 0.1% can increase performance by 10% , but the rules of the task forbid this change.
+There is some confusion over what the results produced mean , since it appears they are weighted , which biases improvements in some cases quite heavily.
+Speaker me013 is worried that his groups work on spectral subtraction overlaps with that of OGI , and that it may be time better spent on other tasks.

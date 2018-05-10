@@ -1,0 +1,15 @@
+5	Bmr016.s.1	The Berkeley Meeting Recorder group discussed digits data , recent ASR results , the status of transcriptions , and disk space and storage format issues.
+Bmr016.D.dialogueact66	133.42	136.66	D	Grad	s^t^tc.%--	+1	1	So the other topic with digits is uh ,
+Bmr016.D.dialogueact557	1079.71	1081.83	D	Grad	s^t	+1	2	We have ASR results from Liz ,
+Bmr016.D.dialogueact558	1081.83	1083.14	D	Grad	s^t	+1	1	transcript status from Jane ,
+Bmr016.D.dialogueact559	1083.14	1085.16	D	Grad	s^t	+1	1	and disk space and storage formats from Don .
+Bmr016.D.dialogueact805	1484.21	1486.53	D	Grad	qy^bu^d^rt^t^tc	+1	1	Don , you had disk space and storage formats .
+3	Bmr016.s.2	Approximately two hours of digits have been recorded , half of which have been extracted.
+Bmr016.D.dialogueact28	47.101	48.541	D	Grad	s	+1	2	We have about two hours worth .
+Bmr016.D.dialogueact38	73.96	78.02	D	Grad	s	+1	2	So what that means is we have about an hour of transcribed digits that we can play with .
+Bmr016.F.dialogueact222	455.97	458.49	F	Professor	s^bu	+1	2	And you 're saying two hours , uh , is digits ,
+1	Bmr016.s.3	Researchers doing ASR are looking into methods for generating a better channel-based segmentation to improve recognition results for close-talking microphone data.
+Bmr016.G.dialogueact575	1136.14	1156.13	G	PhD	fh|s	+1	2	um , leads us to believe that doing a better segmentation , like your channel - based segmentation , or some kind of uh , echo cancellation to get basically back down to the individual speaker utterances would be probably all that we would need to be able to do good recognition on the {disfmarker} on the close - talking mikes .
+1	Bmr016.s.4	Transcription checking procedures were reviewed , and efforts to coordinate the channelization and presegmention of data with the tightening of time bins were discussed.
+Bmr016.E.dialogueact1100	1909.72	1917.68	E	Postdoc	fg|s	+1	2	Alright so , first of all , um , there was a {disfmarker} an interest in the transcribe transcription , uh , checking procedures
+0	Bmr016.s.5	The group also talked about downsampling and strategies for coping with low disk space.

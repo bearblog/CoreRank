@@ -1,0 +1,227 @@
+8	ES2014b.JacquelinePalmer.s.1	The Project Manager gave the group new requirements on product features.
+ES2014b.A.dialog-act.s9553330.9	108.64	111.36	A	PM	inf	+1	1	so we've got new project requirements .
+ES2014b.A.dialog-act.s9553330.11	116.2	117.48	A	PM	inf	+1	1	So basically we've got three things ,
+ES2014b.A.dialog-act.s9553330.12	117.48	124.82	A	PM	inf	+1	1	and we've got forty minutes in which to uh {disfmarker} for this meeting to uh to discuss the various options .
+ES2014b.A.dialog-act.s9553330.21	147.4	156.61	A	PM	inf	+1	1	W I I got um {gap} or or three things basically , um relating to the remote being only for T_V_ .
+ES2014b.A.dialog-act.s9553330.22	156.61	159.28	A	PM	inf	+1	1	We discussed that last time
+ES2014b.A.dialog-act.s9553330.25	169.32	172.48	A	PM	inf	+1	1	Um we've got uh teletext outdated .
+ES2014b.A.dialog-act.s9553330.27	177.69	182.11	A	PM	inf	+1	1	Right and the corporate image was the uh final thing .
+ES2014b.A.dialog-act.s9553330.28	182.11	187.32	A	PM	inf	+1	1	So I I got that in email form .
+29	ES2014b.JacquelinePalmer.s.2	The Industrial Designer gave a presentation on the working design of the device.
+ES2014b.B.dialog-act.s9553330.24	339.08	341.89	B	ID	inf	+1	1	Okay I'm gonna be looking at the working design .
+ES2014b.B.dialog-act.s9553330.26	345.95	347.88	B	ID	inf	+1	1	Um I've just got three sections ,
+ES2014b.B.dialog-act.s9553330.27	347.88	353.61	B	ID	inf	+1	1	first is the research I made on the on the remote control itself um .
+ES2014b.B.dialog-act.s9553330.28	353.61	359.7	B	ID	inf	+1	1	And then that involves the components required in it and the systems uh design of the actual the actual remote .
+ES2014b.B.dialog-act.s9553330.29	361.16	373.06	B	ID	inf	+1	2	Um so having researched the existing models within the market , um I found my research off the internet . Um I've established what the components required for the remote control to function , actually are .
+ES2014b.B.dialog-act.s9553330.30	373.06	379.84	B	ID	inf	+1	2	And then also the methods in which these components interact together for the remote to actually do what you want it to do
+ES2014b.B.dialog-act.s9553330.32	382.75	386.72	B	ID	inf	+1	2	Um the basic components are an energy source
+ES2014b.B.dialog-act.s9553330.33	386.72	390.61	B	ID	inf	+1	2	which I guess um in most existing models would be a battery supply .
+ES2014b.B.dialog-act.s9553330.35	396.11	401.46	B	ID	inf	+1	1	We then have the user interface , which is basically the like the the buttons on the actual remote .
+ES2014b.B.dialog-act.s9553330.36	401.46	407.9	B	ID	inf	+1	1	Um the various functions used for changing channel , uh channel up and down , volume , things like that .
+ES2014b.B.dialog-act.s9553330.37	407.9	413.85	B	ID	inf	+1	2	Um there's also a chip inside the remote which does all the computer type things .
+ES2014b.B.dialog-act.s9553330.38	413.85	426.86	B	ID	inf	+1	2	And then the sender , which um is usually , I've found , an infra-red device which sends a signal to the actual television .
+ES2014b.B.dialog-act.s9553330.39	426.86	429.56	B	ID	inf	+1	1	Um and the last part is receiver which is important in the system
+ES2014b.B.dialog-act.s9553330.41	431.03	435.02	B	ID	inf	+1	1	because that's obviously found in the television .
+ES2014b.B.dialog-act.s9553330.43	435.02	438.14	B	ID	inf	+1	1	Um I'm gonna have to actually draw on the board
+ES2014b.B.dialog-act.s9553330.44	438.14	441.04	B	ID	inf	+1	1	because uh it was a little tricky on PowerPoint to get this working ,
+ES2014b.B.dialog-act.s9553330.57	470.79	471.43	B	ID	inf	+1	2	a power supply
+ES2014b.B.dialog-act.s9553330.58	476.44	479.98	B	ID	inf	+1	2	we then have a particular button ,
+ES2014b.B.dialog-act.s9553330.61	481.29	484.19	B	ID	inf	+1	2	{gap} that's obviously there's lots and lots of different buttons .
+ES2014b.B.dialog-act.s9553330.64	488.3	492.06	B	ID	inf	+1	2	after you press that that sends the message to the chip ,
+ES2014b.B.dialog-act.s9553330.67	498.42	503.248	B	ID	inf	+1	2	and then sends the appropriate message to the sender . {vocalsound}
+ES2014b.B.dialog-act.s9553330.70	518.23	519.23	B	ID	inf	+1	2	that's the components of the remote
+ES2014b.B.dialog-act.s9553330.72	520.47	525.05	B	ID	inf	+1	1	So this is the uh user interface .
+ES2014b.B.dialog-act.s9553330.75	537.64	547.33	B	ID	inf	+1	1	And then on the separate thing we have on the on the television we have a a receiver .
+ES2014b.B.dialog-act.s9553330.74	530.72	537.64	B	ID	inf	+1	1	which then {gap} , and that's the that's the infra-red sender .
+ES2014b.B.dialog-act.s9553330.80	565.488	570.45	B	ID	inf	+1	2	{gap} going on to personal preferences , I've said that battery seems the best option for the actual remote ,
+ES2014b.B.dialog-act.s9553330.81	570.45	571.57	B	ID	inf	+1	2	just because of the size .
+ES2014b.B.dialog-act.s9553330.84	578.1	581.58	B	ID	inf	+1	2	and infra-red um has been used quite successfully .
+ES2014b.B.dialog-act.s9553330.83	576.98	578.1	B	ID	inf	+1	2	Um and then the sender ,
+12	ES2014b.JacquelinePalmer.s.3	He presented all the necessary internal components and how they operate together.
+ES2014b.B.dialog-act.s9553330.29	361.16	373.06	B	ID	inf	+1	2	Um so having researched the existing models within the market , um I found my research off the internet . Um I've established what the components required for the remote control to function , actually are .
+ES2014b.B.dialog-act.s9553330.30	373.06	379.84	B	ID	inf	+1	2	And then also the methods in which these components interact together for the remote to actually do what you want it to do
+ES2014b.B.dialog-act.s9553330.32	382.75	386.72	B	ID	inf	+1	2	Um the basic components are an energy source
+ES2014b.B.dialog-act.s9553330.33	386.72	390.61	B	ID	inf	+1	2	which I guess um in most existing models would be a battery supply .
+ES2014b.B.dialog-act.s9553330.37	407.9	413.85	B	ID	inf	+1	2	Um there's also a chip inside the remote which does all the computer type things .
+ES2014b.B.dialog-act.s9553330.38	413.85	426.86	B	ID	inf	+1	2	And then the sender , which um is usually , I've found , an infra-red device which sends a signal to the actual television .
+ES2014b.B.dialog-act.s9553330.57	470.79	471.43	B	ID	inf	+1	2	a power supply
+ES2014b.B.dialog-act.s9553330.58	476.44	479.98	B	ID	inf	+1	2	we then have a particular button ,
+ES2014b.B.dialog-act.s9553330.61	481.29	484.19	B	ID	inf	+1	2	{gap} that's obviously there's lots and lots of different buttons .
+ES2014b.B.dialog-act.s9553330.64	488.3	492.06	B	ID	inf	+1	2	after you press that that sends the message to the chip ,
+ES2014b.B.dialog-act.s9553330.67	498.42	503.248	B	ID	inf	+1	2	and then sends the appropriate message to the sender . {vocalsound}
+ES2014b.B.dialog-act.s9553330.70	518.23	519.23	B	ID	inf	+1	2	that's the components of the remote
+4	ES2014b.JacquelinePalmer.s.4	He gave his preferences on energy sources and senders.
+ES2014b.B.dialog-act.s9553330.80	565.488	570.45	B	ID	inf	+1	2	{gap} going on to personal preferences , I've said that battery seems the best option for the actual remote ,
+ES2014b.B.dialog-act.s9553330.81	570.45	571.57	B	ID	inf	+1	2	just because of the size .
+ES2014b.B.dialog-act.s9553330.84	578.1	581.58	B	ID	inf	+1	2	and infra-red um has been used quite successfully .
+ES2014b.B.dialog-act.s9553330.83	576.98	578.1	B	ID	inf	+1	2	Um and then the sender ,
+15	ES2014b.JacquelinePalmer.s.5	The User Interface Designer presented the necessary functions of the remote , then compared the interfaces of two existing remotes.
+ES2014b.C.dialog-act.s9553330.21	632.7	638.28	C	UI	inf	+1	1	Um . Okay so I'm gonna talk a bit about the technical functions design .
+ES2014b.C.dialog-act.s9553330.24	642.19	651.83	C	UI	inf	+1	1	{vocalsound} Um so the m basic method of this is to send a signal from the remote to the television set , so that a desired function is performed .
+ES2014b.C.dialog-act.s9553330.29	669.78	673.28	C	UI	inf	+1	1	Um here are two example remotes .
+ES2014b.C.dialog-act.s9553330.30	673.28	678.88	C	UI	inf	+1	1	Um by the look of it they both have um kind of play and fast forward , rewind functions ,
+ES2014b.C.dialog-act.s9553330.31	678.88	685.14	C	UI	inf	+1	1	so I think they incorporate a kind of video function which we won't have to worry about .
+ES2014b.C.dialog-act.s9553330.32	685.14	691.39	C	UI	inf	+1	1	Uh but as you can see , the left remote is quite um quite busy looking , quite complicated .
+ES2014b.C.dialog-act.s9553330.33	691.39	695.34	C	UI	inf	+1	1	Um whereas the right remote is much simpler ,
+ES2014b.C.dialog-act.s9553330.34	695.34	697.22	C	UI	inf	+1	1	it looks much more user friendly .
+ES2014b.C.dialog-act.s9553330.35	698.85	702.72	C	UI	inf	+1	1	Um so my personal preference would be the right remote .
+ES2014b.C.dialog-act.s9553330.37	704.28	706.63	C	UI	inf	+1	1	it's got a very limited number of buttons .
+ES2014b.C.dialog-act.s9553330.36	702.72	704.28	C	UI	inf	+1	1	So , {vocalsound} it's got nice big buttons ,
+ES2014b.C.dialog-act.s9553330.40	709.92	720.97	C	UI	inf	+1	1	Um I like the use of the kind of um symbols like the triangles and the squares and the arrows as well as the words on the um kind of play functions and all that .
+ES2014b.C.dialog-act.s9553330.41	720.97	723.08	C	UI	inf	+1	1	So it's very very user friendly ,
+ES2014b.A.dialog-act.s9553330.52	754.21	767.25	A	PM	inf	+1	1	{vocalsound} But uh I got uh I got an email that basically said to uh make sure that uh whatever device we come up with at the end of the day had to incorporate um the corporate colour and slogan .
+ES2014b.A.dialog-act.s9553330.49	730.66	738.69	A	PM	inf	+1	1	Um we have to remember that we have our own um logo and colour scheme .
+23	ES2014b.JacquelinePalmer.s.6	The group discussed making their remote more user-friendly; they proposed eliminating rarely-used buttons and making it easier to skip through channels.
+ES2014b.B.dialog-act.s9553330.91	790.51	794.43	B	ID	el.inf	+1	1	Would you be able to get rid of the the extra buttons here , the the sort of circular section ,
+ES2014b.B.dialog-act.s9553330.92	794.43	796.51	B	ID	inf	+1	1	because that seems to be for a video as well .
+ES2014b.B.dialog-act.s9553330.93	796.51	799.18	B	ID	sug	+1	1	So we could dispense with that little bit as well
+ES2014b.B.dialog-act.s9553330.94	799.18	801.84	B	ID	sug	+1	1	and just get it down to just the numbers and the volume .
+ES2014b.C.dialog-act.s9553330.53	810.1	813.12	C	UI	inf	+1	1	And I don't really think that you need nine numbers .
+ES2014b.C.dialog-act.s9553330.54	813.12	815.19	C	UI	el.inf	+1	1	I mean how often do you use seven , eight and nine ?
+ES2014b.C.dialog-act.s9553330.55	815.19	818.91	C	UI	sug	+1	1	I think just one to six and then channel up and down should be enough .
+ES2014b.A.dialog-act.s9553330.62	821.57	828.15	A	PM	inf	+1	1	Well uh for for general television purposes obviously you have channels one to five at this point in time ,
+ES2014b.A.dialog-act.s9553330.63	828.15	833.91	A	PM	inf	+1	1	and we'd have to have some room for uh future such channels .
+ES2014b.A.dialog-act.s9553330.67	838.84	849.3	A	PM	inf	+1	1	but the the other thing is that with um the current expansion of uh channels uh in the process of taking place , certainly the button up and down ,
+ES2014b.A.dialog-act.s9553330.71	868.54	881.46	A	PM	inf	+1	1	and uh there's uh I don't know exactly how many channels there are on uh when you take into account uh Sky and various other um various others .
+ES2014b.A.dialog-act.s9553330.76	891.09	894.18	A	PM	sug	+1	1	Maybe you could have a fast forward on the on the channels
+ES2014b.C.dialog-act.s9553330.60	902.8	905.76	C	UI	inf	+1	1	Um some remotes have kind of favourite options
+ES2014b.A.dialog-act.s9553330.81	913.94	926.03	A	PM	sug	+1	1	Yeah , I s I suppose in a sense you could have um if you've got a hundred channels then if you had sort of an easy way of getting {disfmarker} rather than having to go one to a hundred , you could go one to one to ten , ten to twenty
+ES2014b.A.dialog-act.s9553330.82	926.03	930.96	A	PM	sug	+1	1	and then have a second button to get you to the actual channel you want
+ES2014b.C.dialog-act.s9553330.64	935.21	938.83	C	UI	inf	+1	1	But I think a lot of um like Cable and Sky and stuff , that would be tuned to one channel ,
+ES2014b.C.dialog-act.s9553330.65	938.83	942.88	C	UI	inf	+1	1	and then you'd have another remote for all of those channels .
+ES2014b.A.dialog-act.s9553330.87	949.76	951.12	A	PM	inf	+1	1	Limit the number of buttons ,
+ES2014b.C.dialog-act.s9553330.68	952.62	954.83	C	UI	ass	+1	1	But I suppose nine's not really excessive .
+ES2014b.A.dialog-act.s9553330.91	964.81	966.94	A	PM	inf	+1	1	you could get fifty by five and a zero or whatever ,
+ES2014b.B.dialog-act.s9553330.117	987.78	988.65	B	ID	el.inf	+1	1	How many buttons have we got ?
+ES2014b.B.dialog-act.s9553330.118	988.65	990.67	B	ID	inf	+1	1	We've just got ten , eleven twelve th
+ES2014b.A.dialog-act.s9553330.98	1000.27	1013.85	A	PM	inf	+1	1	Well we've we've got um that it's remote for T_V_ only otherwise project would become too complex with uh which would endanger the time to market {vocalsound} was one of the considerations .
+17	ES2014b.JacquelinePalmer.s.7	The Marketing Expert discussed user requirements with the group and showed that users wanted a fancier , less complicated remote that would not be easily lost.
+ES2014b.D.dialog-act.s9553330.35	1116.22	1122.88	D	ME	inf	+1	1	we've done some research into the functional requirements that people want out of their remote control .
+ES2014b.D.dialog-act.s9553330.37	1129.22	1131.81	D	ME	el.inf	+1	1	and um how do people use it ?
+ES2014b.D.dialog-act.s9553330.38	1131.81	1134.73	D	ME	inf	+1	1	We asked them sort of which buttons were useful for them .
+ES2014b.D.dialog-act.s9553330.41	1142.59	1148.27	D	ME	inf	+1	1	And we did that by sort of giving them a questionnaire that we'd prepared and asking them to fill in the answers .
+ES2014b.D.dialog-act.s9553330.42	1150.29	1154.06	D	ME	inf	+1	1	And three quarters of them found that remote controls are ugly
+ES2014b.D.dialog-act.s9553330.43	1154.06	1161.21	D	ME	inf	+1	1	and that a sort of even higher proportion would spend more for a sort of s uh a fancier remote control
+ES2014b.D.dialog-act.s9553330.44	1162.92	1176.93	D	ME	inf	+1	1	And that of all the buttons on the remote control , the sort of setting buttons for sort of the picture picture and brightness and the audio settings , um they weren't used very often at all .
+ES2014b.D.dialog-act.s9553330.45	1176.93	1182.52	D	ME	inf	+1	1	People concentrated on the channel buttons and the volume buttons and the power buttons .
+ES2014b.D.dialog-act.s9553330.46	1182.52	1187.61	D	ME	inf	+1	1	Uh we also asked them about speech recognition uh for remote control .
+ES2014b.D.dialog-act.s9553330.47	1187.61	1190.4	D	ME	inf	+1	1	And young people were quite receptive to this ,
+ES2014b.D.dialog-act.s9553330.48	1190.4	1200.93	D	ME	inf	+1	1	but as soon as we got sort of over about into a thirty five to forty age {disfmarker} forty five age group and older , people people weren't quite so keen on speech recognition .
+ES2014b.D.dialog-act.s9553330.49	1200.93	1206.81	D	ME	inf	+1	1	There's a lot more th there's a lot lot more older people who didn't know whether they wanted it or not as well .
+ES2014b.D.dialog-act.s9553330.51	1210.73	1218.55	D	ME	inf	+1	1	and the number one frustration was that the remote was lost somewhere else in the room and that they couldn't find it .
+ES2014b.D.dialog-act.s9553330.52	1218.55	1230.66	D	ME	inf	+1	1	And the second second biggest frustration what that if they got a new remote control , it was difficult to learn um all the buttons and all the functions , and to find your way around it . {vocalsound}
+ES2014b.D.dialog-act.s9553330.54	1233.33	1241.44	D	ME	inf	+1	1	My personal preferences from the marketing is that we need to come up with some {vocalsound} sort of sleek sort of good looking high high-tech {disfmarker}
+ES2014b.D.dialog-act.s9553330.56	1244.63	1249.65	D	ME	inf	+1	1	Um and that we should come up with fewer buttons than most of the controls on the market ,
+ES2014b.D.dialog-act.s9553330.57	1249.65	1258.64	D	ME	inf	+1	1	and we should sort of concentrate on the channels and sort of power , and also volume and that sort of thing , as as Louisa said .
+10	ES2014b.JacquelinePalmer.s.8	He suggested incorporating a menu and an LCD screen to satisfy these requirements.
+ES2014b.D.dialog-act.s9553330.58	1258.64	1266.64	D	ME	sug	+1	1	Um we could maybe come up with a menu , a sort of a an L_C_D_ menu for other functions on the remote control .
+ES2014b.D.dialog-act.s9553330.60	1268.38	1272.09	D	ME	sug	+1	1	Um and maybe we could think about speech recognition as well ,
+ES2014b.D.dialog-act.s9553330.61	1272.09	1281.87	D	ME	inf	+1	1	because um sort of young people are perhaps the ones that are gonna buy buy our new product if we aim it at sort of you know sort of a high-tech design .
+ES2014b.D.dialog-act.s9553330.63	1287.25	1299.63	D	ME	inf	+1	1	And we could maybe think about using speech recogniti recognition as a way to find the remote control if it's lost in a room , rather than sort of um having it to {vocalsound} speech recognition to change the channels .
+ES2014b.D.dialog-act.s9553330.64	1299.63	1302.06	D	ME	inf	+1	1	'Cause there's a problem with that in that the television makes noise ,
+ES2014b.D.dialog-act.s9553330.65	1302.06	1306.38	D	ME	inf	+1	1	so it could end up talking to itself and changing its channel .
+ES2014b.A.dialog-act.s9553330.108	1311.57	1314.85	A	PM	el.inf	+1	1	What was that last wee bit there ?
+ES2014b.D.dialog-act.s9553330.70	1313.4	1316.2	D	ME	inf	+1	1	Um about speech recognition ?
+ES2014b.A.dialog-act.s9553330.110	1316.74	1320.21	A	PM	el.inf	+1	1	But that was only for young people that preferred it , older people didn't .
+ES2014b.B.dialog-act.s9553330.131	1336.52	1343.04	B	ID	inf	+1	1	and they might end up costing more than our twelve fifty budget for for the speech recognition . Um .
+20	ES2014b.JacquelinePalmer.s.9	The group discussed how to incorporate a locator function.
+ES2014b.B.dialog-act.s9553330.132	1344.12	1347.8	B	ID	fra	+1	1	And possibly the thing about the about the remote being lost we could have
+ES2014b.B.dialog-act.s9553330.133	1347.8	1349.73	B	ID	inf	+1	1	{disfmarker} You know with your mobile phone , you lose that and you can ring it .
+ES2014b.B.dialog-act.s9553330.134	1349.73	1354.38	B	ID	sug	+1	1	Maybe we can have some kind of sensor which is kept somewhere where you can {disfmarker} {gap} some kind of buzzer system between the two .
+ES2014b.B.dialog-act.s9553330.135	1354.38	1356.56	B	ID	inf	+1	1	So you can press a button which is always kept in one place
+ES2014b.B.dialog-act.s9553330.136	1356.56	1360.83	B	ID	inf	+1	1	and then it maybe buzzes to somewhere else , wherever the remote actually is .
+ES2014b.D.dialog-act.s9553330.81	1361.22	1364.65	D	ME	inf	+1	1	Yeah , we'd have t that would mean we'd have to put two products together as well ,
+ES2014b.C.dialog-act.s9553330.79	1367.88	1371.01	C	UI	inf	+1	1	There's key rings um that you kind of whistle at or clap at ,
+ES2014b.C.dialog-act.s9553330.81	1372.04	1374.17	C	UI	inf	+1	1	and then they whistle back , or something like that .
+ES2014b.C.dialog-act.s9553330.82	1374.17	1375.28	C	UI	inf	+1	1	That'd probably be really simple ,
+ES2014b.B.dialog-act.s9553330.140	1380.26	1384.57	B	ID	sug	+1	1	or like the same technology could be put inside the inside the remote .
+ES2014b.A.dialog-act.s9553330.116	1383.67	1394.77	A	PM	sug	+1	1	Well if you're trying to avoid having a second product 'cause obviously you could have a second product that gave you the right pitch which would set the remote off to say here I am sort of thing , you know without sound recognition .
+ES2014b.A.dialog-act.s9553330.124	1421.3	1425.77	A	PM	inf	+1	1	I mean obviously if you've got voice recognition then you can do it in that way
+ES2014b.A.dialog-act.s9553330.119	1398.84	1403.43	A	PM	inf	+1	1	Um I was gonna say a sharp noise , you know a clapping of hand or whatever .
+ES2014b.A.dialog-act.s9553330.127	1428.64	1431.57	A	PM	inf	+1	1	a set command whatever that happened to be .
+ES2014b.A.dialog-act.s9553330.126	1427.41	1428.64	A	PM	inf	+1	1	and you can give it a command ,
+ES2014b.A.dialog-act.s9553330.125	1425.77	1427.41	A	PM	inf	+1	1	because it'll recognise the voice
+ES2014b.B.dialog-act.s9553330.144	1435.824	1438.432	B	ID	sug	+1	1	{gap} you could have an option to turn it off . Or {disfmarker}
+ES2014b.B.dialog-act.s9553330.146	1442.35	1446.14	B	ID	inf	+1	1	So that would solve the problems with the T_V_ kind of speaking to the remote and changing its own channels .
+ES2014b.D.dialog-act.s9553330.92	1453.02	1460.08	D	ME	el.inf	+1	1	Um would it take quite a while to sort of develop the speech recognition software in the remote control ?
+ES2014b.A.dialog-act.s9553330.133	1460.24	1462.63	A	PM	inf	+1	1	Well if it does then we can't .
+6	ES2014b.JacquelinePalmer.s.10	The Project Manager reminded the group to limit the number of complicated features due to the project's time constraints.
+ES2014b.A.dialog-act.s9553330.145	1516.01	1523.12	A	PM	inf	+1	2	and it seems to me that the management is uh wanting us to go down a narrow path and not opening out .
+ES2014b.A.dialog-act.s9553330.146	1523.12	1533.67	A	PM	inf	+1	2	So anything that uh is to be added , such as voice recognition et cetera has to be very simple and has to be very quick
+ES2014b.A.dialog-act.s9553330.147	1533.67	1539.9	A	PM	inf	+1	2	because time to market is is critical . S
+ES2014b.A.dialog-act.s9553330.149	1544.74	1551.46	A	PM	inf	+1	2	But probably quick and simple is primary rather than added extras .
+ES2014b.A.dialog-act.s9553330.155	1566.58	1569.76	A	PM	inf	+1	2	Uh d d I think I think first and foremost we've gotta get to the end
+ES2014b.A.dialog-act.s9553330.156	1569.76	1573.03	A	PM	inf	+1	2	and then get to the end with um added extras if possible .
+51	ES2014b.JacquelinePalmer.s.11	The group had a discussion to decide on product features.
+ES2014b.A.dialog-act.s9553330.162	1592.9	1599.01	A	PM	inf	+1	1	But we have to make the decisions on uh the remote control functions
+ES2014b.A.dialog-act.s9553330.163	1600.18	1615.8	A	PM	inf	+1	1	and how we were planning to proceed so that at the next uh meeting each person that's got a a a task to do is clear from this meeting what that task is .
+ES2014b.A.dialog-act.s9553330.190	1753.44	1756.81	A	PM	sug	+1	3	Well , so maybe a clap rather than a whistle would be {disfmarker} {vocalsound}
+ES2014b.A.dialog-act.s9553330.191	1756.81	1765.65	A	PM	inf	+1	3	On the basis that if we've got {disfmarker} if we're catering to the whole age range , you want something that's easy to do ,
+ES2014b.C.dialog-act.s9553330.87	1700.39	1708.85	C	UI	inf	+1	1	Well I think it'd be really easy and it'd be a big advantage if we did have some sort of um kind of whistle back kind of function .
+ES2014b.C.dialog-act.s9553330.91	1720.96	1723.64	C	UI	ass	+1	1	I don't really know about the voice recognition thing .
+ES2014b.D.dialog-act.s9553330.120	1774.52	1775.87	D	ME	inf	+1	3	clapping , I think clapping ,
+ES2014b.C.dialog-act.s9553330.98	1790.56	1793.24	C	UI	el.inf	+1	1	'Kay we've already decided that we don't need a teletext button , haven't we ?
+ES2014b.B.dialog-act.s9553330.166	1804.74	1808.95	B	ID	el.inf	+1	1	Did we decide on having the ten um the ten numbers
+ES2014b.B.dialog-act.s9553330.167	1808.95	1813.4	B	ID	el.inf	+1	3	and then the the little digit next to it which kind of enabled you to put them together .
+ES2014b.D.dialog-act.s9553330.126	1813.69	1819.55	D	ME	inf	+1	2	I think nowadays you can just get ones where it gives you a sort of a second or two to press another number ,
+ES2014b.B.dialog-act.s9553330.170	1827.94	1831.41	B	ID	inf	+1	3	I'll put delay to allow um multiple numbers .
+ES2014b.D.dialog-act.s9553330.132	1848.69	1852.78	D	ME	sug	+1	1	Uh {vocalsound} we could possibly put an L_ {disfmarker} a sort of a L_C_D_ menu in ,
+ES2014b.D.dialog-act.s9553330.133	1852.78	1856.208	D	ME	inf	+1	1	but that again is probably an expense that {disfmarker}
+ES2014b.B.dialog-act.s9553330.177	1858.8	1860.53	B	ID	inf	+1	1	you only have to probably tune in the T_V_ once ,
+ES2014b.B.dialog-act.s9553330.179	1862.84	1866.46	B	ID	inf	+1	1	So and if finally the T_V_ breaks , you get a new one , you're gonna have to be able to tune it .
+ES2014b.A.dialog-act.s9553330.213	1899.02	1904.75	A	PM	inf	+1	1	the the product we've got is something that's at the I would have said the lower end of the s of the cost scale ,
+ES2014b.A.dialog-act.s9553330.214	1904.75	1910.58	A	PM	inf	+1	1	so we're not really going for something that's uh terribly high-tech .
+ES2014b.D.dialog-act.s9553330.142	1918.32	1922.49	D	ME	inf	+1	1	I mean we're maybe talking about replacing remotes for slightly older televisions ,
+ES2014b.D.dialog-act.s9553330.143	1922.49	1927.12	D	ME	sug	+1	1	so we maybe need to keep the the tuning function in . {gap}
+ES2014b.B.dialog-act.s9553330.189	1928.58	1934.78	B	ID	sug	+1	1	Would you maybe have like one menu button , then you'd use the other buttons , maybe the number buttons to actually do the separate functions .
+ES2014b.C.dialog-act.s9553330.111	1938.45	1941.93	C	UI	inf	+1	1	Yeah , 'cause you do need um kind of brightness and contrast and everything as well .
+ES2014b.C.dialog-act.s9553330.115	1994.95	2003.32	C	UI	el.inf	+1	2	Well , if we're trying to keep it slee sleek and sexy as well , have you seen those remotes where kind of um the bottom bit slides down , so there's kind of um everything else revealed ?
+ES2014b.C.dialog-act.s9553330.116	2003.32	2004.36	C	UI	inf	+1	2	So you don't use it that much ,
+ES2014b.B.dialog-act.s9553330.202	2006.72	2008.62	B	ID	ass	+1	2	That is that is a good idea actually .
+ES2014b.A.dialog-act.s9553330.226	2020.21	2031.57	A	PM	inf	+1	3	So so keep um keep detailed functions um hidden at the back .
+ES2014b.C.dialog-act.s9553330.121	2032.75	2034.74	C	UI	inf	+1	2	And that'll be better for the older generation as well
+ES2014b.B.dialog-act.s9553330.208	2044.02	2049.63	B	ID	inf	+1	2	So um {vocalsound} we're gonna have to have to work out what's gonna be on these other functions as as well .
+ES2014b.D.dialog-act.s9553330.162	2058.63	2062.84	D	ME	inf	+1	3	The detailed ones would be sort of brightness ,
+ES2014b.A.dialog-act.s9553330.238	2076.54	2078.66	A	PM	el.inf	+1	2	So on front ,
+ES2014b.B.dialog-act.s9553330.213	2078.592	2080.37	B	ID	inf	+1	2	{gap} about the number {gap} .
+ES2014b.B.dialog-act.s9553330.214	2083.87	2086.08	B	ID	inf	+1	2	Um the volume up and down .
+ES2014b.B.dialog-act.s9553330.216	2090.15	2091.12	B	ID	sug	+1	2	A mute button as well .
+ES2014b.D.dialog-act.s9553330.167	2095.34	2098.03	D	ME	inf	+1	2	And probably a power one as well .
+ES2014b.A.dialog-act.s9553330.244	2127.84	2132.79	A	PM	el.inf	+1	2	{vocalsound} So so are you having the stand-by on the front , then ?
+ES2014b.B.dialog-act.s9553330.223	2139.08	2141.85	B	ID	el.inf	+1	2	Um are we gonna have the channel up and down as well as the number buttons ?
+ES2014b.D.dialog-act.s9553330.175	2142.32	2149.21	D	ME	inf	+1	2	Um 'cause yeah the market research said there is quite a lot of people do just zap around and flick , so .
+ES2014b.B.dialog-act.s9553330.224	2152.48	2156.22	B	ID	inf	+1	1	So we've got ten eleven twelve thirteen fourteen fifteen sixteen there ?
+ES2014b.D.dialog-act.s9553330.177	2160.66	2161.67	D	ME	inf	+1	2	Numbers is ten ,
+ES2014b.D.dialog-act.s9553330.178	2161.67	2164.8	D	ME	inf	+1	2	volume is twelve ,
+ES2014b.D.dialog-act.s9553330.181	2173.1	2173.95	D	ME	inf	+1	2	And a mute , yeah .
+ES2014b.A.dialog-act.s9553330.256	2190.02	2191.62	A	PM	el.inf	+1	3	And then at the back ?
+ES2014b.D.dialog-act.s9553330.184	2192.92	2197.01	D	ME	inf	+1	3	You've got brightness and contrast .
+ES2014b.B.dialog-act.s9553330.229	2198.31	2204.74	B	ID	sug	+1	2	Maybe if we're gonna run out of time , one of us should come up with a list of these and then get back at the next meeting just at the start and say what they're gonna be .
+ES2014b.C.dialog-act.s9553330.145	2212.12	2213.88	C	UI	inf	+1	3	Uh there's audio functions .
+ES2014b.A.dialog-act.s9553330.260	2212.19	2215.49	A	PM	inf	+1	3	You're also gonna have the channel tuner {gap} , as it were .
+ES2014b.D.dialog-act.s9553330.188	2228.79	2238.23	D	ME	sug	+1	3	And then maybe sort of an enter button for sort of s you know , saying that you want that particular thing tuned in .
+ES2014b.C.dialog-act.s9553330.149	2257.39	2264.09	C	UI	inf	+1	1	So I think um there's quite a lot of like Dolby surround studio , surround sort of things .
+ES2014b.B.dialog-act.s9553330.240	2264.83	2268.86	B	ID	el.inf	+1	1	Do they have their own {disfmarker} do they have their own controls on their actual products , then ,
+ES2014b.C.dialog-act.s9553330.151	2271.7	2275.37	C	UI	inf	+1	1	Um I think they've got their own controls in this kind of like hidden panel .
+ES2014b.B.dialog-act.s9553330.242	2275.43	2279.21	B	ID	inf	+1	1	Yeah I suppose if we've got their {disfmarker} if they've got their own controls then we can avoid it for ours just to keep it simple .
+6	ES2014b.JacquelinePalmer.s.12	They decided to include a clapping locator function and a device that allows the user to enter two numbers separately to get a two-digit number.
+ES2014b.A.dialog-act.s9553330.190	1753.44	1756.81	A	PM	sug	+1	3	Well , so maybe a clap rather than a whistle would be {disfmarker} {vocalsound}
+ES2014b.A.dialog-act.s9553330.191	1756.81	1765.65	A	PM	inf	+1	3	On the basis that if we've got {disfmarker} if we're catering to the whole age range , you want something that's easy to do ,
+ES2014b.D.dialog-act.s9553330.120	1774.52	1775.87	D	ME	inf	+1	3	clapping , I think clapping ,
+ES2014b.B.dialog-act.s9553330.167	1808.95	1813.4	B	ID	el.inf	+1	3	and then the the little digit next to it which kind of enabled you to put them together .
+ES2014b.D.dialog-act.s9553330.126	1813.69	1819.55	D	ME	inf	+1	2	I think nowadays you can just get ones where it gives you a sort of a second or two to press another number ,
+ES2014b.B.dialog-act.s9553330.170	1827.94	1831.41	B	ID	inf	+1	3	I'll put delay to allow um multiple numbers .
+13	ES2014b.JacquelinePalmer.s.13	Complicated functions will be hidden in a back panel.
+ES2014b.C.dialog-act.s9553330.115	1994.95	2003.32	C	UI	el.inf	+1	2	Well , if we're trying to keep it slee sleek and sexy as well , have you seen those remotes where kind of um the bottom bit slides down , so there's kind of um everything else revealed ?
+ES2014b.C.dialog-act.s9553330.116	2003.32	2004.36	C	UI	inf	+1	2	So you don't use it that much ,
+ES2014b.B.dialog-act.s9553330.202	2006.72	2008.62	B	ID	ass	+1	2	That is that is a good idea actually .
+ES2014b.A.dialog-act.s9553330.226	2020.21	2031.57	A	PM	inf	+1	3	So so keep um keep detailed functions um hidden at the back .
+ES2014b.C.dialog-act.s9553330.121	2032.75	2034.74	C	UI	inf	+1	2	And that'll be better for the older generation as well
+ES2014b.B.dialog-act.s9553330.208	2044.02	2049.63	B	ID	inf	+1	2	So um {vocalsound} we're gonna have to have to work out what's gonna be on these other functions as as well .
+ES2014b.D.dialog-act.s9553330.162	2058.63	2062.84	D	ME	inf	+1	3	The detailed ones would be sort of brightness ,
+ES2014b.A.dialog-act.s9553330.256	2190.02	2191.62	A	PM	el.inf	+1	3	And then at the back ?
+ES2014b.D.dialog-act.s9553330.184	2192.92	2197.01	D	ME	inf	+1	3	You've got brightness and contrast .
+ES2014b.B.dialog-act.s9553330.229	2198.31	2204.74	B	ID	sug	+1	2	Maybe if we're gonna run out of time , one of us should come up with a list of these and then get back at the next meeting just at the start and say what they're gonna be .
+ES2014b.C.dialog-act.s9553330.145	2212.12	2213.88	C	UI	inf	+1	3	Uh there's audio functions .
+ES2014b.A.dialog-act.s9553330.260	2212.19	2215.49	A	PM	inf	+1	3	You're also gonna have the channel tuner {gap} , as it were .
+ES2014b.D.dialog-act.s9553330.188	2228.79	2238.23	D	ME	sug	+1	3	And then maybe sort of an enter button for sort of s you know , saying that you want that particular thing tuned in .

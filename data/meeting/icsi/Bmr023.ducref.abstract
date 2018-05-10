@@ -1,0 +1,7 @@
+The Berkley Meeting Recorder project is well underway , and this meeting discusses the progress and ongoing issues.
+A pressing concern for the group is the DARPA meeting in July , which is only a short time away , and for which they would like to have some progress.
+Specifically , the group would like to have transcripts available , which would mean resolving legal issues for data use and on the basis of feedback from IBM get more transcription underway.
+Additionally they would also like to have the question answering mock-up and transcriber interface ready for then.
+PLP results for the front-end look good , with the group also reporting progress in segmentation: Thilo's segmenter will now be used and ways of improving performance investigated;
+The classifier segmentation is progressing well , especially in the use of prosody for identifying interruption.
+Work on the front end continues , with improvements of 3-5% being made.

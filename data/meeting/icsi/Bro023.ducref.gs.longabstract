@@ -1,0 +1,15 @@
+The ICSI Meeting Recorder Group of Berkeley met for the first time in two weeks.
+Group members reported their progress in the areas of spectral subtraction , Wiener filtering and noise estimation.
+They also discusses topics relating to the rules and preferences of the project they are working on , including single vs multiple passes.
+A number of the group also took time to explain the basics of their approaches to the group.
+There are hopes that a visitor coming for three weeks , may lead to a longer term collaboration.
+The visitor works on spectral subtraction , so speaker me026 will make sure he talks to him.
+Speaker mn007 agreed , at me013's suggestion , to try his noise compensation scheme in compensation with the prior work on spectral subtraction.
+In implementing smoothing to the spectral subtraction , latency has been increased; while some feel this is nothing to worry about , others feel it is better to worry now , in case it turns out to be something to worry about.
+Speaker me026 has been experimenting with spectral subtraction using different data window sizes.
+One possible idea is to use increasing windows as more data becomes available.
+Speaker mn049 has been working on Wiener filtering , and testing with just the base system provides 30% improvement.
+Using a second stage of filtering led to even more improvement.
+Speaker mn007 is working on spectral subtraction , still with minimal results.
+Smoothing seems to help , and implementing alongside the neural net should also be positive.
+He has also been working on noise estimation with an energy minima approach that does not require the voice activity detector.

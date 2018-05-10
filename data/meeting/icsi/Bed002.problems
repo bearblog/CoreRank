@@ -1,0 +1,34 @@
+4	Bed002.s.19	Curent navigation systems do not provide for the user's particular intentions when asking for directions.
+Bed002.B.dialogueact239	803.736	806.506	B	Grad	s	+1	1	the street network of our geographic information system .
+Bed002.B.dialogueact533	1693.74	1695.75	B	Grad	s.%--	+1	1	A lot of parsers , um ,
+Bed002.B.dialogueact535	1698.74	1701.59	B	Grad	s	+1	2	That 's way beyond their scope , is {disfmarker} of interpreting that .
+Bed002.B.dialogueact551	1733.5	1740.92	B	Grad	s^df	+1	1	Because i we can not differentiate , at the moment , between , you know , the intention of wanting to go there or the intention of just know wanting to know where {disfmarker} where it is .
+1	Bed002.s.20	They always compute the shortest path between source and destination.
+Bed002.B.dialogueact242	815.49	818.55	B	Grad	s	+1	1	It would always use the closest point to the object ,
+4	Bed002.s.21	The SmartKom parser , for example , does not mark up data with features adequate for the inference of these intentions.
+Bed002.B.dialogueact333	1105.2	1111.11	B	Grad	s	+1	1	What we do know , is that the parser we use in the SmartKom system will never differentiate between any of these .
+Bed002.B.dialogueact340	1123.06	1128.46	B	Grad	s	+1	1	So it 's {disfmarker} it 's {disfmarker} it 's way too crude to d capture those differences in intentions .
+Bed002.C.dialogueact472	1565.89	1568.88	C	Professor	s	+1	1	What he was saying is , the M - three - L does not have any of that .
+Bed002.B.dialogueact535	1698.74	1701.59	B	Grad	s	+1	2	That 's way beyond their scope , is {disfmarker} of interpreting that .
+7	Bed002.s.22	Although it is understandable that language , discourse and situation features will play a role in how they are weighed , the exact nature of those features is unclear.
+Bed002.C.dialogueact387	1309.35	1310.64	C	Professor	s	+1	2	there 's gonna be contextual things ,
+Bed002.C.dialogueact388	1310.64	1311.84	C	Professor	s	+1	2	there 're gonna be linguistic things ,
+Bed002.C.dialogueact389	1311.84	1313.14	C	Professor	s	+1	2	there 're gonna be discourse things ,
+Bed002.C.dialogueact413	1387.78	1390.81	C	Professor	qh	+1	2	is , uh , one , where do you get this i {comment} information from ,
+Bed002.C.dialogueact615	1907.8	1912.14	C	Professor	s	+1	1	But if we can't do that , then we 're in trouble .
+Bed002.C.dialogueact624	1939.4	1943.83	C	Professor	qh	+1	1	The real issue is , do what are the factors involved in determining this ?
+Bed002.C.dialogueact968	2685.97	2690.51	C	Professor	qh	+1	3	The issue is , can we find a way to , basically , featurize it
+2	Bed002.s.23	Also hard to evaluate at this stage , is how the assumed features will combine in a belief-net , in order to provide the conditional probabilities of the users' intentions.
+Bed002.C.dialogueact414	1390.81	1392.34	C	Professor	qh	+1	1	and two , what 's the structure of the belief - net ?
+Bed002.C.dialogueact969	2690.91	2706.28	C	Professor	s	+1	1	so that we get some discrete number of features so that , uh , when we know the values to all those features , or as many as possible , we can w come up with the best estimate of which of the , in this case three little intentions , are most likely .
+2	Bed002.s.24	Even if these problems are solved , extracting the features from the data may prove to be a bottleneck.
+Bed002.C.dialogueact612	1894.63	1900.85	C	Professor	s	+1	3	If that goes well , then we can start worrying about how we would extract them .
+Bed002.C.dialogueact1017	2808.11	2818.03	C	Professor	s	+1	3	and then in the longer run , you would figure out how you could derive them . From previous discourse or w any anything else you knew .
+4	Bed002.s.25	The existing data are appropriate only for preliminary work , as they don't include intention-related information.
+Bed002.B.dialogueact664	2005.23	2006.29	B	Grad	s^nd	+1	1	Not from that data .
+Bed002.B.dialogueact749	2188.47	2194.4	B	Grad	s^df	+1	1	But {disfmarker} It was never th th the goal of that data collection to {disfmarker} to serve for sat for such a purpose .
+Bed002.B.dialogueact750	2194.4	2198.53	B	Grad	s	+1	1	So that 's why for example the tasks were not differentiated by intentionality ,
+Bed002.C.dialogueact1250	3532.2	3546.42	C	Professor	s	+1	1	Uh , what one hopes is that when we understand how the analyzer works , we can both worry about converting it to English and worry about how it could ex extract the parameters we need for the belief - net .
+2	Bed002.s.26	On the other hand , the details of the experiments that will have to be designed to get more appropriate data are not clearcut and are yet to be settled.
+Bed002.C.dialogueact904	2533.14	2538.19	C	Professor	s	+1	1	So . Uh , we {disfmarker} we have to have this discussion of th the experiment , and the data collection , and all that sorta stuff
+Bed002.C.dialogueact959	2656.44	2658.0	C	Professor	s	+1	1	So , we that 's part of what we 'll have to figure out .

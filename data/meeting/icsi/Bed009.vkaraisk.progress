@@ -1,0 +1,17 @@
+0	Bed009.s.27	The translation of the TV and cinema listings system to english is almost complete.
+3	Bed009.s.28	The code of the recogniser-to-parser interface has already been written and variations on the lattices are currently being tested.
+Bed009.B.dialogueact54	254.04	260.997	B	Grad	s^rt	+1	1	and just gonna say we have um again the recognizer to parser thing where we 're working on
+Bed009.B.dialogueact52	247.59	251.07	B	Grad	s^rt	-1	0	and some lines of code were already written today
+Bed009.B.dialogueact92	412.79	414.66	B	Grad	s	-1	0	They are thinning out and thickening out lattices
+3	Bed009.s.29	As for the enhanced knowledge modeler , there is already a belief-net , most of whose features from the user and the situation model that influence the user's intentions have been identified.
+Bed009.B.dialogueact224	782.45	789.65	B	Grad	s	-1	0	And we are constructing {disfmarker} and then we 've identified more or less the extra - linguistic parameters that may f play a role .
+Bed009.B.dialogueact225	789.95	793.23	B	Grad	s	-1	0	Information related to the user and information related to the situation .
+Bed009.F.dialogueact315	1065.31	1066.9	F	Professor	s	-1	0	and the things that influence them .
+3	Bed009.s.30	Further linguistic factors can be found in the utterance; some of them will emerge from the data collection , which is underway.
+Bed009.B.dialogueact166	609.66	611.83	B	Grad	s	+1	1	well for one thing we 're also using this room to collect data .
+Bed009.B.dialogueact226	794.13	799.19	B	Grad	s.%--	-1	0	And we also want to look closely on the linguistic information that
+Bed009.B.dialogueact227	799.44	800.73	B	Grad	s	-1	0	what we can get from the utterance .
+1	Bed009.s.31	One of the possible outputs of the knowledge modeler will be towards the dialogue manager , viewed as a state transition network.
+Bed009.A.dialogueact290	985.2	987.86	A	PhD	s	-1	0	And then it would be available to action planning and {disfmarker} and others .
+1	Bed009.s.32	XML schemas coding these networks are currently being created.
+Bed009.A.dialogueact356	1199.47	1212.08	A	PhD	s	+1	1	And they 're currently um Agreeing or {disfmarker} or in the process of agreeing on an X M L - ification of um something like a state - transition network of how dialogues would proceed .

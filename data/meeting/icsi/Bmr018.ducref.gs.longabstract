@@ -1,0 +1,26 @@
+The Berkeley Meeting Recorder group discussed the preparation of a data sample for IBM , the manual adjustment of time bins by transcribers , recognition results for a test set of digits data , and forced alignments.
+Participants also talked about Eurospeech 2001 submissions , and exchanged comments on the proceedings of the recently attended Human Language Technologies conference ( HLT'01 ).
+Preliminary recognition results were presented for a subset of digits data.
+Efforts to deal with cross-talk and improve forced alignments for non-digits data were also discussed.
+Subsequent manual adjustment of speech and non-speech boundaries will be delegated to the transcriber pool.
+A subset of Meeting Recorder data will be prepared ( i.e . pre-segmented and manually adjusted ) for delivery to IBM.
+The Transcriber interface may require modifications if it becomes necessary for transcribers to quickly switch among waveform displays.
+Transcribers risk overlooking speech that is deeply embedded in the mixed signal.
+Should transcriptions be derived from each of the close-talking channels or from the mixed signal alone?
+The pre-segmentation tool does not perform well on short utterances , e.g . backchannels.
+The Transcriber interface does not allow the user to quickly switch among visual displays , i.e . multi-channel waveforms.
+Forced alignments were problematic for non-digits data due to cross-talk.
+This problem was reported to be particularly bad for cross-talk featuring more than one word.
+Echo cancellation was considered as a means of improving forced alignments , but was ultimately deemed to be too time-consuming given the dynamic aspect of adapting distances between speakers.
+Comparing error rates in terms of the recording device used , i.e . lapel versus wireless microphones , is tedious.
+Deleting segments of the recordings is expected to be very time-consuming for transcribers.
+More results are needed for generating adequate submissions for Eurospeech'01.
+Participants have complained that the head-mounted microphone is uncomfortable.
+One meeting recording has been channelized and pre-segmented for delivery to IBM.
+A sample of digits data is being prepared for IBM.
+Preliminary recognition results were obtained for a subset of digits data.
+The error rate distribution was multimodal , reflecting differences in performance for native versus non-native speakers , and also possible pre-processing errors.
+Future efforts will involve an attempt to get good forced alignments on digits data and generate a report for Eurospeech'01.
+A program has been developed for replacing sections of recorded speech with editing bleeps.
+The tightening of time bins for one NSA meeting was checked and judged to be highly accurate.
+Efforts are ongoing to improve forced alignments for a subset of non-digits data , including acoustic adaptation manipulations.
