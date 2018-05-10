@@ -4,7 +4,7 @@ copy human-written abstract to rouge2.0-distribution/test-summarization/referenc
 import os
 import re
 import shutil
-path_to_root = '/home/gshang/Code/takahe/'
+path_to_root = '/data/gshang/acl2018_abssumm/'
 os.chdir(path_to_root)
 
 import string

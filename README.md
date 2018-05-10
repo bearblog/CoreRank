@@ -1,73 +1,20 @@
-### Files
+Download `GoogleNews-vectors-negative300.bin.gz` and [`en-70k-0.2.lm`](https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/US%20English/) under `resources` folder.
+
+### create utterance communities
 ```
-.
-├── test_batch.py        # main script for systems: tixier, filippova, boudin and mehdad
-├── baseline             # scripts for baselines
-│   ├── longest_greedy.py
-│   ├── random.py
-│   └── textrank.py
-├── data
-│   ├── document         # original dataset
-│   ├── meeting          # original dataset
-│   ├── community        # sentence communities / output of create_community.py
-│   ├── community_tagged # tagged sentence communities / output of tagging_community.py
-│   ├── create_community.py
-│   ├── tagging_community.py
-├── results              # results of systems for development/test dataset
-├── rouge2.0-distribution
-│   ├── copy_ami_icsi_reference.py
-│   ├── plot_results.py
-├── mapping              # extractive-abstractive summerazation mapping
+ipython data/utteance_community_detection.py
 ```
 
-### Create sentence communities
-1.Create sentence communities with original datasets
+### parameter tuning on development set:
 ```
-ipython data/create_community.py
-```
-
-2.Tokenize and tagging sentence communities
-```
-ipython data/tagging_community.py
+ipython multi_sentence_compression_multiprocessing.py
+ipython rouge2.0-distribution/copy_ami_icsi_reference.py
+ipython budgeted_submodular_maximization_multiprocessing.py
 ```
 
-### Run systems:
-1.Change variables: domain/dataset_id/development_or_test
+### evaluation with the best combination of parameters on test set:
 ```
-domain = 'meeting'  # meeting / document
-dataset_id = 'ami'  # ami, icsi / duc2001
-language = 'en'
-development_or_test = 'development'  # development / test
-```
-
-2.Run
-```
-ipython test_batch.py
-ipython baseline/random.py
-ipython baseline/longestGreedy.py
-ipython baseline/textrank.py
-```
-
-### Test and plot results
-1.Copy references for ROUGE
-```
-For ami/icsi
-ipython copy_ami_icsi_reference.py
-For duc2001
-cp data/document/duc2001/reference/* rouge2.0-distribution/test-summarization/reference/
-```
-
-2.Copy output of systems for ROUGE :
-```
-cp results/meeting/ami/development/boudin/*  rouge2.0-distribution/test-summarization/system/
-```
-
-3.Run ROUGE jar
-```
-java -jar rouge2.0.jar
-```
-
-4.Plot
-```
-ipython plot_results.py
+ipython multi_sentence_compression_single.py
+ipython rouge2.0-distribution/copy_ami_icsi_reference.py
+ipython budgeted_submodular_maximization_single.py
 ```
