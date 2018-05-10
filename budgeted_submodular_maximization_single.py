@@ -1,5 +1,20 @@
+"""
+Budgeted Submodular Maximization (BSM) （for test with a sigle combination of parameters）
+
+input (full summary):
+results/meeting/ami/test/tixier/[MSC parameter id]/ES2004a_tixier.txt
+
+output (summaries with varies budgets):
+/tmp/takahe/rouge2.0-distribution_tixier_6_13_152/test-summarization/system/ES2004a_tixier-50.txt
+
+output (grid search csv):
+results/params_submodularity.csv
+
+output (ROUGE score)
+tixier_evaluation.csv
+"""
 import os
-path_to_root = '/data/gshang/openpaas_next_gen/'
+path_to_root = '/data/gshang/acl2018_abssumm/'
 os.chdir(path_to_root)
 import time
 import csv
@@ -103,7 +118,7 @@ def worker(idx, submodularity_param):
 domain = 'meeting'  # meeting
 dataset_id = 'ami'  # ami, icsi
 language = 'en'     # en, fr
-development_or_test = 'development'  # development / test
+development_or_test = 'test'  # development / test
 
 # #########################
 # ### RESOURCES LOADING ###
@@ -206,7 +221,7 @@ for system_name in system_name_list:
 # ###############################################
 # ### LOOP OVER COMMUNITY CREATION PARAMETERS ###
 # ###############################################
-corpus_id_range = range(0, 36)
+corpus_id_range = range(0, 9)
 
 for corpus_id in corpus_id_range:
     start = time.time()
@@ -226,35 +241,31 @@ for corpus_id in corpus_id_range:
             print "\tMSC_param_id:", MSC_param_id
 
             # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-            # only run on best parameter found in first two parameter tuning steps
-            if dataset_id == 'ami':
-                if system_name == 'filippova':
-                    if corpus_id == 0 and MSC_param_id == 3:
-                        submodularity_params_single = [submodularity_params[37]]
-                        pass
-                    else:
-                        continue
-                elif system_name == 'boudin':
-                    if corpus_id == 6 and MSC_param_id == 0:
-                        submodularity_params_single = [submodularity_params[220]]
-                        pass
-                    else:
-                        continue
-                elif system_name == 'mehdad':
-                    if corpus_id == 0 and MSC_param_id == 0:
-                        submodularity_params_single = [submodularity_params[37]]
-                        pass
-                    else:
-                        continue
-                elif system_name == 'tixier':
-                    if corpus_id == 6 and MSC_param_id == 6:
-                        submodularity_params_single = [submodularity_params[121]]
-                        pass
-                    else:
-                        continue
-
-            elif dataset_id == 'icsi':
-                pass
+            # only run on best parameter found in UCD, MSC, BSM steps
+            if system_name == 'filippova':
+                if corpus_id == 0 and MSC_param_id == 3:
+                    submodularity_params_single = [submodularity_params[37]]
+                    pass
+                else:
+                    continue
+            elif system_name == 'boudin':
+                if corpus_id == 6 and MSC_param_id == 0:
+                    submodularity_params_single = [submodularity_params[220]]
+                    pass
+                else:
+                    continue
+            elif system_name == 'mehdad':
+                if corpus_id == 0 and MSC_param_id == 0:
+                    submodularity_params_single = [submodularity_params[37]]
+                    pass
+                else:
+                    continue
+            elif system_name == 'tixier':
+                if corpus_id == 6 and MSC_param_id == 6:
+                    submodularity_params_single = [submodularity_params[121]]
+                    pass
+                else:
+                    continue
             # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
             # remove_stopwords     = True if MSC_system_params_dict[system_name][str(MSC_param_id)]['remove_stopwords'] == 'True' else False
@@ -279,7 +290,7 @@ for corpus_id in corpus_id_range:
             kmeans_clusters_dict_of_meeting = {}
 
             for meeting_id in ids:
-                path = path_to_root + 'utterance/' + domain + '/' + dataset_id + '_' + str(corpus_id) + '/' +\
+                path = path_to_root + 'data/utterance/' + domain + '/' + dataset_id + '_' + str(corpus_id) + '/' +\
                        meeting_id + '_utterances.txt'
                 with open(path, 'r+') as f:
                     utterances = f.read().splitlines()

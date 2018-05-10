@@ -1,5 +1,17 @@
+"""
+Budgeted Submodular Maximization (BSM) （for parameter grid search）
+
+input (full summary):
+results/meeting/ami/development/tixier/[MSC parameter id]/ES2004a_tixier.txt
+
+output (grid search csv):
+results/params_submodularity.csv
+
+output (ROUGE score)
+tixier_evaluation.csv
+"""
 import os
-path_to_root = '/data/gshang/openpaas_next_gen/'
+path_to_root = '/data/gshang/acl2018_abssumm/'
 os.chdir(path_to_root)
 import time
 import csv
@@ -207,7 +219,7 @@ for system_name in system_name_list:
 # ###############################################
 # ### LOOP OVER COMMUNITY CREATION PARAMETERS ###
 # ###############################################
-corpus_id_range = range(0, 36)
+corpus_id_range = range(0, 9)
 
 for corpus_id in corpus_id_range:
     start = time.time()
@@ -248,7 +260,7 @@ for corpus_id in corpus_id_range:
             kmeans_clusters_dict_of_meeting = {}
 
             for meeting_id in ids:
-                path = path_to_root + 'utterance/' + domain + '/' + dataset_id + '_' + str(corpus_id) + '/' +\
+                path = path_to_root + 'data/utterance/' + domain + '/' + dataset_id + '_' + str(corpus_id) + '/' +\
                        meeting_id + '_utterances.txt'
                 with open(path, 'r+') as f:
                     utterances = f.read().splitlines()

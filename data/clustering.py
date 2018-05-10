@@ -25,7 +25,6 @@ def cluster_utterances(
         feature,
         ngram_range,
         extra_features,
-        max_elt,
         lsa,
         lsa_n_components,
         twidf_window_size,
@@ -206,49 +205,3 @@ def cluster_utterances(
                 for i in range(len(idx[speaker])):
                     membership[idx[speaker][i]] = memberships[speaker][i]
     return membership
-
-    # ################################
-    # ### BIG COMMUNITIES BREAKING ###
-    # ################################
-    #
-    # # get the IDs of the comms with more than 'max_elt' elements
-    # big_comms_ids = [k for k, v in c.iteritems() if v > max_elt]
-    #
-    # n_comm_split_total = 0
-    #
-    # while big_comms_ids:
-    #
-    #     max_c_idx = max(c.keys())
-    #
-    #     # iterate through the big comms
-    #     for id in big_comms_ids:
-    #         # get idx of the utterances belonging to the big comm
-    #         idxs = [idx for idx, label in enumerate(membership) if label == id]
-    #
-    #         # collect corresponding utterances
-    #         utt_tuple_comm = [tuple for idx, tuple in enumerate(utt_tuples) if idx in idxs]
-    #
-    #         # decide into how many pieces the big comm should be clustered
-    #         n_comm_split = int(math.ceil(len(idxs) / float(max_elt)))
-    #         n_comm_split_total += n_comm_split
-    #         print 'splitting into', n_comm_split, 'pieces'
-    #
-    #         tdm_comm = tfidf_vectorizer.fit_transform([elt[1] for elt in utt_tuple_comm])
-    #
-    #         #tdm_comm = lsa.fit_transform(tdm_comm)
-    #
-    #         membership_comm = KMeans(n_clusters=n_comm_split, random_state=0, n_init=50).fit_predict(tdm_comm)
-    #
-    #         # make sure not to use already existing comm labels
-    #         to_add_mbshp = [elt + max_c_idx + 1 for elt in membership_comm]
-    #
-    #         for pos, idx in enumerate(idxs):
-    #             membership[idx] = to_add_mbshp[pos]
-    #
-    #         max_c_idx += n_comm_split
-    #
-    #     c = dict(Counter(membership))
-    #
-    #     big_comms_ids = [k for k, v in c.iteritems() if v > max_elt]
-    #
-    #     print len(big_comms_ids), 'big communities remaining'

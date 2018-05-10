@@ -1,12 +1,23 @@
 """
-Utterance community creation with original datasets
+Utterance Community Detection (UCD)
 
-input: data/meeting/ami/id.da or id.da-asr
-output: data/community/meeting/ami_[id of parameter in param_grid]/meeting_id_comms.txt
-output: data/community_tagged/meeting/ami_[id of parameter in param_grid]/meeting_id_comms_tagged.txt
+input (automatic or manual meeting transcription):
+data/meeting/ami/ES2004a.da or ES2004a.da-asr
+
+output (utterance communities per meeting):
+data/community/meeting/ami_[UCD parameter id]/ES2004a_comms.txt
+
+output (POS tagged utterance communities per meeting):
+data/community_tagged/meeting/ami_[UCD parameter id]/ES2004a_comms_tagged.txt
+
+output (preprocessed meeting transcription):
+data/utterance/meeting/ami_[UCD parameter id]/ES2004a_utterances.txt
+
+output (grid search csv):
+data/ami_params_create_community.csv'
 """
 import os
-path_to_root = '/data/gshang/openpaas_next_gen/'
+path_to_root = '/data/gshang/acl2018_abssumm/'
 os.chdir(path_to_root)
 import string
 import core_rank
@@ -56,7 +67,7 @@ for id in ids:
                 path = path_to_root + 'data/meeting/' + dataset_id + '/' + id + '.da-asr'
             elif source == 'manual':
                 path = path_to_root + 'data/meeting/' + dataset_id + '/' + id + '.da'
-            # filler_words will be removed during corpus loading
+            # filler words will be removed during corpus loading
             corpus[id] = utils.read_ami_icsi(path, filler_words)
 
 # #############################
@@ -92,10 +103,8 @@ param_grid = {
     # aware    : grouping utterances by awareness such as speaker,
     #            then apply clustering algorithm on each group | none, speaker
     # n_comms  : number of output communities | ami 30, icsi 50, duc2001 8
-    #'algorithm': ['kmeans', 'agglomerative_clustering'],
-    'algorithm': ['kmeans', 'agglomerative_clustering'],
-    # 'aware'    : ['none', 'speaker'],
-    'aware'    : ['none', 'speaker'],
+    'algorithm': ['kmeans'],
+    'aware'    : ['none'],
     'n_comms'  : [20, 25, 30, 35, 40, 45, 50, 55, 60],
 
     # feature         : textual feature type as input of clustering algorithm, row l2 normolized | tfidf, twidf, binary, tf
@@ -110,16 +119,12 @@ param_grid = {
     'ngram_range'     : [(1, 1)],
     # 'extra_features'  : [[], ['length', 'position', 'speaker']],
     'extra_features'  : [[]],
-    # 'lsa'             : [True, False],
     'lsa'             : [True],
     'lsa_n_components': lsa_n_components_grid,
 
     # min_words       : minimum number of non-stopwords allowed per sentence
-    # max_elt(discard): communities that contain more than this number of sentences will be further splitted.
     # min_elt         : communities that contain less than this number of sentences will be filtered out
-    # 'min_words'       : [2, 3],
     'min_words'       : [3],
-    'max_elt'         : [1000],
     'min_elt'         : [1],
 
     # w           : window size for CoreRank during community re-ranking and twidf textual feature construction
@@ -156,7 +161,6 @@ for param in params:
     lsa              = param['lsa']
     lsa_n_components = param['lsa_n_components']
     min_words        = param['min_words']
-    max_elt          = param['max_elt']
     min_elt          = param['min_elt']
     w                = param['w']
     overspanning     = param['overspanning']
@@ -205,7 +209,6 @@ for param in params:
             feature=feature,
             ngram_range=ngram_range,
             extra_features=extra_features,
-            max_elt=max_elt,
             lsa=lsa,
             lsa_n_components=lsa_n_components,
             twidf_window_size=w,
@@ -251,8 +254,6 @@ for param in params:
         # output remain utterances
         if domain == 'meeting':
             path_to_utterance = path_to_root + 'data/utterance/meeting/' + dataset_id + '_' + str(param_id) + '/'
-        elif domain == 'document':
-            path_to_utterance = path_to_root + 'data/utterance/document/' + dataset_id + '_' + str(param_id) + '/'
         if not os.path.exists(path_to_utterance):
             os.makedirs(path_to_utterance)
 
@@ -262,8 +263,6 @@ for param in params:
         # output community
         if domain == 'meeting':
             path_to_community = path_to_root + 'data/community/meeting/' + dataset_id + '_' + str(param_id) + '/'
-        elif domain == 'document':
-            path_to_community = path_to_root + 'data/community/document/' + dataset_id + '_' + str(param_id) + '/'
         if not os.path.exists(path_to_community):
             os.makedirs(path_to_community)
 
@@ -279,8 +278,6 @@ for param in params:
         # output tagged community
         if domain == 'meeting':
             path_to_community_tagged = path_to_root + 'data/community_tagged/meeting/' + dataset_id + '_' + str(param_id) + '/'
-        elif domain == 'document':
-            path_to_community_tagged = path_to_root + 'data/community_tagged/document/' + dataset_id + '_' + str(param_id) + '/'
         if not os.path.exists(path_to_community_tagged):
             os.makedirs(path_to_community_tagged)
 

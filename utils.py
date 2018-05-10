@@ -108,7 +108,7 @@ def load_stopwords(path):
 
 def strip_stopwords(tokenized_tagged_sentence, stopwords):
     """ Strip stopwords
-    Remove stopwords sit at head and tail of a tokenized tagged sentence
+    Consecutive stopwords at head and tail of tagged utterance are stripped
     """
     ib = 0
     ie = 0

@@ -1,16 +1,16 @@
 """
-Random. This system randomly selects elements
-from the full list of utterances/sentences until the
-budget is violated. Since this approach is stochastic,
-ROUGE scores were averaged across 30 runs.
+Random (30 runs)
 
-input: data/community/meeting/ami/id_comms.txt
-output: results/meeting/ami/development/random/id-random<1>-[50].txt
-<1>: 1th run, results of random system is an average over 30 runs
-[50]: summarization word count
+input (preprocessed meeting transcription):
+data/utterance/meeting/ami_[UCD parameter id]/ES2004a_utterances.txt
+
+output (generated summary of varies budgets of nth run):
+results/meeting/ami/development/random/ES2004a-random<1>-[50].txt
+<1>: 1th run
+[50]: word count
 """
 import os
-path_to_root = '/home/gshang/Code/takahe/'
+path_to_root = '/data/gshang/acl2018_abssumm/'
 os.chdir(path_to_root)
 
 import random

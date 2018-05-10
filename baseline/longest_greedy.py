@@ -1,14 +1,15 @@
 """
-Longest greedy. Here, the longest utterance/sentence
-is selected at each step until the size
-constraint is satisfied.
+Longest Greedy
 
-input: data/community/meeting/ami/id_comms.txt
-output: results/meeting/ami/development/longestGreedy/id-longestGreedy-[50].txt
-[50]: summarization word count
+input (preprocessed meeting transcription):
+data/utterance/meeting/ami_[UCD parameter id]/ES2004a_utterances.txt
+
+output (generated summary of varies budgets):
+results/meeting/ami/test/longestGreedy/ES2004a-longestGreedy-[50].txt
+[50]: word count
 """
 import os
-path_to_root = '/home/gshang/Code/takahe/'
+path_to_root = '/data/gshang/acl2018_abssumm/'
 os.chdir(path_to_root)
 
 import string
@@ -22,7 +23,7 @@ language = 'en'
 development_or_test = 'test'  # development / test
 
 if domain == 'meeting':
-    path_to_utterance = path_to_root + 'data/utterance/meeting/' + dataset_id + '_4/'
+    path_to_utterance = path_to_root + 'data/utterance/meeting/' + dataset_id + '_1/'
 
     if dataset_id == 'ami':
         ids = meeting_lists.ami_development_set \

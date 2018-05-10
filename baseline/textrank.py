@@ -1,20 +1,16 @@
 """
-TextRank (Mihalcea and Tarau, 2004). An undirected
-complete graph is built where nodes are utterances/sentences
-and edges are weighted according
-to the normalized content overlap of their endpoints.
-Finally, weighted PageRank is applied and
-the highest ranked nodes are selected for inclusion
-in the summary. We used a publicly available
-Python implementation
+TextRank
 
-input: data/community/meeting/ami/id_comms.txt
-output: results/meeting/ami/development/textrank/id-textrank-[50].txt
-[50]: summarization word count
+input (preprocessed meeting transcription):
+data/utterance/meeting/ami_[UCD parameter id]/ES2004a_utterances.txt
+
+output (generated summary of varies budgets):
+results/meeting/ami/development/textrank/ES2004a-textrank-[50].txt
+[50]: word count
 """
 
 import os
-path_to_root = '/home/gshang/Code/takahe/'
+path_to_root = '/data/gshang/acl2018_abssumm/'
 os.chdir(path_to_root)
 
 from data.meeting import meeting_lists
@@ -30,7 +26,7 @@ language = 'en'
 development_or_test = 'test'  # development / test
 
 if domain == 'meeting':
-    path_to_utterance = path_to_root + 'data/utterance/meeting/' + dataset_id + '_4/'
+    path_to_utterance = path_to_root + 'data/utterance/meeting/' + dataset_id + '_1/'
 
     if dataset_id == 'ami':
         ids = meeting_lists.ami_development_set \

@@ -1,15 +1,15 @@
 """
-Oracle. This last baseline randomly selects utterances from the human extractive
-summaries until the budget has been reached. ROUGE scores over 30 runs to
-account for the randomness of the procedure.
+Oracle (30 runs)
 
-input: data/meeting/ami/id.extsumm
-output: results/meeting/ami/development/random/id-oracle<1>-[50].txt
-<1>: 1th run, results of oracle system is an average over 30 runs
-[50]: summarization word count
+input (preprocessed human-annotated extractive summaries)
+
+output (generated summary of varies budgets):
+results/meeting/ami/development/random/ES2004a-oracle<1>-[50].txt
+<1>: 1th run
+[50]: word count
 """
 import os
-path_to_root = '/home/gshang/Code/takahe/'
+path_to_root = '/data/gshang/acl2018_abssumm/'
 os.chdir(path_to_root)
 
 import random

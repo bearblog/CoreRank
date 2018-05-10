@@ -5,7 +5,6 @@ import nltk
 import pandas as pd
 import operator
 from nltk import PerceptronTagger
-from nltk.tokenize import sent_tokenize
 
 
 def load_stopwords(path):

@@ -1,30 +1,7 @@
 """
-:Name:
-    takahe
-
-:Authors and Date:
-    Florian Boudin (florian.boudin@univ-nantes.fr)    Mar. 2013
-    Guokan Shang, Wensi Ding, Zekun Zhang, Antoine Tixier, Polykarpos Meladianos,
-    Michalis Vazirgiannis and Jean-Pierre Lorré          May. 2018
-
-:Description:
-    takahe is a multi-sentence compression module. Given a set of redundant 
-    sentences, a word-graph is constructed by iteratively adding sentences to 
-    it. The best compression is obtained by finding the shortest path in the
-    word graph. The original algorithm was published and described in
-    [filippova:2010:COLING]_. A keyphrase-based reranking method, described in
-    [boudin-morin:2013:NAACL]_ can be applied to generate more informative 
-    compressions.
-
-    .. [filippova:2010:COLING] Katja Filippova, Multi-Sentence Compression: 
-       Finding Shortest Paths in Word Graphs, *Proceedings of the 23rd 
-       International Conference on Computational Linguistics (Coling 2010)*, 
-       pages 322-330, 2010.
-    .. [boudin-morin:2013:NAACL] Florian Boudin and Emmanuel Morin, Keyphrase 
-       Extraction for N-best Reranking in Multi-Sentence Compression, 
-       *Proceedings of the 2013 Conference of the North American Chapter of the
-       Association for Computational Linguistics: Human Language Technologies 
-       (NAACL-HLT 2013)*, 2013.
+Multi-Sentence Compression Main class
+modified based on the takahe project
+https://github.com/boudinfl/takahe
 """
 
 import re
@@ -1269,20 +1246,6 @@ class word_graph:
     # word-to-add's tagging should be transformed to wordnet's tagging
     #**************************************************************************
     def best_candidate_similarity(self, candidates, node_to_add):
-        """
-        For the first question,
-        the reason that we used the product instead of average is that if one of the two scores is small then the final score will be small too.
-         If one of the two scores is small and the other is big, the average operation will return a score not that small.
-         But in this case, we think that it's better not to try to replace.
-
-        For the second question,
-         you are right that we only use the first 'synset' for each word.
-         As you know, for a word given, there can be many 'synsets' and it's not evident to use which one. Of course,
-          you can choose the pair which gives you the biggest similarity but we are still not sure that we have chosen the right ones
-          in the current context or not. And in addition if we do a loop, we will also be less rapid.
-          With all these considerations, we choose to select the first 'synset' for all the words.
-           But you are free to try some another solutions.
-        """
         # change word_to_add tagging
         word, tag = node_to_add.split(self.sep)
         pos = self.wn_tagging(tag)

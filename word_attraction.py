@@ -25,7 +25,7 @@ def euclidean_distance(w1, w2, wv):
 def word_attraction_force(w1, w2, freq1, freq2, wv):
     '''
     compute the attraction force between two words using word embeddings
-    based on this paper: Wang, R., Liu, W., & McDonald, C. (2014, November). Corpus-independent generic keyphrase extraction using word embedding vectors. In Software Engineering Research Conference (p. 39).
+    based on the paper: Wang, R., Liu, W., & McDonald, C. (2014, November). Corpus-independent generic keyphrase extraction using word embedding vectors. In Software Engineering Research Conference (p. 39).
     ! see slide #7 here for a summary of the important concepts/formulaes: http://www.lix.polytechnique.fr/~anti5662/dascim_group_presentation_paper_review_tixier_10_14_16.pdf
     '''
     d = euclidean_distance(w1, w2, wv)

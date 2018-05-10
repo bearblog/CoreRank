@@ -1,12 +1,19 @@
 """
-Generate results for systems: tixier and its variations tixier[0-6],
-filippova, boudin and mehdad. [16G RAM required]
+Multi-Sentence Compression (MSC) （for test with a sigle combination of parameters）
+Generate results: tixier and its variations tixier[0-6],
+filippova, boudin and mehdad systems. [16G RAM required]
 
-input: data/community_tagged/meeting_[sample_id]/ami/meeting_id_comms_tagged.txt
-output: results/meeting/ami/development/tixier/[id of parameter in param_grid]/meeting_id_tixier.txt
+input (POS tagged utterance communities per meeting):
+data/community_tagged/meeting/ami_[UCD parameter id]/ES2004a_comms_tagged.txt
+
+output (full summary):
+results/meeting/ami/test/tixier/[MSC parameter id]/ES2004a_tixier.txt
+
+output (grid search csv):
+results/tixier_params_MSC_development.csv
 """
 import os
-path_to_root = '/data/gshang/openpaas_next_gen/'
+path_to_root = '/data/gshang/acl2018_abssumm/'
 os.chdir(path_to_root)
 import time
 import string
@@ -23,7 +30,7 @@ from sklearn.model_selection import ParameterGrid
 domain = 'meeting'  # meeting
 dataset_id = 'ami'  # ami, icsi
 language = 'en'     # en, fr
-development_or_test = 'development'  # development / test
+development_or_test = 'test'  # development / test
 
 # #########################
 # ### RESOURCES LOADING ###
@@ -119,7 +126,7 @@ for system_name in system_name_list:
 # data/community_tagged/meeting/ami_1/
 # data/community_tagged/meeting/ami_2/
 # etc.
-corpus_id_range = range(0, 36)
+corpus_id_range = range(0, 9)
 
 for corpus_id in corpus_id_range:
     start = time.time()
@@ -161,6 +168,30 @@ for corpus_id in corpus_id_range:
         for param in system_params_dict[system_name]:
             param_id = param['index']
             # print "\tparam_id:", param_id
+
+            # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+            # only run on best parameter found in UCD and MSC steps
+            if system_name == 'filippova':
+                if corpus_id == 0 and param_id == 3:
+                    pass
+                else:
+                    continue
+            elif system_name == 'boudin':
+                if corpus_id == 6 and param_id == 0:
+                    pass
+                else:
+                    continue
+            elif system_name == 'mehdad':
+                if corpus_id == 0 and param_id == 0:
+                    pass
+                else:
+                    continue
+            elif system_name == 'tixier':
+                if corpus_id == 6 and param_id == 6:
+                    pass
+                else:
+                    continue
+            # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
             remove_stopwords     = param['remove_stopwords']
             pos_filtering        = param['pos_filtering']

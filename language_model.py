@@ -8,7 +8,7 @@ class LanguageModel:
         """
         download a pre-trained language model from here: https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/US%20English/
         you want to look at the files with .lm extension (standard ARPA format)
-        I downloaded 'en-70k-0.2.lm.gz', but it takes about 6GB of RAM once loaded
+        'en-70k-0.2.lm.gz' takes about 6GB of RAM once loaded
         if you don't have enough memory you can try with the pruned version ('en-70k-0.2-pruned.lm.gz') but performance will be slightly inferior
 
         mode='simple' is faster but loads everything into memory
