@@ -1,5 +1,3 @@
-# Ignore everything in this directory
-*
-# Except this file
-!.gitignore
-!stopwords
+en-70k-0.2.lm
+GoogleNews-vectors-negative300.bin.gz
+word2vec_keys.txt
