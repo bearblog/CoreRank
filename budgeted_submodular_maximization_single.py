@@ -243,26 +243,34 @@ for corpus_id in corpus_id_range:
             # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             # only run on best parameter found in UCD, MSC, BSM steps
             if system_name == 'filippova':
-                if corpus_id == 0 and MSC_param_id == 3:
-                    submodularity_params_single = [submodularity_params[37]]
+                if corpus_id == 6 and MSC_param_id == 3: # ami
+                # if corpus_id == 5 and param_id == 4: # icsi
+                    submodularity_params_single = [submodularity_params[68]] # ami
+                    # submodularity_params_single = [submodularity_params[21]] # icsi
                     pass
                 else:
                     continue
             elif system_name == 'boudin':
-                if corpus_id == 6 and MSC_param_id == 0:
-                    submodularity_params_single = [submodularity_params[220]]
+                if corpus_id == 6 and MSC_param_id == 2: # ami
+                # if corpus_id == 5 and param_id == 3: # icsi
+                    submodularity_params_single = [submodularity_params[51]] # ami
+                    # submodularity_params_single = [submodularity_params[67]] # icsi
                     pass
                 else:
                     continue
             elif system_name == 'mehdad':
-                if corpus_id == 0 and MSC_param_id == 0:
-                    submodularity_params_single = [submodularity_params[37]]
+                if corpus_id == 3 and MSC_param_id == 0: # ami
+                # if corpus_id == 6 and param_id == 2: # icsi
+                    submodularity_params_single = [submodularity_params[94]] # ami
+                    # submodularity_params_single = [submodularity_params[45]] # icsi
                     pass
                 else:
                     continue
             elif system_name == 'tixier':
-                if corpus_id == 6 and MSC_param_id == 6:
-                    submodularity_params_single = [submodularity_params[121]]
+                if corpus_id == 6 and MSC_param_id == 13: # ami
+                # if corpus_id == 4 and param_id == 16: # icsi
+                    submodularity_params_single = [submodularity_params[152]] # ami
+                    # submodularity_params_single = [submodularity_params[0]] # icsi
                     pass
                 else:
                     continue

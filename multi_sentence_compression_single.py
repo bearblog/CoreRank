@@ -172,22 +172,26 @@ for corpus_id in corpus_id_range:
             # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             # only run on best parameter found in UCD and MSC steps
             if system_name == 'filippova':
-                if corpus_id == 0 and param_id == 3:
+                if corpus_id == 6 and param_id == 3: # ami
+                # if corpus_id == 5 and param_id == 4: # icsi
                     pass
                 else:
                     continue
             elif system_name == 'boudin':
-                if corpus_id == 6 and param_id == 0:
+                if corpus_id == 6 and param_id == 2: # ami
+                # if corpus_id == 5 and param_id == 3: # icsi
                     pass
                 else:
                     continue
             elif system_name == 'mehdad':
-                if corpus_id == 0 and param_id == 0:
+                if corpus_id == 3 and param_id == 0: # ami
+                # if corpus_id == 6 and param_id == 2: # icsi
                     pass
                 else:
                     continue
             elif system_name == 'tixier':
-                if corpus_id == 6 and param_id == 6:
+                if corpus_id == 6 and param_id == 13: # ami
+                # if corpus_id == 4 and param_id == 16: # icsi
                     pass
                 else:
                     continue

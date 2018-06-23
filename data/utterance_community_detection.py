@@ -2,7 +2,7 @@
 Utterance Community Detection (UCD)
 
 input (automatic or manual meeting transcription):
-data/meeting/ami/ES2004a.da or ES2004a.da-asr
+data/meeting/ami/ES2004a.da-asr or ES2004a.da
 
 output (utterance communities per meeting):
 data/community/meeting/ami_[UCD parameter id]/ES2004a_comms.txt
@@ -102,7 +102,7 @@ param_grid = {
     # algorithm: clustering algorithm | kmeans, agglomerative_clustering
     # aware    : grouping utterances by awareness such as speaker,
     #            then apply clustering algorithm on each group | none, speaker
-    # n_comms  : number of output communities | ami 30, icsi 50, duc2001 8
+    # n_comms  : number of output communities
     'algorithm': ['kmeans'],
     'aware'    : ['none'],
     'n_comms'  : [20, 25, 30, 35, 40, 45, 50, 55, 60],
@@ -196,7 +196,7 @@ for param in params:
             else:
                 # print "drop:", utt
                 pass
-        print len(utterances_processed), 'utterances remain'
+        print len(utterances_processed), 'utterances'
 
         # ############################
         # ### UTTERANCE CLUSTERING ###
